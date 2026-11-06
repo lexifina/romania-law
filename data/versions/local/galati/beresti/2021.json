@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/galati/beresti/2021",
+ "acts": [
+  {
+   "slug": "hcl-galati--beresti-1-2021",
+   "path": "local/galati/beresti/2021/1",
+   "short": "HCL Berești nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 1/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-06",
+     "units": 1,
+     "source_url": null,
+     "sha256": "14b1233d37defd6c0ad1b4e016832c7a8aacc6a6035e096214c621314784c226"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-2-2021",
+   "path": "local/galati/beresti/2021/2",
+   "short": "HCL Berești nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 2/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-06",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5529a287b3a709f8fbe5d15b3a25ff248c078fefa7b251b9863d7dc133474dd9"
+    }
+   ]
+  }
+ ]
+}

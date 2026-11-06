@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-dolj--pielesti-162-2025",
+"path": "local/dolj/pielesti/2025/162",
+"kind": "local",
+"year": "2025",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 162/2025 privind ,, Acordarea unui sprijin financiar numitului Bancioiu Stelian,,",
+"short": "HCL Pielești nr. 162/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/237670",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--pielesti-163-2025",
 "path": "local/dolj/pielesti/2025/163",
 "kind": "local",
@@ -110,6 +132,28 @@
 "council_name": "Consiliul Local al Comunei Pielești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-164-2025",
+"path": "local/dolj/pielesti/2025/164",
+"kind": "local",
+"year": "2025",
+"number": "164",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 164/2025 privind ,, Mandatarea reprezentantului UAT Comuna Pielești pentru aprobarea și votarea ordinei de zi a Adunării generale a Asociației de Dezvoltare Intercomunitară,, Asociația Metropolitantă de Transport Public Craiova,, cu privire la actualizarea și aprobarea Planului de Mobilitate Urbană Durabilă,,",
+"short": "HCL Pielești nr. 164/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/241613",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-dolj--pielesti-167-2025",
+"path": "local/dolj/pielesti/2025/167",
+"kind": "local",
+"year": "2025",
+"number": "167",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 167/2025 privind ,,Desemnarea membrilor Consiliului Local Pielești în cadrul comisiei de evaluare anuală a Secretarului General al UAT Comuna Pielești,,",
+"short": "HCL Pielești nr. 167/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-16",
+"latest": "2026-01-16",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/243885",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--pielesti-168-2025",
 "path": "local/dolj/pielesti/2025/168",
 "kind": "local",
@@ -198,6 +264,29 @@
 "council_name": "Consiliul Local al Comunei Pielești",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-170-2025",
+"path": "local/dolj/pielesti/2025/170",
+"kind": "local",
+"year": "2025",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 170/2025",
+"short": "HCL Pielești nr. 170/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-16",
+"latest": "2026-01-16",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/243888",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

@@ -25,6 +25,50 @@
 }
 },
 {
+"slug": "hcl-galati--balabanesti-84-2020",
+"path": "local/galati/balabanesti/2020/84",
+"kind": "local",
+"year": "2020",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 84/2020 privind desemnarea reprezentantului unității administrativ teritoriale comuna Bălăbănești în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”Serviciul Regional Apa Galați” și acordarea unui mandat special",
+"short": "HCL Bălăbănești nr. 84/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-16",
+"latest": "2020-11-16",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/18683",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--balabanesti-85-2020",
+"path": "local/galati/balabanesti/2020/85",
+"kind": "local",
+"year": "2020",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 85/2020 privind desemnarea reprezentanului comunei Bălăbănești în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ECOSERV Galați",
+"short": "HCL Bălăbănești nr. 85/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-16",
+"latest": "2020-11-16",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/18684",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--balabanesti-86-2020",
 "path": "local/galati/balabanesti/2020/86",
 "kind": "local",
@@ -177,6 +221,29 @@
 "council_name": "Consiliul Local al Comunei Bălăbănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--balabanesti-93-2020",
+"path": "local/galati/balabanesti/2020/93",
+"kind": "local",
+"year": "2020",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 93/2020",
+"short": "HCL Bălăbănești nr. 93/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-09",
+"latest": "2020-12-09",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/18692",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

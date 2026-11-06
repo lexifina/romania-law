@@ -25,6 +25,73 @@
 }
 },
 {
+"slug": "hcl-dolj--plenita-36-2021",
+"path": "local/dolj/plenita/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 36/2021 privind înființarea Centrului Social Multifuncțional din comuna Plenița, precum şi aprobarea Statutului si Metodologiei de functionare a acestuia",
+"short": "HCL Plenița nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-22",
+"latest": "2021-09-22",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/39329",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--plenita-37-2021",
+"path": "local/dolj/plenita/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 37/2021",
+"short": "HCL Plenița nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-22",
+"latest": "2021-09-22",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/39330",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--plenita-38-2021",
+"path": "local/dolj/plenita/2021/38",
+"kind": "local",
+"year": "2021",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 38/2021 privind desemnarea presedintelui de sedinta",
+"short": "HCL Plenița nr. 38/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-12",
+"latest": "2021-10-12",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/39353",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--plenita-39-2021",
 "path": "local/dolj/plenita/2021/39",
 "kind": "local",
@@ -44,6 +111,29 @@
 "council_name": "Consiliul Local al Comunei Plenița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--plenita-40-2021",
+"path": "local/dolj/plenita/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 40/2021",
+"short": "HCL Plenița nr. 40/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-12",
+"latest": "2021-10-12",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/39355",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -91,6 +181,116 @@
 }
 },
 {
+"slug": "hcl-dolj--plenita-43-2021",
+"path": "local/dolj/plenita/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 43/2021 privind rectificarea bugetului local pe anul 2021",
+"short": "HCL Plenița nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-01",
+"latest": "2022-09-01",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/69990",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--plenita-44-2021",
+"path": "local/dolj/plenita/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 44/2021 privind aprobarea impozitelor si taxelor locale pe anul 2022",
+"short": "HCL Plenița nr. 44/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-01",
+"latest": "2022-09-01",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/69991",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--plenita-45-2021",
+"path": "local/dolj/plenita/2021/45",
+"kind": "local",
+"year": "2021",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 45/2021 privind aderarea Comunei Plenita la Asociatia de Dezvoltare Intercomunitara Audit – Mh si insusirea prevederilor statutului acesteia",
+"short": "HCL Plenița nr. 45/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-01",
+"latest": "2022-09-01",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/69992",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--plenita-46-2021",
+"path": "local/dolj/plenita/2021/46",
+"kind": "local",
+"year": "2021",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 46/2021 privind infiintarea Serviciului de Iluminat Public Plenita si aprobarea modalității de gestiune",
+"short": "HCL Plenița nr. 46/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-01",
+"latest": "2022-09-01",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/69993",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--plenita-47-2021",
+"path": "local/dolj/plenita/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 47/2021 privind modificarea art.1 si 2 din HCL Plenita nr. 37 din 22.09.2021 de modificare a HCL Plenita nr. 33 din 03.12.2020 privind aprobarea indicatorilor tehnico-economici ai proiectului „La scoala in siguranta”, în scopul depunerii acestuia spre finanțare în cadrul Programului Operațional Infrastructură Mare (POIM) 2014 - 2020",
+"short": "HCL Plenița nr. 47/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-01",
+"latest": "2022-09-01",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/69994",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--plenita-48-2021",
 "path": "local/dolj/plenita/2021/48",
 "kind": "local",
@@ -111,6 +311,138 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--plenita-49-2021",
+"path": "local/dolj/plenita/2021/49",
+"kind": "local",
+"year": "2021",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 49/2021 privind aprobarea numarului de burse si a cuantumului unei burse pentru elevii din invatamantul preuniversitar de stat de pe raza u.a.t. Plenita",
+"short": "HCL Plenița nr. 49/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-01",
+"latest": "2022-09-01",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/69996",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--plenita-50-2021",
+"path": "local/dolj/plenita/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 50/2021 privind rectificarea bugetului local pe anul 2021",
+"short": "HCL Plenița nr. 50/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-01",
+"latest": "2022-09-01",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/69999",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--plenita-51-2021",
+"path": "local/dolj/plenita/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 51/2021 privind organizarea pomului de Craciun",
+"short": "HCL Plenița nr. 51/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-01",
+"latest": "2022-09-01",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/70000",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--plenita-52-2021",
+"path": "local/dolj/plenita/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 52/2021 privind procedura de organizare si derulare a Programului pentru scoli al Romaniei pentru anii scolari 2022 – 2023 si 2023 – 2024",
+"short": "HCL Plenița nr. 52/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-01",
+"latest": "2022-09-01",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/70001",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--plenita-53-2021",
+"path": "local/dolj/plenita/2021/53",
+"kind": "local",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 53/2021 privind rectificarea bugetului local pe anul 2021",
+"short": "HCL Plenița nr. 53/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-01",
+"latest": "2022-09-01",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/70002",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--plenita-54-2021",
+"path": "local/dolj/plenita/2021/54",
+"kind": "local",
+"year": "2021",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 54/2021 privind rectificarea bugetului local pe anul 2021",
+"short": "HCL Plenița nr. 54/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-01",
+"latest": "2022-09-01",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/70010",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

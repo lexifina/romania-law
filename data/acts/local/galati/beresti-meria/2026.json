@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-galati--beresti-meria-42-2026",
+"path": "local/galati/beresti-meria/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 42/2026 privind modificarea și completarea Hotărârii Consiliului Local nr. 20 din 07.04.2026 privind reorganizarea Aparatului de specialitate al Primarului comunei Berești-Meria, județul Galați",
+"short": "HCL Berești-Meria nr. 42/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/280541",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--beresti-meria-43-2026",
 "path": "local/galati/beresti-meria/2026/43",
 "kind": "local",
@@ -176,6 +198,72 @@
 "council_name": "Consiliul Local al Comunei Berești-Meria",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--beresti-meria-50-2026",
+"path": "local/galati/beresti-meria/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 50/2026 privind modificarea și completarea Hotărârii Consiliului Local nr. 49 din 28.09.2023 privind vânzarea directă a terenului proprietate privată a Comunei Berești-Meria, înscris în Cartea Funciară nr. 100259, nr. cad. 100259",
+"short": "HCL Berești-Meria nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/289119",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--beresti-meria-51-2026",
+"path": "local/galati/beresti-meria/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 51/2026 privind desemnarea reprezentantului Consiliului Local al comunei Berești-Meria în Consiliul de Administrație al Școlii Gimnaziale nr.1 sat Slivna, pentru anul școlar 2026-2027",
+"short": "HCL Berești-Meria nr. 51/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/289120",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--beresti-meria-52-2026",
+"path": "local/galati/beresti-meria/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 52/2026 privind desemnarea reprezentanților Consiliului Local al comunei Berești-Meria în comisia de evaluare a probei de interviu la concursul pentru ocupare funcției de director al Școlii Gimnaziale nr. 1 sat Slivna, județul Galați, sesiunea august - decembrie 2026",
+"short": "HCL Berești-Meria nr. 52/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/289121",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

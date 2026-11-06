@@ -3,6 +3,51 @@
  "shard": "local/giurgiu/varasti/2023",
  "acts": [
   {
+   "slug": "hcl-giurgiu--varasti-78-2023",
+   "path": "local/giurgiu/varasti/2023/78",
+   "short": "HCL Vărăști nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 78/2023 privind actualizarea indicatorilor tehnico-economici pentru proiectul „EFICIENTIZARE ENERGETICĂ GRĂDINIȚĂ COMUNA VĂRĂȘTI, JUDEȚUL GIURGIU”",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/144721",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/144721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-79-2023",
+   "path": "local/giurgiu/varasti/2023/79",
+   "short": "HCL Vărăști nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 79/2023 privind aprobarea Planului de măsuri și acțiune al CLSU Vărăști pentru combaterea efectelor negative ale situațiilor de urgență specifice sezonului 2023-2024",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/144722",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/144722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-80-2023",
+   "path": "local/giurgiu/varasti/2023/80",
+   "short": "HCL Vărăști nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 80/2023 privind darea în folosință gratuită a unui imobil teren ăn suprafață de 10.000 mp aflat în domeniul privat al comunei Vărăști, județul Giurgiu",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/144723",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/144723",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--varasti-81-2023",
    "path": "local/giurgiu/varasti/2023/81",
    "short": "HCL Vărăști nr. 81/2023",
@@ -13,6 +58,96 @@
      "from": "2023-11-14",
      "units": 1,
      "source_url": "https://emol.ro/varasti-gr/registru-hcl/144737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-82-2023",
+   "path": "local/giurgiu/varasti/2023/82",
+   "short": "HCL Vărăști nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 82/2023 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Vărăști, județul Giurgiu, începând cu luna noiembrie 2023",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/144738",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/144738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-83-2023",
+   "path": "local/giurgiu/varasti/2023/83",
+   "short": "HCL Vărăști nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 83/2023 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Vărăști, județul Giurgiu, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/144739",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/144739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-84-2023",
+   "path": "local/giurgiu/varasti/2023/84",
+   "short": "HCL Vărăști nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 84/2023 privind validarea dispoziției primarului nr. 401 din 05.12.2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/144758",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/144758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-85-2023",
+   "path": "local/giurgiu/varasti/2023/85",
+   "short": "HCL Vărăști nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 85/2023 privind aprobarea strategiei de dezvoltare locală a comunei Vărăști, județul Giurgiu 2021-2027",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/144759",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/144759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-86-2023",
+   "path": "local/giurgiu/varasti/2023/86",
+   "short": "HCL Vărăști nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 86/2023 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Vărăști, județul Giurgiu în conformitate cu prevederile Legii nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/144760",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/144760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-87-2023",
+   "path": "local/giurgiu/varasti/2023/87",
+   "short": "HCL Vărăști nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 87/2023 privind aprobarea închieierii unui teren extravilan, categoria de folosință arabil, cu destinația de islaz, aflat în proprietatea privată a comunei Vărăști, județul Giurgiu",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/144761",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/144761",
      "sha256": null
     }
    ]
@@ -43,6 +178,126 @@
      "from": "2023-12-20",
      "units": 1,
      "source_url": "https://emol.ro/varasti-gr/registru-hcl/144765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-90-2023",
+   "path": "local/giurgiu/varasti/2023/90",
+   "short": "HCL Vărăști nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 90/2023 privind acordarea unui mandat special Asociației de Dezvoltare Intercomunitară „Sănătate Asigurată prin Apă Curată” pentru exercitarea atribuțiilor cu privire la încheierea Actului adițional nr. 1 la Contractul de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare, pentru stabilirea nivelului și plății redevenței pentru perioada 2024-2027",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/144766",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/144766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-91-2023",
+   "path": "local/giurgiu/varasti/2023/91",
+   "short": "HCL Vărăști nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 91/2023 privind aprobarea procentului de 38% al pierderilor pe întreaga arie de operare a Operatorului Regional Apa Service SA, justificat de starea tehnică a sistemelor de apă și de canalizare, conform documentației Balanței apei elaborată de OR Apa Service SA",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/144767",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/144767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-92-2023",
+   "path": "local/giurgiu/varasti/2023/92",
+   "short": "HCL Vărăști nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 92/2023 privind aprobarea Planului de măsuri de reducere a pierderilor de apă al Operatorului Regional Apa Service SA",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/144768",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/144768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-93-2023",
+   "path": "local/giurgiu/varasti/2023/93",
+   "short": "HCL Vărăști nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 93/2023 privind aprobarea actului adițional nr. 1/2023 la contractul de delegare a serviciului de salubrizare nr. ctr. 2976 din data de 11.08.2023",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/144769",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/144769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-94-2023",
+   "path": "local/giurgiu/varasti/2023/94",
+   "short": "HCL Vărăști nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 94/2023 privind actualizarea valorilor de inventar a bunurilor care aparțin domeniului public și privat al comunei Vărăști, județul Giurgiu ca urmare a reevaluării",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/144770",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/144770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-95-2023",
+   "path": "local/giurgiu/varasti/2023/95",
+   "short": "HCL Vărăști nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 95/2023 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de pe raza comunei Vărăști, județul Giurgiu",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/144773",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/144773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-96-2023",
+   "path": "local/giurgiu/varasti/2023/96",
+   "short": "HCL Vărăști nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 96/2023 privind aprobarea închirierii unui spațiu aflat în domeniul public al Comunei Vărăști, județul Giurgiu cu destinația de cabinet de medicină de familie",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/144774",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/144774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-97-2023",
+   "path": "local/giurgiu/varasti/2023/97",
+   "short": "HCL Vărăști nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 97/2023 privind majorarea taxei de salubrizare pentru utilizatorii casnici din comuna Vărăști, județul Giurgiu, beneficiari ai serviciului de salubrizare",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/144775",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/144775",
      "sha256": null
     }
    ]

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/galati/vladesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-galati--vladesti-102-2024",
+   "path": "local/galati/vladesti/2024/102",
+   "short": "HCL Vlădești nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădești nr. 102/2024 privind solutionarea plangerii nr. 102 din 08.06.2024",
+   "url": "https://primaria-vladesti.ro/wp-content/uploads/2024/06/Hotararea-nr.-17-privind-solutionarea-plangerii-nr.-102-din-08.06.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-06-08",
+     "units": 1,
+     "source_url": "https://primaria-vladesti.ro/wp-content/uploads/2024/06/Hotararea-nr.-17-privind-solutionarea-plangerii-nr.-102-din-08.06.2024.pdf",
+     "sha256": "45b60db64eb8c8617e01a34682f9ea5a129b811f91cae361d6dfa3575dd509f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--vladesti-15-2024",
+   "path": "local/galati/vladesti/2024/15",
+   "short": "HCL Vlădești nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădești nr. 15/2024 PRIVIND SOLUTIONAREA PLANGERII CU NR 72 DIN 21 MAI 2024_000242",
+   "url": "https://primaria-vladesti.ro/wp-content/uploads/2024/06/HOTARAREA-NR-15-DIN-3-IUNIE-2024-PRIVIND-SOLUTIONAREA-PLANGERII-CU-NR-72-DIN-21-MAI-2024_000242.pdf",
+   "versions": [
+    {
+     "from": "2024-06-03",
+     "units": 1,
+     "source_url": "https://primaria-vladesti.ro/wp-content/uploads/2024/06/HOTARAREA-NR-15-DIN-3-IUNIE-2024-PRIVIND-SOLUTIONAREA-PLANGERII-CU-NR-72-DIN-21-MAI-2024_000242.pdf",
+     "sha256": "71a362f068e9f61cf8fbb91199ba1746517d52f8eac3fcc037f8e51ddbd19bdf"
+    }
+   ]
+  }
+ ]
+}

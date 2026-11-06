@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/bolintin-vale/2018",
+"acts": [
+{
+"slug": "hcl-giurgiu--bolintin-vale-42-2018",
+"path": "local/giurgiu/bolintin-vale/2018/42",
+"kind": "local",
+"year": "2018",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 42/2018",
+"short": "HCL Bolintin-Vale nr. 42/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-04-25",
+"latest": "2018-04-25",
+"portal": "https://www.bolintin-vale.ro/monitorul-oficial-local/documente-si-informatii-financiare/",
+"council": "giurgiu/bolintin-vale",
+"council_name": "Consiliul Local al Orașului Bolintin-Vale",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--bolintin-vale-70-2018",
+"path": "local/giurgiu/bolintin-vale/2018/70",
+"kind": "local",
+"year": "2018",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 70/2018",
+"short": "HCL Bolintin-Vale nr. 70/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-07-30",
+"latest": "2018-07-30",
+"portal": "https://www.bolintin-vale.ro/monitorul-oficial-local/documente-si-informatii-financiare/",
+"council": "giurgiu/bolintin-vale",
+"council_name": "Consiliul Local al Orașului Bolintin-Vale",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--bolintin-vale-120-2018",
+"path": "local/giurgiu/bolintin-vale/2018/120",
+"kind": "local",
+"year": "2018",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 120/2018",
+"short": "HCL Bolintin-Vale nr. 120/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-11-29",
+"latest": "2018-11-29",
+"portal": "https://www.bolintin-vale.ro/monitorul-oficial-local/documente-si-informatii-financiare/",
+"council": "giurgiu/bolintin-vale",
+"council_name": "Consiliul Local al Orașului Bolintin-Vale",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -241,6 +241,66 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-83-2025",
+   "path": "local/galati/ivesti/2025/83",
+   "short": "HCL Ivești nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 83/2025 privind aprobarea vânzării prin licitație publică a terenului în suprafață de 905 mp., aparținând domeniului privat al comunei Ivești, județul Galați, situat în intravilan, Cv 86, P 51, lot 1",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/252782",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/252782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-84-2025",
+   "path": "local/galati/ivesti/2025/84",
+   "short": "HCL Ivești nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 84/2025 privind aprobarea vânzării prin licitație publică a terenului în suprafață de 969 mp., aparținând domeniului privat al comunei Ivești, județul Galați, situat în intravilan, Cv 86, P 51, lot 2",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/252783",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/252783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-85-2025",
+   "path": "local/galati/ivesti/2025/85",
+   "short": "HCL Ivești nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 85/2025 privind aprobarea vânzării prin licitație publică a terenului în suprafață de 2.879 mp, aparținând domeniului privat al comunei Ivești, județul Galați, situat în intravilan, Cv 9, P 9, lot 2",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/252784",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/252784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-86-2025",
+   "path": "local/galati/ivesti/2025/86",
+   "short": "HCL Ivești nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 86/2025 privind aprobarea vânzării prin negociere directă a terenului în suprafață de 608 mp., aparținând domeniului privat al comunei Ivești, județul Galați, situat în intravilan, T 89, P 1, lot 2",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/252785",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/252785",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

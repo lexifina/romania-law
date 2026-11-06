@@ -47,6 +47,29 @@
 }
 },
 {
+"slug": "hcl-dolj--pielesti-132-2024",
+"path": "local/dolj/pielesti/2024/132",
+"kind": "local",
+"year": "2024",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 132/2024",
+"short": "HCL Pielești nr. 132/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/180336",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dolj--pielesti-133-2024",
 "path": "local/dolj/pielesti/2024/133",
 "kind": "local",
@@ -66,6 +89,28 @@
 "council_name": "Consiliul Local al Comunei Pielești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-134-2024",
+"path": "local/dolj/pielesti/2024/134",
+"kind": "local",
+"year": "2024",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 134/2024 privind ,, Înființarea unui număr de 4 spații pentru preluarea gratuită a deșeurilor generate de populație, pe raza Comunei Pielești,,",
+"short": "HCL Pielești nr. 134/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-13",
+"latest": "2024-12-13",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/180888",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -110,6 +155,28 @@
 "council_name": "Consiliul Local al Comunei Pielești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-137-2024",
+"path": "local/dolj/pielesti/2024/137",
+"kind": "local",
+"year": "2024",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 137/2024 privind ,, Decontarea cheltuielilor cu naveta a cadrelor didactice și auxiliar didactice ale Școlii Gimnaziale Pielești pentru luna noiembrie 2024,,",
+"short": "HCL Pielești nr. 137/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-03",
+"latest": "2025-01-03",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/183832",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -177,6 +244,96 @@
 "council_name": "Consiliul Local al Comunei Pielești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-141-2024",
+"path": "local/dolj/pielesti/2024/141",
+"kind": "local",
+"year": "2024",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 141/2024 privind ,, Desemnarea unui reprezentant în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară,, Asociația Metropolitană de Transport Public Craiova,,",
+"short": "HCL Pielești nr. 141/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-03",
+"latest": "2025-01-03",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/183836",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-142-2024",
+"path": "local/dolj/pielesti/2024/142",
+"kind": "local",
+"year": "2024",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 142/2024",
+"short": "HCL Pielești nr. 142/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-03",
+"latest": "2025-01-03",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/183837",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-143-2024",
+"path": "local/dolj/pielesti/2024/143",
+"kind": "local",
+"year": "2024",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 143/2024",
+"short": "HCL Pielești nr. 143/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-03",
+"latest": "2025-01-03",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/183838",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-144-2024",
+"path": "local/dolj/pielesti/2024/144",
+"kind": "local",
+"year": "2024",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 144/2024 privind ,, Aprobarea prelungirii perioadei de valabilitate a contractului de închiriere nr 307/15.01.2014 intervenit între Comuna Pielești prin primar și d-ul Pătru Tibi,,",
+"short": "HCL Pielești nr. 144/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-03",
+"latest": "2025-01-03",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/183839",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -228,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--scoarta-118-2023",
+   "path": "local/gorj/scoarta/2023/118",
+   "short": "HCL Scoarța nr. 118/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 118/2023",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/139713",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/139713",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--scoarta-119-2023",
    "path": "local/gorj/scoarta/2023/119",
    "short": "HCL Scoarța nr. 119/2023",

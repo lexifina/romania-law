@@ -1,0 +1,272 @@
+{
+"country": "RO",
+"shard": "local/dolj/sadova/2020",
+"acts": [
+{
+"slug": "hcl-dolj--sadova-55-2020",
+"path": "local/dolj/sadova/2020/55",
+"kind": "local",
+"year": "2020",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 55/2020 privind stabilirea comisiilor de specialitate și componența acestora",
+"short": "HCL Sadova nr. 55/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-13",
+"latest": "2020-11-13",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46169",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-56-2020",
+"path": "local/dolj/sadova/2020/56",
+"kind": "local",
+"year": "2020",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 56/2020",
+"short": "HCL Sadova nr. 56/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46179",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--sadova-57-2020",
+"path": "local/dolj/sadova/2020/57",
+"kind": "local",
+"year": "2020",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 57/2020 privind aprobarea Regulamentului de Organizare și Funcționare al Consiliului Local al Comunei Sadova",
+"short": "HCL Sadova nr. 57/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46180",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-58-2020",
+"path": "local/dolj/sadova/2020/58",
+"kind": "local",
+"year": "2020",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 58/2020 privind aprobarea rectificării BVC anul 2020 trim.IV cu suma de 12 mii lei",
+"short": "HCL Sadova nr. 58/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46193",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-59-2020",
+"path": "local/dolj/sadova/2020/59",
+"kind": "local",
+"year": "2020",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 59/2020 privind aprobarea modificării PAAP 2020, prin completare cu noi produse, servicii și lucrări",
+"short": "HCL Sadova nr. 59/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46194",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-60-2020",
+"path": "local/dolj/sadova/2020/60",
+"kind": "local",
+"year": "2020",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 60/2020 privind desemnarea a doi reprezentanți ai Consiliului Local al Comunei Sadova care să facă parte din Consiliul de Administrație al Școlii Gimnaziale Sadova pentru anul școlar 2020-2021",
+"short": "HCL Sadova nr. 60/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46195",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-61-2020",
+"path": "local/dolj/sadova/2020/61",
+"kind": "local",
+"year": "2020",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 61/2020 privind menținerea pentru anul școlar 2021-2022 la nivelul UAT Comuna Sadova a actualei rețele școlare",
+"short": "HCL Sadova nr. 61/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46196",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-62-2020",
+"path": "local/dolj/sadova/2020/62",
+"kind": "local",
+"year": "2020",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 62/2020 privind încetarea prevederilor HCL Sadova nr.54/2020",
+"short": "HCL Sadova nr. 62/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46197",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-63-2020",
+"path": "local/dolj/sadova/2020/63",
+"kind": "local",
+"year": "2020",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 63/2020 privind aprobarea taxelor și impozitelor locale, precum și limitele amenzilor care se fac venit la bugetul local, aplicabile în anul fiscal 2021",
+"short": "HCL Sadova nr. 63/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46198",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-64-2020",
+"path": "local/dolj/sadova/2020/64",
+"kind": "local",
+"year": "2020",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 64/2020 privind aprobarea rectificării BVC Sadova trim.IV cu suma de 302 mii lei",
+"short": "HCL Sadova nr. 64/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46199",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-65-2020",
+"path": "local/dolj/sadova/2020/65",
+"kind": "local",
+"year": "2020",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 65/2020 privind prelungirea contractului de închiriere a spațiului în care funcționează CEC Bank",
+"short": "HCL Sadova nr. 65/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46200",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-66-2020",
+"path": "local/dolj/sadova/2020/66",
+"kind": "local",
+"year": "2020",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 66/2020",
+"short": "HCL Sadova nr. 66/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46201",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

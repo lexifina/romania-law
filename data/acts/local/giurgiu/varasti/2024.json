@@ -25,6 +25,50 @@
 }
 },
 {
+"slug": "hcl-giurgiu--varasti-62-2024",
+"path": "local/giurgiu/varasti/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 62/2024 privind înlocuirea unui membru din Consiliul de administrație al „Clubului Sportiv Giganții Vărăști 2022”",
+"short": "HCL Vărăști nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/202184",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-63-2024",
+"path": "local/giurgiu/varasti/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 63/2024 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții „Modernizare străzi de interes local în comuna Vărăști, județul Giurgiu”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+"short": "HCL Vărăști nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/202185",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--varasti-64-2024",
 "path": "local/giurgiu/varasti/2024/64",
 "kind": "local",
@@ -44,6 +88,117 @@
 "council_name": "Consiliul Local al Comunei Vărăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-65-2024",
+"path": "local/giurgiu/varasti/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 65/2024 privind desemnarea reprezentanților consiliului local în consiliul de administrație aș Școlii Gimnaziale nr.1 Vărăști",
+"short": "HCL Vărăști nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/202187",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-66-2024",
+"path": "local/giurgiu/varasti/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 66/2024 privind desemnarea reprezentantului Consiliului local Vărăști în Comisia pentru evaluarea și asigurarea calității, a Școlii Gimnaziale nr.1 Vărăști",
+"short": "HCL Vărăști nr. 66/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/202188",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-67-2024",
+"path": "local/giurgiu/varasti/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 67/2024 privind alegerea președintelui de ședință pentru perioada decembrie 2024, ianuarie și februarie 2025",
+"short": "HCL Vărăști nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/202189",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-68-2024",
+"path": "local/giurgiu/varasti/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 68/2024",
+"short": "HCL Vărăști nr. 68/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/202190",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-69-2024",
+"path": "local/giurgiu/varasti/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 69/2024 privind alegerea viceprimarului comunei Vărăști, județul Giurgiu",
+"short": "HCL Vărăști nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/202191",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +246,50 @@
 }
 },
 {
+"slug": "hcl-giurgiu--varasti-72-2024",
+"path": "local/giurgiu/varasti/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 72/2024 privind modificarea anexei nr.3 la hotărârea consiliului local Vărăști nr.47 din 19.09.2024",
+"short": "HCL Vărăști nr. 72/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/202194",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-73-2024",
+"path": "local/giurgiu/varasti/2024/73",
+"kind": "local",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 73/2024 privind desemnarea reprezentantului comunei în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Management Eficient pentru un Județ Curat”",
+"short": "HCL Vărăști nr. 73/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/202195",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--varasti-74-2024",
 "path": "local/giurgiu/varasti/2024/74",
 "kind": "local",
@@ -113,6 +312,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--varasti-75-2024",
+"path": "local/giurgiu/varasti/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 75/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+"short": "HCL Vărăști nr. 75/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/202198",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--varasti-76-2024",
 "path": "local/giurgiu/varasti/2024/76",
 "kind": "local",
@@ -132,6 +353,95 @@
 "council_name": "Consiliul Local al Comunei Vărăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-77-2024",
+"path": "local/giurgiu/varasti/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 77/2024 privind aprobarea modificării și completării hotărârii Consiliului local Vărăști nr.39/30.08.2024",
+"short": "HCL Vărăști nr. 77/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/202200",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-78-2024",
+"path": "local/giurgiu/varasti/2024/78",
+"kind": "local",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 78/2024 privind înlocuire președintelui Consiliului de administrație al „Clubului Sportiv Giganții Vărăști 2022”",
+"short": "HCL Vărăști nr. 78/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/202201",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-79-2024",
+"path": "local/giurgiu/varasti/2024/79",
+"kind": "local",
+"year": "2024",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 79/2024 privind revocarea hotărârii Consiliului local Vărăști nr.18 din 10.04.2012",
+"short": "HCL Vărăști nr. 79/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/202202",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-80-2024",
+"path": "local/giurgiu/varasti/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 80/2024",
+"short": "HCL Vărăști nr. 80/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/202203",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

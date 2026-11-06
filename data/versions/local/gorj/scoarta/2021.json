@@ -3,6 +3,36 @@
  "shard": "local/gorj/scoarta/2021",
  "acts": [
   {
+   "slug": "hcl-gorj--scoarta-68-2021",
+   "path": "local/gorj/scoarta/2021/68",
+   "short": "HCL Scoarța nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 68/2021 privind actualizarea, începând cu 01.11.2021, în parte, a Hotărârii Consiliului Local nr.5/2020 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual salarizați potrivit familiei ocupaționale „Administrație” numiți/angajați în aparatul de specialitate al Primarului Comunei Scoarța, Județul Gorj",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/41069",
+   "versions": [
+    {
+     "from": "2021-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/41069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--scoarta-69-2021",
+   "path": "local/gorj/scoarta/2021/69",
+   "short": "HCL Scoarța nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 69/2021 privind desemnarea unui reprezentant al consiliului local Scoarța, care va face parte din Comisia de interviu la concursul pentru ocuparea funcției de director la Școala Gimnazială Scoarța",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/43378",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/43378",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--scoarta-70-2021",
    "path": "local/gorj/scoarta/2021/70",
    "short": "HCL Scoarța nr. 70/2021",
@@ -103,6 +133,36 @@
      "from": "2021-12-21",
      "units": 1,
      "source_url": "https://emol.ro/scoarta-gj/registru-hcl/47297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--scoarta-77-2021",
+   "path": "local/gorj/scoarta/2021/77",
+   "short": "HCL Scoarța nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 77/2021",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/47298",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/47298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--scoarta-78-2021",
+   "path": "local/gorj/scoarta/2021/78",
+   "short": "HCL Scoarța nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 78/2021",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/47299",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/47299",
      "sha256": null
     }
    ]

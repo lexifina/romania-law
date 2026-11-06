@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/segarcea/2020",
+ "acts": [
+  {
+   "slug": "hcl-dolj--segarcea-4-2020",
+   "path": "local/dolj/segarcea/2020/4",
+   "short": "HCL Segarcea nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 4/2020",
+   "url": "http://www.primariasegarcea.ro/",
+   "versions": [
+    {
+     "from": "2020-03-13",
+     "units": 1,
+     "source_url": "https://primariasegarcea.ro/wp-content/uploads/2020/hotarari/hsu4_13.03.2020.pdf",
+     "sha256": "7a514d09607369b1d33f1fa60e5ce6d3390d57a5c5e40fb91e5b4d616fab688e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-5-2020",
+   "path": "local/dolj/segarcea/2020/5",
+   "short": "HCL Segarcea nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 5/2020",
+   "url": "http://www.primariasegarcea.ro/",
+   "versions": [
+    {
+     "from": "2020-03-16",
+     "units": 1,
+     "source_url": "https://primariasegarcea.ro/wp-content/uploads/2020/hotarari/hsu5_16.03.2020.pdf",
+     "sha256": "5fdd83ff63d54d7d6537fa482525862ae395cdb3aae265e07f15d924e6c88d68"
+    }
+   ]
+  }
+ ]
+}

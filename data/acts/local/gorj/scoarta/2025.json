@@ -267,6 +267,29 @@
 }
 },
 {
+"slug": "hcl-gorj--scoarta-78-2025",
+"path": "local/gorj/scoarta/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 78/2025",
+"short": "HCL Scoarța nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://emol.ro/scoarta-gj/registru-hcl/259499",
+"council": "gorj/scoarta",
+"council_name": "Consiliul Local al Comunei Scoarța",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-gorj--scoarta-79-2025",
 "path": "local/gorj/scoarta/2025/79",
 "kind": "local",

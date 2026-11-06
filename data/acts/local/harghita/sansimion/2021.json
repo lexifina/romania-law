@@ -92,6 +92,28 @@
 }
 },
 {
+"slug": "hcl-harghita--sansimion-33-2021",
+"path": "local/harghita/sansimion/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 33/2021 privind alocarea sumei de 50.000 lei, ce constituie sprijin financiar unităților de cult în cadrul programului de sprijinire pe anul 2021 a cultelor religioase recunoscute de lege, care își desfășoară activitatea în comuna Sânsimion",
+"short": "HCL Sânsimion nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/30619",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-harghita--sansimion-34-2021",
 "path": "local/harghita/sansimion/2021/34",
 "kind": "local",
@@ -111,6 +133,316 @@
 "council_name": "Consiliul Local al Comunei Sânsimion",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-35-2021",
+"path": "local/harghita/sansimion/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 35/2021 privind acordul pentru scoatere din circuit agricol al parcelelor în suprafață totală de 10950 mp, proprietate privată al comunei comunei Sânsimion, situat în extravilan, identificat cu CF nr. 51465, 51284, 51282, destinată obiectiv de interes local declarat de utilitate publică pentru proiectul Regional de dezvoltare a infrastructurii de apă și apă uzată din județul Harghita, în perioada 2014-2020, precum și mandatarea Primarului comunei Sânsimion pentru semnarea tuturor documentelor necesare în acest sens",
+"short": "HCL Sânsimion nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-13",
+"latest": "2021-05-13",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/32813",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-36-2021",
+"path": "local/harghita/sansimion/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 36/2021 privind aprobarea contului de execuție pe anul 2020 al bugetului de venituri și cheltuieli al comunei Sânsimion",
+"short": "HCL Sânsimion nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-13",
+"latest": "2021-05-13",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/32816",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-37-2021",
+"path": "local/harghita/sansimion/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 37/2021 privind aprobarea bugetul proiectului ”ECHIPAMENTE IT PENTRU SCOALA DIN COMUNA SANSIMION, JUDEȚUL HARGHITA”",
+"short": "HCL Sânsimion nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-13",
+"latest": "2021-05-13",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/32814",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-38-2021",
+"path": "local/harghita/sansimion/2021/38",
+"kind": "local",
+"year": "2021",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 38/2021",
+"short": "HCL Sânsimion nr. 38/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-13",
+"latest": "2021-05-13",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/32815",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-39-2021",
+"path": "local/harghita/sansimion/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 39/2021 privind majorării capitalului social al Societății Întreținere Drumuri Harghita S.R",
+"short": "HCL Sânsimion nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-31",
+"latest": "2021-05-31",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/32854",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-40-2021",
+"path": "local/harghita/sansimion/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 40/2021 privind aprobarea prețurilor ce vor fi aplicate de societatea Întreținere Drumuri Harghita SRL în calitate de operator în relația cu Județul Harghita pentru serviciile deîntreținere și reparații curente a drumurilor județene",
+"short": "HCL Sânsimion nr. 40/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-31",
+"latest": "2021-05-31",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/32855",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-41-2021",
+"path": "local/harghita/sansimion/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 41/2021",
+"short": "HCL Sânsimion nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-10",
+"latest": "2021-06-10",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/32967",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-42-2021",
+"path": "local/harghita/sansimion/2021/42",
+"kind": "local",
+"year": "2021",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 42/2021 privind aderarea la Asociația de Dezvoltare Intercomunitară Turistică „CIOMAD–BALVANYOS”, „CSOMÁD–BÁLVÁNYOS”Közösségek Közti Turizmusfejlesztési Társulás",
+"short": "HCL Sânsimion nr. 42/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-10",
+"latest": "2021-06-10",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/32968",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-43-2021",
+"path": "local/harghita/sansimion/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 43/2021 privind aprobarea participării comunei Sânsimion prin Consiliul local Sânsimion în calitate de asociat la constituirea Asociației de Dezvoltare Intercomunitară Alcsik- Kászon",
+"short": "HCL Sânsimion nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-10",
+"latest": "2021-06-10",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/32969",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-44-2021",
+"path": "local/harghita/sansimion/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 44/2021 privind aprobarea contului de execuție a bugetului de venituri și cheltuieli al comunei Sânsimion pe trimestrul I, anul 2021",
+"short": "HCL Sânsimion nr. 44/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-10",
+"latest": "2021-06-10",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/32970",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-45-2021",
+"path": "local/harghita/sansimion/2021/45",
+"kind": "local",
+"year": "2021",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 45/2021 privind rectificarea bugetului local pe trimestrul II, anul 2021",
+"short": "HCL Sânsimion nr. 45/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-10",
+"latest": "2021-06-10",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/32971",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-46-2021",
+"path": "local/harghita/sansimion/2021/46",
+"kind": "local",
+"year": "2021",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 46/2021 privind aprobarea Programului ”Întâlnirilor Grupurilor Fanfarelor Ciucului de Jos” din data de 19.06.2021",
+"short": "HCL Sânsimion nr. 46/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-10",
+"latest": "2021-06-10",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/32972",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-47-2021",
+"path": "local/harghita/sansimion/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 47/2021 privind punerea la dispozitia proiectului„Sistem informațional pentru managementul integrat al apelor–etapa II” dezvoltat de către Administrația Națională \"Apele Romane\" a terenului pentru constructia/extinderea/reabilitarea noilor investitii aferentea cestuia",
+"short": "HCL Sânsimion nr. 47/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-10",
+"latest": "2021-06-10",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/32973",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-48-2021",
+"path": "local/harghita/sansimion/2021/48",
+"kind": "local",
+"year": "2021",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 48/2021 privind modificarea și completarea Hotărârii Consiliului local nr. 40/ 2021 privind aprobarea prețurilor ce vor fi aplicate de societatea Întreținere Drumuri Harghita SRL în calitate deoperator în relația cu Județul Harghita pentru serviciile de întreținere și reparații curente a drumurilor județene",
+"short": "HCL Sânsimion nr. 48/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-10",
+"latest": "2021-06-10",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/32974",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

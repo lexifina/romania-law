@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/baneasa/2020",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--baneasa-13-2020",
+   "path": "local/giurgiu/baneasa/2020/13",
+   "short": "HCL Băneasa nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 13/2020",
+   "url": "http://www.primariabaneasagr.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2020-01-26",
+     "units": 1,
+     "source_url": "http://www.primariabaneasagr.ro/assets/documents/import/2025/12/13.HCL-nr.13-din-26.01.202-util-excedent.pdf",
+     "sha256": "2bd9fa34c8e30446127099885d98bb872613397e58c46c6040d40ef90753cb1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--baneasa-20-2020",
+   "path": "local/giurgiu/baneasa/2020/20",
+   "short": "HCL Băneasa nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 20/2020",
+   "url": "http://www.primariabaneasagr.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2020-02-16",
+     "units": 1,
+     "source_url": "http://www.primariabaneasagr.ro/assets/documents/import/2025/12/20.HCL-nr.20-din-16.02.202-alocare.pdf",
+     "sha256": "80f2afb6132d76249d537ad178fdd900b5fe08dd8ce406f1c06a88cd778bd150"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--baneasa-21-2020",
+   "path": "local/giurgiu/baneasa/2020/21",
+   "short": "HCL Băneasa nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 21/2020",
+   "url": "http://www.primariabaneasagr.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2020-02-16",
+     "units": 1,
+     "source_url": "http://www.primariabaneasagr.ro/assets/documents/import/2025/12/21.HCL-nr.21-din-16.02.202-reparatii-Sc.pdf",
+     "sha256": "658346d2f69a4fa2f1076644c664c7d0dd8a70caf58ab271a11bfaef02866754"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--baneasa-22-2020",
+   "path": "local/giurgiu/baneasa/2020/22",
+   "short": "HCL Băneasa nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 22/2020",
+   "url": "http://www.primariabaneasagr.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2020-02-16",
+     "units": 1,
+     "source_url": "http://www.primariabaneasagr.ro/assets/documents/import/2025/12/22.HCL-nr.22-din-16.02.202-reevaluare.pdf",
+     "sha256": "8aec09157a09deddfe580a8d37a0480a6904557984f41aa73210d10b747a2d6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--baneasa-23-2020",
+   "path": "local/giurgiu/baneasa/2020/23",
+   "short": "HCL Băneasa nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 23/2020",
+   "url": "http://www.primariabaneasagr.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2020-02-16",
+     "units": 1,
+     "source_url": "http://www.primariabaneasagr.ro/assets/documents/import/2025/12/23.HCL-nr.23-din-16.02.202-dom-public.pdf",
+     "sha256": "9a3bef2d53f3db18ce7a0979240150703c5dfccbfdf7f1a2efdcfec3bd597a3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--baneasa-24-2020",
+   "path": "local/giurgiu/baneasa/2020/24",
+   "short": "HCL Băneasa nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 24/2020",
+   "url": "http://www.primariabaneasagr.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2020-02-16",
+     "units": 1,
+     "source_url": "http://www.primariabaneasagr.ro/assets/documents/import/2025/12/24.HCL-nr.24-din-16.02.202-dom-privat.pdf",
+     "sha256": "8c25c2f780b95dbb45a5618cac77eb574fcea26cde0a07ade4988beee5cd2e8e"
+    }
+   ]
+  }
+ ]
+}

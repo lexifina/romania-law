@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/daia/2026",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--daia-1-2026",
+   "path": "local/giurgiu/daia/2026/1",
+   "short": "HCL Daia nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daia nr. 1/2026 privind acoperirea definitivă a deficitului secţiunii de dezvoltare pe anul 2025",
+   "url": "https://primaria-daia.ro/registrul-pentru-evidenta-hotararilor-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://primaria-daia.ro/wp-content/uploads/2026/02/HCL-NR1-privind-acoperirea-definitiva-a-deficitului-sectiunii-de-dezvoltare-pe-anul-2025-din.pdf",
+     "sha256": "86261f2327c51debf7835500d1f68bc933e845a64f6f288d804ff226a7192b6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--daia-11-2026",
+   "path": "local/giurgiu/daia/2026/11",
+   "short": "HCL Daia nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daia nr. 11/2026 privind alegerea președintelui de ședință",
+   "url": "https://primaria-daia.ro/registrul-pentru-evidenta-hotararilor-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://primaria-daia.ro/wp-content/uploads/2026/04/HCL-nr.11-din30.03.2026-privind-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "53fac503ec33b6fcf44eb4928d74b7432db3db56b3341305ee93646a9760c4bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--daia-12-2026",
+   "path": "local/giurgiu/daia/2026/12",
+   "short": "HCL Daia nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daia nr. 12/2026 privind aprobarea documentației tehnico-economice pentru obiectul de investiții AMENAJARE PARC ÎN SATUL PLOPSORUL",
+   "url": "https://primaria-daia.ro/registrul-pentru-evidenta-hotararilor-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://primaria-daia.ro/wp-content/uploads/2026/04/HCL-nr.12-din-30.03.2026-privind-aprobarea-documentatiei-tehnico-economice-pentru-obiectul-de-investitii-AMENAJARE-PARC-IN-SATUL-PLOPSORUL.pdf",
+     "sha256": "92f2357bad12a37a112d0fb6442bffbc03a648404d6da5a66bdeac7beaa44a77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--daia-14-2026",
+   "path": "local/giurgiu/daia/2026/14",
+   "short": "HCL Daia nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daia nr. 14/2026 privind reorganizarea aparatului de specialitate",
+   "url": "https://primaria-daia.ro/registrul-pentru-evidenta-hotararilor-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://primaria-daia.ro/wp-content/uploads/2026/04/HCL-nr.14-din-08.04.2026-privind-reorganizarea-aparatului-de-specialitate.pdf",
+     "sha256": "95841082730ebfb30b4046c4e6687b1356f823efdf4ee12d242d59ccbd6031a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--daia-15-2026",
+   "path": "local/giurgiu/daia/2026/15",
+   "short": "HCL Daia nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daia nr. 15/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d273ba10d9dcb3e139a81507af97833020afec24c3cc3f5d2a7e274d812d1335"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--daia-2-2026",
+   "path": "local/giurgiu/daia/2026/2",
+   "short": "HCL Daia nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daia nr. 2/2026 privind modificarea și completarea H.C.L",
+   "url": "https://primaria-daia.ro/registrul-pentru-evidenta-hotararilor-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://primaria-daia.ro/wp-content/uploads/2026/02/HCL-NR.2-DIN-29.01.2026-privind-modificarea-si-completarea-H.C.L.-Daia-nr.-56-din-29.12.2025-privind-stabilirea-impozitelor-si-taxelo.pdf",
+     "sha256": "b58139fd97180fd772a61a2056713639a67b58eb3a6fcb9681e3c163b02f80e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--daia-3-2026",
+   "path": "local/giurgiu/daia/2026/3",
+   "short": "HCL Daia nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daia nr. 3/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a351b38529f00962f287717fda02e87844f5291fd30b096fdfbe064ec863360c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--daia-35-2026",
+   "path": "local/giurgiu/daia/2026/35",
+   "short": "HCL Daia nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daia nr. 35/2026 privind modificarea art. 1 din Hotărârea Consiliului Local nr. 29 din 26.06.2026 privind aprobarea indicatorilor tehnico-economici, a devizului general și a descrierii sumare",
+   "url": "https://primaria-daia.ro/registrul-pentru-evidenta-hotararilor-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://primaria-daia.ro/wp-content/uploads/2026/09/privind-modificarea-art.-1-din-Hotararea-Consiliului-Local-nr.-29-din-26.06.2026-privind-aprobarea-indicatorilor-tehnico-economici-a-devizului-general-si-a-descrierii-sumare-pentru-obiectivul-d_35.pdf",
+     "sha256": "58db077ea77b721576156385df3f8a521a1847ea3ff3a8a99492b97cbb662270"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--daia-36-2026",
+   "path": "local/giurgiu/daia/2026/36",
+   "short": "HCL Daia nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daia nr. 36/2026 privind modificarea art. 4 din Hotărârea Consiliului Local nr. 31 din 26.06.2026 privind aprobarea Studiului de fezabilitate, Devizului General și Indicatorilor tehnico-economici",
+   "url": "https://primaria-daia.ro/registrul-pentru-evidenta-hotararilor-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://primaria-daia.ro/wp-content/uploads/2026/09/privind-modificarea-art.-4-din-Hotararea-Consiliului-Local-nr.-31-din-26.06.2026-privind-aprobarea-Studiului-de-fezabilitate-Devizului-General-si-Indicatorilor-tehnico-economici-pentru-obiectiv_36.pdf",
+     "sha256": "82f9d3b0abe6a8cc7182953ebff7838dca937fea18f4723847edc9990141beb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--daia-37-2026",
+   "path": "local/giurgiu/daia/2026/37",
+   "short": "HCL Daia nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daia nr. 37/2026 privind modificarea Hotărârii Consiliului Local Daia nr. 91 din 10.11.2023 privind constituirea echipei mobile pentru intervenția de urgență în cazurile de violență domestică",
+   "url": "https://primaria-daia.ro/registrul-pentru-evidenta-hotararilor-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://primaria-daia.ro/wp-content/uploads/2026/09/privind-modificarea-Hotararii-Consiliului-Local-Daia-nr.-91-din-10.11.2023-privind-constituirea-echipei-mobile-pentru-interventia-de-urgenta-in-cazurile-de-violenta-domestica-identificate-pe-raz_37.pdf",
+     "sha256": "2899b22c6ba526bdf124a7c073bbcbf801b69b3d085db1bf999bf14fe9f0fb0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--daia-4-2026",
+   "path": "local/giurgiu/daia/2026/4",
+   "short": "HCL Daia nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daia nr. 4/2026 privind aprobarea inițierii procedurii de închiriere a pajiștilor disponibile",
+   "url": "https://primaria-daia.ro/registrul-pentru-evidenta-hotararilor-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://primaria-daia.ro/wp-content/uploads/2026/03/HCL-nr.4-din-27.02.2026-privind-aprobarea-initierii-procedurii-de-inchiriere-a-pajistilor-.pdf",
+     "sha256": "4ba64bfdbc62aac2e5560f69508cf1f22dab3e425a99951b7cb2c7f9faf4b5de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--daia-5-2026",
+   "path": "local/giurgiu/daia/2026/5",
+   "short": "HCL Daia nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daia nr. 5/2026 privind modificarea componenţei comisiilor de specialitate ale Consiliului Local al Comunei Daia",
+   "url": "https://primaria-daia.ro/registrul-pentru-evidenta-hotararilor-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://primaria-daia.ro/wp-content/uploads/2026/03/HCL-nr.5-din-27.02.2026-privind-modificarea-componentei-comisiilor-de-specialitate-ale-Consiliului-Local-al-Comunei-Daia.pdf",
+     "sha256": "556a6606e1efb79466d39a9c66334c3aff54469f4755f858603962e7cd68f9c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--daia-6-2026",
+   "path": "local/giurgiu/daia/2026/6",
+   "short": "HCL Daia nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daia nr. 6/2026 privind aprobarea Planului anual de acţiune privind serviciile sociale pentru 2026",
+   "url": "https://primaria-daia.ro/registrul-pentru-evidenta-hotararilor-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://primaria-daia.ro/wp-content/uploads/2026/03/HCL-nr.6-din-27.02.2026-privind-aprobarea-Planului-anual-de-actiune-privind-serviciile-sociale-pentru-2026.pdf",
+     "sha256": "b008cd08e6c9d1a83fb0f621866a4c23fadfc1840d5c428d53e6b46b57d48612"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--daia-7-2026",
+   "path": "local/giurgiu/daia/2026/7",
+   "short": "HCL Daia nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daia nr. 7/2026 privind aprobarea Planului de acţiuni sau lucrări de interes local pentru anul 2026",
+   "url": "https://primaria-daia.ro/registrul-pentru-evidenta-hotararilor-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://primaria-daia.ro/wp-content/uploads/2026/03/HCL-nr.7-din-27.02.2026-privind-aprobarea-Planului-de-actiuni-sau-lucrari-de-interes-local-pentru-anul-2026.pdf",
+     "sha256": "6006f19618354a78793400a3e9eea3161024de25223be5f245d97bc8659947f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--daia-8-2026",
+   "path": "local/giurgiu/daia/2026/8",
+   "short": "HCL Daia nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daia nr. 8/2026 privind obiectivul “ÎNFIINȚARE SISTEM DE ALIMENTARE CU APĂ, ÎN COMUNA DAIA, JUDEȚUL GIURGIU”",
+   "url": "https://primaria-daia.ro/registrul-pentru-evidenta-hotararilor-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://primaria-daia.ro/wp-content/uploads/2026/03/HCL-nr.8-din-27.02.2026-privind-obiectivul-INFIINTARE-SISTEM-DE-ALIMENTARE-CU-APA-IN-COMUNA-DAIA-JUDETUL-GIURGIU.pdf",
+     "sha256": "47b6bd076b55899929673983b6d34f1afa7e9846c599da273046ee06f2e3289f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--daia-9-2026",
+   "path": "local/giurgiu/daia/2026/9",
+   "short": "HCL Daia nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daia nr. 9/2026 privind aprobarea achiziționării serviciilor juridice de consultanță",
+   "url": "https://primaria-daia.ro/registrul-pentru-evidenta-hotararilor-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://primaria-daia.ro/wp-content/uploads/2026/03/HCL-nr.9-din-27.02.2026-privind-aprobarea-achizitionarii-serviciilor-juridice-de-consultanta.pdf",
+     "sha256": "7bd0d496bb15c530a17c6ad5416ebd9fbf1242709916153c2824e61a3ac70c76"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,72 @@
 "shard": "local/galati/beresti/2013",
 "acts": [
 {
+"slug": "hcl-galati--beresti-4-2013",
+"path": "local/galati/beresti/2013/4",
+"kind": "local",
+"year": "2013",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Berești nr. 4/2013 privind lucrari interes local prestate de beneficiari ai ajutorului social",
+"short": "HCL Berești nr. 4/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-01-31",
+"latest": "2013-01-31",
+"portal": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+"council": "galati/beresti",
+"council_name": "Consiliul Local al Orașului Berești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--beresti-34-2013",
+"path": "local/galati/beresti/2013/34",
+"kind": "local",
+"year": "2013",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Berești nr. 34/2013 privind amplasarea mijloacelor de publicitate",
+"short": "HCL Berești nr. 34/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-09-27",
+"latest": "2013-09-27",
+"portal": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+"council": "galati/beresti",
+"council_name": "Consiliul Local al Orașului Berești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--beresti-40-2013",
+"path": "local/galati/beresti/2013/40",
+"kind": "local",
+"year": "2013",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Berești nr. 40/2013 privind Plan protectie ape impotriva poluarii cu nitrati",
+"short": "HCL Berești nr. 40/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-11-29",
+"latest": "2013-11-29",
+"portal": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+"council": "galati/beresti",
+"council_name": "Consiliul Local al Orașului Berești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--beresti-45-2013",
 "path": "local/galati/beresti/2013/45",
 "kind": "local",

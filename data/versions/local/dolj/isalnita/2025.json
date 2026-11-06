@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/isalnita/2025",
+ "acts": [
+  {
+   "slug": "hcl-dolj--isalnita-71-2025",
+   "path": "local/dolj/isalnita/2025/71",
+   "short": "HCL Ișalnița nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 71/2025",
+   "url": "https://isalnita.ro/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2026/02/HCL-NR.-71-din-22.12.2025-SI-ANEXE.pdf",
+     "sha256": "f8524bba4d770be4b5d12eb3fc6eea39e38b0afbb9586a2505f73e3a45f653dc"
+    }
+   ]
+  }
+ ]
+}

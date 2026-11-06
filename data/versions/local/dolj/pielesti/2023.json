@@ -108,6 +108,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-147-2023",
+   "path": "local/dolj/pielesti/2023/147",
+   "short": "HCL Pielești nr. 147/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 147/2023 privind ,, Aprobarea Planului de muncă al buldoescavatoristului pentru luna decembrie 2023,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/130478",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/130478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-148-2023",
+   "path": "local/dolj/pielesti/2023/148",
+   "short": "HCL Pielești nr. 148/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 148/2023 privind ,, Aprobarea Planului de muncă al șoferului ce deservește tractorul achiziționat de Primăria Pielești pentru luna decembrie 2023,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/130479",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/130479",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-149-2023",
    "path": "local/dolj/pielesti/2023/149",
    "short": "HCL Pielești nr. 149/2023",
@@ -153,6 +183,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-152-2023",
+   "path": "local/dolj/pielesti/2023/152",
+   "short": "HCL Pielești nr. 152/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 152/2023 privind ,, Decontarea cheltuielilor cu naveta a cadrelor didactice și auxiliar didactice ale Școlii Gimnaziale Pielești pentru luna octombrie și noiembrie 2023,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/135066",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/135066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-153-2023",
+   "path": "local/dolj/pielesti/2023/153",
+   "short": "HCL Pielești nr. 153/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 153/2023",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/135067",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/135067",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-154-2023",
    "path": "local/dolj/pielesti/2023/154",
    "short": "HCL Pielești nr. 154/2023",
@@ -193,6 +253,36 @@
      "from": "2024-01-22",
      "units": 1,
      "source_url": "https://emol.ro/pielesti-dj/registru-hcl/135070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-157-2023",
+   "path": "local/dolj/pielesti/2023/157",
+   "short": "HCL Pielești nr. 157/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 157/2023 privind ,, Aprobarea Planului de muncă al buldoescavatoristului pentru luna ianuarie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/135071",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/135071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-158-2023",
+   "path": "local/dolj/pielesti/2023/158",
+   "short": "HCL Pielești nr. 158/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 158/2023 privind ,, Aprobarea Planului de muncă al șoferului ce deservește tractorul achiziționat de Primăria Pielești pentru luna ianuarie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/135072",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/135072",
      "sha256": null
     }
    ]

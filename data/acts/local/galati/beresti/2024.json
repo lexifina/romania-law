@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/galati/beresti/2024",
+"acts": [
+{
+"slug": "hcl-galati--beresti-10-2024",
+"path": "local/galati/beresti/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Berești nr. 10/2024",
+"short": "HCL Berești nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-22",
+"latest": "2024-05-22",
+"portal": "https://www.orasulberesti.ro/",
+"council": "galati/beresti",
+"council_name": "Consiliul Local al Orașului Berești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

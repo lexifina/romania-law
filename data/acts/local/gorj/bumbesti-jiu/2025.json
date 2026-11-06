@@ -3,6 +3,28 @@
 "shard": "local/gorj/bumbesti-jiu/2025",
 "acts": [
 {
+"slug": "hcl-gorj--bumbesti-jiu-3-2025",
+"path": "local/gorj/bumbesti-jiu/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 3/2025 Privind aprobarea organigramei, statului de func{ii si num6rului de personal din cadrul aparatului de specialitate al Primarului Oraqului Bumbeqti - Jiu, serviciilor publice si ale institufiilor fara personalitate juridica, subordonate autorittr{ilor publice locale ca urmare a modificarii structurii acestora Consiliul local al Oraqului Bumbegti - Jiu, judeful Gorj, Avdnd in vedere : - Referatul nr",
+"short": "HCL Bumbești-Jiu nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-16",
+"latest": "2025-01-16",
+"portal": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+"council": "gorj/bumbesti-jiu",
+"council_name": "Consiliul Local al Orașului Bumbești-Jiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--bumbesti-jiu-7-2025",
 "path": "local/gorj/bumbesti-jiu/2025/7",
 "kind": "local",
@@ -22,6 +44,295 @@
 "council_name": "Consiliul Local al Orașului Bumbești-Jiu",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-gorj--bumbesti-jiu-17-2025",
+"path": "local/gorj/bumbesti-jiu/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 17/2025",
+"short": "HCL Bumbești-Jiu nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+"council": "gorj/bumbesti-jiu",
+"council_name": "Consiliul Local al Orașului Bumbești-Jiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--bumbesti-jiu-19-2025",
+"path": "local/gorj/bumbesti-jiu/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 19/2025",
+"short": "HCL Bumbești-Jiu nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+"council": "gorj/bumbesti-jiu",
+"council_name": "Consiliul Local al Orașului Bumbești-Jiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--bumbesti-jiu-22-2025",
+"path": "local/gorj/bumbesti-jiu/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 22/2025",
+"short": "HCL Bumbești-Jiu nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+"council": "gorj/bumbesti-jiu",
+"council_name": "Consiliul Local al Orașului Bumbești-Jiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bumbesti-jiu-30-2025",
+"path": "local/gorj/bumbesti-jiu/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 30/2025",
+"short": "HCL Bumbești-Jiu nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+"council": "gorj/bumbesti-jiu",
+"council_name": "Consiliul Local al Orașului Bumbești-Jiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bumbesti-jiu-35-2025",
+"path": "local/gorj/bumbesti-jiu/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 35/2025 privind trmspaMl6 decizionala in adninislralia Publicr, Epubli.ald cu modificrrile d conpl€t rile uherioder Rapoartele de avizrc dle onisiilor de sPecialitate ale consilinlui l@ali i. teneiul art. 139 alin. (l) @bboml cu art. 196 alin. (l) lit. a) din OUG u. 57 / 2019 privind Codnl Administraliv, cu nodifiotrile li conpl.t{ril€ uhdode, HOTiRASTEI An r, se aprcba Regulmenlul de Olgmire ti Fuclionm",
+"short": "HCL Bumbești-Jiu nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+"council": "gorj/bumbesti-jiu",
+"council_name": "Consiliul Local al Orașului Bumbești-Jiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bumbesti-jiu-36-2025",
+"path": "local/gorj/bumbesti-jiu/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 36/2025 privind aprobarea organigramei, statului de func{ii $i numirul de personal din cadrul aparatului de specialitate al Primarului Oralului Bumbelti - Jiu, serviciilor publice ti ale institutiilor fdrtr personalitate j u ridici, subordonate autoritifilor publice locale ca urmare a modifictrrii structurii acestora Consiliul local al ora$ului Bumbelti- Jiu, jude{ul Gorj, Av6nd in vedere: - Referatul de",
+"short": "HCL Bumbești-Jiu nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+"council": "gorj/bumbesti-jiu",
+"council_name": "Consiliul Local al Orașului Bumbești-Jiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bumbesti-jiu-37-2025",
+"path": "local/gorj/bumbesti-jiu/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 37/2025 Pentru aprobarea modificerii Statului de runctii al Spitalului Oragenosc ,, Dr",
+"short": "HCL Bumbești-Jiu nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+"council": "gorj/bumbesti-jiu",
+"council_name": "Consiliul Local al Orașului Bumbești-Jiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bumbesti-jiu-42-2025",
+"path": "local/gorj/bumbesti-jiu/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 42/2025 Privind aprobarea pretuerii ae cjei'irieulii'acJoinneostaculuIloBanuamabecsotni-tJriauc' tjuuludielduel locatiune pentru terenul situat p\" Gorj *t' Consiliul Local al or&qului Bumbe$ti-Jiu' iudelul Gori' Ai\"--v;ai;ni;Rdl;tat.ip,nir\"olv\"r;teiu;rd;liepid\"reet\":rs,bpl,euac'dirareleitaitnimeilieaasliis#dterialPitlrc;imu;;an;rriu';4li2;oG5raV$e2urtut'i03B'2u0m2fbi5nea'$nti.aJt-e' iuco;ntab,il,i'tate' i",
+"short": "HCL Bumbești-Jiu nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+"council": "gorj/bumbesti-jiu",
+"council_name": "Consiliul Local al Orașului Bumbești-Jiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bumbesti-jiu-43-2025",
+"path": "local/gorj/bumbesti-jiu/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 43/2025",
+"short": "HCL Bumbești-Jiu nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+"council": "gorj/bumbesti-jiu",
+"council_name": "Consiliul Local al Orașului Bumbești-Jiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--bumbesti-jiu-44-2025",
+"path": "local/gorj/bumbesti-jiu/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 44/2025",
+"short": "HCL Bumbești-Jiu nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+"council": "gorj/bumbesti-jiu",
+"council_name": "Consiliul Local al Orașului Bumbești-Jiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bumbesti-jiu-46-2025",
+"path": "local/gorj/bumbesti-jiu/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 46/2025 privind aprobarea bugetului activitatilor finantate din venituri proprii rectificarea lpe anul 2025 CONSILIUL LOCAL AL ORASULUI BUMBESTI JIU,IUD,GORI; Avand in vedere: Prevederile Legii nr.9/2025 privind bugetul de stat pe anul 2025; Prevederile legii t\\t.273/2006 privind finantele publice locale cu modificarile si completarile Lrlterioare; Referatul de aprobare ff .5680/22.O4.2025; Raportul de sp",
+"short": "HCL Bumbești-Jiu nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+"council": "gorj/bumbesti-jiu",
+"council_name": "Consiliul Local al Orașului Bumbești-Jiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bumbesti-jiu-52-2025",
+"path": "local/gorj/bumbesti-jiu/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 52/2025",
+"short": "HCL Bumbești-Jiu nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+"council": "gorj/bumbesti-jiu",
+"council_name": "Consiliul Local al Orașului Bumbești-Jiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bumbesti-jiu-53-2025",
+"path": "local/gorj/bumbesti-jiu/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 53/2025",
+"short": "HCL Bumbești-Jiu nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+"council": "gorj/bumbesti-jiu",
+"council_name": "Consiliul Local al Orașului Bumbești-Jiu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

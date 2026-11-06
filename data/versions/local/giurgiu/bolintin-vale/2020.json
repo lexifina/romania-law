@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/bolintin-vale/2020",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-1-2020",
+   "path": "local/giurgiu/bolintin-vale/2020/1",
+   "short": "HCL Bolintin-Vale nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 1/2020",
+   "url": "https://www.bolintin-vale.ro/monitorul-oficial-local/documente-si-informatii-financiare/",
+   "versions": [
+    {
+     "from": "2020-01-14",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2020/02/Hotarare-nr-1-din-14.01.2020.pdf",
+     "sha256": "b11a087cf872025a4aac77ef14511d0f09a06602e0cb0a00546c8d633ef8f839"
+    }
+   ]
+  }
+ ]
+}

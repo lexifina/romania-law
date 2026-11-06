@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/galati/tudor-vladimirescu/2021",
+ "acts": [
+  {
+   "slug": "hcl-galati--tudor-vladimirescu-297-2021",
+   "path": "local/galati/tudor-vladimirescu/2021/297",
+   "short": "HCL Tudor Vladimirescu nr. 297/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 297/2021 pentru Situații de Urgență",
+   "url": "https://www.tudor-vladimirescu.ro/wp-content/uploads/2021/04/Informare-Hotararea-nr.-297-din-data-de-13.04.2021-a-Comitetului-Judetean-pentru-Situatii-de-Urgenta.pdf",
+   "versions": [
+    {
+     "from": "2021-04-13",
+     "units": 1,
+     "source_url": "https://www.tudor-vladimirescu.ro/wp-content/uploads/2021/04/Informare-Hotararea-nr.-297-din-data-de-13.04.2021-a-Comitetului-Judetean-pentru-Situatii-de-Urgenta.pdf",
+     "sha256": "349ff538366e2ea7f9aa98569ceb3615f6f4dfa0557039d442464aa12bd6f72c"
+    }
+   ]
+  }
+ ]
+}

@@ -180,6 +180,50 @@
 }
 },
 {
+"slug": "hcl-dolj--scaesti-36-2024",
+"path": "local/dolj/scaesti/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scăești nr. 36/2024 privind aprobarea contractării unui împrumut în valoare de 550.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 35/2024 pentru asigurarea unor împrumuturi din Trezoreria Statului, precum si pentru modificarea si completarea unor acte normative aferente reprezentarii statului in litigiile arbitrale si judiciare internationale si concesionarii proprietatii publice a statului si pentru modificarea si completarea unor acte normative",
+"short": "HCL Scăești nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/scaesti-dj/registru-hcl/173184",
+"council": "dolj/scaesti",
+"council_name": "Consiliul Local al Comunei Scăești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--scaesti-37-2024",
+"path": "local/dolj/scaesti/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scăești nr. 37/2024 Privind trecerea din domeniul public în domeniul privat a unui imobil situat în COMUNA SCAESTI SAT VALEA LUI PATRU(CAMINUL CULTURAL) cu nr.cadastral 30843",
+"short": "HCL Scăești nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/scaesti-dj/registru-hcl/173185",
+"council": "dolj/scaesti",
+"council_name": "Consiliul Local al Comunei Scăești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--scaesti-38-2024",
 "path": "local/dolj/scaesti/2024/38",
 "kind": "local",

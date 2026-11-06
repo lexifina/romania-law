@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/bolintin-vale/2018",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-120-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/120",
+   "short": "HCL Bolintin-Vale nr. 120/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 120/2018",
+   "url": "https://www.bolintin-vale.ro/monitorul-oficial-local/documente-si-informatii-financiare/",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliu-Local-nr-120-din-29.11.2018-Anexa-1-Anexa-2-Anexa-3-Anexa-4-Anexa-5.pdf",
+     "sha256": "8704a399b885585b8e053610bbc86aa3324680f98ea03770d33cbb56cba1d8c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-42-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/42",
+   "short": "HCL Bolintin-Vale nr. 42/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 42/2018",
+   "url": "https://www.bolintin-vale.ro/monitorul-oficial-local/documente-si-informatii-financiare/",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/07/Hotarare-nr.-42-din-25.-04.-2018-Anexe.pdf",
+     "sha256": "181b665adf5b9a7495eb69870634cce7f4aaeb1e0aea98c598f9435b93808451"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-70-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/70",
+   "short": "HCL Bolintin-Vale nr. 70/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 70/2018",
+   "url": "https://www.bolintin-vale.ro/monitorul-oficial-local/documente-si-informatii-financiare/",
+   "versions": [
+    {
+     "from": "2018-07-30",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-70-din-30.07.2018.pdf",
+     "sha256": "a6abd09fae14f20d4100576498f151cd48f818c6019fcb34a1f4aeafe6661fae"
+    }
+   ]
+  }
+ ]
+}

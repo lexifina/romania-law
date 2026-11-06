@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/mihailesti/2024",
+"acts": [
+{
+"slug": "hcl-giurgiu--mihailesti-2-2024",
+"path": "local/giurgiu/mihailesti/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 2/2024",
+"short": "HCL Mihăilești nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+"council": "giurgiu/mihailesti",
+"council_name": "Consiliul Local al Orașului Mihăilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--mihailesti-3-2024",
+"path": "local/giurgiu/mihailesti/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 3/2024",
+"short": "HCL Mihăilești nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+"council": "giurgiu/mihailesti",
+"council_name": "Consiliul Local al Orașului Mihăilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--mihailesti-4-2024",
+"path": "local/giurgiu/mihailesti/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 4/2024",
+"short": "HCL Mihăilești nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+"council": "giurgiu/mihailesti",
+"council_name": "Consiliul Local al Orașului Mihăilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--mihailesti-5-2024",
+"path": "local/giurgiu/mihailesti/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 5/2024",
+"short": "HCL Mihăilești nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+"council": "giurgiu/mihailesti",
+"council_name": "Consiliul Local al Orașului Mihăilești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

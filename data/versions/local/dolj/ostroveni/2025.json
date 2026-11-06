@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--ostroveni-38-2025",
+   "path": "local/dolj/ostroveni/2025/38",
+   "short": "HCL Ostroveni nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 38/2025 privind desemnarea unui reprezentant al Consiliului Local Ostroveni in Comisia de Evaluare si Asigurare a Calitatii a Scolii Gimnaziale Ostroveni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/232412",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/232412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-39-2025",
+   "path": "local/dolj/ostroveni/2025/39",
+   "short": "HCL Ostroveni nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 39/2025",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/232413",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/232413",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--ostroveni-40-2025",
    "path": "local/dolj/ostroveni/2025/40",
    "short": "HCL Ostroveni nr. 40/2025",
@@ -238,6 +268,21 @@
      "from": "2026-01-21",
      "units": 1,
      "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/241079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-55-2025",
+   "path": "local/dolj/ostroveni/2025/55",
+   "short": "HCL Ostroveni nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 55/2025 privind incheierea unui act aditional la Contractul de cesiune aprobat prin HCL OSTROVENI NR. 39/30.10.2025",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/241080",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/241080",
      "sha256": null
     }
    ]

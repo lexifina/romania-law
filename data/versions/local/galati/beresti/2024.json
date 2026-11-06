@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/galati/beresti/2024",
+ "acts": [
+  {
+   "slug": "hcl-galati--beresti-10-2024",
+   "path": "local/galati/beresti/2024/10",
+   "short": "HCL Berești nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 10/2024",
+   "url": "https://www.orasulberesti.ro/",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2024_Hotarare%2010%20din%2022%20mai%202024%20solutionare%20contestatie.pdf",
+     "sha256": "94de49f410bd703b65f53a9e13a45f04fa12acb3eb512bffa5b566f64a9086e9"
+    }
+   ]
+  }
+ ]
+}

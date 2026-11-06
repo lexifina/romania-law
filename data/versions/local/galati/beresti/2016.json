@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/galati/beresti/2016",
+ "acts": [
+  {
+   "slug": "hcl-galati--beresti-1-2016",
+   "path": "local/galati/beresti/2016/1",
+   "short": "HCL Berești nr. 1/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 1/2016 privind lucrari interes local prestate de beneficiari ajutor social",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/HCL_Nr_1_din_29_01_2016_privind_lucrari_interes_local_prestate_de_beneficiari_ajutor_social.pdf",
+     "sha256": "204301623dc595e086dff59e614ddc5e1d7a2bf6972983fc495c284d094f2b0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-12-2016",
+   "path": "local/galati/beresti/2016/12",
+   "short": "HCL Berești nr. 12/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 12/2016 privind depozitare deseuri inerte din constructii si demolari",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2016-04-29",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/HCL_Nr_12_din_29_04_2016_privind_depozitare_deseuri_inerte_din_constructii_si_demolari.pdf",
+     "sha256": "293ef070f123059e2250ef667764390311dfafab4b4593cf4843d1b3bb7831df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-13-2016",
+   "path": "local/galati/beresti/2016/13",
+   "short": "HCL Berești nr. 13/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 13/2016 privind trecere teren din domeniul public",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2016_HCL_Nr_13_din_31_08_2016_privind_trecere_teren_din_domeniul_privat_in_domeniul_public.pdf",
+     "sha256": "a3e5aa09084fc6564edeef927786de0d6fb80b268db2beff0c395efc4a861e2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-14-2016",
+   "path": "local/galati/beresti/2016/14",
+   "short": "HCL Berești nr. 14/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 14/2016 privind inregistrare teren domeniul privat",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2016-04-29",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/HCL_Nr_14_din_29_04_2016_privind_inregistrare_teren_domeniul_privat.pdf",
+     "sha256": "b1c4c24cd1077c58f734a2776ff24e0ecaece3587059ce1c6f5a5441a9128e1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-18-2016",
+   "path": "local/galati/beresti/2016/18",
+   "short": "HCL Berești nr. 18/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 18/2016 privind stabilire salarii cu 01.01.2019 »Raport activitate 2018 Comisia nr. 1 »Raport activitate 2018 Comisia nr. 2 »Raport activitate 2018 Comisia nr. 3 » 2018 »HCL Nr. 21 din 31.07.2018 r",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2016-05-27",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2016_HCL_Nr_18_din_27_05_2016_completare_inventar_domeniul_public.pdf",
+     "sha256": "6edce799ec3c1476af2043cd97209eddf1accfbdc119efe538483a52e67f517d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-20-2016",
+   "path": "local/galati/beresti/2016/20",
+   "short": "HCL Berești nr. 20/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 20/2016 privind stabilire salarii cu 01.01.2019 »Raport activitate 2018 Comisia nr. 1 »Raport activitate 2018 Comisia nr. 2 »Raport activitate 2018 Comisia nr. 3 » 2018 »HCL Nr. 21 din 31.07.2018 r",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2016_HCL_Nr_20_din_31_08_2016_completare_inventar_domeniul_public.pdf",
+     "sha256": "fe2ac2ab569958bccf5a022696197cd698c5833aa0ad626a5003737df40c1d2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-21-2016",
+   "path": "local/galati/beresti/2016/21",
+   "short": "HCL Berești nr. 21/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 21/2016 privind stabilire salarii cu 01.01.2019 »Raport activitate 2018 Comisia nr. 1 »Raport activitate 2018 Comisia nr. 2 »Raport activitate 2018 Comisia nr. 3 » 2018 »HCL Nr. 21 din 31.07.2018 r",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2016_HCL_Nr_21_din_30_09_2016_trecere_teren_din_domeniul_privat_in_domeniul_public.pdf",
+     "sha256": "09251b894d333e113c84c888c4ba4f8b6b7adc7a0d711427683eb83265d16f70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-23-2016",
+   "path": "local/galati/beresti/2016/23",
+   "short": "HCL Berești nr. 23/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 23/2016 privind stabilire salarii cu 01.01.2019 »Raport activitate 2018 Comisia nr. 1 »Raport activitate 2018 Comisia nr. 2 »Raport activitate 2018 Comisia nr. 3 » 2018 »HCL Nr. 21 din 31.07.2018 r",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2016_HCL_Nr_23_din_30_09_2016_vanzare_teren_intravilan.pdf",
+     "sha256": "095ee6c05211ada17b3b0216a9096b40b0dd3e0b21c78de83c12ef1ab393b736"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-4-2016",
+   "path": "local/galati/beresti/2016/4",
+   "short": "HCL Berești nr. 4/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 4/2016 privind aprobare buget si lista investitii 2016",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/HCL_Nr_4_din_29_01_2016_privind_aprobare_buget_si_lista_investitii_2016.pdf",
+     "sha256": "870605df3d06d420ef7fdc84ae42b0892cab414716e67a08aa8dd6f2b9ee5ede"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-5-2016",
+   "path": "local/galati/beresti/2016/5",
+   "short": "HCL Berești nr. 5/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 5/2016 privind stabilire salarii cu 01.01.2019 »Raport activitate 2018 Comisia nr. 1 »Raport activitate 2018 Comisia nr. 2 »Raport activitate 2018 Comisia nr. 3 » 2018 »HCL Nr. 21 din 31.07.2018 r",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/HCL_Nr_5_din_29_01_2016_utilizare_excedent_buget_local.pdf",
+     "sha256": "be7c8d9c89aebb077f1eb75d2ddfd3dbfaea1dbbe3cb4bc7efe45af0ebbb7cc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-6-2016",
+   "path": "local/galati/beresti/2016/6",
+   "short": "HCL Berești nr. 6/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 6/2016 privind inregistrare teren intravilan in domeniul privat",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/HCL_Nr_6_din_29_01_2016_privind_inregistrare_teren_intravilan_in_domeniul_privat.pdf",
+     "sha256": "6393b08a5c01b67cbfb4d58151875e7fb1ff152e10d7be4ab0970253ffa9c020"
+    }
+   ]
+  }
+ ]
+}

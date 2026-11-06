@@ -157,6 +157,50 @@
 }
 },
 {
+"slug": "hcl-dolj--pielesti-147-2023",
+"path": "local/dolj/pielesti/2023/147",
+"kind": "local",
+"year": "2023",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 147/2023 privind ,, Aprobarea Planului de muncă al buldoescavatoristului pentru luna decembrie 2023,,",
+"short": "HCL Pielești nr. 147/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-15",
+"latest": "2023-11-15",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/130478",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-148-2023",
+"path": "local/dolj/pielesti/2023/148",
+"kind": "local",
+"year": "2023",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 148/2023 privind ,, Aprobarea Planului de muncă al șoferului ce deservește tractorul achiziționat de Primăria Pielești pentru luna decembrie 2023,,",
+"short": "HCL Pielești nr. 148/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-15",
+"latest": "2023-11-15",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/130479",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--pielesti-149-2023",
 "path": "local/dolj/pielesti/2023/149",
 "kind": "local",
@@ -223,6 +267,51 @@
 }
 },
 {
+"slug": "hcl-dolj--pielesti-152-2023",
+"path": "local/dolj/pielesti/2023/152",
+"kind": "local",
+"year": "2023",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 152/2023 privind ,, Decontarea cheltuielilor cu naveta a cadrelor didactice și auxiliar didactice ale Școlii Gimnaziale Pielești pentru luna octombrie și noiembrie 2023,,",
+"short": "HCL Pielești nr. 152/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-22",
+"latest": "2024-01-22",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/135066",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-153-2023",
+"path": "local/dolj/pielesti/2023/153",
+"kind": "local",
+"year": "2023",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 153/2023",
+"short": "HCL Pielești nr. 153/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-22",
+"latest": "2024-01-22",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/135067",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dolj--pielesti-154-2023",
 "path": "local/dolj/pielesti/2023/154",
 "kind": "local",
@@ -286,6 +375,50 @@
 "council_name": "Consiliul Local al Comunei Pielești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-157-2023",
+"path": "local/dolj/pielesti/2023/157",
+"kind": "local",
+"year": "2023",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 157/2023 privind ,, Aprobarea Planului de muncă al buldoescavatoristului pentru luna ianuarie 2024,,",
+"short": "HCL Pielești nr. 157/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-22",
+"latest": "2024-01-22",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/135071",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-158-2023",
+"path": "local/dolj/pielesti/2023/158",
+"kind": "local",
+"year": "2023",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 158/2023 privind ,, Aprobarea Planului de muncă al șoferului ce deservește tractorul achiziționat de Primăria Pielești pentru luna ianuarie 2024,,",
+"short": "HCL Pielești nr. 158/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-22",
+"latest": "2024-01-22",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/135072",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

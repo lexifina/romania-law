@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--scanteiesti-45-2023",
+   "path": "local/galati/scanteiesti/2023/45",
+   "short": "HCL Scânteiești nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 45/2023 privind alegerea președintelui de ședință pentru lunile august-octombrie 2023",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131825",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131825",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--scanteiesti-46-2023",
    "path": "local/galati/scanteiesti/2023/46",
    "short": "HCL Scânteiești nr. 46/2023",
@@ -103,6 +118,21 @@
      "from": "2023-12-05",
      "units": 1,
      "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-52-2023",
+   "path": "local/galati/scanteiesti/2023/52",
+   "short": "HCL Scânteiești nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 52/2023 privind aprobare studiului de fezabilitate, a indicatorilor tehnico-economici actualzați și a devizului general actualizat pentru obiectivul de investiții „Înfiițare sistem centralizat de canalizare menajeră în satul Scânteiești, extindere sistem centralizat de canalizare menajeră în satul Fântânele, modernizare gospodărie de apă în satul Fântânele și modernizare sitem de captare a apei, comuna Scânteiești, județul Galați”, aprobat pentru finanțare prin Programul național de investiții„Anghel Saligny”, precum și a sumei reprezentând categoriile de celtuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131881",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131881",
      "sha256": null
     }
    ]

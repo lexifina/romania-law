@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--vanatorii-mici-45-2026",
+   "path": "local/giurgiu/vanatorii-mici/2026/45",
+   "short": "HCL Vânătorii Mici nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vânătorii Mici nr. 45/2026 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/vanatoriimici-gr/registru-hcl/295409",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vanatoriimici-gr/registru-hcl/295409",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--vanatorii-mici-46-2026",
    "path": "local/giurgiu/vanatorii-mici/2026/46",
    "short": "HCL Vânătorii Mici nr. 46/2026",

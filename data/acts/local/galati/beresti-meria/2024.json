@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-galati--beresti-meria-61-2024",
+"path": "local/galati/beresti-meria/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 61/2024 privind desemnarea reprezentantului Consiliului Local ca membru în Consiliul de Administrație al Școlii Gimnaziale nr. 1 sat Slivna, an școlar 2024-2025",
+"short": "HCL Berești-Meria nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/178057",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--beresti-meria-62-2024",
 "path": "local/galati/beresti-meria/2024/62",
 "kind": "local",
@@ -44,6 +66,28 @@
 "council_name": "Consiliul Local al Comunei Berești-Meria",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--beresti-meria-63-2024",
+"path": "local/galati/beresti-meria/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 63/2024 privind desemnare reprezentant AGA al Operatorului Regional APA -CANAL S.A",
+"short": "HCL Berești-Meria nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/182107",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -291,6 +335,28 @@
 }
 },
 {
+"slug": "hcl-galati--beresti-meria-75-2024",
+"path": "local/galati/beresti-meria/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 75/2024 privind desemnarea primarului comunei Berești-Meria ca reprezentant legal in relațiile cu AFIR",
+"short": "HCL Berești-Meria nr. 75/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/185835",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--beresti-meria-76-2024",
 "path": "local/galati/beresti-meria/2024/76",
 "kind": "local",
@@ -354,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Berești-Meria",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--beresti-meria-79-2024",
+"path": "local/galati/beresti-meria/2024/79",
+"kind": "local",
+"year": "2024",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 79/2024 privind rectificarea bugetului de venituri și cheltuieli ale comunei Berești-Meria",
+"short": "HCL Berești-Meria nr. 79/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/185839",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

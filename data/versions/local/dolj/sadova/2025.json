@@ -3,6 +3,21 @@
  "shard": "local/dolj/sadova/2025",
  "acts": [
   {
+   "slug": "hcl-dolj--sadova-52-2025",
+   "path": "local/dolj/sadova/2025/52",
+   "short": "HCL Sadova nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 52/2025 privind implementarea proiectului „Elaborare Strategie locală SMART - Sadova, Județul Dolj”finanțat prin INTERVENȚIA I4 Elaborarea / actualizarea Strategiilor locale SMART, Sesiunea NR 1 AN 2025, PLANUL STRATEGIC PAC 2023 – 2027, Program finanțat de Uniunea Europeană și Guvernul României prin FONDUL EUROPEAN AGRICOL PENTRU DEZVOLTARE RURALĂ",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/227007",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/227007",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--sadova-53-2025",
    "path": "local/dolj/sadova/2025/53",
    "short": "HCL Sadova nr. 53/2025",
@@ -33,6 +48,126 @@
    ]
   },
   {
+   "slug": "hcl-dolj--sadova-55-2025",
+   "path": "local/dolj/sadova/2025/55",
+   "short": "HCL Sadova nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 55/2025 privind rectificarea bugetului de venituri și cheltuieli al comunei Sadova pe anul 2025, trimestrul lV si a listeI de investiții pe anul 2025",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/233606",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/233606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-56-2025",
+   "path": "local/dolj/sadova/2025/56",
+   "short": "HCL Sadova nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 56/2025 privind aprobarea contului de executie al bugetului de venituri si cheltuieli al Serviciului Public de Alimentare cu Apa si de Canalizare Sadova la data de 30.09.2025",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/233607",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/233607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-57-2025",
+   "path": "local/dolj/sadova/2025/57",
+   "short": "HCL Sadova nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 57/2025 privind desemnarea a doi reprezentanti ai Consiliului Local Sadova, în Consiliul de Administratie al Scolii Gimnaziale Sadova, pentru anul scolar 2025-2026",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/233608",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/233608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-58-2025",
+   "path": "local/dolj/sadova/2025/58",
+   "short": "HCL Sadova nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 58/2025 privind acordarea unui mandat special Asociației de Dezvoltare Intercomunitară de Gestionare a Deșeurilor ECODOLJ să aprobe ajustarea tarifului de depozitare aferent Contractului 1188/11.05.2023 intitulat ,,Delegarea gestiunii activității de eliminare prin depoziare a deșeurilor la depozitul ecologic de deșeuri Mofleni-Craiova” încheiat cu ECO SUD SA",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/233609",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/233609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-59-2025",
+   "path": "local/dolj/sadova/2025/59",
+   "short": "HCL Sadova nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 59/2025 privind rezilierea contractului de executie de lucrari nr.3514/2021- Imbracaminti bituminoase usoare pe pietruiri existente în comuna Sadova, județul Dolj",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/233610",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/233610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-60-2025",
+   "path": "local/dolj/sadova/2025/60",
+   "short": "HCL Sadova nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 60/2025 privind aprobarea încheierii unui contract de comodat privind darea în folosință gratuită a unui microbuz achiziționat în cadrul proiectului „Transport școlar verde pentru elevii din județul Dolj”, finanțat prin Planul Național de Redresare și Reziliență, Componenta C15: Educație",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/233611",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/233611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-61-2025",
+   "path": "local/dolj/sadova/2025/61",
+   "short": "HCL Sadova nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 61/2025 privind alegerea președintelui de ședință și a potențialului președinte de ședintă pentru perioada noiembrie 2025-ianuarie 2026",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/238084",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/238084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-62-2025",
+   "path": "local/dolj/sadova/2025/62",
+   "short": "HCL Sadova nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 62/2025 privind aprobarea achiziționării de cadouri de Crăciun și iluminat festiv",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/238085",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/238085",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--sadova-63-2025",
    "path": "local/dolj/sadova/2025/63",
    "short": "HCL Sadova nr. 63/2025",
@@ -43,6 +178,36 @@
      "from": "2026-07-03",
      "units": 1,
      "source_url": "https://emol.ro/sadova-dj/registru-hcl/238086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-64-2025",
+   "path": "local/dolj/sadova/2025/64",
+   "short": "HCL Sadova nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 64/2025 privind rectificarea bugetului de venituri și cheltuieli al comunei Sadova pe anul 2025, trimestrul lV",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/240110",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/240110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-65-2025",
+   "path": "local/dolj/sadova/2025/65",
+   "short": "HCL Sadova nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 65/2025",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/240111",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/240111",
      "sha256": null
     }
    ]
@@ -63,6 +228,51 @@
    ]
   },
   {
+   "slug": "hcl-dolj--sadova-67-2025",
+   "path": "local/dolj/sadova/2025/67",
+   "short": "HCL Sadova nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 67/2025 privind aprobarea efectuării, în anul 2026, a concediului de odihnă neefectuat în anul 2025, de către primarul COMUNEI SADOVA, județul Dolj",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/244986",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/244986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-68-2025",
+   "path": "local/dolj/sadova/2025/68",
+   "short": "HCL Sadova nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 68/2025 privind aprobarea efectuării, în anul 2026, a concediului de odihnă neefectuat în anul 2025, de către viceprimarul COMUNEI SADOVA, județul Dolj",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/244987",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/244987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-69-2025",
+   "path": "local/dolj/sadova/2025/69",
+   "short": "HCL Sadova nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 69/2025 privind validarea Dispoziției primarului comunei Sadova, nr.2401 din 18 decembrie 2025 privind rectificarea bugetului local pe anul 2025, emisă prin autorizarea dată de Consiliul Local cu Hotărârea nr. 14 /2025 privind aprobarea bugetului local al comunei Sadova, pe anul 2025",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/244988",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/244988",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--sadova-70-2025",
    "path": "local/dolj/sadova/2025/70",
    "short": "HCL Sadova nr. 70/2025",
@@ -73,6 +283,21 @@
      "from": "2026-02-11",
      "units": 1,
      "source_url": "https://emol.ro/sadova-dj/registru-hcl/244989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-71-2025",
+   "path": "local/dolj/sadova/2025/71",
+   "short": "HCL Sadova nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 71/2025 privind alegerea președintelui de ședință și a potențialului președinte de ședintă pentru perioada decembrie 2025 - februarie2026",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/244990",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/244990",
      "sha256": null
     }
    ]

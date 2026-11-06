@@ -48,6 +48,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--varasti-71-2025",
+"path": "local/giurgiu/varasti/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 71/2025 privind revocarea HCL nr. 58/12.09.2025 referitoare la desemnarea reprezentantului Consiliului Local în consiliul de administrație al Școlii Gimnaziale nr.1 Vărăști",
+"short": "HCL Vărăști nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/247291",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--varasti-72-2025",
 "path": "local/giurgiu/varasti/2025/72",
 "kind": "local",
@@ -89,6 +111,28 @@
 "council_name": "Consiliul Local al Comunei Vărăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-74-2025",
+"path": "local/giurgiu/varasti/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 74/2025 privind desemnarea reprezentanților consiliului local Vărăști, în Consiliul de administrație al Școlii Gimnaziale nr.1 Vărăști",
+"short": "HCL Vărăști nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/247296",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -309,6 +353,29 @@
 "council_name": "Consiliul Local al Comunei Vărăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-85-2025",
+"path": "local/giurgiu/varasti/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 85/2025",
+"short": "HCL Vărăști nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/247307",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

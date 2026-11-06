@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--varasti-71-2025",
+   "path": "local/giurgiu/varasti/2025/71",
+   "short": "HCL Vărăști nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 71/2025 privind revocarea HCL nr. 58/12.09.2025 referitoare la desemnarea reprezentantului Consiliului Local în consiliul de administrație al Școlii Gimnaziale nr.1 Vărăști",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/247291",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/247291",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--varasti-72-2025",
    "path": "local/giurgiu/varasti/2025/72",
    "short": "HCL Vărăști nr. 72/2025",
@@ -58,6 +73,21 @@
      "from": "2026-01-20",
      "units": 1,
      "source_url": "https://emol.ro/varasti-gr/registru-hcl/247295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-74-2025",
+   "path": "local/giurgiu/varasti/2025/74",
+   "short": "HCL Vărăști nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 74/2025 privind desemnarea reprezentanților consiliului local Vărăști, în Consiliul de administrație al Școlii Gimnaziale nr.1 Vărăști",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/247296",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/247296",
      "sha256": null
     }
    ]
@@ -208,6 +238,21 @@
      "from": "2026-01-20",
      "units": 1,
      "source_url": "https://emol.ro/varasti-gr/registru-hcl/247306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-85-2025",
+   "path": "local/giurgiu/varasti/2025/85",
+   "short": "HCL Vărăști nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 85/2025",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/247307",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/247307",
      "sha256": null
     }
    ]

@@ -1,0 +1,501 @@
+{
+ "country": "RO",
+ "shard": "local/galati/baleni/2025",
+ "acts": [
+  {
+   "slug": "hcl-galati--baleni-1-2025",
+   "path": "local/galati/baleni/2025/1",
+   "short": "HCL Băleni nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 1/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%201%20DIN%2015.01.2025.pdf",
+     "sha256": "4ba1cc51e4ab331dba3993e48c06b0041001c4b4a9cadcc75e1d9c0d52132472"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-10-2025",
+   "path": "local/galati/baleni/2025/10",
+   "short": "HCL Băleni nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 10/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2010%20DIN%2020.03.2025.pdf",
+     "sha256": "3a90c06ac05d1dd92a6ed53d8bf3161cd75053fd4d71c65299c921eb43a38f29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-11-2025",
+   "path": "local/galati/baleni/2025/11",
+   "short": "HCL Băleni nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 11/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2011%20DIN%2020.03.2025.pdf",
+     "sha256": "18f62806e79ad9be3eae04879e384898ea2aaa2e9cc407fbac83979de34ec8a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-12-2025",
+   "path": "local/galati/baleni/2025/12",
+   "short": "HCL Băleni nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 12/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2012%20DIN%2020.03.2025.pdf",
+     "sha256": "79b72b2a3d586a6158b856e9ffa204db4bff1db8165f79ab76a6a6c69a639f19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-13-2025",
+   "path": "local/galati/baleni/2025/13",
+   "short": "HCL Băleni nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 13/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2013%20DIN%2023.05.2025.pdf",
+     "sha256": "9e25057436b6581331dfba1c6e6aca36c4e5ba89d5c4f304ca6a20f94e1210ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-15-2025",
+   "path": "local/galati/baleni/2025/15",
+   "short": "HCL Băleni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 15/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2015%20DIN%2011.04.2025.pdf",
+     "sha256": "40934d1e577a221326b3ed43d7c2c51c5d393229a4e499aca8e3dd4e804fa3c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-16-2025",
+   "path": "local/galati/baleni/2025/16",
+   "short": "HCL Băleni nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 16/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2016%20DIN%2011.04.2025.pdf",
+     "sha256": "2f65844dea4c1ff84f85cc09599a9dc51ab0ab3e2755fc80c54930d85e5d3b6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-17-2025",
+   "path": "local/galati/baleni/2025/17",
+   "short": "HCL Băleni nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 17/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2017%20DIN%2011.04.2025.pdf",
+     "sha256": "fc8cb9771b964bee43463aab3e9cf2ec7fc3a9422d58e5bb3a416f4d46a8ba63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-18-2025",
+   "path": "local/galati/baleni/2025/18",
+   "short": "HCL Băleni nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 18/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2018%20DIN%2030.04.2025.pdf",
+     "sha256": "f3bffec6aa42b0437d30861bf4caeea672cceec9b72ea9ff95b26c24ac14a8b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-19-2025",
+   "path": "local/galati/baleni/2025/19",
+   "short": "HCL Băleni nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 19/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2019%20DIN%2029.05.2025.pdf",
+     "sha256": "82f0f61b873180697630df629381d20d9bbaa31475cfeac08627447fcdab9bf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-2-2025",
+   "path": "local/galati/baleni/2025/2",
+   "short": "HCL Băleni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 2/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%202%20DIN%2015.01.2025.pdf",
+     "sha256": "7ba75f4738196c11552f1d7ed6f9f8899dd51df12b23c9bb218a7206523b51b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-20-2025",
+   "path": "local/galati/baleni/2025/20",
+   "short": "HCL Băleni nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 20/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2020%20DIN%2029.05.2025.pdf",
+     "sha256": "34902e679445e530560e7696578e3082da5d39fae1789383fbd397353cf2a995"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-21-2025",
+   "path": "local/galati/baleni/2025/21",
+   "short": "HCL Băleni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 21/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2021%20DIN%2029.05.2025.pdf",
+     "sha256": "f291628e19de3f1d5ce181d00f92842f5fd76391cad9f7121284dab8238d2e87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-22-2025",
+   "path": "local/galati/baleni/2025/22",
+   "short": "HCL Băleni nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 22/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2022%20DIN%2019.06.2025.pdf",
+     "sha256": "4937f9702acf4015f135af8de65484116e8902c2f42d5984cc49861ae0f89d85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-23-2025",
+   "path": "local/galati/baleni/2025/23",
+   "short": "HCL Băleni nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 23/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2023%20DIN%2019.06.2025.pdf",
+     "sha256": "c59b233b0d4b14180d974de0a30b0c3d4ce8675f7590cafff56723f0804c7542"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-24-2025",
+   "path": "local/galati/baleni/2025/24",
+   "short": "HCL Băleni nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 24/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2024%20DIN%2019.06.2025.pdf",
+     "sha256": "ca5767b0ed265a0b659ee1f483f81a567b1fea53a9334c7b2289c14f7b2d055b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-25-2025",
+   "path": "local/galati/baleni/2025/25",
+   "short": "HCL Băleni nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 25/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2025%20DIN%2019.06.2025.pdf",
+     "sha256": "c492845bfd6a8e6d02961e71eb055f91f23d84e60bce0c202b215ea8fa73dc2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-26-2025",
+   "path": "local/galati/baleni/2025/26",
+   "short": "HCL Băleni nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 26/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2026%20DIN%2017.07.2025.pdf",
+     "sha256": "0ef4d0f3c6d324c5a1650aa17fa53ef79cc61767aa95b5aabf687fcad75f0975"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-27-2025",
+   "path": "local/galati/baleni/2025/27",
+   "short": "HCL Băleni nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 27/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2027%20%20DIN%2017.07.2025.pdf",
+     "sha256": "6a34f292f18199d12997701c52a58b5795a5daabd8f3789d52d546070b76c88b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-28-2025",
+   "path": "local/galati/baleni/2025/28",
+   "short": "HCL Băleni nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 28/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2028%20%20DIN%2017.07.2025.pdf",
+     "sha256": "699a2aed9144bf40d5660e43910a6f015b72275287a4883214582d0e50f37f41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-29-2025",
+   "path": "local/galati/baleni/2025/29",
+   "short": "HCL Băleni nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 29/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2029%20DIN%2017.07.2025.pdf",
+     "sha256": "ec2aeb6705241395672a5363d2a0d9a47185f33c0dc60ff20bfc1996c977a442"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-3-2025",
+   "path": "local/galati/baleni/2025/3",
+   "short": "HCL Băleni nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 3/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%203%20DIN%2029.01.2025.pdf",
+     "sha256": "8ace25d502c8f4ed4f53beb52780d28355a6a5db8dd039ea49c2451fd7a7c8ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-30-2025",
+   "path": "local/galati/baleni/2025/30",
+   "short": "HCL Băleni nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 30/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2030%20DIN%2023.07.2025.pdf",
+     "sha256": "a5e3f73731ce30f147aa0027e54fc2a3b1136dfba7f8a0406cf8b3e66aee69f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-31-2025",
+   "path": "local/galati/baleni/2025/31",
+   "short": "HCL Băleni nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 31/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2031%20DIN%2023.07.2025.pdf",
+     "sha256": "0fe6897309cc8c6672ac5289394c937ca7dc43e8010b5480b1d2866a4040d0b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-32-2025",
+   "path": "local/galati/baleni/2025/32",
+   "short": "HCL Băleni nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 32/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2032%20%20DIN%2018.08.2025.pdf",
+     "sha256": "abba343e035a790f41e180ef45e412c74f0cf4f5bf76d6cf816495b19c518ca4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-33-2025",
+   "path": "local/galati/baleni/2025/33",
+   "short": "HCL Băleni nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 33/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2033%20%20DIN%2018.08.2025.pdf",
+     "sha256": "5409715ff91bdfd2fbbf95ed8ef35e77d77c85f76653a7d01f3ea61a510bd2f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-4-2025",
+   "path": "local/galati/baleni/2025/4",
+   "short": "HCL Băleni nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 4/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%204%20DIN%2005.02.2025.pdf",
+     "sha256": "dc7ac9750e53caf274e64ac5c193ef39d9f2df4e87618d051e231286bd1c04d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-46-2025",
+   "path": "local/galati/baleni/2025/46",
+   "short": "HCL Băleni nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 46/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%2046%20din%2023.12.2025.pdf",
+     "sha256": "96739de9e4bf57098d95e520ae93a3e6dc29e422089c8bc5c46128e4cfa9ed8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-5-2025",
+   "path": "local/galati/baleni/2025/5",
+   "short": "HCL Băleni nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 5/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%205%20DIN%2026.02.2025.pdf",
+     "sha256": "af5a9268d21775f55b2a3f11bbf15169c49d9101ecc2b6110e052402078f2f26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-6-2025",
+   "path": "local/galati/baleni/2025/6",
+   "short": "HCL Băleni nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 6/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%206%20DIN%2020.03.2025.pdf",
+     "sha256": "2ba3d9925c790b105b2199f6f48fb3e740d8123974435e302540065979155436"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-7-2025",
+   "path": "local/galati/baleni/2025/7",
+   "short": "HCL Băleni nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 7/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%207%20DIN%2020.03.2025.pdf",
+     "sha256": "944d388030bf9955215ec6eb65f8ffb95a16f979a10b879c44a0ddccda00d3a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-8-2025",
+   "path": "local/galati/baleni/2025/8",
+   "short": "HCL Băleni nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 8/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%208%20%20DIN%2020.03.2025.pdf",
+     "sha256": "80d0763c16457d5d694366654a334c54faacae196020cb6acfa97ecfc8c84d5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--baleni-9-2025",
+   "path": "local/galati/baleni/2025/9",
+   "short": "HCL Băleni nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 9/2025",
+   "url": "https://comunabaleni.ro/monitorul_oficial-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://comunabaleni.ro/documente/monitorul_oficial/hotararile-consiliului-local/2025/HCL%20NR.%209%20DIN%2020.03.2025.pdf",
+     "sha256": "2d04cb2f29ac52c94bad9803157b8b71c87f02a9b341db1a3afc7664f8261408"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,28 @@
 "shard": "local/galati/scanteiesti/2025",
 "acts": [
 {
+"slug": "hcl-galati--scanteiesti-48-2025",
+"path": "local/galati/scanteiesti/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 48/2025 privind aprobarea procedurii proprii pentru achiziția de servicii prevăzute în Anexa nr.2 din Legea nr. 98/2016 privind achizițiile publice",
+"short": "HCL Scânteiești nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/242723",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--scanteiesti-49-2025",
 "path": "local/galati/scanteiesti/2025/49",
 "kind": "local",
@@ -25,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-galati--scanteiesti-50-2025",
+"path": "local/galati/scanteiesti/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 50/2025 privind aprobarea modificării organigramei și a Statului de funcții al aparatului de specialitate al primarului Comunei Scânteiești",
+"short": "HCL Scânteiești nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/242725",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-51-2025",
+"path": "local/galati/scanteiesti/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 51/2025 privind desemnarea reprezentantului Consiliului Local Scânteiești în Consiliul de Administrație al Școlii Gimnaziale Nr.1 Sat Fântânele, Comuna Scânteiești, județul Galați, pentru anul școlar 2025-2026",
+"short": "HCL Scânteiești nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/242726",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--scanteiesti-52-2025",
 "path": "local/galati/scanteiesti/2025/52",
 "kind": "local",
@@ -44,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Scânteiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-53-2025",
+"path": "local/galati/scanteiesti/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 53/2025 privind aprobarea scoaterii la licitație, în vederea închirierii prin licitatție publică a unui spațiu cu destinația ''Farmacie'' situat în clădirea dispensarului medical Scânteiești din str. Scînteiei, nr. 52, sat Scânteiești, com. Scânteiești, județul Galați",
+"short": "HCL Scânteiești nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-02",
+"latest": "2026-10-02",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/291801",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -88,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Scânteiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-56-2025",
+"path": "local/galati/scanteiesti/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 56/2025 privind alegerea președintelui de ședință pentru lunile noiembrie-decembrie 2025 și ianuarie 2026",
+"short": "HCL Scânteiești nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-02",
+"latest": "2026-10-02",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/291804",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -154,6 +264,28 @@
 "council_name": "Consiliul Local al Comunei Scânteiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-60-2025",
+"path": "local/galati/scanteiesti/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 60/2025 privind desemnarea reprezentantului Consiliului Local Scânteiești în Comisia pentru evaluarea și asigurarea calității educației constituită la nivelul Școlii Gimnaziale nr. 1 sat Fântânele, pentru anul 2025-2026",
+"short": "HCL Scânteiești nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-02",
+"latest": "2026-10-02",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/291808",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -264,6 +396,29 @@
 "council_name": "Consiliul Local al Comunei Scânteiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-66-2025",
+"path": "local/galati/scanteiesti/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 66/2025",
+"short": "HCL Scânteiești nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-02",
+"latest": "2026-10-02",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/291814",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

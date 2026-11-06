@@ -289,6 +289,29 @@
 }
 },
 {
+"slug": "hcl-galati--beresti-meria-71-2022",
+"path": "local/galati/beresti-meria/2022/71",
+"kind": "local",
+"year": "2022",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 71/2022",
+"short": "HCL Berești-Meria nr. 71/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-16",
+"latest": "2022-12-16",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/83726",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--beresti-meria-72-2022",
 "path": "local/galati/beresti-meria/2022/72",
 "kind": "local",
@@ -352,6 +375,29 @@
 "council_name": "Consiliul Local al Comunei Berești-Meria",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--beresti-meria-75-2022",
+"path": "local/galati/beresti-meria/2022/75",
+"kind": "local",
+"year": "2022",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 75/2022",
+"short": "HCL Berești-Meria nr. 75/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-16",
+"latest": "2022-12-16",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/83730",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

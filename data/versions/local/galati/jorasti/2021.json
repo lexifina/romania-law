@@ -3,6 +3,21 @@
  "shard": "local/galati/jorasti/2021",
  "acts": [
   {
+   "slug": "hcl-galati--jorasti-21-2021",
+   "path": "local/galati/jorasti/2021/21",
+   "short": "HCL Jorăști nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 21/2021 privind aprobarea închirierii prin atribuire directă a suprafeței de 45,68 ha pășune și, respectiv, 61,56 ha teren arabil, suprafețe aflate în proprietatea Primăriei Comunei jorăști",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/29785",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/29785",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--jorasti-22-2021",
    "path": "local/galati/jorasti/2021/22",
    "short": "HCL Jorăști nr. 22/2021",
@@ -198,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--jorasti-35-2021",
+   "path": "local/galati/jorasti/2021/35",
+   "short": "HCL Jorăști nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 35/2021",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/41888",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/41888",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--jorasti-36-2021",
    "path": "local/galati/jorasti/2021/36",
    "short": "HCL Jorăști nr. 36/2021",
@@ -238,6 +268,21 @@
      "from": "2021-09-22",
      "units": 1,
      "source_url": "https://emol.ro/jorasti-gl/registru-hcl/41891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-39-2021",
+   "path": "local/galati/jorasti/2021/39",
+   "short": "HCL Jorăști nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 39/2021 privind alegerea președintelui de ședință a Consiliului local al comunei Jorăști, județul Galați",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/41892",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/41892",
      "sha256": null
     }
    ]

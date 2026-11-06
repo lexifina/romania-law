@@ -91,6 +91,36 @@
      "sha256": "36aa9306d443ffc1ac14c73074d807066265541fddca1c1e901c83c511597483"
     }
    ]
+  },
+  {
+   "slug": "cnsc-decizie-2025-913",
+   "path": "cnsc/decizie/2025/913",
+   "short": "Decizia CNSC nr. 913/C10/3384 din 25.03.2025",
+   "title": "Decizia CNSC nr. 913/C10/3384 din 25.03.2025: contestația BASELI DRUM CONSULT SRL ECT SRL în contradictoriu cu COMPANIA NATIONALA DE INVESTITII SA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGJlNGM4ODYtN2YyYy00YWI3LWI5NzItZjkwYjIwOTkzNTI5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MTMucGRm&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGJlNGM4ODYtN2YyYy00YWI3LWI5NzItZjkwYjIwOTkzNTI5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MTMucGRm&action=YXR0YWNobWVudA==",
+     "sha256": "0accb531d0a6a6a8e891fa0374812ec30d85a7502bbb08cb8778fd02ad1404f0"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2025-934",
+   "path": "cnsc/decizie/2025/934",
+   "short": "Decizia CNSC nr. 934/C10/3653 din 26.03.2025",
+   "title": "Decizia CNSC nr. 934/C10/3653 din 26.03.2025: contestația CHILIA SRL în contradictoriu cu COMUNA MIRSID",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGNiNzVhMGYtYTQ1OS00NjBlLThmYTUtOTVhN2UyMjg4MGEz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MzQucGRm&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGNiNzVhMGYtYTQ1OS00NjBlLThmYTUtOTVhN2UyMjg4MGEz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MzQucGRm&action=YXR0YWNobWVudA==",
+     "sha256": "1225ea616d390b08df4166dd2e2906293aa6339e0d481aa9dcbfe6f6e6beaa81"
+    }
+   ]
   }
  ]
 }

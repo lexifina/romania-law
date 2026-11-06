@@ -3,6 +3,117 @@
 "shard": "local/giurgiu/varasti/2022",
 "acts": [
 {
+"slug": "hcl-giurgiu--varasti-62-2022",
+"path": "local/giurgiu/varasti/2022/62",
+"kind": "local",
+"year": "2022",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 62/2022 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2022",
+"short": "HCL Vărăști nr. 62/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-09",
+"latest": "2022-11-09",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/78868",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-63-2022",
+"path": "local/giurgiu/varasti/2022/63",
+"kind": "local",
+"year": "2022",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 63/2022",
+"short": "HCL Vărăști nr. 63/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-09",
+"latest": "2022-11-09",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/78869",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-64-2022",
+"path": "local/giurgiu/varasti/2022/64",
+"kind": "local",
+"year": "2022",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 64/2022 privind alegerea președintelui de ședință pentru perioadă noiembrie, decembrie 2022, ianuarie 2023",
+"short": "HCL Vărăști nr. 64/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-09",
+"latest": "2022-11-09",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/78870",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-65-2022",
+"path": "local/giurgiu/varasti/2022/65",
+"kind": "local",
+"year": "2022",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 65/2022 privind aprobarea implementării proiectului ”Înființarea unui centru de colectare a deșeurilor prin aport voluntar în comuna Vărăști, județul Giurgiu”",
+"short": "HCL Vărăști nr. 65/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-04",
+"latest": "2023-05-04",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/78871",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-66-2022",
+"path": "local/giurgiu/varasti/2022/66",
+"kind": "local",
+"year": "2022",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 66/2022 privind aprobarea tarifelor de colectare și transport a deșeurilor provenite de la agenții economici și instituții publice din zona de colectare 4 și acordarea mandatului special, acordat expres, reprezentantului comunei Vărăști în acest sens",
+"short": "HCL Vărăști nr. 66/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-04",
+"latest": "2023-05-04",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/78872",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--varasti-67-2022",
 "path": "local/giurgiu/varasti/2022/67",
 "kind": "local",
@@ -25,6 +136,182 @@
 }
 },
 {
+"slug": "hcl-giurgiu--varasti-68-2022",
+"path": "local/giurgiu/varasti/2022/68",
+"kind": "local",
+"year": "2022",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 68/2022 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2022",
+"short": "HCL Vărăști nr. 68/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-09",
+"latest": "2023-05-09",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/103803",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-69-2022",
+"path": "local/giurgiu/varasti/2022/69",
+"kind": "local",
+"year": "2022",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 69/2022 privind alegerea președintelui de ședință pentru ședința extraordinară a Consiliului local Vărăști din data de 28.11.2022",
+"short": "HCL Vărăști nr. 69/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-09",
+"latest": "2023-05-09",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/103810",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-70-2022",
+"path": "local/giurgiu/varasti/2022/70",
+"kind": "local",
+"year": "2022",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 70/2022 privind completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Vărăști, județul Giurgiu",
+"short": "HCL Vărăști nr. 70/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-09",
+"latest": "2023-05-09",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/103811",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-71-2022",
+"path": "local/giurgiu/varasti/2022/71",
+"kind": "local",
+"year": "2022",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 71/2022 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2022",
+"short": "HCL Vărăști nr. 71/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-09",
+"latest": "2023-05-09",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/103812",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-72-2022",
+"path": "local/giurgiu/varasti/2022/72",
+"kind": "local",
+"year": "2022",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 72/2022 privind modificarea și completarea hotărârii consiliului local Vărăști nr. 5 din 06.01.2022",
+"short": "HCL Vărăști nr. 72/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-09",
+"latest": "2023-05-09",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/103813",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-73-2022",
+"path": "local/giurgiu/varasti/2022/73",
+"kind": "local",
+"year": "2022",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 73/2022 privind alegerea președintelui de ședință pentru ședința extraordinară a Consiliului local Vărăști din data de 12.12.2022",
+"short": "HCL Vărăști nr. 73/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-09",
+"latest": "2023-05-09",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/103929",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-74-2022",
+"path": "local/giurgiu/varasti/2022/74",
+"kind": "local",
+"year": "2022",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 74/2022 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2022",
+"short": "HCL Vărăști nr. 74/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-09",
+"latest": "2023-05-09",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/103930",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-75-2022",
+"path": "local/giurgiu/varasti/2022/75",
+"kind": "local",
+"year": "2022",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 75/2022 privind stabilirea numărului și a cuantumului burselor de care pot beneficia în anul școlar 2022-2023, elevii de la cursurile cu frecvență din unitățile de învățământ de pe raza comunei Vărăști, județul Giurgiu",
+"short": "HCL Vărăști nr. 75/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-09",
+"latest": "2023-05-09",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/103931",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--varasti-76-2022",
 "path": "local/giurgiu/varasti/2022/76",
 "kind": "local",
@@ -44,6 +331,116 @@
 "council_name": "Consiliul Local al Comunei Vărăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-77-2022",
+"path": "local/giurgiu/varasti/2022/77",
+"kind": "local",
+"year": "2022",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 77/2022 privind aprobarea statului de funcții și a organigramei aparatului de specialitate al primarului comunei Vărăști",
+"short": "HCL Vărăști nr. 77/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-09",
+"latest": "2023-05-09",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/103933",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-78-2022",
+"path": "local/giurgiu/varasti/2022/78",
+"kind": "local",
+"year": "2022",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 78/2022 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2022",
+"short": "HCL Vărăști nr. 78/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-09",
+"latest": "2023-05-09",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/103938",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-79-2022",
+"path": "local/giurgiu/varasti/2022/79",
+"kind": "local",
+"year": "2022",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 79/2022 privind organizarea rețelei școlare a unităților de învățământ de pe raza comunei Vărăști, județul Giurgiu",
+"short": "HCL Vărăști nr. 79/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-09",
+"latest": "2023-05-09",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/103939",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-80-2022",
+"path": "local/giurgiu/varasti/2022/80",
+"kind": "local",
+"year": "2022",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 80/2022 privind aprobarea completării hotărârii Consiliului local Vărăști nr. 34/20.05.2022",
+"short": "HCL Vărăști nr. 80/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-09",
+"latest": "2023-05-09",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/103940",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-81-2022",
+"path": "local/giurgiu/varasti/2022/81",
+"kind": "local",
+"year": "2022",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 81/2022 privind aprobarea Regulamentului pentru acordarea titlului de ”Cetățean de onoare al comunei Vărăști”",
+"short": "HCL Vărăști nr. 81/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-09",
+"latest": "2023-05-09",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/103941",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

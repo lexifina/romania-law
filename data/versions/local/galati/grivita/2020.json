@@ -3,6 +3,36 @@
  "shard": "local/galati/grivita/2020",
  "acts": [
   {
+   "slug": "hcl-galati--grivita-26-2020",
+   "path": "local/galati/grivita/2020/26",
+   "short": "HCL Grivița nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 26/2020",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/12570",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/12570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-27-2020",
+   "path": "local/galati/grivita/2020/27",
+   "short": "HCL Grivița nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 27/2020",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/12568",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/12568",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--grivita-28-2020",
    "path": "local/galati/grivita/2020/28",
    "short": "HCL Grivița nr. 28/2020",
@@ -138,6 +168,51 @@
    ]
   },
   {
+   "slug": "hcl-galati--grivita-37-2020",
+   "path": "local/galati/grivita/2020/37",
+   "short": "HCL Grivița nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 37/2020 privind aprobarea încheierii Actelor adiționale la Contractele de închiriere nr. 4061 , 4062 ,4063, 4064,4065,4066,4067,4068,4069,4070,4071/2018 de ajustare a chiriei la pășune pe anul 2020",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/14753",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/14753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-38-2020",
+   "path": "local/galati/grivita/2020/38",
+   "short": "HCL Grivița nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 38/2020 privind desemnarea reprezentantului comunei Grivita, judetul Galați în Adunarea Generala a Asociației de Dezvoltare Interecomunitara “Serviciul Regional de Apa” Galaţi, și acordarea unui mandat special",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/14754",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/14754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-39-2020",
+   "path": "local/galati/grivita/2020/39",
+   "short": "HCL Grivița nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 39/2020",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/14755",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/14755",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--grivita-40-2020",
    "path": "local/galati/grivita/2020/40",
    "short": "HCL Grivița nr. 40/2020",
@@ -148,6 +223,21 @@
      "from": "2020-11-27",
      "units": 1,
      "source_url": "https://emol.ro/grivita-gl/registru-hcl/14756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-41-2020",
+   "path": "local/galati/grivita/2020/41",
+   "short": "HCL Grivița nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 41/2020 privind desemnarea a doi reprezentanti ai Consiliului Local al com. Grivița, in Consiliul de Administratie al Scolii Gimnaziale Nr.1 Grivita în anul scolar 2020-2021",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/14757",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/14757",
      "sha256": null
     }
    ]
@@ -178,6 +268,36 @@
      "from": "2020-12-18",
      "units": 1,
      "source_url": "https://emol.ro/grivita-gl/registru-hcl/14759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-44-2020",
+   "path": "local/galati/grivita/2020/44",
+   "short": "HCL Grivița nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 44/2020",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/14760",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/14760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-45-2020",
+   "path": "local/galati/grivita/2020/45",
+   "short": "HCL Grivița nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 45/2020 privind aprobarea documentației de atribuire si a caietului de sarcini, în vederea vanzarii suprafetei de 303 mp teren extravilan, amplasat in T.30, P.431/1, Lot.1,numar cadastral 105153, proprietate privata a UAT Grivița, județul Galați",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/14761",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/14761",
      "sha256": null
     }
    ]

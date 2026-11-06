@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--malu-15-2026",
+   "path": "local/giurgiu/malu/2026/15",
+   "short": "HCL Malu nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 15/2026 privind alegerea președintelui de ședință pentru perioada aprilie - iunie 2026",
+   "url": "https://emol.ro/malu-gr/registru-hcl/265729",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/265729",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--malu-16-2026",
    "path": "local/giurgiu/malu/2026/16",
    "short": "HCL Malu nr. 16/2026",
@@ -108,6 +123,66 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--malu-2-2026",
+   "path": "local/giurgiu/malu/2026/2",
+   "short": "HCL Malu nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 2/2026 privind completarea componenței Comisiei economică, dezvoltare regională, integrare europeană și amenajarea teritoriului, urbanism, investiții a Consiliului Local al comunei Malu, judeţul Giurgiu",
+   "url": "https://emol.ro/malu-gr/registru-hcl/253066",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/253066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-27-2026",
+   "path": "local/giurgiu/malu/2026/27",
+   "short": "HCL Malu nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 27/2026 privind alegerea președintelui de ședință pentru perioada iulie - septembrie 2026",
+   "url": "https://emol.ro/malu-gr/registru-hcl/274652",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/274652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-28-2026",
+   "path": "local/giurgiu/malu/2026/28",
+   "short": "HCL Malu nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 28/2026 privind aprobarea înființării unui post de asistent social în cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”, Cod PIDS/586/PO4/339395",
+   "url": "https://emol.ro/malu-gr/registru-hcl/274653",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/274653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-29-2026",
+   "path": "local/giurgiu/malu/2026/29",
+   "short": "HCL Malu nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 29/2026",
+   "url": "https://emol.ro/malu-gr/registru-hcl/274654",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/274654",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--malu-3-2026",
    "path": "local/giurgiu/malu/2026/3",
    "short": "HCL Malu nr. 3/2026",
@@ -118,6 +193,51 @@
      "from": "2026-02-16",
      "units": 1,
      "source_url": "https://emol.ro/malu-gr/registru-hcl/253067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-30-2026",
+   "path": "local/giurgiu/malu/2026/30",
+   "short": "HCL Malu nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 30/2026 privind aprobarea completării Programului anual al achiziţiilor publice şi a Programului anual al achiziţiilor sectoriale ale comunei Malu pentru anul 2026",
+   "url": "https://emol.ro/malu-gr/registru-hcl/274655",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/274655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-4-2026",
+   "path": "local/giurgiu/malu/2026/4",
+   "short": "HCL Malu nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 4/2026 privind actualizarea componenței echipei mobile de intervenție la cazurile de violență domestică constituită la nivelul UAT Malu, județul Giurgiu",
+   "url": "https://emol.ro/malu-gr/registru-hcl/253070",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/253070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-5-2026",
+   "path": "local/giurgiu/malu/2026/5",
+   "short": "HCL Malu nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 5/2026",
+   "url": "https://emol.ro/malu-gr/registru-hcl/265683",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/265683",
      "sha256": null
     }
    ]
@@ -163,6 +283,21 @@
      "from": "2026-04-30",
      "units": 1,
      "source_url": "https://emol.ro/malu-gr/registru-hcl/265690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-9-2026",
+   "path": "local/giurgiu/malu/2026/9",
+   "short": "HCL Malu nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 9/2026",
+   "url": "https://emol.ro/malu-gr/registru-hcl/265694",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/265694",
      "sha256": null
     }
    ]

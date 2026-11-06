@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--farcasesti-64-2025",
+   "path": "local/gorj/farcasesti/2025/64",
+   "short": "HCL Fărcășești nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 64/2025 privind privind alegerea Președintelui de ședință al Consiliului Local Fărcășești",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/244912",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/244912",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--farcasesti-65-2025",
    "path": "local/gorj/farcasesti/2025/65",
    "short": "HCL Fărcășești nr. 65/2025",
@@ -268,6 +283,21 @@
      "from": "2026-03-04",
      "units": 1,
      "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/244919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-72-2025",
+   "path": "local/gorj/farcasesti/2025/72",
+   "short": "HCL Fărcășești nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 72/2025 privind acordarea unei scutiri de la plata impozitului pentru un teren afectat de lucrări de utilitate publică",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/244920",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/244920",
      "sha256": null
     }
    ]

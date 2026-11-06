@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-galati--beresti-meria-50-2021",
+"path": "local/galati/beresti-meria/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 50/2021 privind desemnarea reprezentantului Consiliului Local Berești Meria în Comisia de evaluare a concursului pentru ocuparea funcția de director Școala Slivna",
+"short": "HCL Berești-Meria nr. 50/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-05",
+"latest": "2021-11-05",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/44126",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--beresti-meria-51-2021",
 "path": "local/galati/beresti-meria/2021/51",
 "kind": "local",
@@ -353,6 +375,28 @@
 "council_name": "Consiliul Local al Comunei Berești-Meria",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--beresti-meria-62-2021",
+"path": "local/galati/beresti-meria/2021/62",
+"kind": "local",
+"year": "2021",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 62/2021 privind aprobarea inchirierii imobilutui in suprafeta de 3970 mp, T51,P253 sat Slivna",
+"short": "HCL Berești-Meria nr. 62/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/45034",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

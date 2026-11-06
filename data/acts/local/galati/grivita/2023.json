@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-galati--grivita-48-2023",
+"path": "local/galati/grivita/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 48/2023 privind rectificarea bugetului local pentru anul 2023 și estimari pe anii 2024",
+"short": "HCL Grivița nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/133268",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--grivita-49-2023",
 "path": "local/galati/grivita/2023/49",
 "kind": "local",
@@ -91,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-galati--grivita-50-2023",
+"path": "local/galati/grivita/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 50/2023 privind alegerea președintelui de ședința al Consiliului Local al comunei Grivița, județul Galați,pentru perioada decembrie 2023-februarie 2024",
+"short": "HCL Grivița nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/133270",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--grivita-51-2023",
 "path": "local/galati/grivita/2023/51",
 "kind": "local",
@@ -110,6 +154,95 @@
 "council_name": "Consiliul Local al Comunei Grivița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--grivita-52-2023",
+"path": "local/galati/grivita/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 52/2023 privind aprobarea dezmembrării unor terenuri aparținând domeniului privat de interes local al comunei Grivita, judetul Galați si întocmirea documentațiilor cadastrale necesare inscrierii noilor loturi în cartile funciare",
+"short": "HCL Grivița nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/133272",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--grivita-53-2023",
+"path": "local/galati/grivita/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 53/2023 privind modificarea și completarea HCL 35/27.09.2021 privind actualizarea și competarea inventarului bunurilor imobile apartinând domeniului privat al comunei Grivița, respectiv completarea, modificarea și actualizarea inventarului bunurilor și aprobarea întocmirii documentațiilor cadastrale necesare înscrierii dreptului de proprietate privata în cartile funciare",
+"short": "HCL Grivița nr. 53/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/133273",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--grivita-54-2023",
+"path": "local/galati/grivita/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 54/2023",
+"short": "HCL Grivița nr. 54/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/133281",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--grivita-55-2023",
+"path": "local/galati/grivita/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 55/2023 privind aprobarea noii documentații de atribuire în vederea închirierii spațiilor cu destinație de cabinete medicale din cadrul Dispensarului Uman, CF 101449 situat pe str.Badalan, Nr.12, Sat Grivita, comuna Grivita, judetul Galați",
+"short": "HCL Grivița nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/133282",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -265,6 +398,51 @@
 "council_name": "Consiliul Local al Comunei Grivița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--grivita-63-2023",
+"path": "local/galati/grivita/2023/63",
+"kind": "local",
+"year": "2023",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 63/2023",
+"short": "HCL Grivița nr. 63/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/135717",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--grivita-64-2023",
+"path": "local/galati/grivita/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 64/2023 privind aprobarea Regulamentului Serviciului Judetean de Salubritate Galati",
+"short": "HCL Grivița nr. 64/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/135718",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

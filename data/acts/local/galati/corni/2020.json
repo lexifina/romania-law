@@ -48,6 +48,28 @@
 }
 },
 {
+"slug": "hcl-galati--corni-14-2020",
+"path": "local/galati/corni/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 14/2020 privind alegerea presedintelui de sedinta ,pe o perioada de 3 luni ,care va conduce sedintele consiliului si va semna hotararile adoptate de acesta",
+"short": "HCL Corni nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/corni-gl/registru-hcl/9478",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--corni-15-2020",
 "path": "local/galati/corni/2020/15",
 "kind": "local",
@@ -136,6 +158,28 @@
 }
 },
 {
+"slug": "hcl-galati--corni-19-2020",
+"path": "local/galati/corni/2020/19",
+"kind": "local",
+"year": "2020",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 19/2020 privind alegerea președintelui de ședință, pe o perioadă de 3 luni, care va conduce ședințele consiliului și va semna hotărârile adoptate de acesta",
+"short": "HCL Corni nr. 19/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://emol.ro/corni-gl/registru-hcl/30056",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--corni-20-2020",
 "path": "local/galati/corni/2020/20",
 "kind": "local",
@@ -155,6 +199,50 @@
 "council_name": "Consiliul Local al Comunei Corni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--corni-21-2020",
+"path": "local/galati/corni/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 21/2020 privind alegerea viceprimarului comunei Corni, județul Galați",
+"short": "HCL Corni nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://emol.ro/corni-gl/registru-hcl/30058",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--corni-22-2020",
+"path": "local/galati/corni/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 22/2020 privind modificarea și completarea HCL nr. 9/20.02.2020 privind aprobarea Strategiei anuale de achiziție publică, pentru anul 2020, a comunei Corni",
+"short": "HCL Corni nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-18",
+"latest": "2020-11-18",
+"portal": "https://emol.ro/corni-gl/registru-hcl/30059",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -202,6 +290,73 @@
 }
 },
 {
+"slug": "hcl-galati--corni-25-2020",
+"path": "local/galati/corni/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 25/2020 privind aprobarea documentației aferente executării unor lucrări de sistematizare pentru două imobile - terenuri intravilan - proprietatea publică a comunei Corni, județul Galați, identificate în cvartal 18, parcela 17,18, 19,20, având număr cadastral 102984, respectiv cvartal 28, parcela 44, având număr cadastral 105941",
+"short": "HCL Corni nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-18",
+"latest": "2020-11-18",
+"portal": "https://emol.ro/corni-gl/registru-hcl/30062",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--corni-26-2020",
+"path": "local/galati/corni/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 26/2020 privind numirea dirigintelui de șantier pentru obiectivele de investiții ''Construire Anexe Grupuri Sanitare Școala Gimnazială Măcișeni, comuna Corni, județul Galați, precum și construire parcuri în satele Corni și Măcișeni, comuna Corni, județul Galați''",
+"short": "HCL Corni nr. 26/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-18",
+"latest": "2020-11-18",
+"portal": "https://emol.ro/corni-gl/registru-hcl/30063",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--corni-27-2020",
+"path": "local/galati/corni/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 27/2020",
+"short": "HCL Corni nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/corni-gl/registru-hcl/30064",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--corni-28-2020",
 "path": "local/galati/corni/2020/28",
 "kind": "local",
@@ -221,6 +376,29 @@
 "council_name": "Consiliul Local al Comunei Corni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--corni-29-2020",
+"path": "local/galati/corni/2020/29",
+"kind": "local",
+"year": "2020",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 29/2020",
+"short": "HCL Corni nr. 29/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/corni-gl/registru-hcl/30066",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

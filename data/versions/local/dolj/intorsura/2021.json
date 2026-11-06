@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/intorsura/2021",
+ "acts": [
+  {
+   "slug": "hcl-dolj--intorsura-40-2021",
+   "path": "local/dolj/intorsura/2021/40",
+   "short": "HCL Întorsura nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Întorsura nr. 40/2021 privind aprobarea strangerii gunoaielor partea de la podul Pascu Dragoianu si pana in varful pantei Având în vedere : - Referatul de aprobare intocmit de initiator, - Referatul de specialitate, - Raportul comisiei de specialitate - Proiectul de hotătâre - In conformitate cu prevederile ORDONANȚEI DE URGENȚĂ nr. 57 din 3 iulie 2019 privind Codul administrativ; În temeiul Art. 129 alin. (2) lit. a)",
+   "url": "http://primariaintorsura.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariaintorsura.ro/wp-content/uploads/2024/03/HCL_40-2021.pdf",
+     "sha256": "926d8932cd353e84b17c56f076896aa730921a5feb0789cf75a6c00227a44f4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--intorsura-43-2021",
+   "path": "local/dolj/intorsura/2021/43",
+   "short": "HCL Întorsura nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Întorsura nr. 43/2021 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul Aparatului propriu al Primăriei Com",
+   "url": "http://primariaintorsura.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariaintorsura.ro/wp-content/uploads/2024/03/HCL_43-2021.pdf",
+     "sha256": "84d425161683aac1811b85524084afcfc7f185f014c65a29fcd0563b37ad4902"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--intorsura-47-2021",
+   "path": "local/dolj/intorsura/2021/47",
+   "short": "HCL Întorsura nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Întorsura nr. 47/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariaintorsura.ro/wp-content/uploads/2024/03/HCL_47.pdf",
+     "sha256": "7594450f71db86312af5924aa8ff568f74b377a75e8ffebda91c96b4d9ada81c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--intorsura-50-2021",
+   "path": "local/dolj/intorsura/2021/50",
+   "short": "HCL Întorsura nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Întorsura nr. 50/2021 privind aprobarea acoperii , din alte surse de venituri ale bugetului local, a diferentei dintre valoarea facturilor emise de SC ECO Dolj si valoarea încasarilor realizate, în valoare de 31 mii lei",
+   "url": "http://primariaintorsura.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://www.primariaintorsura.ro/wp-content/uploads/2024/03/hcl_50.pdf",
+     "sha256": "74e4dcf8773c1dadf6973ba1e1bb6f241b3c3bf20de6cd6281702cb44a228220"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--intorsura-53-2021",
+   "path": "local/dolj/intorsura/2021/53",
+   "short": "HCL Întorsura nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Întorsura nr. 53/2021 Privind solicitarea fondurilor necesare pentru acordarea subvenției de încălzire și suplimentul pentru combustibili solizi sau lichizi aferent perioadei Noiembrie 2021 – martie 2022( ajutorul de încălzire - combustibili solizi și/sau petrolieri)",
+   "url": "http://primariaintorsura.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://www.primariaintorsura.ro/wp-content/uploads/2024/03/hcl_53.pdf",
+     "sha256": "cb27bf1ea007a4786ac66eb0a60af00d912aa7f3af76f22bab882ba257c37c9c"
+    }
+   ]
+  }
+ ]
+}

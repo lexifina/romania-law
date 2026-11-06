@@ -63,6 +63,36 @@
    ]
   },
   {
+   "slug": "hcl-galati--balabanesti-84-2020",
+   "path": "local/galati/balabanesti/2020/84",
+   "short": "HCL Bălăbănești nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 84/2020 privind desemnarea reprezentantului unității administrativ teritoriale comuna Bălăbănești în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”Serviciul Regional Apa Galați” și acordarea unui mandat special",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/18683",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/18683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-85-2020",
+   "path": "local/galati/balabanesti/2020/85",
+   "short": "HCL Bălăbănești nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 85/2020 privind desemnarea reprezentanului comunei Bălăbănești în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ECOSERV Galați",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/18684",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/18684",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--balabanesti-86-2020",
    "path": "local/galati/balabanesti/2020/86",
    "short": "HCL Bălăbănești nr. 86/2020",
@@ -163,6 +193,21 @@
      "from": "2020-12-09",
      "units": 1,
      "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/18691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-93-2020",
+   "path": "local/galati/balabanesti/2020/93",
+   "short": "HCL Bălăbănești nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 93/2020",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/18692",
+   "versions": [
+    {
+     "from": "2020-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/18692",
      "sha256": null
     }
    ]

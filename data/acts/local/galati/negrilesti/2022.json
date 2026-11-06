@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-galati--negrilesti-35-2022",
+"path": "local/galati/negrilesti/2022/35",
+"kind": "local",
+"year": "2022",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 35/2022 privind însuşirea în inventarul bunurilor din domeniul privat al Unității Administrativ-Teritoriale Comuna Negrilesti, a unor suprafete de teren aflate in intravilanul si extavilanul comunei Negrilesti judetul Galati",
+"short": "HCL Negrilești nr. 35/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-16",
+"latest": "2023-02-16",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/90495",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--negrilesti-36-2022",
 "path": "local/galati/negrilesti/2022/36",
 "kind": "local",
@@ -132,6 +154,29 @@
 "council_name": "Consiliul Local al Comunei Negrilești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-38-2022",
+"path": "local/galati/negrilesti/2022/38",
+"kind": "local",
+"year": "2022",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 38/2022",
+"short": "HCL Negrilești nr. 38/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-16",
+"latest": "2023-02-16",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/90498",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

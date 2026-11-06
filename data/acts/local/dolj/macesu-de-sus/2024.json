@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-dolj--macesu-de-sus-58-2024",
+"path": "local/dolj/macesu-de-sus/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 58/2024 privind desemnarea reprezentantului Consiliului Local Macesu de Sus, in cadrul Consiliului de Administratie si CEAC al Scolii Gimnaziale”SF. DUMITRU ”Macesu de Sus pentru anul scolar 2024-2025",
+"short": "HCL Măceșu de Sus nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/191551",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--macesu-de-sus-59-2024",
 "path": "local/dolj/macesu-de-sus/2024/59",
 "kind": "local",

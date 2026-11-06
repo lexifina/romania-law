@@ -1,0 +1,711 @@
+{
+ "country": "RO",
+ "shard": "local/galati/beresti/2020",
+ "acts": [
+  {
+   "slug": "hcl-galati--beresti-10-2020",
+   "path": "local/galati/beresti/2020/10",
+   "short": "HCL Berești nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 10/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020HCL%20Nr.%2010%20din%2020.02.2020%20aprobare%20buget%20si%20program%20investitii%20pe%202020.pdf",
+     "sha256": "9d8e09981a38ed50a9795548848ec00e649af119a80b184d2f6a39d8fd394aee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-11-2020",
+   "path": "local/galati/beresti/2020/11",
+   "short": "HCL Berești nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 11/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr.%2011%20din%2027.02.2020%20utilizare%20excedent.pdf",
+     "sha256": "c9a90894435f9aeaa1180eb11a40fb5f5b2f4abe4c2c1981b175219ece7aef4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-12-2020",
+   "path": "local/galati/beresti/2020/12",
+   "short": "HCL Berești nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 12/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr.%2012%20din%2027.02.2020%20aprobare%20Raport%20evaluare%20apartament.pdf",
+     "sha256": "7288d460fc925dea809cbaea8424c77130b7e79b76f04b1d2a75cccd78830552"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-13-2020",
+   "path": "local/galati/beresti/2020/13",
+   "short": "HCL Berești nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 13/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr.%2013%20din%2027.02.2020%20delegare%20gestiune%20activitati%20salubritate.pdf",
+     "sha256": "6a6cb05b1eaff14ff9644e3273e10e0cd177416b89a5f0237dcf124d00b6308c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-14-2020",
+   "path": "local/galati/beresti/2020/14",
+   "short": "HCL Berești nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 14/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr.%2014%20din%2027.02.2020%20rectificare%20buget%20si%20Program%20investitii%202020.pdf",
+     "sha256": "6c3f01609a735af6603211d24337339c5dcef0d6a1fdbb4963bb5ab086a422fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-15-2020",
+   "path": "local/galati/beresti/2020/15",
+   "short": "HCL Berești nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 15/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr.%2015%20din%2030.03.2020%20insusire%20raport%20consum%20autogreder.pdf",
+     "sha256": "f7627e50cb82d6f8825a9ae0e2dda22f34f026a12e1aed531413f76bf92580b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-16-2020",
+   "path": "local/galati/beresti/2020/16",
+   "short": "HCL Berești nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 16/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr.%2016%20din%2030.03.2020%20modificare%20termen%20plata%20impozite.pdf",
+     "sha256": "7485e1a4f4341bb9e70cf1d761b51b1716cba6cf62fd4533eab5491c515b5201"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-17-2020",
+   "path": "local/galati/beresti/2020/17",
+   "short": "HCL Berești nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 17/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr.%2017%20din%2030.04.2020%20validare%20mandat%20consilier%20local.pdf",
+     "sha256": "75581d1dd5b392df141fc95464eadd8fab237b5c4ac95130f1cd45a88f8b406e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-18-2020",
+   "path": "local/galati/beresti/2020/18",
+   "short": "HCL Berești nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 18/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr.%2018%20din%2030.04.2020%20validare%20mandat%20consilier%20local.pdf",
+     "sha256": "a338d4d554ce64ae8cc0c6622db0312dd917dc52de380bf5d8f72c0d87f4bb10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-19-2020",
+   "path": "local/galati/beresti/2020/19",
+   "short": "HCL Berești nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 19/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr.%2019%20din%2030.04.2020%20completare%20regulament%20CL%20si%20procedura%20vot%20electronic.pdf",
+     "sha256": "214daca554a739357ee467ea2ebbed6e45975d6d396258784afbf6de7a0e4df4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-2-2020",
+   "path": "local/galati/beresti/2020/2",
+   "short": "HCL Berești nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 2/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020HCL%20Nr.%202%20din%2031.01.2020%20Plan%20actiuni%20beneficiari%20ajutor%20social.pdf",
+     "sha256": "bd3fc22ea08bf7a0c2bbc97d0caae2cb21bbd64a127b0f536de347b533ce8d21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-20-2020",
+   "path": "local/galati/beresti/2020/20",
+   "short": "HCL Berești nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 20/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr.%2020%20din%2030.04.2020%20inregistrare%20teren%20intrav%20domeniul%20privat.pdf",
+     "sha256": "9ef7e41fe459aa12d840f97bd5d9709be13619fff870d9462d63fdf008dcce86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-21-2020",
+   "path": "local/galati/beresti/2020/21",
+   "short": "HCL Berești nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 21/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-05-22",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr.%2021%20din%2022.05.2020%20rectificare%20buget%20si%20program%20investitii.pdf",
+     "sha256": "8b748f5ee0db7bb6ea93b7642b360eace2e770dcacdd5001bf422a4f852a779f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-22-2020",
+   "path": "local/galati/beresti/2020/22",
+   "short": "HCL Berești nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 22/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr.%2022%20din%2029.05.2020%20impozite%20si%20taxe%20locale%20pe%202021.pdf",
+     "sha256": "7e02e68fe979ec444021a773c0e0721f58562958db5a120f35b38753139d0f56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-23-2020",
+   "path": "local/galati/beresti/2020/23",
+   "short": "HCL Berești nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 23/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr.%2023%20din%2029.05.2020%20aprobare%20cont%20executie%20pe%202019.pdf",
+     "sha256": "90a0e80d197cbcb48927113cb886617d70e635885ce011c6cedb2ab0b5d28008"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-25-2020",
+   "path": "local/galati/beresti/2020/25",
+   "short": "HCL Berești nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 25/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr.%2025%20din%2030.06.2020%20inregistrare%20teren%20intrav%20in%20domeniul%20privat.pdf",
+     "sha256": "3bf8a5f8116ba4205be6a731ff7b96cfd9056316ed318e460a28a92ac8553b18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-26-2020",
+   "path": "local/galati/beresti/2020/26",
+   "short": "HCL Berești nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 26/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr.%2026%20din%2030.06.2020%20alegere%20presedinte%20sedinta.pdf",
+     "sha256": "41eee3b1e55ce55d24af9833274695cdf1390e704889a9b122e0593a1371d216"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-27-2020",
+   "path": "local/galati/beresti/2020/27",
+   "short": "HCL Berești nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 27/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+     "sha256": "835f053a0173dfadff425c2c8965796b3e215615bdd3461ec19ab0f143091468"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-28-2020",
+   "path": "local/galati/beresti/2020/28",
+   "short": "HCL Berești nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 28/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr.%2028%20din%2031.07.2020%20aprobare%20Raport%20asistenti%20Sem%20I%202020.pdf",
+     "sha256": "6dba0fb4f996692b7851fd42c834051bbcaf43a6b4124c3f000d78f4216d9f78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-29-2020",
+   "path": "local/galati/beresti/2020/29",
+   "short": "HCL Berești nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 29/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr.%2029%20din%2031.07.2020%20dezmembrare%20terenuri%20intrav%20strazi.pdf",
+     "sha256": "99b974ecbb850f96497929690f1102829da9b8f26e8ead1fb3824da1ecada072"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-3-2020",
+   "path": "local/galati/beresti/2020/3",
+   "short": "HCL Berești nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 3/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020HCL%20Nr.%203%20din%2031.01.2020%20Plan%20servicii%20sociale%20finantate%20in%20anul%202020.pdf",
+     "sha256": "30e5172924edba57f00e6416e22853a6b5e9e1b6d09923b7277b55af3f7ea4ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-30-2020",
+   "path": "local/galati/beresti/2020/30",
+   "short": "HCL Berești nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 30/2020 privind revizuirea pe anul 2020 a numărului maxim de posturi ce pot fi încadrate la nivelul unităților administrativ-teritoriale, cu excepția celor din cadrul capitolului bugetar „Învățământ” finanțat din bugetele locale, precum și capitolelor bugetare „Sănătate”, „Asigurări și asistență socială” și „Servicii publice de interes local sau județean, specializate, cu personalitate juridică”, înființa",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr%2030%20din%2031.08.2020%20reorganizare%20Aparat%20specialitate%20Primar.pdf",
+     "sha256": "d55160589c82e004df8410605aba77484b81d0a7c7823d546921ca509cfacdde"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-31-2020",
+   "path": "local/galati/beresti/2020/31",
+   "short": "HCL Berești nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 31/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr%2031%20din%2031.08.2020%20rectificare%20buget.pdf",
+     "sha256": "fd39e82d4c7884f12524ce37bbf03e4bb560b1e811626b0d6ca6577f80517c13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-32-2020",
+   "path": "local/galati/beresti/2020/32",
+   "short": "HCL Berești nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 32/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20nr%2032%20din%2030.09.2020%20rectificare%20buget.pdf",
+     "sha256": "7c525ba60c5daa89e39320017ada00f94e375d83fa3ed81fe68d215c5405ecab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-34-2020",
+   "path": "local/galati/beresti/2020/34",
+   "short": "HCL Berești nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 34/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-10-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr%2034%20din%2031.10.2020%20alegere%20viceprimar.pdf",
+     "sha256": "7c896b3364b72a9eaa5dffa97de79d5c62a85e8a8cf61ee8a941eef66eaedc63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-35-2020",
+   "path": "local/galati/beresti/2020/35",
+   "short": "HCL Berești nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 35/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-10-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f7d5f0ccec1017d0bb41c2bd1ccae67dc81ab61a36107a608522b4a49ffde13f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-36-2020",
+   "path": "local/galati/beresti/2020/36",
+   "short": "HCL Berești nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 36/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-10-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr%2036%20din%2031.10.2020%20rectificare%20buget%20si%20lista%20investitii.pdf",
+     "sha256": "3970052f63cc095b042b902754968ae00d908bde4fab1ed1060723b87eb555f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-37-2020",
+   "path": "local/galati/beresti/2020/37",
+   "short": "HCL Berești nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 37/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-10-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr%2037%20din%2031.10.2020%20reprezentant%20CL%20in%20CA%20scoala.pdf",
+     "sha256": "9ff483c9ddeead93a49393d307c45b31e0190475181bd79616b3756f072327a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-39-2020",
+   "path": "local/galati/beresti/2020/39",
+   "short": "HCL Berești nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 39/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr.%2039%20din%2016.11.2020%20revocare%20HCL%2034.pdf",
+     "sha256": "836cccbdc04f4371bfd94f1f5f017a86472aab40faad6d19acff99fa923aa2f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-4-2020",
+   "path": "local/galati/beresti/2020/4",
+   "short": "HCL Berești nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 4/2020 privind registrul agricol 2020-2024",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020HCL%20Nr.%204%20din%2031.01.2020%20masuri%20privind%20registrul%20agricol%202020-2024.pdf",
+     "sha256": "77028aa5ab0e89e97df030303c5723188416ffc56cfe85451bbf6481459d6598"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-40-2020",
+   "path": "local/galati/beresti/2020/40",
+   "short": "HCL Berești nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 40/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr.%2040%20din%2016.11.2020%20alegere%20viceprimar.pdf",
+     "sha256": "42254044fa4b49fc8e357be436d114fac9c3c534e36d71f0694ee37490fdff24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-41-2020",
+   "path": "local/galati/beresti/2020/41",
+   "short": "HCL Berești nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 41/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr.%2041%20din%2016.11.2020%20desemnare%20reprezentant%20in%20relatia%20cu%20AFIR.pdf",
+     "sha256": "9466574f48c2a522ecdac67e1275ea905ee8415fff4a510e59f09408292f35a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-42-2020",
+   "path": "local/galati/beresti/2020/42",
+   "short": "HCL Berești nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 42/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020_HCL%20Nr.%2042%20din%2016.11.2020%20desemnare%20reprezentant%20in%20relatia%20cu%20AFIR.pdf",
+     "sha256": "44e322661b3622396f78b267f1b3bc00e596edc4b783bd47a279471a301deda5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-44-2020",
+   "path": "local/galati/beresti/2020/44",
+   "short": "HCL Berești nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 44/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cee1bebaaadc8e3804e377dcbeeace23f9175ad5d519a003fa0e070c0584f63e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-45-2020",
+   "path": "local/galati/beresti/2020/45",
+   "short": "HCL Berești nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 45/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2021_HCL%20Nr.%2045%20din%2011.12.2020%20rectificare%20buget.pdf",
+     "sha256": "b8b4d2d94e3d27426c34feff34e76845002543d55eabf8a9080c5d7ef4358434"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-46-2020",
+   "path": "local/galati/beresti/2020/46",
+   "short": "HCL Berești nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 46/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2021_HCL%20Nr.%2046%20din%2011.12.2020%20burse%20scolare.pdf",
+     "sha256": "a284a0aecda2d38ad27dc32f0acb63b11c56dcab3529eabe509e36ef4b8e55de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-47-2020",
+   "path": "local/galati/beresti/2020/47",
+   "short": "HCL Berești nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 47/2020 privind : repartizarea apartamentului nr. 18 din blocul A1, str",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2021_HCL%20Nr.%2047%20din%2011.12.2020%20repartizare%20apartament%20fond%20locativ.pdf",
+     "sha256": "a3395e0a55ce1570d8b96d3a71e621702ee81b90ceb53bffd6712ec9431023d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-48-2020",
+   "path": "local/galati/beresti/2020/48",
+   "short": "HCL Berești nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 48/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "da5ccb89a8e8c87d3b50e5ceb5e955617ff8d1b6ab8c997da89ff04263c88715"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-5-2020",
+   "path": "local/galati/beresti/2020/5",
+   "short": "HCL Berești nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 5/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020HCL%20Nr.%205%20din%2031.01.2020%20comisie%20determinare%20consum%20autogreder.pdf",
+     "sha256": "64edccf34f7d63ee78e16c2fb96e42e35664156576e68184e9ac17dfe94de912"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-50-2020",
+   "path": "local/galati/beresti/2020/50",
+   "short": "HCL Berești nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 50/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2021_HCL%20Nr.%2050%20din%2023.12.2020%20Program%20biblioteca%202021.pdf",
+     "sha256": "abe65beec951d3b37cb73de275903083c446fcc257a546671fc3cf3ff2c2a828"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-51-2020",
+   "path": "local/galati/beresti/2020/51",
+   "short": "HCL Berești nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 51/2020 privind : concesionarea prin licitație publică a unor terenuri intravilane cu o suprafață totală de 1.760 m.p., situate în str. Lt",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+     "sha256": "5e5fafd0812302e24c4fdd96946988a1473eb9343e1aa092296c263e17e3ea87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-52-2020",
+   "path": "local/galati/beresti/2020/52",
+   "short": "HCL Berești nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 52/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1201747d8e6766b1724ecef7b9db75e4d45bb245446e820a93fbe79a7ed828c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-53-2020",
+   "path": "local/galati/beresti/2020/53",
+   "short": "HCL Berești nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 53/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2021_HCL%20Nr.%2053%20din%2023.12.2020%20rectificare%20buget.pdf",
+     "sha256": "7a79645fc8df152c3624885ed723b7bdf760e715588af09589deac729531d218"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-54-2020",
+   "path": "local/galati/beresti/2020/54",
+   "short": "HCL Berești nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 54/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ca25239f617bc841029079e0cec3fa24613ae7919c816a37c86a091ccb550fe9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-6-2020",
+   "path": "local/galati/beresti/2020/6",
+   "short": "HCL Berești nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 6/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020HCL%20Nr.%206%20din%2031.01.2020%20stabilire%20salarii%20cu%2001.01.2020.pdf",
+     "sha256": "aca66142dd2f2452c14f695adce39a2a41f21d2e9321afc788e69fbfa1dfdc97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-8-2020",
+   "path": "local/galati/beresti/2020/8",
+   "short": "HCL Berești nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 8/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020HCL%20Nr.%208%20din%2031.01.2020%20modificare%20HCL%20aprobare%20SMID.pdf",
+     "sha256": "7fdb6d871a68e74cd9a6419808033172a6f02bc666a01554b3ae78fc59664f6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-9-2020",
+   "path": "local/galati/beresti/2020/9",
+   "short": "HCL Berești nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 9/2020",
+   "url": "https://www.orasulberesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2020HCL%20Nr.%209%20din%2014.02.2020%20aprobare%20plan%20evolutie%20tarife%20si%20taxe%20salubritate.pdf",
+     "sha256": "0c604c4fdcaf7749e14fdf08ca6c7d970ce77cca15cd40011e6c2fdad19e62ea"
+    }
+   ]
+  }
+ ]
+}

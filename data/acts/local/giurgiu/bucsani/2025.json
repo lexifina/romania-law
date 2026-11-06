@@ -91,6 +91,94 @@
 }
 },
 {
+"slug": "hcl-giurgiu--bucsani-46-2025",
+"path": "local/giurgiu/bucsani/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 46/2025 privind privind actualizarea componentei Consiliului Comunitar si aprobarea Regulamentului de organizare și funcționare a Consiliului Comunitar Consultativ constituit la nivelul comunei Bucsani, județul Giurgiu",
+"short": "HCL Bucșani nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://emol.ro/bucsani-gr/registru-hcl/227139",
+"council": "giurgiu/bucsani",
+"council_name": "Consiliul Local al Comunei Bucșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--bucsani-47-2025",
+"path": "local/giurgiu/bucsani/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 47/2025 privind privind desemnarea de reprezentanti ai Consiliului Local Bucani în Consiliul de Administrație al Școlii Gimnaziale nr. 1 Bucsani ,pentru anul scolar 2025-2026",
+"short": "HCL Bucșani nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://emol.ro/bucsani-gr/registru-hcl/227140",
+"council": "giurgiu/bucsani",
+"council_name": "Consiliul Local al Comunei Bucșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--bucsani-48-2025",
+"path": "local/giurgiu/bucsani/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 48/2025 privind constituirea echipei mobile care asigură intervenția de urgență în cazurile de violență domestică în comuna Bucsani",
+"short": "HCL Bucșani nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://emol.ro/bucsani-gr/registru-hcl/227141",
+"council": "giurgiu/bucsani",
+"council_name": "Consiliul Local al Comunei Bucșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--bucsani-49-2025",
+"path": "local/giurgiu/bucsani/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 49/2025 privind alegerea presedintelui de sedinta",
+"short": "HCL Bucșani nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://emol.ro/bucsani-gr/registru-hcl/227142",
+"council": "giurgiu/bucsani",
+"council_name": "Consiliul Local al Comunei Bucșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--bucsani-50-2025",
 "path": "local/giurgiu/bucsani/2025/50",
 "kind": "local",
@@ -110,6 +198,50 @@
 "council_name": "Consiliul Local al Comunei Bucșani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--bucsani-51-2025",
+"path": "local/giurgiu/bucsani/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 51/2025 privind aprobarea Devizului general actualizat cu cota de TVA 21% aplicabila incepand cu 01.08.2025 ,pentru realizarea obiectivului de investitie,, Extindere a infrastructurii de iluminat public in comuna Bucsani judetul Giurgiu ,,",
+"short": "HCL Bucșani nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-16",
+"latest": "2026-02-16",
+"portal": "https://emol.ro/bucsani-gr/registru-hcl/229573",
+"council": "giurgiu/bucsani",
+"council_name": "Consiliul Local al Comunei Bucșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--bucsani-52-2025",
+"path": "local/giurgiu/bucsani/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 52/2025 privind aprobare înființare posturi în cadrul compartimentului Asistenţă socială, medicală comunitară în afara organigramei aparatului de specialitate al Primarului comunei Bucsani , ca membri ai ECI în cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale –facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate” Cod PIDS/586/PO4/339395",
+"short": "HCL Bucșani nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/bucsani-gr/registru-hcl/232608",
+"council": "giurgiu/bucsani",
+"council_name": "Consiliul Local al Comunei Bucșani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -242,6 +374,28 @@
 "council_name": "Consiliul Local al Comunei Bucșani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--bucsani-59-2025",
+"path": "local/giurgiu/bucsani/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 59/2025 privind aprobarea unor măsuri pentru asigurarea sustenabilității Proiectului „Microbuze electrice pentru elevii din Județul Giurgiu”",
+"short": "HCL Bucșani nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-16",
+"latest": "2026-02-16",
+"portal": "https://emol.ro/bucsani-gr/registru-hcl/239178",
+"council": "giurgiu/bucsani",
+"council_name": "Consiliul Local al Comunei Bucșani",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

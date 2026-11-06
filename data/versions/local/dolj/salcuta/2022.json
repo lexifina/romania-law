@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/salcuta/2022",
+ "acts": [
+  {
+   "slug": "hcl-dolj--salcuta-10-2022",
+   "path": "local/dolj/salcuta/2022/10",
+   "short": "HCL Sălcuța nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 10/2022",
+   "url": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "http://primaria-salcuta.ro/wp/wp-content/uploads/2022/04/HCL-S%C4%83lcu%C8%9Ba-nr.-10-25.02.2022.pdf",
+     "sha256": "47c1b3821b88216aad9ab3ca441a37cc5ccf691778eb62023a0deee1a464d499"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--salcuta-11-2022",
+   "path": "local/dolj/salcuta/2022/11",
+   "short": "HCL Sălcuța nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 11/2022",
+   "url": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "http://primaria-salcuta.ro/wp/wp-content/uploads/2022/04/HCL-S%C4%83lcu%C8%9Ba-nr.-11-31.03.2022.pdf",
+     "sha256": "493d4736f326bc9040183c57dd50071530a63fd15ec916f6b368cd6f1ed2941b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--salcuta-12-2022",
+   "path": "local/dolj/salcuta/2022/12",
+   "short": "HCL Sălcuța nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 12/2022",
+   "url": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "http://primaria-salcuta.ro/wp/wp-content/uploads/2022/04/HCL-S%C4%83lcu%C8%9Ba-nr.-12-31.03.2022.pdf",
+     "sha256": "7a0ed610c681da330de2981f5c3ab121fc51346e61708658991d9f451caf4a52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--salcuta-13-2022",
+   "path": "local/dolj/salcuta/2022/13",
+   "short": "HCL Sălcuța nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 13/2022",
+   "url": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "http://primaria-salcuta.ro/wp/wp-content/uploads/2022/04/HCL-S%C4%83lcu%C8%9Ba-nr.-13-31.03.2022.pdf",
+     "sha256": "80f6e886540a7a9e401270741edce99dec36e96be333dbaf0e4732059877770e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--salcuta-18-2022",
+   "path": "local/dolj/salcuta/2022/18",
+   "short": "HCL Sălcuța nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 18/2022",
+   "url": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 1,
+     "source_url": "http://primaria-salcuta.ro/wp/wp-content/uploads/2022/05/HCL-S%C4%83lcu%C8%9Ba-nr.-18-18.05.2022-2.pdf",
+     "sha256": "1ef052fc2fa905fee04489daab401a1a988d3ff17b2f657479cab220189dde77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--salcuta-19-2022",
+   "path": "local/dolj/salcuta/2022/19",
+   "short": "HCL Sălcuța nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 19/2022",
+   "url": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 1,
+     "source_url": "http://primaria-salcuta.ro/wp/wp-content/uploads/2022/05/HCL-S%C4%83lcu%C8%9Ba-nr.-19-18.05.2022.pdf",
+     "sha256": "83156ed35c241fcdae507d22168a508b103fb4e82440c23e0a74773261830659"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--salcuta-20-2022",
+   "path": "local/dolj/salcuta/2022/20",
+   "short": "HCL Sălcuța nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 20/2022",
+   "url": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 1,
+     "source_url": "http://primaria-salcuta.ro/wp/wp-content/uploads/2022/05/HCL-S%C4%83lcu%C8%9Ba-nr.-20-18.05.2022.pdf",
+     "sha256": "66a1d1fd8f41e0f3aae9db72b33d64536d729b8a850629ca6e9872a9fc371bd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--salcuta-21-2022",
+   "path": "local/dolj/salcuta/2022/21",
+   "short": "HCL Sălcuța nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 21/2022",
+   "url": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "http://primaria-salcuta.ro/wp/wp-content/uploads/2022/07/HCL-nr.-21-22.06.2022-Stabilire-impozite-si-taxe-locale-pentru-anul-2023.pdf",
+     "sha256": "176d0c05b108c4a70c80c0a155aa589a600c91d2889f9ba3e87b4349a81a3741"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--salcuta-23-2022",
+   "path": "local/dolj/salcuta/2022/23",
+   "short": "HCL Sălcuța nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 23/2022",
+   "url": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "http://primaria-salcuta.ro/wp/wp-content/uploads/2022/07/HCL-nr.-23-22.06.2022-Stabilire-nr.-%C8%99i-cuantum-burse-%C8%99colare-pentru-sem-II-anul-2021-2022.pdf",
+     "sha256": "9375dcb931ed376f381335367ae84913d8145c2a725cf6924c4fe82c0df9342b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--salcuta-25-2022",
+   "path": "local/dolj/salcuta/2022/25",
+   "short": "HCL Sălcuța nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 25/2022",
+   "url": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "http://primaria-salcuta.ro/wp/wp-content/uploads/2022/07/HCL-nr.-25-22.06.2022-Aprobare-indicatori-tehnico-economici-%C8%99i-deviz-general-la-obiectivul-de-investi%C8%9Bii-Reabilitare-DC101.pdf",
+     "sha256": "a6c31ce370698732a82a8d7c0d38b18b0731ae09d9bb7dcdf51961498f29a242"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--salcuta-26-2022",
+   "path": "local/dolj/salcuta/2022/26",
+   "short": "HCL Sălcuța nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 26/2022",
+   "url": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "units": 1,
+     "source_url": "http://primaria-salcuta.ro/wp/wp-content/uploads/2022/08/HCL-Salcuta-nr.-26-22.07.2022.pdf",
+     "sha256": "d2ea66afbbaf72d6cfb7196fc30ddf48d1b56e8b4ef97380d91c0bd432882d96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--salcuta-27-2022",
+   "path": "local/dolj/salcuta/2022/27",
+   "short": "HCL Sălcuța nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 27/2022",
+   "url": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "units": 1,
+     "source_url": "http://primaria-salcuta.ro/wp/wp-content/uploads/2022/08/HCL-Salcuta-nr.-27-22.07.2022-decontare-transport-cadre-didactice.pdf",
+     "sha256": "ead182f9f12f7c3ef55f08269c03be0a014122cde3fb99e8cafd94cc879984dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--salcuta-28-2022",
+   "path": "local/dolj/salcuta/2022/28",
+   "short": "HCL Sălcuța nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 28/2022",
+   "url": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "units": 1,
+     "source_url": "http://primaria-salcuta.ro/wp/wp-content/uploads/2022/08/HCL-Salcuta-nr.-28-22.07.2022-aprobare-cont-de-executie-al-BVC-la-data-de-30.06.2022.pdf",
+     "sha256": "f5bfdfe7103b71b4d6065c05010e9804e1fc962d9192cf7cb1add45f93388353"
+    }
+   ]
+  }
+ ]
+}

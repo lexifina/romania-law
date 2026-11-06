@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/baneasa/2020",
+"acts": [
+{
+"slug": "hcl-giurgiu--baneasa-13-2020",
+"path": "local/giurgiu/baneasa/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 13/2020",
+"short": "HCL Băneasa nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-26",
+"latest": "2020-01-26",
+"portal": "http://www.primariabaneasagr.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+"council": "giurgiu/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--baneasa-20-2020",
+"path": "local/giurgiu/baneasa/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 20/2020",
+"short": "HCL Băneasa nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-16",
+"latest": "2020-02-16",
+"portal": "http://www.primariabaneasagr.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+"council": "giurgiu/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--baneasa-21-2020",
+"path": "local/giurgiu/baneasa/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 21/2020",
+"short": "HCL Băneasa nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-16",
+"latest": "2020-02-16",
+"portal": "http://www.primariabaneasagr.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+"council": "giurgiu/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--baneasa-22-2020",
+"path": "local/giurgiu/baneasa/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 22/2020",
+"short": "HCL Băneasa nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-16",
+"latest": "2020-02-16",
+"portal": "http://www.primariabaneasagr.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+"council": "giurgiu/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--baneasa-23-2020",
+"path": "local/giurgiu/baneasa/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 23/2020",
+"short": "HCL Băneasa nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-16",
+"latest": "2020-02-16",
+"portal": "http://www.primariabaneasagr.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+"council": "giurgiu/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--baneasa-24-2020",
+"path": "local/giurgiu/baneasa/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 24/2020",
+"short": "HCL Băneasa nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-16",
+"latest": "2020-02-16",
+"portal": "http://www.primariabaneasagr.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+"council": "giurgiu/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

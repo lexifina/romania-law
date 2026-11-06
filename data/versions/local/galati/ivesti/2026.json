@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--ivesti-63-2026",
+   "path": "local/galati/ivesti/2026/63",
+   "short": "HCL Ivești nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 63/2026 privind aprobarea vânzării prin licitație publică a terenului în suprafață de 483 mp., aparținând domeniului privat al comunei Ivești, județul Galați, situat în intravilan, T31, P 1-6",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/289303",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/289303",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--ivesti-64-2026",
    "path": "local/galati/ivesti/2026/64",
    "short": "HCL Ivești nr. 64/2026",
@@ -193,6 +208,51 @@
      "from": "2026-10-16",
      "units": 1,
      "source_url": "https://emol.ro/ivesti-gl/registru-hcl/293642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-66-2026",
+   "path": "local/galati/ivesti/2026/66",
+   "short": "HCL Ivești nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 66/2026 privind desemnarea reprezentanților Consiliului local al comunei Ivești, județul Galați în consiliile de administrație ale unităților de învățământ de pe raza comunei Ivești, județul Galați",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/293669",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/293669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-67-2026",
+   "path": "local/galati/ivesti/2026/67",
+   "short": "HCL Ivești nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 67/2026 privind desemnarea reprezentanțilorConsiliului local al comunei Ivești, județul Galați, în Comisiile pentru asigurarea și evaluarea calității din cadrul instituțiilor de învățământ din comuna Ivești, județul Galați",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/293643",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/293643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-68-2026",
+   "path": "local/galati/ivesti/2026/68",
+   "short": "HCL Ivești nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 68/2026 privind desemnarea reprezentanților Consiliului Local Ivești în comisia de evaluare a probei interviu, la concursul pentru ocuparea funcțiilor de director/director adjunct Liceul tehnologic ''Horetensia Papadat Bengescu'' și Școala Gimnazială ''Negoiță Dănăilă'' din comuna Ivești, județul Galați",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/293644",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/293644",
      "sha256": null
     }
    ]

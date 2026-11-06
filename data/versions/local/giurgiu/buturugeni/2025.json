@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/buturugeni/2025",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--buturugeni-6-2025",
+   "path": "local/giurgiu/buturugeni/2025/6",
+   "short": "HCL Buturugeni nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buturugeni nr. 6/2025",
+   "url": "https://www.comunabuturugeni.ro/wp-content/uploads/2025/04/hot.-nr.-6-29.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://www.comunabuturugeni.ro/wp-content/uploads/2025/04/hot.-nr.-6-29.04.2025.pdf",
+     "sha256": "b0476c6c5c405506dae1a40ec0581e655f7e9ab3fa97f110d49dd221ffdd492e"
+    }
+   ]
+  }
+ ]
+}

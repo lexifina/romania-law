@@ -3,6 +3,36 @@
  "shard": "local/galati/cuca/2026",
  "acts": [
   {
+   "slug": "hcl-galati--cuca-17-2026",
+   "path": "local/galati/cuca/2026/17",
+   "short": "HCL Cuca nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 17/2026 privind aprobarea Contractului de parteneriat între UAT Comuna Cuca prin Consiliul Local al comunei Cuca şi UAT Județul Galați prin",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.17.pdf",
+     "sha256": "772583ea0cee8b7c011e2ebe2d8defe760cf3faec31d81db0ba34d0549152a3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-18-2026",
+   "path": "local/galati/cuca/2026/18",
+   "short": "HCL Cuca nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 18/2026 privind reorganizarea aparatului de specialitate al primarului comunei Cuca , județul Galați, HCL nr.18",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.18.pdf",
+     "sha256": "10690937a571cae6a39286ab40b65e5499cd96635c0b57d4c2f6ed05c0d89b24"
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--cuca-19-2026",
    "path": "local/galati/cuca/2026/19",
    "short": "HCL Cuca nr. 19/2026",
@@ -18,6 +48,171 @@
    ]
   },
   {
+   "slug": "hcl-galati--cuca-20-2026",
+   "path": "local/galati/cuca/2026/20",
+   "short": "HCL Cuca nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 20/2026 privind alocarea sumei de 60 mii lei celor două Parohii din comuna Cuca , județul Galați , în vederea continuării lucrărilor de reabilitare a bisericilor HCL nr.20",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.20.pdf",
+     "sha256": "913fd032348ca1db6d333464cd8b18c980ea89506486ab9cab4556c05de6e132"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-21-2026",
+   "path": "local/galati/cuca/2026/21",
+   "short": "HCL Cuca nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 21/2026 privind stabilirea sumei cheltuielilor de executare silită ocazionate de tipărirea și comunicarea prin poștă a documentelor de executare silită. HCL nr.21",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.21.pdf",
+     "sha256": "2f984b59fce9d2e1250c77658da88a2558b49773cc19df480c139383177f7906"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-22-2026",
+   "path": "local/galati/cuca/2026/22",
+   "short": "HCL Cuca nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 22/2026 privind aprobarea Studiului de fundamentare și oportunitate, delegarea gestiunii serviciului de salubrizare pentru activitățile de transfer și tratare mecano-biologică cu digestie anaerobă, documentației de atribuire pentru contractul Proiectare – execuție-operare „Stație de tratare mecano-biologică cu digestie anaerobă și recuperare de energie și stație de transfer Galați”, precum și acordarea un",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.22.pdf",
+     "sha256": "e2db66fbc7c84cc018faf2b0ac768e61cfb0395df13cebac0f20dd3afdb7f8e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-23-2026",
+   "path": "local/galati/cuca/2026/23",
+   "short": "HCL Cuca nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 23/2026 privind aprobarea Documentului de poziție privind modul de implementare a proiectului ’’Sistem de management integrat al deșeurilor în județul Galați HCL nr.23",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.23.pdf",
+     "sha256": "0517335690686a06cf12a39d09970052babcfc1563016c3b28ec66e35c06b79f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-24-2026",
+   "path": "local/galati/cuca/2026/24",
+   "short": "HCL Cuca nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 24/2026 privind rectificarea bugetului local pe anul 2026 HCL nr.24",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.24.pdf",
+     "sha256": "a59823a548a82a7c5a82c290487280bc158856b03fe9956717615005dd6877fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-25-2026",
+   "path": "local/galati/cuca/2026/25",
+   "short": "HCL Cuca nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 25/2026 privind încheierea exercițiului bugetar pe anul 2025 HCL nr.25",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.25.pdf",
+     "sha256": "940c77f3846037cefabd32a826ac33d66e7181de75b954e6d60e913d14567840"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-26-2026",
+   "path": "local/galati/cuca/2026/26",
+   "short": "HCL Cuca nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 26/2026 privind aprobarea Programului de acţiune comunitară destinat prevenirii şi combaterii riscului de sărăcie şi excluziune socială, pentru anul 2026. HCL nr.26",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.26.pdf",
+     "sha256": "794f1dd85ce7b0884e70eb3abd9bb0d7704f3ac1af90c2822958c9d5e86b7689"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-27-2026",
+   "path": "local/galati/cuca/2026/27",
+   "short": "HCL Cuca nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 27/2026 privind organizarea și finanțarea festivităților prilejuite de sărbătoarea Zilei comunei Cuca HCL nr.27",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.27.pdf",
+     "sha256": "a9eae36f1dcf1505e1ec076d8eb2e8802d1df6d26a821bbf7268b8f7ca87a6bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-28-2026",
+   "path": "local/galati/cuca/2026/28",
+   "short": "HCL Cuca nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 28/2026 privind acordarea unui premiu soţilor în viaţă care au împlinit 50 ani de la căsătorie HCL nr.28",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.28.pdf",
+     "sha256": "0dccd0cefdeb47be41b898ce8034ac5d90f8cd0de54ec304c006b63918255059"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-29-2026",
+   "path": "local/galati/cuca/2026/29",
+   "short": "HCL Cuca nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 29/2026 privind aprobarea transmiterii cu titlu gratuit către Şcoala Gimnazială ”Sf.Gheorghe” comuna Cuca , a bunurilor achiziţionate în cadrul proiectului finanţat prin Programul Naţional de Redresare şi Rezilienţă – F-PNRR-Dotări- – 2023-5937 , în cadrul apelului ”DOTAREA CU MOBILIER, MATERIALE DIDACTICE SI ECHIPAMENTE DIGITALE A UNITATILOR DE INVATAMANT PREUNIVERSITAR SI A UNITATILOR CONEXE DIN COMUNA",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.29.pdf",
+     "sha256": "fd8de48b54a8f5868ff9505e12dbe78ac312fd3821e149b26ebfb52a6f4fd2e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-30-2026",
+   "path": "local/galati/cuca/2026/30",
+   "short": "HCL Cuca nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 30/2026 privind actualizarea indicatorilor tehnico-economici, ai obiectivului de investiții “Creșterea eficienței energetice a gestionării inteligente și a utilizării energiei din surse regenerabile la Grădinița din sat Cuca , comuna Cuca, județul Galați” HCL nr.30",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.30.pdf",
+     "sha256": "1bb61371bfbd5725d06dc3618d15ede72d92ff28618d7f3cd903c36a5c0765a3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--cuca-31-2026",
    "path": "local/galati/cuca/2026/31",
    "short": "HCL Cuca nr. 31/2026",
@@ -29,6 +224,156 @@
      "units": 1,
      "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.31.pdf",
      "sha256": "1525977518f627e2e859c9be46c7fb880cd20bd0d91dadad4a6e82854feccc7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-32-2026",
+   "path": "local/galati/cuca/2026/32",
+   "short": "HCL Cuca nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 32/2026 privind rectificarea bugetului local pe anul 2026, HCL nr.32",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.32.pdf",
+     "sha256": "aa79b9d85766850f62daa79e89009a0365a2bb48beb17a05a54c86d7577fe660"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-33-2026",
+   "path": "local/galati/cuca/2026/33",
+   "short": "HCL Cuca nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 33/2026 privind aprobarea documentației tehnico – economice pentru obiectivul de investiții ,,Modernizarea sistemului de iluminat public stradal în Comuna Cuca, județul Galați – la faza Proiect tehnic HCL nr.33",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.33.pdf",
+     "sha256": "4a097fd196d8b11489fa371bdce1115e45fdc554ce6c6f42dbae7ac87bf2c974"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-34-2026",
+   "path": "local/galati/cuca/2026/34",
+   "short": "HCL Cuca nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 34/2026 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții „Extinderea rețelei de canalizare pe teritoriul comunei Cuca, județul Galați”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”, la faza Studiu de Fezabilitate. HCL nr.34",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.34.pdf",
+     "sha256": "aa872e3c53eac978d7ba0bdde5ef76692167ba8d7d09545327955a9ff83d4275"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-35-2026",
+   "path": "local/galati/cuca/2026/35",
+   "short": "HCL Cuca nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 35/2026 privind analizarea stadiului înscrierii datelor în Registrul agricol pentru trimestrul II al anului 2026 şi stabilirea măsurilor pentru eficientizarea activităţii. HCL nr.35",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.35.pdf",
+     "sha256": "dc6eb6030d51fd6a08ee0574c1657589e13c747de1cabd2ead0a7ae798da51df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-36-2026",
+   "path": "local/galati/cuca/2026/36",
+   "short": "HCL Cuca nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 36/2026 privind aprobarea realizării reparațiilor necesare la tractorul Belarus aflat în inventarul comunei Cuca , județul Galați HCL nr.36",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.36.pdf",
+     "sha256": "d9a26daf0dfbd5befd5e3dc2e6476877cb45d548875ce21ef1386de12e39306f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-37-2026",
+   "path": "local/galati/cuca/2026/37",
+   "short": "HCL Cuca nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 37/2026 privind aprobarea plăţii cotizaţiei aferentă anului 2026, pentru Asociaţia de Dezvoltare Intercomunitară ” Serviciul Regional de Apă Galaţi” , HCL nr.37",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.37.pdf",
+     "sha256": "9bf2e95aba68f6404cab432f5868f7e0691aeb21788a3942f5f875dab953862e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-38-2026",
+   "path": "local/galati/cuca/2026/38",
+   "short": "HCL Cuca nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 38/2026 pentru Asociaţia Dezvoltare Intercomunitară “ ECOSERV Galaţi” HCL nr.38",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.38.pdf",
+     "sha256": "0d1304144f987bc09e6274925edfa8b4075ced14ec3a82843b0f784ed366b851"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-39-2026",
+   "path": "local/galati/cuca/2026/39",
+   "short": "HCL Cuca nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 39/2026 privind privind aprobarea plăţii cotizaţiei aferentă anului 2026, pentru Asociaţia Grup de Acţiune Locală “Eremia Grigorescu 1863 Galaţi ” HCL nr.39",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.39.pdf",
+     "sha256": "43669cea95e5acc23374376cbac763ad56c977b323b8aa31bd67fc48411dbfb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-40-2026",
+   "path": "local/galati/cuca/2026/40",
+   "short": "HCL Cuca nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 40/2026 privind aprobarea plății cotizației anuale către Societatea Națională de Cruce Roșie din România, Filiala Județeană Galați. , HCL nr.40",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.40.pdf",
+     "sha256": "e1c3782d4f182368e715c489b3ee0de4d036f29f783b74358484d498ca4d45fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-41-2026",
+   "path": "local/galati/cuca/2026/41",
+   "short": "HCL Cuca nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 41/2026 pentru obiectivul de investiție „Centru de zi pentru persoane vârstnice și furnizarea de servicii sociale de îngrijire la domiciliu în Comuna Cuca, județul Galați HCL nr.41",
+   "url": "http://www.comunacuca.ro/consiliul-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.41.pdf",
+     "sha256": "0fd9d44f0b4d08c33a93dcc2dfcb32e5accc31e979d134f207201890c909fa63"
     }
    ]
   }

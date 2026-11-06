@@ -3,6 +3,72 @@
 "shard": "local/galati/scanteiesti/2024",
 "acts": [
 {
+"slug": "hcl-galati--scanteiesti-63-2024",
+"path": "local/galati/scanteiesti/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 63/2024 privind alegerea președintelui de ședință pentru lunile noiembrie-decembrie 2024 și ianuarie 2025",
+"short": "HCL Scânteiești nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/222437",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-64-2024",
+"path": "local/galati/scanteiesti/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 64/2024 privind alegerea viceprimarului comunei Scânteiești",
+"short": "HCL Scânteiești nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/222449",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-65-2024",
+"path": "local/galati/scanteiesti/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 65/2024 privind organizarea comisiilor de specialitate ale Consiliului local al Comunei Scânteiești",
+"short": "HCL Scânteiești nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/222450",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--scanteiesti-66-2024",
 "path": "local/galati/scanteiesti/2024/66",
 "kind": "local",
@@ -22,6 +88,28 @@
 "council_name": "Consiliul Local al Comunei Scânteiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-67-2024",
+"path": "local/galati/scanteiesti/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 67/2024 privind aprobarea execuției bugetelor pe cele două secțiuni pentru trimestrul III-2024",
+"short": "HCL Scânteiești nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/222527",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +135,94 @@
 }
 },
 {
+"slug": "hcl-galati--scanteiesti-69-2024",
+"path": "local/galati/scanteiesti/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 69/2024 privind desemnarea reprezentantului legal în Adunarea Generală a Acțiunilor din cadrul operatorului regional societatea APA CANAL SA GALAȚI",
+"short": "HCL Scânteiești nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/222574",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-70-2024",
+"path": "local/galati/scanteiesti/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 70/2024 privind desemnarea reprezentantului Consiliului Local Scânteiești în Consiliul de Administrație al Școlii Gimnaziale Nr.1 Sat Fântânele, Comuna Scânteiești, județul Galați, pentru anul școlar 2024-2025",
+"short": "HCL Scânteiești nr. 70/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/222582",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-71-2024",
+"path": "local/galati/scanteiesti/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 71/2024 privind aprobarea modificării Statului de funcții al aparatului de specialitate al primarului Comunei Scânteiești",
+"short": "HCL Scânteiești nr. 71/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/222583",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-72-2024",
+"path": "local/galati/scanteiesti/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 72/2024 privind însușirea Acordului de cooperare privind organizarea și exercitarea serviciilor de utilități publice și alte servicii înheiat cu Filiala Județeană Galați a Asociației Comunelor din România",
+"short": "HCL Scânteiești nr. 72/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/222584",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--scanteiesti-73-2024",
 "path": "local/galati/scanteiesti/2024/73",
 "kind": "local",
@@ -66,6 +242,94 @@
 "council_name": "Consiliul Local al Comunei Scânteiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-74-2024",
+"path": "local/galati/scanteiesti/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 74/2024 privind aprobarea proiectului „CREȘTEREA EFICIENȚEI ENERGETICE ȘI GESTIONAREA INTELIGENTĂ A ENERGIEI LA GRĂDINIȚA FÂNTÂNELE, COMUNA SCÂNTEIEȘTI, JUDEȚUL GALAȚI” și a cheltuielilor legate de proiect",
+"short": "HCL Scânteiești nr. 74/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/222586",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-75-2024",
+"path": "local/galati/scanteiesti/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 75/2024 privind completarea HCL 67/31.10.2023 privind aprobarea indicatorilor tehnico-economici actualizați și a DALI pentru proiectul: „Creșterea eficienței energetice și gestionarea inteligentă a energiei la Grădinița Fântânele, comuna Scânteiești, județul Galați",
+"short": "HCL Scânteiești nr. 75/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/222594",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-76-2024",
+"path": "local/galati/scanteiesti/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 76/2024 privind indexarea impozitelor și taxelor locale, precum și a taxelor speciale pentru anul 2025",
+"short": "HCL Scânteiești nr. 76/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/222595",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-77-2024",
+"path": "local/galati/scanteiesti/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 77/2024 privind îndreptarea erorii materiale din Hotărârea Consiliului Local nr. 15/15.02.2024 privind concesionarea prin licitație publică a unui teren în suprafață de 8682 mp, situat în T 54, P1390, P1393, aparținând domeniului privat al Comunei Scânteiești",
+"short": "HCL Scânteiești nr. 77/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/222622",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -110,6 +374,28 @@
 "council_name": "Consiliul Local al Comunei Scânteiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-80-2024",
+"path": "local/galati/scanteiesti/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 80/2024 privind vânzarea prin licitație publică deschisă cu strigare a materialelor reziduale rezultate din acțiunea de creștere a eficienței energetice și gestionarea inteligentă a energiei la Școala Gimnazială Fântânele, com. Scânteiești, județul Galați",
+"short": "HCL Scânteiești nr. 80/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/222874",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

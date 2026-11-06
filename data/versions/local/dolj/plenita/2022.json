@@ -3,6 +3,36 @@
  "shard": "local/dolj/plenita/2022",
  "acts": [
   {
+   "slug": "hcl-dolj--plenita-38-2022",
+   "path": "local/dolj/plenita/2022/38",
+   "short": "HCL Plenița nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 38/2022 privind desemnarea presedintelui de sedinta",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103212",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-39-2022",
+   "path": "local/dolj/plenita/2022/39",
+   "short": "HCL Plenița nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 39/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103213",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103213",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--plenita-40-2022",
    "path": "local/dolj/plenita/2022/40",
    "short": "HCL Plenița nr. 40/2022",
@@ -28,6 +58,81 @@
      "from": "2023-09-14",
      "units": 1,
      "source_url": "https://emol.ro/plenita-dj/registru-hcl/103215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-42-2022",
+   "path": "local/dolj/plenita/2022/42",
+   "short": "HCL Plenița nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 42/2022",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103216",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-43-2022",
+   "path": "local/dolj/plenita/2022/43",
+   "short": "HCL Plenița nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 43/2022 privind completarea HCL Plenita Nr. 23 din 31.05.2022 privind participarea la Planului național de redresare și reziliență în cadrul apelurilor de proiecte PNRR/2022/C10, componenta 10 — Fondul local, investitia I.3",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103217",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-44-2022",
+   "path": "local/dolj/plenita/2022/44",
+   "short": "HCL Plenița nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 44/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103222",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-45-2022",
+   "path": "local/dolj/plenita/2022/45",
+   "short": "HCL Plenița nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 45/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103228",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-46-2022",
+   "path": "local/dolj/plenita/2022/46",
+   "short": "HCL Plenița nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 46/2022 privind aprobarea numarului de burse si a cuantumului unei burse pentru elevii din invatamantul preuniversitar de stat de pe raza u.a.t. Plenita",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103229",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103229",
      "sha256": null
     }
    ]
@@ -63,6 +168,51 @@
    ]
   },
   {
+   "slug": "hcl-dolj--plenita-49-2022",
+   "path": "local/dolj/plenita/2022/49",
+   "short": "HCL Plenița nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 49/2022 privind modificarea anexei la HCL Plenita nr.49 din 20.12.2017- privind aprobarea salariilor de baza/indemnizatiile lunare pentru personalul platit din bugetul local al comunei Plenita",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103283",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-50-2022",
+   "path": "local/dolj/plenita/2022/50",
+   "short": "HCL Plenița nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 50/2022",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103284",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-51-2022",
+   "path": "local/dolj/plenita/2022/51",
+   "short": "HCL Plenița nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 51/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103285",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103285",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--plenita-52-2022",
    "path": "local/dolj/plenita/2022/52",
    "short": "HCL Plenița nr. 52/2022",
@@ -88,6 +238,66 @@
      "from": "2023-09-14",
      "units": 1,
      "source_url": "https://emol.ro/plenita-dj/registru-hcl/103287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-54-2022",
+   "path": "local/dolj/plenita/2022/54",
+   "short": "HCL Plenița nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 54/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103316",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-55-2022",
+   "path": "local/dolj/plenita/2022/55",
+   "short": "HCL Plenița nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 55/2022 privind aprobarea impozitelor si taxelor locale pe anul 2023",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103317",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-56-2022",
+   "path": "local/dolj/plenita/2022/56",
+   "short": "HCL Plenița nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 56/2022 privind aprobarea modificarii contractului de concesiune nr. 1555 din 04.05.2002",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103318",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-57-2022",
+   "path": "local/dolj/plenita/2022/57",
+   "short": "HCL Plenița nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 57/2022 privind aprobarea cuantumului taxei speciale de salubrizare pentru utilizatorii casnici pentru anul 2023 si debitarea persoane rezidente, utilizatori casnici cu o taxa suplimentară pentru recuperarea diferenţei de 385.503,35 lei suportată din veniturile proprii comunei Plenita",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103319",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103319",
      "sha256": null
     }
    ]

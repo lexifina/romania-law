@@ -1,0 +1,52 @@
+{
+"country": "RO",
+"shard": "local/dolj/ghidici/2025",
+"acts": [
+{
+"slug": "hcl-dolj--ghidici-33-2025",
+"path": "local/dolj/ghidici/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ghidici nr. 33/2025",
+"short": "HCL Ghidici nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": null,
+"council": "dolj/ghidici",
+"council_name": "Consiliul Local al Comunei Ghidici",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--ghidici-34-2025",
+"path": "local/dolj/ghidici/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ghidici nr. 34/2025",
+"short": "HCL Ghidici nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": null,
+"council": "dolj/ghidici",
+"council_name": "Consiliul Local al Comunei Ghidici",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

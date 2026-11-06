@@ -228,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--ivesti-95-2024",
+   "path": "local/galati/ivesti/2024/95",
+   "short": "HCL Ivești nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 95/2024",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/192273",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/192273",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--ivesti-96-2024",
    "path": "local/galati/ivesti/2024/96",
    "short": "HCL Ivești nr. 96/2024",

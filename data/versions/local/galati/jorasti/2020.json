@@ -3,6 +3,21 @@
  "shard": "local/galati/jorasti/2020",
  "acts": [
   {
+   "slug": "hcl-galati--jorasti-55-2020",
+   "path": "local/galati/jorasti/2020/55",
+   "short": "HCL Jorăști nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 55/2020 privind alegerea viceprimarului comunei Jorăști, județul Galați",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/14686",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/14686",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--jorasti-56-2020",
    "path": "local/galati/jorasti/2020/56",
    "short": "HCL Jorăști nr. 56/2020",
@@ -13,6 +28,51 @@
      "from": "2020-11-06",
      "units": 1,
      "source_url": "https://emol.ro/jorasti-gl/registru-hcl/14687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-57-2020",
+   "path": "local/galati/jorasti/2020/57",
+   "short": "HCL Jorăști nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 57/2020 privind desemnarea reprezentantului comunei Jorăști în Adunarea Asociației de Dezvoltare Intercomunitară ''Serviciul Regional Apă Galați'' și acordarea unui mandat special",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/14688",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/14688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-58-2020",
+   "path": "local/galati/jorasti/2020/58",
+   "short": "HCL Jorăști nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 58/2020 privind aprobarea taxei de închiriere a utilajului buldoexcavator aflat în patromoniul comunei Jorăști, județul Galați",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/14689",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/14689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-59-2020",
+   "path": "local/galati/jorasti/2020/59",
+   "short": "HCL Jorăști nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 59/2020 privind achiziționarea și montarea unei centrale electrice pentru Grădinița Zărnești",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/14690",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/14690",
      "sha256": null
     }
    ]
@@ -33,6 +93,66 @@
    ]
   },
   {
+   "slug": "hcl-galati--jorasti-61-2020",
+   "path": "local/galati/jorasti/2020/61",
+   "short": "HCL Jorăști nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 61/2020 privind aprobarea Regulamentului privind acordarea voucherelor de vacanță",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/14692",
+   "versions": [
+    {
+     "from": "2020-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/14692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-62-2020",
+   "path": "local/galati/jorasti/2020/62",
+   "short": "HCL Jorăști nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 62/2020 privind aprobarea concesionării directe a suprafeței de 1.368,00 mp , situată în intravilanul comunei Jorăști, CV 61, P27, 28, ocupată abuziv, aparținând domeniului privat al UAT Comuna Jorăști",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/14693",
+   "versions": [
+    {
+     "from": "2020-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/14693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-63-2020",
+   "path": "local/galati/jorasti/2020/63",
+   "short": "HCL Jorăști nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 63/2020 privind aprobarea Regulamentului de Organizare și Funcționare a Consiliului Local al Comunei Jorăști, județul Galați",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/14714",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/14714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-64-2020",
+   "path": "local/galati/jorasti/2020/64",
+   "short": "HCL Jorăști nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 64/2020 privind organizarea pomului de iarnă la nivelul Comunei Joraști pentru anul 2020",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/14715",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/14715",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--jorasti-65-2020",
    "path": "local/galati/jorasti/2020/65",
    "short": "HCL Jorăști nr. 65/2020",
@@ -43,6 +163,21 @@
      "from": "2020-12-16",
      "units": 1,
      "source_url": "https://emol.ro/jorasti-gl/registru-hcl/14716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-66-2020",
+   "path": "local/galati/jorasti/2020/66",
+   "short": "HCL Jorăști nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 66/2020 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care își desfășoară activitatea la Școala Gimnazială nr. 1 Jorăști din Comuna Jorăști pentru luna noiembrie 2020",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/14717",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/14717",
      "sha256": null
     }
    ]
@@ -88,6 +223,66 @@
      "from": "2020-12-16",
      "units": 1,
      "source_url": "https://emol.ro/jorasti-gl/registru-hcl/14720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-70-2020",
+   "path": "local/galati/jorasti/2020/70",
+   "short": "HCL Jorăști nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 70/2020 privind atribuirea în folosință gratuită a unui lot de teren pentru construire locuință proprietate personală pentru tineri în condițiile Legii nr. 15/2003",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/14721",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/14721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-71-2020",
+   "path": "local/galati/jorasti/2020/71",
+   "short": "HCL Jorăști nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 71/2020 privind atestarea apartenenței la domeniul privat al comunei Jorăști, județul Galați a suprafeței de 2099,00 mp (teren intravilan, sat Lunca) destinat concesionării, situat în CV 16, P6",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/14722",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/14722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-72-2020",
+   "path": "local/galati/jorasti/2020/72",
+   "short": "HCL Jorăști nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 72/2020 privind aprobarea achiziționării unui număr de 186 tablete Lenovo din cadrul Telekom România Communication SA",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/14723",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/14723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-73-2020",
+   "path": "local/galati/jorasti/2020/73",
+   "short": "HCL Jorăști nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 73/2020 privind aprobarea concesionării directe a suprafeței de 2099 mp situată în intravilanul comunei Jorăști, sat Lunca CV 16, P6 ocupată abuziv, aparținând domeniului privat al comunei Jorăști",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/14724",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/14724",
      "sha256": null
     }
    ]

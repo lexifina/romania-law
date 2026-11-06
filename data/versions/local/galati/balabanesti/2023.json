@@ -3,6 +3,81 @@
  "shard": "local/galati/balabanesti/2023",
  "acts": [
   {
+   "slug": "hcl-galati--balabanesti-118-2023",
+   "path": "local/galati/balabanesti/2023/118",
+   "short": "HCL Bălăbănești nr. 118/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 118/2023 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Bălăbănești , județul Galați, începând cu luna noiembrie 2023",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/143267",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/143267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-119-2023",
+   "path": "local/galati/balabanesti/2023/119",
+   "short": "HCL Bălăbănești nr. 119/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 119/2023 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Bălăbănești, județul Galați, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/143268",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/143268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-120-2023",
+   "path": "local/galati/balabanesti/2023/120",
+   "short": "HCL Bălăbănești nr. 120/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 120/2023",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/143269",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/143269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-121-2023",
+   "path": "local/galati/balabanesti/2023/121",
+   "short": "HCL Bălăbănești nr. 121/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 121/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/143369",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/143369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-122-2023",
+   "path": "local/galati/balabanesti/2023/122",
+   "short": "HCL Bălăbănești nr. 122/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 122/2023 privind modificarea HCL nr. 93 din 15.09.2023 privind trecerea unor suprafețe de teren din rezerva Comisiei Locale Bălăbănești pentru stabilirea dreptului de proprietate privată asupra terenurilor în domeniul privat al Comunei Bălăbănești, județul Galați",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/143370",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/143370",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--balabanesti-123-2023",
    "path": "local/galati/balabanesti/2023/123",
    "short": "HCL Bălăbănești nr. 123/2023",
@@ -13,6 +88,216 @@
      "from": "2024-02-15",
      "units": 1,
      "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/143401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-124-2023",
+   "path": "local/galati/balabanesti/2023/124",
+   "short": "HCL Bălăbănești nr. 124/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 124/2023 privind aprobarea Nomenclatorului stradal al comunei Bălăbănești, județul Galați",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/143402",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/143402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-125-2023",
+   "path": "local/galati/balabanesti/2023/125",
+   "short": "HCL Bălăbănești nr. 125/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 125/2023 privind aprobarea regulamentului de organizare și funcționare a terenului multisport din comuna Bălăbănești, județul Galați",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/143403",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/143403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-126-2023",
+   "path": "local/galati/balabanesti/2023/126",
+   "short": "HCL Bălăbănești nr. 126/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 126/2023 privind încetarea Acordului de cooperare privind organizarea și exercitarea activității de urbanism încheiat la data de 06.06.2023 între comuna Bălăbănești și Filiala Județeană Galați a Asociației Comunelor din România",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/143404",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/143404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-127-2023",
+   "path": "local/galati/balabanesti/2023/127",
+   "short": "HCL Bălăbănești nr. 127/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 127/2023 privind aprobarea decontării cheltuielilor de transport pe lunile septembrie și octombrie a anului 2023, pentru personalul din școlile de pe raza comunei Bălăbănești care nu dispun de locuință în unitatea administrativ teritorială Bălăbănești unde au postul",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/143405",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/143405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-128-2023",
+   "path": "local/galati/balabanesti/2023/128",
+   "short": "HCL Bălăbănești nr. 128/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 128/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/143414",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/143414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-129-2023",
+   "path": "local/galati/balabanesti/2023/129",
+   "short": "HCL Bălăbănești nr. 129/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 129/2023 privind aprobarea achiziționării de cadouri cu ocazia sărbătorilor de iarnă pentru preșcolarii și elevii de la școlile de pe raza comunei Bălăbănești, județul Galați",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/143415",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/143415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-130-2023",
+   "path": "local/galati/balabanesti/2023/130",
+   "short": "HCL Bălăbănești nr. 130/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 130/2023 privind aprobarea decontării cheltuielilor de transport pe lunile noiembrie și decembrie a anului 2023, pentru personalul din școlile de pe raza comunei Bălăbănești care nu dispun de locuință în unitatea administrativ teritorială Bălăbănești unde au postul",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/143416",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/143416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-131-2023",
+   "path": "local/galati/balabanesti/2023/131",
+   "short": "HCL Bălăbănești nr. 131/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 131/2023 privind modificarea și completarea Hotărârii Consiliului Local nr. 3 din 05.11.2020 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Bălăbănești, județul Galați",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/143417",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/143417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-132-2023",
+   "path": "local/galati/balabanesti/2023/132",
+   "short": "HCL Bălăbănești nr. 132/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 132/2023 privind aprobarea Programului anual de achiziții pe anul 2024 la nivelul unității administrativ teritoriale comuna Bălăbănești, județul Galați",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/143435",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/143435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-133-2023",
+   "path": "local/galati/balabanesti/2023/133",
+   "short": "HCL Bălăbănești nr. 133/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 133/2023",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/143436",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/143436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-134-2023",
+   "path": "local/galati/balabanesti/2023/134",
+   "short": "HCL Bălăbănești nr. 134/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 134/2023 privind alegerea președintelui de ședință al Consiliului local al comunei Bălăbănești",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/143437",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/143437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-135-2023",
+   "path": "local/galati/balabanesti/2023/135",
+   "short": "HCL Bălăbănești nr. 135/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 135/2023 privind aprobarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/143438",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/143438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-136-2023",
+   "path": "local/galati/balabanesti/2023/136",
+   "short": "HCL Bălăbănești nr. 136/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 136/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/143447",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/143447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-137-2023",
+   "path": "local/galati/balabanesti/2023/137",
+   "short": "HCL Bălăbănești nr. 137/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 137/2023 privind modificarea Hotărârii Consiliului Local al comunei Bălăbănești cu nr. 85 din 16.09.2022 privind implementarea proiectului ''Îmbunătățirea și dotarea serviciului public voluntar pentru situații de urgență al comunei Bălăbănești prin achiziția unui utilaj''",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/143448",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/143448",
      "sha256": null
     }
    ]

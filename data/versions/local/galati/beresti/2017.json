@@ -3,6 +3,66 @@
  "shard": "local/galati/beresti/2017",
  "acts": [
   {
+   "slug": "hcl-galati--beresti-11-2017",
+   "path": "local/galati/beresti/2017/11",
+   "short": "HCL Berești nr. 11/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 11/2017 privind vanzare teren intravilan",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2017-03-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2017_HCL_Nr_11_din_31.03.2017_privind_vanzare_teren_intravilan.pdf",
+     "sha256": "73a4acf5f987b110008a4745e54e157540781451d7250ed6f66f894f37fbdaf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-16-2017",
+   "path": "local/galati/beresti/2017/16",
+   "short": "HCL Berești nr. 16/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 16/2017 privind Registrul agricol",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2017_HCL_Nr_16_din_28.04.2017_masuri_privind_Registrul_agricol.pdf",
+     "sha256": "bc9af40506aa54c548abf827a472c9b1131a85263d6955335fdcf9b71f0acfef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-2-2017",
+   "path": "local/galati/beresti/2017/2",
+   "short": "HCL Berești nr. 2/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 2/2017 privind Plan lucrari prestate in 2017 de beneficiarii de ajutor social",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2017_HCL_Nr._2_din_27.01.2017_privind_Plan_lucrari_prestate_in_2017_de_beneficiarii_de_ajutor_social.pdf",
+     "sha256": "b0a505e2299bf5c240bcce4ede25d71d9abfd86c8de0a65d67aa7293e5cc50c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-32-2017",
+   "path": "local/galati/beresti/2017/32",
+   "short": "HCL Berești nr. 32/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 32/2017 privind stabilire salarii de baza conform Legii 153",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2017_HCL_Nr_32_din_31.07.2017_privind_stabilire_salarii_de_baza_conform_Legii_153.pdf",
+     "sha256": "bba06891cbe8a9316ac836a1cca3f7cf305977f83bed303a0bbdb45ad9293d83"
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--beresti-33-2017",
    "path": "local/galati/beresti/2017/33",
    "short": "HCL Berești nr. 33/2017",
@@ -29,6 +89,36 @@
      "units": 1,
      "source_url": "https://www.orasulberesti.ro/arhiva/2017_HCL_Nr._44_din_31.10.2017_privind_Regulament_spatii_de_joaca.pdf",
      "sha256": "402f7168db010c66bf1fa0ebe1f9e832ab6276849a54a2a13ec7d0f45fb53f27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-5-2017",
+   "path": "local/galati/beresti/2017/5",
+   "short": "HCL Berești nr. 5/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 5/2017 privind completare inventar domeniul public",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2017_HCL_Nr._5_din_27.01.2017_privind_completare_inventar_domeniul_public.pdf",
+     "sha256": "fb049653e8782f3a0f588437553957f4561a0c34f1b81affda6a7c77294d61a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-58-2017",
+   "path": "local/galati/beresti/2017/58",
+   "short": "HCL Berești nr. 58/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 58/2017 privind vanzarea prin licitatie publica a terenului",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2017_HCL_Nr._58_din_21.12.2017_privind_vanzarea_prin_lieitatie_publica_a_terenului.pdf",
+     "sha256": "c9a9e2e8ee68ff8629d03028f0daa5925f2a1791233bd5ca6c491d6ef0a63b5b"
     }
    ]
   }

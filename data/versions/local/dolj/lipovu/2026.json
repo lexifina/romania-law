@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/lipovu/2026",
+ "acts": [
+  {
+   "slug": "hcl-dolj--lipovu-48-2026",
+   "path": "local/dolj/lipovu/2026/48",
+   "short": "HCL Lipovu nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovu nr. 48/2026",
+   "url": "https://primarialipovu.ro/documente/hotarari-ale-consiliului-local-adoptate-in-sedinta-din-data-de-19-10-2026/",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://primarialipovu.ro/wp-content/uploads/2026/11/hcl-nr-48-din-19-10-2026.pdf",
+     "sha256": "629f8f328764852fb939658ab6341598a5e7238ebc5602d72d69ad4a1eb701d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--lipovu-49-2026",
+   "path": "local/dolj/lipovu/2026/49",
+   "short": "HCL Lipovu nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovu nr. 49/2026",
+   "url": "https://primarialipovu.ro/documente/hotarari-ale-consiliului-local-adoptate-in-sedinta-din-data-de-19-10-2026/",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://primarialipovu.ro/wp-content/uploads/2026/11/hcl-nr-49-din-19-10-2026.pdf",
+     "sha256": "a02c8771931beb94e490cbeef16ed2f39519af12f4db9c853ed9d3bfb0cb3d52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--lipovu-50-2026",
+   "path": "local/dolj/lipovu/2026/50",
+   "short": "HCL Lipovu nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovu nr. 50/2026",
+   "url": "https://primarialipovu.ro/documente/hotarari-ale-consiliului-local-adoptate-in-sedinta-din-data-de-29-10-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://primarialipovu.ro/wp-content/uploads/2026/11/hcl-nr-50-din-29-10-2026.pdf",
+     "sha256": "c5c24a9f2e8d0f8fce3329019daf923dddeb099ab1afcd8920e3dd8a5c85f1be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--lipovu-51-2026",
+   "path": "local/dolj/lipovu/2026/51",
+   "short": "HCL Lipovu nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovu nr. 51/2026",
+   "url": "https://primarialipovu.ro/documente/hotarari-ale-consiliului-local-adoptate-in-sedinta-din-data-de-29-10-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://primarialipovu.ro/wp-content/uploads/2026/11/hcl-nr-51-din-29-10-2026.pdf",
+     "sha256": "dd0a1e0b76c19b5c96a2636b7b5bc99c12876340a1c10ab069d33386bbef8a5c"
+    }
+   ]
+  }
+ ]
+}

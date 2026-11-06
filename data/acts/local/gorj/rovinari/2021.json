@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/gorj/rovinari/2021",
+"acts": [
+{
+"slug": "hcl-gorj--rovinari-614-2021",
+"path": "local/gorj/rovinari/2021/614",
+"kind": "local",
+"year": "2021",
+"number": "614",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 614/2021 privind convocarea în ședință ordinară a Consiliului Local al orașului Rovinari, județul Gorj, pentru data de 29.09.2021 Vizualizare",
+"short": "HCL Rovinari nr. 614/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-22",
+"latest": "2021-09-22",
+"portal": "https://primariarovinari.ro/transparenta-decizionala/sedinte-ale-consiliul-local/ordinea-de-zi-a-sedintelor-autoritatii-deliberative/",
+"council": "gorj/rovinari",
+"council_name": "Consiliul Local al Orașului Rovinari",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

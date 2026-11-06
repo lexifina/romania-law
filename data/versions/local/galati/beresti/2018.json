@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/galati/beresti/2018",
+ "acts": [
+  {
+   "slug": "hcl-galati--beresti-20-2018",
+   "path": "local/galati/beresti/2018/20",
+   "short": "HCL Berești nr. 20/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 20/2018 privind stabilire salarii cu 01.01.2019 »Raport activitate 2018 Comisia nr. 1 »Raport activitate 2018 Comisia nr. 2 »Raport activitate 2018 Comisia nr. 3 » 2018 »HCL Nr. 21 din 31.07.2018 r",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2018_HCL_Nr_20_din_29.06.2018_Calendar_promovare_produse_romanesti.pdf",
+     "sha256": "af3b4c1bb11f28d9fee5352367dbb2a3be8e0a21f5f36cc493da6134f35bc5c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-21-2018",
+   "path": "local/galati/beresti/2018/21",
+   "short": "HCL Berești nr. 21/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 21/2018 privind stabilire salarii cu 01.01.2019 »Raport activitate 2018 Comisia nr. 1 »Raport activitate 2018 Comisia nr. 2 »Raport activitate 2018 Comisia nr. 3 » 2018 »HCL Nr. 21 din 31.07.2018 r",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2018_HCL_Nr_21_din_31_07_2018_regulament_majorare_impozit_cladiri_neingrijite.pdf",
+     "sha256": "82043f5962f175a9d2e45e7db4a08c336a9e137fa560ae9a59f08c59f63dc1b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-4-2018",
+   "path": "local/galati/beresti/2018/4",
+   "short": "HCL Berești nr. 4/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 4/2018 privind stabilire salarii cu 01.01.2019 »Raport activitate 2018 Comisia nr. 1 »Raport activitate 2018 Comisia nr. 2 »Raport activitate 2018 Comisia nr. 3 » 2018 »HCL Nr. 21 din 31.07.2018 r",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/2018_HCL_Nr_4_din_31.01.2018_aprobare_plan_lucrari_prestate_de_beneficiari_ajutor_social_2018.pdf",
+     "sha256": "3434bd77bb3a7136523bf2b5a7723b458a9dc277566c5f8060186cd828b4482e"
+    }
+   ]
+  }
+ ]
+}

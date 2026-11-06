@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/galati/beresti/2019",
+"acts": [
+{
+"slug": "hcl-galati--beresti-23-2019",
+"path": "local/galati/beresti/2019/23",
+"kind": "local",
+"year": "2019",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Berești nr. 23/2019 privind stabilire salarii cu 01.01.2019 »Raport activitate 2018 Comisia nr. 1 »Raport activitate 2018 Comisia nr. 2 »Raport activitate 2018 Comisia nr. 3 » 2018 »HCL Nr. 21 din 31.07.2018 r",
+"short": "HCL Berești nr. 23/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-06-28",
+"latest": "2019-06-28",
+"portal": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+"council": "galati/beresti",
+"council_name": "Consiliul Local al Orașului Berești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--beresti-35-2019",
+"path": "local/galati/beresti/2019/35",
+"kind": "local",
+"year": "2019",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Berești nr. 35/2019 privind stabilire salarii cu 01.01.2019 »Raport activitate 2018 Comisia nr. 1 »Raport activitate 2018 Comisia nr. 2 »Raport activitate 2018 Comisia nr. 3 » 2018 »HCL Nr. 21 din 31.07.2018 r",
+"short": "HCL Berești nr. 35/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-09-30",
+"latest": "2019-09-30",
+"portal": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+"council": "galati/beresti",
+"council_name": "Consiliul Local al Orașului Berești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

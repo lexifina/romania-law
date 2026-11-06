@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/bolintin-vale/2019",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-118-2019",
+   "path": "local/giurgiu/bolintin-vale/2019/118",
+   "short": "HCL Bolintin-Vale nr. 118/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 118/2019",
+   "url": "https://www.bolintin-vale.ro/monitorul-oficial-local/documente-si-informatii-financiare/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2019/11/Hotarare-nr-118-din-31.10.2019.pdf",
+     "sha256": "1e54720aa6c1fd0e62d3f0ca3cbff533cb1fb14ac25c7d2143dbea593a570487"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-2-2019",
+   "path": "local/giurgiu/bolintin-vale/2019/2",
+   "short": "HCL Bolintin-Vale nr. 2/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 2/2019",
+   "url": "https://www.bolintin-vale.ro/monitorul-oficial-local/documente-si-informatii-financiare/",
+   "versions": [
+    {
+     "from": "2019-01-23",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2019/03/Hotarare-nr.-2-Anexe.pdf",
+     "sha256": "f659e7aa8abe67f5e58a013d18462f83355cf6087dceb6f5f21977a206e4fbf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-41-2019",
+   "path": "local/giurgiu/bolintin-vale/2019/41",
+   "short": "HCL Bolintin-Vale nr. 41/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 41/2019",
+   "url": "https://www.bolintin-vale.ro/monitorul-oficial-local/documente-si-informatii-financiare/",
+   "versions": [
+    {
+     "from": "2019-04-23",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2019/05/Hotararea-nr-41-din-23.04.2019-Anexe.pdf",
+     "sha256": "586c3cfb70b38513fed9ef54997fa58f3d49143474cd21451d0325f1b8fd0d55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-81-2019",
+   "path": "local/giurgiu/bolintin-vale/2019/81",
+   "short": "HCL Bolintin-Vale nr. 81/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 81/2019",
+   "url": "https://www.bolintin-vale.ro/monitorul-oficial-local/documente-si-informatii-financiare/",
+   "versions": [
+    {
+     "from": "2019-07-24",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2019/09/Hotarare-nr-81-din-24.07.2019.pdf",
+     "sha256": "470ffc5224361ad11e3808c19f8eec80cae2150e21c27c1e3d1d1ea0194c6469"
+    }
+   ]
+  }
+ ]
+}

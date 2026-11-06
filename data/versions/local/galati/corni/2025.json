@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--corni-86-2025",
+   "path": "local/galati/corni/2025/86",
+   "short": "HCL Corni nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 86/2025 privind darea în administrare a microbuzului electric achiziționat în cadrul proiectului ”Facilitarea accesului la educație a elevilor din județul Galați prin achiziția de microbuze electrice” în cadrul Planului Național de Redresare și Reziliență",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246731",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246731",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--corni-87-2025",
    "path": "local/galati/corni/2025/87",
    "short": "HCL Corni nr. 87/2025",
@@ -178,6 +193,21 @@
      "from": "2026-01-14",
      "units": 1,
      "source_url": "https://emol.ro/corni-gl/registru-hcl/246737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-93-2025",
+   "path": "local/galati/corni/2025/93",
+   "short": "HCL Corni nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 93/2025 privind alegerea presedintelui de sedinta, pe o perioada de 3 luni, care va conduce sedintele consiliului si va semna hotararile adoptate de acesta",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246738",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246738",
      "sha256": null
     }
    ]

@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-galati--balabanesti-121-2021",
+"path": "local/galati/balabanesti/2021/121",
+"kind": "local",
+"year": "2021",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 121/2021 privind aprobarea decontarii transportului pe lunile noiembrie si decembrie a anului 2021, a cadrelor didactice care isi desfasoara activitatea la scolile de pe raza comunei Balabanesti si care nu dispun de locuinta in localitatea unde au postul",
+"short": "HCL Bălăbănești nr. 121/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/53666",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--balabanesti-122-2021",
 "path": "local/galati/balabanesti/2021/122",
 "kind": "local",
@@ -242,6 +264,28 @@
 "council_name": "Consiliul Local al Comunei Bălăbănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--balabanesti-126-2021",
+"path": "local/galati/balabanesti/2021/126",
+"kind": "local",
+"year": "2021",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 126/2021 privind aprobarea închirierii unui buldoexcavator pentru prestari servicii decolmatare, curățare șanțuri, rigole, podețe, refacere drumuri și podețe de pe UAT Bălăbănești",
+"short": "HCL Bălăbănești nr. 126/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/53671",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -374,6 +418,29 @@
 "council_name": "Consiliul Local al Comunei Bălăbănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--balabanesti-133-2021",
+"path": "local/galati/balabanesti/2021/133",
+"kind": "local",
+"year": "2021",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 133/2021",
+"short": "HCL Bălăbănești nr. 133/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/53696",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

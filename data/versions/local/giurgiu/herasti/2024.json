@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/herasti/2024",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--herasti-3-2024",
+   "path": "local/giurgiu/herasti/2024/3",
+   "short": "HCL Herăști nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Herăști nr. 3/2024",
+   "url": "https://primariacomuneiherasti.ro/wp-content/uploads/2024/04/Hotararea-nr.-3-din-27.04.2024-BEC-nr.-27-Herasti.pdf",
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": "https://primariacomuneiherasti.ro/wp-content/uploads/2024/04/Hotararea-nr.-3-din-27.04.2024-BEC-nr.-27-Herasti.pdf",
+     "sha256": "6409d1854b3117ab090c8bf946752af8a4c51b3118cc36a386618b105f9da899"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--herasti-4-2024",
+   "path": "local/giurgiu/herasti/2024/4",
+   "short": "HCL Herăști nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Herăști nr. 4/2024",
+   "url": "https://primariacomuneiherasti.ro/wp-content/uploads/2024/04/Hotararea-nr.-4-din-27.04.2024-BEC-nr.-27-Herasti.pdf",
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": "https://primariacomuneiherasti.ro/wp-content/uploads/2024/04/Hotararea-nr.-4-din-27.04.2024-BEC-nr.-27-Herasti.pdf",
+     "sha256": "896d8f67d99378a969b7195ecd11248dd9d765f039df1ad46bfb353bd0cef6b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--herasti-7-2024",
+   "path": "local/giurgiu/herasti/2024/7",
+   "short": "HCL Herăști nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Herăști nr. 7/2024",
+   "url": "https://primariacomuneiherasti.ro/wp-content/uploads/2024/05/Hotararea-nr.-7-din-25.05.2024-BEC-nr.-27-Herasti.pdf",
+   "versions": [
+    {
+     "from": "2024-05-25",
+     "units": 1,
+     "source_url": "https://primariacomuneiherasti.ro/wp-content/uploads/2024/05/Hotararea-nr.-7-din-25.05.2024-BEC-nr.-27-Herasti.pdf",
+     "sha256": "8cd3985d5a71ddf6bba618202f1284aead808d97a389d5654cd3c004277db741"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--herasti-8-2024",
+   "path": "local/giurgiu/herasti/2024/8",
+   "short": "HCL Herăști nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Herăști nr. 8/2024 privind in Iocui rea reprczLln talr trr lu i Partidrr hti Soci a I I )enrrr rat in Biroul Electoral al Sectiei de \\Iotare nr. 153 Herasti Biroului Elcctornl dc Circunrscriptic Comunala nr.27 Hcrnsti VizAnd dispoziliile arl.7 Bl Hotararii lliroului [iluctorai ('entrnl cu r.r'. I ITREP/HI17.05.2034 pitind aplicaru i unitara a ert. 2 alin. (5). ((r) si { l2) - (14) si art. din OUG 21i20?4 privind unc",
+   "url": "https://primariacomuneiherasti.ro/wp-content/uploads/2024/06/Hotararea-nr.-8-din-05.06.2024-BEC-nr.-27-Herasti.pdf",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://primariacomuneiherasti.ro/wp-content/uploads/2024/06/Hotararea-nr.-8-din-05.06.2024-BEC-nr.-27-Herasti.pdf",
+     "sha256": "03d71f116e15e0289f552840d426aea559cbef9faffdde467af193081fefcd8d"
+    }
+   ]
+  }
+ ]
+}

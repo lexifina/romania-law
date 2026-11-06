@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/dolj/intorsura/2021",
+"acts": [
+{
+"slug": "hcl-dolj--intorsura-40-2021",
+"path": "local/dolj/intorsura/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Întorsura nr. 40/2021 privind aprobarea strangerii gunoaielor partea de la podul Pascu Dragoianu si pana in varful pantei Având în vedere : - Referatul de aprobare intocmit de initiator, - Referatul de specialitate, - Raportul comisiei de specialitate - Proiectul de hotătâre - In conformitate cu prevederile ORDONANȚEI DE URGENȚĂ nr. 57 din 3 iulie 2019 privind Codul administrativ; În temeiul Art. 129 alin. (2) lit. a)",
+"short": "HCL Întorsura nr. 40/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "http://primariaintorsura.ro/hotararile-autoritatii-deliberative/",
+"council": "dolj/intorsura",
+"council_name": "Consiliul Local al Comunei Întorsura",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--intorsura-43-2021",
+"path": "local/dolj/intorsura/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Întorsura nr. 43/2021 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul Aparatului propriu al Primăriei Com",
+"short": "HCL Întorsura nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "http://primariaintorsura.ro/hotararile-autoritatii-deliberative/",
+"council": "dolj/intorsura",
+"council_name": "Consiliul Local al Comunei Întorsura",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--intorsura-47-2021",
+"path": "local/dolj/intorsura/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Întorsura nr. 47/2021",
+"short": "HCL Întorsura nr. 47/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": null,
+"council": "dolj/intorsura",
+"council_name": "Consiliul Local al Comunei Întorsura",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--intorsura-50-2021",
+"path": "local/dolj/intorsura/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Întorsura nr. 50/2021 privind aprobarea acoperii , din alte surse de venituri ale bugetului local, a diferentei dintre valoarea facturilor emise de SC ECO Dolj si valoarea încasarilor realizate, în valoare de 31 mii lei",
+"short": "HCL Întorsura nr. 50/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "http://primariaintorsura.ro/hotararile-autoritatii-deliberative/",
+"council": "dolj/intorsura",
+"council_name": "Consiliul Local al Comunei Întorsura",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--intorsura-53-2021",
+"path": "local/dolj/intorsura/2021/53",
+"kind": "local",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Întorsura nr. 53/2021 Privind solicitarea fondurilor necesare pentru acordarea subvenției de încălzire și suplimentul pentru combustibili solizi sau lichizi aferent perioadei Noiembrie 2021 – martie 2022( ajutorul de încălzire - combustibili solizi și/sau petrolieri)",
+"short": "HCL Întorsura nr. 53/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "http://primariaintorsura.ro/hotararile-autoritatii-deliberative/",
+"council": "dolj/intorsura",
+"council_name": "Consiliul Local al Comunei Întorsura",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

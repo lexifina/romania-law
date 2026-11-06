@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/galati/movileni/2020",
+"acts": [
+{
+"slug": "hcl-galati--movileni-1-2020",
+"path": "local/galati/movileni/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 1/2020 privind acoperirea definitiva a deficitului sectiunii de dezvoltare a bugetului local pe anul 2019",
+"short": "HCL Movileni nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-07",
+"latest": "2020-02-07",
+"portal": "https://primaria-movileni.ro/hotatari-ale-consiliului-local/",
+"council": "galati/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--movileni-6-2020",
+"path": "local/galati/movileni/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 6/2020 privind organizarea retelei scolare pentru anul scolar 2020-2021 pentru unitatile de invatamant de stat de pe raza Unitatii Admmistrativ – Teritoriale a Comunei Moviteni, Judetul Galati",
+"short": "HCL Movileni nr. 6/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-23",
+"latest": "2020-01-23",
+"portal": "https://primaria-movileni.ro/hotatari-ale-consiliului-local/",
+"council": "galati/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--movileni-13-2020",
+"path": "local/galati/movileni/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 13/2020",
+"short": "HCL Movileni nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": null,
+"council": "galati/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--movileni-18-2020",
+"path": "local/galati/movileni/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 18/2020 privind aprobarea achizitiei de servicii asistenta si reprezentare conform contractului de asistenta juridica GL/0145583",
+"short": "HCL Movileni nr. 18/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://primaria-movileni.ro/hotatari-ale-consiliului-local/",
+"council": "galati/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

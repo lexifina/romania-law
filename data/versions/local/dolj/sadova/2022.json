@@ -3,6 +3,36 @@
  "shard": "local/dolj/sadova/2022",
  "acts": [
   {
+   "slug": "hcl-dolj--sadova-63-2022",
+   "path": "local/dolj/sadova/2022/63",
+   "short": "HCL Sadova nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 63/2022 privind aprobarea incheierii contractului de achizitie publica de servicii inchiriere prin achizitie directa -iluminat festiv-ghirlande luminoase si ornamente stradale in comuna Sadova, judetul Dolj",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/80921",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/80921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-64-2022",
+   "path": "local/dolj/sadova/2022/64",
+   "short": "HCL Sadova nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 64/2022",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/80922",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/80922",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--sadova-65-2022",
    "path": "local/dolj/sadova/2022/65",
    "short": "HCL Sadova nr. 65/2022",
@@ -43,6 +73,36 @@
      "from": "2022-12-08",
      "units": 1,
      "source_url": "https://emol.ro/sadova-dj/registru-hcl/80925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-68-2022",
+   "path": "local/dolj/sadova/2022/68",
+   "short": "HCL Sadova nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 68/2022 privind aprobarea alocarii unui sprijin financiar Parohiei Sadova;",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/80926",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/80926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-69-2022",
+   "path": "local/dolj/sadova/2022/69",
+   "short": "HCL Sadova nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 69/2022 privind constituirea unei comisii mixte de analiza si verificare a activitatii de acordare a ajutoarelor sociale/de incalzire pentru sezonul rece :2021-2022 si 2022-2023",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/80927",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/80927",
      "sha256": null
     }
    ]
@@ -118,6 +178,21 @@
      "from": "2023-04-20",
      "units": 1,
      "source_url": "https://emol.ro/sadova-dj/registru-hcl/84013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-75-2022",
+   "path": "local/dolj/sadova/2022/75",
+   "short": "HCL Sadova nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 75/2022",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/84014",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/84014",
      "sha256": null
     }
    ]
@@ -208,6 +283,21 @@
      "from": "2022-12-30",
      "units": 1,
      "source_url": "https://emol.ro/sadova-dj/registru-hcl/85000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-82-2022",
+   "path": "local/dolj/sadova/2022/82",
+   "short": "HCL Sadova nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 82/2022 privind aprobarea devizului general estimativ pentru Proiectul “INFIINTAREA CENTRULUI COMUNITAR INTEGRAT IN COMUNA SADOVA, JUDETUL DOLJ\" ce se va realiza prin „PNRR/2022/C12/MS/I1.4 – I1.4 Centre Comunitare integrate” Componenta C12 – Sănătate, Investiția 1. Dezvoltarea infrastructurii medicale prespitalicești I1.4 Centre comunitare integrate",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/85001",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/85001",
      "sha256": null
     }
    ]

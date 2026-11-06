@@ -311,6 +311,51 @@
 }
 },
 {
+"slug": "hcl-galati--balabanesti-126-2022",
+"path": "local/galati/balabanesti/2022/126",
+"kind": "local",
+"year": "2022",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 126/2022 privind alegerea președintelui de sedinta al Consiliului local al comunei Bălăbănești",
+"short": "HCL Bălăbănești nr. 126/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-02",
+"latest": "2023-02-02",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/88745",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--balabanesti-127-2022",
+"path": "local/galati/balabanesti/2022/127",
+"kind": "local",
+"year": "2022",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 127/2022",
+"short": "HCL Bălăbănești nr. 127/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-02",
+"latest": "2023-02-02",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/88746",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--balabanesti-128-2022",
 "path": "local/galati/balabanesti/2022/128",
 "kind": "local",

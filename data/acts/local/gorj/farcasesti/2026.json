@@ -179,6 +179,50 @@
 }
 },
 {
+"slug": "hcl-gorj--farcasesti-45-2026",
+"path": "local/gorj/farcasesti/2026/45",
+"kind": "local",
+"year": "2026",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 45/2026 privind alegerea Președintelui de ședință al Consiliului Local Fărcășești",
+"short": "HCL Fărcășești nr. 45/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://emol.ro/farcasesti-gj/registru-hcl/290600",
+"council": "gorj/farcasesti",
+"council_name": "Consiliul Local al Comunei Fărcășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--farcasesti-46-2026",
+"path": "local/gorj/farcasesti/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 46/2026 privind desemnarea unui reprezentant al Consiliului local al Comunei Fărcășești în Comisia de evaluare a probei de interviu a concursului pentru ocuparea funcţiei de director la LICEUL TEHNOLOGIC ROȘIA JIU, FĂRCĂȘEȘTI",
+"short": "HCL Fărcășești nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://emol.ro/farcasesti-gj/registru-hcl/290601",
+"council": "gorj/farcasesti",
+"council_name": "Consiliul Local al Comunei Fărcășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--farcasesti-47-2026",
 "path": "local/gorj/farcasesti/2026/47",
 "kind": "local",

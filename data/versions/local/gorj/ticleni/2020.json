@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/ticleni/2020",
+ "acts": [
+  {
+   "slug": "hcl-gorj--ticleni-41-2020",
+   "path": "local/gorj/ticleni/2020/41",
+   "short": "HCL Țicleni nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 41/2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/consiliul-local-ticleni-declaratii-de-avere/",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/consiliul-local-ticleni-declaratii-de-avere/",
+     "sha256": "340615baf57d9e0079f5fd0aa50fe86af29e9ba42537736672fe60b02dcc2901"
+    }
+   ]
+  }
+ ]
+}

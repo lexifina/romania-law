@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--scoarta-88-2022",
+   "path": "local/gorj/scoarta/2022/88",
+   "short": "HCL Scoarța nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 88/2022",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/86347",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/86347",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--scoarta-89-2022",
    "path": "local/gorj/scoarta/2022/89",
    "short": "HCL Scoarța nr. 89/2022",
@@ -223,6 +238,21 @@
      "from": "2022-12-27",
      "units": 1,
      "source_url": "https://emol.ro/scoarta-gj/registru-hcl/86475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--scoarta-95-2022",
+   "path": "local/gorj/scoarta/2022/95",
+   "short": "HCL Scoarța nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 95/2022",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/86476",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/86476",
      "sha256": null
     }
    ]

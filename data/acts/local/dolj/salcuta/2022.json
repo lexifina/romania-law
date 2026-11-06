@@ -1,0 +1,292 @@
+{
+"country": "RO",
+"shard": "local/dolj/salcuta/2022",
+"acts": [
+{
+"slug": "hcl-dolj--salcuta-10-2022",
+"path": "local/dolj/salcuta/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 10/2022",
+"short": "HCL Sălcuța nr. 10/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-25",
+"latest": "2022-02-25",
+"portal": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+"council": "dolj/salcuta",
+"council_name": "Consiliul Local al Comunei Sălcuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--salcuta-11-2022",
+"path": "local/dolj/salcuta/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 11/2022",
+"short": "HCL Sălcuța nr. 11/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+"council": "dolj/salcuta",
+"council_name": "Consiliul Local al Comunei Sălcuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--salcuta-12-2022",
+"path": "local/dolj/salcuta/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 12/2022",
+"short": "HCL Sălcuța nr. 12/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+"council": "dolj/salcuta",
+"council_name": "Consiliul Local al Comunei Sălcuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--salcuta-13-2022",
+"path": "local/dolj/salcuta/2022/13",
+"kind": "local",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 13/2022",
+"short": "HCL Sălcuța nr. 13/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+"council": "dolj/salcuta",
+"council_name": "Consiliul Local al Comunei Sălcuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--salcuta-18-2022",
+"path": "local/dolj/salcuta/2022/18",
+"kind": "local",
+"year": "2022",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 18/2022",
+"short": "HCL Sălcuța nr. 18/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-18",
+"latest": "2022-05-18",
+"portal": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+"council": "dolj/salcuta",
+"council_name": "Consiliul Local al Comunei Sălcuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--salcuta-19-2022",
+"path": "local/dolj/salcuta/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 19/2022",
+"short": "HCL Sălcuța nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-18",
+"latest": "2022-05-18",
+"portal": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+"council": "dolj/salcuta",
+"council_name": "Consiliul Local al Comunei Sălcuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--salcuta-20-2022",
+"path": "local/dolj/salcuta/2022/20",
+"kind": "local",
+"year": "2022",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 20/2022",
+"short": "HCL Sălcuța nr. 20/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-18",
+"latest": "2022-05-18",
+"portal": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+"council": "dolj/salcuta",
+"council_name": "Consiliul Local al Comunei Sălcuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--salcuta-21-2022",
+"path": "local/dolj/salcuta/2022/21",
+"kind": "local",
+"year": "2022",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 21/2022",
+"short": "HCL Sălcuța nr. 21/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-22",
+"latest": "2022-06-22",
+"portal": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+"council": "dolj/salcuta",
+"council_name": "Consiliul Local al Comunei Sălcuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--salcuta-23-2022",
+"path": "local/dolj/salcuta/2022/23",
+"kind": "local",
+"year": "2022",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 23/2022",
+"short": "HCL Sălcuța nr. 23/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-22",
+"latest": "2022-06-22",
+"portal": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+"council": "dolj/salcuta",
+"council_name": "Consiliul Local al Comunei Sălcuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--salcuta-25-2022",
+"path": "local/dolj/salcuta/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 25/2022",
+"short": "HCL Sălcuța nr. 25/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-22",
+"latest": "2022-06-22",
+"portal": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+"council": "dolj/salcuta",
+"council_name": "Consiliul Local al Comunei Sălcuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--salcuta-26-2022",
+"path": "local/dolj/salcuta/2022/26",
+"kind": "local",
+"year": "2022",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 26/2022",
+"short": "HCL Sălcuța nr. 26/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-22",
+"latest": "2022-07-22",
+"portal": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+"council": "dolj/salcuta",
+"council_name": "Consiliul Local al Comunei Sălcuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--salcuta-27-2022",
+"path": "local/dolj/salcuta/2022/27",
+"kind": "local",
+"year": "2022",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 27/2022",
+"short": "HCL Sălcuța nr. 27/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-22",
+"latest": "2022-07-22",
+"portal": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+"council": "dolj/salcuta",
+"council_name": "Consiliul Local al Comunei Sălcuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--salcuta-28-2022",
+"path": "local/dolj/salcuta/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 28/2022",
+"short": "HCL Sălcuța nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-22",
+"latest": "2022-07-22",
+"portal": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+"council": "dolj/salcuta",
+"council_name": "Consiliul Local al Comunei Sălcuța",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -3,6 +3,29 @@
 "shard": "local/galati/ivesti/2024",
 "acts": [
 {
+"slug": "hcl-galati--ivesti-95-2024",
+"path": "local/galati/ivesti/2024/95",
+"kind": "local",
+"year": "2024",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 95/2024",
+"short": "HCL Ivești nr. 95/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-18",
+"latest": "2024-10-18",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/192273",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--ivesti-96-2024",
 "path": "local/galati/ivesti/2024/96",
 "kind": "local",

@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--ivesti-104-2021",
+   "path": "local/galati/ivesti/2021/104",
+   "short": "HCL Ivești nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 104/2021",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/56048",
+   "versions": [
+    {
+     "from": "2022-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/56048",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--ivesti-105-2021",
    "path": "local/galati/ivesti/2021/105",
    "short": "HCL Ivești nr. 105/2021",
@@ -163,6 +178,21 @@
      "from": "2021-11-09",
      "units": 1,
      "source_url": "https://emol.ro/ivesti-gl/registru-hcl/45259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-92-2021",
+   "path": "local/galati/ivesti/2021/92",
+   "short": "HCL Ivești nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 92/2021",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/45260",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/45260",
      "sha256": null
     }
    ]

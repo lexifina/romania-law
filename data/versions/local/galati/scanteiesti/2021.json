@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--scanteiesti-28-2021",
+   "path": "local/galati/scanteiesti/2021/28",
+   "short": "HCL Scânteiești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 28/2021 privind alegerea preşedintelui de şedinţă pentru sedinta din data de 04.06.2021",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/38139",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/38139",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--scanteiesti-29-2021",
    "path": "local/galati/scanteiesti/2021/29",
    "short": "HCL Scânteiești nr. 29/2021",
@@ -193,6 +208,21 @@
      "from": "2021-07-12",
      "units": 1,
      "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/38595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-39-2021",
+   "path": "local/galati/scanteiesti/2021/39",
+   "short": "HCL Scânteiești nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 39/2021 privind alegerea preşedintelui de şedinţă pentru lunile august-octombrie 2021",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/38596",
+   "versions": [
+    {
+     "from": "2021-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/38596",
      "sha256": null
     }
    ]

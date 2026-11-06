@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/dolj/segarcea/2020",
+"acts": [
+{
+"slug": "hcl-dolj--segarcea-4-2020",
+"path": "local/dolj/segarcea/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 4/2020",
+"short": "HCL Segarcea nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-13",
+"latest": "2020-03-13",
+"portal": "http://www.primariasegarcea.ro/",
+"council": "dolj/segarcea",
+"council_name": "Consiliul Local al Orașului Segarcea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--segarcea-5-2020",
+"path": "local/dolj/segarcea/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 5/2020",
+"short": "HCL Segarcea nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-16",
+"latest": "2020-03-16",
+"portal": "http://www.primariasegarcea.ro/",
+"council": "dolj/segarcea",
+"council_name": "Consiliul Local al Orașului Segarcea",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

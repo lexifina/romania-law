@@ -3,6 +3,75 @@
 "shard": "local/giurgiu/malu/2025",
 "acts": [
 {
+"slug": "hcl-giurgiu--malu-77-2025",
+"path": "local/giurgiu/malu/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malu nr. 77/2025",
+"short": "HCL Malu nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-16",
+"latest": "2026-02-16",
+"portal": "https://emol.ro/malu-gr/registru-hcl/253087",
+"council": "giurgiu/malu",
+"council_name": "Consiliul Local al Comunei Malu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--malu-78-2025",
+"path": "local/giurgiu/malu/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malu nr. 78/2025",
+"short": "HCL Malu nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-16",
+"latest": "2026-02-16",
+"portal": "https://emol.ro/malu-gr/registru-hcl/253088",
+"council": "giurgiu/malu",
+"council_name": "Consiliul Local al Comunei Malu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--malu-79-2025",
+"path": "local/giurgiu/malu/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malu nr. 79/2025",
+"short": "HCL Malu nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-16",
+"latest": "2026-02-16",
+"portal": "https://emol.ro/malu-gr/registru-hcl/253089",
+"council": "giurgiu/malu",
+"council_name": "Consiliul Local al Comunei Malu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-giurgiu--malu-80-2025",
 "path": "local/giurgiu/malu/2025/80",
 "kind": "local",
@@ -22,6 +91,28 @@
 "council_name": "Consiliul Local al Comunei Malu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--malu-81-2025",
+"path": "local/giurgiu/malu/2025/81",
+"kind": "local",
+"year": "2025",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malu nr. 81/2025 privind aprobarea încheierii unui contract de asistență juridică și reprezentare în instanță, pentru recursul formulat de Direcția Generală de Asistență Socială și Protecția Copilului în Dosarul nr. 56/122/2025*",
+"short": "HCL Malu nr. 81/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-16",
+"latest": "2026-02-16",
+"portal": "https://emol.ro/malu-gr/registru-hcl/253092",
+"council": "giurgiu/malu",
+"council_name": "Consiliul Local al Comunei Malu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +248,29 @@
 }
 },
 {
+"slug": "hcl-giurgiu--malu-88-2025",
+"path": "local/giurgiu/malu/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malu nr. 88/2025",
+"short": "HCL Malu nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-16",
+"latest": "2026-02-16",
+"portal": "https://emol.ro/malu-gr/registru-hcl/253107",
+"council": "giurgiu/malu",
+"council_name": "Consiliul Local al Comunei Malu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-giurgiu--malu-89-2025",
 "path": "local/giurgiu/malu/2025/89",
 "kind": "local",
@@ -179,6 +293,50 @@
 }
 },
 {
+"slug": "hcl-giurgiu--malu-90-2025",
+"path": "local/giurgiu/malu/2025/90",
+"kind": "local",
+"year": "2025",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malu nr. 90/2025 privind aprobarea efectuării de către primarul și viceprimarul comunei Malu, județul Giurgiu a concediului de odihnă restant, aferent anului 2025, în cursul anului 2026",
+"short": "HCL Malu nr. 90/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-16",
+"latest": "2026-02-16",
+"portal": "https://emol.ro/malu-gr/registru-hcl/253109",
+"council": "giurgiu/malu",
+"council_name": "Consiliul Local al Comunei Malu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--malu-91-2025",
+"path": "local/giurgiu/malu/2025/91",
+"kind": "local",
+"year": "2025",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malu nr. 91/2025 privind alegerea președintelui de ședință pentru perioada ianuarie - martie 2026",
+"short": "HCL Malu nr. 91/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-16",
+"latest": "2026-02-16",
+"portal": "https://emol.ro/malu-gr/registru-hcl/253110",
+"council": "giurgiu/malu",
+"council_name": "Consiliul Local al Comunei Malu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--malu-92-2025",
 "path": "local/giurgiu/malu/2025/92",
 "kind": "local",
@@ -198,6 +356,51 @@
 "council_name": "Consiliul Local al Comunei Malu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--malu-93-2025",
+"path": "local/giurgiu/malu/2025/93",
+"kind": "local",
+"year": "2025",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malu nr. 93/2025",
+"short": "HCL Malu nr. 93/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-16",
+"latest": "2026-02-16",
+"portal": "https://emol.ro/malu-gr/registru-hcl/253112",
+"council": "giurgiu/malu",
+"council_name": "Consiliul Local al Comunei Malu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--malu-94-2025",
+"path": "local/giurgiu/malu/2025/94",
+"kind": "local",
+"year": "2025",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malu nr. 94/2025 privind aprobarea încheierii unui contract de asistență juridică și reprezentare în instanță, în Dosarul nr. 1739/122/2025 aflat pe rolul Tribunalului Giurgiu",
+"short": "HCL Malu nr. 94/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-16",
+"latest": "2026-02-16",
+"portal": "https://emol.ro/malu-gr/registru-hcl/253113",
+"council": "giurgiu/malu",
+"council_name": "Consiliul Local al Comunei Malu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

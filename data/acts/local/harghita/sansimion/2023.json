@@ -3,6 +3,94 @@
 "shard": "local/harghita/sansimion/2023",
 "acts": [
 {
+"slug": "hcl-harghita--sansimion-83-2023",
+"path": "local/harghita/sansimion/2023/83",
+"kind": "local",
+"year": "2023",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 83/2023 privind vânzarea prin licitație publică a bunului imobil, teren intravilan, curți construcții/agricol, nr. cad. 51672 situat în comuna Sânsimion, sat Cetățuia, nr. 166, județul Harghita",
+"short": "HCL Sânsimion nr. 83/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/144534",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-84-2023",
+"path": "local/harghita/sansimion/2023/84",
+"kind": "local",
+"year": "2023",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 84/2023 privind aprobarea Raportului de inspecție economico-financiară nr. 77 din 14.09.2023, al Gospodăria Comunală Sânsimion SRL, al cărui acționar unic este Consiliul Local al comunei Sânsimion",
+"short": "HCL Sânsimion nr. 84/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/144535",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-85-2023",
+"path": "local/harghita/sansimion/2023/85",
+"kind": "local",
+"year": "2023",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 85/2023 privind desemnarea persoanei care va ține Registru de evidență a datoriei publice locale și Registru de evidență a garanțiilor locale ale comunei Sânsimion",
+"short": "HCL Sânsimion nr. 85/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/144536",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-86-2023",
+"path": "local/harghita/sansimion/2023/86",
+"kind": "local",
+"year": "2023",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 86/2023 privind aprobarea achitării prealabilă a penalității de 0,1% pentru AFIR și solicitării prelungirii scrisorii de garanție pentru garantarea avansului a proiectului: „REABILITARE ȘI MODERNIZARE CASĂ DE CULTURĂ, COMUNA SÎNSIMION”",
+"short": "HCL Sânsimion nr. 86/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/144537",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-harghita--sansimion-87-2023",
 "path": "local/harghita/sansimion/2023/87",
 "kind": "local",
@@ -22,6 +110,138 @@
 "council_name": "Consiliul Local al Comunei Sânsimion",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-88-2023",
+"path": "local/harghita/sansimion/2023/88",
+"kind": "local",
+"year": "2023",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 88/2023 privind încheierea unui contract de asistență juridică pentru demararea procedurilor legale în dosarul nr. 2519/258/2019",
+"short": "HCL Sânsimion nr. 88/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/144539",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-89-2023",
+"path": "local/harghita/sansimion/2023/89",
+"kind": "local",
+"year": "2023",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 89/2023 privind prima înscriere în cartea funciară a dreptului de proprietate publică a comunei Sânsimion asupra imobilelor drum exploatare, identificat DE 32, suprafață de 3746 mp, din localitatea Sânsimion",
+"short": "HCL Sânsimion nr. 89/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/144540",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-90-2023",
+"path": "local/harghita/sansimion/2023/90",
+"kind": "local",
+"year": "2023",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 90/2023 privind rectificarea bugetului nr. 9 între capitole și în cadrul aceluiași Capitol",
+"short": "HCL Sânsimion nr. 90/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/144576",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-91-2023",
+"path": "local/harghita/sansimion/2023/91",
+"kind": "local",
+"year": "2023",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 91/2023 privind aprobarea Procesului-verbal de negociere a prețului de vânzare -cumpărare și împuternicirea primarului pentru semnarea contractului de vânzare-cumpărare, pentru achiziția bunului imobil, casă de locuit cu teren aferent, în suprafață de 1392 mp, teren intravilan, situat în comuna Sânsimion, nr. 480, Județul Harghita, identificat prin Cartea Funciară nr. 50658, nr. cadastral 381",
+"short": "HCL Sânsimion nr. 91/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/144577",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-92-2023",
+"path": "local/harghita/sansimion/2023/92",
+"kind": "local",
+"year": "2023",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 92/2023 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2024",
+"short": "HCL Sânsimion nr. 92/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/144578",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-93-2023",
+"path": "local/harghita/sansimion/2023/93",
+"kind": "local",
+"year": "2023",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 93/2023 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2024",
+"short": "HCL Sânsimion nr. 93/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/144579",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +267,50 @@
 }
 },
 {
+"slug": "hcl-harghita--sansimion-95-2023",
+"path": "local/harghita/sansimion/2023/95",
+"kind": "local",
+"year": "2023",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 95/2023 privind aprobarea modificării Anexelor nr. 1 și 2 ale Hotărârii nr. 70/2023 al Comunei Sânsimion, privind stabilirea numărului de posturi, aprobarea Organigramei și a Statului de funcții ale aparatului de specialitate al primarului Comunei Sânsimion, cu modificările și completările ulterioare",
+"short": "HCL Sânsimion nr. 95/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/144581",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-96-2023",
+"path": "local/harghita/sansimion/2023/96",
+"kind": "local",
+"year": "2023",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 96/2023 privind aprobarea modificării Bugetului de Venituri și Cheltuieli al Societății Întreținere Drumuri Harghita S.R.L",
+"short": "HCL Sânsimion nr. 96/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/144582",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-harghita--sansimion-97-2023",
 "path": "local/harghita/sansimion/2023/97",
 "kind": "local",
@@ -66,6 +330,116 @@
 "council_name": "Consiliul Local al Comunei Sânsimion",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-98-2023",
+"path": "local/harghita/sansimion/2023/98",
+"kind": "local",
+"year": "2023",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 98/2023 privind rectificarea bugetului nr. 10 între capitole și în cadrul aceluiași Capitol",
+"short": "HCL Sânsimion nr. 98/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/144587",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-99-2023",
+"path": "local/harghita/sansimion/2023/99",
+"kind": "local",
+"year": "2023",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 99/2023 privind procedura de emitere a acordului și a autorizației de funcționare a operatorilor economici care desfășoară activități comerciale pe teritoriul comunei Sânsimion, județul Harghita",
+"short": "HCL Sânsimion nr. 99/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/144588",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-100-2023",
+"path": "local/harghita/sansimion/2023/100",
+"kind": "local",
+"year": "2023",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 100/2023 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Sânsimion, județul Harghita",
+"short": "HCL Sânsimion nr. 100/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/144589",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-101-2023",
+"path": "local/harghita/sansimion/2023/101",
+"kind": "local",
+"year": "2023",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 101/2023 privind rectificarea bugetului de venituri și cheltuieli nr. 11 între capitole și în cadrul aceluiași Capitol",
+"short": "HCL Sânsimion nr. 101/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/144590",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-102-2023",
+"path": "local/harghita/sansimion/2023/102",
+"kind": "local",
+"year": "2023",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 102/2023 privind modificarea și completarea hotărârii consiliului local nr. 100/2023 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Sânsimion, județul Harghita",
+"short": "HCL Sânsimion nr. 102/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/144591",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

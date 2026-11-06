@@ -3,6 +3,21 @@
  "shard": "local/galati/gohor/2025",
  "acts": [
   {
+   "slug": "hcl-galati--gohor-52-2025",
+   "path": "local/galati/gohor/2025/52",
+   "short": "HCL Gohor nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gohor nr. 52/2025 privind rectificarea bugetului de venituri și cheltuieli - secțiunea de funcționare a bugetului de venituri proprii și subvenții al comunei Gohor, judeţul Galaţi",
+   "url": "https://emol.ro/gohor-gl/registru-hcl/231031",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gohor-gl/registru-hcl/231031",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--gohor-53-2025",
    "path": "local/galati/gohor/2025/53",
    "short": "HCL Gohor nr. 53/2025",
@@ -13,6 +28,66 @@
      "from": "2025-12-08",
      "units": 1,
      "source_url": "https://emol.ro/gohor-gl/registru-hcl/234439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--gohor-54-2025",
+   "path": "local/galati/gohor/2025/54",
+   "short": "HCL Gohor nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gohor nr. 54/2025 privind: alegerea președintelui de ședință a Consiliului Local al comunei Gohor pentru o perioadă de 3 luni",
+   "url": "https://emol.ro/gohor-gl/registru-hcl/234440",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/gohor-gl/registru-hcl/234440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--gohor-55-2025",
+   "path": "local/galati/gohor/2025/55",
+   "short": "HCL Gohor nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gohor nr. 55/2025 privind modificarea Hotărârii Consiliului Local Gohor nr. 32/26.07.2023 privind: aprobarea proiectului și a acordului de parteneriat pentru realizarea obiectivului de investiții „Reabilitarea și modernizarea infrastructurii de transport regional pe tronsonul funcțional E 581 - DJ 241 - DJ 241A - DJ 241G”, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/gohor-gl/registru-hcl/234497",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/gohor-gl/registru-hcl/234497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--gohor-56-2025",
+   "path": "local/galati/gohor/2025/56",
+   "short": "HCL Gohor nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gohor nr. 56/2025 privind rectificarea bugetului de venituri și cheltuieli - secțiunea de funcționare a bugetului de venituri proprii și subvenții al comunei Gohor, judeţul Galaţi",
+   "url": "https://emol.ro/gohor-gl/registru-hcl/237953",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/gohor-gl/registru-hcl/237953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--gohor-57-2025",
+   "path": "local/galati/gohor/2025/57",
+   "short": "HCL Gohor nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gohor nr. 57/2025 privind rectificarea bugetului de venituri și cheltuieli - secțiunea de funcționare a bugetului de venituri proprii și subvenții al comunei Gohor, judeţul Galaţi",
+   "url": "https://emol.ro/gohor-gl/registru-hcl/240758",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/gohor-gl/registru-hcl/240758",
      "sha256": null
     }
    ]
@@ -48,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--gohor-60-2025",
+   "path": "local/galati/gohor/2025/60",
+   "short": "HCL Gohor nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gohor nr. 60/2025",
+   "url": "https://emol.ro/gohor-gl/registru-hcl/245457",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/gohor-gl/registru-hcl/245457",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--gohor-61-2025",
    "path": "local/galati/gohor/2025/61",
    "short": "HCL Gohor nr. 61/2025",
@@ -58,6 +148,36 @@
      "from": "2026-01-08",
      "units": 1,
      "source_url": "https://emol.ro/gohor-gl/registru-hcl/245458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--gohor-62-2025",
+   "path": "local/galati/gohor/2025/62",
+   "short": "HCL Gohor nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gohor nr. 62/2025 privind stabilirea procentului de indexare cu rata inflației a redevenței, la contractele de concesiune și de închiriere a terenurilor și clădirilor apartinând domeniului public și privat al comunei Gohor, județul Galați, pentru anul 2026",
+   "url": "https://emol.ro/gohor-gl/registru-hcl/245459",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/gohor-gl/registru-hcl/245459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--gohor-63-2025",
+   "path": "local/galati/gohor/2025/63",
+   "short": "HCL Gohor nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gohor nr. 63/2025 privind actualizarea indicatorilor tehnico-economici și a devizului general cu restul de realizat, pentru obiectivul de investiții „Construire locuințe Nzeb plus - pentru tineri / locuințe de serviciu pentru specialiști din sănătate și învățământ în comuna Gohor, județul Galați”",
+   "url": "https://emol.ro/gohor-gl/registru-hcl/245460",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/gohor-gl/registru-hcl/245460",
      "sha256": null
     }
    ]

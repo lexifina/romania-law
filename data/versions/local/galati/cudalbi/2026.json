@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/galati/cudalbi/2026",
+ "acts": [
+  {
+   "slug": "hcl-galati--cudalbi-10-2026",
+   "path": "local/galati/cudalbi/2026/10",
+   "short": "HCL Cudalbi nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 10/2026 privind închirierea prin licitație publică a unor terenuri si a constructiilor aferente, aparţinând domeniului public/ privat, dupa caz, al comunei Cudalbi, judeţul Galaţi",
+   "url": "https://comunacudalbi.ro/hotarari-ale-c-l/",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2026/04/HCL-nr.-10-din-27.03.26_completarea-si-actualizarea-inventarului-bunurilor-care-alcatuiesc-domeniul-privat-al-.pdf",
+     "sha256": "4fae01693b9fcf27694f1d93c7b49761cc73cc59b042b78236dbbc834f6ea8d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-11-2026",
+   "path": "local/galati/cudalbi/2026/11",
+   "short": "HCL Cudalbi nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 11/2026 privind închirierea prin licitație publică a unor terenuri si a constructiilor aferente, aparţinând domeniului public/ privat, dupa caz, al comunei Cudalbi, judeţul Galaţi",
+   "url": "https://comunacudalbi.ro/hotarari-ale-c-l/",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2026/05/HCL-Nr.-11-din-09.04.2026.pdf",
+     "sha256": "7fd81f0b6a19dda408178ff56e3d2f21a74b2a3cbb407fb061e62a64bed14b12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-12-2026",
+   "path": "local/galati/cudalbi/2026/12",
+   "short": "HCL Cudalbi nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 12/2026 privind închirierea prin licitație publică a unor terenuri si a constructiilor aferente, aparţinând domeniului public/ privat, dupa caz, al comunei Cudalbi, judeţul Galaţi",
+   "url": "https://comunacudalbi.ro/hotarari-ale-c-l/",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2026/05/HCL-Nr.-12-din-09.04.2026.pdf",
+     "sha256": "35891ecc601bc9ae306f0651a7a1817099fa924b1ced717fc77b4b2406bd81c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-13-2026",
+   "path": "local/galati/cudalbi/2026/13",
+   "short": "HCL Cudalbi nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 13/2026 privind închirierea prin licitație publică a unor terenuri si a constructiilor aferente, aparţinând domeniului public/ privat, dupa caz, al comunei Cudalbi, judeţul Galaţi",
+   "url": "https://comunacudalbi.ro/hotarari-ale-c-l/",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2026/05/HCL-Nr.-13-din-09.04.2026.pdf",
+     "sha256": "93b9c14988e472b8891ab93973b7b6c16969f0e5600daa381d9e9ed08cbe6d48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-30-2026",
+   "path": "local/galati/cudalbi/2026/30",
+   "short": "HCL Cudalbi nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 30/2026 privind închirierea prin licitație publică a unor terenuri si a constructiilor aferente, aparţinând domeniului public/ privat, dupa caz, al comunei Cudalbi, judeţul Galaţi",
+   "url": "https://comunacudalbi.ro/hotarari-ale-c-l/",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2026/08/HCL-nr.-30-din-22.07.2026_privind-aprobare-tarife-statie-incarcare-vehicule-electrice.pdf",
+     "sha256": "3f8b72e0292828138da642dfdc231f31e361afc49fde67656bf2d63c76808e5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-31-2026",
+   "path": "local/galati/cudalbi/2026/31",
+   "short": "HCL Cudalbi nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 31/2026 privind închirierea prin licitație publică a unor terenuri si a constructiilor aferente, aparţinând domeniului public/ privat, dupa caz, al comunei Cudalbi, judeţul Galaţi",
+   "url": "https://comunacudalbi.ro/hotarari-ale-c-l/",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2026/08/HCL-nr.-31-din-22.07.2026_privind-organigrama-Cudalbi-2026-club.pdf",
+     "sha256": "b4b0be01a657a39c35bdd5f2f3b7f8fb50f1ba5772077d6fc079c078617f9c03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-32-2026",
+   "path": "local/galati/cudalbi/2026/32",
+   "short": "HCL Cudalbi nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 32/2026 privind rectificarea bugetului local",
+   "url": "https://comunacudalbi.ro/hotarari-ale-c-l/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2026/08/HCL-NR.-32-din-07.08.2026-privind-rectificarea-bugetului-local.pdf",
+     "sha256": "c49e1b3a8472cfec5df59ef0ed6eebf4678f68b3393e7d97aa6e79cd72e188c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-33-2026",
+   "path": "local/galati/cudalbi/2026/33",
+   "short": "HCL Cudalbi nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 33/2026 privind închirierea prin licitație publică a unor terenuri si a constructiilor aferente, aparţinând domeniului public/ privat, dupa caz, al comunei Cudalbi, judeţul Galaţi",
+   "url": "https://comunacudalbi.ro/hotarari-ale-c-l/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2026/08/HCL-NR.-33-DIN-20.08.2026.pdf",
+     "sha256": "9ed887028f555406433d4633dbb10b2ad9b8558e2c53396e9d27da736a017728"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-36-2026",
+   "path": "local/galati/cudalbi/2026/36",
+   "short": "HCL Cudalbi nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 36/2026 privind închirierea prin licitație publică a unor terenuri si a constructiilor aferente, aparţinând domeniului public privat, dupa caz, al comunei Cudalbi, judeţul Galaţi",
+   "url": "https://comunacudalbi.ro/hotarari-ale-c-l/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2026/10/Hotararea-nr.-36-din-29.09.2026-privind-inchirierea-prin-licitatie-publica-a-unor-terenuri-si-a-constructiilor-aferente-apartinand-domeniului-public-privat-dupa-caz-al-comunei-Cudalbi-judetul-Galati.pdf",
+     "sha256": "7148a7b727f164577d9b9922a121d95e6ab6dd949e9a22e90bec10fc3f6f222d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-6-2026",
+   "path": "local/galati/cudalbi/2026/6",
+   "short": "HCL Cudalbi nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 6/2026 privind închirierea prin licitație publică a unor terenuri si a constructiilor aferente, aparţinând domeniului public/ privat, dupa caz, al comunei Cudalbi, judeţul Galaţi",
+   "url": "https://comunacudalbi.ro/hotarari-ale-c-l/",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2026/04/HCL-nr.-6-din-27.03.2026_imputernicirea-Primarului-Comunei-Cudalbi-in-numele-Comunei-Cudalbi-.pdf",
+     "sha256": "3f643a2613ecee2f02088ffb2844101a2f603b0be26be843ead92c3843f886f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-7-2026",
+   "path": "local/galati/cudalbi/2026/7",
+   "short": "HCL Cudalbi nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 7/2026 privind închirierea prin licitație publică a unor terenuri si a constructiilor aferente, aparţinând domeniului public/ privat, dupa caz, al comunei Cudalbi, judeţul Galaţi",
+   "url": "https://comunacudalbi.ro/hotarari-ale-c-l/",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2026/04/HCL-nr.-7-din-27.03.2026_Modificarea-si-completarea-Hotararii-de-consiliu-local-nr.4830.12.2025.pdf",
+     "sha256": "27b8901ee4df9dd59742bd17e2710c8b1bd1871a9a2f875d9c8f64536f88e8e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-8-2026",
+   "path": "local/galati/cudalbi/2026/8",
+   "short": "HCL Cudalbi nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 8/2026 pentru unele activităţi ale serviciului public",
+   "url": "https://comunacudalbi.ro/hotarari-ale-c-l/",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2026/04/HCL-nr.-8-din-27.03.2026_aprobarea-tarifelor-si-taxelor-speciale-pentru-unele-activitati-ale-serviciului-public-.pdf",
+     "sha256": "763132638cd2fa9380bc165f9063c9c04fdc5e676be9d8b780c65af609c1ced9"
+    }
+   ]
+  }
+ ]
+}

@@ -91,6 +91,50 @@
 }
 },
 {
+"slug": "hcl-galati--beresti-meria-56-2023",
+"path": "local/galati/beresti-meria/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 56/2023 privind stabilirea salariilor de baza pentru funcțiile aparatului de specialitate al primarului începând cu luna noiembrie 2023",
+"short": "HCL Berești-Meria nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-06",
+"latest": "2023-11-06",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/128622",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--beresti-meria-57-2023",
+"path": "local/galati/beresti-meria/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 57/2023 privind stabilirea salariilor de baza pentru funcțiile aparatului de specialitate al primarului începând cu ian.2024",
+"short": "HCL Berești-Meria nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-06",
+"latest": "2023-11-06",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/128623",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--beresti-meria-58-2023",
 "path": "local/galati/beresti-meria/2023/58",
 "kind": "local",
@@ -245,6 +289,28 @@
 }
 },
 {
+"slug": "hcl-galati--beresti-meria-65-2023",
+"path": "local/galati/beresti-meria/2023/65",
+"kind": "local",
+"year": "2023",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 65/2023 privind desemnarea reprezentanților consiliului local în comisia de evaluare a performantelor profesionale ale Secretarului general al comunei Berești-Meria, județul Galați, pe anul 2023",
+"short": "HCL Berești-Meria nr. 65/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-22",
+"latest": "2023-12-22",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/137999",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--beresti-meria-66-2023",
 "path": "local/galati/beresti-meria/2023/66",
 "kind": "local",
@@ -330,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Berești-Meria",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--beresti-meria-70-2023",
+"path": "local/galati/beresti-meria/2023/70",
+"kind": "local",
+"year": "2023",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 70/2023 privind îndreptarea erorii materiale din Hotărârea 49 din 28.09.2023 privind vânzarea directă a terenurilor proprietate privată a comunei Berești-Meria",
+"short": "HCL Berești-Meria nr. 70/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-22",
+"latest": "2023-12-22",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/138004",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

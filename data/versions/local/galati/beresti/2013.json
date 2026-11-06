@@ -3,6 +3,51 @@
  "shard": "local/galati/beresti/2013",
  "acts": [
   {
+   "slug": "hcl-galati--beresti-34-2013",
+   "path": "local/galati/beresti/2013/34",
+   "short": "HCL Berești nr. 34/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 34/2013 privind amplasarea mijloacelor de publicitate",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2013-09-27",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/hcl34_2013.pdf",
+     "sha256": "be3cd998f275bc4d01b25760a9f9a4c421fbf9e1026a77017c095b92ed43feed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-4-2013",
+   "path": "local/galati/beresti/2013/4",
+   "short": "HCL Berești nr. 4/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 4/2013 privind lucrari interes local prestate de beneficiari ai ajutorului social",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/HCL_Nr_4_din_31_01_2013_privind_lucrari_interes_local_prestate_de_beneficiari_ai_ajutorului%20social.pdf",
+     "sha256": "c5d0279d04f6c951ea7281a52c260e0534457f4e578a32d931651ed41b72d7cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-40-2013",
+   "path": "local/galati/beresti/2013/40",
+   "short": "HCL Berești nr. 40/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 40/2013 privind Plan protectie ape impotriva poluarii cu nitrati",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2013-11-29",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/HCL_Nr_40_din_29_11_2013_privind_Plan_protectie_ape_impotriva_poluarii_cu_nitrati.pdf",
+     "sha256": "4b25ebad5c2c1861eb75b73ae8121bf3e3541bbe9b35745bb34a4686d96ce454"
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--beresti-45-2013",
    "path": "local/galati/beresti/2013/45",
    "short": "HCL Berești nr. 45/2013",

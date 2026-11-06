@@ -16,6 +16,81 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-60-2024",
+   "path": "local/gorj/capreni/2024/60",
+   "short": "HCL Căpreni nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 60/2024 privind aprobarea acordării cheltuielilor de deplasare a cadrelor didactice pe lunile iulie, august, septembrie și octombrie 2024",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/187200",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/187200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-61-2024",
+   "path": "local/gorj/capreni/2024/61",
+   "short": "HCL Căpreni nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 61/2024 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de stat și particular din comuna Căpreni , județul Gorj, pentru anul școlar 2025 - 2026",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/187202",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/187202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-62-2024",
+   "path": "local/gorj/capreni/2024/62",
+   "short": "HCL Căpreni nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 62/2024 privind organizarea pomului de Crăciun și a sărbătorilor de iarnă",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/187201",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/187201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-74-2024",
+   "path": "local/gorj/capreni/2024/74",
+   "short": "HCL Căpreni nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 74/2024 privind aprobarea unor ajutoare de urgență",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/187209",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/187209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-76-2024",
+   "path": "local/gorj/capreni/2024/76",
+   "short": "HCL Căpreni nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 76/2024 privind alegerea viceprimarului Comunei Căpreni , județul Gorj",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/187210",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/187210",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

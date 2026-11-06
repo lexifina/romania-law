@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--schela-71-2023",
+   "path": "local/galati/schela/2023/71",
+   "short": "HCL Schela nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 71/2023 Privind alegerea preşedintelui de şedinţă al Consiliului Local Schela pentru o perioadă de trei luni, respective, noiembrie 2023 – ianuarie 2024",
+   "url": "https://emol.ro/schela-gl/registru-hcl/137317",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/137317",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--schela-72-2023",
    "path": "local/galati/schela/2023/72",
    "short": "HCL Schela nr. 72/2023",
@@ -208,6 +223,36 @@
      "from": "2023-12-21",
      "units": 1,
      "source_url": "https://emol.ro/schela-gl/registru-hcl/152800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-84-2023",
+   "path": "local/galati/schela/2023/84",
+   "short": "HCL Schela nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 84/2023 Privind aprobarea scutirii de la plata taxei de salubritate pentru imobilele nelocuite, de pe raza comunei Schela",
+   "url": "https://emol.ro/schela-gl/registru-hcl/152801",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/152801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-85-2023",
+   "path": "local/galati/schela/2023/85",
+   "short": "HCL Schela nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 85/2023",
+   "url": "https://emol.ro/schela-gl/registru-hcl/152802",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/152802",
      "sha256": null
     }
    ]

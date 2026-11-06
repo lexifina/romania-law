@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-dolj--vela-42-2026",
+"path": "local/dolj/vela/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vela nr. 42/2026",
+"short": "HCL Vela nr. 42/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/vela-dj/registru-hcl/290643",
+"council": "dolj/vela",
+"council_name": "Consiliul Local al Comunei Vela",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dolj--vela-43-2026",
 "path": "local/dolj/vela/2026/43",
 "kind": "local",
@@ -88,6 +111,29 @@
 "council_name": "Consiliul Local al Comunei Vela",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--vela-46-2026",
+"path": "local/dolj/vela/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vela nr. 46/2026",
+"short": "HCL Vela nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/vela-dj/registru-hcl/294036",
+"council": "dolj/vela",
+"council_name": "Consiliul Local al Comunei Vela",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

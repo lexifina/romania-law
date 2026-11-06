@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/galati/beresti/2014",
+ "acts": [
+  {
+   "slug": "hcl-galati--beresti-23-2014",
+   "path": "local/galati/beresti/2014/23",
+   "short": "HCL Berești nr. 23/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 23/2014 privind acceptare UAT membre ale ADI Serviciul Regional Apa Galati",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/HCL_Nr_23_din_29_05_2014_privind_acceptare_UAT_membre_ale_ADI_Serviciul_Regional_Apa_Galati.pdf",
+     "sha256": "6751cbd241e5d26f6f74007b6e929151ba9853aaac98b4b888e12fcba8ab5617"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-27-2014",
+   "path": "local/galati/beresti/2014/27",
+   "short": "HCL Berești nr. 27/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 27/2014",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+     "sha256": "854b21b30c7fdef2f2822fccc60c3c8edd64769419dd866189e49ef7dc421359"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-29-2014",
+   "path": "local/galati/beresti/2014/29",
+   "short": "HCL Berești nr. 29/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 29/2014 privind aprobare Master Plan revizuit apa",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/HCL_Nr_29_din_31_07_2014_privind_aprobare_Master_Plan_revizuit_apa.pdf",
+     "sha256": "b62840861960477bc44b88aaa3df5130129d8d4f97523a4c84a691a2c62ef044"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-30-2014",
+   "path": "local/galati/beresti/2014/30",
+   "short": "HCL Berești nr. 30/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 30/2014 privind constituire Asociatia Dezvoltare Locala Covurlui",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/HCL_Nr_30_din_31_07_2014_privind_constituire_Asociatia_Dezvoltare_Locala_Covurlui.pdf",
+     "sha256": "58f9ce969b09120251c7e03495ea52fbf8e6ecd347e0c186b830660381e0da1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-34-2014",
+   "path": "local/galati/beresti/2014/34",
+   "short": "HCL Berești nr. 34/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 34/2014 privind vanzare teren",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2014-09-30",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/HCL_Nr_34_din_30_09_2014_privind_vanzare_teren.pdf",
+     "sha256": "0e28e0678f5f34a2e8dfde7aff45095ab5cb2dbfe49b7b121113efc2a000c677"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-35-2014",
+   "path": "local/galati/beresti/2014/35",
+   "short": "HCL Berești nr. 35/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 35/2014 privind inchiriere teren",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2014-09-30",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/HCL_Nr_35_din_30_09_2014_privind_inchiriere_teren.pdf",
+     "sha256": "64f8fb9797d84cd87c919e820081ae2f8db4feff64dc7e367c8808007eddc7b7"
+    }
+   ]
+  }
+ ]
+}

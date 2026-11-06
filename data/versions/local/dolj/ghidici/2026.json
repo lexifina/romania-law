@@ -213,6 +213,51 @@
    ]
   },
   {
+   "slug": "hcl-dolj--ghidici-22-2026",
+   "path": "local/dolj/ghidici/2026/22",
+   "short": "HCL Ghidici nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidici nr. 22/2026",
+   "url": "https://www.primariaghidici.ro/index.php/monitorul-oficial-local/2-uncategorised/28-registrul-pentru-evidenta-hotararilor-adoptate",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://www.primariaghidici.ro/upload/Hotarari2026/HCL%20nr.%2022%20din%2031.07.2026%20-%20rectificare%20de%20buget.pdf",
+     "sha256": "e54bc9f935c3f92890ef32ce95e0d7ac1cacdaade778b7f8cc4369b1b53e3043"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ghidici-23-2026",
+   "path": "local/dolj/ghidici/2026/23",
+   "short": "HCL Ghidici nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidici nr. 23/2026",
+   "url": "https://www.primariaghidici.ro/index.php/monitorul-oficial-local/2-uncategorised/28-registrul-pentru-evidenta-hotararilor-adoptate",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://www.primariaghidici.ro/upload/Hotarari2026/HCL%20nr.%2023%20din%2031.07.2026%20-%20aprobare%20conturi%20de%20execu%C8%9Bie%20la%2030.06.2026.pdf",
+     "sha256": "7919beb636e0c4c709f7eec13a4b359810eb947cee126f6689c2ae334c899ff7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ghidici-24-2026",
+   "path": "local/dolj/ghidici/2026/24",
+   "short": "HCL Ghidici nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidici nr. 24/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://www.primariaghidici.ro/upload/Hotarari2026/HCL%20nr.%2024%20din%2031.07.2026%20-%20modificare%20plan%20de%20achizitii.pdf",
+     "sha256": "4cb4729e8b48616219fa6b88140e4fd0400c50babf07df53ad5e6ff9211a2caf"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--ghidici-25-2026",
    "path": "local/dolj/ghidici/2026/25",
    "short": "HCL Ghidici nr. 25/2026",
@@ -224,6 +269,216 @@
      "units": 1,
      "source_url": "https://www.primariaghidici.ro/upload/Hotarari2026/HCL%20nr.%2025%20din%2031.07.2026%20-%20gospodarire%20comuna.pdf",
      "sha256": "f4f31b5c27e8fa1fa3102abcf7e1c8429f22675e4a3a8a8c4e6a7e633c792988"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ghidici-27-2026",
+   "path": "local/dolj/ghidici/2026/27",
+   "short": "HCL Ghidici nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidici nr. 27/2026",
+   "url": "https://www.primariaghidici.ro/index.php/monitorul-oficial-local/2-uncategorised/28-registrul-pentru-evidenta-hotararilor-adoptate",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://www.primariaghidici.ro/upload/Hotarari2026/HCL%20nr.%2027%20din%2007.08.2026%20-%20%C3%AEnrolarea%20UAT%20Ghidici%20%C3%AEn%20SNEP.pdf",
+     "sha256": "36cda3369a750d3af3c652373b304b0481abbf0c519fd2668817a3ba851228f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ghidici-28-2026",
+   "path": "local/dolj/ghidici/2026/28",
+   "short": "HCL Ghidici nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidici nr. 28/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primariaghidici.ro/upload/Hotarari2026/HCL%20nr.%2028%20din%2026.08.2026%20-%20revocare%20HCL%20nr.%2019%20din%2022.06.2026.pdf",
+     "sha256": "59b5a915a84c1b0a0e8313e3ca148da320cc26e53f8fecb58f5b66a5be62aa98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ghidici-29-2026",
+   "path": "local/dolj/ghidici/2026/29",
+   "short": "HCL Ghidici nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidici nr. 29/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primariaghidici.ro/upload/Hotarari2026/HCL%20nr.%2029%20din%2026.08.2026%20-%20rectificare%20de%20buget.pdf",
+     "sha256": "b537faf864952f3040f891a77ee829b11247abf082316f2825cad6cfca040607"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ghidici-3-2026",
+   "path": "local/dolj/ghidici/2026/3",
+   "short": "HCL Ghidici nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidici nr. 3/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "238d37cd64b8c12b03cd486145ebace532e5697c89ae1d7905972620203a367d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ghidici-30-2026",
+   "path": "local/dolj/ghidici/2026/30",
+   "short": "HCL Ghidici nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidici nr. 30/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://www.primariaghidici.ro/upload/Hotarari2026/HCL%20nr.%2030%20din%2023.09.2026%20-%20alegere%20presedinte%20de%20sedinta.pdf",
+     "sha256": "de961e0b5980c6e7b9d8d66a01d860b2a901e5ffac64d7e757b2cae0dba24cd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ghidici-31-2026",
+   "path": "local/dolj/ghidici/2026/31",
+   "short": "HCL Ghidici nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidici nr. 31/2026",
+   "url": "https://www.primariaghidici.ro/index.php/monitorul-oficial-local/2-uncategorised/28-registrul-pentru-evidenta-hotararilor-adoptate",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://www.primariaghidici.ro/upload/Hotarari2026/HCL%20nr.%2031%20din%2023.09.2026%20-%20APROBARE%20ORGANIGRAMA.pdf",
+     "sha256": "e39cc69a19a7e857d3bd414688519ed535ca2868047c28faac1ecf14ce458a9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ghidici-32-2026",
+   "path": "local/dolj/ghidici/2026/32",
+   "short": "HCL Ghidici nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidici nr. 32/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "19caf607886710080b14711aa33e7bdcb87dba146fe88fee7e5a2198503f8752"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ghidici-33-2026",
+   "path": "local/dolj/ghidici/2026/33",
+   "short": "HCL Ghidici nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidici nr. 33/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://www.primariaghidici.ro/upload/Hotarari2026/HCL%20nr.%2033%20din%2023.09.2026%20-%20desemnare%20membru%20CL%20%C3%AEn%20CA%20scoala.pdf",
+     "sha256": "b93d33496b79ad0688618a631f21020adcc5c8483f8d8a1a930a1a4dbc584deb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ghidici-35-2026",
+   "path": "local/dolj/ghidici/2026/35",
+   "short": "HCL Ghidici nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidici nr. 35/2026",
+   "url": "https://www.primariaghidici.ro/index.php/monitorul-oficial-local/2-uncategorised/28-registrul-pentru-evidenta-hotararilor-adoptate",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.primariaghidici.ro/upload/Hotarari2026/HCL%20nr.%2035%20DIN%2030.09.2026%20-%20RECTIFICARE%20DE%20BUGET.pdf",
+     "sha256": "f582e20bf41f5ef0a65e3af514212e33166ef2fa34de132f20898990800c8c04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ghidici-4-2026",
+   "path": "local/dolj/ghidici/2026/4",
+   "short": "HCL Ghidici nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidici nr. 4/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://www.primariaghidici.ro/upload/Hotarari2026/HCL%20nr.%204%20din%2030.01.2026%20-%20regulament%20naveta.pdf",
+     "sha256": "4a7a7c0d15d8817cbfe042f88413695c161fd79054a708daeb2627c795f561d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ghidici-5-2026",
+   "path": "local/dolj/ghidici/2026/5",
+   "short": "HCL Ghidici nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidici nr. 5/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://www.primariaghidici.ro/upload/Hotarari2026/HCL%20nr.%205%20DIN%2020.02.2026%20-%20ALEGERE%20PRESEDINTE%20DE%20SEDINTA.pdf",
+     "sha256": "daaf5ae3264abc3efd2baf5bb4b1802a523ff924094e7689056acc15b6c13c92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ghidici-6-2026",
+   "path": "local/dolj/ghidici/2026/6",
+   "short": "HCL Ghidici nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidici nr. 6/2026",
+   "url": "https://www.primariaghidici.ro/index.php/monitorul-oficial-local/2-uncategorised/28-registrul-pentru-evidenta-hotararilor-adoptate",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://www.primariaghidici.ro/upload/Hotarari2026/HCL%20nr.%206%20DIN%2020.02.2026%20-%20UTILIZARE%20EXCEDENT%20BUGETAR.pdf",
+     "sha256": "7b3d3da4c1f6c23dc5108043bd58206f1ae4858056e2abe83e60af636b037d76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ghidici-8-2026",
+   "path": "local/dolj/ghidici/2026/8",
+   "short": "HCL Ghidici nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidici nr. 8/2026 pentru evaluarea secretarului general.pdf",
+   "url": "https://www.primariaghidici.ro/index.php/monitorul-oficial-local/2-uncategorised/28-registrul-pentru-evidenta-hotararilor-adoptate",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://www.primariaghidici.ro/upload/Hotarari2026/HCL%20nr.%208%20din%2009.03.2026%20-%20desemnare%20consilieri%20%C3%AEn%20comisia%20pentru%20evaluarea%20secretarului%20general.pdf",
+     "sha256": "e24ecf04182ee5b4fa84d8d1bc84519707b0490b09d4c54f6eb654a0e2ad0c4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ghidici-9-2026",
+   "path": "local/dolj/ghidici/2026/9",
+   "short": "HCL Ghidici nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidici nr. 9/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://www.primariaghidici.ro/upload/Hotarari2026/HCL%20nr.%209%20din%2013.03.2026%20-%20reduceri%20taxe%20si%20impozite%20locale.pdf",
+     "sha256": "799ea4b44552e233b6433088227d01631b535e2ec8a6550432056d42326a5c6e"
     }
    ]
   }

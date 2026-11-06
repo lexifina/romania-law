@@ -25,6 +25,51 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-38-2025",
+"path": "local/dolj/ostroveni/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 38/2025 privind desemnarea unui reprezentant al Consiliului Local Ostroveni in Comisia de Evaluare si Asigurare a Calitatii a Scolii Gimnaziale Ostroveni",
+"short": "HCL Ostroveni nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-04",
+"latest": "2025-12-04",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/232412",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-39-2025",
+"path": "local/dolj/ostroveni/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 39/2025",
+"short": "HCL Ostroveni nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-04",
+"latest": "2025-12-04",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/232413",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-40-2025",
 "path": "local/dolj/ostroveni/2025/40",
 "kind": "local",
@@ -352,6 +397,28 @@
 "council_name": "Consiliul Local al Comunei Ostroveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-55-2025",
+"path": "local/dolj/ostroveni/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 55/2025 privind incheierea unui act aditional la Contractul de cesiune aprobat prin HCL OSTROVENI NR. 39/30.10.2025",
+"short": "HCL Ostroveni nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/241080",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

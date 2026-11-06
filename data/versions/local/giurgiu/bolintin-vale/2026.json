@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/bolintin-vale/2026",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-12-2026",
+   "path": "local/giurgiu/bolintin-vale/2026/12",
+   "short": "HCL Bolintin-Vale nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 12/2026 privind idcntificarea terenului: Informatii nrlyind lmplasamlntul terenului , Suprafa{6 lttir(rha) i:Uil )::,1 I::?: Specificare Numdr oraqur/co(*m)) una/J,'-d'eS{ruurpnrrqafqar[qa cContti-a_clia'^d(.a*aT_*ssrt,.trIr)aa,ll t:^uu-nn(\\'cc:t'/)ra\"ar:drdtarr(,l*la_air./,l)ot pDarcela patfete')s) (__) illlill totaldd (\"-) ** mn m ,:rc;do:*meop'l\"e\"teTca;za,a,t,iri ebir-H-fnV- vwfr{{LL ffi'.g,i ) irl_rl",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/Oferta-de-vanzare-teren-nr-12-14.10.2026.pdf",
+     "sha256": "1b354483382322b04652d04fa165d5609403397a26b61e05823f5349e21e239f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-13-2026",
+   "path": "local/giurgiu/bolintin-vale/2026/13",
+   "short": "HCL Bolintin-Vale nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 13/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/Oferta-de-vanzare-teren-nr-13-14.10.2026.pdf",
+     "sha256": "45490c2c4cb871b4f272b86cfaac2b6124d2b0c5a9503f05a4f2d70f74000257"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-22-2026",
+   "path": "local/giurgiu/bolintin-vale/2026/22",
+   "short": "HCL Bolintin-Vale nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 22/2026 privind rezultatele etichetării cheltuielilor bugetare, detaliat pe capitole și surse de finanțare",
+   "url": "https://www.bolintin-vale.ro/monitorul-oficial-local/documente-si-informatii-financiare/bugetul-local/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/Anexa-2B-HCL-nr.-22-din-30.04.2026-Raportul-privind-rezultatele-etichetarii-cheltuielilor-bugetare-detaliat-pe-capitole-si-surse-de-finantare.pdf",
+     "sha256": "f02dfa74f27eb9ef5ba8b76d454234bff6d1fc5e79dcae629c6f3ec704e9752c"
+    }
+   ]
+  }
+ ]
+}

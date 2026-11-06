@@ -3,6 +3,73 @@
 "shard": "local/galati/corni/2022",
 "acts": [
 {
+"slug": "hcl-galati--corni-17-2022",
+"path": "local/galati/corni/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 17/2022 privind desemnarea reprezentantului unității administrative-teritoriale Comuna Corni , Județul Galați , în relația cu Autoritatea pentru Finanțarea Investițiilor Rurale (AFIR)",
+"short": "HCL Corni nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-12",
+"latest": "2022-05-12",
+"portal": "https://emol.ro/corni-gl/registru-hcl/60111",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--corni-18-2022",
+"path": "local/galati/corni/2022/18",
+"kind": "local",
+"year": "2022",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 18/2022",
+"short": "HCL Corni nr. 18/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-12",
+"latest": "2022-05-12",
+"portal": "https://emol.ro/corni-gl/registru-hcl/60112",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--corni-19-2022",
+"path": "local/galati/corni/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 19/2022 privind închirierea unor suprafețe de teren arabil aflate în administrarea unității administrative-teritoriale comuna Corni",
+"short": "HCL Corni nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-12",
+"latest": "2022-05-12",
+"portal": "https://emol.ro/corni-gl/registru-hcl/60113",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--corni-20-2022",
 "path": "local/galati/corni/2022/20",
 "kind": "local",
@@ -22,6 +89,28 @@
 "council_name": "Consiliul Local al Comunei Corni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--corni-21-2022",
+"path": "local/galati/corni/2022/21",
+"kind": "local",
+"year": "2022",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 21/2022 privind desemnarea d/lui Mohoria Pertrișor Lică având funcția de viceprimar al unitații administrative-teritoriale comuna Corni, județul Galați , pentru a reprezent comuna la Biroul Notarilor Publici în vederea semnării actelor de dezlipire",
+"short": "HCL Corni nr. 21/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/corni-gl/registru-hcl/60520",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -113,6 +113,72 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-74-2022",
+"path": "local/dolj/ostroveni/2022/74",
+"kind": "local",
+"year": "2022",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 74/2022 privind acordarea unui sprijin financiar Parohiei Listeava",
+"short": "HCL Ostroveni nr. 74/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/77735",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-75-2022",
+"path": "local/dolj/ostroveni/2022/75",
+"kind": "local",
+"year": "2022",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 75/2022 privind acordarea unui sprijin financiar Parohiei Orasani",
+"short": "HCL Ostroveni nr. 75/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/77736",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-76-2022",
+"path": "local/dolj/ostroveni/2022/76",
+"kind": "local",
+"year": "2022",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 76/2022 privind acordarea unui sprijin financiar Parohiei Grindeni",
+"short": "HCL Ostroveni nr. 76/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/77737",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-77-2022",
 "path": "local/dolj/ostroveni/2022/77",
 "kind": "local",
@@ -245,6 +311,28 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-83-2022",
+"path": "local/dolj/ostroveni/2022/83",
+"kind": "local",
+"year": "2022",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 83/2022 privind alocarea sumei de 85.000 lei pentru achizitia de cadouri de Craciun pentru scolarii si prescolarii inscrisi la Scoala Gimnaziala Ostroveni si la structurile arondate precum si pentru inchirierea de ornamente stradale pentru sarbatorile de iarna si pentru organizarea Evenimentului Revelion 2023",
+"short": "HCL Ostroveni nr. 83/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-07",
+"latest": "2023-09-07",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/81554",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-84-2022",
 "path": "local/dolj/ostroveni/2022/84",
 "kind": "local",
@@ -286,6 +374,28 @@
 "council_name": "Consiliul Local al Comunei Ostroveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-86-2022",
+"path": "local/dolj/ostroveni/2022/86",
+"kind": "local",
+"year": "2022",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 86/2022 privind concesionarea prin licitatie publica a imobiliului teren arabil extravilan in suprafata de 118770 mp domeniul privat al com.Ostroveni,amplasat in T 27 P 113",
+"short": "HCL Ostroveni nr. 86/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-07",
+"latest": "2023-09-07",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/83820",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

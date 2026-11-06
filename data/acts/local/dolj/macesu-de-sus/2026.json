@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-dolj--macesu-de-sus-39-2026",
+"path": "local/dolj/macesu-de-sus/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 39/2026 privind desemnarea preşedintelui de şedinţă al Consiliului Local al Comunei Măceșu de Sus, pentru perioada august - octombrie 2026",
+"short": "HCL Măceșu de Sus nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-12",
+"latest": "2026-10-12",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/292799",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--macesu-de-sus-40-2026",
 "path": "local/dolj/macesu-de-sus/2026/40",
 "kind": "local",
@@ -289,6 +311,28 @@
 }
 },
 {
+"slug": "hcl-dolj--macesu-de-sus-50-2026",
+"path": "local/dolj/macesu-de-sus/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 50/2026 privind desemnarea unui reprezentant și a unui membru supleant ai Consiliului Local al Comunei Măceșu de Sus pentru a face parte din Comisia de evaluare a probei de interviu, în calitate de membru din cadrul concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat Şcoala Gimnazială ,,Sf. Dumitru” Măceșu de Sus",
+"short": "HCL Măceșu de Sus nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-12",
+"latest": "2026-10-12",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/292818",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--macesu-de-sus-51-2026",
 "path": "local/dolj/macesu-de-sus/2026/51",
 "kind": "local",
@@ -308,6 +352,28 @@
 "council_name": "Consiliul Local al Comunei Măceșu de Sus",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-52-2026",
+"path": "local/dolj/macesu-de-sus/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 52/2026 privind desemnarea preşedintelui de şedinţă al Consiliului Local al Comunei Măceșu de Sus, pentru perioada Noiembrie 2026 - Ianuarie 2027",
+"short": "HCL Măceșu de Sus nr. 52/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/297238",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

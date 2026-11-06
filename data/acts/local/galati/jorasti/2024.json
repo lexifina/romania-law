@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/galati/jorasti/2024",
+"acts": [
+{
+"slug": "hcl-galati--jorasti-1-2024",
+"path": "local/galati/jorasti/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 1/2024 privind test",
+"short": "HCL Jorăști nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-02",
+"latest": "2024-04-02",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/151043",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

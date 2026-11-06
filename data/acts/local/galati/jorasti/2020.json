@@ -3,6 +3,28 @@
 "shard": "local/galati/jorasti/2020",
 "acts": [
 {
+"slug": "hcl-galati--jorasti-55-2020",
+"path": "local/galati/jorasti/2020/55",
+"kind": "local",
+"year": "2020",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 55/2020 privind alegerea viceprimarului comunei Jorăști, județul Galați",
+"short": "HCL Jorăști nr. 55/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-06",
+"latest": "2020-11-06",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/14686",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--jorasti-56-2020",
 "path": "local/galati/jorasti/2020/56",
 "kind": "local",
@@ -22,6 +44,72 @@
 "council_name": "Consiliul Local al Comunei Jorăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--jorasti-57-2020",
+"path": "local/galati/jorasti/2020/57",
+"kind": "local",
+"year": "2020",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 57/2020 privind desemnarea reprezentantului comunei Jorăști în Adunarea Asociației de Dezvoltare Intercomunitară ''Serviciul Regional Apă Galați'' și acordarea unui mandat special",
+"short": "HCL Jorăști nr. 57/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-06",
+"latest": "2020-11-06",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/14688",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--jorasti-58-2020",
+"path": "local/galati/jorasti/2020/58",
+"kind": "local",
+"year": "2020",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 58/2020 privind aprobarea taxei de închiriere a utilajului buldoexcavator aflat în patromoniul comunei Jorăști, județul Galați",
+"short": "HCL Jorăști nr. 58/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-06",
+"latest": "2020-11-06",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/14689",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--jorasti-59-2020",
+"path": "local/galati/jorasti/2020/59",
+"kind": "local",
+"year": "2020",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 59/2020 privind achiziționarea și montarea unei centrale electrice pentru Grădinița Zărnești",
+"short": "HCL Jorăști nr. 59/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-06",
+"latest": "2020-11-06",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/14690",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +135,94 @@
 }
 },
 {
+"slug": "hcl-galati--jorasti-61-2020",
+"path": "local/galati/jorasti/2020/61",
+"kind": "local",
+"year": "2020",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 61/2020 privind aprobarea Regulamentului privind acordarea voucherelor de vacanță",
+"short": "HCL Jorăști nr. 61/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-02",
+"latest": "2020-12-02",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/14692",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--jorasti-62-2020",
+"path": "local/galati/jorasti/2020/62",
+"kind": "local",
+"year": "2020",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 62/2020 privind aprobarea concesionării directe a suprafeței de 1.368,00 mp , situată în intravilanul comunei Jorăști, CV 61, P27, 28, ocupată abuziv, aparținând domeniului privat al UAT Comuna Jorăști",
+"short": "HCL Jorăști nr. 62/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-02",
+"latest": "2020-12-02",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/14693",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--jorasti-63-2020",
+"path": "local/galati/jorasti/2020/63",
+"kind": "local",
+"year": "2020",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 63/2020 privind aprobarea Regulamentului de Organizare și Funcționare a Consiliului Local al Comunei Jorăști, județul Galați",
+"short": "HCL Jorăști nr. 63/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-16",
+"latest": "2020-12-16",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/14714",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--jorasti-64-2020",
+"path": "local/galati/jorasti/2020/64",
+"kind": "local",
+"year": "2020",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 64/2020 privind organizarea pomului de iarnă la nivelul Comunei Joraști pentru anul 2020",
+"short": "HCL Jorăști nr. 64/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-16",
+"latest": "2020-12-16",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/14715",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--jorasti-65-2020",
 "path": "local/galati/jorasti/2020/65",
 "kind": "local",
@@ -66,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Jorăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--jorasti-66-2020",
+"path": "local/galati/jorasti/2020/66",
+"kind": "local",
+"year": "2020",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 66/2020 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care își desfășoară activitatea la Școala Gimnazială nr. 1 Jorăști din Comuna Jorăști pentru luna noiembrie 2020",
+"short": "HCL Jorăști nr. 66/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-16",
+"latest": "2020-12-16",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/14717",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -132,6 +330,94 @@
 "council_name": "Consiliul Local al Comunei Jorăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--jorasti-70-2020",
+"path": "local/galati/jorasti/2020/70",
+"kind": "local",
+"year": "2020",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 70/2020 privind atribuirea în folosință gratuită a unui lot de teren pentru construire locuință proprietate personală pentru tineri în condițiile Legii nr. 15/2003",
+"short": "HCL Jorăști nr. 70/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-16",
+"latest": "2020-12-16",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/14721",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--jorasti-71-2020",
+"path": "local/galati/jorasti/2020/71",
+"kind": "local",
+"year": "2020",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 71/2020 privind atestarea apartenenței la domeniul privat al comunei Jorăști, județul Galați a suprafeței de 2099,00 mp (teren intravilan, sat Lunca) destinat concesionării, situat în CV 16, P6",
+"short": "HCL Jorăști nr. 71/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-16",
+"latest": "2020-12-16",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/14722",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--jorasti-72-2020",
+"path": "local/galati/jorasti/2020/72",
+"kind": "local",
+"year": "2020",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 72/2020 privind aprobarea achiziționării unui număr de 186 tablete Lenovo din cadrul Telekom România Communication SA",
+"short": "HCL Jorăști nr. 72/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-16",
+"latest": "2020-12-16",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/14723",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--jorasti-73-2020",
+"path": "local/galati/jorasti/2020/73",
+"kind": "local",
+"year": "2020",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 73/2020 privind aprobarea concesionării directe a suprafeței de 2099 mp situată în intravilanul comunei Jorăști, sat Lunca CV 16, P6 ocupată abuziv, aparținând domeniului privat al comunei Jorăști",
+"short": "HCL Jorăști nr. 73/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-16",
+"latest": "2020-12-16",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/14724",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

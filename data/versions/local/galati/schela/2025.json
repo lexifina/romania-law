@@ -3,6 +3,231 @@
  "shard": "local/galati/schela/2025",
  "acts": [
   {
+   "slug": "hcl-galati--schela-43-2025",
+   "path": "local/galati/schela/2025/43",
+   "short": "HCL Schela nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 43/2025 privind modificarea organigramei și a statului de funcții a aparatului de specialitate a primarului comunei Schela, județul Galați",
+   "url": "https://emol.ro/schela-gl/registru-hcl/228711",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/228711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-44-2025",
+   "path": "local/galati/schela/2025/44",
+   "short": "HCL Schela nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 44/2025 Privind rectificarea bugetului local al comunei Schela, județul Galați, pe luna octombrie, anul 2025",
+   "url": "https://emol.ro/schela-gl/registru-hcl/231363",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/231363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-45-2025",
+   "path": "local/galati/schela/2025/45",
+   "short": "HCL Schela nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 45/2025 privind trecerea unor bunuri imobile (terenuri), din domeniul public al UAT Comuna Schela și administrarea Consiliului local al Comunei Schela în domeniul public al Județului Galați și în administrarea Consiliului Județean Galați",
+   "url": "https://emol.ro/schela-gl/registru-hcl/231364",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/231364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-46-2025",
+   "path": "local/galati/schela/2025/46",
+   "short": "HCL Schela nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 46/2025 privind modificarea Hotărârii Consiliului Local Schela nr. 66 din 25 octombrie 2023 privind aprobarea proiectului, a cheltuielilor legate de proiect, precum și a acordului de parteneriat pentru realizarea obiectivului de investiții „Reabilitarea și modernizarea infrastructurii de transport regional pe tronsonul funcțional de interes județean DN24D - DJ 251B - DJ 251A - DJ 251H - DJ 251 - DJ 255A – DN 25”",
+   "url": "https://emol.ro/schela-gl/registru-hcl/231365",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/231365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-47-2025",
+   "path": "local/galati/schela/2025/47",
+   "short": "HCL Schela nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 47/2025 privind aprobarea actualizării devizului general faza PTE (proiect tehnic de execuție) pentru realizarea obiectivului de investiţii ”Reabilitarea și modernizarea infrastructurii de transport regional pe tronsonul functional de interes județean DN 24D - DJ 251B - DJ 251A - DJ 251H - DJ 251 - DJ 255A - DN25”",
+   "url": "https://emol.ro/schela-gl/registru-hcl/231366",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/231366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-48-2025",
+   "path": "local/galati/schela/2025/48",
+   "short": "HCL Schela nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 48/2025 privind aprobarea actualizării indicatorilor tehnico-economici rezultați din documentația “Studiu de fezabilitate pentru obiectivul acțiunile compensatorii de împădurire aferente obiectivului: Reabilitarea și modernizarea infrastructurii de transport regional pe traseul DN 24D DJ 251B DJ 251A DJ 251H DJ 251 DJ 255A DN25”",
+   "url": "https://emol.ro/schela-gl/registru-hcl/231367",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/231367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-49-2025",
+   "path": "local/galati/schela/2025/49",
+   "short": "HCL Schela nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 49/2025 privind alegerea preşedintelui de şedinţă al Consiliului Local Schela, pentru perioada, noiembrie 2025 – ianuarie 2026",
+   "url": "https://emol.ro/schela-gl/registru-hcl/236761",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/236761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-50-2025",
+   "path": "local/galati/schela/2025/50",
+   "short": "HCL Schela nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 50/2025 privind rectificarea bugetului local al comunei Schela, județul Galați, pe luna noiembrie, anul 2025",
+   "url": "https://emol.ro/schela-gl/registru-hcl/236762",
+   "versions": [
+    {
+     "from": "2025-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/236762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-51-2025",
+   "path": "local/galati/schela/2025/51",
+   "short": "HCL Schela nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 51/2025 privind aprobarea organizării reţelei şcolare de învăţământ preuniversitar de stat de pe raza comunei Schela, judeţul Galați, pentru anul școlar 2026 -2027",
+   "url": "https://emol.ro/schela-gl/registru-hcl/236763",
+   "versions": [
+    {
+     "from": "2025-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/236763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-52-2025",
+   "path": "local/galati/schela/2025/52",
+   "short": "HCL Schela nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 52/2025 privind dezmembrarea terenului extravilan în suprafață de 64.408 mp, situat în Tarlaua 58/3, Parcela 510/8, lot 1/1, având nr. Cadastral 108786, în 3 loturi: lotul 1 în suprafață de 44.641 mp, având nr. Cadastral 114166, lotul 2 în suprafață de 17.767 mp, având nr. Cadastral 114167, lotul 3 în suprafață de 2.000 mp, având nr. Cadastral 114168",
+   "url": "https://emol.ro/schela-gl/registru-hcl/236764",
+   "versions": [
+    {
+     "from": "2025-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/236764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-53-2025",
+   "path": "local/galati/schela/2025/53",
+   "short": "HCL Schela nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 53/2025 privind aprobarea Regulamentului de Organizare și Funcționare a aparatului de specialitate al Primarului Comunei Schela",
+   "url": "https://emol.ro/schela-gl/registru-hcl/236765",
+   "versions": [
+    {
+     "from": "2025-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/236765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-54-2025",
+   "path": "local/galati/schela/2025/54",
+   "short": "HCL Schela nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 54/2025 privind aprobarea Regulamentului de funcționare și exploatare a stațiilor de reîncărcare a vehiculelor electrice și hybrid plug-in în Comuna Schela, Județul Galați, inclusiv a documentației în vederea delegării operării acestora pe baza unui contract de prestări servicii",
+   "url": "https://emol.ro/schela-gl/registru-hcl/236766",
+   "versions": [
+    {
+     "from": "2025-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/236766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-55-2025",
+   "path": "local/galati/schela/2025/55",
+   "short": "HCL Schela nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 55/2025 privind rectificarea bugetului local al comunei Schela, județul Galați, pe luna decembrie, anul 2025",
+   "url": "https://emol.ro/schela-gl/registru-hcl/239840",
+   "versions": [
+    {
+     "from": "2025-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/239840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-56-2025",
+   "path": "local/galati/schela/2025/56",
+   "short": "HCL Schela nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 56/2025 privind aprobarea alipirii imobilului cu nr.cadastral 108744, în suprafață de 1500 mp, cu imobilul cu nr.cadastral 114167, în suprafață de 17767 mp, rezultând imobilul cu numărul cadastral 114215, având suprafaţa măsurată de 19267 mp, situat în Comuna Schela, Tarlaua 58/3, Parcela 510/8, Lot 1/2",
+   "url": "https://emol.ro/schela-gl/registru-hcl/239841",
+   "versions": [
+    {
+     "from": "2025-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/239841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-57-2025",
+   "path": "local/galati/schela/2025/57",
+   "short": "HCL Schela nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 57/2025 privind rectificarea bugetului local al comunei Schela, județul Galați, pe luna decembrie, anul 2025",
+   "url": "https://emol.ro/schela-gl/registru-hcl/242790",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/242790",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--schela-58-2025",
    "path": "local/galati/schela/2025/58",
    "short": "HCL Schela nr. 58/2025",
@@ -28,6 +253,51 @@
      "from": "2026-01-13",
      "units": 1,
      "source_url": "https://emol.ro/schela-gl/registru-hcl/245016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-60-2025",
+   "path": "local/galati/schela/2025/60",
+   "short": "HCL Schela nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 60/2025",
+   "url": "https://emol.ro/schela-gl/registru-hcl/245017",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/245017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-61-2025",
+   "path": "local/galati/schela/2025/61",
+   "short": "HCL Schela nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 61/2025 Privind acordul pentru realizarea investiției pe drumurile și terenurile afectate pentru obiectivul: „CONSTRUIRE CAPACITATE DE STOCARE A ENERGIEI ELECTRICE (BATERII), AMENAJARE DRUMURI DE ACCES, TRASEU ELECTRIC ȘI RACORD LA SEN, ÎMPREJMUIRE TEREN, ORGANIZARE DE ȘANTIER” – FAZA DTAC ȘI DTOE – COMUNA SCHELA, JUDEȚUL GALAȚI”",
+   "url": "https://emol.ro/schela-gl/registru-hcl/245018",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/245018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-62-2025",
+   "path": "local/galati/schela/2025/62",
+   "short": "HCL Schela nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 62/2025 privind implementarea proiectului: „Achiziția unei autoutilitare de stingere incendii pentru îmbunătățirea capacității de intervenție în situații de urgență publică în Comuna Schela, Județul Galați”",
+   "url": "https://emol.ro/schela-gl/registru-hcl/245019",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/245019",
      "sha256": null
     }
    ]

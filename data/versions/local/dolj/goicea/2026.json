@@ -3,6 +3,36 @@
  "shard": "local/dolj/goicea/2026",
  "acts": [
   {
+   "slug": "hcl-dolj--goicea-31-2026",
+   "path": "local/dolj/goicea/2026/31",
+   "short": "HCL Goicea nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Goicea nr. 31/2026",
+   "url": "https://emol.ro/goicea-dj/registru-hcl/289304",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/goicea-dj/registru-hcl/289304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--goicea-32-2026",
+   "path": "local/dolj/goicea/2026/32",
+   "short": "HCL Goicea nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Goicea nr. 32/2026",
+   "url": "https://emol.ro/goicea-dj/registru-hcl/289305",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/goicea-dj/registru-hcl/289305",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--goicea-33-2026",
    "path": "local/dolj/goicea/2026/33",
    "short": "HCL Goicea nr. 33/2026",
@@ -28,6 +58,21 @@
      "from": "2026-10-15",
      "units": 1,
      "source_url": "https://emol.ro/goicea-dj/registru-hcl/289307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--goicea-35-2026",
+   "path": "local/dolj/goicea/2026/35",
+   "short": "HCL Goicea nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Goicea nr. 35/2026",
+   "url": "https://emol.ro/goicea-dj/registru-hcl/289308",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/goicea-dj/registru-hcl/289308",
      "sha256": null
     }
    ]
@@ -108,6 +153,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--goicea-41-2026",
+   "path": "local/dolj/goicea/2026/41",
+   "short": "HCL Goicea nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Goicea nr. 41/2026",
+   "url": "https://emol.ro/goicea-dj/registru-hcl/294080",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/goicea-dj/registru-hcl/294080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--goicea-42-2026",
+   "path": "local/dolj/goicea/2026/42",
+   "short": "HCL Goicea nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Goicea nr. 42/2026 Privind alegerea președintelui de ședință pentru perioada noiembrie 2026-ianuarie 2027",
+   "url": "https://emol.ro/goicea-dj/registru-hcl/294081",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/goicea-dj/registru-hcl/294081",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--goicea-43-2026",
    "path": "local/dolj/goicea/2026/43",
    "short": "HCL Goicea nr. 43/2026",
@@ -118,6 +193,36 @@
      "from": "2026-10-16",
      "units": 1,
      "source_url": "https://emol.ro/goicea-dj/registru-hcl/294082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--goicea-44-2026",
+   "path": "local/dolj/goicea/2026/44",
+   "short": "HCL Goicea nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Goicea nr. 44/2026",
+   "url": "https://emol.ro/goicea-dj/registru-hcl/294083",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/goicea-dj/registru-hcl/294083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--goicea-45-2026",
+   "path": "local/dolj/goicea/2026/45",
+   "short": "HCL Goicea nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Goicea nr. 45/2026 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Goicea",
+   "url": "https://emol.ro/goicea-dj/registru-hcl/294008",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/goicea-dj/registru-hcl/294008",
      "sha256": null
     }
    ]

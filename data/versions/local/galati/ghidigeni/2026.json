@@ -3,6 +3,36 @@
  "shard": "local/galati/ghidigeni/2026",
  "acts": [
   {
+   "slug": "hcl-galati--ghidigeni-44-2026",
+   "path": "local/galati/ghidigeni/2026/44",
+   "short": "HCL Ghidigeni nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidigeni nr. 44/2026 privind actualizarea valorii proiectului „CREȘTEREA SIGURANȚEI SEISMICE ȘI REALIZAREA MĂSURILOR AUXILIARE DE REABILITARE ȘI MODERNIZARE A ȘCOLII GIMNAZIALE NR.1, SAT GHIDIGENI, COMUNA GHIDIGENI, JUDEȚUL GALAȚI”",
+   "url": "https://emol.ro/ghidigeni-gl/registru-hcl/283884",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghidigeni-gl/registru-hcl/283884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ghidigeni-45-2026",
+   "path": "local/galati/ghidigeni/2026/45",
+   "short": "HCL Ghidigeni nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidigeni nr. 45/2026 privind schimbarea destinatiei unui imobil apartinand domeniului public al Comunei Ghidigeni, din imobil cu destinatia de unitate de invatamant in imobil cu alta destinatie",
+   "url": "https://emol.ro/ghidigeni-gl/registru-hcl/283885",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghidigeni-gl/registru-hcl/283885",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--ghidigeni-46-2026",
    "path": "local/galati/ghidigeni/2026/46",
    "short": "HCL Ghidigeni nr. 46/2026",
@@ -13,6 +43,36 @@
      "from": "2026-08-20",
      "units": 1,
      "source_url": "https://emol.ro/ghidigeni-gl/registru-hcl/283886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ghidigeni-47-2026",
+   "path": "local/galati/ghidigeni/2026/47",
+   "short": "HCL Ghidigeni nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidigeni nr. 47/2026 privind modificarea si completarea HCL nr. 10/30.01.2026 privind aprobarea înfiinţării serviciului social de zi „CENTRUL DE ZI PENTRU COPII GHIDIGENI” și aprobarea Regulamentuluide Organizare şi Funcţionare a serviciului social de zi \"CENTRUL DE ZI PENTRU COPII GHIDIGENI\"",
+   "url": "https://emol.ro/ghidigeni-gl/registru-hcl/284919",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ghidigeni-gl/registru-hcl/284919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ghidigeni-48-2026",
+   "path": "local/galati/ghidigeni/2026/48",
+   "short": "HCL Ghidigeni nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidigeni nr. 48/2026 privind actualizarea valorii proiectului „CREȘTEREA SIGURANȚEI SEISMICE ȘI REALIZAREA MĂSURILOR AUXILIARE DE REABILITARE ȘI MODERNIZARE A ȘCOLII GIMNAZIALE NR.1, SAT GHIDIGENI, COMUNA GHIDIGENI, JUDEȚUL GALAȚI”",
+   "url": "https://emol.ro/ghidigeni-gl/registru-hcl/286917",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ghidigeni-gl/registru-hcl/286917",
      "sha256": null
     }
    ]
@@ -33,6 +93,156 @@
    ]
   },
   {
+   "slug": "hcl-galati--ghidigeni-50-2026",
+   "path": "local/galati/ghidigeni/2026/50",
+   "short": "HCL Ghidigeni nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidigeni nr. 50/2026 privind desemnarea de reprezentanți ai Consiliului Local Ghidigeni ca membri în Consiliul de Administraţie și în Comisia pentru evaluarea și asigurarea calității (CEAC) în cadrul Școlii Gimnaziale nr. 1 Ghidigeni, județul galați, pentru anul scolar 2026-2027",
+   "url": "https://emol.ro/ghidigeni-gl/registru-hcl/292096",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ghidigeni-gl/registru-hcl/292096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ghidigeni-51-2026",
+   "path": "local/galati/ghidigeni/2026/51",
+   "short": "HCL Ghidigeni nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidigeni nr. 51/2026 privind desemnarea unui reprezentant și a unui membru supleant din cadrul Consiliul Local al comunei Ghidigeni pentru a face parte din Comisia de evaluare a probei Interviu, la concursul pentru ocuparea funcțiilor de director și director adjunct, concurs organizat de către Inspectoratul Şcolar Județean Galați",
+   "url": "https://emol.ro/ghidigeni-gl/registru-hcl/292097",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ghidigeni-gl/registru-hcl/292097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ghidigeni-52-2026",
+   "path": "local/galati/ghidigeni/2026/52",
+   "short": "HCL Ghidigeni nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidigeni nr. 52/2026 privind aprobarea înregistrării unor suprafețe de teren în domeniul privat al comunei Ghidigeni, județul Galați și în administrarea Consiliului local al comunei Ghidigeni, județul Galați",
+   "url": "https://emol.ro/ghidigeni-gl/registru-hcl/292098",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ghidigeni-gl/registru-hcl/292098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ghidigeni-53-2026",
+   "path": "local/galati/ghidigeni/2026/53",
+   "short": "HCL Ghidigeni nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidigeni nr. 53/2026 privind aprobarea actualizarii devizului general si a cofinantarii de la bugetul local, ca urmare a majorarii cotei TVA, precum si a altor cheltuieli intervenite pentru obiectivul de investitie ,, Sisteme integrate de colectare si valorificare a gunoiului de grajd - UAT Comuna Ghidigeni, Judetul Galati”",
+   "url": "https://emol.ro/ghidigeni-gl/registru-hcl/292099",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ghidigeni-gl/registru-hcl/292099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ghidigeni-54-2026",
+   "path": "local/galati/ghidigeni/2026/54",
+   "short": "HCL Ghidigeni nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidigeni nr. 54/2026 privind aprobarea Regulamentului-cadru privind modul de utilizare al microbuzelor de transport școlar din dotarea Primăriei comunei Ghidigeni, județul Galați",
+   "url": "https://emol.ro/ghidigeni-gl/registru-hcl/292100",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ghidigeni-gl/registru-hcl/292100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ghidigeni-55-2026",
+   "path": "local/galati/ghidigeni/2026/55",
+   "short": "HCL Ghidigeni nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidigeni nr. 55/2026 privind aprobarea incetarii contractului de concesiune nr. 2591/11.05.2005 incheiat intre Consiliul Local Ghidigeni – concedent și Galia Lucica – concesionar privind suprafața de 1000 mp aflată în domeniul privat al comunei Ghidigeni",
+   "url": "https://emol.ro/ghidigeni-gl/registru-hcl/292101",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ghidigeni-gl/registru-hcl/292101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ghidigeni-56-2026",
+   "path": "local/galati/ghidigeni/2026/56",
+   "short": "HCL Ghidigeni nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidigeni nr. 56/2026 privind înregistrarea Serviciului de Alimentare cu Apă și Canalizare Ghidigeni în Sistemul Național Electronic de Plată (SNEP) on-line \"Ghișeul.ro\", instalarea unui terminal de plată \"POS\" și stabilirea modului de suportare a comisioanelor bancare",
+   "url": "https://emol.ro/ghidigeni-gl/registru-hcl/293054",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ghidigeni-gl/registru-hcl/293054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ghidigeni-57-2026",
+   "path": "local/galati/ghidigeni/2026/57",
+   "short": "HCL Ghidigeni nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidigeni nr. 57/2026 privind aprobarea înregistrării unor suprafețe de teren în domeniul privat al comunei Ghidigeni, județul Galați și în administrarea Consiliului local al comunei Ghidigeni, județul Galați",
+   "url": "https://emol.ro/ghidigeni-gl/registru-hcl/297524",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ghidigeni-gl/registru-hcl/297524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ghidigeni-58-2026",
+   "path": "local/galati/ghidigeni/2026/58",
+   "short": "HCL Ghidigeni nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidigeni nr. 58/2026 privind aprobarea devizului general actualizat pentru obiectivul de investiții „CONSTRUIRE ȘI DOTARE GRĂDINIȚĂ ÎN SAT GEFU, COMUNA GHIDIGENI, JUDEȚUL GALAȚI” – actualizare ca urmare a atribuirii contractului de execuție lucrări și a modificării cotei de TVA",
+   "url": "https://emol.ro/ghidigeni-gl/registru-hcl/297525",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ghidigeni-gl/registru-hcl/297525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ghidigeni-59-2026",
+   "path": "local/galati/ghidigeni/2026/59",
+   "short": "HCL Ghidigeni nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidigeni nr. 59/2026 privind aprobarea actualizarii devizului general si a cofinantarii de la bugetul local, ca urmare a majorarii cotei TVA, precum si a altor cheltuieli intervenite pentru obiectivul de investitie ,, Sisteme integrate de colectare si valorificare a gunoiului de grajd - UAT Comuna Ghidigeni, Judetul Galati”",
+   "url": "https://emol.ro/ghidigeni-gl/registru-hcl/297526",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ghidigeni-gl/registru-hcl/297526",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--ghidigeni-60-2026",
    "path": "local/galati/ghidigeni/2026/60",
    "short": "HCL Ghidigeni nr. 60/2026",
@@ -43,6 +253,51 @@
      "from": "2026-10-30",
      "units": 1,
      "source_url": "https://emol.ro/ghidigeni-gl/registru-hcl/297527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ghidigeni-61-2026",
+   "path": "local/galati/ghidigeni/2026/61",
+   "short": "HCL Ghidigeni nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidigeni nr. 61/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/ghidigeni-gl/registru-hcl/297528",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ghidigeni-gl/registru-hcl/297528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ghidigeni-62-2026",
+   "path": "local/galati/ghidigeni/2026/62",
+   "short": "HCL Ghidigeni nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidigeni nr. 62/2026 privind aprobarea participării Comunei Ghidigeni și pregătirea proiectului „Dezvoltarea surselor de energie regenerabilă pentru comunitatea de energie a Comunei Ghidigeni”",
+   "url": "https://emol.ro/ghidigeni-gl/registru-hcl/297529",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ghidigeni-gl/registru-hcl/297529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ghidigeni-63-2026",
+   "path": "local/galati/ghidigeni/2026/63",
+   "short": "HCL Ghidigeni nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidigeni nr. 63/2026 privind schimbarea destinației unui imobil aparținând domeniului public al Comunei Ghidigeni, din imobil cu destinația de unitate de învățământ în imobil cu altă destinație",
+   "url": "https://emol.ro/ghidigeni-gl/registru-hcl/297530",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ghidigeni-gl/registru-hcl/297530",
      "sha256": null
     }
    ]

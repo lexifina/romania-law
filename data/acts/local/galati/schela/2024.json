@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-galati--schela-50-2024",
+"path": "local/galati/schela/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schela nr. 50/2024 privind alegerea preşedintelui de şedinţă al Consiliului Local Schela, pentru perioada noiembrie 2024 – ianuarie 2025",
+"short": "HCL Schela nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-02",
+"latest": "2025-09-02",
+"portal": "https://emol.ro/schela-gl/registru-hcl/181186",
+"council": "galati/schela",
+"council_name": "Consiliul Local al Comunei Schela",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--schela-51-2024",
 "path": "local/galati/schela/2024/51",
 "kind": "local",
@@ -44,6 +66,29 @@
 "council_name": "Consiliul Local al Comunei Schela",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--schela-52-2024",
+"path": "local/galati/schela/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schela nr. 52/2024",
+"short": "HCL Schela nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-02",
+"latest": "2025-09-02",
+"portal": "https://emol.ro/schela-gl/registru-hcl/181188",
+"council": "galati/schela",
+"council_name": "Consiliul Local al Comunei Schela",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -88,6 +133,28 @@
 "council_name": "Consiliul Local al Comunei Schela",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--schela-55-2024",
+"path": "local/galati/schela/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schela nr. 55/2024 privind aprobarea numirii de către Consiliul Local al comunei Schela a doi reprezentanți care să facă parte din Consiliul de Administraţie al Scolii Gimnaziale ”Lascăr Catargiu” din comuna Schela, pentru anul 2024-2025",
+"short": "HCL Schela nr. 55/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-02",
+"latest": "2025-09-02",
+"portal": "https://emol.ro/schela-gl/registru-hcl/181215",
+"council": "galati/schela",
+"council_name": "Consiliul Local al Comunei Schela",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -154,6 +221,28 @@
 "council_name": "Consiliul Local al Comunei Schela",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--schela-59-2024",
+"path": "local/galati/schela/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schela nr. 59/2024 privind alegerea viceprimarului comunei Schela, judetul Galați",
+"short": "HCL Schela nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-02",
+"latest": "2025-09-02",
+"portal": "https://emol.ro/schela-gl/registru-hcl/196505",
+"council": "galati/schela",
+"council_name": "Consiliul Local al Comunei Schela",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -242,6 +331,74 @@
 "council_name": "Consiliul Local al Comunei Schela",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--schela-64-2024",
+"path": "local/galati/schela/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schela nr. 64/2024 Privind aprobarea scutirii de la plata taxei de salubritate pentru imobilele nelocuite, de pe raza comunei Schela",
+"short": "HCL Schela nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-02",
+"latest": "2025-09-02",
+"portal": "https://emol.ro/schela-gl/registru-hcl/196515",
+"council": "galati/schela",
+"council_name": "Consiliul Local al Comunei Schela",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--schela-65-2024",
+"path": "local/galati/schela/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schela nr. 65/2024",
+"short": "HCL Schela nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-02",
+"latest": "2025-09-02",
+"portal": "https://emol.ro/schela-gl/registru-hcl/196516",
+"council": "galati/schela",
+"council_name": "Consiliul Local al Comunei Schela",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--schela-66-2024",
+"path": "local/galati/schela/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schela nr. 66/2024",
+"short": "HCL Schela nr. 66/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-02",
+"latest": "2025-09-02",
+"portal": "https://emol.ro/schela-gl/registru-hcl/196517",
+"council": "galati/schela",
+"council_name": "Consiliul Local al Comunei Schela",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

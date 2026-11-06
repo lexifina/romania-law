@@ -3,6 +3,28 @@
 "shard": "local/galati/jorasti/2021",
 "acts": [
 {
+"slug": "hcl-galati--jorasti-21-2021",
+"path": "local/galati/jorasti/2021/21",
+"kind": "local",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 21/2021 privind aprobarea închirierii prin atribuire directă a suprafeței de 45,68 ha pășune și, respectiv, 61,56 ha teren arabil, suprafețe aflate în proprietatea Primăriei Comunei jorăști",
+"short": "HCL Jorăști nr. 21/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/29785",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--jorasti-22-2021",
 "path": "local/galati/jorasti/2021/22",
 "kind": "local",
@@ -290,6 +312,29 @@
 }
 },
 {
+"slug": "hcl-galati--jorasti-35-2021",
+"path": "local/galati/jorasti/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 35/2021",
+"short": "HCL Jorăști nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-19",
+"latest": "2021-08-19",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/41888",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--jorasti-36-2021",
 "path": "local/galati/jorasti/2021/36",
 "kind": "local",
@@ -353,6 +398,28 @@
 "council_name": "Consiliul Local al Comunei Jorăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--jorasti-39-2021",
+"path": "local/galati/jorasti/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 39/2021 privind alegerea președintelui de ședință a Consiliului local al comunei Jorăști, județul Galați",
+"short": "HCL Jorăști nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-22",
+"latest": "2021-09-22",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/41892",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

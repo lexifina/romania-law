@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--ulmi-37-2021",
+   "path": "local/giurgiu/ulmi/2021/37",
+   "short": "HCL Ulmi nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 37/2021 privind desemnarea reprezentanţilor Consiliului Local al comunei Ulmi în Consiliile de Administraţie ale unităţilor de învăţământ preuniversitar de stat din comuna Ulmi pentru anul şcolar 2021-2022",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/38899",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/38899",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--ulmi-38-2021",
    "path": "local/giurgiu/ulmi/2021/38",
    "short": "HCL Ulmi nr. 38/2021",
@@ -58,6 +73,21 @@
      "from": "2021-10-20",
      "units": 1,
      "source_url": "https://emol.ro/ulmi-gr/registru-hcl/38901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-40-2021",
+   "path": "local/giurgiu/ulmi/2021/40",
+   "short": "HCL Ulmi nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 40/2021 privind aprobarea executiei bugetare pe sectiunea de functionare si sectiunea de dezvoltare ale bugetului local al comunei Ulmi si Serviciului Local de salubrizare al comunei Ulmi pe trimestrul III pe anul 2021",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/38900",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/38900",
      "sha256": null
     }
    ]
@@ -93,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--ulmi-43-2021",
+   "path": "local/giurgiu/ulmi/2021/43",
+   "short": "HCL Ulmi nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 43/2021",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/41936",
+   "versions": [
+    {
+     "from": "2021-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/41936",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--ulmi-44-2021",
    "path": "local/giurgiu/ulmi/2021/44",
    "short": "HCL Ulmi nr. 44/2021",
@@ -103,6 +148,21 @@
      "from": "2021-11-18",
      "units": 1,
      "source_url": "https://emol.ro/ulmi-gr/registru-hcl/41937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-45-2021",
+   "path": "local/giurgiu/ulmi/2021/45",
+   "short": "HCL Ulmi nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 45/2021 privind alocarea sumei de 30.000 lei pentru achizitia darurilor de Craciun pentru copiii din unitatile de invatamant de pe raza UAT comuna Ulmi",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/41938",
+   "versions": [
+    {
+     "from": "2021-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/41938",
      "sha256": null
     }
    ]
@@ -178,6 +238,36 @@
      "from": "2021-12-15",
      "units": 1,
      "source_url": "https://emol.ro/ulmi-gr/registru-hcl/45422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-51-2021",
+   "path": "local/giurgiu/ulmi/2021/51",
+   "short": "HCL Ulmi nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 51/2021 privind organizării reţelei şcolare a unităţilor de învăţământ preuniversitar de stat la nivelul comunei ULMI pentru anul 2022-2023",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/45425",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/45425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-52-2021",
+   "path": "local/giurgiu/ulmi/2021/52",
+   "short": "HCL Ulmi nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 52/2021",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/45424",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/45424",
      "sha256": null
     }
    ]

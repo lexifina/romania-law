@@ -25,6 +25,50 @@
 }
 },
 {
+"slug": "hcl-galati--poiana-39-2025",
+"path": "local/galati/poiana/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 39/2025 privind rectificarea Bugetului unităţii administrativ teritoriale pe anul 2025 analizând temeiurile juridice",
+"short": "HCL Poiana nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/240408",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--poiana-40-2025",
+"path": "local/galati/poiana/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 40/2025 privind numirea persoanei care va ține registrul de evidență a datoriei publice locale și registrul de evidență a garanțiilor locale ale Comunei Poiana",
+"short": "HCL Poiana nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/240409",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--poiana-41-2025",
 "path": "local/galati/poiana/2025/41",
 "kind": "local",
@@ -44,6 +88,50 @@
 "council_name": "Consiliul Local al Comunei Poiana",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--poiana-42-2025",
+"path": "local/galati/poiana/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 42/2025 privind alegerea unui preşedinte de şedinţă pentru urmatoarele trei luni:noiembrie,decembrie 2025-ianuarie 2026",
+"short": "HCL Poiana nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/240426",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--poiana-43-2025",
+"path": "local/galati/poiana/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 43/2025 privind desemnarea de reprezentant al Consiliului Local Poiana ca membru in Consiliul de administratie al SCOLII GIMNAZIALE NR.1 comuna Poiana, Județul GALAȚI",
+"short": "HCL Poiana nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/240427",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -69,6 +157,94 @@
 }
 },
 {
+"slug": "hcl-galati--poiana-45-2025",
+"path": "local/galati/poiana/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 45/2025 privind aprobarea valorificării prin vânzare ca deșeu metalic (fier vechi) a bunului “transformator 100 KW” aflat în proprietatea Primariei Comunei Poiana",
+"short": "HCL Poiana nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-29",
+"latest": "2025-10-29",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/240439",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--poiana-46-2025",
+"path": "local/galati/poiana/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 46/2025 privind actualizarea organigramei şi a statului de funcţii pentru aparatul de specialitate al Primarului comunei Poiana, judeţul Galaţi",
+"short": "HCL Poiana nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-29",
+"latest": "2025-10-29",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/240440",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--poiana-47-2025",
+"path": "local/galati/poiana/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 47/2025 privind rectificarea Bugetului unităţii administrativ teritoriale pe anul 2025",
+"short": "HCL Poiana nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-29",
+"latest": "2025-10-29",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/240441",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--poiana-48-2025",
+"path": "local/galati/poiana/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 48/2025 privind aprobarea Regulamentului pentru acordarea ajutorului de înmormântare în cazul decesului unei persoane fără venit, fără locuință sau în cazul decesului unei persoane vârstnice",
+"short": "HCL Poiana nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-20",
+"latest": "2025-11-20",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/268643",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--poiana-49-2025",
 "path": "local/galati/poiana/2025/49",
 "kind": "local",
@@ -91,6 +267,94 @@
 }
 },
 {
+"slug": "hcl-galati--poiana-50-2025",
+"path": "local/galati/poiana/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 50/2025 privind rectificarea Bugetului unităţii administrativ teritoriale pe anul 2025",
+"short": "HCL Poiana nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-20",
+"latest": "2025-11-20",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/268645",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--poiana-51-2025",
+"path": "local/galati/poiana/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 51/2025 privind actualizarea organigramei şi a statului de funcţii pentru aparatul de specialitate al Primarului comunei Poiana, judeţul Galaţi,",
+"short": "HCL Poiana nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-20",
+"latest": "2025-11-20",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/268646",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--poiana-52-2025",
+"path": "local/galati/poiana/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 52/2025 privind îndreptarea erorii materiale din cuprinsul preamburului Hotărârii Consiliului Local Poiana nr.43 din 15.10.2025 - desemnarea de reprezentant al Consiliului Local Poiana ca membru in Consiliul de administratie al SCOLII GIMNAZIALE NR.1 comuna Poiana, Județul GALAȚI",
+"short": "HCL Poiana nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-20",
+"latest": "2025-11-20",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/268647",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--poiana-53-2025",
+"path": "local/galati/poiana/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 53/2025 privind aprobarea programului achiziţiilor publice pentru anul 2026",
+"short": "HCL Poiana nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-20",
+"latest": "2025-11-20",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/268648",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--poiana-54-2025",
 "path": "local/galati/poiana/2025/54",
 "kind": "local",
@@ -110,6 +374,50 @@
 "council_name": "Consiliul Local al Comunei Poiana",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--poiana-55-2025",
+"path": "local/galati/poiana/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 55/2025 privind aprobarea rețelei școlare de pe raza unității administrativ teritoriale a comunei Poiana, judeţul Galaţi, pentru anul 2026-2027",
+"short": "HCL Poiana nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/268666",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--poiana-56-2025",
+"path": "local/galati/poiana/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 56/2025 privind rectificarea Bugetului unităţii administrativ teritoriale pe anul 2025",
+"short": "HCL Poiana nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/268667",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

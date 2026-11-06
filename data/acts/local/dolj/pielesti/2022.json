@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-dolj--pielesti-106-2022",
+"path": "local/dolj/pielesti/2022/106",
+"kind": "local",
+"year": "2022",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 106/2022 privind ,, Decontarea cheltuielilor cu naveta a cadrelor didactice și auxiliar didactice ale Școlii Gimnaziale Pielești pentru lunile: iunie, iulie, august, septembrie și octombrie 2022 ,,",
+"short": "HCL Pielești nr. 106/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-24",
+"latest": "2022-11-24",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/81659",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--pielesti-107-2022",
 "path": "local/dolj/pielesti/2022/107",
 "kind": "local",
@@ -265,6 +287,50 @@
 "council_name": "Consiliul Local al Comunei Pielești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-116-2022",
+"path": "local/dolj/pielesti/2022/116",
+"kind": "local",
+"year": "2022",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 116/2022 privind ... Aprobarea Planului de muncă al buldoescavatoristului pentru luna ianuarie 2023,,",
+"short": "HCL Pielești nr. 116/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-06",
+"latest": "2022-12-06",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/83640",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-117-2022",
+"path": "local/dolj/pielesti/2022/117",
+"kind": "local",
+"year": "2022",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 117/2022 privind ,, Aprobarea Planului de muncă al șoferului ce deservește tractorul achiziționat de Primăria Pielești pentru luna ianuarie 2023,,",
+"short": "HCL Pielești nr. 117/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-06",
+"latest": "2022-12-06",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/83641",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

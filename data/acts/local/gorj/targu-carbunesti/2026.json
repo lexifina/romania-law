@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-gorj--targu-carbunesti-4-2026",
+"path": "local/gorj/targu-carbunesti/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 4/2026 privind aprobarea vânzării fără licitație publică, prin exercitarea dreptului de preemțiune, a terenului în suprafață de 1000 mp, aparţinând domeniului privat al oraşului Târgu Cărbunești, situat în sat Cojani, oraș Târgu Cărbunești, judeţul Gorj, înscris în Cartea Funciară 39494 - oraș Târgu Cărbunești, număr cadastral 39494",
+"short": "HCL Târgu Cărbunești nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-06",
+"latest": "2026-02-06",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/249405",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--targu-carbunesti-5-2026",
 "path": "local/gorj/targu-carbunesti/2026/5",
 "kind": "local",
@@ -91,6 +113,29 @@
 }
 },
 {
+"slug": "hcl-gorj--targu-carbunesti-6-2026",
+"path": "local/gorj/targu-carbunesti/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 6/2026",
+"short": "HCL Târgu Cărbunești nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-06",
+"latest": "2026-02-06",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/249407",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-gorj--targu-carbunesti-7-2026",
 "path": "local/gorj/targu-carbunesti/2026/7",
 "kind": "local",
@@ -110,6 +155,52 @@
 "council_name": "Consiliul Local al Orașului Târgu Cărbunești",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--targu-carbunesti-8-2026",
+"path": "local/gorj/targu-carbunesti/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 8/2026",
+"short": "HCL Târgu Cărbunești nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-06",
+"latest": "2026-02-06",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/249409",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--targu-carbunesti-9-2026",
+"path": "local/gorj/targu-carbunesti/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 9/2026",
+"short": "HCL Târgu Cărbunești nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-06",
+"latest": "2026-02-06",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/249410",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -155,6 +246,50 @@
 "council_name": "Consiliul Local al Orașului Târgu Cărbunești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--targu-carbunesti-12-2026",
+"path": "local/gorj/targu-carbunesti/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 12/2026 privind vânzarea prin licitație publică a terenului în suprafață de 270 mp, proprietatea privată a orașului Târgu Cărbunești, identificat cu nr. cadastral 41682, înscris în Cartea Funciara nr.41682, oraș Târgu Cărbunești",
+"short": "HCL Târgu Cărbunești nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/255254",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--targu-carbunesti-13-2026",
+"path": "local/gorj/targu-carbunesti/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 13/2026 privind aprobarea vânzării fără licitație publică, prin exercitarea dreptului de preemțiune, a terenului în suprafață de 999 mp, aparţinând domeniului privat al oraşului Târgu Cărbunești, situat în sat Cojani, oraș Târgu Cărbunești, judeţul Gorj, înscris în Cartea Funciară 39484 - oraș Târgu Cărbunești, număr cadastral 39484",
+"short": "HCL Târgu Cărbunești nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/255255",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -534,6 +669,51 @@
 }
 },
 {
+"slug": "hcl-gorj--targu-carbunesti-31-2026",
+"path": "local/gorj/targu-carbunesti/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 31/2026",
+"short": "HCL Târgu Cărbunești nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-01",
+"latest": "2026-04-01",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/259207",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--targu-carbunesti-32-2026",
+"path": "local/gorj/targu-carbunesti/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 32/2026 privind atribuirea loturilor de teren pentru construirea de locuințe proprietate personală pentru tineri, în condițiile Legii nr.15 din 2003, terenuri situate în strada Sălciilor și strada Victoriei din satul Cojani, orașul Târgu Cărbunești, județul Gorj",
+"short": "HCL Târgu Cărbunești nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-01",
+"latest": "2026-04-01",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/259208",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--targu-carbunesti-33-2026",
 "path": "local/gorj/targu-carbunesti/2026/33",
 "kind": "local",
@@ -666,6 +846,73 @@
 }
 },
 {
+"slug": "hcl-gorj--targu-carbunesti-39-2026",
+"path": "local/gorj/targu-carbunesti/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 39/2026 privind aprobarea vânzării fără licitație publică, prin exercitarea dreptului de preemțiune, a terenului în suprafață de 1000 mp, aparţinând domeniului privat al oraşului Târgu Cărbunești, situat în sat Cojani, oraș Târgu Cărbunești, judeţul Gorj, înscris în Cartea Funciară 39481 - oraș Târgu Cărbunești, număr cadastral 39481",
+"short": "HCL Târgu Cărbunești nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-28",
+"latest": "2026-04-28",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/264372",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--targu-carbunesti-40-2026",
+"path": "local/gorj/targu-carbunesti/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 40/2026",
+"short": "HCL Târgu Cărbunești nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-28",
+"latest": "2026-04-28",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/264373",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--targu-carbunesti-41-2026",
+"path": "local/gorj/targu-carbunesti/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 41/2026 privind aprobarea emiterii autorizației locale de funcționare pentru organizarea jocurilor de noroc tip pariuri în cotă fixă, pe raza orașului Târgu Cărbunești, județul Gorj, Societății Comerciale BET ACTIVE CONCEPT S.R.L",
+"short": "HCL Târgu Cărbunești nr. 41/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-28",
+"latest": "2026-04-28",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/264374",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--targu-carbunesti-42-2026",
 "path": "local/gorj/targu-carbunesti/2026/42",
 "kind": "local",
@@ -754,6 +1001,51 @@
 }
 },
 {
+"slug": "hcl-gorj--targu-carbunesti-46-2026",
+"path": "local/gorj/targu-carbunesti/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 46/2026",
+"short": "HCL Târgu Cărbunești nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/269675",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--targu-carbunesti-47-2026",
+"path": "local/gorj/targu-carbunesti/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 47/2026 privind aprobarea vânzării fără licitație publică, prin exercitarea dreptului de preemțiune, a terenului în suprafață de 8,5 mp, reprezentând cota indiviză de 1/2 din terenul în suprafață de 17 mp, ce aparţine domeniului privat al oraşului Târgu Cărbunești, situat în orașul Târgu Cărbunești, judeţul Gorj, înscris în Cartea Funciară 39972 a Orașului Târgu Cărbunești, număr cadastral 39972",
+"short": "HCL Târgu Cărbunești nr. 47/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/269676",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--targu-carbunesti-48-2026",
 "path": "local/gorj/targu-carbunesti/2026/48",
 "kind": "local",
@@ -817,6 +1109,29 @@
 "council_name": "Consiliul Local al Orașului Târgu Cărbunești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--targu-carbunesti-51-2026",
+"path": "local/gorj/targu-carbunesti/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 51/2026",
+"short": "HCL Târgu Cărbunești nr. 51/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/269680",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -996,6 +1311,29 @@
 }
 },
 {
+"slug": "hcl-gorj--targu-carbunesti-60-2026",
+"path": "local/gorj/targu-carbunesti/2026/60",
+"kind": "local",
+"year": "2026",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 60/2026",
+"short": "HCL Târgu Cărbunești nr. 60/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-03",
+"latest": "2026-07-03",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/275664",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-gorj--targu-carbunesti-61-2026",
 "path": "local/gorj/targu-carbunesti/2026/61",
 "kind": "local",
@@ -1037,6 +1375,29 @@
 "council_name": "Consiliul Local al Orașului Târgu Cărbunești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--targu-carbunesti-63-2026",
+"path": "local/gorj/targu-carbunesti/2026/63",
+"kind": "local",
+"year": "2026",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 63/2026",
+"short": "HCL Târgu Cărbunești nr. 63/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-28",
+"latest": "2026-07-28",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/279629",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1128,6 +1489,51 @@
 }
 },
 {
+"slug": "hcl-gorj--targu-carbunesti-68-2026",
+"path": "local/gorj/targu-carbunesti/2026/68",
+"kind": "local",
+"year": "2026",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 68/2026",
+"short": "HCL Târgu Cărbunești nr. 68/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-28",
+"latest": "2026-07-28",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/279634",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--targu-carbunesti-69-2026",
+"path": "local/gorj/targu-carbunesti/2026/69",
+"kind": "local",
+"year": "2026",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 69/2026 privind aprobarea emiterii autorizației locale de funcționare pentru organizarea jocurilor de noroc tip pariuri în cotă fixă, pe raza orașului Târgu Cărbunești, județul Gorj, Societății Comerciale SUPERBET RETAIL S.A",
+"short": "HCL Târgu Cărbunești nr. 69/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-28",
+"latest": "2026-07-28",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/279635",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--targu-carbunesti-70-2026",
 "path": "local/gorj/targu-carbunesti/2026/70",
 "kind": "local",
@@ -1195,6 +1601,51 @@
 }
 },
 {
+"slug": "hcl-gorj--targu-carbunesti-73-2026",
+"path": "local/gorj/targu-carbunesti/2026/73",
+"kind": "local",
+"year": "2026",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 73/2026",
+"short": "HCL Târgu Cărbunești nr. 73/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-25",
+"latest": "2026-08-25",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/283349",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--targu-carbunesti-74-2026",
+"path": "local/gorj/targu-carbunesti/2026/74",
+"kind": "local",
+"year": "2026",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 74/2026 privind transmiterea dreptului de concesiune asupra terenului în suprafață de 30 mp situat în Piața orașului Târgu Cărbunești, județul Gorj",
+"short": "HCL Târgu Cărbunești nr. 74/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-25",
+"latest": "2026-08-25",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/283350",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--targu-carbunesti-75-2026",
 "path": "local/gorj/targu-carbunesti/2026/75",
 "kind": "local",
@@ -1239,6 +1690,28 @@
 }
 },
 {
+"slug": "hcl-gorj--targu-carbunesti-77-2026",
+"path": "local/gorj/targu-carbunesti/2026/77",
+"kind": "local",
+"year": "2026",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 77/2026 privind repartizarea apartamentului nr.5, sc.D, et.P, bl. ANL, situat pe strada Mitropolit Nestor Vornicescu, nr.2, oraș Târgu Cărbunești, jud. Gorj",
+"short": "HCL Târgu Cărbunești nr. 77/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-07",
+"latest": "2026-09-07",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/285334",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--targu-carbunesti-78-2026",
 "path": "local/gorj/targu-carbunesti/2026/78",
 "kind": "local",
@@ -1280,6 +1753,29 @@
 "council_name": "Consiliul Local al Orașului Târgu Cărbunești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--targu-carbunesti-80-2026",
+"path": "local/gorj/targu-carbunesti/2026/80",
+"kind": "local",
+"year": "2026",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 80/2026",
+"short": "HCL Târgu Cărbunești nr. 80/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-07",
+"latest": "2026-09-07",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/285337",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1395,6 +1891,50 @@
 }
 },
 {
+"slug": "hcl-gorj--targu-carbunesti-86-2026",
+"path": "local/gorj/targu-carbunesti/2026/86",
+"kind": "local",
+"year": "2026",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 86/2026 privind desemnarea reprezentanţilor Consiliului Local al oraşului Târgu Cărbuneşti în Consiliile de Administrație și în Comisiile pentru evaluarea și asigurarea calității din instituțiile de învățământ preuniversitar din oraşul Târgu Cărbuneşti",
+"short": "HCL Târgu Cărbunești nr. 86/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/288513",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--targu-carbunesti-87-2026",
+"path": "local/gorj/targu-carbunesti/2026/87",
+"kind": "local",
+"year": "2026",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 87/2026 privind desemnarea reprezentanţilor Consiliului Local al oraşului Târgu Cărbuneşti în Comisiile de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcției de director/director adjunct din unitățile de învățământ preuniversitar din oraşul Târgu Cărbuneşti",
+"short": "HCL Târgu Cărbunești nr. 87/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/288514",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--targu-carbunesti-88-2026",
 "path": "local/gorj/targu-carbunesti/2026/88",
 "kind": "local",
@@ -1458,6 +1998,28 @@
 "council_name": "Consiliul Local al Orașului Târgu Cărbunești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--targu-carbunesti-91-2026",
+"path": "local/gorj/targu-carbunesti/2026/91",
+"kind": "local",
+"year": "2026",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 91/2026 privind aprobarea vânzării fără licitație publică, prin exercitarea dreptului de preemțiune, a terenului în suprafață de 1006 mp, aparţinând domeniului privat al oraşului Târgu Cărbunești, situat în sat Cojani, oraș Târgu Cărbunești, judeţul Gorj, înscris în Cartea Funciară 39528 - oraș Târgu Cărbunești, număr cadastral 39528",
+"short": "HCL Târgu Cărbunești nr. 91/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/288518",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1569,6 +2131,74 @@
 "council_name": "Consiliul Local al Orașului Târgu Cărbunești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--targu-carbunesti-97-2026",
+"path": "local/gorj/targu-carbunesti/2026/97",
+"kind": "local",
+"year": "2026",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 97/2026",
+"short": "HCL Târgu Cărbunești nr. 97/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/295845",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--targu-carbunesti-98-2026",
+"path": "local/gorj/targu-carbunesti/2026/98",
+"kind": "local",
+"year": "2026",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 98/2026",
+"short": "HCL Târgu Cărbunești nr. 98/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/295846",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--targu-carbunesti-99-2026",
+"path": "local/gorj/targu-carbunesti/2026/99",
+"kind": "local",
+"year": "2026",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 99/2026 privind repartizarea apartamentului nr.11, sc.C, et.2, bl. ANL, situat pe strada Mitropolit Nestor Vornicescu, nr.2, oraș Târgu Cărbunești, jud. Gorj",
+"short": "HCL Târgu Cărbunești nr. 99/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/targucarbunesti-gj/registru-hcl/295847",
+"council": "gorj/targu-carbunesti",
+"council_name": "Consiliul Local al Orașului Târgu Cărbunești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

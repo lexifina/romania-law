@@ -78,6 +78,51 @@
    ]
   },
   {
+   "slug": "hcl-dolj--ostroveni-74-2022",
+   "path": "local/dolj/ostroveni/2022/74",
+   "short": "HCL Ostroveni nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 74/2022 privind acordarea unui sprijin financiar Parohiei Listeava",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/77735",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/77735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-75-2022",
+   "path": "local/dolj/ostroveni/2022/75",
+   "short": "HCL Ostroveni nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 75/2022 privind acordarea unui sprijin financiar Parohiei Orasani",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/77736",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/77736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-76-2022",
+   "path": "local/dolj/ostroveni/2022/76",
+   "short": "HCL Ostroveni nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 76/2022 privind acordarea unui sprijin financiar Parohiei Grindeni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/77737",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/77737",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--ostroveni-77-2022",
    "path": "local/dolj/ostroveni/2022/77",
    "short": "HCL Ostroveni nr. 77/2022",
@@ -168,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--ostroveni-83-2022",
+   "path": "local/dolj/ostroveni/2022/83",
+   "short": "HCL Ostroveni nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 83/2022 privind alocarea sumei de 85.000 lei pentru achizitia de cadouri de Craciun pentru scolarii si prescolarii inscrisi la Scoala Gimnaziala Ostroveni si la structurile arondate precum si pentru inchirierea de ornamente stradale pentru sarbatorile de iarna si pentru organizarea Evenimentului Revelion 2023",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/81554",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/81554",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--ostroveni-84-2022",
    "path": "local/dolj/ostroveni/2022/84",
    "short": "HCL Ostroveni nr. 84/2022",
@@ -193,6 +253,21 @@
      "from": "2023-09-07",
      "units": 1,
      "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/83819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-86-2022",
+   "path": "local/dolj/ostroveni/2022/86",
+   "short": "HCL Ostroveni nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 86/2022 privind concesionarea prin licitatie publica a imobiliului teren arabil extravilan in suprafata de 118770 mp domeniul privat al com.Ostroveni,amplasat in T 27 P 113",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/83820",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/83820",
      "sha256": null
     }
    ]

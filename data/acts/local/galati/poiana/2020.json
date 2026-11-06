@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-galati--poiana-60-2020",
+"path": "local/galati/poiana/2020/60",
+"kind": "local",
+"year": "2020",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 60/2020 privind stabilirea salariilor de bază ale functionarilor publici, ale personalului contractual din aparatul de specialitate al Primarului comunei Poiana, Județul Galati si a indemnizatiei lunare a consilierilor locali",
+"short": "HCL Poiana nr. 60/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-10",
+"latest": "2020-11-10",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/15629",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--poiana-61-2020",
 "path": "local/galati/poiana/2020/61",
 "kind": "local",
@@ -89,6 +111,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--poiana-62-2020",
+"path": "local/galati/poiana/2020/62",
+"kind": "local",
+"year": "2020",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 62/2020 privind aprobarea devizului general actualiat si a indicatorilor tehnico-finanaciari la finalizarea investitiei: „Achiziție buldoexcavator pentru serviciul public de gospodărie comunală din comuna Poiana, județul Galați”",
+"short": "HCL Poiana nr. 62/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-10",
+"latest": "2020-11-10",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/15631",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -221,6 +265,29 @@
 "council_name": "Consiliul Local al Comunei Poiana",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--poiana-69-2020",
+"path": "local/galati/poiana/2020/69",
+"kind": "local",
+"year": "2020",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 69/2020",
+"short": "HCL Poiana nr. 69/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-15",
+"latest": "2020-12-15",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/15712",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

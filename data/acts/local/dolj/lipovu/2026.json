@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/dolj/lipovu/2026",
+"acts": [
+{
+"slug": "hcl-dolj--lipovu-48-2026",
+"path": "local/dolj/lipovu/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lipovu nr. 48/2026",
+"short": "HCL Lipovu nr. 48/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-19",
+"latest": "2026-10-19",
+"portal": "https://primarialipovu.ro/documente/hotarari-ale-consiliului-local-adoptate-in-sedinta-din-data-de-19-10-2026/",
+"council": "dolj/lipovu",
+"council_name": "Consiliul Local al Comunei Lipovu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--lipovu-49-2026",
+"path": "local/dolj/lipovu/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lipovu nr. 49/2026",
+"short": "HCL Lipovu nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-19",
+"latest": "2026-10-19",
+"portal": "https://primarialipovu.ro/documente/hotarari-ale-consiliului-local-adoptate-in-sedinta-din-data-de-19-10-2026/",
+"council": "dolj/lipovu",
+"council_name": "Consiliul Local al Comunei Lipovu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--lipovu-50-2026",
+"path": "local/dolj/lipovu/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lipovu nr. 50/2026",
+"short": "HCL Lipovu nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://primarialipovu.ro/documente/hotarari-ale-consiliului-local-adoptate-in-sedinta-din-data-de-29-10-2026/",
+"council": "dolj/lipovu",
+"council_name": "Consiliul Local al Comunei Lipovu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--lipovu-51-2026",
+"path": "local/dolj/lipovu/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lipovu nr. 51/2026",
+"short": "HCL Lipovu nr. 51/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://primarialipovu.ro/documente/hotarari-ale-consiliului-local-adoptate-in-sedinta-din-data-de-29-10-2026/",
+"council": "dolj/lipovu",
+"council_name": "Consiliul Local al Comunei Lipovu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

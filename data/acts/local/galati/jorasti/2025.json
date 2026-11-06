@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-galati--jorasti-46-2025",
+"path": "local/galati/jorasti/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 46/2025 privind alegerea președintelui de ședință a Consiliului local al comunei Jorăști, județul Galați",
+"short": "HCL Jorăști nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-25",
+"latest": "2026-03-25",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/259436",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--jorasti-47-2025",
 "path": "local/galati/jorasti/2025/47",
 "kind": "local",
@@ -66,6 +88,29 @@
 "council_name": "Consiliul Local al Comunei Jorăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--jorasti-48-2025",
+"path": "local/galati/jorasti/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 48/2025",
+"short": "HCL Jorăști nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-25",
+"latest": "2026-03-25",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/259443",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -111,6 +156,28 @@
 "council_name": "Consiliul Local al Comunei Jorăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--jorasti-51-2025",
+"path": "local/galati/jorasti/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 51/2025 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care își desfășoară activitatea la Școala Gimnazială nr. 1 Jorăști din Comuna Jorăști pentru luna septembrie, anul 2025",
+"short": "HCL Jorăști nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-25",
+"latest": "2026-03-25",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/259446",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -202,6 +269,50 @@
 }
 },
 {
+"slug": "hcl-galati--jorasti-56-2025",
+"path": "local/galati/jorasti/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 56/2025 privind aprobarea atribuirii dreptului de folosință gratuită a unui lot de teren pentru constituirea de locuință proprietate personală pentru tineri, în condițiile Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe",
+"short": "HCL Jorăști nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-25",
+"latest": "2026-03-25",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/259460",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--jorasti-57-2025",
+"path": "local/galati/jorasti/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 57/2025 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care își desfășoară activitatea la Școala Gimnazială nr. 1 Jorăști din Comuna Jorăști pentru luna octombrie 2025",
+"short": "HCL Jorăști nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-25",
+"latest": "2026-03-25",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/259461",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--jorasti-58-2025",
 "path": "local/galati/jorasti/2025/58",
 "kind": "local",
@@ -224,6 +335,50 @@
 }
 },
 {
+"slug": "hcl-galati--jorasti-59-2025",
+"path": "local/galati/jorasti/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 59/2025 privind aprobarea Rețelei școlare a unităților de învățământ preuniversitar de stat autorizate de Comuna Jorăști, propuse să funcționeze în anul școlar 2026-2027",
+"short": "HCL Jorăști nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-25",
+"latest": "2026-03-25",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/259464",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--jorasti-60-2025",
+"path": "local/galati/jorasti/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 60/2025 privind alegerea președintelui de ședință a Consiliului local al comunei Jorăști, județul Galați",
+"short": "HCL Jorăști nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-25",
+"latest": "2026-03-25",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/259465",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--jorasti-61-2025",
 "path": "local/galati/jorasti/2025/61",
 "kind": "local",
@@ -243,6 +398,28 @@
 "council_name": "Consiliul Local al Comunei Jorăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--jorasti-62-2025",
+"path": "local/galati/jorasti/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 62/2025 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care își desfășoară activitatea la Școala Gimnazială nr. 1 Jorăști din Comuna Jorăști pentru luna noiembrie 2025",
+"short": "HCL Jorăști nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-25",
+"latest": "2026-03-25",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/259467",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

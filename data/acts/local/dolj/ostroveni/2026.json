@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-24-2026",
+"path": "local/dolj/ostroveni/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 24/2026 privind aprobarea bugetului actualizat al proiectului“DEZVOLTAREA TURISTICA A COMUNEI OSTROVENI PRIN AMENAJAREA UNEI ZONE CU DESTINATIE TURISTICA IN CADRUL PROGRAM DE INVESTIȚII ÎN INFRASTRUCTURA TURISTICĂ LA NIVELUL DESTINAȚIILOR PNRR/2025/C11/REFORMA1” în calitate de membru al Organizației de Management al Destinației Dolj",
+"short": "HCL Ostroveni nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-15",
+"latest": "2026-07-15",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/277519",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-25-2026",
 "path": "local/dolj/ostroveni/2026/25",
 "kind": "local",
@@ -135,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-29-2026",
+"path": "local/dolj/ostroveni/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 29/2026 privind acordarea unui sprijin financiar Parohiei Grindeni",
+"short": "HCL Ostroveni nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-14",
+"latest": "2026-10-14",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/286688",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-30-2026",
 "path": "local/dolj/ostroveni/2026/30",
 "kind": "local",
@@ -154,6 +198,29 @@
 "council_name": "Consiliul Local al Comunei Ostroveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-31-2026",
+"path": "local/dolj/ostroveni/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 31/2026",
+"short": "HCL Ostroveni nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-14",
+"latest": "2026-10-14",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/286690",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -242,6 +309,94 @@
 "council_name": "Consiliul Local al Comunei Ostroveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-36-2026",
+"path": "local/dolj/ostroveni/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 36/2026 privind desemnarea a doi reprezentanti ai Consiliului Local Ostroveni in Consiliul de Administratie al Scolii Gimnaziale Ostroveni",
+"short": "HCL Ostroveni nr. 36/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/291173",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-37-2026",
+"path": "local/dolj/ostroveni/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 37/2026 privind desemnarea unui reprezentant al Consiliului Local Ostroveni in Comisia de Evaluare a probei interviu la concursul pentru ocuparea functiei de director al Scolii Gimnaziale Ostroveni si a unui supleant in Comisia de Evaluare a probei interviu la concursul pentru ocuparea functiei de director al Scolii Gimnaziale Ostroveni",
+"short": "HCL Ostroveni nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/291174",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-38-2026",
+"path": "local/dolj/ostroveni/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 38/2026 privind acordarea unui sprijin financiar Parohiei Orasani",
+"short": "HCL Ostroveni nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/295528",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-39-2026",
+"path": "local/dolj/ostroveni/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 39/2026 privind acordarea unui sprijin financiar Parohiei Listeava",
+"short": "HCL Ostroveni nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/295529",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

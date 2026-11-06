@@ -3,6 +3,94 @@
 "shard": "local/dolj/pielesti/2026",
 "acts": [
 {
+"slug": "hcl-dolj--pielesti-117-2026",
+"path": "local/dolj/pielesti/2026/117",
+"kind": "local",
+"year": "2026",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 117/2026 privind ,,Desemnarea reprezentantului Consiliului Local Pielești în cadrul Consiliului de Administrație al Grădiniței cu Program Prelungit ,, Sfântul Efrem cel Nou,, Pielești pentru anul școlar 2026-2027,,",
+"short": "HCL Pielești nr. 117/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/296686",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-118-2026",
+"path": "local/dolj/pielesti/2026/118",
+"kind": "local",
+"year": "2026",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 118/2026 privind ,, Desemnarea reprezentantului Consiliului Local Pielești în cadrul Comisiei de Evaluare și Asigurare a Calității (CEAC) Grădiniței cu Program Prelungit ,, Sfântul Efrem cel Nou,, Pielești pentru anul școlar 2026-2027,,",
+"short": "HCL Pielești nr. 118/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/296687",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-119-2026",
+"path": "local/dolj/pielesti/2026/119",
+"kind": "local",
+"year": "2026",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 119/2026 privind ,, Desemnarea reprezentantului Consiliului Local Pielești în cadrul Comisiei pentru prevenirea și combaterea violenței, (…) și discriminării în mediul școlar și promovarea interculturalității a Grădiniței cu Program Prelungit ,, Sfântul Efrem cel Nou,, Pielești pentru anul școlar 2026-2027",
+"short": "HCL Pielești nr. 119/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/296688",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-120-2026",
+"path": "local/dolj/pielesti/2026/120",
+"kind": "local",
+"year": "2026",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 120/2026 privind ,, Acordarea unui sprijin financiar în cuantum de 110.000 lei Parohiei Pielești în vederea efectuării unor lucrări de reparații învelitoare acoperiș la biserica parohială.,,",
+"short": "HCL Pielești nr. 120/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/296689",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--pielesti-121-2026",
 "path": "local/dolj/pielesti/2026/121",
 "kind": "local",
@@ -179,6 +267,50 @@
 }
 },
 {
+"slug": "hcl-dolj--pielesti-129-2026",
+"path": "local/dolj/pielesti/2026/129",
+"kind": "local",
+"year": "2026",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 129/2026 privind ,, Înlocuirea reprezentantului Consiliului Local Pielești în cadrul Comisiei de Evaluare și Asigurare a Calității (CEAC) a Școlii Gimnaziale Pielești, în anul școlar 2026-2027,,",
+"short": "HCL Pielești nr. 129/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/296698",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-130-2026",
+"path": "local/dolj/pielesti/2026/130",
+"kind": "local",
+"year": "2026",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 130/2026 privind ,, Acordarea unui sprijin financiar în cuantum de 30.000 lei Parohiei Magnolia.,,",
+"short": "HCL Pielești nr. 130/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/296699",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--pielesti-131-2026",
 "path": "local/dolj/pielesti/2026/131",
 "kind": "local",
@@ -286,6 +418,28 @@
 "council_name": "Consiliul Local al Comunei Pielești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-136-2026",
+"path": "local/dolj/pielesti/2026/136",
+"kind": "local",
+"year": "2026",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 136/2026 privind ,, Desemnarea președintelui de ședință al Consiliului Local Pielești aferent lunilor noiembrie 2026- ianuarie 2027,,",
+"short": "HCL Pielești nr. 136/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/296705",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

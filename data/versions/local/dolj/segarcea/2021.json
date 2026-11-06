@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/segarcea/2021",
+ "acts": [
+  {
+   "slug": "hcl-dolj--segarcea-11-2021",
+   "path": "local/dolj/segarcea/2021/11",
+   "short": "HCL Segarcea nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 11/2021",
+   "url": "http://www.primariasegarcea.ro/",
+   "versions": [
+    {
+     "from": "2021-01-05",
+     "units": 1,
+     "source_url": "https://primariasegarcea.ro/wp-content/uploads/2021/hotarari/hsu11_05.01.2021.pdf",
+     "sha256": "bfcf5b00437487419e2e2bcea8eaf1b98f4bab65da9e8c2431475fa2158eb2aa"
+    }
+   ]
+  }
+ ]
+}

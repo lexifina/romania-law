@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-galati--negrilesti-25-2020",
+"path": "local/galati/negrilesti/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 25/2020",
+"short": "HCL Negrilești nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-04",
+"latest": "2020-08-04",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/11029",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--negrilesti-26-2020",
 "path": "local/galati/negrilesti/2020/26",
 "kind": "local",

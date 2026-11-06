@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--plenita-11-2025",
+   "path": "local/dolj/plenita/2025/11",
+   "short": "HCL Plenița nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 11/2025 privind actaulizarea preturilor la contractele de inchiriere a spatiilor comerciale din Piata agroalimentara saptamanala, proprietate publica a comunei Plenita",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/208698",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/208698",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--plenita-12-2025",
    "path": "local/dolj/plenita/2025/12",
    "short": "HCL Plenița nr. 12/2025",
@@ -58,6 +73,21 @@
      "from": "2025-06-02",
      "units": 1,
      "source_url": "https://emol.ro/plenita-dj/registru-hcl/208701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-15-2025",
+   "path": "local/dolj/plenita/2025/15",
+   "short": "HCL Plenița nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 15/2025 privind desemnarea președintelui de ședinta",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/208702",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/208702",
      "sha256": null
     }
    ]
@@ -123,6 +153,51 @@
    ]
   },
   {
+   "slug": "hcl-dolj--plenita-20-2025",
+   "path": "local/dolj/plenita/2025/20",
+   "short": "HCL Plenița nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 20/2025",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/220294",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/220294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-21-2025",
+   "path": "local/dolj/plenita/2025/21",
+   "short": "HCL Plenița nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 21/2025 privind modificarea Statului de funcții al aparatului de specialitate al primarului și structurilor din subordinea consiliului local",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/220295",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/220295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-22-2025",
+   "path": "local/dolj/plenita/2025/22",
+   "short": "HCL Plenița nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 22/2025",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/220300",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/220300",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--plenita-23-2025",
    "path": "local/dolj/plenita/2025/23",
    "short": "HCL Plenița nr. 23/2025",
@@ -133,6 +208,21 @@
      "from": "2025-08-06",
      "units": 1,
      "source_url": "https://emol.ro/plenita-dj/registru-hcl/220301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-24-2025",
+   "path": "local/dolj/plenita/2025/24",
+   "short": "HCL Plenița nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 24/2025 privind validarea Dispoziţiei nr. 86 din 27.06.2025, emisa de Primarul comunei Plenița, și rectificarea bugetului local al u.a.t. Plenița",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/220302",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/220302",
      "sha256": null
     }
    ]

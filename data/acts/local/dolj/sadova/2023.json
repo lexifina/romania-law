@@ -3,6 +3,160 @@
 "shard": "local/dolj/sadova/2023",
 "acts": [
 {
+"slug": "hcl-dolj--sadova-63-2023",
+"path": "local/dolj/sadova/2023/63",
+"kind": "local",
+"year": "2023",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 63/2023 privind aprobarea contului de executie al bugetului de venituri si cheltuieli pe trimestrul III, anul 2023 , al Serviciului Public de Alimentare cu Apa si de Canalizare Sadova",
+"short": "HCL Sadova nr. 63/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/127210",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-64-2023",
+"path": "local/dolj/sadova/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 64/2023 privind Actul Adițional nr. 2 la Contractul nr. 1818/30.06.2022 ”Delegarea prin concesionare a operării instalațiilor de gestionare a deșeurilor municipale realizate în cadrul proiectului Sistem de Management Integrat al Deșeurilor în Județul Dolj” și Actul Adițional nr. 1 la Contractul nr. 1188/11.05.2023 ”Delegarea gestiunii activității de eliminare prin depozitare a deșeurilor la Depozitul Ecologic de Deșeuri Mofleni-Craiova”",
+"short": "HCL Sadova nr. 64/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/127211",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-65-2023",
+"path": "local/dolj/sadova/2023/65",
+"kind": "local",
+"year": "2023",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 65/2023 privind aprobarea derulării procedurii de achiziție publică pentru acordarea unui suport alimentar ce constă într-un pachet alimentar pentru preşcolarii şi elevii Școlii Gimnaziale Sadova în vederea implementării ”Programului-pilot de acordare a unui suport alimentar pentru preşcolarii şi elevii din 450 de unităţi de învăţământ preuniversitar de stat”",
+"short": "HCL Sadova nr. 65/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/127212",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-66-2023",
+"path": "local/dolj/sadova/2023/66",
+"kind": "local",
+"year": "2023",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 66/2023 referitor la îndreptarea erorii materiale strecurate în cuprinsul Hotărârii Consiliului Local Sadova nr. 61 din 29.09.2023 privind darea în administrare a unor bunuri mobile aparținând domeniului public al comunei Sadova către Serviciul Public de Alimentare cu Apă și de Canalizare Sadova, cu personalitate juridică",
+"short": "HCL Sadova nr. 66/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/127213",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-67-2023",
+"path": "local/dolj/sadova/2023/67",
+"kind": "local",
+"year": "2023",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 67/2023 privind aprobarea încheierii contractului de achizitie publica, prin achizitie directa „pachete cadouri de Craciun\"",
+"short": "HCL Sadova nr. 67/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/127214",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-68-2023",
+"path": "local/dolj/sadova/2023/68",
+"kind": "local",
+"year": "2023",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 68/2023 privind rectificarea Bugetului de Venituri si Cheltuieli pe anul 2023, trimestrul lV, cu suma de 390 mii lei , respectiv suma de 441 mii lei",
+"short": "HCL Sadova nr. 68/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/127215",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-69-2023",
+"path": "local/dolj/sadova/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 69/2023 privind aprobarea rectificarii Bugetului de Venituri si cheltuieli al comunei Sadova pe trimestrul IV, anul 2023, cu suma de 174,91 mii lei",
+"short": "HCL Sadova nr. 69/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/131397",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--sadova-70-2023",
 "path": "local/dolj/sadova/2023/70",
 "kind": "local",
@@ -22,6 +176,161 @@
 "council_name": "Consiliul Local al Comunei Sadova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--sadova-71-2023",
+"path": "local/dolj/sadova/2023/71",
+"kind": "local",
+"year": "2023",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 71/2023 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei SADOVA, județul Dolj, începând cu 1 ianuarie 2024",
+"short": "HCL Sadova nr. 71/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/131399",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-72-2023",
+"path": "local/dolj/sadova/2023/72",
+"kind": "local",
+"year": "2023",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 72/2023 privind revocarea HCL NR.45/2023 -propunerea de declarare a terenului în suprafață de 9036 m.p. situat în extravilanul localității Sadova, tarlaua 72, P 2, ca bun de uz si interes public local și includerea acestuia în domeniul public al comunei Sadova",
+"short": "HCL Sadova nr. 72/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/131400",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-73-2023",
+"path": "local/dolj/sadova/2023/73",
+"kind": "local",
+"year": "2023",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 73/2023 privind declararea unor imobile , ca bunuri de uz și de interes public local, în vederea includerii acestora în domeniul public al comunei Sadova",
+"short": "HCL Sadova nr. 73/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/131401",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-74-2023",
+"path": "local/dolj/sadova/2023/74",
+"kind": "local",
+"year": "2023",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 74/2023 privind actualizarea inventarului domeniului public al comunei Sadova, ca urmare a diminuării cu 10 m.p. a suprafetei de teren înscrisă în CF nr.41245 Sadova",
+"short": "HCL Sadova nr. 74/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/131402",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-75-2023",
+"path": "local/dolj/sadova/2023/75",
+"kind": "local",
+"year": "2023",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 75/2023",
+"short": "HCL Sadova nr. 75/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/131403",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--sadova-76-2023",
+"path": "local/dolj/sadova/2023/76",
+"kind": "local",
+"year": "2023",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 76/2023 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședințelor din perioada urmatoarelor trei luni, respectiv decembrie 2023, ianuarie , februarie 2024",
+"short": "HCL Sadova nr. 76/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/132821",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-77-2023",
+"path": "local/dolj/sadova/2023/77",
+"kind": "local",
+"year": "2023",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 77/2023 privind aprobarea rectificarii Bugetului de Venituri si cheltuieli al comunei Sadova pe trimestrul IV, anul 2023",
+"short": "HCL Sadova nr. 77/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/132822",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +356,28 @@
 }
 },
 {
+"slug": "hcl-dolj--sadova-79-2023",
+"path": "local/dolj/sadova/2023/79",
+"kind": "local",
+"year": "2023",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 79/2023 privind reorganizarea aparatului de specialitate , a statului de functii si a numarului de personal, de la nivelul comunei Sadova , în baza modificărilor legislative intervenite prin Legea nr.296/2023",
+"short": "HCL Sadova nr. 79/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/135277",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--sadova-80-2023",
 "path": "local/dolj/sadova/2023/80",
 "kind": "local",
@@ -66,6 +397,50 @@
 "council_name": "Consiliul Local al Comunei Sadova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--sadova-81-2023",
+"path": "local/dolj/sadova/2023/81",
+"kind": "local",
+"year": "2023",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 81/2023 privind aprobarea rectificarii Bugetului de Venituri si cheltuieli al comunei Sadova pe trimestrul IV, anul 2023",
+"short": "HCL Sadova nr. 81/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/135279",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-82-2023",
+"path": "local/dolj/sadova/2023/82",
+"kind": "local",
+"year": "2023",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 82/2023 privind aprobarea decontarii cheltuielilor de transport pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al primarului comunei Sadova",
+"short": "HCL Sadova nr. 82/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/135280",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

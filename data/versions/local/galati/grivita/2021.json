@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--grivita-45-2021",
+   "path": "local/galati/grivita/2021/45",
+   "short": "HCL Grivița nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 45/2021 privind: desemnarea a doi reprezentanti ai Consiliului Local al com. Grivița, in Consiliul de Administratie al Scolii Gimnaziale Nr.1 Grivita in anul scolar 2021-2022",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/40809",
+   "versions": [
+    {
+     "from": "2021-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/40809",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--grivita-46-2021",
    "path": "local/galati/grivita/2021/46",
    "short": "HCL Grivița nr. 46/2021",
@@ -178,6 +193,21 @@
      "from": "2021-10-29",
      "units": 1,
      "source_url": "https://emol.ro/grivita-gl/registru-hcl/40810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-47-2021",
+   "path": "local/galati/grivita/2021/47",
+   "short": "HCL Grivița nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 47/2021 privind trecerea din domeniul privat al comunei Grivița , județul Galați în domeniul public al comunei Grivița, județul Galați a terenului situat în comuna Grivița, județul Galați amplasat în cvartal 32 parcela 1, lot 2/36, lot 1 înscris în cartea funciara 105231 ,în suprafață de 1.500 mp",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/40811",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/40811",
      "sha256": null
     }
    ]

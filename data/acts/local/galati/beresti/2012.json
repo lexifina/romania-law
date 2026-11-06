@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/galati/beresti/2012",
+"acts": [
+{
+"slug": "hcl-galati--beresti-15-2012",
+"path": "local/galati/beresti/2012/15",
+"kind": "local",
+"year": "2012",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Berești nr. 15/2012 privind restrictii viteza",
+"short": "HCL Berești nr. 15/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-09-26",
+"latest": "2012-09-26",
+"portal": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+"council": "galati/beresti",
+"council_name": "Consiliul Local al Orașului Berești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--beresti-19-2012",
+"path": "local/galati/beresti/2012/19",
+"kind": "local",
+"year": "2012",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Berești nr. 19/2012 privind Program masuri sezon rece",
+"short": "HCL Berești nr. 19/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-10-31",
+"latest": "2012-10-31",
+"portal": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+"council": "galati/beresti",
+"council_name": "Consiliul Local al Orașului Berești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--beresti-26-2012",
+"path": "local/galati/beresti/2012/26",
+"kind": "local",
+"year": "2012",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Berești nr. 26/2012 privind Program manifestari culturale",
+"short": "HCL Berești nr. 26/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-12-21",
+"latest": "2012-12-21",
+"portal": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+"council": "galati/beresti",
+"council_name": "Consiliul Local al Orașului Berești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

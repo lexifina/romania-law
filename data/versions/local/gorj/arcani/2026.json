@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/arcani/2026",
+ "acts": [
+  {
+   "slug": "hcl-gorj--arcani-1-2026",
+   "path": "local/gorj/arcani/2026/1",
+   "short": "HCL Arcani nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Arcani nr. 1/2026",
+   "url": "https://comuna-arcani.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comuna-arcani.ro/storage/formidable/229/HCL-nr.-1-din-30.01.2026-1.pdf",
+     "sha256": "62ec646d82a90e974dec8e12854e8627173b57704283052edb562a3f6106b369"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--arcani-2-2026",
+   "path": "local/gorj/arcani/2026/2",
+   "short": "HCL Arcani nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Arcani nr. 2/2026",
+   "url": "https://comuna-arcani.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comuna-arcani.ro/storage/formidable/229/HCL-nr.-2-din-30.01.2026-1.pdf",
+     "sha256": "e03adce3c03bb96c3f13db46e14a25474a6a92299b8b5c37590f3a94033f3771"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--arcani-3-2026",
+   "path": "local/gorj/arcani/2026/3",
+   "short": "HCL Arcani nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Arcani nr. 3/2026",
+   "url": "https://comuna-arcani.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comuna-arcani.ro/storage/formidable/229/HCL-nr.-3-din-30.01.2026-1.pdf",
+     "sha256": "9e9ae952b4a03d75ce85bc1330b8042f16cd7093accae84375d6d29a7890852e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--arcani-4-2026",
+   "path": "local/gorj/arcani/2026/4",
+   "short": "HCL Arcani nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Arcani nr. 4/2026",
+   "url": "https://comuna-arcani.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comuna-arcani.ro/storage/formidable/229/HCL-nr.-4-din-30.01.2026-1.pdf",
+     "sha256": "664f314d62598fe48e96cfa6f36631861c00b9b3f6679c3006e2fcdca3325d18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--arcani-5-2026",
+   "path": "local/gorj/arcani/2026/5",
+   "short": "HCL Arcani nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Arcani nr. 5/2026",
+   "url": "https://comuna-arcani.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comuna-arcani.ro/storage/formidable/229/HCL-nr.-5-din-30.01.2026-1.pdf",
+     "sha256": "e077062edd1122a1f0bad42b6d1b07c6e4281c9af45ed3889252f8d9ab77f226"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--arcani-6-2026",
+   "path": "local/gorj/arcani/2026/6",
+   "short": "HCL Arcani nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Arcani nr. 6/2026",
+   "url": "https://comuna-arcani.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comuna-arcani.ro/storage/formidable/229/HCL-nr.-6-din-30.01.2026-1.pdf",
+     "sha256": "fbf01e37b36590d20b1ffe200f33bf2880c105ba5a573d4417ad0635fe3be11d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--arcani-7-2026",
+   "path": "local/gorj/arcani/2026/7",
+   "short": "HCL Arcani nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Arcani nr. 7/2026",
+   "url": "https://comuna-arcani.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comuna-arcani.ro/storage/formidable/229/HCL-nr.-7-din-30.01.2026-1.pdf",
+     "sha256": "4eafc4ff8c5a9c0c49c0f94e16f74dfeee6755d6067bfed279393cdc55bd6370"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,66 @@
  "shard": "local/dolj/varvoru-de-jos/2026",
  "acts": [
   {
+   "slug": "hcl-dolj--varvoru-de-jos-37-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/37",
+   "short": "HCL Vârvoru de Jos nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 37/2026",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/09/hcl-Nr.37-din-31.08.2026.pdf",
+     "sha256": "51d7b8ac835a550865d8596195993288245ed91b77182f8011f116681f28b05e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--varvoru-de-jos-38-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/38",
+   "short": "HCL Vârvoru de Jos nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 38/2026",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/09/hcl-Nr.38-din-31.08.2026.pdf",
+     "sha256": "d69169f0ae65a6f6150b7a7c4abf7ab3080c60de7744a9ef570f78eba3ee7658"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--varvoru-de-jos-48-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/48",
+   "short": "HCL Vârvoru de Jos nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 48/2026 privind aderarea la sistemul de coope",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/10/Hotararea-Consiliului-Local-al-Comunei-Varvoru-de-Jos-judetul-Dolj-nr.-48-din-29.10.2026-privind-aderarea-la-sistemul-de-coope.pdf",
+     "sha256": "f01dbaa7a2d1ef45ed722fc99c1925928cb9edbaf46ec2b7c441c5481079bd60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--varvoru-de-jos-49-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/49",
+   "short": "HCL Vârvoru de Jos nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 49/2026 privind aprobarea principalilor indic",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/10/Hotararea-Consiliului-Local-al-Comunei-Varvoru-de-Jos-judetul-Dolj-nr.-49-din-29.10.2026-privind-aprobarea-principalilor-indic.pdf",
+     "sha256": "632b3971bc03e2f086c87a39a4f0b04bfa7b335b44f57c3b8aa1eb836a7d5a5c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--varvoru-de-jos-50-2026",
    "path": "local/dolj/varvoru-de-jos/2026/50",
    "short": "HCL Vârvoru de Jos nr. 50/2026",

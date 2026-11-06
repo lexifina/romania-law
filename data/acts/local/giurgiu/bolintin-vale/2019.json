@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/bolintin-vale/2019",
+"acts": [
+{
+"slug": "hcl-giurgiu--bolintin-vale-2-2019",
+"path": "local/giurgiu/bolintin-vale/2019/2",
+"kind": "local",
+"year": "2019",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 2/2019",
+"short": "HCL Bolintin-Vale nr. 2/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-01-23",
+"latest": "2019-01-23",
+"portal": "https://www.bolintin-vale.ro/monitorul-oficial-local/documente-si-informatii-financiare/",
+"council": "giurgiu/bolintin-vale",
+"council_name": "Consiliul Local al Orașului Bolintin-Vale",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--bolintin-vale-41-2019",
+"path": "local/giurgiu/bolintin-vale/2019/41",
+"kind": "local",
+"year": "2019",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 41/2019",
+"short": "HCL Bolintin-Vale nr. 41/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-23",
+"latest": "2019-04-23",
+"portal": "https://www.bolintin-vale.ro/monitorul-oficial-local/documente-si-informatii-financiare/",
+"council": "giurgiu/bolintin-vale",
+"council_name": "Consiliul Local al Orașului Bolintin-Vale",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--bolintin-vale-81-2019",
+"path": "local/giurgiu/bolintin-vale/2019/81",
+"kind": "local",
+"year": "2019",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 81/2019",
+"short": "HCL Bolintin-Vale nr. 81/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-07-24",
+"latest": "2019-07-24",
+"portal": "https://www.bolintin-vale.ro/monitorul-oficial-local/documente-si-informatii-financiare/",
+"council": "giurgiu/bolintin-vale",
+"council_name": "Consiliul Local al Orașului Bolintin-Vale",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--bolintin-vale-118-2019",
+"path": "local/giurgiu/bolintin-vale/2019/118",
+"kind": "local",
+"year": "2019",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 118/2019",
+"short": "HCL Bolintin-Vale nr. 118/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-10-31",
+"latest": "2019-10-31",
+"portal": "https://www.bolintin-vale.ro/monitorul-oficial-local/documente-si-informatii-financiare/",
+"council": "giurgiu/bolintin-vale",
+"council_name": "Consiliul Local al Orașului Bolintin-Vale",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-galati--corni-86-2025",
+"path": "local/galati/corni/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 86/2025 privind darea în administrare a microbuzului electric achiziționat în cadrul proiectului ”Facilitarea accesului la educație a elevilor din județul Galați prin achiziția de microbuze electrice” în cadrul Planului Național de Redresare și Reziliență",
+"short": "HCL Corni nr. 86/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-14",
+"latest": "2026-01-14",
+"portal": "https://emol.ro/corni-gl/registru-hcl/246731",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--corni-87-2025",
 "path": "local/galati/corni/2025/87",
 "kind": "local",
@@ -154,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Corni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--corni-93-2025",
+"path": "local/galati/corni/2025/93",
+"kind": "local",
+"year": "2025",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 93/2025 privind alegerea presedintelui de sedinta, pe o perioada de 3 luni, care va conduce sedintele consiliului si va semna hotararile adoptate de acesta",
+"short": "HCL Corni nr. 93/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-14",
+"latest": "2026-01-14",
+"portal": "https://emol.ro/corni-gl/registru-hcl/246738",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/bolintin-vale/2021",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-1-2021",
+   "path": "local/giurgiu/bolintin-vale/2021/1",
+   "short": "HCL Bolintin-Vale nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 1/2021",
+   "url": "https://www.bolintin-vale.ro/monitorul-oficial-local/documente-si-informatii-financiare/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2021/02/Hotarare-nr-1-din-28.01.2021.pdf",
+     "sha256": "ee4626d772309e20a11259a70808d166e23d2a58c00fe4545e97483f1b626977"
+    }
+   ]
+  }
+ ]
+}

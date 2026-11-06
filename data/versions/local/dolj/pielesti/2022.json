@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-106-2022",
+   "path": "local/dolj/pielesti/2022/106",
+   "short": "HCL Pielești nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 106/2022 privind ,, Decontarea cheltuielilor cu naveta a cadrelor didactice și auxiliar didactice ale Școlii Gimnaziale Pielești pentru lunile: iunie, iulie, august, septembrie și octombrie 2022 ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/81659",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/81659",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-107-2022",
    "path": "local/dolj/pielesti/2022/107",
    "short": "HCL Pielești nr. 107/2022",
@@ -178,6 +193,36 @@
      "from": "2022-12-06",
      "units": 1,
      "source_url": "https://emol.ro/pielesti-dj/registru-hcl/83639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-116-2022",
+   "path": "local/dolj/pielesti/2022/116",
+   "short": "HCL Pielești nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 116/2022 privind ... Aprobarea Planului de muncă al buldoescavatoristului pentru luna ianuarie 2023,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/83640",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/83640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-117-2022",
+   "path": "local/dolj/pielesti/2022/117",
+   "short": "HCL Pielești nr. 117/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 117/2022 privind ,, Aprobarea Planului de muncă al șoferului ce deservește tractorul achiziționat de Primăria Pielești pentru luna ianuarie 2023,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/83641",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/83641",
      "sha256": null
     }
    ]

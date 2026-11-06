@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/galati/suceveni/2026",
+"acts": [
+{
+"slug": "hcl-galati--suceveni-1-2026",
+"path": "local/galati/suceveni/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suceveni nr. 1/2026 privind alegerea președintelui de ședință",
+"short": "HCL Suceveni nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://emol.ro/suceveni-gl/registru-hcl/292461",
+"council": "galati/suceveni",
+"council_name": "Consiliul Local al Comunei Suceveni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

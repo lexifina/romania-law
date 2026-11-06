@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--poiana-14-2021",
+   "path": "local/galati/poiana/2021/14",
+   "short": "HCL Poiana nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana nr. 14/2021",
+   "url": "https://emol.ro/poiana-gl/registru-hcl/29844",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/poiana-gl/registru-hcl/29844",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--poiana-15-2021",
    "path": "local/galati/poiana/2021/15",
    "short": "HCL Poiana nr. 15/2021",
@@ -28,6 +43,21 @@
      "from": "2021-03-31",
      "units": 1,
      "source_url": "https://emol.ro/poiana-gl/registru-hcl/29845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--poiana-16-2021",
+   "path": "local/galati/poiana/2021/16",
+   "short": "HCL Poiana nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana nr. 16/2021 privind aprobarea închirierii unui terenului extravilan din proprietate publică a Comunei Poiana, județul Galați inscris in CF nr. 102802",
+   "url": "https://emol.ro/poiana-gl/registru-hcl/29846",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/poiana-gl/registru-hcl/29846",
      "sha256": null
     }
    ]
@@ -108,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--poiana-22-2021",
+   "path": "local/galati/poiana/2021/22",
+   "short": "HCL Poiana nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana nr. 22/2021 privind alegerea unui preşedinte de şedinţă",
+   "url": "https://emol.ro/poiana-gl/registru-hcl/29854",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/poiana-gl/registru-hcl/29854",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--poiana-23-2021",
    "path": "local/galati/poiana/2021/23",
    "short": "HCL Poiana nr. 23/2021",
@@ -163,6 +208,36 @@
      "from": "2021-05-25",
      "units": 1,
      "source_url": "https://emol.ro/poiana-gl/registru-hcl/29870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--poiana-27-2021",
+   "path": "local/galati/poiana/2021/27",
+   "short": "HCL Poiana nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana nr. 27/2021 privind aprobarea propunerii de schimbare a destinației de învățământ a unui imobil - constructie",
+   "url": "https://emol.ro/poiana-gl/registru-hcl/29879",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/poiana-gl/registru-hcl/29879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--poiana-28-2021",
+   "path": "local/galati/poiana/2021/28",
+   "short": "HCL Poiana nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana nr. 28/2021",
+   "url": "https://emol.ro/poiana-gl/registru-hcl/29880",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/poiana-gl/registru-hcl/29880",
      "sha256": null
     }
    ]

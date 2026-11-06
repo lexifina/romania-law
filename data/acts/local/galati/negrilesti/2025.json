@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-galati--negrilesti-23-2025",
+"path": "local/galati/negrilesti/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 23/2025 privind alegerea presedintelui de sedinta pe trim III anul 2025",
+"short": "HCL Negrilești nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-14",
+"latest": "2025-07-14",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/217689",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--negrilesti-24-2025",
 "path": "local/galati/negrilesti/2025/24",
 "kind": "local",
@@ -66,6 +88,28 @@
 "council_name": "Consiliul Local al Comunei Negrilești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-26-2025",
+"path": "local/galati/negrilesti/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 26/2025 privind asocierea UAT Comuna Negrilesti la SC PRIMATCA ACTIV TRANS SRL , precum si desemnarea unei persoane din partea comunei pentru participarea in Adunarea Generala a Asociatiei a Societatii",
+"short": "HCL Negrilești nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/220484",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -136,6 +180,50 @@
 }
 },
 {
+"slug": "hcl-galati--negrilesti-30-2025",
+"path": "local/galati/negrilesti/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 30/2025 privind aprobarea achizitionarii de servicii juridice de asistenta si reprezentare juridica de care UAT Comuna Negrilesti",
+"short": "HCL Negrilești nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-09",
+"latest": "2026-10-09",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/231003",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-31-2025",
+"path": "local/galati/negrilesti/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 31/2025 privind alegerea presedintelui de sedinta pe trim. IV anul 2025, Consiliul Local Negrilesti",
+"short": "HCL Negrilești nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-09",
+"latest": "2026-10-09",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/231004",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--negrilesti-32-2025",
 "path": "local/galati/negrilesti/2025/32",
 "kind": "local",
@@ -177,6 +265,28 @@
 "council_name": "Consiliul Local al Comunei Negrilești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-34-2025",
+"path": "local/galati/negrilesti/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 34/2025 PRIVIND: aprobarea retelei scolare de pe raza unitatii administrativ teritoriale a comunei Negrilesti, judeţul Galaţi, pentru anul 2026-2027",
+"short": "HCL Negrilești nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-09",
+"latest": "2026-10-09",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/241403",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -287,6 +397,50 @@
 "council_name": "Consiliul Local al Comunei Negrilești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-40-2025",
+"path": "local/galati/negrilesti/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 40/2025 privind: acceptarea ofertei de donație a unui autoturism marca DAEWOO tip TF19Y CIELO",
+"short": "HCL Negrilești nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/246802",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-41-2025",
+"path": "local/galati/negrilesti/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 41/2025 privind actualizarea Devizului General si a indicatorilor tehnico-economici urmare a modificarii cotei de TVA de la 19% la 21% si a majorarii valorii contractului cu valoarea cumulata a ajustarilor conform indicilor de cost in constructii, pentru obiectivul de investiții „Infiintare retea de canalizare si statie de epurare in comuna Negrilesti, judetul Galati’’, proiect aprobat pentru finanțare prin Programul Național de investiții „Anghel Saligny”",
+"short": "HCL Negrilești nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/246803",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

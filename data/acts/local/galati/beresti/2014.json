@@ -1,0 +1,139 @@
+{
+"country": "RO",
+"shard": "local/galati/beresti/2014",
+"acts": [
+{
+"slug": "hcl-galati--beresti-23-2014",
+"path": "local/galati/beresti/2014/23",
+"kind": "local",
+"year": "2014",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Berești nr. 23/2014 privind acceptare UAT membre ale ADI Serviciul Regional Apa Galati",
+"short": "HCL Berești nr. 23/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-05-29",
+"latest": "2014-05-29",
+"portal": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+"council": "galati/beresti",
+"council_name": "Consiliul Local al Orașului Berești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--beresti-27-2014",
+"path": "local/galati/beresti/2014/27",
+"kind": "local",
+"year": "2014",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Berești nr. 27/2014",
+"short": "HCL Berești nr. 27/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-07-31",
+"latest": "2014-07-31",
+"portal": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+"council": "galati/beresti",
+"council_name": "Consiliul Local al Orașului Berești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--beresti-29-2014",
+"path": "local/galati/beresti/2014/29",
+"kind": "local",
+"year": "2014",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Berești nr. 29/2014 privind aprobare Master Plan revizuit apa",
+"short": "HCL Berești nr. 29/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-07-31",
+"latest": "2014-07-31",
+"portal": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+"council": "galati/beresti",
+"council_name": "Consiliul Local al Orașului Berești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--beresti-30-2014",
+"path": "local/galati/beresti/2014/30",
+"kind": "local",
+"year": "2014",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Berești nr. 30/2014 privind constituire Asociatia Dezvoltare Locala Covurlui",
+"short": "HCL Berești nr. 30/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-07-31",
+"latest": "2014-07-31",
+"portal": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+"council": "galati/beresti",
+"council_name": "Consiliul Local al Orașului Berești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--beresti-34-2014",
+"path": "local/galati/beresti/2014/34",
+"kind": "local",
+"year": "2014",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Berești nr. 34/2014 privind vanzare teren",
+"short": "HCL Berești nr. 34/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-09-30",
+"latest": "2014-09-30",
+"portal": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+"council": "galati/beresti",
+"council_name": "Consiliul Local al Orașului Berești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--beresti-35-2014",
+"path": "local/galati/beresti/2014/35",
+"kind": "local",
+"year": "2014",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Berești nr. 35/2014 privind inchiriere teren",
+"short": "HCL Berești nr. 35/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-09-30",
+"latest": "2014-09-30",
+"portal": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+"council": "galati/beresti",
+"council_name": "Consiliul Local al Orașului Berești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

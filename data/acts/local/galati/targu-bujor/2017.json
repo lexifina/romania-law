@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/galati/targu-bujor/2017",
+"acts": [
+{
+"slug": "hcl-galati--targu-bujor-85-2017",
+"path": "local/galati/targu-bujor/2017/85",
+"kind": "local",
+"year": "2017",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Bujor nr. 85/2017",
+"short": "HCL Târgu Bujor nr. 85/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-09-29",
+"latest": "2017-09-29",
+"portal": "https://www.primariatgbujor.ro/hotarari-cl/",
+"council": "galati/targu-bujor",
+"council_name": "Consiliul Local al Orașului Târgu Bujor",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

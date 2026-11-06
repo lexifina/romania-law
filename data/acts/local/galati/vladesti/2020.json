@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/galati/vladesti/2020",
+"acts": [
+{
+"slug": "hcl-galati--vladesti-19-2020",
+"path": "local/galati/vladesti/2020/19",
+"kind": "local",
+"year": "2020",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădești nr. 19/2020 privind aprobarea masurilor de asigurare a bunei gospodariri precum si de pastrare a ordinii si curateniei",
+"short": "HCL Vlădești nr. 19/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-28",
+"latest": "2020-07-28",
+"portal": "https://primaria-vladesti.ro/wp-content/uploads/2023/06/Hotararea-nr.-19-din-28.07.2020-privind-aprobarea-masurilor-de-asigurare-a-bunei-gospodariri-precum-si-de-pastrare-a-ordinii-si-curateniei-1.pdf",
+"council": "galati/vladesti",
+"council_name": "Consiliul Local al Comunei Vlădești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

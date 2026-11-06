@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-galati--radesti-38-2026",
+"path": "local/galati/radesti/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădești nr. 38/2026 privind desemnarea reprezentantului Consiliului local Rădești cu drept de vot pe anul școlar 2026-2027 în Consiliul de administrație al Scolii Gimnaziale nr.1 Rădești, Comuna Rădești, județul Galați",
+"short": "HCL Rădești nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://emol.ro/radesti-gl/registru-hcl/287121",
+"council": "galati/radesti",
+"council_name": "Consiliul Local al Comunei Rădești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--radesti-39-2026",
 "path": "local/galati/radesti/2026/39",
 "kind": "local",
@@ -69,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-galati--radesti-41-2026",
+"path": "local/galati/radesti/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădești nr. 41/2026 privind alegerea președintelui de ședintă, pentru următoarele 3 luni",
+"short": "HCL Rădești nr. 41/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-19",
+"latest": "2026-10-19",
+"portal": "https://emol.ro/radesti-gl/registru-hcl/292724",
+"council": "galati/radesti",
+"council_name": "Consiliul Local al Comunei Rădești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--radesti-42-2026",
 "path": "local/galati/radesti/2026/42",
 "kind": "local",
@@ -110,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Rădești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--radesti-44-2026",
+"path": "local/galati/radesti/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădești nr. 44/2026 rectificarea bugetului local al Comunei Rădești pe anul 2026. rectificarea bugetului local al Comunei Rădești pe anul 2026. rectificarea bugetului local al Comunei Rădești pe anul 2026",
+"short": "HCL Rădești nr. 44/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-05",
+"latest": "2026-11-05",
+"portal": "https://emol.ro/radesti-gl/registru-hcl/296184",
+"council": "galati/radesti",
+"council_name": "Consiliul Local al Comunei Rădești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

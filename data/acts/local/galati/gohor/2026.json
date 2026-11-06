@@ -3,6 +3,50 @@
 "shard": "local/galati/gohor/2026",
 "acts": [
 {
+"slug": "hcl-galati--gohor-20-2026",
+"path": "local/galati/gohor/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gohor nr. 20/2026 privind aprobarea Studiului de fundamentare și oportunitate, delegarea gestiunii serviciului de salubrizare pentru activitățile de transfer și tratare mecano-biologică cu digestie anaerobă, documentației de atribuire pentru contractul Proiectare – execuție-operare „Stație de tratare mecano-biologică cu digestie anaerobă și recuperare de energie și stație de transfer Galați”, precum și acordarea unui mandat special pentru reprezentantul UAT comuna Gohor în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ECOSERV Galați",
+"short": "HCL Gohor nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/gohor-gl/registru-hcl/272609",
+"council": "galati/gohor",
+"council_name": "Consiliul Local al Comunei Gohor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--gohor-21-2026",
+"path": "local/galati/gohor/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gohor nr. 21/2026 privind aprobarea achiziționării unor servicii de consultanță, asistență juridică și reprezentare în justiție în dosarele Unității Administrativ-Teritoriale comuna Gohor, aflate pe rolul instanțelor de judecată",
+"short": "HCL Gohor nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/gohor-gl/registru-hcl/272610",
+"council": "galati/gohor",
+"council_name": "Consiliul Local al Comunei Gohor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--gohor-22-2026",
 "path": "local/galati/gohor/2026/22",
 "kind": "local",
@@ -22,6 +66,28 @@
 "council_name": "Consiliul Local al Comunei Gohor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--gohor-23-2026",
+"path": "local/galati/gohor/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gohor nr. 23/2026 privind aprobarea Devizului General final pentru obiectivul de investiții „Reabilitare și modernizare sediu primărie în sat Gohor, comuna Gohor, județul Galați”",
+"short": "HCL Gohor nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-06",
+"latest": "2026-08-06",
+"portal": "https://emol.ro/gohor-gl/registru-hcl/277427",
+"council": "galati/gohor",
+"council_name": "Consiliul Local al Comunei Gohor",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -45,6 +111,182 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--gohor-25-2026",
+"path": "local/galati/gohor/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gohor nr. 25/2026 privind atestarea apartenenței la domeniul privat al comunei Gohor, judeţul Galaţi, a unor suprafețe de teren, cu amplasamentul pe raza administrativ-teritorială a comunei Gohor, județul Galați",
+"short": "HCL Gohor nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-06",
+"latest": "2026-08-06",
+"portal": "https://emol.ro/gohor-gl/registru-hcl/280591",
+"council": "galati/gohor",
+"council_name": "Consiliul Local al Comunei Gohor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--gohor-26-2026",
+"path": "local/galati/gohor/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gohor nr. 26/2026 privind aprobarea Devizului General final pentru obiectivul de investiții „Realizare sistem de monitorizare și supraveghere video a spațiului public în Comuna Gohor, județul Galați”",
+"short": "HCL Gohor nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-06",
+"latest": "2026-08-06",
+"portal": "https://emol.ro/gohor-gl/registru-hcl/280592",
+"council": "galati/gohor",
+"council_name": "Consiliul Local al Comunei Gohor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--gohor-27-2026",
+"path": "local/galati/gohor/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gohor nr. 27/2026 privind aprobarea tarifului pentru activitatea de colectare separată și transport separat al deșeurilor reziduale inclusiv a reziduurilor menajere și similare și a altor deșeuri colectate separat decât cele din hârtie, carton, plastic, metal și sticlă, precum și aprobarea tarifului pentru activitatea de colectare separată și transportul separat al deșeurilor de hârtie, carton, plastic, metal și sticlă",
+"short": "HCL Gohor nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-06",
+"latest": "2026-08-06",
+"portal": "https://emol.ro/gohor-gl/registru-hcl/280593",
+"council": "galati/gohor",
+"council_name": "Consiliul Local al Comunei Gohor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--gohor-28-2026",
+"path": "local/galati/gohor/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gohor nr. 28/2026 privind aprobarea încheierii unui Protocol de colaborare între Comuna Gohor, județul Galați și Uniunea Națională a Notarilor Publici din România, în scopul realizării schimbului de informații prin mijloace electronice",
+"short": "HCL Gohor nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-06",
+"latest": "2026-08-06",
+"portal": "https://emol.ro/gohor-gl/registru-hcl/280594",
+"council": "galati/gohor",
+"council_name": "Consiliul Local al Comunei Gohor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--gohor-29-2026",
+"path": "local/galati/gohor/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gohor nr. 29/2026 privind: alegerea președintelui de ședință a Consiliului Local al comunei Gohor pentru o perioadă de 3 luni",
+"short": "HCL Gohor nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-06",
+"latest": "2026-08-06",
+"portal": "https://emol.ro/gohor-gl/registru-hcl/280595",
+"council": "galati/gohor",
+"council_name": "Consiliul Local al Comunei Gohor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--gohor-30-2026",
+"path": "local/galati/gohor/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gohor nr. 30/2026 privind transmiterea în folosinţă gratuită Inspectoratului de Poliţie Judeţean Galaţi a unui spaţiu în suprafaţă de 40,5 mp în clădirea primăriei comunei Gohor, în Strada 1 Decembrie 1918, nr. 145, sat Gohor, comuna Gohor, județul Galați",
+"short": "HCL Gohor nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-05",
+"latest": "2026-10-05",
+"portal": "https://emol.ro/gohor-gl/registru-hcl/285339",
+"council": "galati/gohor",
+"council_name": "Consiliul Local al Comunei Gohor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--gohor-31-2026",
+"path": "local/galati/gohor/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gohor nr. 31/2026 ce vizează modificarea HCL Gohor nr. 27/21.05.2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+"short": "HCL Gohor nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-05",
+"latest": "2026-10-05",
+"portal": "https://emol.ro/gohor-gl/registru-hcl/285340",
+"council": "galati/gohor",
+"council_name": "Consiliul Local al Comunei Gohor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--gohor-32-2026",
+"path": "local/galati/gohor/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gohor nr. 32/2026 privind aprobarea scoaterii din funcţiune şi casarea unor mijloace fixe şi obiecte de inventar aflate în patrimoniul Comunei Gohor, județul Galați",
+"short": "HCL Gohor nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-05",
+"latest": "2026-10-05",
+"portal": "https://emol.ro/gohor-gl/registru-hcl/285341",
+"council": "galati/gohor",
+"council_name": "Consiliul Local al Comunei Gohor",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -92,6 +334,28 @@
 }
 },
 {
+"slug": "hcl-galati--gohor-35-2026",
+"path": "local/galati/gohor/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gohor nr. 35/2026 privind desemnarea reprezentantilor din partea Consiliului local Gohor în comisia de evaluare a probei de interviu pentru ocuparea funcției de director în unitatea de învățământ Școala Gimnazială nr. 1 Gohor",
+"short": "HCL Gohor nr. 35/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://emol.ro/gohor-gl/registru-hcl/292019",
+"council": "galati/gohor",
+"council_name": "Consiliul Local al Comunei Gohor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--gohor-36-2026",
 "path": "local/galati/gohor/2026/36",
 "kind": "local",
@@ -114,6 +378,28 @@
 }
 },
 {
+"slug": "hcl-galati--gohor-37-2026",
+"path": "local/galati/gohor/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gohor nr. 37/2026 privind actualizarea Organigramei și a Statului de funcții pentru aparatul de specialitate al primarului comunei Gohor, județul Galați",
+"short": "HCL Gohor nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/gohor-gl/registru-hcl/296244",
+"council": "galati/gohor",
+"council_name": "Consiliul Local al Comunei Gohor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--gohor-38-2026",
 "path": "local/galati/gohor/2026/38",
 "kind": "local",
@@ -133,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Gohor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--gohor-39-2026",
+"path": "local/galati/gohor/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gohor nr. 39/2026 privind: alegerea președintelui de ședință a Consiliului Local al comunei Gohor pentru o perioadă de 3 luni",
+"short": "HCL Gohor nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/gohor-gl/registru-hcl/296246",
+"council": "galati/gohor",
+"council_name": "Consiliul Local al Comunei Gohor",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -3,6 +3,81 @@
  "shard": "local/dolj/isalnita/2022",
  "acts": [
   {
+   "slug": "hcl-dolj--isalnita-57-2022",
+   "path": "local/dolj/isalnita/2022/57",
+   "short": "HCL Ișalnița nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 57/2022 privind organizarea si sarbatorirea zilei comunei Isalnita 29.08.2022 IN VIGOARE PDF HOTARAREA NR. 57 Din 29.08.2022 43,7 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-57-din-29.08.2022.pdf",
+     "sha256": "1fab9ab382719182c6548e50635ff93b9d19aef00b16114287774b66ea8526dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-58-2022",
+   "path": "local/dolj/isalnita/2022/58",
+   "short": "HCL Ișalnița nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 58/2022",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-58-din-29.08.2022.pdf",
+     "sha256": "cb3e61306f59cfccfaac6410524ef0a334e779f6731a34601b01315e1100cde2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-59-2022",
+   "path": "local/dolj/isalnita/2022/59",
+   "short": "HCL Ișalnița nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 59/2022 privind Aprobarea organigramei si statului de functii ale S.C",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-59-din-29.08.2022.pdf",
+     "sha256": "ea2e97e0f65a5b3cccb6ce8cac765e18a63ae3d24f95d658569bc5c806eabb82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-60-2022",
+   "path": "local/dolj/isalnita/2022/60",
+   "short": "HCL Ișalnița nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 60/2022 privind aprobarea Regulamentului de Organizare si Functionare ale S.C",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-60-din-29.08.2022.pdf",
+     "sha256": "71e10d317a34ad7f468bf3f14b3ef65cee6159fe8ee997c8c81e65c6cc72daa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-61-2022",
+   "path": "local/dolj/isalnita/2022/61",
+   "short": "HCL Ișalnița nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 61/2022 privind rectificarea bugetului local pe trimestrul al III-lea al anului 2022 29.08.2022 IN VIGOARE PDF HOTARAREA NR. 61 Din 29.08.2022 128,1 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-61-din-29.08.2022.pdf",
+     "sha256": "92626cb7d6f2b5ec5a959979d91512d0610f40c3cdffd1b6a941cbd8e62cc281"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--isalnita-62-2022",
    "path": "local/dolj/isalnita/2022/62",
    "short": "HCL Ișalnița nr. 62/2022",
@@ -18,6 +93,321 @@
    ]
   },
   {
+   "slug": "hcl-dolj--isalnita-63-2022",
+   "path": "local/dolj/isalnita/2022/63",
+   "short": "HCL Ișalnița nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 63/2022 privind aprobarea Organigramei și a statului de functii al aparatului de specialitate al primarului Comunei Ișalnița 29.08.2022 IN VIGOARE PDF HOTARAREA NR. 63 Din 29.08.2022 329,8 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-63-din-29.08.2022.pdf",
+     "sha256": "ffdffe508bd7146e04bc06ceca7bb1d1e2de0608b7c1196e69d4084a500abf21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-64-2022",
+   "path": "local/dolj/isalnita/2022/64",
+   "short": "HCL Ișalnița nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 64/2022 privind modificarea statului de functii al aparatului de specialitate al Primarului Comunei Isalnita urmare a promovarii in grad profesional imediat superior celui detinut 29.09.2022 IN VIGOARE PDF HOTARAREA NR. 64 Din 29.09.2022 244,4 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-64-din-29.09.2022.pdf",
+     "sha256": "aaf0eb1d9e9aa2fced1a51ed9b4306e695e82486b28720236a3c432bb2e806a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-65-2022",
+   "path": "local/dolj/isalnita/2022/65",
+   "short": "HCL Ișalnița nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 65/2022 privind aprobarea rectificarii bugetului de venituri si cheltuieli al S.C",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-65-din-29.09.2022.pdf",
+     "sha256": "82d52d51c09172b7c03bd83fa1746cf4e6a0317fadd4ca994c0b078af13c0df2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-66-2022",
+   "path": "local/dolj/isalnita/2022/66",
+   "short": "HCL Ișalnița nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 66/2022 privind rectificarea bugetului local pe trimestrul al III-lea si semestrul al IV-lea al anului 2022 25.09.2022 IN VIGOARE PDF HOTARAREA NR. 66 Din 29.09.2022 120,8 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-66-din-29.09.2022.pdf",
+     "sha256": "b7b4a6ec4a9ded85db34066aa9e1d0c5ee1267ec0a4c23e3cb0b839a2dca806d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-67-2022",
+   "path": "local/dolj/isalnita/2022/67",
+   "short": "HCL Ișalnița nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 67/2022 privind atestarea inventarului bunurilor care apartin domeniului public al comunei Isalnita,judetul Dolj 29.09.2022 IN VIGOARE PDF HOTARAREA NR. 67 Din 29.09.2022 140,4 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-67-din-29.09.2022.pdf",
+     "sha256": "29c61b75446630c2a3296995d351be1d6ffa78d5d48508dca32a68b6b9fa1546"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-68-2022",
+   "path": "local/dolj/isalnita/2022/68",
+   "short": "HCL Ișalnița nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 68/2022 privind alegerea presedintelui de sedinta al Consiliului Local al comunei Isalnita pe o perioada de 3 luni 29.09.2022 IN VIGOARE PDF HOTARAREA NR. 68 Din 29.09.2022 41,4 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-68-din-29.09.2022.pdf",
+     "sha256": "5a031c882de4acaefa5a0e8f2d0f5f93c4e5b7b941e2a4e359e2a353b291f1f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-69-2022",
+   "path": "local/dolj/isalnita/2022/69",
+   "short": "HCL Ișalnița nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 69/2022",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-69-din-29.09.2022.pdf",
+     "sha256": "a589b284a7c1b51f1f8b3a6ee666963b6f7494015228da2a5e381480360fca30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-70-2022",
+   "path": "local/dolj/isalnita/2022/70",
+   "short": "HCL Ișalnița nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 70/2022",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-70-din-29.09.2022.pdf",
+     "sha256": "2efb2a894bd6c7e2ba5e69795acb9bb3216bea76f1900e1e364667af741d7b5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-71-2022",
+   "path": "local/dolj/isalnita/2022/71",
+   "short": "HCL Ișalnița nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 71/2022 privind Modificarea HCL nr. 39 / 12.05.2022 referitoare la aprobarea proiectului, a cheltuielilor aferente acestuia si a acordului de parteneriat intre UAT Municipiul Craiova si UAT COMUNA ISALNITA, pentru finantarea in cadrul Planului National de Redresare si Rezilienta - Componenta 10 - Fondul Local al Proiectului: \"Modernizarea sistemului de transport public cu autobuzul in zona Metropolitana C",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-71-din-29.09.2022.pdf",
+     "sha256": "6c2725c504549b0b939aaf232f507eacfc676276bd1b7b238ea53ce56c3fe0ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-72-2022",
+   "path": "local/dolj/isalnita/2022/72",
+   "short": "HCL Ișalnița nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 72/2022 privind solicitarea prelungirii pana la data de 14.02.2023 a Scrisorii de Garantie de la FNGCIMM SA IFN nr. 350/11.09.2020 in suma de 466350 lei in vederea garantarii in procent de 100% a obligatiilor de plata a avansului de 466350 lei din fondurile nerambursabile pentru implementarea proiectului \"Infiintarea centrului comunitar pentru servicii sociale Isalnita\" in comuna Isalnita, jud.Dolj,in baz",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-72-din-29.09.2022.pdf",
+     "sha256": "1ebca550f0499183fae0f4792bbc64947e20464934e92590e847a955eca48c54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-73-2022",
+   "path": "local/dolj/isalnita/2022/73",
+   "short": "HCL Ișalnița nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 73/2022 privind aprobarea dezmembrarii unei suprafete de teren apartinand domeniului public al Comunei Isalnita 29.09.2022 IN VIGOARE PDF HOTARAREA NR. 73 Din 29.09.2022 64,7 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-73-din-29.09.2022.pdf",
+     "sha256": "9a72d9150eb66f8c2c1241aca2c90bf028921eb4c3d37d862666adb8ccdb7fc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-74-2022",
+   "path": "local/dolj/isalnita/2022/74",
+   "short": "HCL Ișalnița nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 74/2022 privind darea in administrarea Asociatiei de Dezvoltare Intercomunitara de Gestionare a Deseurilor ECODOLJ a unui teren in suprafata de 3308 aflat in proprietatea publica a UAT Isalnita 29.09.2022 IN VIGOARE PDF HOTARAREA NR. 74 Din 29.09.2022 107,7 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-74-din-29.09.2022.pdf",
+     "sha256": "0189793bb2a47a5fb288acc0dbb8bca2593489734510c1be737373e50b19de5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-75-2022",
+   "path": "local/dolj/isalnita/2022/75",
+   "short": "HCL Ișalnița nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 75/2022",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-75-din-29.09.2022.pdf",
+     "sha256": "164db2c321a8216dd8d1768ba31980164c0d60051b361fd20aa9ba51c63e0723"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-76-2022",
+   "path": "local/dolj/isalnita/2022/76",
+   "short": "HCL Ișalnița nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 76/2022 privind elaborarea si aprobarea Strategiei de dezvoltare si functionare pe termen mediu si lung a serviciului de salubrizare in judetul Dolj 29.09.2022 IN VIGOARE PDF HOTARAREA NR. 76 Din 29.09.2022 104,4 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-76-din-29.09.2022.pdf",
+     "sha256": "c2916c04ea1502a116c64062c5f6f99aa41f631b50b84593901ba34f73b7e962"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-77-2022",
+   "path": "local/dolj/isalnita/2022/77",
+   "short": "HCL Ișalnița nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 77/2022 privind aprobarea Actului Aditional nr.6 la Contractul nr. 370 / 22.05.2018 \"Delegarea prin concesionare a gestiunii unor activitati componente ale serviciului de salubrizare, respectiv, colectarea si transportul deseurilor municipale si a altor fluxuri de deseuri in judetul Dolj si operatiei statiei de sortare si transfer Goicea 29.09.2022 IN VIGOARE PDF HOTARAREA NR. 77 Din 29.09.2022 750,1 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-77-din-29.09.2022.pdf",
+     "sha256": "4cb80614f75a95aa31f2f71077b33a76ac1018ad603960dd0e51169a6fe6c7d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-78-2022",
+   "path": "local/dolj/isalnita/2022/78",
+   "short": "HCL Ișalnița nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 78/2022 privind rectificarea bugetului local pe trimestrul al IV-lea al anului 2022 31.10.2022 IN VIGOARE PDF HOTARAREA NR. 78 Din 31.10.2022 128,9 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-78-din-31.10.2022.pdf",
+     "sha256": "c47ebbc92b68663bd4ca285c3d6f62f9a9ced5dabd3d665cf7ab3383e8b8b930"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-79-2022",
+   "path": "local/dolj/isalnita/2022/79",
+   "short": "HCL Ișalnița nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 79/2022 privind aprobarea execuției bugetare pe trimestrul al III-lea al anului 2022 31.10.2022 IN VIGOARE PDF HOTARAREA NR. 79 Din 31.10.2022 515,8 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-79-din-31.10.2022.pdf",
+     "sha256": "d9b81ca573cfb0d1f6c057f168555131c4dc22d893df7e77b36019849177c925"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-80-2022",
+   "path": "local/dolj/isalnita/2022/80",
+   "short": "HCL Ișalnița nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 80/2022 privind aprobarea numarului de burse lunare si cuantumul acestora acordate elevilor din invatamantul preuniversitar cu frecventa din comuna Isalnita care se acorda in anul scolar 2022 - 2023 si pentru stabilirea termenelor de plata a acestora. 31.10.2022 IN VIGOARE PDF HOTARAREA NR. 80 Din 31.10.2022 60,1 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-80-din-31.10.2022.pdf",
+     "sha256": "8149f58c286c9a1b410e4c376fc1b953efa3a36ad72ea10efe9f8684eaa4b4a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-81-2022",
+   "path": "local/dolj/isalnita/2022/81",
+   "short": "HCL Ișalnița nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 81/2022 privind stabilirea sumelor necesare organizarii Pomului de Craciun in anul 2022 31.10.2022 IN VIGOARE PDF HOTARAREA NR. 81 Din 31.10.2022 42,0 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-81-din-31.10.2022.pdf",
+     "sha256": "31a19e01050280f4f9a577843d92be1925cd011506903c1af68ed94f4743089d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-82-2022",
+   "path": "local/dolj/isalnita/2022/82",
+   "short": "HCL Ișalnița nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 82/2022",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-82-din-31.10.2022.pdf",
+     "sha256": "f7c485bba2b77b137d9ed8b364612053990268a8fb85a378502789adeb4e285a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-83-2022",
+   "path": "local/dolj/isalnita/2022/83",
+   "short": "HCL Ișalnița nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 83/2022 privind rectificarea bugetului local pe trimestrul al IV-lea al anului 2022 28.11.2022 IN VIGOARE PDF HOTARAREA NR. 83 Din 28.11.2022 86,5 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-83-din-28.11.2022.pdf",
+     "sha256": "d1d4954564d0eec4e81d3e65d2fdc11894315b6324de9100f0da49240b38e3e1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--isalnita-84-2022",
    "path": "local/dolj/isalnita/2022/84",
    "short": "HCL Ișalnița nr. 84/2022",
@@ -29,6 +419,81 @@
      "units": 1,
      "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-84-din-28.11.2022.pdf",
      "sha256": "b357253c8ab78384b803d30795b0ba639e9343d9cc7645b678ed596ffad3ad87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-85-2022",
+   "path": "local/dolj/isalnita/2022/85",
+   "short": "HCL Ișalnița nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 85/2022 privind organizarea retelei locale pe raza comunei Isalnita in anul scolar 2023 - 2024 28.11.2022 IN VIGOARE PDF HOTARAREA NR. 85 Din 28.11.2022 50,6 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-85-din-28.11.2022.pdf",
+     "sha256": "abc2336ad8ceecb9244e37bb0817649593bb5edb577d03ca19156b2633472476"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-86-2022",
+   "path": "local/dolj/isalnita/2022/86",
+   "short": "HCL Ișalnița nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 86/2022 privind acordarea unui spijin financiar pentru cuplurile infertile din comuna Isalnita, pentru efectuarea procedurii de fertilizare in vitro 28.11.2022 IN VIGOARE PDF HOTARAREA NR. 86 Din 28.11.2022 163,4 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-86-din-28.11.2022.pdf",
+     "sha256": "60a4a4677476fcf17d513b6fe9d38f2faee59e51d986cfcf6831bd67141ed063"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-87-2022",
+   "path": "local/dolj/isalnita/2022/87",
+   "short": "HCL Ișalnița nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 87/2022 privind modificarea organigramei si statului de functii al aparatului de specialitate al Primarului Comunei Isalnita 19.12.2022 IN VIGOARE PDF HOTARAREA NR. 87 Din 19.12.2022 235,7 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-87-din-19.12.2022.pdf",
+     "sha256": "a2cbfc87e2d0ef892754b9037aa80d6966a1ef8b57456359e6c78f902abc44b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-88-2022",
+   "path": "local/dolj/isalnita/2022/88",
+   "short": "HCL Ișalnița nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 88/2022 privind rectificarea bugetului local de venituri si cheltuieli al comunei Isalnita pe trimestrul al IV-lea al anului 2022 19.12.2022 IN VIGOARE PDF HOTARAREA NR. 88 Din 19.12.2022 72,1 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-88-din-19.12.2022.pdf",
+     "sha256": "bceb97f40095b1a38bef96704a1bb7626f51982cd3927d97e9c5dd9b1f3f5506"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-89-2022",
+   "path": "local/dolj/isalnita/2022/89",
+   "short": "HCL Ișalnița nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 89/2022 privind aprobarea executiei bugetare pe trimestrul IV - 2022 19.12.2022 IN VIGOARE PDF HOTARAREA NR. 89 Din 19.12.2022 173,4 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-89-din-19.12.2022.pdf",
+     "sha256": "e6ce4582a11111e681807a9827fae16046624b935d65bf592658314e5fd7de1e"
     }
    ]
   }

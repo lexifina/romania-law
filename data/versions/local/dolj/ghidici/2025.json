@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/ghidici/2025",
+ "acts": [
+  {
+   "slug": "hcl-dolj--ghidici-33-2025",
+   "path": "local/dolj/ghidici/2025/33",
+   "short": "HCL Ghidici nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidici nr. 33/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "86abd8915f16b8316c4c0efa9c7a7c507025d08936b5de76e1ccda4436826596"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ghidici-34-2025",
+   "path": "local/dolj/ghidici/2025/34",
+   "short": "HCL Ghidici nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidici nr. 34/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://www.primariaghidici.ro/upload/Hotarari2025/HCL%20nr.%2034%20din%2023.12.2025%20impozite%20si%20taxe%202026.pdf",
+     "sha256": "48d67b9cfa0913e9d0622e5b150d11f3cdaf49dc363b4446240a5991f750f664"
+    }
+   ]
+  }
+ ]
+}

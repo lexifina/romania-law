@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/slobozia/2021",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--slobozia-1-2021",
+   "path": "local/giurgiu/slobozia/2021/1",
+   "short": "HCL Slobozia nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Slobozia nr. 1/2021",
+   "url": "http://primariaslobozia.ro/hotarari-ale-consiliului-local",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://primariaslobozia.ro/sites/default/files/2024-02/HG-nr.-1-28.01.2021.pdf",
+     "sha256": "1524ae2ad599c3c403734365064c0ad9f66409c50e182db6e9e3ca3cedc8051e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--slobozia-10-2021",
+   "path": "local/giurgiu/slobozia/2021/10",
+   "short": "HCL Slobozia nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Slobozia nr. 10/2021",
+   "url": "http://primariaslobozia.ro/hotarari-ale-consiliului-local?title=&field_data_value=&field_data_value_1=&order=field_data&sort=asc",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://primariaslobozia.ro/sites/default/files/2024-02/HG-nr.-10-28.01.2021.pdf",
+     "sha256": "dcd69f8aa22b57ae70e0d2f325682a08b6f6bb366e89fd68c9938e52168dcdf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--slobozia-11-2021",
+   "path": "local/giurgiu/slobozia/2021/11",
+   "short": "HCL Slobozia nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Slobozia nr. 11/2021",
+   "url": "http://primariaslobozia.ro/hotarari-ale-consiliului-local",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://primariaslobozia.ro/sites/default/files/2024-02/HG-nr.-11-28.01.2021.pdf",
+     "sha256": "4647dd60ae071afdf6867124127a79f7894d7fae0ae9ac2a0e0ec972b1f900d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--slobozia-2-2021",
+   "path": "local/giurgiu/slobozia/2021/2",
+   "short": "HCL Slobozia nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Slobozia nr. 2/2021",
+   "url": "http://primariaslobozia.ro/hotarari-ale-consiliului-local?title=&field_data_value=&field_data_value_1=&order=field_data&sort=asc",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://primariaslobozia.ro/sites/default/files/2024-02/HG-nr.-2-28.01.2021.pdf",
+     "sha256": "b9855b8a64ce179c843e4abb0d225bef17cf6b5d6795ce82bc0b345ea9f3a376"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--slobozia-3-2021",
+   "path": "local/giurgiu/slobozia/2021/3",
+   "short": "HCL Slobozia nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Slobozia nr. 3/2021",
+   "url": "http://primariaslobozia.ro/hotarari-ale-consiliului-local?title=&field_data_value=&field_data_value_1=&order=field_data&sort=asc",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://primariaslobozia.ro/sites/default/files/2024-02/HG-nr.-3-28.01.2021.pdf",
+     "sha256": "b22ecb70e36dc1f4ecd5eef650accbc796311db852f7d446795e4623f992055d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--slobozia-4-2021",
+   "path": "local/giurgiu/slobozia/2021/4",
+   "short": "HCL Slobozia nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Slobozia nr. 4/2021",
+   "url": "http://primariaslobozia.ro/hotarari-ale-consiliului-local",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://primariaslobozia.ro/sites/default/files/2024-02/HG-nr.-4-28.01.2021.pdf",
+     "sha256": "b32f72293ed4bf9265597841feb8f846ea9c2ebb52f4ca9dd91185fcc37aa799"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--slobozia-6-2021",
+   "path": "local/giurgiu/slobozia/2021/6",
+   "short": "HCL Slobozia nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Slobozia nr. 6/2021",
+   "url": "http://primariaslobozia.ro/hotarari-ale-consiliului-local?title=&field_data_value=&field_data_value_1=&order=field_data&sort=asc",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://primariaslobozia.ro/sites/default/files/2024-02/HG-nr.-6-28.01.2021.pdf",
+     "sha256": "26f5717e6e292fb554ecbec88102d46ca04c31a460d2838a9c9562aabc2d069f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--slobozia-7-2021",
+   "path": "local/giurgiu/slobozia/2021/7",
+   "short": "HCL Slobozia nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Slobozia nr. 7/2021",
+   "url": "http://primariaslobozia.ro/hotarari-ale-consiliului-local?title=&field_data_value=&field_data_value_1=&page=0",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://primariaslobozia.ro/sites/default/files/2024-02/HG-nr.-7-28.01.2021.pdf",
+     "sha256": "caa81329860d7172d49cc1a9822a0d61af1195b2d1b0ca56d493b37cb3bd8cba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--slobozia-8-2021",
+   "path": "local/giurgiu/slobozia/2021/8",
+   "short": "HCL Slobozia nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Slobozia nr. 8/2021",
+   "url": "http://primariaslobozia.ro/hotarari-ale-consiliului-local",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://primariaslobozia.ro/sites/default/files/2024-02/HG-nr.-8-28.01.2021.pdf",
+     "sha256": "b9e24a01c2e83d85a955a6037b06e010676ba610fbfa7813408255bd14bc867f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--slobozia-9-2021",
+   "path": "local/giurgiu/slobozia/2021/9",
+   "short": "HCL Slobozia nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Slobozia nr. 9/2021",
+   "url": "http://primariaslobozia.ro/hotarari-ale-consiliului-local?title=&field_data_value=&field_data_value_1=&order=field_data&sort=asc",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://primariaslobozia.ro/sites/default/files/2024-02/HG-nr.-9-28.01.2021.pdf",
+     "sha256": "40b1c4c6e74268a56e02c33f8aa873aa594c5a97614702f1788923ddb01251d4"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/mihailesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--mihailesti-2-2024",
+   "path": "local/giurgiu/mihailesti/2024/2",
+   "short": "HCL Mihăilești nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 2/2024",
+   "url": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://primariamihailesti.ro/wp-content/uploads/2024/12/HCL-nr-2-din-31.01.2024-Aprobare-utilizarii-sumei-de-18.839-mii-lei-din-excedentul-bugetar-al-anului-2023-in-cadrul-sectiunii-de-dezvoltare.pdf",
+     "sha256": "a3830242531fe6600628458d5bd8015f2bef38be199fc63138184ad502a1a2fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--mihailesti-3-2024",
+   "path": "local/giurgiu/mihailesti/2024/3",
+   "short": "HCL Mihăilești nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 3/2024",
+   "url": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://primariamihailesti.ro/wp-content/uploads/2024/12/HCL-nr-3-din-31.01.2024-Aprobare-executie-buget-local-trim-IV-anul-2023.pdf",
+     "sha256": "b69c422f91449105df69329793bec6187d7e8092162bbb21395225af2084b4d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--mihailesti-4-2024",
+   "path": "local/giurgiu/mihailesti/2024/4",
+   "short": "HCL Mihăilești nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 4/2024",
+   "url": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://primariamihailesti.ro/wp-content/uploads/2024/12/HCL-nr-4-din-31.01.2024-Alegere-presedinte-de-sedinte-pe-o-perioada-de-3-luni.pdf",
+     "sha256": "8830836a9b74a25491dfbea3d0d290d247e2d18a8be51f070c090d5050385bf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--mihailesti-5-2024",
+   "path": "local/giurgiu/mihailesti/2024/5",
+   "short": "HCL Mihăilești nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 5/2024",
+   "url": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://primariamihailesti.ro/wp-content/uploads/2024/12/HCL-nr-5-din-31.01.2024-Aprobare-PAAR.pdf",
+     "sha256": "9f03e3630a83f9a21a655f01b196af8bada6a21dca298fa7f8f868105907d1c5"
+    }
+   ]
+  }
+ ]
+}

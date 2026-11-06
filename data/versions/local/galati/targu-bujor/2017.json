@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/galati/targu-bujor/2017",
+ "acts": [
+  {
+   "slug": "hcl-galati--targu-bujor-85-2017",
+   "path": "local/galati/targu-bujor/2017/85",
+   "short": "HCL Târgu Bujor nr. 85/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Bujor nr. 85/2017",
+   "url": "https://www.primariatgbujor.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2017-09-29",
+     "units": 1,
+     "source_url": "http://primariatgbujor.ro/hclvechi/2017/85-86.pdf",
+     "sha256": "48b51461fb262a3351321912d591825946b69c8eacf09a11ad8863cc1b2d12e5"
+    }
+   ]
+  }
+ ]
+}

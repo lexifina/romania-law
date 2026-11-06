@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-galati--ivesti-92-2021",
+"path": "local/galati/ivesti/2021/92",
+"kind": "local",
+"year": "2021",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 92/2021",
+"short": "HCL Ivești nr. 92/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-09",
+"latest": "2021-11-09",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/45260",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--ivesti-93-2021",
 "path": "local/galati/ivesti/2021/93",
 "kind": "local",
@@ -266,6 +289,29 @@
 "council_name": "Consiliul Local al Comunei Ivești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--ivesti-104-2021",
+"path": "local/galati/ivesti/2021/104",
+"kind": "local",
+"year": "2021",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 104/2021",
+"short": "HCL Ivești nr. 104/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-04",
+"latest": "2022-04-04",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/56048",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

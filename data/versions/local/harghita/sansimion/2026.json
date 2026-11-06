@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-harghita--sansimion-12-2026",
+   "path": "local/harghita/sansimion/2026/12",
+   "short": "HCL Sânsimion nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 12/2026 privind aprobarea modificării Organigramei și al statului de funcții al Comunei Sânsimion, în anul 2026",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/269211",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/269211",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-harghita--sansimion-13-2026",
    "path": "local/harghita/sansimion/2026/13",
    "short": "HCL Sânsimion nr. 13/2026",
@@ -43,6 +58,21 @@
      "from": "2026-05-20",
      "units": 1,
      "source_url": "https://emol.ro/sansimion-hr/registru-hcl/269212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-14-2026",
+   "path": "local/harghita/sansimion/2026/14",
+   "short": "HCL Sânsimion nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 14/2026 privind aprobarea contractelor model-cadru care vor fi încheiate între Județul Harghita prin Consiliul Județean Harghita și Comuna Sânsimion, prin Consiliul Local al Comunei Sânsimion, pentru participarea la finanțarea costurilor anuale pentru persoanele cu dizabilități instituționalizate, pentru copii/tinerii instituționalizați/aflați la asistenți maternali profesioniști provenite din UAT Sânsimion și care se află în evidența D.G.A.S.P.C.HR",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/269214",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/269214",
      "sha256": null
     }
    ]
@@ -213,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-harghita--sansimion-26-2026",
+   "path": "local/harghita/sansimion/2026/26",
+   "short": "HCL Sânsimion nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 26/2026 privind mandatarea reprezentanților legali ai Comunei Sânsimion în „Adunarea Generală a Asociației de Dezvolatre Intercomunitară HARGHITA VIZ”, să voteze despre reactualizarea Statutului ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ „HARGHITA VIZ”",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/269440",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/269440",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-harghita--sansimion-27-2026",
    "path": "local/harghita/sansimion/2026/27",
    "short": "HCL Sânsimion nr. 27/2026",
@@ -238,6 +283,21 @@
      "from": "2026-05-21",
      "units": 1,
      "source_url": "https://emol.ro/sansimion-hr/registru-hcl/269445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-9-2026",
+   "path": "local/harghita/sansimion/2026/9",
+   "short": "HCL Sânsimion nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 9/2026",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/269205",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/269205",
      "sha256": null
     }
    ]

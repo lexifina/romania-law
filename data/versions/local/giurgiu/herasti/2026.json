@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/herasti/2026",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--herasti-1-2026",
+   "path": "local/giurgiu/herasti/2026/1",
+   "short": "HCL Herăști nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Herăști nr. 1/2026 privindaprobarea acoperirii definitive din excedentul bugetului local a deficitului sectiunii de dezvoltare",
+   "url": "https://primariacomuneiherasti.ro/documente/hotararile-autoritatii-deliberative-2026/",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://primariacomuneiherasti.ro/wp-content/uploads/2026/06/1.-HCL-acoperire-deficit-1.odt",
+     "sha256": "3bb0a367375a214046afccde26c83d2e5b763a209fb7f13ac48cb04a01c943b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--herasti-4-2026",
+   "path": "local/giurgiu/herasti/2026/4",
+   "short": "HCL Herăști nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Herăști nr. 4/2026 privind aprobarea cotizatiei aferente anului 2026 pentru Asociatia de Dezvoltare Intercomunitara EURO-APA",
+   "url": "https://primariacomuneiherasti.ro/documente/hotararile-autoritatii-deliberative-2026/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://primariacomuneiherasti.ro/wp-content/uploads/2026/06/4.-HCL-cotizatie-EURO-APA.odt",
+     "sha256": "85017625dc4b55a46e22810338a7fbd132adb37d5b31c0f2cd3992512ecbef6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--herasti-5-2026",
+   "path": "local/giurgiu/herasti/2026/5",
+   "short": "HCL Herăști nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Herăști nr. 5/2026 privindactualizarea inventarului terenurilordisponibile care pot fi atribuite în folosință gratuită potrivitLegii nr.15/2003",
+   "url": "https://primariacomuneiherasti.ro/documente/hotararile-autoritatii-deliberative-2026/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://primariacomuneiherasti.ro/wp-content/uploads/2026/06/5.-HCL-inventar-L15.odt",
+     "sha256": "def7a609c6b3059ae596a6e7c710d5cbfa5d0759bf03f084517454710aa081e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--herasti-6-2026",
+   "path": "local/giurgiu/herasti/2026/6",
+   "short": "HCL Herăști nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Herăști nr. 6/2026 privind aprobarea contului anual de executie incheiat prin exercitiul bugetar al anului 2025",
+   "url": "https://primariacomuneiherasti.ro/documente/hotararile-autoritatii-deliberative-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://primariacomuneiherasti.ro/wp-content/uploads/2026/06/6.-HCL-incheiere-cont-executie.odt",
+     "sha256": "3af85874e5798d7a9856b498733ee6b819f976f29945156b4227611a9ca67ba1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--herasti-8-2026",
+   "path": "local/giurgiu/herasti/2026/8",
+   "short": "HCL Herăști nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Herăști nr. 8/2026 privind serviciul de alimentare cu apa si de canalizare – republicata, cu modificarile ulterioare; Prevederile art.89 si urmatoarele, art. 129 alin. (2) lit. „d” si „e”, alin. (7) lit. „n” din OUG nr. 57/2019 privind Codul Administrativ, actualizat cu modificarile si completarile ulterioare",
+   "url": "https://primariacomuneiherasti.ro/documente/hotararile-autoritatii-deliberative-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://primariacomuneiherasti.ro/wp-content/uploads/2026/06/8.-Hotarare-EURO-APA.odt",
+     "sha256": "f169a8a7127d398e9f98f6067805d13f45a8f675e0965a7603edc670d84c27eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--herasti-9-2026",
+   "path": "local/giurgiu/herasti/2026/9",
+   "short": "HCL Herăști nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Herăști nr. 9/2026 privind aprobarea inventarului domeniului privat al comunei Herasti",
+   "url": "https://primariacomuneiherasti.ro/documente/hotararile-autoritatii-deliberative-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://primariacomuneiherasti.ro/wp-content/uploads/2026/06/9.-HCL-actualizare-inventar-dom.-privat.odt",
+     "sha256": "b4affd2fb079a7752091b01c025310886e8386253301605f8ac2d41f243309d3"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/plenita/2020",
+ "acts": [
+  {
+   "slug": "hcl-dolj--plenita-21-2020",
+   "path": "local/dolj/plenita/2020/21",
+   "short": "HCL Plenița nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 21/2020 privind desemnarea presedintelui de sedinta",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/70238",
+   "versions": [
+    {
+     "from": "2020-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/70238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-22-2020",
+   "path": "local/dolj/plenita/2020/22",
+   "short": "HCL Plenița nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 22/2020 privind alegerea viceprimarului",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/70239",
+   "versions": [
+    {
+     "from": "2020-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/70239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-23-2020",
+   "path": "local/dolj/plenita/2020/23",
+   "short": "HCL Plenița nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 23/2020 privind stabilirea comisiilor de specialitate",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/70240",
+   "versions": [
+    {
+     "from": "2020-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/70240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-24-2020",
+   "path": "local/dolj/plenita/2020/24",
+   "short": "HCL Plenița nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 24/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/70241",
+   "versions": [
+    {
+     "from": "2020-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/70241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-25-2020",
+   "path": "local/dolj/plenita/2020/25",
+   "short": "HCL Plenița nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 25/2020 privind incetarea mandatului unui consilier local inainte de expirarea duratei normale a mandatului",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/70246",
+   "versions": [
+    {
+     "from": "2020-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/70246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-26-2020",
+   "path": "local/dolj/plenita/2020/26",
+   "short": "HCL Plenița nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 26/2020 privind aprobarea Regulamentului de Organizare si Functionare al Consiliului Local al Comunei Plenita",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/70247",
+   "versions": [
+    {
+     "from": "2020-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/70247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-27-2020",
+   "path": "local/dolj/plenita/2020/27",
+   "short": "HCL Plenița nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 27/2020 privind aprobarea impozitelor si taxelor locale pe anul 2020",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/70248",
+   "versions": [
+    {
+     "from": "2020-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/70248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-28-2020",
+   "path": "local/dolj/plenita/2020/28",
+   "short": "HCL Plenița nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 28/2020 privind aprobarea incetarii contactului de inchiriere nr. 5452 din 30.01.2018, modificat prin Actul aditional din 25.10.2018",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/70249",
+   "versions": [
+    {
+     "from": "2020-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/70249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-29-2020",
+   "path": "local/dolj/plenita/2020/29",
+   "short": "HCL Plenița nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 29/2020 privind vanzarea unui teren proprietate privata",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/70250",
+   "versions": [
+    {
+     "from": "2020-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/70250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-30-2020",
+   "path": "local/dolj/plenita/2020/30",
+   "short": "HCL Plenița nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 30/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/70289",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/70289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-31-2020",
+   "path": "local/dolj/plenita/2020/31",
+   "short": "HCL Plenița nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 31/2020 privind organizarea pomului de Craciun",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/70290",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/70290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-32-2020",
+   "path": "local/dolj/plenita/2020/32",
+   "short": "HCL Plenița nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 32/2020",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/70291",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/70291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-33-2020",
+   "path": "local/dolj/plenita/2020/33",
+   "short": "HCL Plenița nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 33/2020",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/70292",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/70292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-34-2020",
+   "path": "local/dolj/plenita/2020/34",
+   "short": "HCL Plenița nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 34/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/70303",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/70303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-35-2020",
+   "path": "local/dolj/plenita/2020/35",
+   "short": "HCL Plenița nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 35/2020 privind aprobarea indicatorilor tehnico-economici ai proiectului ”Asigurarea accesului elevilor din comuna Plenița la procesul de învățare în mediul on-line în contextul evitării riscului de infecție cu coronavirus SARS-CoV-2” în scopul depunerii acestuia spre finanțare în cadrul Programului Operațional Competitivitate (POC) 2014 - 2020",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/70304",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/70304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-36-2020",
+   "path": "local/dolj/plenita/2020/36",
+   "short": "HCL Plenița nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 36/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/70305",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/70305",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

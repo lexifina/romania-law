@@ -3,6 +3,21 @@
  "shard": "local/dolj/ostroveni/2021",
  "acts": [
   {
+   "slug": "hcl-dolj--ostroveni-71-2021",
+   "path": "local/dolj/ostroveni/2021/71",
+   "short": "HCL Ostroveni nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 71/2021 privind desemnarea unui reprezentant al Consiliului Local Ostroveni in Comisia de Evaluare si Asigurare a Calitatii a Scolii Gimnaziale Ostroveni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/38525",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/38525",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--ostroveni-72-2021",
    "path": "local/dolj/ostroveni/2021/72",
    "short": "HCL Ostroveni nr. 72/2021",
@@ -33,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--ostroveni-74-2021",
+   "path": "local/dolj/ostroveni/2021/74",
+   "short": "HCL Ostroveni nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 74/2021 privind acordarea unui sprijin financiar Parohiei Ostroveni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/39832",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/39832",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--ostroveni-75-2021",
    "path": "local/dolj/ostroveni/2021/75",
    "short": "HCL Ostroveni nr. 75/2021",
@@ -43,6 +73,21 @@
      "from": "2021-10-29",
      "units": 1,
      "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/39833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-76-2021",
+   "path": "local/dolj/ostroveni/2021/76",
+   "short": "HCL Ostroveni nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 76/2021 privind desemnarea unui reprezentant al Consiliului Local Ostroveni in Comisia de Evaluare a probei interviu la concursul pentru ocuparea functiei de director al Scolii Gimnaziale Ostroveni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/39989",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/39989",
      "sha256": null
     }
    ]
@@ -73,6 +118,21 @@
      "from": "2021-11-26",
      "units": 1,
      "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/42716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-79-2021",
+   "path": "local/dolj/ostroveni/2021/79",
+   "short": "HCL Ostroveni nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 79/2021 privind alocarea sumei de 50.000 lei pentru achizitia de cadouri de Craciun pentru scolarii si prescolarii inscrisi la Scoala Gimnaziala Ostroveni si la structurile arondate precum si pentru inchirierea /achizitionarea de ornamente stradale pentru sarbatorile de iarna",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/42717",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/42717",
      "sha256": null
     }
    ]

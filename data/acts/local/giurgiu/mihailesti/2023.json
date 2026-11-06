@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/mihailesti/2023",
+"acts": [
+{
+"slug": "hcl-giurgiu--mihailesti-13-2023",
+"path": "local/giurgiu/mihailesti/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 13/2023",
+"short": "HCL Mihăilești nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-28",
+"latest": "2023-02-28",
+"portal": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+"council": "giurgiu/mihailesti",
+"council_name": "Consiliul Local al Orașului Mihăilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--mihailesti-20-2023",
+"path": "local/giurgiu/mihailesti/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 20/2023",
+"short": "HCL Mihăilești nr. 20/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-26",
+"latest": "2023-04-26",
+"portal": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+"council": "giurgiu/mihailesti",
+"council_name": "Consiliul Local al Orașului Mihăilești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

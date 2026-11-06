@@ -3,6 +3,141 @@
  "shard": "local/harghita/sansimion/2020",
  "acts": [
   {
+   "slug": "hcl-harghita--sansimion-67-2020",
+   "path": "local/harghita/sansimion/2020/67",
+   "short": "HCL Sânsimion nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 67/2020 privind aprobarea contului de execuție a bugetului de venituri și cheltuieli al comunei Sânsimion pe trimestrul II-III, anul 2020",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/18435",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/18435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-68-2020",
+   "path": "local/harghita/sansimion/2020/68",
+   "short": "HCL Sânsimion nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 68/2020 privind validarea Dispoziției Primarului Comunei Sânsimion nr. 192/20.10.2020 pentru rectificarea bugetului local al Comunei Sânsimion pe trimestrul IV anul 2020",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/18430",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/18430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-69-2020",
+   "path": "local/harghita/sansimion/2020/69",
+   "short": "HCL Sânsimion nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 69/2020 privind rectificarea bugetului local pe trimestrul IV, anul 2020",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/18431",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/18431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-70-2020",
+   "path": "local/harghita/sansimion/2020/70",
+   "short": "HCL Sânsimion nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 70/2020 privind împuternicirea reprezentantului comunei Sânsimion in Adunarea Generală a Asociaților societății „ÎNTREŢINERE DRUMURI HARGHITA”, societate cu răspundere limitată, la care UAT Sânsimion este acționar minoritar pentru majorarea capitalului social, respectiv modificarea corespunzătoare a Actului constitutiv al societății „ÎNTREŢINERE DRUMURI HARGHITA”",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/18432",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/18432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-71-2020",
+   "path": "local/harghita/sansimion/2020/71",
+   "short": "HCL Sânsimion nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 71/2020 privind aprobarea inițierii procedurii de scoatere din circuitul agricol al terenului de 1550 mp, proprietatea privată al Comunei Sânsimion, situat în extravilan, identificat cu CF nr. 51464, nr. Cadastral 51464, pentru construire SRMP, obiectiv de interes local declarat de utilitate publică, precum și mandatarea Primarului Comunei Sânsimion pentru semnarea tuturor documentelor necesare în acest sens",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/18427",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/18427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-72-2020",
+   "path": "local/harghita/sansimion/2020/72",
+   "short": "HCL Sânsimion nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 72/2020 privind însușirea propunerii de închiriere suprafeței de 20000 mp teren neproductiv înscris în CF.NR.51106 situat în extravilanul localității Sânsimion, aparținând domeniului public al comunei Sânsimion conform planului de situație anexat, pe o perioada de 5 ani, pentru depozitarea nămolului provenit de la stația de epurare al societății fără conținut de metale grele",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/18428",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/18428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-73-2020",
+   "path": "local/harghita/sansimion/2020/73",
+   "short": "HCL Sânsimion nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 73/2020 privind la aprobarea Notei de fundamentare și cererea de finanțare aferentă proiectului ”ECHIPAMENTE IT PENTRU SCOALA DIN COMUNA SÂNSIMION, JUDEȚUL HARGHITA” aprobat prin Dispoziția primarului nr.195 din 30.10.2020",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/18429",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/18429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-74-2020",
+   "path": "local/harghita/sansimion/2020/74",
+   "short": "HCL Sânsimion nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 74/2020 privind actualizarea bugetului aprobat, a proiectului ”REABILITARE ȘI MODERNIZARE CASE DE CULTURĂ COM. SÎNSIMION”",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/18449",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/18449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-75-2020",
+   "path": "local/harghita/sansimion/2020/75",
+   "short": "HCL Sânsimion nr. 75/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 75/2020 privind modificarea HCL NR.54/2020 privind aprobarea indicatorilor tehnico-economici în forma actualizată a proiectului ”ÎNFIINȚAREA REȚELOR INTELIGENTE DE DISTRIBUȚIE DE GAZE NATURALE ȘI BRANȘAMENTELE ÎN COMUNELE SÂNSIMION ȘI SÂNTIMBRU, JUDEȚUL HARGHITA”",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/18448",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/18448",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-harghita--sansimion-76-2020",
    "path": "local/harghita/sansimion/2020/76",
    "short": "HCL Sânsimion nr. 76/2020",
@@ -13,6 +148,156 @@
      "from": "2020-11-18",
      "units": 1,
      "source_url": "https://emol.ro/sansimion-hr/registru-hcl/18447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-77-2020",
+   "path": "local/harghita/sansimion/2020/77",
+   "short": "HCL Sânsimion nr. 77/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 77/2020",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/18446",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/18446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-78-2020",
+   "path": "local/harghita/sansimion/2020/78",
+   "short": "HCL Sânsimion nr. 78/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 78/2020 privind rectificarea bugetului local pe trimestrul IV, anul 2020",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/18477",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/18477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-79-2020",
+   "path": "local/harghita/sansimion/2020/79",
+   "short": "HCL Sânsimion nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 79/2020 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2021",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/18476",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/18476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-80-2020",
+   "path": "local/harghita/sansimion/2020/80",
+   "short": "HCL Sânsimion nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 80/2020 privind modificarea statului de funcții si a structurii organizatorice al aparatului de specialitate al primarului comunei Sânsimion cu începere de la 01.12. 2020",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/18475",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/18475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-81-2020",
+   "path": "local/harghita/sansimion/2020/81",
+   "short": "HCL Sânsimion nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 81/2020 privind aprobarea Planului de ocupare a funcțiilor publice pe anul 2021 din cadrul aparatului de specialitate al primarului comunei Sânsimion",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/18474",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/18474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-82-2020",
+   "path": "local/harghita/sansimion/2020/82",
+   "short": "HCL Sânsimion nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 82/2020",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/18473",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/18473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-83-2020",
+   "path": "local/harghita/sansimion/2020/83",
+   "short": "HCL Sânsimion nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 83/2020 privind numirea reprezentanților Consiliului local al comunei Sânsimion în Consiliul de administrație, respectiv in Comisia pentru evaluarea și asigurarea calității din unitățile de învățământ preuniversitar din comuna Sânsimion pentru anul școlar 2020 - 2021",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/18472",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/18472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-84-2020",
+   "path": "local/harghita/sansimion/2020/84",
+   "short": "HCL Sânsimion nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 84/2020 privind aprobarea cuantumului burselor școlare aferente anului școlar 2020-2021 din învățământul preuniversitar de stat din Comuna Sânsimion",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/18471",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/18471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-85-2020",
+   "path": "local/harghita/sansimion/2020/85",
+   "short": "HCL Sânsimion nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 85/2020",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/18470",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/18470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-86-2020",
+   "path": "local/harghita/sansimion/2020/86",
+   "short": "HCL Sânsimion nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 86/2020 privind admiterea încheierii contractului de vânzare cumpărare în forma autentică în fața Notarului Public, în urma procedurii de vânzare – cumpărare prin licitație publică din anul 2010, a imobilului dezafectat, (clădire baie comunală+teren aferent) situat în satul Cetățuia nr.166 aparținând domeniului privat al comunei Sânsimion",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/18469",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/18469",
      "sha256": null
     }
    ]

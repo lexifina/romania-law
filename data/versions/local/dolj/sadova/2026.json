@@ -3,6 +3,36 @@
  "shard": "local/dolj/sadova/2026",
  "acts": [
   {
+   "slug": "hcl-dolj--sadova-49-2026",
+   "path": "local/dolj/sadova/2026/49",
+   "short": "HCL Sadova nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 49/2026 privind aprobarea raportului activității asistenților personali angajați în cadrul Primăriei comunei Sadova pe semestrul l, anul 2026",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/281583",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/281583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-50-2026",
+   "path": "local/dolj/sadova/2026/50",
+   "short": "HCL Sadova nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 50/2026 privind modificarea HCL Sadova nr. 52/26.09.2025 privind implementarea proiectului ”Elaborare Strategie locală SMART - Sadova, Județul Dolj” finanțat prin INTERVENȚIA I4 Elaborarea / actualizarea Strategiilor locale SMART, Sesiunea NR 1 AN 2025, PLANUL STRATEGIC PAC 2023 – 2027, Program finanțat de Uniunea Europeană și Guvernul României prin FONDUL EUROPEAN AGRICOL PENTRU DEZVOLTARE RURALĂ",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/281584",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/281584",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--sadova-51-2026",
    "path": "local/dolj/sadova/2026/51",
    "short": "HCL Sadova nr. 51/2026",
@@ -13,6 +43,246 @@
      "from": "2026-08-17",
      "units": 1,
      "source_url": "https://emol.ro/sadova-dj/registru-hcl/281585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-52-2026",
+   "path": "local/dolj/sadova/2026/52",
+   "short": "HCL Sadova nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 52/2026 privind înregistrarea comunei Sadova județul Dolj, în Sistemul Național Electronic de Plată (SNEP) on – line a impozitelor și taxelor locale („Ghișeul.ro”) utilizând cardul bancar,instalarea unui terminal de plată (POS) precum și stabilirea modului în care este suportat comisionul bancar",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/282534",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/282534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-53-2026",
+   "path": "local/dolj/sadova/2026/53",
+   "short": "HCL Sadova nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 53/2026 privind rectificarea bugetului de venituri și cheltuieli al Serviciului Public de Alimentare cu Apă și de Canalizare al Comunei Sadova, trimestrul lll 2026",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/286330",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/286330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-54-2026",
+   "path": "local/dolj/sadova/2026/54",
+   "short": "HCL Sadova nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 54/2026 privind alegerea președintelui de ședință și a potențialului președinte de ședintă pentru perioada septembrie 2026- noiembrie 2026",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/290132",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/290132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-55-2026",
+   "path": "local/dolj/sadova/2026/55",
+   "short": "HCL Sadova nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 55/2026",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/290133",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/290133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-56-2026",
+   "path": "local/dolj/sadova/2026/56",
+   "short": "HCL Sadova nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 56/2026 privind stabilirea unui punct de colectare a deșeurilor din construcții care nu necesită autorizație de construire/demolare,colectate de la locuitorii comunei Sadova",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/290134",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/290134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-57-2026",
+   "path": "local/dolj/sadova/2026/57",
+   "short": "HCL Sadova nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 57/2026 privind desemnarea a doi reprezentanti ai Consiliului Local Sadova, în Consiliul de Administratie al Scolii Gimnaziale Sadova, pentru anul scolar 2026-2027",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/290135",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/290135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-58-2026",
+   "path": "local/dolj/sadova/2026/58",
+   "short": "HCL Sadova nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 58/2026 privind modificarea listei de investiții pe anul 2026",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/290136",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/290136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-59-2026",
+   "path": "local/dolj/sadova/2026/59",
+   "short": "HCL Sadova nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 59/2026 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Dezvoltarea unei capacități hibride de producție și stocare a energiei electrice din surse regenerabile pentru asigurarea autoconsumului Comunei Sadova”, prin Programul Fondul pentru Modernizare, Program cheie 1: Surse regenerabile de energie și stocarea energiei: Sprijinirea investițiilor în dezvoltarea de noi capacități de stocare a energiei electrice produsă din surse regenerabile de energie pentru entități publice",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/290137",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/290137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-60-2026",
+   "path": "local/dolj/sadova/2026/60",
+   "short": "HCL Sadova nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 60/2026 privind aprobarea documentației de avizare a lucrărilor de intervenții și a indicatorilor tehnico-economici pentru obiectivul de investiții \"Consolidare seismică și eficientizare energetică Școala Generală clasele I-VIII Sadova,structura Piscu Sadovei și extindere corp C1\", aprobat pentru finanțare prin Programul național de consolidare a clădirilor cu risc seismic ridicat (PNCCRS) - Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile de interes și utilitate publică",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/290138",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/290138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-61-2026",
+   "path": "local/dolj/sadova/2026/61",
+   "short": "HCL Sadova nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 61/2026 privind reorganizarea aparatului de specialitate, aprobarea organigramei și a ștatului de funcții pentru aparatul de specialitate al Primarului comunei Sadova, în contextul prevederilor Legii nr.169/2026 privind Codul Amenajării teritoriului, urbanismului și construcțiilor",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/290139",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/290139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-62-2026",
+   "path": "local/dolj/sadova/2026/62",
+   "short": "HCL Sadova nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 62/2026 privind desemnarea unui consilier local ca membru și a unui consilier local ca membru supleant în comisia de evaluare a probei de interviu pentru concursul de ocupare a funcției de director în cadrul Școlii Gimnaziale Sadova",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/290140",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/290140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-63-2026",
+   "path": "local/dolj/sadova/2026/63",
+   "short": "HCL Sadova nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 63/2026 privind rectificarea bugetului de venituri și cheltuieli al Comunei Sadova trimestrul IIl, anul 2026, cu suma de 30 mii lei",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/290141",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/290141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-64-2026",
+   "path": "local/dolj/sadova/2026/64",
+   "short": "HCL Sadova nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 64/2026 privind rectificarea bugetului de venituri și cheltuieli al Serviciului Public de Alimentare cu Apă și de Canalizare al Comunei Sadova, trimestrul lV 2026",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/294091",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/294091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-65-2026",
+   "path": "local/dolj/sadova/2026/65",
+   "short": "HCL Sadova nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 65/2026 privind modificarea listei de investiții pe anul 2026",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/296345",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/296345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-66-2026",
+   "path": "local/dolj/sadova/2026/66",
+   "short": "HCL Sadova nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 66/2026 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei SADOVA, al serviciilor și instituțiilor din subordinea Consiliului Local al comunei Sadova județul Dolj, începând cu 1 noiembrie 2026",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/296346",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/296346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-67-2026",
+   "path": "local/dolj/sadova/2026/67",
+   "short": "HCL Sadova nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 67/2026",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/296347",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/296347",
      "sha256": null
     }
    ]

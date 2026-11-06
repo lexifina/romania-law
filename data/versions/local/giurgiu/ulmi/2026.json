@@ -3,6 +3,66 @@
  "shard": "local/giurgiu/ulmi/2026",
  "acts": [
   {
+   "slug": "hcl-giurgiu--ulmi-19-2026",
+   "path": "local/giurgiu/ulmi/2026/19",
+   "short": "HCL Ulmi nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 19/2026 privind aprobarea organigramei și statului de funcții ca urmare a reorganizarii aparatului de specialitate al primarului comunei Ulmi",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/275250",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/275250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-20-2026",
+   "path": "local/giurgiu/ulmi/2026/20",
+   "short": "HCL Ulmi nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 20/2026 privind aprobarea indicatorilor tehnico-economici și a devizului general actualizat conform Dispozițiilor de Șantier pentru obiectivul de investiții \"Rețea de canalizare și stație de epurare în comuna Ulmi, județul Giurgiu\", aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/275251",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/275251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-21-2026",
+   "path": "local/giurgiu/ulmi/2026/21",
+   "short": "HCL Ulmi nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 21/2026 privind rectificarea bugetului local de venituri si cheltuieli al comunei Ulmi si modificarea listei de investitii",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/275252",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/275252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-22-2026",
+   "path": "local/giurgiu/ulmi/2026/22",
+   "short": "HCL Ulmi nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 22/2026 privind utilizarea excedentului bugetului local rezultat la incheierea exercitiului bugetar pe cele doua sectiuni",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/275253",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/275253",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--ulmi-23-2026",
    "path": "local/giurgiu/ulmi/2026/23",
    "short": "HCL Ulmi nr. 23/2026",
@@ -18,6 +78,186 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--ulmi-24-2026",
+   "path": "local/giurgiu/ulmi/2026/24",
+   "short": "HCL Ulmi nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 24/2026 privind rectificarea bugetului local de venituri si cheltuieli al comunei Ulmi",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/283258",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/283258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-25-2026",
+   "path": "local/giurgiu/ulmi/2026/25",
+   "short": "HCL Ulmi nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 25/2026",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/283259",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/283259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-26-2026",
+   "path": "local/giurgiu/ulmi/2026/26",
+   "short": "HCL Ulmi nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 26/2026 privind introducerea in domeniul privat al comunei Ulmi a unui teren intravilan in suprafata de 2755mp situat in T88 sat Ghionea comuna Ulmi judetul Giurgiu",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/283260",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/283260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-27-2026",
+   "path": "local/giurgiu/ulmi/2026/27",
+   "short": "HCL Ulmi nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 27/2026 privind atribuirea unui lot de teren pentru construirea de locuinte proprietate personala pentru tineri in conditiile Legii 15/2003",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/283261",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/283261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-28-2026",
+   "path": "local/giurgiu/ulmi/2026/28",
+   "short": "HCL Ulmi nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 28/2026 privind modificarea HCL 3/02.03.2026 „pentru stabilirea locurilor în care se interzice desfăşurarea adunărilor publice în comuna Ulmi judetul Giurgiu ”",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/283262",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/283262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-29-2026",
+   "path": "local/giurgiu/ulmi/2026/29",
+   "short": "HCL Ulmi nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 29/2026 privind utilizarea excedentului bugetului local rezultat la incheierea exercitiului bugetar pe cele doua sectiuni",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/283263",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/283263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-30-2026",
+   "path": "local/giurgiu/ulmi/2026/30",
+   "short": "HCL Ulmi nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 30/2026 privind rectificarea anexei nr.2 din HCL nr.19/23.06.2026 pentru aprobarea organigramei și statului de funcții ca urmare a reorganizarii aparatului de specialitate al primarului comunei Ulmi",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/283264",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/283264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-31-2026",
+   "path": "local/giurgiu/ulmi/2026/31",
+   "short": "HCL Ulmi nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 31/2026 privind utilizarea excedentului bugetului local rezultat la incheierea exercitiului bugetar pe cele doua sectiuni",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/287319",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/287319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-32-2026",
+   "path": "local/giurgiu/ulmi/2026/32",
+   "short": "HCL Ulmi nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 32/2026 privind rectificarea bugetului local al comunei Ulmi, din venituri proprii, virarea de credite bugetare de la un capitol la altul si modificarea listei de investitii",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/287320",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/287320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-33-2026",
+   "path": "local/giurgiu/ulmi/2026/33",
+   "short": "HCL Ulmi nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 33/2026 privind stabilirea și aprobarea tarifelor pentru activitățile specifice Serviciului de Salubrizare al Comunei Ulmi",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/287321",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/287321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-34-2026",
+   "path": "local/giurgiu/ulmi/2026/34",
+   "short": "HCL Ulmi nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 34/2026 privind desemnarea unui reprezentant si a unui supleant al consiliului local in comisia de evaluare a probei de interviu in cadrul concursului pentru ocuparea functiei de director/director adjunct din unitatile de invatamant preuniversitar de stat",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/287322",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/287322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-35-2026",
+   "path": "local/giurgiu/ulmi/2026/35",
+   "short": "HCL Ulmi nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 35/2026 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/287323",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/287323",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--ulmi-36-2026",
    "path": "local/giurgiu/ulmi/2026/36",
    "short": "HCL Ulmi nr. 36/2026",
@@ -28,6 +268,21 @@
      "from": "2026-09-30",
      "units": 1,
      "source_url": "https://emol.ro/ulmi-gr/registru-hcl/290808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-37-2026",
+   "path": "local/giurgiu/ulmi/2026/37",
+   "short": "HCL Ulmi nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 37/2026 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/293312",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/293312",
      "sha256": null
     }
    ]

@@ -3,6 +3,227 @@
 "shard": "local/dolj/sadova/2024",
 "acts": [
 {
+"slug": "hcl-dolj--sadova-50-2024",
+"path": "local/dolj/sadova/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 50/2024 privind alegerea viceprimarului comunei Sadova",
+"short": "HCL Sadova nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/179215",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-51-2024",
+"path": "local/dolj/sadova/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 51/2024 privind stabilirea comisiilor de specialitate ale Consilului Local SADOVA pe domenii de activitate ,a numarului de consilieri locali ce fac parte din fiecare comisie precum si componenta nominala a fiecarei comisii",
+"short": "HCL Sadova nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/180262",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-52-2024",
+"path": "local/dolj/sadova/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 52/2024",
+"short": "HCL Sadova nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/180263",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--sadova-53-2024",
+"path": "local/dolj/sadova/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 53/2024 privind validarea Dispoziției primarului comunei Sadova, nr. 1867/21.11.2024 privind rectificarea bugetului local al comunei Sadova, trimestrul lV, pe anul 2024 emisă prin autorizarea dată de Consiliul Local Sadova cu Hotărârea nr. 8 /2024 privind aprobarea bugetului local al comunei Sadova, pe anul 2024",
+"short": "HCL Sadova nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/180264",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-54-2024",
+"path": "local/dolj/sadova/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 54/2024 privind aprobarea achiziționării de cadouri de Crăciun și iluminat festiv",
+"short": "HCL Sadova nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/180265",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-55-2024",
+"path": "local/dolj/sadova/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 55/2024 privind desemnarea a doi reprezentanti ai Consiliului Local Sadova, în Consiliul de Administratie al Scolii Gimnaziale Sadova, pentru anul scolar 2024-2025",
+"short": "HCL Sadova nr. 55/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/180266",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-56-2024",
+"path": "local/dolj/sadova/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 56/2024 privind privind acordarea unui mandat special Asociației de Dezvoltare Intercomunitară de Gestionare a Deșeurilor ECODOLJ sa aprobe tarifele de facturare, tarifele distincte si ajustarea tarifelor pentru gestionarea deșeurilor aferente activităților desfașurate de operatori pe fluxul deșeurilor municipal în Județul Dolj, Actul Adițional nr. 8 la Contractul nr. 370/22.05.2018 ”Delegarea prin concesionare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea și transportul deșeurilor municipale și a altor fluxuri de deșeuri în judetul Dolj și operarea stației de sortare și transfer Goicea” și Actul Adițional nr. 3 la Contractul nr. 1818/30.06.2022 ”Delegarea prin concesionare a operării instalațiilor de gestionare a deșeurilor municipale realizate în cadrul proiectului Sistem de Management Integrat al Deșeurilor în Județul Dolj”",
+"short": "HCL Sadova nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/180267",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-57-2024",
+"path": "local/dolj/sadova/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 57/2024 privind rectificarea BVC Comuna Sadova trimestrul IV 2024",
+"short": "HCL Sadova nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/180268",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-58-2024",
+"path": "local/dolj/sadova/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 58/2024 privind aprobarea planului anual de acțiuni privind serviciile sociale administrate și finanțate din bugetul local",
+"short": "HCL Sadova nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/180269",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-59-2024",
+"path": "local/dolj/sadova/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 59/2024 privind aprobarea standardelor de cost pentru serviciile sociale din cadrul Primariei comunei Sadova",
+"short": "HCL Sadova nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/180270",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--sadova-60-2024",
 "path": "local/dolj/sadova/2024/60",
 "kind": "local",
@@ -22,6 +243,95 @@
 "council_name": "Consiliul Local al Comunei Sadova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--sadova-61-2024",
+"path": "local/dolj/sadova/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 61/2024",
+"short": "HCL Sadova nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/180272",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--sadova-62-2024",
+"path": "local/dolj/sadova/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 62/2024 privind rectificarea BVC Comuna Sadova trimestrul IV 2024",
+"short": "HCL Sadova nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-11",
+"latest": "2024-12-11",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/181512",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-63-2024",
+"path": "local/dolj/sadova/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 63/2024 privind constatarea validarii mandatului supleantului ce va ocupa postul de consilier local al Consiliului Local Sadova declarat vacant pe lista Partidului Uniunea Salvați România si depunerea jurământului",
+"short": "HCL Sadova nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/183322",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-64-2024",
+"path": "local/dolj/sadova/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 64/2024 privind aprobarea dării în folosință gratuită a bunurilor achiziționate în cadrul proiectului ,,Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din UAT Comuna Sadova, județul Dolj” în cadrul PNRR/Componenta C15: Educație",
+"short": "HCL Sadova nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/183323",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -110,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Sadova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--sadova-69-2024",
+"path": "local/dolj/sadova/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 69/2024 privind modificarea HCL Sadova nr.13/06.02.2007",
+"short": "HCL Sadova nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/183328",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

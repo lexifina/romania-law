@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/daia/2010",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--daia-277-2010",
+   "path": "local/giurgiu/daia/2010/277",
+   "short": "HCL Daia nr. 277/2010",
+   "title": "Hotărârea Consiliului Local al Comunei Daia nr. 277/2010 privind alocaţia pentru susţinerea familiei",
+   "url": "https://primaria-daia.ro/",
+   "versions": [
+    {
+     "from": "2010-12-24",
+     "units": 1,
+     "source_url": "https://primaria-daia.ro/wp-content/uploads/LEGE-nr.-277-din-24-decembrie-2010-privind-aloca%C5%A3ia-pentru-sus%C5%A3inerea-familiei.pdf",
+     "sha256": "11cad24180a8fae85864075ef2ebd2e85bb55bd4f15b4f0e989448683ae7475c"
+    }
+   ]
+  }
+ ]
+}

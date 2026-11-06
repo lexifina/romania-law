@@ -202,6 +202,28 @@
 }
 },
 {
+"slug": "hcl-galati--poiana-33-2026",
+"path": "local/galati/poiana/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 33/2026 privind alegerea unui preşedinte de şedinţă pentru urmatoarele trei luni: august,septembrie,octombrie 2026",
+"short": "HCL Poiana nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-16",
+"latest": "2026-10-16",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/293601",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--poiana-34-2026",
 "path": "local/galati/poiana/2026/34",
 "kind": "local",
@@ -331,6 +353,28 @@
 "council_name": "Consiliul Local al Comunei Poiana",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--poiana-40-2026",
+"path": "local/galati/poiana/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 40/2026 privind desemnarea de reprezentant al Consiliului Local Poiana ca membru in Consiliul de administratie al SCOLII GIMNAZIALE NR.1 comuna Poiana, Județul GALAȚI",
+"short": "HCL Poiana nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-16",
+"latest": "2026-10-16",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/293610",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

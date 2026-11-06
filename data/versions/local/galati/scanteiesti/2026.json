@@ -3,6 +3,21 @@
  "shard": "local/galati/scanteiesti/2026",
  "acts": [
   {
+   "slug": "hcl-galati--scanteiesti-30-2026",
+   "path": "local/galati/scanteiesti/2026/30",
+   "short": "HCL Scânteiești nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 30/2026 privind aprobarea închirierii prin atribuire directă a suprafeței de 30,09 ha disponibilă de pajiște, aparținând domeniului privat al Comunei Scânteiești, jud. Galați",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/291971",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/291971",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--scanteiesti-31-2026",
    "path": "local/galati/scanteiesti/2026/31",
    "short": "HCL Scânteiești nr. 31/2026",
@@ -58,6 +73,21 @@
      "from": "2026-10-05",
      "units": 1,
      "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/291986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-35-2026",
+   "path": "local/galati/scanteiesti/2026/35",
+   "short": "HCL Scânteiești nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 35/2026 privind revocarea HCL nr. 23/20.05.2026 privind actualizarea devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții ''Extindere și modernizare rețea de apă în Comuna Scânteiești, județul Galați''",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/291996",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/291996",
      "sha256": null
     }
    ]
@@ -138,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--scanteiesti-41-2026",
+   "path": "local/galati/scanteiesti/2026/41",
+   "short": "HCL Scânteiești nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 41/2026 privind revocarea HCL nr. 36/24.06.2026 privind actualizarea devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții ''Extindere și modernizare rețea apă în Comuna Scânteiești, județul Galați''",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/292002",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/292002",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--scanteiesti-42-2026",
    "path": "local/galati/scanteiesti/2026/42",
    "short": "HCL Scânteiești nr. 42/2026",
@@ -213,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--scanteiesti-47-2026",
+   "path": "local/galati/scanteiesti/2026/47",
+   "short": "HCL Scânteiești nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 47/2026 privind modificarea și completarea HCL nr. 67/30.12.2025, modificată prin HCL nr. 15/25.03.2026, privind stabilirea impozitelor și taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/292022",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/292022",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--scanteiesti-48-2026",
    "path": "local/galati/scanteiesti/2026/48",
    "short": "HCL Scânteiești nr. 48/2026",
@@ -223,6 +283,21 @@
      "from": "2026-10-05",
      "units": 1,
      "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/292023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-49-2026",
+   "path": "local/galati/scanteiesti/2026/49",
+   "short": "HCL Scânteiești nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 49/2026 privind alegerea președintelui de ședință pentru lunile august-octombrie 2026",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/292024",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/292024",
      "sha256": null
     }
    ]

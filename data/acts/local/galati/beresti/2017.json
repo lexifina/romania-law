@@ -3,6 +3,116 @@
 "shard": "local/galati/beresti/2017",
 "acts": [
 {
+"slug": "hcl-galati--beresti-2-2017",
+"path": "local/galati/beresti/2017/2",
+"kind": "local",
+"year": "2017",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Berești nr. 2/2017 privind Plan lucrari prestate in 2017 de beneficiarii de ajutor social",
+"short": "HCL Berești nr. 2/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-01-27",
+"latest": "2017-01-27",
+"portal": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+"council": "galati/beresti",
+"council_name": "Consiliul Local al Orașului Berești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--beresti-5-2017",
+"path": "local/galati/beresti/2017/5",
+"kind": "local",
+"year": "2017",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Berești nr. 5/2017 privind completare inventar domeniul public",
+"short": "HCL Berești nr. 5/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-01-27",
+"latest": "2017-01-27",
+"portal": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+"council": "galati/beresti",
+"council_name": "Consiliul Local al Orașului Berești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--beresti-11-2017",
+"path": "local/galati/beresti/2017/11",
+"kind": "local",
+"year": "2017",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Berești nr. 11/2017 privind vanzare teren intravilan",
+"short": "HCL Berești nr. 11/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-03-31",
+"latest": "2017-03-31",
+"portal": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+"council": "galati/beresti",
+"council_name": "Consiliul Local al Orașului Berești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--beresti-16-2017",
+"path": "local/galati/beresti/2017/16",
+"kind": "local",
+"year": "2017",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Berești nr. 16/2017 privind Registrul agricol",
+"short": "HCL Berești nr. 16/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-04-28",
+"latest": "2017-04-28",
+"portal": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+"council": "galati/beresti",
+"council_name": "Consiliul Local al Orașului Berești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--beresti-32-2017",
+"path": "local/galati/beresti/2017/32",
+"kind": "local",
+"year": "2017",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Berești nr. 32/2017 privind stabilire salarii de baza conform Legii 153",
+"short": "HCL Berești nr. 32/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-07-31",
+"latest": "2017-07-31",
+"portal": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+"council": "galati/beresti",
+"council_name": "Consiliul Local al Orașului Berești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--beresti-33-2017",
 "path": "local/galati/beresti/2017/33",
 "kind": "local",
@@ -44,6 +154,28 @@
 "council_name": "Consiliul Local al Orașului Berești",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-galati--beresti-58-2017",
+"path": "local/galati/beresti/2017/58",
+"kind": "local",
+"year": "2017",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Berești nr. 58/2017 privind vanzarea prin licitatie publica a terenului",
+"short": "HCL Berești nr. 58/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-12-21",
+"latest": "2017-12-21",
+"portal": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+"council": "galati/beresti",
+"council_name": "Consiliul Local al Orașului Berești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

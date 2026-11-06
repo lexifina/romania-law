@@ -3,6 +3,96 @@
  "shard": "local/galati/foltesti/2025",
  "acts": [
   {
+   "slug": "hcl-galati--foltesti-41-2025",
+   "path": "local/galati/foltesti/2025/41",
+   "short": "HCL Foltești nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 41/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2025/11/HCL-41.2025.pdf",
+     "sha256": "f05f0aae3fa8acc28032af436b261c99e958e25b07aad664e54d6a92004370fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-42-2025",
+   "path": "local/galati/foltesti/2025/42",
+   "short": "HCL Foltești nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 42/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2025/11/HCL-42.2025.pdf",
+     "sha256": "1b01095968769c9a6f04ebbcda3bfc605527acd6771cb370fd4eab097cc5d865"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-43-2025",
+   "path": "local/galati/foltesti/2025/43",
+   "short": "HCL Foltești nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 43/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2026/01/HCL-43.2025.pdf",
+     "sha256": "9c1b76ead6051a46e22dca8f9a393cdd84d852080bac03c0dbda32bbdb2dcbea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-44-2025",
+   "path": "local/galati/foltesti/2025/44",
+   "short": "HCL Foltești nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 44/2025 privind : acordul Consiliului Local Foltesti pentru investitia „Modernizarea infrastructurii de irigatii a O.U.A.I",
+   "url": "https://www.comunafoltesti.ro/monitorul-oficial-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2026/01/HCL-44.2025.pdf",
+     "sha256": "1fe5401f7265cbea6c2bf250e998816d3b2864b30fc467ad3369e9f631382ebd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-45-2025",
+   "path": "local/galati/foltesti/2025/45",
+   "short": "HCL Foltești nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 45/2025 privind : aprobarea P.T",
+   "url": "https://www.comunafoltesti.ro/monitorul-oficial-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2026/01/HCL-45.2025.pdf",
+     "sha256": "e3bd6ce351f703495a2bcb517b9bbeb879a8d12ebdcac8a3f91be15dabaf3854"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-46-2025",
+   "path": "local/galati/foltesti/2025/46",
+   "short": "HCL Foltești nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 46/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2026/01/HCL-46.2025.pdf",
+     "sha256": "105f1afe310c767d2001cc1ec313525949f6e8c1d71d570b58f9f2cb60aee350"
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--foltesti-47-2025",
    "path": "local/galati/foltesti/2025/47",
    "short": "HCL Foltești nr. 47/2025",
@@ -14,6 +104,36 @@
      "units": 1,
      "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2026/01/HCL-47.2025.pdf",
      "sha256": "4fabc001c39c9134f6c71397c568c16b7f5c741b0b3a9dded290be3c1a1bd2c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-48-2025",
+   "path": "local/galati/foltesti/2025/48",
+   "short": "HCL Foltești nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 48/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2026/01/HCL-48.2025.pdf",
+     "sha256": "5d216b8d1e1cc63c322d242043fb90b849483598665f220d1587758501c5dcdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-49-2025",
+   "path": "local/galati/foltesti/2025/49",
+   "short": "HCL Foltești nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 49/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2026/01/HCL-49.2025.pdf",
+     "sha256": "004d98f74364793a5383d15b161f9e45d3d6a26262bfd6f7f1ffaa11a3053bcf"
     }
    ]
   }

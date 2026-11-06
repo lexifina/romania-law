@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/galati/beresti/2012",
+ "acts": [
+  {
+   "slug": "hcl-galati--beresti-15-2012",
+   "path": "local/galati/beresti/2012/15",
+   "short": "HCL Berești nr. 15/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 15/2012 privind restrictii viteza",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2012-09-26",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/hcl15_2012.pdf",
+     "sha256": "141336067c38b392eb9f2fcdb9bf459b5b6e7a1ac82f75ee129c25d164194a47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-19-2012",
+   "path": "local/galati/beresti/2012/19",
+   "short": "HCL Berești nr. 19/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 19/2012 privind Program masuri sezon rece",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/hcl19_2012.pdf",
+     "sha256": "a25630ad7183b9dfa90b7ea18d9333d94c4a6319688a135ae5eb8df993a7b83d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-26-2012",
+   "path": "local/galati/beresti/2012/26",
+   "short": "HCL Berești nr. 26/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 26/2012 privind Program manifestari culturale",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/HCL_Nr_26_din_21_12_2012_privind_Program_manifestari_culturale.pdf",
+     "sha256": "a2b61191dee82bd2f25ebb3f4de46893ff145ebc082a79d0e234b1097417b0bc"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,21 @@
  "shard": "local/galati/brahasesti/2026",
  "acts": [
   {
+   "slug": "hcl-galati--brahasesti-38-2026",
+   "path": "local/galati/brahasesti/2026/38",
+   "short": "HCL Brăhășești nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 38/2026 privind revizuirea și actualizarea Regulamentului de organizare și funcționare al Consiliului Local Brăhășești, în vederea stabilirii exprese a procentului indemnizației de ședință și a anexării documentelor și formularelor standardizate utilizate în procedura de emitere și adoptare a actelor administrative",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/278822",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/278822",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--brahasesti-39-2026",
    "path": "local/galati/brahasesti/2026/39",
    "short": "HCL Brăhășești nr. 39/2026",
@@ -13,6 +28,276 @@
      "from": "2026-09-22",
      "units": 1,
      "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/278823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-40-2026",
+   "path": "local/galati/brahasesti/2026/40",
+   "short": "HCL Brăhășești nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 40/2026 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Brăhășești, județul Galați, pentru trimestrul III al anului 2026, precum și a rectificării bugetului de venituri și cheltuieli al Serviciului Public SCUP Brăhășești pentru trimestrul III al anului 2026",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/280903",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/280903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-41-2026",
+   "path": "local/galati/brahasesti/2026/41",
+   "short": "HCL Brăhășești nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 41/2026 privind actualizarea statului de funcții al Serviciului Public SCUP Brăhășești , județul Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/280904",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/280904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-42-2026",
+   "path": "local/galati/brahasesti/2026/42",
+   "short": "HCL Brăhășești nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 42/2026 privind modificarea anexei la Hotărârea Consiliului Local nr. 13/27.03.2026 privind stabilirea salariilor de bază pentru personalul din cadrul Serviciului Public cu personalitate juridică SCUP Brăhășești, înființat în subordinea Consiliului Local Brăhășești",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/280905",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/280905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-43-2026",
+   "path": "local/galati/brahasesti/2026/43",
+   "short": "HCL Brăhășești nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 43/2026 privind alegerea președintelui de ședință al Consiliului Local Brăhășești pe o perioadă de cel mult 3 luni",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/280906",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/280906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-44-2026",
+   "path": "local/galati/brahasesti/2026/44",
+   "short": "HCL Brăhășești nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 44/2026 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Brăhășești, județul Galați, pentru trimestrul III al anului 2026, precum și a rectificării bugetului de venituri și cheltuieli al Serviciului Public SCUP Brăhășești pentru trimestrul III al anului 2026",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/283425",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/283425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-45-2026",
+   "path": "local/galati/brahasesti/2026/45",
+   "short": "HCL Brăhășești nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 45/2026 privind aprobarea proiectului „SPRIJINIREA INVESTIȚIILOR ÎN NOI CAPACITĂȚI DE PRODUCERE A ENERGIEI ELECTRICE PRODUSĂ DIN SURSE REGENERABILE DE ENERGIE SOLARĂ, CU SAU FĂRĂ CAPACITĂȚI DE STOCARE INTEGRATE, PENTRU AUTOCONSUM PENTRU ENTITAȚI PUBLICE – UAT COMUNA BRAHASESTI, JUDETUL GALATI” și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/283426",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/283426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-46-2026",
+   "path": "local/galati/brahasesti/2026/46",
+   "short": "HCL Brăhășești nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 46/2026 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Brăhășești, județul Galați, pentru trimestrul III al anului 2026, precum și a rectificării bugetului de venituri și cheltuieli al Serviciului Public SCUP Brăhășești pentru trimestrul III al anului 2026",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/288255",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/288255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-47-2026",
+   "path": "local/galati/brahasesti/2026/47",
+   "short": "HCL Brăhășești nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 47/2026 privind aprobarea încheierii unui Protocol de colaborare între UAT Comuna Brăhășești,județul Galați și Uniunea Națională a Notarilor Publici din România în scopul realizării schimbului de informații prin mijloace electronice",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/288256",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/288256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-48-2026",
+   "path": "local/galati/brahasesti/2026/48",
+   "short": "HCL Brăhășești nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 48/2026 privind aprobarea încheierii unui Protocol de colaborare și dare în exploatare directă a unui mijloc fix,Microbuz, tip Iveco Hibrid M3,către Școala Gimnazială nr.1 Brăhășești,județul Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/288257",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/288257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-49-2026",
+   "path": "local/galati/brahasesti/2026/49",
+   "short": "HCL Brăhășești nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 49/2026 privind desemnarea reprezentanților Consiliului Local Brăhășești , în Consiliul de Administrație al Școlii Gimnaziale nr.1 Brăhășești",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/288258",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/288258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-50-2026",
+   "path": "local/galati/brahasesti/2026/50",
+   "short": "HCL Brăhășești nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 50/2026 privind aprobarea participării la Programul-cheie 1: Surse regenerabile de energie și stocarea energiei-Sprijinirea investiţiilor în noi capacităţi de producere a energiei electrice produsă din surse regenerabile de energie solară, cu capacități de stocare integrate, pentru autoconsum pentru entități publice și aprobarea documentației tehnico- economice și a indicatorilor tehnico-economici pentru proiectul ,,Construirea unei unități de producere și stocare a energiei electrice din surse regenerabile pentru autoconsum în COMUNA Brăhășești, județul Galați,,",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/288259",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/288259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-51-2026",
+   "path": "local/galati/brahasesti/2026/51",
+   "short": "HCL Brăhășești nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 51/2026",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/291026",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/291026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-52-2026",
+   "path": "local/galati/brahasesti/2026/52",
+   "short": "HCL Brăhășești nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 52/2026 privind desemnarea unui reprezentant și a unui membru supleant al Consiliului Local Brăhășești , în comisia de evaluare a probei interviu în cadrul concursului pentru ocuparea funcțiilor de director/director adjunct la Școala Gimnazială nr.1 Brăhășești",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/291027",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/291027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-53-2026",
+   "path": "local/galati/brahasesti/2026/53",
+   "short": "HCL Brăhășești nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 53/2026 privind rectificarea bugetului local de venituri si cheltuieli al comunei Brahasesti , judetul Galati pe trimestrul IV al anului 2026 și validarea modificărilor efectuate prin Dispoziția nr.158 din 23.09.2026 privind rectificarea bugetului local de venituri si cheltuieli al comunei Brahasesti , județul Galați, pe anul 2026, trimestrul III , în cadrul Serviciului Public SCUP Brăhășești",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/294187",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/294187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-54-2026",
+   "path": "local/galati/brahasesti/2026/54",
+   "short": "HCL Brăhășești nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 54/2026",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/294188",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/294188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-55-2026",
+   "path": "local/galati/brahasesti/2026/55",
+   "short": "HCL Brăhășești nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 55/2026 privind alegerea președintelui de ședință al Consiliului Local Brăhășești pe o perioadă de cel mult 3 luni",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/294189",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/294189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-56-2026",
+   "path": "local/galati/brahasesti/2026/56",
+   "short": "HCL Brăhășești nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 56/2026",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/294190",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/294190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-57-2026",
+   "path": "local/galati/brahasesti/2026/57",
+   "short": "HCL Brăhășești nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 57/2026 privind aprobarea proiectului „SPRIJINIREA INVESTIȚIILOR ÎN NOI CAPACITĂȚI DE PRODUCERE A ENERGIEI ELECTRICE PRODUSĂ DIN SURSE REGENERABILE DE ENERGIE SOLARĂ, CU SAU FĂRĂ CAPACITĂȚI DE STOCARE INTEGRATE, PENTRU AUTOCONSUM PENTRU ENTITAȚI PUBLICE – UAT COMUNA BRAHASESTI, JUDETUL GALATI” și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/294741",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/294741",
      "sha256": null
     }
    ]

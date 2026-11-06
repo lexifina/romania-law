@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/galati/draganesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-galati--draganesti-7-2026",
+   "path": "local/galati/draganesti/2026/7",
+   "short": "HCL Drăgănești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 7/2026 privind constituirea Comisiei speciale pentru actualiza.reasi intocmirea inventarului bunurilor care alcdtuiesc domeniul privat al Unit[1ii Administrativ- Teritoriale Comuna Drdgdnegti , Judelul Galali ; ,{vdnd in vedere procesul verbal al Comisiei speciale pentru actualizarea qi intoomirea inventarului bunurilor care alcdtuiesc domeniul privat al Unitdlii Administrativ-Teritoriale Comuna Drdginer",
+   "url": "https://primaria-draganesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2026/02/HCL-nr.7-din-05.02.2026.pdf",
+     "sha256": "e774645eba9936d6c1f2fc84d2f7b5f0e1aa3555ed7100fdaa4cca2007b22821"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-8-2026",
+   "path": "local/galati/draganesti/2026/8",
+   "short": "HCL Drăgănești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 8/2026",
+   "url": "https://primaria-draganesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2026/03/HCL-nr.8-din25.03.2026.pdf",
+     "sha256": "a44e9b5884dd844737289110a6b40c0aa585e0f138d79371c9dc0cf42c07f473"
+    }
+   ]
+  }
+ ]
+}

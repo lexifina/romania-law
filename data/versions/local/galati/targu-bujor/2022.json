@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/galati/targu-bujor/2022",
+ "acts": [
+  {
+   "slug": "hcl-galati--targu-bujor-7-2022",
+   "path": "local/galati/targu-bujor/2022/7",
+   "short": "HCL Târgu Bujor nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Bujor nr. 7/2022",
+   "url": "https://www.primariatgbujor.ro/wp-content/uploads/2022/02/HCL-NR-7-27-01-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://www.primariatgbujor.ro/wp-content/uploads/2022/02/HCL-NR-7-27-01-2022.pdf",
+     "sha256": "cba0cbc35eaf329bd3bf5feb43faf8a74654a327d37200879e3f095ecddcd95a"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,21 @@
  "shard": "local/giurgiu/ulmi/2025",
  "acts": [
   {
+   "slug": "hcl-giurgiu--ulmi-40-2025",
+   "path": "local/giurgiu/ulmi/2025/40",
+   "short": "HCL Ulmi nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 40/2025",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/227385",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/227385",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--ulmi-41-2025",
    "path": "local/giurgiu/ulmi/2025/41",
    "short": "HCL Ulmi nr. 41/2025",
@@ -18,6 +33,66 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--ulmi-42-2025",
+   "path": "local/giurgiu/ulmi/2025/42",
+   "short": "HCL Ulmi nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 42/2025",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/231529",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/231529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-43-2025",
+   "path": "local/giurgiu/ulmi/2025/43",
+   "short": "HCL Ulmi nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 43/2025 privind revocarea HCL nr.26/04.08.2025 prin care s-a aprobat acordarea ajutoarelor de urgenta persoanelor afectate de furtuna din data de 17.iulie 2025",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/236619",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/236619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-44-2025",
+   "path": "local/giurgiu/ulmi/2025/44",
+   "short": "HCL Ulmi nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 44/2025 privind rectificarea bugetului local al comunei Ulmi, virarea de credite bugetare de la un capitol la altul si modificarea listei de investitii",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/236620",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/236620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-45-2025",
+   "path": "local/giurgiu/ulmi/2025/45",
+   "short": "HCL Ulmi nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 45/2025 privind alocarea sumei de 60.000 lei pentru achizitia darurilor de Craciun pentru copiii din unitatile de invatamant de pe raza UAT comuna Ulmi",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/236621",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/236621",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--ulmi-46-2025",
    "path": "local/giurgiu/ulmi/2025/46",
    "short": "HCL Ulmi nr. 46/2025",
@@ -28,6 +103,186 @@
      "from": "2026-07-28",
      "units": 1,
      "source_url": "https://emol.ro/ulmi-gr/registru-hcl/242081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-47-2025",
+   "path": "local/giurgiu/ulmi/2025/47",
+   "short": "HCL Ulmi nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 47/2025",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/242082",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/242082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-48-2025",
+   "path": "local/giurgiu/ulmi/2025/48",
+   "short": "HCL Ulmi nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 48/2025",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/242083",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/242083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-49-2025",
+   "path": "local/giurgiu/ulmi/2025/49",
+   "short": "HCL Ulmi nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 49/2025 privind revocarea HCL nr.32/2025 referitoare la interzicerea amenajerilor piscicole pe raza comunei Ulmi",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/242084",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/242084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-50-2025",
+   "path": "local/giurgiu/ulmi/2025/50",
+   "short": "HCL Ulmi nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 50/2025 privind revocarea HCL nr. 33/2025 referitor la aprobarea proiectului „Controlul cainilor fara stapan ”",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/242085",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/242085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-51-2025",
+   "path": "local/giurgiu/ulmi/2025/51",
+   "short": "HCL Ulmi nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 51/2025 privind modificarea hotararii 34/2025 privind „Achizitie microbuz scolar pentru deservirea transportului elevilor de pe raza UAT Ulmi judet Giurgiu ”",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/242086",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/242086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-52-2025",
+   "path": "local/giurgiu/ulmi/2025/52",
+   "short": "HCL Ulmi nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 52/2025 privind aprobarea utilizarea excedentului bugetar al comunei Ulmi",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/242087",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/242087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-53-2025",
+   "path": "local/giurgiu/ulmi/2025/53",
+   "short": "HCL Ulmi nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 53/2025 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/242088",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/242088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-54-2025",
+   "path": "local/giurgiu/ulmi/2025/54",
+   "short": "HCL Ulmi nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 54/2025 privind atribuirea loturilor de teren pentru construirea de locuinte proprietate personala pentru tineri in conditiile Legii 15/2003",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/242089",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/242089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-55-2025",
+   "path": "local/giurgiu/ulmi/2025/55",
+   "short": "HCL Ulmi nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 55/2025 privind rectificarea bugetului local al comunei Ulmi din venituri proprii",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/242090",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/242090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-56-2025",
+   "path": "local/giurgiu/ulmi/2025/56",
+   "short": "HCL Ulmi nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 56/2025",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/244590",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/244590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-57-2025",
+   "path": "local/giurgiu/ulmi/2025/57",
+   "short": "HCL Ulmi nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 57/2025 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei Ulmi pe trimestrul IV/2025",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/244591",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/244591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-58-2025",
+   "path": "local/giurgiu/ulmi/2025/58",
+   "short": "HCL Ulmi nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 58/2025 privind mutarea sumelor din conturile de disponibilitati in veniturile bugetului local",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/244592",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/244592",
      "sha256": null
     }
    ]

@@ -3,6 +3,72 @@
 "shard": "local/harghita/sansimion/2025",
 "acts": [
 {
+"slug": "hcl-harghita--sansimion-75-2025",
+"path": "local/harghita/sansimion/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 75/2025 privind modificarea și completarea Hotărârii Consiliului Local nr. 64/13.08.2025 privind aprobarea „Programului anual de sprijinire a cultelor religioase din comuna Sânsimion, pe anul 2025”",
+"short": "HCL Sânsimion nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-23",
+"latest": "2025-10-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/231187",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-76-2025",
+"path": "local/harghita/sansimion/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 76/2025 privind aprobarea contractării unui împrumut în valoare de 1.700.000 lei, în conformitate cu prevederile art.1 din Ordonanța de urgență a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului",
+"short": "HCL Sânsimion nr. 76/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-23",
+"latest": "2025-10-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/231188",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-77-2025",
+"path": "local/harghita/sansimion/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 77/2025 privind semnarea contractului de finanțare în cadrul „Programului anual de sprijin financiar pentru unitățile de cult din comuna Sânsimion, pe anul 2025”",
+"short": "HCL Sânsimion nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-23",
+"latest": "2025-10-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/231195",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-harghita--sansimion-78-2025",
 "path": "local/harghita/sansimion/2025/78",
 "kind": "local",
@@ -132,6 +198,28 @@
 "council_name": "Consiliul Local al Comunei Sânsimion",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-84-2025",
+"path": "local/harghita/sansimion/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 84/2025 privind aprobarea rectificării bugetului de venituri și cheltuieli al „CLUBULUI SPORTIV COMUNAL SÂNSIMION-CSIKSZENTSIMIONI KOZSEGI SPORT KLUB” pentru anul 2025",
+"short": "HCL Sânsimion nr. 84/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-22",
+"latest": "2026-05-22",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/269584",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -286,6 +374,72 @@
 "council_name": "Consiliul Local al Comunei Sânsimion",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-92-2025",
+"path": "local/harghita/sansimion/2025/92",
+"kind": "local",
+"year": "2025",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 92/2025 privind aprobarea rețelei școlare de pe raza teritorială a comunei Sânsimion, pentru anul școlar 2026-2027, județul Harghita",
+"short": "HCL Sânsimion nr. 92/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-22",
+"latest": "2026-05-22",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/269620",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-93-2025",
+"path": "local/harghita/sansimion/2025/93",
+"kind": "local",
+"year": "2025",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 93/2025 privind aprobarea încetării contractului de închiriere nr. 351/08.04.2021 prin acordul părților și al contractului de închiriere nr. 693/25.04.2023 prin acordul părților încheiate între Comuna Sânsimion și societatea comercială Lixid Project S.R.L",
+"short": "HCL Sânsimion nr. 93/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-22",
+"latest": "2026-05-22",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/269621",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-94-2025",
+"path": "local/harghita/sansimion/2025/94",
+"kind": "local",
+"year": "2025",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 94/2025 privind modificarea valorii de inventar ale Caselor de cultură din Comuna Sânsimion, sat Sânsimion și sat Cetățuia",
+"short": "HCL Sânsimion nr. 94/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-22",
+"latest": "2026-05-22",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/269622",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

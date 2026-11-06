@@ -201,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-dolj--macesu-de-sus-68-2025",
+"path": "local/dolj/macesu-de-sus/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 68/2025 privind îndreptarea erorii materiale din cuprinsul art.2 la HCL 57/06.11.2025 La Proiectul de hotărâre privind modificarea art.2 si art 4 la HCL54/2025 însușirea procesului-verbal de negociere în vederea cumpărării unei case de locuit și teren aferent în suprafată de 2114 mp, în vederea realizării obiectivului ,,Achiziționare teren intravilan în comuna Măceșu de Sus, județul Dolj,,",
+"short": "HCL Măceșu de Sus nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/246255",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--macesu-de-sus-69-2025",
 "path": "local/dolj/macesu-de-sus/2025/69",
 "kind": "local",

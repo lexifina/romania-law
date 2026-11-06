@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--poiana-60-2020",
+   "path": "local/galati/poiana/2020/60",
+   "short": "HCL Poiana nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana nr. 60/2020 privind stabilirea salariilor de bază ale functionarilor publici, ale personalului contractual din aparatul de specialitate al Primarului comunei Poiana, Județul Galati si a indemnizatiei lunare a consilierilor locali",
+   "url": "https://emol.ro/poiana-gl/registru-hcl/15629",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/poiana-gl/registru-hcl/15629",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--poiana-61-2020",
    "path": "local/galati/poiana/2020/61",
    "short": "HCL Poiana nr. 61/2020",
@@ -58,6 +73,21 @@
      "from": "2020-11-10",
      "units": 1,
      "source_url": "https://emol.ro/poiana-gl/registru-hcl/15630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--poiana-62-2020",
+   "path": "local/galati/poiana/2020/62",
+   "short": "HCL Poiana nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana nr. 62/2020 privind aprobarea devizului general actualiat si a indicatorilor tehnico-finanaciari la finalizarea investitiei: „Achiziție buldoexcavator pentru serviciul public de gospodărie comunală din comuna Poiana, județul Galați”",
+   "url": "https://emol.ro/poiana-gl/registru-hcl/15631",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/poiana-gl/registru-hcl/15631",
      "sha256": null
     }
    ]
@@ -148,6 +178,21 @@
      "from": "2020-12-15",
      "units": 1,
      "source_url": "https://emol.ro/poiana-gl/registru-hcl/15711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--poiana-69-2020",
+   "path": "local/galati/poiana/2020/69",
+   "short": "HCL Poiana nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana nr. 69/2020",
+   "url": "https://emol.ro/poiana-gl/registru-hcl/15712",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/poiana-gl/registru-hcl/15712",
      "sha256": null
     }
    ]

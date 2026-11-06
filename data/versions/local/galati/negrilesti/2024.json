@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/galati/negrilesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-galati--negrilesti-36-2024",
+   "path": "local/galati/negrilesti/2024/36",
+   "short": "HCL Negrilești nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 36/2024 privind rectificarea bugetului de venituri ;i cheltuieli al comunei Negrilești, județul Galați pe trimestrul III anul 2024",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/177396",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/177396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-37-2024",
+   "path": "local/galati/negrilesti/2024/37",
+   "short": "HCL Negrilești nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 37/2024 privind trecerea unui teren din domeniul privat al UAT Negrilești, în domeniul public al UAT Negrilești",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/177397",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/177397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-38-2024",
+   "path": "local/galati/negrilesti/2024/38",
+   "short": "HCL Negrilești nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 38/2024 privind însușirea Acordului de cooperare nr.1/22.04.2024 privind organizarea si exercitarea activității de audit public intern",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/177398",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/177398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-39-2024",
+   "path": "local/galati/negrilesti/2024/39",
+   "short": "HCL Negrilești nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 39/2024 privind stabilirea categoriilor de persoane beneficiare a ajutoarelor financiare acordate în vederea depășirii unor situații de dificultate care pot duce la marginalizarea și excluziunea socială",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/177399",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/177399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-40-2024",
+   "path": "local/galati/negrilesti/2024/40",
+   "short": "HCL Negrilești nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 40/2024 privind alegerea președintelui de ședință a Consiliului Local Negrilești pentru trimestrul IV anul 2024",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/177400",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/177400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-41-2024",
+   "path": "local/galati/negrilesti/2024/41",
+   "short": "HCL Negrilești nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 41/2024 privind anularea accesoriilor aferente obligațiilor bugetare principale restante la data de 31 august 2024",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/177401",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/177401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-42-2024",
+   "path": "local/galati/negrilesti/2024/42",
+   "short": "HCL Negrilești nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 42/2024",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/177402",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/177402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-43-2024",
+   "path": "local/galati/negrilesti/2024/43",
+   "short": "HCL Negrilești nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 43/2024 privind rectificarea bugetului de venituri și cheltuieli pe trimestrul IV anul 2024",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/177403",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/177403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-44-2024",
+   "path": "local/galati/negrilesti/2024/44",
+   "short": "HCL Negrilești nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 44/2024 privind stabilirea consumului mediu de carburanți și a normativelor de consum de carburanți pentru autovehiculele aflate în dotarea UAT Negrilești",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/177404",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/177404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-45-2024",
+   "path": "local/galati/negrilesti/2024/45",
+   "short": "HCL Negrilești nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 45/2024 privind alegerea președintelui de ședință pe trimestrul IV anul 2024",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/179216",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/179216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-46-2024",
+   "path": "local/galati/negrilesti/2024/46",
+   "short": "HCL Negrilești nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 46/2024 privind organizarea comisiilor de specialitate în cadrul Consiliului Local Negrilești, județul Galați",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/179217",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/179217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-47-2024",
+   "path": "local/galati/negrilesti/2024/47",
+   "short": "HCL Negrilești nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 47/2024 privind alegerea viceprimarului comunei Negrilești, județul Galați",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/179218",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/179218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-48-2024",
+   "path": "local/galati/negrilesti/2024/48",
+   "short": "HCL Negrilești nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 48/2024 privind aprobarea participării comunei Negrilești, județul Galați în calitate de membru la constituirea Asociației de Dezvoltare Intercomunitară TRANS PUBLIC MATCA",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/179219",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/179219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-49-2024",
+   "path": "local/galati/negrilesti/2024/49",
+   "short": "HCL Negrilești nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 49/2024 privind rectificarea bugetului local de venituri și cheltuieli al comunei Negrilești, jud. Galați, pe trim.IV - 2024",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/186697",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/186697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-50-2024",
+   "path": "local/galati/negrilesti/2024/50",
+   "short": "HCL Negrilești nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 50/2024 privind stabilirea spațiului de depozitare necesar pentru colectarea separată a deșeurilor provenite de la echipamente electrice și electronice și a altor categorii de deșeuri periculoase provenite de la populația comunei Negrilești, cu titlu gratuit",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/186698",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/186698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-51-2024",
+   "path": "local/galati/negrilesti/2024/51",
+   "short": "HCL Negrilești nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 51/2024 privind prelungirea termenului de acordare a unor facilități fiscale urmare achitării până la data de 19.12.2024 a obligațiilor restante la data de 31.08.2024",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/186816",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/186816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-52-2024",
+   "path": "local/galati/negrilesti/2024/52",
+   "short": "HCL Negrilești nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 52/2024 privind rectificarea bugetului de venituri și cheltuieli al comunei Negrilești , județul Galați, pe trimestrul IV, anul 2024",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/186839",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/186839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-53-2024",
+   "path": "local/galati/negrilesti/2024/53",
+   "short": "HCL Negrilești nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 53/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025 în comuna Negrilești, județul Galați",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/186840",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/186840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-54-2024",
+   "path": "local/galati/negrilesti/2024/54",
+   "short": "HCL Negrilești nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 54/2024 privind aprobarea Programului cultural ”Tradiții și obiceiuri de iarnă” în comuna Negrilești, județul Galați",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/186841",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/186841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-55-2024",
+   "path": "local/galati/negrilesti/2024/55",
+   "short": "HCL Negrilești nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 55/2024 privind aprobarea rețelei școlare de pe raza comunei Negrilești , județul Galați, pentru anul școlar 2025 - 2026",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/186842",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/186842",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

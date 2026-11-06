@@ -3,6 +3,50 @@
 "shard": "local/giurgiu/ulmi/2020",
 "acts": [
 {
+"slug": "hcl-giurgiu--ulmi-30-2020",
+"path": "local/giurgiu/ulmi/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 30/2020 privind aprobarea concesionarii prin atribuire directa a unui teren in suprafata de 325 mp a terenului identificat cu numarul cadastral 34581 proprietatea privata a comunei Ulmi situat in comuna Ulmi sat Poenari",
+"short": "HCL Ulmi nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-27",
+"latest": "2020-07-27",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/7901",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-31-2020",
+"path": "local/giurgiu/ulmi/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 31/2020 privind aprobarea concesionarii prin atribuire directa a unui teren in suprafata de 173 mp a terenului proprietatea privata a comunei Ulmi situat in comuna Ulmi sat Icoana",
+"short": "HCL Ulmi nr. 31/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-27",
+"latest": "2020-07-27",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/7902",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--ulmi-32-2020",
 "path": "local/giurgiu/ulmi/2020/32",
 "kind": "local",
@@ -201,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--ulmi-41-2020",
+"path": "local/giurgiu/ulmi/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 41/2020 privind alegerea presedintelui de sedinta",
+"short": "HCL Ulmi nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/13089",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--ulmi-42-2020",
 "path": "local/giurgiu/ulmi/2020/42",
 "kind": "local",
@@ -268,6 +334,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--ulmi-45-2020",
+"path": "local/giurgiu/ulmi/2020/45",
+"kind": "local",
+"year": "2020",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 45/2020 privind desemnarea reprezentanţilor Consiliului Local al comunei Ulmi în Consiliile de Administraţie ale unităţilor de învăţământ preuniversitar de stat din comuna Ulmi pentru anul şcolar 2020-2021",
+"short": "HCL Ulmi nr. 45/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/13088",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--ulmi-46-2020",
 "path": "local/giurgiu/ulmi/2020/46",
 "kind": "local",
@@ -287,6 +375,29 @@
 "council_name": "Consiliul Local al Comunei Ulmi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-47-2020",
+"path": "local/giurgiu/ulmi/2020/47",
+"kind": "local",
+"year": "2020",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 47/2020",
+"short": "HCL Ulmi nr. 47/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-28",
+"latest": "2020-12-28",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/13393",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

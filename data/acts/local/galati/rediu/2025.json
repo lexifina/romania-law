@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/galati/rediu/2025",
+"acts": [
+{
+"slug": "hcl-galati--rediu-53-2025",
+"path": "local/galati/rediu/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rediu nr. 53/2025 Privind revocarea Hotararii de consiliu local nr 53 din 13.11.2025",
+"short": "HCL Rediu nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://www.primaria-rediu.ro/informatii-publice/hotarari-de-consiliu-local/hotarari-de-consiliu-local-pe-anul-2026/",
+"council": "galati/rediu",
+"council_name": "Consiliul Local al Comunei Rediu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

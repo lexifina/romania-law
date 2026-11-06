@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/goiesti/2021",
+ "acts": [
+  {
+   "slug": "hcl-dolj--goiesti-15-2021",
+   "path": "local/dolj/goiesti/2021/15",
+   "short": "HCL Goiești nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Goiești nr. 15/2021",
+   "url": "https://primariagoiesti.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://primariagoiesti.ro/wp-content/uploads/2021/07/HCL-nr-15-din-28.06.2021.pdf",
+     "sha256": "410059d23c1f31aaa3c11e1201d8dc99c12f0e98e92aaeb0c55c267ed9252639"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--goiesti-16-2021",
+   "path": "local/dolj/goiesti/2021/16",
+   "short": "HCL Goiești nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Goiești nr. 16/2021",
+   "url": "https://primariagoiesti.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://primariagoiesti.ro/wp-content/uploads/2021/07/HCL-nr-16-din-28.06.2021.pdf",
+     "sha256": "f71091e14884f04d2ad9c4f607acc8e9345a5fbc1e65798a99b3335642bf86e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--goiesti-17-2021",
+   "path": "local/dolj/goiesti/2021/17",
+   "short": "HCL Goiești nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Goiești nr. 17/2021",
+   "url": "https://primariagoiesti.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://primariagoiesti.ro/wp-content/uploads/2021/07/HCL-nr-17-din-28.06.2021.pdf",
+     "sha256": "9829af031dda16daaa7214213f0a973515c953b63fc27759e2df3b2772f452ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--goiesti-18-2021",
+   "path": "local/dolj/goiesti/2021/18",
+   "short": "HCL Goiești nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Goiești nr. 18/2021",
+   "url": "https://primariagoiesti.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://primariagoiesti.ro/wp-content/uploads/2021/07/HCL-nr-18-din-28.06.2021.pdf",
+     "sha256": "76e1d24dc8682b31d41459e351561916f86645f06ecf295e971f5444dfa2eb34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--goiesti-2-2021",
+   "path": "local/dolj/goiesti/2021/2",
+   "short": "HCL Goiești nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Goiești nr. 2/2021",
+   "url": "https://primariagoiesti.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2021-02-28",
+     "units": 1,
+     "source_url": "https://primariagoiesti.ro/wp-content/uploads/2021/07/HCL-nr.-2-din-28.02.2021.pdf",
+     "sha256": "8d97ac2f1caa80fc65a8461a711b9f74bf8b9a8e670f0df9dea67d0a8d0e98a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--goiesti-24-2021",
+   "path": "local/dolj/goiesti/2021/24",
+   "short": "HCL Goiești nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Goiești nr. 24/2021",
+   "url": "https://primariagoiesti.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://primariagoiesti.ro/wp-content/uploads/2021/09/HCL-nr.-24-din-31.08.2021.pdf",
+     "sha256": "97dc0bc8097e04e7e9c283b8055161be5a02a7a80d16f7f87d5d9fd104c8693a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--goiesti-25-2021",
+   "path": "local/dolj/goiesti/2021/25",
+   "short": "HCL Goiești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Goiești nr. 25/2021",
+   "url": "https://primariagoiesti.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://primariagoiesti.ro/wp-content/uploads/2021/09/HCL-nr.-25-din-31.08.2021.pdf",
+     "sha256": "9f21c8b1b765b0cafb41df9f7b71bee1285705be5daa93f1783a22798005a346"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--goiesti-26-2021",
+   "path": "local/dolj/goiesti/2021/26",
+   "short": "HCL Goiești nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Goiești nr. 26/2021",
+   "url": "https://primariagoiesti.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://primariagoiesti.ro/wp-content/uploads/2021/09/HCL-nr.-26-din-31.08.2021.pdf",
+     "sha256": "37a05fff0b4819345c54da89c8028fd256cfdb404b9316d52a91ee9dd5168f6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--goiesti-27-2021",
+   "path": "local/dolj/goiesti/2021/27",
+   "short": "HCL Goiești nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Goiești nr. 27/2021",
+   "url": "https://primariagoiesti.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://primariagoiesti.ro/wp-content/uploads/2021/09/HCL-nr.-27-din-31.08.2021.pdf",
+     "sha256": "e30939f9f129b7fa1cfa4d125f98683b721fb98c7ba5927f5c52b649374b19a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--goiesti-3-2021",
+   "path": "local/dolj/goiesti/2021/3",
+   "short": "HCL Goiești nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Goiești nr. 3/2021",
+   "url": "https://primariagoiesti.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2021-02-28",
+     "units": 1,
+     "source_url": "https://primariagoiesti.ro/wp-content/uploads/2021/07/HCL-nr.-3-din-28.02.2021.pdf",
+     "sha256": "58e7b6c36ab57aa27995af0b71e67365b00f42d204f9946f518f74dff532efb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--goiesti-4-2021",
+   "path": "local/dolj/goiesti/2021/4",
+   "short": "HCL Goiești nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Goiești nr. 4/2021",
+   "url": "https://primariagoiesti.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2021-02-28",
+     "units": 1,
+     "source_url": "https://primariagoiesti.ro/wp-content/uploads/2021/07/HCL-nr.-4-din-28.02.2021.pdf",
+     "sha256": "cb2aa8dcf63630c04dae0a03cadaa4cefbe94bfa06ae552d14e23a2426165e7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--goiesti-5-2021",
+   "path": "local/dolj/goiesti/2021/5",
+   "short": "HCL Goiești nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Goiești nr. 5/2021",
+   "url": "https://primariagoiesti.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2021-02-28",
+     "units": 1,
+     "source_url": "https://primariagoiesti.ro/wp-content/uploads/2021/07/HCL-nr.-5-din-28.02.2021.pdf",
+     "sha256": "ef82953b4c66855179f03dd589b4f1d43e095679666dd8d94a1075f5c5dc7b86"
+    }
+   ]
+  }
+ ]
+}

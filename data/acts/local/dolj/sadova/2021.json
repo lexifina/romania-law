@@ -3,6 +3,94 @@
 "shard": "local/dolj/sadova/2021",
 "acts": [
 {
+"slug": "hcl-dolj--sadova-89-2021",
+"path": "local/dolj/sadova/2021/89",
+"kind": "local",
+"year": "2021",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 89/2021 privind desemnarea unui reprezentant care să facă parte din Comisia de evaluare a probei de interviu la concursul de Director/Director adjunct în cadrul Școlii Gimnaziale Sadova",
+"short": "HCL Sadova nr. 89/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-03",
+"latest": "2021-11-03",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46828",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-90-2021",
+"path": "local/dolj/sadova/2021/90",
+"kind": "local",
+"year": "2021",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 90/2021 privind aprobarea cererii de finanțare și a devizului general estimativ pentru depunerea la Ministerul Dezvoltării, Lucrărilor Publice și Administrație a proiectului privind obiectivul ”Modernizare drumuri de interes local în comuna Sadova, județul Dolj”",
+"short": "HCL Sadova nr. 90/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-03",
+"latest": "2021-11-03",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46829",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-91-2021",
+"path": "local/dolj/sadova/2021/91",
+"kind": "local",
+"year": "2021",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 91/2021 privind aprobarea cererii de finanțare și a devizului general estimativ pentru depunerea la Ministerul Dezvoltării, Lucrărilor Publice și Administrație a proiectului privind obiectivul ”SISTEM DE ALIMENTARE CU APĂ ȘI ÎNFIINȚARE SISTEM DE CANALIZARE MENAJERĂ ÎN COMUNA SADOVA, JUDEȚUL DOLJ”",
+"short": "HCL Sadova nr. 91/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-03",
+"latest": "2021-11-03",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46830",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-92-2021",
+"path": "local/dolj/sadova/2021/92",
+"kind": "local",
+"year": "2021",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 92/2021 privind modificare art.1 la HCL Sadova nr.81/2021",
+"short": "HCL Sadova nr. 92/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-19",
+"latest": "2021-11-19",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46844",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--sadova-93-2021",
 "path": "local/dolj/sadova/2021/93",
 "kind": "local",
@@ -22,6 +110,94 @@
 "council_name": "Consiliul Local al Comunei Sadova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--sadova-94-2021",
+"path": "local/dolj/sadova/2021/94",
+"kind": "local",
+"year": "2021",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 94/2021 privind aprobare rectificare BVC al Comunei Sadova pe trim.IV 2021 cu suma de 60 mii lei",
+"short": "HCL Sadova nr. 94/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-19",
+"latest": "2021-11-19",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46846",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-95-2021",
+"path": "local/dolj/sadova/2021/95",
+"kind": "local",
+"year": "2021",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 95/2021 privind aprobare proiect rețea școlară a unităților de învățământ preuniversitar pentru anul școlar 2022-2023, de pe raza comunei Sadova-Dolj",
+"short": "HCL Sadova nr. 95/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46859",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-96-2021",
+"path": "local/dolj/sadova/2021/96",
+"kind": "local",
+"year": "2021",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 96/2021 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor de panificație, laptelui și produselor lactate și fructelor sau legumelor, precum și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative aferente Programului pentru școli al României, de către consiliile locale ale municipiilor, orașelor sau comunelor",
+"short": "HCL Sadova nr. 96/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46860",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-97-2021",
+"path": "local/dolj/sadova/2021/97",
+"kind": "local",
+"year": "2021",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 97/2021 privind aprobare modificare PAAP 2021 privind completare cu servicii de inventariere a patrimoniului și aprobare încheiere contract de prestări servicii având ca obiect inventarierea patrimoniului comunei Sadova",
+"short": "HCL Sadova nr. 97/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46861",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +223,28 @@
 }
 },
 {
+"slug": "hcl-dolj--sadova-99-2021",
+"path": "local/dolj/sadova/2021/99",
+"kind": "local",
+"year": "2021",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 99/2021 privind rectificare BVC al comunei Sadova pe trim IV anul 2021 pentru aprobarea sumelor necesare plății ajutoarelor de încălzire",
+"short": "HCL Sadova nr. 99/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46865",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--sadova-100-2021",
 "path": "local/dolj/sadova/2021/100",
 "kind": "local",
@@ -69,6 +267,51 @@
 }
 },
 {
+"slug": "hcl-dolj--sadova-101-2021",
+"path": "local/dolj/sadova/2021/101",
+"kind": "local",
+"year": "2021",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 101/2021 privind aprobare suplimentare PAAP 2021 cu echipamentele necesare SVSU Sadova și închiriere contract de furnizare în vederea achiziționării echipamentelor SVSU",
+"short": "HCL Sadova nr. 101/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46867",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-102-2021",
+"path": "local/dolj/sadova/2021/102",
+"kind": "local",
+"year": "2021",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 102/2021",
+"short": "HCL Sadova nr. 102/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46868",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dolj--sadova-103-2021",
 "path": "local/dolj/sadova/2021/103",
 "kind": "local",
@@ -88,6 +331,116 @@
 "council_name": "Consiliul Local al Comunei Sadova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--sadova-104-2021",
+"path": "local/dolj/sadova/2021/104",
+"kind": "local",
+"year": "2021",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 104/2021 privind aprobare rectificare BVC al Comunei Sadova pe trim.IV 2021 cu suma de 233 mii lei",
+"short": "HCL Sadova nr. 104/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46870",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-105-2021",
+"path": "local/dolj/sadova/2021/105",
+"kind": "local",
+"year": "2021",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 105/2021 privind aprobarea stabilirii taxelor și impozitelor locale precum și limitele amenzilor care se fac venit la bugetul local aplicabile în anul fiscal 2022, la nivelul com.Sadova",
+"short": "HCL Sadova nr. 105/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46871",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-106-2021",
+"path": "local/dolj/sadova/2021/106",
+"kind": "local",
+"year": "2021",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 106/2021 privind aprobarea încheierii contractului de furnizare pentru achiziția unui container grup sanitar",
+"short": "HCL Sadova nr. 106/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46872",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-107-2021",
+"path": "local/dolj/sadova/2021/107",
+"kind": "local",
+"year": "2021",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 107/2021 privind aprobare rectificare BVC pe anul 2021 trim IV cu suma de 74 mii lei",
+"short": "HCL Sadova nr. 107/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46873",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-108-2021",
+"path": "local/dolj/sadova/2021/108",
+"kind": "local",
+"year": "2021",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 108/2021 privind aprobare BVC pe anul 2021 trim IV cu suma de 240 mii lei",
+"short": "HCL Sadova nr. 108/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-23",
+"latest": "2021-12-23",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46874",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -3,6 +3,21 @@
  "shard": "local/dolj/ostroveni/2024",
  "acts": [
   {
+   "slug": "hcl-dolj--ostroveni-46-2024",
+   "path": "local/dolj/ostroveni/2024/46",
+   "short": "HCL Ostroveni nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 46/2024 privind constatarea validarii mandatului supleantului ce va ocupa postul de consilier local al Consiliului Local Ostroveni declarat vacant pe lista PSD",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/174519",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/174519",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--ostroveni-47-2024",
    "path": "local/dolj/ostroveni/2024/47",
    "short": "HCL Ostroveni nr. 47/2024",
@@ -13,6 +28,21 @@
      "from": "2024-11-12",
      "units": 1,
      "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/174520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-48-2024",
+   "path": "local/dolj/ostroveni/2024/48",
+   "short": "HCL Ostroveni nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 48/2024 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/174521",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/174521",
      "sha256": null
     }
    ]
@@ -108,6 +138,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--ostroveni-55-2024",
+   "path": "local/dolj/ostroveni/2024/55",
+   "short": "HCL Ostroveni nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 55/2024 privind desemnarea a doi reprezentanti ai Consiliului Local Ostroveni in Consiliul de Administratie al Scolii Gimnaziale Ostroveni pentru anul scolar 2024-2025",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/179491",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/179491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-56-2024",
+   "path": "local/dolj/ostroveni/2024/56",
+   "short": "HCL Ostroveni nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 56/2024 privind desemnarea unui reprezentant al Consiliului Local Ostroveni in Comisia de Evaluare si Asigurare a Calitatii a Scolii Gimnaziale Ostroveni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/179492",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/179492",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--ostroveni-57-2024",
    "path": "local/dolj/ostroveni/2024/57",
    "short": "HCL Ostroveni nr. 57/2024",
@@ -178,6 +238,66 @@
      "from": "2025-02-12",
      "units": 1,
      "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/184249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-62-2024",
+   "path": "local/dolj/ostroveni/2024/62",
+   "short": "HCL Ostroveni nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 62/2024 privind aprobarea Regulamentului de organizare si functionare al Compartimentului de Protectie sociala din aparatul de specialitate al primarului comunei Ostroveni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/184250",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/184250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-63-2024",
+   "path": "local/dolj/ostroveni/2024/63",
+   "short": "HCL Ostroveni nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 63/2024 privind aprobarea Strategiei de dezvoltare a serviciilor sociale a comunei Ostroveni,judetul Dolj pentru perioada 2024-2029",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/184251",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/184251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-64-2024",
+   "path": "local/dolj/ostroveni/2024/64",
+   "short": "HCL Ostroveni nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 64/2024 privind aprobarea Planului de dezvoltare a serviciilor sociale al comunei Ostroveni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/184252",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/184252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-65-2024",
+   "path": "local/dolj/ostroveni/2024/65",
+   "short": "HCL Ostroveni nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 65/2024",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/184253",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/184253",
      "sha256": null
     }
    ]

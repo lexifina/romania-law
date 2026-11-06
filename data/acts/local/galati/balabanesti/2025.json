@@ -3,6 +3,28 @@
 "shard": "local/galati/balabanesti/2025",
 "acts": [
 {
+"slug": "hcl-galati--balabanesti-70-2025",
+"path": "local/galati/balabanesti/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 70/2025 privind aprobarea decontării cheltuielilor de transport pe lunile iulie și august a anului 2025, personalului din școlile de pe raza comunei Bălăbănești care nu dispun de locuință în unitatea administrativ teritorială Bălăbănești, unde au postul",
+"short": "HCL Bălăbănești nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-14",
+"latest": "2025-10-14",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/229780",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--balabanesti-71-2025",
 "path": "local/galati/balabanesti/2025/71",
 "kind": "local",
@@ -47,6 +69,182 @@
 }
 },
 {
+"slug": "hcl-galati--balabanesti-73-2025",
+"path": "local/galati/balabanesti/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 73/2025 privind rectificarea bugetului local pe anul 2025",
+"short": "HCL Bălăbănești nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/234522",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--balabanesti-74-2025",
+"path": "local/galati/balabanesti/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 74/2025 privind modificarea Hotărârii Consiliului Local al comunei Bălăbănești, județul Galați, nr. 113 din 26.10.2023 privind aprobarea proiectului și a acordului de perteneriat pentru realizarea obiectivului de investiții ”Reabilitarea și modernizarea infrastructurii de transport regional pe tronsonul funcțional de interes județean DN 24D-DJ 251B-DJ 251A-DJ 251H-DJ 251-DJ 255A-DN25",
+"short": "HCL Bălăbănești nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/241562",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--balabanesti-75-2025",
+"path": "local/galati/balabanesti/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 75/2025 privind aprobarea actualizării indicatorilor tehnico-economici rezultați din documentația ”Studiu de fezabilitate pentru obiectivul acțiunile compensatorii de împădurire aferente obiectivului ”Reabilitarea ți modernizarea infrastructurii de transport regional pe traseul DN 24D DJ 251B DJ 251A DJ 251H DJ 251 DJ 255A DN25”",
+"short": "HCL Bălăbănești nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/241563",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--balabanesti-76-2025",
+"path": "local/galati/balabanesti/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 76/2025 privind aprobarea actualizării devizului general faza PTE ( proiect tehnic de execuție) pentru realizarea obiectivului de investiții ”Reabilitarea și modernizarea infrastructurii de transport regional pe tronsonul funcțional de interes județean DN 24D DJ 251B DJ 251A DJ 251H DJ 251 DJ 255A DN25”",
+"short": "HCL Bălăbănești nr. 76/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/241564",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--balabanesti-77-2025",
+"path": "local/galati/balabanesti/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 77/2025 privind alegerea președintelui de ședință al Consiliului Local al comunei Bălăbănești, județul Galați",
+"short": "HCL Bălăbănești nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/241565",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--balabanesti-78-2025",
+"path": "local/galati/balabanesti/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 78/2025 privind realizarea a unor lucrări de aducere la conformitate, modernizare, reabilitare, lărgire și înunătățire a drumurilor existente și acordarea cu titlu gratuit a drepturilor de uz ți servitute asupra unor terenuri aparținând comunei Bălăbănești, județul Galați. către SC HOOPEKS INTERNATIONAL SRL",
+"short": "HCL Bălăbănești nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/241566",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--balabanesti-79-2025",
+"path": "local/galati/balabanesti/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 79/2025 privind îndreptarea erorii materiale survenită în cuprinsul Hotărârii Consiliului Local al comunei Bălăbănești. județul Galați nr. 15 din 21.03.2025 privind aprobarea bugetului local pe anul 2025",
+"short": "HCL Bălăbănești nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/242008",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--balabanesti-80-2025",
+"path": "local/galati/balabanesti/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 80/2025 privind rectificarea bugetului local pe anul 2025",
+"short": "HCL Bălăbănești nr. 80/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/242010",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--balabanesti-81-2025",
 "path": "local/galati/balabanesti/2025/81",
 "kind": "local",
@@ -66,6 +264,161 @@
 "council_name": "Consiliul Local al Comunei Bălăbănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--balabanesti-82-2025",
+"path": "local/galati/balabanesti/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 82/2025 privind aprobarea plății din bugetul local al UAT Bălăbănești, județul Galați, a cotizației anuale ca membru fondator al Asociației de Management al Destinației Turistice Covurlui",
+"short": "HCL Bălăbănești nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/242015",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--balabanesti-83-2025",
+"path": "local/galati/balabanesti/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 83/2025 privind aprobarea decontării cheltuielilor de transport pe lunile septembrie și octombrie a anului 2025, personalului din școlile de pe raza comunei Bălăbănești care nu dispun de locuință în unitatea administrativ teritorială Bălăbănești, unde au postul",
+"short": "HCL Bălăbănești nr. 83/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/242017",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--balabanesti-84-2025",
+"path": "local/galati/balabanesti/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 84/2025 privind aprobarea achiziționării de cadouri cu ocazia sărbătorilor de iarnă pentru preșcolarii și elevii de la școlile de pe raza comunei Bălăbănești, județul Galați",
+"short": "HCL Bălăbănești nr. 84/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/242018",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--balabanesti-85-2025",
+"path": "local/galati/balabanesti/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 85/2025 privind aprobarea depunerii proiectului ”Dezvoltarea OMD Covurlui prin dezvoltarea turismului în comuna Bălăbănești”",
+"short": "HCL Bălăbănești nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/242020",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--balabanesti-86-2025",
+"path": "local/galati/balabanesti/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 86/2025",
+"short": "HCL Bălăbănești nr. 86/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/242188",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--balabanesti-87-2025",
+"path": "local/galati/balabanesti/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 87/2025 privind rectificarea bugetului local pe anul 2025",
+"short": "HCL Bălăbănești nr. 87/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/242189",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--balabanesti-88-2025",
+"path": "local/galati/balabanesti/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 88/2025 privind alegerea președintelui de ședință al Consiliului local al comunei Bălăbănești, județul Galați",
+"short": "HCL Bălăbănești nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/balabanesti-gl/registru-hcl/242190",
+"council": "galati/balabanesti",
+"council_name": "Consiliul Local al Comunei Bălăbănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

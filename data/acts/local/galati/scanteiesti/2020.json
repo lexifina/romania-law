@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-galati--scanteiesti-47-2020",
+"path": "local/galati/scanteiesti/2020/47",
+"kind": "local",
+"year": "2020",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 47/2020 privind alegerea preşedintelui de şedinţă pentru sedinta din data de 29.10.2020",
+"short": "HCL Scânteiești nr. 47/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-29",
+"latest": "2020-10-29",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/16065",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--scanteiesti-48-2020",
 "path": "local/galati/scanteiesti/2020/48",
 "kind": "local",
@@ -91,6 +113,94 @@
 }
 },
 {
+"slug": "hcl-galati--scanteiesti-51-2020",
+"path": "local/galati/scanteiesti/2020/51",
+"kind": "local",
+"year": "2020",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 51/2020 privind alegerea preşedintelui de şedinţă pentru lunile noiembrie-decembrie 2020 şi ianuarie 2021",
+"short": "HCL Scânteiești nr. 51/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-09",
+"latest": "2020-11-09",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/16083",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-52-2020",
+"path": "local/galati/scanteiesti/2020/52",
+"kind": "local",
+"year": "2020",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 52/2020 privind alegerea viceprimarului Comunei Scânteieşti",
+"short": "HCL Scânteiești nr. 52/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-09",
+"latest": "2020-11-09",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/16084",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-53-2020",
+"path": "local/galati/scanteiesti/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 53/2020 privind organizarea comisiilor de specialitate ale Consiliului local al Comunei Scânteieşti",
+"short": "HCL Scânteiești nr. 53/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-09",
+"latest": "2020-11-09",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/16085",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-54-2020",
+"path": "local/galati/scanteiesti/2020/54",
+"kind": "local",
+"year": "2020",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 54/2020 privind aprobarea acordării unui sprijin financiar Parohiei Scânteieşti, judeţul Galaţi",
+"short": "HCL Scânteiești nr. 54/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-25",
+"latest": "2020-11-25",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/16093",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--scanteiesti-55-2020",
 "path": "local/galati/scanteiesti/2020/55",
 "kind": "local",
@@ -154,6 +264,28 @@
 "council_name": "Consiliul Local al Comunei Scânteiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-58-2020",
+"path": "local/galati/scanteiesti/2020/58",
+"kind": "local",
+"year": "2020",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 58/2020 privind modificarea HCL nr. 36/11.08.2020 privind aprobarea vânzării prin licitaţie publică deschisă cu strigare a materialelor reziduale rezultate din acţiunea de demolare a Şcolii cu clasele I-VIII din localitatea Fântânele, comuna Scânteieşti, judeţul Galaţi",
+"short": "HCL Scânteiești nr. 58/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-25",
+"latest": "2020-11-25",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/16097",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -242,6 +374,28 @@
 "council_name": "Consiliul Local al Comunei Scânteiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-63-2020",
+"path": "local/galati/scanteiesti/2020/63",
+"kind": "local",
+"year": "2020",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 63/2020 privind constituirea comisiei de analiză a solicitărilor de locuinţe din fondul locativ aflate în administrarea Comunei Scânteieşti",
+"short": "HCL Scânteiești nr. 63/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/16102",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

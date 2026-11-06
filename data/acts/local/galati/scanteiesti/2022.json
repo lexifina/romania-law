@@ -25,6 +25,50 @@
 }
 },
 {
+"slug": "hcl-galati--scanteiesti-66-2022",
+"path": "local/galati/scanteiesti/2022/66",
+"kind": "local",
+"year": "2022",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 66/2022 privind aprobarea închirierii prin licitație publică a construcțiilor grajduri și terenul aferent precum și a terenului aferent grajduri - zona Basarab Severin, precum și a documentație de licitație",
+"short": "HCL Scânteiești nr. 66/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-04",
+"latest": "2023-12-04",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/131732",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-67-2022",
+"path": "local/galati/scanteiesti/2022/67",
+"kind": "local",
+"year": "2022",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 67/2022 privind alegerea președintelui de ședință pentru lunile noiembrie-decembrie 2022 și ianuarie 2023",
+"short": "HCL Scânteiești nr. 67/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-04",
+"latest": "2023-12-04",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/131733",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--scanteiesti-68-2022",
 "path": "local/galati/scanteiesti/2022/68",
 "kind": "local",
@@ -47,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-galati--scanteiesti-69-2022",
+"path": "local/galati/scanteiesti/2022/69",
+"kind": "local",
+"year": "2022",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 69/2022 privind aprobarea devizului general actualizat pentru proiectul „Amenajare zonă de recreere în comuna Scânteiești, județul Galați”",
+"short": "HCL Scânteiești nr. 69/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-04",
+"latest": "2023-12-04",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/131735",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--scanteiesti-70-2022",
 "path": "local/galati/scanteiesti/2022/70",
 "kind": "local",
@@ -66,6 +132,50 @@
 "council_name": "Consiliul Local al Comunei Scânteiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-71-2022",
+"path": "local/galati/scanteiesti/2022/71",
+"kind": "local",
+"year": "2022",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 71/2022 privind indexarea impozitelor și taxelor locale, precum și a taxelor speciale pe anul 2023",
+"short": "HCL Scânteiești nr. 71/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-04",
+"latest": "2023-12-04",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/131737",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-72-2022",
+"path": "local/galati/scanteiesti/2022/72",
+"kind": "local",
+"year": "2022",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 72/2022 privind actualizarea devizului general în urma elaborării Dispoziției de șantier nr.2 pentru investiția „Extindere și modernizare rețea apă în comuna Scânteiești, județul Galați”",
+"short": "HCL Scânteiești nr. 72/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-04",
+"latest": "2023-12-04",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/131738",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -154,6 +264,28 @@
 "council_name": "Consiliul Local al Comunei Scânteiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-77-2022",
+"path": "local/galati/scanteiesti/2022/77",
+"kind": "local",
+"year": "2022",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 77/2022 privind alegerea președintelui de ședință pentru ședința din data de 15.12.2022",
+"short": "HCL Scânteiești nr. 77/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-04",
+"latest": "2023-12-04",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/131745",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

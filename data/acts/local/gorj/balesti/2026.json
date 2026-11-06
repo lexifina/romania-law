@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/gorj/balesti/2026",
+"acts": [
+{
+"slug": "hcl-gorj--balesti-88-2026",
+"path": "local/gorj/balesti/2026/88",
+"kind": "local",
+"year": "2026",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 88/2026 privind rectificarea bugetului local al Comunei Bălești pe anul 2026 Consiliul Local al Comunei Bălești, județul Gorj, întrunit în ședința ordinara din data de 25.09.2026",
+"short": "HCL Bălești nr. 88/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://balesti.ro/hotararile-autoritatii-deliberative/",
+"council": "gorj/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}
