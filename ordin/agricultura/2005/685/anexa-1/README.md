@@ -1,4 +1,4 @@
-# Anexa nr. 1: LISTĂ CU GRADATORI AUTORIZAȚI Nr. crt. Nume Prenume CNP 1 Alecu Manda 2570309100046 2 Andreescu Mihaela-Iuliana 2580527163273 3 Andrei Magdalena Camelia 2670827163213 4 Anghel Ionuț 1820609090036 5 An
+# Anexa nr. 1: LISTĂ CU GRADATORI AUTORIZAȚI Nr. crt. Nume Prenume CNP 1 Alecu Manda [CNP omis] 2 Andreescu Mihaela-Iuliana [CNP omis] 3 Andrei Magdalena Camelia [CNP omis] 4 Anghel Ionuț [CNP omis] 5 An
 
 Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
 
