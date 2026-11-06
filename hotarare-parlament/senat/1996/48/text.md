@@ -1,0 +1,4 @@
+ HOTĂRÎRE Nr. 48 din 19 decembrie 1996  privind eliberarea domnului Constantin Sava din funcţia de secretar general al Senatului     EMITENT     SENATUL       Publicat în
+			  MONITORUL OFICIAL NR. 348 din 24 decembrie 1996     În temeiul art. 156 din Regulamentul Senatului,  Senatul adoptă prezenta hotărâre.
+				 +
+			  Articolul UNIC     Domnul Constantin Sava se eliberează din funcţia de secretar general al Senatului ca urmare a alegerii sale în Biroul permanent, în calitate de chestor, calitate incompatibilă cu funcţia de secretar general, potrivit prevederilor art. 28 din Regulamentul Senatului şi ale art. 33 alin. (2) din Legea nr. 72/1996 privind finanţele publice.  Aceasta hotărâre a fost adoptată în şedinţa Senatului din 19 decembrie 1996, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României.  PREŞEDINTELE SENATULUI  PETRE ROMAN  ---------------
