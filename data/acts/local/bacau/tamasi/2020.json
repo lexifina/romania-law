@@ -48,6 +48,28 @@
 }
 },
 {
+"slug": "hcl-bacau--tamasi-82-2020",
+"path": "local/bacau/tamasi/2020/82",
+"kind": "local",
+"year": "2020",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tamași nr. 82/2020 privind aprobarea caietului de sarcini pentru vânzarea prin licitație publică deschisă autobasculanta marca Iveco",
+"short": "HCL Tamași nr. 82/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-10",
+"latest": "2020-11-10",
+"portal": "https://emol.ro/tamasi-bc/registru-hcl/11817",
+"council": "bacau/tamasi",
+"council_name": "Consiliul Local al Comunei Tamași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--tamasi-83-2020",
 "path": "local/bacau/tamasi/2020/83",
 "kind": "local",
@@ -92,6 +114,50 @@
 }
 },
 {
+"slug": "hcl-bacau--tamasi-85-2020",
+"path": "local/bacau/tamasi/2020/85",
+"kind": "local",
+"year": "2020",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tamași nr. 85/2020 privind acordarea Diplomei de onoare și premiu în bani cuplurilor care au împlinit 50 de ani de căsătorie în anul 2020",
+"short": "HCL Tamași nr. 85/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-10",
+"latest": "2020-11-10",
+"portal": "https://emol.ro/tamasi-bc/registru-hcl/11820",
+"council": "bacau/tamasi",
+"council_name": "Consiliul Local al Comunei Tamași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--tamasi-86-2020",
+"path": "local/bacau/tamasi/2020/86",
+"kind": "local",
+"year": "2020",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tamași nr. 86/2020 privind premierea unui sportiv de înaltă performanță pentru performanțele deosebite obținute în anul 2020",
+"short": "HCL Tamași nr. 86/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-10",
+"latest": "2020-11-10",
+"portal": "https://emol.ro/tamasi-bc/registru-hcl/11821",
+"council": "bacau/tamasi",
+"council_name": "Consiliul Local al Comunei Tamași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--tamasi-87-2020",
 "path": "local/bacau/tamasi/2020/87",
 "kind": "local",
@@ -111,6 +177,28 @@
 "council_name": "Consiliul Local al Comunei Tamași",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--tamasi-88-2020",
+"path": "local/bacau/tamasi/2020/88",
+"kind": "local",
+"year": "2020",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tamași nr. 88/2020 privind privind aprobare decontarii contravalorii transportului cadrelor didactice",
+"short": "HCL Tamași nr. 88/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-10",
+"latest": "2020-11-10",
+"portal": "https://emol.ro/tamasi-bc/registru-hcl/11823",
+"council": "bacau/tamasi",
+"council_name": "Consiliul Local al Comunei Tamași",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -177,6 +265,28 @@
 "council_name": "Consiliul Local al Comunei Tamași",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--tamasi-92-2020",
+"path": "local/bacau/tamasi/2020/92",
+"kind": "local",
+"year": "2020",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tamași nr. 92/2020 privind desemnarea reprezentanţilor Consiliului Local al Comunei Tamaşi în Consiliul de administraţie al Şcolii Gimnaziale Chetriş, Comuna Tamaşi, Judeţul Bacău pentru anul scolar 2020-2021",
+"short": "HCL Tamași nr. 92/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/tamasi-bc/registru-hcl/12047",
+"council": "bacau/tamasi",
+"council_name": "Consiliul Local al Comunei Tamași",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

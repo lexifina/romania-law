@@ -3,6 +3,111 @@
  "shard": "local/bacau/ungureni/2023",
  "acts": [
   {
+   "slug": "hcl-bacau--ungureni-57-2023",
+   "path": "local/bacau/ungureni/2023/57",
+   "short": "HCL Ungureni nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 57/2023",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/124191",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/124191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-58-2023",
+   "path": "local/bacau/ungureni/2023/58",
+   "short": "HCL Ungureni nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 58/2023 privind aprobarea organizării evenimentului ”Inaugurare Cămin Cultural Bibirești”, cu finanțare de la bugetul local",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/124192",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/124192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-59-2023",
+   "path": "local/bacau/ungureni/2023/59",
+   "short": "HCL Ungureni nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 59/2023 privind implementarea proiectului „Dotarea cu utilaje si echipamente necesare a Serviciului Voluntar pentru Situații de Urgență (S.V.S.U.) în comuna Ungureni, județul Bacău",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/124193",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/124193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-60-2023",
+   "path": "local/bacau/ungureni/2023/60",
+   "short": "HCL Ungureni nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 60/2023 privind aprobarea rectificării nr. 5 a bugetului de venituri și cheltuieli pentru anul 2023",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/126985",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/126985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-61-2023",
+   "path": "local/bacau/ungureni/2023/61",
+   "short": "HCL Ungureni nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 61/2023 privind aprobarea concesionării directe a spațiului cu destinația de cabinet medical pentru medicină de familie",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/126986",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/126986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-62-2023",
+   "path": "local/bacau/ungureni/2023/62",
+   "short": "HCL Ungureni nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 62/2023 privind desemnarea membrilor în cadrul Consiliului de Administrație al Școlii Gimnaziale Ungureni, pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/126987",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/126987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-63-2023",
+   "path": "local/bacau/ungureni/2023/63",
+   "short": "HCL Ungureni nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 63/2023 privind aprobarea atribuirii în folosință gratuită conform Legii nr.15/2003 a suprafeței de până la 500 m2 de teren în vederea construirii unei locuințe proprietate personală pentru 2 (doi) beneficiari",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/126988",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/126988",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--ungureni-64-2023",
    "path": "local/bacau/ungureni/2023/64",
    "short": "HCL Ungureni nr. 64/2023",
@@ -28,6 +133,21 @@
      "from": "2023-10-31",
      "units": 1,
      "source_url": "https://emol.ro/ungureni-bc/registru-hcl/126990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-66-2023",
+   "path": "local/bacau/ungureni/2023/66",
+   "short": "HCL Ungureni nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 66/2023 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Ungureni, județul Bacău",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/130528",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/130528",
      "sha256": null
     }
    ]
@@ -78,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--ungureni-70-2023",
+   "path": "local/bacau/ungureni/2023/70",
+   "short": "HCL Ungureni nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 70/2023 privind aprobarea atribuirii în folosință gratuită conform Legii nr.15/2003 a suprafeței de până la 500 m2 de teren în vederea construirii unei locuințe proprietate personală pentru 1 (un) beneficiar",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/134586",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/134586",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--ungureni-71-2023",
    "path": "local/bacau/ungureni/2023/71",
    "short": "HCL Ungureni nr. 71/2023",
@@ -103,6 +238,21 @@
      "from": "2023-12-19",
      "units": 1,
      "source_url": "https://emol.ro/ungureni-bc/registru-hcl/134588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-73-2023",
+   "path": "local/bacau/ungureni/2023/73",
+   "short": "HCL Ungureni nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 73/2023 privind stabilirea indemnizațiilor demnitarilor și salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Ungureni, judeţul Bacău, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/134589",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/134589",
      "sha256": null
     }
    ]

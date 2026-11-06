@@ -3,6 +3,306 @@
  "shard": "local/bacau/racova/2026",
  "acts": [
   {
+   "slug": "hcl-bacau--racova-1-2026",
+   "path": "local/bacau/racova/2026/1",
+   "short": "HCL Racova nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 1/2026 privind stabilirea mandatului special al reprezentantului legal al Comuna Racova pentru ședința Adunării Generale Ordinare a Acționarilor S.C",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/01/HCL-1-din-27.01.2026-Mandat-AGA-CRAB-din-29.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/01/HCL-1-din-27.01.2026-Mandat-AGA-CRAB-din-29.01.2026.pdf",
+     "sha256": "a7861e882dce6cfd50aed5a763351e6c60659b9ce95aaac60ea56e0eb4be5d61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-10-2026",
+   "path": "local/bacau/racova/2026/10",
+   "short": "HCL Racova nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 10/2026 privind desemnarea consilierilor locali din cadrul Consiliului local Racova, care vor face parte din Comisia de evaluare a performanțelor profesionale individuale ale Secretarului General al Comunei Racova Consiliul Local al Comunei Racova întrunit în ședință ordinară în luna februarie 2026; Având în vedere prevederile art. 9 pct.3 din Carta europeană a autonomiei locale, adoptată la Strasbourg la",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/02/HCL-10-din-2026-Desemnarea-consilierilor-locali-in-Comisia-de-evaluare-a-performantelor-profesionale.pdf",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/02/HCL-10-din-2026-Desemnarea-consilierilor-locali-in-Comisia-de-evaluare-a-performantelor-profesionale.pdf",
+     "sha256": "3d326a8278fc7a8540f582035be9020abb633041afbee0112ede34b3af44462a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-12-2026",
+   "path": "local/bacau/racova/2026/12",
+   "short": "HCL Racova nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 12/2026 privind modificarea si completarea Hotărârii Consiliului Local nr. 60 din 27.11.2025 privind implementarea proiectului de investiții „Îmbunătățirea serviciilor locale de bază prin achiziția de utilaje, în Comuna Racova, județul Bacău” derulat prin Planul Național Strategic 2023-2027, măsura I1 - „Îmbunătățirea serviciilor și a infrastructurii publice”, Sesiunea nr. 1, an 2025 Consiliul Local al Co",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/03/HCL-12-din-11.03.2026-Modificare-si-completare-HCL-60-pe-2025.pdf",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/03/HCL-12-din-11.03.2026-Modificare-si-completare-HCL-60-pe-2025.pdf",
+     "sha256": "537eac630159a38bfc1efa5226e8f653079fdb2ccfaced7afdc6fdda4c0ec70b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-13-2026",
+   "path": "local/bacau/racova/2026/13",
+   "short": "HCL Racova nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 13/2026 pentru 06 aprilie 2026",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/03/HCL-13-din-30.03.2026-Mandat-AGA-ADIS-pentru-06-aprilie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/03/HCL-13-din-30.03.2026-Mandat-AGA-ADIS-pentru-06-aprilie-2026.pdf",
+     "sha256": "326216b4e2415bb5cbe57225eec7f3426303b5397555396fc5cfc28fe0505577"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-14-2026",
+   "path": "local/bacau/racova/2026/14",
+   "short": "HCL Racova nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 14/2026 privind aprobarea Nomenclatorului stradal al Comunei Racova și atribuirea numerelor administrative Consiliul Local al Comunei Racova întrunit în ședință ordinară în luna martie 2026; Având în vedere prevederile art. 9 pct.3 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985 și ratificată prin Legea nr. 199/1997; ale art. 121 alin. (1) și (2) din Constituția Români",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/03/HCL-14-din-30.03.2026-Nomenclator-stradal-si-numere-administrative.pdf",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/03/HCL-14-din-30.03.2026-Nomenclator-stradal-si-numere-administrative.pdf",
+     "sha256": "9925c5e699df1d8f35274062e0cdb00e708972838d835ea0e92b81c8ae601b79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-15-2026",
+   "path": "local/bacau/racova/2026/15",
+   "short": "HCL Racova nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 15/2026 privind aprobarea Programului de actiune comunitară destinată prevenirii și combaterii riscului de sărăcie și excluziune socială, pentru anul 2026 Consiliul Local al Comunei Racova întrunit în ședință ordinară în luna martie 2026; Având în vedere prevederile art. 9 pct.3 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985 și ratificată prin Legea nr. 199/1997; ale",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/03/HCL-15-din-30.03.2026-HCL-Program-actiune-comunitara.pdf",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/03/HCL-15-din-30.03.2026-HCL-Program-actiune-comunitara.pdf",
+     "sha256": "98e8a0fc95eaec7ad28007bd35073999d09023e19658db3a1d0c117f34388a4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-16-2026",
+   "path": "local/bacau/racova/2026/16",
+   "short": "HCL Racova nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 16/2026 privind clasificarea și delimitarea drumurilor de interes local, aparținând domeniului pubic al Comunei Racova Consiliul Local al Comunei Racova întrunit în ședință ordinară în luna martie 2026; Având în vedere prevederile art. 9 pct.3 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985 și ratificată prin Legea nr. 199/1997; ale art. 121 alin. (1) și (2) din Consti",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/03/HCL-16-din-30.03.2026-Clasificare-si-delimitare-drumuri.pdf",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/03/HCL-16-din-30.03.2026-Clasificare-si-delimitare-drumuri.pdf",
+     "sha256": "7374c382c127528be40d9c085fa196e13794e32a1e56e16cf93287d917205cf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-17-2026",
+   "path": "local/bacau/racova/2026/17",
+   "short": "HCL Racova nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 17/2026 privind însușirea unor documentații cadastrale de primă înscriere în cartea funciară, a imobilelor teren – categoria de folosință drumuri, aflate în inventarul domeniului public al Comunei Racova Consiliul Local al Comunei Racova întrunit în ședință ordinară în luna martie 2026; Având în vedere prevederile art. 9 pct.3 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/04/HCL-17-din-30.03.2026-Insusire-documentatii-cadastrale-drumuri.pdf.pdf",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/04/HCL-17-din-30.03.2026-Insusire-documentatii-cadastrale-drumuri.pdf.pdf",
+     "sha256": "94cbaa7184ef2673a9b5474456c64219826c8b54d00de6a0eef6f0cf130fa0ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-18-2026",
+   "path": "local/bacau/racova/2026/18",
+   "short": "HCL Racova nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 18/2026 privind modificarea și completarea HCL nr. 62/2025 privind implementarea proiectului de investiții „Îmbunătățirea serviciilor locale de bază prin achiziția de echipamente smart, în Comuna Racova, județul Bacău” derulat prin Planul Național Strategic 2023-2027, măsura I2 - „Îmbunătățirea servi- ciilor și a infrastructurii publice”, Sesiunea nr. 1, an 2025 Consiliul Local al Comunei Racova întrunit",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/03/HCL-18-din-30.03.2026-Modificare-si-completare-HCL-60-pe-2025-Echipamente-smart.pdf",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/03/HCL-18-din-30.03.2026-Modificare-si-completare-HCL-60-pe-2025-Echipamente-smart.pdf",
+     "sha256": "1b768bb01522a3bb94f25628666c0cf38878dda59517346261ccffd825e413c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-19-2026",
+   "path": "local/bacau/racova/2026/19",
+   "short": "HCL Racova nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 19/2026 privind reorganizarea aparatului de specialitate al Primarului Comunei Racova și aprobarea Organigramei și a Statului de funcții Consiliul Local al Comunei Racova întrunit în ședință extraordinară în data de 16 aprilie 2026; Având în vedere prevederile art. 9 pct.3 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985 și ratificată prin Legea nr. 199/1997; ale art. 1",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/04/HCL-19-din-16.04.2026-Reorganizare-modificare-organigrama-si-stat-de-functii.pdf",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/04/HCL-19-din-16.04.2026-Reorganizare-modificare-organigrama-si-stat-de-functii.pdf",
+     "sha256": "d53828365aa3e0cac97e4c74d2d67565f4e6c9daefba6b4cf1bb40717de4d366"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-2-2026",
+   "path": "local/bacau/racova/2026/2",
+   "short": "HCL Racova nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 2/2026 privind alegerea președintelui de ședință pentru perioada februarie - aprilie 2026 Consiliul Local al Comunei Racova întrunit în ședința ordinară din luna ianuarie 2026, Având în vedere prevederile art. 9 pct.3 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985 și ratificată prin Legea nr. 199/1997; ale art. 121 alin. (1) și (2) din Constituția României, republica",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/01/HCL-2-din-27.01.2026-Alegere-presedinte-de-sedinta-februarie-aprilie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/01/HCL-2-din-27.01.2026-Alegere-presedinte-de-sedinta-februarie-aprilie-2026.pdf",
+     "sha256": "0aaeb3aa0881c0b1dbe0605cd90e934daf428af564553082cc1c35640c843058"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-20-2026",
+   "path": "local/bacau/racova/2026/20",
+   "short": "HCL Racova nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 20/2026 privind alegerea președintelui de ședință pentru perioada mai - iulie 2026 Consiliul Local al Comunei Racova întrunit în ședința ordinară din luna aprilie 2026, Având în vedere prevederile art. 9 pct.3 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985 și ratificată prin Legea nr. 199/1997; ale art. 121 alin. (1) și (2) din Constituția României, republicată, aprob",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/05/HCL-20-din-2026-Presedinte-sedinta-Mai-Iulie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/05/HCL-20-din-2026-Presedinte-sedinta-Mai-Iulie-2026.pdf",
+     "sha256": "f17c4999101793fc22a4c2f0bf16889c692adf59b4365522fd4c57e67036b10a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-21-2026",
+   "path": "local/bacau/racova/2026/21",
+   "short": "HCL Racova nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 21/2026 privind schimbarea destinației unor imobile școală/grădiniță și terenul aferent, aflate în domeniul public al Comuna Racova, din spații pentru învățământ, în spații cu altă destinație Consiliul Local al Comunei Racova întrunit în ședință ordinară în luna aprilie 2026; Având în vedere prevederile art. 3, art. 4, art. 8 și art. 9 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/05/HCL-21-din-2026-Schimbare-destinatie-imobile-scoala-gradinita.pdf",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/05/HCL-21-din-2026-Schimbare-destinatie-imobile-scoala-gradinita.pdf",
+     "sha256": "278eee8bbb4f25b48b8250a0ebee2b630f7b1c58708f36ace07ee46778a274c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-22-2026",
+   "path": "local/bacau/racova/2026/22",
+   "short": "HCL Racova nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 22/2026 privind inițierea procedurii de scoatere definitivă din circuitul agricol a suprafeței de 183.442 mp pășune, CF 61909, aflată în domeniul privat al Comunei Racova Consiliul Local al Comunei Racova întrunit în ședință ordinară în luna aprilie 2026; Având în vedere prevederile: art. 9 pct.3 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985 și ratificată prin Legea",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/05/HCL-22-din-2026-Scoatere-circuit-agricol-183442-mp-teren-pasune.pdf",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/05/HCL-22-din-2026-Scoatere-circuit-agricol-183442-mp-teren-pasune.pdf",
+     "sha256": "35a31c4533fc18172ea654e171c937ed2fd9945548045e01171c6c1bf80849a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-23-2026",
+   "path": "local/bacau/racova/2026/23",
+   "short": "HCL Racova nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 23/2026 privind aprobarea bugetului de venituri și cheltuieli al UAT Racova, județul Bacău pe anul 2026 și estimările pe anii 2027 - 2029 Consiliul Local al Comunei Racova întrunit în ședința extraordinară din 11 mai 2026, Având în vedere prevederile: art. 9 pct.3 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985 și ratificată prin Legea nr. 199/1997; ale art. 121 alin",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/05/HCL-23-din-2026-Aprobare-buget-Comuna-Racova-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/05/HCL-23-din-2026-Aprobare-buget-Comuna-Racova-2026.pdf",
+     "sha256": "75bb79e291335975f93d3a6c97d99760e9109f09aa43726b6809e47837bfcefe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-24-2026",
+   "path": "local/bacau/racova/2026/24",
+   "short": "HCL Racova nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 24/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ac07f040c426d0132c24bca945ed03baeca8e49342a8622db5acfcdf4833c78d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-25-2026",
+   "path": "local/bacau/racova/2026/25",
+   "short": "HCL Racova nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 25/2026 privind stabilirea mandatului special al reprezentantului legal al Comuna Racova pentru ședința Adunării Generale Ordinare a Acționarilor S.C",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/05/HCL-25-din-2026-Mandat-AGA-CRAB-din-14.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/05/HCL-25-din-2026-Mandat-AGA-CRAB-din-14.05.2026.pdf",
+     "sha256": "4e9cf2eea3e634eecdf0f11a7a643f045eeeb776568f49338a0ba1f48c821f7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-26-2026",
+   "path": "local/bacau/racova/2026/26",
+   "short": "HCL Racova nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 26/2026 privind reorganizarea Serviciului Voluntar pentru Situații de Urgență de tip V2, al comunei Racova, județul Bacău și aprobarea organigramei și numărului de personal Consiliul Local al Comunei Racova întrunit în ședință ordinară în luna mai 2026; Având în vedere prevederile art. 3, art. 4, art. 8 și art. 9 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985 și ratif",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/06/HCL-26-din-28.05.2026-Reorganizare-SVSU.pdf",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/06/HCL-26-din-28.05.2026-Reorganizare-SVSU.pdf",
+     "sha256": "496b609514ffbaa38980f4081652a0cb01e13fb13692805ad1b2871e21e93d05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-27-2026",
+   "path": "local/bacau/racova/2026/27",
+   "short": "HCL Racova nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 27/2026 privind actualizarea inventarului bunurilor din domeniul privat al Comunei Racova, aprobat prin HCL nr. 68/2024, cu modificările și completările ulterioare Consiliul Local al Comunei Racova întrunit în ședință ordinară în luna mai 2026; Având în vedere prevederile: art. 354-357 din OUG nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare; ale art. 553, art. 555-557 d",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/06/HCL-27-din-28.05.2026-Actualizare-inventar-domeniu-privat.pdf",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/06/HCL-27-din-28.05.2026-Actualizare-inventar-domeniu-privat.pdf",
+     "sha256": "46e549784213cc995a97f66e27fa88360aa11a8c2c46e95020a57f763fd9c585"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-29-2026",
+   "path": "local/bacau/racova/2026/29",
+   "short": "HCL Racova nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 29/2026 privind aprobarea contului de execuție al bugetului local al Comunei Racova pentru anul 2025 Consiliul Local al Comunei Racova întrunit în ședință ordinară în luna mai 2026; Având în vedere prevederile art. 120 alin. (1), art. 121 alin. (1)-(2) și art. 138 alin. (4)- (5) din Constituția României, republicată; ale art. 4 pc. 1 și 2, art. 9 din Carta europeană a autonomiei locale, adoptată la Strasb",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/06/HCL-29-din-28.05.2026-Aprobare-executie-bugetara-pe-2025-Comuna-Racova.pdf",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/06/HCL-29-din-28.05.2026-Aprobare-executie-bugetara-pe-2025-Comuna-Racova.pdf",
+     "sha256": "41843b55db3041f636ed53bb8eef6e1dbe58a84e4151d89e157eb8eb0685ec71"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--racova-3-2026",
    "path": "local/bacau/racova/2026/3",
    "short": "HCL Racova nr. 3/2026",
@@ -18,6 +318,111 @@
    ]
   },
   {
+   "slug": "hcl-bacau--racova-30-2026",
+   "path": "local/bacau/racova/2026/30",
+   "short": "HCL Racova nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 30/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "10169ba15b0b8b1898430f3f873c1708d94f80398d08996c17c3b6b9295e22bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-32-2026",
+   "path": "local/bacau/racova/2026/32",
+   "short": "HCL Racova nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 32/2026 privind alegerea președintelui de ședință pentru perioada august - octombrie 2026 Consiliul Local al Comunei Racova întrunit în ședința ordinară din 29 iulie 2026, Având în vedere prevederile art. 9 pct.3 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985 și ratificată prin Legea nr. 199/1997; ale art. 121 alin. (1) și (2) din Constituția României, republicată, ap",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/07/HCL-32-din-29.07.2026-Presedinte-sedinta-August-Octombrie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/07/HCL-32-din-29.07.2026-Presedinte-sedinta-August-Octombrie-2026.pdf",
+     "sha256": "08f5ae72d4f353d043d8e47721fbfc0ddf3e5a2bb1ba11e3d1e327751a4ef55c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-34-2026",
+   "path": "local/bacau/racova/2026/34",
+   "short": "HCL Racova nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 34/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ca7e33a9b16214c7f2f9dfdee65cd8e2137e1a385133102724934fd7acc875d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-35-2026",
+   "path": "local/bacau/racova/2026/35",
+   "short": "HCL Racova nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 35/2026 privind trecerea din domeniul public în domeniul privat al Comunei Racova, a imobilelor - construcții și teren aferent, înscrise în CF 63277 și CF 63278, situate în com",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/07/HCL-35-din-29.07.2026-Trecere-din-public-in-privat-imobile.pdf",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/07/HCL-35-din-29.07.2026-Trecere-din-public-in-privat-imobile.pdf",
+     "sha256": "4ef72e034087bfe07e435201e9b2f56dd5c62a6806d2a2456848dee7bbf40fb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-36-2026",
+   "path": "local/bacau/racova/2026/36",
+   "short": "HCL Racova nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 36/2026 privind desemnarea consilierilor locali din cadrul Consiliului local Racova, membri supleanți în Comisia pentru vânzarea spațiilor medicale și Comisia de contestație Consiliul Local al Comunei Racova întrunit în ședință ordinară din 29 iulie 2026; Având în vedere prevederile art. 9 pct.3 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985 și ratificată prin Legea n",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/07/HCL-36-din-29.07.2026-Desemnare-membri-supleanti-comisie-vanzare-spatii-medicale.pdf",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/07/HCL-36-din-29.07.2026-Desemnare-membri-supleanti-comisie-vanzare-spatii-medicale.pdf",
+     "sha256": "b3f96f4570d4e84902c73bdce4566bc2012f42debf4451c25c5966398ee3d7a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-37-2026",
+   "path": "local/bacau/racova/2026/37",
+   "short": "HCL Racova nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 37/2026 privind modificarea Amenajamentului Pastoral pentru pajiștile permanente din comuna Racova, județul Bacău, aprobat prin HCL nr. 78/23.12.2021 Consiliul Local al Comunei Racova întrunit în ședință extraordinară din 18 august 2026; Având în vedere prevederile: art. 354-357 din OUG nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare; ale art. 553, art. 555-557 din Lege",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/08/HCL-37-din-18.08.2026-Modificare-amenajament-pastoral.pdf",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/08/HCL-37-din-18.08.2026-Modificare-amenajament-pastoral.pdf",
+     "sha256": "8818638aa03eae7f5b4d559755230538492547a542bd161df56cee821c90ad39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-38-2026",
+   "path": "local/bacau/racova/2026/38",
+   "short": "HCL Racova nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 38/2026 privind neasumarea responsabilității de către UAT Racova a organizării și derularii procedurilor de atribuire a contractelor pentru achiziția produselor și a contractelor de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru școli al României, pentru anul școlar 2026-2027 Consiliul Local al Comunei Racova întrunit în ședință extraordinară din 18 august 2026; A",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/08/HCL-38-din-18.08.2026-Neasumare-program-scoli.pdf",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/08/HCL-38-din-18.08.2026-Neasumare-program-scoli.pdf",
+     "sha256": "a3263c03896a94cb2c7db07a0b7fb36277f5b2cf4daa1b0a5996a707ea7f036c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--racova-39-2026",
    "path": "local/bacau/racova/2026/39",
    "short": "HCL Racova nr. 39/2026",
@@ -29,6 +434,21 @@
      "units": 1,
      "source_url": "https://primariaracova.ro/wp-content/uploads/2026/10/HCL-39-din-27.08.2026-Actualizare-inventar-domeniu-privat.pdf",
      "sha256": "7ecfa4361e657f8050798ed4fb82b53faa58bac4ae35023a37e147c729c8f2e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-4-2026",
+   "path": "local/bacau/racova/2026/4",
+   "short": "HCL Racova nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 4/2026 privind aprobarea Planului de actiuni/lucrări de interes local pentru anul 2026, ce pot fi prestate de persoanele apte de muncă beneficiare de venit minim de incluziune, pe teritoriul comunei Racova Consiliul Local al Comunei Racova întrunit în ședință ordinară în luna ianuarie 2026; Având în vedere prevederile art. 9 pct.3 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octo",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/01/HCL-4-din-27.01.2026-Aprobare-Plan-actiune-beneficiari-VMI.pdf",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/01/HCL-4-din-27.01.2026-Aprobare-Plan-actiune-beneficiari-VMI.pdf",
+     "sha256": "b8fd64ca1191ed2afdb31f1ae7b7cd76e8654f3800ac43d2d3aee0cac59767eb"
     }
    ]
   },
@@ -59,6 +479,36 @@
      "units": 1,
      "source_url": null,
      "sha256": "89a41e6c4014cd84df867974277a22439ba254439b61aa98da5a51675cb58edd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-45-2026",
+   "path": "local/bacau/racova/2026/45",
+   "short": "HCL Racova nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 45/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1a95dec01d5cfb63689e872954493311cd2c277584930761dfcc45bbdde6e12b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-46-2026",
+   "path": "local/bacau/racova/2026/46",
+   "short": "HCL Racova nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 46/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "806bde80c30190dba23a35feb0602b608d39b8a4cdc8f8ed8375d8cf52fa2ed7"
     }
    ]
   },
@@ -104,6 +554,21 @@
      "units": 1,
      "source_url": null,
      "sha256": "4bff682a7aa7b6d03d9ef47ed3a64245ee57eeb13d578e0a4c00a54d2ce44339"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-5-2026",
+   "path": "local/bacau/racova/2026/5",
+   "short": "HCL Racova nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 5/2026 privind stabilirea mandatului special al reprezentantului legal al Comuna Racova pentru ședința Adunării Generale Ordinare a Acționarilor S.C",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/01/HCL-5-din-27.01.2026-Mandat-AGA-CRAB-din-18.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/01/HCL-5-din-27.01.2026-Mandat-AGA-CRAB-din-18.02.2026.pdf",
+     "sha256": "ffb5440060794b424ef0eaf50efdebea4536558c3f575d3e50bcfc207499ad84"
     }
    ]
   },
@@ -164,6 +629,21 @@
      "units": 1,
      "source_url": "https://primariaracova.ro/wp-content/uploads/2026/10/HCL-56-din-28.10.2026-Rectificare-buget-2026.pdf",
      "sha256": "ba61535f6fa29b9da1b89620168e9b6513226f11af8df4363ac2d372f226278c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-7-2026",
+   "path": "local/bacau/racova/2026/7",
+   "short": "HCL Racova nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 7/2026 privind modificarea titlului Hotărârii Consiliului Local nr. 49/27.10.2023 privind schimbarea denumirii titularului în asupra imobilelor înscrise în Cărțile funciare nr. 63274, 63275, 63277, 63161, aflate pe raza teritorială a comunei Racova din „UAT Comuna Racova”, în „comuna Racova” Consiliul Local al Comunei Racova întrunit în ședința ordinară din luna ianuarie 2026, Având în vedere prevederile",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/01/HCL-7-din-27.01.2026-Modificare-titlu-HCL-49-din-27.10.2023.pdf",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/01/HCL-7-din-27.01.2026-Modificare-titlu-HCL-49-din-27.10.2023.pdf",
+     "sha256": "c3b1b422d816bf41d06c91e8d649b0b928d102c99a6792fb19b053622e79501d"
     }
    ]
   },

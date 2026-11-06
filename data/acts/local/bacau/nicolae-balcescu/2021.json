@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-bacau--nicolae-balcescu-133-2021",
+"path": "local/bacau/nicolae-balcescu/2021/133",
+"kind": "local",
+"year": "2021",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 133/2021 privind aprobarea acordării unui ajutor financiar",
+"short": "HCL Nicolae Bălcescu nr. 133/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/42851",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--nicolae-balcescu-134-2021",
 "path": "local/bacau/nicolae-balcescu/2021/134",
 "kind": "local",
@@ -310,6 +332,29 @@
 "council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--nicolae-balcescu-147-2021",
+"path": "local/bacau/nicolae-balcescu/2021/147",
+"kind": "local",
+"year": "2021",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 147/2021",
+"short": "HCL Nicolae Bălcescu nr. 147/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/45291",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

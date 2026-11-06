@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--motoseni-43-2023",
+   "path": "local/bacau/motoseni/2023/43",
+   "short": "HCL Motoșeni nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 43/2023 privind privind aprobarea pentru decontarea cheltuielilor de naveta la şi de la locul de muncă a cadrelor didactice şi a personalului didactic auxiliar din învăţământul preuniversitar de stat pentru lunile IUNIE, IULIE, AUGUST SI SEPTEMBRIE AN 2023",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/141788",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/141788",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--motoseni-44-2023",
    "path": "local/bacau/motoseni/2023/44",
    "short": "HCL Motoșeni nr. 44/2023",
@@ -223,6 +238,21 @@
      "from": "2024-02-08",
      "units": 1,
      "source_url": "https://emol.ro/motoseni-bc/registru-hcl/141826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-54-2023",
+   "path": "local/bacau/motoseni/2023/54",
+   "short": "HCL Motoșeni nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 54/2023 privind privind aprobarea pentru decontarea cheltuielilor de naveta la şi de la locul de muncă a cadrelor didactice şi a personalului didactic auxiliar din învăţământul preuniversitar de stat pentru lunile OCTOMBRIE si NOIEMBRIE AN 2023",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/141827",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/141827",
      "sha256": null
     }
    ]

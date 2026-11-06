@@ -3,6 +3,28 @@
 "shard": "local/bihor/tulca/2023",
 "acts": [
 {
+"slug": "hcl-bihor--tulca-148-2023",
+"path": "local/bihor/tulca/2023/148",
+"kind": "local",
+"year": "2023",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 148/2023 privind aprobarea ordinii de zi a ședinței extraordinare, cu convocare de indata, a Consiliului Local Tulca din data de 07.12.2023",
+"short": "HCL Tulca nr. 148/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148246",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tulca-149-2023",
 "path": "local/bihor/tulca/2023/149",
 "kind": "local",
@@ -66,6 +88,94 @@
 "council_name": "Consiliul Local al Comunei Tulca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tulca-152-2023",
+"path": "local/bihor/tulca/2023/152",
+"kind": "local",
+"year": "2023",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 152/2023 privind aprobarea ordinii de zi a ședinței extraordinare, cu convocare de indata, a Consiliului Local Tulca din data de 13.12.2023",
+"short": "HCL Tulca nr. 152/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148250",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-153-2023",
+"path": "local/bihor/tulca/2023/153",
+"kind": "local",
+"year": "2023",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 153/2023 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2023 VARIANTA XI a comunei Tulca",
+"short": "HCL Tulca nr. 153/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148251",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-154-2023",
+"path": "local/bihor/tulca/2023/154",
+"kind": "local",
+"year": "2023",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 154/2023 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Tulca din data de 28.12.2023",
+"short": "HCL Tulca nr. 154/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148252",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-155-2023",
+"path": "local/bihor/tulca/2023/155",
+"kind": "local",
+"year": "2023",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 155/2023 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tulca din data de 24.11.2023",
+"short": "HCL Tulca nr. 155/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148253",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +267,50 @@
 }
 },
 {
+"slug": "hcl-bihor--tulca-160-2023",
+"path": "local/bihor/tulca/2023/160",
+"kind": "local",
+"year": "2023",
+"number": "160",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 160/2023 privind validarea Dispozitiei nr. 193/27.11.2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+"short": "HCL Tulca nr. 160/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148258",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-161-2023",
+"path": "local/bihor/tulca/2023/161",
+"kind": "local",
+"year": "2023",
+"number": "161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 161/2023 privind validarea Dispozitiei nr. 199/04.12.2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+"short": "HCL Tulca nr. 161/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148259",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tulca-162-2023",
 "path": "local/bihor/tulca/2023/162",
 "kind": "local",
@@ -198,6 +352,28 @@
 "council_name": "Consiliul Local al Comunei Tulca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tulca-164-2023",
+"path": "local/bihor/tulca/2023/164",
+"kind": "local",
+"year": "2023",
+"number": "164",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 164/2023 privind validarea Dispozitiei nr. 215/19.12.2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+"short": "HCL Tulca nr. 164/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148262",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

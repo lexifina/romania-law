@@ -3,6 +3,21 @@
  "shard": "local/bacau/racaciuni/2020",
  "acts": [
   {
+   "slug": "hcl-bacau--racaciuni-71-2020",
+   "path": "local/bacau/racaciuni/2020/71",
+   "short": "HCL Răcăciuni nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 71/2020 privind aprobarea execuției bugetare la data de 30 septembrie 2020 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2071%20din%207.12.2020%20privind%20aprobarea%20execu%C8%9Biei%20bugetare%20la%20data%20de%2030%20septembrie%202020.pdf",
+     "sha256": "9724649e02550e6cbf84f2ee48d11cd4a2151d383401d0fbbf80c1e015ccd7e8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--racaciuni-72-2020",
    "path": "local/bacau/racaciuni/2020/72",
    "short": "HCL Răcăciuni nr. 72/2020",
@@ -14,6 +29,36 @@
      "units": 1,
      "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2072%20din%207.12.2020%20privind%20%20impozitele%20%C8%99i%20taxele%20locale%20pentru%20anul%202021%20la%20comuna%20R%C4%83c%C4%83ciuni,%20indexate%20cu%20rata%20infla%C8%9Biei%20de%203.8%20la%20suta.pdf",
      "sha256": "091efaef1d4592775fd843cc8d620c6c2b6cde16cf741e7469283b6dda210c7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-73-2020",
+   "path": "local/bacau/racaciuni/2020/73",
+   "short": "HCL Răcăciuni nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 73/2020 privind aprobarea rectificării bugetului comunei și modificarea listei de investiții pentru trim.IV al anului 2020 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2073%20din%207.12.2020%20privind%20aprobarea%20rectific%C4%83rii%20bugetului%20comunei%20%C8%99i%20modificarea%20listei%20de%20investi%C8%9Bii%20pentru%20trim.IV%20al%20anului%202020.pdf",
+     "sha256": "cd82489aa10840fbf919c616ad5aff538cc2b2cc1d06341c6beda0af8464c294"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-74-2020",
+   "path": "local/bacau/racaciuni/2020/74",
+   "short": "HCL Răcăciuni nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 74/2020 privind rectificarea bugetului comunei Răcăciuni pentru trim.IV al anului 2020 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2074%20din%2021.12.2020%20privind%20rectificarea%20bugetului%20comunei%20R%C4%83c%C4%83ciuni%20pentru%20trim.IV%20al%20anului%202020.pdf",
+     "sha256": "8cf95dc5b0b675040d7d32fa9df12f518a346ed856b1946aa825b192af698260"
     }
    ]
   }

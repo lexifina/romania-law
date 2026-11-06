@@ -3,6 +3,94 @@
 "shard": "local/botosani/albesti/2025",
 "acts": [
 {
+"slug": "hcl-botosani--albesti-68-2025",
+"path": "local/botosani/albesti/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 68/2025 privind desemnarea reprezentantului Consiliului Local al comunei Albești in Comisia de Evaluare si Asigurare a Calității din cadrul Scolii Gimnaziale nr . 1 Albești",
+"short": "HCL Albești nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/229015",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-69-2025",
+"path": "local/botosani/albesti/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 69/2025 privind desemnarea reprezentantului Consiliului Local al comunei Albesti in Comisia de Evaluare si Asigurare a Calitatii din cadrul Scolii Gimnaziale nr .2 Tudor Vladimirescu",
+"short": "HCL Albești nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/229016",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-70-2025",
+"path": "local/botosani/albesti/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 70/2025 privind desemnarea a doi reprezentanți ai Consiliului local al comunei Albești in Grupul de acțiune antibullying al Scolii Gimnaziale nr. 1 Albești, pentru anul școlar 2025 – 2026",
+"short": "HCL Albești nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/229017",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-71-2025",
+"path": "local/botosani/albesti/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 71/2025 privind desemnarea a doi reprezentanti ai Consiliului local al comunei Albesti in Grupul de actiune antibullying al Scolii Gimnaziale nr. 2 Tudor Vladimirescu, pentru anul scolar 2025 – 2026",
+"short": "HCL Albești nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/229018",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--albesti-72-2025",
 "path": "local/botosani/albesti/2025/72",
 "kind": "local",
@@ -331,6 +419,29 @@
 "council_name": "Consiliul Local al Comunei Albești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--albesti-87-2025",
+"path": "local/botosani/albesti/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 87/2025",
+"short": "HCL Albești nr. 87/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-01",
+"latest": "2026-09-01",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/244465",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

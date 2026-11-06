@@ -3,6 +3,21 @@
  "shard": "local/botosani/albesti/2026",
  "acts": [
   {
+   "slug": "hcl-botosani--albesti-56-2026",
+   "path": "local/botosani/albesti/2026/56",
+   "short": "HCL Albești nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 56/2026",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/286136",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/286136",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--albesti-57-2026",
    "path": "local/botosani/albesti/2026/57",
    "short": "HCL Albești nr. 57/2026",
@@ -63,6 +78,111 @@
    ]
   },
   {
+   "slug": "hcl-botosani--albesti-61-2026",
+   "path": "local/botosani/albesti/2026/61",
+   "short": "HCL Albești nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 61/2026 privind desemnarea reprezentantului Consiliului Local în Comisia județeană de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcției de director la unitățile de învățământ preuniversitar aflate pe raza comunei Albești, județul Botoșani",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/292178",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/292178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-62-2026",
+   "path": "local/botosani/albesti/2026/62",
+   "short": "HCL Albești nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 62/2026 privind desemnarea reprezentantilor Consiliului Local al comunei Albesti in Consiliul de Administratie al Scolii Gimnaziale nr. 1 Albești",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/292179",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/292179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-63-2026",
+   "path": "local/botosani/albesti/2026/63",
+   "short": "HCL Albești nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 63/2026 privind privind desemnarea reprezentanților Consiliului Local al comunei Albești in Consiliul de Administrație al Scolii Gimnaziale nr. 2 Tudor Vladimirescu",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/292180",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/292180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-64-2026",
+   "path": "local/botosani/albesti/2026/64",
+   "short": "HCL Albești nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 64/2026 privind desemnarea reprezentantului Consiliului Local al comunei Albesti in Comisia de Evaluare si Asigurare a Calitatii din cadrul Scolii Gimnaziale nr . 1 Albești",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/292181",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/292181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-65-2026",
+   "path": "local/botosani/albesti/2026/65",
+   "short": "HCL Albești nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 65/2026 privind desemnarea reprezentantului Consiliului Local al comunei Albesti in Comisia de Evaluare si Asigurare a Calitatii din cadrul Scolii Gimnaziale nr . 2 Tudor Vladimirescu",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/292182",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/292182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-66-2026",
+   "path": "local/botosani/albesti/2026/66",
+   "short": "HCL Albești nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 66/2026 privind desemnarea a doi reprezentanti ai Consiliului local al comunei Albesti in Grupul de actiune antibullying al Scolii Gimnaziale nr. 1 Albești, pentru anul scolar 2026 – 2027",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/292183",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/292183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-67-2026",
+   "path": "local/botosani/albesti/2026/67",
+   "short": "HCL Albești nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 67/2026 privind desemnarea a unui reprezentant al Consiliului local al comunei Albesti in Comisia pentru prevenirea și combaterea violenței, a faptelor de corupție și discriminării în mediul școlar și promovarea interculturalității a Școlii Gimnaziale nr. 2 Tudor Vladimirescu, pentru anul școlar 2026 – 2027",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/292184",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/292184",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--albesti-68-2026",
    "path": "local/botosani/albesti/2026/68",
    "short": "HCL Albești nr. 68/2026",
@@ -118,6 +238,21 @@
      "from": "2026-10-30",
      "units": 1,
      "source_url": "https://emol.ro/albesti-bt/registru-hcl/297224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-72-2026",
+   "path": "local/botosani/albesti/2026/72",
+   "short": "HCL Albești nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 72/2026 privind încetarea, înainte de termen, prin acordul comun al partilor, a contractului de inchiriere nr.3376/30.06.2026, incheiat cu MARKET NAT S.R.L",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/297225",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/297225",
      "sha256": null
     }
    ]

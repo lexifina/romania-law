@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--magesti-14-2025",
+   "path": "local/bihor/magesti/2025/14",
+   "short": "HCL Măgești nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 14/2025 privind stabilirea prețului pentru închirierea pășunilor disponibile aflate în proprietatea privată a comunei Măgești",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/216394",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/216394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-15-2025",
+   "path": "local/bihor/magesti/2025/15",
+   "short": "HCL Măgești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 15/2025 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/216395",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/216395",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--magesti-16-2025",
    "path": "local/bihor/magesti/2025/16",
    "short": "HCL Măgești nr. 16/2025",
@@ -43,6 +73,21 @@
      "from": "2025-07-10",
      "units": 1,
      "source_url": "https://emol.ro/magesti-bh/registru-hcl/216396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-17-2025",
+   "path": "local/bihor/magesti/2025/17",
+   "short": "HCL Măgești nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 17/2025 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/216400",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/216400",
      "sha256": null
     }
    ]
@@ -93,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--magesti-21-2025",
+   "path": "local/bihor/magesti/2025/21",
+   "short": "HCL Măgești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 21/2025 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/216407",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/216407",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--magesti-22-2025",
    "path": "local/bihor/magesti/2025/22",
    "short": "HCL Măgești nr. 22/2025",
@@ -103,6 +163,51 @@
      "from": "2025-07-10",
      "units": 1,
      "source_url": "https://emol.ro/magesti-bh/registru-hcl/216409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-23-2025",
+   "path": "local/bihor/magesti/2025/23",
+   "short": "HCL Măgești nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 23/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/224975",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/224975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-24-2025",
+   "path": "local/bihor/magesti/2025/24",
+   "short": "HCL Măgești nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 24/2025 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/224976",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/224976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-25-2025",
+   "path": "local/bihor/magesti/2025/25",
+   "short": "HCL Măgești nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 25/2025 privind aprobarea procesului verbal al ședinței ordinare a consiliului local din data de 27.03.2025 și a ședinței extraordinare din data de 08.04.2025, 14.04.2025 și 09.05.2025",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/224977",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/224977",
      "sha256": null
     }
    ]
@@ -138,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--magesti-28-2025",
+   "path": "local/bihor/magesti/2025/28",
+   "short": "HCL Măgești nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 28/2025 privind desemnarea reprezentantului Consiliului Local al comunei Măgești în cadrul Consiliului de administrație al Școlii Gimnaziale nr. 1 Butani",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/224982",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/224982",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--magesti-29-2025",
    "path": "local/bihor/magesti/2025/29",
    "short": "HCL Măgești nr. 29/2025",
@@ -148,6 +268,21 @@
      "from": "2025-09-16",
      "units": 1,
      "source_url": "https://emol.ro/magesti-bh/registru-hcl/224986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-30-2025",
+   "path": "local/bihor/magesti/2025/30",
+   "short": "HCL Măgești nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 30/2025 privind aprobarea caietului de sarcini pentru închirierea suprafeței de pășune disponibilă înscrisă sub nr. cad. 52471 Măgești, situate în localitatea Cacuciu Nou și aflată în proprietatea privată a comunei Măgești",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/224987",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/224987",
      "sha256": null
     }
    ]

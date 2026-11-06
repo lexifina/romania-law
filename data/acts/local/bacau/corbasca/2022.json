@@ -245,6 +245,29 @@
 }
 },
 {
+"slug": "hcl-bacau--corbasca-98-2022",
+"path": "local/bacau/corbasca/2022/98",
+"kind": "local",
+"year": "2022",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 98/2022",
+"short": "HCL Corbasca nr. 98/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/83672",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-99-2022",
 "path": "local/bacau/corbasca/2022/99",
 "kind": "local",
@@ -264,6 +287,28 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-100-2022",
+"path": "local/bacau/corbasca/2022/100",
+"kind": "local",
+"year": "2022",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 100/2022 privind aprobarea documentatiei cadastrale de prima inscriere in Sistemul integrat de Cadastru si Cartea Funciara a imobilelor aflate in domeniului public al Comunei Corbasca, judetul Bacău",
+"short": "HCL Corbasca nr. 100/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/83674",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

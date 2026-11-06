@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-82-2023",
+   "path": "local/bacau/secuieni/2023/82",
+   "short": "HCL Secuieni nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 82/2023",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/137884",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/137884",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-83-2023",
    "path": "local/bacau/secuieni/2023/83",
    "short": "HCL Secuieni nr. 83/2023",

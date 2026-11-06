@@ -18,6 +18,51 @@
    ]
   },
   {
+   "slug": "hcl-bacau--margineni-14-2026",
+   "path": "local/bacau/margineni/2026/14",
+   "short": "HCL Mărgineni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 14/2026 privind stabilirea și aprobarea ajutoarelor, a cuantumurilor și a modalităților de acordare a acestora",
+   "url": "https://primaria-margineni.ro/continut/fisiere/2026/03/HCL-14-Ajutoare-VMI.pdf",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://primaria-margineni.ro/continut/fisiere/2026/03/HCL-14-Ajutoare-VMI.pdf",
+     "sha256": "d4a5ccb34b36d886162d8d3391b810cc13e16febe9c8be3f608853d863518f13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--margineni-47-2026",
+   "path": "local/bacau/margineni/2026/47",
+   "short": "HCL Mărgineni nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 47/2026 privind completarea Hotărârii Consiliului Local nr. 15 din 24.03.2026 cu privire la aprobarea programului de măsuri pentru gospodărirea UAT Mărgineni, județul Bacău",
+   "url": "https://primaria-margineni.ro/continut/fisiere/2026/09/HCL-47-Completare-HCL-15-24.03.2026-GOSPODARIRE.pdf",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://primaria-margineni.ro/continut/fisiere/2026/09/HCL-47-Completare-HCL-15-24.03.2026-GOSPODARIRE.pdf",
+     "sha256": "6041f235b54c69a74d42f9cf4b25fa721aab205bfebe94b993598bcf2ecdb735"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--margineni-62-2026",
+   "path": "local/bacau/margineni/2026/62",
+   "short": "HCL Mărgineni nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 62/2026 pentru modificarea anexei la HCL nr. 28 din 26.05.2026, privind implementarea proiectului „Conservarea și promovarea tradițiilor locale prin înființarea ansamblului folcloric al Comunei Mărgineni”,” a indicatorilor tehnico-economici și a cheltuielilor aferente, în cadrul GAL Plaiurile Bistriței, Intervenția I3",
+   "url": "https://primaria-margineni.ro/continut/fisiere/2026/10/HCL-62.pdf",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://primaria-margineni.ro/continut/fisiere/2026/10/HCL-62.pdf",
+     "sha256": "a05af42839181ed0dd872060aa946058e07257bf4361617c16f76d3486cd7515"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--margineni-68-2026",
    "path": "local/bacau/margineni/2026/68",
    "short": "HCL Mărgineni nr. 68/2026",

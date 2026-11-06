@@ -245,6 +245,29 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-12-2023",
+"path": "local/bihor/sacueni/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 12/2023",
+"short": "HCL Săcueni nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-12",
+"latest": "2023-04-12",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/93773",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-13-2023",
 "path": "local/bihor/sacueni/2023/13",
 "kind": "local",
@@ -311,6 +334,51 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-16-2023",
+"path": "local/bihor/sacueni/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 16/2023",
+"short": "HCL Săcueni nr. 16/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-12",
+"latest": "2023-04-12",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/93777",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-17-2023",
+"path": "local/bihor/sacueni/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 17/2023 privind aprobarea diminuării suprafeței concesionate înscris în CF nr. 57092, nr. cad. 57092, respectiv dezmembrarea terenului în două loturi",
+"short": "HCL Săcueni nr. 17/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-12",
+"latest": "2023-04-12",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/93778",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-18-2023",
 "path": "local/bihor/sacueni/2023/18",
 "kind": "local",
@@ -374,6 +442,50 @@
 "council_name": "Consiliul Local al Orașului Săcueni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-21-2023",
+"path": "local/bihor/sacueni/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 21/2023 Privind îndreptarea erorii materiale strecurate în HCL nr. 175 din 29 decembrie 2022 privind aprobarea scutirii de la plata impozitului/taxei pe clădiri și a accesorilor aferente, în cazul clădirilor/terenurilor utilizate pentru activități social-umanitare de către asociații, fundații și culte în orașul Săcueni",
+"short": "HCL Săcueni nr. 21/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-12",
+"latest": "2023-04-12",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/93782",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-22-2023",
+"path": "local/bihor/sacueni/2023/22",
+"kind": "local",
+"year": "2023",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 22/2023 Privind îndreptarea erorii materiale strecurate în HCL nr. 129 din 26 octombrie 2022 privind aprobarea scutirii de la plata impozitului/taxei pe clădiri și a accesorilor aferente, în cazul clădirilor/terenurilor utilizate pentru activități social-umanitare de către asociații, fundații și culte în orașul Săcueni",
+"short": "HCL Săcueni nr. 22/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-12",
+"latest": "2023-04-12",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/93783",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -485,6 +597,28 @@
 "council_name": "Consiliul Local al Orașului Săcueni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-28-2023",
+"path": "local/bihor/sacueni/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 28/2023 privind constituirea dreptului de superficie cu titlu gratuit asupra imobilului - teren în suprafață de 8574 mp., având nr. cadastral 56223, situat în orș.Săcueni, pentru SC Apă Canal Nord Vest SA",
+"short": "HCL Săcueni nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-12",
+"latest": "2023-04-12",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/93789",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -665,6 +799,28 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-37-2023",
+"path": "local/bihor/sacueni/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 37/2023 privind aprobarea transmiterii dreptului de administrare împreună cu dreptul de folosință asupra imobilului situat în orașul Săcueni sat Sânnicolau de Munte înscris în Cartea Funciară nr. 51464",
+"short": "HCL Săcueni nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-15",
+"latest": "2023-05-15",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/102075",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-38-2023",
 "path": "local/bihor/sacueni/2023/38",
 "kind": "local",
@@ -684,6 +840,29 @@
 "council_name": "Consiliul Local al Orașului Săcueni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-39-2023",
+"path": "local/bihor/sacueni/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 39/2023",
+"short": "HCL Săcueni nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-16",
+"latest": "2023-05-16",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/102077",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -753,6 +932,73 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-43-2023",
+"path": "local/bihor/sacueni/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 43/2023",
+"short": "HCL Săcueni nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-16",
+"latest": "2023-05-16",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/103546",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-44-2023",
+"path": "local/bihor/sacueni/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 44/2023 privind aprobarea documentatiei tehnico-economice faza D.A.L.I , a devizului general si a indicatorilor tehnico-economici aferenti proiectului „Lucrari de reabilitare avand scopul cresterii eficientei energetice ale cladirii primariei Orasului Sacueni”",
+"short": "HCL Săcueni nr. 44/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-16",
+"latest": "2023-05-16",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/103547",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-45-2023",
+"path": "local/bihor/sacueni/2023/45",
+"kind": "local",
+"year": "2023",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 45/2023 privind aprobarea documentatiei tehnico-economice faza D.A.L.I , devizului general si a indicatorilor tehnico-economici aferenti proiectului „Lucrari de reabilitare avand scopul cresterii eficientei energetice a cladirii scolii gimnaziale din localitatea Ciocaia, Orasul Sacueni”",
+"short": "HCL Săcueni nr. 45/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-16",
+"latest": "2023-05-16",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/103548",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-46-2023",
 "path": "local/bihor/sacueni/2023/46",
 "kind": "local",
@@ -772,6 +1018,50 @@
 "council_name": "Consiliul Local al Orașului Săcueni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-47-2023",
+"path": "local/bihor/sacueni/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 47/2023 privind revocarea HCL nr. 40 din 27 aprilie 2023 privind aprobarea Planului de amplasament şi delimitare a imobilului, cu suprafaţa de 1865 mp, reprezentând teren extravilan, categoria drum DE 1663, proprietate publică al Orașului Săcueni, situat în Orș.Săcueni, Sat. Ciocaia, Jud.Bihor",
+"short": "HCL Săcueni nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-19",
+"latest": "2023-06-19",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/106798",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-48-2023",
+"path": "local/bihor/sacueni/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 48/2023 privind revocarea HCL nr. 41 din 27 aprilie 2023 privind aprobarea Planului de amplasament şi delimitare a imobilului, cu suprafaţa de 3109 mp, reprezentând teren extravilan, categoria drum DE 1666, proprietate publică al Orașului Săcueni, situat în Orș.Săcueni, Sat. Ciocaia, Jud.Bihor",
+"short": "HCL Săcueni nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-19",
+"latest": "2023-06-19",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/106799",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -816,6 +1106,28 @@
 "council_name": "Consiliul Local al Orașului Săcueni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-51-2023",
+"path": "local/bihor/sacueni/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 51/2023 privind participarea Oraşului Săcueni ca membru în Asociația Grupul de Acțiune Locală Bihor de pe lângă frontiera cu Ungaria, respectiv participarea Oraşului Săcueni la implementarea Măsurii 19 - Dezvoltarea locală LEADER, finanțat prin Planul Național Strategic PAC 2023-2027",
+"short": "HCL Săcueni nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-19",
+"latest": "2023-06-19",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/106802",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -864,6 +1176,28 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-54-2023",
+"path": "local/bihor/sacueni/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 54/2023 privind majorarea capitalului social al societății General Edilitar Construct SRL",
+"short": "HCL Săcueni nr. 54/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-19",
+"latest": "2023-06-19",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/106805",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-55-2023",
 "path": "local/bihor/sacueni/2023/55",
 "kind": "local",
@@ -883,6 +1217,73 @@
 "council_name": "Consiliul Local al Orașului Săcueni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-56-2023",
+"path": "local/bihor/sacueni/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 56/2023 privind aprobarea proiectului „Amenajare coridor de mobilitate cu înființarea serviciului de transport local în oraș Săcueni, județul Bihor”",
+"short": "HCL Săcueni nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-20",
+"latest": "2023-06-20",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/107243",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-57-2023",
+"path": "local/bihor/sacueni/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 57/2023",
+"short": "HCL Săcueni nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-20",
+"latest": "2023-06-20",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/107244",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-58-2023",
+"path": "local/bihor/sacueni/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 58/2023 privind darea cu titlu gratuit a unui teren intravilan în cotă de 1000/33010 mp situat în orașul Săcueni, sat Ciocaia înscris în CF nr. 50369, nr. cad. 50369 pentru Asociația Pro Ciocaia",
+"short": "HCL Săcueni nr. 58/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-20",
+"latest": "2023-06-20",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/107245",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1062,6 +1463,28 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-67-2023",
+"path": "local/bihor/sacueni/2023/67",
+"kind": "local",
+"year": "2023",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 67/2023 privind aprobarea contractării unui împrumut în valoare de 2.973.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 24/2023 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului",
+"short": "HCL Săcueni nr. 67/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-17",
+"latest": "2023-08-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/113525",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-68-2023",
 "path": "local/bihor/sacueni/2023/68",
 "kind": "local",
@@ -1081,6 +1504,28 @@
 "council_name": "Consiliul Local al Orașului Săcueni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-69-2023",
+"path": "local/bihor/sacueni/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 69/2023 privind concesionarea prin licitație publică a imobilului teren identificat prin nr. cad. 50506 situat în intravilanul orașului Săcueni str. Leta Mare, respectiv aprobarea documentației de atribuire (studiu de oportunitate, caiet de sarcini)",
+"short": "HCL Săcueni nr. 69/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-17",
+"latest": "2023-08-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/113527",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1173,6 +1618,95 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-74-2023",
+"path": "local/bihor/sacueni/2023/74",
+"kind": "local",
+"year": "2023",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 74/2023",
+"short": "HCL Săcueni nr. 74/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-17",
+"latest": "2023-08-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/113532",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-75-2023",
+"path": "local/bihor/sacueni/2023/75",
+"kind": "local",
+"year": "2023",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 75/2023 privind aprobarea documentației tehnico-economică a principalilor indicatori tehnico-economici al obiectivului de investiţie: „Modernizarea parcului recreativ (deschis pentru public) și dotarea parcului”, cuprins în cadrul proiectului ”Un Săcueni mai verde”",
+"short": "HCL Săcueni nr. 75/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-17",
+"latest": "2023-08-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/113533",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-76-2023",
+"path": "local/bihor/sacueni/2023/76",
+"kind": "local",
+"year": "2023",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 76/2023 privind aprobarea documentației tehnico-economică a principalilor indicatori tehnico-economici al obiectivului de investiţie: „Modernizarea parcului central și dotarea parcului cu mobilier urban smart”, cuprins în cadrul proiectului ”Un Săcueni mai verde”",
+"short": "HCL Săcueni nr. 76/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-17",
+"latest": "2023-08-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/113534",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-77-2023",
+"path": "local/bihor/sacueni/2023/77",
+"kind": "local",
+"year": "2023",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 77/2023 privind aprobarea documentației tehnico-economică faza SF, PT și a principalilor indicatori tehnico-economici al obiectivului de investiţie: „Transformarea străzilor zonei istorice a cramelor și drumului de legătură între parcul central și parcul dendrologic în spații verzi”, cuprins în cadrul proeictului ”Un Săcueni mai verde”",
+"short": "HCL Săcueni nr. 77/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-17",
+"latest": "2023-08-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/113535",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-78-2023",
 "path": "local/bihor/sacueni/2023/78",
 "kind": "local",
@@ -1192,6 +1726,28 @@
 "council_name": "Consiliul Local al Orașului Săcueni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-79-2023",
+"path": "local/bihor/sacueni/2023/79",
+"kind": "local",
+"year": "2023",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 79/2023 privind închirierea prin licitație publică a unei suprafete de 2,5 mp pentru amplasarea unui automat lapte pe terenul înscis în CF nr. 56316, nr. cad. 56316, situat în intravilanul orașului Săcueni, respectiv aprobarea documentației de atribuire privind închirierea imobilului",
+"short": "HCL Săcueni nr. 79/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-17",
+"latest": "2023-08-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/113537",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1261,6 +1817,119 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-83-2023",
+"path": "local/bihor/sacueni/2023/83",
+"kind": "local",
+"year": "2023",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 83/2023",
+"short": "HCL Săcueni nr. 83/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-29",
+"latest": "2023-08-29",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/115800",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-84-2023",
+"path": "local/bihor/sacueni/2023/84",
+"kind": "local",
+"year": "2023",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 84/2023",
+"short": "HCL Săcueni nr. 84/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-29",
+"latest": "2023-08-29",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/115801",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-85-2023",
+"path": "local/bihor/sacueni/2023/85",
+"kind": "local",
+"year": "2023",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 85/2023",
+"short": "HCL Săcueni nr. 85/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-29",
+"latest": "2023-08-29",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/115802",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-86-2023",
+"path": "local/bihor/sacueni/2023/86",
+"kind": "local",
+"year": "2023",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 86/2023 privind modificarea Actului Constitutiv al Societății APĂ CANAL NORD VEST SA",
+"short": "HCL Săcueni nr. 86/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-29",
+"latest": "2023-08-29",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/115803",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-87-2023",
+"path": "local/bihor/sacueni/2023/87",
+"kind": "local",
+"year": "2023",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 87/2023 privind încheierea unui Acord de colaborare între UAT Județul Bihor – Consiliul Județean Bihor și UAT –urile din Județul Bihor în vederea realizării unor lucrări de interes public pentru creșterea siguranței rutiere",
+"short": "HCL Săcueni nr. 87/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-29",
+"latest": "2023-08-29",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/115804",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-88-2023",
 "path": "local/bihor/sacueni/2023/88",
 "kind": "local",
@@ -1280,6 +1949,28 @@
 "council_name": "Consiliul Local al Orașului Săcueni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-89-2023",
+"path": "local/bihor/sacueni/2023/89",
+"kind": "local",
+"year": "2023",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 89/2023 privind aprobarea notei de fundamentare care cuprinde modificările aduse traseului pistei de biciclete cuprinsă în obiectivul de investiție „Realizarea unei infrastructuri conexe și sigure pentru deplasările cu bicicleta în Orașul Săcueni, jud. Bihor”",
+"short": "HCL Săcueni nr. 89/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-29",
+"latest": "2023-08-29",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/116453",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1324,6 +2015,50 @@
 "council_name": "Consiliul Local al Orașului Săcueni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-92-2023",
+"path": "local/bihor/sacueni/2023/92",
+"kind": "local",
+"year": "2023",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 92/2023 privind aprobarea actualizării documentației tehnico-economice a principalilor indicatori tehnico-economici al obiectivului de investiție ”Transformarea străzilor zonei istorice a cramelor și drumului de legătură între parcul central și parcul dendrologic în spații verzi” cuprins în cadrul proiectului ”Un Săcueni mai verde”",
+"short": "HCL Săcueni nr. 92/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-25",
+"latest": "2023-09-25",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/119415",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-93-2023",
+"path": "local/bihor/sacueni/2023/93",
+"kind": "local",
+"year": "2023",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 93/2023 privind aprobarea actualizării documentației tehnico-economice a principalilor indicatori tehnico-economici al obiectivului de investiție ”Modernizarea parcului recreativ (deschis pentru public) și dotarea parcului” cuprins în cadrul proiectului ”Un Săcueni mai verde”",
+"short": "HCL Săcueni nr. 93/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-25",
+"latest": "2023-09-25",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/119416",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

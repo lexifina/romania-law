@@ -114,6 +114,28 @@
 }
 },
 {
+"slug": "hcl-bacau--nicolae-balcescu-133-2022",
+"path": "local/bacau/nicolae-balcescu/2022/133",
+"kind": "local",
+"year": "2022",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 133/2022 privind aprobare PUZ „CONSTRUIRE LOCUINȚE, ANEXE GOSPODĂREȘTI ȘI ÎMPREJMUIRE TEREN” – extravilan sat Nicolae Bălcescu, comuna Nicolae Bălcescu, județul Bacău",
+"short": "HCL Nicolae Bălcescu nr. 133/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-06",
+"latest": "2022-12-06",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/82714",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--nicolae-balcescu-134-2022",
 "path": "local/bacau/nicolae-balcescu/2022/134",
 "kind": "local",
@@ -177,6 +199,28 @@
 "council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--nicolae-balcescu-137-2022",
+"path": "local/bacau/nicolae-balcescu/2022/137",
+"kind": "local",
+"year": "2022",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 137/2022 privind aprobare PUZ „CONSTRUIRE LOCUINȚE, ANEXE GOSPODĂREȘTI ȘI ÎMPREJMUIRE TEREN” – extravilan sat Nicolae Bălcescu, comuna Nicolae Bălcescu, județul Bacău",
+"short": "HCL Nicolae Bălcescu nr. 137/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/84823",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

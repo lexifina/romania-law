@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-bacau--motoseni-43-2023",
+"path": "local/bacau/motoseni/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 43/2023 privind privind aprobarea pentru decontarea cheltuielilor de naveta la şi de la locul de muncă a cadrelor didactice şi a personalului didactic auxiliar din învăţământul preuniversitar de stat pentru lunile IUNIE, IULIE, AUGUST SI SEPTEMBRIE AN 2023",
+"short": "HCL Motoșeni nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-08",
+"latest": "2024-02-08",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/141788",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--motoseni-44-2023",
 "path": "local/bacau/motoseni/2023/44",
 "kind": "local",
@@ -331,6 +353,28 @@
 "council_name": "Consiliul Local al Comunei Motoșeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-54-2023",
+"path": "local/bacau/motoseni/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 54/2023 privind privind aprobarea pentru decontarea cheltuielilor de naveta la şi de la locul de muncă a cadrelor didactice şi a personalului didactic auxiliar din învăţământul preuniversitar de stat pentru lunile OCTOMBRIE si NOIEMBRIE AN 2023",
+"short": "HCL Motoșeni nr. 54/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-08",
+"latest": "2024-02-08",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/141827",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

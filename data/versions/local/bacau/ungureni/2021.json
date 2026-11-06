@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--ungureni-61-2021",
+   "path": "local/bacau/ungureni/2021/61",
+   "short": "HCL Ungureni nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 61/2021 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Ungureni, județul Bacău",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/76059",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/76059",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--ungureni-62-2021",
    "path": "local/bacau/ungureni/2021/62",
    "short": "HCL Ungureni nr. 62/2021",
@@ -153,6 +168,51 @@
    ]
   },
   {
+   "slug": "hcl-bacau--ungureni-70-2021",
+   "path": "local/bacau/ungureni/2021/70",
+   "short": "HCL Ungureni nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 70/2021 privind aprobarea atribuirii în folosință gratuită conform Legii nr.15/2003 a suprafeței de până la 500 m2 de teren în vederea construirii unei locuințe proprietate personală pentru un beneficiar în satul Ungureni",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/76068",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/76068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-71-2021",
+   "path": "local/bacau/ungureni/2021/71",
+   "short": "HCL Ungureni nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 71/2021 privind mandatarea Primarului comunei Ungureni, județul Bacău în vederea reprezentării Consiliului Local al comunei Ungureni în dosarul numărul 1329/110/2021, aflat pe rolul Tribunalului Bacău, secția a II-a civilă și de contencios administrativ și fiscal",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/76069",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/76069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-72-2021",
+   "path": "local/bacau/ungureni/2021/72",
+   "short": "HCL Ungureni nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 72/2021 privind aprobarea rectificării nr. 9 a bugetului de venituri și cheltuieli pentru anul 2021",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/78631",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/78631",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--ungureni-73-2021",
    "path": "local/bacau/ungureni/2021/73",
    "short": "HCL Ungureni nr. 73/2021",
@@ -163,6 +223,36 @@
      "from": "2022-11-07",
      "units": 1,
      "source_url": "https://emol.ro/ungureni-bc/registru-hcl/78632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-74-2021",
+   "path": "local/bacau/ungureni/2021/74",
+   "short": "HCL Ungureni nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 74/2021",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/78633",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/78633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-75-2021",
+   "path": "local/bacau/ungureni/2021/75",
+   "short": "HCL Ungureni nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 75/2021 privind aprobarea cuantumului burselor școlare acordate de Școala Gimnazială Ungureni",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/78634",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/78634",
      "sha256": null
     }
    ]

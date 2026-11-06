@@ -3,6 +3,161 @@
 "shard": "local/bihor/saniob/2026",
 "acts": [
 {
+"slug": "hcl-bihor--saniob-51-2026",
+"path": "local/bihor/saniob/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 51/2026 privind privind aprobarea acceptării folosinței gratuite și încheierea contractului de comodat pentru suprafața de teren necesară organizării de șantier în cadrul proiectului „MODERNIZARE STRĂZI DE INTERES LOCAL DIN COMUNA SÂNIOB, județul Bihor”",
+"short": "HCL Sâniob nr. 51/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-28",
+"latest": "2026-07-28",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/279793",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--saniob-52-2026",
+"path": "local/bihor/saniob/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 52/2026 privind aprobarea ordinii de zi pentru şedinţa ordinară din data de 18.08.2026",
+"short": "HCL Sâniob nr. 52/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-24",
+"latest": "2026-08-24",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/283480",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--saniob-53-2026",
+"path": "local/bihor/saniob/2026/53",
+"kind": "local",
+"year": "2026",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 53/2026 privind aprobarea procesului verbal al ședinței ordinare din data de 18.06.2026 și al ședinței extraordinare din data de 24.07.2026",
+"short": "HCL Sâniob nr. 53/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-24",
+"latest": "2026-08-24",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/283481",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--saniob-54-2026",
+"path": "local/bihor/saniob/2026/54",
+"kind": "local",
+"year": "2026",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 54/2026 privind rectificarea bugetului local al comunei Sâniob, pentru anul 2026",
+"short": "HCL Sâniob nr. 54/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-24",
+"latest": "2026-08-24",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/283482",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--saniob-55-2026",
+"path": "local/bihor/saniob/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 55/2026 privind aprobarea contului de încheiere a exerciţiului bugetar al comunei Sâniob pe trimestrul II, anul 2026",
+"short": "HCL Sâniob nr. 55/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-24",
+"latest": "2026-08-24",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/283483",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--saniob-56-2026",
+"path": "local/bihor/saniob/2026/56",
+"kind": "local",
+"year": "2026",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 56/2026 privind numirea Consiliului de administratie provizoriu, precum și a administratorilor provizorii al RPL Ocolul Silvic ,,Stejarul Secular,, RA Sâniob",
+"short": "HCL Sâniob nr. 56/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-24",
+"latest": "2026-08-24",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/283484",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--saniob-57-2026",
+"path": "local/bihor/saniob/2026/57",
+"kind": "local",
+"year": "2026",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 57/2026",
+"short": "HCL Sâniob nr. 57/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-24",
+"latest": "2026-08-24",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/283485",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--saniob-58-2026",
 "path": "local/bihor/saniob/2026/58",
 "kind": "local",
@@ -22,6 +177,205 @@
 "council_name": "Consiliul Local al Comunei Sâniob",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--saniob-59-2026",
+"path": "local/bihor/saniob/2026/59",
+"kind": "local",
+"year": "2026",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 59/2026 privind aprobarea Raportului privind activitatea asistenților personali ai persoanelor cu handicap grav în SEMESTRUL I, anul 2026",
+"short": "HCL Sâniob nr. 59/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-24",
+"latest": "2026-08-24",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/283487",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--saniob-60-2026",
+"path": "local/bihor/saniob/2026/60",
+"kind": "local",
+"year": "2026",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 60/2026 privind aprobarea ordinii de zi pentru şedinţa ordinară din data de 24.09.2026",
+"short": "HCL Sâniob nr. 60/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/288649",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--saniob-61-2026",
+"path": "local/bihor/saniob/2026/61",
+"kind": "local",
+"year": "2026",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 61/2026 privind aprobarea procesului verbal al ședinței ordinare din data de 18.08.2026",
+"short": "HCL Sâniob nr. 61/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/288650",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--saniob-62-2026",
+"path": "local/bihor/saniob/2026/62",
+"kind": "local",
+"year": "2026",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 62/2026 privind rectificarea bugetului local al comunei Sâniob pe anul 2026",
+"short": "HCL Sâniob nr. 62/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/288651",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--saniob-63-2026",
+"path": "local/bihor/saniob/2026/63",
+"kind": "local",
+"year": "2026",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 63/2026",
+"short": "HCL Sâniob nr. 63/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/288652",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--saniob-64-2026",
+"path": "local/bihor/saniob/2026/64",
+"kind": "local",
+"year": "2026",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 64/2026 privind numirea unui șef de ocol silvic provizoriu la RPL Ocolul Silvic ,,Stejarul Secular,, RA Sâniob,",
+"short": "HCL Sâniob nr. 64/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/288653",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--saniob-65-2026",
+"path": "local/bihor/saniob/2026/65",
+"kind": "local",
+"year": "2026",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 65/2026 privind aprobarea Planurilor de amplasament si delimitare a unor imobile din comuna Sâniob în vederea constituirii de numere cadastrale noi și înscrierea in CF a domeniului public",
+"short": "HCL Sâniob nr. 65/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/288654",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--saniob-66-2026",
+"path": "local/bihor/saniob/2026/66",
+"kind": "local",
+"year": "2026",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 66/2026 privind alegerea președintelui de ședință și a supleantului",
+"short": "HCL Sâniob nr. 66/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/288655",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--saniob-67-2026",
+"path": "local/bihor/saniob/2026/67",
+"kind": "local",
+"year": "2026",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 67/2026 privind aprobarea unui sprijin financiar pentru funcționarea Grădiniței cu Program Prelungit nr.1 Sâniob",
+"short": "HCL Sâniob nr. 67/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/288656",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -45,6 +399,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--saniob-69-2026",
+"path": "local/bihor/saniob/2026/69",
+"kind": "local",
+"year": "2026",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 69/2026 privind încheierea unui Acord de parteneriat în scopul implementării proiectului ”Îmbunătățirea calității serviciilor oferite de administrațiile publice locale din județul Bihor, prin soluții digitale inovatoare”",
+"short": "HCL Sâniob nr. 69/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-16",
+"latest": "2026-10-16",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/292608",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-bihor--uileacu-de-beius-58-2024",
+"path": "local/bihor/uileacu-de-beius/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 58/2024",
+"short": "HCL Uileacu de Beiuș nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-10",
+"latest": "2024-12-10",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/180201",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--uileacu-de-beius-59-2024",
 "path": "local/bihor/uileacu-de-beius/2024/59",
 "kind": "local",
@@ -88,6 +111,28 @@
 "council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-62-2024",
+"path": "local/bihor/uileacu-de-beius/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 62/2024 privind desemnarea reprezentantului Consiliului Local al Comunei Uileacu de Beiuș în Consiliul de Administrație a Școlii Gimnaziale nr.1 Uileacu de Beiuș județul Bihor",
+"short": "HCL Uileacu de Beiuș nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-10",
+"latest": "2024-12-10",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/180205",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +246,28 @@
 }
 },
 {
+"slug": "hcl-bihor--uileacu-de-beius-68-2024",
+"path": "local/bihor/uileacu-de-beius/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 68/2024 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Uileacu de Beiuș nr. 68/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-07",
+"latest": "2025-01-07",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/184332",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--uileacu-de-beius-69-2024",
 "path": "local/bihor/uileacu-de-beius/2024/69",
 "kind": "local",
@@ -286,6 +353,28 @@
 "council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-73-2024",
+"path": "local/bihor/uileacu-de-beius/2024/73",
+"kind": "local",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 73/2024 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale la nivelul comunei UILEACU DE BEIUȘ, județul BIHOR, începând cu 1 ianuarie 2025",
+"short": "HCL Uileacu de Beiuș nr. 73/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-07",
+"latest": "2025-01-07",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/184337",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

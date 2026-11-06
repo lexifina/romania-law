@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-bacau--rachitoasa-38-2024",
+"path": "local/bacau/rachitoasa/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 38/2024 privind desemnarea reprezentanţilor Consiliului Local al comunei Răchitoasa, ca membrii în Consiliul de Administraţie al Liceului Tehnologic Răchitoasa, pentru anul şcolar 2024-2025",
+"short": "HCL Răchitoasa nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-01",
+"latest": "2024-11-01",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/174537",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--rachitoasa-39-2024",
 "path": "local/bacau/rachitoasa/2024/39",
 "kind": "local",
@@ -242,6 +264,28 @@
 "council_name": "Consiliul Local al Comunei Răchitoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--rachitoasa-44-2024",
+"path": "local/bacau/rachitoasa/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 44/2024 privind aprobarea Structurii organizatorice de functionare pe timp de razboi a UAT Răchitoasa, județul Bacău",
+"short": "HCL Răchitoasa nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/192384",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

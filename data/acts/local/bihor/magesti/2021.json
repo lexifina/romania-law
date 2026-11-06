@@ -3,6 +3,28 @@
 "shard": "local/bihor/magesti/2021",
 "acts": [
 {
+"slug": "hcl-bihor--magesti-1-2021",
+"path": "local/bihor/magesti/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 1/2021 privind aprobarea ordinii de zi",
+"short": "HCL Măgești nr. 1/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/45635",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--magesti-2-2021",
 "path": "local/bihor/magesti/2021/2",
 "kind": "local",
@@ -25,6 +47,116 @@
 }
 },
 {
+"slug": "hcl-bihor--magesti-3-2021",
+"path": "local/bihor/magesti/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 3/2021 privind aprobarea ordinii de zi",
+"short": "HCL Măgești nr. 3/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/45643",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--magesti-4-2021",
+"path": "local/bihor/magesti/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 4/2021 privind aprobarea procesului-verbal al ședinței ordinare a Consiliului local din data de 15.12.2020",
+"short": "HCL Măgești nr. 4/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/45644",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--magesti-5-2021",
+"path": "local/bihor/magesti/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 5/2021 privind aprobarea procesului verbal al ședinței extraordinare de îndată a Consiliului local din data de 22.12.2020",
+"short": "HCL Măgești nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/45645",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--magesti-6-2021",
+"path": "local/bihor/magesti/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 6/2021 privind aprobarea procesului verbal al ședinței extraordinare de îndată a Consiliului local din data de 27.01.2021",
+"short": "HCL Măgești nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/45646",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--magesti-7-2021",
+"path": "local/bihor/magesti/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 7/2021 privind alegerea viceprimarului comunei Măgești",
+"short": "HCL Măgești nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/45647",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--magesti-8-2021",
 "path": "local/bihor/magesti/2021/8",
 "kind": "local",
@@ -44,6 +176,94 @@
 "council_name": "Consiliul Local al Comunei Măgești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--magesti-9-2021",
+"path": "local/bihor/magesti/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 9/2021 privind desemnarea reprezentantului Consiliului Local al comunei Măgești în cadrul Consiliului de administrație al Școlii Gimnaziale nr.1 Butani",
+"short": "HCL Măgești nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/45649",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--magesti-10-2021",
+"path": "local/bihor/magesti/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 10/2021 privind aprobarea ordinii de zi",
+"short": "HCL Măgești nr. 10/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-08",
+"latest": "2021-02-08",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/45740",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--magesti-11-2021",
+"path": "local/bihor/magesti/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 11/2021 privind aprobarea procesului verbal al ședinței ordinare a consiliului local din data de 29.01.2021",
+"short": "HCL Măgești nr. 11/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-08",
+"latest": "2021-02-08",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/45741",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--magesti-12-2021",
+"path": "local/bihor/magesti/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 12/2021 privind aprobarea rețelei școlare pentru anul școalr 2021-2022",
+"short": "HCL Măgești nr. 12/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-08",
+"latest": "2021-02-08",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/45742",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

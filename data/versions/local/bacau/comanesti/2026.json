@@ -3,6 +3,81 @@
  "shard": "local/bacau/comanesti/2026",
  "acts": [
   {
+   "slug": "hcl-bacau--comanesti-111-2026",
+   "path": "local/bacau/comanesti/2026/111",
+   "short": "HCL Comănești nr. 111/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 111/2026 privind aprobarea indicatorilor indicatorilor tehnico-economici actualizați în perioada de clarificări pentru obiectivul de investiții \"Creare grădină publică în zona centrală identificată cu număr cadastral 61398 din Orașul Comănești, județul Bacău, Prioritatea 3 - NORD-E",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_111_15.10.2026.pdf",
+     "sha256": "0c8c886a19ca98dc44f4d87f2f9ed2acd55af2d0f1960122f6870f965d3136c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-115-2026",
+   "path": "local/bacau/comanesti/2026/115",
+   "short": "HCL Comănești nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 115/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_115_22.10.2026.pdf",
+     "sha256": "d4aa5a15640dc2092c11c67a07f7e62a7b680efa0507d506f7d764f2b42618a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-117-2026",
+   "path": "local/bacau/comanesti/2026/117",
+   "short": "HCL Comănești nr. 117/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 117/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_117_22.10.2026.pdf",
+     "sha256": "5c1553db0e4a38875949ca9b0ca29132207f30cd6981b519371ef88ae47af8de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-118-2026",
+   "path": "local/bacau/comanesti/2026/118",
+   "short": "HCL Comănești nr. 118/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 118/2026 pentru modificarea și completarea Raportului privind rezultatele etichetării cheltuielilor bugetare, detaliat pe capitole și surse de finanțare - Fiormular: 23-01",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_118_22.10.2026.pdf",
+     "sha256": "3fd2616e339e5387c29f4be81c0a1c00e6f43a3647dd1e3e5d883ebce6bc021e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-15-2026",
+   "path": "local/bacau/comanesti/2026/15",
+   "short": "HCL Comănești nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 15/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_015_27.02.2026.pdf",
+     "sha256": "79966970ad9cf7cc0566cb4147f25da1c493a60eea2dc4a9c7dea2b9c2dd9205"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--comanesti-17-2026",
    "path": "local/bacau/comanesti/2026/17",
    "short": "HCL Comănești nr. 17/2026",
@@ -14,6 +89,501 @@
      "units": 1,
      "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_017_13.03.2026.pdf",
      "sha256": "ce1ecbf95dbb3c56580e22dafe35cf7608e46c8f04c874bb83bd062871ae71f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-20-2026",
+   "path": "local/bacau/comanesti/2026/20",
+   "short": "HCL Comănești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 20/2026 privind modificarea și completarea HCL nr.35 din 27.03.2025 - privind aprobarea Strategiei de Dezvoltare Locală a Orașului Comănești, 2021-2027",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_020_13.03.2026.pdf",
+     "sha256": "c394d5862ae41957802215a8b3bdd2d25a99a89a37b052add5df8a3874f3e9e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-21-2026",
+   "path": "local/bacau/comanesti/2026/21",
+   "short": "HCL Comănești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 21/2026 privind contracte de concesiuni și de închirieri terenuri",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_021_30.03.2026.pdf",
+     "sha256": "4025b2ba211359532ad4180c10f8562d57261577cb1bff1e523cdfb6aed65de2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-22-2026",
+   "path": "local/bacau/comanesti/2026/22",
+   "short": "HCL Comănești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 22/2026 privind alipirea a doua imobile aparținând UAT Comănești, județul Bacău",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_022_30.03.2026.pdf",
+     "sha256": "52bfcceb95a0fcd8fc9cfe3ce1bd3ea3cac62feb7948353bb41439badc603533"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-23-2026",
+   "path": "local/bacau/comanesti/2026/23",
+   "short": "HCL Comănești nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 23/2026 privind decontarea cheltuielilor de transport pentru cadrele didactice din cadrul școlilor de pe raza orașului Comănești, județul Bacău",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_023_30.03.2026.pdf",
+     "sha256": "ee1ebdaa138d958ec1c656200ebf2db6addf72bbd35f1f42b75a83e45531137b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-24-2026",
+   "path": "local/bacau/comanesti/2026/24",
+   "short": "HCL Comănești nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 24/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_024_30.03.2026.pdf",
+     "sha256": "bccb445d7b587a0bf335589037e39e07bcf111b9efd4456800e038e9f43ab7af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-28-2026",
+   "path": "local/bacau/comanesti/2026/28",
+   "short": "HCL Comănești nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 28/2026 privind aprobarea cotizației aferente membrilor ADIS Bacău pentru anul 2026",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_028_30.03.2026.pdf",
+     "sha256": "02bb7fc843a7290fa5b5f93806aabbec8906970b925a917c223c95a6316537ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-29-2026",
+   "path": "local/bacau/comanesti/2026/29",
+   "short": "HCL Comănești nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 29/2026 privind acordul înființării Consorțiului Școlar \"Sanity\"",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_029_30.03.2026.pdf",
+     "sha256": "52d7cf745ebb99ed45711810e2a47c59b7caa26dc1ccaa09f92b9e2b7dbcf513"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-30-2026",
+   "path": "local/bacau/comanesti/2026/30",
+   "short": "HCL Comănești nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 30/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_030_30.03.2026.pdf",
+     "sha256": "025db0c31d8869d7b570f9c81dc4682bb6bd10a992a41da44b3e15fca625f7e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-31-2026",
+   "path": "local/bacau/comanesti/2026/31",
+   "short": "HCL Comănești nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 31/2026 privind aprobarea numărului maxim de posturi pentru anul 2026, pentru aparatul de specialitate al Primarului orașului Comănești și pentru serviciile publice subordonate, stabilit prin Ordinul Prefectului Județului Bacău în conformitate cu prevederile OUG nr.7/2026 pentru mo",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_031_16.04.2026.pdf",
+     "sha256": "03ef07b06d4a656b72c9bc321079bedb2913683523f00cc026ae1a47a2e2c6fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-32-2026",
+   "path": "local/bacau/comanesti/2026/32",
+   "short": "HCL Comănești nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 32/2026 privind aprobarea contului de execuție a bugetului local la sfârșitul trimestrului I 2026",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_032_30.04.2026.pdf",
+     "sha256": "c2d292224a7ee9dfefcea8499ae9227f6a9a6a65ca2bf0da8def16d7900ed0c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-33-2026",
+   "path": "local/bacau/comanesti/2026/33",
+   "short": "HCL Comănești nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 33/2026 privind aprobarea contului de execuție a bugetului local pe anul 2025",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_033_30.04.2026.pdf",
+     "sha256": "f6cc928707bb177b4f140acdbdbb652b0c193b68c6c0ebd5bf4fe767cc9e02ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-34-2026",
+   "path": "local/bacau/comanesti/2026/34",
+   "short": "HCL Comănești nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 34/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_034_30.04.2026.pdf",
+     "sha256": "174f00ae121a26a51a832964defbbc24a90c4fef2c90156d10348545a4177f81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-35-2026",
+   "path": "local/bacau/comanesti/2026/35",
+   "short": "HCL Comănești nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 35/2026 privind aprobarea actului adițional nr. 2 la Contractul de dare în administrare a serviciului și a infrastructurii tehnico-edilitare aferente pentru prestarea serviciului de salubrizare către Serviciul Local \"Eco Valea Muntelui Comănești\"",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_035_30.04.2026.pdf",
+     "sha256": "9456ee745c722f889fa44ffd51eee0f57428076f393da8c832ac085ec8e4b8bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-38-2026",
+   "path": "local/bacau/comanesti/2026/38",
+   "short": "HCL Comănești nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 38/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_038_30.04.2026.pdf",
+     "sha256": "f4e8a6979f0c78e4bbabee63008ae478323995140934f2649f757fe9c71b5253"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-39-2026",
+   "path": "local/bacau/comanesti/2026/39",
+   "short": "HCL Comănești nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 39/2026 privind contracte de concesiuni și de închirieri terenuri",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_039_30.04.2026.pdf",
+     "sha256": "647d00c7023d85d271ca7a363373df6e0dd70185cc7add44201912aa5b58c5ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-40-2026",
+   "path": "local/bacau/comanesti/2026/40",
+   "short": "HCL Comănești nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 40/2026 privind aprobarea plății cotizației anuale către Asociația Orașelor din România",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_040_30.04.2026.pdf",
+     "sha256": "9b8766f66ef2571eb6dc57f8df956a851ef832c29a837ecca9adeaf744a5a1d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-41-2026",
+   "path": "local/bacau/comanesti/2026/41",
+   "short": "HCL Comănești nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 41/2026 privind achiziționarea de cupe pentru premierea participanților la Campionatul Național de EnduroCross ce se va desfășura în orașul Comănești, județul Bacău",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_041_30.04.2026.pdf",
+     "sha256": "d73fc22a0852c38afe0d1beb9cfdc92025592eb1c078a36bd1de522e0b3b6a20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-42-2026",
+   "path": "local/bacau/comanesti/2026/42",
+   "short": "HCL Comănești nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 42/2026 privind alegerea Președintelui de ședință",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_042_30.04.2026.pdf",
+     "sha256": "130f263cacf45bd846ae0defb4c2406b0630831f862b8f5a1db0dac6d8d85d6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-43-2026",
+   "path": "local/bacau/comanesti/2026/43",
+   "short": "HCL Comănești nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 43/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 și estimări pentru anii 2027-2029",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_043_12.05.2026.pdf",
+     "sha256": "e8f3d9f245cf3fa76356bd0e125b8e6e0dee47710f78dd93a8a6aa1e69bf9d8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-44-2026",
+   "path": "local/bacau/comanesti/2026/44",
+   "short": "HCL Comănești nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 44/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_044_12.05.2026.pdf",
+     "sha256": "40630392521667b5911b35afdf1927d5d2ea261a146fea915d290aa9e44e18ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-45-2026",
+   "path": "local/bacau/comanesti/2026/45",
+   "short": "HCL Comănești nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 45/2026 pentru aprobarea bugetului de venituri și cheltuieli al SC Apa Serv Trotuș SRL pentru anul 2026",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_045_12.05.2026.pdf",
+     "sha256": "592b15e5647d3bb1b63a958e8841a91b4e16474d663478a50ed0bc476d355acd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-46-2026",
+   "path": "local/bacau/comanesti/2026/46",
+   "short": "HCL Comănești nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 46/2026 privind aprobarea Bugetului de Venituri și Cheltuieli pentru anul 2026 al Serviciului Local \"Eco Valea Muntelui Comănești\" și estimările pe anii 2027-2029",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_046_12.05.2026.pdf",
+     "sha256": "1307bd01045ac534f6c27c98fa5ad79c0d7424bedc86a9261d92ff03fd3658c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-47-2026",
+   "path": "local/bacau/comanesti/2026/47",
+   "short": "HCL Comănești nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 47/2026 pentru aprobarea Listei obiectivelor de investiții pentru anul 2026",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_047_12.05.2026.pdf",
+     "sha256": "6401378ede8a3b63b182633316ddbe92a10f70f723a9d7cdd6013923fc9dbbe9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-48-2026",
+   "path": "local/bacau/comanesti/2026/48",
+   "short": "HCL Comănești nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 48/2026 pentru aprobarea Raportului privind rezultatele etichetării cheltuielilor bugetare, detaliat pe capitole și surse de finanțare - Formular: 23-01",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_048_12.05.2026.pdf",
+     "sha256": "cb2fe400c4ea61d3ef24d72d62a6ec0ca7dc4906172ec80874e6c708ffc1f395"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-49-2026",
+   "path": "local/bacau/comanesti/2026/49",
+   "short": "HCL Comănești nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 49/2026 privind aprobarea LISTEI DE INVESTIȚII pentru anul 2026 a SC APA SERV TROTUȘ SRL",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_049_12.05.2026.pdf",
+     "sha256": "aac893213851ce0243a79835099054810a1da04c2887669a876d336d40c49f2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-50-2026",
+   "path": "local/bacau/comanesti/2026/50",
+   "short": "HCL Comănești nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 50/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_050_12.05.2026.pdf",
+     "sha256": "50a7a412c6a756491893065b2ed4a21d24a16d874260fe7e309ffb00be168055"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-51-2026",
+   "path": "local/bacau/comanesti/2026/51",
+   "short": "HCL Comănești nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 51/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_051_12.05.2026.pdf",
+     "sha256": "2bd66560c1b1c784688d9b0b50bef43189709028fa37058fa2740c2358cda0c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-52-2026",
+   "path": "local/bacau/comanesti/2026/52",
+   "short": "HCL Comănești nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 52/2026 privind aprobarea cheltuielilor de întreținere și funcționare a \"Centrului de resurse și instruire profesională - Centrul 5\" pentru anul 2026",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_052_12.05.2026.pdf",
+     "sha256": "54c59c6043bf9053dd01b452722bbfb3cbb918d82952e614a3d2b5f6e6e1d2f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-53-2026",
+   "path": "local/bacau/comanesti/2026/53",
+   "short": "HCL Comănești nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 53/2026 privind aprobarea cheltuielilor de întreținere și funcționare a Centrului de Tineret Comănești, anul 2026",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_053_12.05.2026.pdf",
+     "sha256": "59e06d7827a722438e217a73b5b58cada52e9d2edb5b06ed17183e20d6f137a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-54-2026",
+   "path": "local/bacau/comanesti/2026/54",
+   "short": "HCL Comănești nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 54/2026 privind reorganizarea aparatului de specialitate al Primarului orașului Comănești și al serviciilor publice subordonate și aprobarea organigramei și a statului de funcții, în urma aplicării noului număr maxim de posturi pentru anul 2026",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_054_12.05.2026.pdf",
+     "sha256": "fd49afe4abb3a0221f174035dcde45423bb421d69cf793a2a840ff39b4f29e8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-55-2026",
+   "path": "local/bacau/comanesti/2026/55",
+   "short": "HCL Comănești nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 55/2026 pentru modificarea HCL nr. 139/28.11.2024 privind acordul pentru darea în administrare a unui sector de stradă către",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_055_12.05.2026.pdf",
+     "sha256": "22424af5b0bb1489516e8daabebfccb93d9ed13c1453de61067fe4d11aaa8c18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-56-2026",
+   "path": "local/bacau/comanesti/2026/56",
+   "short": "HCL Comănești nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 56/2026 privind aprobarea plății cotizației aferente membrilor Asociației Localităților și Zonelor Istorice și de Artă din Romania (A.L.Z.I.A.R.) pentru anul 2026",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_056_12.05.2026.pdf",
+     "sha256": "e09407a2301e9a851ef17f29e5acf1e2d5f0ba259e9b4de4152c1363b33f3724"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-57-2026",
+   "path": "local/bacau/comanesti/2026/57",
+   "short": "HCL Comănești nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 57/2026 privind aprobarea cotizației restante aferente membrilor ADIS Bacău",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_057_12.05.2026.pdf",
+     "sha256": "2edd0d68e8a97fd9c1a19fc173a042d08524661803a85cb01cfa8717230d61f2"
     }
    ]
   },
@@ -33,6 +603,186 @@
    ]
   },
   {
+   "slug": "hcl-bacau--comanesti-61-2026",
+   "path": "local/bacau/comanesti/2026/61",
+   "short": "HCL Comănești nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 61/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_061_25.06.2026.pdf",
+     "sha256": "aed0337b5342ee666c7fb3679b033b023aa3d5ddb497a1681d911c7bb661af44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-62-2026",
+   "path": "local/bacau/comanesti/2026/62",
+   "short": "HCL Comănești nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 62/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_062_25.06.2026.pdf",
+     "sha256": "a908fb99d6f9d545ca8d06dd2b41fbc3872802cc6a97b2158f4083b9f34fe9f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-63-2026",
+   "path": "local/bacau/comanesti/2026/63",
+   "short": "HCL Comănești nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 63/2026 privind contracte de concesiuni și de închirieri terenuri",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_063_25.06.2026.pdf",
+     "sha256": "eec5031009fbc5f22f71ab7215176249f0c38e380d11af7100a08bb62ef4155a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-64-2026",
+   "path": "local/bacau/comanesti/2026/64",
+   "short": "HCL Comănești nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 64/2026 privind aprobarea prelungirii valabilității unei documentații de urbanism",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_064_25.06.2026.pdf",
+     "sha256": "372093c61ad2bad7f093b2207062f54f6f1fb54b27443ccfbeaac5a5abf034ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-65-2026",
+   "path": "local/bacau/comanesti/2026/65",
+   "short": "HCL Comănești nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 65/2026 privind aprobarea situațiilor financiare anuale privind exercițiul financiar 2025 la SC.APA SERV TROTUȘ SRL",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_065_25.06.2026.pdf",
+     "sha256": "6150a640d1b72ce84f7b1cd0939955ccae314e6b51ecfe0fc5578b96755ca195"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-66-2026",
+   "path": "local/bacau/comanesti/2026/66",
+   "short": "HCL Comănești nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 66/2026 privind aprobarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții \"Modernizare stație de epurare și extindere rețea de canalizare, orașul Comănești, județul Bacău\" aprobat pentru finanțare prin Programul național de investiții \"ANGHEL",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_066_25.06.2026.pdf",
+     "sha256": "26d6932f13e36b43116bb91e212b76d2a48496796289a0e60a7dc532421453b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-67-2026",
+   "path": "local/bacau/comanesti/2026/67",
+   "short": "HCL Comănești nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 67/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_067_25.06.2026.pdf",
+     "sha256": "b0aa0b3c471f75eb7710e324a88eacf37da0602a8b6b6901f82c81ad23e9b93b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-68-2026",
+   "path": "local/bacau/comanesti/2026/68",
+   "short": "HCL Comănești nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 68/2026 privind rectificarea bugetului de venituri și cheltuieli pe anul 2026",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_068_20.07.2026.pdf",
+     "sha256": "a0af0db4f82bce9d2c59481aa6b510fabd45c17e56205e51732b5014cd56a591"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-69-2026",
+   "path": "local/bacau/comanesti/2026/69",
+   "short": "HCL Comănești nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 69/2026 privind aprobarea contului de execuție a bugetului local la sfârșitul trimestrului II 2026",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_069_20.07.2026.pdf",
+     "sha256": "29a2ecb00ee26889b37c8419ea824aed5ce3e45d2669740593637c334fb59c59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-70-2026",
+   "path": "local/bacau/comanesti/2026/70",
+   "short": "HCL Comănești nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 70/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_070_20.07.2026.pdf",
+     "sha256": "3f1a7e07a96b8b53c1c51c497498c3e8c999aed8a587691f62c5a64e03ac79dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-71-2026",
+   "path": "local/bacau/comanesti/2026/71",
+   "short": "HCL Comănești nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 71/2026 privind contracte de concesiuni și de închirieri terenuri",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_071_20.07.2026.pdf",
+     "sha256": "1a8ccb70a5234d4251f1d5650889baa9bd9bf1d42fd605ad5db0a513bf772864"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-72-2026",
+   "path": "local/bacau/comanesti/2026/72",
+   "short": "HCL Comănești nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 72/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_072_20.07.2026.pdf",
+     "sha256": "9278e8252915f390fffbb04836695e7cfafb4b8e6db8c0fb6b4f57d876b20902"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--comanesti-73-2026",
    "path": "local/bacau/comanesti/2026/73",
    "short": "HCL Comănești nr. 73/2026",
@@ -44,6 +794,201 @@
      "units": 1,
      "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_073_20.07.2026.pdf",
      "sha256": "9933a15aefddef6698cc5cf3a2e9d159e403a8f7d7d143892ce781f904ffaad0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-74-2026",
+   "path": "local/bacau/comanesti/2026/74",
+   "short": "HCL Comănești nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 74/2026 pentru modificarea și completarea Listei obiectivelor de investiții pentru anul 2026",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_074_20.07.2026.pdf",
+     "sha256": "304392b93b4736575b000ba5f5bbb8c8294beb3ebef3211d6d3c9e826b222e09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-75-2026",
+   "path": "local/bacau/comanesti/2026/75",
+   "short": "HCL Comănești nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 75/2026 pentru modificare și completarea Raportului privind rezultatele etichetării cheltuielilor bugetare, detaliat pe capitole și surse de finanțare - Formular: 23-01",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_075_20.07.2026.pdf",
+     "sha256": "565d338791a782ba39fbcab78f7057171530086e3cfc6affa41d6b4cd8b9564d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-77-2026",
+   "path": "local/bacau/comanesti/2026/77",
+   "short": "HCL Comănești nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 77/2026 privind premierea cuplurilor din orașul Comănești, care au împlinit 50 de ani de căsătorie",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_077_20.07.2026.pdf",
+     "sha256": "5c99103a1297b469b2f96d6281cdf8b574b4b4f4203906272bcd9aee902e9438"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-78-2026",
+   "path": "local/bacau/comanesti/2026/78",
+   "short": "HCL Comănești nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 78/2026 privind aprobarea Regulamentului de Organizare și Funcționare al serviciului social \"Centru de zi de asistență și recuperare, cu echipă mobilă de îngrijire la domiciliu pentru persoanele vârstnice din orașul Comănești, județul Bacău\"",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_078_20.07.2026.pdf",
+     "sha256": "6b29dbdd74e8b07a5b061f4cd7a71bd9f9d3e489a42831840b7769860c5edf63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-79-2026",
+   "path": "local/bacau/comanesti/2026/79",
+   "short": "HCL Comănești nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 79/2026 privind decontarea cheltuielilor de transport pentru cadrele didactice din cadrul școlilor de pe raza Orașului Comănești, județul Bacău",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_079_20.07.2026.pdf",
+     "sha256": "4a2b00bcd77e7791513b61c30afe0aa1b40d20e79554f1c1b69bc2de98b570fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-81-2026",
+   "path": "local/bacau/comanesti/2026/81",
+   "short": "HCL Comănești nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 81/2026 privind alegerea Președintelui de ședință",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_081_20.07.2026.pdf",
+     "sha256": "0072a2d11c39d3b3cecb5373092f587205041e7b2d5e488475253ccf95100d04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-82-2026",
+   "path": "local/bacau/comanesti/2026/82",
+   "short": "HCL Comănești nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 82/2026 privind rectificarea bugetului de venituri și cheltuieli pe anul 2026",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_082_28.08.2026.pdf",
+     "sha256": "8b688807fe2afa692dfcf6abd54444a6482cd74833763f1f22f1cb311fcb3cf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-83-2026",
+   "path": "local/bacau/comanesti/2026/83",
+   "short": "HCL Comănești nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 83/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_083_28.08.2026.pdf",
+     "sha256": "b1ee81d3d4ceb9b7f65a44254bb452d89b44e249c96042ecb5810f15d1e758f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-84-2026",
+   "path": "local/bacau/comanesti/2026/84",
+   "short": "HCL Comănești nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 84/2026 privind contracte de concesiuni și de închirieri terenuri",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_084_28.08.2026.pdf",
+     "sha256": "9ee662582f7cc8927017428eb3a08dc98ae02fe007aab12920bf126387483365"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-85-2026",
+   "path": "local/bacau/comanesti/2026/85",
+   "short": "HCL Comănești nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 85/2026 privind înscrierea în cartea funciară a imobilului cu număr cadastral 67445, urmare a alipirii a două imobile - teren, cu nr. cadastral 65698 și nr. cadastral 62980, aparținând UAT Comănești, județul Bacău",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_085_28.08.2026.pdf",
+     "sha256": "9490b762feee2775e6327ea532ac01509a4dd1793c8ca935d03ebaa2c4a2dff3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-86-2026",
+   "path": "local/bacau/comanesti/2026/86",
+   "short": "HCL Comănești nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 86/2026 privind aprobarea Registrului Local al Spațiilor Verzi al Orașului Comănești",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_086_28.08.2026.pdf",
+     "sha256": "124408f34fe0005888be91be1b02dcee098b63a912b4129462c140236d96b825"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-87-2026",
+   "path": "local/bacau/comanesti/2026/87",
+   "short": "HCL Comănești nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 87/2026 privind aprobarea dării în administrare către Școala Gimnazială \"LIVIU REBREANU\" Comănești a bunului compus din construcție creșă mică și teren aferent în suprafață de 4143,16 m2, aflat în domeniul public al Orașului Comănești, strada Moldovei, nr. 124, parte din terenul în",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_087_28.08.2026.pdf",
+     "sha256": "45375cb540b8c33e8106888a042274fd2b4ffdb6bd8be8712f48ed702a0a095a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-91-2026",
+   "path": "local/bacau/comanesti/2026/91",
+   "short": "HCL Comănești nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 91/2026 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor pentru achiziția produselor și a contractelor de prestare a serviciilor privind măsurile educative aferente Programului pentru Școli al României în anul școlar 2026-2027",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_091_28.08.2026.pdf",
+     "sha256": "ad8a366070bccda4ecda104f9a7b641736e29f985e2405af29a5c2eb6e8a098e"
     }
    ]
   }

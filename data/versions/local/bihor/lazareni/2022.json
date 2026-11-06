@@ -1,0 +1,546 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/lazareni/2022",
+ "acts": [
+  {
+   "slug": "hcl-bihor--lazareni-1-2022",
+   "path": "local/bihor/lazareni/2022/1",
+   "short": "HCL Lăzăreni nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 1/2022 privind aprobarea procesului verbal întocmit la ședința anterioară a consiliului local",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-01-07",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL1.pdf",
+     "sha256": "9e275a916b54f2324e9a5df6f769027b5e3eeecdfbcd57f6de4afd2ae0e704f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-12-2022",
+   "path": "local/bihor/lazareni/2022/12",
+   "short": "HCL Lăzăreni nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 12/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL12.pdf",
+     "sha256": "cf114c01342d2971317594d18836b956d876e53f1bd5bd3accb4772542fadcec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-13-2022",
+   "path": "local/bihor/lazareni/2022/13",
+   "short": "HCL Lăzăreni nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 13/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL13.pdf",
+     "sha256": "172498e11a5eefc574ac94c86a0f7ed7f45f414a25a9a9916da7b81398f15653"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-14-2022",
+   "path": "local/bihor/lazareni/2022/14",
+   "short": "HCL Lăzăreni nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 14/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL14.pdf",
+     "sha256": "57a70c67195dd8a8413b7a383da8d3d10e9b990c6ba1ae74a4a1db89332f4caf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-15-2022",
+   "path": "local/bihor/lazareni/2022/15",
+   "short": "HCL Lăzăreni nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 15/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL15.pdf",
+     "sha256": "9a1583a425b40dcaf61b9de196885de2dceacde8ab9fbf4a720c9ff94f995144"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-16-2022",
+   "path": "local/bihor/lazareni/2022/16",
+   "short": "HCL Lăzăreni nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 16/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL16.pdf",
+     "sha256": "c379888d6423226ed1fd322571b98b8ac70a06dbdce1537253744d001591914b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-17-2022",
+   "path": "local/bihor/lazareni/2022/17",
+   "short": "HCL Lăzăreni nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 17/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL17.pdf",
+     "sha256": "111046aadba7b59f191a9df0dbd42b4653230dc033bbe0d9f772913256b4de20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-18-2022",
+   "path": "local/bihor/lazareni/2022/18",
+   "short": "HCL Lăzăreni nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 18/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL18.pdf",
+     "sha256": "2224b4c8e985635a6755b05f422e54dc7a45c0ed077583602811d99cea6fe77c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-19-2022",
+   "path": "local/bihor/lazareni/2022/19",
+   "short": "HCL Lăzăreni nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 19/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL19.pdf",
+     "sha256": "417cf8f50ae38b5481f7b0bf064b57e7a2aaf793a0ebd674645652ad8b8c82ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-21-2022",
+   "path": "local/bihor/lazareni/2022/21",
+   "short": "HCL Lăzăreni nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 21/2022 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local al Comunei Lăzăreni, pentru anul 2022",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL21.pdf",
+     "sha256": "3a476762d818b62550ac8de88a69603a7bf6711bd03e16ba9822d86392946dc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-26-2022",
+   "path": "local/bihor/lazareni/2022/26",
+   "short": "HCL Lăzăreni nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 26/2022 privind aprobarea procesului verbal întocmit la ședința anterioară a consiliului local",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL26.pdf",
+     "sha256": "5638f76276851e8ea408a0cf281cc1882512abd337822ad656c1810dd9c1e168"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-30-2022",
+   "path": "local/bihor/lazareni/2022/30",
+   "short": "HCL Lăzăreni nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 30/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL30.pdf",
+     "sha256": "fc28dc98f788e565e80468cdfe40877b5659ed03025c84801759dfff012a2c1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-31-2022",
+   "path": "local/bihor/lazareni/2022/31",
+   "short": "HCL Lăzăreni nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 31/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL31.pdf",
+     "sha256": "b87741be23add991f30ad2cd6c6f7f41be2bc6419766727f43a8c4dc9fcdd42f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-32-2022",
+   "path": "local/bihor/lazareni/2022/32",
+   "short": "HCL Lăzăreni nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 32/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL32.pdf",
+     "sha256": "f917a34a03507bc8a5896abd4fc8ebb18c55fdccd54615008a2b82a6a02145bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-33-2022",
+   "path": "local/bihor/lazareni/2022/33",
+   "short": "HCL Lăzăreni nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 33/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL33.pdf",
+     "sha256": "1132e320ec927514c5946d8d6d59b74eca46ced17ad98f4a7029147b83ff7c6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-34-2022",
+   "path": "local/bihor/lazareni/2022/34",
+   "short": "HCL Lăzăreni nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 34/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL34.pdf",
+     "sha256": "d415c6d3b19f9e974512bee2502ee7d686b99f21492186963f689aeaaef3d46f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-35-2022",
+   "path": "local/bihor/lazareni/2022/35",
+   "short": "HCL Lăzăreni nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 35/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL35.pdf",
+     "sha256": "862c525035b520211ba852e44bf087fe5d50e761f11d9914da6169ea9af9f31a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-36-2022",
+   "path": "local/bihor/lazareni/2022/36",
+   "short": "HCL Lăzăreni nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 36/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL36.pdf",
+     "sha256": "42ac5b4edc0a4e2f3017d2939994c84621e6c0d3fb7c26a5d3963bcebe398a04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-37-2022",
+   "path": "local/bihor/lazareni/2022/37",
+   "short": "HCL Lăzăreni nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 37/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL37.pdf",
+     "sha256": "3b479666d508a0dfcff6453419065492f8adc16ee0593be0419490c6d2595c80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-38-2022",
+   "path": "local/bihor/lazareni/2022/38",
+   "short": "HCL Lăzăreni nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 38/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL38.pdf",
+     "sha256": "c535e42985fbe9bc577eaee9e0f44fe5fe562bf13df9e4c40e8f679f5dd40d64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-39-2022",
+   "path": "local/bihor/lazareni/2022/39",
+   "short": "HCL Lăzăreni nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 39/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL39.pdf",
+     "sha256": "06785f95554fb22fad5301af4c29d2f7ff49b2b35a9d40c492b067fc21625ca7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-40-2022",
+   "path": "local/bihor/lazareni/2022/40",
+   "short": "HCL Lăzăreni nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 40/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL40.pdf",
+     "sha256": "61601fd68f34f2d19ff2c309510ec56d2dbb825691767cecedeb725912a6078a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-41-2022",
+   "path": "local/bihor/lazareni/2022/41",
+   "short": "HCL Lăzăreni nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 41/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL41.pdf",
+     "sha256": "961622d6ecfb424130e76bf49cef0236d0ccc1ff70ead170d80863a36cb341d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-42-2022",
+   "path": "local/bihor/lazareni/2022/42",
+   "short": "HCL Lăzăreni nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 42/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL42.pdf",
+     "sha256": "d41eabb5625766e908c445cf867c4235c788bd4fea671c028f600ca69ccd55ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-43-2022",
+   "path": "local/bihor/lazareni/2022/43",
+   "short": "HCL Lăzăreni nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 43/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL43.pdf",
+     "sha256": "d3eb91fc7eeedc092cdf47c3a8aa795aede4eb1d9b253ee0eaa8865dd16a5174"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-44-2022",
+   "path": "local/bihor/lazareni/2022/44",
+   "short": "HCL Lăzăreni nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 44/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL44.pdf",
+     "sha256": "56ccf3b9f1c79d78ba9f0a8f74db94df37c46019a079ad6f2cedf211e552e869"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-45-2022",
+   "path": "local/bihor/lazareni/2022/45",
+   "short": "HCL Lăzăreni nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 45/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL45.pdf",
+     "sha256": "b6d82de16d0847475e2e9104710e384c546fc9f690b87647cffd19e81c15060d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-46-2022",
+   "path": "local/bihor/lazareni/2022/46",
+   "short": "HCL Lăzăreni nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 46/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL46.pdf",
+     "sha256": "3bcdbebd023986b575a0425451b359f77ea0800757848d5405911f6d94151e0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-47-2022",
+   "path": "local/bihor/lazareni/2022/47",
+   "short": "HCL Lăzăreni nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 47/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL47.pdf",
+     "sha256": "700cf0dc535b42bd730d600011f3c3c718797600827f2fc74ec6147ae9e78b33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-48-2022",
+   "path": "local/bihor/lazareni/2022/48",
+   "short": "HCL Lăzăreni nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 48/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL48.pdf",
+     "sha256": "4a80ac350e1c77f20891f56819a3b3b1c5e2329711a35ae07f1aae2e1b3135ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-49-2022",
+   "path": "local/bihor/lazareni/2022/49",
+   "short": "HCL Lăzăreni nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 49/2022 privind aprobarea procesului verbal întocmit la ședința anterioară a consiliului local",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL49.pdf",
+     "sha256": "fc8c8c9f7ace223dc053d56bcebc750424344ac55e4bbb3a24ec8e2b8c3646fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-50-2022",
+   "path": "local/bihor/lazareni/2022/50",
+   "short": "HCL Lăzăreni nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 50/2022 privind aprobarea ordinii de zi",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL50.pdf",
+     "sha256": "db7753544b8cda2e7487a1131d5213f3dd26a3cfae332fd86bcf4b83474761ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-53-2022",
+   "path": "local/bihor/lazareni/2022/53",
+   "short": "HCL Lăzăreni nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 53/2022 privind aprobarea planului de amplsament și delimitare a imobilului cu suprafața de 2500 mp, reprezentând teren extravilan fără construcții în localitatea Lăzăreni",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL53.pdf",
+     "sha256": "9242755982e7c657518ee07d9824ac9e3d7f9dd95f7221d973f2ab1fa7de9499"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-55-2022",
+   "path": "local/bihor/lazareni/2022/55",
+   "short": "HCL Lăzăreni nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 55/2022 privind aprobarea procesului verbal întocmit la ședința anterioară a consiliului local",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL55.pdf",
+     "sha256": "250fc08cb41ed48b69ee17c0f4975daf7351af1b145283028b882b30fa7914be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-56-2022",
+   "path": "local/bihor/lazareni/2022/56",
+   "short": "HCL Lăzăreni nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 56/2022 privind aprobarea ordinii de zi",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL56.pdf",
+     "sha256": "51b91aba88e2f08ec3964fbbe5dbbecbf30bfa98474acc92d4503e9d19b88244"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-6-2022",
+   "path": "local/bihor/lazareni/2022/6",
+   "short": "HCL Lăzăreni nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 6/2022 privind aprobarea procesului verbal întocmit la ședința anterioară a consiliului local",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2022/HCL6.pdf",
+     "sha256": "f6b5a00379033434b56c679a0ac8ab3b0ea7481fe127bd1c17a3cf85c0c10d4c"
+    }
+   ]
+  }
+ ]
+}

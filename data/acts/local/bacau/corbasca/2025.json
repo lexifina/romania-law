@@ -157,6 +157,74 @@
 }
 },
 {
+"slug": "hcl-bacau--corbasca-91-2025",
+"path": "local/bacau/corbasca/2025/91",
+"kind": "local",
+"year": "2025",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 91/2025 privind aprobarea Studiului de Oportunitate pentru fundamentarea si stabilirea solutiei optime de gestiune a activitatii de colectare separata si transport separat al deseurilor municipale in 66 U.A.T.-uri din județul Bacău",
+"short": "HCL Corbasca nr. 91/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/240965",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-92-2025",
+"path": "local/bacau/corbasca/2025/92",
+"kind": "local",
+"year": "2025",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 92/2025",
+"short": "HCL Corbasca nr. 92/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/240966",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-93-2025",
+"path": "local/bacau/corbasca/2025/93",
+"kind": "local",
+"year": "2025",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 93/2025",
+"short": "HCL Corbasca nr. 93/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/240967",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-94-2025",
 "path": "local/bacau/corbasca/2025/94",
 "kind": "local",
@@ -267,6 +335,28 @@
 }
 },
 {
+"slug": "hcl-bacau--corbasca-99-2025",
+"path": "local/bacau/corbasca/2025/99",
+"kind": "local",
+"year": "2025",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 99/2025 privind stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Corbasca, judeţul Bacau, începând cu luna Decembrie 2025,conform HG.nr.1506/2024",
+"short": "HCL Corbasca nr. 99/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/243321",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-100-2025",
 "path": "local/bacau/corbasca/2025/100",
 "kind": "local",
@@ -330,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-103-2025",
+"path": "local/bacau/corbasca/2025/103",
+"kind": "local",
+"year": "2025",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 103/2025 privind aprobarea Regulamentului local privind amplasarea si autorizarea mijloacelor de publicitate pe raza comunei Corbasca,judetul Bacau",
+"short": "HCL Corbasca nr. 103/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/243325",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

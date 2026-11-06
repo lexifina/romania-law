@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/colonesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-bacau--colonesti-32-2026",
+   "path": "local/bacau/colonesti/2026/32",
+   "short": "HCL Colonești nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Colonești nr. 32/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "01760a52b72c9688a0d369348fa847705b568e9e83c08abbd2829cdc670be019"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--colonesti-33-2026",
+   "path": "local/bacau/colonesti/2026/33",
+   "short": "HCL Colonești nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Colonești nr. 33/2026 privind aprobarea unui Protocol de colaborare în vederea schimbului de informații de interes pentru activitatea notarială Descarcă",
+   "url": "https://primaria-colonesti.ro/administratie/consiliul-local/hotarari-ale-consiliului/",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://primaria-colonesti.ro/pp-content/atasamente/2026/09/Sedinta-ordinara-30.07.2026-HCL-33-aprobare-protocol-Camera-Notarilor-Publici-1.pdf",
+     "sha256": "e4e6328b67cbf08cc550383c2efeec893dbff3911a3cb59dd87119fed67cc1f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--colonesti-34-2026",
+   "path": "local/bacau/colonesti/2026/34",
+   "short": "HCL Colonești nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Colonești nr. 34/2026 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor de prestare a serviciilor pentru derularea măsurilor educative, pentru perioada 2026 – 2027 aferente programului de către Consiliul Local Colonești, județul Bacău Descarcă",
+   "url": "https://primaria-colonesti.ro/administratie/consiliul-local/hotarari-ale-consiliului/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://primaria-colonesti.ro/pp-content/atasamente/2026/09/Sedinta-ordinara-21.08.2026-HCL-34-privind-neasumarea-responsabilitatii-organizarii-sinderularii-procedurilor-de-atribuire-a-contr.-cadru-masuri-educative-2-1.pdf",
+     "sha256": "5f7d5ad380886081acb259e2dcf2500f4d7e351eca387133452e1d9f6323291b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--colonesti-35-2026",
+   "path": "local/bacau/colonesti/2026/35",
+   "short": "HCL Colonești nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Colonești nr. 35/2026 privind rectificarea bugetului de venituri şi cheltuieli al comunei Coloneşti, județul Bacǎu pe anul 2026 Descarcă",
+   "url": "https://primaria-colonesti.ro/administratie/consiliul-local/hotarari-ale-consiliului/",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 1,
+     "source_url": "https://primaria-colonesti.ro/pp-content/atasamente/2026/09/Sedinta-ordinara-21.08.2026-HCL-35-rectificare-buget-iunie-2026-1.pdf",
+     "sha256": "5ee5387ae3c8f5d5b4a893dfc3e966a7295fda905eca6d3bc8de6e2097bec94e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--colonesti-36-2026",
+   "path": "local/bacau/colonesti/2026/36",
+   "short": "HCL Colonești nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Colonești nr. 36/2026 privind aprobarea Devizului general actualizat final pentru obiectivul de investitii “Modernizarea strazilor Spria de Sus, Stejarului si construire pod nou pe strada Stejarului din comuna Colonesti, judetul Bacau”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea",
+   "url": "https://primaria-colonesti.ro/administratie/consiliul-local/hotarari-ale-consiliului/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://primaria-colonesti.ro/pp-content/atasamente/2026/09/Sedinta-ordinara-21.08.2026-HCL-36-privind-aprobarea-Devizului-general-actualizat-final-pentru-obiectivul-de-investitii-Modernizare-drumuri-Colonesti-1.pdf",
+     "sha256": "5730c5e47786d93b47fd8978228fb338df5ec6dcaa0f31c1ca2ae5488caf3e71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--colonesti-37-2026",
+   "path": "local/bacau/colonesti/2026/37",
+   "short": "HCL Colonești nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Colonești nr. 37/2026 privind desemnarea reprezentantului titular și a unui membru supleant din cadrul Consiliului Local al comunei Colonești, județul Bacău în comisia de evaluare a probei de interviu pentru ocuparea funcției de director al Scolii Gimnaziale „Smaranda Apostoleanu” Colonești, județul Bacău precum și desemnarea reprezentanților Consiliului Local al comunei Colonești, județul Bacău in Consiliul de Adminis",
+   "url": "https://primaria-colonesti.ro/administratie/consiliul-local/hotarari-ale-consiliului/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primaria-colonesti.ro/pp-content/atasamente/2026/09/Sedinta-ordinara-24.09.2026-HCL-37-desemenrar-memrii-pt-concurs-director-sc-Gimn-SA-Colonesti-1.pdf",
+     "sha256": "c0061f232618c642c350ee1eb9d0fb0b287f92c7ebaa8b8523c36cce86932597"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--colonesti-38-2026",
+   "path": "local/bacau/colonesti/2026/38",
+   "short": "HCL Colonești nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Colonești nr. 38/2026 privind modificarea și completarea echipei mobile pentru prevenirea, combaterea și intervenția de urgență în cazurile de violență domestică Descarcă",
+   "url": "https://primaria-colonesti.ro/administratie/consiliul-local/hotarari-ale-consiliului/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primaria-colonesti.ro/pp-content/atasamente/2026/09/Sedinta-ordinara-24.09.2026-HCL-38-comisie-de-interventie-2-1.pdf",
+     "sha256": "54796a6d104732ff8e90e590a1b41ae2258c1945ba55f92c2482d88e5a1f27fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--colonesti-39-2026",
+   "path": "local/bacau/colonesti/2026/39",
+   "short": "HCL Colonești nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Colonești nr. 39/2026 privind depunerea si implementarea proiectului “Capacităţi de producere energie din surse regenerabile, cu capacitati de stocare, pentru consum propriu în Comuna Colonesti, Județul Bacau” Descarcă",
+   "url": "https://primaria-colonesti.ro/administratie/consiliul-local/hotarari-ale-consiliului/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primaria-colonesti.ro/pp-content/atasamente/2026/09/Sedinta-ordinara-24.09.2026-HCL-39-depunere-si-implementar-pr-Capacitari-de-producere-en-din-surse-regenerabilecu-cap-de-stocare-Colonesti-1.pdf",
+     "sha256": "c85fd4dfb2065c66ca611d7780223d28370d4ec36930f6f5362468e9a92cbe3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--colonesti-41-2026",
+   "path": "local/bacau/colonesti/2026/41",
+   "short": "HCL Colonești nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Colonești nr. 41/2026 privind utilizarea excedentului bugetar al anilor precedenți Descarcă Descarcă",
+   "url": "https://primaria-colonesti.ro/administratie/consiliul-local/hotarari-ale-consiliului/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primaria-colonesti.ro/pp-content/atasamente/2026/09/Sedinta-ordinara-24.09.2026-HCL-41-utilizare-excedent-2026-1-1.pdf",
+     "sha256": "e318bbfaca222be8fc3d5ba65fbaa736097aa5ac18dee320d5c0f8546bf04c68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--colonesti-42-2026",
+   "path": "local/bacau/colonesti/2026/42",
+   "short": "HCL Colonești nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Colonești nr. 42/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8260d69a2f61896482b626157ee23a4a6d0edc8b397ed37f22a96d3b2efec3e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--colonesti-43-2026",
+   "path": "local/bacau/colonesti/2026/43",
+   "short": "HCL Colonești nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Colonești nr. 43/2026 privind rectificarea bugetului de venituri şi cheltuieli al comunei Coloneşti, județul Bacǎu pe anul 2026 Descarcă",
+   "url": "https://primaria-colonesti.ro/administratie/consiliul-local/hotarari-ale-consiliului/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primaria-colonesti.ro/pp-content/atasamente/2026/09/Sedinta-ordinara-24.09.2026-HCL-43-rectificare-buget-septembrie-2026-1.pdf",
+     "sha256": "a9ef96ec46d8be49d5b127bd9c8e4fc2cda977c47840a67f46a06d2253f470dd"
+    }
+   ]
+  }
+ ]
+}

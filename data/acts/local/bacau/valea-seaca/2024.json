@@ -3,6 +3,28 @@
 "shard": "local/bacau/valea-seaca/2024",
 "acts": [
 {
+"slug": "hcl-bacau--valea-seaca-2-2024",
+"path": "local/bacau/valea-seaca/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 2/2024 privind admiterea propunerilor de candidaturä pentru functiile de consilieri locali in Consiliul Local al Comunei Valea Seacä, potrivit listei de candidati depusä de cätre Partidul National Liberal — PNL Sub nr. 42/26.04.2024, s-au inregistrat, la acest birou, propunerile de candidaturä pentru functia de consilier local in Consiliul Local al Comunei Valea Seaca din partea Partidul National Liberal",
+"short": "HCL Valea Seacă nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-26",
+"latest": "2024-04-26",
+"portal": "https://primaria-valeaseaca.ro/wp-content/uploads/2025/05/Hotararea-nr.2.pdf",
+"council": "bacau/valea-seaca",
+"council_name": "Consiliul Local al Comunei Valea Seacă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--valea-seaca-4-2024",
 "path": "local/bacau/valea-seaca/2024/4",
 "kind": "local",

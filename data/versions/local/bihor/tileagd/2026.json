@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/tileagd/2026",
+ "acts": [
+  {
+   "slug": "hcl-bihor--tileagd-1-2026",
+   "path": "local/bihor/tileagd/2026/1",
+   "short": "HCL Tileagd nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tileagd nr. 1/2026 privind alegerea presedintelui de sedință",
+   "url": "https://emol.ro/tileagd-bh/registru-hcl/292857",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tileagd-bh/registru-hcl/292857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tileagd-2-2026",
+   "path": "local/bihor/tileagd/2026/2",
+   "short": "HCL Tileagd nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tileagd nr. 2/2026 privind alegerea presedintelui de sedință",
+   "url": "https://emol.ro/tileagd-bh/registru-hcl/292858",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tileagd-bh/registru-hcl/292858",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,36 @@
  "shard": "local/bacau/tamasi/2025",
  "acts": [
   {
+   "slug": "hcl-bacau--tamasi-59-2025",
+   "path": "local/bacau/tamasi/2025/59",
+   "short": "HCL Tamași nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 59/2025 privind acordarea Diplomei de onoare si a unui premiu pecuniar pentru cuplurile care au împlinit 50 de ani de căsătorie în anul 2025",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/231482",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/231482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-60-2025",
+   "path": "local/bacau/tamasi/2025/60",
+   "short": "HCL Tamași nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 60/2025 privind actualizarea devizului general la obiectivul de investitii ,,Extindere retea de iluminat public in loc Chetriș si Tamași, jud . Bacau ,,",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/231483",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/231483",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--tamasi-61-2025",
    "path": "local/bacau/tamasi/2025/61",
    "short": "HCL Tamași nr. 61/2025",
@@ -43,6 +73,21 @@
      "from": "2025-12-19",
      "units": 1,
      "source_url": "https://emol.ro/tamasi-bc/registru-hcl/236117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-64-2025",
+   "path": "local/bacau/tamasi/2025/64",
+   "short": "HCL Tamași nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 64/2025 privind constituirea unui drept de utilizare și acces a suprafeței de aproximativ 240 mp din zona drumului de exploatare D.E.964/1 și a drumurilor de exploatare -intersecții ce sunt subtraversate de conducta de refulare CR având Dn 600 mm aflate in domeniul public al Comunei Tamași și in administrarea Consiliului Local al Comunei Tamași în favoarea A.N.I.F.- FILIALA TERITORIALĂ de ÎMBUNĂTĂȚIRI FUNCIARE BACĂU",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/236118",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/236118",
      "sha256": null
     }
    ]

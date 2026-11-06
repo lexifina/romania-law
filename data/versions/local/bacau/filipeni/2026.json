@@ -3,6 +3,21 @@
  "shard": "local/bacau/filipeni/2026",
  "acts": [
   {
+   "slug": "hcl-bacau--filipeni-20-2026",
+   "path": "local/bacau/filipeni/2026/20",
+   "short": "HCL Filipeni nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 20/2026 privind aprobarea achiziționării în regim de urgență a serviciilor de închiriere de autospeciale și personal deservent prin Asociația de Dezvoltare Intercomunitară pentru Salubrizare Bacău, în sistem unitar pentru unitățile administrativ-teritoriale afectate de întreruperea serviciului de salubrizare, și acordarea mandatului reprezentantului comunei Filipeni în Adunarea Generală a Adis Bacău de a vota în favoarea Proiectului de Hotărâre aferent",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/266196",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/266196",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--filipeni-21-2026",
    "path": "local/bacau/filipeni/2026/21",
    "short": "HCL Filipeni nr. 21/2026",
@@ -18,6 +33,51 @@
    ]
   },
   {
+   "slug": "hcl-bacau--filipeni-22-2026",
+   "path": "local/bacau/filipeni/2026/22",
+   "short": "HCL Filipeni nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 22/2026 privind reorganizarea funcțiilor contractuale din cadrul Compartimentului Centru Comunitar Integrat din aparatului de specialitate al primarului comunei Filipeni",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/278383",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/278383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-23-2026",
+   "path": "local/bacau/filipeni/2026/23",
+   "short": "HCL Filipeni nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 23/2026 privind aprobarea modificării contractului de concesiune nr. 760/25.02.2022 încheiat între Consiliul Local Filipeni și SC FORTIUS NATURA SRL",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/278384",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/278384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-24-2026",
+   "path": "local/bacau/filipeni/2026/24",
+   "short": "HCL Filipeni nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 24/2026 privind schimbarea sediului administrativ al UAT Comuna Filipeni, al aparatului de specialitate al primarului și al Consiliului local al Comunei Filipeni",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/278178",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/278178",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--filipeni-25-2026",
    "path": "local/bacau/filipeni/2026/25",
    "short": "HCL Filipeni nr. 25/2026",
@@ -28,6 +88,21 @@
      "from": "2026-07-13",
      "units": 1,
      "source_url": "https://emol.ro/filipeni-bc/registru-hcl/278179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-26-2026",
+   "path": "local/bacau/filipeni/2026/26",
+   "short": "HCL Filipeni nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 26/2026 privind aprobarea închirierii prin licitație publică a unor spații cu destinația socio-medicale, aparținând domeniului public al comunei Filipeni, situat în incinta imobilului „CENTRU COMUNITAR INTEGRAT din comuna Filipeni, județul Bacău”",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/278180",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/278180",
      "sha256": null
     }
    ]
@@ -183,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--filipeni-37-2026",
+   "path": "local/bacau/filipeni/2026/37",
+   "short": "HCL Filipeni nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 37/2026 privind desemnarea unui reprezentant al Consiliului local în Consiliul de administrație al Școlii Gimnaziale Filipeni",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/293458",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/293458",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--filipeni-38-2026",
    "path": "local/bacau/filipeni/2026/38",
    "short": "HCL Filipeni nr. 38/2026",
@@ -193,6 +283,21 @@
      "from": "2026-10-15",
      "units": 1,
      "source_url": "https://emol.ro/filipeni-bc/registru-hcl/293460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-39-2026",
+   "path": "local/bacau/filipeni/2026/39",
+   "short": "HCL Filipeni nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 39/2026 privind constituirea Comisiei Mixte de specialitate în vederea analizării condițiilor tehnice, juridice și financiare pentru punerea în aplicare a HCL nr. 36/14.10.2026",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/294486",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/294486",
      "sha256": null
     }
    ]

@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-bihor--lazuri-de-beius-73-2022",
+"path": "local/bihor/lazuri-de-beius/2022/73",
+"kind": "local",
+"year": "2022",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 73/2022 Privind aprobarea proiectului si a cheltuielilor aferente investiției intitulate „ Reabilitarea moderată a clădirii Scolii din localitatea Hinchiris, comuna Lazuri de Beiuș, județul Bihor”",
+"short": "HCL Lazuri de Beiuș nr. 73/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-26",
+"latest": "2022-10-26",
+"portal": "https://emol.ro/lazuridebeius-bh/registru-hcl/75611",
+"council": "bihor/lazuri-de-beius",
+"council_name": "Consiliul Local al Comunei Lazuri de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--lazuri-de-beius-74-2022",
+"path": "local/bihor/lazuri-de-beius/2022/74",
+"kind": "local",
+"year": "2022",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 74/2022 Privind aprobarea proiectului si a cheltuielilor aferente investiției intitulate „ Reabilitarea moderată a clădirii Gradinitei din localitatea Hinchiris, comuna Lazuri de Beiuș, județul Bihor”",
+"short": "HCL Lazuri de Beiuș nr. 74/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-26",
+"latest": "2022-10-26",
+"portal": "https://emol.ro/lazuridebeius-bh/registru-hcl/75612",
+"council": "bihor/lazuri-de-beius",
+"council_name": "Consiliul Local al Comunei Lazuri de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--lazuri-de-beius-75-2022",
 "path": "local/bihor/lazuri-de-beius/2022/75",
 "kind": "local",
@@ -157,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-bihor--lazuri-de-beius-80-2022",
+"path": "local/bihor/lazuri-de-beius/2022/80",
+"kind": "local",
+"year": "2022",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 80/2022 privind aprobarea prelungirii contractului de concesionare a spatiului aferent Dispensarului medical al comunei Lazuri de Beius, avand destinatia de farmacie, in suprafata totala de 27,5 mp",
+"short": "HCL Lazuri de Beiuș nr. 80/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-21",
+"latest": "2022-11-21",
+"portal": "https://emol.ro/lazuridebeius-bh/registru-hcl/79177",
+"council": "bihor/lazuri-de-beius",
+"council_name": "Consiliul Local al Comunei Lazuri de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--lazuri-de-beius-81-2022",
 "path": "local/bihor/lazuri-de-beius/2022/81",
 "kind": "local",
@@ -245,6 +311,28 @@
 }
 },
 {
+"slug": "hcl-bihor--lazuri-de-beius-85-2022",
+"path": "local/bihor/lazuri-de-beius/2022/85",
+"kind": "local",
+"year": "2022",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 85/2022 privind trecerea din domeniul public al Comunei Lazuri de Beiuș, în domeniul public al Județului Bihor, a imobilului – teren situat în Comuna Lazuri de Beiuș, identificat cu nr. cadastral 50978, înscris în CF 50978, în vederea realizării obiectivului de investiții Centru/platformă de colectare a deșeurilor prin aport voluntar",
+"short": "HCL Lazuri de Beiuș nr. 85/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/lazuridebeius-bh/registru-hcl/81864",
+"council": "bihor/lazuri-de-beius",
+"council_name": "Consiliul Local al Comunei Lazuri de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--lazuri-de-beius-86-2022",
 "path": "local/bihor/lazuri-de-beius/2022/86",
 "kind": "local",
@@ -330,6 +418,29 @@
 "council_name": "Consiliul Local al Comunei Lazuri de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--lazuri-de-beius-90-2022",
+"path": "local/bihor/lazuri-de-beius/2022/90",
+"kind": "local",
+"year": "2022",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 90/2022",
+"short": "HCL Lazuri de Beiuș nr. 90/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-05",
+"latest": "2023-01-05",
+"portal": "https://emol.ro/lazuridebeius-bh/registru-hcl/84214",
+"council": "bihor/lazuri-de-beius",
+"council_name": "Consiliul Local al Comunei Lazuri de Beiuș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

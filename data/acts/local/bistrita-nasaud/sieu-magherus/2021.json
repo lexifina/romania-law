@@ -23,6 +23,50 @@
 "flags": {
 "text_pending": "source"
 }
+},
+{
+"slug": "hcl-bistrita-nasaud--sieu-magherus-55-2021",
+"path": "local/bistrita-nasaud/sieu-magherus/2021/55",
+"kind": "local",
+"year": "2021",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șieu-Măgheruș nr. 55/2021 PH PRIVIND ALEGEREA PREȘEDINTELUI DE ȘEDINȚA",
+"short": "HCL Șieu-Măgheruș nr. 55/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://sieumagherus.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26154#8171",
+"council": "bistrita-nasaud/sieu-magherus",
+"council_name": "Consiliul Local al Comunei Șieu-Măgheruș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--sieu-magherus-64-2021",
+"path": "local/bistrita-nasaud/sieu-magherus/2021/64",
+"kind": "local",
+"year": "2021",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șieu-Măgheruș nr. 64/2021 PH privind desemnarea reprezentantului Consiliului local Șieu Măgheruș în Consiliul de administrație al Școlii Gimnaziale Șieu Măgheruș",
+"short": "HCL Șieu-Măgheruș nr. 64/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://sieumagherus.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26154#10718",
+"council": "bistrita-nasaud/sieu-magherus",
+"council_name": "Consiliul Local al Comunei Șieu-Măgheruș",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

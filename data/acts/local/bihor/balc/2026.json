@@ -179,6 +179,50 @@
 }
 },
 {
+"slug": "hcl-bihor--balc-66-2026",
+"path": "local/bihor/balc/2026/66",
+"kind": "local",
+"year": "2026",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balc nr. 66/2026 privind aprobarea drepturilor băneşti aferente personalului didactic şi a personalului didactic auxiliar, pentru cheltuielile de deplasare, transport la şi de la locul de muncă, pentru perioada ianuarie 2026 - iunie 2026",
+"short": "HCL Balc nr. 66/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-13",
+"latest": "2026-10-13",
+"portal": "https://emol.ro/balc-bh/registru-hcl/292924",
+"council": "bihor/balc",
+"council_name": "Consiliul Local al Comunei Balc",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--balc-67-2026",
+"path": "local/bihor/balc/2026/67",
+"kind": "local",
+"year": "2026",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balc nr. 67/2026 privind desemnarea reprezentanților Consiliului Local Balc în comisia de evaluare a probei de interviu pentru concursul de ocupare a funcțiilor de director și director adjunct la Școala Gimnazială nr.1 Balc",
+"short": "HCL Balc nr. 67/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-13",
+"latest": "2026-10-13",
+"portal": "https://emol.ro/balc-bh/registru-hcl/292925",
+"council": "bihor/balc",
+"council_name": "Consiliul Local al Comunei Balc",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--balc-68-2026",
 "path": "local/bihor/balc/2026/68",
 "kind": "local",

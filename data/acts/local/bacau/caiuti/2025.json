@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bacau/caiuti/2025",
+"acts": [
+{
+"slug": "hcl-bacau--caiuti-591-2025",
+"path": "local/bacau/caiuti/2025/591",
+"kind": "local",
+"year": "2025",
+"number": "591",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 591/2025 privind declarare date pentru Registru Agricol Vizualizare",
+"short": "HCL Căiuți nr. 591/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-20",
+"latest": "2025-01-20",
+"portal": "https://www.primariacaiuti.ro/informatii-de-interes-public/registrul-agricol-si-fond-funciar/",
+"council": "bacau/caiuti",
+"council_name": "Consiliul Local al Comunei Căiuți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--caiuti-933-2025",
+"path": "local/bacau/caiuti/2025/933",
+"kind": "local",
+"year": "2025",
+"number": "933",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 933/2025 privind începerea lucrărilor conform programului național de cadastru și carte funciară (Adaugat la data 28.01.2025) Vizualizare",
+"short": "HCL Căiuți nr. 933/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-28",
+"latest": "2025-01-28",
+"portal": "https://www.primariacaiuti.ro/informatii-de-interes-public/registrul-agricol-si-fond-funciar/",
+"council": "bacau/caiuti",
+"council_name": "Consiliul Local al Comunei Căiuți",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

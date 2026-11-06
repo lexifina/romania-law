@@ -180,6 +180,29 @@
 }
 },
 {
+"slug": "hcl-bacau--nicolae-balcescu-89-2020",
+"path": "local/bacau/nicolae-balcescu/2020/89",
+"kind": "local",
+"year": "2020",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 89/2020",
+"short": "HCL Nicolae Bălcescu nr. 89/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-13",
+"latest": "2020-11-13",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/11248",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--nicolae-balcescu-90-2020",
 "path": "local/bacau/nicolae-balcescu/2020/90",
 "kind": "local",
@@ -287,6 +310,28 @@
 "council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--nicolae-balcescu-95-2020",
+"path": "local/bacau/nicolae-balcescu/2020/95",
+"kind": "local",
+"year": "2020",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 95/2020 privind aprobarea acordării unui ajutor financiar",
+"short": "HCL Nicolae Bălcescu nr. 95/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-16",
+"latest": "2020-12-16",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/13734",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

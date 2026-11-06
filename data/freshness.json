@@ -90,19 +90,19 @@
   "official_url": "the act's page at its official source, to check by hand"
  },
  "totals": {
-  "acts": 269620,
+  "acts": 272620,
   "by_status": {
-   "current": 203286,
+   "current": 206120,
    "pending-change": 28280,
    "stale": 4468,
-   "unverified": 33586,
+   "unverified": 33752,
    "source-unavailable": 0
   },
-  "verified_7d": 216700,
-  "verified_30d": 216740,
-  "pct_verified_7d": 80.4,
-  "pct_verified_30d": 80.4,
-  "pct_current": 75.4,
+  "verified_7d": 219534,
+  "verified_30d": 219574,
+  "pct_verified_7d": 80.5,
+  "pct_verified_30d": 80.5,
+  "pct_current": 75.6,
   "newest_verified": "2026-11-06",
   "oldest_verified": "2018-07-23"
  },
@@ -142,16 +142,16 @@
    "oldest_verified": "2026-11-05"
   },
   "local": {
-   "acts": 123296,
+   "acts": 126296,
    "by_status": {
-    "current": 118791,
+    "current": 121625,
     "pending-change": 0,
     "stale": 2429,
-    "unverified": 2076,
+    "unverified": 2242,
     "source-unavailable": 0
    },
-   "verified_7d": 118752,
-   "verified_30d": 118791,
+   "verified_7d": 121586,
+   "verified_30d": 121625,
    "pct_verified_7d": 96.3,
    "pct_verified_30d": 96.3,
    "pct_current": 96.3,
@@ -569,16 +569,16 @@
    "oldest_verified": "2021-12-06"
   },
   "local": {
-   "acts": 123296,
+   "acts": 126296,
    "by_status": {
-    "current": 118791,
+    "current": 121625,
     "pending-change": 0,
     "stale": 2429,
-    "unverified": 2076,
+    "unverified": 2242,
     "source-unavailable": 0
    },
-   "verified_7d": 118752,
-   "verified_30d": 118791,
+   "verified_7d": 121586,
+   "verified_30d": 121625,
    "pct_verified_7d": 96.3,
    "pct_verified_30d": 96.3,
    "pct_current": 96.3,
@@ -864,7 +864,7 @@
    ],
    "acts": 123857,
    "last_successful_check": "2026-11-06",
-   "unavailable_since": "2026-11-06",
+   "unavailable_since": null,
    "sites": null,
    "sites_unavailable": null,
    "pct_verified_7d": 66.1,
@@ -904,13 +904,13 @@
    "kinds": [
     "local"
    ],
-   "acts": 121957,
+   "acts": 124957,
    "last_successful_check": "2026-11-06",
    "unavailable_since": null,
-   "sites": 338,
+   "sites": 345,
    "sites_unavailable": 6,
-   "pct_verified_7d": 97.4,
-   "pct_verified_30d": 97.4
+   "pct_verified_7d": 97.3,
+   "pct_verified_30d": 97.3
   },
   {
    "source": "Court decisions (Portalul legislativ)",
@@ -927,5 +927,5 @@
   }
  ],
  "index": "data/freshness/index.json",
- "shards": 4454
+ "shards": 4645
 }

@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-bacau--rachitoasa-42-2022",
+"path": "local/bacau/rachitoasa/2022/42",
+"kind": "local",
+"year": "2022",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 42/2022 privind desemnarea reprezentanţilor Consiliului Local al comunei Răchitoasa, ca membrii în Consiliul de administraţie al Liceului Tehnologic Răchitoasa, pentru anul şcolar 2022-2023",
+"short": "HCL Răchitoasa nr. 42/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-08",
+"latest": "2023-06-08",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/108156",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--rachitoasa-43-2022",
 "path": "local/bacau/rachitoasa/2022/43",
 "kind": "local",

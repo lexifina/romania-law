@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--viisoara-46-2025",
+   "path": "local/bihor/viisoara/2025/46",
+   "short": "HCL Viișoara nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 46/2025 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/234735",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/234735",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--viisoara-47-2025",
    "path": "local/bihor/viisoara/2025/47",
    "short": "HCL Viișoara nr. 47/2025",
@@ -133,6 +148,21 @@
      "from": "2025-10-31",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-bh/registru-hcl/234738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-50-2025",
+   "path": "local/bihor/viisoara/2025/50",
+   "short": "HCL Viișoara nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 50/2025 privind incetarea acordului de cooperare a UATViisoara , incheiat cu Filiala Judeteana Bihor ACOR, in ce priveste activitatea de urbanism",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/234739",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/234739",
      "sha256": null
     }
    ]
@@ -228,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--viisoara-57-2025",
+   "path": "local/bihor/viisoara/2025/57",
+   "short": "HCL Viișoara nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 57/2025 privind desemnare reprezentant din Consiliul local al comunei Viisoara , pentru a face parte din consiliul de Administratie a Scolii Gimnaziale nr.1 Viisoara",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/245105",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/245105",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--viisoara-58-2025",
    "path": "local/bihor/viisoara/2025/58",
    "short": "HCL Viișoara nr. 58/2025",
@@ -238,6 +283,21 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-bh/registru-hcl/245106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-59-2025",
+   "path": "local/bihor/viisoara/2025/59",
+   "short": "HCL Viișoara nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 59/2025 privind validarea și însușirea Dispoziţiei nr.108 din 18.12.2025 a Primarului Comunei Viisoara privind rectificarea bugetului de venituri si cheltuieli pe anul 2025",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/245107",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/245107",
      "sha256": null
     }
    ]

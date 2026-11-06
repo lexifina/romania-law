@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-bistrita-nasaud--silivasu-de-campie-49-2025",
+"path": "local/bistrita-nasaud/silivasu-de-campie/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 49/2025 privind avizarea lucrării,,INTERNET ZONE ALBE-JUD SM,MM,CJ,BN-ZONA 5,, realizată în comuna Silivașu de Câmpie, județul Bistrița-Năsăud",
+"short": "HCL Silivașu de Câmpie nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-22",
+"latest": "2025-09-22",
+"portal": "https://emol.ro/silivasudecampie-bn/registru-hcl/226218",
+"council": "bistrita-nasaud/silivasu-de-campie",
+"council_name": "Consiliul Local al Comunei Silivașu de Câmpie",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--silivasu-de-campie-50-2025",
 "path": "local/bistrita-nasaud/silivasu-de-campie/2025/50",
 "kind": "local",
@@ -154,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Silivașu de Câmpie",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--silivasu-de-campie-51-2025",
+"path": "local/bistrita-nasaud/silivasu-de-campie/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 51/2025 privind stabilirea salariilor de baza pentru functiile publice si contractuale din aparatul de specialitate al primarului comunei Silivasu de Câmpie,judetul Bistrita-Năsăud",
+"short": "HCL Silivașu de Câmpie nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/silivasudecampie-bn/registru-hcl/229046",
+"council": "bistrita-nasaud/silivasu-de-campie",
+"council_name": "Consiliul Local al Comunei Silivașu de Câmpie",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -265,6 +309,28 @@
 "council_name": "Consiliul Local al Comunei Silivașu de Câmpie",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--silivasu-de-campie-57-2025",
+"path": "local/bistrita-nasaud/silivasu-de-campie/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 57/2025 privind aprobarea ajustarii tarifelor aferente Contractului de concesiune nr. 1277/2018 privind gelegarea prin concesiune a serviciului public de salubrizare, respectiv activitatea de colectare,transport,depozitare si transfer al deseurilor municipale inclusiv deseuri pericoloare din deseuri menajere si managementul Statiilor de Transfer si al Centrelor de Colectare din judetul Bistrița-Năsăud,precum si a tarifelor distincte pentru gestionarea deseurilor de pe raza judetului Bistrița--Năsăud",
+"short": "HCL Silivașu de Câmpie nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-11",
+"latest": "2025-12-11",
+"portal": "https://emol.ro/silivasudecampie-bn/registru-hcl/237321",
+"council": "bistrita-nasaud/silivasu-de-campie",
+"council_name": "Consiliul Local al Comunei Silivașu de Câmpie",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

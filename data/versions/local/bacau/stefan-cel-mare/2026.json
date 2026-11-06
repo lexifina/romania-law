@@ -3,6 +3,126 @@
  "shard": "local/bacau/stefan-cel-mare/2026",
  "acts": [
   {
+   "slug": "hcl-bacau--stefan-cel-mare-11-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/11",
+   "short": "HCL Ștefan cel Mare nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 11/2026 pentru activitățile specifice serviciului de salubrizare",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.11.-din-06.02.2026-aprobarea-tarifelor-diminuate-pentru-activitatile-specifice-serviciului-de-salubrizare-.pdf",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.11.-din-06.02.2026-aprobarea-tarifelor-diminuate-pentru-activitatile-specifice-serviciului-de-salubrizare-.pdf",
+     "sha256": "a955fc3c02a1a3798cbf6a26e935fdcf8231703302b8265f95b7cf912b18d737"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-12-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/12",
+   "short": "HCL Ștefan cel Mare nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 12/2026",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.12-din-06.02.2026-aprobarea-raportului-de-monitorizare-a-contractului-de-delegare-a-gestiunii-serviciilor-de-salubrizare-.pdf",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.12-din-06.02.2026-aprobarea-raportului-de-monitorizare-a-contractului-de-delegare-a-gestiunii-serviciilor-de-salubrizare-.pdf",
+     "sha256": "2c1f21e1274a706c0b0f370e35d41418b11ac9f93ea3a0d5a693d7f2156ebfa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-13-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/13",
+   "short": "HCL Ștefan cel Mare nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 13/2026",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.13-din-25.02.2026-alegerea-presedintelui-de-sedinta-pt-3-luni.pdf",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.13-din-25.02.2026-alegerea-presedintelui-de-sedinta-pt-3-luni.pdf",
+     "sha256": "995268e68a9e0b70690c9170bb2836be668ddc0e61bbe52c8d53b9111e1ac5be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-14-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/14",
+   "short": "HCL Ștefan cel Mare nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 14/2026 privind utilizarea unei sume din excedentului anilor precedenti in cursul anului 2026",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.14-din-25.02.2026-privind-utilizarea-unei-sume-din-excedentului-anilor-precedenti-in-cursul-anului-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.14-din-25.02.2026-privind-utilizarea-unei-sume-din-excedentului-anilor-precedenti-in-cursul-anului-2026.pdf",
+     "sha256": "11048e228501d4ef5db3d9608641be95c89e0fb5f9e00dcabbbe68e3aa086519"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-15-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/15",
+   "short": "HCL Ștefan cel Mare nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 15/2026 privind stadiul inscrierii darelor in registrul agricol pentru anul 2025 si stabilirea masurilor pentru eficientizarea pt anul 2026",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.15-din-25.02.2026-privind-stadiul-inscrierii-darelor-in-registrul-agricol-pentru-anul-2025-si-stabilirea-masurilor-pentru-eficientizarea-pt-anul-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.15-din-25.02.2026-privind-stadiul-inscrierii-darelor-in-registrul-agricol-pentru-anul-2025-si-stabilirea-masurilor-pentru-eficientizarea-pt-anul-2026.pdf",
+     "sha256": "afb956be156612166f2c57140802e377329e4b24074b4a2a6337ad22306ddf17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-16-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/16",
+   "short": "HCL Ștefan cel Mare nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 16/2026 privind casarea mijloacelor fixe si obiecte de inventar aflate in inventarul primariei comunei Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.16-din-25.02.2026-privind-casarea-mijloacelor-fixe-si-obiecte-de-inventar-aflate-in-inventarul-primariei-comunei-Stefan-cel-Mare.pdf",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.16-din-25.02.2026-privind-casarea-mijloacelor-fixe-si-obiecte-de-inventar-aflate-in-inventarul-primariei-comunei-Stefan-cel-Mare.pdf",
+     "sha256": "7400b986b45a15d1e4a1ae3519ffc2d0449255246a48161a416225460d994912"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-17-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/17",
+   "short": "HCL Ștefan cel Mare nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 17/2026 privind modificarea si completarea HCL nr.92 din 30.12.2025",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/hotararea-nr-17-din-25.03.2026-privind-modificarea-si-completarea-HCL-nr.92-din-30.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/hotararea-nr-17-din-25.03.2026-privind-modificarea-si-completarea-HCL-nr.92-din-30.12.2025.pdf",
+     "sha256": "c4ea4b36346ccabdbc6225aab4884ed81d090060ffb749d0eef9baaef777b363"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-18-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/18",
+   "short": "HCL Ștefan cel Mare nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 18/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "761a16d910441229ad01643500aaa9961439d6b3185e5bdd3f31860ae6372c48"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--stefan-cel-mare-19-2026",
    "path": "local/bacau/stefan-cel-mare/2026/19",
    "short": "HCL Ștefan cel Mare nr. 19/2026",
@@ -14,6 +134,456 @@
      "units": 1,
      "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.19-din-25.03.2026-privind-aprobarea-Regulamentului-privind-normele-de-gospodarire-comunala-intretinere-colectare-transportdepozitare-deseuri.pdf",
      "sha256": "312fb4ef2a89d6f6f9154cf8119fa67f30acbfa7f0b08b5fce907dbd2ce5921a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-20-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/20",
+   "short": "HCL Ștefan cel Mare nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 20/2026 privind aprobarea PT pentru obiectivul de investitie Eficientizarea Sistemului de iluminat in strazile secundare",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.20-din-25.03.2026-privind-aprobarea-PT-pentru-obiectivul-de-investitie-Eficientizarea-Sistemului-de-iluminat-in-strazile-secundare-.pdf",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.20-din-25.03.2026-privind-aprobarea-PT-pentru-obiectivul-de-investitie-Eficientizarea-Sistemului-de-iluminat-in-strazile-secundare-.pdf",
+     "sha256": "584f35be45cb6e436f8c640330eb23e7efa31440ffb00f8582aae9369ebf83d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-21-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/21",
+   "short": "HCL Ștefan cel Mare nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 21/2026 pentru anul 2022 aferente contractului de delegare a gestiunii serviciilor de salubrizare",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.21-din-25.03.2026-penalitatilor-pentru-anul-2022-aferente-contractului-de-delegare-a-gestiunii-serviciilor-de-salubrizare-.pdf",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.21-din-25.03.2026-penalitatilor-pentru-anul-2022-aferente-contractului-de-delegare-a-gestiunii-serviciilor-de-salubrizare-.pdf",
+     "sha256": "d98c713a1ae22e5e90746fcf4243cee9294b413a314701ba7e7d0bebb48178a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-22-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/22",
+   "short": "HCL Ștefan cel Mare nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 22/2026 pentru anul 2025 aferente contractului de delegare a gestiunii serviciilor de salubrizare NR. 1802957",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.22-din-25.03.2026-penalitatilor-pentru-anul-2025-aferente-contractului-de-delegare-a-gestiunii-serviciilor-de-salubrizare-NR.-1802957-.pdf",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.22-din-25.03.2026-penalitatilor-pentru-anul-2025-aferente-contractului-de-delegare-a-gestiunii-serviciilor-de-salubrizare-NR.-1802957-.pdf",
+     "sha256": "c389dbc8eb853c5fef0bdf7285fe52bb913bdd76975ceaed6073676941ef40c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-23-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/23",
+   "short": "HCL Ștefan cel Mare nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 23/2026 privind aprobarea listei mijloacelor fixe apartinand sistemelor de alimentare cu apa si canalizare ce vor fi predate catre CRAB",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.23-din-25.03.2026-privind-aprobarea-listei-mijloacelor-fixe-apartinand-sistemelor-de-alimentare-cu-apa-si-canalizare-ce-vor-fi-predate-catre-CRAB.pdf",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.23-din-25.03.2026-privind-aprobarea-listei-mijloacelor-fixe-apartinand-sistemelor-de-alimentare-cu-apa-si-canalizare-ce-vor-fi-predate-catre-CRAB.pdf",
+     "sha256": "1523fe9bbf28665ec19199f24115959ab070c4e85d9e2dcadf88b86f501cc4cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-24-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/24",
+   "short": "HCL Ștefan cel Mare nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 24/2026 privind aprobarea bugetului indicativ actualizat pentru obiectivul “Construire Centru de zi pentru copiii expusi riscului de a fi separati de familie”",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.24-din-25.03.2026-privind-aprobarea-bugetului-indicativ-actualizat-pentru-obiectivul-Construire-Centru-de-zi-pentru-copiii-expusi-riscului-de-a-fi-separati-de-familie-.pdf",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.24-din-25.03.2026-privind-aprobarea-bugetului-indicativ-actualizat-pentru-obiectivul-Construire-Centru-de-zi-pentru-copiii-expusi-riscului-de-a-fi-separati-de-familie-.pdf",
+     "sha256": "e06d4bd84e80c15622b1715ce47c14d3ad10ffb083e3b08085ffe4e423dc13fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-25-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/25",
+   "short": "HCL Ștefan cel Mare nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 25/2026 privind reorganizarea Compartimentului de asistenta sociala si autoritate tutelara cat si a Centrului de zi pentru copii sup",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.25-din-25.03.2026-privind-reorganizarea-Compartimentului-de-asistenta-sociala-si-autoritate-tutelara-cat-si-a-Centrului-de-zi-pentru-copii-sup.pdf",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.25-din-25.03.2026-privind-reorganizarea-Compartimentului-de-asistenta-sociala-si-autoritate-tutelara-cat-si-a-Centrului-de-zi-pentru-copii-sup.pdf",
+     "sha256": "0136255d2a0e8325f00db32bbffd9d230ea8250cf2ae67c9ba86eb517dfcbf88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-26-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/26",
+   "short": "HCL Ștefan cel Mare nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 26/2026 privind acordul Consiliului Local in vederea edificarii unei constructii pe un teren proprietate publica a comunei",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.26-din-25.03.2026-privind-acordul-Consiliului-Local-in-vederea-edificarii-unei-constructii-pe-un-teren-proprietate-publica-a-comunei.pdf",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.26-din-25.03.2026-privind-acordul-Consiliului-Local-in-vederea-edificarii-unei-constructii-pe-un-teren-proprietate-publica-a-comunei.pdf",
+     "sha256": "aff27b67878e5b484cb70b13bde7c63c9d475c655eedd4c42afbeb1d41cdfc8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-27-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/27",
+   "short": "HCL Ștefan cel Mare nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 27/2026 privind aprobarea documentației de atribuire a contractului de achiziție",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.27-din-07.04.2026-privind-aprobarea-documentatiei-de-atribuire-a-contractului-de-achizitie-.pdf",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.27-din-07.04.2026-privind-aprobarea-documentatiei-de-atribuire-a-contractului-de-achizitie-.pdf",
+     "sha256": "2fa1c37c7fe46199873aaa994ae8b8f5f069fd8947fddcd6b71fc3498a607874"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-28-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/28",
+   "short": "HCL Ștefan cel Mare nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 28/2026",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.28-din-07.04.2026-.pdf",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.28-din-07.04.2026-.pdf",
+     "sha256": "ca71793a0cf354b926891c86b1445dc2148f110e2da16ee1e1d06d0d9a60b253"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-30-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/30",
+   "short": "HCL Ștefan cel Mare nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 30/2026 privind reorganizarea aparatului de specialitate a primarului comunei Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.30-din-15.04.2026-privind-reorganizarea-aparatului-de-specialitate-a-primarului-comunei-Stefan-cel-Mare.pdf",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.30-din-15.04.2026-privind-reorganizarea-aparatului-de-specialitate-a-primarului-comunei-Stefan-cel-Mare.pdf",
+     "sha256": "1b134b73ea1039bf62b183dce21fb31f64d2ae72eaf04de5655138d69a47190c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-31-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/31",
+   "short": "HCL Ștefan cel Mare nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 31/2026 privind aprobarea Planului de Analiza si acoperire a Riscurilor la nivelul comunei Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.31-din-15.04.2026-privind-aprobarea-Planului-de-Analiza-si-acoperire-a-Riscurilor-la-nivelul-comunei-Stefan-cel-Mare.pdf",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.31-din-15.04.2026-privind-aprobarea-Planului-de-Analiza-si-acoperire-a-Riscurilor-la-nivelul-comunei-Stefan-cel-Mare.pdf",
+     "sha256": "9232a6608693bba7d8131774473e7e707175822e5f7619a083b8b760a6d08860"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-32-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/32",
+   "short": "HCL Ștefan cel Mare nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 32/2026 privind dobandirea dreptului de proprietate asupra unui bun imobil Centru de zi",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.32-din-15.04.2026-privind-dobandirea-dreptului-de-proprietate-asupra-unui-bun-imobil-Centru-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.32-din-15.04.2026-privind-dobandirea-dreptului-de-proprietate-asupra-unui-bun-imobil-Centru-de-zi.pdf",
+     "sha256": "f6bf84bd2de734d41508a6eae4e210c24af665bed29febd3f69e6f8671a8d0c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-34-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/34",
+   "short": "HCL Ștefan cel Mare nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 34/2026 privind reorganizarea SVSU la nivelul comunei Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.34-din-29.04.2026-privind-reorganizarea-SVSU-la-nivelul-comunei-Stefan-cel-Mare.pdf",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.34-din-29.04.2026-privind-reorganizarea-SVSU-la-nivelul-comunei-Stefan-cel-Mare.pdf",
+     "sha256": "2cc9361a01614ba3f343a9389e0d893626c3a988a3531ab51a1587aac2f36512"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-35-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/35",
+   "short": "HCL Ștefan cel Mare nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 35/2026 privind aprobarea contului de executie bugetara pentru trim I al anului 2026",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.35-din-29.04.2026-privind-aprobarea-contului-de-executie-bugetara-pentru-trim-I-al-anului-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.35-din-29.04.2026-privind-aprobarea-contului-de-executie-bugetara-pentru-trim-I-al-anului-2026.pdf",
+     "sha256": "eefaf7395d28cabe89a4ce000f273dad5b16f7b4b4bff6f7bda2aed0b3ec5cfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-36-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/36",
+   "short": "HCL Ștefan cel Mare nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 36/2026 privind trecerea din domeniul privat in domeniul public si declararea de uz si interes local bun imobil",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.36-din-29.04.2026-privind-trecerea-din-domeniul-privat-in-domeniul-public-si-declararea-de-uz-si-interes-local-bun-imobil.pdf",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.36-din-29.04.2026-privind-trecerea-din-domeniul-privat-in-domeniul-public-si-declararea-de-uz-si-interes-local-bun-imobil.pdf",
+     "sha256": "133561b99576bafefdbccd70e14d0ee8f3f2dca75e3fcfa7885693e14e83ccc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-37-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/37",
+   "short": "HCL Ștefan cel Mare nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 37/2026 privind aprobarea listei mijloacelor fixe apartinand sistemelor de alimentare cu apa si canalizare ce urmeaza a fi predate catre CRAB (3)",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.37-din-29.04.2026-privind-aprobarea-listei-mijloacelor-fixe-apartinand-sistemelor-de-alimentare-cu-apa-si-canalizare-ce-urmeaza-a-fi-predate-catre-CRAB-3-1.pdf",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.37-din-29.04.2026-privind-aprobarea-listei-mijloacelor-fixe-apartinand-sistemelor-de-alimentare-cu-apa-si-canalizare-ce-urmeaza-a-fi-predate-catre-CRAB-3-1.pdf",
+     "sha256": "e2ff614397f5ea3c1fa1715772d53d21038bb261efeaefb9155114db2626507c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-38-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/38",
+   "short": "HCL Ștefan cel Mare nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 38/2026 privind achizitionarea in regim de urgenta servicii de salubrizare",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.38-din-04.05.2026-privind-achizitionarea-in-regim-de-urgenta-servicii-de-salubrizare-1.pdf",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.38-din-04.05.2026-privind-achizitionarea-in-regim-de-urgenta-servicii-de-salubrizare-1.pdf",
+     "sha256": "9babc9e531100d1fa40c48399e9e7aed02c3eda03adfa51a4f5fe7e4eeeeb464"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-39-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/39",
+   "short": "HCL Ștefan cel Mare nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 39/2026 privind aprobarea documentatiei de atribuire a contractului de achizitie publica de servicii necesare derularii procedurii NFP",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.-39-din-04.05.2026-privind-aprobarea-documentatiei-de-atribuire-a-contractului-de-achizitie-publica-de-servicii-necesare-derularii-procedurii-NFP.pdf",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.-39-din-04.05.2026-privind-aprobarea-documentatiei-de-atribuire-a-contractului-de-achizitie-publica-de-servicii-necesare-derularii-procedurii-NFP.pdf",
+     "sha256": "ce6a62009f1c83868aa5b0c0795747c1ca46bce2cbfdfd77636ec260e8781cf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-40-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/40",
+   "short": "HCL Ștefan cel Mare nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 40/2026 privind aprobarea bugetului de venituri si cheltuieli pentru anul 2026 pentru comuna Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.40-din-08.05.2026-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-pentru-anul-2026-pentru-comuna-Stefan-cel-Mare.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.40-din-08.05.2026-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-pentru-anul-2026-pentru-comuna-Stefan-cel-Mare.pdf",
+     "sha256": "35c11202b5fb4aa18e66a4d7b77de8ae3468ce5b6c0079d4b4d198b77a43b497"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-41-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/41",
+   "short": "HCL Ștefan cel Mare nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 41/2026 privind bugetului de cheltuieli pe anul 2026 pentru Şcoala Gimnazială Nr. 1 Negoiesti Comuna Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.41-din-08.05.2026-privind-bugetului-de-cheltuieli-pe-anul-2026-pentru-Scoala-Gimnaziala-Nr.-1-Negoiesti-Comuna-Stefan-cel-Mare.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.41-din-08.05.2026-privind-bugetului-de-cheltuieli-pe-anul-2026-pentru-Scoala-Gimnaziala-Nr.-1-Negoiesti-Comuna-Stefan-cel-Mare.pdf",
+     "sha256": "c418fa92ed614751edb9e9eb3b1df2eec94dad997849bf768715c739de41c516"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-42-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/42",
+   "short": "HCL Ștefan cel Mare nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 42/2026 privind aprobarea utilizarii excedentului anual al bugetului local",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.42-din-08.05.2026-privind-aprobarea-utilizarii-excedentului-anual-al-bugetului-local-.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.42-din-08.05.2026-privind-aprobarea-utilizarii-excedentului-anual-al-bugetului-local-.pdf",
+     "sha256": "ef0fd48f84be8873f9e3de042b03ddb5ddcf16bb5caca519a5c66613bb8a3eb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-44-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/44",
+   "short": "HCL Ștefan cel Mare nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 44/2026 privind alegerea presedintelui de sedinta pe 3 luni",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.44-din-27.05.2026-privind-alegerea-presedintelui-de-sedinta-pe-3-luni.pdf",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.44-din-27.05.2026-privind-alegerea-presedintelui-de-sedinta-pe-3-luni.pdf",
+     "sha256": "050818171eaf65288ec97a8a0c8378860dafe1db9de9f5ce2f27376094d0c3f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-45-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/45",
+   "short": "HCL Ștefan cel Mare nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 45/2026 privind rectificarea bugetului pe trimestrul II al anului 2026",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.45-din-27.05.2026-privind-rectificarea-bugetului-pe-trimestrul-II-al-anului-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.45-din-27.05.2026-privind-rectificarea-bugetului-pe-trimestrul-II-al-anului-2026.pdf",
+     "sha256": "99799663aa097e640536a12fda997da31c277c8b68e6275e40b804d9c40e2a79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-47-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/47",
+   "short": "HCL Ștefan cel Mare nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 47/2026 pentru finanțarea activității de protecție de tip rezidential a persoanei cu handicap",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.47-din-27.05.2026-asocierea-Comunei-Stefan-cel-Mare-cu-Judetul-Bacau-si-DGASPC-pentru-finantarea-activitatii-de-protectie-de-tip-rezidential-a-persoanei-cu-handicap.pdf",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.47-din-27.05.2026-asocierea-Comunei-Stefan-cel-Mare-cu-Judetul-Bacau-si-DGASPC-pentru-finantarea-activitatii-de-protectie-de-tip-rezidential-a-persoanei-cu-handicap.pdf",
+     "sha256": "957cdeb315a09821bc79014d383a11830020316acf5fb6a851e7d628992f8a5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-49-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/49",
+   "short": "HCL Ștefan cel Mare nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 49/2026 privind acordarea ajutorului de minimus individual pentru obiectivul de investitie Construstuire CEF",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.49-din-24.06.2026-privind-acordarea-ajutorului-de-minimus-individual-pentru-obiectivul-de-investitie-Construstuire-CEF-.pdf",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.49-din-24.06.2026-privind-acordarea-ajutorului-de-minimus-individual-pentru-obiectivul-de-investitie-Construstuire-CEF-.pdf",
+     "sha256": "d8770ba8f27941bc167a6a3bafd24c002fa4d7716b7fc8402ddad5dadf191012"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-50-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/50",
+   "short": "HCL Ștefan cel Mare nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 50/2026 privind stabilirea mandatului special CRAB pentru data de 29-30.06.2026",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.-50-din-24.06.2026-privind-stabilirea-mandatului-special-CRAB-pentru-data-de-29-30.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.-50-din-24.06.2026-privind-stabilirea-mandatului-special-CRAB-pentru-data-de-29-30.06.2026.pdf",
+     "sha256": "35752b2cf5dd80f8a5eee4b57c238c81d7dd4395542931e9f0dbae2ac3330265"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-51-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/51",
+   "short": "HCL Ștefan cel Mare nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 51/2026 privind aprobarea Regulamentului de organizare si functionare a serviciului social, organigrama si stat de functii Centru de zi",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.-51-din-24.06.2026-privind-aprobarea-Regulamentului-de-organizare-si-functionare-a-serviciului-social-organigrama-si-stat-de-functii-Centru-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.-51-din-24.06.2026-privind-aprobarea-Regulamentului-de-organizare-si-functionare-a-serviciului-social-organigrama-si-stat-de-functii-Centru-de-zi.pdf",
+     "sha256": "f2b547e8fb736a5912a7939ac910c9d9eec3a49bc1da77801833d31c97b555d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-52-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/52",
+   "short": "HCL Ștefan cel Mare nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 52/2026 privind aprobarea pretului alimentare cu apa sii canalizare",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.-52-din-24.06.2026-privind-aprobarea-pretului-alimentare-cu-apa-sii-canalizare.pdf",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.-52-din-24.06.2026-privind-aprobarea-pretului-alimentare-cu-apa-sii-canalizare.pdf",
+     "sha256": "d8a73bf0c27db09ad99981fff54ff67d38f0bfaaa6b5ba0941066359099c050c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-53-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/53",
+   "short": "HCL Ștefan cel Mare nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 53/2026 privind aprobarea indicatorilor tehnico economici la Investitia Modernizare drumuri comunale de interes local",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.53-din-01.07.2026-privind-aprobarea-indicatorilor-tehnico-economici-la-Investitia-Modernizare-drumuri-comunale-de-interes-local.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.53-din-01.07.2026-privind-aprobarea-indicatorilor-tehnico-economici-la-Investitia-Modernizare-drumuri-comunale-de-interes-local.pdf",
+     "sha256": "964d882acb04083bcd95ee6b9f3053a884a83ddcfb750ea3ffd6db9a6cdc4a0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-54-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/54",
+   "short": "HCL Ștefan cel Mare nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 54/2026 privind aprobarea pretului alimnentare cu apa comuna Ștefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.-54-din-08.07.2026-privind-aprobarea-pretului-alimnentare-cu-apa-comuna-Stefan-cel-Mare.pdf",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.-54-din-08.07.2026-privind-aprobarea-pretului-alimnentare-cu-apa-comuna-Stefan-cel-Mare.pdf",
+     "sha256": "97b46f92f148e63a578e5ca9db3ef363e8f4fdbc1ab001417433a429a0ee6f01"
     }
    ]
   },
@@ -33,6 +603,81 @@
    ]
   },
   {
+   "slug": "hcl-bacau--stefan-cel-mare-56-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/56",
+   "short": "HCL Ștefan cel Mare nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 56/2026 privind aprobarea contului de executie bugetara pe trim II al anului 2026",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.56-din-29.07.2026-privind-aprobarea-contului-de-executie-bugetara-pe-trim-II-al-anului-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.56-din-29.07.2026-privind-aprobarea-contului-de-executie-bugetara-pe-trim-II-al-anului-2026.pdf",
+     "sha256": "4755ca82d1f98b04545c3b50456153333ead01b18090ab6ed48a8ef599943805"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-57-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/57",
+   "short": "HCL Ștefan cel Mare nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 57/2026 privind aprobarea cotizatiei la patrimoniul ADIB",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.57-din-29.07.2026-privind-aprobarea-cotizatiei-la-patrimoniul-ADIB-.pdf",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.57-din-29.07.2026-privind-aprobarea-cotizatiei-la-patrimoniul-ADIB-.pdf",
+     "sha256": "d0e91af7627ec44cbdd9bf6f7ede0cc67bb0ac7e9f5600778172a6e638135519"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-58-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/58",
+   "short": "HCL Ștefan cel Mare nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 58/2026 privind aprobarea dobandirii dreptului de proprietate publica a unui bun imobil -drum",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.58-din-29.07.2026-privind-aprobarea-dobandirii-dreptului-de-proprietate-publica-a-unui-bun-imobil-drum.pdf",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.58-din-29.07.2026-privind-aprobarea-dobandirii-dreptului-de-proprietate-publica-a-unui-bun-imobil-drum.pdf",
+     "sha256": "4122bae21acab2f1d4a0c3964c5bc00c81e7259e636c5fab84e5af1b61e01b79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-59-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/59",
+   "short": "HCL Ștefan cel Mare nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 59/2026 privind acordarea unui premiu pentrul familiile care implinesc 50 de ani de casatorie neintrerupta si acordarea unui pemiu la 100 ani impliniti",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotarare-nr.59-din-29.07.2026-privind-acordarea-unui-premiu-pentrul-familiile-care-implinesc-50-de-ani-de-casatorie-neintrerupta-si-acordarea-unui-pemiu-la-100-ani-impliniti.pdf",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotarare-nr.59-din-29.07.2026-privind-acordarea-unui-premiu-pentrul-familiile-care-implinesc-50-de-ani-de-casatorie-neintrerupta-si-acordarea-unui-pemiu-la-100-ani-impliniti.pdf",
+     "sha256": "9197c1efd8f59b65c65a9ab8d45f307ac74e8df9e878cd9981dc044f99d630cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-61-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/61",
+   "short": "HCL Ștefan cel Mare nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 61/2026 privind aprobarea neasumarii responsabilitatii privind organizarea procedurii de achizitie a Programului pentru Scoli In Romania",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.61-din-14.08.2026-privind-aprobarea-neasumarii-responsabilitatii-privind-organizarea-procedurii-de-achizitie-a-Programului-pentru-Scoli-In-Romania.pdf",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.61-din-14.08.2026-privind-aprobarea-neasumarii-responsabilitatii-privind-organizarea-procedurii-de-achizitie-a-Programului-pentru-Scoli-In-Romania.pdf",
+     "sha256": "e2a5b4432d42aed33ccc6f5792be6054c618dd75197a82b6819a926900e6061a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--stefan-cel-mare-62-2026",
    "path": "local/bacau/stefan-cel-mare/2026/62",
    "short": "HCL Ștefan cel Mare nr. 62/2026",
@@ -48,6 +693,111 @@
    ]
   },
   {
+   "slug": "hcl-bacau--stefan-cel-mare-63-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/63",
+   "short": "HCL Ștefan cel Mare nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 63/2026 privind alegerea presedintelui de sedinta",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.63-din-26.08.2026-privind-alegerea-presedintelui-de-sedinta.pdf",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.63-din-26.08.2026-privind-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "09e74646463a9190c72afdb5973063a913f73478ac6e568cf39d7bae3141b2aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-64-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/64",
+   "short": "HCL Ștefan cel Mare nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 64/2026 privind organizarea activitatii de aparare impotriva incendiilor",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.64-din-26.08.2026-privind-organizarea-activitatii-de-aparare-impotriva-incendiilor.pdf",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.64-din-26.08.2026-privind-organizarea-activitatii-de-aparare-impotriva-incendiilor.pdf",
+     "sha256": "462967c1d3811b530610e9cb5de66589786c1c72dade9c8eab6ed1249f406d5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-65-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/65",
+   "short": "HCL Ștefan cel Mare nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 65/2026 privind aprobarea cotizatie GAL Valea Trotusului pentru anul 2026",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.65-din-26.08.2026-privind-aprobarea-cotizatie-GAL-Valea-Trotusului-pentru-anul-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.65-din-26.08.2026-privind-aprobarea-cotizatie-GAL-Valea-Trotusului-pentru-anul-2026.pdf",
+     "sha256": "1d6f737176611c86572df267d3ddeaa1aed717ff658df47c6fb486414aed5859"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-66-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/66",
+   "short": "HCL Ștefan cel Mare nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 66/2026 privind modificarea HCL nr.90 din 15.12.2025",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.66-din-26.08.2026-privind-modificarea-HCL-nr.90-din-15.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.66-din-26.08.2026-privind-modificarea-HCL-nr.90-din-15.12.2025.pdf",
+     "sha256": "db41f8c1b4f86379f981d682b13e2cdd5c982cb403b50ea3c0d77f8531b607ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-67-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/67",
+   "short": "HCL Ștefan cel Mare nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 67/2026 privind stabilire mandat special AGA CRAB pentru data de 17-18.09.2026",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.67-din-26.08.2026-privind-stabilire-mandat-special-AGA-CRAB-pentru-data-de-17-18.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.67-din-26.08.2026-privind-stabilire-mandat-special-AGA-CRAB-pentru-data-de-17-18.09.2026.pdf",
+     "sha256": "674bc7b5ab88a69aad6442c4b3845f76ea826005f032aca27668a25641504f9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-68-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/68",
+   "short": "HCL Ștefan cel Mare nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 68/2026 privind insusirea modificarilor intervenite in domeniul public (poz181)",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.68-din-26.08.2026-privind-insusirea-modificarilor-intervenite-in-domeniul-public-poz181.pdf",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.68-din-26.08.2026-privind-insusirea-modificarilor-intervenite-in-domeniul-public-poz181.pdf",
+     "sha256": "5a0efaeab7f4e01b23ead86f244a10b8270ae93e48d8493df3d31718592ffe26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-70-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/70",
+   "short": "HCL Ștefan cel Mare nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 70/2026 privind actualizarea sia probarea Indicatorilor tehnico &#8211; ec si a devizului la fata DTAC pt invstitia Infiintare retea distribuitie gaze naturale",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.70-din-26.08.2026-privind-actualizarea-sia-probarea-Indicatorilor-tehnico-ec-si-a-devizului-la-fata-DTAC-pt-invstitia-Infiintare-retea-distribuitie-gaze-naturale.pdf",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.70-din-26.08.2026-privind-actualizarea-sia-probarea-Indicatorilor-tehnico-ec-si-a-devizului-la-fata-DTAC-pt-invstitia-Infiintare-retea-distribuitie-gaze-naturale.pdf",
+     "sha256": "3fa5f939bb88a23bbccec94f96e66349ee6c572112e6603b3579ae67ae1e31e5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--stefan-cel-mare-71-2026",
    "path": "local/bacau/stefan-cel-mare/2026/71",
    "short": "HCL Ștefan cel Mare nr. 71/2026",
@@ -59,6 +809,111 @@
      "units": 1,
      "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.71-din-28.08.2026-privind-aprobarea-transpunerii-in-format-GIS-a-PUG-al-comunei-Stefan-cel-Mare.pdf",
      "sha256": "affacdc283503457aa178ea257818d83b1d826b1bb772a1e7349ac7fce28fc54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-72-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/72",
+   "short": "HCL Ștefan cel Mare nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 72/2026 privind abrogarea H.C.L nr.70 din data 26.08.2026",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.-72-din-03.09.2026-privind-abrogarea-H.C.L-nr.70-din-data-26.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.-72-din-03.09.2026-privind-abrogarea-H.C.L-nr.70-din-data-26.08.2026.pdf",
+     "sha256": "1246321683ca4657fc2ad144ebdcc3d0d45fe92d62d406786ea346cf6e7f5bad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-73-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/73",
+   "short": "HCL Ștefan cel Mare nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 73/2026 privind aactualizarea indicatorilor tehnico-economici pentru investitia ,,Cresterea eficientei energeticela sediul Primariei Sat Negoiesti",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.-73-din-18.09.2026-privind-aactualizarea-indicatorilor-tehnico-economici-pentru-investitia-Cresterea-eficientei-energeticela-sediul-Primariei-Sat-Negoiesti.pdf",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.-73-din-18.09.2026-privind-aactualizarea-indicatorilor-tehnico-economici-pentru-investitia-Cresterea-eficientei-energeticela-sediul-Primariei-Sat-Negoiesti.pdf",
+     "sha256": "97ea9482a873807d87f997fd606c549d6560a34df5a9825633300c4390cf0287"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-74-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/74",
+   "short": "HCL Ștefan cel Mare nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 74/2026 privind revocarea HCL nr.49 din 24.06.2026",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.74-din-23.09.2026-privind-revocarea-HCL-nr.49-din-24.06.2026-.pdf",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.74-din-23.09.2026-privind-revocarea-HCL-nr.49-din-24.06.2026-.pdf",
+     "sha256": "cc7d240f34f5aac197552d4af97f4bddcadb35f0f1cf139a526746d756a24122"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-76-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/76",
+   "short": "HCL Ștefan cel Mare nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 76/2026 privind modificarea art.3 la HCL nr.51 din 26.06.2026",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.76-din-23.09.2026-privind-modificarea-art.3-la-HCL-nr.51-din-26.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.76-din-23.09.2026-privind-modificarea-art.3-la-HCL-nr.51-din-26.06.2026.pdf",
+     "sha256": "e5c6e51e70ce0a709d76a2d2974c903c839b99ad61d51fdcba6ada331b1a3c77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-77-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/77",
+   "short": "HCL Ștefan cel Mare nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 77/2026 privind dobandire drept de proprietate privata teren in Lunca Garbovanei",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.77-din-23.09.2026-privind-dobandire-drept-de-proprietate-privata-teren-in-Lunca-Garbovanei.pdf",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.77-din-23.09.2026-privind-dobandire-drept-de-proprietate-privata-teren-in-Lunca-Garbovanei.pdf",
+     "sha256": "8d40f4ef42f15cf04abf5f01dceb367a247b40e739ea258e516203630ffe0565"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-79-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/79",
+   "short": "HCL Ștefan cel Mare nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 79/2026 privind desemnare reprezentanti In CA si CEAC la Scoala Gimnaziala nr.1 Negoiesti",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.79-din-23.09.2026-privind-desemnare-reprezentanti-In-CA-si-CEAC-la-Scoala-Gimnaziala-nr.1-Negoiesti.pdf",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.79-din-23.09.2026-privind-desemnare-reprezentanti-In-CA-si-CEAC-la-Scoala-Gimnaziala-nr.1-Negoiesti.pdf",
+     "sha256": "f8103b0ed1119ff19450780bc425e314d4e7533bef82d62badca4841c6d926ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-8-2026",
+   "path": "local/bacau/stefan-cel-mare/2026/8",
+   "short": "HCL Ștefan cel Mare nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 8/2026 privind finantarea costului anual pentru internarea in centru de ingrijire si asistenta sociala unor beneficiari cu domiciliu in comuna",
+   "url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.8-din-28.01.2026-.pdf",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.8-din-28.01.2026-.pdf",
+     "sha256": "03688aaca7c5a9fb2fceb7c7fd8a04a6aefd1087a37e4aa80e29b453b723ef9d"
     }
    ]
   },

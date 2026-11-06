@@ -3,6 +3,28 @@
 "shard": "local/bihor/tauteu/2024",
 "acts": [
 {
+"slug": "hcl-bihor--tauteu-95-2024",
+"path": "local/bihor/tauteu/2024/95",
+"kind": "local",
+"year": "2024",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 95/2024 privind aprobarea documentației pentru vânzarea prin licitație publică a unor imobile – terenuri aparținând domeniului privat al comunei Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 95/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/189958",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-96-2024",
 "path": "local/bihor/tauteu/2024/96",
 "kind": "local",
@@ -136,6 +158,72 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-102-2024",
+"path": "local/bihor/tauteu/2024/102",
+"kind": "local",
+"year": "2024",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 102/2024 privind actualizarea Comisiei de analiză a solicitărilor de locuințe sociale pentru comunitatea de romi din localitatea Bogei",
+"short": "HCL Tăuteu nr. 102/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/189973",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-103-2024",
+"path": "local/bihor/tauteu/2024/103",
+"kind": "local",
+"year": "2024",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 103/2024 privind aprobarea completării și organizării comisiilor de specialitate ale Consiliului Local al comunei Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 103/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/189989",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-104-2024",
+"path": "local/bihor/tauteu/2024/104",
+"kind": "local",
+"year": "2024",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 104/2024 privind îndreptarea erorilor materiale din conținutul Hotărârii Consiliului Local al comunei Tăuteu nr. 84/27 septembrie 2024 privind instituirea unor facilități fiscale și aprobarea procedurii de anulare a accesoriilor aferente obligațiilor bugetare principale restante la data de 31.08.2024 inclusiv, datorate bugetului local de către contribuabili de pe raza unității administrativ-teritoriale a comunei Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 104/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/189993",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-105-2024",
 "path": "local/bihor/tauteu/2024/105",
 "kind": "local",
@@ -199,6 +287,52 @@
 "council_name": "Consiliul Local al Comunei Tăuteu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-108-2024",
+"path": "local/bihor/tauteu/2024/108",
+"kind": "local",
+"year": "2024",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 108/2024",
+"short": "HCL Tăuteu nr. 108/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/190067",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-109-2024",
+"path": "local/bihor/tauteu/2024/109",
+"kind": "local",
+"year": "2024",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 109/2024",
+"short": "HCL Tăuteu nr. 109/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/190069",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

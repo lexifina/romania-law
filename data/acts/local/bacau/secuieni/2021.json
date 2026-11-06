@@ -179,6 +179,29 @@
 }
 },
 {
+"slug": "hcl-bacau--secuieni-60-2021",
+"path": "local/bacau/secuieni/2021/60",
+"kind": "local",
+"year": "2021",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 60/2021",
+"short": "HCL Secuieni nr. 60/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/secuieni-bc/registru-hcl/118945",
+"council": "bacau/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--secuieni-61-2021",
 "path": "local/bacau/secuieni/2021/61",
 "kind": "local",
@@ -308,6 +331,29 @@
 "council_name": "Consiliul Local al Comunei Secuieni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--secuieni-67-2021",
+"path": "local/bacau/secuieni/2021/67",
+"kind": "local",
+"year": "2021",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 67/2021",
+"short": "HCL Secuieni nr. 67/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-23",
+"latest": "2021-12-23",
+"portal": "https://emol.ro/secuieni-bc/registru-hcl/118954",
+"council": "bacau/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

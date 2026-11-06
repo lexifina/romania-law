@@ -3,6 +3,81 @@
  "shard": "local/bacau/gura-vaii/2026",
  "acts": [
   {
+   "slug": "hcl-bacau--gura-vaii-86-2026",
+   "path": "local/bacau/gura-vaii/2026/86",
+   "short": "HCL Gura Văii nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 86/2026 cu privire la modificarea și completarea HCL nr. 130 din 27 decembrie 2021 privind aprobarea Regulamentului de stabilire a condițiilor de majorare a impozitului pe clădirile și terenurile neîngrijite de pe raza comunei Gura Văii, județul Bacău",
+   "url": "https://uatcomunaguravaii.ro/hotarari-c-l/hotarari-consiliul-local-gura-vaii-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/11/hcl-86.pdf",
+     "sha256": "5e7bd9200ebb6308a90d0972f0994c23d06a01976712f9cb8d784bfb817fa757"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gura-vaii-87-2026",
+   "path": "local/bacau/gura-vaii/2026/87",
+   "short": "HCL Gura Văii nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 87/2026 privind majorarea cu 300% a impozitului pe teren, începând cu anul 2027, pentru terenul situat în comuna Gura Văii, sat Gura Văii, str. Trotușului, nr. 103, ca urmare a constatării stării tehnice de teren neîngrijit",
+   "url": "https://uatcomunaguravaii.ro/hotarari-c-l/hotarari-consiliul-local-gura-vaii-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/11/hcl-87.pdf",
+     "sha256": "55f3e68a811dd865fbe007a5fef02e675e9f809bf895c1aeb7445d0ae3162bf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gura-vaii-88-2026",
+   "path": "local/bacau/gura-vaii/2026/88",
+   "short": "HCL Gura Văii nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 88/2026 privind majorarea cu 200% a impozitului pe teren, începând cu anul 2027, pentru terenul situat în comuna Gura Văii, sat Gura Văii, str. Trotușului, nr. 86, ca urmare a constatării stării tehnice de teren neîngrijit",
+   "url": "https://uatcomunaguravaii.ro/hotarari-c-l/hotarari-consiliul-local-gura-vaii-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/11/hcl-88.pdf",
+     "sha256": "0ec22268cddd9eefaed3097af4b435e8c40a23edc25c55cabb281d995c155241"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gura-vaii-89-2026",
+   "path": "local/bacau/gura-vaii/2026/89",
+   "short": "HCL Gura Văii nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 89/2026 privind majorarea cu 300% a impozitului pe teren, începând cu anul 2027, pentru terenul situat în comuna Gura Văii, sat Gura Văii, str. Trotușului, nr. 80, ca urmare a constatării stării tehnice de teren neîngrijit",
+   "url": "https://uatcomunaguravaii.ro/hotarari-c-l/hotarari-consiliul-local-gura-vaii-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/11/hcl-89.pdf",
+     "sha256": "7dcc1f00d27fc2fccadb71116f81ad68f49e97eef7f4ccb87018962238fb2cea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gura-vaii-90-2026",
+   "path": "local/bacau/gura-vaii/2026/90",
+   "short": "HCL Gura Văii nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 90/2026 privind însușirea suprafeței măsurate a unui imobil – proprietate publică a comunei Gura Văii, județul Bacău, rezultată în urma măsurătorilor cadastrale, în vederea înscrierii în Cartea funciară",
+   "url": "https://uatcomunaguravaii.ro/hotarari-c-l/hotarari-consiliul-local-gura-vaii-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/11/hcl-90-2.pdf",
+     "sha256": "a7cd979fdd379286841aab578ca7a9f6d20a16dd93aa933380e9a440a2eefb5f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--gura-vaii-91-2026",
    "path": "local/bacau/gura-vaii/2026/91",
    "short": "HCL Gura Văii nr. 91/2026",
@@ -18,6 +93,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--gura-vaii-92-2026",
+   "path": "local/bacau/gura-vaii/2026/92",
+   "short": "HCL Gura Văii nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 92/2026 privind aprobarea demarării procedurilor de identificare a unor finanțări interne rambursabile în vederea realizării unor obiective de investiții de interes public local",
+   "url": "https://uatcomunaguravaii.ro/hotarari-c-l/hotarari-consiliul-local-gura-vaii-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/11/hcl-92.pdf",
+     "sha256": "4a432166187b3924a5dc77b78a6d92a2cedcc9e102c6b97514c668fe653a71aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gura-vaii-93-2026",
+   "path": "local/bacau/gura-vaii/2026/93",
+   "short": "HCL Gura Văii nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 93/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/11/hcl-93.pdf",
+     "sha256": "adc1f24a4e308af6ff7cb6441fffcdd6ec00953b5bf134dc5dfa9922d796790f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--gura-vaii-94-2026",
    "path": "local/bacau/gura-vaii/2026/94",
    "short": "HCL Gura Văii nr. 94/2026",
@@ -29,6 +134,36 @@
      "units": 1,
      "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/11/hcl-94.pdf",
      "sha256": "4a6924d106a8125285b0ab03f8cc736bd29ac1b1b06e3f4930b0adddbc90c7ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gura-vaii-95-2026",
+   "path": "local/bacau/gura-vaii/2026/95",
+   "short": "HCL Gura Văii nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 95/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/11/hcl-95.pdf",
+     "sha256": "6303820b2455d98b76cb7fe65ef29851078fcfc49fdf9c75f208a13a2f47f1cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gura-vaii-96-2026",
+   "path": "local/bacau/gura-vaii/2026/96",
+   "short": "HCL Gura Văii nr. 96/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 96/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/11/hcl-96.pdf",
+     "sha256": "f56dfada365c34c2a0e9773f9b7795df99915e43de41d5c5b8ad7d0e32972b85"
     }
    ]
   }

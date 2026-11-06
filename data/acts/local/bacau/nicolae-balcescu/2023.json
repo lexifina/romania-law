@@ -3,6 +3,50 @@
 "shard": "local/bacau/nicolae-balcescu/2023",
 "acts": [
 {
+"slug": "hcl-bacau--nicolae-balcescu-146-2023",
+"path": "local/bacau/nicolae-balcescu/2023/146",
+"kind": "local",
+"year": "2023",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 146/2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+"short": "HCL Nicolae Bălcescu nr. 146/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-08",
+"latest": "2024-01-08",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130738",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--nicolae-balcescu-147-2023",
+"path": "local/bacau/nicolae-balcescu/2023/147",
+"kind": "local",
+"year": "2023",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 147/2023 privind aprobarea modificării Organigramei și a Statului de funcții al Comunei Nicolae Bălcescu, județul Bacău, începând cu luna noiembrie 2023",
+"short": "HCL Nicolae Bălcescu nr. 147/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-08",
+"latest": "2024-01-08",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130739",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--nicolae-balcescu-148-2023",
 "path": "local/bacau/nicolae-balcescu/2023/148",
 "kind": "local",
@@ -89,6 +133,28 @@
 "council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--nicolae-balcescu-152-2023",
+"path": "local/bacau/nicolae-balcescu/2023/152",
+"kind": "local",
+"year": "2023",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 152/2023 privind alegerea președintelui de ședință",
+"short": "HCL Nicolae Bălcescu nr. 152/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-08",
+"latest": "2024-01-08",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/131106",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -204,6 +270,50 @@
 }
 },
 {
+"slug": "hcl-bacau--nicolae-balcescu-158-2023",
+"path": "local/bacau/nicolae-balcescu/2023/158",
+"kind": "local",
+"year": "2023",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 158/2023 privind casarea unor mijloace fixe",
+"short": "HCL Nicolae Bălcescu nr. 158/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-08",
+"latest": "2024-01-08",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/136549",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--nicolae-balcescu-159-2023",
+"path": "local/bacau/nicolae-balcescu/2023/159",
+"kind": "local",
+"year": "2023",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 159/2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+"short": "HCL Nicolae Bălcescu nr. 159/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-08",
+"latest": "2024-01-08",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/136550",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--nicolae-balcescu-160-2023",
 "path": "local/bacau/nicolae-balcescu/2023/160",
 "kind": "local",
@@ -248,6 +358,28 @@
 }
 },
 {
+"slug": "hcl-bacau--nicolae-balcescu-162-2023",
+"path": "local/bacau/nicolae-balcescu/2023/162",
+"kind": "local",
+"year": "2023",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 162/2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+"short": "HCL Nicolae Bălcescu nr. 162/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/136560",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--nicolae-balcescu-163-2023",
 "path": "local/bacau/nicolae-balcescu/2023/163",
 "kind": "local",
@@ -289,6 +421,29 @@
 "council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--nicolae-balcescu-165-2023",
+"path": "local/bacau/nicolae-balcescu/2023/165",
+"kind": "local",
+"year": "2023",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 165/2023",
+"short": "HCL Nicolae Bălcescu nr. 165/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/136563",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

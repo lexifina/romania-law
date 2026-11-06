@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bacau/parincea/2025",
+"acts": [
+{
+"slug": "hcl-bacau--parincea-64-2025",
+"path": "local/bacau/parincea/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Parincea nr. 64/2025",
+"short": "HCL Parincea nr. 64/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "http://www.parincea.ro/document-categorii/hotarari-ale-consiliului-local/",
+"council": "bacau/parincea",
+"council_name": "Consiliul Local al Comunei Parincea",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

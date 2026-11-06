@@ -3,6 +3,261 @@
  "shard": "local/bihor/spinus/2021",
  "acts": [
   {
+   "slug": "hcl-bihor--spinus-52-2021",
+   "path": "local/bihor/spinus/2021/52",
+   "short": "HCL Spinuș nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 52/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul „Reabilitare şi Modernizare Școala Gimnazială nr. 1 Spinuş,com. Spinuş, jud. Bihor ”",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/53883",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/53883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-53-2021",
+   "path": "local/bihor/spinus/2021/53",
+   "short": "HCL Spinuș nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 53/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul „Reabilitare şi Modernizare Grădiniţa cu Program Normal,loc. Spinuş,com. Spinuş, jud. Bihor ”",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/53884",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/53884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-54-2021",
+   "path": "local/bihor/spinus/2021/54",
+   "short": "HCL Spinuș nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 54/2021 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Spinuș din data de 29 octombrie 2021",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/53885",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/53885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-55-2021",
+   "path": "local/bihor/spinus/2021/55",
+   "short": "HCL Spinuș nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 55/2021 privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Local al Comunei Spinuș din data de 30 septembrie 2021 și aprobarea procesului-verbal al ședinței extraordinare de îndată a Consiliului Local al Comunei Spinuș din data de 22 octombrie 2021",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/53886",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/53886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-56-2021",
+   "path": "local/bihor/spinus/2021/56",
+   "short": "HCL Spinuș nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 56/2021 privind rectificarea bugetului local al Comunei Spinuş pe anul 2021 la secţiunile de funcţionare și dezvoltare",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/53887",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/53887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-57-2021",
+   "path": "local/bihor/spinus/2021/57",
+   "short": "HCL Spinuș nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 57/2021 privind dinamica angajării asistenţilor personali ai persoanelor cu handicap grav, modul în care se asigură înlocuirea acestora pe perioada concediului de odihnă, numarul de asistenţi personali ai persoanei cu handicap grav instruiţi precum şi numărul de controale şi probleme sesizate în semestrul I al anului 2021",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/53888",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/53888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-58-2021",
+   "path": "local/bihor/spinus/2021/58",
+   "short": "HCL Spinuș nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 58/2021",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/53889",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/53889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-59-2021",
+   "path": "local/bihor/spinus/2021/59",
+   "short": "HCL Spinuș nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 59/2021 privind desemnarea reprezentantului Consiliului Local al comunei Spinuș în comisia de concurs pentru ocuparea funcției de director al Școlii Gimnaziale nr.1 Spinuș",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/53890",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/53890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-60-2021",
+   "path": "local/bihor/spinus/2021/60",
+   "short": "HCL Spinuș nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 60/2021 privind alegerea președintelui de ședință pentru perioada noiembrie 2021 - ianuarie 2022",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/53891",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/53891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-61-2021",
+   "path": "local/bihor/spinus/2021/61",
+   "short": "HCL Spinuș nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 61/2021 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Spinuș din data de 24 noiembrie 2021",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/53892",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/53892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-62-2021",
+   "path": "local/bihor/spinus/2021/62",
+   "short": "HCL Spinuș nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 62/2021 privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Local al Comunei Spinuș din data de 29 octombrie 2021",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/53893",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/53893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-63-2021",
+   "path": "local/bihor/spinus/2021/63",
+   "short": "HCL Spinuș nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 63/2021 privind aprobarea închirierii pe o perioadă de 1 an a spaţiului cu destinaţia de cabinet medical situat în localitatea Spinuș, nr. 46, Comuna Spinuș",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/53894",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/53894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-64-2021",
+   "path": "local/bihor/spinus/2021/64",
+   "short": "HCL Spinuș nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 64/2021 privind aprobarea programului anual de achiziţii publice al comunei Spinuş pe anul 2022 și a Strategiei achizițiilor publice a comunei Spinuş pe anul 2022",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/53895",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/53895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-65-2021",
+   "path": "local/bihor/spinus/2021/65",
+   "short": "HCL Spinuș nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 65/2021 privind aprobarea Strategiei de dezvoltare locală a comunei Spinuș, pe anii 2021-2027",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/53896",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/53896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-66-2021",
+   "path": "local/bihor/spinus/2021/66",
+   "short": "HCL Spinuș nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 66/2021 privind aprobarea contului de executie al bugetului local al Comunei Spinuş pe trimestrul III al anului 2021 la secţiunile de funcţionare și de dezvoltare",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/53897",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/53897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-67-2021",
+   "path": "local/bihor/spinus/2021/67",
+   "short": "HCL Spinuș nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 67/2021 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Spinuș din data de 14 decembrie 2021",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/53898",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/53898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-68-2021",
+   "path": "local/bihor/spinus/2021/68",
+   "short": "HCL Spinuș nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 68/2021 privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Local al Comunei Spinuș din data de 24 noiembrie 2021",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/53899",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/53899",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--spinus-69-2021",
    "path": "local/bihor/spinus/2021/69",
    "short": "HCL Spinuș nr. 69/2021",
@@ -13,6 +268,36 @@
      "from": "2021-12-14",
      "units": 1,
      "source_url": "https://emol.ro/spinus-bh/registru-hcl/53900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-70-2021",
+   "path": "local/bihor/spinus/2021/70",
+   "short": "HCL Spinuș nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 70/2021 privind rectificarea bugetului local al Comunei Spinuş pe anul 2021 la secţiunile de funcţionare și dezvoltare",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/53901",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/53901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-71-2021",
+   "path": "local/bihor/spinus/2021/71",
+   "short": "HCL Spinuș nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 71/2021 privind aprobarea modificării inventarului bunurilor care alcătuiesc domeniul public al Comunei Spinuş, judeţul Bihor",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/53902",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/53902",
      "sha256": null
     }
    ]

@@ -3,6 +3,246 @@
  "shard": "local/bistrita-nasaud/galatii-bistritei/2024",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-10-2024",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2024/10",
+   "short": "HCL Galații Bistriței nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 10/2024",
+   "url": "http://galatiibistritei.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/registru_hcl2024.html",
+     "sha256": "c71246840876c4b76efe555d670d59153436c54c497d3c463aaa96460bf5c689"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-11-2024",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2024/11",
+   "short": "HCL Galații Bistriței nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 11/2024 privind aprobarea finațare dans sportiv",
+   "url": "http://galatiibistritei.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/hcl/uat_galatii_hcl.nr.11_19.04.2024.pdf",
+     "sha256": "819563db051cb9aaa6defaf4a56dcfb03127fe1d07b79c186d32e2b9981eb964"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-12-2024",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2024/12",
+   "short": "HCL Galații Bistriței nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 12/2024 privind modificarea organigramei și statului de funcții al Aparatului de specialitate al Primarului comunei Galații-Bistriței",
+   "url": "http://galatiibistritei.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/hcl/uat_galatii_hcl.nr.12_19.04.2024.pdf",
+     "sha256": "66dbb94ceb0f1727710d404851cfbced8a13fc7191b032c0a6ac5764eb9a58fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-13-2024",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2024/13",
+   "short": "HCL Galații Bistriței nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 13/2024 privind închirierea unei suprafețe de teren situat în localitatea Dipșa, comuna Galații-Bistriței, județul Bistrița-Năsăud",
+   "url": "http://galatiibistritei.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/hcl/uat_galatii_hcl.nr.13_19.04.2024.pdf",
+     "sha256": "b4981916721c8133afe17eb621236bef4ce15d34405a3f349ec5910d93f23fa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-14-2024",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2024/14",
+   "short": "HCL Galații Bistriței nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 14/2024 privind aprobarea încheierii unui contract de superficie pentru o suprafață de teren, necesar construirii capelei mortuare în localitatea Tonciu",
+   "url": "http://galatiibistritei.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/hcl/uat_galatii_hcl.nr.14_19.04.2024.pdf",
+     "sha256": "3bf7afa70f58a4fdf7d30f3146abb973a356c40766ec9d2a36283b910c21a0fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-15-2024",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2024/15",
+   "short": "HCL Galații Bistriței nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 15/2024 privind aprobarea planului de acțiuni sau de lucrări de interes local pentru anul 2024",
+   "url": "http://galatiibistritei.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/hcl/uat_galatii_hcl.nr.15_19.04.2024.pdf",
+     "sha256": "c00b0772a8f783ae8b0d5b1167b2d8943776cb5522890cb8d9ee460d1c424570"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-16-2024",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2024/16",
+   "short": "HCL Galații Bistriței nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 16/2024 privind amplasare indicator limitare tonaj DC 16",
+   "url": "http://galatiibistritei.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/hcl/uat_galatii_hcl.nr.16_19.04.2024.pdf",
+     "sha256": "5ade3bd2f7613d0adfc4bf09f1f6c678af72a16c0e87656b83b4106739c900d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-17-2024",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2024/17",
+   "short": "HCL Galații Bistriței nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 17/2024",
+   "url": "http://galatiibistritei.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/registru_hcl2024.html",
+     "sha256": "eaa3ce386963678f06aaf924a808f47ebb1e4c51b1c3a7e0ea9fe884e9ec8d16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-18-2024",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2024/18",
+   "short": "HCL Galații Bistriței nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 18/2024",
+   "url": "http://galatiibistritei.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/registru_hcl2024.html",
+     "sha256": "c68f2bc75571d77dfd682e2c1cab2fcd03df7ae4f8dc8aafade459caef52f09c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-19-2024",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2024/19",
+   "short": "HCL Galații Bistriței nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 19/2024 privind alegerea de către Consiliul local al comunei Galații-Bistriței a președintelui de ședință pe o perioadă de trei luni",
+   "url": "http://galatiibistritei.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/hcl/uat_galatii_hcl.nr.19_19.04.2024.pdf",
+     "sha256": "609cc0e331cd30836df69836705cab98cb303ae33cdd320abcd1c76e69c4a8ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-20-2024",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2024/20",
+   "short": "HCL Galații Bistriței nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 20/2024 privind anularea numerelor cadastrale 25370 și 25371 - Galații-Bistriței",
+   "url": "http://galatiibistritei.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/hcl/uat_galatii_hcl.nr.20_19.04.2024.pdf",
+     "sha256": "c39a83cacf74efcac102a626f58c29c5a58894faf5818737112a263c3bd7d54d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-21-2024",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2024/21",
+   "short": "HCL Galații Bistriței nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 21/2024 privind declararea ca fiind de interes public local a unor imobile - terenuri, aparținând domeniului public al comunei Galații-Bistriței",
+   "url": "http://galatiibistritei.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/hcl/uat_galatii_hcl.nr.21_27.05.2024.pdf",
+     "sha256": "5fd1875b0ede2402667fab6b9e430ba1071f839a0ca2d10fb63a7aab57392fd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-22-2024",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2024/22",
+   "short": "HCL Galații Bistriței nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 22/2024 privind aprobarea prelungirii contractelor de închiriere a pășunilor proprietate publică a comunei Galații-Bistriței",
+   "url": "http://galatiibistritei.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/hcl/uat_galatii_hcl.nr.22_27.05.2024.pdf",
+     "sha256": "bf6c61723a4c2558a89b931e028bd0b01deb3d1c757cdb6029a7f0642f3008f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-4-2024",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2024/4",
+   "short": "HCL Galații Bistriței nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 4/2024 privind actualizarea Planului de analiză și acoperire a riscurilor al comunei Galații-Bistriței în situații de dezastre și în caz de conflict armat",
+   "url": "http://galatiibistritei.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/hcl/uat_galatii_hcl.nr.04_07.02.2024.pdf",
+     "sha256": "008229141a4309da568c2e5b9c20470e19dc589c9f1856581d6fd2c6dd3fa81b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-5-2024",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2024/5",
+   "short": "HCL Galații Bistriței nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 5/2024 privind aprobarea raportului de evaluare a capacității de apărare împotriva incendiilor pentru anul 2023 și stabilirea măsurilor de optimizare a capacității de apărare împotriva incendiilor pe anul 2024",
+   "url": "http://galatiibistritei.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/hcl/uat_galatii_hcl.nr.05_07.02.2024.pdf",
+     "sha256": "786c62f687b0c6866bfbbfb7bef3bef7b75b0608632d097ae1838d2dd7adcc46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-6-2024",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2024/6",
+   "short": "HCL Galații Bistriței nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 6/2024 privind propunerea de aprobare a contului anual de execuție a bugetului de venituri și cheltuieli al comunei Galații-Bistriței, pe anul 2023",
+   "url": "http://galatiibistritei.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/hcl/uat_galatii_hcl.nr.06_07.02.2024.pdf",
+     "sha256": "c330978cb77c2282d1e6c70142fa889b2d64e6593dd323863451ef96310bdce3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--galatii-bistritei-665-2024",
    "path": "local/bistrita-nasaud/galatii-bistritei/2024/665",
    "short": "HCL Galații Bistriței nr. 665/2024",
@@ -29,6 +269,36 @@
      "units": 1,
      "source_url": "http://galatiibistritei.ro/documente/hcl/uat_galatii_hcl.nr.07_01.03.2024.pdf",
      "sha256": "85420e64be0cbfa8dbe3b14b1f7f749aed82d487535af615d53ecab7a29e66cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-8-2024",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2024/8",
+   "short": "HCL Galații Bistriței nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 8/2024 privind aprobarea Actului adițional nr.7 la Contractul de concesiune nr.1277 din 06.12.2018 privind Delegarea prin concesiune a serviciului public de salubrizare respectiv activitatea de colectare, transport, depozitare și transfer al deșeurilor municipale inclusiv deșeuri periculoase din deșeuri menajere și managementul Stațiilor de Transfer și al Centrelor de Colectare din județul Bistrița-Năsău",
+   "url": "http://galatiibistritei.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/hcl/uat_galatii_hcl.nr.08_01.03.2024.pdf",
+     "sha256": "b2d04916c3e2762b1680918373debfb7f8edfb463aaa4efa0276c0baf1fb391c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-9-2024",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2024/9",
+   "short": "HCL Galații Bistriței nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 9/2024",
+   "url": "http://galatiibistritei.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/registru_hcl2024.html",
+     "sha256": "9738670d464b1a4d9b61089d4fa93864083da7a0774b20fce0e20783aff3a375"
     }
    ]
   }

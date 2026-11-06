@@ -271,6 +271,36 @@
      "sha256": "611b3df35ff1a8b2aff969fe54e4a247b8dcd707bc77dc85f0449220dd340989"
     }
    ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--beclean-89-2026",
+   "path": "local/bistrita-nasaud/beclean/2026/89",
+   "short": "HCL Beclean nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Beclean nr. 89/2026",
+   "url": "http://primariabeclean.ro/web/consiliu-local/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "http://primariabeclean.ro/web/wp-content/uploads/2026/10/HCL-nr-89-din-16-septembrie-2026.pdf",
+     "sha256": "4807dc843f5d32d883aa53fd7bd7028424cd2a3bac0b322bb90fe03bb67f798d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--beclean-90-2026",
+   "path": "local/bistrita-nasaud/beclean/2026/90",
+   "short": "HCL Beclean nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Beclean nr. 90/2026",
+   "url": "http://primariabeclean.ro/web/consiliu-local/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "http://primariabeclean.ro/web/wp-content/uploads/2026/10/HCL-nr-90-din-16-septembrie-2026.pdf",
+     "sha256": "f5c3d3fb126973cca855305ae81d3abcabc4410684e5e8287a268fd7ac7f2c05"
+    }
+   ]
   }
  ]
 }

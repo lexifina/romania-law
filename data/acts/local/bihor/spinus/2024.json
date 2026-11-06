@@ -47,6 +47,138 @@
 }
 },
 {
+"slug": "hcl-bihor--spinus-43-2024",
+"path": "local/bihor/spinus/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 43/2024 privind desemnarea reprezentantului Consiliului Local al comunei Spinuș în Consiliul de Administrație al Școlii Gimnaziale nr.1 Spinuș pentru anul școlar 2024-2025",
+"short": "HCL Spinuș nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/172694",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--spinus-44-2024",
+"path": "local/bihor/spinus/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 44/2024 privind alegerea președintelui de ședință pentru perioada noiembrie 2024- ianuarie 2025",
+"short": "HCL Spinuș nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/175109",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--spinus-45-2024",
+"path": "local/bihor/spinus/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 45/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Spinuș din data de 06 noiembrie 2024",
+"short": "HCL Spinuș nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/175110",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--spinus-46-2024",
+"path": "local/bihor/spinus/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 46/2024 privind organizarea comisiilor de specialitate din cadrul Consiliului Local al Comunei Spinuș pe pricipalele domenii de activitate",
+"short": "HCL Spinuș nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/175111",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--spinus-47-2024",
+"path": "local/bihor/spinus/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 47/2024 privind alegerea comisiei speciale în vederea derulării procedurii pentru alegerea viceprimarului comunei",
+"short": "HCL Spinuș nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/175112",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--spinus-48-2024",
+"path": "local/bihor/spinus/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 48/2024 privind alegerea viceprimarului comunei Spinuș",
+"short": "HCL Spinuș nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/175113",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--spinus-49-2024",
 "path": "local/bihor/spinus/2024/49",
 "kind": "local",
@@ -69,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-bihor--spinus-50-2024",
+"path": "local/bihor/spinus/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 50/2024 privind acordarea unor facilități fiscale urmare achitării până la data de 25.11.2024, a obligațiilor restante la data de 31.08.2024",
+"short": "HCL Spinuș nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/177835",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--spinus-51-2024",
 "path": "local/bihor/spinus/2024/51",
 "kind": "local",
@@ -88,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Spinuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--spinus-52-2024",
+"path": "local/bihor/spinus/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 52/2024 privind rectificarea bugetului local al Comunei Spinuş pe trimestrul IV/2024 la secţiunea de functionare si dezvoltare",
+"short": "HCL Spinuș nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/178767",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

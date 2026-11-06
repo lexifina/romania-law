@@ -3,6 +3,21 @@
  "shard": "local/bacau/cleja/2024",
  "acts": [
   {
+   "slug": "hcl-bacau--cleja-66-2024",
+   "path": "local/bacau/cleja/2024/66",
+   "short": "HCL Cleja nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 66/2024 privind stabilirea perioadei pentru efectuarea inventarierii anuale a bunurilor care alcătuiesc domeniul public și domeniul privat al comunei Cleja, județul Bacău",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/173276",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/173276",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--cleja-67-2024",
    "path": "local/bacau/cleja/2024/67",
    "short": "HCL Cleja nr. 67/2024",
@@ -28,6 +43,81 @@
      "from": "2024-11-07",
      "units": 1,
      "source_url": "https://emol.ro/cleja-bc/registru-hcl/173278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-69-2024",
+   "path": "local/bacau/cleja/2024/69",
+   "short": "HCL Cleja nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 69/2024 privind alegerea președintelui de ședință al Consiliului Local al comunei Cleja, pentru o perioadă de cel mult 3 (trei) luni, începând cu prima ședință din luna noiembrie 2024",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/177260",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/177260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-70-2024",
+   "path": "local/bacau/cleja/2024/70",
+   "short": "HCL Cleja nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 70/2024 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Cleja, județul Bacău",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/177261",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/177261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-71-2024",
+   "path": "local/bacau/cleja/2024/71",
+   "short": "HCL Cleja nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 71/2024",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/177262",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/177262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-72-2024",
+   "path": "local/bacau/cleja/2024/72",
+   "short": "HCL Cleja nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 72/2024 privind desemnarea reprezentanților Consiliului Local Cleja în Consiliul de Administrație al Școlii Gimnaziale Cleja, comuna Cleja, județul Bacău, pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/177263",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/177263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-73-2024",
+   "path": "local/bacau/cleja/2024/73",
+   "short": "HCL Cleja nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 73/2024",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/177264",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/177264",
      "sha256": null
     }
    ]
@@ -78,6 +168,51 @@
    ]
   },
   {
+   "slug": "hcl-bacau--cleja-77-2024",
+   "path": "local/bacau/cleja/2024/77",
+   "short": "HCL Cleja nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 77/2024",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/181476",
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/181476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-78-2024",
+   "path": "local/bacau/cleja/2024/78",
+   "short": "HCL Cleja nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 78/2024 privind aprobarea și implementarea proiectului ”Magia Crăciunului ”, organizat de Școala Gimnazială Cleja",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/181477",
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/181477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-79-2024",
+   "path": "local/bacau/cleja/2024/79",
+   "short": "HCL Cleja nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 79/2024 privind alegerea viceprimarului comunei Cleja, județul Bacău",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/184551",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/184551",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--cleja-80-2024",
    "path": "local/bacau/cleja/2024/80",
    "short": "HCL Cleja nr. 80/2024",
@@ -108,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--cleja-82-2024",
+   "path": "local/bacau/cleja/2024/82",
+   "short": "HCL Cleja nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 82/2024",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/184554",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/184554",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--cleja-83-2024",
    "path": "local/bacau/cleja/2024/83",
    "short": "HCL Cleja nr. 83/2024",
@@ -118,6 +268,36 @@
      "from": "2025-01-08",
      "units": 1,
      "source_url": "https://emol.ro/cleja-bc/registru-hcl/184555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-84-2024",
+   "path": "local/bacau/cleja/2024/84",
+   "short": "HCL Cleja nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 84/2024 privind aprobarea contribuției Consiliului Local al comunei Cleja la finanțarea serviciilor sociale destinate protecției și promovării drepturilor copilului și ale persoanei adulte cu handicap și a contractului de asociere a Județului Bacău cu UAT Comuna Cleja privind finanțarea activității de protecție de tip rezidențial a persoanei cu handicap, pentru anul 2024",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/184556",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/184556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-85-2024",
+   "path": "local/bacau/cleja/2024/85",
+   "short": "HCL Cleja nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 85/2024",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/184557",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/184557",
      "sha256": null
     }
    ]

@@ -93,6 +93,97 @@
 }
 },
 {
+"slug": "hcl-bacau--buhoci-56-2026",
+"path": "local/bacau/buhoci/2026/56",
+"kind": "local",
+"year": "2026",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 56/2026",
+"short": "HCL Buhoci nr. 56/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/288759",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-57-2026",
+"path": "local/bacau/buhoci/2026/57",
+"kind": "local",
+"year": "2026",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 57/2026 privind alegerea președintelui de ședință pentru lunile ocotmbrie-decembrie 2026",
+"short": "HCL Buhoci nr. 57/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/288763",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-58-2026",
+"path": "local/bacau/buhoci/2026/58",
+"kind": "local",
+"year": "2026",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 58/2026",
+"short": "HCL Buhoci nr. 58/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/288764",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-59-2026",
+"path": "local/bacau/buhoci/2026/59",
+"kind": "local",
+"year": "2026",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 59/2026",
+"short": "HCL Buhoci nr. 59/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/288765",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--buhoci-60-2026",
 "path": "local/bacau/buhoci/2026/60",
 "kind": "local",
@@ -204,6 +295,74 @@
 }
 },
 {
+"slug": "hcl-bacau--buhoci-65-2026",
+"path": "local/bacau/buhoci/2026/65",
+"kind": "local",
+"year": "2026",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 65/2026",
+"short": "HCL Buhoci nr. 65/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/292208",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-66-2026",
+"path": "local/bacau/buhoci/2026/66",
+"kind": "local",
+"year": "2026",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 66/2026",
+"short": "HCL Buhoci nr. 66/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/292249",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-67-2026",
+"path": "local/bacau/buhoci/2026/67",
+"kind": "local",
+"year": "2026",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 67/2026 privind modificarea Anexei la HCL nr. 63/02.10.2026 privind implementarea proiectului ''Îmbunătățirea serviciilor de asistență socială prin achiziția unui mijloc de transport în comuna Buhoci, județul Bacău''",
+"short": "HCL Buhoci nr. 67/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-26",
+"latest": "2026-10-26",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/294613",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--buhoci-68-2026",
 "path": "local/bacau/buhoci/2026/68",
 "kind": "local",
@@ -267,6 +426,29 @@
 "council_name": "Consiliul Local al Comunei Buhoci",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-71-2026",
+"path": "local/bacau/buhoci/2026/71",
+"kind": "local",
+"year": "2026",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 71/2026",
+"short": "HCL Buhoci nr. 71/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/297269",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

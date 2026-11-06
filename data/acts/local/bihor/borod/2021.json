@@ -3,6 +3,95 @@
 "shard": "local/bihor/borod/2021",
 "acts": [
 {
+"slug": "hcl-bihor--borod-74-2021",
+"path": "local/bihor/borod/2021/74",
+"kind": "local",
+"year": "2021",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Borod nr. 74/2021 privind aprobarea Cererii de finanțare pentru Programul național de investiții ”Anghel Saligny” și a Devizului General estimativ pentru obiectivul “Îmbunătățirea infrastructurii rutiere în comuna Borod, județul Bihor”",
+"short": "HCL Borod nr. 74/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-18",
+"latest": "2021-10-18",
+"portal": "https://emol.ro/borod-bh/registru-hcl/38355",
+"council": "bihor/borod",
+"council_name": "Consiliul Local al Comunei Borod",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--borod-75-2021",
+"path": "local/bihor/borod/2021/75",
+"kind": "local",
+"year": "2021",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Borod nr. 75/2021 privind aprobarea procesului verbal de la şedinţa ordinară a Consiliului Local al comunei Borod din 18 octombrie 2021",
+"short": "HCL Borod nr. 75/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-08",
+"latest": "2021-11-08",
+"portal": "https://emol.ro/borod-bh/registru-hcl/40616",
+"council": "bihor/borod",
+"council_name": "Consiliul Local al Comunei Borod",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--borod-76-2021",
+"path": "local/bihor/borod/2021/76",
+"kind": "local",
+"year": "2021",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Borod nr. 76/2021 privind aprobarea ordinii de zi pentru şedinţa ordinară din data de 08 noiembrie 2021",
+"short": "HCL Borod nr. 76/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-08",
+"latest": "2021-11-08",
+"portal": "https://emol.ro/borod-bh/registru-hcl/40617",
+"council": "bihor/borod",
+"council_name": "Consiliul Local al Comunei Borod",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--borod-77-2021",
+"path": "local/bihor/borod/2021/77",
+"kind": "local",
+"year": "2021",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Borod nr. 77/2021",
+"short": "HCL Borod nr. 77/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-08",
+"latest": "2021-11-08",
+"portal": "https://emol.ro/borod-bh/registru-hcl/40618",
+"council": "bihor/borod",
+"council_name": "Consiliul Local al Comunei Borod",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--borod-78-2021",
 "path": "local/bihor/borod/2021/78",
 "kind": "local",
@@ -67,6 +156,50 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--borod-81-2021",
+"path": "local/bihor/borod/2021/81",
+"kind": "local",
+"year": "2021",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Borod nr. 81/2021 privind aprobarea procesului verbal de la şedința ordinară a Consiliului Local al Comunei Borod din 08 noiembrie 2021",
+"short": "HCL Borod nr. 81/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-13",
+"latest": "2021-12-13",
+"portal": "https://emol.ro/borod-bh/registru-hcl/43977",
+"council": "bihor/borod",
+"council_name": "Consiliul Local al Comunei Borod",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--borod-82-2021",
+"path": "local/bihor/borod/2021/82",
+"kind": "local",
+"year": "2021",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Borod nr. 82/2021 privind aprobarea ordinii de zi pentru şedinţa ordinară din 13 decembrie 2021",
+"short": "HCL Borod nr. 82/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-13",
+"latest": "2021-12-13",
+"portal": "https://emol.ro/borod-bh/registru-hcl/43978",
+"council": "bihor/borod",
+"council_name": "Consiliul Local al Comunei Borod",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -180,6 +313,50 @@
 }
 },
 {
+"slug": "hcl-bihor--borod-88-2021",
+"path": "local/bihor/borod/2021/88",
+"kind": "local",
+"year": "2021",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Borod nr. 88/2021 privind aprobarea procesului verbal de la şedința ordinară a Consiliului Local al Comunei Borod din 13 decembrie 2021",
+"short": "HCL Borod nr. 88/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://emol.ro/borod-bh/registru-hcl/46255",
+"council": "bihor/borod",
+"council_name": "Consiliul Local al Comunei Borod",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--borod-89-2021",
+"path": "local/bihor/borod/2021/89",
+"kind": "local",
+"year": "2021",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Borod nr. 89/2021 privind aprobarea ordinii de zi pentru şedinţa ordinară din 28 decembrie 2021",
+"short": "HCL Borod nr. 89/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://emol.ro/borod-bh/registru-hcl/46256",
+"council": "bihor/borod",
+"council_name": "Consiliul Local al Comunei Borod",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--borod-90-2021",
 "path": "local/bihor/borod/2021/90",
 "kind": "local",
@@ -199,6 +376,28 @@
 "council_name": "Consiliul Local al Comunei Borod",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--borod-91-2021",
+"path": "local/bihor/borod/2021/91",
+"kind": "local",
+"year": "2021",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Borod nr. 91/2021 privind aprobarea Amenajamentului pastoral pentru toate pajiștile aflate pe teritoriul comunei Borod",
+"short": "HCL Borod nr. 91/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://emol.ro/borod-bh/registru-hcl/46258",
+"council": "bihor/borod",
+"council_name": "Consiliul Local al Comunei Borod",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

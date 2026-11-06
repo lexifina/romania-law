@@ -3,6 +3,272 @@
 "shard": "local/bistrita-nasaud/galatii-bistritei/2023",
 "acts": [
 {
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-50-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 50/2023 privind rectificarea bugetului de venituri și cheltuieli al comunei Galații-Bistriței pe anul 2023",
+"short": "HCL Galații Bistriței nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-51-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 51/2023 privind modificarea HCL nr.62 din 25.11.2022 referitor la aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ”MODERNIZARE STRĂZI ÎN COMUNA GALAȚII-BISTRIȚEI, JUDEȚUL BISTRIȚA-NĂSĂUD” - proiect II, aprobat pentru finanțare prin Programul național de investiții ”Anghel Saligny”, precum și a sumei reprezentând categoriile de c",
+"short": "HCL Galații Bistriței nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-52-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 52/2023 privind alegerea de către Consiliul local al comunei Galații-Bistriței a președintelui de ședință pe o perioadă de trei luni",
+"short": "HCL Galații Bistriței nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-53-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 53/2023",
+"short": "HCL Galații Bistriței nr. 53/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-54-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 54/2023 privind utilizarea excedentului bugetului local al comunei Galații-Bistriței, la 31.12.2022",
+"short": "HCL Galații Bistriței nr. 54/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-55-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 55/2023 privind propunerea de aprobare a execuției bugetului de venituri și cheltuieli al comunei Galații-Bistriței, aferentă trimestrului III, a anului 2023",
+"short": "HCL Galații Bistriței nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-56-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 56/2023 privind valorificarea masei lemnoase din fondul forestier proprietate publică a comunei Galații-Bistriței, care se exploatează în cursul anului 2024",
+"short": "HCL Galații Bistriței nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-57-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 57/2023 privind solicitarea operatorului S.C",
+"short": "HCL Galații Bistriței nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-58-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 58/2023 privind rectificarea bugetului de venituri și cheltuieli al comunei Galații-Bistriței pe anul 2023",
+"short": "HCL Galații Bistriței nr. 58/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-59-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 59/2023",
+"short": "HCL Galații Bistriței nr. 59/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-60-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 60/2023 privind rectificarea bugetului de venituri și cheltuieli al comunei Galații-Bistriței pe anul 2023",
+"short": "HCL Galații Bistriței nr. 60/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-61-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/61",
+"kind": "local",
+"year": "2023",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 61/2023 privind alegerea de către Consiliul local al comunei Galații-Bistriței a președintelui de ședință pe o perioadă de trei luni",
+"short": "HCL Galații Bistriței nr. 61/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--galatii-bistritei-62-2023",
 "path": "local/bistrita-nasaud/galatii-bistritei/2023/62",
 "kind": "local",
@@ -25,6 +291,28 @@
 }
 },
 {
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-63-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/63",
+"kind": "local",
+"year": "2023",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 63/2023 privind anularea creanțelor fiscale până la 40 lei",
+"short": "HCL Galații Bistriței nr. 63/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--galatii-bistritei-65-2023",
 "path": "local/bistrita-nasaud/galatii-bistritei/2023/65",
 "kind": "local",
@@ -44,6 +332,72 @@
 "council_name": "Consiliul Local al Comunei Galații Bistriței",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-66-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/66",
+"kind": "local",
+"year": "2023",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 66/2023 privind rectificarea bugetului de venituri și cheltuieli al comunei Galații-Bistriței pe anul 2023",
+"short": "HCL Galații Bistriței nr. 66/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-67-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/67",
+"kind": "local",
+"year": "2023",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 67/2023 privind aprobarea Rețelei unităților de învățământ preuniversitar de stat propuse să funcționeze în comuna Galații-Bistriței în anul școlar 2024-2025",
+"short": "HCL Galații Bistriței nr. 67/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-68-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/68",
+"kind": "local",
+"year": "2023",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 68/2023 privind aprobarea amplasamentului Punctului de Lansare a rachetelor antigrindină",
+"short": "HCL Galații Bistriței nr. 68/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -3,6 +3,21 @@
  "shard": "local/bihor/tulca/2023",
  "acts": [
   {
+   "slug": "hcl-bihor--tulca-148-2023",
+   "path": "local/bihor/tulca/2023/148",
+   "short": "HCL Tulca nr. 148/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 148/2023 privind aprobarea ordinii de zi a ședinței extraordinare, cu convocare de indata, a Consiliului Local Tulca din data de 07.12.2023",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/148246",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/148246",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tulca-149-2023",
    "path": "local/bihor/tulca/2023/149",
    "short": "HCL Tulca nr. 149/2023",
@@ -43,6 +58,66 @@
      "from": "2023-12-07",
      "units": 1,
      "source_url": "https://emol.ro/tulca-bh/registru-hcl/148249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-152-2023",
+   "path": "local/bihor/tulca/2023/152",
+   "short": "HCL Tulca nr. 152/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 152/2023 privind aprobarea ordinii de zi a ședinței extraordinare, cu convocare de indata, a Consiliului Local Tulca din data de 13.12.2023",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/148250",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/148250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-153-2023",
+   "path": "local/bihor/tulca/2023/153",
+   "short": "HCL Tulca nr. 153/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 153/2023 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2023 VARIANTA XI a comunei Tulca",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/148251",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/148251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-154-2023",
+   "path": "local/bihor/tulca/2023/154",
+   "short": "HCL Tulca nr. 154/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 154/2023 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Tulca din data de 28.12.2023",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/148252",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/148252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-155-2023",
+   "path": "local/bihor/tulca/2023/155",
+   "short": "HCL Tulca nr. 155/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 155/2023 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tulca din data de 24.11.2023",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/148253",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/148253",
      "sha256": null
     }
    ]
@@ -108,6 +183,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tulca-160-2023",
+   "path": "local/bihor/tulca/2023/160",
+   "short": "HCL Tulca nr. 160/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 160/2023 privind validarea Dispozitiei nr. 193/27.11.2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/148258",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/148258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-161-2023",
+   "path": "local/bihor/tulca/2023/161",
+   "short": "HCL Tulca nr. 161/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 161/2023 privind validarea Dispozitiei nr. 199/04.12.2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/148259",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/148259",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tulca-162-2023",
    "path": "local/bihor/tulca/2023/162",
    "short": "HCL Tulca nr. 162/2023",
@@ -133,6 +238,21 @@
      "from": "2023-12-28",
      "units": 1,
      "source_url": "https://emol.ro/tulca-bh/registru-hcl/148261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-164-2023",
+   "path": "local/bihor/tulca/2023/164",
+   "short": "HCL Tulca nr. 164/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 164/2023 privind validarea Dispozitiei nr. 215/19.12.2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/148262",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/148262",
      "sha256": null
     }
    ]

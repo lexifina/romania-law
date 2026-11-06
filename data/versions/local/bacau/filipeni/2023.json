@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--filipeni-57-2023",
+   "path": "local/bacau/filipeni/2023/57",
+   "short": "HCL Filipeni nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 57/2023 privind desemnarea unui reprezentant al Consiliului local în Consiliul de administrație al Școlii Gimnaziale Filipeni, în anul școlar 2023-2024",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/148921",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/148921",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--filipeni-58-2023",
    "path": "local/bacau/filipeni/2023/58",
    "short": "HCL Filipeni nr. 58/2023",
@@ -238,6 +253,21 @@
      "from": "2023-12-06",
      "units": 1,
      "source_url": "https://emol.ro/filipeni-bc/registru-hcl/148936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-73-2023",
+   "path": "local/bacau/filipeni/2023/73",
+   "short": "HCL Filipeni nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 73/2023",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/148937",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/148937",
      "sha256": null
     }
    ]

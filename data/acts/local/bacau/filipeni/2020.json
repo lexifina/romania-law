@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-bacau--filipeni-48-2020",
+"path": "local/bacau/filipeni/2020/48",
+"kind": "local",
+"year": "2020",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 48/2020 privind închirierea prin atribuire directă a unui spațiu din incinta Dispensarului uman în vederea funcționării unui punct farmaceutic, situat administrativ în sat Filipeni, comuna Filipeni, județul Bacău",
+"short": "HCL Filipeni nr. 48/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-09",
+"latest": "2020-09-09",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/19158",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--filipeni-49-2020",
 "path": "local/bacau/filipeni/2020/49",
 "kind": "local",
@@ -44,6 +66,29 @@
 "council_name": "Consiliul Local al Comunei Filipeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-50-2020",
+"path": "local/bacau/filipeni/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 50/2020",
+"short": "HCL Filipeni nr. 50/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-18",
+"latest": "2020-11-18",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/19164",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -88,6 +133,28 @@
 "council_name": "Consiliul Local al Comunei Filipeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-53-2020",
+"path": "local/bacau/filipeni/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 53/2020 privind desemnarea unui reprezentant al Consiliului local în Consiliul de administrație al Școlii Gimnaziale Filipeni",
+"short": "HCL Filipeni nr. 53/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-18",
+"latest": "2020-11-18",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/19167",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

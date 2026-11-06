@@ -3,6 +3,72 @@
 "shard": "local/bihor/abram/2026",
 "acts": [
 {
+"slug": "hcl-bihor--abram-1-2026",
+"path": "local/bihor/abram/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 1/2026 privind alegerea preşedintelui de şedinţă a Consiliului Local al comunei Abram pentru lunile februarie 2026 - aprilie 2026",
+"short": "HCL Abram nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/abram-bh/registru-hcl/257396",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-2-2026",
+"path": "local/bihor/abram/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 2/2026 privind aprobarea de către Consiliul local a procesului verbal al şedinţei din 18.12.2025",
+"short": "HCL Abram nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/abram-bh/registru-hcl/257397",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-3-2026",
+"path": "local/bihor/abram/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 3/2026 privind aprobarea ordinii de zi a ședinței ordinare din data de 11.02.2026",
+"short": "HCL Abram nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/abram-bh/registru-hcl/257398",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--abram-4-2026",
 "path": "local/bihor/abram/2026/4",
 "kind": "local",
@@ -22,6 +88,50 @@
 "council_name": "Consiliul Local al Comunei Abram",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--abram-5-2026",
+"path": "local/bihor/abram/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 5/2026 privind activitatea asistenţilor personali desfăşurată în anul 2025",
+"short": "HCL Abram nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/abram-bh/registru-hcl/257400",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-6-2026",
+"path": "local/bihor/abram/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 6/2026 privind aprobarea necesarului de asistenţi personali ai persoanelor cu handicap grav și a indemnizaţiilor lunare cuvenite părinţilor sau reprezentanţilor legali ai copilului cu handicap grav, adulţilor cu handicap grav ori reprezentanţilor legali ai acestora, la nivelul comunei Abram pentru anul 2026",
+"short": "HCL Abram nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/abram-bh/registru-hcl/257401",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +157,50 @@
 }
 },
 {
+"slug": "hcl-bihor--abram-8-2026",
+"path": "local/bihor/abram/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 8/2026 privind aprobarea Programului de acțiune comunitară la nivelul comunei Abram, aferent anului 2026",
+"short": "HCL Abram nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/abram-bh/registru-hcl/257403",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-9-2026",
+"path": "local/bihor/abram/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 9/2026 privind implementarea proiectului ”Achiziție de utilaje în comuna Abram, județul Bihor”",
+"short": "HCL Abram nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/abram-bh/registru-hcl/257406",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--abram-10-2026",
 "path": "local/bihor/abram/2026/10",
 "kind": "local",
@@ -67,6 +221,182 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--abram-11-2026",
+"path": "local/bihor/abram/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 11/2026 privind stadiul de înscriere a datelor în Registrul agricol al comunei Abram, pentru semestrul II, anul 2025 și stabilirea măsurilor pentru eficientizarea acestei activități",
+"short": "HCL Abram nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/abram-bh/registru-hcl/257408",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-12-2026",
+"path": "local/bihor/abram/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 12/2026 privind aprobarea de către Consiliul local a procesului verbal al şedinţei din 11.02.2026",
+"short": "HCL Abram nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/abram-bh/registru-hcl/264308",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-13-2026",
+"path": "local/bihor/abram/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 13/2026 privind aprobarea ordinii de zi a ședinței ordinare din data de 25.03.2026",
+"short": "HCL Abram nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/abram-bh/registru-hcl/264309",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-14-2026",
+"path": "local/bihor/abram/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 14/2026 privind actualizarea “Planului de Analiza si Acoperire a Riscurilor” in comuna Abram",
+"short": "HCL Abram nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/abram-bh/registru-hcl/264313",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-15-2026",
+"path": "local/bihor/abram/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 15/2026 privind „Planul de asigurare cu resurse umane, materiale si financiare in domeniul Situatiilor de Urgenta pentru anul 2026”",
+"short": "HCL Abram nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/abram-bh/registru-hcl/264314",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-16-2026",
+"path": "local/bihor/abram/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 16/2026 privind aprobarea devizului general actualizat și a Proiectului Tehnic pentru obiectivul de investiție “Modernizarea sistemului de iluminat public în comuna Abram, judetul Bihor”",
+"short": "HCL Abram nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/abram-bh/registru-hcl/264316",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-17-2026",
+"path": "local/bihor/abram/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 17/2026 privind aprobarea înrolării în sistemul în Sistemul Național Electronic de Plată- „Ghișeul.ro”",
+"short": "HCL Abram nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/abram-bh/registru-hcl/264318",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-18-2026",
+"path": "local/bihor/abram/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 18/2026 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, prevăzute de ”Programul pentru școli al României”, de către comuna Abram",
+"short": "HCL Abram nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/abram-bh/registru-hcl/264320",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

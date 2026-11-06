@@ -3,6 +3,23 @@
 "shard": "cnsc/2025",
 "acts": [
 {
+"slug": "cnsc-decizie-2025-1626",
+"path": "cnsc/decizie/2025/1626",
+"kind": "cnsc",
+"year": "2025",
+"number": "1626",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia CNSC nr. 1626/C4/1467 din 20.05.2025: contestația AMAZAV SRL în contradictoriu cu COMUNA POIANA MARE",
+"short": "Decizia CNSC nr. 1626/C4/1467 din 20.05.2025",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2025-05-20",
+"latest": "2025-05-20",
+"portal": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTQwY2JkYzYtOWUxOC00NmNmLTg4YzEtNzQ1NTQyM2M5OTlm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNjI2LnBkZg==&action=YXR0YWNobWVudA=="
+},
+{
 "slug": "cnsc-decizie-2025-1811",
 "path": "cnsc/decizie/2025/1811",
 "kind": "cnsc",

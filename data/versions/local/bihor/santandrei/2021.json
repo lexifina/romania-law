@@ -108,6 +108,51 @@
    ]
   },
   {
+   "slug": "hcl-bihor--santandrei-187-2021",
+   "path": "local/bihor/santandrei/2021/187",
+   "short": "HCL Sântandrei nr. 187/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 187/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/42865",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/42865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-188-2021",
+   "path": "local/bihor/santandrei/2021/188",
+   "short": "HCL Sântandrei nr. 188/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 188/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/42866",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/42866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-189-2021",
+   "path": "local/bihor/santandrei/2021/189",
+   "short": "HCL Sântandrei nr. 189/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 189/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/42867",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/42867",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--santandrei-190-2021",
    "path": "local/bihor/santandrei/2021/190",
    "short": "HCL Sântandrei nr. 190/2021",
@@ -138,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--santandrei-192-2021",
+   "path": "local/bihor/santandrei/2021/192",
+   "short": "HCL Sântandrei nr. 192/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 192/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/45048",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/45048",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--santandrei-193-2021",
    "path": "local/bihor/santandrei/2021/193",
    "short": "HCL Sântandrei nr. 193/2021",
@@ -163,6 +223,21 @@
      "from": "2021-12-22",
      "units": 1,
      "source_url": "https://emol.ro/santandrei-bh/registru-hcl/45050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-195-2021",
+   "path": "local/bihor/santandrei/2021/195",
+   "short": "HCL Sântandrei nr. 195/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 195/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/45051",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/45051",
      "sha256": null
     }
    ]

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/milas/2007",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--milas-27-2007",
+   "path": "local/bistrita-nasaud/milas/2007/27",
+   "short": "HCL Milaș nr. 27/2007",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 27/2007",
+   "url": "https://comunamilas.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2007-07-27",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/registru_hcl.html",
+     "sha256": "6ab177c0dc7e9485621019faa510e1344e6cd8956cecc231223f12193911568f"
+    }
+   ]
+  }
+ ]
+}

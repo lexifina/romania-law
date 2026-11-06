@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bihor/hidiselu-de-sus/2026",
+"acts": [
+{
+"slug": "hcl-bihor--hidiselu-de-sus-1-2026",
+"path": "local/bihor/hidiselu-de-sus/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hidișelu de Sus nr. 1/2026 privind alegerea președintelui de ședință",
+"short": "HCL Hidișelu de Sus nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://emol.ro/hidiseludesus-bh/registru-hcl/288264",
+"council": "bihor/hidiselu-de-sus",
+"council_name": "Consiliul Local al Comunei Hidișelu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

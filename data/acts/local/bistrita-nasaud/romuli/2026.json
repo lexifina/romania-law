@@ -269,6 +269,28 @@
 }
 },
 {
+"slug": "hcl-bistrita-nasaud--romuli-15-2026",
+"path": "local/bistrita-nasaud/romuli/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 15/2026 privind desemnarea reprezentantului Consiliului Local al comunei Romuli în Consiliul de Administrație al Școlii Gimnaziale Romuli",
+"short": "HCL Romuli nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/289817",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--romuli-16-2026",
 "path": "local/bistrita-nasaud/romuli/2026/16",
 "kind": "local",
@@ -332,6 +354,28 @@
 "council_name": "Consiliul Local al Comunei Romuli",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--romuli-19-2026",
+"path": "local/bistrita-nasaud/romuli/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 19/2026 privind aprobarea actului adițional nr. 8 la Contractul de închiriere nr. 1635•din 02.05.2018 încheiat între Comuna Romuli și Asociația Crescătorilor de Taurine Romuli",
+"short": "HCL Romuli nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/289821",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,21 @@
  "shard": "local/bihor/bulz/2026",
  "acts": [
   {
+   "slug": "hcl-bihor--bulz-72-2026",
+   "path": "local/bihor/bulz/2026/72",
+   "short": "HCL Bulz nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bulz nr. 72/2026 privind alegerea preşedintelui de şedinţă pentru lunile noiembrie, decembrie 2026 și ianuarie 2027",
+   "url": "https://emol.ro/bulz-bh/registru-hcl/297682",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/bulz-bh/registru-hcl/297682",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--bulz-73-2026",
    "path": "local/bihor/bulz/2026/73",
    "short": "HCL Bulz nr. 73/2026",
@@ -48,6 +63,66 @@
    ]
   },
   {
+   "slug": "hcl-bihor--bulz-76-2026",
+   "path": "local/bihor/bulz/2026/76",
+   "short": "HCL Bulz nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bulz nr. 76/2026",
+   "url": "https://emol.ro/bulz-bh/registru-hcl/297686",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/bulz-bh/registru-hcl/297686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bulz-77-2026",
+   "path": "local/bihor/bulz/2026/77",
+   "short": "HCL Bulz nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bulz nr. 77/2026",
+   "url": "https://emol.ro/bulz-bh/registru-hcl/297687",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/bulz-bh/registru-hcl/297687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bulz-78-2026",
+   "path": "local/bihor/bulz/2026/78",
+   "short": "HCL Bulz nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bulz nr. 78/2026 privind desemnarea unui reprezentant din cadrul Consiliului Local al comunei Bulz în Consiliul de Administraţie al Şcolii Gimnaziale Nr. 1 Bulz pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/bulz-bh/registru-hcl/297688",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/bulz-bh/registru-hcl/297688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bulz-79-2026",
+   "path": "local/bihor/bulz/2026/79",
+   "short": "HCL Bulz nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bulz nr. 79/2026 privind aprobarea indicatorilor tehnico-economici, a devizului general și al proiectului tehnic de execuție pentru obiectivul de investiții ”CONSTRUIRE CAPELĂ, COMUNA BULZ, ST BULZ, NR. CAD. 52736, JUDEȚUL BIHOR”, finanțat prin bugetul local al comunei Bulz, județul Bihor",
+   "url": "https://emol.ro/bulz-bh/registru-hcl/297689",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/bulz-bh/registru-hcl/297689",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--bulz-80-2026",
    "path": "local/bihor/bulz/2026/80",
    "short": "HCL Bulz nr. 80/2026",
@@ -58,6 +133,36 @@
      "from": "2026-11-03",
      "units": 1,
      "source_url": "https://emol.ro/bulz-bh/registru-hcl/297690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bulz-81-2026",
+   "path": "local/bihor/bulz/2026/81",
+   "short": "HCL Bulz nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bulz nr. 81/2026 privind corectarea Hotărârii Consiliului Local nr. 74/28.06.2024 prin care s-au aprobat salariilor de bază pentru funcţionarii publici şi personalul contractual aferent familiei ocupaţionale „Administraţie” din cadrul Aparatului de specialitate al Primarului comunei Bulz privind corectarea Hotărârii Consiliului Local nr. 74/28.06.2024 prin care s-au aprobat salariilor de bază pentru funcţionarii publici şi personalul contractual aferent familiei ocupaţionale „Administraţie” din cadrul Aparatului de specialitate al Primarului comunei Bulz",
+   "url": "https://emol.ro/bulz-bh/registru-hcl/297691",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/bulz-bh/registru-hcl/297691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bulz-82-2026",
+   "path": "local/bihor/bulz/2026/82",
+   "short": "HCL Bulz nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bulz nr. 82/2026 privind aprobarea actelor de punere în valoare a prețului pentru serviciile de exploatare forestieră din produse principale, secundare și prețul de vânzare a lemnului către agenții economici, precum și stabilirea prețului de vânzare a lemnului de foc către populație",
+   "url": "https://emol.ro/bulz-bh/registru-hcl/297692",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/bulz-bh/registru-hcl/297692",
      "sha256": null
     }
    ]

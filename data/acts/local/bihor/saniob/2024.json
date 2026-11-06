@@ -3,6 +3,28 @@
 "shard": "local/bihor/saniob/2024",
 "acts": [
 {
+"slug": "hcl-bihor--saniob-67-2024",
+"path": "local/bihor/saniob/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 67/2024 privind organizarea comisiilor pe domenii de specialitate ale Consiliului local Sâniob",
+"short": "HCL Sâniob nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/188820",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--saniob-68-2024",
 "path": "local/bihor/saniob/2024/68",
 "kind": "local",
@@ -25,6 +47,96 @@
 }
 },
 {
+"slug": "hcl-bihor--saniob-69-2024",
+"path": "local/bihor/saniob/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 69/2024",
+"short": "HCL Sâniob nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/188822",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--saniob-70-2024",
+"path": "local/bihor/saniob/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 70/2024",
+"short": "HCL Sâniob nr. 70/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/188823",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--saniob-71-2024",
+"path": "local/bihor/saniob/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 71/2024 privind aprobarea ordinii de zi pentru şedinţa extraordinară din data de 19.11.2024",
+"short": "HCL Sâniob nr. 71/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/188824",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--saniob-72-2024",
+"path": "local/bihor/saniob/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 72/2024 privind aprobarea procesului verbal al ședinței ordinare din 12.11.2024",
+"short": "HCL Sâniob nr. 72/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/188825",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--saniob-73-2024",
 "path": "local/bihor/saniob/2024/73",
 "kind": "local",
@@ -44,6 +156,28 @@
 "council_name": "Consiliul Local al Comunei Sâniob",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--saniob-74-2024",
+"path": "local/bihor/saniob/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 74/2024 privind aprobarea contului de încheiere a exerciţiului bugetar al comunei Sâniob pe trimestrul III, anul 2024",
+"short": "HCL Sâniob nr. 74/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/188827",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +225,28 @@
 }
 },
 {
+"slug": "hcl-bihor--saniob-77-2024",
+"path": "local/bihor/saniob/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 77/2024 privind aprobarea Planurilor de amplasament si delimitare a unor imobile din comuna Sâniob în vederea constituirii de numere cadastrale noi și înscrierea in CF a domeniului privat",
+"short": "HCL Sâniob nr. 77/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/188830",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--saniob-78-2024",
 "path": "local/bihor/saniob/2024/78",
 "kind": "local",
@@ -132,6 +288,28 @@
 "council_name": "Consiliul Local al Comunei Sâniob",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--saniob-80-2024",
+"path": "local/bihor/saniob/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 80/2024 privind aprobarea procesului verbal al ședinței extraordinare din 19.11.2024",
+"short": "HCL Sâniob nr. 80/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/188840",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -220,6 +398,51 @@
 "council_name": "Consiliul Local al Comunei Sâniob",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--saniob-85-2024",
+"path": "local/bihor/saniob/2024/85",
+"kind": "local",
+"year": "2024",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 85/2024",
+"short": "HCL Sâniob nr. 85/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/188859",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--saniob-86-2024",
+"path": "local/bihor/saniob/2024/86",
+"kind": "local",
+"year": "2024",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 86/2024 privind aprobarea Planurilor de amplasament si delimitare a unor imobile din comuna Sâniob în vederea constituirii de numere cadastrale noi și înscrierea in CF a domeniului public/privat",
+"short": "HCL Sâniob nr. 86/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://emol.ro/saniob-bh/registru-hcl/188860",
+"council": "bihor/saniob",
+"council_name": "Consiliul Local al Comunei Sâniob",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

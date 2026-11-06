@@ -3,6 +3,261 @@
  "shard": "local/bihor/borod/2023",
  "acts": [
   {
+   "slug": "hcl-bihor--borod-100-2023",
+   "path": "local/bihor/borod/2023/100",
+   "short": "HCL Borod nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 100/2023 privind aprobarea reţelei unităţilor de învăţământ preuniversitar de stat care va funcționa în anul şcolar 2024-2025 la nivelul comunei Borod",
+   "url": "https://emol.ro/borod-bh/registru-hcl/137149",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/137149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-101-2023",
+   "path": "local/bihor/borod/2023/101",
+   "short": "HCL Borod nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 101/2023 privind aprobarea ordinii de zi pentru şedinţa extraordinară, convocată de îndată, din 29 decembrie 2023",
+   "url": "https://emol.ro/borod-bh/registru-hcl/137150",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/137150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-102-2023",
+   "path": "local/bihor/borod/2023/102",
+   "short": "HCL Borod nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 102/2023 prvind implementarea proiectului “MODERNIZARE DRUMURI AGRICOLE DE ACCES IN COMUNA BOROD, JUDETUL BIHOR” si privind aprobarea indicatorilor tehnico-economici cât și participarea în cadrul Planului Strategic PAC 2023-2027, aferente intervenției DR-27 Crearea/modernizarea infrastructurii de acces agricol, finanțat prin Fondul European Agricol pentru Dezvoltare Rurală",
+   "url": "https://emol.ro/borod-bh/registru-hcl/137151",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/137151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-83-2023",
+   "path": "local/bihor/borod/2023/83",
+   "short": "HCL Borod nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 83/2023 privind rectificarea bugetului local al comunei Borod pe anul 2023",
+   "url": "https://emol.ro/borod-bh/registru-hcl/137132",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/137132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-84-2023",
+   "path": "local/bihor/borod/2023/84",
+   "short": "HCL Borod nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 84/2023 privind aprobarea execuției bugetului local pe cele două secțiuni pe trimestrul III al anului 2023",
+   "url": "https://emol.ro/borod-bh/registru-hcl/137133",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/137133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-85-2023",
+   "path": "local/bihor/borod/2023/85",
+   "short": "HCL Borod nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 85/2023 privind aprobarea listei partizilor constituite în fondul forestier proprietate publică al Comunei Borod, ce se vor exploata în anul 2024 și modul de valorificare pentru fiecare partidă",
+   "url": "https://emol.ro/borod-bh/registru-hcl/137134",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/137134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-86-2023",
+   "path": "local/bihor/borod/2023/86",
+   "short": "HCL Borod nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 86/2023 privind stabilirea tipului de licitație și a prețului de pornire pentru valorificarea masei lemnoase din partizile constituite în fondul forestier proprietate publică al Comunei Borod",
+   "url": "https://emol.ro/borod-bh/registru-hcl/137135",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/137135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-87-2023",
+   "path": "local/bihor/borod/2023/87",
+   "short": "HCL Borod nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 87/2023 privind aprobarea devizului de exploatare și a prețului de valorificare a masei lemnoase din partizile 6083 și 6084 constituite în fondul forestier proprietate publică a Comunei Borod",
+   "url": "https://emol.ro/borod-bh/registru-hcl/137136",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/137136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-88-2023",
+   "path": "local/bihor/borod/2023/88",
+   "short": "HCL Borod nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 88/2023 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Comunei Borod din lunile decembrie 2023, ianuarie și februarie 2024",
+   "url": "https://emol.ro/borod-bh/registru-hcl/137137",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/137137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-89-2023",
+   "path": "local/bihor/borod/2023/89",
+   "short": "HCL Borod nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 89/2023 privind aprobarea procesului verbal de la şedința ordinară a Consiliului Local al Comunei Borod din data de 28 noiembrie 2023",
+   "url": "https://emol.ro/borod-bh/registru-hcl/137138",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/137138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-90-2023",
+   "path": "local/bihor/borod/2023/90",
+   "short": "HCL Borod nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 90/2023 privind aprobarea ordinii de zi pentru şedinţa extraordinară, convocată de îndată, din 08 decembrie 2023",
+   "url": "https://emol.ro/borod-bh/registru-hcl/137139",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/137139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-91-2023",
+   "path": "local/bihor/borod/2023/91",
+   "short": "HCL Borod nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 91/2023 privind aprobarea proiectului ”Creșterea eficienței energetice și gestionarea inteligentă a energiei la Dispensarul medical uman-Borod” și participarea la Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice, finanțat de Administrația Fondului de Mediu",
+   "url": "https://emol.ro/borod-bh/registru-hcl/137140",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/137140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-92-2023",
+   "path": "local/bihor/borod/2023/92",
+   "short": "HCL Borod nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 92/2023 privind aprobarea proiectului ”Creșterea eficienței energetice și gestionarea inteligentă a energiei la Dispensarul medical uman (C3)-localitate Borozel, comuna Borod” și participarea la Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice, finanțat de Administrația Fondului de Mediu",
+   "url": "https://emol.ro/borod-bh/registru-hcl/137141",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/137141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-93-2023",
+   "path": "local/bihor/borod/2023/93",
+   "short": "HCL Borod nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 93/2023 privind aprobarea proiectului ”Creșterea eficienței energetice și gestionarea inteligentă a energiei la Grădinița cu program normal (C1) – localitate Cetea, comuna Borod” și participarea la Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice, finanțat de Administrația Fondului de Mediu",
+   "url": "https://emol.ro/borod-bh/registru-hcl/137142",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/137142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-94-2023",
+   "path": "local/bihor/borod/2023/94",
+   "short": "HCL Borod nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 94/2023 privind rectificarea bugetului local al comunei Borod pe anul 2023",
+   "url": "https://emol.ro/borod-bh/registru-hcl/137143",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/137143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-95-2023",
+   "path": "local/bihor/borod/2023/95",
+   "short": "HCL Borod nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 95/2023 privind aprobarea procesului verbal de la şedința extraordinară, convocată de îndată, a Consiliului Local al Comunei Borod din data de 08 decembrie 2023",
+   "url": "https://emol.ro/borod-bh/registru-hcl/137144",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/137144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-96-2023",
+   "path": "local/bihor/borod/2023/96",
+   "short": "HCL Borod nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 96/2023 privind aprobarea ordinii de zi pentru şedinţa ordinară din 18 decembrie 2023",
+   "url": "https://emol.ro/borod-bh/registru-hcl/137145",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/137145",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--borod-97-2023",
    "path": "local/bihor/borod/2023/97",
    "short": "HCL Borod nr. 97/2023",
@@ -13,6 +268,36 @@
      "from": "2024-09-03",
      "units": 1,
      "source_url": "https://emol.ro/borod-bh/registru-hcl/137146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-98-2023",
+   "path": "local/bihor/borod/2023/98",
+   "short": "HCL Borod nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 98/2023 privind rectificarea bugetului local al comunei Borod pe anul 2023",
+   "url": "https://emol.ro/borod-bh/registru-hcl/137147",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/137147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-99-2023",
+   "path": "local/bihor/borod/2023/99",
+   "short": "HCL Borod nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 99/2023 privind aprobarea procesului verbal de la şedința ordinară a Consiliului Local al Comunei Borod din data de 18 decembrie 2023",
+   "url": "https://emol.ro/borod-bh/registru-hcl/137148",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/137148",
      "sha256": null
     }
    ]

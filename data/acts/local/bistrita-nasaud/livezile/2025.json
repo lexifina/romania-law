@@ -3,6 +3,73 @@
 "shard": "local/bistrita-nasaud/livezile/2025",
 "acts": [
 {
+"slug": "hcl-bistrita-nasaud--livezile-44-2025",
+"path": "local/bistrita-nasaud/livezile/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 44/2025",
+"short": "HCL Livezile nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-27",
+"latest": "2025-08-27",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/221458",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-45-2025",
+"path": "local/bistrita-nasaud/livezile/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 45/2025 privind aprobarea celei de a treia rectificari a bugetului comunei Livezile, pe anul 2025",
+"short": "HCL Livezile nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-27",
+"latest": "2025-08-27",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/221459",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-46-2025",
+"path": "local/bistrita-nasaud/livezile/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 46/2025 privind alegerea președintelui de ședință a Consiliului local al comunei Livezile, începând cu 30.09.2025",
+"short": "HCL Livezile nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-08",
+"latest": "2025-10-08",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/227887",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--livezile-47-2025",
 "path": "local/bistrita-nasaud/livezile/2025/47",
 "kind": "local",
@@ -47,6 +114,95 @@
 }
 },
 {
+"slug": "hcl-bistrita-nasaud--livezile-49-2025",
+"path": "local/bistrita-nasaud/livezile/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 49/2025",
+"short": "HCL Livezile nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-08",
+"latest": "2025-10-08",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/227890",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-50-2025",
+"path": "local/bistrita-nasaud/livezile/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 50/2025 privind desemnarea reprezentanților Consiliului local al comunei Livezile în Consiliul de administrație al Școlii Gimnaziale Livezile, pentru anul școlar 2025-2026",
+"short": "HCL Livezile nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-08",
+"latest": "2025-10-08",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/227891",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-51-2025",
+"path": "local/bistrita-nasaud/livezile/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 51/2025 privind aprobarea celei de a patra rectificari a bugetului comunei Livezile, pe anul 2025",
+"short": "HCL Livezile nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-08",
+"latest": "2025-10-08",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/227892",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-52-2025",
+"path": "local/bistrita-nasaud/livezile/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 52/2025 privind aprobarea celei de a-V-a rectificari a bugetului comunei Livezile, pe anul 2025",
+"short": "HCL Livezile nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/232429",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--livezile-53-2025",
 "path": "local/bistrita-nasaud/livezile/2025/53",
 "kind": "local",
@@ -88,6 +244,116 @@
 "council_name": "Consiliul Local al Comunei Livezile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-55-2025",
+"path": "local/bistrita-nasaud/livezile/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 55/2025 privind desemnarea consilierilor locali, în vederea actualizării Comisiei sociale de analiză şi soluţionare a cererilor de atribuire a locuinţelor pentru tineri , construite prin ANL, în localitatea Livezile, județul Bistrița - Năsăud, începând cu 01.12.2025",
+"short": "HCL Livezile nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-04",
+"latest": "2025-12-04",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/236782",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-56-2025",
+"path": "local/bistrita-nasaud/livezile/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 56/2025 privind modificarea reprezentantului legal al comunei Livezile, județul Bistrița- Năsăud, în relația cu Agenţia pentru Finanţarea Investiţiilor Rurale (AFIR), pentru proiectul “Extindere rețea publică de apă și apă uzată menajeră, în comuna Livezile, județul Bistrița- Năsăud, finanțat prin Programul Național pentru Dezvoltare Rurală România, în cadrul contractului de finanțare nr. C 0720AN00011760600692/21.12.2017",
+"short": "HCL Livezile nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/239436",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-57-2025",
+"path": "local/bistrita-nasaud/livezile/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 57/2025 privind aprobarea celei de a-VI-a rectificări a bugetului comunei Livezile, pe anul 2025",
+"short": "HCL Livezile nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/239437",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-58-2025",
+"path": "local/bistrita-nasaud/livezile/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 58/2025 privind modificarea reprezentantului legal al comunei Livezile, județul Bistrița- Năsăud, în relația cu Unitatea Executivă pentru Finanțarea Învățământului superior, a Cercetării, Dezvoltării și Inovării ( UEFISCDI), pentru proiectul “Transformarea unităților de învățământ din comuna Livezile, în medii de învățare moderne și sustenabile”, finanțat prin Planul Național de Redresare și Reziliență, în cadrul contractului de finanțare nr. 11391/08.09.2023",
+"short": "HCL Livezile nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/239438",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-59-2025",
+"path": "local/bistrita-nasaud/livezile/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 59/2025 privind modificarea reprezentantului legal al comunei Livezile, județul Bistrița- Năsăud, în relația cu Ministerul Dezvoltării, Lucrărilor Publice și Administrației, pentru proiectul “Realizare piste de biciclete în localitatea Livezile, județul Bistrița- Năsăud”, finanțat prin Planul Național de Redresare și Reziliență, în cadrul contractului de finanțare nr. 141572/14.12.2022",
+"short": "HCL Livezile nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/239439",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -154,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Livezile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-63-2025",
+"path": "local/bistrita-nasaud/livezile/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 63/2025 privind aprobarea celei de a-VII-a rectificări a bugetului comunei Livezile, pe anul 2025",
+"short": "HCL Livezile nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/243288",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

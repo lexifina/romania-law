@@ -3,6 +3,28 @@
 "shard": "local/bihor/ciumeghiu/2023",
 "acts": [
 {
+"slug": "hcl-bihor--ciumeghiu-109-2023",
+"path": "local/bihor/ciumeghiu/2023/109",
+"kind": "local",
+"year": "2023",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 109/2023 privind aprobarea valorii totale a proiectului ”CONSTRUIRE SI DOTARE GRĂDINIȚĂ CU PROGRAM NORMAL ȘI ÎMPREJMUIRE TEREN,ÎN LOCALITATEA CIUMEGHIU”",
+"short": "HCL Ciumeghiu nr. 109/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-14",
+"latest": "2023-12-14",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/129837",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--ciumeghiu-110-2023",
 "path": "local/bihor/ciumeghiu/2023/110",
 "kind": "local",
@@ -47,6 +69,160 @@
 }
 },
 {
+"slug": "hcl-bihor--ciumeghiu-112-2023",
+"path": "local/bihor/ciumeghiu/2023/112",
+"kind": "local",
+"year": "2023",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 112/2023 privind acordul de principiu în legătură cu posibilitatea de a participa la cofinanțarea obiectivelor sistemului de distribuție în vederea implementării proiectului cu denumirea ”Infiintarea retelelor inteligente de distributie a gazelor naturale in comuna Ciumeghiu, judetul Bihor”",
+"short": "HCL Ciumeghiu nr. 112/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-14",
+"latest": "2023-12-14",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/129840",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ciumeghiu-113-2023",
+"path": "local/bihor/ciumeghiu/2023/113",
+"kind": "local",
+"year": "2023",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 113/2023 privind aprobarea procesului verbal al ședinței anterioare",
+"short": "HCL Ciumeghiu nr. 113/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/132017",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ciumeghiu-114-2023",
+"path": "local/bihor/ciumeghiu/2023/114",
+"kind": "local",
+"year": "2023",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 114/2023 privind aprobarea ordinii de zi",
+"short": "HCL Ciumeghiu nr. 114/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/132018",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ciumeghiu-115-2023",
+"path": "local/bihor/ciumeghiu/2023/115",
+"kind": "local",
+"year": "2023",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 115/2023 privind aprobarea modificării HCL Ciumeghiu nr.109/22.11.2023 privind aprobarea valorii totale a proiectului ”CONSTRUIRE SI DOTARE GRĂDINIȚĂ CU PROGRAM NORMAL ȘI ÎMPREJMUIRE TEREN,ÎN LOCALITATEA CIUMEGHIU”",
+"short": "HCL Ciumeghiu nr. 115/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/132019",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ciumeghiu-116-2023",
+"path": "local/bihor/ciumeghiu/2023/116",
+"kind": "local",
+"year": "2023",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 116/2023 privind aprobarea procesului verbal al ședinței anterioare",
+"short": "HCL Ciumeghiu nr. 116/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/132971",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ciumeghiu-117-2023",
+"path": "local/bihor/ciumeghiu/2023/117",
+"kind": "local",
+"year": "2023",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 117/2023 privind aprobarea ordinii de zi",
+"short": "HCL Ciumeghiu nr. 117/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/132972",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ciumeghiu-118-2023",
+"path": "local/bihor/ciumeghiu/2023/118",
+"kind": "local",
+"year": "2023",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 118/2023 privind ”Realizarea centrală electrică fotovoltaică cu racord la rețeua de distribuție electrică , pentru autoconsumul aferent UAT Comuna Ciumeghiu”",
+"short": "HCL Ciumeghiu nr. 118/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/132973",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--ciumeghiu-119-2023",
 "path": "local/bihor/ciumeghiu/2023/119",
 "kind": "local",
@@ -66,6 +242,72 @@
 "council_name": "Consiliul Local al Comunei Ciumeghiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--ciumeghiu-120-2023",
+"path": "local/bihor/ciumeghiu/2023/120",
+"kind": "local",
+"year": "2023",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 120/2023 privind alegerea președintelui de ședință",
+"short": "HCL Ciumeghiu nr. 120/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/132975",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ciumeghiu-121-2023",
+"path": "local/bihor/ciumeghiu/2023/121",
+"kind": "local",
+"year": "2023",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 121/2023 privind aprobarea procesului verbal al ședinței anterioare",
+"short": "HCL Ciumeghiu nr. 121/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-08",
+"latest": "2024-02-08",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/134478",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ciumeghiu-122-2023",
+"path": "local/bihor/ciumeghiu/2023/122",
+"kind": "local",
+"year": "2023",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 122/2023 privind aprobarea ordinii de zi",
+"short": "HCL Ciumeghiu nr. 122/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-08",
+"latest": "2024-02-08",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/134479",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +355,51 @@
 }
 },
 {
+"slug": "hcl-bihor--ciumeghiu-125-2023",
+"path": "local/bihor/ciumeghiu/2023/125",
+"kind": "local",
+"year": "2023",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 125/2023",
+"short": "HCL Ciumeghiu nr. 125/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-08",
+"latest": "2024-02-08",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/134482",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--ciumeghiu-126-2023",
+"path": "local/bihor/ciumeghiu/2023/126",
+"kind": "local",
+"year": "2023",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 126/2023 privind aprobarea modificării statului de funcții al aparatului de specialitate al primarului comunei Ciumeghiu",
+"short": "HCL Ciumeghiu nr. 126/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-08",
+"latest": "2024-02-08",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/134483",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--ciumeghiu-127-2023",
 "path": "local/bihor/ciumeghiu/2023/127",
 "kind": "local",
@@ -132,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Ciumeghiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--ciumeghiu-128-2023",
+"path": "local/bihor/ciumeghiu/2023/128",
+"kind": "local",
+"year": "2023",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 128/2023 privind aprobarea prelungirii duratei cu indicatorii financiari actuali ai proiectului ”CONSTRUIRE SI DOTARE GRĂDINIȚĂ CU PROGRAM NORMAL ȘI ÎMPREJMUIRE TEREN,ÎN LOCALITATEA CIUMEGHIU”",
+"short": "HCL Ciumeghiu nr. 128/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-08",
+"latest": "2024-02-08",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/134485",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

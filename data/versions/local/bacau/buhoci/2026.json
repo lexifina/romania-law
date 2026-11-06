@@ -63,6 +63,66 @@
    ]
   },
   {
+   "slug": "hcl-bacau--buhoci-56-2026",
+   "path": "local/bacau/buhoci/2026/56",
+   "short": "HCL Buhoci nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 56/2026",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/288759",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/288759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-57-2026",
+   "path": "local/bacau/buhoci/2026/57",
+   "short": "HCL Buhoci nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 57/2026 privind alegerea președintelui de ședință pentru lunile ocotmbrie-decembrie 2026",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/288763",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/288763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-58-2026",
+   "path": "local/bacau/buhoci/2026/58",
+   "short": "HCL Buhoci nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 58/2026",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/288764",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/288764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-59-2026",
+   "path": "local/bacau/buhoci/2026/59",
+   "short": "HCL Buhoci nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 59/2026",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/288765",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/288765",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--buhoci-60-2026",
    "path": "local/bacau/buhoci/2026/60",
    "short": "HCL Buhoci nr. 60/2026",
@@ -138,6 +198,51 @@
    ]
   },
   {
+   "slug": "hcl-bacau--buhoci-65-2026",
+   "path": "local/bacau/buhoci/2026/65",
+   "short": "HCL Buhoci nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 65/2026",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/292208",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/292208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-66-2026",
+   "path": "local/bacau/buhoci/2026/66",
+   "short": "HCL Buhoci nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 66/2026",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/292249",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/292249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-67-2026",
+   "path": "local/bacau/buhoci/2026/67",
+   "short": "HCL Buhoci nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 67/2026 privind modificarea Anexei la HCL nr. 63/02.10.2026 privind implementarea proiectului ''Îmbunătățirea serviciilor de asistență socială prin achiziția unui mijloc de transport în comuna Buhoci, județul Bacău''",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/294613",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/294613",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--buhoci-68-2026",
    "path": "local/bacau/buhoci/2026/68",
    "short": "HCL Buhoci nr. 68/2026",
@@ -178,6 +283,21 @@
      "from": "2026-11-03",
      "units": 1,
      "source_url": "https://emol.ro/buhoci-bc/registru-hcl/297268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-71-2026",
+   "path": "local/bacau/buhoci/2026/71",
+   "short": "HCL Buhoci nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 71/2026",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/297269",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/297269",
      "sha256": null
     }
    ]

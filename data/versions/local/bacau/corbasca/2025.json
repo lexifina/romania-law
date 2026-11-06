@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-103-2025",
+   "path": "local/bacau/corbasca/2025/103",
+   "short": "HCL Corbasca nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 103/2025 privind aprobarea Regulamentului local privind amplasarea si autorizarea mijloacelor de publicitate pe raza comunei Corbasca,judetul Bacau",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/243325",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/243325",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-84-2025",
    "path": "local/bacau/corbasca/2025/84",
    "short": "HCL Corbasca nr. 84/2025",
@@ -153,6 +168,51 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-91-2025",
+   "path": "local/bacau/corbasca/2025/91",
+   "short": "HCL Corbasca nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 91/2025 privind aprobarea Studiului de Oportunitate pentru fundamentarea si stabilirea solutiei optime de gestiune a activitatii de colectare separata si transport separat al deseurilor municipale in 66 U.A.T.-uri din județul Bacău",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/240965",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/240965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-92-2025",
+   "path": "local/bacau/corbasca/2025/92",
+   "short": "HCL Corbasca nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 92/2025",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/240966",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/240966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-93-2025",
+   "path": "local/bacau/corbasca/2025/93",
+   "short": "HCL Corbasca nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 93/2025",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/240967",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/240967",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-94-2025",
    "path": "local/bacau/corbasca/2025/94",
    "short": "HCL Corbasca nr. 94/2025",
@@ -223,6 +283,21 @@
      "from": "2026-01-12",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/240972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-99-2025",
+   "path": "local/bacau/corbasca/2025/99",
+   "short": "HCL Corbasca nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 99/2025 privind stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Corbasca, judeţul Bacau, începând cu luna Decembrie 2025,conform HG.nr.1506/2024",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/243321",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/243321",
      "sha256": null
     }
    ]

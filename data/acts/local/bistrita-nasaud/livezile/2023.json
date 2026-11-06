@@ -3,6 +3,142 @@
 "shard": "local/bistrita-nasaud/livezile/2023",
 "acts": [
 {
+"slug": "hcl-bistrita-nasaud--livezile-63-2023",
+"path": "local/bistrita-nasaud/livezile/2023/63",
+"kind": "local",
+"year": "2023",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 63/2023",
+"short": "HCL Livezile nr. 63/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-15",
+"latest": "2023-11-15",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/127680",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-64-2023",
+"path": "local/bistrita-nasaud/livezile/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 64/2023 privind atestarea apartenenței unor imobile, cu destinația stradă în intravilanul localității Livezile și spațiu verde în intravilanul localității Cușma, la domeniul public al comunei Livezile, județul Bistrița- Năsăud, în vederea înscrierii în Cartea Funciară",
+"short": "HCL Livezile nr. 64/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-15",
+"latest": "2023-11-15",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/127681",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-65-2023",
+"path": "local/bistrita-nasaud/livezile/2023/65",
+"kind": "local",
+"year": "2023",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 65/2023",
+"short": "HCL Livezile nr. 65/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-15",
+"latest": "2023-11-15",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/127682",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-66-2023",
+"path": "local/bistrita-nasaud/livezile/2023/66",
+"kind": "local",
+"year": "2023",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 66/2023 privind aprobarea modificării organigramei și statului de funcții ale aparatului de specialitate al Primarului comunei Livezile și ale serviciilor aflate sub coordonarea Consiliului local al comunei Livezile, începând cu 1 noiembrie 2023",
+"short": "HCL Livezile nr. 66/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-15",
+"latest": "2023-11-15",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/127683",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-67-2023",
+"path": "local/bistrita-nasaud/livezile/2023/67",
+"kind": "local",
+"year": "2023",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 67/2023",
+"short": "HCL Livezile nr. 67/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-15",
+"latest": "2023-11-15",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/127684",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-68-2023",
+"path": "local/bistrita-nasaud/livezile/2023/68",
+"kind": "local",
+"year": "2023",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 68/2023",
+"short": "HCL Livezile nr. 68/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-15",
+"latest": "2023-11-15",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/127685",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--livezile-69-2023",
 "path": "local/bistrita-nasaud/livezile/2023/69",
 "kind": "local",
@@ -45,6 +181,139 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-71-2023",
+"path": "local/bistrita-nasaud/livezile/2023/71",
+"kind": "local",
+"year": "2023",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 71/2023 privind modificarea acordului de parteneriat pentru realizarea proiectului ”Implementarea a 3.000 km de trasee cicloturistice la nivel național”",
+"short": "HCL Livezile nr. 71/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/130467",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-72-2023",
+"path": "local/bistrita-nasaud/livezile/2023/72",
+"kind": "local",
+"year": "2023",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 72/2023 privind reatestarea apartenenţei la domeniul public al comunei Livezile a drumului vicinal Valea Lungă, cuprins în inventarul bunurilor care alcătuiesc domeniul public al comunei Livezile și modificarea elementelor de identificare ale tronsonului 1",
+"short": "HCL Livezile nr. 72/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/130468",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-73-2023",
+"path": "local/bistrita-nasaud/livezile/2023/73",
+"kind": "local",
+"year": "2023",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 73/2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții: „Construirea rețelei publice de apă uzată menajeră în localitatea Cușma, comuna Livezile, județul Bistrița -Năsăud” , aprobat pentru finanțare, prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Livezile nr. 73/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/130469",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-74-2023",
+"path": "local/bistrita-nasaud/livezile/2023/74",
+"kind": "local",
+"year": "2023",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 74/2023 privind alegerea președintelui de ședință a Consiliului local al comunei Livezile, începând cu 13.12.2023",
+"short": "HCL Livezile nr. 74/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/133161",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-75-2023",
+"path": "local/bistrita-nasaud/livezile/2023/75",
+"kind": "local",
+"year": "2023",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 75/2023",
+"short": "HCL Livezile nr. 75/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/133162",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-76-2023",
+"path": "local/bistrita-nasaud/livezile/2023/76",
+"kind": "local",
+"year": "2023",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 76/2023 privind aprobarea celei de-a patra rectificări a bugetului comunei Livezile, pe anul 2023",
+"short": "HCL Livezile nr. 76/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/133163",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -111,6 +380,72 @@
 "council_name": "Consiliul Local al Comunei Livezile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-80-2023",
+"path": "local/bistrita-nasaud/livezile/2023/80",
+"kind": "local",
+"year": "2023",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 80/2023 privind participarea comunei Livezile, județul Bistrița- Năsăud, la elaborarea și implementarea Strategiei de Dezvoltare Locală a microregiunii, în perioada 2023-2027, în cadrul Grupului de Acțiune Locală Federația pentru Dezvoltarea Zonei Rurale Bârgău- Călimani",
+"short": "HCL Livezile nr. 80/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-04",
+"latest": "2024-01-04",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/134550",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-81-2023",
+"path": "local/bistrita-nasaud/livezile/2023/81",
+"kind": "local",
+"year": "2023",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 81/2023 privind aprobarea organizării și funcționarii rețelei școlare, la nivelul comunei Livezile, începând cu anul școlar 2024-2025",
+"short": "HCL Livezile nr. 81/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-18",
+"latest": "2024-01-18",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/135514",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-82-2023",
+"path": "local/bistrita-nasaud/livezile/2023/82",
+"kind": "local",
+"year": "2023",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 82/2023 privind aprobarea celei de-a cincea rectificări a bugetului comunei Livezile, pe anul 2023",
+"short": "HCL Livezile nr. 82/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-18",
+"latest": "2024-01-18",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/135515",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

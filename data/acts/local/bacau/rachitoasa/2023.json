@@ -3,6 +3,28 @@
 "shard": "local/bacau/rachitoasa/2023",
 "acts": [
 {
+"slug": "hcl-bacau--rachitoasa-43-2023",
+"path": "local/bacau/rachitoasa/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 43/2023 privind desemnarea reprezentanţilor Consiliului Local al comunei Răchitoasa, ca membrii în Consiliul de administraţie al Liceului Tehnologic Răchitoasa, pentru anul şcolar 2023-2024",
+"short": "HCL Răchitoasa nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/126826",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--rachitoasa-44-2023",
 "path": "local/bacau/rachitoasa/2023/44",
 "kind": "local",
@@ -247,6 +269,28 @@
 "council_name": "Consiliul Local al Comunei Răchitoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--rachitoasa-55-2023",
+"path": "local/bacau/rachitoasa/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 55/2023 privind aprobarea documentației de dezmembrare a unui imobil – teren situate în comuna Răchitoasa, județul Bacău",
+"short": "HCL Răchitoasa nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-28",
+"latest": "2024-02-28",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/145057",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-bistrita-nasaud--sieu-magherus-15-2022",
+"path": "local/bistrita-nasaud/sieu-magherus/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șieu-Măgheruș nr. 15/2022 PH privind aprobarea preţului propus pentru vanzare la licitatie a masei lemnoase fasonate care se recoltează din fondul forestier proprietate publică a comunei Șieu Măgheruș",
+"short": "HCL Șieu-Măgheruș nr. 15/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://sieumagherus.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26154#15953",
+"council": "bistrita-nasaud/sieu-magherus",
+"council_name": "Consiliul Local al Comunei Șieu-Măgheruș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--sieu-magherus-16-2022",
 "path": "local/bistrita-nasaud/sieu-magherus/2022/16",
 "kind": "local",
@@ -66,6 +88,28 @@
 "council_name": "Consiliul Local al Comunei Șieu-Măgheruș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--sieu-magherus-17-2022",
+"path": "local/bistrita-nasaud/sieu-magherus/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șieu-Măgheruș nr. 17/2022 PH privind desemnarea comisiei de analiza,verificare si control a ducerii la indeplinire a obligatiilor ce decurg din contractele de concesiune incheiate in anul 2017 cu crescatorii de animale",
+"short": "HCL Șieu-Măgheruș nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://sieumagherus.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26154#15955",
+"council": "bistrita-nasaud/sieu-magherus",
+"council_name": "Consiliul Local al Comunei Șieu-Măgheruș",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

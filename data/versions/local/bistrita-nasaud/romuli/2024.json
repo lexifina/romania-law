@@ -3,6 +3,21 @@
  "shard": "local/bistrita-nasaud/romuli/2024",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--romuli-37-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/37",
+   "short": "HCL Romuli nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 37/2024 privind implementarea proiectului pentru pentru accesarea Schemei de ajutor de stat „Silvo-mediu si clima”, sesiunea 1/2024, aferentă interventiei DR-07, din cadrul Planului Strategic PAC 2023-2029, care se va desfășura în perioada 17 iunie 2024 – 13 septembrie 2024, conform cerințelor procedurale ale finanțatorului, pentru implementarea angajamentului aferent Pachetului 1 – Asigurarea de zone de liniste, precum și desemnarea reprezentantului legal pentru implementarea acestui proiect",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/171673",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/171673",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--romuli-38-2024",
    "path": "local/bistrita-nasaud/romuli/2024/38",
    "short": "HCL Romuli nr. 38/2024",
@@ -73,6 +88,51 @@
      "from": "2024-10-14",
      "units": 1,
      "source_url": "https://emol.ro/romuli-bn/registru-hcl/171691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-43-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/43",
+   "short": "HCL Romuli nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 43/2024 privind alegerea președintelui de ședință al Consiliului local Romuli",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/185112",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/185112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-44-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/44",
+   "short": "HCL Romuli nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 44/2024 privind alegerea Viceprimarului comunei Romuli",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/185113",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/185113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-45-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/45",
+   "short": "HCL Romuli nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 45/2024 privind organizarea comisiilor de specialitate ale Consiliului Local Romuli",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/185114",
+   "versions": [
+    {
+     "from": "2024-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/185114",
      "sha256": null
     }
    ]

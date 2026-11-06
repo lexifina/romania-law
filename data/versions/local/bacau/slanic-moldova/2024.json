@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/slanic-moldova/2024",
+ "acts": [
+  {
+   "slug": "hcl-bacau--slanic-moldova-7-2024",
+   "path": "local/bacau/slanic-moldova/2024/7",
+   "short": "HCL Slănic-Moldova nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 7/2024",
+   "url": "https://primariaslanicmoldova.ro/wp-content/uploads/2024/04/HOTARAREA-NR-7-DIN-28-APRILIE-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-28",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/wp-content/uploads/2024/04/HOTARAREA-NR-7-DIN-28-APRILIE-2024.pdf",
+     "sha256": "eaa402fb5f04aff55e6fbd8b8b8b3b73c13d58e1b31b79c32c8602e312d273a8"
+    }
+   ]
+  }
+ ]
+}

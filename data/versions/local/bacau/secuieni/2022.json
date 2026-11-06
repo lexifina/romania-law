@@ -3,6 +3,36 @@
  "shard": "local/bacau/secuieni/2022",
  "acts": [
   {
+   "slug": "hcl-bacau--secuieni-55-2022",
+   "path": "local/bacau/secuieni/2022/55",
+   "short": "HCL Secuieni nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 55/2022 privind desemnarea reprezentanţilor Consiliului Local Secuieni, judeţul Bacău în Consiliul de Administraţie al Şcolii Gimnaziale Secuieni",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/82504",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/82504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-56-2022",
+   "path": "local/bacau/secuieni/2022/56",
+   "short": "HCL Secuieni nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 56/2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/82505",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/82505",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-57-2022",
    "path": "local/bacau/secuieni/2022/57",
    "short": "HCL Secuieni nr. 57/2022",
@@ -13,6 +43,21 @@
      "from": "2022-12-13",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/82506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-58-2022",
+   "path": "local/bacau/secuieni/2022/58",
+   "short": "HCL Secuieni nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 58/2022 privind modificarea prețului închirierii pășunii comunale prin atribuire directa, pentru anul 2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/82507",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/82507",
      "sha256": null
     }
    ]

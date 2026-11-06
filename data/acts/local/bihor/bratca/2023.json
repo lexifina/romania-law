@@ -3,6 +3,50 @@
 "shard": "local/bihor/bratca/2023",
 "acts": [
 {
+"slug": "hcl-bihor--bratca-187-2023",
+"path": "local/bihor/bratca/2023/187",
+"kind": "local",
+"year": "2023",
+"number": "187",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 187/2023 privind aprobarea procesului-verbal încheiat în şedinţa ordinară a Consiliului local al comunei Bratca din data de 16.11.2023",
+"short": "HCL Bratca nr. 187/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/145224",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-188-2023",
+"path": "local/bihor/bratca/2023/188",
+"kind": "local",
+"year": "2023",
+"number": "188",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 188/2023 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local al comunei Bratca",
+"short": "HCL Bratca nr. 188/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/145225",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--bratca-189-2023",
 "path": "local/bihor/bratca/2023/189",
 "kind": "local",
@@ -25,6 +69,272 @@
 }
 },
 {
+"slug": "hcl-bihor--bratca-190-2023",
+"path": "local/bihor/bratca/2023/190",
+"kind": "local",
+"year": "2023",
+"number": "190",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 190/2023 privind stabilirea impozitelor şi taxelor locale pentru anul 2024",
+"short": "HCL Bratca nr. 190/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/145227",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-191-2023",
+"path": "local/bihor/bratca/2023/191",
+"kind": "local",
+"year": "2023",
+"number": "191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 191/2023 privind aprobarea Raportului de evaluare, a Caietului de sarcini și a documentației de atribuire, în vederea organizării licitaţiei publice pentru vânzarea loturilor în suprafață de 450 mp fiecare, terenuri de sub nr. cadastral 50949, 50950, 50951, 50952, înscris în coala C.F nr. 50949, 50950, 50951, 50952 Bratca, aflat în proprietatea privată a Comunei Bratca şi în administrarea Consiliului Local al Comunei Bratca",
+"short": "HCL Bratca nr. 191/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/145228",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-192-2023",
+"path": "local/bihor/bratca/2023/192",
+"kind": "local",
+"year": "2023",
+"number": "192",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 192/2023 privind aprobarea Raportului de evaluare, a Caietului de sarcini și a documentației de atribuire, în vederea organizării licitaţiei publice pentru vânzarea vânzarea suprafeței de 103 mp, teren de sub nr. top 51/10 înscris în coala C.F nr. 69 Bratca, aflat în proprietatea privată a Comunei Bratca şi în administrarea Consiliului Local al Comunei Bratca",
+"short": "HCL Bratca nr. 192/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/145229",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-193-2023",
+"path": "local/bihor/bratca/2023/193",
+"kind": "local",
+"year": "2023",
+"number": "193",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 193/2023 privind aprobarea Raportului de evaluare, a Caietului de sarcini și a documentației de atribuire, în vederea organizării licitaţiei publice pentru vânzarea vânzarea suprafeței de 700 mp, teren de sub nr. top 599 înscris în coala C.F nr.180 Damiș, aflat în proprietatea privată a Comunei Bratca şi în administrarea Consiliului Local al Comunei Bratca",
+"short": "HCL Bratca nr. 193/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/145230",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-194-2023",
+"path": "local/bihor/bratca/2023/194",
+"kind": "local",
+"year": "2023",
+"number": "194",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 194/2023 privind aprobarea prețului de vânzare la licitație a materialului lemnos pentru partizile pe picior și a loturilor de cherestea tivită, frize, grinzi, înscrise în adresa nr. 4122/24.11.2023 care va avea loc în luna decembrie 2023",
+"short": "HCL Bratca nr. 194/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/145231",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-195-2023",
+"path": "local/bihor/bratca/2023/195",
+"kind": "local",
+"year": "2023",
+"number": "195",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 195/2023 privind analiza stadiului de înscriere a datelor în Registrul agricol pentru trimestrul III al anului 2023",
+"short": "HCL Bratca nr. 195/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/145232",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-196-2023",
+"path": "local/bihor/bratca/2023/196",
+"kind": "local",
+"year": "2023",
+"number": "196",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 196/2023 privind soluţionarea cererii d-nul Balogh Ludovic, prin care solicită acordarea unui ajutor de urgență",
+"short": "HCL Bratca nr. 196/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/145233",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-197-2023",
+"path": "local/bihor/bratca/2023/197",
+"kind": "local",
+"year": "2023",
+"number": "197",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 197/2023",
+"short": "HCL Bratca nr. 197/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/145234",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--bratca-198-2023",
+"path": "local/bihor/bratca/2023/198",
+"kind": "local",
+"year": "2023",
+"number": "198",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 198/2023",
+"short": "HCL Bratca nr. 198/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/145235",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--bratca-199-2023",
+"path": "local/bihor/bratca/2023/199",
+"kind": "local",
+"year": "2023",
+"number": "199",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 199/2023 privind aprobarea trecerii din domeniul privat al comunei Bratca în domeniul public al comunei Bratca a suprafeţei de 3122 mp de sub nr. cadastral 57783 înscris în coala C.F nr. 57783 Bratca, având destinația drum",
+"short": "HCL Bratca nr. 199/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/145236",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-200-2023",
+"path": "local/bihor/bratca/2023/200",
+"kind": "local",
+"year": "2023",
+"number": "200",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 200/2023 privind aprobarea procesului-verbal încheiat în şedinţa ordinară a Consiliului local al comunei Bratca din data de 13.12.2023",
+"short": "HCL Bratca nr. 200/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/145242",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-201-2023",
+"path": "local/bihor/bratca/2023/201",
+"kind": "local",
+"year": "2023",
+"number": "201",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 201/2023 privind aprobarea ordinei de zi a şedinţei extraordinare comvocată de îndată a Consiliului local al comunei Bratca",
+"short": "HCL Bratca nr. 201/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/145243",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--bratca-202-2023",
 "path": "local/bihor/bratca/2023/202",
 "kind": "local",
@@ -44,6 +354,94 @@
 "council_name": "Consiliul Local al Comunei Bratca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-203-2023",
+"path": "local/bihor/bratca/2023/203",
+"kind": "local",
+"year": "2023",
+"number": "203",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 203/2023 privind aprobarea prețurilor privind prestarea serviciilor de furnizare a apei potabile și canalizare, la nivelul Comunei Bratca",
+"short": "HCL Bratca nr. 203/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/145245",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-204-2023",
+"path": "local/bihor/bratca/2023/204",
+"kind": "local",
+"year": "2023",
+"number": "204",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 204/2023 privind aprobarea înscrierii în CF în favoarea domeniului public al comunei Bratca a suprafeței de 130 mp din nr. cad. 57914 Bratca și a suprafeței de 108 mp din nr. cad. 57917 Bratca",
+"short": "HCL Bratca nr. 204/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/145246",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-205-2023",
+"path": "local/bihor/bratca/2023/205",
+"kind": "local",
+"year": "2023",
+"number": "205",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 205/2023 privind alocarea sumei de 9243.70 lei fără TVA, necesară pentru ahiziționarea a două motofierăstraie marca STHIL 462 de către O.S Brătcuţa R.A Bratca",
+"short": "HCL Bratca nr. 205/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/145247",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-206-2023",
+"path": "local/bihor/bratca/2023/206",
+"kind": "local",
+"year": "2023",
+"number": "206",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 206/2023 privind stabilirea nivelului de piață a prețului de referință pe specii, pe grade de accesibilitate și sortimente dimensionale pentru anul 2024 la Ocolul Silvic Brătcuţa R.A Bratca",
+"short": "HCL Bratca nr. 206/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/145248",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

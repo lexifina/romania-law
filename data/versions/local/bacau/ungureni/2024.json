@@ -3,6 +3,21 @@
  "shard": "local/bacau/ungureni/2024",
  "acts": [
   {
+   "slug": "hcl-bacau--ungureni-56-2024",
+   "path": "local/bacau/ungureni/2024/56",
+   "short": "HCL Ungureni nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 56/2024 privind alegerea viceprimarului comunei Ungureni, judeţul Bacău",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/176485",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/176485",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--ungureni-57-2024",
    "path": "local/bacau/ungureni/2024/57",
    "short": "HCL Ungureni nr. 57/2024",
@@ -28,6 +43,21 @@
      "from": "2024-11-15",
      "units": 1,
      "source_url": "https://emol.ro/ungureni-bc/registru-hcl/176864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-59-2024",
+   "path": "local/bacau/ungureni/2024/59",
+   "short": "HCL Ungureni nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 59/2024 privind modificarea Hotărârii Consiliului Local nr. 48 din 25 septembrie 2024 privind desemnarea membrilor în cadrul Consiliului de Administrație al Școlii Gimnaziale Ungureni, pentru anul școlar 2024-2025;",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/176865",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/176865",
      "sha256": null
     }
    ]
@@ -73,6 +103,186 @@
      "from": "2024-12-23",
      "units": 1,
      "source_url": "https://emol.ro/ungureni-bc/registru-hcl/184629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-63-2024",
+   "path": "local/bacau/ungureni/2024/63",
+   "short": "HCL Ungureni nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 63/2024",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/184630",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/184630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-64-2024",
+   "path": "local/bacau/ungureni/2024/64",
+   "short": "HCL Ungureni nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 64/2024",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/184631",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/184631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-65-2024",
+   "path": "local/bacau/ungureni/2024/65",
+   "short": "HCL Ungureni nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 65/2024",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/184632",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/184632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-66-2024",
+   "path": "local/bacau/ungureni/2024/66",
+   "short": "HCL Ungureni nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 66/2024",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/184633",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/184633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-67-2024",
+   "path": "local/bacau/ungureni/2024/67",
+   "short": "HCL Ungureni nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 67/2024",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/184634",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/184634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-68-2024",
+   "path": "local/bacau/ungureni/2024/68",
+   "short": "HCL Ungureni nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 68/2024",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/184635",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/184635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-69-2024",
+   "path": "local/bacau/ungureni/2024/69",
+   "short": "HCL Ungureni nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 69/2024",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/184636",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/184636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-70-2024",
+   "path": "local/bacau/ungureni/2024/70",
+   "short": "HCL Ungureni nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 70/2024",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/184637",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/184637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-71-2024",
+   "path": "local/bacau/ungureni/2024/71",
+   "short": "HCL Ungureni nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 71/2024",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/184638",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/184638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-72-2024",
+   "path": "local/bacau/ungureni/2024/72",
+   "short": "HCL Ungureni nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 72/2024",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/184639",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/184639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-73-2024",
+   "path": "local/bacau/ungureni/2024/73",
+   "short": "HCL Ungureni nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 73/2024",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/184640",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/184640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-74-2024",
+   "path": "local/bacau/ungureni/2024/74",
+   "short": "HCL Ungureni nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 74/2024",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/184641",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/184641",
      "sha256": null
     }
    ]

@@ -3,6 +3,73 @@
 "shard": "local/bistrita-nasaud/negrilesti/2026",
 "acts": [
 {
+"slug": "hcl-bistrita-nasaud--negrilesti-10-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 10/2026 privind alegerea preşedintelui de şedintă al Consiliului local al comunei Negrilesti care va conduce sedinta ordinara din data de 29.05.2026",
+"short": "HCL Negrilești nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-22",
+"latest": "2026-06-22",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/271599",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-11-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 11/2026",
+"short": "HCL Negrilești nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-22",
+"latest": "2026-06-22",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/271600",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-12-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 12/2026 Privind modificarea si completarea HCL nr 8 din 15.04.2026 privind reoganizarea și stabilirea numărului de posturi pentru aparatul de specialitate al Primarului comunei Negrilești, aprobarea organigramei şi a statului de funcţii",
+"short": "HCL Negrilești nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-22",
+"latest": "2026-06-22",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/271601",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--negrilesti-13-2026",
 "path": "local/bistrita-nasaud/negrilesti/2026/13",
 "kind": "local",
@@ -47,6 +114,72 @@
 }
 },
 {
+"slug": "hcl-bistrita-nasaud--negrilesti-15-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 15/2026 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Negrilesti",
+"short": "HCL Negrilești nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/274948",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-16-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 16/2026 privind alegerea preşedintelui de şedintă al Consiliului local al comunei Negrilesti care va conduce sedinta ordinara din data de 29.06.2026",
+"short": "HCL Negrilești nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-12",
+"latest": "2026-08-12",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/276220",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-17-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 17/2026 Privind asumarea partiala a responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor aferente programului şi a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivelul UAT comuna Negrilești pentru perioada septembrie 2026-iunie 2029",
+"short": "HCL Negrilești nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-12",
+"latest": "2026-08-12",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/276221",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--negrilesti-18-2026",
 "path": "local/bistrita-nasaud/negrilesti/2026/18",
 "kind": "local",
@@ -66,6 +199,250 @@
 "council_name": "Consiliul Local al Comunei Negrilești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-19-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 19/2026 privind modificarea Organigramei şi a Statului de funcţii al personalului din cadrul aparatului de specialitate al Primarului comunei Negrilesti",
+"short": "HCL Negrilești nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-12",
+"latest": "2026-08-12",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/281612",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-20-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 20/2026 privind aprobarea contului de execuţiei al bugetului local de venituri şi cheltuieli a Comunei Negrilesti pe trimestrul II al anului 2026",
+"short": "HCL Negrilești nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-12",
+"latest": "2026-08-12",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/281613",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-21-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 21/2026 Privind modul de valorificare si stabilirea pretului pentru 201 ,99mc masa lemnoasa din fondul forestier proprietatea publica a comunei Negrilesti",
+"short": "HCL Negrilești nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-12",
+"latest": "2026-08-12",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/281614",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-22-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 22/2026 Privind modul de valorificare si stabilirea pretului pentru 2681,36 mc masa lemnoasa din fondul forestier proprietatea publica a comunei Negrilesti",
+"short": "HCL Negrilești nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-09",
+"latest": "2026-10-09",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/290809",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-23-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 23/2026 Privind modificarea HCL nr 26/15.06.2023 privind aprobarea Acordului de Parteneriat între Județul Bistrița-Năsăud și unitățile administrativ - teritoriale din județ în vederea implementării proiectului „Realizarea, implementarea, utilizarea și administrarea sistemelor informatice de înaltă performanță, la nivelul județului Bistrița-Năsăud, dezvoltate și găzduite prin sistemul Cloud Regional Nord-Vest”",
+"short": "HCL Negrilești nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-09",
+"latest": "2026-10-09",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/290810",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-24-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 24/2026 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Negrilesti",
+"short": "HCL Negrilești nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-09",
+"latest": "2026-10-09",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/290811",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-25-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 25/2026 privind modificarea Organigramei şi a Statului de funcţii al personalului din cadrul aparatului de specialitate al Primarului comunei Negrilesti",
+"short": "HCL Negrilești nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/295351",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-26-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 26/2026",
+"short": "HCL Negrilești nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/295352",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-27-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 27/2026",
+"short": "HCL Negrilești nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/295353",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-28-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 28/2026 privind aprobarea contului de execuţiei al bugetului local de venituri şi cheltuieli a Comunei Negrilesti pe trimestrul III al anului 2026",
+"short": "HCL Negrilești nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/295354",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-29-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 29/2026 privind aprobarea primei rectificări a bugetului comunei Negrilești , pe anul 2026",
+"short": "HCL Negrilești nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/295355",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

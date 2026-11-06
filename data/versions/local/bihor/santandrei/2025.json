@@ -3,6 +3,156 @@
  "shard": "local/bihor/santandrei/2025",
  "acts": [
   {
+   "slug": "hcl-bihor--santandrei-130-2025",
+   "path": "local/bihor/santandrei/2025/130",
+   "short": "HCL Sântandrei nr. 130/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 130/2025",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/236291",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/236291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-131-2025",
+   "path": "local/bihor/santandrei/2025/131",
+   "short": "HCL Sântandrei nr. 131/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 131/2025",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/236292",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/236292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-132-2025",
+   "path": "local/bihor/santandrei/2025/132",
+   "short": "HCL Sântandrei nr. 132/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 132/2025 privind aprobarea încheierii Acordului de parteneriat între Comuna Sântandrei și Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Bihor pentru anul 2026",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/236293",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/236293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-133-2025",
+   "path": "local/bihor/santandrei/2025/133",
+   "short": "HCL Sântandrei nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 133/2025",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/236294",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/236294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-134-2025",
+   "path": "local/bihor/santandrei/2025/134",
+   "short": "HCL Sântandrei nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 134/2025 privind aprobarea ordinii de zi propusă pentru şedinţa extraordinară a Consiliului Local Sântandrei din data de 08 decembrie 2025",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/239458",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/239458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-135-2025",
+   "path": "local/bihor/santandrei/2025/135",
+   "short": "HCL Sântandrei nr. 135/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 135/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Sântandrei pe anul 2025",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/239459",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/239459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-136-2025",
+   "path": "local/bihor/santandrei/2025/136",
+   "short": "HCL Sântandrei nr. 136/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 136/2025 privind aprobarea ordinii de zi propusă pentru şedinţa extraordinară a Consiliului Local Sântandrei din data de 17 decembrie 2025",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/241567",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/241567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-137-2025",
+   "path": "local/bihor/santandrei/2025/137",
+   "short": "HCL Sântandrei nr. 137/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 137/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Sântandrei pe anul 2025",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/241568",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/241568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-138-2025",
+   "path": "local/bihor/santandrei/2025/138",
+   "short": "HCL Sântandrei nr. 138/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 138/2025 privind aprobarea ordinii de zi propusă pentru şedinţa ordinară a Consiliului Local Sântandrei din data 29 decembrie 2025",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/244574",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/244574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-139-2025",
+   "path": "local/bihor/santandrei/2025/139",
+   "short": "HCL Sântandrei nr. 139/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 139/2025 privind aprobarea Actului Adițional la Statutul „Asociației Grup de Acțiune Locală ZMO DEALUL ȘOMLEU”",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/244575",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/244575",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--santandrei-140-2025",
    "path": "local/bihor/santandrei/2025/140",
    "short": "HCL Sântandrei nr. 140/2025",
@@ -13,6 +163,126 @@
      "from": "2026-01-21",
      "units": 1,
      "source_url": "https://emol.ro/santandrei-bh/registru-hcl/244576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-141-2025",
+   "path": "local/bihor/santandrei/2025/141",
+   "short": "HCL Sântandrei nr. 141/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 141/2025",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/244577",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/244577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-142-2025",
+   "path": "local/bihor/santandrei/2025/142",
+   "short": "HCL Sântandrei nr. 142/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 142/2025",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/244578",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/244578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-143-2025",
+   "path": "local/bihor/santandrei/2025/143",
+   "short": "HCL Sântandrei nr. 143/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 143/2025",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/244579",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/244579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-144-2025",
+   "path": "local/bihor/santandrei/2025/144",
+   "short": "HCL Sântandrei nr. 144/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 144/2025",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/244580",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/244580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-145-2025",
+   "path": "local/bihor/santandrei/2025/145",
+   "short": "HCL Sântandrei nr. 145/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 145/2025",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/244581",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/244581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-146-2025",
+   "path": "local/bihor/santandrei/2025/146",
+   "short": "HCL Sântandrei nr. 146/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 146/2025 privind aprobarea Regulamentului de acordare a premiilor elevilor din învățământul preuniversitar din Comuna Sântandrei, care au obținut rezultate excepționale la olimpiadele școlare",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/244582",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/244582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-147-2025",
+   "path": "local/bihor/santandrei/2025/147",
+   "short": "HCL Sântandrei nr. 147/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 147/2025 privind aprobarea contului de execuție a bugetului de venituri și cheltuieli - sursa A, al bugetului de venituri proprii și cheltuieli privind activitățile finanțate integral sau parțial din venituri proprii și subvenții - sursa E și al bugetului împrumuturilor interne - sursa C al Comunei Sântandrei pentru trimestrul III al anului 2025",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/244583",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/244583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-148-2025",
+   "path": "local/bihor/santandrei/2025/148",
+   "short": "HCL Sântandrei nr. 148/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 148/2025 privind aprobarea Inventarului bunurilor care alcătuiesc domeniul privat al comunei Sântandrei la sfârșitul anului 2025",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/244584",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/244584",
      "sha256": null
     }
    ]

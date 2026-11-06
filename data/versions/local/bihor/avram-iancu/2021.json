@@ -3,6 +3,21 @@
  "shard": "local/bihor/avram-iancu/2021",
  "acts": [
   {
+   "slug": "hcl-bihor--avram-iancu-43-2021",
+   "path": "local/bihor/avram-iancu/2021/43",
+   "short": "HCL Avram Iancu nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 43/2021 privind aprobarea Ordinii de Zi",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/30226",
+   "versions": [
+    {
+     "from": "2021-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/30226",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--avram-iancu-44-2021",
    "path": "local/bihor/avram-iancu/2021/44",
    "short": "HCL Avram Iancu nr. 44/2021",
@@ -13,6 +28,51 @@
      "from": "2021-05-11",
      "units": 1,
      "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/30227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-45-2021",
+   "path": "local/bihor/avram-iancu/2021/45",
+   "short": "HCL Avram Iancu nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 45/2021 privind aprobarea modelului legitimaţiei pentru aleşii locali şi a modelului semnului distinctiv al calităţii acestora",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/30228",
+   "versions": [
+    {
+     "from": "2021-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/30228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-46-2021",
+   "path": "local/bihor/avram-iancu/2021/46",
+   "short": "HCL Avram Iancu nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 46/2021 privind achiziționare de utilaje",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/30229",
+   "versions": [
+    {
+     "from": "2021-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/30229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-47-2021",
+   "path": "local/bihor/avram-iancu/2021/47",
+   "short": "HCL Avram Iancu nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 47/2021 privind trecerea din proprietatea Statului român în domeniul public al comunei Avram Iancu a retelei stradale a localității Avram Iancu conform documentatiei anexate",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/30230",
+   "versions": [
+    {
+     "from": "2021-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/30230",
      "sha256": null
     }
    ]
@@ -33,6 +93,66 @@
    ]
   },
   {
+   "slug": "hcl-bihor--avram-iancu-49-2021",
+   "path": "local/bihor/avram-iancu/2021/49",
+   "short": "HCL Avram Iancu nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 49/2021 privind trecerea de pe Statul român în domeniul privat al comunei Avram Iancu, precum și actualizarea și completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/30232",
+   "versions": [
+    {
+     "from": "2021-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/30232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-50-2021",
+   "path": "local/bihor/avram-iancu/2021/50",
+   "short": "HCL Avram Iancu nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 50/2021 privind alegerea presedintelui de sedință",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/49425",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/49425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-51-2021",
+   "path": "local/bihor/avram-iancu/2021/51",
+   "short": "HCL Avram Iancu nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 51/2021 privind aprobarea Procesului-verbal al sedinței anterioare",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/49426",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/49426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-52-2021",
+   "path": "local/bihor/avram-iancu/2021/52",
+   "short": "HCL Avram Iancu nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 52/2021 privind aprobarea Ordinii de Zi",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/49427",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/49427",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--avram-iancu-53-2021",
    "path": "local/bihor/avram-iancu/2021/53",
    "short": "HCL Avram Iancu nr. 53/2021",
@@ -43,6 +163,21 @@
      "from": "2021-06-18",
      "units": 1,
      "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/49428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-54-2021",
+   "path": "local/bihor/avram-iancu/2021/54",
+   "short": "HCL Avram Iancu nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 54/2021",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/49429",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/49429",
      "sha256": null
     }
    ]
@@ -63,6 +198,51 @@
    ]
   },
   {
+   "slug": "hcl-bihor--avram-iancu-56-2021",
+   "path": "local/bihor/avram-iancu/2021/56",
+   "short": "HCL Avram Iancu nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 56/2021",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/49431",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/49431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-57-2021",
+   "path": "local/bihor/avram-iancu/2021/57",
+   "short": "HCL Avram Iancu nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 57/2021 privind trecerea în proprietatea comunei Avram Iancu domeniul privat -PASUNE",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/49432",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/49432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-58-2021",
+   "path": "local/bihor/avram-iancu/2021/58",
+   "short": "HCL Avram Iancu nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 58/2021 privind trecerea din proprietatea statului roman in domeniul public respectiv în domeniul privat al comunei Avram Iancu ,dezmembrarea precum și constituirea de numere cadastrale",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/49433",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/49433",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--avram-iancu-59-2021",
    "path": "local/bihor/avram-iancu/2021/59",
    "short": "HCL Avram Iancu nr. 59/2021",
@@ -78,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--avram-iancu-60-2021",
+   "path": "local/bihor/avram-iancu/2021/60",
+   "short": "HCL Avram Iancu nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 60/2021 privind trecerea unei suprafete de teren din arabil extravilan în arabil intravilan",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/49435",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/49435",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--avram-iancu-61-2021",
    "path": "local/bihor/avram-iancu/2021/61",
    "short": "HCL Avram Iancu nr. 61/2021",
@@ -88,6 +283,21 @@
      "from": "2021-06-18",
      "units": 1,
      "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/49436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-62-2021",
+   "path": "local/bihor/avram-iancu/2021/62",
+   "short": "HCL Avram Iancu nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 62/2021 privind construirea unui pod peste balta",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/49437",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/49437",
      "sha256": null
     }
    ]

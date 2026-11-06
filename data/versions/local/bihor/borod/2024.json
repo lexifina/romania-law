@@ -3,6 +3,276 @@
  "shard": "local/bihor/borod/2024",
  "acts": [
   {
+   "slug": "hcl-bihor--borod-73-2024",
+   "path": "local/bihor/borod/2024/73",
+   "short": "HCL Borod nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 73/2024",
+   "url": "https://emol.ro/borod-bh/registru-hcl/174004",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/174004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-74-2024",
+   "path": "local/bihor/borod/2024/74",
+   "short": "HCL Borod nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 74/2024 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Comunei Borod din lunile octombrie, noiembrie și decembrie 2024",
+   "url": "https://emol.ro/borod-bh/registru-hcl/174899",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/174899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-75-2024",
+   "path": "local/bihor/borod/2024/75",
+   "short": "HCL Borod nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 75/2024 privind aprobarea ordinii de zi pentru şedinţa extraordinară, convocată de îndată, din 22 octombrie 2024",
+   "url": "https://emol.ro/borod-bh/registru-hcl/174900",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/174900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-76-2024",
+   "path": "local/bihor/borod/2024/76",
+   "short": "HCL Borod nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 76/2024 privind organizarea comisiilor pe domenii de specialitate ale Consiliului Local al comunei Borod",
+   "url": "https://emol.ro/borod-bh/registru-hcl/174901",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/174901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-77-2024",
+   "path": "local/bihor/borod/2024/77",
+   "short": "HCL Borod nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 77/2024 pentru modificarea HCL nr. 79 din 08.11.2023 privind aprobarea documentației, cheltuielilor legate de proiect și a indicatorilor asociați acestuia, aferenți realizării obiectivului de investiții „Realizarea unei capacitati de producere a energiei din surse regenerabile pentru autoconsumul comunei Borod”",
+   "url": "https://emol.ro/borod-bh/registru-hcl/174902",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/174902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-78-2024",
+   "path": "local/bihor/borod/2024/78",
+   "short": "HCL Borod nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 78/2024",
+   "url": "https://emol.ro/borod-bh/registru-hcl/174903",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/174903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-79-2024",
+   "path": "local/bihor/borod/2024/79",
+   "short": "HCL Borod nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 79/2024 privind aprobarea procesului verbal de la şedința extraordinară, convocată de îndată, a Consiliului Local al Comunei Borod din data de 22 octombrie 2024",
+   "url": "https://emol.ro/borod-bh/registru-hcl/176299",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/176299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-80-2024",
+   "path": "local/bihor/borod/2024/80",
+   "short": "HCL Borod nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 80/2024 privind aprobarea ordinii de zi pentru şedinţa ordinară din 11 noiembrie 2024",
+   "url": "https://emol.ro/borod-bh/registru-hcl/176300",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/176300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-81-2024",
+   "path": "local/bihor/borod/2024/81",
+   "short": "HCL Borod nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 81/2024 privind completarea cu membri a comisiilor pe domenii de specialitate ale Consiliului Local al comunei Borod, stabilite prin HCL nr. 76 din 22 octombrie 2024",
+   "url": "https://emol.ro/borod-bh/registru-hcl/176301",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/176301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-82-2024",
+   "path": "local/bihor/borod/2024/82",
+   "short": "HCL Borod nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 82/2024 privind rectificarea bugetului local al Comunei Borod pe anul 2024 și aprobarea unor virări de credite bugetare în trimestrul IV",
+   "url": "https://emol.ro/borod-bh/registru-hcl/176302",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/176302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-83-2024",
+   "path": "local/bihor/borod/2024/83",
+   "short": "HCL Borod nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 83/2024 privind alegerea viceprimarului comunei Borod",
+   "url": "https://emol.ro/borod-bh/registru-hcl/176303",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/176303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-84-2024",
+   "path": "local/bihor/borod/2024/84",
+   "short": "HCL Borod nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 84/2024 privind aprobarea procesului verbal de la şedința ordinară a Consiliului Local al Comunei Borod din 11 noiembrie 2024",
+   "url": "https://emol.ro/borod-bh/registru-hcl/179880",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/179880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-85-2024",
+   "path": "local/bihor/borod/2024/85",
+   "short": "HCL Borod nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 85/2024 privind aprobarea ordinii de zi pentru şedinţa extraordinară, convocată de îndată, din 19 noiembrie 2024",
+   "url": "https://emol.ro/borod-bh/registru-hcl/179881",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/179881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-86-2024",
+   "path": "local/bihor/borod/2024/86",
+   "short": "HCL Borod nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 86/2024 privind participarea la „Programul privind creșterea eficienței energetice a infrastructurii de iluminat public”",
+   "url": "https://emol.ro/borod-bh/registru-hcl/179882",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/179882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-87-2024",
+   "path": "local/bihor/borod/2024/87",
+   "short": "HCL Borod nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 87/2024 privind rectificarea bugetului local al Comunei Borod pe anul 2024",
+   "url": "https://emol.ro/borod-bh/registru-hcl/179883",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/179883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-88-2024",
+   "path": "local/bihor/borod/2024/88",
+   "short": "HCL Borod nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 88/2024 privind aprobarea procesului verbal de la şedința extraordinară, convocată de îndată, a Consiliului Local al Comunei Borod din data de 19 noiembrie 2024",
+   "url": "https://emol.ro/borod-bh/registru-hcl/206344",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/206344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-89-2024",
+   "path": "local/bihor/borod/2024/89",
+   "short": "HCL Borod nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 89/2024 aprobarea ordinii de zi pentru şedinţa ordinară din 23 decembrie 2024",
+   "url": "https://emol.ro/borod-bh/registru-hcl/206345",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/206345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-90-2024",
+   "path": "local/bihor/borod/2024/90",
+   "short": "HCL Borod nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 90/2024",
+   "url": "https://emol.ro/borod-bh/registru-hcl/206346",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/206346",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--borod-91-2024",
    "path": "local/bihor/borod/2024/91",
    "short": "HCL Borod nr. 91/2024",

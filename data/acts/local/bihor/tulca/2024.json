@@ -25,6 +25,72 @@
 }
 },
 {
+"slug": "hcl-bihor--tulca-105-2024",
+"path": "local/bihor/tulca/2024/105",
+"kind": "local",
+"year": "2024",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 105/2024 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tulca din data de 27.09.2024, aprobarea procesului verbal al sedintei extraordinare a Consiliului Local Tulca din data de 10.10.2024 si aprobarea procesului verbal al sedintei de constituire a Consiliului local al comunei Tulca din data de 21.10.2024",
+"short": "HCL Tulca nr. 105/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/190731",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-106-2024",
+"path": "local/bihor/tulca/2024/106",
+"kind": "local",
+"year": "2024",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 106/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Tulca din data de 23.12.2024",
+"short": "HCL Tulca nr. 106/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/190740",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-107-2024",
+"path": "local/bihor/tulca/2024/107",
+"kind": "local",
+"year": "2024",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 107/2024 privind aprobarea procesului verbal al sedintei extraordinare a Consiliului Local Tulca din data de 29.10.2024, aprobarea procesului verbal al sedintei extraordinare a Consiliului Local Tulca din data de 15.11.2024 si aprobarea procesului verbal al sedintei ordinare a Consiliului local al comunei Tulca din data de 20.11.2024",
+"short": "HCL Tulca nr. 107/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/190741",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tulca-108-2024",
 "path": "local/bihor/tulca/2024/108",
 "kind": "local",
@@ -91,6 +157,50 @@
 }
 },
 {
+"slug": "hcl-bihor--tulca-111-2024",
+"path": "local/bihor/tulca/2024/111",
+"kind": "local",
+"year": "2024",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 111/2024 privind validarea Dispozitiei 190/14.10.2024 privind aprobarea rectificarii la bugetul local pe anul 2024",
+"short": "HCL Tulca nr. 111/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/190745",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-112-2024",
+"path": "local/bihor/tulca/2024/112",
+"kind": "local",
+"year": "2024",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 112/2024 privind validarea Dispozitiei 238/04.12.2024 privind aprobarea rectificarii la bugetul local pe anul 2024",
+"short": "HCL Tulca nr. 112/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/190746",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tulca-113-2024",
 "path": "local/bihor/tulca/2024/113",
 "kind": "local",
@@ -154,6 +264,73 @@
 "council_name": "Consiliul Local al Comunei Tulca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tulca-116-2024",
+"path": "local/bihor/tulca/2024/116",
+"kind": "local",
+"year": "2024",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 116/2024 privind validarea Dispozitiei 240/10.12.2024 privind aprobarea rectificarii la bugetul local pe anul 2024",
+"short": "HCL Tulca nr. 116/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/190750",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-117-2024",
+"path": "local/bihor/tulca/2024/117",
+"kind": "local",
+"year": "2024",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 117/2024",
+"short": "HCL Tulca nr. 117/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/190751",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--tulca-118-2024",
+"path": "local/bihor/tulca/2024/118",
+"kind": "local",
+"year": "2024",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 118/2024 privind alegerea presedintelui de sedinta pentru lunile ianuarie-februarie-martie 2025",
+"short": "HCL Tulca nr. 118/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/190752",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

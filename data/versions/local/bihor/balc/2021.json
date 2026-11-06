@@ -3,6 +3,21 @@
  "shard": "local/bihor/balc/2021",
  "acts": [
   {
+   "slug": "hcl-bihor--balc-100-2021",
+   "path": "local/bihor/balc/2021/100",
+   "short": "HCL Balc nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 100/2021",
+   "url": "https://emol.ro/balc-bh/registru-hcl/51326",
+   "versions": [
+    {
+     "from": "2021-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/51326",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--balc-101-2021",
    "path": "local/bihor/balc/2021/101",
    "short": "HCL Balc nr. 101/2021",
@@ -13,6 +28,21 @@
      "from": "2021-12-24",
      "units": 1,
      "source_url": "https://emol.ro/balc-bh/registru-hcl/51327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-82-2021",
+   "path": "local/bihor/balc/2021/82",
+   "short": "HCL Balc nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 82/2021",
+   "url": "https://emol.ro/balc-bh/registru-hcl/44515",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/44515",
      "sha256": null
     }
    ]
@@ -223,6 +253,51 @@
      "from": "2021-12-15",
      "units": 1,
      "source_url": "https://emol.ro/balc-bh/registru-hcl/46227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-97-2021",
+   "path": "local/bihor/balc/2021/97",
+   "short": "HCL Balc nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 97/2021 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local al Comunei Balc din data de 15 decembrie 2021",
+   "url": "https://emol.ro/balc-bh/registru-hcl/51323",
+   "versions": [
+    {
+     "from": "2021-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/51323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-98-2021",
+   "path": "local/bihor/balc/2021/98",
+   "short": "HCL Balc nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 98/2021 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local al Comunei Balc din data de 24 decembrie 2021",
+   "url": "https://emol.ro/balc-bh/registru-hcl/51324",
+   "versions": [
+    {
+     "from": "2021-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/51324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-99-2021",
+   "path": "local/bihor/balc/2021/99",
+   "short": "HCL Balc nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 99/2021 privind rectificarea bugetului local al comunei Balc pe anul 2021",
+   "url": "https://emol.ro/balc-bh/registru-hcl/51325",
+   "versions": [
+    {
+     "from": "2021-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/51325",
      "sha256": null
     }
    ]

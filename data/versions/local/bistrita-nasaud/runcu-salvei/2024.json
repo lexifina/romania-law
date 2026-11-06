@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/runcu-salvei/2024",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-1-2024",
+   "path": "local/bistrita-nasaud/runcu-salvei/2024/1",
+   "short": "HCL Runcu Salvei nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 1/2024 privind aprobarea organizării rețelei școlare din comuna Runcu-Salvei, pentru anul școlar 2024-2025",
+   "url": "https://primariaruncusalvei.ro/registru_hcl24.html",
+   "versions": [
+    {
+     "from": "2024-01-15",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_hcl.nr.01_15.01.2024.pdf",
+     "sha256": "0ed640186eed8e458001db4d33fc1f07d445a8672bb7586d3cb3d6d1b3174db9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-10-2024",
+   "path": "local/bistrita-nasaud/runcu-salvei/2024/10",
+   "short": "HCL Runcu Salvei nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 10/2024 privind aprobarea indicatorilor tehnico-economici privind actualizarea Planului Urbanistic General și a Regulamentului Local de Urbanism al Comunei Runcu-Salvei",
+   "url": "https://primariaruncusalvei.ro/registru_hcl24.html",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_hcl.nr.10_29.02.2024.pdf",
+     "sha256": "7744904f94905244235b4484d41798a8aff6aa111c21562e90e81396aeb4f018"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-11-2024",
+   "path": "local/bistrita-nasaud/runcu-salvei/2024/11",
+   "short": "HCL Runcu Salvei nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 11/2024 privind alegerea președintelui de ședință al Consiliului local Runcu Salvei",
+   "url": "https://primariaruncusalvei.ro/registru_hcl24.html",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_hcl.nr.11_29.03.2024.pdf",
+     "sha256": "adff13c7f21c5488ffc5b44533f4c153aecfce2e35fa4a7231cf1b7770ce6c15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-13-2024",
+   "path": "local/bistrita-nasaud/runcu-salvei/2024/13",
+   "short": "HCL Runcu Salvei nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 13/2024 privind alegerea președintelui de ședință al Consiliului local Runcu Salvei",
+   "url": "https://primariaruncusalvei.ro/registru_hcl24.html",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_hcl.nr.13_29.03.2024.pdf",
+     "sha256": "24130427b0d5102c312324d51f5b74ddb7b886ce9e9d67232d529dbbdb64797f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-14-2024",
+   "path": "local/bistrita-nasaud/runcu-salvei/2024/14",
+   "short": "HCL Runcu Salvei nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 14/2024",
+   "url": "https://primariaruncusalvei.ro/registru_hcl24.html",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/registru_hcl24.html",
+     "sha256": "15632e8c96dbf57b0c67bd549be63addcf4b2e5186c0efc5253a580eda296232"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-15-2024",
+   "path": "local/bistrita-nasaud/runcu-salvei/2024/15",
+   "short": "HCL Runcu Salvei nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 15/2024 privind aprobarea rectificării nr.1 a bugetului de venituri și cheltuieli al comunei Runcu-Salvei pe anul 2024",
+   "url": "https://primariaruncusalvei.ro/registru_hcl24.html",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_hcl.nr.15_26.06.2024.pdf",
+     "sha256": "6fc022228233fd09a73faa5fffca26aaa7d7aa107cceaaac67fcaf6675c37df7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-16-2024",
+   "path": "local/bistrita-nasaud/runcu-salvei/2024/16",
+   "short": "HCL Runcu Salvei nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 16/2024",
+   "url": "https://primariaruncusalvei.ro/registru_hcl24.html",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/registru_hcl24.html",
+     "sha256": "51415bdf700de3566838a932acecf6477306cec95ae96b13fcfa8a871127be0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-17-2024",
+   "path": "local/bistrita-nasaud/runcu-salvei/2024/17",
+   "short": "HCL Runcu Salvei nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 17/2024 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici actualizați și a devizului general actualizat, ai proiectului \"Înființare distribuție gaze naturale în comunele Salva, Coșbuc, Telciu, Runcu-Salvei și Romuli, județul Bistrița-Năsăud",
+   "url": "https://primariaruncusalvei.ro/registru_hcl24.html",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_hcl.nr.17_26.06.2024.pdf",
+     "sha256": "1eeaa3de02a01304d6121bbc8da6667816b0bd55bfbf0a0388181dd74e392378"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-2-2024",
+   "path": "local/bistrita-nasaud/runcu-salvei/2024/2",
+   "short": "HCL Runcu Salvei nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 2/2024 privind aprobarea realizării obiectivului de investiții: ”Înființare stații de reîncărcare pentru vehicule electrice în comuna Runcu Salvei, județul Bistrița-Năsăud” aferente proiectului: ”Reabilitare energetică Cămin Cultural, localitatea Runcu Salvei, județul Bistrița-Năsăud” în cadrul apelului de proiecte PNRR/2022/C10/I1.3",
+   "url": "https://primariaruncusalvei.ro/registru_hcl24.html",
+   "versions": [
+    {
+     "from": "2024-01-15",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_hcl.nr.02_15.01.2024.pdf",
+     "sha256": "83301e50be5f0769c95f980e4af446bdfe3431f5858cf4c81d3dc9c9c7a9ec94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-3-2024",
+   "path": "local/bistrita-nasaud/runcu-salvei/2024/3",
+   "short": "HCL Runcu Salvei nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 3/2024 privind aprobarea organigramei, statului de funcții pentru aparatul de specialitate al primarului comunei Runcu Salvei pe anul 2024",
+   "url": "https://primariaruncusalvei.ro/registru_hcl24.html",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_hcl.nr.03_31.01.2024.pdf",
+     "sha256": "6363379ef1bf5fd1ff371775d923bf9fce444360b4e7064050d76a51ff0458e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-4-2024",
+   "path": "local/bistrita-nasaud/runcu-salvei/2024/4",
+   "short": "HCL Runcu Salvei nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 4/2024 privind însușirea Documentației cadastrale de actualizare date imobil, în sistemul integrat de cadastru și carte funciară a imobilului ”Teren”, în suprafață de 6000 mp., categorie de folosință neproductiv, situat în extravilanul comunei Rebrișoara, modificarea anexelor la Hotărârea Consiliului local nr.34/2016 și declararea imobilului ca bun de uz și de interes public local",
+   "url": "https://primariaruncusalvei.ro/registru_hcl24.html",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_hcl.nr.04_31.01.2024.pdf",
+     "sha256": "9e0bf453406055e53b86e667302dc40deb68322a47384301b187b5a3bcf4c5d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-5-2024",
+   "path": "local/bistrita-nasaud/runcu-salvei/2024/5",
+   "short": "HCL Runcu Salvei nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 5/2024 privind stabilirea salariilor de bază pentru funcționarii publici, personalul contractual din cadrul aparatului de specialitate al primarului comunei Runcu Salvei și a indemnizațiilor consilierilor locali începând cu 01.01.2024",
+   "url": "https://primariaruncusalvei.ro/registru_hcl24.html",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_hcl.nr.05_31.01.2024.pdf",
+     "sha256": "77f27b426bfeac240146d826eec01ec0b22c2b3fd34df25e1f138616c549c6b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-6-2024",
+   "path": "local/bistrita-nasaud/runcu-salvei/2024/6",
+   "short": "HCL Runcu Salvei nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 6/2024 privind aprobarea bugetului de venituri și cheltuieli al comunei Runcu Salvei pe anul 2024",
+   "url": "https://primariaruncusalvei.ro/registru_hcl24.html",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_hcl.nr.06_09.02.2024.pdf",
+     "sha256": "1243e5cb348169f10e0c2dd4e228767764d4fb644c3bb6e2c33a4ef824a32683"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-7-2024",
+   "path": "local/bistrita-nasaud/runcu-salvei/2024/7",
+   "short": "HCL Runcu Salvei nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 7/2024 privind mandatarea reprezentantului legal al U.A.T",
+   "url": "https://primariaruncusalvei.ro/registru_hcl24.html",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_hcl.nr.07_09.02.2024.pdf",
+     "sha256": "a5e0e4c57b5c7ef06ce6adab6425955f0e4413a0e64e89de68a8b6a85aea00b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-9-2024",
+   "path": "local/bistrita-nasaud/runcu-salvei/2024/9",
+   "short": "HCL Runcu Salvei nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 9/2024 privind aprobarea documentației de avizare a lucrărilor de intervenție și a indicatorilor tehnico-economici ai proiectului ”Refacere drumuri după calamități în comuna Runcu-Salvei, județul Bistrița-Năsăud” în vederea depunerii documentației necesare la CNI - Subprogramul ”Lucrări în primă urgență”",
+   "url": "https://primariaruncusalvei.ro/registru_hcl24.html",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_hcl.nr.09_29.02.2024.pdf",
+     "sha256": "d37b6eba71d7ba047c72f5c15f942c137308f5bcceda49b4bd8b14284885ce29"
+    }
+   ]
+  }
+ ]
+}

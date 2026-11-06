@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-bihor--uileacu-de-beius-65-2023",
+"path": "local/bihor/uileacu-de-beius/2023/65",
+"kind": "local",
+"year": "2023",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 65/2023 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Uileacu de Beiuș nr. 65/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/132088",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--uileacu-de-beius-66-2023",
 "path": "local/bihor/uileacu-de-beius/2023/66",
 "kind": "local",
@@ -396,6 +418,28 @@
 "council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-79-2023",
+"path": "local/bihor/uileacu-de-beius/2023/79",
+"kind": "local",
+"year": "2023",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 79/2023 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei UILEACU DE BEIUȘ, județul BIHOR, începând cu 1 ianuarie 2024",
+"short": "HCL Uileacu de Beiuș nr. 79/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/134746",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

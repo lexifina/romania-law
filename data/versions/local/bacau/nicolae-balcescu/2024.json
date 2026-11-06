@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--nicolae-balcescu-88-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/88",
+   "short": "HCL Nicolae Bălcescu nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 88/2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/178855",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/178855",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--nicolae-balcescu-89-2024",
    "path": "local/bacau/nicolae-balcescu/2024/89",
    "short": "HCL Nicolae Bălcescu nr. 89/2024",
@@ -208,6 +223,21 @@
      "from": "2025-01-08",
      "units": 1,
      "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/185535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-95-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/95",
+   "short": "HCL Nicolae Bălcescu nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 95/2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/185536",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/185536",
      "sha256": null
     }
    ]

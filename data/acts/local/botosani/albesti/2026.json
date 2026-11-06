@@ -3,6 +3,29 @@
 "shard": "local/botosani/albesti/2026",
 "acts": [
 {
+"slug": "hcl-botosani--albesti-56-2026",
+"path": "local/botosani/albesti/2026/56",
+"kind": "local",
+"year": "2026",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 56/2026",
+"short": "HCL Albești nr. 56/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/286136",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-botosani--albesti-57-2026",
 "path": "local/botosani/albesti/2026/57",
 "kind": "local",
@@ -92,6 +115,160 @@
 }
 },
 {
+"slug": "hcl-botosani--albesti-61-2026",
+"path": "local/botosani/albesti/2026/61",
+"kind": "local",
+"year": "2026",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 61/2026 privind desemnarea reprezentantului Consiliului Local în Comisia județeană de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcției de director la unitățile de învățământ preuniversitar aflate pe raza comunei Albești, județul Botoșani",
+"short": "HCL Albești nr. 61/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/292178",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-62-2026",
+"path": "local/botosani/albesti/2026/62",
+"kind": "local",
+"year": "2026",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 62/2026 privind desemnarea reprezentantilor Consiliului Local al comunei Albesti in Consiliul de Administratie al Scolii Gimnaziale nr. 1 Albești",
+"short": "HCL Albești nr. 62/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/292179",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-63-2026",
+"path": "local/botosani/albesti/2026/63",
+"kind": "local",
+"year": "2026",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 63/2026 privind privind desemnarea reprezentanților Consiliului Local al comunei Albești in Consiliul de Administrație al Scolii Gimnaziale nr. 2 Tudor Vladimirescu",
+"short": "HCL Albești nr. 63/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/292180",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-64-2026",
+"path": "local/botosani/albesti/2026/64",
+"kind": "local",
+"year": "2026",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 64/2026 privind desemnarea reprezentantului Consiliului Local al comunei Albesti in Comisia de Evaluare si Asigurare a Calitatii din cadrul Scolii Gimnaziale nr . 1 Albești",
+"short": "HCL Albești nr. 64/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/292181",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-65-2026",
+"path": "local/botosani/albesti/2026/65",
+"kind": "local",
+"year": "2026",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 65/2026 privind desemnarea reprezentantului Consiliului Local al comunei Albesti in Comisia de Evaluare si Asigurare a Calitatii din cadrul Scolii Gimnaziale nr . 2 Tudor Vladimirescu",
+"short": "HCL Albești nr. 65/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/292182",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-66-2026",
+"path": "local/botosani/albesti/2026/66",
+"kind": "local",
+"year": "2026",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 66/2026 privind desemnarea a doi reprezentanti ai Consiliului local al comunei Albesti in Grupul de actiune antibullying al Scolii Gimnaziale nr. 1 Albești, pentru anul scolar 2026 – 2027",
+"short": "HCL Albești nr. 66/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/292183",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-67-2026",
+"path": "local/botosani/albesti/2026/67",
+"kind": "local",
+"year": "2026",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 67/2026 privind desemnarea a unui reprezentant al Consiliului local al comunei Albesti in Comisia pentru prevenirea și combaterea violenței, a faptelor de corupție și discriminării în mediul școlar și promovarea interculturalității a Școlii Gimnaziale nr. 2 Tudor Vladimirescu, pentru anul școlar 2026 – 2027",
+"short": "HCL Albești nr. 67/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/292184",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--albesti-68-2026",
 "path": "local/botosani/albesti/2026/68",
 "kind": "local",
@@ -178,6 +355,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--albesti-72-2026",
+"path": "local/botosani/albesti/2026/72",
+"kind": "local",
+"year": "2026",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 72/2026 privind încetarea, înainte de termen, prin acordul comun al partilor, a contractului de inchiriere nr.3376/30.06.2026, incheiat cu MARKET NAT S.R.L",
+"short": "HCL Albești nr. 72/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/297225",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-botosani--albesti-20-2020",
+"path": "local/botosani/albesti/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 20/2020 privind aprobarea navetei cadrelor didactice pentru luna decembrie 2019",
+"short": "HCL Albești nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-14",
+"latest": "2020-02-14",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/2670",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--albesti-21-2020",
 "path": "local/botosani/albesti/2020/21",
 "kind": "local",
@@ -176,6 +198,28 @@
 "council_name": "Consiliul Local al Comunei Albești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--albesti-24-2020",
+"path": "local/botosani/albesti/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 24/2020 privind alegerea unui nou Presedinte de sedinta pentru lunile martie, aprilie si mai 2020",
+"short": "HCL Albești nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-14",
+"latest": "2020-02-14",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/2674",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +311,28 @@
 }
 },
 {
+"slug": "hcl-botosani--albesti-29-2020",
+"path": "local/botosani/albesti/2020/29",
+"kind": "local",
+"year": "2020",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 29/2020 privind aprobarea navetei cadrelor didactice pentru luna ianuarie 2020",
+"short": "HCL Albești nr. 29/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/4970",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--albesti-30-2020",
 "path": "local/botosani/albesti/2020/30",
 "kind": "local",
@@ -352,6 +418,28 @@
 "council_name": "Consiliul Local al Comunei Albești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--albesti-34-2020",
+"path": "local/botosani/albesti/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 34/2020 privind aprobarea metodologiei de sprijin a persoanelor in varsta de peste 65 de ani, fara sustinatori sau alta forma de ajutor, in vederea minimalizarii expunerii lor in afara locuintei, pe perioada mentinerii starii de urgenta, precum si modificarea bugetului local al comunei Albesti pe anul 2020",
+"short": "HCL Albești nr. 34/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-16",
+"latest": "2020-04-16",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/4981",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

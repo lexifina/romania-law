@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-bihor--copacel-3-2026",
+"path": "local/bihor/copacel/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Copăcel nr. 3/2026 privind aprobarea alegerii președintelui de ședință pentru următoarele 3 luni ale anului 2026",
+"short": "HCL Copăcel nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-30",
+"latest": "2026-01-30",
+"portal": "https://copacel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29728#116165",
+"council": "bihor/copacel",
+"council_name": "Consiliul Local al Comunei Copăcel",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--copacel-4-2026",
+"path": "local/bihor/copacel/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Copăcel nr. 4/2026 privind aprobarea actualizării HCL Copăcel nr. 101 din 25.10.2019 privind constituirea echipei mobile care asigură intervenția de urgență în cazurile de violență domestică în comuna Copăcel",
+"short": "HCL Copăcel nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-30",
+"latest": "2026-01-30",
+"portal": "https://copacel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29728#116166",
+"council": "bihor/copacel",
+"council_name": "Consiliul Local al Comunei Copăcel",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--copacel-5-2026",
 "path": "local/bihor/copacel/2026/5",
 "kind": "local",
@@ -110,6 +154,29 @@
 "council_name": "Consiliul Local al Comunei Copăcel",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--copacel-8-2026",
+"path": "local/bihor/copacel/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Copăcel nr. 8/2026",
+"short": "HCL Copăcel nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-30",
+"latest": "2026-01-30",
+"portal": null,
+"council": "bihor/copacel",
+"council_name": "Consiliul Local al Comunei Copăcel",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -223,6 +290,29 @@
 }
 },
 {
+"slug": "hcl-bihor--copacel-14-2026",
+"path": "local/bihor/copacel/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Copăcel nr. 14/2026",
+"short": "HCL Copăcel nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-27",
+"latest": "2026-02-27",
+"portal": null,
+"council": "bihor/copacel",
+"council_name": "Consiliul Local al Comunei Copăcel",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--copacel-15-2026",
 "path": "local/bihor/copacel/2026/15",
 "kind": "local",
@@ -242,6 +332,52 @@
 "council_name": "Consiliul Local al Comunei Copăcel",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--copacel-16-2026",
+"path": "local/bihor/copacel/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Copăcel nr. 16/2026",
+"short": "HCL Copăcel nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-27",
+"latest": "2026-02-27",
+"portal": null,
+"council": "bihor/copacel",
+"council_name": "Consiliul Local al Comunei Copăcel",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--copacel-17-2026",
+"path": "local/bihor/copacel/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Copăcel nr. 17/2026",
+"short": "HCL Copăcel nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-27",
+"latest": "2026-02-27",
+"portal": null,
+"council": "bihor/copacel",
+"council_name": "Consiliul Local al Comunei Copăcel",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

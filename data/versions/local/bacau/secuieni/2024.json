@@ -123,6 +123,51 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-35-2024",
+   "path": "local/bacau/secuieni/2024/35",
+   "short": "HCL Secuieni nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 35/2024 privind alegerea viceprimarului comunei Secuieni, judeţul Bacău",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/180254",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/180254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-36-2024",
+   "path": "local/bacau/secuieni/2024/36",
+   "short": "HCL Secuieni nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 36/2024 privind desemnarea reprezentantului Consiliului Local Secuieni, judeţul Bacău în Consiliul de Administraţie al Şcolii Gimnaziale Secuieni",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/180251",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/180251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-37-2024",
+   "path": "local/bacau/secuieni/2024/37",
+   "short": "HCL Secuieni nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 37/2024",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/180252",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/180252",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-38-2024",
    "path": "local/bacau/secuieni/2024/38",
    "short": "HCL Secuieni nr. 38/2024",
@@ -148,6 +193,21 @@
      "from": "2025-01-10",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/186103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-40-2024",
+   "path": "local/bacau/secuieni/2024/40",
+   "short": "HCL Secuieni nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 40/2024",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/186104",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/186104",
      "sha256": null
     }
    ]

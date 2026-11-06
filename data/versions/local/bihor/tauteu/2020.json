@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tauteu-104-2020",
+   "path": "local/bihor/tauteu/2020/104",
+   "short": "HCL Tăuteu nr. 104/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 104/2020",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/15237",
+   "versions": [
+    {
+     "from": "2020-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/15237",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tauteu-105-2020",
    "path": "local/bihor/tauteu/2020/105",
    "short": "HCL Tăuteu nr. 105/2020",

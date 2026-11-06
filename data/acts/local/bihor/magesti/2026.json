@@ -3,6 +3,226 @@
 "shard": "local/bihor/magesti/2026",
 "acts": [
 {
+"slug": "hcl-bihor--magesti-18-2026",
+"path": "local/bihor/magesti/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 18/2026 privind atribuirea de numere administrative individuale în localitatea Ortiteag - colonia de romi",
+"short": "HCL Măgești nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-05",
+"latest": "2026-05-05",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/266132",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--magesti-19-2026",
+"path": "local/bihor/magesti/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 19/2026 privind aprobarea amplasării unor limitatoare de viteză pe drumurile comunale din Ortiteag și Cacuciu Nou și Gălășeni",
+"short": "HCL Măgești nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-05",
+"latest": "2026-05-05",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/266133",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--magesti-20-2026",
+"path": "local/bihor/magesti/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 20/2026 privind stabilirea prețului pentru închirierea pășunilor disponibile aflate în proprietatea privată a comunei Măgești",
+"short": "HCL Măgești nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-05",
+"latest": "2026-05-05",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/266134",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--magesti-21-2026",
+"path": "local/bihor/magesti/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 21/2026 privind aprobarea ordinii de zi",
+"short": "HCL Măgești nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-05",
+"latest": "2026-05-05",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/266135",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--magesti-22-2026",
+"path": "local/bihor/magesti/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 22/2026 privind aprobarea reorganizării aparatului de specialitate al Primarului Comunei Măgești și aprobarea organigramei și statului de funcții",
+"short": "HCL Măgești nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-05",
+"latest": "2026-05-05",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/266136",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--magesti-23-2026",
+"path": "local/bihor/magesti/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 23/2026 privind aprobarea ordinii de zi",
+"short": "HCL Măgești nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/292462",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--magesti-24-2026",
+"path": "local/bihor/magesti/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 24/2026 privind trecerea din domeniul privat în domeniul public a suprafeței de 356 mp teren înscris în CF nr. 53314 Măgești, nr. cad. 53314",
+"short": "HCL Măgești nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/292463",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--magesti-25-2026",
+"path": "local/bihor/magesti/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 25/2026 privind alegerea președintelui de ședință",
+"short": "HCL Măgești nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/292464",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--magesti-26-2026",
+"path": "local/bihor/magesti/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 26/2026 privind aprobarea ordinii de zi",
+"short": "HCL Măgești nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/292465",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--magesti-27-2026",
+"path": "local/bihor/magesti/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 27/2026 privind aprobarea procesului verbal al ședinței ordinare din 31.03.2026 și a celor extraordinare de îndată a consiliului local din data de 16.04.2026 și 24.04.2026",
+"short": "HCL Măgești nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/292466",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--magesti-28-2026",
 "path": "local/bihor/magesti/2026/28",
 "kind": "local",
@@ -88,6 +308,50 @@
 "council_name": "Consiliul Local al Comunei Măgești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--magesti-32-2026",
+"path": "local/bihor/magesti/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 32/2026 privind aprobarea ordinii de zi",
+"short": "HCL Măgești nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/292478",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--magesti-33-2026",
+"path": "local/bihor/magesti/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 33/2026 privind aprobarea procesului verbal al ședinței ordinare din data de 25.05.2026",
+"short": "HCL Măgești nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/292479",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

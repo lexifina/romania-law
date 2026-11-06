@@ -1,0 +1,228 @@
+{
+"country": "RO",
+"shard": "local/bacau/stefan-cel-mare/2023",
+"acts": [
+{
+"slug": "hcl-bacau--stefan-cel-mare-1-2023",
+"path": "local/bacau/stefan-cel-mare/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 1/2023 privind alegerea presedintelui de sedinta",
+"short": "HCL Ștefan cel Mare nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-09",
+"latest": "2023-01-09",
+"portal": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-2-2023",
+"path": "local/bacau/stefan-cel-mare/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 2/2023 privind organizarea retelei unitatilor de invatamant pentru anul scolar 2023-2024",
+"short": "HCL Ștefan cel Mare nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-09",
+"latest": "2023-01-09",
+"portal": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-3-2023",
+"path": "local/bacau/stefan-cel-mare/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 3/2023 privind modificarea anexei nr.2 la HCL nr.45 din 25.05.2022",
+"short": "HCL Ștefan cel Mare nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-09",
+"latest": "2023-01-09",
+"portal": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-4-2023",
+"path": "local/bacau/stefan-cel-mare/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 4/2023",
+"short": "HCL Ștefan cel Mare nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-09",
+"latest": "2023-01-09",
+"portal": null,
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-6-2023",
+"path": "local/bacau/stefan-cel-mare/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 6/2023 privind atesatarea invetarului bunurilor care apartin domeniului public al comunei Ștefan cel Mare",
+"short": "HCL Ștefan cel Mare nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-16",
+"latest": "2023-01-16",
+"portal": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-7-2023",
+"path": "local/bacau/stefan-cel-mare/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 7/2023 privind modificarea inventarului bunurilor care apartin domeniului public al comunei",
+"short": "HCL Ștefan cel Mare nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-16",
+"latest": "2023-01-16",
+"portal": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-8-2023",
+"path": "local/bacau/stefan-cel-mare/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 8/2023 privind aprobarea contului de executie bugetara pentru anul 2022 al comunei Stefan cel Mare, Judetul Bacau",
+"short": "HCL Ștefan cel Mare nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-25",
+"latest": "2023-01-25",
+"portal": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-9-2023",
+"path": "local/bacau/stefan-cel-mare/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 9/2023 privind aprobarea contului de incheiere a exercitiului bugetar pentru anul 2022",
+"short": "HCL Ștefan cel Mare nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-25",
+"latest": "2023-01-25",
+"portal": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-10-2023",
+"path": "local/bacau/stefan-cel-mare/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 10/2023 privind stabilirea drepturilor salariale pentru personalul angajat in functiile publice si functiile contractuale din aparatul de specialitate al primarului",
+"short": "HCL Ștefan cel Mare nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-25",
+"latest": "2023-01-25",
+"portal": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-11-2023",
+"path": "local/bacau/stefan-cel-mare/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 11/2023",
+"short": "HCL Ștefan cel Mare nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-25",
+"latest": "2023-01-25",
+"portal": null,
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

@@ -3,6 +3,36 @@
  "shard": "local/bihor/tauteu/2021",
  "acts": [
   {
+   "slug": "hcl-bihor--tauteu-66-2021",
+   "path": "local/bihor/tauteu/2021/66",
+   "short": "HCL Tăuteu nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 66/2021 privind aprobarea Procesului-verbal al şedinţei ordinare a Consiliului Local al Comunei Tăuteu din data de 27 mai 2021",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/35500",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/35500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-67-2021",
+   "path": "local/bihor/tauteu/2021/67",
+   "short": "HCL Tăuteu nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 67/2021 privind aprobarea solicitării de prelungire a Scrisorii de garanție din partea Fondului de Garantare a Creditului Rural – IFN SA pentru obiectivul “Înfiinţare After School în localitatea Bogei, comuna Tăuteu”",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/35501",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/35501",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tauteu-68-2021",
    "path": "local/bihor/tauteu/2021/68",
    "short": "HCL Tăuteu nr. 68/2021",
@@ -13,6 +43,81 @@
      "from": "2021-06-28",
      "units": 1,
      "source_url": "https://emol.ro/tauteu-bh/registru-hcl/35502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-69-2021",
+   "path": "local/bihor/tauteu/2021/69",
+   "short": "HCL Tăuteu nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 69/2021 privind aprobarea actualizării proiectului și a cheltuielilor legate de proiectul \"Achiziție de echipamente mobile din domeniul tehnologiei informației de tipul tabletelor școlare, precum și a altor echipamente/dispozitive electronice necesare desfășurării activității didactice în mediu on-line, în comuna Tăuteu, județul Bihor\"",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/35503",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/35503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-70-2021",
+   "path": "local/bihor/tauteu/2021/70",
+   "short": "HCL Tăuteu nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 70/2021 privind aprobarea rectificării bugetului local al comunei Tăuteu, județul Bihor, pe anul 2021",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/35504",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/35504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-71-2021",
+   "path": "local/bihor/tauteu/2021/71",
+   "short": "HCL Tăuteu nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 71/2021 privind aprobarea Ordinii de zi pentru şedința ordinară, a Consiliului Local al Comunei Tăuteu, convocată pe data de 30 iulie 2021",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/37365",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/37365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-72-2021",
+   "path": "local/bihor/tauteu/2021/72",
+   "short": "HCL Tăuteu nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 72/2021 privind alegerea Preşedintelui de şedinţă",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/37366",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/37366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-73-2021",
+   "path": "local/bihor/tauteu/2021/73",
+   "short": "HCL Tăuteu nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 73/2021 privind aprobarea Procesului-verbal al şedinţei ordinare a Consiliului Local al Comunei Tăuteu din data de 28 iunie 2021",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/37367",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/37367",
      "sha256": null
     }
    ]
@@ -48,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tauteu-76-2021",
+   "path": "local/bihor/tauteu/2021/76",
+   "short": "HCL Tăuteu nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 76/2021 privind constituirea echipei mobile care asigură intervenția de urgență în cazurile de violență domestică în comuna Tăuteu, județul Bihor",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/37370",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/37370",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tauteu-77-2021",
    "path": "local/bihor/tauteu/2021/77",
    "short": "HCL Tăuteu nr. 77/2021",
@@ -63,6 +183,51 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tauteu-78-2021",
+   "path": "local/bihor/tauteu/2021/78",
+   "short": "HCL Tăuteu nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 78/2021 privind revocarea Hotărârii Consiliului Local al comunei Tăuteu nr. 65/29 noiembrie 2006",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/37372",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/37372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-79-2021",
+   "path": "local/bihor/tauteu/2021/79",
+   "short": "HCL Tăuteu nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 79/2021 privind aprobarea Ordinii de zi pentru şedinţa extraordinară, convocată de îndată, a Consiliului Local al Comunei Tăuteu din data de 20 august 2021",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/37387",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/37387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-80-2021",
+   "path": "local/bihor/tauteu/2021/80",
+   "short": "HCL Tăuteu nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 80/2021 privind aprobarea documentației cadastrale de actualizare date imobil pentru sediul Primăriei comunei Tăuteu, județul Bihor",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/37388",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/37388",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tauteu-81-2021",
    "path": "local/bihor/tauteu/2021/81",
    "short": "HCL Tăuteu nr. 81/2021",
@@ -73,6 +238,51 @@
      "from": "2021-08-20",
      "units": 1,
      "source_url": "https://emol.ro/tauteu-bh/registru-hcl/37389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-82-2021",
+   "path": "local/bihor/tauteu/2021/82",
+   "short": "HCL Tăuteu nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 82/2021 privind aprobarea Ordinii de zi pentru şedința ordinară, a Consiliului Local al Comunei Tăuteu, convocată pe data de 31 august 2021",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/37390",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/37390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-83-2021",
+   "path": "local/bihor/tauteu/2021/83",
+   "short": "HCL Tăuteu nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 83/2021 privind aprobarea Procesului-verbal al şedinţei ordinare a Consiliului Local al Comunei Tăuteu din data de 30 iulie 2021",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/37391",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/37391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-84-2021",
+   "path": "local/bihor/tauteu/2021/84",
+   "short": "HCL Tăuteu nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 84/2021 privind aprobarea Procesului-verbal al şedinţei extraordinare a Consiliului Local al Comunei Tăuteu, convocată de îndată pe data de 20 august 2021",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/37392",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/37392",
      "sha256": null
     }
    ]

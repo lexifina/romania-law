@@ -48,6 +48,28 @@
 }
 },
 {
+"slug": "hcl-bacau--dofteana-162-2024",
+"path": "local/bacau/dofteana/2024/162",
+"kind": "local",
+"year": "2024",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dofteana nr. 162/2024 Proiect de hotarare privind alocarea unei sume din bugetul local, pentru susţinerea financiară şi materială a: Parohiei Ortodoxe din sat Cucuieți, - lemne de foc în sumă estimate de 40.000 lei; Parohiei Ortodoxe din sat Bogata - lemne de foc în sumă estimate de 10.000 lei; Parohiei Ortodoxe din sat Larga - lemne de foc în sumă estimate de 10.000 lei; Parohiei Ortodoxe Dofteana II din sat Dofteana – sprijin financiar pentru finalizarea construirii gardului de împrejmuire a cimitirului ce aparține Parohire Dofteana I și parohiei Dofteana II - în sumă estimate de 216.000 lei;",
+"short": "HCL Dofteana nr. 162/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-18",
+"latest": "2024-10-18",
+"portal": "https://dofteana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4223#84729",
+"council": "bacau/dofteana",
+"council_name": "Consiliul Local al Comunei Dofteana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--dofteana-163-2024",
 "path": "local/bacau/dofteana/2024/163",
 "kind": "local",

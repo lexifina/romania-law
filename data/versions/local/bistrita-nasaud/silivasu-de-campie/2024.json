@@ -3,6 +3,21 @@
  "shard": "local/bistrita-nasaud/silivasu-de-campie/2024",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-22-2024",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2024/22",
+   "short": "HCL Silivașu de Câmpie nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 22/2024 privind alegerea președintelui de ședință al Consiliului Local al comunei Silivasu de Câmpie,judetul Bistrița-Năsăud",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/163817",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/163817",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--silivasu-de-campie-23-2024",
    "path": "local/bistrita-nasaud/silivasu-de-campie/2024/23",
    "short": "HCL Silivașu de Câmpie nr. 23/2024",
@@ -13,6 +28,21 @@
      "from": "2024-08-05",
      "units": 1,
      "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/163818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-24-2024",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2024/24",
+   "short": "HCL Silivașu de Câmpie nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 24/2024 privind stabilirea salariilor de baza pentru functiile publice si contractuale din aparatul de specialitate al primarului comunei Silivasu de Câmpie,judetul Bistrita-Năsăud,",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/163819",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/163819",
      "sha256": null
     }
    ]
@@ -48,6 +78,51 @@
    ]
   },
   {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-27-2024",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2024/27",
+   "short": "HCL Silivașu de Câmpie nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 27/2024 privind alegerea președintelui de ședință al Consiliului Local al comunei Silivasu de Câmpie,judetul Bistrița-Năsăud",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/174848",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/174848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-28-2024",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2024/28",
+   "short": "HCL Silivașu de Câmpie nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 28/2024 privind organizarea si alegerea comisiilor de specialitate ale Consiliului Local al comunei Silivașu de Câmpie, judetul Bistrita-Năsăud",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/174849",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/174849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-29-2024",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2024/29",
+   "short": "HCL Silivașu de Câmpie nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 29/2024",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/176925",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/176925",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--silivasu-de-campie-30-2024",
    "path": "local/bistrita-nasaud/silivasu-de-campie/2024/30",
    "short": "HCL Silivașu de Câmpie nr. 30/2024",
@@ -58,6 +133,81 @@
      "from": "2024-11-27",
      "units": 1,
      "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/176926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-31-2024",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2024/31",
+   "short": "HCL Silivașu de Câmpie nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 31/2024",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/176927",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/176927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-32-2024",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2024/32",
+   "short": "HCL Silivașu de Câmpie nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 32/2024",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/176928",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/176928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-33-2024",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2024/33",
+   "short": "HCL Silivașu de Câmpie nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 33/2024",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/176929",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/176929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-34-2024",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2024/34",
+   "short": "HCL Silivașu de Câmpie nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 34/2024 de acordare a facilitaților fiscale privind anularea accesoriilor aferente obligaţiilor bugetare principale restante la data de 31 august 2024 inclusiv, datorate bugetului local al comunei SILIVAȘU DE CÂMPIE",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/176930",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/176930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-35-2024",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2024/35",
+   "short": "HCL Silivașu de Câmpie nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 35/2024 privind desemnarea reprezentantului legal pentru implementarea proiectului „ASFALTARE DRUMURI DE EXPLOATATIE AGRICOLA IN COMUNA SILIVASU DE CAMPIE, JUDETUL BISTRITA-NASAUD”",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/176931",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/176931",
      "sha256": null
     }
    ]

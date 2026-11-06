@@ -3,6 +3,94 @@
 "shard": "local/bacau/buhoci/2025",
 "acts": [
 {
+"slug": "hcl-bacau--buhoci-100-2025",
+"path": "local/bacau/buhoci/2025/100",
+"kind": "local",
+"year": "2025",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 100/2025 privind aprobarea premierii drei. Margineanu Karina-Isabela pentru rezultate deosebite obținute la concursurile de dans",
+"short": "HCL Buhoci nr. 100/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/235282",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-101-2025",
+"path": "local/bacau/buhoci/2025/101",
+"kind": "local",
+"year": "2025",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 101/2025 privind aprobarea acordării unui ajutor financiar pentru refacerea locuinței după incendiu",
+"short": "HCL Buhoci nr. 101/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/235283",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-102-2025",
+"path": "local/bacau/buhoci/2025/102",
+"kind": "local",
+"year": "2025",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 102/2025 privind respingerea Plângerii Prealabile formulată de SC SOMA SRL împotriva Hotărârii AGA ADIS Nr. 10/15.09.2025",
+"short": "HCL Buhoci nr. 102/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/235284",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-103-2025",
+"path": "local/bacau/buhoci/2025/103",
+"kind": "local",
+"year": "2025",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 103/2025 privind aprobarea acordării de sprijin financiar cultelor",
+"short": "HCL Buhoci nr. 103/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/235285",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--buhoci-104-2025",
 "path": "local/bacau/buhoci/2025/104",
 "kind": "local",
@@ -22,6 +110,50 @@
 "council_name": "Consiliul Local al Comunei Buhoci",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-105-2025",
+"path": "local/bacau/buhoci/2025/105",
+"kind": "local",
+"year": "2025",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 105/2025 privind aprobarea desființării/demolării unor construcții aparținând inventarului domeniului public al UAT Buhoci",
+"short": "HCL Buhoci nr. 105/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/235287",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-106-2025",
+"path": "local/bacau/buhoci/2025/106",
+"kind": "local",
+"year": "2025",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 106/2025 privind respingerea Plângerii Prealabile nr. 7401/15.10.2025 la HCL Buhoci nr. 94 din 26.09.2025",
+"short": "HCL Buhoci nr. 106/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/235290",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

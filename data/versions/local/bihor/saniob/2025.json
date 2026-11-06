@@ -3,6 +3,21 @@
  "shard": "local/bihor/saniob/2025",
  "acts": [
   {
+   "slug": "hcl-bihor--saniob-67-2025",
+   "path": "local/bihor/saniob/2025/67",
+   "short": "HCL Sâniob nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 67/2025 privind aprobarea Planurilor de amplasament si delimitare a unor imobile din comuna Sâniob în vederea constituirii de numere cadastrale noi și înscrierea în CF a domeniului public",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/230897",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/230897",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--saniob-68-2025",
    "path": "local/bihor/saniob/2025/68",
    "short": "HCL Sâniob nr. 68/2025",
@@ -33,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--saniob-70-2025",
+   "path": "local/bihor/saniob/2025/70",
+   "short": "HCL Sâniob nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 70/2025 privind rectificarea bugetului local al Comunei Sâniob, pentru anul 2025",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/230900",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/230900",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--saniob-71-2025",
    "path": "local/bihor/saniob/2025/71",
    "short": "HCL Sâniob nr. 71/2025",
@@ -43,6 +73,21 @@
      "from": "2025-11-25",
      "units": 1,
      "source_url": "https://emol.ro/saniob-bh/registru-hcl/234248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-72-2025",
+   "path": "local/bihor/saniob/2025/72",
+   "short": "HCL Sâniob nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 72/2025 privind rectificarea bugetului local al comunei Sâniob pe anul 2025",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/234249",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/234249",
      "sha256": null
     }
    ]
@@ -78,6 +123,96 @@
    ]
   },
   {
+   "slug": "hcl-bihor--saniob-75-2025",
+   "path": "local/bihor/saniob/2025/75",
+   "short": "HCL Sâniob nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 75/2025 privind aprobarea ordinii de zi pentru şedinţa ordinară din data de 15.12.2025",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/240731",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/240731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-76-2025",
+   "path": "local/bihor/saniob/2025/76",
+   "short": "HCL Sâniob nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 76/2025 privind aprobarea procesului verbal al ședinței extraordinare din data de 05.11.2025 și al ședinței extraordinare din 25.11.2025",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/240732",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/240732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-77-2025",
+   "path": "local/bihor/saniob/2025/77",
+   "short": "HCL Sâniob nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 77/2025 privind rectificarea bugetului local al Comunei Sâniob, pentru anul 2025",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/240733",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/240733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-78-2025",
+   "path": "local/bihor/saniob/2025/78",
+   "short": "HCL Sâniob nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 78/2025 privind încetarea contractelor de comodat încheiate cu Fundaţia „PROSZENTJOBB” și Asociația de Tineret din Sâniob",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/240734",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/240734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-79-2025",
+   "path": "local/bihor/saniob/2025/79",
+   "short": "HCL Sâniob nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 79/2025 privind însusirea variantei finale a proiectului de stemă a comunei Sâniob, județul Bihor",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/240735",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/240735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-80-2025",
+   "path": "local/bihor/saniob/2025/80",
+   "short": "HCL Sâniob nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 80/2025 privind aprobarea structurii rețelei școlare la nivelul UAT Sâniob pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/240736",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/240736",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--saniob-81-2025",
    "path": "local/bihor/saniob/2025/81",
    "short": "HCL Sâniob nr. 81/2025",
@@ -93,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--saniob-82-2025",
+   "path": "local/bihor/saniob/2025/82",
+   "short": "HCL Sâniob nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 82/2025 privind alegerea președintelui de ședință și a supleantului",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/242958",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/242958",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--saniob-83-2025",
    "path": "local/bihor/saniob/2025/83",
    "short": "HCL Sâniob nr. 83/2025",
@@ -103,6 +253,36 @@
      "from": "2025-12-23",
      "units": 1,
      "source_url": "https://emol.ro/saniob-bh/registru-hcl/242959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-84-2025",
+   "path": "local/bihor/saniob/2025/84",
+   "short": "HCL Sâniob nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 84/2025 privind aprobarea procesului verbal al ședinței ordinare din data de 15.12.2025",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/242960",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/242960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-85-2025",
+   "path": "local/bihor/saniob/2025/85",
+   "short": "HCL Sâniob nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 85/2025 privind rectificarea bugetului local al comunei Sâniob pe anul 2025",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/242961",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/242961",
      "sha256": null
     }
    ]

@@ -92,6 +92,28 @@
 }
 },
 {
+"slug": "hcl-bacau--rachitoasa-41-2026",
+"path": "local/bacau/rachitoasa/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 41/2026 privind aprobarea documentației de atribuire a contractului de delegare a gestiunii activității de colectare separată și transport separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat în 65 U.A.T.-uri din județul Bacău, prin procedura de negociere fără publicarea prealabilă a unui anunț de concesionare, până la finalizarea procedurii de atribuire a noului Contract pentru 66 de UAT-uri",
+"short": "HCL Răchitoasa nr. 41/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-27",
+"latest": "2026-08-27",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/283792",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--rachitoasa-42-2026",
 "path": "local/bacau/rachitoasa/2026/42",
 "kind": "local",
@@ -178,6 +200,50 @@
 "council_name": "Consiliul Local al Comunei Răchitoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--rachitoasa-46-2026",
+"path": "local/bacau/rachitoasa/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 46/2026 privind desemnarea reprezentanţilor Consiliului Local al comunei Răchitoasa, ca membrii în Consiliul de Administraţie al Liceului Tehnologic Răchitoasa, pentru anul şcolar 2026-2027",
+"short": "HCL Răchitoasa nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-02",
+"latest": "2026-10-02",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/289263",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--rachitoasa-47-2026",
+"path": "local/bacau/rachitoasa/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 47/2026 privind desemnarea reprezentantului ( titular și supleant ) al Consiliului Local al comunei Răchitoasa, în Comisia de evaluare a probei de interviu pentru concursul organizat în scopul ocupării funcțiilor de director și director adjunct din cadrul Liceului Tehnologic Răchitoasa, județul Bacău",
+"short": "HCL Răchitoasa nr. 47/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-02",
+"latest": "2026-10-02",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/289264",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

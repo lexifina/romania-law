@@ -3,6 +3,66 @@
  "shard": "local/botosani/albesti/2025",
  "acts": [
   {
+   "slug": "hcl-botosani--albesti-68-2025",
+   "path": "local/botosani/albesti/2025/68",
+   "short": "HCL Albești nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 68/2025 privind desemnarea reprezentantului Consiliului Local al comunei Albești in Comisia de Evaluare si Asigurare a Calității din cadrul Scolii Gimnaziale nr . 1 Albești",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/229015",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/229015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-69-2025",
+   "path": "local/botosani/albesti/2025/69",
+   "short": "HCL Albești nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 69/2025 privind desemnarea reprezentantului Consiliului Local al comunei Albesti in Comisia de Evaluare si Asigurare a Calitatii din cadrul Scolii Gimnaziale nr .2 Tudor Vladimirescu",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/229016",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/229016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-70-2025",
+   "path": "local/botosani/albesti/2025/70",
+   "short": "HCL Albești nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 70/2025 privind desemnarea a doi reprezentanți ai Consiliului local al comunei Albești in Grupul de acțiune antibullying al Scolii Gimnaziale nr. 1 Albești, pentru anul școlar 2025 – 2026",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/229017",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/229017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-71-2025",
+   "path": "local/botosani/albesti/2025/71",
+   "short": "HCL Albești nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 71/2025 privind desemnarea a doi reprezentanti ai Consiliului local al comunei Albesti in Grupul de actiune antibullying al Scolii Gimnaziale nr. 2 Tudor Vladimirescu, pentru anul scolar 2025 – 2026",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/229018",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/229018",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--albesti-72-2025",
    "path": "local/botosani/albesti/2025/72",
    "short": "HCL Albești nr. 72/2025",
@@ -223,6 +283,21 @@
      "from": "2026-02-10",
      "units": 1,
      "source_url": "https://emol.ro/albesti-bt/registru-hcl/244464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-87-2025",
+   "path": "local/botosani/albesti/2025/87",
+   "short": "HCL Albești nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 87/2025",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/244465",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/244465",
      "sha256": null
     }
    ]

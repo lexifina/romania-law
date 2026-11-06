@@ -3,6 +3,51 @@
  "shard": "local/bihor/tulca/2020",
  "acts": [
   {
+   "slug": "hcl-bihor--tulca-44-2020",
+   "path": "local/bihor/tulca/2020/44",
+   "short": "HCL Tulca nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 44/2020 privind aprobarea prelungirii termenului de valabilitate al Planului Urbanistic General și al Regulamentului Local de Urbanism aferent Comunei Tulca aprobat prin HCL nr. 9/2010",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/19703",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/19703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-45-2020",
+   "path": "local/bihor/tulca/2020/45",
+   "short": "HCL Tulca nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 45/2020 privind închirierea prin licitație publică deschisă a unui spațiu din cadrul cadrul Căminului Cultural Cauasd cu destinația spațiului pentru activități comerciale",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/19704",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/19704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-46-2020",
+   "path": "local/bihor/tulca/2020/46",
+   "short": "HCL Tulca nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 46/2020 privind indemnizația lunară pentru participarea consilierilor locali la ședințele ordinare ori la ședințele extraordinare ale Consiliului Local al comunei Tulca",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/19705",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/19705",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tulca-47-2020",
    "path": "local/bihor/tulca/2020/47",
    "short": "HCL Tulca nr. 47/2020",
@@ -108,6 +153,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tulca-54-2020",
+   "path": "local/bihor/tulca/2020/54",
+   "short": "HCL Tulca nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 54/2020 privind închirierea prin licitație publică deschisă a unui spațiu din cadrul Căminului Cultural Tulca cu destinația spațiu pentru frizerie",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/19726",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/19726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-55-2020",
+   "path": "local/bihor/tulca/2020/55",
+   "short": "HCL Tulca nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 55/2020 privind aprobarea premierii sportivilor din comuna Tulca pe anul 2020",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/19727",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/19727",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tulca-56-2020",
    "path": "local/bihor/tulca/2020/56",
    "short": "HCL Tulca nr. 56/2020",
@@ -148,6 +223,21 @@
      "from": "2020-12-18",
      "units": 1,
      "source_url": "https://emol.ro/tulca-bh/registru-hcl/19730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-59-2020",
+   "path": "local/bihor/tulca/2020/59",
+   "short": "HCL Tulca nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 59/2020 privind aprobarea executării unei lucrări AS Built la obiectivul de investiții ” Îmbunătățirea infrastructurii de apă și apă uzată din localitatea Tulca, județul Bihor”",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/19731",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/19731",
      "sha256": null
     }
    ]

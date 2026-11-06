@@ -3,6 +3,111 @@
  "shard": "local/bihor/sacadat/2023",
  "acts": [
   {
+   "slug": "hcl-bihor--sacadat-1-2023",
+   "path": "local/bihor/sacadat/2023/1",
+   "short": "HCL Săcădat nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 1/2023 privind aprobarea procesului-verbal al sedintei ordinare din data de 22.12.2022",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/101174",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/101174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-10-2023",
+   "path": "local/bihor/sacadat/2023/10",
+   "short": "HCL Săcădat nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 10/2023 privind aprobarea ordinei de zi a ședinței ordinare din data de 21.02.2023",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/101197",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/101197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-11-2023",
+   "path": "local/bihor/sacadat/2023/11",
+   "short": "HCL Săcădat nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 11/2023 privind aprobarea bugetului de venituri şi cheltuieli pentru anul 2023 al Comunei Săcădat",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/101198",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/101198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-12-2023",
+   "path": "local/bihor/sacadat/2023/12",
+   "short": "HCL Săcădat nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 12/2023 privind aprobarea Programului Anual al Achizițiilor Publice pentru anul 2023 al Comunei Săcădat",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/101199",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/101199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-13-2023",
+   "path": "local/bihor/sacadat/2023/13",
+   "short": "HCL Săcădat nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 13/2023 privind aprobarea încheierii unui Protocol de colaborare cu Ministerul Muncii și Solidarității Sociale (MMSS) în cadrul proiectului “HUB de servicii MMSS-SII MMSS “ cod My Smis 130963",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/101200",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/101200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-14-2023",
+   "path": "local/bihor/sacadat/2023/14",
+   "short": "HCL Săcădat nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 14/2023 privind aprobarea „ Planului de asigurare cu resurse umane, materiale și financiare necesare pentru gestionarea situatiilor de urgență“ pe anul 2023 în Comuna Săcădat județul Bihor",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/101201",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/101201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-15-2023",
+   "path": "local/bihor/sacadat/2023/15",
+   "short": "HCL Săcădat nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 15/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative prevăzute de Programul pentru școli al României",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/101202",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/101202",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--sacadat-16-2023",
    "path": "local/bihor/sacadat/2023/16",
    "short": "HCL Săcădat nr. 16/2023",
@@ -13,6 +118,126 @@
      "from": "2023-04-21",
      "units": 1,
      "source_url": "https://emol.ro/sacadat-bh/registru-hcl/101203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-2-2023",
+   "path": "local/bihor/sacadat/2023/2",
+   "short": "HCL Săcădat nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 2/2023 privind aprobarea ordinei de zi a ședinței extraordinare din data de 18.01.2023",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/101175",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/101175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-3-2023",
+   "path": "local/bihor/sacadat/2023/3",
+   "short": "HCL Săcădat nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 3/2023 privind aprobarea modificării anexei nr. 1 la HCL nr. 114 din 20.12.2021 privind aprobarea indicatorilor tehnico-economici cat si participarea la „Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: staţii de reîncărcare pentru vehicule electrice în localități”pentru proiectul: „STATII DE REINCARCARE PENTRU VEHICULE ELECTRICE IN COMUNA SĂCĂDAT,JUDETUL BIHOR„",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/101176",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/101176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-4-2023",
+   "path": "local/bihor/sacadat/2023/4",
+   "short": "HCL Săcădat nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 4/2023 privind aprobarea procesului-verbal al sedintei extraordinare din data de 18.01.2023",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/101180",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/101180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-5-2023",
+   "path": "local/bihor/sacadat/2023/5",
+   "short": "HCL Săcădat nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 5/2023 privind aprobarea ordinei de zi a ședinței ordinare din data de 31.01.2023",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/101181",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/101181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-6-2023",
+   "path": "local/bihor/sacadat/2023/6",
+   "short": "HCL Săcădat nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 6/2023 privind organizarea Reţelei şcolare a unităților învăţământului preuniversitar de stat de pe raza comunei Săcădat, pe anul școlar 2023-2024",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/101182",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/101182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-7-2023",
+   "path": "local/bihor/sacadat/2023/7",
+   "short": "HCL Săcădat nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 7/2023 privind modificarea Hotararii Consiliului Local Săcădat nr. 52 din 28.05.2021 privind aprobarea înfiinţarii asociatiei “ASOCIAŢIA GRUP DE ACŢIUNE LOCALĂ ZMO DEALUL ŞOMLEU” şi aderarea Comunei Săcădat la parteneriatul mai sus menţionat, pentru perioada de programare PNDR 2023-2027",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/101183",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/101183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-8-2023",
+   "path": "local/bihor/sacadat/2023/8",
+   "short": "HCL Săcădat nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 8/2023 privind aprobarea documentației cadastrale pentru Dezlipirea nr. cadastral 53090 – Săcădat, în două loturi",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/101184",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/101184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-9-2023",
+   "path": "local/bihor/sacadat/2023/9",
+   "short": "HCL Săcădat nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 9/2023 privind aprobarea procesului-verbal al sedintei ordinare din data de 31.01.2023",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/101196",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/101196",
      "sha256": null
     }
    ]

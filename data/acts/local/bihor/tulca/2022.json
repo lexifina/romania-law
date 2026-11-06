@@ -223,6 +223,28 @@
 }
 },
 {
+"slug": "hcl-bihor--tulca-115-2022",
+"path": "local/bihor/tulca/2022/115",
+"kind": "local",
+"year": "2022",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 115/2022 privind aprobarea acordării ajutorului pentru încălzirea locuinţei cu combustibili solizi",
+"short": "HCL Tulca nr. 115/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/90208",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tulca-116-2022",
 "path": "local/bihor/tulca/2022/116",
 "kind": "local",

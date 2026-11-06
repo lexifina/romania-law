@@ -78,6 +78,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-106-2023",
+   "path": "local/bacau/corbasca/2023/106",
+   "short": "HCL Corbasca nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 106/2023 privind aprobarea Studiului de oportunitate prin delegarea gestiunii serviciului de alimentare cu apa si canalizare al comunei Corbasca,judetul Bacau si a delegarii gestiunii Serviciului de alimentare cu apa si canalizare catre Operatorul Regional \"S.C.Compania Regionala de Apa S.A\"-.Bacau",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/130932",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/130932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-107-2023",
+   "path": "local/bacau/corbasca/2023/107",
+   "short": "HCL Corbasca nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 107/2023",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/130933",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/130933",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-108-2023",
    "path": "local/bacau/corbasca/2023/108",
    "short": "HCL Corbasca nr. 108/2023",
@@ -88,6 +118,21 @@
      "from": "2023-12-12",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/130934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-109-2023",
+   "path": "local/bacau/corbasca/2023/109",
+   "short": "HCL Corbasca nr. 109/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 109/2023 privind scoaterea din funcţiune în vederea casării şi valorificării unor mijloace fixe din patrimoniul Primariei Comunei Corbasca,judetul Bacau",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/130935",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/130935",
      "sha256": null
     }
    ]
@@ -198,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-117-2023",
+   "path": "local/bacau/corbasca/2023/117",
+   "short": "HCL Corbasca nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 117/2023",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/134444",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/134444",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-118-2023",
    "path": "local/bacau/corbasca/2023/118",
    "short": "HCL Corbasca nr. 118/2023",
@@ -208,6 +268,21 @@
      "from": "2024-01-18",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/134445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-119-2023",
+   "path": "local/bacau/corbasca/2023/119",
+   "short": "HCL Corbasca nr. 119/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 119/2023",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/134446",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/134446",
      "sha256": null
     }
    ]

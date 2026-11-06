@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-bacau--rachitoasa-45-2025",
+"path": "local/bacau/rachitoasa/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 45/2025 privind desemnarea reprezentanţilor Consiliului Local al comunei Răchitoasa, ca membrii în Consiliul de Administraţie al Liceului Tehnologic Răchitoasa, pentru anul şcolar 2025-2026",
+"short": "HCL Răchitoasa nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-08",
+"latest": "2025-10-08",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/228223",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--rachitoasa-46-2025",
 "path": "local/bacau/rachitoasa/2025/46",
 "kind": "local",

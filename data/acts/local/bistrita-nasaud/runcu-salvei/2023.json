@@ -3,6 +3,50 @@
 "shard": "local/bistrita-nasaud/runcu-salvei/2023",
 "acts": [
 {
+"slug": "hcl-bistrita-nasaud--runcu-salvei-28-2023",
+"path": "local/bistrita-nasaud/runcu-salvei/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 28/2023 privind însușirea Documentației cadastrale de primă înscriere în sistemul integrat de cadastru și carte funciară a imobilului ”Teren pe Podereie”, în suprafața de 1145 mp., categorie de folosință fânaț, situat în intravilanul comunei Runcu Salvei și declararea imobilului ca bun de uz și de interes public local",
+"short": "HCL Runcu Salvei nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-31",
+"latest": "2023-07-31",
+"portal": "https://primariaruncusalvei.ro/registru_hcl23.html",
+"council": "bistrita-nasaud/runcu-salvei",
+"council_name": "Consiliul Local al Comunei Runcu Salvei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--runcu-salvei-29-2023",
+"path": "local/bistrita-nasaud/runcu-salvei/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 29/2023 privind alegerea președintelui de ședință al Consiliului local Runcu Salvei",
+"short": "HCL Runcu Salvei nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-29",
+"latest": "2023-08-29",
+"portal": "https://primariaruncusalvei.ro/registru_hcl23.html",
+"council": "bistrita-nasaud/runcu-salvei",
+"council_name": "Consiliul Local al Comunei Runcu Salvei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--runcu-salvei-30-2023",
 "path": "local/bistrita-nasaud/runcu-salvei/2023/30",
 "kind": "local",
@@ -22,6 +66,50 @@
 "council_name": "Consiliul Local al Comunei Runcu Salvei",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--runcu-salvei-31-2023",
+"path": "local/bistrita-nasaud/runcu-salvei/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 31/2023 privind aprobarea Actului Adițional nr.2 la Contractul de Asociere încheiat între Județul Bistrița-Năsăud, municipiul Bistrița, orașele și comunele din județul Bistrița-Năsăud pentru realizarea proiectului ”Management integrat al deșeurilor în județul Bistrița-Năsăud”, la data de 10.04.2008",
+"short": "HCL Runcu Salvei nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-29",
+"latest": "2023-08-29",
+"portal": "https://primariaruncusalvei.ro/registru_hcl23.html",
+"council": "bistrita-nasaud/runcu-salvei",
+"council_name": "Consiliul Local al Comunei Runcu Salvei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--runcu-salvei-44-2023",
+"path": "local/bistrita-nasaud/runcu-salvei/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 44/2023 privind aprobarea concesionării prin licitație publică a terenului în suprafață de 3.086 mp. aparținând domeniului public al comunei Runcu Salvei situat în extravilan, pe teritoriul comunei Rebrișoara, județul Bistsrița-Năsăud",
+"short": "HCL Runcu Salvei nr. 44/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-22",
+"latest": "2023-12-22",
+"portal": "https://primariaruncusalvei.ro/registru_hcl23.html",
+"council": "bistrita-nasaud/runcu-salvei",
+"council_name": "Consiliul Local al Comunei Runcu Salvei",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

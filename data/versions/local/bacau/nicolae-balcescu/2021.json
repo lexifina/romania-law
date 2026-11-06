@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--nicolae-balcescu-133-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/133",
+   "short": "HCL Nicolae Bălcescu nr. 133/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 133/2021 privind aprobarea acordării unui ajutor financiar",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/42851",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/42851",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--nicolae-balcescu-134-2021",
    "path": "local/bacau/nicolae-balcescu/2021/134",
    "short": "HCL Nicolae Bălcescu nr. 134/2021",
@@ -208,6 +223,21 @@
      "from": "2021-12-22",
      "units": 1,
      "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/45290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-147-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/147",
+   "short": "HCL Nicolae Bălcescu nr. 147/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 147/2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/45291",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/45291",
      "sha256": null
     }
    ]

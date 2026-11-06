@@ -3,6 +3,51 @@
  "shard": "local/bistrita-nasaud/runcu-salvei/2025",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-11-2025",
+   "path": "local/bistrita-nasaud/runcu-salvei/2025/11",
+   "short": "HCL Runcu Salvei nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 11/2025 privind punerea la dispoziția concesionarului a terenurilor necesare pentru realizarea obiectivelor aferente sistemelor de distribuție a gazelor naturale pe toată durata concesiunii, în cadrul obiectivului de investiții ”Înființare distribuție gaze naturale în comunele Salva, Coșbuc, Telciu, Runcu-Salvei și Romuli, județul Bistrița-Năsăud",
+   "url": "https://primariaruncusalvei.ro/registru_hcl25.html",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_prh.nr.11_24.04.2025_concesionar.pdf",
+     "sha256": "cd1077a980597ca391632b2209ccd8bd4246512860d51a32947131916f5d97b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-12-2025",
+   "path": "local/bistrita-nasaud/runcu-salvei/2025/12",
+   "short": "HCL Runcu Salvei nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 12/2025 privind aprobarea contului de execuție al bugetului comunei Runcu-Salvei pe anul 2024",
+   "url": "https://primariaruncusalvei.ro/registru_hcl25.html",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_prh.nr.12_05.05.2025_aprobare_cont_exec_b.pdf",
+     "sha256": "39c5e6872eee8105eb0b938731404c22d42cb4009772801ce46eabc44962a02c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-13-2025",
+   "path": "local/bistrita-nasaud/runcu-salvei/2025/13",
+   "short": "HCL Runcu Salvei nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 13/2025 privind alegerea președintelui de ședință al Consiliului local Runcu-Salvei",
+   "url": "https://primariaruncusalvei.ro/registru_hcl25.html",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_prh.nr.13_13.05.2025_alegere_psd.pdf",
+     "sha256": "9fa90f5a4a1f3d356175688020980705157e80752de4c2c883b8010d50a9e53d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--runcu-salvei-15-2025",
    "path": "local/bistrita-nasaud/runcu-salvei/2025/15",
    "short": "HCL Runcu Salvei nr. 15/2025",

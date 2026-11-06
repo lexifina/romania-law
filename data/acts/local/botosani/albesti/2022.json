@@ -3,6 +3,29 @@
 "shard": "local/botosani/albesti/2022",
 "acts": [
 {
+"slug": "hcl-botosani--albesti-93-2022",
+"path": "local/botosani/albesti/2022/93",
+"kind": "local",
+"year": "2022",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 93/2022",
+"short": "HCL Albești nr. 93/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-21",
+"latest": "2023-02-21",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/91041",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-botosani--albesti-94-2022",
 "path": "local/botosani/albesti/2022/94",
 "kind": "local",
@@ -69,6 +92,249 @@
 }
 },
 {
+"slug": "hcl-botosani--albesti-97-2022",
+"path": "local/botosani/albesti/2022/97",
+"kind": "local",
+"year": "2022",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 97/2022 privind aprobarea rectificării bugetului local pe anul 2022",
+"short": "HCL Albești nr. 97/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-21",
+"latest": "2023-02-21",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/91045",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-98-2022",
+"path": "local/botosani/albesti/2022/98",
+"kind": "local",
+"year": "2022",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 98/2022 privind aprobarea implementării proiectului „HUB de servicii MMSS-SII MMSS” cod MySmis 130963",
+"short": "HCL Albești nr. 98/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-21",
+"latest": "2023-02-21",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/91046",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-99-2022",
+"path": "local/botosani/albesti/2022/99",
+"kind": "local",
+"year": "2022",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 99/2022 privind aprobarea rectificării bugetului local pe anul 2022",
+"short": "HCL Albești nr. 99/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-21",
+"latest": "2023-02-21",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/91047",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-100-2022",
+"path": "local/botosani/albesti/2022/100",
+"kind": "local",
+"year": "2022",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 100/2022 privind impozitele și taxele locale, precum și taxele speciale pe anul 2023",
+"short": "HCL Albești nr. 100/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-21",
+"latest": "2023-02-21",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/91048",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-101-2022",
+"path": "local/botosani/albesti/2022/101",
+"kind": "local",
+"year": "2022",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 101/2022 privind decontarea/plata costurilor de transport șa și de la locul de muncă a cadrelor didactice navetiste din unitățile de învățământ din comuna Albești pentru lunile septembrie și octombrie 2022",
+"short": "HCL Albești nr. 101/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-21",
+"latest": "2023-02-21",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/91049",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-102-2022",
+"path": "local/botosani/albesti/2022/102",
+"kind": "local",
+"year": "2022",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 102/2022 privind inventarierea în domeniul public al comunei Albești, județul Botoșani a terenului situat în PC 731 din intravilanul localității Albești, comuna Albești, județul Botoșani",
+"short": "HCL Albești nr. 102/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-21",
+"latest": "2023-02-21",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/91050",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-103-2022",
+"path": "local/botosani/albesti/2022/103",
+"kind": "local",
+"year": "2022",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 103/2022",
+"short": "HCL Albești nr. 103/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-21",
+"latest": "2023-02-21",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/91051",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--albesti-104-2022",
+"path": "local/botosani/albesti/2022/104",
+"kind": "local",
+"year": "2022",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 104/2022 privind transmiterea în folosință gratuită în favoarea Autorității pentru Administrarea Sistemului Național Antigrindină și de Creștere a Precipitațiilor a suprafeței de 2400 mp situată în extravilanul satului Buimaceni, comuna Albești",
+"short": "HCL Albești nr. 104/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-21",
+"latest": "2023-02-21",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/91052",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-105-2022",
+"path": "local/botosani/albesti/2022/105",
+"kind": "local",
+"year": "2022",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 105/2022 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „MODERNIZARE DRUMURI DE INTERES LOCAL ÎN COMUNA ALBEȘTI, JUDEȚUL BOTOȘANI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezetând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Albești nr. 105/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-21",
+"latest": "2023-02-21",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/91053",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-106-2022",
+"path": "local/botosani/albesti/2022/106",
+"kind": "local",
+"year": "2022",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 106/2022 privind organizarea „Pomului de Crăciun” pentru copiii din învățământul preșcolar, primar și gimnazial din comuna Albești, județul Botoșani",
+"short": "HCL Albești nr. 106/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-21",
+"latest": "2023-02-21",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/91054",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-107-2022",
+"path": "local/botosani/albesti/2022/107",
+"kind": "local",
+"year": "2022",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 107/2022 privind aprobarea proiectului și a cheltuielilor legate de proiectul ”Centru Comunitar Integrat la nivelul comunei Albești, județul Botoșani” prin Planul Național de Redresare și Reziliență-Pilonul V: Sănătate și reziliență instituțională, Componenta 12-Sănătate, Investiția: 1. Dezvoltarea infrastructurii medicale prespitalicești, Investiția specifică II.4: Centre Comunitare Integrate",
+"short": "HCL Albești nr. 107/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-21",
+"latest": "2023-02-21",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/91055",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--albesti-108-2022",
 "path": "local/botosani/albesti/2022/108",
 "kind": "local",
@@ -91,6 +357,50 @@
 }
 },
 {
+"slug": "hcl-botosani--albesti-109-2022",
+"path": "local/botosani/albesti/2022/109",
+"kind": "local",
+"year": "2022",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 109/2022 privind aprobarea rectificării bugetului local pe anul 2022",
+"short": "HCL Albești nr. 109/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-21",
+"latest": "2023-02-21",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/91060",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-110-2022",
+"path": "local/botosani/albesti/2022/110",
+"kind": "local",
+"year": "2022",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 110/2022 privind revocarea Hotărârii Consiliului Local nr.102 din 24.11.2022 privind inventarierea în domeniul public al comunei Albești, județul Botoșani a terenului situat în PC 731 din intravilanul localității Albești, comuna Albești, județul Botoșani",
+"short": "HCL Albești nr. 110/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-21",
+"latest": "2023-02-21",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/91061",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--albesti-111-2022",
 "path": "local/botosani/albesti/2022/111",
 "kind": "local",
@@ -110,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Albești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--albesti-112-2022",
+"path": "local/botosani/albesti/2022/112",
+"kind": "local",
+"year": "2022",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 112/2022 privind aprobarea rectificării bugetului local pe anul 2022",
+"short": "HCL Albești nr. 112/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-06",
+"latest": "2023-03-06",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/93578",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

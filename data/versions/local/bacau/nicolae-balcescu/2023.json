@@ -3,6 +3,36 @@
  "shard": "local/bacau/nicolae-balcescu/2023",
  "acts": [
   {
+   "slug": "hcl-bacau--nicolae-balcescu-146-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/146",
+   "short": "HCL Nicolae Bălcescu nr. 146/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 146/2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130738",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-147-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/147",
+   "short": "HCL Nicolae Bălcescu nr. 147/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 147/2023 privind aprobarea modificării Organigramei și a Statului de funcții al Comunei Nicolae Bălcescu, județul Bacău, începând cu luna noiembrie 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130739",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130739",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--nicolae-balcescu-148-2023",
    "path": "local/bacau/nicolae-balcescu/2023/148",
    "short": "HCL Nicolae Bălcescu nr. 148/2023",
@@ -58,6 +88,21 @@
      "from": "2024-01-08",
      "units": 1,
      "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-152-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/152",
+   "short": "HCL Nicolae Bălcescu nr. 152/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 152/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/131106",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/131106",
      "sha256": null
     }
    ]
@@ -138,6 +183,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--nicolae-balcescu-158-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/158",
+   "short": "HCL Nicolae Bălcescu nr. 158/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 158/2023 privind casarea unor mijloace fixe",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/136549",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/136549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-159-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/159",
+   "short": "HCL Nicolae Bălcescu nr. 159/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 159/2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/136550",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/136550",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--nicolae-balcescu-160-2023",
    "path": "local/bacau/nicolae-balcescu/2023/160",
    "short": "HCL Nicolae Bălcescu nr. 160/2023",
@@ -168,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--nicolae-balcescu-162-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/162",
+   "short": "HCL Nicolae Bălcescu nr. 162/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 162/2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/136560",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/136560",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--nicolae-balcescu-163-2023",
    "path": "local/bacau/nicolae-balcescu/2023/163",
    "short": "HCL Nicolae Bălcescu nr. 163/2023",
@@ -193,6 +283,21 @@
      "from": "2024-01-10",
      "units": 1,
      "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/136562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-165-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/165",
+   "short": "HCL Nicolae Bălcescu nr. 165/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 165/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/136563",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/136563",
      "sha256": null
     }
    ]

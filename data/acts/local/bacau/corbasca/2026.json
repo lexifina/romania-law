@@ -3,6 +3,50 @@
 "shard": "local/bacau/corbasca/2026",
 "acts": [
 {
+"slug": "hcl-bacau--corbasca-71-2026",
+"path": "local/bacau/corbasca/2026/71",
+"kind": "local",
+"year": "2026",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 71/2026 privind nominalizarea reprezentantului Consiliului Local Corbasca în comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor vacante de director și director adjunct din unitățile de învățământ preuniversitar de stat",
+"short": "HCL Corbasca nr. 71/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-02",
+"latest": "2026-10-02",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/289245",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-72-2026",
+"path": "local/bacau/corbasca/2026/72",
+"kind": "local",
+"year": "2026",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 72/2026 privind aprobarea Regulamentului privind gestionarea deșeurilor din construcții și demolări în localitatea Corbasca,judetul Bacau",
+"short": "HCL Corbasca nr. 72/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-02",
+"latest": "2026-10-02",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/289246",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-73-2026",
 "path": "local/bacau/corbasca/2026/73",
 "kind": "local",
@@ -44,6 +88,28 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-75-2026",
+"path": "local/bacau/corbasca/2026/75",
+"kind": "local",
+"year": "2026",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 75/2026 privind ALEGEREA “PRESEDINTELUI DE SEDINTA” AL CONSILIULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU,PENTRU TRIMESTRUL -IV-2026",
+"short": "HCL Corbasca nr. 75/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-02",
+"latest": "2026-11-02",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/292308",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -180,6 +246,28 @@
 }
 },
 {
+"slug": "hcl-bacau--corbasca-82-2026",
+"path": "local/bacau/corbasca/2026/82",
+"kind": "local",
+"year": "2026",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 82/2026 privind aprobarea modificarii Hotararii Consiliului Local Corbasca nr.42/21.05.2026 privind aprobarea implementartii proiectului si a cheltuielilor legate de proiectul \"Dotare cu unitate mobila destinata furnizarii de servicii de asistenta medicala stomatologica in comuna Corbasca, judetul Bacau\"",
+"short": "HCL Corbasca nr. 82/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-02",
+"latest": "2026-11-02",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/292315",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-83-2026",
 "path": "local/bacau/corbasca/2026/83",
 "kind": "local",
@@ -199,6 +287,28 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-84-2026",
+"path": "local/bacau/corbasca/2026/84",
+"kind": "local",
+"year": "2026",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 84/2026 privind declararea unor imobile ca bunuri de uz și de interes public local și inscrierea definitiva in Sistemul Integrat de Cadastru si Carate Funciara a unor imobile din domeniul public al comunei Corbasdca,judetul Bacau",
+"short": "HCL Corbasca nr. 84/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-02",
+"latest": "2026-11-02",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/294451",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -309,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-90-2026",
+"path": "local/bacau/corbasca/2026/90",
+"kind": "local",
+"year": "2026",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 90/2026 privind atestarea apartenenței la domeniul public al Comunei Corbasca, județul Bacău, a obiectivului de investiții/construcției „Pod din beton armat peste canalul Fulgeriș” (C1), situat în localitatea Marvila, precum și înscrierea acestuia în evidențele de cadastru și carte funciară Consiliul Local al Comunei Corbasca, județul Bacău",
+"short": "HCL Corbasca nr. 90/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-02",
+"latest": "2026-11-02",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/294457",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

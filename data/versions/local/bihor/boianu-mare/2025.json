@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/boianu-mare/2025",
+ "acts": [
+  {
+   "slug": "hcl-bihor--boianu-mare-36-2025",
+   "path": "local/bihor/boianu-mare/2025/36",
+   "short": "HCL Boianu Mare nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 36/2025",
+   "url": "https://www.comuna-boianumare.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2025/10/Boianu-Mare-HCL-nr.-36-din-25.09.2025-min.pdf",
+     "sha256": "355fcdebc478b04ba42589cb2248540ffed250aaf75ec14e9f55660029f46920"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-37-2025",
+   "path": "local/bihor/boianu-mare/2025/37",
+   "short": "HCL Boianu Mare nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 37/2025",
+   "url": "https://www.comuna-boianumare.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2026/01/Boianu-Mare-HCL-nr.-37-din-16.12.2025.pdf",
+     "sha256": "2f31034248a9867f9cba57fce6e7b75193b8760b1271b9fb09a36c64f67be511"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-38-2025",
+   "path": "local/bihor/boianu-mare/2025/38",
+   "short": "HCL Boianu Mare nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 38/2025",
+   "url": "https://www.comuna-boianumare.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2026/01/Boianu-Mare-HCL-nr.-38-din-16.12.2025.pdf",
+     "sha256": "3d2552bbc91d6785c4c11d57c01090c7d94bc2d35c09b6da76a5df9378782392"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-39-2025",
+   "path": "local/bihor/boianu-mare/2025/39",
+   "short": "HCL Boianu Mare nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 39/2025",
+   "url": "https://www.comuna-boianumare.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2026/01/Boianu-Mare-HCL-nr.-39-din-16.12.2025.pdf",
+     "sha256": "d7c4d2b1a38db2fb930a4992c767c5fe44731b0101c459f1cd06d873c5bbd59d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-40-2025",
+   "path": "local/bihor/boianu-mare/2025/40",
+   "short": "HCL Boianu Mare nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 40/2025",
+   "url": "https://www.comuna-boianumare.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2026/01/Boianu-Mare-HCL-nr.-40-din-16.12.2025.pdf",
+     "sha256": "aa15ec0d59deafe31c97cf9c9ee10b19fac5589e6633669160dbd232f0db69b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-41-2025",
+   "path": "local/bihor/boianu-mare/2025/41",
+   "short": "HCL Boianu Mare nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 41/2025",
+   "url": "https://www.comuna-boianumare.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2026/01/Boianu-Mare-HCL-nr.-41-din-16.12.2025.pdf",
+     "sha256": "82e995cf5c0c188ec2b51a79b9b3c32ecf5e82ded3bdbb1e448622cca825cdb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-42-2025",
+   "path": "local/bihor/boianu-mare/2025/42",
+   "short": "HCL Boianu Mare nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 42/2025",
+   "url": "https://www.comuna-boianumare.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2026/01/boianu-Mare-HCL-nr.-42-din-16.12.2025.pdf",
+     "sha256": "212f9a1808b7018ee80aed2391e893f968a54986c7d4796f440db7d158c6448c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-43-2025",
+   "path": "local/bihor/boianu-mare/2025/43",
+   "short": "HCL Boianu Mare nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 43/2025",
+   "url": "https://www.comuna-boianumare.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2026/01/Boianu-Mare-HCL-nr.-43-din-16.12.2025.pdf",
+     "sha256": "803681be135525c430b590120e072223b9e540bc826940c72ddb5fdcd6a72ad5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-44-2025",
+   "path": "local/bihor/boianu-mare/2025/44",
+   "short": "HCL Boianu Mare nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 44/2025",
+   "url": "https://www.comuna-boianumare.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2026/01/Boianu-Mare-HCL-nr.-44-din-29.12.2025.pdf",
+     "sha256": "c725585d9a7b002b43ce4df3236cae3bf43b03b4d9536218261ecd023ddf448c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-45-2025",
+   "path": "local/bihor/boianu-mare/2025/45",
+   "short": "HCL Boianu Mare nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 45/2025",
+   "url": "https://www.comuna-boianumare.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2026/01/Boianu-Mare-HCL-nr.-45-din-29.12.2025.pdf",
+     "sha256": "626900c92351b7b6c257a960fcaa679f5afe024bdaef94fb6e13874218fc76e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-46-2025",
+   "path": "local/bihor/boianu-mare/2025/46",
+   "short": "HCL Boianu Mare nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 46/2025",
+   "url": "https://www.comuna-boianumare.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2026/01/Boianu-Mare-HCL-nr.-46-din-29.12.2025.pdf",
+     "sha256": "8ba5400e40e8c498aa90674969283dd09f345c49725a536c94159ec373fef36f"
+    }
+   ]
+  }
+ ]
+}

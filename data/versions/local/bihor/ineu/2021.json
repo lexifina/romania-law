@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--ineu-64-2021",
+   "path": "local/bihor/ineu/2021/64",
+   "short": "HCL Ineu nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 64/2021 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local Ineu de azi 20.09.2021",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/53596",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/53596",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--ineu-65-2021",
    "path": "local/bihor/ineu/2021/65",
    "short": "HCL Ineu nr. 65/2021",
@@ -33,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--ineu-66-2021",
+   "path": "local/bihor/ineu/2021/66",
+   "short": "HCL Ineu nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 66/2021 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local Ineu de azi 19.10.2021",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/53609",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/53609",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--ineu-67-2021",
    "path": "local/bihor/ineu/2021/67",
    "short": "HCL Ineu nr. 67/2021",
@@ -43,6 +73,216 @@
      "from": "2021-10-19",
      "units": 1,
      "source_url": "https://emol.ro/ineu-bh/registru-hcl/53610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-68-2021",
+   "path": "local/bihor/ineu/2021/68",
+   "short": "HCL Ineu nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 68/2021 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Ineu de azi 29.10.2021",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/53611",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/53611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-69-2021",
+   "path": "local/bihor/ineu/2021/69",
+   "short": "HCL Ineu nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 69/2021 privind aprobarea Bugetului local rectificat pe anul 2021",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/53612",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/53612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-70-2021",
+   "path": "local/bihor/ineu/2021/70",
+   "short": "HCL Ineu nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 70/2021 privind aprobarea tarifului suplimentar diferențiat pentru serviciile de canalizare-implementarea principiului ''poluatorul plătește''și a normelor de aplicare",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/53613",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/53613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-71-2021",
+   "path": "local/bihor/ineu/2021/71",
+   "short": "HCL Ineu nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 71/2021 privind darea în folosință gratuită a pachetului cuprinzând etilotest profesional și accesorii",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/53614",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/53614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-72-2021",
+   "path": "local/bihor/ineu/2021/72",
+   "short": "HCL Ineu nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 72/2021 privind numirea reprezentantului în vederea constituirii Comisiei de evaluare a probei de interviu pentru Concursul de ocupare a funcțiilor de director adjunct din unitățile de învățământ preuniversitar de stat, respectiv pentru Școala Gimnazială ''Puiu Sever'' comuna Ineu",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/53615",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/53615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-73-2021",
+   "path": "local/bihor/ineu/2021/73",
+   "short": "HCL Ineu nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 73/2021 privind alegerea președintelui de ședință pentru următoarele trei luni",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/53635",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/53635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-74-2021",
+   "path": "local/bihor/ineu/2021/74",
+   "short": "HCL Ineu nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 74/2021 privind aprobarea procesului verbal de ședință",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/53636",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/53636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-75-2021",
+   "path": "local/bihor/ineu/2021/75",
+   "short": "HCL Ineu nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 75/2021 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Ineu de azi 15.12.2021",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/53637",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/53637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-76-2021",
+   "path": "local/bihor/ineu/2021/76",
+   "short": "HCL Ineu nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 76/2021 privind aprobarea Bugetului local rectificat pe anul 2021",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/53638",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/53638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-77-2021",
+   "path": "local/bihor/ineu/2021/77",
+   "short": "HCL Ineu nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 77/2021 privind aprobarea Planului de acțiuni și lucrări de interes local, pe anul 2022, ce vor fi executate de către beneficiarii de ajutor social, conform Legii nr. 416/2001, cu modificările și completările ulterioare și de către persoanele care au de prestat muncă în folosul comunității conform Legii nr. 253/2013 cu modificările și completările ulterioare",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/53639",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/53639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-78-2021",
+   "path": "local/bihor/ineu/2021/78",
+   "short": "HCL Ineu nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 78/2021 privind actualizarea salariilor de bază a personalului din cadrul aparatului de specialitate al primarului comunei Ineu, cu începere de la 01.01.2022, prin aplicarea prevederilor Hotărârii Guvernului nr. 1071/2021 pentru stabilirea salariului minim brut pe țară garantat în plată, la coeficienții de ierarhizare aprobați prin HCL nr. 48/2017",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/53640",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/53640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-79-2021",
+   "path": "local/bihor/ineu/2021/79",
+   "short": "HCL Ineu nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 79/2021 privind aprobarea Statutului Unității Administrativ Teritoriale Comuna Ineu-Județul Bihor",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/53641",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/53641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-80-2021",
+   "path": "local/bihor/ineu/2021/80",
+   "short": "HCL Ineu nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 80/2021 privind aprobarea Amenajamentului pastoral pentru pajiștile aflate pe teritoriul comunei Ineu, județul Bihor",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/53642",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/53642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-81-2021",
+   "path": "local/bihor/ineu/2021/81",
+   "short": "HCL Ineu nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 81/2021 privind concesionarea unui teren aflat în proprietatea Comunei Ineu pentru extinderea construcției în baza Legii 50/1991",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/53643",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/53643",
      "sha256": null
     }
    ]

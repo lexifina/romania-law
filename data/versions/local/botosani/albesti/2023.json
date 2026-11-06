@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--albesti-102-2023",
+   "path": "local/botosani/albesti/2023/102",
+   "short": "HCL Albești nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 102/2023 privind decontarea /plata costurilor de transport la si de la locul de munca a cadrelor didactice navetiste din unitatile de invatamant din comuna Albesti pentru lunile septembrie si octombrie 2023",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/131578",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/131578",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--albesti-103-2023",
    "path": "local/botosani/albesti/2023/103",
    "short": "HCL Albești nr. 103/2023",
@@ -103,6 +118,51 @@
      "from": "2023-11-15",
      "units": 1,
      "source_url": "https://emol.ro/albesti-bt/registru-hcl/127294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-88-2023",
+   "path": "local/botosani/albesti/2023/88",
+   "short": "HCL Albești nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 88/2023 privind desemnarea reprezentantilor Consiliului Local al comunei Albesti in Consiliul de Administratie al Scolii Gimnaziale nr. 1 Albesti",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/127295",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/127295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-89-2023",
+   "path": "local/botosani/albesti/2023/89",
+   "short": "HCL Albești nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 89/2023 privind desemnarea reprezentantului Consiliului Local al comunei Albesti in Comisia de Evaluare si Asigurare a Calitatii din cadrul Scolii Gimnaziale nr . 1 Albesti",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/127296",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/127296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-90-2023",
+   "path": "local/botosani/albesti/2023/90",
+   "short": "HCL Albești nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 90/2023 privind privind desemnarea a doi reprezentanti ai Consiliului local al comunei Albesti in Grupul de actiune antibullying al Scolii Gimnaziale nr. 1Albesti, pentru anul scolar 2023 – 2024",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/127297",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/127297",
      "sha256": null
     }
    ]

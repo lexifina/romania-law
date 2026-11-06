@@ -16,6 +16,21 @@
      "sha256": "d4d66be2b95f0871196f6852df5c03c615bd5bcbaa6b5d448f8553fead6f5ae3"
     }
    ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-64-2022",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2022/64",
+   "short": "HCL Galații Bistriței nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 64/2022 privind unele măsuri pentru stimularea încasării impozitelor, taxelor, chiriilor și redevențelor datorate bugetului local al comunei Galații-Bistriței de către persoanele fizice, în anul 2024",
+   "url": "http://galatiibistritei.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/hcl/uat_galatii_hcl.nr.64_20.12.2022.pdf",
+     "sha256": "cf69bc1f132378bfe618a446ff842a15df4014c4550574af62130ee62cb0f4fc"
+    }
+   ]
   }
  ]
 }

@@ -3,6 +3,28 @@
 "shard": "local/botosani/blandesti/2024",
 "acts": [
 {
+"slug": "hcl-botosani--blandesti-2-2024",
+"path": "local/botosani/blandesti/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blândești nr. 2/2024",
+"short": "HCL Blândești nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-12",
+"latest": "2024-01-12",
+"portal": "https://www.comunablandesti.ro/hotarari.php?pagina=7",
+"council": "botosani/blandesti",
+"council_name": "Consiliul Local al Comunei Blândești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--blandesti-24-2024",
 "path": "local/botosani/blandesti/2024/24",
 "kind": "local",
@@ -25,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-botosani--blandesti-28-2024",
+"path": "local/botosani/blandesti/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blândești nr. 28/2024 Nr. 28 din 22.04.2024 privind ȋnființarea unui centru conform prevederilor OUG nr. 5/2015 pentru locuitorii comunei Blândești județul Botoșani pentru depozitarea provizorie a deșeurilor de echipamente electrice și electronice fără plată",
+"short": "HCL Blândești nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-22",
+"latest": "2024-04-22",
+"portal": "https://www.comunablandesti.ro/hotarari.php?pagina=6",
+"council": "botosani/blandesti",
+"council_name": "Consiliul Local al Comunei Blândești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--blandesti-29-2024",
 "path": "local/botosani/blandesti/2024/29",
 "kind": "local",
@@ -44,6 +88,51 @@
 "council_name": "Consiliul Local al Comunei Blândești",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-botosani--blandesti-39-2024",
+"path": "local/botosani/blandesti/2024/39",
+"kind": "local",
+"year": "2024",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blândești nr. 39/2024 Nr. 39 din 20.06.2024 Privind stabilirea salariilor de bază a funcționarilor publici și personalului contractual al Primăriei comunei Blândești conform prevederilor art. 11 a Legii – cadru nr. 153/2017",
+"short": "HCL Blândești nr. 39/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-20",
+"latest": "2024-06-20",
+"portal": "https://www.comunablandesti.ro/hotarari.php?pagina=5",
+"council": "botosani/blandesti",
+"council_name": "Consiliul Local al Comunei Blândești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--blandesti-49-2024",
+"path": "local/botosani/blandesti/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blândești nr. 49/2024",
+"short": "HCL Blândești nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://www.comunablandesti.ro/hotarari.php?pagina=5",
+"council": "botosani/blandesti",
+"council_name": "Consiliul Local al Comunei Blândești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

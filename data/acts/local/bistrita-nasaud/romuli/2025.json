@@ -157,6 +157,50 @@
 }
 },
 {
+"slug": "hcl-bistrita-nasaud--romuli-56-2025",
+"path": "local/bistrita-nasaud/romuli/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 56/2025 privind constituirea în cadrul Autorității Publice Tutelare, Consiliul Local Romuli, a Comisiei de desemnare a membrilor în Consiliul de Administrație a Regiei Autonome Ocolul Silvic Comunal Romuli, în conformitate cu OUG 109/2011",
+"short": "HCL Romuli nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/237648",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--romuli-57-2025",
+"path": "local/bistrita-nasaud/romuli/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 57/2025 privind desemnarea unui șef de ocol interimar la Regia Autonomă Ocolul Silvic Comunal Romuli R.A",
+"short": "HCL Romuli nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/237650",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--romuli-58-2025",
 "path": "local/bistrita-nasaud/romuli/2025/58",
 "kind": "local",

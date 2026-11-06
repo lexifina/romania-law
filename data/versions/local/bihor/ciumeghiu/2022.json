@@ -213,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--ciumeghiu-94-2022",
+   "path": "local/bihor/ciumeghiu/2022/94",
+   "short": "HCL Ciumeghiu nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 94/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/82126",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/82126",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--ciumeghiu-95-2022",
    "path": "local/bihor/ciumeghiu/2022/95",
    "short": "HCL Ciumeghiu nr. 95/2022",

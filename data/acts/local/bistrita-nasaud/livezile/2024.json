@@ -3,6 +3,275 @@
 "shard": "local/bistrita-nasaud/livezile/2024",
 "acts": [
 {
+"slug": "hcl-bistrita-nasaud--livezile-61-2024",
+"path": "local/bistrita-nasaud/livezile/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 61/2024 privind desemnarea componenței comisiilor de specialitate ale Consiliului local al comunei Livezile, județul Bistrița Năsăud, aferente mandatului 2024-2028",
+"short": "HCL Livezile nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/174266",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-62-2024",
+"path": "local/bistrita-nasaud/livezile/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 62/2024 privind alegerea viceprimarului comunei Livezile, aferent mandatului 2024-2028",
+"short": "HCL Livezile nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/174267",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-63-2024",
+"path": "local/bistrita-nasaud/livezile/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 63/2024",
+"short": "HCL Livezile nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/174343",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-64-2024",
+"path": "local/bistrita-nasaud/livezile/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 64/2024",
+"short": "HCL Livezile nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/174344",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-65-2024",
+"path": "local/bistrita-nasaud/livezile/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 65/2024",
+"short": "HCL Livezile nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/174345",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-66-2024",
+"path": "local/bistrita-nasaud/livezile/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 66/2024 privind desemnarea reprezentanților Consiliului local al comunei Livezile în Consiliul de administrație al Școlii Gimnaziale Livezile, pentru anul școlar 2024-2025",
+"short": "HCL Livezile nr. 66/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/174346",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-67-2024",
+"path": "local/bistrita-nasaud/livezile/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 67/2024 privind atestarea apartenenței unor imobile, situate în intravilanul localității Dumbrava, comuna Livezile, județul Bistrița Năsăud, și extravilanul comunei Livezile, la domeniul public, respectiv la domeniul privat al comunei Livezile, în vederea înscrierii în Cartea Funciară",
+"short": "HCL Livezile nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/174347",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-68-2024",
+"path": "local/bistrita-nasaud/livezile/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 68/2024 privind atestarea apartenenței la proprietatea privată a comunei Livezile, județul Bistrița - Năsăud, a imobilului - teren în suprafață de 382 mp, reprezentând cota de 382/1500 a imobilului teren identificat în Cartea Funciară nr. 28422 Livezile cad 28422, situat în localitatea Dorolea,FN , comuna Livezile, județul Bistrița - Năsăud",
+"short": "HCL Livezile nr. 68/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/174348",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-69-2024",
+"path": "local/bistrita-nasaud/livezile/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 69/2024 privind vânzarea imobilului -teren în suprafață de 153 mp, categoria de folosință arabil, identificat în Cartea Funciară 31668 Livezile nr. cad. 31668, din localitatea Livezile, FN,comuna Livezile, județul Bistrița - Năsăud, aflat în proprietate privată a comunei Livezile, județul Bistrița - Năsăud",
+"short": "HCL Livezile nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/179558",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-70-2024",
+"path": "local/bistrita-nasaud/livezile/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 70/2024",
+"short": "HCL Livezile nr. 70/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/179559",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-71-2024",
+"path": "local/bistrita-nasaud/livezile/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 71/2024 privind aprobarea celei de-a şasea rectificări a bugetului comunei Livezile, pe anul 2024",
+"short": "HCL Livezile nr. 71/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/179560",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-72-2024",
+"path": "local/bistrita-nasaud/livezile/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 72/2024",
+"short": "HCL Livezile nr. 72/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/179561",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--livezile-73-2024",
 "path": "local/bistrita-nasaud/livezile/2024/73",
 "kind": "local",
@@ -22,6 +291,50 @@
 "council_name": "Consiliul Local al Comunei Livezile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-74-2024",
+"path": "local/bistrita-nasaud/livezile/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 74/2024 privind aprobarea organizării și funcționarii rețelei școlare, la nivelul comunei Livezile, începând cu anul școlar 2025-2026",
+"short": "HCL Livezile nr. 74/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/183892",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-75-2024",
+"path": "local/bistrita-nasaud/livezile/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 75/2024 privind aprobarea volumului de masă lemnoasă care se va recolta anual, a modului de valorificare, cantitatea și destinația materialelor lemnoase care pot fi vândute direct, criteriile, volumele și prioritățile privind valorificarea masei lemnoase corespunzator fondului forestier proprietate publică a comunei Livezile și aferent anului 2025, precum și tarifele maximale practicate la lucrările de exploatare a masei lemnoase prin prestări servicii și a taxei de peiaj",
+"short": "HCL Livezile nr. 75/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/183893",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -67,6 +380,72 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-78-2024",
+"path": "local/bistrita-nasaud/livezile/2024/78",
+"kind": "local",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 78/2024 privind aprobarea celei de-a şaptea rectificări a bugetului comunei Livezile, pe anul 2024",
+"short": "HCL Livezile nr. 78/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/183896",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-79-2024",
+"path": "local/bistrita-nasaud/livezile/2024/79",
+"kind": "local",
+"year": "2024",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 79/2024 privind acordul referitor la dezmembrarea imobilului – teren, categorie de folosință pășune, situat în extravilanul comunei Livezile, județul Bistrița- Năsăud, rid La fagul cel mare, aparținând domeniului public al comunei Livezile, identificat în Cartea Funciară nr. 28600 Livezile cad 28600",
+"short": "HCL Livezile nr. 79/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/183897",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-80-2024",
+"path": "local/bistrita-nasaud/livezile/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 80/2024 privind aprobarea modificării organigramei și statului de funcții ale aparatului de specialitate al Primarului comunei Livezile și ale serviciilor aflate sub coordonarea Consiliului local al comunei Livezile, începând cu 30 decembrie 2024",
+"short": "HCL Livezile nr. 80/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-17",
+"latest": "2025-01-17",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/185214",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

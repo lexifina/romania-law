@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-bacau--rachitoasa-31-2020",
+"path": "local/bacau/rachitoasa/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 31/2020 privind aprobarea Programului de măsuri în vederea efectuării lucrarilor de reparații, reabilitare și igienizare a localurilor unitaților școlare din comuna Răchitoasa, în vederea începerii noului an şcolar, în contextul limitării şi diminuării răspândirii coronavirusului SARS – COV2",
+"short": "HCL Răchitoasa nr. 31/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-10",
+"latest": "2020-09-10",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/16681",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--rachitoasa-32-2020",
 "path": "local/bacau/rachitoasa/2020/32",
 "kind": "local",
@@ -135,6 +157,72 @@
 }
 },
 {
+"slug": "hcl-bacau--rachitoasa-34-2020",
+"path": "local/bacau/rachitoasa/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 34/2020 privind alegerea președintelui de ședință",
+"short": "HCL Răchitoasa nr. 34/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-03",
+"latest": "2020-11-03",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/16687",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--rachitoasa-35-2020",
+"path": "local/bacau/rachitoasa/2020/35",
+"kind": "local",
+"year": "2020",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 35/2020 privind alegerea viceprimarului comunei Răchitoasa, județul Bacău",
+"short": "HCL Răchitoasa nr. 35/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-03",
+"latest": "2020-11-03",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/16688",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--rachitoasa-36-2020",
+"path": "local/bacau/rachitoasa/2020/36",
+"kind": "local",
+"year": "2020",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 36/2020 privind organizarea comisiilor de specialitate ale consiliului local al comunei Răchitoasa, judeţul Bacău",
+"short": "HCL Răchitoasa nr. 36/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-03",
+"latest": "2020-11-03",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/16689",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--rachitoasa-37-2020",
 "path": "local/bacau/rachitoasa/2020/37",
 "kind": "local",
@@ -176,6 +264,28 @@
 "council_name": "Consiliul Local al Comunei Răchitoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--rachitoasa-39-2020",
+"path": "local/bacau/rachitoasa/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 39/2020 privind desemnarea reprezentanților Consiliului Local al comunei Răchitoasa, ca membrii în Consiliul de administrație al Licelului Tehnologic Răchitoasa, pentru anul școlar 2020-2021",
+"short": "HCL Răchitoasa nr. 39/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-12",
+"latest": "2020-11-12",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/16692",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -242,6 +352,28 @@
 "council_name": "Consiliul Local al Comunei Răchitoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--rachitoasa-43-2020",
+"path": "local/bacau/rachitoasa/2020/43",
+"kind": "local",
+"year": "2020",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 43/2020 privind transmiterea cu titlu gratuit în patrimoniul Liceului Tehnologic Răchitoasa, a unui autobuz marca MERCEDEZ-BENZ 0345 CONECTO, aparținând domeniului privat al Comunei Răchitoasa",
+"short": "HCL Răchitoasa nr. 43/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/16696",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

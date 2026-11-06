@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-bacau--motoseni-39-2026",
+"path": "local/bacau/motoseni/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 39/2026 privind aprobarea documentației de atribuire a contractului de delegare a gestiunii activității de colectare separată și transport separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat în 65 U.A.T.-uri din județul Bacău, prin procedura de negociere fără publicarea prealabilă a unui anunț de concesionare, până la finalizarea procedurii de atribuire a noului Contract pentru 66 de UAT-uri",
+"short": "HCL Motoșeni nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/289911",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--motoseni-40-2026",
 "path": "local/bacau/motoseni/2026/40",
 "kind": "local",
@@ -224,6 +246,74 @@
 }
 },
 {
+"slug": "hcl-bacau--motoseni-48-2026",
+"path": "local/bacau/motoseni/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 48/2026",
+"short": "HCL Motoșeni nr. 48/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/297029",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-49-2026",
+"path": "local/bacau/motoseni/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 49/2026 privind aprobarea pentru decontarea cheltuielilor de naveta la şi de la locul de muncă a cadrelor didactice şi a personalului didactic auxiliar din învăţământul preuniversitar de stat pentru lunile MAI, IUNIE, IULIE, AUGUST 2026",
+"short": "HCL Motoșeni nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/297030",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-50-2026",
+"path": "local/bacau/motoseni/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 50/2026",
+"short": "HCL Motoșeni nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/297031",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--motoseni-51-2026",
 "path": "local/bacau/motoseni/2026/51",
 "kind": "local",
@@ -288,6 +378,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-54-2026",
+"path": "local/bacau/motoseni/2026/54",
+"kind": "local",
+"year": "2026",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 54/2026 privind aprobarea pentru decontarea cheltuielilor de naveta la şi de la locul de muncă a cadrelor didactice şi a personalului didactic auxiliar din învăţământul preuniversitar de stat pentru luna SEPTEMBRIE 2026",
+"short": "HCL Motoșeni nr. 54/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/297782",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

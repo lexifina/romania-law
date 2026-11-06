@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/bistrita-nasaud/teaca/2026",
+"acts": [
+{
+"slug": "hcl-bistrita-nasaud--teaca-242-2026",
+"path": "local/bistrita-nasaud/teaca/2026/242",
+"kind": "local",
+"year": "2026",
+"number": "242",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Teaca nr. 242/2026",
+"short": "HCL Teaca nr. 242/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-16",
+"latest": "2026-01-16",
+"portal": "https://primariateaca.ro/",
+"council": "bistrita-nasaud/teaca",
+"council_name": "Consiliul Local al Comunei Teaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--teaca-358-2026",
+"path": "local/bistrita-nasaud/teaca/2026/358",
+"kind": "local",
+"year": "2026",
+"number": "358",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Teaca nr. 358/2026 pentru promovare din 22.01.2026. (detalii în documentul atașat)",
+"short": "HCL Teaca nr. 358/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://primariateaca.ro/",
+"council": "bistrita-nasaud/teaca",
+"council_name": "Consiliul Local al Comunei Teaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--teaca-363-2026",
+"path": "local/bistrita-nasaud/teaca/2026/363",
+"kind": "local",
+"year": "2026",
+"number": "363",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Teaca nr. 363/2026",
+"short": "HCL Teaca nr. 363/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://primariateaca.ro/",
+"council": "bistrita-nasaud/teaca",
+"council_name": "Consiliul Local al Comunei Teaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--teaca-365-2026",
+"path": "local/bistrita-nasaud/teaca/2026/365",
+"kind": "local",
+"year": "2026",
+"number": "365",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Teaca nr. 365/2026",
+"short": "HCL Teaca nr. 365/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://primariateaca.ro/",
+"council": "bistrita-nasaud/teaca",
+"council_name": "Consiliul Local al Comunei Teaca",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

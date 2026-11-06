@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/viisoara/2023",
+ "acts": [
+  {
+   "slug": "hcl-bihor--viisoara-58-2023",
+   "path": "local/bihor/viisoara/2023/58",
+   "short": "HCL Viișoara nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 58/2023 Modificarea si completarea a HCL nr 34/22.05.2023, privind implementarea proiectului „Achiziționare utilaje pentru dotarea unității administrativ-teritoariale Comuna Viișoara, județul Bihor,în vederea accesării Masurii 1/6B ,, Sprijin pentru dezvoltarea echilibrata a comunitatii GAL Bihor",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/121531",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/121531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-59-2023",
+   "path": "local/bihor/viisoara/2023/59",
+   "short": "HCL Viișoara nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 59/2023 privind alegere presedinte de sedinta",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/128411",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/128411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-60-2023",
+   "path": "local/bihor/viisoara/2023/60",
+   "short": "HCL Viișoara nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 60/2023 privind aprobarea Procesului Verbal din sedinta anterioara",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/128412",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/128412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-61-2023",
+   "path": "local/bihor/viisoara/2023/61",
+   "short": "HCL Viișoara nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 61/2023 privind aprobarea ordini de zi a sedintei ordinare al Consiliului Local Viisoara din data de 03.11.2023",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/128413",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/128413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-62-2023",
+   "path": "local/bihor/viisoara/2023/62",
+   "short": "HCL Viișoara nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 62/2023 privind validarea Dispozitiei nr.94/30.10.2023, emisa de primarul comunei Viisoara , privind rectificarea bugetului local",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/128414",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/128414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-63-2023",
+   "path": "local/bihor/viisoara/2023/63",
+   "short": "HCL Viișoara nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 63/2023 privind aprobarea Bugetului Local Nr.6 al Comunei Viisoara pe anul 2023",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/128415",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/128415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-64-2023",
+   "path": "local/bihor/viisoara/2023/64",
+   "short": "HCL Viișoara nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 64/2023 Privind aprobarea raportului de analiza a stadiului de inscriere a datelor in registrul agricol pentru trimestrul II al anului 2023 si stabilirea masurilor pentru eficientizarea acestei activitati in anul 2023",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/128416",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/128416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-65-2023",
+   "path": "local/bihor/viisoara/2023/65",
+   "short": "HCL Viișoara nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 65/2023 privind desemnarea reprezentantului din Consiliului Local al comunei Viisoara in Consiliul de Administratie al Scolii Gimnaziale nr.1 Viisoara pentru anul scolar 2023-2024",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/128417",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/128417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-66-2023",
+   "path": "local/bihor/viisoara/2023/66",
+   "short": "HCL Viișoara nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 66/2023 privind privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei VIISOARA , judeţul Bihor, începând cu luna noiembrie 2023",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/128418",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/128418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-67-2023",
+   "path": "local/bihor/viisoara/2023/67",
+   "short": "HCL Viișoara nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 67/2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Viisoara judeţul Bihor, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/128419",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/128419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-68-2023",
+   "path": "local/bihor/viisoara/2023/68",
+   "short": "HCL Viișoara nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 68/2023 privind aprobarea Procesului Verbal din sedinta anterioara",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/132429",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/132429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-69-2023",
+   "path": "local/bihor/viisoara/2023/69",
+   "short": "HCL Viișoara nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 69/2023 privind aprobarea ordini de zi a sedintei ordinare al Consiliului Local Viisoara din data 05.12.2023",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/132430",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/132430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-70-2023",
+   "path": "local/bihor/viisoara/2023/70",
+   "short": "HCL Viișoara nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 70/2023 privind aprobarea rectificareanr.7 al Bugetului Local al Comunei Viisoara pe anul 2023",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/132431",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/132431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-71-2023",
+   "path": "local/bihor/viisoara/2023/71",
+   "short": "HCL Viișoara nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 71/2023 privind aprobarea situatiei financiare asupra executiei bugetare pe Tr.III (Darea de seama)",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/132432",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/132432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-72-2023",
+   "path": "local/bihor/viisoara/2023/72",
+   "short": "HCL Viișoara nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 72/2023 privind reorganizarea aparatului de specialitate al primarului comunei Viișoara începând cu 01 noiembrie 2023, în conformitate cu Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilităţii financiare a României pe termen lung",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/132433",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/132433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-73-2023",
+   "path": "local/bihor/viisoara/2023/73",
+   "short": "HCL Viișoara nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 73/2023 privind privind aprobarea documentației tehnico-economică Proiectul Tehnic și a indicatorilor tehnico-economici pentru obiectivul de investiție: ”REABILITAREA ȘI EFICIENTIZAREA DISPENSARULUI UMAN DIN LOCALITATEA VIIȘOARA, JUDEȚUL BIHOR” aprobat în cadrul apelurilor de proiecte Planul Național de Redresare și Reziliență, Componenta C10 - Fondul Local – Runda I",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/132434",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/132434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-74-2023",
+   "path": "local/bihor/viisoara/2023/74",
+   "short": "HCL Viișoara nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 74/2023 privind aprobarea documentației tehnico-economică Proiectul Tehnic și a indicatorilor tehnico-economici pentru obiectivul de investiție: ”REABILITAREA TERMOENERGETICĂ A CĂMINULUI CULTURAL VIIȘOARA, JUDEȚUL BIHOR” aprobat în cadrul apelurilor de proiecte Planul Național de Redresare și Reziliență, Componenta C10 - Fondul Local – Runda I",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/132435",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/132435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-75-2023",
+   "path": "local/bihor/viisoara/2023/75",
+   "short": "HCL Viișoara nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 75/2023 privind aprobarea Procesului Verbal din sedinta anterioara",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/134032",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/134032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-76-2023",
+   "path": "local/bihor/viisoara/2023/76",
+   "short": "HCL Viișoara nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 76/2023 privind aprobarea ordini de zi a sedintei ordinare al Consiliului Local Viisoara din data 11,12,2023",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/134033",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/134033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-77-2023",
+   "path": "local/bihor/viisoara/2023/77",
+   "short": "HCL Viișoara nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 77/2023 privind aprobarea rectificarea nr.8 al Bugetului Local al Comunei Viisoara pe anul 2023",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/134034",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/134034",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

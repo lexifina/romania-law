@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-bistrita-nasaud--romuli-15-2026",
+   "path": "local/bistrita-nasaud/romuli/2026/15",
+   "short": "HCL Romuli nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 15/2026 privind desemnarea reprezentantului Consiliului Local al comunei Romuli în Consiliul de Administrație al Școlii Gimnaziale Romuli",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/289817",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/289817",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--romuli-16-2026",
    "path": "local/bistrita-nasaud/romuli/2026/16",
    "short": "HCL Romuli nr. 16/2026",
@@ -118,6 +133,21 @@
      "from": "2026-09-28",
      "units": 1,
      "source_url": "https://emol.ro/romuli-bn/registru-hcl/289820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-19-2026",
+   "path": "local/bistrita-nasaud/romuli/2026/19",
+   "short": "HCL Romuli nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 19/2026 privind aprobarea actului adițional nr. 8 la Contractul de închiriere nr. 1635•din 02.05.2018 încheiat între Comuna Romuli și Asociația Crescătorilor de Taurine Romuli",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/289821",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/289821",
      "sha256": null
     }
    ]

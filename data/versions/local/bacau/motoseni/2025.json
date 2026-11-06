@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--motoseni-49-2025",
+   "path": "local/bacau/motoseni/2025/49",
+   "short": "HCL Motoșeni nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 49/2025 privind aprobarea pentru decontarea cheltuielilor de naveta la şi de la locul de muncă a cadrelor didactice şi a personalului didactic auxiliar din învăţământul preuniversitar de stat pentru lunile IUNIE, IULIE, AUGUST 2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/231684",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/231684",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--motoseni-50-2025",
    "path": "local/bacau/motoseni/2025/50",
    "short": "HCL Motoșeni nr. 50/2025",
@@ -123,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--motoseni-56-2025",
+   "path": "local/bacau/motoseni/2025/56",
+   "short": "HCL Motoșeni nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 56/2025 privind privind aprobarea pentru decontarea cheltuielilor de naveta la şi de la locul de muncă a cadrelor didactice şi a personalului didactic auxiliar din învăţământul preuniversitar de stat pentru lunile SEPTEMBRIE si OCTOMBRIE 2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/239422",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/239422",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--motoseni-57-2025",
    "path": "local/bacau/motoseni/2025/57",
    "short": "HCL Motoșeni nr. 57/2025",
@@ -163,6 +193,21 @@
      "from": "2025-12-23",
      "units": 1,
      "source_url": "https://emol.ro/motoseni-bc/registru-hcl/241031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-60-2025",
+   "path": "local/bacau/motoseni/2025/60",
+   "short": "HCL Motoșeni nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 60/2025 privind aprobarea pentru decontarea cheltuielilor de naveta la şi de la locul de muncă a cadrelor didactice şi a personalului didactic auxiliar din învăţământul preuniversitar de stat pentru luna NOIEMBRIE 2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/241032",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/241032",
      "sha256": null
     }
    ]

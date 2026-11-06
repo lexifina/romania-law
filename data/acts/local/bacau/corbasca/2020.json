@@ -137,6 +137,28 @@
 }
 },
 {
+"slug": "hcl-bacau--corbasca-60-2020",
+"path": "local/bacau/corbasca/2020/60",
+"kind": "local",
+"year": "2020",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 60/2020 privind alegerea domnului consilier .Mihai-Emilian BLANARU ca preşedinte de şedinţã pentru lunile NOIEMBRIE-DECEMBRIE 2020",
+"short": "HCL Corbasca nr. 60/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-20",
+"latest": "2020-11-20",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/11396",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-61-2020",
 "path": "local/bacau/corbasca/2020/61",
 "kind": "local",
@@ -178,6 +200,28 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-63-2020",
+"path": "local/bacau/corbasca/2020/63",
+"kind": "local",
+"year": "2020",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 63/2020 privind alegerea viceprimarurlui comunei Corbasca,judetul Bacau",
+"short": "HCL Corbasca nr. 63/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-11",
+"latest": "2020-12-11",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/12318",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -266,6 +310,28 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-68-2020",
+"path": "local/bacau/corbasca/2020/68",
+"kind": "local",
+"year": "2020",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 68/2020 privind acordarea unui sprijin financiar, din bugetul local al comunei,Bisericii ortodoxe cu hramul ‘’Sf.arh.Mihail si Gavril’’din sat.Corbasca,comuna Corbasca,judetul Bacau",
+"short": "HCL Corbasca nr. 68/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-16",
+"latest": "2020-12-16",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/13090",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

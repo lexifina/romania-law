@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-bacau--filipeni-42-2024",
+"path": "local/bacau/filipeni/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 42/2024 privind aprobarea documentației tehnico-economice, faza PTh, și a indicatorilor tehnico-economici pentru obiectivul de investiții „RENOVAREA APARTAMENTULUI 1, COMUNA FILIPENI, BL. 2, SCARA A ȘI TRANSFORMAREA ÎN HUB DE DEZVOLTARE A COMEPTENȚELOR DIGITALE ȘI DOTAREA CU ECHIPAMENTE IT”, în cadrul proiectului „Finanțarea bibliotecilor din județul Bacău pentru a deveni hub-uri de dezvoltare a competențelor digitale și dotarea cu echipamente IT”",
+"short": "HCL Filipeni nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/263421",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--filipeni-43-2024",
 "path": "local/bacau/filipeni/2024/43",
 "kind": "local",
@@ -66,6 +88,28 @@
 "council_name": "Consiliul Local al Comunei Filipeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-44-2024",
+"path": "local/bacau/filipeni/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 44/2024 privind desemnarea a unui reprezentant al Consiliului Local de administrație al Școlii Gimnaziale Filipeni",
+"short": "HCL Filipeni nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/179401",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

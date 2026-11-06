@@ -25,6 +25,72 @@
 }
 },
 {
+"slug": "hcl-bacau--margineni-14-2026",
+"path": "local/bacau/margineni/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 14/2026 privind stabilirea și aprobarea ajutoarelor, a cuantumurilor și a modalităților de acordare a acestora",
+"short": "HCL Mărgineni nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-24",
+"latest": "2026-03-24",
+"portal": "https://primaria-margineni.ro/continut/fisiere/2026/03/HCL-14-Ajutoare-VMI.pdf",
+"council": "bacau/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--margineni-47-2026",
+"path": "local/bacau/margineni/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 47/2026 privind completarea Hotărârii Consiliului Local nr. 15 din 24.03.2026 cu privire la aprobarea programului de măsuri pentru gospodărirea UAT Mărgineni, județul Bacău",
+"short": "HCL Mărgineni nr. 47/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-27",
+"latest": "2026-08-27",
+"portal": "https://primaria-margineni.ro/continut/fisiere/2026/09/HCL-47-Completare-HCL-15-24.03.2026-GOSPODARIRE.pdf",
+"council": "bacau/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--margineni-62-2026",
+"path": "local/bacau/margineni/2026/62",
+"kind": "local",
+"year": "2026",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 62/2026 pentru modificarea anexei la HCL nr. 28 din 26.05.2026, privind implementarea proiectului „Conservarea și promovarea tradițiilor locale prin înființarea ansamblului folcloric al Comunei Mărgineni”,” a indicatorilor tehnico-economici și a cheltuielilor aferente, în cadrul GAL Plaiurile Bistriței, Intervenția I3",
+"short": "HCL Mărgineni nr. 62/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-12",
+"latest": "2026-10-12",
+"portal": "https://primaria-margineni.ro/continut/fisiere/2026/10/HCL-62.pdf",
+"council": "bacau/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--margineni-68-2026",
 "path": "local/bacau/margineni/2026/68",
 "kind": "local",

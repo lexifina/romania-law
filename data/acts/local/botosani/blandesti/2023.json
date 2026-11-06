@@ -3,6 +3,94 @@
 "shard": "local/botosani/blandesti/2023",
 "acts": [
 {
+"slug": "hcl-botosani--blandesti-25-2023",
+"path": "local/botosani/blandesti/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blândești nr. 25/2023 Nr. 25 din 30.03.2023 Privind modificarea și completarea Hotărârii nr. 09 din 31.01.2023 pentru stabilirea salariilor de bază a personalului contractual (muncitori necalificati) ai Primăriei comunei Blândești conform prevederilor art. 11 și 38 a Legii – cadru nr. 153/2017",
+"short": "HCL Blândești nr. 25/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-30",
+"latest": "2023-03-30",
+"portal": "https://www.comunablandesti.ro/hotarari.php?pagina=10",
+"council": "botosani/blandesti",
+"council_name": "Consiliul Local al Comunei Blândești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--blandesti-36-2023",
+"path": "local/botosani/blandesti/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blândești nr. 36/2023 Nr. 36 din 05.05.2023 Privind modificarea și completarea Hotărârii nr. 26 din 25.04.2023 privind rectificarea Bugetului de Venituri și Cheltuieli al comunei Blândești pe anul 2023",
+"short": "HCL Blândești nr. 36/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-05",
+"latest": "2023-05-05",
+"portal": "https://www.comunablandesti.ro/hotarari.php?pagina=9",
+"council": "botosani/blandesti",
+"council_name": "Consiliul Local al Comunei Blândești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--blandesti-38-2023",
+"path": "local/botosani/blandesti/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blândești nr. 38/2023 Nr. 38 din 30.05.2023 Privind modificarea și completarea art. 1 a Hotărârii nr. 35 din 05.05.2023 pentru stabilirea salariilor de bază a funcționarilor publici și personalului contractual al Primăriei comunei Blândești conform prevederilor art. 11 și 38 a Legii – cadru nr. 153/2017",
+"short": "HCL Blândești nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-30",
+"latest": "2023-05-30",
+"portal": "https://www.comunablandesti.ro/hotarari.php?pagina=9",
+"council": "botosani/blandesti",
+"council_name": "Consiliul Local al Comunei Blândești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--blandesti-60-2023",
+"path": "local/botosani/blandesti/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blândești nr. 60/2023",
+"short": "HCL Blândești nr. 60/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-27",
+"latest": "2023-09-27",
+"portal": "https://www.comunablandesti.ro/hotarari.php?pagina=8",
+"council": "botosani/blandesti",
+"council_name": "Consiliul Local al Comunei Blândești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--blandesti-78-2023",
 "path": "local/botosani/blandesti/2023/78",
 "kind": "local",

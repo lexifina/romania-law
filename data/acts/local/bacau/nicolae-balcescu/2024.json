@@ -69,6 +69,29 @@
 }
 },
 {
+"slug": "hcl-bacau--nicolae-balcescu-88-2024",
+"path": "local/bacau/nicolae-balcescu/2024/88",
+"kind": "local",
+"year": "2024",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 88/2024",
+"short": "HCL Nicolae Bălcescu nr. 88/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/178855",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--nicolae-balcescu-89-2024",
 "path": "local/bacau/nicolae-balcescu/2024/89",
 "kind": "local",
@@ -199,6 +222,29 @@
 "council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--nicolae-balcescu-95-2024",
+"path": "local/bacau/nicolae-balcescu/2024/95",
+"kind": "local",
+"year": "2024",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 95/2024",
+"short": "HCL Nicolae Bălcescu nr. 95/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/185536",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

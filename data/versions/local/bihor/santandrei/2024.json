@@ -3,6 +3,51 @@
  "shard": "local/bihor/santandrei/2024",
  "acts": [
   {
+   "slug": "hcl-bihor--santandrei-179-2024",
+   "path": "local/bihor/santandrei/2024/179",
+   "short": "HCL Sântandrei nr. 179/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 179/2024 privind aprobarea participării comunei Sântandrei la “Programul privind creșterea eficienței energetice a infrastructurii de iluminat public” pentru proiectul: „Extinderea și creșterea eficienței energetice a infrastructurii de iluminat public în comuna Sântandrei, jud. Bihor – etapa 4”",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/183358",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/183358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-180-2024",
+   "path": "local/bihor/santandrei/2024/180",
+   "short": "HCL Sântandrei nr. 180/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 180/2024 privind aprobarea ordinii de zi propusă pentru şedinţa ordinară a Consiliului Local Sântandrei din data 20 decembrie 2024",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/184136",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/184136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-181-2024",
+   "path": "local/bihor/santandrei/2024/181",
+   "short": "HCL Sântandrei nr. 181/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 181/2024 privind aprobarea Regulamentului privind realizarea sau amplasarea în zona drumurilor publice de interes local din Comuna Sântandrei, a panourilor publicitare, a oricăror construcții sau activități comerciale, căi de acces, amenajări sau instalații în orice scop",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/184137",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/184137",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--santandrei-182-2024",
    "path": "local/bihor/santandrei/2024/182",
    "short": "HCL Sântandrei nr. 182/2024",
@@ -13,6 +58,246 @@
      "from": "2025-06-23",
      "units": 1,
      "source_url": "https://emol.ro/santandrei-bh/registru-hcl/184138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-183-2024",
+   "path": "local/bihor/santandrei/2024/183",
+   "short": "HCL Sântandrei nr. 183/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 183/2024",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/184139",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/184139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-184-2024",
+   "path": "local/bihor/santandrei/2024/184",
+   "short": "HCL Sântandrei nr. 184/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 184/2024",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/184140",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/184140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-185-2024",
+   "path": "local/bihor/santandrei/2024/185",
+   "short": "HCL Sântandrei nr. 185/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 185/2024",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/184141",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/184141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-186-2024",
+   "path": "local/bihor/santandrei/2024/186",
+   "short": "HCL Sântandrei nr. 186/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 186/2024",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/184142",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/184142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-187-2024",
+   "path": "local/bihor/santandrei/2024/187",
+   "short": "HCL Sântandrei nr. 187/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 187/2024",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/184143",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/184143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-188-2024",
+   "path": "local/bihor/santandrei/2024/188",
+   "short": "HCL Sântandrei nr. 188/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 188/2024",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/184144",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/184144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-189-2024",
+   "path": "local/bihor/santandrei/2024/189",
+   "short": "HCL Sântandrei nr. 189/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 189/2024 privind aprobarea actualizării opisului cuprinzând actele justificative care vor fi anexate cererii precum și a propunerii criteriilor pentru stabilirea ordinii de prioritate în soluţionarea cererilor de locuinţe şi în repartizarea locuinţelor pentru tineri, destinate închirierii, în comuna Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/184145",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/184145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-190-2024",
+   "path": "local/bihor/santandrei/2024/190",
+   "short": "HCL Sântandrei nr. 190/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 190/2024 privind aprobarea Nomenclatorului stradal al comunei Sântandrei, județul Bihor",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/184146",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/184146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-191-2024",
+   "path": "local/bihor/santandrei/2024/191",
+   "short": "HCL Sântandrei nr. 191/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 191/2024 privind aprobarea contului de execuție a bugetului de venituri și cheltuieli - sursa A, al bugetului de venituri proprii și cheltuieli privind activitățile finanțate integral sau parțial din venituri proprii și subvenții - sursa E și al bugetului împrumuturilor interne - sursa C al Comunei Sântandrei pentru trimestrul III al anului 2024",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/184147",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/184147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-192-2024",
+   "path": "local/bihor/santandrei/2024/192",
+   "short": "HCL Sântandrei nr. 192/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 192/2024",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/184148",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/184148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-193-2024",
+   "path": "local/bihor/santandrei/2024/193",
+   "short": "HCL Sântandrei nr. 193/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 193/2024 privind aprobarea dezmembrării terenului extravilan, proprietatea publică a Comunei Sântandrei, identificat cu nr. cad. 10279, înscris în CF 10279 Sântandrei, în suprafață de 5.718 mp",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/184149",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/184149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-194-2024",
+   "path": "local/bihor/santandrei/2024/194",
+   "short": "HCL Sântandrei nr. 194/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 194/2024 privind aprobarea valorilor reevaluate ale bunurilor care aparțin domeniului public al Comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/184150",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/184150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-195-2024",
+   "path": "local/bihor/santandrei/2024/195",
+   "short": "HCL Sântandrei nr. 195/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 195/2024",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/184151",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/184151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-196-2024",
+   "path": "local/bihor/santandrei/2024/196",
+   "short": "HCL Sântandrei nr. 196/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 196/2024",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/184152",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/184152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-197-2024",
+   "path": "local/bihor/santandrei/2024/197",
+   "short": "HCL Sântandrei nr. 197/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 197/2024 pentru aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pentru semestrul I al anului 2024",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/184153",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/184153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-198-2024",
+   "path": "local/bihor/santandrei/2024/198",
+   "short": "HCL Sântandrei nr. 198/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 198/2024 privind aprobarea modificării și completării Hotărârii Consiliului Local nr. 168/20.11.2024 referitoare la aprobarea dezmembrării terenului intravilan, proprietatea privată a Comunei Sântandrei, situat în loc. Palota, identificat cu nr. cad. 11905 înscris în CF 11905 Sântandrei în suprafață de 3.495 mp",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/184154",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/184154",
      "sha256": null
     }
    ]

@@ -3,6 +3,81 @@
  "shard": "local/bacau/manastirea-casin/2026",
  "acts": [
   {
+   "slug": "hcl-bacau--manastirea-casin-100-2026",
+   "path": "local/bacau/manastirea-casin/2026/100",
+   "short": "HCL Mănăstirea Cașin nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstirea Cașin nr. 100/2026",
+   "url": "https://manastireacasin.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://manastireacasin.ro/wp-content/uploads/2026/10/HCL-100.pdf",
+     "sha256": "aac4238808baeb00cc9d2e90c467e9c47b188924ef9463f9dd2169f7d373b77f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--manastirea-casin-101-2026",
+   "path": "local/bacau/manastirea-casin/2026/101",
+   "short": "HCL Mănăstirea Cașin nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstirea Cașin nr. 101/2026 privind stabilirea mandatului special al reprezentantului legal al Uuitatii Administrativ­ Teritoriale comuna Miiniistirea Casin pentru Sedinta Aduniirii Generale Ordinare a Actionarilor S.C",
+   "url": "https://manastireacasin.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://manastireacasin.ro/wp-content/uploads/2026/10/HCL-101.pdf",
+     "sha256": "bec48c2cd8a3e197074e55cdff3593c95969c3c6500f609ba486f1613ea9893e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--manastirea-casin-102-2026",
+   "path": "local/bacau/manastirea-casin/2026/102",
+   "short": "HCL Mănăstirea Cașin nr. 102/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstirea Cașin nr. 102/2026 privind modificarea art. 8 lit. d) din Anexa 2 la HCL nr. 28/07.04.2026",
+   "url": "https://manastireacasin.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://manastireacasin.ro/wp-content/uploads/2026/10/HCL-102.pdf",
+     "sha256": "2d065faebd27274ca423f2de2a015544521b1090204029452e9f08e705b8428f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--manastirea-casin-103-2026",
+   "path": "local/bacau/manastirea-casin/2026/103",
+   "short": "HCL Mănăstirea Cașin nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstirea Cașin nr. 103/2026 privind stabilirea mandatului special al reprezentantului legal al Unitlitii Administrativ­Teritoriale comuna Mlinlistirea Casin pentru Sedinta Adunlirii Generale Extraordinare a Actionarilor S.C",
+   "url": "https://manastireacasin.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://manastireacasin.ro/wp-content/uploads/2026/10/HCL-103.pdf",
+     "sha256": "bbb92f2395784cb7693dfd2a9fa57254dacf6f50b27507641e738cfd1290a967"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--manastirea-casin-81-2026",
+   "path": "local/bacau/manastirea-casin/2026/81",
+   "short": "HCL Mănăstirea Cașin nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstirea Cașin nr. 81/2026 pentru modificarea art. 1 si art. 3 din HCL nr. 78 din 26.08.2026 privind aprobarea acordarii unui premiu in bani si a unei diplome de onoare unui numar de 6 cupluri care au implinit 50 de ani de casatorie",
+   "url": "https://manastireacasin.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://manastireacasin.ro/wp-content/uploads/2026/10/HCL-81.pdf",
+     "sha256": "0ba18b22b36c42c69938a6c7b31a23db9130cd80d8049d39797071a50f267c66"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--manastirea-casin-84-2026",
    "path": "local/bacau/manastirea-casin/2026/84",
    "short": "HCL Mănăstirea Cașin nr. 84/2026",
@@ -14,6 +89,111 @@
      "units": 1,
      "source_url": "https://manastireacasin.ro/wp-content/uploads/2026/10/HCL-84.pdf",
      "sha256": "581e0b304ba2afc204f9d4b96d606a0c85b4d424dd5c307785b870f9babe4640"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--manastirea-casin-85-2026",
+   "path": "local/bacau/manastirea-casin/2026/85",
+   "short": "HCL Mănăstirea Cașin nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstirea Cașin nr. 85/2026 privind stabilirea mandatului special al reprezentantului legal al Unitatii Administrativ ­Teritoriale comuna Manastirea Casin pentru Sedinta Adunarii Generale Ordinare a Acfionarilor S.C",
+   "url": "https://manastireacasin.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://manastireacasin.ro/wp-content/uploads/2026/10/HCL-85.pdf",
+     "sha256": "f7e44a4c0f6a34d6148ef84269b1fab84c27a2264257bcef952e96c17701f2f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--manastirea-casin-86-2026",
+   "path": "local/bacau/manastirea-casin/2026/86",
+   "short": "HCL Mănăstirea Cașin nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstirea Cașin nr. 86/2026 privind desemnarea unui reprezentant si a unui membru supleant al consiliului local in comisia de evaluare a probei interviu a concursului pentru ocuparea functiilor de director si director adjunct din unitatile de invatamant preuniversitar de stat",
+   "url": "https://manastireacasin.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://manastireacasin.ro/wp-content/uploads/2026/10/HCL-86.pdf",
+     "sha256": "33e13d180772d7f211ee05d2db72e070b1f39e3d202d3fbc093ffd93722afdde"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--manastirea-casin-87-2026",
+   "path": "local/bacau/manastirea-casin/2026/87",
+   "short": "HCL Mănăstirea Cașin nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstirea Cașin nr. 87/2026 privind rectificarea bugetului local al comunei Manastirea Casin, judetul Badiu",
+   "url": "https://manastireacasin.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://manastireacasin.ro/wp-content/uploads/2026/10/HCL-87.pdf",
+     "sha256": "59d7a9979006ad72c46e155a4296d6a47a19206a2d1415fca4dd6d15108766f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--manastirea-casin-88-2026",
+   "path": "local/bacau/manastirea-casin/2026/88",
+   "short": "HCL Mănăstirea Cașin nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstirea Cașin nr. 88/2026 privind atestarea apartenentei la domeniul privat al comunei Manastirea Casin a suprafetei de 4090 mp teren punct ,,Pod Boieri”",
+   "url": "https://manastireacasin.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://manastireacasin.ro/wp-content/uploads/2026/10/HCL-88.pdf",
+     "sha256": "65b9ed77e855231c34985c0ff8204ccd93663c38904900b142117d2b6022829c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--manastirea-casin-95-2026",
+   "path": "local/bacau/manastirea-casin/2026/95",
+   "short": "HCL Mănăstirea Cașin nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstirea Cașin nr. 95/2026 privind aprobarea cu titlu gratuit a 15 me lemn foe pentru Schitul Mare Mucenic Mina din Scutaru",
+   "url": "https://manastireacasin.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://manastireacasin.ro/wp-content/uploads/2026/09/HCL-95.pdf",
+     "sha256": "f89c8a2f12724b63433b251646f25520ed31868fc0ab8153c0065214498dbace"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--manastirea-casin-96-2026",
+   "path": "local/bacau/manastirea-casin/2026/96",
+   "short": "HCL Mănăstirea Cașin nr. 96/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstirea Cașin nr. 96/2026 privind aprobarea exploatarii si valorificarii masei lemnoase din fondul forestier proprietatea comunei Manastirea Casin -Partida 022, in vederea aprovizionarii populatiei cu lemne de foc",
+   "url": "https://manastireacasin.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://manastireacasin.ro/wp-content/uploads/2026/09/HCL-96.pdf",
+     "sha256": "a9e136efec424342d09f016cf0b51a8d308025f45d3ccfe06595c8ce8252c9d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--manastirea-casin-99-2026",
+   "path": "local/bacau/manastirea-casin/2026/99",
+   "short": "HCL Mănăstirea Cașin nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstirea Cașin nr. 99/2026 privind aprobarea utilizarii sumei de 1.500.000 lei din creditele bugetare aprobate pentru anul 2026, pentru plata lucrarilor la obiectivul de investitii ,,inflinfare distribufie gaze naturale in comuna Manastirea Casin”",
+   "url": "https://manastireacasin.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://manastireacasin.ro/wp-content/uploads/2026/10/HCL-99.pdf",
+     "sha256": "117ad6d929bacaed0ed7d82f1c28e9ae865dee9ccac1d86adc085bdb74ed1624"
     }
    ]
   }

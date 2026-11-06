@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-bacau--rachitoasa-37-2021",
+"path": "local/bacau/rachitoasa/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 37/2021 privind aprobarea trecerii din domeniul privat al comunei Răchitoasa în domeniul public al comunei Răchitoasa al imobilului clădire P+1 - Bibliotecă comunală",
+"short": "HCL Răchitoasa nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/42459",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--rachitoasa-38-2021",
 "path": "local/bacau/rachitoasa/2021/38",
 "kind": "local",
@@ -110,6 +132,51 @@
 "council_name": "Consiliul Local al Comunei Răchitoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--rachitoasa-40-2021",
+"path": "local/bacau/rachitoasa/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 40/2021",
+"short": "HCL Răchitoasa nr. 40/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/42473",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--rachitoasa-41-2021",
+"path": "local/bacau/rachitoasa/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 41/2021 privind aprobarea modificării Anexei X (Regulamentul serviciului de alimentare cu apă și de canalizare) la Contractul de delegare a gestiunii serviciului de alimentare cu apă și de canalizare nr. 556/2006/29.11.2010",
+"short": "HCL Răchitoasa nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/42474",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +224,28 @@
 }
 },
 {
+"slug": "hcl-bacau--rachitoasa-44-2021",
+"path": "local/bacau/rachitoasa/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 44/2021 privind aprobarea dreptului de acces și utilizare a unor drumuri de exploatare situate pe teritoriul administrativ-teritorial al comunei Răchitoasa, de către SC WIND ENERGY BACAU SUD SRL'', în scopul înființării unui parc eolian pe teritoriul comunei Răchitoasa",
+"short": "HCL Răchitoasa nr. 44/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/42477",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--rachitoasa-45-2021",
 "path": "local/bacau/rachitoasa/2021/45",
 "kind": "local",
@@ -198,6 +287,50 @@
 "council_name": "Consiliul Local al Comunei Răchitoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--rachitoasa-47-2021",
+"path": "local/bacau/rachitoasa/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 47/2021 privind desemnarea unu reprezentant al consiliului local al comunei Răchitoasa pentru a face parte din Comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcției de director și director adjunct al Liceului Tehnologic Răchitoasa",
+"short": "HCL Răchitoasa nr. 47/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-08",
+"latest": "2021-11-08",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/42496",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--rachitoasa-48-2021",
+"path": "local/bacau/rachitoasa/2021/48",
+"kind": "local",
+"year": "2021",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 48/2021 privind acordarea unui ajutor de urgență în baza prevederilor Legii nr. 416/2001 privind venitul minim garantat, cu modificărie și completările ulterioare",
+"short": "HCL Răchitoasa nr. 48/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-08",
+"latest": "2021-11-08",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/42497",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +378,28 @@
 }
 },
 {
+"slug": "hcl-bacau--rachitoasa-51-2021",
+"path": "local/bacau/rachitoasa/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 51/2021 privind acordarea mandatului special al reprezentantului legal al Unității Administrativ-Teritoriale comuna Răchitoasa AGA Asociației de Dezvoltare Intercomunitară Bacău, cu privire la punctele înscrise pe ordinea de zi a ședinței AGA ADIB din data de 22.11.2021",
+"short": "HCL Răchitoasa nr. 51/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-18",
+"latest": "2021-11-18",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/43067",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--rachitoasa-52-2021",
 "path": "local/bacau/rachitoasa/2021/52",
 "kind": "local",
@@ -264,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Răchitoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--rachitoasa-53-2021",
+"path": "local/bacau/rachitoasa/2021/53",
+"kind": "local",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 53/2021 privind stabilirea mandatului reprezentantului legal al Unității Administrativ-Teritoriale comuna Răchitoasa pentru ședința Adunării Generale a SC Compania Regională de Apă Bacău SA din 06.12.2021",
+"short": "HCL Răchitoasa nr. 53/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-18",
+"latest": "2021-11-18",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/43069",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

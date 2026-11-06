@@ -3,6 +3,51 @@
 "shard": "local/bacau/secuieni/2022",
 "acts": [
 {
+"slug": "hcl-bacau--secuieni-55-2022",
+"path": "local/bacau/secuieni/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 55/2022 privind desemnarea reprezentanţilor Consiliului Local Secuieni, judeţul Bacău în Consiliul de Administraţie al Şcolii Gimnaziale Secuieni",
+"short": "HCL Secuieni nr. 55/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-13",
+"latest": "2022-12-13",
+"portal": "https://emol.ro/secuieni-bc/registru-hcl/82504",
+"council": "bacau/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--secuieni-56-2022",
+"path": "local/bacau/secuieni/2022/56",
+"kind": "local",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 56/2022",
+"short": "HCL Secuieni nr. 56/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-13",
+"latest": "2022-12-13",
+"portal": "https://emol.ro/secuieni-bc/registru-hcl/82505",
+"council": "bacau/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--secuieni-57-2022",
 "path": "local/bacau/secuieni/2022/57",
 "kind": "local",
@@ -22,6 +67,28 @@
 "council_name": "Consiliul Local al Comunei Secuieni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--secuieni-58-2022",
+"path": "local/bacau/secuieni/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 58/2022 privind modificarea prețului închirierii pășunii comunale prin atribuire directa, pentru anul 2022",
+"short": "HCL Secuieni nr. 58/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-13",
+"latest": "2022-12-13",
+"portal": "https://emol.ro/secuieni-bc/registru-hcl/82507",
+"council": "bacau/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

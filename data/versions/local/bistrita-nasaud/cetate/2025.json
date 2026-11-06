@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-bistrita-nasaud--cetate-36-2025",
+   "path": "local/bistrita-nasaud/cetate/2025/36",
+   "short": "HCL Cetate nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 36/2025 privind aprobarea Actului adițional nr.9 la contractul de concesiune nr.1277 din 06.12.2018",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/Hot%C4%83r%C3%A2rea%20nr.36%20din%2009.12.2025,privind%20aprobarea%20Actului%20adi%C8%9Bional%20nr.9%20la%20contractul%20de%20concesiune%20nr.1277%20din%2006.12.2018.pdf",
+     "sha256": "2eac8bcd15e6c5ad8732635c27c32e827c988f51faf5d5c7bd1e1ce2d4d326c6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--cetate-38-2025",
    "path": "local/bistrita-nasaud/cetate/2025/38",
    "short": "HCL Cetate nr. 38/2025",
@@ -149,6 +164,66 @@
      "units": 1,
      "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/Hot%C4%83r%C3%A2rea%20nr.39%20din%2029.12.2025,privind%20stabilirea%20cuantumului%20taxelor%20locale%20speciale,pentru%20anul%202026.pdf",
      "sha256": "e398b7abead95542e8500d9c67ea2a6d11a49b872354e3caec1fa15998193a37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-40-2025",
+   "path": "local/bistrita-nasaud/cetate/2025/40",
+   "short": "HCL Cetate nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 40/2025 privind aprobarea rețelei de învățământ preuniversitar de stat pentru anul școlar 2026-2027",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/Hot%C4%83r%C3%A2rea%20nr.40%20din%2029.12.2025,privind%20aprobarea%20re%C8%9Belei%20de%20%C3%AEnv%C4%83%C8%9B%C4%83m%C3%A2nt%20preuniversitar%20de%20stat%20pentru%20anul%20%C8%99colar%202026-2027.pdf",
+     "sha256": "3abf6303ee7c8d469a62bb2a87e4ac10f9b0481060a1aefd9e32ca33387305a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-41-2025",
+   "path": "local/bistrita-nasaud/cetate/2025/41",
+   "short": "HCL Cetate nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 41/2025 privind aprobarea casării unor mijloace fixe și a unor obiecte de inventar",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/Hot%C4%83r%C3%A2rea%20nr.41%20din%2029.12.2025,privind%20aprobarea%20cas%C4%83rii%20unor%20mijloace%20fixe%20%C8%99i%20a%20unor%20obiecte%20de%20inventar.pdf",
+     "sha256": "c137e63d58b1a3655821bb2814bdc48237a06bd2ac853d0426873682d6aef84c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-42-2025",
+   "path": "local/bistrita-nasaud/cetate/2025/42",
+   "short": "HCL Cetate nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 42/2025 privind aprobarea ”Strategiei anuale de Achiziție Publică pe anul 2026” și a ”Programului anual al Achizițiilor Publice pentru anul 2026”",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/Hot%C4%83r%C3%A2rea%20nr.42%20din%2029.12.2025,privind%20aprobarea%20%E2%80%9DStrategiei%20anuale%20de%20Achizi%C8%9Bie%20Public%C4%83%20pe%20anul%202026%E2%80%9D%20%C8%99i%20a%20%E2%80%9DProgramului%20anual%20al%20Achizi%C8%9Biilor%20Publice%20pentru%20anul%202026%E2%80%9D.pdf",
+     "sha256": "30c6052bac49076e187b5b60a3fb1219053bc64c78470264b581a6963a8e4f50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-43-2025",
+   "path": "local/bistrita-nasaud/cetate/2025/43",
+   "short": "HCL Cetate nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 43/2025 privind aprobarea exploatării și vânzării de material lemnos din pădurile comunei Cetate",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/Hot%C4%83r%C3%A2rea%20nr.43%20din%2029.12.2025,privind%20aprobarea%20exploat%C4%83rii%20%C8%99i%20v%C3%A2nz%C4%83rii%20de%20material%20lemnos%20din%20p%C4%83durile%20comunei%20Cetate.pdf",
+     "sha256": "8a229cb1d21aacca240e79df24d3ec902d7b0aebbee7f601d9b3ef6e8a6e07b6"
     }
    ]
   }

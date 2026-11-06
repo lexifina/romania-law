@@ -3,6 +3,81 @@
  "shard": "local/bihor/avram-iancu/2026",
  "acts": [
   {
+   "slug": "hcl-bihor--avram-iancu-53-2026",
+   "path": "local/bihor/avram-iancu/2026/53",
+   "short": "HCL Avram Iancu nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 53/2026 privind aprobarea înscrierii unei suprafețe de 250 mp, teren în Comuna Avram Iancu, reprezentând teren intravilan – în proprietate privată a UAT Comuna Avram Iancu, sat Tămașda, intravilan",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/283176",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/283176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-54-2026",
+   "path": "local/bihor/avram-iancu/2026/54",
+   "short": "HCL Avram Iancu nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 54/2026 privind schimbarea reprezentantului legal al Comunei Avram Iancu în cadrul proiectului de finanțare “Modernizare infrastructură rutieră, sat Tămaşda Comuna Avram Iancu, județul Bihor”",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/283177",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/283177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-55-2026",
+   "path": "local/bihor/avram-iancu/2026/55",
+   "short": "HCL Avram Iancu nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 55/2026 privind aprobarea încheierii unui Protocol de colaborare în vederea gestionării câinilor fără stăpân de pe raza UAT Avram Iancu între UAT Municipiul Salonta și Primăria Comunei Avram Iancu",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/283178",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/283178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-56-2026",
+   "path": "local/bihor/avram-iancu/2026/56",
+   "short": "HCL Avram Iancu nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 56/2026 privind privind acordarea unui mandat special Asociaţiei de Dezvoltare Intercomunitară ECOLECT GROUP, prin Aparatul tehnic de specialitate și reprezentanții împuterniciți ai acesteia-specialiști în managementul deșeurilor, pentru exercitarea, în numele și pe seama unității administrativ teritoriale Comuna Avram Iancu a activităților de: verificare tehnică, de monitorizare, prevenire, control, constatare a contravențiilor și de aplicare a sancțiunilor contravenționale (avertisment și amendă contravențională) în domeniul serviciului de salubrizare,",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/283179",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/283179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-57-2026",
+   "path": "local/bihor/avram-iancu/2026/57",
+   "short": "HCL Avram Iancu nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 57/2026 privind constituire număr cadastral pentru suprafața de 3313 mp din număr TOPO 744/2 Tămașda, înscris în CF 966 Tămașda și înfințare cartea funciară în proprietatea Comunei Avram Iancu domeniul public având categoria de folosință drum public în intravilan",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/283180",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/283180",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--avram-iancu-58-2026",
    "path": "local/bihor/avram-iancu/2026/58",
    "short": "HCL Avram Iancu nr. 58/2026",
@@ -33,6 +108,51 @@
    ]
   },
   {
+   "slug": "hcl-bihor--avram-iancu-60-2026",
+   "path": "local/bihor/avram-iancu/2026/60",
+   "short": "HCL Avram Iancu nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 60/2026 privind aprobarea actualizării indicatorilor tehnico-economici aferenți obiectivului de investiție „Modernizare infrastructura rutieră, Sat Tămașda, Comuna Avram Iancu, județul Bihor”, ca urmare a finalizării proiectului tehnic și a actualizării cotei standard de TVA",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/284158",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/284158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-61-2026",
+   "path": "local/bihor/avram-iancu/2026/61",
+   "short": "HCL Avram Iancu nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 61/2026 privind aprobarea Procesului-Verbal de la şedinţa anterioara 14 august 2026",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/289169",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/289169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-62-2026",
+   "path": "local/bihor/avram-iancu/2026/62",
+   "short": "HCL Avram Iancu nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 62/2026 privind aprobarea Procesului-Verbal de la şedinţa anterioara 24 august 2026",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/289170",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/289170",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--avram-iancu-63-2026",
    "path": "local/bihor/avram-iancu/2026/63",
    "short": "HCL Avram Iancu nr. 63/2026",
@@ -48,6 +168,111 @@
    ]
   },
   {
+   "slug": "hcl-bihor--avram-iancu-64-2026",
+   "path": "local/bihor/avram-iancu/2026/64",
+   "short": "HCL Avram Iancu nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 64/2026 privind încheierea unui Acord de parteneriat în scopul implementării proiectului \"Imbunătăţirea calității serviciilor oferite de administrațiile publice locale din județul Bihor, prin soluții digitale inovatoare\"",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/289172",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/289172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-65-2026",
+   "path": "local/bihor/avram-iancu/2026/65",
+   "short": "HCL Avram Iancu nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 65/2026 privind aprobarea Planului de amplasament și delimitare a imobilului, cu propunerea de alipire a suprafeței de 11200 mp, nr. cadastral nou 57038 – Avram Iancu, reprezentând teren situat în localitatea Avram Iancu, extravilan",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/289173",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/289173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-66-2026",
+   "path": "local/bihor/avram-iancu/2026/66",
+   "short": "HCL Avram Iancu nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 66/2026 privind corecția erorilor materiale HCL nr. 53 din 14.08.2026 privind aprobarea înscrierii unei suprafețe de 250 mp, teren în Comuna Avram Iancu, reprezentând teren intravilan – în proprietate privată a UAT Comuna Avram Iancu, sat Tămașda, intravilan",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/289174",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/289174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-67-2026",
+   "path": "local/bihor/avram-iancu/2026/67",
+   "short": "HCL Avram Iancu nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 67/2026 privind constituire numar cadastral în favoarea comunei Avram Iancu proprietate privată pentru implementarea proiectului național ”Romi pentru România 2025-2035” pentru construirea unui centru comunitar integrat",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/289175",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/289175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-68-2026",
+   "path": "local/bihor/avram-iancu/2026/68",
+   "short": "HCL Avram Iancu nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 68/2026 privind aprobarea rectificării nr.3 a bugetului local de venituri și cheltuieli pe trimestrul IV pe anul 2026",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/289176",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/289176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-69-2026",
+   "path": "local/bihor/avram-iancu/2026/69",
+   "short": "HCL Avram Iancu nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 69/2026 privind aprobarea depunerii proiectului „DEZVOLTAREA UNEI CAPACITĂȚI HIBRIDE DE PRODUCȚIE ȘI STOCARE A ENERGIEI ELECTRICE DIN SURSE REGENERABILE PENTRU ASIGURAREA AUTOCONSUMULUI COMUNEI AVRAM IANCU” și a cheltuielilor legate de acest proiect, în vederea finanțării în cadrul Fondului pentru Modernizare – Programul-cheie 1: Surse regenerabile de energie și stocarea energiei – „Sprijinirea investiţiilor în noi capacităţi de producere a energiei electrice produsă din surse regenerabile de energie solară, cu capacități de stocare integrate, pentru autoconsum pentru entități publice”",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/289177",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/289177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-70-2026",
+   "path": "local/bihor/avram-iancu/2026/70",
+   "short": "HCL Avram Iancu nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 70/2026 privind desemnarea membrilor şi supleanților în vederea constituirii Comisiei de evaluare a probei de interviu pentru Concursul de ocupare a funcţiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat, sesiunea august-decembrie 2026",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/289178",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/289178",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--avram-iancu-71-2026",
    "path": "local/bihor/avram-iancu/2026/71",
    "short": "HCL Avram Iancu nr. 71/2026",
@@ -58,6 +283,21 @@
      "from": "2026-10-21",
      "units": 1,
      "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/293114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-72-2026",
+   "path": "local/bihor/avram-iancu/2026/72",
+   "short": "HCL Avram Iancu nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 72/2026 privind aprobarea actualizării indicatorilor tehnico-economici aferenți obiectivului de investiție „Reabilitare drumuri în comuna Avram Iancu, județul Bihor”",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/293115",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/293115",
      "sha256": null
     }
    ]

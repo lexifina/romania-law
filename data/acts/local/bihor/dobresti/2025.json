@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-bihor--dobresti-92-2025",
+"path": "local/bihor/dobresti/2025/92",
+"kind": "local",
+"year": "2025",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 92/2025 privind aprobarea trecerii în domeniul privat al comunei Dobrești a suprafeței de 29.700 mp, imobil înscris în CF nr. 51683 Dobrești",
+"short": "HCL Dobrești nr. 92/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-11",
+"latest": "2025-12-11",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/239044",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--dobresti-93-2025",
 "path": "local/bihor/dobresti/2025/93",
 "kind": "local",
@@ -66,6 +88,50 @@
 "council_name": "Consiliul Local al Comunei Dobrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-94-2025",
+"path": "local/bihor/dobresti/2025/94",
+"kind": "local",
+"year": "2025",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 94/2025 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Dobrești nr. 94/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/240352",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-95-2025",
+"path": "local/bihor/dobresti/2025/95",
+"kind": "local",
+"year": "2025",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 95/2025 privind aprobarea ordinii de zi a ședinței extraordinare - de îndată",
+"short": "HCL Dobrești nr. 95/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/240353",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +245,50 @@
 }
 },
 {
+"slug": "hcl-bihor--dobresti-101-2025",
+"path": "local/bihor/dobresti/2025/101",
+"kind": "local",
+"year": "2025",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 101/2025 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Dobrești nr. 101/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/244958",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-102-2025",
+"path": "local/bihor/dobresti/2025/102",
+"kind": "local",
+"year": "2025",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 102/2025 privind aprobarea ordinii de zi",
+"short": "HCL Dobrești nr. 102/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/244959",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--dobresti-103-2025",
 "path": "local/bihor/dobresti/2025/103",
 "kind": "local",
@@ -198,6 +308,28 @@
 "council_name": "Consiliul Local al Comunei Dobrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-104-2025",
+"path": "local/bihor/dobresti/2025/104",
+"kind": "local",
+"year": "2025",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 104/2025 privind aprobarea desemnării reprezentantului Comunei Dobrești în Adunarea Generală a regiei publice de interes local Ocolul Silvic Codrii Cămării R.A",
+"short": "HCL Dobrești nr. 104/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/244961",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -242,6 +374,50 @@
 "council_name": "Consiliul Local al Comunei Dobrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-107-2025",
+"path": "local/bihor/dobresti/2025/107",
+"kind": "local",
+"year": "2025",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 107/2025 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Dobrești nr. 107/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/245093",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-108-2025",
+"path": "local/bihor/dobresti/2025/108",
+"kind": "local",
+"year": "2025",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 108/2025 privind aprobarea ordinii de zi a ședinței extraordinare - de îndată",
+"short": "HCL Dobrești nr. 108/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/245094",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

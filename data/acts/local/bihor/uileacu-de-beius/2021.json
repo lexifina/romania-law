@@ -3,6 +3,50 @@
 "shard": "local/bihor/uileacu-de-beius/2021",
 "acts": [
 {
+"slug": "hcl-bihor--uileacu-de-beius-82-2021",
+"path": "local/bihor/uileacu-de-beius/2021/82",
+"kind": "local",
+"year": "2021",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 82/2021 privind privind desemnarea unui reprezentant al Consiliului Local al comunei Uileacu de Beiuș în calitate demembru al Comisiei de evaluare a probei de interviu pentru concursul de ocupare a funcțiilor de director și director adjunct din unitatea de învățământ preuniversitar de stat de la nivelul comunei Uileacu de Beiuș",
+"short": "HCL Uileacu de Beiuș nr. 82/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-06",
+"latest": "2021-11-06",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/40492",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-83-2021",
+"path": "local/bihor/uileacu-de-beius/2021/83",
+"kind": "local",
+"year": "2021",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 83/2021 privind formarea de numere cadastrale a unor imobile situate în comuna Uileacu de Beiuș, județul Bihor și înscrierea în proprietatea comunei Uileacu de Beiuș județul Bihor ca domeniu public",
+"short": "HCL Uileacu de Beiuș nr. 83/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-06",
+"latest": "2021-11-06",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/40493",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--uileacu-de-beius-84-2021",
 "path": "local/bihor/uileacu-de-beius/2021/84",
 "kind": "local",
@@ -66,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-87-2021",
+"path": "local/bihor/uileacu-de-beius/2021/87",
+"kind": "local",
+"year": "2021",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 87/2021 privind formarea de numere cadastrale a unor imobile situate în comuna Uileacu de Beiuș, județul Bihor și înscrierea în proprietatea comunei Uileacu de Beiuș județul Bihor ca domeniu public",
+"short": "HCL Uileacu de Beiuș nr. 87/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-29",
+"latest": "2021-11-29",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/44002",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -352,6 +418,28 @@
 "council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-101-2021",
+"path": "local/bihor/uileacu-de-beius/2021/101",
+"kind": "local",
+"year": "2021",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 101/2021 privind stabilirea salariilor de bază la nivelul Comunei Uileacu de Beiuș județul Bihor",
+"short": "HCL Uileacu de Beiuș nr. 101/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-30",
+"latest": "2021-12-30",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/46004",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

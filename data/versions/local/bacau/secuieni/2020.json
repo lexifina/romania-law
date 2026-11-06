@@ -153,6 +153,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-46-2020",
+   "path": "local/bacau/secuieni/2020/46",
+   "short": "HCL Secuieni nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 46/2020",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/19027",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/19027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-47-2020",
+   "path": "local/bacau/secuieni/2020/47",
+   "short": "HCL Secuieni nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 47/2020 privind desemnarea reprezentanților Consiliului Local Secuieni, județul Bacău în Consiliul de Administrație al Școlii Gimnaziale Secuieni",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/19028",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/19028",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-48-2020",
    "path": "local/bacau/secuieni/2020/48",
    "short": "HCL Secuieni nr. 48/2020",

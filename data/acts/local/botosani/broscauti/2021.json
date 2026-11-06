@@ -3,6 +3,116 @@
 "shard": "local/botosani/broscauti/2021",
 "acts": [
 {
+"slug": "hcl-botosani--broscauti-5-2021",
+"path": "local/botosani/broscauti/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Broscăuți nr. 5/2021 privind reactualizarea ,,Planului de Analiză și Acoperire a Riscurilor,, pe teritoriul comunei Broscăuți ,jud.Botoșani Analizând temeiurile juridice ,respectiv prevederile : -art.15 ,art.32 ,art.121 alin(1) si alin.(1) si alin.(2) din Constitutia Romaniei ,republicata; -art.3 si 4 din Carta europeana a autonomiei locale, adoptata la Strasbourg la 15 octombrie 1985 ,ratificata prin Legea nr. 199/19",
+"short": "HCL Broscăuți nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://www.primaria-broscauti.ro/categorie-documente/hotarari-ale-consiliului-local-2021/",
+"council": "botosani/broscauti",
+"council_name": "Consiliul Local al Comunei Broscăuți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--broscauti-6-2021",
+"path": "local/botosani/broscauti/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Broscăuți nr. 6/2021 privind aprobarea rezultatelor inventarierii bunurilor ( mijloace fixe și obiecte de inventar) pe anul 2020,ce constituie patrimoniul public și privat al comunei Broscăuți,administrat de către Consiliul Local Având în vedere temeiurile juridice, respectiv prevederile: a) art. 120 și art. 121 alin. (1) și (2) din Constituția României, republicată; b) art. 8 și 9 din Carta europeană a autonomiei loc",
+"short": "HCL Broscăuți nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://www.primaria-broscauti.ro/categorie-documente/hotarari-ale-consiliului-local-2021/",
+"council": "botosani/broscauti",
+"council_name": "Consiliul Local al Comunei Broscăuți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--broscauti-8-2021",
+"path": "local/botosani/broscauti/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Broscăuți nr. 8/2021 privind aderarea Comunei Broscăuți la “Asociația de Dezvoltare Intercomunitară - Dezvoltare Sustenabilă și Integrată în Țara de Sus” Având în vedere temeiurile juridice, respectiv prevederile: a) art. 15 alin.(2),art. 120 alin.(1) art. 121 alin. (1) și (2) si art.136 alin.(4) din Constituția României, republicată; b) art. 10 paragraful 3 din Carta europeană a autonomiei locale, adoptată la Strasbo",
+"short": "HCL Broscăuți nr. 8/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-29",
+"latest": "2021-03-29",
+"portal": "https://www.primaria-broscauti.ro/categorie-documente/hotarari-ale-consiliului-local-2021/",
+"council": "botosani/broscauti",
+"council_name": "Consiliul Local al Comunei Broscăuți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--broscauti-9-2021",
+"path": "local/botosani/broscauti/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Broscăuți nr. 9/2021 pentru aprobarea Raportului privind activitatea desfășurată de asistenții persoanli ai persoanelor cu handicap grav pentru semestrul II al anului 2020 Având în vedere temeiurile juridice, respectiv prevederile: a) art. 15 alin.(2),art. 120 alin.(1) art. 121 alin. (1) și (2) si art.136 alin.(4) din Constituția României, republicată; b) art. 10 paragraful 3 din Carta europeană a autonomiei locale, a",
+"short": "HCL Broscăuți nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-29",
+"latest": "2021-03-29",
+"portal": "https://www.primaria-broscauti.ro/categorie-documente/hotarari-ale-consiliului-local-2021/",
+"council": "botosani/broscauti",
+"council_name": "Consiliul Local al Comunei Broscăuți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--broscauti-10-2021",
+"path": "local/botosani/broscauti/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Broscăuți nr. 10/2021 privind aprobarea bugetului local pentru anul 2021 Având în vedere temeiurile juridice, respectiv prevederile: a) art. 15 alin. (2), art. 120 alin. (1) și art. 121 alin. (1) și alin. (2) din Constituția României, republicată; b) art. 3 și 4 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985, ratificată prin Legea nr. 199/1997; c) art. 7 alin. (2) din Codul civil a",
+"short": "HCL Broscăuți nr. 10/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://www.primaria-broscauti.ro/categorie-documente/hotarari-ale-consiliului-local-2021/",
+"council": "botosani/broscauti",
+"council_name": "Consiliul Local al Comunei Broscăuți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--broscauti-11-2021",
 "path": "local/botosani/broscauti/2021/11",
 "kind": "local",
@@ -45,6 +155,162 @@
 "council_name": "Consiliul Local al Comunei Broscăuți",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-botosani--broscauti-15-2021",
+"path": "local/botosani/broscauti/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Broscăuți nr. 15/2021 privind alegerea președintelui de ședință pentru perioada mai,iunie și iulie 2021 Având în vedere temeiurile juridice, respectiv prevederile: a) art. 15 alin.(2),art. 120 alin.(1) art. 121 alin. (1) și (2) si art.136 alin.(4) din Constituția României, republicată; b) art. 10 paragraful 3 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985, ratificată prin Legea nr",
+"short": "HCL Broscăuți nr. 15/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-29",
+"latest": "2021-04-29",
+"portal": "https://www.primaria-broscauti.ro/categorie-documente/hotarari-ale-consiliului-local-2021/",
+"council": "botosani/broscauti",
+"council_name": "Consiliul Local al Comunei Broscăuți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--broscauti-16-2021",
+"path": "local/botosani/broscauti/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Broscăuți nr. 16/2021 privind modificarea Contractului unic de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare prin concesiune – județul Botoșani Având în vedere temeiurile juridice, respectiv prevederile: a) art. 120 și art. 121 alin. (1) și (2) din Constituția României, republicată; b) art. 8 și 9 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985, rati",
+"short": "HCL Broscăuți nr. 16/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://www.primaria-broscauti.ro/categorie-documente/hotarari-ale-consiliului-local-2021/",
+"council": "botosani/broscauti",
+"council_name": "Consiliul Local al Comunei Broscăuți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--broscauti-17-2021",
+"path": "local/botosani/broscauti/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Broscăuți nr. 17/2021 privind aprobarea alocării terenului in suprafața de 1400 mp, situat in intravilanul comunei Broscăuți,PC nr.945/10, în vederea stocării temporare a deșeurilor inerte rezultate din activități de construcții și demolări de pe raza UAT comuna Broscăuți Având în vedere temeiurile juridice, respectiv prevederile: a)art. 120 și art. 121 alin. (1) și (2) din Constituția României, republicată; b)art. 8 ș",
+"short": "HCL Broscăuți nr. 17/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-29",
+"latest": "2021-06-29",
+"portal": "https://www.primaria-broscauti.ro/categorie-documente/hotarari-ale-consiliului-local-2021/",
+"council": "botosani/broscauti",
+"council_name": "Consiliul Local al Comunei Broscăuți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--broscauti-18-2021",
+"path": "local/botosani/broscauti/2021/18",
+"kind": "local",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Broscăuți nr. 18/2021",
+"short": "HCL Broscăuți nr. 18/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-29",
+"latest": "2021-06-29",
+"portal": null,
+"council": "botosani/broscauti",
+"council_name": "Consiliul Local al Comunei Broscăuți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--broscauti-19-2021",
+"path": "local/botosani/broscauti/2021/19",
+"kind": "local",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Broscăuți nr. 19/2021 privind clasificarea și introducerea în inventarul bunurilor care alcătuiesc domeniul privat al comunei Broscăuți și declararea ca bunuri publice „de interes local a unor drumuri vicinale identificate în teritoriul administrativ al comunei Broscăuți, județul Botoșani Având în vedere temeiurile juridice, respectiv prevederile: a) art. 15 alin.(2),art. 120 alin.(1) art. 121 alin. (1) și (2) si art.1",
+"short": "HCL Broscăuți nr. 19/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-29",
+"latest": "2021-06-29",
+"portal": "https://www.primaria-broscauti.ro/categorie-documente/hotarari-ale-consiliului-local-2021/",
+"council": "botosani/broscauti",
+"council_name": "Consiliul Local al Comunei Broscăuți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--broscauti-20-2021",
+"path": "local/botosani/broscauti/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Broscăuți nr. 20/2021 privind alegerea președintelui de ședință pentru perioada august,septembrie și octombrie 2021 Având în vedere temeiurile juridice, respectiv prevederile: a) art. 15 alin.(2),art. 120 alin.(1) art. 121 alin. (1) și (2) si art.136 alin.(4) din Constituția României, republicată; b) art. 10 paragraful 3 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985, ratificată pr",
+"short": "HCL Broscăuți nr. 20/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://www.primaria-broscauti.ro/categorie-documente/hotarari-ale-consiliului-local-2021/",
+"council": "botosani/broscauti",
+"council_name": "Consiliul Local al Comunei Broscăuți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--broscauti-22-2021",
+"path": "local/botosani/broscauti/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Broscăuți nr. 22/2021",
+"short": "HCL Broscăuți nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-10",
+"latest": "2021-08-10",
+"portal": null,
+"council": "botosani/broscauti",
+"council_name": "Consiliul Local al Comunei Broscăuți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

@@ -48,6 +48,66 @@
    ]
   },
   {
+   "slug": "hcl-bihor--bratca-143-2020",
+   "path": "local/bihor/bratca/2020/143",
+   "short": "HCL Bratca nr. 143/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 143/2020",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/12036",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/12036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-144-2020",
+   "path": "local/bihor/bratca/2020/144",
+   "short": "HCL Bratca nr. 144/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 144/2020 Pentru soluţionarea cererii d-lui Fechete Nițu, cu domiciliul în localitatea Lorău nr.12, judeţul Bihor, prin care solicită acordarea unui ajutor de urgență",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/12037",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/12037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-145-2020",
+   "path": "local/bihor/bratca/2020/145",
+   "short": "HCL Bratca nr. 145/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 145/2020",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/12038",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/12038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-146-2020",
+   "path": "local/bihor/bratca/2020/146",
+   "short": "HCL Bratca nr. 146/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 146/2020 Cu privire la organizarea de către Ocolul Silvic Brătcuţa R.A Bratca a licitaţiei în plic închis pentru vânzare lemn din produse accidentale I, II şi igienă din pădurea proprietate a comunei Bratca neadjudecat la licitațiile anterioare și stabilirea noului preţ de pornire a licitaţiei, vânzare lemn din produse principale, secundare şi igienă, vanzare loturi de buşteni gater, din pădurea proprietate a comunei Bratca și stabilirea preţului de pornire a licitaţiei",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/12039",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/12039",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--bratca-147-2020",
    "path": "local/bihor/bratca/2020/147",
    "short": "HCL Bratca nr. 147/2020",
@@ -103,6 +163,21 @@
      "from": "2020-12-15",
      "units": 1,
      "source_url": "https://emol.ro/bratca-bh/registru-hcl/13260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-151-2020",
+   "path": "local/bihor/bratca/2020/151",
+   "short": "HCL Bratca nr. 151/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 151/2020",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/13261",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/13261",
      "sha256": null
     }
    ]

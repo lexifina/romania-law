@@ -3,6 +3,28 @@
 "shard": "local/bihor/uileacu-de-beius/2025",
 "acts": [
 {
+"slug": "hcl-bihor--uileacu-de-beius-87-2025",
+"path": "local/bihor/uileacu-de-beius/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 87/2025 privind desemnarea reprezentantului Consiliului Local al Comunei Uileacu de Beiuș în Consiliul de Administrație a Școlii Gimnaziale nr.1 Uileacu de Beiuș județul Bihor",
+"short": "HCL Uileacu de Beiuș nr. 87/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/231804",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--uileacu-de-beius-88-2025",
 "path": "local/bihor/uileacu-de-beius/2025/88",
 "kind": "local",
@@ -267,6 +289,28 @@
 }
 },
 {
+"slug": "hcl-bihor--uileacu-de-beius-100-2025",
+"path": "local/bihor/uileacu-de-beius/2025/100",
+"kind": "local",
+"year": "2025",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 100/2025 privind aprobarea indicatorilor tehnico - economici pentru obiectivul de investiție de interes local ,,CONSTRUIRE CAPELĂ MORTUARĂ CU AMENAJĂRI EXTERIOARE ȘI ÎMPREJMUIRE TEREN ÎN LOCALITATEA UILEACU DE BEIUȘ, JUDEȚUL BIHOR“",
+"short": "HCL Uileacu de Beiuș nr. 100/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/241536",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--uileacu-de-beius-101-2025",
 "path": "local/bihor/uileacu-de-beius/2025/101",
 "kind": "local",
@@ -352,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-105-2025",
+"path": "local/bihor/uileacu-de-beius/2025/105",
+"kind": "local",
+"year": "2025",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 105/2025 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale la nivelul comunei UILEACU DE BEIUȘ, județul BIHOR",
+"short": "HCL Uileacu de Beiuș nr. 105/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/243906",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

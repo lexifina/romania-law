@@ -113,6 +113,51 @@
 }
 },
 {
+"slug": "hcl-bacau--corbasca-106-2023",
+"path": "local/bacau/corbasca/2023/106",
+"kind": "local",
+"year": "2023",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 106/2023 privind aprobarea Studiului de oportunitate prin delegarea gestiunii serviciului de alimentare cu apa si canalizare al comunei Corbasca,judetul Bacau si a delegarii gestiunii Serviciului de alimentare cu apa si canalizare catre Operatorul Regional \"S.C.Compania Regionala de Apa S.A\"-.Bacau",
+"short": "HCL Corbasca nr. 106/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/130932",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-107-2023",
+"path": "local/bacau/corbasca/2023/107",
+"kind": "local",
+"year": "2023",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 107/2023",
+"short": "HCL Corbasca nr. 107/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/130933",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-108-2023",
 "path": "local/bacau/corbasca/2023/108",
 "kind": "local",
@@ -132,6 +177,28 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-109-2023",
+"path": "local/bacau/corbasca/2023/109",
+"kind": "local",
+"year": "2023",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 109/2023 privind scoaterea din funcţiune în vederea casării şi valorificării unor mijloace fixe din patrimoniul Primariei Comunei Corbasca,judetul Bacau",
+"short": "HCL Corbasca nr. 109/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/130935",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -289,6 +356,29 @@
 }
 },
 {
+"slug": "hcl-bacau--corbasca-117-2023",
+"path": "local/bacau/corbasca/2023/117",
+"kind": "local",
+"year": "2023",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 117/2023",
+"short": "HCL Corbasca nr. 117/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-18",
+"latest": "2024-01-18",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/134444",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-118-2023",
 "path": "local/bacau/corbasca/2023/118",
 "kind": "local",
@@ -308,6 +398,29 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-119-2023",
+"path": "local/bacau/corbasca/2023/119",
+"kind": "local",
+"year": "2023",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 119/2023",
+"short": "HCL Corbasca nr. 119/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-18",
+"latest": "2024-01-18",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/134446",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -397,6 +397,50 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-bistrita-nasaud--beclean-89-2026",
+"path": "local/bistrita-nasaud/beclean/2026/89",
+"kind": "local",
+"year": "2026",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Beclean nr. 89/2026",
+"short": "HCL Beclean nr. 89/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-16",
+"latest": "2026-09-16",
+"portal": "http://primariabeclean.ro/web/consiliu-local/hotarari-consiliu-local/",
+"council": "bistrita-nasaud/beclean",
+"council_name": "Consiliul Local al Orașului Beclean",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--beclean-90-2026",
+"path": "local/bistrita-nasaud/beclean/2026/90",
+"kind": "local",
+"year": "2026",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Beclean nr. 90/2026",
+"short": "HCL Beclean nr. 90/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-16",
+"latest": "2026-09-16",
+"portal": "http://primariabeclean.ro/web/consiliu-local/hotarari-consiliu-local/",
+"council": "bistrita-nasaud/beclean",
+"council_name": "Consiliul Local al Orașului Beclean",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

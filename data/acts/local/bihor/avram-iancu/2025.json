@@ -3,6 +3,73 @@
 "shard": "local/bihor/avram-iancu/2025",
 "acts": [
 {
+"slug": "hcl-bihor--avram-iancu-62-2025",
+"path": "local/bihor/avram-iancu/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 62/2025 privind aprobare contract de schimb imobiliar",
+"short": "HCL Avram Iancu nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/231538",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-63-2025",
+"path": "local/bihor/avram-iancu/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 63/2025",
+"short": "HCL Avram Iancu nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/237126",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-64-2025",
+"path": "local/bihor/avram-iancu/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 64/2025 privind proiectul reţelei şcolare a unităţilor de învăţământ preuniversitar de stat de la nivelul unităţii administrativ teritoriale Comuna Avram Iancu pentru anul şcolar 2026-2027",
+"short": "HCL Avram Iancu nr. 64/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/237127",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--avram-iancu-65-2025",
 "path": "local/bihor/avram-iancu/2025/65",
 "kind": "local",
@@ -22,6 +89,50 @@
 "council_name": "Consiliul Local al Comunei Avram Iancu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-66-2025",
+"path": "local/bihor/avram-iancu/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 66/2025 privind aprobarea procesului-verbal de la ședința 27.10.2025",
+"short": "HCL Avram Iancu nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/238176",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-67-2025",
+"path": "local/bihor/avram-iancu/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 67/2025 privind aprobarea procesului-verbal de la ședința extraordinară de îndată 26.11.2025",
+"short": "HCL Avram Iancu nr. 67/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/238177",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +158,96 @@
 }
 },
 {
+"slug": "hcl-bihor--avram-iancu-69-2025",
+"path": "local/bihor/avram-iancu/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 69/2025 privind aprobarea documentatiei ,,PUZ - schimbare funcțională din zonă de Locuințe -L în Servicii și comerț ’’, generat de imobilul cu nr. cadastral 53491 în suprafata totală de 1,439 din acte , măsurată 1,415 mp, în sat Avram Iancu , comuna Avram Iancu , judetul Bihor",
+"short": "HCL Avram Iancu nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/238179",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-70-2025",
+"path": "local/bihor/avram-iancu/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 70/2025",
+"short": "HCL Avram Iancu nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/238180",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-71-2025",
+"path": "local/bihor/avram-iancu/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 71/2025 privind acordarea dreptului de acces pe terenul aflat în domeniul public pentru realizarea proiectului ``Realizarea infrastructurii de broadband şi racordarea la reţeaua de energie electrică existentă printr-un branşament nou în judeţul Bihor, UAT Avram Iancu, localitatea Ant``",
+"short": "HCL Avram Iancu nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/238181",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-72-2025",
+"path": "local/bihor/avram-iancu/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 72/2025",
+"short": "HCL Avram Iancu nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/238182",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--avram-iancu-73-2025",
 "path": "local/bihor/avram-iancu/2025/73",
 "kind": "local",
@@ -66,6 +267,50 @@
 "council_name": "Consiliul Local al Comunei Avram Iancu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-74-2025",
+"path": "local/bihor/avram-iancu/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 74/2025 privind aprobarea statului de funcții al aparatului de specialitate a Primăriei Comunei Avram Iancu",
+"short": "HCL Avram Iancu nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/238184",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-75-2025",
+"path": "local/bihor/avram-iancu/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 75/2025 privind aprobarea Procesului-Verbal de la şedinţa anterioara 28.11.2025",
+"short": "HCL Avram Iancu nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/240942",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -110,6 +355,51 @@
 "council_name": "Consiliul Local al Comunei Avram Iancu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-78-2025",
+"path": "local/bihor/avram-iancu/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 78/2025",
+"short": "HCL Avram Iancu nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/240945",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-79-2025",
+"path": "local/bihor/avram-iancu/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 79/2025 privind aprobarea Procesului-Verbal de la şedinţa anterioara 16.12.2025",
+"short": "HCL Avram Iancu nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/243733",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

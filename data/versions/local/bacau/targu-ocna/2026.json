@@ -3,6 +3,51 @@
  "shard": "local/bacau/targu-ocna/2026",
  "acts": [
   {
+   "slug": "hcl-bacau--targu-ocna-42-2026",
+   "path": "local/bacau/targu-ocna/2026/42",
+   "short": "HCL Târgu Ocna nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Ocna nr. 42/2026 Privind aprobarea contului anual de executie a bugetului local pe anul 2025 Consiliul local al orașului Târgu Ocna, județul Bacău ȋntrunit ȋn ședință ordinară ȋn data de 12.05.2026; Având în vedere: - Referatul de aprobare al Primarului orașului Târgu Ocna, înregistrat sub nr. 5498 din 29.04.2026; - Raportul de specialitate întocmit de către Serviciul Buget Contabilitate, înregistrat sub nr. 5499",
+   "url": "https://www.orasul-targuocna.ro/wp-content/uploads/2026/07/HCL-nr.-42-din-12.05.2026-cont-de-executie-pentru-anul-2025.pdf",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://www.orasul-targuocna.ro/wp-content/uploads/2026/07/HCL-nr.-42-din-12.05.2026-cont-de-executie-pentru-anul-2025.pdf",
+     "sha256": "cdb2da8c2695f5793c59894aabbea8a2039acf5565e95a0ca8ce9eebcfc30e89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--targu-ocna-43-2026",
+   "path": "local/bacau/targu-ocna/2026/43",
+   "short": "HCL Târgu Ocna nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Ocna nr. 43/2026 Privind aprobarea execuției bugetare a orașului Târgu Ocna pe trimestrul I 2026 Consiliul local al orașului Târgu Ocna, judetul Bacau ȋntrunit ȋn sedință ordinară ȋn data de 12.05.2026; Luând în considerare: - Referatul de aprobare al Primarului orașului Târgu Ocna, inregistrat sub 5834 din 05.05.2026; - Raportul de specialitate întocmit de către Serviciul Buget Contabilitate, înregistrat sub 5835",
+   "url": "https://www.orasul-targuocna.ro/wp-content/uploads/2026/07/HCL-nr.-43-din-12.05.2026-Executie-bugetara-trim-I-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://www.orasul-targuocna.ro/wp-content/uploads/2026/07/HCL-nr.-43-din-12.05.2026-Executie-bugetara-trim-I-2026.pdf",
+     "sha256": "010303208d9085e0939e4d0b0d9340311ed83b41b2ff35bf2b0328c64fe17480"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--targu-ocna-50-2026",
+   "path": "local/bacau/targu-ocna/2026/50",
+   "short": "HCL Târgu Ocna nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Ocna nr. 50/2026 privind aprobarea indicatorilor economici actualizați aferenți obiectivului de investiții „Dezvoltarea infrastructurii educaționale prin construirea unui corp nou de clădire în cadrul Liceului Tehnologic Târgu Ocna, județul Bacău”, finanțat prin Programul Regional Nord-Est, Prioritatea P6 – Nord-Est – O regiune educată, Obiectiv specific RSO4.2, ȋn vederea actualizării bugetului proiectului Consil",
+   "url": "https://www.orasul-targuocna.ro/wp-content/uploads/2026/07/HCL-nr.-50-din-26.05.2026-Modificare-HCL-85-2024-indicatorii-Liceu-tehnologic.pdf",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.orasul-targuocna.ro/wp-content/uploads/2026/07/HCL-nr.-50-din-26.05.2026-Modificare-HCL-85-2024-indicatorii-Liceu-tehnologic.pdf",
+     "sha256": "27e8b58e9560f9a274dbe2b6f2bb97fc339ea563655c63121ba8ec26e42170c7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--targu-ocna-90-2026",
    "path": "local/bacau/targu-ocna/2026/90",
    "short": "HCL Târgu Ocna nr. 90/2026",

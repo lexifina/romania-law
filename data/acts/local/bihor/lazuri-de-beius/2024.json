@@ -25,6 +25,51 @@
 }
 },
 {
+"slug": "hcl-bihor--lazuri-de-beius-60-2024",
+"path": "local/bihor/lazuri-de-beius/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 60/2024",
+"short": "HCL Lazuri de Beiuș nr. 60/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-09",
+"latest": "2024-10-09",
+"portal": "https://emol.ro/lazuridebeius-bh/registru-hcl/171395",
+"council": "bihor/lazuri-de-beius",
+"council_name": "Consiliul Local al Comunei Lazuri de Beiuș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--lazuri-de-beius-61-2024",
+"path": "local/bihor/lazuri-de-beius/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 61/2024 privind alegerea Preşedintelui de şedinţã",
+"short": "HCL Lazuri de Beiuș nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://emol.ro/lazuridebeius-bh/registru-hcl/175266",
+"council": "bihor/lazuri-de-beius",
+"council_name": "Consiliul Local al Comunei Lazuri de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--lazuri-de-beius-62-2024",
 "path": "local/bihor/lazuri-de-beius/2024/62",
 "kind": "local",
@@ -44,6 +89,50 @@
 "council_name": "Consiliul Local al Comunei Lazuri de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--lazuri-de-beius-63-2024",
+"path": "local/bihor/lazuri-de-beius/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 63/2024 privind organizarea Comisiilor de specialitate a Consiliului local al comunei Lazuri de Beius",
+"short": "HCL Lazuri de Beiuș nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://emol.ro/lazuridebeius-bh/registru-hcl/175268",
+"council": "bihor/lazuri-de-beius",
+"council_name": "Consiliul Local al Comunei Lazuri de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--lazuri-de-beius-64-2024",
+"path": "local/bihor/lazuri-de-beius/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 64/2024 privind alegerea viceprimarului comunei Lazuri de Beiuș",
+"short": "HCL Lazuri de Beiuș nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://emol.ro/lazuridebeius-bh/registru-hcl/175269",
+"council": "bihor/lazuri-de-beius",
+"council_name": "Consiliul Local al Comunei Lazuri de Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +246,29 @@
 }
 },
 {
+"slug": "hcl-bihor--lazuri-de-beius-70-2024",
+"path": "local/bihor/lazuri-de-beius/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 70/2024",
+"short": "HCL Lazuri de Beiuș nr. 70/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-10",
+"latest": "2024-12-10",
+"portal": "https://emol.ro/lazuridebeius-bh/registru-hcl/179794",
+"council": "bihor/lazuri-de-beius",
+"council_name": "Consiliul Local al Comunei Lazuri de Beiuș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--lazuri-de-beius-71-2024",
 "path": "local/bihor/lazuri-de-beius/2024/71",
 "kind": "local",
@@ -220,6 +332,29 @@
 "council_name": "Consiliul Local al Comunei Lazuri de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--lazuri-de-beius-74-2024",
+"path": "local/bihor/lazuri-de-beius/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 74/2024",
+"short": "HCL Lazuri de Beiuș nr. 74/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/lazuridebeius-bh/registru-hcl/186290",
+"council": "bihor/lazuri-de-beius",
+"council_name": "Consiliul Local al Comunei Lazuri de Beiuș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

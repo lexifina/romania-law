@@ -270,6 +270,28 @@
 }
 },
 {
+"slug": "hcl-bacau--filipeni-39-2021",
+"path": "local/bacau/filipeni/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 39/2021 privind desemnarea a doi reprezentanți ai Consiliului local în Consiliul de administrație al Școlii Gimnaziale Filipeni, în anul școlar 2021-2022",
+"short": "HCL Filipeni nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-10",
+"latest": "2021-09-10",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/42690",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--filipeni-40-2021",
 "path": "local/bacau/filipeni/2021/40",
 "kind": "local",

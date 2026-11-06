@@ -3,6 +3,50 @@
 "shard": "local/bacau/tamasi/2025",
 "acts": [
 {
+"slug": "hcl-bacau--tamasi-59-2025",
+"path": "local/bacau/tamasi/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tamași nr. 59/2025 privind acordarea Diplomei de onoare si a unui premiu pecuniar pentru cuplurile care au împlinit 50 de ani de căsătorie în anul 2025",
+"short": "HCL Tamași nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-17",
+"latest": "2025-11-17",
+"portal": "https://emol.ro/tamasi-bc/registru-hcl/231482",
+"council": "bacau/tamasi",
+"council_name": "Consiliul Local al Comunei Tamași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--tamasi-60-2025",
+"path": "local/bacau/tamasi/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tamași nr. 60/2025 privind actualizarea devizului general la obiectivul de investitii ,,Extindere retea de iluminat public in loc Chetriș si Tamași, jud . Bacau ,,",
+"short": "HCL Tamași nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-17",
+"latest": "2025-11-17",
+"portal": "https://emol.ro/tamasi-bc/registru-hcl/231483",
+"council": "bacau/tamasi",
+"council_name": "Consiliul Local al Comunei Tamași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--tamasi-61-2025",
 "path": "local/bacau/tamasi/2025/61",
 "kind": "local",
@@ -68,6 +112,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--tamasi-64-2025",
+"path": "local/bacau/tamasi/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tamași nr. 64/2025 privind constituirea unui drept de utilizare și acces a suprafeței de aproximativ 240 mp din zona drumului de exploatare D.E.964/1 și a drumurilor de exploatare -intersecții ce sunt subtraversate de conducta de refulare CR având Dn 600 mm aflate in domeniul public al Comunei Tamași și in administrarea Consiliului Local al Comunei Tamași în favoarea A.N.I.F.- FILIALA TERITORIALĂ de ÎMBUNĂTĂȚIRI FUNCIARE BACĂU",
+"short": "HCL Tamași nr. 64/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://emol.ro/tamasi-bc/registru-hcl/236118",
+"council": "bacau/tamasi",
+"council_name": "Consiliul Local al Comunei Tamași",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
