@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "instante/2009",
+ "acts": [
+  {
+   "slug": "instante-ca-bucuresti-incheiere-2009-1603",
+   "path": "instante/ca-bucuresti/incheiere/2009/1603",
+   "short": "Încheierea Curții de Apel București nr. 1603/2009",
+   "title": "Încheierea Curții de Apel București nr. 1603/2009, publicată în Monitorul Oficial nr. 240 din 6 aprilie 2011",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/127503",
+   "versions": [
+    {
+     "from": "2011-04-06",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/127503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-sentinta-2009-3717",
+   "path": "instante/ca-bucuresti/sentinta/2009/3717",
+   "short": "Sentința Curții de Apel București nr. 3717/2009",
+   "title": "SENTINŢĂ CIVILĂ nr. 3.717 din 4 noiembrie 2009 privind solicitarea anulării unor prevederi cuprinse în Ordinul preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 1.009/2007",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/136417",
+   "versions": [
+    {
+     "from": "2012-03-22",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/136417",
+     "sha256": "8481d748c99d101d77c88a67978c6e788ad8aff81c0a914dce19c06e8ed2d5f4"
+    }
+   ]
+  }
+ ]
+}

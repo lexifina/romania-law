@@ -3,6 +3,25 @@
 "shard": "instructiuni/2010",
 "acts": [
 {
+"slug": "instructiuni-aparare-80-2010",
+"path": "instructiuni/aparare/2010/80",
+"kind": "instructiuni",
+"year": "2010",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 80/2010 M.80 din 14 iulie 2010 privind stabilirea competenței pentru aprobarea scăderii din evidența contabilă a unităților militare din cadrul Ministerului Apărării Naționale a pagubelor pentru care, potrivit legii, nu se angajează răspundere materială sau a sumelor ce depășesc cuantumul imputabil al pagubelor",
+"short": "Instrucțiuni aparare nr. 80/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-07-21",
+"latest": "2010-07-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/120786",
+"issuer": "aparare",
+"joint": []
+},
+{
 "slug": "instructiuni-cnvm-1-2010",
 "path": "instructiuni/cnvm/2010/1",
 "kind": "instructiuni",

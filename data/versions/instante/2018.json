@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "instante/2018",
+ "acts": [
+  {
+   "slug": "instante-ca-bucuresti-incheiere-2018-2018-01-16",
+   "path": "instante/ca-bucuresti/incheiere/2018/2018-01-16",
+   "short": "Încheierea Curții de Apel București din 2018-01-16",
+   "title": "Încheierea Curții de Apel București din 2018-01-16, publicată în Monitorul Oficial nr. 1112 din 23 noiembrie 2021",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/248631",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/248631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-incheiere-2018-2018-10-18",
+   "path": "instante/ca-bucuresti/incheiere/2018/2018-10-18",
+   "short": "Încheierea Curții de Apel București din 2018-10-18",
+   "title": "Încheierea Curții de Apel București din 2018-10-18, publicată în Monitorul Oficial nr. 1078 din 8 noiembrie 2022",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/261251",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/261251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-sentinta-2018-4433",
+   "path": "instante/ca-bucuresti/sentinta/2018/4433",
+   "short": "Sentința Curții de Apel București nr. 4433/2018",
+   "title": "SENTINŢA CIVILĂ nr. 4.433 din 1 noiembrie 2018 referitoare la soluţionarea acţiunii în contencios administrativ formulată de reclamanta Banca Comercială Română, în contradictoriu cu pârâta Autoritatea Naţională de Supraveghere a Prelucrării Datelor cu Caracter Personal",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/261252",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/261252",
+     "sha256": "fa3d5e7192983db7b8483606dc4b8a119a61b3f03a258a4de132c4c844a2f149"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-sentinta-2018-596",
+   "path": "instante/ca-bucuresti/sentinta/2018/596",
+   "short": "Sentința Curții de Apel București nr. 596/2018",
+   "title": "SENTINŢA CIVILĂ nr. 596 din 13 februarie 2018 Şedinţa publică din 13 februarie 2018",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/248633",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/248633",
+     "sha256": "8a681ee6b11aa32a2281007501b2ef1abe12ba91a35f8abced64342abccefd26"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-targu-mures-sentinta-2018-176",
+   "path": "instante/ca-targu-mures/sentinta/2018/176",
+   "short": "Sentința Curții de Apel Târgu Mureș nr. 176/2018",
+   "title": "Sentința Curții de Apel Târgu Mureș nr. 176/2018, publicată în Monitorul Oficial nr. 1095 din 14 noiembrie 2022",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/261364",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/261364",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -173,6 +173,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/23812"
 },
 {
+"slug": "anexa-hg-514-1999-anexa",
+"path": "anexa/hg-514-1999/anexa",
+"kind": "anexa",
+"year": "1999",
+"number": "hg-514-1999/anexa",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norme metodologice din 24 iunie 1999 de aplicare a Ordonanței Guvernului nr. 128/1998 pentru reglementarea modului și condițiilor de valorificare a bunurilor legal confiscate sau intrate, potrivit legii, în proprietatea privată a statului (anexa la Hotărârea Guvernului nr. 514/1999)",
+"short": "Anexa la HG nr. 514/1999",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1999-07-09",
+"latest": "1999-07-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/36533"
+},
+{
 "slug": "anexa-hg-567-1999-anexa",
 "path": "anexa/hg-567-1999/anexa",
 "kind": "anexa",
@@ -222,6 +239,23 @@
 "from": "1999-08-19",
 "latest": "1999-08-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/47976"
+},
+{
+"slug": "anexa-hg-685-1999-anexa-1",
+"path": "anexa/hg-685-1999/anexa-1",
+"kind": "anexa",
+"year": "1999",
+"number": "hg-685-1999/anexa-1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Normă din 23 august 1999 privind monitorizarea datoriilor nerambursate la scadență ale contribuabililor, persoane juridice, în vederea diminuării blocajului financiar și a pierderilor din economie (anexa nr. 1 la Hotărârea Guvernului nr. 685/1999)",
+"short": "Anexa nr. 1 la HG nr. 685/1999",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1999-08-30",
+"latest": "1999-08-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/123376"
 },
 {
 "slug": "anexa-hg-788-1999-anexa",

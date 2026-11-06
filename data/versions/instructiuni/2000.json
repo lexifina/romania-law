@@ -106,6 +106,21 @@
      "sha256": "56e06c68c44fbd97171987739304944fb716a682d530da020c3bd6fb34f09cda"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-justitie-2325-2000",
+   "path": "instructiuni/justitie/2000/2325",
+   "short": "Instrucțiuni justitie nr. 2325/2000",
+   "title": "Instrucțiunile nr. 2.325/2000 /C. din 4 octombrie 2000 privind criteriile de autorizare a operatorilor de arhiva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24562",
+   "versions": [
+    {
+     "from": "2000-10-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24562",
+     "sha256": "78ed78df1f343d33bbf2da9473b5fb3f63230ba39b85896b402ed7d4288efa1a"
+    }
+   ]
   }
  ]
 }

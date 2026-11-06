@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/1990",
+ "acts": [
+  {
+   "slug": "instructiuni-finante-117083-1990",
+   "path": "instructiuni/finante/1990/117083",
+   "short": "Instrucțiuni finante nr. 117083/1990",
+   "title": "Instrucțiunile nr. 117.083/1990 privind modul de calculare și de evidenta a impozitului pe circulația mărfurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1406",
+   "versions": [
+    {
+     "from": "1990-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1406",
+     "sha256": "f8f73e8d369d8436ca018d373a82639aa0a6879a81b49e2dd3b180a143b8f980"
+    }
+   ]
+  }
+ ]
+}

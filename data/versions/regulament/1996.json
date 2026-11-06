@@ -286,6 +286,21 @@
      "sha256": "dfa30f5d6b537a723a2215fa5b0a45d335c8a6257bdc0599f0cd9c0f1dda4077"
     }
    ]
+  },
+  {
+   "slug": "regulament-fps-4384-1996",
+   "path": "regulament/fps/1996/4384",
+   "short": "Regulament fps nr. 4384/1996",
+   "title": "Regulamentul nr. 4.384/1996 P/4384 din 18 noiembrie 1996 de organizare a licitațiilor pentru contractarea serviciilor de consultanța în domeniul evaluării societăților comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10702",
+   "versions": [
+    {
+     "from": "1996-12-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10702",
+     "sha256": "c5c72bb34aa0ff033854b40ad7411ae8ecc01f4bd3f96cb921c32fbafca04fd7"
+    }
+   ]
   }
  ]
 }

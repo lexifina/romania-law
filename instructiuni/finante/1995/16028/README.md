@@ -1,0 +1,18 @@
+# Instrucțiunile nr. 16.028/1995 privind încheierea exercițiului financiar-bugetar la finele anului 1995
+
+Instrucțiuni finante nr. 16028/1995 · 1 versions, from 1995-12-14 (latest in force: 1995-12-14) · <https://legislatie.just.ro/Public/DetaliiDocument/7655>
+
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
+
+Act id: `instructiuni-finante-16028-1995` (tags `instructiuni-finante-16028-1995/<day>`; `python tools/on.py <day> instructiuni-finante-16028-1995`).
+
+## Decisions made by hand
+
+- Instrucțiuni finante nr. 16028/1995: added from the official web service of the Portalul legislativ (FreeWebService) as the instructions as published in Monitorul Oficial nr. 290 of 14 December 1995 (document 7655, retrieved 2026-11-02, held on disk; the service was not requested again). Whether later acts amended it has not yet been checked; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
+- Instrucțiuni finante nr. 16028/1995: built by Lexifina's norms lane with the default rules for an act known from the official web service alone, and no ruling made for this act alone: the issuer, number, signing day and Monitorul Oficial reference are those the official web service gives for the document.
+- Instrucțiuni finante nr. 16028/1995: the first version is the instructions as published in Monitorul Oficial nr. 290 of 14 December 1995, in force from its publication in the Monitorul Oficial (the day the issuer gives).
+- Instrucțiuni finante nr. 16028/1995: its text is kept whole as one unit: its articles could not be split without losing words.

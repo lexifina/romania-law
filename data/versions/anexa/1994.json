@@ -3,6 +3,21 @@
  "shard": "anexa/1994",
  "acts": [
   {
+   "slug": "anexa-hg-139-1994-anexa",
+   "path": "anexa/hg-139-1994/anexa",
+   "short": "Anexa la HG nr. 139/1994",
+   "title": "Norme metodologice din 1 aprilie 1994 privind acordarea, utilizarea și controlul utilizării subvențiilor de la bugetul de stat pentru acoperirea a 60% din dobânda calculată la creditele bancare contractate de producătorii agricoli pentru creșterea și îngrășarea porcilor și pentru creșterea păsărilor (anexa la Hotărârea Guvernului nr. 139/1994)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55312",
+   "versions": [
+    {
+     "from": "1994-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55312",
+     "sha256": "b98515432812300853a3cb821373f9dbf491892502248eb833e536bace5d2c38"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-273-1994-anexa",
    "path": "anexa/hg-273-1994/anexa",
    "short": "Anexa la HG nr. 273/1994",
@@ -29,6 +44,21 @@
      "units": 119,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31213",
      "sha256": "e2d1381a54a2ce3d0d161ee4afe113c24140207ac5f40884d47190970e870468"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-81-1994-anexa-2",
+   "path": "anexa/hg-81-1994/anexa-2",
+   "short": "Anexa nr. 2 la HG nr. 81/1994",
+   "title": "Norme din 4 martie 1994 privind acordarea, utilizarea și controlul utilizării alocațiilor de la bugetul de stat, destinate producătorilor agricoli care își procura efective matca și reproducători și care mențin în exploatare efective matca de vaci și bivolițe (anexa nr. 2 la Hotărârea Guvernului nr. 81/1994)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64870",
+   "versions": [
+    {
+     "from": "1994-04-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64870",
+     "sha256": "d74f4c71dbe25004f323f77770daa9cdf698c11e699fbfcabc76165a7c244f4a"
     }
    ]
   },

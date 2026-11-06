@@ -121,6 +121,21 @@
      "sha256": "9ec816bf676b8fe8d8afdf4bdd680980e143db91f4cb1f554db8e8f1c5859e91"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-finante-16028-1995",
+   "path": "instructiuni/finante/1995/16028",
+   "short": "Instrucțiuni finante nr. 16028/1995",
+   "title": "Instrucțiunile nr. 16.028/1995 privind încheierea exercițiului financiar-bugetar la finele anului 1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7655",
+   "versions": [
+    {
+     "from": "1995-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7655",
+     "sha256": "39f0ea41b6a140548aa094944eace9ac0248306a2cb36322d5fad6f86ed4b728"
+    }
+   ]
   }
  ]
 }

@@ -166,6 +166,21 @@
      "sha256": "d885b61fc724d971bc1d9b5a07bd01a9f3611503b5999a112aef04f9ba7d7a5a"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-aparare-142-2017",
+   "path": "instructiuni/aparare/2017/142",
+   "short": "Instrucțiuni aparare nr. 142/2017",
+   "title": "Instrucțiunile nr. 142/2017 M.142 din 10 noiembrie 2017 privind stabilirea competenței pentru aprobarea scăderii din evidența contabilă a unităților militare din cadrul Ministerului Apărării Naționale a pagubelor pentru care, potrivit legii, nu se angajează răspundere materială sau a sumelor ce depășesc cuantumul imputabil al pagubelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194982",
+   "versions": [
+    {
+     "from": "2017-11-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194982",
+     "sha256": "7833501931577d8d67a23990188d4e9869bc60fb54f0947cc8f55aa37e63bee5"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,951 @@
+{
+ "country": "RO",
+ "shard": "anexa/2014",
+ "acts": [
+  {
+   "slug": "anexa-hg-1172-2014-anexa-2",
+   "path": "anexa/hg-1172-2014/anexa-2",
+   "short": "Anexa nr. 2 la HG nr. 1172/2014",
+   "title": "Regulament din 29 decembrie 2014 de organizare și funcționare al Comitetului de privatizare, concesionare și arendare al Agenției Domeniilor Statului (anexa nr. 2 la Hotărârea Guvernului nr. 1172/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164286",
+   "versions": [
+    {
+     "from": "2014-12-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164286",
+     "sha256": "2c7dae47d4609213187f71a970c0e09ffb7dc83b9f44264d5360a513ce768f5f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-650-2014-anexa",
+   "path": "anexa/hg-650-2014/anexa",
+   "short": "Anexa la HG nr. 650/2014",
+   "title": "Regulament din 31 iulie 2014 de organizare și funcționare al Comisiei centrale de arbitraj (anexa la Hotărârea Guvernului nr. 650/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160486",
+   "versions": [
+    {
+     "from": "2014-08-06",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160486",
+     "sha256": "e26e876193e5b0f76af651eef8a219f566721013187e1bcd1fd73256d717e9bf"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-cifga-166-2014-anexa",
+   "path": "anexa/hotarare-cifga-166-2014/anexa",
+   "short": "Anexa la Hotărârea cifga nr. 166/2014",
+   "title": "Norma din 26 septembrie 2014 \"Asigurarea pe termen scurt, în numele și în contul statului, a riscului de neplată la extern, riscuri nonpiață și riscuri temporar nonpiață (NI-ASR-07-VI/0)\" (anexa la Hotărârea CIFGA nr. 166/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161855",
+   "versions": [
+    {
+     "from": "2014-10-03",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161855",
+     "sha256": "15004b282cfa87eba90b026be5f8fbf90b557ca93a28fe11797354f03608df1c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-1329-2014-anexa",
+   "path": "anexa/ordin-agricultura-1329-2014/anexa",
+   "short": "Anexa la Ordin agricultura nr. 1329/2014",
+   "title": "Norme metodologice din 25 august 2014 privind condițiile de punere în aplicare a măsurii de asigurare a recoltei de struguri pentru vin, eligibilă pentru finanțare în cadrul Programului național de sprijin al României în sectorul vitivinicol 2014-2018 (anexa la Ordinul AGRICULTURA nr. 1329/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161029",
+   "versions": [
+    {
+     "from": "2014-09-03",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161029",
+     "sha256": "0098d2d33b1766d791c714c5a44ceb453a72e97f7a5a2e7284a550ae2d770036"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-1426-2014-anexa",
+   "path": "anexa/ordin-agricultura-1426-2014/anexa",
+   "short": "Anexa la Ordin agricultura nr. 1426/2014",
+   "title": "Norme metodologice din 17 septembrie 2014 pentru elaborarea protocoalelor de transmitere/predare-preluare a infrastructurii de îmbunătățiri funciare din domeniul public sau privat al statului de la Agenția Națională de Îmbunătățiri Funciare la organizația de îmbunătățiri funciare sau federația de organizații de îmbunătățiri funciare (anexa la Ordinul AGRICULTURA nr. 1426/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162119",
+   "versions": [
+    {
+     "from": "2014-10-14",
+     "units": 63,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162119",
+     "sha256": "32b5559fb2fce02921b8c556c0d8fc36cf038b5eff4adcc2972d7113ea0105cd"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-1562-2014-anexa",
+   "path": "anexa/ordin-agricultura-1562-2014/anexa",
+   "short": "Anexa la Ordin agricultura nr. 1562/2014",
+   "title": "Procedură din 14 octombrie 2014 de retragere sub control a subproduselor vitivinicole (anexa la Ordinul AGRICULTURA nr. 1562/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162347",
+   "versions": [
+    {
+     "from": "2014-10-21",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162347",
+     "sha256": "cc077bc43caebe5d01b6493ae27060b1499dca62c79a0ce134f300d46b67faba"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-1763-2014-anexa",
+   "path": "anexa/ordin-agricultura-1763-2014/anexa",
+   "short": "Anexa la Ordin agricultura nr. 1763/2014",
+   "title": "Normă din 10 noiembrie 2014 privind condițiile de punere în aplicare a măsurii de restructurare/reconversie a plantațiilor viticole, eligibilă pentru finanțare în cadrul Programului Național de Sprijin al României în sectorul vitivinicol 2014-2018 (anexa la Ordinul AGRICULTURA nr. 1763/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162963",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162963",
+     "sha256": "2425c7084ab804881e2354e1bc4f55bea5118566b82522e5d46ef0cb7e36c8c1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-2782-2014-anexa",
+   "path": "anexa/ordin-anaf-2782-2014/anexa",
+   "short": "Anexa la Ordin anaf nr. 2782/2014",
+   "title": "Norme din 8 septembrie 2014 privind accesul la componentele Sistemului informatic integrat vamal (SIIV) (anexa la Ordinul ANAF nr. 2782/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161285",
+   "versions": [
+    {
+     "from": "2014-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161285",
+     "sha256": "77fd72074208c41fda0d67537a2e2ee5933e557658fb677b7ea449662d864aa5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-2783-2014-anexa",
+   "path": "anexa/ordin-anaf-2783-2014/anexa",
+   "short": "Anexa la Ordin anaf nr. 2783/2014",
+   "title": "Norme din 8 septembrie 2014 privind accesul la aplicația de tranzit NCTS-RO (anexa la Ordinul ANAF nr. 2783/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161282",
+   "versions": [
+    {
+     "from": "2014-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161282",
+     "sha256": "1d1d15015f7a801ab7e5e81e5778ade2d467776330f7275158c9973759898a58"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-3633-2014-anexa-1",
+   "path": "anexa/ordin-anaf-3633-2014/anexa-1",
+   "short": "Anexa nr. 1 la Ordin anaf nr. 3633/2014",
+   "title": "Norme tehnice din 26 noiembrie 2014 de aplicare a dreptului de reprezentare prevăzut în Regulamentul (CEE) nr. 2.913/1992 al Consiliului din 12 octombrie 1992 de instituire a Codului Vamal Comunitar (anexa nr. 1 la Ordinul ANAF nr. 3633/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163572",
+   "versions": [
+    {
+     "from": "2014-12-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163572",
+     "sha256": "6e36bea8183400a3ff66c7b56e65c703edbf567856565d8a088f51f6c8545cc2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-3633-2014-anexa-2",
+   "path": "anexa/ordin-anaf-3633-2014/anexa-2",
+   "short": "Anexa nr. 2 la Ordin anaf nr. 3633/2014",
+   "title": "Instrucțiuni de completare din 26 noiembrie 2014 a casetelor 2, 8, 14 și 54 ale declarației vamale în situații particulare ce decurg din tipul reprezentării (anexa nr. 2 la Ordinul ANAF nr. 3633/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163574",
+   "versions": [
+    {
+     "from": "2014-12-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163574",
+     "sha256": "ab879f5364270a4b8143427185e71cd0559c53d323e188f9bf71c3e766a3055f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-105-2014-anexa",
+   "path": "anexa/ordin-aparare-105-2014/anexa",
+   "short": "Anexa la Ordin aparare nr. 105/2014",
+   "title": "Instrucțiuni din 20 septembrie 2014 privind asistența psihologică în Armata României (anexa la Ordinul APARARE nr. 105/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161768",
+   "versions": [
+    {
+     "from": "2014-10-01",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161768",
+     "sha256": "a27cab4c774cbe0d61dbc8182a59a697c9521dee3a97510df60cd98c4ef0da76"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-122-2014-anexa",
+   "path": "anexa/ordin-aparare-122-2014/anexa",
+   "short": "Anexa la Ordin aparare nr. 122/2014",
+   "title": "Metodologie din 20 noiembrie 2014 întocmirii aprecierilor de serviciu pentru cadrele militare din structurile Ministerului Apărării Naționale, pe timp de pace (anexa la Ordinul APARARE nr. 122/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163308",
+   "versions": [
+    {
+     "from": "2014-12-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163308",
+     "sha256": "6dcb46ab07c37d36de76d8104be81809bbcb7489fcdc9fb28311f28e0ea35b2c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cnas-581-2014-anexa",
+   "path": "anexa/ordin-cnas-581-2014/anexa",
+   "short": "Anexa la Ordin cnas nr. 581/2014",
+   "title": "Norme metodologice din 8 septembrie 2014 pentru stabilirea documentelor justificative privind dobândirea calității de asigurat (anexa la Ordinul CNAS nr. 581/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161440",
+   "versions": [
+    {
+     "from": "2014-09-19",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161440",
+     "sha256": "3edabf0a560b0acd75f1b851fc4341bca73bd4e964070c0272ed29cd41456b0f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cultura-2668-2014-anexa",
+   "path": "anexa/ordin-cultura-2668-2014/anexa",
+   "short": "Anexa la Ordin cultura nr. 2668/2014",
+   "title": "Regulament din 8 octombrie 2014 de organizare și funcționare a Institutului Național pentru Cercetare și Formare Culturală (anexa la Ordinul CULTURA nr. 2668/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162270",
+   "versions": [
+    {
+     "from": "2014-10-20",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162270",
+     "sha256": "e39171fd0c0abfa2347b6dcbfec5d9ef958f85decb6d758bd37398a0a037d629"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4424-2014-anexa",
+   "path": "anexa/ordin-educatie-4424-2014/anexa",
+   "short": "Anexa la Ordin educatie nr. 4424/2014",
+   "title": "Metodologie din 28 august 2014 de organizare a sectiilor bilingve francofone incluse in proiectul bilateral franco-roman \"De la invatamantul bilingv catre filierele universitare francofone\" (anexa la Ordinul EDUCATIE nr. 4424/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161121",
+   "versions": [
+    {
+     "from": "2014-09-08",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161121",
+     "sha256": "3bc309c638f2fa377bfa804d118799da9f5eb22f9f1df15597983762c4bb35c3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4433-2014-anexa",
+   "path": "anexa/ordin-educatie-4433-2014/anexa",
+   "short": "Anexa la Ordin educatie nr. 4433/2014",
+   "title": "Metodologie din 29 august 2014 de organizare și desfășurare a examenului de certificare a calificării absolvenților învățământului liceal, filiera vocațională (anexa la Ordinul EDUCATIE nr. 4433/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161412",
+   "versions": [
+    {
+     "from": "2014-09-18",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161412",
+     "sha256": "092782de58b752b620ce7b4f73c73cdb6095e76c1fe5f6dabf90cd707fe04134"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4434-2014-anexa",
+   "path": "anexa/ordin-educatie-4434-2014/anexa",
+   "short": "Anexa la Ordin educatie nr. 4434/2014",
+   "title": "Metodologie din 29 august 2014 de organizare și desfășurare a examenului de certificare a calificării absolvenților învățământului liceal, filiera tehnologică (anexa la Ordinul EDUCATIE nr. 4434/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161168",
+   "versions": [
+    {
+     "from": "2014-09-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161168",
+     "sha256": "1a4b7d87502e0c084a7eaf38c834503da134028d20944e7e2d6da6fe0d5f8778"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4435-2014-anexa",
+   "path": "anexa/ordin-educatie-4435-2014/anexa",
+   "short": "Anexa la Ordin educatie nr. 4435/2014",
+   "title": "Metodologie din 29 august 2014 de organizare și desfășurare a examenului de certificare a calificării profesionale pentru absolvenții învățământului profesional cu durata de 3 ani (anexa la Ordinul EDUCATIE nr. 4435/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162336",
+   "versions": [
+    {
+     "from": "2014-10-21",
+     "units": 53,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162336",
+     "sha256": "6ee3353e7b7567abd2d4b3b38aba005ae578bd1bdf131629477f90e79fee51e5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4542-2014-anexa",
+   "path": "anexa/ordin-educatie-4542-2014/anexa",
+   "short": "Anexa la Ordin educatie nr. 4542/2014",
+   "title": "Metodologie-cadru din 8 septembrie 2014 privind organizarea și funcționarea învățământului terțiar nonuniversitar, organizat la nivelul colegiilor din cadrul instituțiilor de învățământ superior acreditate, în anul școlar 2014-2015 (anexa la Ordinul EDUCATIE nr. 4542/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161157",
+   "versions": [
+    {
+     "from": "2014-09-09",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161157",
+     "sha256": "8736a24637b0597e1b23c7c17839cbccf242cb0cd3b93e1eb5d45b59484291d4"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4869-2014-anexa-1",
+   "path": "anexa/ordin-educatie-4869-2014/anexa-1",
+   "short": "Anexa nr. 1 la Ordin educatie nr. 4869/2014",
+   "title": "Regulament din 5 noiembrie 2014 de organizare și funcționare a Institutului Limbii Române (anexa nr. 1 la Ordinul EDUCATIE nr. 4869/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163526",
+   "versions": [
+    {
+     "from": "2014-12-03",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163526",
+     "sha256": "aa896cefe27c115c6f5a48a255f5f0bc266b73d9da55a8cf17e023bc710bfc45"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4893-2014-anexa",
+   "path": "anexa/ordin-educatie-4893-2014/anexa",
+   "short": "Anexa la Ordin educatie nr. 4893/2014",
+   "title": "Metodologia și criteriile din 10 noiembrie 2014 privind acordarea gradației de merit personalului didactic din învățământul preuniversitar de stat, sesiunea 2015 (anexa la Ordinul EDUCATIE nr. 4893/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164687",
+   "versions": [
+    {
+     "from": "2015-01-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164687",
+     "sha256": "52740fe3a6721decfcd0080c70b9fa9098beb87838236ebf8d2fa36603a8be2e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5005-2014-anexa",
+   "path": "anexa/ordin-educatie-5005-2014/anexa",
+   "short": "Anexa la Ordin educatie nr. 5005/2014",
+   "title": "Metodologie din 2 decembrie 2014 de organizare și desfășurare a examenului de certificare a calificării profesionale a absolvenților învățământului postliceal (anexa la Ordinul EDUCATIE nr. 5005/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164146",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 60,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164146",
+     "sha256": "dc9d110f35b3722b53bf2ed3fcb8866b9aceba071829e669943776a38e4768b7"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5076-2014-anexa-1",
+   "path": "anexa/ordin-educatie-5076-2014/anexa-1",
+   "short": "Anexa nr. 1 la Ordin educatie nr. 5076/2014",
+   "title": "Metodologie din 5 decembrie 2014 privind recrutarea și selecția lectorilor de limba română care urmează să predea cursuri de limbă, literatură, cultură și civilizație românească în universități din străinătate (anexa nr. 1 la Ordinul EDUCATIE nr. 5076/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164224",
+   "versions": [
+    {
+     "from": "2014-12-29",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164224",
+     "sha256": "7c99642fc0c94f07cbb60fce89c46842b408b93fbbdfae0f7cc4f943a1631169"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5076-2014-anexa-2",
+   "path": "anexa/ordin-educatie-5076-2014/anexa-2",
+   "short": "Anexa nr. 2 la Ordin educatie nr. 5076/2014",
+   "title": "Regulament din 5 decembrie 2014 privind funcționarea Corpului lectorilor în cadrul Institutului Limbii Române (anexa nr. 2 la Ordinul EDUCATIE nr. 5076/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164225",
+   "versions": [
+    {
+     "from": "2014-12-29",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164225",
+     "sha256": "56e00e4b1c1a1ba586a7c28d6fd71ae760769ff60fea5e539c57de88fa13746f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5113-2014-anexa",
+   "path": "anexa/ordin-educatie-5113-2014/anexa",
+   "short": "Anexa la Ordin educatie nr. 5113/2014",
+   "title": "Metodologie din 15 decembrie 2014 privind managementul riscurilor de corupție în cadrul Ministerului Educației Naționale și al instituțiilor și unităților subordonate/coordonate a căror activitate vizează învățământul preuniversitar (anexa la Ordinul EDUCATIE nr. 5113/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164401",
+   "versions": [
+    {
+     "from": "2015-01-07",
+     "units": 69,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164401",
+     "sha256": "9c31762c5ea5945e01220d1e92bf78ae09d0241b1a8ed1c3903d1b43eaca0b8c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5114-2014-anexa",
+   "path": "anexa/ordin-educatie-5114-2014/anexa",
+   "short": "Anexa la Ordin educatie nr. 5114/2014",
+   "title": "Metodologie din 15 decembrie 2014 de organizare, desfășurare și finalizare a programului special de revalorizare a formării inițiale de asistent medical generalist, dobândită anterior datei de 1 ianuarie 2007, pentru absolvenții învățământului postliceal sanitar (anexa la Ordinul EDUCATIE nr. 5114/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164396",
+   "versions": [
+    {
+     "from": "2015-01-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164396",
+     "sha256": "3dbafc096b11ae3eecbc1aa1ddbeda0e56e8190ad78216c113a9d867cdbc3790"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-566-2014-anexa",
+   "path": "anexa/ordin-educatie-566-2014/anexa",
+   "short": "Anexa la Ordin educatie nr. 566/2014",
+   "title": "Metodologie din 7 octombrie 2014 pentru desfășurarea concursului de rezidențiat pe loc și pe post în medicină, medicină dentară și farmacie, sesiunea 23 noiembrie 2014 (anexa la Ordinul EDUCATIE nr. 566/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161982",
+   "versions": [
+    {
+     "from": "2014-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161982",
+     "sha256": "e78caa466b4740ba86e56b44b3a52b91822d8eab2f8f05f5b0a7736e64237aef"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-650-2014-anexa",
+   "path": "anexa/ordin-educatie-650-2014/anexa",
+   "short": "Anexa la Ordin educatie nr. 650/2014",
+   "title": "Metodologie-cadru din 19 noiembrie 2014 privind organizarea și funcționarea centrelor de consiliere și orientare în carieră în sistemul de învățământ superior din România (anexa la Ordinul EDUCATIE nr. 650/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163185",
+   "versions": [
+    {
+     "from": "2014-11-24",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163185",
+     "sha256": "e9b98f98d2562c1c56cbf490bca1b8ef1ad2adf00a4abc8be568b39da3e62ac8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-668-2014-anexa",
+   "path": "anexa/ordin-educatie-668-2014/anexa",
+   "short": "Anexa la Ordin educatie nr. 668/2014",
+   "title": "Metodologie din 28 noiembrie 2014 de alocare a fondurilor bugetare pentru finanțarea de bază și finanțarea suplimentară a instituțiilor de învățământ superior de stat din România pentru anul 2014 (anexa la Ordinul EDUCATIE nr. 668/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163585",
+   "versions": [
+    {
+     "from": "2014-12-04",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163585",
+     "sha256": "1297df3f5ee61842bf48cd7f347be2cc1903ea0c73c206a27600c65bd4c3b001"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1050-2014-anexa-2",
+   "path": "anexa/ordin-finante-1050-2014/anexa-2",
+   "short": "Anexa nr. 2 la Ordin finante nr. 1050/2014",
+   "title": "Regulament din 12 august 2014 de organizare și funcționare a Comisiei pentru autorizarea operatorilor de produse supuse accizelor armonizate (anexa nr. 2 la Ordinul FINANTE nr. 1050/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160757",
+   "versions": [
+    {
+     "from": "2014-08-20",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160757",
+     "sha256": "3e68505018873612dd6654934c6e4079a3c860530cd9f3e8dc199861f621044f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1154-2014-anexa",
+   "path": "anexa/ordin-finante-1154-2014/anexa",
+   "short": "Anexa la Ordin finante nr. 1154/2014",
+   "title": "Procedura din 1 septembrie 2014 de comunicare prin mijloace electronice de transmitere la distanță între Agenția Națională de Administrare Fiscală și persoanele fizice (anexa la Ordinul FINANTE nr. 1154/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161006",
+   "versions": [
+    {
+     "from": "2014-09-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161006",
+     "sha256": "1d7b5ccad4ea5ec16e0db12189cfab6e628935d924aa91558b9efa3e45bc2579"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1449-2014-anexa",
+   "path": "anexa/ordin-finante-1449-2014/anexa",
+   "short": "Anexa la Ordin finante nr. 1449/2014",
+   "title": "Procedură de plată din 27 octombrie 2014 a sumelor determinate conform deciziilor de aprobare a cererilor de restituire a accizei, emise în baza Hotărârii Guvernului nr. 537/2014 privind condițiile, procedura și termenele de restituire ca ajutor de stat a sumelor reprezentând diferența dintre nivelul standard al accizelor și nivelul accizelor diferențiat pentru motorina utilizată drept combustibil pentru motor (anexa la Ordinul FINANTE nr. 1449/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162503",
+   "versions": [
+    {
+     "from": "2014-10-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162503",
+     "sha256": "cfe758eebd7e98458ddd5a148877a0fca15bb773bdf076327fe5ce855ab9afb1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1620-2014-anexa-1",
+   "path": "anexa/ordin-finante-1620-2014/anexa-1",
+   "short": "Anexa nr. 1 la Ordin finante nr. 1620/2014",
+   "title": "Procedură din 27 noiembrie 2014 de depunere la organul fiscal a documentului de certificare întocmit de consultantul fiscal (anexa nr. 1 la Ordinul FINANTE nr. 1620/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163576",
+   "versions": [
+    {
+     "from": "2014-12-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163576",
+     "sha256": "efde5a7ea36802a5335d9645f00e47c595b12343531b99c0b9cefc8299fe7974"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1620-2014-anexa-2",
+   "path": "anexa/ordin-finante-1620-2014/anexa-2",
+   "short": "Anexa nr. 2 la Ordin finante nr. 1620/2014",
+   "title": "Procedură din 27 noiembrie 2014 privind schimbul de informații între Agenția Națională de Administrare Fiscală și Camera Consultanților Fiscali (anexa nr. 2 la Ordinul FINANTE nr. 1620/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163577",
+   "versions": [
+    {
+     "from": "2014-12-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163577",
+     "sha256": "009df7f955bc3b3b530f12d8c0f4c83ab6025fb8159d62a9591c393d766b13fd"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1780-2014-anexa",
+   "path": "anexa/ordin-finante-1780-2014/anexa",
+   "short": "Anexa la Ordin finante nr. 1780/2014",
+   "title": "Norme metodologice din 19 decembrie 2014 privind încheierea exercițiului bugetar al anului 2014 (anexa la Ordinul FINANTE nr. 1780/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164125",
+   "versions": [
+    {
+     "from": "2014-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164125",
+     "sha256": "51a5e91b9f1c5799e91f5b6f3cfe8a881286717b59901c4a5a74414e9e748e2e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-923-2014-anexa-1",
+   "path": "anexa/ordin-finante-923-2014/anexa-1",
+   "short": "Anexa nr. 1 la Ordin finante nr. 923/2014",
+   "title": "Norme metodologice generale din 11 iulie 2014 referitoare la exercitarea controlului financiar preventiv (anexa nr. 1 la Ordinul FINANTE nr. 923/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160211",
+   "versions": [
+    {
+     "from": "2014-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160211",
+     "sha256": "e644f482fef439887e740f0b4a3568f5d7bcfa4e432d53155e69cd26eccb6336"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-fonduri-1095-2014-anexa",
+   "path": "anexa/ordin-fonduri-1095-2014/anexa",
+   "short": "Anexa la Ordin fonduri nr. 1095/2014",
+   "title": "Ghid din 29 octombrie 2014 Ghidul solicitantului - Condiții specifice pentru cererea de propuneri de proiecte nr. 177 \"Competențe pentru competitivitate în domeniul medical - transplant de organe, țesuturi și celule\" (anexa la Ordinul FONDURI nr. 1095/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162682",
+   "versions": [
+    {
+     "from": "2014-11-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162682",
+     "sha256": "6f0eda47b1612579103a446875f518a66bc1bbfcdfdc6ec335b8ec4839f69692"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-fonduri-1145-2014-anexa",
+   "path": "anexa/ordin-fonduri-1145-2014/anexa",
+   "short": "Anexa la Ordin fonduri nr. 1145/2014",
+   "title": "Ghidul solicitantului din 13 noiembrie 2014 Condiții specifice pentru cererea de propuneri de proiecte nr. 180 \"Calitate în serviciile de ocupare\", finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 4.1 \"Întărirea capacității SPO pentru furnizarea serviciilor de ocupare\" (anexa la Ordinul FONDURI nr. 1145/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163317",
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163317",
+     "sha256": "e09b70ae996e37b9bea7ce380ec29540361cce373ee0e63035fb7701329f272a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-fonduri-1191-2014-anexa",
+   "path": "anexa/ordin-fonduri-1191-2014/anexa",
+   "short": "Anexa la Ordin fonduri nr. 1191/2014",
+   "title": "Instrucțiune din 19 noiembrie 2014 aferentă Ordinului ministrului fondurilor europene nr. 1.120/2013 privind aprobarea Procedurii simplificate aplicate de beneficiarii privați în cadrul proiectelor finanțate din instrumente structurale, obiectivul \"Convergență\", precum și în cadrul proiectelor finanțate prin mecanismele financiare SEE și norvegian pentru atribuirea contractelor de furnizare, servicii sau lucrări (anexa la Ordinul FONDURI nr. 1191/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163208",
+   "versions": [
+    {
+     "from": "2014-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163208",
+     "sha256": "fd49a7a0d0d341698b26e463501dee2c45a5a012374aaa08265b6ffee6a9bcdc"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-fonduri-1297-2014-anexa",
+   "path": "anexa/ordin-fonduri-1297-2014/anexa",
+   "short": "Anexa la Ordin fonduri nr. 1297/2014",
+   "title": "Ghidul solicitantului din 17 decembrie 2014 Condiții specifice pentru Cererea de propuneri de proiecte de tip sistemic nr. 185 \"Sprijin pentru integrarea grupurilor vulnerabile pe piața muncii\", finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 6.2 \"Îmbunătățirea accesului și a participării grupurilor vulnerabile pe piața muncii\" (anexa la Ordinul FONDURI nr. 1297/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164184",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164184",
+     "sha256": "77a946b80ea96bffde8111283827dc8655e4596c0fca2538f3a09927e39f7d24"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-ins-569-2014-anexa",
+   "path": "anexa/ordin-ins-569-2014/anexa",
+   "short": "Anexa la Ordin ins nr. 569/2014",
+   "title": "Normă din 11 noiembrie 2014 de completare a Declarației statistice Intrastat (anexa la Ordinul INS nr. 569/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163205",
+   "versions": [
+    {
+     "from": "2014-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163205",
+     "sha256": "6e6d99cd3015b00815da0d7e5228244207c7d65b06b50809569f32f903cbed3c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-119-2014-anexa",
+   "path": "anexa/ordin-interne-119-2014/anexa",
+   "short": "Anexa la Ordin interne nr. 119/2014",
+   "title": "Regulament din 25 iulie 2014 de organizare și funcționare a Direcției Generale Anticorupție (anexa la Ordinul INTERNE nr. 119/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160433",
+   "versions": [
+    {
+     "from": "2014-08-04",
+     "units": 75,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160433",
+     "sha256": "71cf6605223dac36d14407478c56e294eafc0a40bde2e439b30b92434c873819"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-182-2014-anexa",
+   "path": "anexa/ordin-interne-182-2014/anexa",
+   "short": "Anexa la Ordin interne nr. 182/2014",
+   "title": "Norme proprii din 15 decembrie 2014 de aplicare în anul 2014 a Hotărârii Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul INTERNE nr. 182/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164110",
+   "versions": [
+    {
+     "from": "2014-12-22",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164110",
+     "sha256": "680a26ba5c8020246a322f726e2db9704b5dc21b319a6ba8e2724cef784361b4"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-186-2014-anexa",
+   "path": "anexa/ordin-interne-186-2014/anexa",
+   "short": "Anexa la Ordin interne nr. 186/2014",
+   "title": "Regulament din 18 decembrie 2014 de organizare și funcționare a casei de pensii sectoriale (anexa la Ordinul INTERNE nr. 186/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164127",
+   "versions": [
+    {
+     "from": "2014-12-22",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164127",
+     "sha256": "c72f0ec41a8c1b103644a90262ec6a7ace67b63d9de43d79f8270c894f04a356"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-justitie-2980-c-2014-anexa",
+   "path": "anexa/ordin-justitie-2980-c-2014/anexa",
+   "short": "Anexa la Ordin justitie nr. 2980/C/2014",
+   "title": "Normă din 22 august 2014 privind condițiile în care se conferă Semnul onorific În Serviciul Patriei funcționarilor publici cu statut special cu grade profesionale echivalente cu gradele de ofițeri, maiștri militari și subofițeri din Ministerul Justiției, Administrația Națională a Penitenciarelor și unitățile subordonate acesteia (anexa la Ordinul JUSTITIE nr. 2980/C/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161770",
+   "versions": [
+    {
+     "from": "2014-10-01",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161770",
+     "sha256": "cd5633122bc604abe9735504bb43718e5a24e78905f1c73f218723418c9520cd"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-justitie-3499-c-2014-anexa-1",
+   "path": "anexa/ordin-justitie-3499-c-2014/anexa-1",
+   "short": "Anexa nr. 1 la Ordin justitie nr. 3499/C/2014",
+   "title": "Norme metodologice din 7 octombrie 2014 de acordare a majorării pentru lucrări de excepție sau misiuni speciale, pentru funcționarii publici cu statut special din Ministerul Justiției (anexa nr. 1 la Ordinul JUSTITIE nr. 3499/C/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162389",
+   "versions": [
+    {
+     "from": "2014-10-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162389",
+     "sha256": "b3b25e89c6b50ca54c92901cc2199403a6f58e17dfedd2ec48884da5950957df"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-1732-2014-anexa",
+   "path": "anexa/ordin-mediu-1732-2014/anexa",
+   "short": "Anexa la Ordin mediu nr. 1732/2014",
+   "title": "Ghid de finanțare din 10 octombrie 2014 a Programului privind managementul integrat al zonei costiere (anexa la Ordinul MEDIU nr. 1732/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162306",
+   "versions": [
+    {
+     "from": "2014-10-21",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162306",
+     "sha256": "626b5705c1f7c2e39dfa54c39784afab74eb4bdf0b5d9a41ab13a48e61389ea8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-2095-2014-anexa",
+   "path": "anexa/ordin-mediu-2095-2014/anexa",
+   "short": "Anexa la Ordin mediu nr. 2095/2014",
+   "title": "Ghid de finanțare din 2 decembrie 2014 a Programului de conștientizare a tinerilor privind protecția mediului în cadrul evenimentelor organizate în Cluj-Napoca, Capitală europeană a tineretului în anul 2015 (anexa la Ordinul MEDIU nr. 2095/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163754",
+   "versions": [
+    {
+     "from": "2014-12-11",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163754",
+     "sha256": "7de53982e442b3595320a3465ffd9537e8ba7157de4dc20a0644e787701ca51d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-872-2014-anexa",
+   "path": "anexa/ordin-mediu-872-2014/anexa",
+   "short": "Anexa la Ordin mediu nr. 872/2014",
+   "title": "Procedură din 20 octombrie 2014 de inventariere a digurilor de apărare împotriva inundațiilor, NTLH-070 (anexa la Ordinul MEDIU nr. 872/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162841",
+   "versions": [
+    {
+     "from": "2014-11-07",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162841",
+     "sha256": "f726b24930fc3ca624be3870c4c164639bc6305df3ba8c46331c12884e70480b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-munca-2396-2014-anexa",
+   "path": "anexa/ordin-munca-2396-2014/anexa",
+   "short": "Anexa la Ordin munca nr. 2396/2014",
+   "title": "Procedură din 18 decembrie 2014 de efectuare a plății restituirilor prevăzute de Legea nr. 126/2014 pentru modificarea Ordonanței de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor, precum și pentru stabilirea unor măsuri în vederea recuperării debitelor înregistrate cu titlu de indemnizație pentru creșterea copilului și instrucțiunile de aplicare a prevederilor art. II-IV din Legea nr. 126/2014 pentru modificarea Ordonanței de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor, precum și pentru stabilirea unor măsuri în vederea recuperării debitelor înregistrate cu titlu de indemnizație pentru creșterea copilului (anexa la Ordinul MUNCA nr. 2396/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165272",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165272",
+     "sha256": "cd0a84147b6b34a019ba1366c799d5a7c40ffef8d1d648be089b6a993c8ff80e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-parchet-434-2014-anexa",
+   "path": "anexa/ordin-parchet-434-2014/anexa",
+   "short": "Anexa la Ordin parchet nr. 434/2014",
+   "title": "Regulament din 15 decembrie 2014 privind evaluarea activității profesionale a personalului auxiliar de specialitate și a personalului conex din cadrul Ministerului Public (anexa la Ordinul PARCHET nr. 434/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164696",
+   "versions": [
+    {
+     "from": "2015-01-16",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164696",
+     "sha256": "47aecba9ed14e114f271e763348c65c88bad4712a1b5db6cf005ee0807898e50"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1129-2014-anexa",
+   "path": "anexa/ordin-sanatate-1129-2014/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1129/2014",
+   "title": "Metodologie din 1 octombrie 2014 pentru desfășurarea concursului de rezidențiat pe loc și pe post în medicină, medicină dentară și farmacie, sesiunea 23 noiembrie 2014 (anexa la Ordinul SANATATE nr. 1129/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161977",
+   "versions": [
+    {
+     "from": "2014-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161977",
+     "sha256": "d10716245ab8c29684aac4b23b5936642f1a2ffe5ae5c0365303b5d2d9dae166"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1143-2014-anexa",
+   "path": "anexa/ordin-sanatate-1143-2014/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1143/2014",
+   "title": "Norme tehnice din 6 octombrie 2014 de finanțare și realizare a acțiunilor prioritare pentru tratamentul pacienților critici cu leziuni traumatice acute (AP-TRAUMA) (anexa la Ordinul SANATATE nr. 1143/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162173",
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162173",
+     "sha256": "3d04ebe64ea7eb53cc3e37e11a4ae84a231697060ac8980098974f151e27f92c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1155-2014-anexa",
+   "path": "anexa/ordin-sanatate-1155-2014/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1155/2014",
+   "title": "Norme din 7 octombrie 2014 privind aplicarea la nivel național a unui sistem rapid de alertă în domeniul transplantului de organe, țesuturi și celule de origine umană (anexa la Ordinul SANATATE nr. 1155/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162415",
+   "versions": [
+    {
+     "from": "2014-10-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162415",
+     "sha256": "d202bca9107fc3919f77d378f506c9a5095ebc1f651347d6bdc3ea1c5f82e28b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-121-2014-anexa",
+   "path": "anexa/ordin-sanatate-121-2014/anexa",
+   "short": "Anexa la Ordin sanatate nr. 121/2014",
+   "title": "Norme proprii din 20 noiembrie 2014 de aplicare în anul 2014 a Hotărârii Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 121/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164116",
+   "versions": [
+    {
+     "from": "2014-12-22",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164116",
+     "sha256": "621f0e420f91d411e45a20880461e6befaad27ab719ef679148b31f1dd0f46f3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1216-2014-anexa",
+   "path": "anexa/ordin-sanatate-1216-2014/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1216/2014",
+   "title": "Norme din 21 octombrie 2014 tehnice de finanțare și realizare a Acțiunii prioritare pentru tratamentul intervențional al pacienților cu accident vascular cerebral acut (AP-AVCAc) (anexa la Ordinul SANATATE nr. 1216/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162674",
+   "versions": [
+    {
+     "from": "2014-11-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162674",
+     "sha256": "096b6a194331d96745905b85cb54c15530e09f2fe4104cf0ad26b06da1f267ea"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1454-2014-anexa",
+   "path": "anexa/ordin-sanatate-1454-2014/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1454/2014",
+   "title": "Norme metodologice din 2 decembrie 2014 privind exercitarea profesiei de asistent medical generalist, de moașă și de asistent medical în regim independent (anexa la Ordinul SANATATE nr. 1454/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164016",
+   "versions": [
+    {
+     "from": "2014-12-19",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164016",
+     "sha256": "d6d056a0fb9f36d87551069360a05b10c78ab10cd07beb9faad214cd2dee072d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-211-2014-anexa",
+   "path": "anexa/ordin-sanatate-211-2014/anexa",
+   "short": "Anexa la Ordin sanatate nr. 211/2014",
+   "title": "Norme proprii din 24 octombrie 2014 de aplicare în anul 2014 a Hotărârii Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 211/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164114",
+   "versions": [
+    {
+     "from": "2014-12-22",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164114",
+     "sha256": "c6fa738e65ee92a99996be3661a2c5c48b681b43e684bd447ac1c93fb3c87583"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-4295-2014-anexa",
+   "path": "anexa/ordin-sanatate-4295-2014/anexa",
+   "short": "Anexa la Ordin sanatate nr. 4295/2014",
+   "title": "Norme proprii din 3 decembrie 2014 de aplicare în anul 2014 a Hotărârii Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 4295/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164118",
+   "versions": [
+    {
+     "from": "2014-12-22",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164118",
+     "sha256": "de82c27b0d9d1f0693a7ee3fcd2a3869da4267c295b71c81182da5aa2066b91f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-539-2014-anexa",
+   "path": "anexa/ordin-sanatate-539-2014/anexa",
+   "short": "Anexa la Ordin sanatate nr. 539/2014",
+   "title": "Norme proprii din 24 septembrie 2014 de aplicare în anul 2014 a Hotărârii Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 539/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164120",
+   "versions": [
+    {
+     "from": "2014-12-22",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164120",
+     "sha256": "10349bbf1b006e30baf6b7e0f31a739514bf9e55dc49bcbdf1ce7951863f243e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-966-2014-anexa",
+   "path": "anexa/ordin-sanatate-966-2014/anexa",
+   "short": "Anexa la Ordin sanatate nr. 966/2014",
+   "title": "Norme proprii din 2 octombrie 2014 de aplicare în anul 2014 a Hotărârii Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 966/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164122",
+   "versions": [
+    {
+     "from": "2014-12-22",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164122",
+     "sha256": "13401c204507b9d8a6f5394a86e5124bfee42639a498f408d7da125a5a701974"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-1612-2014-anexa",
+   "path": "anexa/ordin-transporturi-1612-2014/anexa",
+   "short": "Anexa la Ordin transporturi nr. 1612/2014",
+   "title": "Regulament din 3 decembrie 2014 privind organizarea, atribuțiile, funcționarea și dotarea Comitetului ministerial pentru situații de urgență din cadrul Ministerului Transporturilor (anexa la Ordinul TRANSPORTURI nr. 1612/2014)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163831",
+   "versions": [
+    {
+     "from": "2014-12-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163831",
+     "sha256": "d0363cb5041c321ac9c45dc00da11310f261fabe820942eaed064ec9a3793769"
+    }
+   ]
+  }
+ ]
+}

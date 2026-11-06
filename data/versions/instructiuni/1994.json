@@ -136,6 +136,36 @@
      "sha256": "d998d4d11641a1bf8fc2c84e5c11bb388ece90a17e8bcdefc0a099637670c5ed"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-finante-12127-1994",
+   "path": "instructiuni/finante/1994/12127",
+   "short": "Instrucțiuni finante nr. 12127/1994",
+   "title": "Instrucțiunile nr. 12.127/1994 privind reflectarea în contabilitate a unor operațiuni decurgând din aplicarea reglementărilor aprobate prin Hotărârea Guvernului nr. 704/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5583",
+   "versions": [
+    {
+     "from": "1994-06-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5583",
+     "sha256": "507283034195b000df536f49a741c0305b0d575a205a5e64a8d2d5188f9fe5cc"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-finante-16298-1994",
+   "path": "instructiuni/finante/1994/16298",
+   "short": "Instrucțiuni finante nr. 16298/1994",
+   "title": "Instrucțiunile nr. 16.298/1994 privind încheierea exercițiului financiar-bugetar la finele anului 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5587",
+   "versions": [
+    {
+     "from": "1994-12-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5587",
+     "sha256": "03e6fd99271f23f0037bab16c30610fab9c1102778a63e62d3e7815b5e8757a6"
+    }
+   ]
   }
  ]
 }

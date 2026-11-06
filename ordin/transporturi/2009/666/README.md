@@ -25,3 +25,4 @@ Act id: `ordin-transporturi-666-2009` (tags `ordin-transporturi-666-2009/<day>`;
 - Ordin transporturi nr. 666/2009: the signatures and the place and date line after its last article are not article text.
 - Ordin transporturi nr. 666/2009: Anexa nr. 1 (1) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 106651 of the official web service.
 - Ordin transporturi nr. 666/2009: Anexa nr. 2 (2) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 106651 of the official web service.
+- Ordin transporturi nr. 666/2009: personal identifiers removed from the published text (14 CNPs): each is replaced by a short marker ("[CNP omis]", "[data nașterii omisă]" or "[adresa omisă]"). Every other word, names included, is as the Monitorul Oficial printed it.

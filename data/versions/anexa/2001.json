@@ -153,6 +153,36 @@
    ]
   },
   {
+   "slug": "anexa-hg-1174-2001-anexa-1",
+   "path": "anexa/hg-1174-2001/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 1174/2001",
+   "title": "Regulamentul din 21 noiembrie 2001 de organizare și funcționare a Administrației Fondului pentru Mediu (anexa nr. 1 la Hotărârea Guvernului nr. 1174/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32656",
+   "versions": [
+    {
+     "from": "2001-12-12",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32656",
+     "sha256": "c51ddcd6ab8a230a4612cb0c460b70d59a8d2ba26a87103e80efe87f70d7ba42"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1188-2001-anexa",
+   "path": "anexa/hg-1188-2001/anexa",
+   "short": "Anexa la HG nr. 1188/2001",
+   "title": "Norme metodologice din 27 noiembrie 2001 privind recalcularea pensiilor militare de stat (anexa la Hotărârea Guvernului nr. 1188/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32575",
+   "versions": [
+    {
+     "from": "2001-12-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32575",
+     "sha256": "25f664e73f9fe4aeea1dc4d56cacf564b6f6bf5ff3dd8cd9d57849a042f3d9e9"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-1206-2001-anexa",
    "path": "anexa/hg-1206-2001/anexa",
    "short": "Anexa la HG nr. 1206/2001",
@@ -269,6 +299,36 @@
      "units": 39,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27156",
      "sha256": "2f08a48327da08c77af11db723b3bcd07d3e4943c7258b2605c3bc102e83a199"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-297-2001-anexa-3",
+   "path": "anexa/hg-297-2001/anexa-3",
+   "short": "Anexa nr. 3 la HG nr. 297/2001",
+   "title": "Norme metodologice din 8 martie 2001 privind acordarea, utilizarea și controlul utilizării sumelor reprezentând reducerea prețului de cumpărare al semințelor certificate folosite în campania agricolă din primăvara anului 2001 (anexa nr. 3 la Hotărârea Guvernului nr. 297/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27311",
+   "versions": [
+    {
+     "from": "2001-03-19",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27311",
+     "sha256": "5dfee9e2a3431f6933311a2c30cd934f54c6cb845b49254eac79a22ddb6f19d7"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-299-2001-anexa-1",
+   "path": "anexa/hg-299-2001/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 299/2001",
+   "title": "Regulament din 8 martie 2001 de reorganizare și funcționare a Agenției Naționale a Funcționarilor Publici (anexa nr. 1 la Hotărârea Guvernului nr. 299/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27401",
+   "versions": [
+    {
+     "from": "2001-03-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27401",
+     "sha256": "0a3e10225a1a8efb2405d401ff6e37bfd9b7ef6db7c78db7ea9c06c5cde84967"
     }
    ]
   },
@@ -408,6 +468,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-530-2001-anexa",
+   "path": "anexa/hg-530-2001/anexa",
+   "short": "Anexa la HG nr. 530/2001",
+   "title": "Instrucțiuni din 7 iunie 2001 de metrologie legală IML 8-01 \"Preambalarea unor produse în funcție de masă sau volum\" (anexa la Hotărârea Guvernului nr. 530/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29072",
+   "versions": [
+    {
+     "from": "2001-06-18",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29072",
+     "sha256": "8d2285e69e296477abe50cca36a88403f9daccf557d01b24825c038db33fcf59"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-538-2001-anexa",
    "path": "anexa/hg-538-2001/anexa",
    "short": "Anexa la HG nr. 538/2001",
@@ -479,6 +554,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29510",
      "sha256": "c4084dc7e07d33daed1d0e205084b87ca7a4c3ded9a82bc93eb19e05f33c44cc"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-622-2001-anexa",
+   "path": "anexa/hg-622-2001/anexa",
+   "short": "Anexa la HG nr. 622/2001",
+   "title": "Norme metodologice din 27 iunie 2001 de aplicare a Ordonanței Guvernului nr. 102/2000 privind statutul și regimul refugiatilor în România (anexa la Hotărârea Guvernului nr. 622/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29656",
+   "versions": [
+    {
+     "from": "2001-07-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29656",
+     "sha256": "05c0c75f719534201b83bbed5a87b0a7cb837ed0addcf8aeb7d8acd99f1d2ec9"
     }
    ]
   },
@@ -693,6 +783,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-948-2001-anexa-2",
+   "path": "anexa/hg-948-2001/anexa-2",
+   "short": "Anexa nr. 2 la HG nr. 948/2001",
+   "title": "Norme metodologice din 27 septembrie 2001 privind acordarea, utilizarea și controlul utilizării sumelor reprezentând reducerea prețului de cumpărare a semințelor de grâu folosite în campania agricolă din toamna anului 2001 (anexa nr. 2 la Hotărârea Guvernului nr. 948/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30986",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30986",
+     "sha256": "b3ccd1b33a715401309871b86be6af049aa8f5581bc8b575eb7dd4b98d6d243c"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-962-2001-anexa",
    "path": "anexa/hg-962-2001/anexa",
    "short": "Anexa la HG nr. 962/2001",
@@ -704,6 +809,21 @@
      "units": 34,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31041",
      "sha256": "82450eada231661e399a70d15031952220c906b6a73e44d5dff169842ec1fa34"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-978-2001-anexa-2",
+   "path": "anexa/hg-978-2001/anexa-2",
+   "short": "Anexa nr. 2 la HG nr. 978/2001",
+   "title": "Regulament din 4 octombrie 2001 de funcționare a comisiei de autorizare a contractării sau garantării de împrumuturi externe de către autoritățile administrației publice locale (anexa nr. 2 la Hotărârea Guvernului nr. 978/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31314",
+   "versions": [
+    {
+     "from": "2001-10-18",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31314",
+     "sha256": "c0332efdb9f8a4dfed8bc311747cb894aace5bf86f68dce308d772a9ab460706"
     }
    ]
   },
@@ -813,6 +933,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-agricultura-180-2001-anexa",
+   "path": "anexa/ordin-agricultura-180-2001/anexa",
+   "short": "Anexa la Ordin agricultura nr. 180/2001",
+   "title": "Norma din 4 iunie 2001 cu privire la stabilirea calității-tip a produselor de baza din industria zahărului (anexa la Ordinul AGRICULTURA nr. 180/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30653",
+   "versions": [
+    {
+     "from": "2001-09-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30653",
+     "sha256": "20b64605120442e70203783fcfcfa41f56b6741a892a4bfd01b9a623e5b92b28"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-agricultura-206-2001-anexa",
    "path": "anexa/ordin-agricultura-206-2001/anexa",
    "short": "Anexa la Ordin agricultura nr. 206/2001",
@@ -873,6 +1008,36 @@
    ]
   },
   {
+   "slug": "anexa-ordin-agricultura-326-2001-anexa-1",
+   "path": "anexa/ordin-agricultura-326-2001/anexa-1",
+   "short": "Anexa nr. 1 la Ordin agricultura nr. 326/2001",
+   "title": "Metodologie din 21 august 2001 privind conținutul documentațiilor referitoare la scoaterea terenurilor din producția agricolă, necesare în vederea amplasării obiectivelor de investiții (anexa nr. 1 la Ordinul AGRICULTURA nr. 326/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31228",
+   "versions": [
+    {
+     "from": "2001-10-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31228",
+     "sha256": "462e0e56aee640b12be37e8a3f345fb0b3e1aab44edfc42cddc6529e600a5f01"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-326-2001-anexa-2",
+   "path": "anexa/ordin-agricultura-326-2001/anexa-2",
+   "short": "Anexa nr. 2 la Ordin agricultura nr. 326/2001",
+   "title": "Metodologie din 21 august 2001 privind schimbarea categoriei de folosința a terenurilor agricole (anexa nr. 2 la Ordinul AGRICULTURA nr. 326/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31230",
+   "versions": [
+    {
+     "from": "2001-10-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31230",
+     "sha256": "4ed0ed8dbab9f8bc97f84c4f1ebf1cfc3b9e8e3b1ff43a595bd2ef7d57ca61f6"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-agricultura-357-2001-anexa",
    "path": "anexa/ordin-agricultura-357-2001/anexa",
    "short": "Anexa la Ordin agricultura nr. 357/2001",
@@ -888,6 +1053,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-agricultura-400-2001-anexa-1",
+   "path": "anexa/ordin-agricultura-400-2001/anexa-1",
+   "short": "Anexa nr. 1 la Ordin agricultura nr. 400/2001",
+   "title": "Instrucțiuni din 23 octombrie 2001 pentru organizarea și desfășurarea activității personalului sanitar veterinar de stat în unitățile prevăzute la art. 30 alin. 3 din Legea sanitară veterinara nr. 60/1974 , republicată, cu modificările și completările ulterioare (anexa nr. 1 la Ordinul AGRICULTURA nr. 400/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32289",
+   "versions": [
+    {
+     "from": "2001-12-06",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32289",
+     "sha256": "392a6c779f7ecfd8f8d0ed4f9b11e9645005582f93939b0699561981157cdb0e"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-agricultura-413-2001-anexa",
    "path": "anexa/ordin-agricultura-413-2001/anexa",
    "short": "Anexa la Ordin agricultura nr. 413/2001",
@@ -899,6 +1079,21 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32454",
      "sha256": "69033037d3ebfdd67b54cc7eca1642f7c47d1cc1d61fb21515c4526ba48fe3c3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-421-2001-anexa",
+   "path": "anexa/ordin-agricultura-421-2001/anexa",
+   "short": "Anexa la Ordin agricultura nr. 421/2001",
+   "title": "Norme metodologice din 30 octombrie 2001 de aplicare a Legii nr. 423/2001 pentru sprijinirea sectorului de pescuit la Marea Neagra (anexa la Ordinul AGRICULTURA nr. 421/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33302",
+   "versions": [
+    {
+     "from": "2002-01-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33302",
+     "sha256": "e5396b04bf6afa92eebc679865b2fd5a8d68221a13c162d6636d3e365127142f"
     }
    ]
   },
@@ -1323,6 +1518,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-educatie-4318-2001-anexa-2",
+   "path": "anexa/ordin-educatie-4318-2001/anexa-2",
+   "short": "Anexa nr. 2 la Ordin educatie nr. 4318/2001",
+   "title": "Metodologie din 29 august 2001 de organizare și desfășurare a examenului național de capacitate 2002 (anexa nr. 2 la Ordinul EDUCATIE nr. 4318/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34802",
+   "versions": [
+    {
+     "from": "2002-03-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34802",
+     "sha256": "ec8bfc245b80d8c2e59772d13dfd02109a6f96ca14c4c3c3c1679efb3e29b589"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-educatie-5026-2001-anexa",
    "path": "anexa/ordin-educatie-5026-2001/anexa",
    "short": "Anexa la Ordin educatie nr. 5026/2001",
@@ -1424,6 +1634,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54552",
      "sha256": "53ed71b7f0afbf100f53aa6c4f8ffd577578a5e5ec40c450cf4b2633f16bfa83"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-2103-2001-anexa-1",
+   "path": "anexa/ordin-finante-2103-2001/anexa-1",
+   "short": "Anexa nr. 1 la Ordin finante nr. 2103/2001",
+   "title": "Norme metodologice din 18 octombrie 2001 pentru aplicarea prevederilor Ordonanței Guvernului nr. 11/1996 privind executarea creanțelor bugetare, cu modificările și completările ulterioare, referitoare la plata obligațiilor bugetare, a majorărilor de întârziere, a penalităților și penalităților de întârziere (anexa nr. 1 la Ordinul FINANTE nr. 2103/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32142",
+   "versions": [
+    {
+     "from": "2001-11-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32142",
+     "sha256": "dab0d34471a485ae87a0d892f139c0b1a51faff15375e6a3cd2f52a393700844"
     }
    ]
   },
@@ -1608,6 +1833,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-mediu-452-2001-anexa-1",
+   "path": "anexa/ordin-mediu-452-2001/anexa-1",
+   "short": "Anexa nr. 1 la Ordin mediu nr. 452/2001",
+   "title": "Regulament din 4 mai 2001 de organizare și funcționare a Comisiei și a Grupului de sprijin pentru aplicarea Planului de acțiune pentru protecția apelor împotriva poluării cu nitrați proveniți din surse agricole (anexa nr. 1 la Ordinul MEDIU nr. 452/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28820",
+   "versions": [
+    {
+     "from": "2001-06-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28820",
+     "sha256": "96785f105432fef653e27b7a7847286c2f5aaebe2bfba2a0f370b5943a53d111"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-mediu-722-2001-anexa",
    "path": "anexa/ordin-mediu-722-2001/anexa",
    "short": "Anexa la Ordin mediu nr. 722/2001",
@@ -1728,6 +1968,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-sanatate-343-2001-anexa",
+   "path": "anexa/ordin-sanatate-343-2001/anexa",
+   "short": "Anexa la Ordin sanatate nr. 343/2001",
+   "title": "Instrucțiuni din 31 mai 2001 privind eliberarea certificatelor de concediu medical în baza cărora se acordă indemnizațiile de asigurări sociale (anexa la Ordinul SANATATE nr. 343/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32237",
+   "versions": [
+    {
+     "from": "2001-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32237",
+     "sha256": "8393f1b511df0fc40bebecd409ee1771258158d8dabeddbe90cd7c29cd571150"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-sanatate-382-2001-anexa",
    "path": "anexa/ordin-sanatate-382-2001/anexa",
    "short": "Anexa la Ordin sanatate nr. 382/2001",
@@ -1788,6 +2043,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-sanatate-626-2001-anexa-1",
+   "path": "anexa/ordin-sanatate-626-2001/anexa-1",
+   "short": "Anexa nr. 1 la Ordin sanatate nr. 626/2001",
+   "title": "Norma din 11 septembrie 2001 privind înființarea și autorizarea unităților farmaceutice (anexa nr. 1 la Ordinul SANATATE nr. 626/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31076",
+   "versions": [
+    {
+     "from": "2001-10-08",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31076",
+     "sha256": "9d05f1cb14c17d0cb685c9bb89c18a6ec845c5859e62680db2a0f076ef5bb8ac"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-sanatate-855-2001-anexa",
    "path": "anexa/ordin-sanatate-855-2001/anexa",
    "short": "Anexa la Ordin sanatate nr. 855/2001",
@@ -1829,6 +2099,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36379",
      "sha256": "383c5230f69d27f6c0074862c22b8556a40abe748f38a8ad4a7dcc4f61488dfd"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-923-2001-anexa-9",
+   "path": "anexa/ordin-sanatate-923-2001/anexa-9",
+   "short": "Anexa nr. 9 la Ordin sanatate nr. 923/2001",
+   "title": "Norme metodologice din 18 decembrie 2001 de aplicare a Ordinului ministrului sănătății și familiei nr. 923/2001 privind aprobarea Nomenclatorului de specialități medicale și farmaceutice, supraspecializări și competente pentru rețeaua de asistența medicală (anexa nr. 9 la Ordinul SANATATE nr. 923/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34027",
+   "versions": [
+    {
+     "from": "2002-02-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34027",
+     "sha256": "60366058fbde399f90afdd557d533f73b62bfb523f6015acb0280a25da1b0d61"
     }
    ]
   },

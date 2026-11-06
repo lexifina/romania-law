@@ -181,6 +181,51 @@
      "sha256": "a52f6ef3d9a0bb1fa934fd64e9dfd7041351795d395cf89fa1b86027d07f901b"
     }
    ]
+  },
+  {
+   "slug": "norma-educatie-9606-2000",
+   "path": "norma/educatie/2000/9606",
+   "short": "Norma educatie nr. 9606/2000",
+   "title": "Norma nr. 9.606/2000 pentru aplicarea Ordonanței de urgență a Guvernului nr. 138/1999 privind finanțarea unităților de învățământ preuniversitar de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22775",
+   "versions": [
+    {
+     "from": "2000-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22775",
+     "sha256": "44af0275a0f27f06037a0a6e5805241068b4c0a4d45b9b18c3eed03bc9403837"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-17255-2000",
+   "path": "norma/finante/2000/17255",
+   "short": "Norma finante nr. 17255/2000",
+   "title": "Norma nr. 17.255/2000 pentru aplicarea Ordonanței de urgență a Guvernului nr. 138/1999 privind finanțarea unităților de învățământ preuniversitar de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22814",
+   "versions": [
+    {
+     "from": "2000-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22814",
+     "sha256": "11312eca56022f2ac1fbc153fabba550bb2c52aab1a15f58085a528a7fba6f63"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-2617-2000",
+   "path": "norma/sanatate/2000/2617",
+   "short": "Norma sanatate nr. 2617/2000",
+   "title": "Norma nr. 2.617/2000 GH/2.617 din 31 mai 2000 de aplicare a Ordonanței Guvernului nr. 22/1992 privind finanțarea ocrotirii sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24099",
+   "versions": [
+    {
+     "from": "2000-09-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24099",
+     "sha256": "fab9d7d9824c6ffaab8d313cabaa7fcc65bd1e677add55df59675819fb68f143"
+    }
+   ]
   }
  ]
 }

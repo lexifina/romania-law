@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "instante/2026",
+ "acts": [
+  {
+   "slug": "instante-ca-iasi-incheiere-2026-2026-03-10",
+   "path": "instante/ca-iasi/incheiere/2026/2026-03-10",
+   "short": "Încheierea Curții de Apel Iași din 2026-03-10",
+   "title": "ÎNCHEIERE din 10 martie 2026 referitoare la acțiunea în contencios administrativ având ca obiect anulare act administrativ cu caracter normativ",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/311315",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/311315",
+     "sha256": "28ffbfb716cb733a5593a8bd7351f3905041948e22eb116f32a128fd12516566"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-iasi-incheiere-2026-2026-03-23",
+   "path": "instante/ca-iasi/incheiere/2026/2026-03-23",
+   "short": "Încheierea Curții de Apel Iași din 2026-03-23",
+   "title": "ÎNCHEIERE din 23 martie 2026 referitoare la acțiunea în contencios administrativ având ca obiect anulare act administrativ cu caracter normativ",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/311316",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/311316",
+     "sha256": "4f2997659de2386c7533d4819aefa670e1f31bd1aa4af4da71a7720a38dea044"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-iasi-sentinta-2026-50",
+   "path": "instante/ca-iasi/sentinta/2026/50",
+   "short": "Sentința Curții de Apel Iași nr. 50/2026",
+   "title": "SENTINŢA nr. 50 din 11 martie 2026 referitoare la acțiunea în contencios administrativ având ca obiect anulare act administrativ cu caracter normativ",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/311107",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/311107",
+     "sha256": "6e1c8c3cebc76e90a6db64ed65138af804820f344e2d411c07559868da4b5ec9"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-iasi-sentinta-2026-71",
+   "path": "instante/ca-iasi/sentinta/2026/71",
+   "short": "Sentința Curții de Apel Iași nr. 71/2026",
+   "title": "SENTINŢA nr. 71 din 7 aprilie 2026 referitoare la acțiunea în contencios administrativ având ca obiect anulare act administrativ cu caracter normativ",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/311317",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/311317",
+     "sha256": "05d3ef43bcb4cf7c225f9e4f9743019bf88d21bb3a0330e7a0c5eeaa406af16d"
+    }
+   ]
+  }
+ ]
+}

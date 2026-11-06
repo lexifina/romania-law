@@ -391,6 +391,21 @@
      "sha256": "7c2da829024a30c56d65acb6f1f1a06d7e218651d7eabb174e38defd2717944f"
     }
    ]
+  },
+  {
+   "slug": "regulament-guvern-559-2021",
+   "path": "regulament/guvern/2021/559",
+   "short": "Regulament guvern nr. 559/2021",
+   "title": "Regulamentul nr. 559/2021 din 22 martie 2021 pentru atestarea și verificarea auditorilor de securitate cibernetică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/240989",
+   "versions": [
+    {
+     "from": "2021-04-14",
+     "units": 67,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240989",
+     "sha256": "5e568436932a43545d594f0fd4f4828a17d7cd5f675a2075804af8fb784f0201"
+    }
+   ]
   }
  ]
 }

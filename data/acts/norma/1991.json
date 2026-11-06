@@ -172,6 +172,44 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/2064",
 "issuer": "finante",
 "joint": []
+},
+{
+"slug": "norma-finante-262754-1991",
+"path": "norma/finante/1991/262754",
+"kind": "norma",
+"year": "1991",
+"number": "262754",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 262.754/1991 privind așezarea, tehnica de calcul, evidența și vărsarea la bugetul administrației centrale de stat a impozitului pe circulația mărfurilor și accizelor",
+"short": "Norma finante nr. 262754/1991",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1991-12-13",
+"latest": "1991-12-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/2066",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "norma-guvern-6174-1991",
+"path": "norma/guvern/1991/6174",
+"kind": "norma",
+"year": "1991",
+"number": "6174",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 6.174/1991 pentru aplicarea Hotărîrii Guvernului nr. 679/1991 privind impozitul pe spectacole",
+"short": "Norma guvern nr. 6174/1991",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1991-11-14",
+"latest": "1991-11-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/51450",
+"issuer": "guvern",
+"joint": []
 }
 ]
 }

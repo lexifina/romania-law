@@ -90,37 +90,37 @@
   "official_url": "the act's page at its official source, to check by hand"
  },
  "totals": {
-  "acts": 217344,
+  "acts": 222700,
   "by_status": {
-   "current": 172816,
-   "pending-change": 27637,
+   "current": 174502,
+   "pending-change": 27765,
    "stale": 4468,
-   "unverified": 12423,
+   "unverified": 15965,
    "source-unavailable": 0
   },
-  "verified_7d": 185677,
-  "verified_30d": 185717,
-  "pct_verified_7d": 85.4,
-  "pct_verified_30d": 85.4,
-  "pct_current": 79.5,
+  "verified_7d": 187491,
+  "verified_30d": 187531,
+  "pct_verified_7d": 84.2,
+  "pct_verified_30d": 84.2,
+  "pct_current": 78.4,
   "newest_verified": "2026-11-06",
   "oldest_verified": "2018-07-23"
  },
  "by_group": {
   "bodies": {
-   "acts": 5871,
+   "acts": 7745,
    "by_status": {
     "current": 2388,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 3483,
+    "unverified": 5357,
     "source-unavailable": 0
    },
    "verified_7d": 2388,
    "verified_30d": 2388,
-   "pct_verified_7d": 40.7,
-   "pct_verified_30d": 40.7,
-   "pct_current": 40.7,
+   "pct_verified_7d": 30.8,
+   "pct_verified_30d": 30.8,
+   "pct_current": 30.8,
    "newest_verified": "2026-11-06",
    "oldest_verified": "2026-11-02"
   },
@@ -142,16 +142,16 @@
    "oldest_verified": "2026-11-05"
   },
   "local": {
-   "acts": 93296,
+   "acts": 94796,
    "by_status": {
-    "current": 89591,
+    "current": 91034,
     "pending-change": 0,
     "stale": 2429,
-    "unverified": 1276,
+    "unverified": 1333,
     "source-unavailable": 0
    },
-   "verified_7d": 89552,
-   "verified_30d": 89591,
+   "verified_7d": 90995,
+   "verified_30d": 91034,
    "pct_verified_7d": 96.0,
    "pct_verified_30d": 96.0,
    "pct_current": 96.0,
@@ -159,48 +159,48 @@
    "oldest_verified": "2023-03-20"
   },
   "national": {
-   "acts": 61196,
+   "acts": 61834,
    "by_status": {
-    "current": 41471,
-    "pending-change": 13027,
+    "current": 41714,
+    "pending-change": 13155,
     "stale": 2039,
-    "unverified": 4659,
+    "unverified": 4926,
     "source-unavailable": 0
    },
-   "verified_7d": 54371,
-   "verified_30d": 54372,
-   "pct_verified_7d": 88.8,
-   "pct_verified_30d": 88.8,
-   "pct_current": 67.8,
+   "verified_7d": 54742,
+   "verified_30d": 54743,
+   "pct_verified_7d": 88.5,
+   "pct_verified_30d": 88.5,
+   "pct_current": 67.5,
    "newest_verified": "2026-11-06",
    "oldest_verified": "2018-07-23"
   },
   "orders": {
-   "acts": 40572,
+   "acts": 41916,
    "by_status": {
     "current": 25343,
     "pending-change": 12224,
     "stale": 0,
-    "unverified": 3005,
+    "unverified": 4349,
     "source-unavailable": 0
    },
    "verified_7d": 25343,
    "verified_30d": 25343,
-   "pct_verified_7d": 62.5,
-   "pct_verified_30d": 62.5,
-   "pct_current": 62.5,
+   "pct_verified_7d": 60.5,
+   "pct_verified_30d": 60.5,
+   "pct_current": 60.5,
    "newest_verified": "2026-11-05",
    "oldest_verified": "2026-11-03"
   }
  },
  "by_kind": {
   "anexa": {
-   "acts": 7,
+   "acts": 1350,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 7,
+    "unverified": 1350,
     "source-unavailable": 0
    },
    "verified_7d": 0,
@@ -212,19 +212,19 @@
    "oldest_verified": null
   },
   "anspdcp": {
-   "acts": 375,
+   "acts": 380,
    "by_status": {
     "current": 74,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 301,
+    "unverified": 306,
     "source-unavailable": 0
    },
    "verified_7d": 74,
    "verified_30d": 74,
-   "pct_verified_7d": 19.7,
-   "pct_verified_30d": 19.7,
-   "pct_current": 19.7,
+   "pct_verified_7d": 19.5,
+   "pct_verified_30d": 19.5,
+   "pct_current": 19.5,
    "newest_verified": "2026-11-04",
    "oldest_verified": "2026-11-04"
   },
@@ -278,6 +278,23 @@
    "pct_current": 38.0,
    "newest_verified": "2026-11-05",
    "oldest_verified": "2026-11-05"
+  },
+  "cnsc": {
+   "acts": 1,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 1,
+    "source-unavailable": 0
+   },
+   "verified_7d": 0,
+   "verified_30d": 0,
+   "pct_verified_7d": 0.0,
+   "pct_verified_30d": 0.0,
+   "pct_current": 0.0,
+   "newest_verified": null,
+   "oldest_verified": null
   },
   "cod": {
    "acts": 3,
@@ -381,21 +398,38 @@
    "newest_verified": "2026-11-04",
    "oldest_verified": "2026-11-02"
   },
-  "decret-lege": {
-   "acts": 26,
+  "decret": {
+   "acts": 253,
    "by_status": {
-    "current": 24,
-    "pending-change": 0,
+    "current": 171,
+    "pending-change": 82,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "verified_7d": 253,
+   "verified_30d": 253,
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0,
+   "pct_current": 67.6,
+   "newest_verified": "2026-11-06",
+   "oldest_verified": "2026-11-06"
+  },
+  "decret-lege": {
+   "acts": 110,
+   "by_status": {
+    "current": 66,
+    "pending-change": 42,
     "stale": 1,
     "unverified": 1,
     "source-unavailable": 0
    },
-   "verified_7d": 24,
-   "verified_30d": 24,
-   "pct_verified_7d": 92.3,
-   "pct_verified_30d": 92.3,
-   "pct_current": 92.3,
-   "newest_verified": "2026-11-04",
+   "verified_7d": 108,
+   "verified_30d": 108,
+   "pct_verified_7d": 98.2,
+   "pct_verified_30d": 98.2,
+   "pct_current": 60.0,
+   "newest_verified": "2026-11-06",
    "oldest_verified": "2026-02-16"
   },
   "hg": {
@@ -450,19 +484,19 @@
    "oldest_verified": "2026-11-03"
   },
   "hotarare-parlament": {
-   "acts": 3253,
+   "acts": 3520,
    "by_status": {
     "current": 53,
     "pending-change": 14,
     "stale": 0,
-    "unverified": 3186,
+    "unverified": 3453,
     "source-unavailable": 0
    },
    "verified_7d": 53,
    "verified_30d": 53,
-   "pct_verified_7d": 1.6,
-   "pct_verified_30d": 1.6,
-   "pct_current": 1.6,
+   "pct_verified_7d": 1.5,
+   "pct_verified_30d": 1.5,
+   "pct_current": 1.5,
    "newest_verified": "2026-11-04",
    "oldest_verified": "2026-11-04"
   },
@@ -484,33 +518,33 @@
    "oldest_verified": "2026-11-03"
   },
   "lege": {
-   "acts": 10812,
+   "acts": 10846,
    "by_status": {
-    "current": 4810,
-    "pending-change": 4854,
+    "current": 4840,
+    "pending-change": 4858,
     "stale": 566,
     "unverified": 582,
     "source-unavailable": 0
    },
-   "verified_7d": 9617,
-   "verified_30d": 9618,
-   "pct_verified_7d": 88.9,
+   "verified_7d": 9651,
+   "verified_30d": 9652,
+   "pct_verified_7d": 89.0,
    "pct_verified_30d": 89.0,
-   "pct_current": 44.5,
+   "pct_current": 44.6,
    "newest_verified": "2026-11-06",
    "oldest_verified": "2021-12-06"
   },
   "local": {
-   "acts": 93296,
+   "acts": 94796,
    "by_status": {
-    "current": 89591,
+    "current": 91034,
     "pending-change": 0,
     "stale": 2429,
-    "unverified": 1276,
+    "unverified": 1333,
     "source-unavailable": 0
    },
-   "verified_7d": 89552,
-   "verified_30d": 89591,
+   "verified_7d": 90995,
+   "verified_30d": 91034,
    "pct_verified_7d": 96.0,
    "pct_verified_30d": 96.0,
    "pct_current": 96.0,
@@ -654,19 +688,19 @@
    "oldest_verified": "2026-11-03"
   },
   "profesii": {
-   "acts": 667,
+   "acts": 2536,
    "by_status": {
     "current": 3,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 664,
+    "unverified": 2533,
     "source-unavailable": 0
    },
    "verified_7d": 3,
    "verified_30d": 3,
-   "pct_verified_7d": 0.4,
-   "pct_verified_30d": 0.4,
-   "pct_current": 0.4,
+   "pct_verified_7d": 0.1,
+   "pct_verified_30d": 0.1,
+   "pct_current": 0.1,
    "newest_verified": "2026-11-05",
    "oldest_verified": "2026-11-05"
   },
@@ -727,6 +761,7 @@
    "source": "Portalul legislativ (legislatie.just.ro), Ministerul Justiției",
    "kinds": [
     "anexa",
+    "anspdcp",
     "avocatul-poporului",
     "circulara",
     "cod",
@@ -735,6 +770,7 @@
     "curtea-de-conturi",
     "decizie",
     "decizie-bec",
+    "decret",
     "decret-lege",
     "hg",
     "hotarare",
@@ -750,16 +786,17 @@
     "ordin",
     "oug",
     "precizari",
+    "profesii",
     "regulament",
     "tratat"
    ],
-   "acts": 102510,
+   "acts": 106365,
    "last_successful_check": "2026-11-06",
-   "unavailable_since": null,
+   "unavailable_since": "2026-11-06",
    "sites": null,
    "sites_unavailable": null,
-   "pct_verified_7d": 78.1,
-   "pct_verified_30d": 78.1
+   "pct_verified_7d": 75.6,
+   "pct_verified_30d": 75.6
   },
   {
    "source": "EU Publications Office (CELLAR)",
@@ -795,11 +832,11 @@
    "kinds": [
     "local"
    ],
-   "acts": 92020,
+   "acts": 93510,
    "last_successful_check": "2026-11-06",
    "unavailable_since": null,
-   "sites": 104,
-   "sites_unavailable": 3,
+   "sites": 165,
+   "sites_unavailable": 5,
    "pct_verified_7d": 97.3,
    "pct_verified_30d": 97.4
   },
@@ -818,5 +855,5 @@
   }
  ],
  "index": "data/freshness/index.json",
- "shards": 1689
+ "shards": 1912
 }

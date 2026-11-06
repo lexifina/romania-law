@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "instante/2007",
+ "acts": [
+  {
+   "slug": "instante-ca-bucuresti-decizie-2007-115a",
+   "path": "instante/ca-bucuresti/decizie/2007/115a",
+   "short": "Decizia Curții de Apel București nr. 115a/2007",
+   "title": "DECIZIA CIVILA nr. 115A din 2 mai 2007 împotriva Deciziei directorului general al Oficiului Român pentru Drepturile de Autor nr. 75/2006",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/84506",
+   "versions": [
+    {
+     "from": "2007-08-16",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/84506",
+     "sha256": "c03d183b83982c292eb97931a3f1caa7f81d0817135346e8d332a217b21cafdd"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2007-116a",
+   "path": "instante/ca-bucuresti/decizie/2007/116a",
+   "short": "Decizia Curții de Apel București nr. 116a/2007",
+   "title": "DECIZIE nr. 116A din 2 mai 2007 împotriva Deciziei directorului general al Oficiului Român pentru Drepturile de Autor nr. 85/2006",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/84532",
+   "versions": [
+    {
+     "from": "2007-08-16",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/84532",
+     "sha256": "2a37fb74047789ea95447830e2faa5c2779ee8f8ce40d5cf897a98185d8d68aa"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2007-134a",
+   "path": "instante/ca-bucuresti/decizie/2007/134a",
+   "short": "Decizia Curții de Apel București nr. 134a/2007",
+   "title": "Decizia Curții de Apel București nr. 134a/2007, publicată în Monitorul Oficial nr. 610 din 4 septembrie 2007",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/85071",
+   "versions": [
+    {
+     "from": "2007-09-04",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/85071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2007-18a",
+   "path": "instante/ca-bucuresti/decizie/2007/18a",
+   "short": "Decizia Curții de Apel București nr. 18a/2007",
+   "title": "Decizia Curții de Apel București nr. 18a/2007",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/85341",
+   "versions": [
+    {
+     "from": "2007-02-01",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/85341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2007-23a",
+   "path": "instante/ca-bucuresti/decizie/2007/23a",
+   "short": "Decizia Curții de Apel București nr. 23a/2007",
+   "title": "DECIZIA CIVILA nr. 23.A din 5 februarie 2007 împotriva Deciziei directorului general al Oficiului Român pentru Drepturile de Autor nr. 74/12 aprilie 2006",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/84640",
+   "versions": [
+    {
+     "from": "2007-08-21",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/84640",
+     "sha256": "517e980834096892828b37fee6fe375f2be1aa6bf01a29947ab5b772e31509e0"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2007-271a",
+   "path": "instante/ca-bucuresti/decizie/2007/271a",
+   "short": "Decizia Curții de Apel București nr. 271a/2007",
+   "title": "DECIZIE CIVILĂ nr. 271A din 2 noiembrie 2007 privind pronunţarea asupra cererilor de apel formulate împotriva Hotărârii arbitrale din 12 aprilie 2007",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/91253",
+   "versions": [
+    {
+     "from": "2008-04-10",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/91253",
+     "sha256": "7e4810b04f6a012c28e42e0000bc306832c6fd10217a0ccfd67e3826ce276ff2"
+    }
+   ]
+  }
+ ]
+}

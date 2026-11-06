@@ -406,6 +406,21 @@
      "sha256": "dac59227a272fd1b402ced9acdb51a8afab3e7c2f062e8d62db8519b3dd019ad"
     }
    ]
+  },
+  {
+   "slug": "norma-cifga-3-2024",
+   "path": "norma/cifga/2024/3",
+   "short": "Norma cifga nr. 3/2024",
+   "title": "Norma nr. 3/2024 N3.3.3 din 2 februarie 2024 referitoare la \"Asigurarea creditelor la export pe termen mediu și lung și a investițiilor românești de capital în străinătate, în numele și în contul statului\", ediția VIII/0",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278867",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278867",
+     "sha256": "c27fe9b9cc59478d54c9a434854a7a872bc98fd49646e2007c3115e0c1ab091c"
+    }
+   ]
   }
  ]
 }

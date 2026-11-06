@@ -22,6 +22,25 @@
 "joint": []
 },
 {
+"slug": "instructiuni-cncd-1-2003",
+"path": "instructiuni/cncd/2003/1",
+"kind": "instructiuni",
+"year": "2003",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 1/2003 referitoare la obligațiile angajatorilor sau reprezentanților acestora, precum și ale autorilor, realizatorilor de anunțuri publicitare și reprezentanților acestora cu privire la condiționarea prin anunț și/sau concurs a ocupării unui post, precum și publicarea acestor anunțuri",
+"short": "Instrucțiuni cncd nr. 1/2003",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2003-04-07",
+"latest": "2003-04-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/42924",
+"issuer": "cncd",
+"joint": []
+},
+{
 "slug": "instructiuni-cnvm-1-2003",
 "path": "instructiuni/cnvm/2003/1",
 "kind": "instructiuni",
@@ -246,6 +265,25 @@
 "from": "2003-08-22",
 "latest": "2003-08-22",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/45757",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "instructiuni-sanatate-337-2003",
+"path": "instructiuni/sanatate/2003/337",
+"kind": "instructiuni",
+"year": "2003",
+"number": "337",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 337/2003 DB 337 din 16 ianuarie 2003 pentru aplicarea Ordonanței Guvernului nr. 70/2002 privind administrarea unităților sanitare publice de interes județean și local",
+"short": "Instrucțiuni sanatate nr. 337/2003",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2003-01-27",
+"latest": "2003-01-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/41435",
 "issuer": "sanatate",
 "joint": []
 }

@@ -166,6 +166,36 @@
      "sha256": "c0095c809a94c49c963452a02e9fcdc0b6cefbeee4cdda4bc315738456629139"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-finante-35160-1997",
+   "path": "instructiuni/finante/1997/35160",
+   "short": "Instrucțiuni finante nr. 35160/1997",
+   "title": "Instrucțiunile nr. 35.160/1997 din 1997 pentru actualizarea cuantumului indemnizațiilor de delegare și de detașare, potrivit prevederilor art. 3 din Hotărârea Guvernului nr. 543/1995 privind drepturile bănești ale salariaților instituțiilor publice și regiilor autonome cu specific deosebit pe perioada delegării și detașării în alta localitate, precum și în cazul deplasării, în cadrul localității, în interesul serviciului, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13900",
+   "versions": [
+    {
+     "from": "1997-02-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13900",
+     "sha256": "0cc7e8cdf14cbb71948d5ce6b03114d5b481436bcdaa6b2f818f60592c604fe8"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-finante-35913-1997",
+   "path": "instructiuni/finante/1997/35913",
+   "short": "Instrucțiuni finante nr. 35913/1997",
+   "title": "Instrucțiunile nr. 35.913/1997 pentru actualizarea cuantumului indemnizațiilor de delegare și de detașare, potrivit prevederilor art. 3 din Hotărârea Guvernului nr. 543/1995 privind drepturile bănești ale salariaților instituțiilor publice și regiilor autonome cu specific deosebit pe perioada delegării și detașării în alta localitate, precum și în cazul deplasării, în cadrul localității, în interesul serviciului, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13901",
+   "versions": [
+    {
+     "from": "1997-05-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13901",
+     "sha256": "a96e8cd988120842253f3de162ded99721affd4e0bd2bc41d7379621d87671aa"
+    }
+   ]
   }
  ]
 }

@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-1391-2006-anexa-1",
+   "path": "anexa/hg-1391-2006/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 1391/2006",
+   "title": "Regulament din 4 octombrie 2006 de aplicare a Ordonanței de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice (anexa nr. 1 la Hotărârea Guvernului nr. 1391/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76240",
+   "versions": [
+    {
+     "from": "2006-10-26",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76240",
+     "sha256": "1c12bdd8c1454f02c9664f5e3ece7c2d23fdd3ef2aada8c71a1fc11830386a1d"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-1411-2006-anexa",
    "path": "anexa/hg-1411-2006/anexa",
    "short": "Anexa la HG nr. 1411/2006",
@@ -468,6 +483,36 @@
    ]
   },
   {
+   "slug": "anexa-hg-532-2006-anexa-2",
+   "path": "anexa/hg-532-2006/anexa-2",
+   "short": "Anexa nr. 2 la HG nr. 532/2006",
+   "title": "Metodologie din 19 aprilie 2006 de alocare a fondurilor și criteriile de identificare și de aplicare a proiectelor specifice din cadrul programelor de interes național (anexa nr. 2 la Hotărârea Guvernului nr. 532/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71579",
+   "versions": [
+    {
+     "from": "2006-05-11",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71579",
+     "sha256": "8eb67c2fb146912a7c444a272b0ec131aba7bab454bfe316fc794404eeceba9f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-602-2006-anexa-2",
+   "path": "anexa/hg-602-2006/anexa-2",
+   "short": "Anexa nr. 2 la HG nr. 602/2006",
+   "title": "Regulament din 10 mai 2006 de organizare și funcționare a Comisiei privind determinarea oportunității proiectelor (anexa nr. 2 la Hotărârea Guvernului nr. 602/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71702",
+   "versions": [
+    {
+     "from": "2006-05-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71702",
+     "sha256": "9834d5f8ba54fe942ee2b20791454291552b7b3648ca534d3c878e987430f091"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-707-2006-anexa",
    "path": "anexa/hg-707-2006/anexa",
    "short": "Anexa la HG nr. 707/2006",
@@ -603,6 +648,21 @@
    ]
   },
   {
+   "slug": "anexa-hotarare-camera-1-2006-anexa",
+   "path": "anexa/hotarare-camera-1-2006/anexa",
+   "short": "Anexa la Hotărârea camera nr. 1/2006",
+   "title": "Norme din 30 mai 2006 privind modul de utilizare și justificare a sumei forfetare aferente cheltuielilor efectuate de deputați și senatori în circumscripțiile electorale (anexa la Hotărârea CAMERA nr. 1/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72478",
+   "versions": [
+    {
+     "from": "2006-06-08",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72478",
+     "sha256": "1eb4b237ede25a0f7ba3bc6ab0152741f9eb73d0b685b2dd5f85a034e20e5569"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hotarare-camera-2-2006-anexa",
    "path": "anexa/hotarare-camera-2-2006/anexa",
    "short": "Anexa la Hotărârea camera nr. 2/2006",
@@ -614,6 +674,66 @@
      "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72493",
      "sha256": "ba570d12b84609c1e9ee7b7cea0ae3bb498388f801d63ce9d5b044cf0f86a79b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-rur-26-2006-anexa-1",
+   "path": "anexa/hotarare-rur-26-2006/anexa-1",
+   "short": "Anexa nr. 1 la Hotărârea rur nr. 26/2006",
+   "title": "Regulament din 26 septembrie 2006 privind dobândirea dreptului de semnătură pentru documentațiile de amenajare a teritoriului și de urbanism (anexa nr. 1 la Hotărârea RUR nr. 26/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76000",
+   "versions": [
+    {
+     "from": "2006-10-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76000",
+     "sha256": "2f9cde15ea8b343c82925d244485f99a2e4edd1b0e6488aa2dffa396050957e3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-128-2006-anexa-1",
+   "path": "anexa/ordin-agricultura-128-2006/anexa-1",
+   "short": "Anexa nr. 1 la Ordin agricultura nr. 128/2006",
+   "title": "Norme tehnice din 27 februarie 2006 pentru producerea și comercializarea vinurilor spumante cu denumire de origine controlată (DOC) (anexa nr. 1 la Ordinul AGRICULTURA nr. 128/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69788",
+   "versions": [
+    {
+     "from": "2006-03-13",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69788",
+     "sha256": "a76f39f3f94cc88075c844cbe70c16281ae51ebf2627451ab28142575a832eb3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-1475-2006-anexa-1",
+   "path": "anexa/ordin-agricultura-1475-2006/anexa-1",
+   "short": "Anexa nr. 1 la Ordin agricultura nr. 1475/2006",
+   "title": "Regulament din 13 octombrie 2006 privind monitorizarea și gestionarea riscurilor cauzate de căderile de grindină și secetă severă (anexa nr. 1 la Ordinul AGRICULTURA nr. 1475/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78225",
+   "versions": [
+    {
+     "from": "2007-01-03",
+     "units": 64,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78225",
+     "sha256": "76882ce4ec9a4885c94c3cb9afe29f8ec0d86025b4c93356f9862942756b6c73"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-1475-2006-anexa-3",
+   "path": "anexa/ordin-agricultura-1475-2006/anexa-3",
+   "short": "Anexa nr. 3 la Ordin agricultura nr. 1475/2006",
+   "title": "Regulament din 13 octombrie 2006 privind gestionarea situațiilor de urgență ca urmare a incendiilor de pădure (anexa nr. 3 la Ordinul AGRICULTURA nr. 1475/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78227",
+   "versions": [
+    {
+     "from": "2007-01-03",
+     "units": 115,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78227",
+     "sha256": "c14e2570f898346e163249bad419c61a7b82eddd7f3d76ab80214a52de3a40c6"
     }
    ]
   },
@@ -689,6 +809,36 @@
      "units": 26,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74233",
      "sha256": "dacdaa1a53b89a27bcb0f04b90e1bf33a69e46669e97a414077a7ffa0ca31326"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-551-2006-anexa-1",
+   "path": "anexa/ordin-agricultura-551-2006/anexa-1",
+   "short": "Anexa nr. 1 la Ordin agricultura nr. 551/2006",
+   "title": "Regulament din 8 august 2006 privind monitorizarea și gestionarea riscurilor cauzate de căderile de grindină și secetă severă (anexa nr. 1 la Ordinul AGRICULTURA nr. 551/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78201",
+   "versions": [
+    {
+     "from": "2007-01-03",
+     "units": 64,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78201",
+     "sha256": "e97c47c01282547149c0c3383de752a38966e0c2a6f691ce1b369ed5aace86c9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-551-2006-anexa-2",
+   "path": "anexa/ordin-agricultura-551-2006/anexa-2",
+   "short": "Anexa nr. 2 la Ordin agricultura nr. 551/2006",
+   "title": "Regulament din 8 august 2006 privind gestionarea situațiilor de urgență în domeniul fitosanitar - invazii ale agenților de dăunare și contaminarea culturilor agricole cu produse de uz fitosanitar (anexa nr. 2 la Ordinul AGRICULTURA nr. 551/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78202",
+   "versions": [
+    {
+     "from": "2007-01-03",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78202",
+     "sha256": "f40d78424decddc87ded88433531c252bd307559bcf8f43eb1bb790e5a186459"
     }
    ]
   },
@@ -1083,6 +1233,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-comunicatii-2-2006-anexa-1",
+   "path": "anexa/ordin-comunicatii-2-2006/anexa-1",
+   "short": "Anexa nr. 1 la Ordin comunicatii nr. 2/2006",
+   "title": "Metodologie din 6 ianuarie 2006 referitoare la circuitul informațiilor la nivel național între Compartimentul pentru schimb de informații pentru reglementări tehnice, autoritățile administrației publice centrale și alte autorități cu funcție de reglementare (anexa nr. 1 la Ordinul COMUNICATII nr. 2/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69332",
+   "versions": [
+    {
+     "from": "2006-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69332",
+     "sha256": "6c5f3770790f79ca7d57d784ba590090c03fc7505c83b973d6f833a105e9f07f"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-comunicatii-470-2006-anexa",
    "path": "anexa/ordin-comunicatii-470-2006/anexa",
    "short": "Anexa la Ordin comunicatii nr. 470/2006",
@@ -1154,6 +1319,36 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73851",
      "sha256": "aff9749ff3901651d96bd1361b9694ca046184bd3ba6b1bf7ae23ffe21b789b2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-613-2006-anexa-1",
+   "path": "anexa/ordin-economie-613-2006/anexa-1",
+   "short": "Anexa nr. 1 la Ordin economie nr. 613/2006",
+   "title": "Procedură de evaluare din 4 septembrie 2006 a organismelor pentru evaluarea conformității eficienței cazanelor noi pentru apă caldă care funcționează cu combustibili lichizi sau gazoși (anexa nr. 1 la Ordinul ECONOMIE nr. 613/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75134",
+   "versions": [
+    {
+     "from": "2006-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75134",
+     "sha256": "0bead883058721a93a8428549b1063f17fbb8ec35fb719d801ef8d49cf310f38"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-616-2006-anexa-1",
+   "path": "anexa/ordin-economie-616-2006/anexa-1",
+   "short": "Anexa nr. 1 la Ordin economie nr. 616/2006",
+   "title": "Norme metodologice din 11 septembrie 2006 privind desemnarea organismelor care realizează evaluarea conformității mijloacelor de măsurare (anexa nr. 1 la Ordinul ECONOMIE nr. 616/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76210",
+   "versions": [
+    {
+     "from": "2006-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76210",
+     "sha256": "4eded85e2453b383e008a8646d7a639bf47780b387e563eddca3cb608cc6999e"
     }
    ]
   },
@@ -1233,6 +1428,51 @@
    ]
   },
   {
+   "slug": "anexa-ordin-educatie-5338-2006-anexa-1",
+   "path": "anexa/ordin-educatie-5338-2006/anexa-1",
+   "short": "Anexa nr. 1 la Ordin educatie nr. 5338/2006",
+   "title": "Metodologie din 11 octombrie 2006 privind criteriile de selecție și de formare a experților înscriși în Registrul Agenției Române de Asigurare a Calității în Învățământul Preuniversitar al experților în evaluare și acreditare (anexa nr. 1 la Ordinul EDUCATIE nr. 5338/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76199",
+   "versions": [
+    {
+     "from": "2006-10-25",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76199",
+     "sha256": "6060864356cf8d2b2fb16f09e791be5a955d11a749f6e01d8e0efcadbf63d572"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-europene-72-2006-anexa-1",
+   "path": "anexa/ordin-europene-72-2006/anexa-1",
+   "short": "Anexa nr. 1 la Ordin europene nr. 72/2006",
+   "title": "Metodologie din 24 ianuarie 2006 referitoare la circuitul informațiilor la nivel național între Compartimentul pentru schimb de informații pentru reglementări tehnice, autoritățile administrației publice centrale și alte autorități cu funcție de reglementare (anexa nr. 1 la Ordinul EUROPENE nr. 72/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69333",
+   "versions": [
+    {
+     "from": "2006-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69333",
+     "sha256": "2343be46082ac5fef7a3944cfd9c43010be9f41ad467088f6ea6f2297345615b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1939-2006-anexa-1",
+   "path": "anexa/ordin-finante-1939-2006/anexa-1",
+   "short": "Anexa nr. 1 la Ordin finante nr. 1939/2006",
+   "title": "Procedură din 15 noiembrie 2006 de compensare a creanțelor fiscale rezultate din raporturi juridice vamale și de restituire a eventualelor diferențe, ca urmare a cererii de compensare/restituire, depusă de contribuabilul titular al operațiunii vamale (anexa nr. 1 la Ordinul FINANTE nr. 1939/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76984",
+   "versions": [
+    {
+     "from": "2006-11-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76984",
+     "sha256": "c32cce7ff3452f6e25f0a18266c7c98f53929db874047f3bffb46741ae2ea6fb"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-finante-2218-2006-anexa",
    "path": "anexa/ordin-finante-2218-2006/anexa",
    "short": "Anexa la Ordin finante nr. 2218/2006",
@@ -1259,6 +1499,21 @@
      "units": 32,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78133",
      "sha256": "8d72ab08f90b5e9b885e0cb35bf402dfaa4800cd17b4308be37e5d962ec19a57"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-901-2006-anexa-1",
+   "path": "anexa/ordin-finante-901-2006/anexa-1",
+   "short": "Anexa nr. 1 la Ordin finante nr. 901/2006",
+   "title": "Procedură din 5 iunie 2006 de modificare a codului de înregistrare în scopuri de TVA pentru persoanele juridice înregistrate ca plătitori de TVA (anexa nr. 1 la Ordinul FINANTE nr. 901/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74326",
+   "versions": [
+    {
+     "from": "2006-08-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74326",
+     "sha256": "32d7b860b28586c09a12f7479cf4a4e058288e05afd17dca1628487ba97ef3ad"
     }
    ]
   },
@@ -1383,6 +1638,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-mediu-76-2006-anexa-3",
+   "path": "anexa/ordin-mediu-76-2006/anexa-3",
+   "short": "Anexa nr. 3 la Ordin mediu nr. 76/2006",
+   "title": "Regulament - CADRU din 23 ianuarie 2006 pentru exploatarea barajelor, lacurilor de acumulare și prizelor de alimentare cu apă (anexa nr. 3 la Ordinul MEDIU nr. 76/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69433",
+   "versions": [
+    {
+     "from": "2006-03-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69433",
+     "sha256": "e541d0395de6c555fe6bccfdbd48b449f07a9f19f1233a2d3f59414c0f647c20"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-mediu-9-2006-anexa",
    "path": "anexa/ordin-mediu-9-2006/anexa",
    "short": "Anexa la Ordin mediu nr. 9/2006",
@@ -1409,6 +1679,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73886",
      "sha256": "c4a573032b79786336909f5d5f981ac7d6f2e44d9cc13364e82852bb6954acd0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-munca-976-2006-anexa",
+   "path": "anexa/ordin-munca-976-2006/anexa",
+   "short": "Anexa la Ordin munca nr. 976/2006",
+   "title": "Instrucțiuni din 15 decembrie 2006 de aplicare a Legii nr. 396/2006 privind acordarea unui sprijin financiar la constituirea familiei (anexa la Ordinul MUNCA nr. 976/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78181",
+   "versions": [
+    {
+     "from": "2006-12-30",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78181",
+     "sha256": "4bb20cf26e0553564356605bc8b85f358a868a71c220ef1e02596f59647e6648"
     }
    ]
   },
@@ -1443,6 +1728,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-romi-172-2006-anexa-1",
+   "path": "anexa/ordin-romi-172-2006/anexa-1",
+   "short": "Anexa nr. 1 la Ordin romi nr. 172/2006",
+   "title": "Metodologie din 19 iunie 2006 de gestionare a Programului de dezvoltare comunitară în localitatea Hădăreni, comuna Chețani, județul Mureș, pentru perioada 2006-2008 (anexa nr. 1 la Ordinul ROMI nr. 172/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74023",
+   "versions": [
+    {
+     "from": "2006-08-03",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74023",
+     "sha256": "7c3e016aaa5ffde122754c0b85350577815ec3476942225df986e47781ddd945"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-sanatate-1193-2006-anexa",
    "path": "anexa/ordin-sanatate-1193-2006/anexa",
    "short": "Anexa la Ordin sanatate nr. 1193/2006",
@@ -1473,6 +1773,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-sanatate-1375-2006-anexa",
+   "path": "anexa/ordin-sanatate-1375-2006/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1375/2006",
+   "title": "Norme proprii din 10 octombrie 2006 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și farmaceutice care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 1375/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77528",
+   "versions": [
+    {
+     "from": "2006-12-08",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77528",
+     "sha256": "57b171599d5b77de5ed59073eac8b63873ca6ce298a3da6b65324656b613daee"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-sanatate-1468-2006-anexa",
    "path": "anexa/ordin-sanatate-1468-2006/anexa",
    "short": "Anexa la Ordin sanatate nr. 1468/2006",
@@ -1484,6 +1799,21 @@
      "units": 27,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77508",
      "sha256": "99046f00685c81ea59b56c6cd5acde2a1598e78ba4dda50ac90e4916497647ae"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1488-2006-anexa",
+   "path": "anexa/ordin-sanatate-1488-2006/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1488/2006",
+   "title": "Norme proprii din 2 noiembrie 2006 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și farmaceutice care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 1488/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77522",
+   "versions": [
+    {
+     "from": "2006-12-08",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77522",
+     "sha256": "a7d2b169ca8f1d3cdf4ba3f64090a29ec843f09902b041bc2a75bb0f91c1c24c"
     }
    ]
   },
@@ -1548,6 +1878,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-sanatate-253-2006-anexa",
+   "path": "anexa/ordin-sanatate-253-2006/anexa",
+   "short": "Anexa la Ordin sanatate nr. 253/2006",
+   "title": "Norme metodologice din 07 iunie 2006 privind încheierea și derularea contractelor de achiziții publice pentru medicamente și/sau materiale sanitare specifice, necesare realizării programului, respectiv subprogramelor naționale cu scop curativ finanțate din Fondul național unic de asigurări sociale de sănătate (anexa la Ordinul SANATATE nr. 253/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72854",
+   "versions": [
+    {
+     "from": "2006-06-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72854",
+     "sha256": "520b346ddead28f402522c506b436cb7a502972e2892d29da6f897d8bc312330"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-sanatate-267-2006-anexa",
    "path": "anexa/ordin-sanatate-267-2006/anexa",
    "short": "Anexa la Ordin sanatate nr. 267/2006",
@@ -1574,6 +1919,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68089",
      "sha256": "0497c7ac4b24ec000354c35607a01b5cab5a7c3e8d4ddbbf8c29b3641c1b6538"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-314-2006-anexa",
+   "path": "anexa/ordin-sanatate-314-2006/anexa",
+   "short": "Anexa la Ordin sanatate nr. 314/2006",
+   "title": "Instrucțiuni din 6 noiembrie 2006 referitoare la crearea cadrului legal pentru aplicarea regulamentelor Consiliului și Comisiei Europene referitoare la stabilirea nivelurilor maxime admise de contaminare radioactivă a produselor alimentare și furajere, după un accident nuclear sau în caz de urgență radiologică, la condițiile speciale de export al produselor alimentare și furajere, ca urmare a unui accident nuclear sau ca urmare a altor situații de urgență radiologică, precum și la condițiile care guvernează importurile produselor agricole originare din alte țări, ca urmare a accidentului de la centrala nuclearo-electrică de la Cernobîl (anexa la Ordinul SANATATE nr. 314/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78756",
+   "versions": [
+    {
+     "from": "2007-01-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78756",
+     "sha256": "c60a14960231121950cf759a954e25b61bda857c1c89d25d44604151dc586caa"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-385-2006-anexa",
+   "path": "anexa/ordin-sanatate-385-2006/anexa",
+   "short": "Anexa la Ordin sanatate nr. 385/2006",
+   "title": "Norme metodologice din 10 aprilie 2006 de organizare, finanțare, monitorizare și control al programului/subprogramelor finanțate din bugetul Fondului național unic de asigurări sociale de sănătate, precum și sistemul de raportare a indicatorilor specifici, în anul 2006 (anexa la Ordinul SANATATE nr. 385/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71881",
+   "versions": [
+    {
+     "from": "2006-05-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71881",
+     "sha256": "4519857a1b6733e58bbc608d5f6cdd8d91758e6c1dc0fa806ba6db1ab3d44687"
     }
    ]
   },
@@ -1619,6 +1994,21 @@
      "units": 38,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73849",
      "sha256": "bcfe45a18b26716f0baaa2a9c6fa73b7451c860d069e0bef2c51ead5dd25e218"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-1373-2006-anexa",
+   "path": "anexa/ordin-transporturi-1373-2006/anexa",
+   "short": "Anexa la Ordin transporturi nr. 1373/2006",
+   "title": "Norme metodologice din 20 iulie 2006 pentru punerea în aplicare a Programului național privind sprijinirea construirii de locuințe proprietate personală (anexa la Ordinul TRANSPORTURI nr. 1373/2006)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74608",
+   "versions": [
+    {
+     "from": "2006-08-25",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74608",
+     "sha256": "be2bfc4452e05b62c6a1fb70c3b6763a3c9f291391af9c0bd2864e384c4603fa"
     }
    ]
   },

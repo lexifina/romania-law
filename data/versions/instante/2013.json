@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "instante/2013",
+ "acts": [
+  {
+   "slug": "instante-ca-bucuresti-decizie-2013-10a",
+   "path": "instante/ca-bucuresti/decizie/2013/10a",
+   "short": "Decizia Curții de Apel București nr. 10a/2013",
+   "title": "Decizia Curții de Apel București nr. 10a/2013, publicată în Monitorul Oficial nr. 551 din 30 august 2013",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/151118",
+   "versions": [
+    {
+     "from": "2013-08-30",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/151118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2013-118a",
+   "path": "instante/ca-bucuresti/decizie/2013/118a",
+   "short": "Decizia Curții de Apel București nr. 118a/2013",
+   "title": "Decizia Curții de Apel București nr. 118a/2013, publicată în Monitorul Oficial nr. 428 din 11 iunie 2014",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/158911",
+   "versions": [
+    {
+     "from": "2014-06-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/158911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2013-209a",
+   "path": "instante/ca-bucuresti/decizie/2013/209a",
+   "short": "Decizia Curții de Apel București nr. 209a/2013",
+   "title": "Decizia Curții de Apel București nr. 209a/2013, publicată în Monitorul Oficial nr. 545 din 23 iulie 2014",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/160090",
+   "versions": [
+    {
+     "from": "2014-07-23",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/160090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2013-258a",
+   "path": "instante/ca-bucuresti/decizie/2013/258a",
+   "short": "Decizia Curții de Apel București nr. 258a/2013",
+   "title": "Decizia Curții de Apel București nr. 258a/2013, publicată în Monitorul Oficial nr. 66 din 27 ianuarie 2015",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/165142",
+   "versions": [
+    {
+     "from": "2015-01-27",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/165142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2013-49a",
+   "path": "instante/ca-bucuresti/decizie/2013/49a",
+   "short": "Decizia Curții de Apel București nr. 49a/2013",
+   "title": "Decizia Curții de Apel București nr. 49a/2013, publicată în Monitorul Oficial nr. 360 din 15 mai 2014",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/158234",
+   "versions": [
+    {
+     "from": "2014-05-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/158234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2013-83a",
+   "path": "instante/ca-bucuresti/decizie/2013/83a",
+   "short": "Decizia Curții de Apel București nr. 83a/2013",
+   "title": "DECIZIE CIVILĂ nr. 83A din 16 aprilie 2013 pronunţată în Dosarul nr. 6.652/2/2012",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/230890",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/230890",
+     "sha256": "e8ed8871707c2a5595dadeebf1149330e2bcaf20348438a39b5556139fc31662"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-incheiere-2013-10",
+   "path": "instante/ca-bucuresti/incheiere/2013/10",
+   "short": "Încheierea Curții de Apel București nr. 10/2013",
+   "title": "Încheierea Curții de Apel București nr. 10/2013, publicată în Monitorul Oficial nr. 551 din 30 august 2013",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/151122",
+   "versions": [
+    {
+     "from": "2013-08-30",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/151122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-incheiere-2013-2013-06-11",
+   "path": "instante/ca-bucuresti/incheiere/2013/2013-06-11",
+   "short": "Încheierea Curții de Apel București din 2013-06-11",
+   "title": "Încheierea Curții de Apel București din 2013-06-11, publicată în Monitorul Oficial nr. 428 din 11 iunie 2014",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/158910",
+   "versions": [
+    {
+     "from": "2014-06-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/158910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-incheiere-2013-3-2",
+   "path": "instante/ca-bucuresti/incheiere/2013/3-2",
+   "short": "Încheierea Curții de Apel București nr. 3/2013",
+   "title": "Încheierea Curții de Apel București nr. 3/2013, publicată în Monitorul Oficial nr. 551 din 30 august 2013",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/151117",
+   "versions": [
+    {
+     "from": "2013-08-30",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/151117",
+     "sha256": "43dde465538a78f07ad6eaf7ae4d46e248f9f9c1b15f545717996d9da2be0ff4"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-incheiere-2013-3",
+   "path": "instante/ca-bucuresti/incheiere/2013/3",
+   "short": "Încheierea Curții de Apel București nr. 3/2013",
+   "title": "Încheierea Curții de Apel București nr. 3/2013, publicată în Monitorul Oficial nr. 551 din 30 august 2013",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/151116",
+   "versions": [
+    {
+     "from": "2013-08-30",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/151116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-sentinta-2013-1929",
+   "path": "instante/ca-bucuresti/sentinta/2013/1929",
+   "short": "Sentința Curții de Apel București nr. 1929/2013",
+   "title": "Sentința Curții de Apel București nr. 1929/2013, publicată în Monitorul Oficial nr. 52 din 25 ianuarie 2016",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/175251",
+   "versions": [
+    {
+     "from": "2016-01-25",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/175251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-ploiesti-sentinta-2013-122",
+   "path": "instante/ca-ploiesti/sentinta/2013/122",
+   "short": "Sentința Curții de Apel Ploiești nr. 122/2013",
+   "title": "Sentința Curții de Apel Ploiești nr. 122/2013, publicată în Monitorul Oficial nr. 690 din 12 noiembrie 2013",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/152488",
+   "versions": [
+    {
+     "from": "2013-11-12",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/152488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-targu-mures-incheiere-2013-47-cc",
+   "path": "instante/ca-targu-mures/incheiere/2013/47-cc",
+   "short": "Încheierea Curții de Apel Târgu Mureș nr. 47-cc/2013",
+   "title": "ÎNCHEIERE nr. 47/CC din 11 iulie 2013 referitoare la soluţionarea cererii formulate de pârâta S.C. MASTERPLAN STUDIO - S.R.L., pentru îndreptarea erorilor materiale strecurate atât în practicaua, cât şi în dispozitivul Sentinţei nr. 225 din 7 mai 2013 , pronunţate de Curtea de Apel Târgu Mureş",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/177790",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/177790",
+     "sha256": "d0b51e7dd528d7a2c54c19f422c3f56b24727f792042c7ed6603da30ab0f9d4b"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-targu-mures-sentinta-2013-225",
+   "path": "instante/ca-targu-mures/sentinta/2013/225",
+   "short": "Sentința Curții de Apel Târgu Mureș nr. 225/2013",
+   "title": "Sentința Curții de Apel Târgu Mureș nr. 225/2013, publicată în Monitorul Oficial nr. 311 din 22 aprilie 2016",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/177789",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/177789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-bucuresti-sentinta-2013-41",
+   "path": "instante/tribunalul-bucuresti/sentinta/2013/41",
+   "short": "Sentința Tribunalului București nr. 41/2013",
+   "title": "SENTINŢĂ nr. 41 din 18 noiembrie 2013 privind radierea Partidului Naţional Creştin Democrat din Registrul partidelor politice (extras)",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/156807",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/156807",
+     "sha256": "646adffe4f01c535ab0cb9691df22992f503f8ec26fa823d9413b36a4b54103f"
+    }
+   ]
+  }
+ ]
+}

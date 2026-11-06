@@ -226,6 +226,21 @@
      "sha256": "57a0e8b8854f11cf4c3524f05c97f3852491aed23923e3037ad7481c658cf9d4"
     }
    ]
+  },
+  {
+   "slug": "norma-justitie-169-2001",
+   "path": "norma/justitie/2001/169",
+   "short": "Norma justitie nr. 169/2001",
+   "title": "Norma nr. 169/2001 /A.N. din 1 august 2001 privind modificarea și completarea Normelor metodologice nr. 2.083/1997 pentru aplicarea Ordonanței Guvernului nr. 32/1995 privind timbrul judiciar, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30179",
+   "versions": [
+    {
+     "from": "2001-08-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30179",
+     "sha256": "f83fc372541bffeadae61da20ae5d8778038c26b389cae6cce3428ae18fbdaf8"
+    }
+   ]
   }
  ]
 }

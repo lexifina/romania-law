@@ -3,6 +3,21 @@
  "shard": "anexa/1998",
  "acts": [
   {
+   "slug": "anexa-hg-634-1998-anexa-1",
+   "path": "anexa/hg-634-1998/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 634/1998",
+   "title": "Norme metodologice din 24 septembrie 1998 de aplicare a Legii nr. 151/1998 privind dezvoltarea regionala în România (anexa nr. 1 la Hotărârea Guvernului nr. 634/1998)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52004",
+   "versions": [
+    {
+     "from": "1998-10-25",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52004",
+     "sha256": "e1eb297baaa346862c544c80f58548169d5ae93ac996686b1e184647541b0c5e"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-753-1998-anexa",
    "path": "anexa/hg-753-1998/anexa",
    "short": "Anexa la HG nr. 753/1998",
@@ -44,6 +59,21 @@
      "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35344",
      "sha256": "d08ba659ca0e990ccbb959b2dcab07f628a2f0a294f18b41d1a1c031ca922855"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anrm-98-1998-anexa-1",
+   "path": "anexa/ordin-anrm-98-1998/anexa-1",
+   "short": "Anexa nr. 1 la Ordin anrm nr. 98/1998",
+   "title": "Metodologii din 17 august 1998 de stabilire a prețului de referința pentru petrolul (țiței și gaze naturale) extrase în România (anexa nr. 1 la Ordinul ANRM nr. 98/1998)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197834",
+   "versions": [
+    {
+     "from": "1998-09-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197834",
+     "sha256": "10a4b8b30c97c8149a629a65fb87370a8c88840a8bb8ecd4f3ef0b23c4be0f17"
     }
    ]
   },

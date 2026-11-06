@@ -136,6 +136,81 @@
      "sha256": "e2505d8293448490c4f2c28cae45d3d8e7fa0a5be29cccd030377a40772ae265"
     }
    ]
+  },
+  {
+   "slug": "norma-cinematografie-359-1993",
+   "path": "norma/cinematografie/1993/359",
+   "short": "Norma cinematografie nr. 359/1993",
+   "title": "Norma nr. 359/1993 cu privire la încasarea și plata drepturilor de folosința cuvenite principalilor realizatori cu drept de autor ai filmelor din producția naționala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3491",
+   "versions": [
+    {
+     "from": "1993-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3491",
+     "sha256": "114075a3d5cc302fd1f8ba0685ddc658df4e2dd42ab5d4d9b2a2003a2a489f0d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-4175-1993",
+   "path": "norma/finante/1993/4175",
+   "short": "Norma finante nr. 4175/1993",
+   "title": "Norma nr. 4.175/1993 privind reflectarea în contabilitatea instituțiilor publice a taxei pe valoarea adăugată*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3740",
+   "versions": [
+    {
+     "from": "1993-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3740",
+     "sha256": "cb5b32a64fa24f5206bec23167bc7cb7efc26fc7cd846841bac7c909cac776a1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-5188-1993",
+   "path": "norma/finante/1993/5188",
+   "short": "Norma finante nr. 5188/1993",
+   "title": "Norma nr. 5.188/1993 privind așezarea, tehnica de calcul, formularistica, evidența și vărsarea la bugetul de stat a accizelor la produsele din import și din țară, precum și a impozitului la țițeiul din producția internă și gazele naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3746",
+   "versions": [
+    {
+     "from": "1993-07-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3746",
+     "sha256": "305ff3ed6d836a3e25f7a0d841a20b6b763ec788e6eddb910f12c307043d23dd"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-76838-1993",
+   "path": "norma/finante/1993/76838",
+   "short": "Norma finante nr. 76838/1993",
+   "title": "Norma nr. 76.838/1993 cu privire la determinarea fondului de salarii ce poate fi plătit de o unitate, fără obligația de a plăti impozit suplimentar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3755",
+   "versions": [
+    {
+     "from": "1993-06-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3755",
+     "sha256": "f7677f3bbc4e0ffb1439f7eff6764988e309b83aa19eae4d3afbd7a76f3edf8e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-munca-6030-1993",
+   "path": "norma/munca/1993/6030",
+   "short": "Norma munca nr. 6030/1993",
+   "title": "Norma nr. 6.030/1993 cu privire la determinarea fondului de salarii ce poate fi plătit de o unitate, fără obligația de a plăti impozit suplimentar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3748",
+   "versions": [
+    {
+     "from": "1993-06-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3748",
+     "sha256": "31fc0305815faed4a48cff22425d991508317ee452a1f8efd46f1c29ace32479"
+    }
+   ]
   }
  ]
 }

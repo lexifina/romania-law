@@ -61,6 +61,36 @@
      "sha256": "67b0fb448517322c8ed53389313612e9c2da541c44825fdb4b6cbbedd464a925"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-comunicatii-614-1993",
+   "path": "instructiuni/comunicatii/1993/614",
+   "short": "Instrucțiuni comunicatii nr. 614/1993",
+   "title": "Instrucțiunile nr. 614/1993 privind modul de încasare a veniturilor, de alocare a fondurilor pentru finanțarea cheltuielilor aprobate și de evidențiere și raportare a fondului specific pentru cercetare-dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93128",
+   "versions": [
+    {
+     "from": "1993-08-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93128",
+     "sha256": "b0e6c26889cb38573609cdd0e3c3fe07b54f22fa5a939a5394b79880dfb9346e"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-finante-4524-1993",
+   "path": "instructiuni/finante/1993/4524",
+   "short": "Instrucțiuni finante nr. 4524/1993",
+   "title": "Instrucțiunile nr. 4.524/1993 privind modul de încasare a veniturilor, de alocare a fondurilor pentru finanțarea cheltuielilor aprobate și de evidențiere și raportare a fondului specific pentru cercetare-dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93127",
+   "versions": [
+    {
+     "from": "1993-08-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93127",
+     "sha256": "243a1168d4b179ead13a05dfc8ed19cfc00a75e5b46e55fa7f543b56da3dbb2a"
+    }
+   ]
   }
  ]
 }

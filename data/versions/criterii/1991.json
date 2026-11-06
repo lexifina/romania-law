@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "criterii/1991",
+ "acts": [
+  {
+   "slug": "criterii-privatizare-1043-1991",
+   "path": "criterii/privatizare/1991/1043",
+   "short": "Criterii privatizare nr. 1043/1991",
+   "title": "Criteriile nr. 1.043/1991 pentru selectarea societăților comerciale care se privatizează prin vînzare de acțiuni, înainte de organizarea Fondurilor Proprietății Private și a Fondului Proprietății de Stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2051",
+   "versions": [
+    {
+     "from": "1991-10-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2051",
+     "sha256": "4dccf2f41205ae8dcb8c450b24f7fa1164b07a547bfbd8fc524116ad3b2d207c"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "regulament/1944",
+ "acts": [
+  {
+   "slug": "regulament-munca-15-1944",
+   "path": "regulament/munca/1944/15",
+   "short": "Regulament munca nr. 15/1944",
+   "title": "Regulamentul nr. 15/1944 pentru funcționarea Fundației \"Așezământul Margareta Lahovary\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22958",
+   "versions": [
+    {
+     "from": "1944-03-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22958",
+     "sha256": "7b870418835b8d28b437a25296216fb6d0f79d2a9217a6698a295e9de068ba2d"
+    }
+   ]
+  }
+ ]
+}

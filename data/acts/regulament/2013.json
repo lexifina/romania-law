@@ -3,6 +3,25 @@
 "shard": "regulament/2013",
 "acts": [
 {
+"slug": "regulament-aparare-1-2013",
+"path": "regulament/aparare/2013/1",
+"kind": "regulament",
+"year": "2013",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 1/2013 P.M.-1 din 20 februarie 2013 structurilor de poliție militară",
+"short": "Regulament aparare nr. 1/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235580",
+"issuer": "aparare",
+"joint": []
+},
+{
 "slug": "regulament-asf-1-2013",
 "path": "regulament/asf/2013/1",
 "kind": "regulament",

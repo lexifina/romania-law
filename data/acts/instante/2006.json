@@ -1,0 +1,77 @@
+{
+"country": "RO",
+"shard": "instante/2006",
+"acts": [
+{
+"slug": "instante-ca-bucuresti-decizie-2006-116a",
+"path": "instante/ca-bucuresti/decizie/2006/116a",
+"kind": "instante",
+"year": "2006",
+"number": "116a",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 116.A din 15 iunie 2006 privind utilizarea de opere muzicale ca tonuri de apel",
+"short": "Decizia Curții de Apel București nr. 116a/2006",
+"code": null,
+"status": "as published in the Monitorul Oficial",
+"versions": 1,
+"from": "2006-10-12",
+"latest": "2006-10-12",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/75901"
+},
+{
+"slug": "instante-ca-bucuresti-decizie-2006-29a",
+"path": "instante/ca-bucuresti/decizie/2006/29a",
+"kind": "instante",
+"year": "2006",
+"number": "29a",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE CIVILĂ nr. 29.A din 7 martie 2006 privind utilizarea de opere muzicale în scop ambiental pe pagini de internet",
+"short": "Decizia Curții de Apel București nr. 29a/2006",
+"code": null,
+"status": "as published in the Monitorul Oficial",
+"versions": 1,
+"from": "2006-10-12",
+"latest": "2006-10-12",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/75900"
+},
+{
+"slug": "instante-ca-bucuresti-incheiere-2006-317",
+"path": "instante/ca-bucuresti/incheiere/2006/317",
+"kind": "instante",
+"year": "2006",
+"number": "317",
+"withdrawn_by": null,
+"reason": null,
+"title": "ÎNCHEIERE din 26 mai 2006 privind îndreptarea erorii materiale strecurate în considerentele şi dispozitivul Sentinţei civile nr. 317/13.02.2006 pronunţate de Curtea de Apel Bucureşti - Secţia contencios administrativ şi fiscal",
+"short": "Încheierea Curții de Apel București nr. 317/2006",
+"code": null,
+"status": "as published in the Monitorul Oficial",
+"versions": 1,
+"from": "2007-06-05",
+"latest": "2007-06-05",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/82588"
+},
+{
+"slug": "instante-ca-bucuresti-sentinta-2006-317",
+"path": "instante/ca-bucuresti/sentinta/2006/317",
+"kind": "instante",
+"year": "2006",
+"number": "317",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Curții de Apel București nr. 317/2006, publicată în Monitorul Oficial nr. 380 din 5 iunie 2007",
+"short": "Sentința Curții de Apel București nr. 317/2006",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2007-06-05",
+"latest": "2007-06-05",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/82587",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

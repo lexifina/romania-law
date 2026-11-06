@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "instante/2008",
+ "acts": [
+  {
+   "slug": "instante-ca-bucuresti-decizie-2008-18a",
+   "path": "instante/ca-bucuresti/decizie/2008/18a",
+   "short": "Decizia Curții de Apel București nr. 18a/2008",
+   "title": "DECIZIA CIVILĂ nr. 18 A din 31 ianuarie 2008 privind respingerea apelului formulat de Uniunea Producătorilor de Fonograme din România (UPFR) împotriva Hotărârii arbitrale din data de 25 iulie 2007",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/91182",
+   "versions": [
+    {
+     "from": "2008-04-10",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/91182",
+     "sha256": "d64c537ddeae269e6f20674e6300d02af78c3aaebd11d22e05461e401746149a"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2008-264a",
+   "path": "instante/ca-bucuresti/decizie/2008/264a",
+   "short": "Decizia Curții de Apel București nr. 264a/2008",
+   "title": "Decizia Curții de Apel București nr. 264a/2008, publicată în Monitorul Oficial nr. 434 din 25 iunie 2009",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/108123",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/108123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-incheiere-2008-217a",
+   "path": "instante/ca-bucuresti/incheiere/2008/217a",
+   "short": "Încheierea Curții de Apel București nr. 217a/2008",
+   "title": "ÎNCHEIERE din 26 februarie 2008 privind soluţionarea din oficiu a erorii materiale strecurate în dispozitivul Deciziei civile nr. 217A din 2 noiembrie 2007",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/91254",
+   "versions": [
+    {
+     "from": "2008-04-10",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/91254",
+     "sha256": "aa437fae628c787421aa069aacb0532bb7072848ea4ea6b98e1095f2b81ab924"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-sentinta-2008-1603",
+   "path": "instante/ca-bucuresti/sentinta/2008/1603",
+   "short": "Sentința Curții de Apel București nr. 1603/2008",
+   "title": "Sentința Curții de Apel București nr. 1603/2008, publicată în Monitorul Oficial nr. 240 din 6 aprilie 2011",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/127502",
+   "versions": [
+    {
+     "from": "2011-04-06",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/127502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-sentinta-2008-2838",
+   "path": "instante/ca-bucuresti/sentinta/2008/2838",
+   "short": "Sentința Curții de Apel București nr. 2838/2008",
+   "title": "Sentința Curții de Apel București nr. 2838/2008, publicată în Monitorul Oficial nr. 872 din 15 decembrie 2009",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/114466",
+   "versions": [
+    {
+     "from": "2009-12-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/114466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-cluj-sentinta-2008-767",
+   "path": "instante/ca-cluj/sentinta/2008/767",
+   "short": "Sentința Curții de Apel Cluj nr. 767/2008",
+   "title": "Sentința Curții de Apel Cluj nr. 767/2008, publicată în Monitorul Oficial nr. 770 din 11 noiembrie 2009",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/113262",
+   "versions": [
+    {
+     "from": "2009-11-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/113262",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

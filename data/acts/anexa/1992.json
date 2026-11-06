@@ -1,0 +1,23 @@
+{
+"country": "RO",
+"shard": "anexa/1992",
+"acts": [
+{
+"slug": "anexa-hg-486-1992-anexa-2",
+"path": "anexa/hg-486-1992/anexa-2",
+"kind": "anexa",
+"year": "1992",
+"number": "hg-486-1992/anexa-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulament din 25 august 1992 privind organizarea și funcționarea Comisie de coordonare, avizare și atestare a jocurilor de noroc (anexa nr. 2 la Hotărârea Guvernului nr. 486/1992)",
+"short": "Anexa nr. 2 la HG nr. 486/1992",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1992-10-13",
+"latest": "1992-10-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/31068"
+}
+]
+}

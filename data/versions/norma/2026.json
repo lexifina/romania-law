@@ -226,6 +226,21 @@
      "sha256": "afbacf117d116c7e6db22c261afa3fc45a437456641117d3bae93084d0ef3e99"
     }
    ]
+  },
+  {
+   "slug": "norma-cifga-3-2026",
+   "path": "norma/cifga/2026/3",
+   "short": "Norma cifga nr. 3/2026",
+   "title": "Norma nr. 3/2026 N3.18 din 28 august 2026 referitoare la \"Operațiuni de finanțare temporară a întreprinderilor publice în numele și în contul statului\" (ediția I/0)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313974",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313974",
+     "sha256": "c0bc794a89a7c332f249b4bd130f2dc5887ab56771e36a3d9dcedfeb6f2419c6"
+    }
+   ]
   }
  ]
 }

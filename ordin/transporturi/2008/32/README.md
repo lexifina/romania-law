@@ -25,3 +25,4 @@ Act id: `ordin-transporturi-32-2008` (tags `ordin-transporturi-32-2008/<day>`; `
 - Ordin transporturi nr. 32/2008: the signatures and the place and date line after its last article are not article text.
 - Ordin transporturi nr. 32/2008: Anexa nr. 1 (1) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 89042 of the official web service.
 - Ordin transporturi nr. 32/2008: Anexa nr. 2 (2) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 89042 of the official web service.
+- Ordin transporturi nr. 32/2008: personal identifiers removed from the published text (7 CNPs): each is replaced by a short marker ("[CNP omis]", "[data nașterii omisă]" or "[adresa omisă]"). Every other word, names included, is as the Monitorul Oficial printed it.

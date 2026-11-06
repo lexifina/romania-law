@@ -362,6 +362,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/7959",
 "issuer": "cnvm",
 "joint": []
+},
+{
+"slug": "regulament-fps-4384-1996",
+"path": "regulament/fps/1996/4384",
+"kind": "regulament",
+"year": "1996",
+"number": "4384",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 4.384/1996 P/4384 din 18 noiembrie 1996 de organizare a licitațiilor pentru contractarea serviciilor de consultanța în domeniul evaluării societăților comerciale",
+"short": "Regulament fps nr. 4384/1996",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1996-12-17",
+"latest": "1996-12-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/10702",
+"issuer": "fps",
+"joint": []
 }
 ]
 }

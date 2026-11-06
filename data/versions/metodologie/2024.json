@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "metodologie/2024",
+ "acts": [
+  {
+   "slug": "metodologie-economie-373-2024",
+   "path": "metodologie/economie/2024/373",
+   "short": "Metodologie economie nr. 373/2024",
+   "title": "Metodologia nr. 373/2024 din 8 aprilie 2024 privind evaluarea conformității cu principiul „Do no significant harm“ (DNSH)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/281861",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281861",
+     "sha256": "c3ddf5147bb8dd765e9c9b0bdb0033f6397d109d55895e23f4932423c17327c6"
+    }
+   ]
+  }
+ ]
+}

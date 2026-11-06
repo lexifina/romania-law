@@ -1,0 +1,1356 @@
+{
+ "country": "RO",
+ "shard": "anexa/2017",
+ "acts": [
+  {
+   "slug": "anexa-decizie-anrm-16-2017-anexa",
+   "path": "anexa/decizie-anrm-16-2017/anexa",
+   "short": "Anexa la Decizia anrm nr. 16/2017",
+   "title": "Procedură din 2 august 2017 pentru emiterea autorizației de stocare geologică a dioxidului de carbon (anexa la Decizia ANRM nr. 16/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193124",
+   "versions": [
+    {
+     "from": "2017-08-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193124",
+     "sha256": "48998070b7c405e56c8afd0aa41e06967bb5ae937acb8944385009c713856a29"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-ccir-5-2017-anexa",
+   "path": "anexa/decizie-ccir-5-2017/anexa",
+   "short": "Anexa la Decizia ccir nr. 5/2017",
+   "title": "Regulament din 12 decembrie 2017 privind organizarea și funcționarea Curții de Arbitraj Comercial Internațional de pe lângă Camera de Comerț și Industrie a României (anexa la Decizia CCIR nr. 5/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196046",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196046",
+     "sha256": "c5475d829501833fbe10e1cdb7a16b60d60b5271fd6947baead3a3170cb592a0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-penitenciare-500165-2017-anexa",
+   "path": "anexa/decizie-penitenciare-500165-2017/anexa",
+   "short": "Anexa la Decizia penitenciare nr. 500165/2017",
+   "title": "Instrucțiuni din 25 septembrie 2017 privind organizarea muncii persoanelor private de libertate (anexa la Decizia PENITENCIARE nr. 500165/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197239",
+   "versions": [
+    {
+     "from": "2017-11-17",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197239",
+     "sha256": "8f60019b8a9574d0026cf3d25244d9c9bbe30f8b1684b535b5c1e20a36a3afa7"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-penitenciare-500460-2017-anexa",
+   "path": "anexa/decizie-penitenciare-500460-2017/anexa",
+   "short": "Anexa la Decizia penitenciare nr. 500460/2017",
+   "title": "Norme naționale din 23 noiembrie 2017 în domeniul educației, asistenței psihologice și asistenței sociale a persoanelor internate în centre educative și centre de detenție (anexa la Decizia PENITENCIARE nr. 500460/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196707",
+   "versions": [
+    {
+     "from": "2018-01-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196707",
+     "sha256": "15c14b7ad68dbcf6ad966b1db2d5e009ce740e8804f92a8dd7ddad8ed92fc69f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-penitenciare-500494-2017-anexa",
+   "path": "anexa/decizie-penitenciare-500494-2017/anexa",
+   "short": "Anexa la Decizia penitenciare nr. 500494/2017",
+   "title": "Norme din 4 decembrie 2017 privind desfășurarea activității de apărare împotriva incendiilor în sistemul administrației penitenciare (anexa la Decizia PENITENCIARE nr. 500494/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198021",
+   "versions": [
+    {
+     "from": "2018-02-05",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198021",
+     "sha256": "2e90ac099f935dfe09d5a89c09b227048281e798e557db92b4c78aa7897f4a3f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-337-2017-anexa",
+   "path": "anexa/hg-337-2017/anexa",
+   "short": "Anexa la HG nr. 337/2017",
+   "title": "Norme metodologice din 18 mai 2017 privind detașarea salariaților în cadrul prestării de servicii transnaționale pe teritoriul României (anexa la Hotărârea Guvernului nr. 337/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189658",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189658",
+     "sha256": "396f32c90d3be58d182a00c11fbffea3955abf342a1e9f3f03e8098385810dbd"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-448-2017-anexa",
+   "path": "anexa/hg-448-2017/anexa",
+   "short": "Anexa la HG nr. 448/2017",
+   "title": "Metodologie din 30 iunie 2017 privind contactarea părinților firești sau a rudelor biologice, accesul adoptatului la informații vizând originile sale și propriul trecut, precum și accesul părinților firești sau al rudelor biologice ale persoanelor adoptate la informații referitoare la persoana adoptată (anexa la Hotărârea Guvernului nr. 448/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190854",
+   "versions": [
+    {
+     "from": "2017-07-05",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190854",
+     "sha256": "abdb067d3e8a23bb397bc17409da422f934705219873140311edab87a6431bfa"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-488-2017-anexa-1",
+   "path": "anexa/hg-488-2017/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 488/2017",
+   "title": "Regulament din 13 iulie 2017 de organizare și funcționare a Inspecției Muncii (anexa nr. 1 la Hotărârea Guvernului nr. 488/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191631",
+   "versions": [
+    {
+     "from": "2017-09-23",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191631",
+     "sha256": "28780c0951597537d5f29f3fd138c814e153057a5ce8f56c4c79dcf3dafb82b5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-503-2017-anexa",
+   "path": "anexa/hg-503-2017/anexa",
+   "short": "Anexa la HG nr. 503/2017",
+   "title": "Norme metodologice din 13 iulie 2017 de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 8/2017 privind lansarea în cadrul Ministerului pentru Mediul de Afaceri, Comerț și Antreprenoriat a Programului de susținere a internaționalizării operatorilor economici români, cu finanțare de la bugetul de stat, pentru perioada 2017-2020 (anexa la Hotărârea Guvernului nr. 503/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191643",
+   "versions": [
+    {
+     "from": "2017-07-25",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191643",
+     "sha256": "fa8b0bf70d6cbb90054c7a54ec7591944b5feaa8e9e544fa78c6bf2b66b1580e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-598-2017-anexa",
+   "path": "anexa/hg-598-2017/anexa",
+   "short": "Anexa la HG nr. 598/2017",
+   "title": "Metodologie din 23 august 2017 de acreditare, evaluare periodică, organizare și funcționare a centrelor comunitare de învățare permanentă (anexa la Hotărârea Guvernului nr. 598/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192558",
+   "versions": [
+    {
+     "from": "2017-08-28",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192558",
+     "sha256": "c960e8daf471ca8c4ef1607ad6910ce7c947d5c024aab07f9290128c04bb813d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-611-2017-anexa",
+   "path": "anexa/hg-611-2017/anexa",
+   "short": "Anexa la HG nr. 611/2017",
+   "title": "Norme metodologice din 23 august 2017 de aplicare a Legii nr 232/2016 privind industria națională de apărare, precum și pentru modificarea și completarea unor acte normative (anexa la Hotărârea Guvernului nr. 611/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192886",
+   "versions": [
+    {
+     "from": "2017-09-06",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192886",
+     "sha256": "21714fc245bbade9149c75b74d199a53049b24175f1900a89ff673ebdbed64f1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-652-2017-anexa",
+   "path": "anexa/hg-652-2017/anexa",
+   "short": "Anexa la HG nr. 652/2017",
+   "title": "Norme metodologice din 7 septembrie 2017 de aplicare a prevederilor Legii nr. 167/2014 privind exercitarea profesiei de bonă (anexa la Hotărârea Guvernului nr. 652/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193193",
+   "versions": [
+    {
+     "from": "2017-09-14",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193193",
+     "sha256": "5860336488f858ca71b7fa777f55d7d8cf1819de4f3abd5e67d302745998c68f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-677-2017-anexa",
+   "path": "anexa/hg-677-2017/anexa",
+   "short": "Anexa la HG nr. 677/2017",
+   "title": "Metodologie din 21 septembrie 2017 de analiză cost-beneficiu pentru investițiile în infrastructura de apă (anexa la Hotărârea Guvernului nr. 677/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193420",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193420",
+     "sha256": "0b7be2dd2d9e01f6e357e926a562c579f8b941fad3430b55ca3fd346fe1fdbd0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-690-2017-anexa",
+   "path": "anexa/hg-690-2017/anexa",
+   "short": "Anexa la HG nr. 690/2017",
+   "title": "Norme metodologice din 21 septembrie 2017 cu privire la realizarea activităților de cooperare internațională pentru dezvoltare și asistență umanitară (anexa la Hotărârea Guvernului nr. 690/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193907",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 60,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193907",
+     "sha256": "852f2c3007e929cee925478a2f620dfb8e17c79f7a1a5e44857166636bbe1340"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-715-2017-anexa",
+   "path": "anexa/hg-715-2017/anexa",
+   "short": "Anexa la HG nr. 715/2017",
+   "title": "Regulament din 5 octombrie 2017 de valorificare a masei lemnoase din fondul forestier proprietate publică (anexa la Hotărârea Guvernului nr. 715/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193926",
+   "versions": [
+    {
+     "from": "2017-10-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193926",
+     "sha256": "334c4f48677b82a5b36931edf36d9d1218b6664ab404ad0543324318b04ba47e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-764-2017-anexa",
+   "path": "anexa/hg-764-2017/anexa",
+   "short": "Anexa la HG nr. 764/2017",
+   "title": "Norme din 11 octombrie 2017 privind recunoașterea diplomelor, certificatelor și titlurilor de medic specialist, eliberate de un stat terț, altul decât Australia, Canada, Israel, Noua Zeelandă și Statele Unite ale Americii (anexa la Hotărârea Guvernului nr. 764/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194163",
+   "versions": [
+    {
+     "from": "2017-10-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194163",
+     "sha256": "6076d54d5fe585572c737918856d6c349fb8c29be7fbb73683fc3db6c062269b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-836-2017-anexa",
+   "path": "anexa/hg-836-2017/anexa",
+   "short": "Anexa la HG nr. 836/2017",
+   "title": "Norme de aplicare din 22 noiembrie 2017 în cadrul Ministerului Afacerilor Interne a prevederilor Ordonanței de urgență a Guvernului nr. 38/2010 privind transmiterea unor bunuri mobile, proprietate privată a statului, din administrarea și evidența proprie a Ministerului Apărării Naționale, Ministerului Afacerilor Interne și Ministerului Justiției - Administrația Națională a Penitenciarelor și unitățile subordonate acesteia în administrarea unor operatori economici din industria de apărare, aflați sub autoritatea Ministerului Economiei (anexa la Hotărârea Guvernului nr. 836/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194998",
+   "versions": [
+    {
+     "from": "2017-11-24",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194998",
+     "sha256": "2f975826d3911302e1fcff78c22e3ea3837098b1798b5bbc5db2a0911764ba74"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-863-2017-anexa",
+   "path": "anexa/hg-863-2017/anexa",
+   "short": "Anexa la HG nr. 863/2017",
+   "title": "Regulament-cadru din 29 noiembrie 2017 privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă grele, vătămătoare sau periculoase, precum și a condițiilor de acordare a acestuia pentru familia ocupațională de funcții bugetare \"Diplomație\" (anexa la Hotărârea Guvernului nr. 863/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195629",
+   "versions": [
+    {
+     "from": "2017-12-12",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195629",
+     "sha256": "18761681a265e26ec417fe47768012fdc4e851dd15896c02782d9ac7c622c75e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-914-2017-anexa-1",
+   "path": "anexa/hg-914-2017/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 914/2017",
+   "title": "Regulament din 14 decembrie 2017 de organizare și funcționare și a structurii organizatorice a Centrului Național de Management al Apei Grele (anexa nr. 1 la Hotărârea Guvernului nr. 914/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196236",
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196236",
+     "sha256": "ac943b093de177e33d3d3d32b8101e355b59a12f2d556721b85c03c5c265f471"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-917-2017-anexa",
+   "path": "anexa/hg-917-2017/anexa",
+   "short": "Anexa la HG nr. 917/2017",
+   "title": "Regulament-cadru din 20 decembrie 2017 privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă, precum și a condițiilor de acordare a acestuia pentru familia ocupațională de funcții bugetare \"Administrație\" din administrația publică centrală (anexa la Hotărârea Guvernului nr. 917/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196277",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196277",
+     "sha256": "9fe9d544d2efe515ab610d3991598bca469c35fa0df82e2d57d44c69276e6d5c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-949-2017-anexa",
+   "path": "anexa/hg-949-2017/anexa",
+   "short": "Anexa la HG nr. 949/2017",
+   "title": "Norme metodologice din 28 decembrie 2017 pentru aplicarea Ordonanței de urgență a Guvernului nr. 193/2002 privind introducerea sistemelor moderne de plată (anexa la Hotărârea Guvernului nr. 949/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196384",
+   "versions": [
+    {
+     "from": "2018-01-05",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196384",
+     "sha256": "00fc08d42b24e21108cac39cabb2edc28ad84285e4c88ad0854d61ba4b37f7e6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-126-2017-anexa",
+   "path": "anexa/ordin-agricultura-126-2017/anexa",
+   "short": "Anexa la Ordin agricultura nr. 126/2017",
+   "title": "Norme din 3 mai 2017 privind accesul la resursele acvatice vii din domeniul public al statului în vederea practicării pescuitului comercial în habitatele piscicole naturale din ariile naturale protejate (anexa la Ordinul AGRICULTURA nr. 126/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190158",
+   "versions": [
+    {
+     "from": "2017-06-15",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190158",
+     "sha256": "2043a094f4450dabe8eaa70de47730868bf8b82754f9e2ad5487b253bc1bd091"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-145-2017-anexa-1",
+   "path": "anexa/ordin-agricultura-145-2017/anexa-1",
+   "short": "Anexa nr. 1 la Ordin agricultura nr. 145/2017",
+   "title": "Norme metodologice din 11 mai 2017 privind autorizarea laboratoarelor în vederea efectuării de analize pentru vin și celelalte produse pe bază de must și vin ce urmează a fi expediate în scopul comercializării pe piața internă (anexa nr. 1 la Ordinul AGRICULTURA nr. 145/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189461",
+   "versions": [
+    {
+     "from": "2017-05-23",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189461",
+     "sha256": "5fe02a50c5289493b0d59616dbc54bd5e6a3acc5a7b7ce3fcaef5bf8273e6a6d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-146-2017-anexa",
+   "path": "anexa/ordin-agricultura-146-2017/anexa",
+   "short": "Anexa la Ordin agricultura nr. 146/2017",
+   "title": "Norme metodologice din 11 mai 2017 privind condițiile de comercializare cu amănuntul a vinului vrac fără denumire de origine controlată, fără indicație geografică și fără denumire de soi (anexa la Ordinul AGRICULTURA nr. 146/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189368",
+   "versions": [
+    {
+     "from": "2017-05-18",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189368",
+     "sha256": "735dee40be5f396fb3416f83afe828e58daedf1e1928d49f9fa626777f2bde42"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-157-2017-anexa",
+   "path": "anexa/ordin-agricultura-157-2017/anexa",
+   "short": "Anexa la Ordin agricultura nr. 157/2017",
+   "title": "Ghidul solicitantului din 18 mai 2017 aferent măsurii I.22 Valoarea adăugată, calitatea produselor și utilizarea capturilor nedorite din Programul operațional pentru pescuit și afaceri maritime 2014 - 2020 (anexa la Ordinul AGRICULTURA nr. 157/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212701",
+   "versions": [
+    {
+     "from": "2017-06-20",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212701",
+     "sha256": "06fdecac6bba7b63f13fc01af31e9e0dcefbb51b321dd5f382004963d6c8ca69"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-181-2017-anexa",
+   "path": "anexa/ordin-agricultura-181-2017/anexa",
+   "short": "Anexa la Ordin agricultura nr. 181/2017",
+   "title": "Ghidul solicitantului din 31 mai 2017 aferent măsurii III.2 - Punerea în aplicare a strategiilor de dezvoltare locală plasate sub responsabilitatea comunității (inclusiv costurile de funcționare și animare) - Selectarea grupurilor de acțiune locală pentru pescuit (FLAG-uri) (anexa la Ordinul AGRICULTURA nr. 181/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194415",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194415",
+     "sha256": "ca989f95f8cf7eff64770b76665f6d26206f3e6a29d3b42ecce510e7b89b0785"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-193-2017-anexa",
+   "path": "anexa/ordin-agricultura-193-2017/anexa",
+   "short": "Anexa la Ordin agricultura nr. 193/2017",
+   "title": "Procedură din 12 iunie 2017 de decontare a cheltuielilor suportate de către Agenția Națională de Îmbunătățiri Funciare, aferente asigurării unui nivel optim al apei pentru irigații la stațiile de punere sub presiune și la alte puncte de livrare (anexa la Ordinul AGRICULTURA nr. 193/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190053",
+   "versions": [
+    {
+     "from": "2017-06-12",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190053",
+     "sha256": "c1ddf4883bdf1f33a3dac71d7cffb517920578682d2e6c189c649a663458678a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-2671-2017-anexa",
+   "path": "anexa/ordin-anaf-2671-2017/anexa",
+   "short": "Anexa la Ordin anaf nr. 2671/2017",
+   "title": "Norme tehnice din 12 septembrie 2017 privind autorizarea pentru utilizarea garanției globale în legătură cu două sau mai multe operațiuni, declarații sau regimuri vamale, cu excepția regimului de tranzit unional/comun (anexa la Ordinul ANAF nr. 2671/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193258",
+   "versions": [
+    {
+     "from": "2017-10-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193258",
+     "sha256": "ad4b38cacd14ab30c439d1ab520796da37e6d95c427f46c7f35101785d24adc1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-2792-2017-anexa",
+   "path": "anexa/ordin-anaf-2792-2017/anexa",
+   "short": "Anexa la Ordin anaf nr. 2792/2017",
+   "title": "Norme tehnice din 28 septembrie 2017 de înregistrare a exportatorilor în vederea emiterii atestatelor de origine, declarațiilor de origine și declarațiilor pe factură (anexa la Ordinul ANAF nr. 2792/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193933",
+   "versions": [
+    {
+     "from": "2017-10-13",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193933",
+     "sha256": "ef94e1a449734d7c629aede90a6f944773358d6fe0f8f01d40c596f9df7992d0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-735-2017-anexa",
+   "path": "anexa/ordin-anaf-735-2017/anexa",
+   "short": "Anexa la Ordin anaf nr. 735/2017",
+   "title": "Norme tehnice din 14 februarie 2017 privind autorizarea utilizării regimului de tranzit unional/comun pe suport hârtie pentru mărfurile transportate pe calea ferată și pe cale aeriană și autorizarea utilizării regimului de tranzit unional/comun pe baza unui manifest electronic pentru mărfurile transportate pe cale aeriană (anexa la Ordinul ANAF nr. 735/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186996",
+   "versions": [
+    {
+     "from": "2017-03-02",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186996",
+     "sha256": "21d11bcf68f4cdc07ad09b3e4c88a9fffeea57b8103fb9ac2eaffa9b507afb22"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-766-2017-anexa",
+   "path": "anexa/ordin-anaf-766-2017/anexa",
+   "short": "Anexa la Ordin anaf nr. 766/2017",
+   "title": "Norme tehnice din 16 februarie 2017 privind acordarea statutului de expeditor și/sau destinatar agreat în cadrul regimului de tranzit unional/comun (anexa la Ordinul ANAF nr. 766/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187209",
+   "versions": [
+    {
+     "from": "2017-03-13",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187209",
+     "sha256": "92273b35a9c733b5ce3f4b570931d5c2706c7d63796afed416e3f6e942301991"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-792-2017-anexa-1",
+   "path": "anexa/ordin-anaf-792-2017/anexa-1",
+   "short": "Anexa nr. 1 la Ordin anaf nr. 792/2017",
+   "title": "Norme tehnice din 21 februarie 2017 de autorizare pentru exploatarea spațiilor de depozitare temporară (anexa nr. 1 la Ordinul ANAF nr. 792/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187189",
+   "versions": [
+    {
+     "from": "2017-03-13",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187189",
+     "sha256": "f7c587f17d48347d62a60097585606e70a71e9ea43211bed2e31849f81a4062e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-792-2017-anexa-2",
+   "path": "anexa/ordin-anaf-792-2017/anexa-2",
+   "short": "Anexa nr. 2 la Ordin anaf nr. 792/2017",
+   "title": "Normă tehnice din 21 februarie 2017 privind utilizarea și completarea declarației de depozitare temporară (anexa nr. 2 la Ordinul ANAF nr. 792/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187190",
+   "versions": [
+    {
+     "from": "2017-03-13",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187190",
+     "sha256": "fa679ce26a6604190e9d4c92ba8ba58a1d2f135065e5cd371c04a9356830dc13"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-80-2017-anexa-1",
+   "path": "anexa/ordin-anaf-80-2017/anexa-1",
+   "short": "Anexa nr. 1 la Ordin anaf nr. 80/2017",
+   "title": "Norme tehnice din 9 ianuarie 2017 privind autorizarea destinatarilor agreați în cadrul regimului de tranzit sub acoperirea carnetelor TIR (Anexa nr. 1) (anexa nr. 1 la Ordinul ANAF nr. 80/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186399",
+   "versions": [
+    {
+     "from": "2017-02-03",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186399",
+     "sha256": "461091dc558cf7070b93cd7dbfb88b936bf8a18ac10ae81298a0ce7787f9af73"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-80-2017-anexa-2",
+   "path": "anexa/ordin-anaf-80-2017/anexa-2",
+   "short": "Anexa nr. 2 la Ordin anaf nr. 80/2017",
+   "title": "Norme tehnice din 9 ianuarie 2017 privind agrearea vehiculelor rutiere și containerelor pentru transportul mărfurilor sub acoperirea carnetelor TIR (Anexa nr. 2) (anexa nr. 2 la Ordinul ANAF nr. 80/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186400",
+   "versions": [
+    {
+     "from": "2017-02-03",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186400",
+     "sha256": "7ef0cba0e45bbaf53d2a31aa21ab9fd254b9183f66e93422f588931d14750ffb"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-ansvsa-44-2017-anexa-1",
+   "path": "anexa/ordin-ansvsa-44-2017/anexa-1",
+   "short": "Anexa nr. 1 la Ordin ansvsa nr. 44/2017",
+   "title": "Normă sanitară veterinară din 14 aprilie 2017 privind procedura de autorizare/înregistrare sanitar-veterinară a unităților ce desfășoară activități în domeniul hranei pentru animale și a mijloacelor de transport al hranei (anexa nr. 1 la Ordinul ANSVSA nr. 44/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189178",
+   "versions": [
+    {
+     "from": "2017-05-11",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189178",
+     "sha256": "9155bfdf9e463421677e818632b1b4ffe1896df9e1107e84788dcf415a589bbb"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-94-2017-anexa",
+   "path": "anexa/ordin-aparare-94-2017/anexa",
+   "short": "Anexa la Ordin aparare nr. 94/2017",
+   "title": "Regulament din 24 august 2017 privind organizarea și funcționarea Consiliului tehnico-economic al Ministerului Apărării Naționale (anexa la Ordinul APARARE nr. 94/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192792",
+   "versions": [
+    {
+     "from": "2017-09-01",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192792",
+     "sha256": "9f1f70fffdc157c3d1f739ef47f555790473f2d5ae5b926845f07134cf4f58ea"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cncan-115-2017-anexa",
+   "path": "anexa/ordin-cncan-115-2017/anexa",
+   "short": "Anexa la Ordin cncan nr. 115/2017",
+   "title": "Normă din 30 mai 2017 privind cerințele de securitate pentru dezafectarea instalațiilor nucleare și radiologice (anexa la Ordinul CNCAN nr. 115/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190118",
+   "versions": [
+    {
+     "from": "2017-06-15",
+     "units": 137,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190118",
+     "sha256": "f6733fb9fcae4e1c6a02f136c6f36746e018317cd968ce9b1a1663a0177a7dcb"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dezvoltare-3710-2017-anexa",
+   "path": "anexa/ordin-dezvoltare-3710-2017/anexa",
+   "short": "Anexa la Ordin dezvoltare nr. 3710/2017",
+   "title": "Metodologie din 19 iulie 2017 pentru stabilirea distanțelor adecvate față de sursele potențiale de risc din cadrul amplasamentelor care se încadrează în prevederile Legii nr. 59/2016 privind controlul asupra pericolelor de accident major în care sunt implicate substanțe periculoase în activitățile de amenajare a teritoriului și urbanism (anexa la Ordinul DEZVOLTARE nr. 3710/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193310",
+   "versions": [
+    {
+     "from": "2017-10-21",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193310",
+     "sha256": "2285eb00ed045ff7ae72387cb02b7d5c2ddc79629b7104c9f5a7c79f9399a412"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-1066-2017-anexa",
+   "path": "anexa/ordin-economie-1066-2017/anexa",
+   "short": "Anexa la Ordin economie nr. 1066/2017",
+   "title": "Procedură din 10 august 2017 de implementare a schemei de ajutor de minimis prevăzută în cadrul Programului național multianual de microindustrializare (anexa la Ordinul ECONOMIE nr. 1066/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193164",
+   "versions": [
+    {
+     "from": "2017-08-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193164",
+     "sha256": "da3c6bd4cac9b0e1ab19e1bae6573e358542b91841fab8009abd94d965a45673"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-440-2017-anexa",
+   "path": "anexa/ordin-economie-440-2017/anexa",
+   "short": "Anexa la Ordin economie nr. 440/2017",
+   "title": "Procedura din 25 mai 2017 de control al activității desfășurate de aparatul propriu și entitățile aflate sub autoritatea Ministerului Energiei (anexa la Ordinul ECONOMIE nr. 440/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190153",
+   "versions": [
+    {
+     "from": "2017-06-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190153",
+     "sha256": "7eff00821973b36616f5c2ca9c4d7b3e8e238b235d16bd79499041e66368c622"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-668-2017-anexa",
+   "path": "anexa/ordin-economie-668-2017/anexa",
+   "short": "Anexa la Ordin economie nr. 668/2017",
+   "title": "Regulament din 24 mai 2017 privind condițiile și modalitățile de desfășurare a concursului intern pentru trimiterea în misiune permanentă în străinătate și de ocupare a posturilor din rețeaua externă a Ministerului pentru Mediul de Afaceri, Comerț și Antreprenoriat (anexa la Ordinul ECONOMIE nr. 668/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189938",
+   "versions": [
+    {
+     "from": "2017-06-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189938",
+     "sha256": "847ddbe98cef49df3f72acb7bee3f342cbce509211942aa4e4230a5cc4dfda25"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-689-2017-anexa",
+   "path": "anexa/ordin-economie-689-2017/anexa",
+   "short": "Anexa la Ordin economie nr. 689/2017",
+   "title": "Procedură din 31 mai 2017 de acordare a Avizului tehnic de specialitate pe planul de afaceri al investitorilor străini, în vederea obținerii vizei de lungă ședere în România pentru desfășurarea de activități comerciale (anexa la Ordinul ECONOMIE nr. 689/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190277",
+   "versions": [
+    {
+     "from": "2017-06-21",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190277",
+     "sha256": "929bc404f9a886180e6848c2b0e7a5789e6e42a13e81025975572c9f80a27a84"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-889-2017-anexa",
+   "path": "anexa/ordin-economie-889-2017/anexa",
+   "short": "Anexa la Ordin economie nr. 889/2017",
+   "title": "Regulament din 31 iulie 2017 privind condițiile și modalitățile de desfășurare a concursului intern pentru trimiterea în misiune permanentă în străinătate și de ocupare a posturilor din rețeaua externă a Ministerului pentru Mediul de Afaceri, Comerț și Antreprenoriat (anexa la Ordinul ECONOMIE nr. 889/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192344",
+   "versions": [
+    {
+     "from": "2017-08-10",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192344",
+     "sha256": "27f7bbff9de65798717e38748514d98d4d7b3900c40f7a7e23ee76fe28cb717a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3236-2017-anexa",
+   "path": "anexa/ordin-educatie-3236-2017/anexa",
+   "short": "Anexa la Ordin educatie nr. 3236/2017",
+   "title": "Metodologie din 10 februarie 2017 de primire la studii și școlarizare a cetățenilor străini pe locuri fără plata taxelor de școlarizare și cu bursă și pe locuri fără plata taxelor de școlarizare, dar fără bursă, în instituțiile de învățământ superior de stat acreditate (anexa la Ordinul EDUCATIE nr. 3236/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186951",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186951",
+     "sha256": "7e514896d0010fecad3eab02cb2dc0d9ac7af24a378565d9e688ce29c14db06f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3247-2017-anexa-2",
+   "path": "anexa/ordin-educatie-3247-2017/anexa-2",
+   "short": "Anexa nr. 2 la Ordin educatie nr. 3247/2017",
+   "title": "Metodologie din 14 februarie 2017 de înscriere a copiilor în învățământul primar pentru anul școlar 2017-2018 (anexa nr. 2 la Ordinul EDUCATIE nr. 3247/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186815",
+   "versions": [
+    {
+     "from": "2017-02-21",
+     "units": 57,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186815",
+     "sha256": "af6a721c84f0faf51c344bdd022d59c010433089fc421bb87c0533822bcdc940"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3279-2017-anexa",
+   "path": "anexa/ordin-educatie-3279-2017/anexa",
+   "short": "Anexa la Ordin educatie nr. 3279/2017",
+   "title": "Metodologie din 20 februarie 2017 de alocare a fondurilor bugetare pentru finanțarea de bază și finanțarea suplimentară a instituțiilor de învățământ superior de stat din România, pentru anul 2017 (anexa la Ordinul EDUCATIE nr. 3279/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186922",
+   "versions": [
+    {
+     "from": "2017-02-27",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186922",
+     "sha256": "a7e157c9fbbe8078032c2c7c7c567e63aaabff1eaedeba324d4044defc745df3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3411-2017-anexa-1",
+   "path": "anexa/ordin-educatie-3411-2017/anexa-1",
+   "short": "Anexa nr. 1 la Ordin educatie nr. 3411/2017",
+   "title": "Metodologie din 3 martie 2017 de asigurare și de gestionare a manualelor școlare pentru clasa a V-a în anul școlar 2017-2018 (Anexa 1) (anexa nr. 1 la Ordinul EDUCATIE nr. 3411/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187117",
+   "versions": [
+    {
+     "from": "2017-03-08",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187117",
+     "sha256": "f3cdf4c2f5732289712ec1f384bbb77696e04920903ab3d39069efa18f0fbf57"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3554-2017-anexa",
+   "path": "anexa/ordin-educatie-3554-2017/anexa",
+   "short": "Anexa la Ordin educatie nr. 3554/2017",
+   "title": "Metodologie din 29 martie 2017 de organizare și funcționare a învățământului dual (anexa la Ordinul EDUCATIE nr. 3554/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187980",
+   "versions": [
+    {
+     "from": "2017-04-05",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187980",
+     "sha256": "9ad3fe63172a2fd9283028e0b2caf45cb6509f5e2bbec3da6a83b64cb2bf3e41"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3850-2017-anexa",
+   "path": "anexa/ordin-educatie-3850-2017/anexa",
+   "short": "Anexa la Ordin educatie nr. 3850/2017",
+   "title": "Metodologie-cadru din 2 mai 2017 de organizare a programelor de formare psihopedagogică prin departamentele de specialitate din cadrul instituțiilor de învățământ superior acreditate în vederea certificării competențelor pentru profesia didactică (anexa la Ordinul EDUCATIE nr. 3850/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189279",
+   "versions": [
+    {
+     "from": "2017-05-16",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189279",
+     "sha256": "9aad1fb235677ba4edcb0315e014f8c9e1c65746175fc8f2ce57ac406749aba5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3969-2017-anexa",
+   "path": "anexa/ordin-educatie-3969-2017/anexa",
+   "short": "Anexa la Ordin educatie nr. 3969/2017",
+   "title": "Metodologie din 30 mai 2017 privind organizarea și desfășurarea concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar (anexa la Ordinul EDUCATIE nr. 3969/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190006",
+   "versions": [
+    {
+     "from": "2017-06-09",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190006",
+     "sha256": "37c2c795f175c656ab31617b3e40dc3f28f75eae3b60b9e13c519a0ce63a40f5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4814-2017-anexa",
+   "path": "anexa/ordin-educatie-4814-2017/anexa",
+   "short": "Anexa la Ordin educatie nr. 4814/2017",
+   "title": "Metodologie-cadru din 31 august 2017 de organizare și desfășurare a examenului național de definitivare în învățământ (anexa la Ordinul EDUCATIE nr. 4814/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193217",
+   "versions": [
+    {
+     "from": "2017-09-15",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193217",
+     "sha256": "913e45a317f7d8815704d88e285698105fc983980c4c8915fd0dafce273052ed"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5061-2017-anexa",
+   "path": "anexa/ordin-educatie-5061-2017/anexa",
+   "short": "Anexa la Ordin educatie nr. 5061/2017",
+   "title": "Metodologie-cadru din 26 septembrie 2017 privind asigurarea omologării mijloacelor de învățământ în vederea utilizării lor în învățământul preuniversitar (anexa la Ordinul EDUCATIE nr. 5061/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193653",
+   "versions": [
+    {
+     "from": "2017-09-29",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193653",
+     "sha256": "2ef8ebcee6177352de2e05b9eeff93708db5a3ed71fc831baa978500e3a9aa73"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5472-2017-anexa",
+   "path": "anexa/ordin-educatie-5472-2017/anexa",
+   "short": "Anexa la Ordin educatie nr. 5472/2017",
+   "title": "Metodologie din 7 noiembrie 2017 privind fundamentarea cifrei de școlarizare pentru învățământul preuniversitar de stat, evidența efectivelor de preșcolari și elevi școlarizați în unitățile de învățământ particular, precum și emiterea avizului conform în vederea organizării rețelei unităților de învățământ preuniversitar pentru anul școlar 2018-2019 (anexa la Ordinul EDUCATIE nr. 5472/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194916",
+   "versions": [
+    {
+     "from": "2017-11-22",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194916",
+     "sha256": "7dc952a4e11572822b6234ba627ccdbb856c85bb395410e29e2c5299710725f9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5473-2017-anexa",
+   "path": "anexa/ordin-educatie-5473-2017/anexa",
+   "short": "Anexa la Ordin educatie nr. 5473/2017",
+   "title": "Metodologie din 7 noiembrie 2017 privind evaluarea anuală a activității cluburilor sportive universitare și a fluxurilor aferente procesului de alocare a subvențiilor de la bugetul de stat pentru cluburile sportive studențești din subordinea Ministerului Educației Naționale și din subordinea instituțiilor de învățământ superior de stat (anexa la Ordinul EDUCATIE nr. 5473/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195604",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195604",
+     "sha256": "99dbbfdd1ab38623554be389a0b946c05a7b4308df9179584cb8836e6ae44817"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-externe-2046-2017-anexa",
+   "path": "anexa/ordin-externe-2046-2017/anexa",
+   "short": "Anexa la Ordin externe nr. 2046/2017",
+   "title": "Metodologia din 26 mai 2017 de școlarizare a românilor de pretutindeni în învățământul preuniversitar de stat din România, pe locuri de studii fără plata taxelor de școlarizare, dar cu bursă, respectiv fără plata taxelor de școlarizare, dar fără bursă începând cu anul școlar 2017 - 2018 2017-2018 (anexa la Ordinul EXTERNE nr. 2046/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247578",
+   "versions": [
+    {
+     "from": "2017-08-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247578",
+     "sha256": "d74b1b538a53a6195f4b201f0811a56b23eb7384da213545cb68ad22512f2a5a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-164-2017-anexa",
+   "path": "anexa/ordin-finante-164-2017/anexa",
+   "short": "Anexa la Ordin finante nr. 164/2017",
+   "title": "Procedura din 25 ianuarie 2017 de îndreptare a erorilor din documentele de plată întocmite de debitori privind obligațiile fiscale (anexa la Ordinul FINANTE nr. 164/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186434",
+   "versions": [
+    {
+     "from": "2017-02-08",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186434",
+     "sha256": "ce47700c2c0a16667052d822dd478e258f60b3becaae9ef0614a994028108ff8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-2590-2017-anexa-2",
+   "path": "anexa/ordin-finante-2590-2017/anexa-2",
+   "short": "Anexa nr. 2 la Ordin finante nr. 2590/2017",
+   "title": "Procedură din 29 septembrie 2017 privind registrul altor entități (anexa nr. 2 la Ordinul FINANTE nr. 2590/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193802",
+   "versions": [
+    {
+     "from": "2017-10-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193802",
+     "sha256": "c8fa1583d3709468caa4280b4fa1476112aa86923871d195b2572f696f85ad55"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-90-2017-anexa",
+   "path": "anexa/ordin-finante-90-2017/anexa",
+   "short": "Anexa la Ordin finante nr. 90/2017",
+   "title": "Procedura din 13 ianuarie 2017 de plată a sumelor din titlurile de plată emise în condițiile art. 31 alin. (2) și art. 41 alin. (4) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România și din titlurile de plată emise în condițiile art. 10 alin. (6) din Legea nr. 164/2014 privind unele măsuri pentru accelerarea și finalizarea procesului de soluționare a cererilor formulate în temeiul Legii nr. 9/1998 privind acordarea de compensații cetățenilor români pentru bunurile trecute în proprietatea statului bulgar în urma aplicării Tratatului dintre România și Bulgaria, semnat la Craiova la 7 septembrie 1940, precum și al Legii nr. 290/2003 privind acordarea de despăgubiri sau compensații cetățenilor români pentru bunurile proprietate a acestora, sechestrate, reținute sau rămase în Basarabia, Bucovina de Nord și Ținutul Herța, ca urmare a stării de război și a aplicării Tratatului de Pace între România și Puterile Aliate și Asociate, semnat la Paris la 10 februarie 1947, și pentru modificarea unor acte normative (anexa la Ordinul FINANTE nr. 90/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186006",
+   "versions": [
+    {
+     "from": "2017-01-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186006",
+     "sha256": "31c48f0ff20671a20f9506461365fe3597a75e482dcf221fe31ea393da02d63d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-10-2017-anexa",
+   "path": "anexa/ordin-interne-10-2017/anexa",
+   "short": "Anexa la Ordin interne nr. 10/2017",
+   "title": "Regulament din 31 ianuarie 2017 de organizare și funcționare a aparatului propriu a Inspectoratului General pentru Imigrări (anexa la Ordinul INTERNE nr. 10/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186756",
+   "versions": [
+    {
+     "from": "2017-02-15",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186756",
+     "sha256": "ba7e14f7e9016e1395a9ad1f099f8d4cda4d843699905cb15d737f4337e134e6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-65-2017-anexa",
+   "path": "anexa/ordin-interne-65-2017/anexa",
+   "short": "Anexa la Ordin interne nr. 65/2017",
+   "title": "Regulament din 31 mai 2017 de organizare și funcționare a Direcției generale management urgențe medicale (anexa la Ordinul INTERNE nr. 65/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190087",
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190087",
+     "sha256": "ad1e6a6ab35a05c43de25095e79497aaafc71e1ce6e17a59cdf406e5aba43552"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-8-2017-anexa",
+   "path": "anexa/ordin-interne-8-2017/anexa",
+   "short": "Anexa la Ordin interne nr. 8/2017",
+   "title": "Regulament-cadru din 27 ianuarie 2017 privind organizarea și funcționarea inspectoratelor pentru situații de urgență (anexa la Ordinul INTERNE nr. 8/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186350",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186350",
+     "sha256": "4063b9e62235369ec34536643c9e10a89a8c0c8bbdeb3ce92e028a2794ef7b17"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-91-2017-anexa",
+   "path": "anexa/ordin-interne-91-2017/anexa",
+   "short": "Anexa la Ordin interne nr. 91/2017",
+   "title": "Metodologie din 26 iulie 2017 privind valorificarea rezultatelor activităților operaționale desfășurate la nivelul Ministerului Afacerilor Interne (anexa la Ordinul INTERNE nr. 91/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192102",
+   "versions": [
+    {
+     "from": "2017-08-04",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192102",
+     "sha256": "f3e514dbf32612a08788d3bc7812bc81eaf259e0bc189fc7e730231f4dd5562e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-justitie-1322-c-2017-anexa",
+   "path": "anexa/ordin-justitie-1322-c-2017/anexa",
+   "short": "Anexa la Ordin justitie nr. 1322/C/2017",
+   "title": "Regulament din 25 aprilie 2017 privind organizarea și desfășurarea activităților și programelor educative, de asistență psihologică și asistență socială din locurile de deținere aflate în subordinea Administrației Naționale a Penitenciarelor (anexa la Ordinul JUSTITIE nr. 1322/C/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190338",
+   "versions": [
+    {
+     "from": "2017-06-12",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190338",
+     "sha256": "d6f4c72b9275e0caf8fb3e93b920d2fcdcf10a006904d2f102687e22699d9b42"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-justitie-2772-c-2017-anexa",
+   "path": "anexa/ordin-justitie-2772-c-2017/anexa",
+   "short": "Anexa la Ordin justitie nr. 2772/C/2017",
+   "title": "Norme minime obligatorii din 17 octombrie 2017 privind condițiile de cazare a persoanelor private de libertate (anexa la Ordinul JUSTITIE nr. 2772/C/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194115",
+   "versions": [
+    {
+     "from": "2017-10-18",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194115",
+     "sha256": "0be55d1fecb2594576f2d5d09b45e746e5a178203937fcbb970f20df482fb802"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-1332-2017-anexa",
+   "path": "anexa/ordin-mediu-1332-2017/anexa",
+   "short": "Anexa la Ordin mediu nr. 1332/2017",
+   "title": "Regulamentul din 17 octombrie 2017 sitului de importanță comunitară ROSCI0357 Porumbeni (anexa la Ordinul MEDIU nr. 1332/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194567",
+   "versions": [
+    {
+     "from": "2017-11-08",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194567",
+     "sha256": "39cfa36fbd02743af29fc7c1b8e45b8ac64de937b4373deddd3b5b1d73a2ee72"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-1447-2017-anexa",
+   "path": "anexa/ordin-mediu-1447-2017/anexa",
+   "short": "Anexa la Ordin mediu nr. 1447/2017",
+   "title": "Metodologie din 24 noiembrie 2017 de atribuire în administrare și custodie a ariilor naturale protejate (anexa la Ordinul MEDIU nr. 1447/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195779",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195779",
+     "sha256": "7dcea3f9ce2fcc458f80549e0198dec201f9ae50d431b168a9ed11f75b5c1297"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-1529-2017-anexa-1",
+   "path": "anexa/ordin-mediu-1529-2017/anexa-1",
+   "short": "Anexa nr. 1 la Ordin mediu nr. 1529/2017",
+   "title": "Instrucțiuni din 27 noiembrie 2017 pentru organizarea și desfășurarea licitațiilor publice pentru atribuirea contractelor de închiriere a unor bunuri imobile, proprietate publică a statului, aflate în administrarea Administrației Naționale \"Apele Române\", a Contractului-cadru de închiriere a bunurilor imobile aflate în proprietatea publică a statului și în administrarea Administrației Naționale \"Apele Române\", precum și a Listei cuprinzând bunurile imobile propuse spre închiriere și durata închirierii (anexa nr. 1 la Ordinul MEDIU nr. 1529/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196338",
+   "versions": [
+    {
+     "from": "2018-01-03",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196338",
+     "sha256": "7990d9f8f7931fdcf40b96047d64ab6764898160c5c9651544384ae5a6e09961"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-660-2017-anexa",
+   "path": "anexa/ordin-mediu-660-2017/anexa",
+   "short": "Anexa la Ordin mediu nr. 660/2017",
+   "title": "Ghid de finanțare din 24 aprilie 2017 a Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic, 2017-2019 (anexa la Ordinul MEDIU nr. 660/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188551",
+   "versions": [
+    {
+     "from": "2017-04-25",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188551",
+     "sha256": "d9962367923e4fbf3b5d98d4cf9cd9ad5efa6b42307924b2dee34c7d85e284ea"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-661-2017-anexa",
+   "path": "anexa/ordin-mediu-661-2017/anexa",
+   "short": "Anexa la Ordin mediu nr. 661/2017",
+   "title": "Ghid de finanțare din 24 aprilie 2017 a Programului de stimulare a înnoirii Parcului auto național 2017-2019 (anexa la Ordinul MEDIU nr. 661/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188553",
+   "versions": [
+    {
+     "from": "2017-04-25",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188553",
+     "sha256": "769428a282fbc50335d7ae0b003e0771b27b2864e64b61db9a514e9cc18816be"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-739-2017-anexa",
+   "path": "anexa/ordin-mediu-739-2017/anexa",
+   "short": "Anexa la Ordin mediu nr. 739/2017",
+   "title": "Procedura de înregistrare din 11 mai 2017 a operatorilor economici care nu se supun autorizării de mediu conform prevederilor Legii nr. 211/2011 privind regimul deșeurilor (anexa la Ordinul MEDIU nr. 739/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189415",
+   "versions": [
+    {
+     "from": "2017-05-19",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189415",
+     "sha256": "f41c24436242fea4f6cd96d241f246c7d4b97d1fb81dc8c120d1ed2c86c09fff"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-romaniipretutindeni-129-2017-anexa",
+   "path": "anexa/ordin-romaniipretutindeni-129-2017/anexa",
+   "short": "Anexa la Ordin romaniipretutindeni nr. 129/2017",
+   "title": "Metodologia din 7 iunie 2017 de școlarizare a românilor de pretutindeni în învățământul preuniversitar de stat din România, pe locuri de studii fără plata taxelor de școlarizare, dar cu bursă, respectiv fără plata taxelor de școlarizare, dar fără bursă începând cu anul școlar 2017 - 2018 (anexa la Ordinul ROMANIIPRETUTINDENI nr. 129/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247579",
+   "versions": [
+    {
+     "from": "2017-08-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247579",
+     "sha256": "5ba018c98e174ec3c2b3c9637097bcb70c49e1340a5829e854640e1779dd483e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1163-2017-anexa",
+   "path": "anexa/ordin-sanatate-1163-2017/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1163/2017",
+   "title": "Metodologie din 2 octombrie 2017 pentru desfășurarea concursului de rezidențiat pe loc și pe post în medicină, medicină dentară și farmacie, sesiunea 19 noiembrie 2017 (anexa la Ordinul SANATATE nr. 1163/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193882",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193882",
+     "sha256": "076865b157de158d0ea9a6e7ad748427966c987e207567e6623bb4cbccb67658"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1257-2017-anexa-2",
+   "path": "anexa/ordin-sanatate-1257-2017/anexa-2",
+   "short": "Anexa nr. 2 la Ordin sanatate nr. 1257/2017",
+   "title": "Procedurile din 30 octombrie 2017 de verificare a standardelor echivalente în materie de calitate și de siguranță ale țesuturilor și/sau celulelor de origine umană importate (anexa nr. 2 la Ordinul SANATATE nr. 1257/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194659",
+   "versions": [
+    {
+     "from": "2017-11-13",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194659",
+     "sha256": "ca0826da631253cd9cd6d3ec101ee960c49b82f18633a2e5bfa07da657005168"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-368-2017-anexa",
+   "path": "anexa/ordin-sanatate-368-2017/anexa",
+   "short": "Anexa la Ordin sanatate nr. 368/2017",
+   "title": "Norme din 28 martie 2017 privind modul de calcul și procedura de aprobare a prețurilor maximale ale medicamentelor de uz uman (anexa la Ordinul SANATATE nr. 368/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187804",
+   "versions": [
+    {
+     "from": "2017-03-29",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187804",
+     "sha256": "6c20ad6951a998131b8efa9bd47d882ae9c0a41fc42b191f75d93915871ebce4"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-629-2017-anexa",
+   "path": "anexa/ordin-sanatate-629-2017/anexa",
+   "short": "Anexa la Ordin sanatate nr. 629/2017",
+   "title": "Norme metodologice din 31 mai 2017 pentru aplicarea prevederilor Hotărârii Guvernului nr. 617/2014 privind stabilirea cadrului instituțional și a unor măsuri pentru punerea în aplicare a Regulamentului (UE) nr. 528/2012 al Parlamentului European și al Consiliului din 22 mai 2012 privind punerea la dispoziție pe piață și utilizarea produselor biocide (anexa la Ordinul SANATATE nr. 629/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191274",
+   "versions": [
+    {
+     "from": "2017-07-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191274",
+     "sha256": "53f1d1e441efcaa63ecf5b2c14f26afba28641ba0cb646f27e22d07ea077ec6b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-942-2017-anexa",
+   "path": "anexa/ordin-sanatate-942-2017/anexa",
+   "short": "Anexa la Ordin sanatate nr. 942/2017",
+   "title": "Normă din 21 august 2017 de organizare și desfășurare a programelor de specializare în vederea reconversiei profesionale, precum și în vederea dezvoltării abilităților profesionale pentru asistenții medicali generaliști, moașe și asistenții medicali (anexa la Ordinul SANATATE nr. 942/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192555",
+   "versions": [
+    {
+     "from": "2017-08-25",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192555",
+     "sha256": "ac875f1d0e051fe5e22ab6973166a2b61c5ceb3a9623030a5230dff763e8f235"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sport-305-2017-anexa",
+   "path": "anexa/ordin-sport-305-2017/anexa",
+   "short": "Anexa la Ordin sport nr. 305/2017",
+   "title": "Metodologie din 31 martie 2017 pentru Concursul național/local de proiecte de tineret și pentru Concursul național de proiecte studențești (anexa la Ordinul SPORT nr. 305/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188722",
+   "versions": [
+    {
+     "from": "2017-04-14",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188722",
+     "sha256": "31ffcdb982feee9ac7918387431fac38dd0579e68f6983acf49f7a251e832ed6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sport-319-2017-anexa",
+   "path": "anexa/ordin-sport-319-2017/anexa",
+   "short": "Anexa la Ordin sport nr. 319/2017",
+   "title": "Metodologie din 3 aprilie 2017 privind organizarea și desfășurarea Programului Național \"Tabere studențești\" 2017 (anexa la Ordinul SPORT nr. 319/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188751",
+   "versions": [
+    {
+     "from": "2017-04-14",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188751",
+     "sha256": "c33f0aba4e6f7ca6c176235bf97b1549e896f4b9173fbb8ebbd614203fe7c85b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sport-322-2017-anexa",
+   "path": "anexa/ordin-sport-322-2017/anexa",
+   "short": "Anexa la Ordin sport nr. 322/2017",
+   "title": "Metodologie din 4 aprilie 2017 privind organizarea, funcționarea și finanțarea centrelor de tineret în cadrul Programului de centre de tineret (anexa la Ordinul SPORT nr. 322/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188410",
+   "versions": [
+    {
+     "from": "2017-04-14",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188410",
+     "sha256": "9cf17796c3c589c92b05997f682a25fa31f3cc348ef94928373136a68b75b5fd"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sport-323-2017-anexa",
+   "path": "anexa/ordin-sport-323-2017/anexa",
+   "short": "Anexa la Ordin sport nr. 323/2017",
+   "title": "Metodologie din 4 aprilie 2017 pentru organizarea și desfășurarea activităților de tabără de odihnă, în centrele de agrement/bazele turistice proprii Ministerului Tineretului și Sportului (anexa la Ordinul SPORT nr. 323/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188409",
+   "versions": [
+    {
+     "from": "2017-04-14",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188409",
+     "sha256": "fa898b0745bc5f4738eca07dfd5fb02b6067fdb58a1613bd7fc345824265a34c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sport-324-2017-anexa",
+   "path": "anexa/ordin-sport-324-2017/anexa",
+   "short": "Anexa la Ordin sport nr. 324/2017",
+   "title": "Metodologie din 4 aprilie 2017 privind organizarea taberelor naționale și tematice pentru copii și tineri, în centrele de agrement ale Ministerului Tineretului și Sportului (anexa la Ordinul SPORT nr. 324/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188408",
+   "versions": [
+    {
+     "from": "2017-04-14",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188408",
+     "sha256": "2ba29503c147844f95c65d9b572d91439608e6b028715c93bff95b2304209bdc"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sport-325-2017-anexa-1",
+   "path": "anexa/ordin-sport-325-2017/anexa-1",
+   "short": "Anexa nr. 1 la Ordin sport nr. 325/2017",
+   "title": "Metodologie din 4 aprilie 2017 privind organizarea taberelor cu caracter social pentru elevi pe perioada vacanțelor școlare (anexa nr. 1 la Ordinul SPORT nr. 325/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188720",
+   "versions": [
+    {
+     "from": "2017-04-14",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188720",
+     "sha256": "f982c4e8ade74685a446a69b588283d85ed34550bb1783b5a2651776602a2463"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sport-325-2017-anexa",
+   "path": "anexa/ordin-sport-325-2017/anexa",
+   "short": "Anexa la Ordin sport nr. 325/2017",
+   "title": "Metodologie din 4 aprilie 2017 privind organizarea taberelor pentru preșcolarii, elevii și studenții cu handicap, împreună cu asistenții personali și asistenții personali profesioniști (anexa la Ordinul SPORT nr. 325/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188721",
+   "versions": [
+    {
+     "from": "2017-04-14",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188721",
+     "sha256": "dd9c455e329e6c76a18f4d4edf4617a2eee9e980ead8485003832e661d9967b2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sport-345-2017-anexa",
+   "path": "anexa/ordin-sport-345-2017/anexa",
+   "short": "Anexa la Ordin sport nr. 345/2017",
+   "title": "Metodologie din 12 aprilie 2017 privind acreditarea persoanelor juridice și persoanelor fizice autorizate în vederea colaborării privind desfășurarea de activități de tabără pentru Programul Național \"Tabere Studențești 2017\" și alte activități privind segmentul studențesc (anexa la Ordinul SPORT nr. 345/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188407",
+   "versions": [
+    {
+     "from": "2017-04-14",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188407",
+     "sha256": "dc5ccda41ef32124e0144da2f079e36b8d2cf37f559720ea0998cc752b04dc13"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sport-347-2017-anexa",
+   "path": "anexa/ordin-sport-347-2017/anexa",
+   "short": "Anexa la Ordin sport nr. 347/2017",
+   "title": "Metodologie din 12 aprilie 2017 pentru organizarea și desfășurarea de proiecte proprii (anexa la Ordinul SPORT nr. 347/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188406",
+   "versions": [
+    {
+     "from": "2017-04-14",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188406",
+     "sha256": "e90e634eb3a8d71a7c803b74af0a730ad111ab9d921b7873a137e41e727c2e73"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sport-832-2017-anexa",
+   "path": "anexa/ordin-sport-832-2017/anexa",
+   "short": "Anexa la Ordin sport nr. 832/2017",
+   "title": "Regulament din 4 iulie 2017 de organizare și funcționare al cluburilor sportive - unități aflate în subordinea Ministerului Tineretului și Sportului (anexa la Ordinul SPORT nr. 832/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192832",
+   "versions": [
+    {
+     "from": "2017-09-04",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192832",
+     "sha256": "20b4e9dd06e88af212529849eeb61a18ff6e09090ac1c5ca49839f43d8e4e90d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-1679-2017-anexa",
+   "path": "anexa/ordin-transporturi-1679-2017/anexa",
+   "short": "Anexa la Ordin transporturi nr. 1679/2017",
+   "title": "Metodologie din 20 noiembrie 2017 de contractare a evaluării de impact asupra siguranței rutiere și a auditului de siguranță rutieră, de desemnare și de lucru a auditorilor de siguranță rutieră, a contractelor-cadru care se încheie de către Autoritatea Rutieră Română - A.R.R. cu investitorii, antreprenorii/proiectanții mandatați, precum și cu auditorii de siguranță rutieră (anexa la Ordinul TRANSPORTURI nr. 1679/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195701",
+   "versions": [
+    {
+     "from": "2017-12-15",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195701",
+     "sha256": "618ea8485e2715874ec06f0f1d43b4c7ee1ef093fd12c2e1ba82d210d3a1d589"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-282-2017-anexa",
+   "path": "anexa/ordin-transporturi-282-2017/anexa",
+   "short": "Anexa la Ordin transporturi nr. 282/2017",
+   "title": "Regulament din 1 martie 2017 privind modelul și însemnele uniformei inspectorilor, din cadrul Inspectoratului de Stat pentru Controlul în Transportul Rutier - I.S.C.T.R., privind modelul legitimației nominale de control, precum și dotarea și inscripționarea autovehiculelor de control utilizate de aceștia (anexa la Ordinul TRANSPORTURI nr. 282/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187518",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187518",
+     "sha256": "5dd7b6ba5ae1f27bcf7550aa2b484bf3c3a392b265da13110d53132b56c225b6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-484-2017-anexa",
+   "path": "anexa/ordin-transporturi-484-2017/anexa",
+   "short": "Anexa la Ordin transporturi nr. 484/2017",
+   "title": "Metodologie din 3 mai 2017 de calcul, evidențiere și acordare de la bugetul de stat a compensației de serviciu public în transportul feroviar public de călători (anexa la Ordinul TRANSPORTURI nr. 484/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189082",
+   "versions": [
+    {
+     "from": "2017-05-08",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189082",
+     "sha256": "c6b60dd65a2d6eea8021e7c8c17189ea8ec41f19cb3a366a7b2f40025c8b2ccc"
+    }
+   ]
+  }
+ ]
+}

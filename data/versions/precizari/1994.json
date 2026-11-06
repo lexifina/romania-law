@@ -16,6 +16,36 @@
      "sha256": "3feb9420b2c048cedebf046cfb951b27de515f02b4578f3d7bcac4694adbab26"
     }
    ]
+  },
+  {
+   "slug": "precizari-finante-13295-1994",
+   "path": "precizari/finante/1994/13295",
+   "short": "Precizări finante nr. 13295/1994",
+   "title": "Precizările nr. 13.295/1994 privind determinarea profitului impozabil pentru anul 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5584",
+   "versions": [
+    {
+     "from": "1994-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5584",
+     "sha256": "f4f3467b107337e64e5a6e7ed5d28e2488520cd0c330993f07a2411a6147ecc8"
+    }
+   ]
+  },
+  {
+   "slug": "precizari-finante-85535-1994",
+   "path": "precizari/finante/1994/85535",
+   "short": "Precizări finante nr. 85535/1994",
+   "title": "Precizările nr. 85.535/1994 privind reflectarea în contabilitate a principalelor operațiuni referitoare la privatizarea societăților comerciale prin metoda MEBO",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5598",
+   "versions": [
+    {
+     "from": "1994-09-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5598",
+     "sha256": "983567b1eab4c54ed234dac01531e46438f8defe02591fd42370f435e4bb8f47"
+    }
+   ]
   }
  ]
 }

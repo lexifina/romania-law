@@ -1,0 +1,57 @@
+{
+"country": "RO",
+"shard": "instante/2025",
+"acts": [
+{
+"slug": "instante-ca-iasi-incheiere-2025-2025-03-19",
+"path": "instante/ca-iasi/incheiere/2025/2025-03-19",
+"kind": "instante",
+"year": "2025",
+"number": "2025-03-19",
+"withdrawn_by": null,
+"reason": null,
+"title": "ÎNCHEIERE din 19 martie 2025 referitoare la acțiunea în contencios administrativ având ca obiect anulare act administrativ cu caracter normativ",
+"short": "Încheierea Curții de Apel Iași din 2025-03-19",
+"code": null,
+"status": "as published in the Monitorul Oficial",
+"versions": 1,
+"from": "2026-02-05",
+"latest": "2026-02-05",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/307194"
+},
+{
+"slug": "instante-ca-iasi-incheiere-2025-2025-05-06",
+"path": "instante/ca-iasi/incheiere/2025/2025-05-06",
+"kind": "instante",
+"year": "2025",
+"number": "2025-05-06",
+"withdrawn_by": null,
+"reason": null,
+"title": "ÎNCHEIERE din 6 mai 2025 referitoare la acțiunea în contencios administrativ având ca obiect anulare act administrativ cu caracter normativ",
+"short": "Încheierea Curții de Apel Iași din 2025-05-06",
+"code": null,
+"status": "as published in the Monitorul Oficial",
+"versions": 1,
+"from": "2026-02-05",
+"latest": "2026-02-05",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/307196"
+},
+{
+"slug": "instante-ca-iasi-sentinta-2025-85",
+"path": "instante/ca-iasi/sentinta/2025/85",
+"kind": "instante",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "SENTINȚA nr. 85 din 2 aprilie 2025 referitoare la acțiunea în contencios administrativ având ca obiect anulare act administrativ cu caracter normativ",
+"short": "Sentința Curții de Apel Iași nr. 85/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial",
+"versions": 1,
+"from": "2026-02-05",
+"latest": "2026-02-05",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/307195"
+}
+]
+}

@@ -376,6 +376,21 @@
      "sha256": "c16e8fa532e74d1014993ed4a1c2ddd951c8efdd5dbb35fcdfa840163fe4492b"
     }
    ]
+  },
+  {
+   "slug": "regulament-guvern-1288-2012",
+   "path": "regulament/guvern/2012/1288",
+   "short": "Regulament guvern nr. 1288/2012",
+   "title": "Regulamentul nr. 1.288/2012 din 18 decembrie 2012 de organizare și funcționare a Agenției Naționale de Cadastru și Publicitate Imobiliară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267292",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267292",
+     "sha256": "d7d537e37c303a4e0da6c4fa244abab9768ee77b05e54f56deaa56373a38a62f"
+    }
+   ]
   }
  ]
 }

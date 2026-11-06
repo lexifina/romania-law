@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/1954",
+ "acts": [
+  {
+   "slug": "instructiuni-finante-290-1954",
+   "path": "instructiuni/finante/1954/290",
+   "short": "Instrucțiuni finante nr. 290/1954",
+   "title": "Instrucțiunile nr. 290/1954 date în aplicarea Decretului nr. 153 din 28 aprilie 1954 privitor la impozitul pe veniturile populației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19714",
+   "versions": [
+    {
+     "from": "1954-05-17",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19714",
+     "sha256": "17b27c456863cbf071a9f4a7fe45597ed5a0233a19ca9ae0358d0f3c2103b317"
+    }
+   ]
+  }
+ ]
+}

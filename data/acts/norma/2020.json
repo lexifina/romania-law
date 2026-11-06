@@ -3,6 +3,25 @@
 "shard": "norma/2020",
 "acts": [
 {
+"slug": "norma-aep-25-2020",
+"path": "norma/aep/2020/25",
+"kind": "norma",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 25/2020 METODOLOGICE din 17 noiembrie 2020 privind organizarea și funcționarea Sistemului informatic de centralizare a datelor din procesele-verbale privind consemnarea rezultatelor votării, precum și unele măsuri privind funcționarea aplicației informatice de repartizare și atribuire a mandatelor, la alegerile pentru Senat și Camera Deputaților",
+"short": "Norma aep nr. 25/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-18",
+"latest": "2020-11-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/233393",
+"issuer": "aep",
+"joint": []
+},
+{
 "slug": "norma-asf-1-2020",
 "path": "norma/asf/2020/1",
 "kind": "norma",

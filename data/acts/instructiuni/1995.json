@@ -153,6 +153,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/5723",
 "issuer": "cnvm",
 "joint": []
+},
+{
+"slug": "instructiuni-finante-16028-1995",
+"path": "instructiuni/finante/1995/16028",
+"kind": "instructiuni",
+"year": "1995",
+"number": "16028",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 16.028/1995 privind încheierea exercițiului financiar-bugetar la finele anului 1995",
+"short": "Instrucțiuni finante nr. 16028/1995",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1995-12-14",
+"latest": "1995-12-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/7655",
+"issuer": "finante",
+"joint": []
 }
 ]
 }

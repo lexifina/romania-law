@@ -1,0 +1,25 @@
+{
+"country": "RO",
+"shard": "criterii/2006",
+"acts": [
+{
+"slug": "criterii-hipica-1-2006",
+"path": "criterii/hipica/2006/1",
+"kind": "criterii",
+"year": "2006",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Criteriile nr. 1/2006 privind aprecierea cabalinelor de reproducție*)",
+"short": "Criterii hipica nr. 1/2006",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2006-11-02",
+"latest": "2006-11-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/76460",
+"issuer": "hipica",
+"joint": []
+}
+]
+}

@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "instante/2017",
+ "acts": [
+  {
+   "slug": "instante-ca-bucuresti-decizie-2017-324a",
+   "path": "instante/ca-bucuresti/decizie/2017/324a",
+   "short": "Decizia Curții de Apel București nr. 324a/2017",
+   "title": "DECIZIE CIVILĂ nr. 324A din 5 aprilie 2017 referitoare la Dosarul nr. 5.401/2/2015 privind soluţionarea apelurilor declarate împotriva Hotărârii arbitrale nr. 2 din 16 iulie 2015 şi Încheierii din data de 3 august 2015 , pronunţate în Dosarul de arbitraj nr. 1/2015",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/191178",
+   "versions": [
+    {
+     "from": "2017-07-12",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/191178",
+     "sha256": "810faeb8645339be1af4ea93174f090b460173fce9146ebfe6359e9403f26bd9"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2017-469",
+   "path": "instante/ca-bucuresti/decizie/2017/469",
+   "short": "Decizia Curții de Apel București nr. 469/2017",
+   "title": "Decizia Curții de Apel București nr. 469/2017, publicată în Monitorul Oficial nr. 286 din 24 aprilie 2017",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/188505",
+   "versions": [
+    {
+     "from": "2017-04-24",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/188505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2017-870a",
+   "path": "instante/ca-bucuresti/decizie/2017/870a",
+   "short": "Decizia Curții de Apel București nr. 870a/2017",
+   "title": "DECIZIE CIVILĂ nr. 870A din 18 octombrie 2017 pronunţată în Dosarul nr. 3.587/2/2017",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/195041",
+   "versions": [
+    {
+     "from": "2017-11-27",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/195041",
+     "sha256": "e77013fc446d1cadd5d4ccc1a01af42c749d4f44124252ed0f0eceff228510e0"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-incheiere-2017-2017-09-11",
+   "path": "instante/ca-bucuresti/incheiere/2017/2017-09-11",
+   "short": "Încheierea Curții de Apel București din 2017-09-11",
+   "title": "Încheierea Curții de Apel București din 2017-09-11, publicată în Monitorul Oficial nr. 141 din 11 februarie 2021",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/237302",
+   "versions": [
+    {
+     "from": "2021-02-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/237302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-incheiere-2017-2017-11-22",
+   "path": "instante/ca-bucuresti/incheiere/2017/2017-11-22",
+   "short": "Încheierea Curții de Apel București din 2017-11-22",
+   "title": "ÎNCHEIERE din 22 noiembrie 2017 Şedinţa publică din 22 noiembrie 2017",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/251455",
+   "versions": [
+    {
+     "from": "2022-02-07",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/251455",
+     "sha256": "f5ee465e28b1b9551134b52ae5776a73bd6f8c5ad3bcb467d8f1bd4e67a68887"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-incheiere-2017-784a",
+   "path": "instante/ca-bucuresti/incheiere/2017/784a",
+   "short": "Încheierea Curții de Apel București nr. 784a/2017",
+   "title": "Încheierea Curții de Apel București nr. 784a/2017, publicată în Monitorul Oficial nr. 276 din 20 aprilie 2017",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/188447",
+   "versions": [
+    {
+     "from": "2017-04-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/188447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-sentinta-2017-3284",
+   "path": "instante/ca-bucuresti/sentinta/2017/3284",
+   "short": "Sentința Curții de Apel București nr. 3284/2017",
+   "title": "Sentința Curții de Apel București nr. 3284/2017, publicată în Monitorul Oficial nr. 141 din 11 februarie 2021",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/237303",
+   "versions": [
+    {
+     "from": "2021-02-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/237303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-sentinta-2017-4756",
+   "path": "instante/ca-bucuresti/sentinta/2017/4756",
+   "short": "Sentința Curții de Apel București nr. 4756/2017",
+   "title": "Sentința Curții de Apel București nr. 4756/2017, publicată în Monitorul Oficial nr. 122 din 7 februarie 2022",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/251456",
+   "versions": [
+    {
+     "from": "2022-02-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/251456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-cluj-sentinta-2017-329",
+   "path": "instante/ca-cluj/sentinta/2017/329",
+   "short": "Sentința Curții de Apel Cluj nr. 329/2017",
+   "title": "SENTINŢA CIVILĂ nr. 329 din 20 octombrie 2017 privind cererea de modificare a alin. (2) din art. 21 din OMECTS nr. 5.549/6.10.2011 , în sensul eliminării sintagmei \"persoana care a fost condamnată pentru săvârşirea unei infracţiuni\" sau al înlocuirii conjuncţiei \"sau\" cu \"şi\"",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/273440",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/273440",
+     "sha256": "1aad46977d632d304480c29b8934e941664a6d50b30aa37668ffee7f5d2f5382"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-pitesti-sentinta-2017-201f",
+   "path": "instante/ca-pitesti/sentinta/2017/201f",
+   "short": "Sentința Curții de Apel Pitești nr. 201f/2017",
+   "title": "Sentința Curții de Apel Pitești nr. 201f/2017, publicată în Monitorul Oficial nr. 480 din 10 mai 2021",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/242115",
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/242115",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

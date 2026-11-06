@@ -3,6 +3,21 @@
  "shard": "anexa/1993",
  "acts": [
   {
+   "slug": "anexa-hg-126-1993-anexa-1",
+   "path": "anexa/hg-126-1993/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 126/1993",
+   "title": "Norme din 6 aprilie 1993 de experimentare a asistenței medicale în cadrul reformei serviciilor de sănătate (anexa nr. 1 la Hotărârea Guvernului nr. 126/1993)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64338",
+   "versions": [
+    {
+     "from": "1993-05-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64338",
+     "sha256": "5ef4b99ad94814c758c5051c9e6662d3efb472fc2f9b6c1e320256db83ddba30"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-233-1993-anexa",
    "path": "anexa/hg-233-1993/anexa",
    "short": "Anexa la HG nr. 233/1993",
@@ -44,6 +59,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64506",
      "sha256": "ea485b4675c55aceacc0d86e45f0094d798bf623a347025b23213ee2e67d3b36"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-518-1993-anexa",
+   "path": "anexa/hg-518-1993/anexa",
+   "short": "Anexa la HG nr. 518/1993",
+   "title": "Regulament din 27 septembrie 1993 de organizare și funcționare a Corpului gardienilor publici (anexa la Hotărârea Guvernului nr. 518/1993)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72638",
+   "versions": [
+    {
+     "from": "1993-10-14",
+     "units": 62,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72638",
+     "sha256": "54bae273a328ad41c18e676cc8d744ae8f84081fd338b292422ce1386f4a75b6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-592-1993-anexa",
+   "path": "anexa/hg-592-1993/anexa",
+   "short": "Anexa la HG nr. 592/1993",
+   "title": "Regulament din 2 noiembrie 1993 privind procedurile de organizare a licitațiilor, prezentarea ofertelor și adjudecarea investițiilor publice (anexa la Hotărârea Guvernului nr. 592/1993)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62208",
+   "versions": [
+    {
+     "from": "1993-12-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62208",
+     "sha256": "35fa871a2c14fbbeed77fe36b9e00e98ecc75c8da4ae20476168ea58798844db"
     }
    ]
   },

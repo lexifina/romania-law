@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "instante/2004",
+ "acts": [
+  {
+   "slug": "instante-tribunalul-bucuresti-decizie-2004-1",
+   "path": "instante/tribunalul-bucuresti/decizie/2004/1",
+   "short": "Decizia Tribunalului București nr. 1/2004",
+   "title": "Decizia Tribunalului București nr. 1/2004, publicată în Monitorul Oficial nr. 176 din 1 martie 2004",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/50074",
+   "versions": [
+    {
+     "from": "2004-03-01",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/50074",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

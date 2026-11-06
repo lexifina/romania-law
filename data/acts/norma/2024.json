@@ -514,6 +514,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/287621",
 "issuer": "bnr",
 "joint": []
+},
+{
+"slug": "norma-cifga-3-2024",
+"path": "norma/cifga/2024/3",
+"kind": "norma",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 3/2024 N3.3.3 din 2 februarie 2024 referitoare la \"Asigurarea creditelor la export pe termen mediu și lung și a investițiilor românești de capital în străinătate, în numele și în contul statului\", ediția VIII/0",
+"short": "Norma cifga nr. 3/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-02-06",
+"latest": "2024-02-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/278867",
+"issuer": "cifga",
+"joint": []
 }
 ]
 }

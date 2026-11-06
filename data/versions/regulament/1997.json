@@ -196,6 +196,21 @@
      "sha256": "03cbbab0debaf4e4c1992943460ccd92df95a56146a05f5842ac9b6abd005799"
     }
    ]
+  },
+  {
+   "slug": "regulament-guvern-626-1997",
+   "path": "regulament/guvern/1997/626",
+   "short": "Regulament guvern nr. 626/1997",
+   "title": "Regulamentul nr. 626/1997 din 6 octombrie 1997 de aplicare a Codului vamal al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13290",
+   "versions": [
+    {
+     "from": "1997-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13290",
+     "sha256": "f0bff44cdccd9a864229a09c6307b84c9eac94c00879f0a5dbcfebf749a9746c"
+    }
+   ]
   }
  ]
 }

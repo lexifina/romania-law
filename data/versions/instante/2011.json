@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "instante/2011",
+ "acts": [
+  {
+   "slug": "instante-ca-bucuresti-decizie-2011-114a",
+   "path": "instante/ca-bucuresti/decizie/2011/114a",
+   "short": "Decizia Curții de Apel București nr. 114a/2011",
+   "title": "Decizia Curții de Apel București nr. 114a/2011, publicată în Monitorul Oficial nr. 420 din 16 iunie 2011",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/129348",
+   "versions": [
+    {
+     "from": "2011-06-16",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/129348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2011-139a",
+   "path": "instante/ca-bucuresti/decizie/2011/139a",
+   "short": "Decizia Curții de Apel București nr. 139a/2011",
+   "title": "Decizia Curții de Apel București nr. 139a/2011, publicată în Monitorul Oficial nr. 420 din 16 iunie 2011",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/129357",
+   "versions": [
+    {
+     "from": "2011-06-16",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/129357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2011-153a",
+   "path": "instante/ca-bucuresti/decizie/2011/153a",
+   "short": "Decizia Curții de Apel București nr. 153a/2011",
+   "title": "Decizia Curții de Apel București nr. 153a/2011, publicată în Monitorul Oficial nr. 470 din 5 iulie 2011",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/129798",
+   "versions": [
+    {
+     "from": "2011-07-05",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/129798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2011-464",
+   "path": "instante/ca-bucuresti/decizie/2011/464",
+   "short": "Decizia Curții de Apel București nr. 464/2011",
+   "title": "Decizia Curții de Apel București nr. 464/2011, publicată în Monitorul Oficial nr. 110 din 13 februarie 2012",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/135354",
+   "versions": [
+    {
+     "from": "2012-02-13",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/135354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-incheiere-2011-2011-04-07",
+   "path": "instante/ca-bucuresti/incheiere/2011/2011-04-07",
+   "short": "Încheierea Curții de Apel București din 2011-04-07",
+   "title": "Încheierea Curții de Apel București din 2011-04-07, publicată în Monitorul Oficial nr. 420 din 16 iunie 2011",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/129352",
+   "versions": [
+    {
+     "from": "2011-06-16",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/129352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-incheiere-2011-2011-04-14",
+   "path": "instante/ca-bucuresti/incheiere/2011/2011-04-14",
+   "short": "Încheierea Curții de Apel București din 2011-04-14",
+   "title": "ÎNCHEIERE din 14 aprilie 2011 privind schimbarea în parte a Hotărârii arbitrale din data de 12 aprilie 2010",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/129353",
+   "versions": [
+    {
+     "from": "2011-06-16",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/129353",
+     "sha256": "d9864651813e7cbad56377350e8be1c1b09bf34030bc711e0fae36a2ef11bec1"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-incheiere-2011-2011-04-21",
+   "path": "instante/ca-bucuresti/incheiere/2011/2011-04-21",
+   "short": "Încheierea Curții de Apel București din 2011-04-21",
+   "title": "ÎNCHEIERE din 21 aprilie 2011 privind schimbarea în parte a Hotărârii arbitrale din data de 12 aprilie 2010",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/129354",
+   "versions": [
+    {
+     "from": "2011-06-16",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/129354",
+     "sha256": "749778c068109f7ca26d7fad59d75d284735c4728907c250bed78a9b321067d2"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-incheiere-2011-2011-04-28",
+   "path": "instante/ca-bucuresti/incheiere/2011/2011-04-28",
+   "short": "Încheierea Curții de Apel București din 2011-04-28",
+   "title": "ÎNCHEIERE din 28 aprilie 2011 privind schimbarea în parte a Hotărârii arbitrale din data de 12 aprilie 2010",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/129355",
+   "versions": [
+    {
+     "from": "2011-06-16",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/129355",
+     "sha256": "26adaf726bc1a9c62d0e9a639eb00da46f5f2be09a3505e48e40ee013471b5e7"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-incheiere-2011-2011-05-02",
+   "path": "instante/ca-bucuresti/incheiere/2011/2011-05-02",
+   "short": "Încheierea Curții de Apel București din 2011-05-02",
+   "title": "ÎNCHEIERE din 2 mai 2011 privind schimbarea în parte a Hotărârii arbitrale din data de 12 aprilie 2010",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/129356",
+   "versions": [
+    {
+     "from": "2011-06-16",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/129356",
+     "sha256": "af4923a38c75c331c45eafdeaa5537dc241bc580d4d890bb3ab3552529269a14"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-incheiere-2011-2011-06-14",
+   "path": "instante/ca-bucuresti/incheiere/2011/2011-06-14",
+   "short": "Încheierea Curții de Apel București din 2011-06-14",
+   "title": "Încheierea Curții de Apel București din 2011-06-14, publicată în Monitorul Oficial nr. 42 din 19 ianuarie 2015",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/164730",
+   "versions": [
+    {
+     "from": "2015-01-19",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/164730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-incheiere-2011-2011-06-21",
+   "path": "instante/ca-bucuresti/incheiere/2011/2011-06-21",
+   "short": "Încheierea Curții de Apel București din 2011-06-21",
+   "title": "ÎNCHEIERE din 21 iunie 2011 referitoare la calcularea pensiilor de serviciu",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/164729",
+   "versions": [
+    {
+     "from": "2015-01-19",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/164729",
+     "sha256": "e4553341af0e9fb56f02f93c6edd1c0ffbd1844551dd57d7a33026b71432aa77"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-incheiere-2011-2011-06-28",
+   "path": "instante/ca-bucuresti/incheiere/2011/2011-06-28",
+   "short": "Încheierea Curții de Apel București din 2011-06-28",
+   "title": "ÎNCHEIERE din 28 iunie 2011 referitoare la calcularea pensiilor de serviciu",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/164728",
+   "versions": [
+    {
+     "from": "2015-01-19",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/164728",
+     "sha256": "a66ae48270dd3d594ca17fb78ae72def4fef4dafaf6f8eb86ab4ec929a3afc03"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-sentinta-2011-4660",
+   "path": "instante/ca-bucuresti/sentinta/2011/4660",
+   "short": "Sentința Curții de Apel București nr. 4660/2011",
+   "title": "Sentința Curții de Apel București nr. 4660/2011, publicată în Monitorul Oficial nr. 42 din 19 ianuarie 2015",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/164727",
+   "versions": [
+    {
+     "from": "2015-01-19",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/164727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-cluj-decizie-2011-3046",
+   "path": "instante/ca-cluj/decizie/2011/3046",
+   "short": "Decizia Curții de Apel Cluj nr. 3046/2011",
+   "title": "Decizia Curții de Apel Cluj nr. 3046/2011, publicată în Monitorul Oficial nr. 721 din 13 octombrie 2011",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/132125",
+   "versions": [
+    {
+     "from": "2011-10-13",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/132125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-cluj-incheiere-2011-471",
+   "path": "instante/ca-cluj/incheiere/2011/471",
+   "short": "Încheierea Curții de Apel Cluj nr. 471/2011",
+   "title": "ÎNCHEIERE CIVILĂ din 20 decembrie 2011 privind îndreptarea erorii materiale strecurate în dispozitivul Sentinţei civile nr. 471 pronunţate la data de 7 decembrie 2010 în Dosarul nr. 1.793/33/2010 al Curţii de Apel Cluj",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/137725",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/137725",
+     "sha256": "1927844289b5d7e419f766cf3439734c4b596df7dbdd70423312ec18abe93def"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-cluj-sentinta-2011-114",
+   "path": "instante/ca-cluj/sentinta/2011/114",
+   "short": "Sentința Curții de Apel Cluj nr. 114/2011",
+   "title": "Sentința Curții de Apel Cluj nr. 114/2011, publicată în Monitorul Oficial nr. 308 din 9 mai 2012",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/137689",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/137689",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

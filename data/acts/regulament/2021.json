@@ -495,6 +495,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/240853",
 "issuer": "ccir",
 "joint": []
+},
+{
+"slug": "regulament-guvern-559-2021",
+"path": "regulament/guvern/2021/559",
+"kind": "regulament",
+"year": "2021",
+"number": "559",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 559/2021 din 22 martie 2021 pentru atestarea și verificarea auditorilor de securitate cibernetică",
+"short": "Regulament guvern nr. 559/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-04-14",
+"latest": "2021-04-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/240989",
+"issuer": "guvern",
+"joint": []
 }
 ]
 }

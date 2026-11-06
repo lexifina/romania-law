@@ -391,6 +391,81 @@
      "sha256": "a4b49177af35766d77d16fd0703c014b55f390307bd52fe7c96b7d299b639d7c"
     }
    ]
+  },
+  {
+   "slug": "norma-finante-13780-1994",
+   "path": "norma/finante/1994/13780",
+   "short": "Norma finante nr. 13780/1994",
+   "title": "Norma nr. 13.780/1994 privind aplicarea Hotărârii Guvernului nr. 270/1994 pentru completarea Hotărârii Guvernului nr. 83/1993 privind unele măsuri pentru întărirea disciplinei financiare la agenții economici cu capital integral sau majoritar de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5586",
+   "versions": [
+    {
+     "from": "1994-09-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5586",
+     "sha256": "6cac6360a18142682d7d34b0614fca9ab0676968e3cf893533ef5bd48940e9ae"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-45750-1994",
+   "path": "norma/finante/1994/45750",
+   "short": "Norma finante nr. 45750/1994",
+   "title": "Norma nr. 45.750/1994 cu privire la determinarea fondului de salarii ce poate fi consumat de societățile comerciale cu capital majoritar de stat și regiile autonome la care salariile se stabilesc prin negociere fără obligația de a plăti impozit suplimentar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5592",
+   "versions": [
+    {
+     "from": "1994-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5592",
+     "sha256": "736b85c42ea5df2104acdd4532e0aad9baf6ff8b2609ce3bfa39679c187d2365"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-500-1994",
+   "path": "norma/finante/1994/500",
+   "short": "Norma finante nr. 500/1994",
+   "title": "Norma nr. 500/1994 din 13 octombrie 1994 privind reevaluarea imobilizărilor corporale și modificarea capitalului social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5077",
+   "versions": [
+    {
+     "from": "1994-11-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5077",
+     "sha256": "1ec8e8f34cd8a62248807fd3d9236611da66feacae5ae1b15754a259db511066"
+    }
+   ]
+  },
+  {
+   "slug": "norma-munca-5820-1994",
+   "path": "norma/munca/1994/5820",
+   "short": "Norma munca nr. 5820/1994",
+   "title": "Norma nr. 5.820/1994 cu privire la determinarea fondului de salarii ce poate fi consumat de societățile comerciale cu capital majoritar de stat și regiile autonome la care salariile se stabilesc prin negociere fără obligația de a plăti impozit suplimentar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5575",
+   "versions": [
+    {
+     "from": "1994-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5575",
+     "sha256": "300e0d189d96393ff4684fc24325936be9e09abe31ad34b8f9fd897f151e2091"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-250-1994",
+   "path": "norma/sanatate/1994/250",
+   "short": "Norma sanatate nr. 250/1994",
+   "title": "Norma nr. 250/1994 privind compensarea prețurilor cu amănuntul la unele medicamente de uz uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4777",
+   "versions": [
+    {
+     "from": "1994-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4777",
+     "sha256": "b5241356608fdfb7de18cc08aa552affdaebf26723de6ecc47eebc31e70b2694"
+    }
+   ]
   }
  ]
 }

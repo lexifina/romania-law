@@ -1,0 +1,2061 @@
+{
+ "country": "RO",
+ "shard": "anexa/2015",
+ "acts": [
+  {
+   "slug": "anexa-decizie-anrm-5-2015-anexa",
+   "path": "anexa/decizie-anrm-5-2015/anexa",
+   "short": "Anexa la Decizia anrm nr. 5/2015",
+   "title": "Procedură din 30 aprilie 2015 pentru emiterea autorizației de explorare în vederea stocării geologice a dioxidului de carbon (anexa la Decizia ANRM nr. 5/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168033",
+   "versions": [
+    {
+     "from": "2015-05-21",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168033",
+     "sha256": "df0349fc2b3cea959d1f79e239f333295618c49d6ecd8bee254a2ecdab02a596"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-ccir-7-2015-anexa",
+   "path": "anexa/decizie-ccir-7-2015/anexa",
+   "short": "Anexa la Decizia ccir nr. 7/2015",
+   "title": "Regulament din 10 decembrie 2015 privind organizarea și funcționarea Curții de Arbitraj Comercial Internațional de pe lângă Camera de Comerț și Industrie a României (anexa la Decizia CCIR nr. 7/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175382",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175382",
+     "sha256": "08b8b5ae4ae26d8d9b26143bd02518da3e8d48a07c27aa42c38625a56504b3df"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-penitenciare-427-2015-anexa",
+   "path": "anexa/decizie-penitenciare-427-2015/anexa",
+   "short": "Anexa la Decizia penitenciare nr. 427/2015",
+   "title": "Metodologie din 1 iulie 2015 de organizare și desfășurare a stagiilor de practică ale elevilor din Școala Națională de Pregătire a Agenților de Penitenciare Târgu Ocna (anexa la Decizia PENITENCIARE nr. 427/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169931",
+   "versions": [
+    {
+     "from": "2015-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169931",
+     "sha256": "263c22168d2faf8a8953305056ea26ae26c35452031838f821497bb44cde6b3f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-penitenciare-539-2015-anexa",
+   "path": "anexa/decizie-penitenciare-539-2015/anexa",
+   "short": "Anexa la Decizia penitenciare nr. 539/2015",
+   "title": "Procedura din 13 octombrie 2015 de distribuire a biletelor de odihnă (anexa la Decizia PENITENCIARE nr. 539/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172398",
+   "versions": [
+    {
+     "from": "2015-10-28",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172398",
+     "sha256": "2e783bb167af294d639315db27991c10dfed165190eea8ab5e58bacac8d792d8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1006-2015-anexa",
+   "path": "anexa/hg-1006-2015/anexa",
+   "short": "Anexa la HG nr. 1006/2015",
+   "title": "Regulament din 23 decembrie 2015 de organizare și funcționare a Institutului Național de Cercetare-Dezvoltare pentru Fizica Materialelor - INCDFM București (anexa la Hotărârea Guvernului nr. 1006/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174636",
+   "versions": [
+    {
+     "from": "2016-01-06",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174636",
+     "sha256": "8ac6df22b40d5e1434c64140db0a0eeb0782ab1e52ed6377b04b30ef192f5798"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1023-2015-anexa",
+   "path": "anexa/hg-1023-2015/anexa",
+   "short": "Anexa la HG nr. 1023/2015",
+   "title": "Norme metodologice din 30 decembrie 2015 privind evaluarea, contractarea, finanțarea și monitorizarea programelor-nucleu de cercetare-dezvoltare (anexa la Hotărârea Guvernului nr. 1023/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174688",
+   "versions": [
+    {
+     "from": "2016-01-07",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174688",
+     "sha256": "a8e9ac3d9374ba850fcf4dc043eb302b610b9cfec15f4e3ccd74b54cbf5706cb"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-169-2015-anexa",
+   "path": "anexa/hg-169-2015/anexa",
+   "short": "Anexa la HG nr. 169/2015",
+   "title": "Norme metodologice din 11 martie 2015 de aplicare a prevederilor Legii nr. 101/2014 privind măsuri de reglementare a depozitării semințelor de consum și a regimului certificatelor de depozit pentru acestea (anexa la Hotărârea Guvernului nr. 169/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166691",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166691",
+     "sha256": "35bdfb4426f7e89a83f6682a87a90f549ea29dfed8cd6ba9157d5304bbcaeb7c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-23-2015-anexa",
+   "path": "anexa/hg-23-2015/anexa",
+   "short": "Anexa la HG nr. 23/2015",
+   "title": "Norme din 14 ianuarie 2015 de aplicare a Legii nr. 142/1998 privind acordarea tichetelor de masă (anexa la Hotărârea Guvernului nr. 23/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164877",
+   "versions": [
+    {
+     "from": "2015-01-22",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164877",
+     "sha256": "e3d1001550badc81bf999666a446f3968899ceacf5d64b3d961e028c2b93bed0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-234-2015-anexa",
+   "path": "anexa/hg-234-2015/anexa",
+   "short": "Anexa la HG nr. 234/2015",
+   "title": "Norme metodologice din 2 aprilie 2015 privind mecanismul de acordare și derulare a împrumuturilor acordate unităților/subdiviziunilor administrativ-teritoriale în condițiile art. XII din Ordonanța de urgență a Guvernului nr. 2/2015 , precum și modul de reflectare a sumelor respective în bugetele instituțiilor publice (anexa la Hotărârea Guvernului nr. 234/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167158",
+   "versions": [
+    {
+     "from": "2015-04-14",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167158",
+     "sha256": "523069a0bf3551366d8ea97418a1862075b05f3f33a9a238c2809228927287de"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-244-2015-anexa",
+   "path": "anexa/hg-244-2015/anexa",
+   "short": "Anexa la HG nr. 244/2015",
+   "title": "Norme metodologice din 7 aprilie 2015 privind organizarea și desfășurarea controlului doping (anexa la Hotărârea Guvernului nr. 244/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167448",
+   "versions": [
+    {
+     "from": "2015-04-27",
+     "units": 84,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167448",
+     "sha256": "9d2df33b7e3193f1a7cddc74a00e9db34db351a409b8cdc941695f1fc5c2b845"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-257-2015-anexa",
+   "path": "anexa/hg-257-2015/anexa",
+   "short": "Anexa la HG nr. 257/2015",
+   "title": "Metodologie din 15 aprilie 2015 de elaborare a planurilor de calitate a aerului, a planurilor de acțiune pe termen scurt și a planurilor de menținere a calității aerului (anexa la Hotărârea Guvernului nr. 257/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167441",
+   "versions": [
+    {
+     "from": "2015-04-27",
+     "units": 72,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167441",
+     "sha256": "41f896cc605912667507150f43d1c00d7ad18d33ba8b51aff6143ada0cd705f9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-34-2015-anexa",
+   "path": "anexa/hg-34-2015/anexa",
+   "short": "Anexa la HG nr. 34/2015",
+   "title": "Norme metodologice din 21 ianuarie 2015 privind modalitatea de utilizare și completare a dosarului electronic de sănătate al pacientului (anexa la Hotărârea Guvernului nr. 34/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165129",
+   "versions": [
+    {
+     "from": "2015-01-26",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165129",
+     "sha256": "1bf34bad262117fc5b34f652fd9986a55e0ad80c60b1146a27e855e699a8c8b0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-362-2015-anexa",
+   "path": "anexa/hg-362-2015/anexa",
+   "short": "Anexa la HG nr. 362/2015",
+   "title": "Regulament din 20 mai 2015 privind atribuțiile, modul de organizare și funcționare a consiliului de coordonare pentru sistemele de transport inteligente (anexa la Hotărârea Guvernului nr. 362/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168735",
+   "versions": [
+    {
+     "from": "2015-06-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168735",
+     "sha256": "aa27cf3445ac529fdfe2d370c1e89f42f46359b2b76ce4790c9b86aed1ecacfd"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-469-2015-anexa-1",
+   "path": "anexa/hg-469-2015/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 469/2015",
+   "title": "Criterii minime obligatorii din 24 iunie 2015 de autorizare și acreditare pentru programele de studii universitare de Medicină, Medicină dentară, Farmacie, Asistență medicală generală, Moașe din domeniul de licență Sănătate (Anexa 1) (anexa nr. 1 la Hotărârea Guvernului nr. 469/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169611",
+   "versions": [
+    {
+     "from": "2015-07-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169611",
+     "sha256": "d65db292df9d8cae164bb228d711a050865472199bfdeeeb47a49abc78927adb"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-469-2015-anexa-2",
+   "path": "anexa/hg-469-2015/anexa-2",
+   "short": "Anexa nr. 2 la HG nr. 469/2015",
+   "title": "Criterii minime obligatorii din 24 iunie 2015 de autorizare și acreditare pentru programul de studii universitare de Medicină veterinară din domeniul de licență Medicină veterinară (Anexa 2) (anexa nr. 2 la Hotărârea Guvernului nr. 469/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169612",
+   "versions": [
+    {
+     "from": "2015-07-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169612",
+     "sha256": "027f34b597b2cf983db7407e6bb30e11b1fc07915fef73edca0a7bda2aec1fb0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-569-2015-anexa",
+   "path": "anexa/hg-569-2015/anexa",
+   "short": "Anexa la HG nr. 569/2015",
+   "title": "Norme metodologice din 15 iulie 2015 privind decontarea cheltuielilor pentru naveta la și de la locul de muncă a cadrelor didactice și a personalului didactic auxiliar din învățământul preuniversitar de stat (anexa la Hotărârea Guvernului nr. 569/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169861",
+   "versions": [
+    {
+     "from": "2015-07-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169861",
+     "sha256": "a4dfb81143e001f3cd4fd5ca690220719d5eb5ab44f103d00a3baa7379e0b030"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-576-2015-anexa",
+   "path": "anexa/hg-576-2015/anexa",
+   "short": "Anexa la HG nr. 576/2015",
+   "title": "Norme metodologice din 15 iulie 2015 de aplicare a prevederilor Legii nr. 91/2014 privind acordarea unei zile lucrătoare libere pe an pentru îngrijirea sănătății copilului (anexa la Hotărârea Guvernului nr. 576/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169925",
+   "versions": [
+    {
+     "from": "2015-07-21",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169925",
+     "sha256": "7aac4106fcdb38b4394d18baf8034bf8828b4954411a28b0ceeecf7fc390f660"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-691-2015-anexa-1",
+   "path": "anexa/hg-691-2015/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 691/2015",
+   "title": "Procedură din 19 august 2015 de monitorizare a modului de creștere și îngrijire a copilului cu părinți plecați la muncă în străinătate și serviciile de care aceștia pot beneficia (anexa nr. 1 la Hotărârea Guvernului nr. 691/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171052",
+   "versions": [
+    {
+     "from": "2015-09-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171052",
+     "sha256": "83b46aefe4b3b71f03dbeea6ec734db072e09036784f2d76f0cca07f89fecdad"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-691-2015-anexa-2",
+   "path": "anexa/hg-691-2015/anexa-2",
+   "short": "Anexa nr. 2 la HG nr. 691/2015",
+   "title": "Metodologie din 19 august 2015 de lucru privind colaborarea dintre direcțiile generale de asistență socială și protecția copilului și serviciile publice de asistență socială și modelul standard al documentelor elaborate de către acestea (anexa nr. 2 la Hotărârea Guvernului nr. 691/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171053",
+   "versions": [
+    {
+     "from": "2015-09-01",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171053",
+     "sha256": "8977ed60e85446a3193da468960d3372ecd011d1774e3427646c47ea47aee6a1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-703-2015-anexa",
+   "path": "anexa/hg-703-2015/anexa",
+   "short": "Anexa la HG nr. 703/2015",
+   "title": "Norme metodologice din 26 august 2015 de reglementare a procedurii de recuperare de la beneficiari a sumelor prevăzute la lit. d) a alin. (4) al art. 2 din Ordonanța Guvernului nr. 15/2013 privind reglementarea unor măsuri fiscal-bugetare pentru suportarea de la bugetul de stat a sumelor aferente corecțiilor financiare aplicate pentru abaterile de la conformitatea cu legislația din domeniul achizițiilor publice pentru Programul operațional sectorial Mediu 2007-2013 (anexa la Hotărârea Guvernului nr. 703/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171010",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171010",
+     "sha256": "6e5541db7e06cec4f12c67c1231763531d1304aec03cd01a57b5b5b31b3f7c66"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-706-2015-anexa",
+   "path": "anexa/hg-706-2015/anexa",
+   "short": "Anexa la HG nr. 706/2015",
+   "title": "Norme metodologice din 26 august 2015 de aplicare a prevederilor referitoare la stabilirea pensiilor de serviciu din Legea nr. 567/2004 privind statutul personalului auxiliar de specialitate al instanțelor judecătorești și al parchetelor de pe lângă acestea și al personalului care funcționează în cadrul Institutului Național de Expertize Criminalistice (anexa la Hotărârea Guvernului nr. 706/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171101",
+   "versions": [
+    {
+     "from": "2015-09-03",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171101",
+     "sha256": "08f6ee82e64bbd6f6e6720cb6efa8f0b88763d0476128261d646bd01ffa6d8e7"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-716-2015-anexa-2",
+   "path": "anexa/hg-716-2015/anexa-2",
+   "short": "Anexa nr. 2 la HG nr. 716/2015",
+   "title": "Regulament din 2 septembrie 2015 de organizare și funcționare al Agenției de Investigare Feroviară Română - AGIFER (anexa nr. 2 la Hotărârea Guvernului nr. 716/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171137",
+   "versions": [
+    {
+     "from": "2015-09-04",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171137",
+     "sha256": "96825eaf78d5a6f13797bda897feac6b97cac09daf233a7ff2bd2d30f6623155"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-73-2015-anexa",
+   "path": "anexa/hg-73-2015/anexa",
+   "short": "Anexa la HG nr. 73/2015",
+   "title": "Metodologie din 4 februarie 2015 de concurs pentru ocuparea funcției de director general la institutele naționale de cercetare-dezvoltare (anexa la Hotărârea Guvernului nr. 73/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165673",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165673",
+     "sha256": "ef9990e01c88f9b84cc31b6e4ec9da74a7f223fe4d4da2528ea1d0774edb2674"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-924-2015-anexa",
+   "path": "anexa/hg-924-2015/anexa",
+   "short": "Anexa la HG nr. 924/2015",
+   "title": "Regulament din 4 noiembrie 2015 de valorificare a masei lemnoase din fondul forestier proprietate publică (anexa la Hotărârea Guvernului nr. 924/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172893",
+   "versions": [
+    {
+     "from": "2015-11-11",
+     "units": 77,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172893",
+     "sha256": "fc5dea16064899b1ae75d4f9ece22c9c4c6187c3f9136f4da783b2a07b08e56a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-954-2015-anexa",
+   "path": "anexa/hg-954-2015/anexa",
+   "short": "Anexa la HG nr. 954/2015",
+   "title": "Norme metodologice din 9 decembrie 2015 de aplicare a Legii nr. 216/2015 privind acordarea pensiei de serviciu membrilor Corpului diplomatic și consular al României (anexa la Hotărârea Guvernului nr. 954/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173869",
+   "versions": [
+    {
+     "from": "2015-12-14",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173869",
+     "sha256": "959dcedafcb5c5e2ec5ff328542386f2ba2094f9c1ad4cda96e6d6ff4d8e3945"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-cifga-20-2015-anexa",
+   "path": "anexa/hotarare-cifga-20-2015/anexa",
+   "short": "Anexa la Hotărârea cifga nr. 20/2015",
+   "title": "Normă din 12 februarie 2015 privind asigurarea creditelor la export pe termen mediu și lung și a investițiilor românești de capital în străinătate, în numele și în contul statului\" (NI-ASR-05-III/0) (anexa la Hotărârea CIFGA nr. 20/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165887",
+   "versions": [
+    {
+     "from": "2015-02-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165887",
+     "sha256": "b0a5e7dccd21dae77465f52b59c9c4c0d96287eee5330b80b312e28fdb04ca75"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-cifga-24-2015-anexa",
+   "path": "anexa/hotarare-cifga-24-2015/anexa",
+   "short": "Anexa la Hotărârea cifga nr. 24/2015",
+   "title": "Normă din 12 februarie 2015 privind \"Contragaranții EximBank în numele și în contul statului\" (NI-GAR-11-I/0) (anexa la Hotărârea CIFGA nr. 24/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165882",
+   "versions": [
+    {
+     "from": "2015-02-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165882",
+     "sha256": "c6b412f99834b6ffc69bc39d4f0bc95070303c0b68c8ea2cb861603051139f2a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-cifga-3-2015-anexa",
+   "path": "anexa/hotarare-cifga-3-2015/anexa",
+   "short": "Anexa la Hotărârea cifga nr. 3/2015",
+   "title": "Normă din 14 ianuarie 2015 privind \"Garanții EximBank în numele și în contul statului (NI-GAR-10-IV/0)\" (anexa la Hotărârea CIFGA nr. 3/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164875",
+   "versions": [
+    {
+     "from": "2015-01-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164875",
+     "sha256": "486ca62f93598d9dc74cc2d2a0070af2370d37b33f9506a50b3dbbd6719b32cd"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-cifga-57-2015-anexa",
+   "path": "anexa/hotarare-cifga-57-2015/anexa",
+   "short": "Anexa la Hotărârea cifga nr. 57/2015",
+   "title": "Normă din 21 aprilie 2015 Contragaranții EximBank în numele și în contul statului (NI-GAR-11-II/0) (anexa la Hotărârea CIFGA nr. 57/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167587",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167587",
+     "sha256": "108cf511931677b141da26bd67efe8c1627f709f2a06b8bbfbbabb2181357eb2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-1414-2015-anexa-1",
+   "path": "anexa/ordin-agricultura-1414-2015/anexa-1",
+   "short": "Anexa nr. 1 la Ordin agricultura nr. 1414/2015",
+   "title": "Regulament din 28 mai 2015 de organizare și funcționare al Comisiei pentru acordarea licențelor de depozit, atribuțiile și obligațiile acesteia (anexa nr. 1 la Ordinul AGRICULTURA nr. 1414/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168564",
+   "versions": [
+    {
+     "from": "2015-06-05",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168564",
+     "sha256": "a2b7b07063dc6afd641b061aba08b1a55679eea8dbec6b533bf9fde02e664622"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-352-2015-anexa",
+   "path": "anexa/ordin-agricultura-352-2015/anexa",
+   "short": "Anexa la Ordin agricultura nr. 352/2015",
+   "title": "Normă din 1 aprilie 2015 privind ecocondiționalitatea în cadrul schemelor și măsurilor de sprijin pentru fermieri în România [în temeiul art. 93 și 94, respectiv anexa II din Regulamentul (UE) nr. 1.306/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 privind finanțarea, gestionarea și monitorizarea politicii agricole comune și de abrogare a Regulamentelor (CEE) nr. 352/78, (CE) nr. 165/94, (CE) nr. 2.799/98, (CE) nr. 814/2000, (CE) nr. 1.290/2005 și (CE) nr. 485/2008 ale Consiliului (anexa la Ordinul AGRICULTURA nr. 352/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168315",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168315",
+     "sha256": "eeb0829b66370f661163d60d1aac191b7deff13a7e58aae605a14d542d621d3e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-734-2015-anexa",
+   "path": "anexa/ordin-agricultura-734-2015/anexa",
+   "short": "Anexa la Ordin agricultura nr. 734/2015",
+   "title": "Norme tehnice din 29 aprilie 2015 de completare a registrului agricol pentru perioada 2015-2019 (anexa la Ordinul AGRICULTURA nr. 734/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171144",
+   "versions": [
+    {
+     "from": "2015-09-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171144",
+     "sha256": "5d8e797c4bb6fd67616ab9b6455122dad514eaaed9190a3a2d640a805c12621e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-83-2015-anexa",
+   "path": "anexa/ordin-agricultura-83-2015/anexa",
+   "short": "Anexa la Ordin agricultura nr. 83/2015",
+   "title": "Procedurile specifice din 26 ianuarie 2015 de implementare și control, precum și formularistica necesară aplicării schemei temporare de ajutor de stat, reglementată de Hotărârea Guvernului nr. 1.108/2014 privind acordarea unui ajutor de stat pentru motorina utilizată în agricultură în trimestrul IV al anului 2014 (anexa la Ordinul AGRICULTURA nr. 83/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165171",
+   "versions": [
+    {
+     "from": "2015-01-28",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165171",
+     "sha256": "0e36d5869bb10f0943d2efc47abbe395a5affb360bf7fc5f2a7dc41d513a74e2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-1111-2015-anexa",
+   "path": "anexa/ordin-anaf-1111-2015/anexa",
+   "short": "Anexa la Ordin anaf nr. 1111/2015",
+   "title": "Norme tehnice din 18 mai 2015 privind autorizarea emiterii de titluri de garanție izolată, utilizării garanției globale și a dispensei de garanție în cadrul regimului de tranzit comunitar/comun (anexa la Ordinul ANAF nr. 1111/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168607",
+   "versions": [
+    {
+     "from": "2015-06-23",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168607",
+     "sha256": "e3dad2977bad8943ab2d859b65c2b20c80bcc48d933b326c60d463c8d60b7c56"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-163-2015-anexa",
+   "path": "anexa/ordin-anaf-163-2015/anexa",
+   "short": "Anexa la Ordin anaf nr. 163/2015",
+   "title": "Norme din 22 ianuarie 2015 privind procedurile simplificate de vămuire (anexa la Ordinul ANAF nr. 163/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165189",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 95,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165189",
+     "sha256": "805668b14dba092de4e7f4d0dee869e6a5893e338a188b0a8b1197bb663dbaf0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-1987-2015-anexa",
+   "path": "anexa/ordin-anaf-1987-2015/anexa",
+   "short": "Anexa la Ordin anaf nr. 1987/2015",
+   "title": "Procedură din 29 iulie 2015 privind structura informațiilor și periodicitatea transmiterii între Agenția Națională de Administrare Fiscală și Casa Națională de Asigurări de Sănătate a informațiilor privind lista persoanelor fizice înregistrate în Registrul unic de evidență al asiguraților din Platforma informatică din asigurările de sănătate (anexa la Ordinul ANAF nr. 1987/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170716",
+   "versions": [
+    {
+     "from": "2015-08-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170716",
+     "sha256": "ca91a5cae9a38f8d69df7e27e88e0477397d410a551a8a2c0a96ebd55e46d29b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-2791-2015-anexa",
+   "path": "anexa/ordin-anaf-2791-2015/anexa",
+   "short": "Anexa la Ordin anaf nr. 2791/2015",
+   "title": "Procedură din 3 noiembrie 2015 privind structura informațiilor și periodicitatea transmiterii între Agenția Națională de Administrare Fiscală și Casa Națională de Asigurări de Sănătate a informațiilor privind lista persoanelor fizice înregistrate în Registrul unic de evidență al asiguraților din Platforma informatică din asigurările de sănătate, în vederea anulării contribuției de asigurări sociale de sănătate datorate de către persoanele fizice exceptate de la plata contribuției de asigurări sociale de sănătate începând cu data de 1 ianuarie 2012 și până la data intrării în vigoare a prevederilor art. I pct. 17 și 18 din Ordonanța Guvernului nr. 4/2015 pentru modificarea Legii nr. 571/2003 privind Codul fiscal (anexa la Ordinul ANAF nr. 2791/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172888",
+   "versions": [
+    {
+     "from": "2015-11-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172888",
+     "sha256": "4ea04c4ea25900ab8eb8409fea68c2aea63ce2685c73d19db7d0018a5c4fac21"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-3635-2015-anexa-1",
+   "path": "anexa/ordin-anaf-3635-2015/anexa-1",
+   "short": "Anexa nr. 1 la Ordin anaf nr. 3635/2015",
+   "title": "Procedură din 11 decembrie 2015 de depunere la organul fiscal a documentului de certificare întocmit de consultantul fiscal (Anexa nr. 1) (anexa nr. 1 la Ordinul ANAF nr. 3635/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174050",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174050",
+     "sha256": "1ee2128fb21bb93089eff1b704ebea6d3bf6d7e0b16997a3afe9c21c0bb9ad1b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-3635-2015-anexa-2",
+   "path": "anexa/ordin-anaf-3635-2015/anexa-2",
+   "short": "Anexa nr. 2 la Ordin anaf nr. 3635/2015",
+   "title": "Procedură din 11 decembrie 2015 privind schimbul de informații între Agenția Națională de Administrare Fiscală și Camera Consultanților Fiscali (Anexa nr. 2) (anexa nr. 2 la Ordinul ANAF nr. 3635/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174051",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174051",
+     "sha256": "a2f84b4365d2f1edc1711ca867cf93442941f4f0c1cf90d2525fe3668a95daa9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-3736-2015-anexa-1",
+   "path": "anexa/ordin-anaf-3736-2015/anexa-1",
+   "short": "Anexa nr. 1 la Ordin anaf nr. 3736/2015",
+   "title": "Procedură din 23 decembrie 2015 privind emiterea soluției fiscale individuale anticipate (anexa nr. 1 la Ordinul ANAF nr. 3736/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174291",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174291",
+     "sha256": "901e7d5caefe74fe47f5073702153e6c57ce90f38dce3c0fab95ca1f095a167c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-3795-2015-anexa",
+   "path": "anexa/ordin-anaf-3795-2015/anexa",
+   "short": "Anexa la Ordin anaf nr. 3795/2015",
+   "title": "Norme tehnice din 28 decembrie 2015 privind înființarea, funcționarea și desființarea punctelor vamale în cadrul birourilor vamale (anexa la Ordinul ANAF nr. 3795/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174739",
+   "versions": [
+    {
+     "from": "2016-01-08",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174739",
+     "sha256": "6de38306392331c54c99f3748776663d9226e6454d18e09583fef4675a67f702"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-3845-2015-anexa-2",
+   "path": "anexa/ordin-anaf-3845-2015/anexa-2",
+   "short": "Anexa nr. 2 la Ordin anaf nr. 3845/2015",
+   "title": "Procedură din 30 decembrie 2015 de înregistrare/modificare a domiciliului fiscal în cazul contribuabililor care sunt supuși înregistrării la organele fiscale - Anexa nr. 2 (anexa nr. 2 la Ordinul ANAF nr. 3845/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174719",
+   "versions": [
+    {
+     "from": "2016-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174719",
+     "sha256": "8a071dbc775a0049eebf86bf92740468b65d7f8887a84daa6e1f322ed0644ee2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-3845-2015-anexa-3",
+   "path": "anexa/ordin-anaf-3845-2015/anexa-3",
+   "short": "Anexa nr. 3 la Ordin anaf nr. 3845/2015",
+   "title": "Procedură din 30 decembrie 2015 de modificare a domiciliului fiscal în cazul contribuabililor persoane fizice care dețin cod numeric personal - Anexa nr. 3 (anexa nr. 3 la Ordinul ANAF nr. 3845/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174720",
+   "versions": [
+    {
+     "from": "2016-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174720",
+     "sha256": "d3120e4b51f807b033218f986b5fe138caadf784fb28f6d69e77933be46401e6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-3845-2015-anexa-4",
+   "path": "anexa/ordin-anaf-3845-2015/anexa-4",
+   "short": "Anexa nr. 4 la Ordin anaf nr. 3845/2015",
+   "title": "Procedură din 30 decembrie 2015 de înregistrare/modificare din oficiu a domiciliului fiscal al contribuabilului - Anexa nr. 4 (anexa nr. 4 la Ordinul ANAF nr. 3845/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174721",
+   "versions": [
+    {
+     "from": "2016-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174721",
+     "sha256": "94fd14586b8ca2e214ec4a2139a4771d3505a5d3d8123b05c996a8a9a69e4983"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-3846-2015-anexa-1",
+   "path": "anexa/ordin-anaf-3846-2015/anexa-1",
+   "short": "Anexa nr. 1 la Ordin anaf nr. 3846/2015",
+   "title": "Procedură din 30 decembrie 2015 privind declararea ca inactivi a contribuabililor/plătitorilor, potrivit art. 92 alin. (1) din Codul de procedură fiscală (Anexa nr. 1) (anexa nr. 1 la Ordinul ANAF nr. 3846/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174707",
+   "versions": [
+    {
+     "from": "2016-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174707",
+     "sha256": "a4a8d88965513c3fbccc86a93c3922175448d363ad3bf3cafd0edfc8227737f0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-467-2015-anexa-1",
+   "path": "anexa/ordin-anaf-467-2015/anexa-1",
+   "short": "Anexa nr. 1 la Ordin anaf nr. 467/2015",
+   "title": "Procedură din 17 februarie 2015 de administrare și monitorizare a marilor contribuabili (anexa nr. 1 la Ordinul ANAF nr. 467/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165907",
+   "versions": [
+    {
+     "from": "2015-02-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165907",
+     "sha256": "c2f1a7b10a3b8cd9e2a6c3fc1003e05ced3c293d173293f3c70faf1b6885e339"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-513-2015-anexa",
+   "path": "anexa/ordin-anaf-513-2015/anexa",
+   "short": "Anexa la Ordin anaf nr. 513/2015",
+   "title": "Procedură din 22 iulie 2015 privind structura informațiilor și periodicitatea transmiterii între Agenția Națională de Administrare Fiscală și Casa Națională de Asigurări de Sănătate a informațiilor privind lista persoanelor fizice înregistrate în Registrul unic de evidență al asiguraților din Platforma informatică din asigurările de sănătate (anexa la Ordinul ANAF nr. 513/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170724",
+   "versions": [
+    {
+     "from": "2015-08-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170724",
+     "sha256": "381575911bdd8dee54d627c2c70c8b4123b5677e1a9ee657a27a10f8070a6036"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-614-2015-anexa",
+   "path": "anexa/ordin-anaf-614-2015/anexa",
+   "short": "Anexa la Ordin anaf nr. 614/2015",
+   "title": "Instrucțiuni din 4 martie 2015 de utilizare a formularelor declarației vamale de import/export în cazul aplicării procedurii alternative (anexa la Ordinul ANAF nr. 614/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166164",
+   "versions": [
+    {
+     "from": "2015-03-21",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166164",
+     "sha256": "200a6adad27e2c4f4182f9822ab862c1465af9671f414dd4fd3224f1bf0a4476"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-654-2015-anexa",
+   "path": "anexa/ordin-anaf-654-2015/anexa",
+   "short": "Anexa la Ordin anaf nr. 654/2015",
+   "title": "Norme metodologice din 11 martie 2015 de autorizare a exportatorilor în vederea emiterii în procedură simplificată a dovezilor de origine preferențială în cadrul acordurilor care reglementează comerțul preferențial dintre Uniunea Europeană și țările partenere, precum și a certificatelor A.TR. care atestă statutul de marfă în liberă circulație în cadrul Uniunii vamale UE-Turcia (anexa la Ordinul ANAF nr. 654/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166890",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166890",
+     "sha256": "dfbe48283039d832d270934d4a00ff3b7db1785c769ac522aaf222b311d5d7ba"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-994-2015-anexa",
+   "path": "anexa/ordin-anaf-994-2015/anexa",
+   "short": "Anexa la Ordin anaf nr. 994/2015",
+   "title": "Procedură din 21 octombrie 2015 privind structura informațiilor și periodicitatea transmiterii între Agenția Națională de Administrare Fiscală și Casa Națională de Asigurări de Sănătate a informațiilor privind lista persoanelor fizice înregistrate în Registrul unic de evidență al asiguraților din Platforma informatică din asigurările de sănătate, în vederea anulării contribuției de asigurări sociale de sănătate datorate de către persoanele fizice exceptate de la plata contribuției de asigurări sociale de sănătate începând cu data de 1 ianuarie 2012 și până la data intrării în vigoare a prevederilor art. I pct. 17 și 18 din Ordonanța Guvernului nr. 4/2015 pentru modificarea Legii nr. 571/2003 privind Codul fiscal (anexa la Ordinul ANAF nr. 994/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172891",
+   "versions": [
+    {
+     "from": "2015-11-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172891",
+     "sha256": "af0b1799d0e752e5a53233762d9802832f9664c8e29802fe93bf2d6bfd1753ac"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anrsc-82-2015-anexa",
+   "path": "anexa/ordin-anrsc-82-2015/anexa",
+   "short": "Anexa la Ordin anrsc nr. 82/2015",
+   "title": "Regulament-cadru din 9 martie 2015 al serviciului de salubrizare a localităților (anexa la Ordinul ANRSC nr. 82/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166586",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 131,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166586",
+     "sha256": "9ee0217a9c8e5361e920e29455fefa57ae789e5740f30a3c52270c34443073db"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-ansvsa-106-2015-anexa",
+   "path": "anexa/ordin-ansvsa-106-2015/anexa",
+   "short": "Anexa la Ordin ansvsa nr. 106/2015",
+   "title": "Procedură din 22 septembrie 2015 privind decontarea acțiunilor sanitar-veterinare cuprinse în Programul acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului, de identificare și înregistrare a bovinelor, suinelor, ovinelor, caprinelor și ecvideelor (anexa la Ordinul ANSVSA nr. 106/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172060",
+   "versions": [
+    {
+     "from": "2015-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172060",
+     "sha256": "7e8084ec6420e330ef89dc446279befb78b835c467c7d11c9a56514209525e9d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-ansvsa-54-2015-anexa",
+   "path": "anexa/ordin-ansvsa-54-2015/anexa",
+   "short": "Anexa la Ordin ansvsa nr. 54/2015",
+   "title": "Normă din 19 mai 2015 privind ecocondiționalitatea în cadrul schemelor și măsurilor de sprijin pentru fermieri în România [în temeiul art. 93 și 94, respectiv anexa II din Regulamentul (UE) nr. 1.306/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 privind finanțarea, gestionarea și monitorizarea politicii agricole comune și de abrogare a Regulamentelor (CEE) nr. 352/78, (CE) nr. 165/94, (CE) nr. 2.799/98, (CE) nr. 814/2000, (CE) nr. 1.290/2005 și (CE) nr. 485/2008 ale Consiliului (anexa la Ordinul ANSVSA nr. 54/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168316",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168316",
+     "sha256": "dc4cb894d6746b79a2a5a59334eba1629cfcd3eafc023077b270a5dc8d8d4d30"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-ansvsa-97-2015-anexa-1",
+   "path": "anexa/ordin-ansvsa-97-2015/anexa-1",
+   "short": "Anexa nr. 1 la Ordin ansvsa nr. 97/2015",
+   "title": "Normă sanitară veterinară din 1 septembrie 2015 privind procedura de autorizare sanitară veterinară a unităților utilizatoare, crescătoare și furnizoare de animale utilizate în scopuri științifice (Anexa nr. 1) (anexa nr. 1 la Ordinul ANSVSA nr. 97/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171574",
+   "versions": [
+    {
+     "from": "2015-09-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171574",
+     "sha256": "15a6b57909bb740aef55bf3e7e5d253e0f7c727fc68d751862362fec1305377e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-ansvsa-97-2015-anexa-2",
+   "path": "anexa/ordin-ansvsa-97-2015/anexa-2",
+   "short": "Anexa nr. 2 la Ordin ansvsa nr. 97/2015",
+   "title": "Normă sanitară veterinară din 1 septembrie 2015 privind procedura de autorizare sanitară veterinară a proiectelor care implică utilizarea animalelor în proceduri (Anexa nr. 2) (anexa nr. 2 la Ordinul ANSVSA nr. 97/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171575",
+   "versions": [
+    {
+     "from": "2015-09-25",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171575",
+     "sha256": "5411cc107c66b7d68b2b45a0e4a0639e369821d4ded5f475332ba6682a10869d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-ansvsa-98-2015-anexa",
+   "path": "anexa/ordin-ansvsa-98-2015/anexa",
+   "short": "Anexa la Ordin ansvsa nr. 98/2015",
+   "title": "Normă sanitară veterinară din 2 septembrie 2015 privind condițiile sanitar-veterinare pentru introducerea pe teritoriul României a animalelor de companie provenite din țări terțe în scopul circulației necomerciale și procedura de control sanitar-veterinar al acestor animale la punctele de intrare a călătorilor (anexa la Ordinul ANSVSA nr. 98/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171981",
+   "versions": [
+    {
+     "from": "2015-10-12",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171981",
+     "sha256": "60159b3d51684ad9f1bead606df6c2cb48639b95aadbac4b4ae0dbcc913d1852"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-123-2015-anexa",
+   "path": "anexa/ordin-aparare-123-2015/anexa",
+   "short": "Anexa la Ordin aparare nr. 123/2015",
+   "title": "Norme metodologice din 23 decembrie 2015 privind încadrarea în condiții deosebite, condiții speciale și alte condiții, specifice personalului militar (anexa la Ordinul APARARE nr. 123/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174494",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174494",
+     "sha256": "bf192aee071e7e7fe4065d7920f757a95388952a7d0d3683b59eb4366214967c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-68-2015-anexa-1",
+   "path": "anexa/ordin-aparare-68-2015/anexa-1",
+   "short": "Anexa nr. 1 la Ordin aparare nr. 68/2015",
+   "title": "Norme din 14 iulie 2015 privind ocuparea prin concurs ori examen a unui post vacant sau temporar vacant de personal civil contractual în Ministerul Apărării Naționale (anexa nr. 1 la Ordinul APARARE nr. 68/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170021",
+   "versions": [
+    {
+     "from": "2015-07-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170021",
+     "sha256": "907916ffd34d36e9615e40f462bd3faa9793d6d89b2ff57383de91eb8e033380"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-68-2015-anexa-2",
+   "path": "anexa/ordin-aparare-68-2015/anexa-2",
+   "short": "Anexa nr. 2 la Ordin aparare nr. 68/2015",
+   "title": "Procedură din 14 iulie 2015 de organizare și desfășurare a examenului de promovare a personalului civil contractual în grade ori trepte profesionale imediat superioare sau într-o funcție cu un nivel de studii superior în Ministerul Apărării Naționale (anexa nr. 2 la Ordinul APARARE nr. 68/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170022",
+   "versions": [
+    {
+     "from": "2015-07-24",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170022",
+     "sha256": "016b637634d1655e170183c8cc69919eeef856671dbdf17bb2c9cb0ff458eb3f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-69-2015-anexa",
+   "path": "anexa/ordin-aparare-69-2015/anexa",
+   "short": "Anexa la Ordin aparare nr. 69/2015",
+   "title": "Norme din 28 iulie 2015 privind organizarea și funcționarea sistemului de ierarhizare și selecție în vederea evoluției în carieră a cadrelor militare (anexa la Ordinul APARARE nr. 69/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170397",
+   "versions": [
+    {
+     "from": "2015-08-07",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170397",
+     "sha256": "8e4721ecbe5e2eb2d5e350161508d7772dbf67c060694b0a908cb9134f583fb0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-82-2015-anexa",
+   "path": "anexa/ordin-aparare-82-2015/anexa",
+   "short": "Anexa la Ordin aparare nr. 82/2015",
+   "title": "Instrucțiuni din 24 august 2015 privind modalitățile tehnice de întocmire și transmitere a documentelor și datelor necesare stabilirii drepturilor de pensie (anexa la Ordinul APARARE nr. 82/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171090",
+   "versions": [
+    {
+     "from": "2015-09-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171090",
+     "sha256": "41525129cc59fd65266c27fe71680bc44eb36fc41226790b7fef6a1e7e6d7e04"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cnas-208-2015-anexa",
+   "path": "anexa/ordin-cnas-208-2015/anexa",
+   "short": "Anexa la Ordin cnas nr. 208/2015",
+   "title": "Metodologie din 9 aprilie 2015 de evaluare a cazurilor neconfirmate din punct de vedere al datelor clinice și medicale pentru care se solicită reconfirmarea (anexa la Ordinul CNAS nr. 208/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167511",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167511",
+     "sha256": "743326d9d72740962d79563d6633563122428b67f09120416bcd63ae436baa10"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cnas-280-2015-anexa-2",
+   "path": "anexa/ordin-cnas-280-2015/anexa-2",
+   "short": "Anexa nr. 2 la Ordin cnas nr. 280/2015",
+   "title": "Regulament din 6 mai 2015 de organizare și funcționare a Comisiei de experți pentru afecțiuni hepatice (anexa nr. 2 la Ordinul CNAS nr. 280/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167786",
+   "versions": [
+    {
+     "from": "2015-05-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167786",
+     "sha256": "25596fc63e73aa1ba13aaaeb9b244037a4f2aa0986d55cd12202f96559338cb1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cnas-507-2015-anexa",
+   "path": "anexa/ordin-cnas-507-2015/anexa",
+   "short": "Anexa la Ordin cnas nr. 507/2015",
+   "title": "Norme din 20 iulie 2015 privind condițiile și modalitatea de decontare a serviciilor de dializă, contractate de casele de asigurări de sănătate cu furnizorii de servicii de dializă, autorizați și evaluați în condițiile legii (anexa la Ordinul CNAS nr. 507/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170995",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170995",
+     "sha256": "c33f728f123757fbb5e5984b05f4ddd12c5dedd77a82ef9d636b431837c868bb"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cnas-799-2015-anexa",
+   "path": "anexa/ordin-cnas-799-2015/anexa",
+   "short": "Anexa la Ordin cnas nr. 799/2015",
+   "title": "Metodologie din 7 septembrie 2015 privind organizarea concursului pentru ocuparea postului de director general al Casei Naționale de Asigurări de Sănătate și a posturilor de președinți-directori generali ai caselor de asigurări de sănătate, în vederea îndeplinirii indicatorilor de performanță generali și specifici, încheierea contractelor de management și evaluarea activității acestora (anexa la Ordinul CNAS nr. 799/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171650",
+   "versions": [
+    {
+     "from": "2015-09-29",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171650",
+     "sha256": "8c03a66c3d22465653478223676a22815c47bf941768e60505bd52cd126089e7"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dezvoltare-480-2015-anexa",
+   "path": "anexa/ordin-dezvoltare-480-2015/anexa",
+   "short": "Anexa la Ordin dezvoltare nr. 480/2015",
+   "title": "Norme tehnice din 11 august 2015 de completare a registrului agricol pentru perioada 2015-2019 (anexa la Ordinul DEZVOLTARE nr. 480/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171150",
+   "versions": [
+    {
+     "from": "2015-09-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171150",
+     "sha256": "c6f44655b0f9165c19a1f4dc98f103794cbeb6d9fe6d892894a7f6312c82e290"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dezvoltare-844-2015-anexa",
+   "path": "anexa/ordin-dezvoltare-844-2015/anexa",
+   "short": "Anexa la Ordin dezvoltare nr. 844/2015",
+   "title": "Procedură din 29 aprilie 2015 privind exercitarea unitară a controlului de stat pentru supravegherea pieței produselor pentru construcții - PC 001 (anexa la Ordinul DEZVOLTARE nr. 844/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168025",
+   "versions": [
+    {
+     "from": "2015-05-18",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168025",
+     "sha256": "7c36dc3db0abbe0733b62644570070428edab7e1ad54db6858822f648b2a06a7"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-1083-2015-anexa",
+   "path": "anexa/ordin-economie-1083-2015/anexa",
+   "short": "Anexa la Ordin economie nr. 1083/2015",
+   "title": "Procedură din 8 septembrie 2015 de implementare a schemei transparente de ajutor de minimis prevăzute în cadrul Programului național multianual pentru susținerea meșteșugurilor și artizanatului (anexa la Ordinul ECONOMIE nr. 1083/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171467",
+   "versions": [
+    {
+     "from": "2015-09-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171467",
+     "sha256": "1d53625c2de235195e67403486fbae2b82b38f07cf6ed17ec9882ba3dc56e1c0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-753-2015-anexa",
+   "path": "anexa/ordin-economie-753-2015/anexa",
+   "short": "Anexa la Ordin economie nr. 753/2015",
+   "title": "Procedură din 27 mai 2015 de acordare a avizului tehnic de specialitate pe planul de afaceri al investitorilor străini, în vederea obținerii vizei de lungă ședere în România pentru desfășurarea de activități comerciale (anexa la Ordinul ECONOMIE nr. 753/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170195",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170195",
+     "sha256": "838571218fcce8d40d56d879a4cdbd53405c5cbc7a206b404fe9304f888ff297"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3165-2015-anexa",
+   "path": "anexa/ordin-educatie-3165-2015/anexa",
+   "short": "Anexa la Ordin educatie nr. 3165/2015",
+   "title": "Metodologia-cadru din 4 februarie 2015 privind organizarea admiterii în ciclurile de studii universitare de licență, de master și de doctorat pentru anul universitar 2015-2016 (anexa la Ordinul EDUCATIE nr. 3165/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165841",
+   "versions": [
+    {
+     "from": "2015-02-19",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165841",
+     "sha256": "49a66aa7999b2e5797ea80a87aeeed8c1256f99acb38bdd57a8b28a705400c86"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3171-2015-anexa-2",
+   "path": "anexa/ordin-educatie-3171-2015/anexa-2",
+   "short": "Anexa nr. 2 la Ordin educatie nr. 3171/2015",
+   "title": "Metodologie din 5 februarie 2015 de înscriere a copiilor în învățământul primar pentru anul școlar 2015-2016 (anexa nr. 2 la Ordinul EDUCATIE nr. 3171/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165539",
+   "versions": [
+    {
+     "from": "2015-02-09",
+     "units": 62,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165539",
+     "sha256": "7ebc7c66a5b04cb48704599d5444d1737b2d0984b1ab3cf43f9d036db4169505"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3179-2015-anexa",
+   "path": "anexa/ordin-educatie-3179-2015/anexa",
+   "short": "Anexa la Ordin educatie nr. 3179/2015",
+   "title": "Metodologie-cadru din 5 februarie 2015 de organizare și desfășurare a examenelor de licență/diplomă și disertație (anexa la Ordinul EDUCATIE nr. 3179/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165933",
+   "versions": [
+    {
+     "from": "2015-02-24",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165933",
+     "sha256": "5e48ea46efbea33093d4dbfa29f1a50c228643766ff1cec43266ed1c73845e88"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3185-2015-anexa",
+   "path": "anexa/ordin-educatie-3185-2015/anexa",
+   "short": "Anexa la Ordin educatie nr. 3185/2015",
+   "title": "Metodologie din 9 februarie 2015 de alocare a fondurilor bugetare pentru finanțarea de bază și finanțarea suplimentară a instituțiilor de învățământ superior de stat din România, pentru anul 2015 (anexa la Ordinul EDUCATIE nr. 3185/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165646",
+   "versions": [
+    {
+     "from": "2015-02-11",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165646",
+     "sha256": "1a2eda3ff33fdd998fc93e68496f88ce289e7a2cc11c240b7bbdc5154bf6a2b5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3191-2015-anexa-1",
+   "path": "anexa/ordin-educatie-3191-2015/anexa-1",
+   "short": "Anexa nr. 1 la Ordin educatie nr. 3191/2015",
+   "title": "Metodologie din 9 februarie 2015 privind recunoașterea automată a calității de conducător de doctorat, în România, pentru persoanele care au obținut această calitate în una dintre țările Uniunii Europene, ale Spațiului Economic European și în Confederația Elvețiană și în universități de prestigiu ale lumii (anexa nr. 1 la Ordinul EDUCATIE nr. 3191/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165788",
+   "versions": [
+    {
+     "from": "2015-02-18",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165788",
+     "sha256": "e27b39348bbc68140d97edf3d81890f1a5f457fbf1e196153b41c7187e7d41bb"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3678-2015-anexa",
+   "path": "anexa/ordin-educatie-3678-2015/anexa",
+   "short": "Anexa la Ordin educatie nr. 3678/2015",
+   "title": "Metodologie din 8 aprilie 2015 de întocmire, completare și valorificare a raportului de evaluare la finalul clasei pregătitoare (anexa la Ordinul EDUCATIE nr. 3678/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167185",
+   "versions": [
+    {
+     "from": "2015-04-15",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167185",
+     "sha256": "9695b668650344ea56feeee2b81d6c70725c53c1919d16e0755d0ef46dc1576e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3751-2015-anexa",
+   "path": "anexa/ordin-educatie-3751-2015/anexa",
+   "short": "Anexa la Ordin educatie nr. 3751/2015",
+   "title": "Metodologia-cadru din 29 aprilie 2015 referitoare la procesul de constituire și de alegere a structurilor și funcțiilor de conducere la nivelul instituțiilor din sistemul național de învățământ superior (anexa la Ordinul EDUCATIE nr. 3751/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168049",
+   "versions": [
+    {
+     "from": "2015-05-18",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168049",
+     "sha256": "434c5a217f8a7ea49e8eecec400951bd1c1c88fc19565871f4c92e10db614d98"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3782-2015-anexa",
+   "path": "anexa/ordin-educatie-3782-2015/anexa",
+   "short": "Anexa la Ordin educatie nr. 3782/2015",
+   "title": "Metodologie din 6 mai 2015 de primire la studii și școlarizare a cetățenilor străini din state terțe UE în unitățile de învățământ preuniversitar/instituțiile de învățământ superior acreditate/autorizate provizoriu, în anul școlar/universitar 2015-2016 (anexa la Ordinul EDUCATIE nr. 3782/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168597",
+   "versions": [
+    {
+     "from": "2015-06-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168597",
+     "sha256": "2d41b91fbb4ac81da89dd05516432117d5db9803c62618de2b486b380f44b4a6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3888-2015-anexa",
+   "path": "anexa/ordin-educatie-3888-2015/anexa",
+   "short": "Anexa la Ordin educatie nr. 3888/2015",
+   "title": "Metodologie din 26 mai 2015 de alocare a fondurilor bugetare pentru finanțarea de bază și finanțarea suplimentară a instituțiilor de învățământ superior de stat din România, pentru anul 2015 (anexa la Ordinul EDUCATIE nr. 3888/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169006",
+   "versions": [
+    {
+     "from": "2015-06-22",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169006",
+     "sha256": "c99f9971b1339d97ad60ab3b919e9d5571860262e5e0ff78f4e46b701f53077e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3889-2015-anexa",
+   "path": "anexa/ordin-educatie-3889-2015/anexa",
+   "short": "Anexa la Ordin educatie nr. 3889/2015",
+   "title": "Metodologie din 26 mai 2015 de alocare a fondurilor bugetare pentru finanțarea de bază și finanțarea suplimentară a instituțiilor de învățământ superior de stat din România, pentru pilotare în anul 2015 (anexa la Ordinul EDUCATIE nr. 3889/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169157",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169157",
+     "sha256": "8958638894a14d37edc901e1859d6b013a25b1ab30ed89135f3655b07c9d2d1b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4342-2015-anexa",
+   "path": "anexa/ordin-educatie-4342-2015/anexa",
+   "short": "Anexa la Ordin educatie nr. 4342/2015",
+   "title": "Metodologie-cadru din 25 iunie 2015 privind organizarea și funcționarea învățământului terțiar nonuniversitar, organizat la nivelul colegiilor din cadrul instituțiilor de învățământ superior acreditate (anexa la Ordinul EDUCATIE nr. 4342/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169831",
+   "versions": [
+    {
+     "from": "2015-07-17",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169831",
+     "sha256": "9b9848b2c3fdf177ad56684654702de4e5487379d88d6977e29f3da1c639a9a9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4716-2015-anexa-1",
+   "path": "anexa/ordin-educatie-4716-2015/anexa-1",
+   "short": "Anexa nr. 1 la Ordin educatie nr. 4716/2015",
+   "title": "Metodologie din 11 august 2015 de evaluare a inspectorilor școlari (anexa nr. 1 la Ordinul EDUCATIE nr. 4716/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170949",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170949",
+     "sha256": "07ec949b77b2a4b141391b2cd208f3e2050d7a2e64a3a0316cc24d14d97485f4"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5268-2015-anexa-1",
+   "path": "anexa/ordin-educatie-5268-2015/anexa-1",
+   "short": "Anexa nr. 1 la Ordin educatie nr. 5268/2015",
+   "title": "Metodologie din 21 septembrie 2015 privind echivalarea de către inspectoratele școlare județene și Inspectoratul Școlar al Municipiului București a perioadelor de studii efectuate în străinătate și la organizațiile furnizoare de educație, care organizează și desfășoară pe teritoriul României activități de învățământ corespunzătoare unui sistem educațional din altă țară, înscrise în Registrul special al Agenției Române de Asigurare a Calității în Învățământul Preuniversitar (anexa nr. 1 la Ordinul EDUCATIE nr. 5268/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171702",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171702",
+     "sha256": "f7ad28a8708d2c71f4c7a2c3c5fe651d327735ed0bfc3b82740cad0186998ce5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5414-2015-anexa",
+   "path": "anexa/ordin-educatie-5414-2015/anexa",
+   "short": "Anexa la Ordin educatie nr. 5414/2015",
+   "title": "Metodologie din 5 octombrie 2015 pentru desfășurarea concursului de rezidențiat pe loc și pe post în medicină, medicină dentară și farmacie, sesiunea 15 noiembrie 2015 (anexa la Ordinul EDUCATIE nr. 5414/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171895",
+   "versions": [
+    {
+     "from": "2015-10-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171895",
+     "sha256": "c186b64e793b40a7d1437a57814aa88c6d97839dda7d08f34e8dac70a54f630f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5557-2015-anexa",
+   "path": "anexa/ordin-educatie-5557-2015/anexa",
+   "short": "Anexa la Ordin educatie nr. 5557/2015",
+   "title": "Metodologia și criteriile din 27 noiembrie 2015 privind acordarea gradației de merit personalului didactic din învățământul preuniversitar de stat, sesiunea 2016 (anexa la Ordinul EDUCATIE nr. 5557/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173519",
+   "versions": [
+    {
+     "from": "2015-12-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173519",
+     "sha256": "ff820a6d0f4e8a5a512829878df861245ae2344ccdb360d6c93f4a529d00474f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1417-2015-anexa",
+   "path": "anexa/ordin-finante-1417-2015/anexa",
+   "short": "Anexa la Ordin finante nr. 1417/2015",
+   "title": "Normă din 30 octombrie 2015 privind mecanismul de acordare și derulare a împrumuturilor acordate unităților administrativ-teritoriale conform art. IV alin. (1) lit. a) din Ordonanța de urgență a Guvernului nr. 46/2015 pentru stabilirea unor măsuri financiare și pentru modificarea și completarea unor acte normative, documentele în baza cărora se acordă împrumutul și cele care stau la baza obținerii avizului Comisiei de autorizare a împrumuturilor locale, precum și modul de reflectare a sumelor respective în bugetele instituțiilor publice locale (anexa la Ordinul FINANTE nr. 1417/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172559",
+   "versions": [
+    {
+     "from": "2015-11-02",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172559",
+     "sha256": "a16326b809310b17f64fefda3bc6b9d97c230def562f25f160eae21eb4574e49"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-197-2015-anexa",
+   "path": "anexa/ordin-finante-197-2015/anexa",
+   "short": "Anexa la Ordin finante nr. 197/2015",
+   "title": "Procedură din 23 februarie 2015 de anulare a impozitului pe venitul din activități agricole datorat potrivit art. 74 din Legea nr. 571/2003 privind Codul fiscal, cu modificările și completările ulterioare, pentru anul fiscal 2013, precum și a obligațiilor fiscale accesorii aferente acestuia (anexa la Ordinul FINANTE nr. 197/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165942",
+   "versions": [
+    {
+     "from": "2015-02-24",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165942",
+     "sha256": "9711feda5652671658430656f2c2d66a06fb8f68738572db76923fb2abff2566"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-3804-2015-anexa",
+   "path": "anexa/ordin-finante-3804-2015/anexa",
+   "short": "Anexa la Ordin finante nr. 3804/2015",
+   "title": "Norme metodologice din 10 noiembrie 2015 de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 23/2013 privind gestionarea financiară a fondurilor externe nerambursabile aferente Mecanismului financiar al Spațiului Economic European 2009-2014 și Mecanismului financiar norvegian 2009-2014 (anexa la Ordinul FINANTE nr. 3804/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173004",
+   "versions": [
+    {
+     "from": "2015-11-16",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173004",
+     "sha256": "eb478f4da9f77017f1d22c9044f1d2fb0053c26931cb1d67bfd6a307aea44bdc"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-3831-2015-anexa",
+   "path": "anexa/ordin-finante-3831-2015/anexa",
+   "short": "Anexa la Ordin finante nr. 3831/2015",
+   "title": "Procedură din 16 noiembrie 2015 de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 44/2015 privind acordarea unor facilități fiscale în cazul creanțelor administrate de către organul fiscal central (anexa la Ordinul FINANTE nr. 3831/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173251",
+   "versions": [
+    {
+     "from": "2015-11-23",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173251",
+     "sha256": "b6e71612792a9d5fcbe7ec2b4adff77e203c68ef41c94253faa3c3ee417d38a8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-4032-2015-anexa",
+   "path": "anexa/ordin-finante-4032-2015/anexa",
+   "short": "Anexa la Ordin finante nr. 4032/2015",
+   "title": "Procedură din 11 decembrie 2015 de încasare și de virare la bugetul de stat și bugetul Fondului național unic de asigurări sociale de sănătate a sumelor încasate în numerar reprezentând impozit și contribuții sociale aferente veniturilor din activități agricole, de către organele fiscale locale, precum și modul de colaborare și de realizare a schimbului de informații dintre organele fiscale centrale și organele fiscale locale (anexa la Ordinul FINANTE nr. 4032/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174412",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174412",
+     "sha256": "dd22e861aa4a6cf35887c515cce9817fcbe6e0a6a1ba5698b1b863f32f912a5e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-4075-2015-anexa",
+   "path": "anexa/ordin-finante-4075-2015/anexa",
+   "short": "Anexa la Ordin finante nr. 4075/2015",
+   "title": "Norme metodologice din 18 decembrie 2015 privind încheierea exercițiului bugetar al anului 2015 (anexa la Ordinul FINANTE nr. 4075/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174209",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174209",
+     "sha256": "ad82f50777bb4e69314f129f06edd56d2d1d890518d57229751039ccdd9cd64b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-4146-2015-anexa",
+   "path": "anexa/ordin-finante-4146-2015/anexa",
+   "short": "Anexa la Ordin finante nr. 4146/2015",
+   "title": "Norme din 30 decembrie 2015 privind aplicarea scutirii de taxă pe valoarea adăugată prevăzute la art. 294 alin. (1) lit. j), k), l), m) și n) din Legea nr. 227/2015 privind Codul fiscal și la art. X și XI din Acordul dintre România și Statele Unite ale Americii privind statutul forțelor Statelor Unite ale Americii în România, semnat la Washington la 30 octombrie 2001, ratificat prin Legea nr. 260/2002 (anexa la Ordinul FINANTE nr. 4146/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174891",
+   "versions": [
+    {
+     "from": "2016-01-18",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174891",
+     "sha256": "a2f12a20fa74ab3837c5e963e516ac7141c556bf484e5ffdc56cfa91d0a7d884"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-417-2015-anexa-1",
+   "path": "anexa/ordin-finante-417-2015/anexa-1",
+   "short": "Anexa nr. 1 la Ordin finante nr. 417/2015",
+   "title": "Instrucțiuni din 6 aprilie 2015 de punere în aplicare a Ordonanței Guvernului nr. 10/2015 pentru organizarea Loteriei bonurilor fiscale (anexa nr. 1 la Ordinul FINANTE nr. 417/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167069",
+   "versions": [
+    {
+     "from": "2015-04-08",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167069",
+     "sha256": "97c20f4855e96b3298c474e731f8e15b4a650efee9f7f3acf74a4f4e674bbb81"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-417-2015-anexa-2",
+   "path": "anexa/ordin-finante-417-2015/anexa-2",
+   "short": "Anexa nr. 2 la Ordin finante nr. 417/2015",
+   "title": "Regulament din 6 aprilie 2015 de organizare și desfășurare a extragerilor Loteriei bonurilor fiscale (anexa nr. 2 la Ordinul FINANTE nr. 417/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167070",
+   "versions": [
+    {
+     "from": "2015-04-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167070",
+     "sha256": "0fd37eadcaa8f1dd8f8917c1e9db8ac7a56fb52dabfda9d6977f2cfe95062dab"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-465-2015-anexa-1",
+   "path": "anexa/ordin-finante-465-2015/anexa-1",
+   "short": "Anexa nr. 1 la Ordin finante nr. 465/2015",
+   "title": "Norme metodologice din 15 aprilie 2015 privind întocmirea și depunerea situațiilor financiare trimestriale ale instituțiilor publice, precum și a unor raportări financiare lunare în anul 2015 (anexa nr. 1 la Ordinul FINANTE nr. 465/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167274",
+   "versions": [
+    {
+     "from": "2015-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167274",
+     "sha256": "81eade073dc8af5461daf24c0bad8ab9bf2aa900c8afae524cd3b85a72c5a7cb"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-542-2015-anexa",
+   "path": "anexa/ordin-finante-542-2015/anexa",
+   "short": "Anexa la Ordin finante nr. 542/2015",
+   "title": "Procedură din 8 mai 2015 de predare-primire a titlurilor executorii în care sunt individualizate creanțele reprezentând comisionul datorat de angajatori inspectoratelor teritoriale de muncă și a documentelor privind măsurile de executare silită întreprinse de inspectoratele teritoriale de muncă (anexa la Ordinul FINANTE nr. 542/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168882",
+   "versions": [
+    {
+     "from": "2015-06-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168882",
+     "sha256": "ef0b996c9ae0f6c0b55f94dfd0f44788e96658d7023ec2b49045432af5986d96"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-fonduri-1971-2015-anexa",
+   "path": "anexa/ordin-fonduri-1971-2015/anexa",
+   "short": "Anexa la Ordin fonduri nr. 1971/2015",
+   "title": "Ghidul solicitantului din 20 mai 2015 condiții specifice pentru cererea de propuneri de proiecte de tip strategic nr. 190 \"Educația șanselor tale pentru un viitor profesional mai bun\", axa prioritară 1 \"Educația și formarea profesională în sprijinul creșterii economice și dezvoltării societății bazate pe cunoaștere\", domeniul major de intervenție 1.1 \"Acces la educație și formare profesională inițială de calitate\" (anexa la Ordinul FONDURI nr. 1971/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168354",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168354",
+     "sha256": "66a7a49c84796fcdc998bea112b1220cb7ecee8b91df3a99d8626c6afbb881af"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-igsu-159-2015-anexa",
+   "path": "anexa/ordin-igsu-159-2015/anexa",
+   "short": "Anexa la Ordin igsu nr. 159/2015",
+   "title": "Procedură din 29 iulie 2015 de efectuare a auditului de supraveghere a persoanelor autorizate pentru efectuarea lucrărilor în domeniul apărării împotriva incendiilor (anexa la Ordinul IGSU nr. 159/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170416",
+   "versions": [
+    {
+     "from": "2015-08-10",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170416",
+     "sha256": "7d61e8239e3dfb0c6c5ba934e86f3a6de819aabb4c2a1a53644926e5bda23a67"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-ins-3727-2015-anexa",
+   "path": "anexa/ordin-ins-3727-2015/anexa",
+   "short": "Anexa la Ordin ins nr. 3727/2015",
+   "title": "Norme tehnice din 25 iunie 2015 de completare a registrului agricol pentru perioada 2015-2019 (anexa la Ordinul INS nr. 3727/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171152",
+   "versions": [
+    {
+     "from": "2015-09-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171152",
+     "sha256": "10f7e63cfa0ca2670c27cd7dc6c98d1821685eda605fa587b5a1d34628fb16ef"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-15-2015-anexa",
+   "path": "anexa/ordin-interne-15-2015/anexa",
+   "short": "Anexa la Ordin interne nr. 15/2015",
+   "title": "Regulament din 18 februarie 2015 de organizare și funcționare a Direcției informare și relații publice (anexa la Ordinul INTERNE nr. 15/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165801",
+   "versions": [
+    {
+     "from": "2015-02-19",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165801",
+     "sha256": "89d0c51f9b1dd8e73db6dff943424db07f6484c62508cae7e5b61796ccf644b2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-158-2015-anexa",
+   "path": "anexa/ordin-interne-158-2015/anexa",
+   "short": "Anexa la Ordin interne nr. 158/2015",
+   "title": "Procedură din 26 noiembrie 2015 de notificare a infracțiunilor săvârșite de către un membru al forțelor armate străine pe teritoriul României (anexa la Ordinul INTERNE nr. 158/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175263",
+   "versions": [
+    {
+     "from": "2016-01-25",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175263",
+     "sha256": "982429602e22651a15fa05953d23c65167e324f663637eedb4460925ef14bd91"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-161-2015-anexa",
+   "path": "anexa/ordin-interne-161-2015/anexa",
+   "short": "Anexa la Ordin interne nr. 161/2015",
+   "title": "Regulament de funcționare din 23 decembrie 2015 a Comisiei Naționale de Drept Internațional Umanitar (anexa la Ordinul INTERNE nr. 161/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178420",
+   "versions": [
+    {
+     "from": "2016-05-13",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178420",
+     "sha256": "357a3fafb4297649a49b2a92b3ad2eef5815b38155f9b1b495776da7710f0af5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-24-2015-anexa",
+   "path": "anexa/ordin-interne-24-2015/anexa",
+   "short": "Anexa la Ordin interne nr. 24/2015",
+   "title": "Metodologie din 17 martie 2015 de organizare și desfășurare a examenului de absolvire a învățământului postliceal din Ministerul Afacerilor Interne (anexa la Ordinul INTERNE nr. 24/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166549",
+   "versions": [
+    {
+     "from": "2015-03-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166549",
+     "sha256": "7c3fca1b1bca69aa86c9a93fa2c2eee890cbe45a0aa9164415695666aea8252e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-49-2015-anexa",
+   "path": "anexa/ordin-interne-49-2015/anexa",
+   "short": "Anexa la Ordin interne nr. 49/2015",
+   "title": "Regulament din 19 mai 2015 de organizare și funcționare a Clubului Sportiv DINAMO București (anexa la Ordinul INTERNE nr. 49/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168371",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168371",
+     "sha256": "523d31e6cd32601bc965e421a9136051c8807bdb03119268140cde77bd01e6d9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-73-2015-anexa",
+   "path": "anexa/ordin-interne-73-2015/anexa",
+   "short": "Anexa la Ordin interne nr. 73/2015",
+   "title": "Regulament din 9 iulie 2015 de organizare și funcționare a Direcției generale logistice (anexa la Ordinul INTERNE nr. 73/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170170",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170170",
+     "sha256": "97e553b7cb4802225c42cba3b03204988ed02a6344da590ec5ce7269040258a9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-81-2015-anexa",
+   "path": "anexa/ordin-interne-81-2015/anexa",
+   "short": "Anexa la Ordin interne nr. 81/2015",
+   "title": "Norme proprii din 24 iulie 2015 de aplicare în anul 2015 a Hotărârii Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015, cu modificările și completările ulterioare, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul INTERNE nr. 81/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170483",
+   "versions": [
+    {
+     "from": "2015-08-11",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170483",
+     "sha256": "99394145e47039d950622fa54ebb8e672a0fffa164c8c7e3fe6fda7416d75d30"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-iscir-100-2015-anexa",
+   "path": "anexa/ordin-iscir-100-2015/anexa",
+   "short": "Anexa la Ordin iscir nr. 100/2015",
+   "title": "Regulament din 18 mai 2015 privind dobândirea calității de expert tehnic extrajudiciar în domeniul Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat (anexa la Ordinul ISCIR nr. 100/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168462",
+   "versions": [
+    {
+     "from": "2015-06-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168462",
+     "sha256": "f264bce5a93c78c9f5b982ef571ef742752e6475f1305aa8fa2f66fb9592e8a5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-justitie-1901-c-2015-anexa",
+   "path": "anexa/ordin-justitie-1901-c-2015/anexa",
+   "short": "Anexa la Ordin justitie nr. 1901/C/2015",
+   "title": "Regulament din 11 iunie 2015 de organizare și funcționare a Institutului Național de Expertize Criminalistice (anexa la Ordinul JUSTITIE nr. 1901/C/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169097",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169097",
+     "sha256": "0d7a6c3d9ea661404d2d98c970cd47d5148f4e09250a1b5f2ad85adb7785433d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-justitie-5-c-2015-anexa",
+   "path": "anexa/ordin-justitie-5-c-2015/anexa",
+   "short": "Anexa la Ordin justitie nr. 5/C/2015",
+   "title": "Norme din 7 ianuarie 2015 de aplicare a prevederilor art. 18 din Ordonanța de urgență a Guvernului nr. 103/2013 privind salarizarea personalului plătit din fonduri publice în anul 2014, precum și alte măsuri în domeniul cheltuielilor publice, pentru medicii rezidenți din sistemul administrației penitenciare (anexa la Ordinul JUSTITIE nr. 5/C/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165199",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165199",
+     "sha256": "8801457f62ebbc45242666605746b3636ecf6f1c4d3d20f8acec4cc6e23a1ed2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-justitie-820-c-2015-anexa",
+   "path": "anexa/ordin-justitie-820-c-2015/anexa",
+   "short": "Anexa la Ordin justitie nr. 820/C/2015",
+   "title": "Norme metodologice din 27 februarie 2015 privind acordarea majorării pentru lucrări de excepție sau misiuni speciale funcționarilor publici cu statut special și personalului civil din sistemul administrației penitenciare (anexa la Ordinul JUSTITIE nr. 820/C/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166337",
+   "versions": [
+    {
+     "from": "2015-03-12",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166337",
+     "sha256": "5b52a393d98d563f2e03ed1d105afd35c5e1c86630f1df584bb1866ae823ec0f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-1330-2015-anexa",
+   "path": "anexa/ordin-mediu-1330-2015/anexa",
+   "short": "Anexa la Ordin mediu nr. 1330/2015",
+   "title": "Regulament din 1 septembrie 2015 privind organizarea, funcționarea și componența Comisiei de atestare a operatorilor economici pentru activitatea de exploatare forestieră, precum și criteriile de atestare pentru activitatea de exploatare forestieră (anexa la Ordinul MEDIU nr. 1330/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171316",
+   "versions": [
+    {
+     "from": "2015-10-14",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171316",
+     "sha256": "4348449b9f025ba91fcb8303456fc33a3949ae8f68fb2a455914ee0e25a0458f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-1558-2015-anexa",
+   "path": "anexa/ordin-mediu-1558-2015/anexa",
+   "short": "Anexa la Ordin mediu nr. 1558/2015",
+   "title": "Ghid de finanțare din 6 octombrie 2015 a Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic (anexa la Ordinul MEDIU nr. 1558/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172002",
+   "versions": [
+    {
+     "from": "2015-10-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172002",
+     "sha256": "eebcbb1f9bc9a0f3fb4e361506cbcabc45eeb727d4ca13d1e7e2208d9f2c82de"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-1763-2015-anexa",
+   "path": "anexa/ordin-mediu-1763-2015/anexa",
+   "short": "Anexa la Ordin mediu nr. 1763/2015",
+   "title": "Regulament din 13 noiembrie 2015 privind atestarea persoanelor juridice care realizează lucrări de regenerare și întreținere a semințișurilor și plantațiilor, lucrări de îngrijire a arboretelor, precum și atestarea persoanelor fizice și juridice care efectuează proiectarea și/sau execută lucrări de îmbunătățiri funciare în domeniul silvic (anexa la Ordinul MEDIU nr. 1763/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173427",
+   "versions": [
+    {
+     "from": "2015-11-27",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173427",
+     "sha256": "72243ad638ce0f0c4f547663f3bd400ed63cc0546d59b8f20f5d7a692712b723"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-609-2015-anexa",
+   "path": "anexa/ordin-mediu-609-2015/anexa",
+   "short": "Anexa la Ordin mediu nr. 609/2015",
+   "title": "Ghid de finanțare din 25 martie 2015 a Programului de stimulare a înnoirii Parcului auto național (anexa la Ordinul MEDIU nr. 609/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166801",
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166801",
+     "sha256": "cd35f841fcc8459e80fb723c3b2a8df75d24018e99bac28f99b1c771b8c29a5c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-819-2015-anexa",
+   "path": "anexa/ordin-mediu-819-2015/anexa",
+   "short": "Anexa la Ordin mediu nr. 819/2015",
+   "title": "Metodologie din 14 mai 2015 de exercitare a atribuțiilor de control prevăzute la art. 2 din Hotărârea Guvernului nr. 668/2011 privind desemnarea autorității competente pentru aplicarea Regulamentului (UE) nr. 995/2010 al Parlamentului European și al Consiliului din 20 octombrie 2010 de stabilire a obligațiilor care revin operatorilor care introduc pe piață lemn și produse din lemn (anexa la Ordinul MEDIU nr. 819/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168406",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168406",
+     "sha256": "e4bba0b5fcce8590a7ec531c468773c1eede0974341c017f5f245a411e1b0597"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-munca-103-2015-anexa",
+   "path": "anexa/ordin-munca-103-2015/anexa",
+   "short": "Anexa la Ordin munca nr. 103/2015",
+   "title": "Procedură din 29 ianuarie 2015 de efectuare a plății restituirilor prevăzute de Legea nr. 126/2014 pentru modificarea Ordonanței de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor, precum și pentru stabilirea unor măsuri în vederea recuperării debitelor înregistrate cu titlu de indemnizație pentru creșterea copilului și instrucțiunile de aplicare a prevederilor art. II-IV din Legea nr. 126/2014 pentru modificarea Ordonanței de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor, precum și pentru stabilirea unor măsuri în vederea recuperării debitelor înregistrate cu titlu de indemnizație pentru creșterea copilului (anexa la Ordinul MUNCA nr. 103/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165274",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165274",
+     "sha256": "d1224174ba0cc133aec06370b912425ecec45e440677472bd3f92f5d1fff9fc5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-munca-1343-2015-anexa",
+   "path": "anexa/ordin-munca-1343-2015/anexa",
+   "short": "Anexa la Ordin munca nr. 1343/2015",
+   "title": "Instrucțiuni de completare din 29 iunie 2015 a fișelor de autoevaluare pentru serviciile sociale din domeniul protecției victimelor violenței în familie (anexa la Ordinul MUNCA nr. 1343/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170002",
+   "versions": [
+    {
+     "from": "2015-07-23",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170002",
+     "sha256": "1edb26e89ca80adf615c902ff9facdb6f5cafd6211bb9390d3f264ea4f49e5bd"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-munca-830-2015-anexa",
+   "path": "anexa/ordin-munca-830-2015/anexa",
+   "short": "Anexa la Ordin munca nr. 830/2015",
+   "title": "Procedură din 7 aprilie 2015 de predare-primire a titlurilor executorii în care sunt individualizate creanțele reprezentând comisionul datorat de angajatori inspectoratelor teritoriale de muncă și a documentelor privind măsurile de executare silită întreprinse de inspectoratele teritoriale de muncă (anexa la Ordinul MUNCA nr. 830/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168877",
+   "versions": [
+    {
+     "from": "2015-06-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168877",
+     "sha256": "87454c8878777e49d48655afbd97e81f1af665c989b90f6ea7524034a87a76ad"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-onpcsb-81-2015-anexa",
+   "path": "anexa/ordin-onpcsb-81-2015/anexa",
+   "short": "Anexa la Ordin onpcsb nr. 81/2015",
+   "title": "Norme metodologice din 19 mai 2015 de efectuare a notificărilor și de soluționare a cererilor de autorizare a efectuării unor transferuri de fonduri (anexa la Ordinul ONPCSB nr. 81/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168507",
+   "versions": [
+    {
+     "from": "2015-06-04",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168507",
+     "sha256": "212ec62c38b3030858fbdeff9903874d359acdf83ec28987a52a25847bd5c8bd"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-10250-2015-anexa",
+   "path": "anexa/ordin-sanatate-10250-2015/anexa",
+   "short": "Anexa la Ordin sanatate nr. 10250/2015",
+   "title": "Norme proprii din 6 mai 2015 de aplicare în anul 2015 a Hotărârii Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015, cu modificările și completările ulterioare, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 10250/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170484",
+   "versions": [
+    {
+     "from": "2015-08-11",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170484",
+     "sha256": "03d619482e5b443dc6910b5f4f638b102b16fbe2a914bca320c86f3667c45850"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1171-2015-anexa",
+   "path": "anexa/ordin-sanatate-1171-2015/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1171/2015",
+   "title": "Ghid metodologic din 21 septembrie 2015 de implementare a programului național de prevenire, supraveghere și control al tuberculozei (anexa la Ordinul SANATATE nr. 1171/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188492",
+   "versions": [
+    {
+     "from": "2015-10-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188492",
+     "sha256": "855c9270e30cd73a92c11bf898a4492cd8b07dfae773f488d6f64b15d28e2fd3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1195-2015-anexa",
+   "path": "anexa/ordin-sanatate-1195-2015/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1195/2015",
+   "title": "Metodologie din 25 septembrie 2015 pentru desfășurarea concursului de rezidențiat pe loc și pe post în medicină, medicină dentară și farmacie, sesiunea 15 noiembrie 2015 (anexa la Ordinul SANATATE nr. 1195/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171887",
+   "versions": [
+    {
+     "from": "2015-10-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171887",
+     "sha256": "fa9e23ab2dfae8118627199c113444acecd5131e2a005f7b987d064b401fa83e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1498-2015-anexa",
+   "path": "anexa/ordin-sanatate-1498-2015/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1498/2015",
+   "title": "Regulament din 3 decembrie 2015 de organizare și funcționare a Comitetului interministerial pentru coordonarea politicilor și acțiunilor aferente produselor din tutun și produselor conexe (anexa la Ordinul SANATATE nr. 1498/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173773",
+   "versions": [
+    {
+     "from": "2015-12-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173773",
+     "sha256": "63d67a0192fd1265d33e3225a3a57d7e2f946ec08eabe6dfa038a1c7209cd6e0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-194-2015-anexa",
+   "path": "anexa/ordin-sanatate-194-2015/anexa",
+   "short": "Anexa la Ordin sanatate nr. 194/2015",
+   "title": "Norme din 23 februarie 2015 pentru evaluarea și avizarea publicității la medicamentele de uz uman (anexa la Ordinul SANATATE nr. 194/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166269",
+   "versions": [
+    {
+     "from": "2015-03-11",
+     "units": 78,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166269",
+     "sha256": "1263c16d32454a613cb783c745d4a2b528d5ad8ef2d30dce719184758c9a349d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-221-2015-anexa",
+   "path": "anexa/ordin-sanatate-221-2015/anexa",
+   "short": "Anexa la Ordin sanatate nr. 221/2015",
+   "title": "Norme proprii din 13 mai 2015 de aplicare în anul 2015 a Hotărârii Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015, cu modificările și completările ulterioare, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 221/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170485",
+   "versions": [
+    {
+     "from": "2015-08-11",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170485",
+     "sha256": "d93c1a5b23ac7be0e4993e8fcf890c46d8ecca8a01c6a9c8851b7e42ceba4add"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-309-2015-anexa",
+   "path": "anexa/ordin-sanatate-309-2015/anexa",
+   "short": "Anexa la Ordin sanatate nr. 309/2015",
+   "title": "Norme metodologice din 17 martie 2015 de aplicare a titlului XIX din Legea nr. 95/2006 privind reforma în domeniul sănătății, referitoare la avizarea activităților în domeniul dispozitivelor medicale (anexa la Ordinul SANATATE nr. 309/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166609",
+   "versions": [
+    {
+     "from": "2015-03-25",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166609",
+     "sha256": "dacafa1f63325147a7f53bd02899832a2890c7219a01552f10288bed5e22cbe0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-380-2015-anexa",
+   "path": "anexa/ordin-sanatate-380-2015/anexa",
+   "short": "Anexa la Ordin sanatate nr. 380/2015",
+   "title": "Regulament din 27 martie 2015 de organizare și funcționare al Sanatoriului Balnear și de Recuperare Mangalia (anexa la Ordinul SANATATE nr. 380/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167502",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 59,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167502",
+     "sha256": "482ec8cada59244bf815d1766ac2a93399418cf3d77a6d7a70cae2371ba84736"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-47-2015-anexa",
+   "path": "anexa/ordin-sanatate-47-2015/anexa",
+   "short": "Anexa la Ordin sanatate nr. 47/2015",
+   "title": "Norme proprii din 20 mai 2015 de aplicare în anul 2015 a Hotărârii Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015, cu modificările și completările ulterioare, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 47/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170486",
+   "versions": [
+    {
+     "from": "2015-08-11",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170486",
+     "sha256": "e55840c07feb6887653c312acbdbd913f8172f58401a2effc5089c4d3bbaab0e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-470-2015-anexa",
+   "path": "anexa/ordin-sanatate-470-2015/anexa",
+   "short": "Anexa la Ordin sanatate nr. 470/2015",
+   "title": "Norme proprii din 18 mai 2015 de aplicare în anul 2015 a Hotărârii Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015, cu modificările și completările ulterioare, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 470/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170488",
+   "versions": [
+    {
+     "from": "2015-08-11",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170488",
+     "sha256": "704f8e82b6c7d2756ddbefa7b6ee2deaeef7b1e01227738cd80d633f43917898"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-536-2015-anexa",
+   "path": "anexa/ordin-sanatate-536-2015/anexa",
+   "short": "Anexa la Ordin sanatate nr. 536/2015",
+   "title": "Norme proprii din 15 mai 2015 de aplicare în anul 2015 a Hotărârii Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015, cu modificările și completările ulterioare, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 536/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170489",
+   "versions": [
+    {
+     "from": "2015-08-11",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170489",
+     "sha256": "05d1d358e041766d4376a8e078443142984e288881d0b4cb8d4e8436a91ef3c6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-652-2015-anexa-1",
+   "path": "anexa/ordin-sanatate-652-2015/anexa-1",
+   "short": "Anexa nr. 1 la Ordin sanatate nr. 652/2015",
+   "title": "Norme din 21 mai 2015 de organizare și desfășurare a examenului de grad principal, sesiune 2015 (anexa nr. 1 la Ordinul SANATATE nr. 652/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168611",
+   "versions": [
+    {
+     "from": "2015-06-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168611",
+     "sha256": "3c47b20c535d29591bae65f216dd90231ce5f7a78ffe62f1ebd34d1426501779"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-869-2015-anexa-3",
+   "path": "anexa/ordin-sanatate-869-2015/anexa-3",
+   "short": "Anexa nr. 3 la Ordin sanatate nr. 869/2015",
+   "title": "Metodologie de calcul din 9 iulie 2015 al punctajului rezultat din analiza și evaluarea activității profesionale și științifice (proba C) (Anexa 3) (anexa nr. 3 la Ordinul SANATATE nr. 869/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169721",
+   "versions": [
+    {
+     "from": "2015-07-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169721",
+     "sha256": "07ac1370a30f0afbbf8d73193309509c1fdaa722a0b23a9a77fea2eab347d6b7"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sport-132-2015-anexa",
+   "path": "anexa/ordin-sport-132-2015/anexa",
+   "short": "Anexa la Ordin sport nr. 132/2015",
+   "title": "Metodologie din 12 martie 2015 de alocare a fondurilor pentru activitatea sportivă de excelență a federațiilor sportive naționale pentru anul 2015 (anexa la Ordinul SPORT nr. 132/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166411",
+   "versions": [
+    {
+     "from": "2015-03-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166411",
+     "sha256": "a20038e12dcafbdd17eef9b3ebaf04c3e18bfec0c5a0103207f5904532311a10"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sport-167-2015-anexa",
+   "path": "anexa/ordin-sport-167-2015/anexa",
+   "short": "Anexa la Ordin sport nr. 167/2015",
+   "title": "Procedură de finanțare din 26 martie 2015 a activităților de promovare și reprezentare prin sport, prevăzute în Hotărârea Guvernului nr. 311/2003 privind aprobarea înființării pe lângă Ministerul Tineretului și Sportului a unei activități finanțate integral din venituri proprii, altele decât cele care nu sunt prevăzute în Metodologia-cadru referitoare la finanțarea programelor sportive de utilitate publică ale structurilor sportive de drept privat din fonduri de la bugetul de stat și din venituri proprii ale Ministerului Tineretului și Sportului, aprobată prin Ordinul ministrului tineretului și sportului nr. 13/2015 , și în Metodologia de alocare a fondurilor pentru activitatea sportivă de excelență a federațiilor sportive naționale pentru anul 2015, aprobată prin Ordinul ministrului tineretului și sportului nr. 132/2015, și nu fac obiectul activității de excelență (anexa la Ordinul SPORT nr. 167/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167087",
+   "versions": [
+    {
+     "from": "2015-04-09",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167087",
+     "sha256": "b8e7ea75ee2e8316a2a54c72b785b8a20cdaf6f2c96d484efd45da66cfd804f2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sri-1509-2015-anexa",
+   "path": "anexa/ordin-sri-1509-2015/anexa",
+   "short": "Anexa la Ordin sri nr. 1509/2015",
+   "title": "Instrucțiuni din 25 mai 2015 privind efectuarea stagiilor de practică pe timpul studiilor universitare în unități ale Serviciului Român de Informații (anexa la Ordinul SRI nr. 1509/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169620",
+   "versions": [
+    {
+     "from": "2015-07-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169620",
+     "sha256": "3ab54fe2a5bb39c07f70d8caa19b0c2fd1b544f5ea24834911e60dc715006ba8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-1212-2015-anexa",
+   "path": "anexa/ordin-transporturi-1212-2015/anexa",
+   "short": "Anexa la Ordin transporturi nr. 1212/2015",
+   "title": "Norme din 11 noiembrie 2015 privind autorizarea și controlul centrelor de pregătire și perfecționare profesională a personalului de specialitate din domeniul transporturilor rutiere (anexa la Ordinul TRANSPORTURI nr. 1212/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173220",
+   "versions": [
+    {
+     "from": "2015-11-20",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173220",
+     "sha256": "830c348dbc2d2e4c933321ec7a4402fb823e2f0bba56660cfe41319a85df27a3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-1712-2015-anexa",
+   "path": "anexa/ordin-transporturi-1712-2015/anexa",
+   "short": "Anexa la Ordin transporturi nr. 1712/2015",
+   "title": "Norme din 22 decembrie 2015 privind fundamentarea, acordarea și justificarea sumelor primite de la bugetul de stat pentru unele activități desfășurate de unii operatori economici, prin bugetul Ministerului Transporturilor (anexa la Ordinul TRANSPORTURI nr. 1712/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175436",
+   "versions": [
+    {
+     "from": "2016-02-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175436",
+     "sha256": "f718e7dfb3c5773f9c10772a32411a7f9f3165f5f7303810c0e2e5519f8039c1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-615-2015-anexa-1",
+   "path": "anexa/ordin-transporturi-615-2015/anexa-1",
+   "short": "Anexa nr. 1 la Ordin transporturi nr. 615/2015",
+   "title": "Procedură din 29 aprilie 2015 pentru obținerea permisului de mecanic de locomotivă (anexa nr. 1 la Ordinul TRANSPORTURI nr. 615/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168131",
+   "versions": [
+    {
+     "from": "2015-06-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168131",
+     "sha256": "fbd6da5b5a0bdff3e98121406aa0adcfc7ad360ea4dd54a81467f7de07838792"
+    }
+   ]
+  }
+ ]
+}

@@ -181,6 +181,36 @@
      "sha256": "e000805f6a76c7642f761c0b95a67885ff2bdff124ad315fedd0955043eb891c"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-finante-44154-1996",
+   "path": "instructiuni/finante/1996/44154",
+   "short": "Instrucțiuni finante nr. 44154/1996",
+   "title": "Instrucțiunile nr. 44.154/1996 din 1995 privind tipărirea și decontarea biletelor speciale de călătorie, emise în baza prevederilor Legii nr. 44/1994 privind veteranii de război, precum și unele drepturi ale invalizilor și văduvelor de război",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7657",
+   "versions": [
+    {
+     "from": "1996-02-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7657",
+     "sha256": "688040658bf1a11b02d6d1ae12cc651e72b6af3f0df137d1369782cf477b248b"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-transporturi-3745-1996",
+   "path": "instructiuni/transporturi/1996/3745",
+   "short": "Instrucțiuni transporturi nr. 3745/1996",
+   "title": "Instrucțiunile nr. 3.745/1996 din 1995 privind tipărirea și decontarea biletelor speciale de călătorie, emise în baza prevederilor Legii nr. 44/1994 privind veteranii de război, precum și unele drepturi ale invalizilor și văduvelor de război",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7643",
+   "versions": [
+    {
+     "from": "1996-02-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7643",
+     "sha256": "9b550148b0cf39d2e32b04d2e79a30b9b7ea9f77c6ed1b372220f59728d0cda4"
+    }
+   ]
   }
  ]
 }

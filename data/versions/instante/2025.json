@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "instante/2025",
+ "acts": [
+  {
+   "slug": "instante-ca-iasi-incheiere-2025-2025-03-19",
+   "path": "instante/ca-iasi/incheiere/2025/2025-03-19",
+   "short": "Încheierea Curții de Apel Iași din 2025-03-19",
+   "title": "ÎNCHEIERE din 19 martie 2025 referitoare la acțiunea în contencios administrativ având ca obiect anulare act administrativ cu caracter normativ",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/307194",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/307194",
+     "sha256": "87ff09a5ac5ef8153f75b7f48b774e6d777419810d2c945dac502964bb95c339"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-iasi-incheiere-2025-2025-05-06",
+   "path": "instante/ca-iasi/incheiere/2025/2025-05-06",
+   "short": "Încheierea Curții de Apel Iași din 2025-05-06",
+   "title": "ÎNCHEIERE din 6 mai 2025 referitoare la acțiunea în contencios administrativ având ca obiect anulare act administrativ cu caracter normativ",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/307196",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/307196",
+     "sha256": "b423e5b6fdd8e514a0c16535f76b10feb42d105abbce9993370f6c312611a92a"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-iasi-sentinta-2025-85",
+   "path": "instante/ca-iasi/sentinta/2025/85",
+   "short": "Sentința Curții de Apel Iași nr. 85/2025",
+   "title": "SENTINȚA nr. 85 din 2 aprilie 2025 referitoare la acțiunea în contencios administrativ având ca obiect anulare act administrativ cu caracter normativ",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/307195",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/307195",
+     "sha256": "2b71e87feca9b2b015d24c3b76a6b6efae3e175032453778f4642fa565e96ace"
+    }
+   ]
+  }
+ ]
+}

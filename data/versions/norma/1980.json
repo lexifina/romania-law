@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "norma/1980",
+ "acts": [
+  {
+   "slug": "norma-munca-44852-1980",
+   "path": "norma/munca/1980/44852",
+   "short": "Norma munca nr. 44852/1980",
+   "title": "Norma nr. 44.852/1980 privind cercetarea și evidenta accidentelor de muncă și a bolilor profesionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27493",
+   "versions": [
+    {
+     "from": "1992-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27493",
+     "sha256": "6deff9ba397b055b6122235fc1a35430cc7d8f688a85b41dff219635f0815052"
+    }
+   ]
+  }
+ ]
+}

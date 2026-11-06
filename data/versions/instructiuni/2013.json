@@ -93,6 +93,36 @@
    ]
   },
   {
+   "slug": "instructiuni-achizitii-1-2013",
+   "path": "instructiuni/achizitii/2013/1",
+   "short": "Instrucțiuni achizitii nr. 1/2013",
+   "title": "Instrucțiunile nr. 1/2013 emise în aplicarea prevederilor art. 188 alin. (2) lit. d) și art. 188 alin. (3) lit. c) din Ordonanța de urgență a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149150",
+   "versions": [
+    {
+     "from": "2013-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149150",
+     "sha256": "a5385b47b60fda65b0316f4b6d426edf894660b8209572ec9131b35b0e232bfa"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-aparare-11-2013",
+   "path": "instructiuni/aparare/2013/11",
+   "short": "Instrucțiuni aparare nr. 11/2013",
+   "title": "Instrucțiunile nr. 11/2013 Fi.-11/1 din 28 mai 2013 privind scăderea pierderilor din rebuturi și stabilirea scăzămintelor procentuale determinate de perisabilități, transport, depozitare, conservare, manipulare și transformare a bunurilor, precum și a modului în care se aplică scăzămintele în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236040",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236040",
+     "sha256": "ddab026933808591471ae2867093d1986223a5aae8eb5acf565eba99acb1e036"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-asf-2-2013",
    "path": "instructiuni/asf/2013/2",
    "short": "Instrucțiuni asf nr. 2/2013",
@@ -134,6 +164,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144351",
      "sha256": "beb88ab11c38394dabfa3d80657d3391bc82133a7bf26818c6f8a4c9104cf85f"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-interne-114-2013",
+   "path": "instructiuni/interne/2013/114",
+   "short": "Instrucțiuni interne nr. 114/2013",
+   "title": "Instrucțiunile nr. 114/2013 privind răspunderea materială a personalului pentru pagubele produse Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150202",
+   "versions": [
+    {
+     "from": "2013-08-28",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150202",
+     "sha256": "7e6b4e02f5fd893fb5eb66ec075514f95e130e036a18b2bc915fd9ec6bcc12bb"
     }
    ]
   }

@@ -269,6 +269,25 @@
 "joint": []
 },
 {
+"slug": "norma-dizabilitati-1647-1995",
+"path": "norma/dizabilitati/1995/1647",
+"kind": "norma",
+"year": "1995",
+"number": "1647",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 1.647/1995 cu privire la stabilirea și încasarea contribuției de întreținere în căminele pentru pensionari și bătrâni, cămine-spital și cămine-atelier",
+"short": "Norma dizabilitati nr. 1647/1995",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1996-03-15",
+"latest": "1996-03-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/7615",
+"issuer": "dizabilitati",
+"joint": []
+},
+{
 "slug": "norma-finante-14681-1995",
 "path": "norma/finante/1995/14681",
 "kind": "norma",
@@ -345,6 +364,25 @@
 "joint": []
 },
 {
+"slug": "norma-guvern-749-1995",
+"path": "norma/guvern/1995/749",
+"kind": "norma",
+"year": "1995",
+"number": "749",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 749/1995 *** Republicată privind procedura schimbului carnetelor cu certificate de proprietate și/sau cupoanelor nominative de privatizare contra acțiuni la societățile comerciale cu capital de stat care se privatizează în baza Legii nr. 55/1995 , precum și la Fondurile Proprietății Private, procedura de alocare a acțiunilor acestor societăți comerciale și de certificare a calității de acționar ca urmare a schimbului, aprobate prin Hotărârea Guvernului nr. 749/1995",
+"short": "Norma guvern nr. 749/1995",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1996-03-12",
+"latest": "1996-03-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/7263",
+"issuer": "guvern",
+"joint": []
+},
+{
 "slug": "norma-justitie-51169-1995",
 "path": "norma/justitie/1995/51169",
 "kind": "norma",
@@ -379,6 +417,25 @@
 "from": "1996-01-25",
 "latest": "1996-01-25",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/7640",
+"issuer": "munca",
+"joint": []
+},
+{
+"slug": "norma-munca-3452-1995",
+"path": "norma/munca/1995/3452",
+"kind": "norma",
+"year": "1995",
+"number": "3452",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 3.452/1995 cu privire la stabilirea și încasarea contribuției de întreținere în căminele pentru pensionari și bătrâni, cămine-atelier",
+"short": "Norma munca nr. 3452/1995",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1996-03-15",
+"latest": "1996-03-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/7642",
 "issuer": "munca",
 "joint": []
 }

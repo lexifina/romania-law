@@ -153,6 +153,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/47697",
 "issuer": "cnvm",
 "joint": []
+},
+{
+"slug": "regulament-externe-147-2003",
+"path": "regulament/externe/2003/147",
+"kind": "regulament",
+"year": "2003",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 147/2003 privind anumite măsuri restrictive referitoare la Somalia",
+"short": "Regulament externe nr. 147/2003",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-02-14",
+"latest": "2007-02-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79513",
+"issuer": "externe",
+"joint": []
 }
 ]
 }

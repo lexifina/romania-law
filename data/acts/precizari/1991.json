@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "precizari/1991",
+"acts": [
+{
+"slug": "precizari-finante-6436-1991",
+"path": "precizari/finante/1991/6436",
+"kind": "precizari",
+"year": "1991",
+"number": "6436",
+"withdrawn_by": null,
+"reason": null,
+"title": "Precizările nr. 6.436/1991 pentru stabilirea și plata drepturilor cuvenite ca urmare a aplicării Hotărîrii Guvernului nr. 780/1991 privind indexarea salariilor, pensiilor de asigurări sociale de stat, militare și I.O.V.R. și alte măsuri de protecție socială, pentru perioada noiembrie-decembrie 1991",
+"short": "Precizări finante nr. 6436/1991",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1991-11-29",
+"latest": "1991-11-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/93268",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "precizari-munca-1399-1991",
+"path": "precizari/munca/1991/1399",
+"kind": "precizari",
+"year": "1991",
+"number": "1399",
+"withdrawn_by": null,
+"reason": null,
+"title": "Precizările nr. 1.399/1991 pentru stabilirea și plata drepturilor cuvenite ca urmare a aplicării Hotărîrii Guvernului nr. 780/1991 privind indexarea salariilor, pensiilor de asigurări sociale de stat, militare și I.O.V.R. și alte măsuri de protecție socială, pentru perioada noiembrie-decembrie 1991",
+"short": "Precizări munca nr. 1399/1991",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1991-11-29",
+"latest": "1991-11-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/93252",
+"issuer": "munca",
+"joint": []
+}
+]
+}

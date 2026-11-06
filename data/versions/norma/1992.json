@@ -211,6 +211,21 @@
      "sha256": "1559efe7bb2e2ad98699a485658192b2c0a6680f6d6833d0e6c72bbd1a889393"
     }
    ]
+  },
+  {
+   "slug": "norma-guvern-1-1992",
+   "path": "norma/guvern/1992/1",
+   "short": "Norma guvern nr. 1/1992",
+   "title": "Norma nr. 1/1992 privind procedura-standard de privatizare a societăților comerciale mici prin vînzarea de acțiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2072",
+   "versions": [
+    {
+     "from": "1993-01-28",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2072",
+     "sha256": "acfb57048e2fabbe305a2c91698b8ee4db1046e6cddbea41544dcc8da6f6a99e"
+    }
+   ]
   }
  ]
 }

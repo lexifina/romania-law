@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-1007-2005-anexa-1",
+   "path": "anexa/hg-1007-2005/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 1007/2005",
+   "title": "Regulament-cadru din 1 septembrie 2005 de organizare și funcționare a instituțiilor de asistență socială (anexa nr. 1 la Hotărârea Guvernului nr. 1007/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64925",
+   "versions": [
+    {
+     "from": "2005-09-12",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64925",
+     "sha256": "fe92d41fc1fba886b2010a94681ab001a2a326dd64113436438d2c960cfc1a19"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-1020-2005-anexa",
    "path": "anexa/hg-1020-2005/anexa",
    "short": "Anexa la HG nr. 1020/2005",
@@ -104,6 +119,21 @@
      "units": 32,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35058",
      "sha256": "5e4f49bddee7b40d77fe6bcd03e4e95c9ed5171b74cdd0ceffb704bcd663dd3f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1258-2005-anexa-1",
+   "path": "anexa/hg-1258-2005/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 1258/2005",
+   "title": "Regulament din 18 octombrie 2005 de organizare și funcționare al Agenției Române de Asigurare a Calității în Învățământul Preuniversitar (anexa nr. 1 la Hotărârea Guvernului nr. 1258/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65561",
+   "versions": [
+    {
+     "from": "2005-11-01",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65561",
+     "sha256": "3f9da58c48dd96c286f2ecdfdf8a7a88aa5e667c21c9b3e3c661c5dcbce71518"
     }
    ]
   },
@@ -213,6 +243,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-158-2005-anexa-2",
+   "path": "anexa/hg-158-2005/anexa-2",
+   "short": "Anexa nr. 2 la HG nr. 158/2005",
+   "title": "Regulament din 3 martie 2005 de funcționare a Comisiei de Autorizare a Împrumuturilor Locale (anexa nr. 2 la Hotărârea Guvernului nr. 158/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60019",
+   "versions": [
+    {
+     "from": "2005-03-16",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60019",
+     "sha256": "63b60f74d40177caba86b962ac45ec859215b2c3ac3b331fd991f948c14e2e7e"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-1825-2005-anexa",
    "path": "anexa/hg-1825-2005/anexa",
    "short": "Anexa la HG nr. 1825/2005",
@@ -269,6 +314,21 @@
      "units": 43,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68691",
      "sha256": "6fd4f9f1d6903d35d9a570d2e069a74807b7128cfcc24fb10ca1c0a69c9d1e94"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-263-2005-anexa",
+   "path": "anexa/hg-263-2005/anexa",
+   "short": "Anexa la HG nr. 263/2005",
+   "title": "Norme din 31 martie 2005 de aplicare a prevederilor referitoare la stabilirea pensiilor de serviciu din Legea nr. 303/2004 privind statutul magistraților, cu modificările ulterioare (anexa la Hotărârea Guvernului nr. 263/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60726",
+   "versions": [
+    {
+     "from": "2005-04-12",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60726",
+     "sha256": "0364f792ae1b1948b9d01612ba04d1ec69a41588bd18808ca63a6602e7d70406"
     }
    ]
   },
@@ -333,6 +393,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-50-2005-anexa",
+   "path": "anexa/hg-50-2005/anexa",
+   "short": "Anexa la HG nr. 50/2005",
+   "title": "Regulament din 13 ianuarie 2005 privind procedurile, la nivelul Guvernului, pentru elaborarea, avizarea și prezentarea proiectelor de acte normative spre adoptare (anexa la Hotărârea Guvernului nr. 50/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58731",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58731",
+     "sha256": "c4e1ca472307113f396ddba254a0e04cf110070e0e2ace2f1c757fb6d153f8ba"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-501-2005-anexa",
    "path": "anexa/hg-501-2005/anexa",
    "short": "Anexa la HG nr. 501/2005",
@@ -344,6 +419,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62212",
      "sha256": "c819f60f1534e44e567b0096393ed59ead86b99e8e76a92101b778a211be7731"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-539-2005-anexa-3",
+   "path": "anexa/hg-539-2005/anexa-3",
+   "short": "Anexa nr. 3 la HG nr. 539/2005",
+   "title": "Norme metodologice din 9 iunie 2005 de aplicare a prevederilor Ordonanței Guvernului nr. 68/2003 privind serviciile sociale (anexa nr. 3 la Hotărârea Guvernului nr. 539/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62559",
+   "versions": [
+    {
+     "from": "2005-06-23",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62559",
+     "sha256": "c5c3c0f5f10bf0615fe5b48a874ba7c050da520638798e74650bac05315738f5"
     }
    ]
   },
@@ -588,6 +678,36 @@
    ]
   },
   {
+   "slug": "anexa-og-7-2005-anexa",
+   "path": "anexa/og-7-2005/anexa",
+   "short": "Anexa la OG nr. 7/2005",
+   "title": "Regulament din 20 ianuarie 2005 de transport pe căile ferate din România (anexa la Ordonanța Guvernului nr. 7/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58950",
+   "versions": [
+    {
+     "from": "2005-02-03",
+     "units": 79,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58950",
+     "sha256": "7b3e9d9beb5d4c88917a178c5533fa3cea6b53c772e55e3f36a5f497b1b78ec8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-1125-2005-anexa-2",
+   "path": "anexa/ordin-agricultura-1125-2005/anexa-2",
+   "short": "Anexa nr. 2 la Ordin agricultura nr. 1125/2005",
+   "title": "Regulament din 25 octombrie 2005 privind tipărirea, gestionarea, distribuirea, eliberarea și anularea permisului de vânătoare (anexa nr. 2 la Ordinul AGRICULTURA nr. 1125/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65866",
+   "versions": [
+    {
+     "from": "2005-11-14",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65866",
+     "sha256": "e3f4346e6288395552047020a8e317beb0752f83b0951163a8e5415cdf4ba614"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-agricultura-342-2005-anexa",
    "path": "anexa/ordin-agricultura-342-2005/anexa",
    "short": "Anexa la Ordin agricultura nr. 342/2005",
@@ -603,6 +723,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-agricultura-639-2005-anexa",
+   "path": "anexa/ordin-agricultura-639-2005/anexa",
+   "short": "Anexa la Ordin agricultura nr. 639/2005",
+   "title": "Metodologie din 14 iulie 2005 de autorizare a unităților specializate să elaboreze amenajamente silvice, studii sumare de amenajare și studii de transformare a pășunilor împădurite (anexa la Ordinul AGRICULTURA nr. 639/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63885",
+   "versions": [
+    {
+     "from": "2005-08-03",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63885",
+     "sha256": "ee43432da26f1e9878fa95efa4fd60d99ac039d5bc44e57c3146e782e2f8df64"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-agricultura-71-2005-anexa",
    "path": "anexa/ordin-agricultura-71-2005/anexa",
    "short": "Anexa la Ordin agricultura nr. 71/2005",
@@ -614,6 +749,51 @@
      "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59147",
      "sha256": "0646fc8ef3a7b05b0ee688ca1b166a27c4c8c7d756e0e08588a671d875b7b219"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-729-2005-anexa-1",
+   "path": "anexa/ordin-agricultura-729-2005/anexa-1",
+   "short": "Anexa nr. 1 la Ordin agricultura nr. 729/2005",
+   "title": "Metodologie din 29 iulie 2005 de atestare a experților care certifică, din punct de vedere tehnic, calitatea lucrărilor de amenajare a pădurilor și a studiilor de transformare a pășunilor împădurite (anexa nr. 1 la Ordinul AGRICULTURA nr. 729/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64340",
+   "versions": [
+    {
+     "from": "2005-08-19",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64340",
+     "sha256": "02d2a54161b862554463ec080a1fdb82fbaec441232aff5215a16e53fc0939cb"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-729-2005-anexa-2",
+   "path": "anexa/ordin-agricultura-729-2005/anexa-2",
+   "short": "Anexa nr. 2 la Ordin agricultura nr. 729/2005",
+   "title": "Metodologie din 29 iulie 2005 de atestare a șefilor de proiect pentru lucrări de amenajare a pădurilor și studii de transformare a pășunilor împădurite (anexa nr. 2 la Ordinul AGRICULTURA nr. 729/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64341",
+   "versions": [
+    {
+     "from": "2005-08-19",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64341",
+     "sha256": "3d1065960fd1b69517aca54a2269bb2810d09dbb5839edc2fe22bbcca6916fbc"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-772-2005-anexa",
+   "path": "anexa/ordin-agricultura-772-2005/anexa",
+   "short": "Anexa la Ordin agricultura nr. 772/2005",
+   "title": "Normă din 8 august 2005 privind Sistemul rapid de alertă pentru alimente și furaje (anexa la Ordinul AGRICULTURA nr. 772/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64343",
+   "versions": [
+    {
+     "from": "2005-08-19",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64343",
+     "sha256": "7036047c0168c7d20aaf2c4018fdb631febb10ade968ff1ff744ce869d08244d"
     }
    ]
   },
@@ -1158,6 +1338,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-economie-610-2005-anexa-1",
+   "path": "anexa/ordin-economie-610-2005/anexa-1",
+   "short": "Anexa nr. 1 la Ordin economie nr. 610/2005",
+   "title": "Regulament din 26 octombrie 2005 privind procedura de omologare a ambalajelor destinate transportului rutier al substanțelor și preparatelor chimice periculoase (anexa nr. 1 la Ordinul ECONOMIE nr. 610/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66215",
+   "versions": [
+    {
+     "from": "2005-11-24",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66215",
+     "sha256": "8107cfe520ab6280b96239c1451029e46446f5b73a017d18bfe307c406e095de"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-economie-716-2005-anexa",
    "path": "anexa/ordin-economie-716-2005/anexa",
    "short": "Anexa la Ordin economie nr. 716/2005",
@@ -1184,6 +1379,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67829",
      "sha256": "a10405c5107e9b29d2368de73292df9f01e01eedf0c204de8f638474984e87e7"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-732-2005-anexa-1",
+   "path": "anexa/ordin-economie-732-2005/anexa-1",
+   "short": "Anexa nr. 1 la Ordin economie nr. 732/2005",
+   "title": "Metodologie din 22 decembrie 2005 referitoare la circuitul informațiilor la nivel național între Compartimentul pentru schimb de informații pentru reglementări tehnice, autoritățile administrației publice centrale și alte autorități cu funcție de reglementare (anexa nr. 1 la Ordinul ECONOMIE nr. 732/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69329",
+   "versions": [
+    {
+     "from": "2006-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69329",
+     "sha256": "11beae0e9131d5f617522152585e77e5784f8081fda012e747bc99d65426232e"
     }
    ]
   },
@@ -1218,6 +1428,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-educatie-3973-2005-anexa-1",
+   "path": "anexa/ordin-educatie-3973-2005/anexa-1",
+   "short": "Anexa nr. 1 la Ordin educatie nr. 3973/2005",
+   "title": "Metodologie din 27 aprilie 2005 de elaborare, avizare și aprobare a standardelor de pregătire profesională și a curriculumului pentru învățământul postliceal (anexa nr. 1 la Ordinul EDUCATIE nr. 3973/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62188",
+   "versions": [
+    {
+     "from": "2005-06-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62188",
+     "sha256": "84d95f001842186abe14ef12b51bf2709b0a1a32fde27cb3f83f7b6f90be3006"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-educatie-4058-2005-anexa",
    "path": "anexa/ordin-educatie-4058-2005/anexa",
    "short": "Anexa la Ordin educatie nr. 4058/2005",
@@ -1244,6 +1469,66 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65192",
      "sha256": "18e92dfee53deda211f2fddda74a8ce8adf3c6c6d348dafb5f7ac1904398296e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5418-2005-anexa-1",
+   "path": "anexa/ordin-educatie-5418-2005/anexa-1",
+   "short": "Anexa nr. 1 la Ordin educatie nr. 5418/2005",
+   "title": "Regulament din 8 noiembrie 2005 de organizare și funcționare a centrelor județene/al municipiului București de resurse și de asistență educațională (anexa nr. 1 la Ordinul EDUCATIE nr. 5418/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67129",
+   "versions": [
+    {
+     "from": "2005-12-21",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67129",
+     "sha256": "2f54b93936621336af1d9a91dd76dde9088906cdcbc43e7cc32c94d4624a963f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5418-2005-anexa-2",
+   "path": "anexa/ordin-educatie-5418-2005/anexa-2",
+   "short": "Anexa nr. 2 la Ordin educatie nr. 5418/2005",
+   "title": "Regulamentul-cadru din 8 noiembrie 2005 de înființare, organizare și funcționare a centrelor școlare pentru educație incluzivă (anexa nr. 2 la Ordinul EDUCATIE nr. 5418/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67130",
+   "versions": [
+    {
+     "from": "2005-12-21",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67130",
+     "sha256": "6161f5da4fd0aaa82d9043575d0880978e1fc53564c7f074b839d837087a339f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5418-2005-anexa-3",
+   "path": "anexa/ordin-educatie-5418-2005/anexa-3",
+   "short": "Anexa nr. 3 la Ordin educatie nr. 5418/2005",
+   "title": "Regulament-cadru din 8 noiembrie 2005 privind organizarea și funcționarea centrelor județene/al municipiului București și a cabinetelor de asistență psihopedagogică (anexa nr. 3 la Ordinul EDUCATIE nr. 5418/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67131",
+   "versions": [
+    {
+     "from": "2005-12-21",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67131",
+     "sha256": "8dc62d5d9768ce7bb3d57997f1eb033b3a9e339ecf49da70216d3f6d64517ba5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5418-2005-anexa-4",
+   "path": "anexa/ordin-educatie-5418-2005/anexa-4",
+   "short": "Anexa nr. 4 la Ordin educatie nr. 5418/2005",
+   "title": "Regulamentul-cadru din 8 noiembrie 2005 de organizare și funcționare a centrelor și cabinetelor logopedice interșcolare (anexa nr. 4 la Ordinul EDUCATIE nr. 5418/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67132",
+   "versions": [
+    {
+     "from": "2005-12-21",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67132",
+     "sha256": "731ac9e514b9ecfe7316303b1563abcd9d2c7a180fba6bd4dbd16f62ea3ccde8"
     }
    ]
   },
@@ -1304,6 +1589,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59933",
      "sha256": "bcd506f54761181a7ee26313d8009e3e2f0f82fd888e1c5ed9fc2ffccc993527"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1639-2005-anexa-1",
+   "path": "anexa/ordin-finante-1639-2005/anexa-1",
+   "short": "Anexa nr. 1 la Ordin finante nr. 1639/2005",
+   "title": "Norme procedurale interne din 2 noiembrie 2005 pentru organizarea și desfășurarea procedurilor de încheiere a contractului-cadru de achiziție publică de servicii juridice pentru reprezentarea României sau a altor instituții publice în fața Curții de Arbitraj Internaționale a Centrului Internațional pentru Reglementarea Diferendelor Relative la Investiții (anexa nr. 1 la Ordinul FINANTE nr. 1639/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65752",
+   "versions": [
+    {
+     "from": "2005-11-09",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65752",
+     "sha256": "92752e4fa3e23ddca14b2d885856944edf23974a518d2b7b6cc286f3116176b2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1639-2005-anexa-2",
+   "path": "anexa/ordin-finante-1639-2005/anexa-2",
+   "short": "Anexa nr. 2 la Ordin finante nr. 1639/2005",
+   "title": "Normele procedurale interne din 2 noiembrie 2005 pentru selectarea arbitrilor desemnați de partea română în procedurile arbitrale în fața Curții de Arbitraj Internaționale a Centrului Internațional pentru Reglementarea Diferendelor Relative la Investiții (anexa nr. 2 la Ordinul FINANTE nr. 1639/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65753",
+   "versions": [
+    {
+     "from": "2005-11-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65753",
+     "sha256": "9588a831df00f50abfcb5e43003d6d2d8e4965e6e93a4de2182ce17fbc247231"
     }
    ]
   },
@@ -1443,6 +1758,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-interne-638-2005-anexa",
+   "path": "anexa/ordin-interne-638-2005/anexa",
+   "short": "Anexa la Ordin interne nr. 638/2005",
+   "title": "Regulament din 12 mai 2005 privind gestionarea situațiilor de urgență generate de inundații, fenomene meteorologice periculoase, accidente la construcții hidrotehnice și poluări accidentale (anexa la Ordinul INTERNE nr. 638/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62094",
+   "versions": [
+    {
+     "from": "2005-05-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62094",
+     "sha256": "b8b79f3b38d65813e24e938bcb613781a8398a44ae0ea0b7174a457d20f36df2"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-interne-665-2005-anexa",
    "path": "anexa/ordin-interne-665-2005/anexa",
    "short": "Anexa la Ordin interne nr. 665/2005",
@@ -1533,6 +1863,96 @@
    ]
   },
   {
+   "slug": "anexa-ordin-justitie-10866-2005-anexa",
+   "path": "anexa/ordin-justitie-10866-2005/anexa",
+   "short": "Anexa la Ordin justitie nr. 10866/2005",
+   "title": "Norme proprii din 10 iunie 2005 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2005, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și farmaceutice care aparțin acestei rețele (anexa la Ordinul JUSTITIE nr. 10866/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65057",
+   "versions": [
+    {
+     "from": "2005-09-16",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65057",
+     "sha256": "ab500f84131ce4d294864f439ebde6fb35dc4361c61a67f09bbc8ec25eee1735"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-justitie-38-2005-anexa",
+   "path": "anexa/ordin-justitie-38-2005/anexa",
+   "short": "Anexa la Ordin justitie nr. 38/2005",
+   "title": "Norme proprii din 16 iunie 2005 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2005, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și farmaceutice care aparțin acestei rețele (anexa la Ordinul JUSTITIE nr. 38/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65058",
+   "versions": [
+    {
+     "from": "2005-09-16",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65058",
+     "sha256": "038456eb53d0e9cfb041c948c07ab54dde98e06c5d4c3bd269612ebff50a8937"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-justitie-503-2005-anexa",
+   "path": "anexa/ordin-justitie-503-2005/anexa",
+   "short": "Anexa la Ordin justitie nr. 503/2005",
+   "title": "Norme proprii din 22 iunie 2005 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2005, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și farmaceutice care aparțin acestei rețele (anexa la Ordinul JUSTITIE nr. 503/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65060",
+   "versions": [
+    {
+     "from": "2005-09-16",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65060",
+     "sha256": "cfffced85031fa38db5e25d44affa5a1d48ad7662ba94206ac602e34f274ee13"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-justitie-676-2005-anexa",
+   "path": "anexa/ordin-justitie-676-2005/anexa",
+   "short": "Anexa la Ordin justitie nr. 676/2005",
+   "title": "Norme proprii din 2 iunie 2005 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2005, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și farmaceutice care aparțin acestei rețele (anexa la Ordinul JUSTITIE nr. 676/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65055",
+   "versions": [
+    {
+     "from": "2005-09-16",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65055",
+     "sha256": "c1e84da009776865939f3e499c18b28062f0563773730a8ec2025f78455c50eb"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-justitie-7-2005-anexa",
+   "path": "anexa/ordin-justitie-7-2005/anexa",
+   "short": "Anexa la Ordin justitie nr. 7/2005",
+   "title": "Norme proprii din 20 iunie 2005 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2005, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și farmaceutice care aparțin acestei rețele (anexa la Ordinul JUSTITIE nr. 7/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65059",
+   "versions": [
+    {
+     "from": "2005-09-16",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65059",
+     "sha256": "e96eb1cc4bed32cfdb99cd3e06fd93fd960933ea19479848ca38f277922c2240"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-justitie-913-2005-anexa",
+   "path": "anexa/ordin-justitie-913-2005/anexa",
+   "short": "Anexa la Ordin justitie nr. 913/2005",
+   "title": "Norme proprii din 28 iunie 2005 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2005, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și farmaceutice care aparțin acestei rețele (anexa la Ordinul JUSTITIE nr. 913/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65056",
+   "versions": [
+    {
+     "from": "2005-09-16",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65056",
+     "sha256": "2d5fc4f1f2428696fc7596e2a01f90e30ec2907ce7383833c83a9134f6d4c052"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-justitie-943-c-2005-anexa",
    "path": "anexa/ordin-justitie-943-c-2005/anexa",
    "short": "Anexa la Ordin justitie nr. 943/C/2005",
@@ -1604,6 +2024,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62819",
      "sha256": "7363724a323f0f398d540408bf1ff63c1a907e52cdcd4e92bc38cb95cf95adc0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-munca-654-2005-anexa-1",
+   "path": "anexa/ordin-munca-654-2005/anexa-1",
+   "short": "Anexa nr. 1 la Ordin munca nr. 654/2005",
+   "title": "Regulament din 2 septembrie 2005 de organizare și funcționare al Comisiei de evaluare și selecționare (anexa nr. 1 la Ordinul MUNCA nr. 654/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65063",
+   "versions": [
+    {
+     "from": "2005-09-16",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65063",
+     "sha256": "5bdeea8bbb011b9e0dac3e7a793b933229c600d4907182d20c463ef4afae40c1"
     }
    ]
   },
@@ -1754,6 +2189,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61932",
      "sha256": "0660aa0f5128f6f27f1a8f13040c968785411803e82b38c6ea5a4f285b0efd10"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-880-2005-anexa",
+   "path": "anexa/ordin-transporturi-880-2005/anexa",
+   "short": "Anexa la Ordin transporturi nr. 880/2005",
+   "title": "Procedură din 3 iunie 2005 privind acordarea, completarea/modificarea, suspendarea sau retragerea autorizației de exploatare a LFI (anexa la Ordinul TRANSPORTURI nr. 880/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62797",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62797",
+     "sha256": "cca9609afbac3807d62a8fac1a49d9d5b44fd65353dd5da69e5034b8f1e64f24"
     }
    ]
   },

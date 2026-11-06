@@ -1,0 +1,25 @@
+{
+"country": "RO",
+"shard": "regulament/1921",
+"acts": [
+{
+"slug": "regulament-interne-2901-1921",
+"path": "regulament/interne/1921/2901",
+"kind": "regulament",
+"year": "1921",
+"number": "2901",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 2.901/1921 al legii pentru înființarea oficiilor de închiriere",
+"short": "Regulament interne nr. 2901/1921",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1921-09-01",
+"latest": "1921-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/28282",
+"issuer": "interne",
+"joint": []
+}
+]
+}

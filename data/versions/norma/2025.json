@@ -361,6 +361,21 @@
      "sha256": "09953acbc989e89fa4d8a4d84ceaf2ddbabaf4be9eb3a58d2418f66f11d1aec9"
     }
    ]
+  },
+  {
+   "slug": "norma-cifga-3-2025",
+   "path": "norma/cifga/2025/3",
+   "short": "Norma cifga nr. 3/2025",
+   "title": "Norma nr. 3/2025 N3.5 din 11 aprilie 2025 Garanții Exim Banca Românească în numele și în contul statului (ediția VII/0)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296985",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296985",
+     "sha256": "9752e1e0213ede7a186b39c4abf89f865d08af9fd4e6b3d3630374cf3040cf93"
+    }
+   ]
   }
  ]
 }

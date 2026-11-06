@@ -301,6 +301,51 @@
      "sha256": "28fffc3372e6681e2135456448355413dca890743da65139be3363680ee10a6d"
     }
    ]
+  },
+  {
+   "slug": "norma-dizabilitati-1647-1995",
+   "path": "norma/dizabilitati/1995/1647",
+   "short": "Norma dizabilitati nr. 1647/1995",
+   "title": "Norma nr. 1.647/1995 cu privire la stabilirea și încasarea contribuției de întreținere în căminele pentru pensionari și bătrâni, cămine-spital și cămine-atelier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7615",
+   "versions": [
+    {
+     "from": "1996-03-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7615",
+     "sha256": "d25499d69d4e4f17c7831d2b2b4ce07f240eedd6530175b80a036920f59453c4"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-749-1995",
+   "path": "norma/guvern/1995/749",
+   "short": "Norma guvern nr. 749/1995",
+   "title": "Norma nr. 749/1995 *** Republicată privind procedura schimbului carnetelor cu certificate de proprietate și/sau cupoanelor nominative de privatizare contra acțiuni la societățile comerciale cu capital de stat care se privatizează în baza Legii nr. 55/1995 , precum și la Fondurile Proprietății Private, procedura de alocare a acțiunilor acestor societăți comerciale și de certificare a calității de acționar ca urmare a schimbului, aprobate prin Hotărârea Guvernului nr. 749/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7263",
+   "versions": [
+    {
+     "from": "1996-03-12",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7263",
+     "sha256": "d87c6a7b763741732f9ddbf48057b4a6d669488dca3773cfc73b8d44edabef08"
+    }
+   ]
+  },
+  {
+   "slug": "norma-munca-3452-1995",
+   "path": "norma/munca/1995/3452",
+   "short": "Norma munca nr. 3452/1995",
+   "title": "Norma nr. 3.452/1995 cu privire la stabilirea și încasarea contribuției de întreținere în căminele pentru pensionari și bătrâni, cămine-atelier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7642",
+   "versions": [
+    {
+     "from": "1996-03-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7642",
+     "sha256": "37326f765bac003909d40534e5541cfb942962f224dcd46d7a1834433793beac"
+    }
+   ]
   }
  ]
 }

@@ -421,6 +421,51 @@
      "sha256": "c905272138b44cb374061c2876ff73b99570963fe6b4a9d028cb80619265fcad"
     }
    ]
+  },
+  {
+   "slug": "norma-cifga-14-2022",
+   "path": "norma/cifga/2022/14",
+   "short": "Norma cifga nr. 14/2022",
+   "title": "Norma nr. 14/2022 N3.14 din 28 noiembrie 2022 privind finanțări EximBank în cadrul schemei de ajutor de stat Ucraina (NI-FIN-10-I/0)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261734",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261734",
+     "sha256": "95882c617f66e7e474c9bef18c7ce839ae0d922515894f90c465dd87952c2170"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cifga-15-2022",
+   "path": "norma/cifga/2022/15",
+   "short": "Norma cifga nr. 15/2022",
+   "title": "Norma nr. 15/2022 N3.15 din 28 noiembrie 2022 privind garanții EximBank în cadrul schemei de ajutor de stat Ucraina (NI-GAR-15-I/0)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261735",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261735",
+     "sha256": "a91d0f7cb2a06fb5b675219185c31375792ac2c5fc2e29b915238450e2b5af59"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cifga-3-2022",
+   "path": "norma/cifga/2022/3",
+   "short": "Norma cifga nr. 3/2022",
+   "title": "Norma nr. 3/2022 N3.3.2 din 15 aprilie 2022 privind \"Asigurarea pe termen scurt, în numele și în contul statului, a riscului de neplată la extern, riscuri nonpiață și riscuri temporar nonpiață\" (NI-ASR-07-XII/0)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254440",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254440",
+     "sha256": "984f853f50aa24f8a51308dfde8c6e9214fd209e3e31b9136b6243c6a1a86489"
+    }
+   ]
   }
  ]
 }

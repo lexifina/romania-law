@@ -76,6 +76,21 @@
      "sha256": "983c0a70d2e0c7ba5bf1d462b63deefab2a33c59d30efdb432f049ad2d5aeb77"
     }
    ]
+  },
+  {
+   "slug": "precizari-finante-4175-1993",
+   "path": "precizari/finante/1993/4175",
+   "short": "Precizări finante nr. 4175/1993",
+   "title": "Precizările nr. 4.175/1993 cu privire la aplicarea taxei pe valoarea adăugată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3741",
+   "versions": [
+    {
+     "from": "1993-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3741",
+     "sha256": "d0374038e43acec329db23dd94ac5c330529091b77c89d6e908d0b627016d101"
+    }
+   ]
   }
  ]
 }

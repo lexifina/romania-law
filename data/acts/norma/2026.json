@@ -286,6 +286,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/313801",
 "issuer": "asf",
 "joint": []
+},
+{
+"slug": "norma-cifga-3-2026",
+"path": "norma/cifga/2026/3",
+"kind": "norma",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 3/2026 N3.18 din 28 august 2026 referitoare la \"Operațiuni de finanțare temporară a întreprinderilor publice în numele și în contul statului\" (ediția I/0)",
+"short": "Norma cifga nr. 3/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-09-02",
+"latest": "2026-09-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/313974",
+"issuer": "cifga",
+"joint": []
 }
 ]
 }

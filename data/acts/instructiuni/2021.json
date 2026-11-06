@@ -3,6 +3,25 @@
 "shard": "instructiuni/2021",
 "acts": [
 {
+"slug": "instructiuni-achizitii-1-2021",
+"path": "instructiuni/achizitii/2021/1",
+"kind": "instructiuni",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 1/2021 privind modificarea contractului de achiziție publică/contractului de achiziție sectorială/acordului-cadru",
+"short": "Instrucțiuni achizitii nr. 1/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-19",
+"latest": "2021-01-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/236529",
+"issuer": "achizitii",
+"joint": []
+},
+{
 "slug": "instructiuni-aep-1-2021",
 "path": "instructiuni/aep/2021/1",
 "kind": "instructiuni",

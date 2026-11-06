@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-329-2025-anexa",
+   "path": "anexa/hg-329-2025/anexa",
+   "short": "Anexa la HG nr. 329/2025",
+   "title": "Ghidul din 3 aprilie 2025 carierei cadrelor militare în activitate din Inspectoratul General pentru Situații de Urgență și din unitățile subordonate (anexa la Hotărârea Guvernului nr. 329/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296540",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296540",
+     "sha256": "48dbc9354f18420ab4e956e50d745b86272517838ba4c7e1f23bb5b55f8e7fe4"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-525-2025-anexa",
    "path": "anexa/hg-525-2025/anexa",
    "short": "Anexa la HG nr. 525/2025",
@@ -108,6 +123,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-762-2025-anexa-3",
+   "path": "anexa/hg-762-2025/anexa-3",
+   "short": "Anexa nr. 3 la HG nr. 762/2025",
+   "title": "Procedură din 18 septembrie 2025 de delegare către Administrația Națională a Rezervelor de Stat și Probleme Speciale, în calitate de entitate centrală de stocare din România, respectiv de titular delegat al obligației de stocare (anexa nr. 3 la Hotărârea Guvernului nr. 762/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302370",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302370",
+     "sha256": "5419d29b86bc609b8076e257169bcaca96fcc2f0742248641a77d00c08ab8f9a"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-780-2025-anexa",
    "path": "anexa/hg-780-2025/anexa",
    "short": "Anexa la HG nr. 780/2025",
@@ -119,6 +149,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302560",
      "sha256": "d14341112b1a6ac9123703268ec244a4de81a647de328003ed1801bebededb2d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-camera-33-2025-anexa",
+   "path": "anexa/hotarare-camera-33-2025/anexa",
+   "short": "Anexa la Hotărârea camera nr. 33/2025",
+   "title": "Procedură din 23 aprilie 2025 de evaluare profesională a personalului din serviciile Camerei Deputaților (anexa la Hotărârea CAMERA nr. 33/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296827",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296827",
+     "sha256": "1bb2e6c89876bc116bb3302a239b457d4a08bfb59812485238ffaf772e359547"
     }
    ]
   },
@@ -153,6 +198,36 @@
    ]
   },
   {
+   "slug": "anexa-ordin-anaf-405-2025-anexa-1",
+   "path": "anexa/ordin-anaf-405-2025/anexa-1",
+   "short": "Anexa nr. 1 la Ordin anaf nr. 405/2025",
+   "title": "Procedură din 20 martie 2025 privind modalitatea de ducere la îndeplinire a atribuțiilor Agenției Naționale de Administrare Fiscală în domeniul sancțiunilor internaționale (anexa nr. 1 la Ordinul ANAF nr. 405/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295988",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295988",
+     "sha256": "c922d842de9c3a252b4f4699458dbba782603b86cb3bbd3e5baae9fe26c23f60"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-472-2025-anexa-1",
+   "path": "anexa/ordin-anaf-472-2025/anexa-1",
+   "short": "Anexa nr. 1 la Ordin anaf nr. 472/2025",
+   "title": "Procedura și condițiile din 31 martie 2025 de înregistrare a reprezentanților persoanelor juridice străine prevăzute la art. 46^2 alin. (1^1) din Legea nr. 227/2015 privind Codul fiscal care sunt obligate să calculeze, să declare și să plătească impozitul specific pe cifra de afaceri prevăzut la art. 46^2 din Legea nr. 227/2015 (anexa nr. 1 la Ordinul ANAF nr. 472/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296448",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296448",
+     "sha256": "3bce0b5d58c9899a39310f1398d9737411955df1ad1feb55c7b7150b6286b07a"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-anrm-283-2025-anexa",
    "path": "anexa/ordin-anrm-283-2025/anexa",
    "short": "Anexa la Ordin anrm nr. 283/2025",
@@ -164,6 +239,51 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299050",
      "sha256": "f78837051f1599edda8801df314ccb4b441b9310d8c98de83a727faeb2d8d25e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anrsc-97-2025-anexa",
+   "path": "anexa/ordin-anrsc-97-2025/anexa",
+   "short": "Anexa la Ordin anrsc nr. 97/2025",
+   "title": "Regulament-cadru din 26 februarie 2025 al serviciului de salubrizare a localităților (anexa la Ordinul ANRSC nr. 97/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295173",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295173",
+     "sha256": "3223d93dbae57e38e780724bc067ca064c1baccc4681a247a19909fe7b691cf3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-26-2025-anexa",
+   "path": "anexa/ordin-aparare-26-2025/anexa",
+   "short": "Anexa la Ordin aparare nr. 26/2025",
+   "title": "Regulamentul din 14 februarie 2025 serviciului interior (anexa la Ordinul APARARE nr. 26/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294904",
+   "versions": [
+    {
+     "from": "2025-03-01",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294904",
+     "sha256": "0de5bc76d7cf60356a51ad35d3bc85785b30231c5b9c03d39b91e9de4064b737"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-6-2025-anexa",
+   "path": "anexa/ordin-aparare-6-2025/anexa",
+   "short": "Anexa la Ordin aparare nr. 6/2025",
+   "title": "Regulament-cadru din 10 ianuarie 2025 privind organizarea și funcționarea școlilor militare de maiștri militari și subofițeri (anexa la Ordinul APARARE nr. 6/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294074",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294074",
+     "sha256": "5e3e7ad9e4571b7f98bcfd70579c8e09f99be71ab27ad2e9e36a11272a400674"
     }
    ]
   },
@@ -228,6 +348,51 @@
    ]
   },
   {
+   "slug": "anexa-ordin-dnsc-2-2025-anexa-1",
+   "path": "anexa/ordin-dnsc-2-2025/anexa-1",
+   "short": "Anexa nr. 1 la Ordin dnsc nr. 2/2025",
+   "title": "Criterii și praguri din 11 august 2025 de determinare a gradului de perturbare a unui serviciu (anexa nr. 1 la Ordinul DNSC nr. 2/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301476",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301476",
+     "sha256": "5604ca32c6faaefc484312ed1f4faa7bc8b9280b3f421ba65b86b62aa03595d8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dnsc-2-2025-anexa-2",
+   "path": "anexa/ordin-dnsc-2-2025/anexa-2",
+   "short": "Anexa nr. 2 la Ordin dnsc nr. 2/2025",
+   "title": "Metodologie din 11 august 2025 privind evaluarea nivelului de risc al entităților (anexa nr. 2 la Ordinul DNSC nr. 2/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301477",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301477",
+     "sha256": "3b8d8f2a86f36825a496cbab7ce61e329b4624775de3cc32490c2d71849396e8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dnsc-3-2025-anexa-1",
+   "path": "anexa/ordin-dnsc-3-2025/anexa-1",
+   "short": "Anexa nr. 1 la Ordin dnsc nr. 3/2025",
+   "title": "Norme din 27 noiembrie 2025 de aplicare a dispozițiilor privind supravegherea, verificarea și controlul respectării prevederilor Ordonanței de urgență a Guvernului nr. 155/2024 privind instituirea unui cadru pentru securitatea cibernetică a rețelelor și sistemelor informatice din spațiul cibernetic național civil și a Metodologiei de prioritizare pe bază de risc a activităților de supraveghere, verificare și control (anexa nr. 1 la Ordinul DNSC nr. 3/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305129",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305129",
+     "sha256": "1e3be01646554068be093a7af1ca7c92facd350356ff33f0af59928d03ff71e6"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-economie-1224-2025-anexa",
    "path": "anexa/ordin-economie-1224-2025/anexa",
    "short": "Anexa la Ordin economie nr. 1224/2025",
@@ -254,6 +419,36 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299281",
      "sha256": "6abe06eb1ea82922d86a24e81bff7c71e6a7150fbc305177ee6ec82545bab786"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-328-2025-anexa",
+   "path": "anexa/ordin-economie-328-2025/anexa",
+   "short": "Anexa la Ordin economie nr. 328/2025",
+   "title": "Procedură din 17 martie 2025 de implementare a Programului pentru stimularea înființării întreprinderilor mici și mijlocii \"START UP NATION - ROMÂNIA\", ediția 2024, finanțat din fonduri externe nerambursabile aferente Programului Educație și Ocupare 2021-2027 (anexa la Ordinul ECONOMIE nr. 328/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295748",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295748",
+     "sha256": "28b8bc9a5c0e407f36ae56ec7c2fe3eba3fa540e4a8dfc6da897b88b1534c1fd"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-371-2025-anexa",
+   "path": "anexa/ordin-economie-371-2025/anexa",
+   "short": "Anexa la Ordin economie nr. 371/2025",
+   "title": "Norme metodologice din 16 aprilie 2025 privind aspectele procedurale pentru acordarea ajutorului de stat, a modelului de decont privind costurile care urmează să fie acordate de la bugetul de stat, monitorizarea, evaluarea și controlul utilizării ajutorului de stat acordat Societății Complexul Energetic \"Valea Jiului\" - S.A. potrivit Ordonanței de urgență a Guvernului nr. 13/2025 privind instituirea cadrului legal pentru acordarea unui ajutor de stat Complexului Energetic \"Valea Jiului\" - S.A. pentru închiderea și punerea în siguranță a minelor de huilă necompetitive Lonea, Lupeni, Livezeni și Vulcan (anexa la Ordinul ECONOMIE nr. 371/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296799",
+   "versions": [
+    {
+     "from": "2025-04-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296799",
+     "sha256": "baa7227c77fbee1bf81c1eb17aaec38ba3f07e518f75b57a6468d99dfc570326"
     }
    ]
   },
@@ -303,6 +498,66 @@
    ]
   },
   {
+   "slug": "anexa-ordin-educatie-3215-2025-anexa",
+   "path": "anexa/ordin-educatie-3215-2025/anexa",
+   "short": "Anexa la Ordin educatie nr. 3215/2025",
+   "title": "Procedura și calendarul din 3 februarie 2025 privind transferul posturilor de profesor itinerant și de sprijin și preluarea personalului didactic de predare încadrat pe posturi de profesor itinerant și de sprijin din unitățile de învățământ preuniversitar de stat/centrele școlare de educație incluzivă la centrele județene de resurse și asistență educațională/Centrul Municipiului București de Resurse și Asistență Educațională (anexa la Ordinul EDUCATIE nr. 3215/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294596",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294596",
+     "sha256": "e73b1aa3dc2739468a5ab4ac6b4b94d3c335c52708ad352a584979513bc4af23"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3466-2025-anexa",
+   "path": "anexa/ordin-educatie-3466-2025/anexa",
+   "short": "Anexa la Ordin educatie nr. 3466/2025",
+   "title": "Metodologie din 4 martie 2025 de înscriere în clasa a IX-a, în anul școlar 2025-2026, a elevilor care au obținut, pe parcursul gimnaziului, premiul I la etapa națională a olimpiadelor școlare organizate și finanțate de Ministerul Educației și Cercetării sau au obținut premiul I, II sau III la competiții internaționale recunoscute de Ministerul Educației și Cercetării (anexa la Ordinul EDUCATIE nr. 3466/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295286",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295286",
+     "sha256": "d51601ff799e75760dcfca41b2ef9de4bfe0e13e7a6cb603f0b6e1c2f269ac16"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3534-2025-anexa",
+   "path": "anexa/ordin-educatie-3534-2025/anexa",
+   "short": "Anexa la Ordin educatie nr. 3534/2025",
+   "title": "Metodologie din 12 martie 2025 de utilizare a modelelor de certificate gestionate de Centrul de Pregătire Profesională și Training din cadrul Autorității Naționale pentru Calificări (anexa la Ordinul EDUCATIE nr. 3534/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295849",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295849",
+     "sha256": "e8debe83630129f554b23ab7baca8b6eb6937cc1d5137c1e392f37d19968faaf"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3840-2025-anexa",
+   "path": "anexa/ordin-educatie-3840-2025/anexa",
+   "short": "Anexa la Ordin educatie nr. 3840/2025",
+   "title": "Metodologie din 17 aprilie 2025 de recunoaștere a actelor de studii care în statul de origine dau acces la profesia didactică, eliberate de instituții acreditate de învățământ din Uniunea Europeană, Spațiul Economic European, Confederația Elvețiană și din străinătate, precum și recunoașterea competențelor în vederea exercitării profesiei de cadru didactic calificat în învățământul preuniversitar din România (anexa la Ordinul EDUCATIE nr. 3840/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296914",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296914",
+     "sha256": "f5cff26fc03adb78cc4fb1a8c959ddaa775bb437633981ea7c466c5e61affc0f"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-educatie-3976-2025-anexa",
    "path": "anexa/ordin-educatie-3976-2025/anexa",
    "short": "Anexa la Ordin educatie nr. 3976/2025",
@@ -333,6 +588,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-educatie-4038-2025-anexa",
+   "path": "anexa/ordin-educatie-4038-2025/anexa",
+   "short": "Anexa la Ordin educatie nr. 4038/2025",
+   "title": "Regulament din 16 mai 2025 intern de organizare și funcționare a autorității naționale pentru cercetare (ROF) (anexa la Ordinul EDUCATIE nr. 4038/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298231",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298231",
+     "sha256": "4c7cd8dd5ceb3524507be6f978ea526764f0b69fdc1febf524a86da82d49ee7f"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-educatie-4148-2025-anexa",
    "path": "anexa/ordin-educatie-4148-2025/anexa",
    "short": "Anexa la Ordin educatie nr. 4148/2025",
@@ -359,6 +629,21 @@
      "units": 43,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299202",
      "sha256": "8cf3c9b04b48eca201b5d2738bceba8837c149210a1439d22fef30066ef78816"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5196-2025-anexa-1",
+   "path": "anexa/ordin-educatie-5196-2025/anexa-1",
+   "short": "Anexa nr. 1 la Ordin educatie nr. 5196/2025",
+   "title": "Metodologie-cadru din 6 august 2025 privind structura, elaborarea, validarea și aprobarea standardelor de calificare (anexa nr. 1 la Ordinul EDUCATIE nr. 5196/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301366",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301366",
+     "sha256": "141f0263d6c73c6d2c879ccfefcef571364f17a7dc6a491c9bff2bdc6ab5e55a"
     }
    ]
   },
@@ -483,6 +768,36 @@
    ]
   },
   {
+   "slug": "anexa-ordin-finante-736-2025-anexa",
+   "path": "anexa/ordin-finante-736-2025/anexa",
+   "short": "Anexa la Ordin finante nr. 736/2025",
+   "title": "Norme metodologice din 5 mai 2025 privind mecanismul de acordare și derulare a împrumuturilor acordate unităților/subdiviziunilor administrativ-teritoriale conform Ordonanței de urgență a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului, documentele în baza cărora se acordă împrumutul și cele care stau la baza obținerii avizului Comisiei de autorizare a împrumuturilor locale, precum și modul de reflectare a sumelor respective în bugetele instituțiilor publice locale (anexa la Ordinul FINANTE nr. 736/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297796",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297796",
+     "sha256": "58aa35532adbf497362de51a87c8bd1b192250c63cc5dfd5b19d82e16a3501f9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-guvern-233-2025-anexa",
+   "path": "anexa/ordin-guvern-233-2025/anexa",
+   "short": "Anexa la Ordin guvern nr. 233/2025",
+   "title": "Metodologie din 26 martie 2025 privind atribuirea finanțării de către Secretariatul General al Guvernului prin Serviciul dezvoltare comunitară pentru proiectele aferente anului 2025 (anexa la Ordinul GUVERN nr. 233/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296324",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296324",
+     "sha256": "032601aa31ae42d94487e7f5e7778fe407b934b0c51c5d0ecd694884492b9a8f"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-interne-120-2025-anexa",
    "path": "anexa/ordin-interne-120-2025/anexa",
    "short": "Anexa la Ordin interne nr. 120/2025",
@@ -494,6 +809,21 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301350",
      "sha256": "b75add1d3dd632b690b9d43be60a01f6029d122ea553f1896f76cd8d4c271837"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-1231-2025-anexa",
+   "path": "anexa/ordin-mediu-1231-2025/anexa",
+   "short": "Anexa la Ordin mediu nr. 1231/2025",
+   "title": "Ghid de finanțare din 23 aprilie 2025 a Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic 2025-2030 (anexa la Ordinul MEDIU nr. 1231/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296871",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296871",
+     "sha256": "501525fe7344acd7b9d24343170665c9e49d936bd7e7144777ee6e5574463a33"
     }
    ]
   },
@@ -558,6 +888,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-sanatate-1297-2025-anexa",
+   "path": "anexa/ordin-sanatate-1297-2025/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1297/2025",
+   "title": "Norme din 29 aprilie 2025 privind autorizarea funcționării și a activităților specifice domeniului transfuzional desfășurate la nivelul Institutului Național de Transfuzie Sanguină \"Prof. Dr. C. T. Nicolau\", al centrelor de transfuzie sanguină, precum și al unităților de transfuzie sanguină din cadrul unităților sanitare cu paturi (anexa la Ordinul SANATATE nr. 1297/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298148",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298148",
+     "sha256": "e3fbccdad805008da63a306ab05f37ac2f2d1d005b986368a406f5cce4379a8d"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-sanatate-1369-2025-anexa",
    "path": "anexa/ordin-sanatate-1369-2025/anexa",
    "short": "Anexa la Ordin sanatate nr. 1369/2025",
@@ -599,6 +944,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306561",
      "sha256": "638b946498d533feddcded880c6cb9f1560346c0cb0d0a0ccc1e368f9ee47cbe"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1964-2025-anexa-4",
+   "path": "anexa/ordin-sanatate-1964-2025/anexa-4",
+   "short": "Anexa nr. 4 la Ordin sanatate nr. 1964/2025",
+   "title": "Metodologie din 11 decembrie 2025 de ocupare a posturilor prin integrare clinică (anexa nr. 4 la Ordinul SANATATE nr. 1964/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305576",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305576",
+     "sha256": "2a81e7d3f947cbc768f0587ce916f7b14b5b3901999dacfed99f3eb0dc558526"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-328-2025-anexa-9",
+   "path": "anexa/ordin-sanatate-328-2025/anexa-9",
+   "short": "Anexa nr. 9 la Ordin sanatate nr. 328/2025",
+   "title": "Norme din 31 ianuarie 2025 privind condițiile pe care trebuie să le îndeplinească un centru rezidențial pentru persoane vârstnice în vederea obținerii autorizației sanitare de funcționare (anexa nr. 9 la Ordinul SANATATE nr. 328/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294594",
+   "versions": [
+    {
+     "from": "2025-03-08",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294594",
+     "sha256": "44992105c9c8ad48e99ab18a570ba9efe63046fc61881b7f0a9c7ffbd9021a5f"
     }
    ]
   },
@@ -659,6 +1034,51 @@
      "units": 78,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305779",
      "sha256": "8c654f78d201572bc52ba1c730b2dddfa8da23b42b00d1a8c656e50d693a147b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-267-2025-anexa",
+   "path": "anexa/ordin-transporturi-267-2025/anexa",
+   "short": "Anexa la Ordin transporturi nr. 267/2025",
+   "title": "Norme din 18 martie 2025 privind efectuarea verificării aprofundate a antecedentelor persoanelor, conform prevederilor art. 4 din Ordonanța de urgență a Guvernului nr. 7/2022 privind stabilirea unor măsuri pentru aplicarea Regulamentului de punere în aplicare (UE) 2015/1.998 din 5 noiembrie 2015 de stabilire a măsurilor detaliate de implementare a standardelor de bază comune în domeniul securității aviației, așa cum a fost modificat prin Regulamentul de punere în aplicare (UE) 2019/103 al Comisiei din 23 ianuarie 2019 (anexa la Ordinul TRANSPORTURI nr. 267/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297898",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297898",
+     "sha256": "e5852d585149b5b620bbbcf1dc08c5a4964b7071b13272215e587ff2875f605d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-390-2025-anexa",
+   "path": "anexa/ordin-transporturi-390-2025/anexa",
+   "short": "Anexa la Ordin transporturi nr. 390/2025",
+   "title": "Ghidul solicitantului din 24 aprilie 2025 privind sprijinirea investițiilor în noi capacități de producere a energiei electrice produse din surse regenerabile pentru autoconsumul aerodromurilor, inclusiv sisteme de stocare a energiei (anexa la Ordinul TRANSPORTURI nr. 390/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297892",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297892",
+     "sha256": "53c8212251c317bde4a0fdaab01315dbfe14c151a06ac01ad868d6978b49add6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-458-2025-anexa-3",
+   "path": "anexa/ordin-transporturi-458-2025/anexa-3",
+   "short": "Anexa nr. 3 la Ordin transporturi nr. 458/2025",
+   "title": "Procedură din 12 mai 2025 privind aplicarea măsurii de imobilizare prevăzute la art. 9 alin. (2) și (2^1) din Ordonanța Guvernului nr. 37/2007 privind stabilirea cadrului de aplicare a regulilor privind perioadele de conducere, pauzele și perioadele de odihnă ale conducătorilor auto și utilizarea aparatelor de înregistrare a activității acestora (anexa nr. 3 la Ordinul TRANSPORTURI nr. 458/2025)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298302",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298302",
+     "sha256": "dda804b5087b39eeb4e73adeb0c3edaa73b393624661c4b3843b4c007fd22fa1"
     }
    ]
   },

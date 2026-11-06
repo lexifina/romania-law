@@ -1,0 +1,29 @@
+# Norme metodologice din 5 august 2004 privind acordarea, verificarea și plata ajutorului financiar pentru producția internă de semințe certificată oficial, folosită pentru însămânțare în campaniile agricole din toamna anului 2004, primăvara și toamna anului 2005 și primăvara anului 2006 (anexa nr. 5 la Hotărârea Guvernului nr. 1238/2004)
+
+Anexa nr. 5 la HG nr. 1238/2004 · 1 versions, from 2004-08-16 (latest in force: 2004-08-16) · <https://legislatie.just.ro/Public/DetaliiDocument/54402>
+
+**Status:** Published as it appeared in the Monitorul Oficial, as a document of its own approved by HG nr. 1238/2004; later amendments, if any, are not yet applied.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Articolul 1 | [art-001.md](art-001.md) | 0 |  |
+| Articolul 2 | [art-002.md](art-002.md) | 0 |  |
+| Articolul 3 | [art-003.md](art-003.md) | 0 |  |
+| Articolul 4 | [art-004.md](art-004.md) | 0 |  |
+| Articolul 5 | [art-005.md](art-005.md) | 0 |  |
+| Articolul 6 | [art-006.md](art-006.md) | 0 |  |
+| Articolul 7 | [art-007.md](art-007.md) | 0 |  |
+| Articolul 8 | [art-008.md](art-008.md) | 0 |  |
+| Articolul 9 | [art-009.md](art-009.md) | 0 |  |
+| Articolul 10 | [art-010.md](art-010.md) | 0 |  |
+| Articolul 11 | [art-011.md](art-011.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+
+Act id: `anexa-hg-1238-2004-anexa-5` (tags `anexa-hg-1238-2004-anexa-5/<day>`; `python tools/on.py <day> anexa-hg-1238-2004-anexa-5`).
+
+## Decisions made by hand
+
+- Anexa nr. 5 la HG nr. 1238/2004: added from the official web service of the Portalul legislativ (FreeWebService) as the norms published in Monitorul Oficial nr. 738 of 16 August 2004 as a document of its own (document 54402, retrieved 2026-11-02, held on disk; the service was not requested again). It is published under the act that approves it, HG nr. 1238/2004 (document 54401), as its annex. Whether later acts amended it has not yet been checked; amendments, if any, are not applied here.
+- Anexa nr. 5 la HG nr. 1238/2004: built by Lexifina's norms lane with the default rules for a document known from the official web service alone, and no ruling made for this document alone: its approving act was found because the approving act is the only act of the same Monitorul Oficial issue and the same day that approves a norms of this subject (its title and opening share 75% of the document's subject words).
+- Anexa nr. 5 la HG nr. 1238/2004: the first version is the norms as published in Monitorul Oficial nr. 738 of 16 August 2004, in force from its publication in the Monitorul Oficial.

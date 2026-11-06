@@ -348,6 +348,21 @@
    ]
   },
   {
+   "slug": "norma-anaf-1947-2021",
+   "path": "norma/anaf/2021/1947",
+   "short": "Norma anaf nr. 1947/2021",
+   "title": "Norma nr. 1.947/2021 din 8 decembrie 2021 privind funcționarea Laboratorului vamal central și modalitatea de efectuare a analizelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250194",
+   "versions": [
+    {
+     "from": "2022-01-05",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250194",
+     "sha256": "58897bdbe55e0cfc5cc0f12d779f9def1caa8514222b5bf7e07f6794b5f84b0d"
+    }
+   ]
+  },
+  {
    "slug": "norma-asf-12-2021",
    "path": "norma/asf/2021/12",
    "short": "Norma asf nr. 12/2021",
@@ -359,6 +374,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244864",
      "sha256": "d265dba84b5bd04978f44382083605c0ee6bf606332a5b5b8fad934e1a8296a7"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cifga-3-2021",
+   "path": "norma/cifga/2021/3",
+   "short": "Norma cifga nr. 3/2021",
+   "title": "Norma nr. 3/2021 N3.13 din 10 decembrie 2021 \"Garanții EximBank în cadrul schemei de ajutor de stat COVID-19\" (NI-GAR-14-IV/0)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250473",
+   "versions": [
+    {
+     "from": "2022-01-14",
+     "units": 63,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250473",
+     "sha256": "1107b3afb4e5faf7e086337983447d67da0505921d8fa9395f2c8055bd44f0cf"
     }
    ]
   }

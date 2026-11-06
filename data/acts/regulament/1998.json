@@ -172,6 +172,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/10958",
 "issuer": "cnvm",
 "joint": []
+},
+{
+"slug": "regulament-justitie-1253-1998",
+"path": "regulament/justitie/1998/1253",
+"kind": "regulament",
+"year": "1998",
+"number": "1253",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 1.253/1998 /C/V.S. din 15 iulie 1998 privind modul de constituire, de evidențiere și de folosire a fondului de 15% pentru stimularea executorilor judecătorești",
+"short": "Regulament justitie nr. 1253/1998",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1998-09-14",
+"latest": "1998-09-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/15655",
+"issuer": "justitie",
+"joint": []
 }
 ]
 }

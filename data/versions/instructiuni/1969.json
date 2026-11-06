@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/1969",
+ "acts": [
+  {
+   "slug": "instructiuni-agricultura-380-1969",
+   "path": "instructiuni/agricultura/1969/380",
+   "short": "Instrucțiuni agricultura nr. 380/1969",
+   "title": "Instrucțiunile nr. 380/1969 privind termenele, modalitățile și epocile de tăiere, scoatere și transport ale materialului lemnos din păduri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47547",
+   "versions": [
+    {
+     "from": "1969-12-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47547",
+     "sha256": "388e1f0d344efc3e8a5bd884cb6a00bc937d39c31f0b31cb1146aa7bbb8d3443"
+    }
+   ]
+  }
+ ]
+}

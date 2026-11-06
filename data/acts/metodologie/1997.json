@@ -1,0 +1,25 @@
+{
+"country": "RO",
+"shard": "metodologie/1997",
+"acts": [
+{
+"slug": "metodologie-interne-1-1997",
+"path": "metodologie/interne/1997/1",
+"kind": "metodologie",
+"year": "1997",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Metodologia nr. 1/1997 pentru aplicarea unitară a dispozițiilor Legii nr. 119/1996 cu privire la actele de stare civilă",
+"short": "Metodologie interne nr. 1/1997",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1997-11-19",
+"latest": "1997-11-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/10768",
+"issuer": "interne",
+"joint": []
+}
+]
+}

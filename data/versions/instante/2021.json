@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "instante/2021",
+ "acts": [
+  {
+   "slug": "instante-ca-bucuresti-decizie-2021-256",
+   "path": "instante/ca-bucuresti/decizie/2021/256",
+   "short": "Decizia Curții de Apel București nr. 256/2021",
+   "title": "Decizia Curții de Apel București nr. 256/2021, publicată în Monitorul Oficial nr. 713 din 20 iulie 2021",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/244488",
+   "versions": [
+    {
+     "from": "2021-07-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/244488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-incheiere-2021-2021-06-24",
+   "path": "instante/ca-bucuresti/incheiere/2021/2021-06-24",
+   "short": "Încheierea Curții de Apel București din 2021-06-24",
+   "title": "ÎNCHEIERE din 24 iunie 2021 Şedinţa publică din 24 iunie 2021",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/282012",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/282012",
+     "sha256": "082db07b38b2658dc46988414dbe761bb7301d4ef11051003f581141aba799ef"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-incheiere-2021-2021-12-02",
+   "path": "instante/ca-bucuresti/incheiere/2021/2021-12-02",
+   "short": "Încheierea Curții de Apel București din 2021-12-02",
+   "title": "ÎNCHEIERE din 2 decembrie 2021 Şedinţa publică din 2 decembrie 2021",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/271868",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/271868",
+     "sha256": "77d8a018a1a2697f5e08925d7181b44a35cc176504294726d82cd6c92afbb75b"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-sentinta-2021-1028",
+   "path": "instante/ca-bucuresti/sentinta/2021/1028",
+   "short": "Sentința Curții de Apel București nr. 1028/2021",
+   "title": "Sentința Curții de Apel București nr. 1028/2021, publicată în Monitorul Oficial nr. 378 din 23 aprilie 2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/282013",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/282013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-sentinta-2021-1076",
+   "path": "instante/ca-bucuresti/sentinta/2021/1076",
+   "short": "Sentința Curții de Apel București nr. 1076/2021",
+   "title": "Sentința Curții de Apel București nr. 1076/2021, publicată în Monitorul Oficial nr. 805 din 23 august 2021",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/245450",
+   "versions": [
+    {
+     "from": "2021-08-23",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/245450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-sentinta-2021-1796",
+   "path": "instante/ca-bucuresti/sentinta/2021/1796",
+   "short": "Sentința Curții de Apel București nr. 1796/2021",
+   "title": "SENTINȚĂ CIVILĂ nr. 1.796 din 3 decembrie 2021 referitoare la soluţionarea acţiunii în contencios administrativ şi fiscal formulate de reclamanţii X şi X, în contradictoriu cu pârâţii Comitetul Naţional pentru Situaţii Speciale de Urgenţă şi Guvernul României şi petentul Ministerul Afacerilor Interne prin Direcţia generală juridică, având ca obiect \"ordonanţă preşedinţială\"",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/271869",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/271869",
+     "sha256": "1091c5608421073a7005fa7aa0db92821908ffbb63dc5978d42e11d347c3ba70"
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-pitesti-sentinta-2021-133f",
+   "path": "instante/ca-pitesti/sentinta/2021/133f",
+   "short": "Sentința Curții de Apel Pitești nr. 133f/2021",
+   "title": "Sentința Curții de Apel Pitești nr. 133f/2021, publicată în Monitorul Oficial nr. 450 din 16 mai 2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/282954",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/282954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-suceava-sentinta-2021-42",
+   "path": "instante/ca-suceava/sentinta/2021/42",
+   "short": "Sentința Curții de Apel Suceava nr. 42/2021",
+   "title": "Sentința Curții de Apel Suceava nr. 42/2021, publicată în Monitorul Oficial nr. 878 din 14 septembrie 2021",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/246327",
+   "versions": [
+    {
+     "from": "2021-09-14",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/246327",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

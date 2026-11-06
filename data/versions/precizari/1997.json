@@ -31,6 +31,21 @@
      "sha256": "0f5dcc19aa2a2766adfdcc901de2e69884576a48b4571e7d4755bf9fa42edbd7"
     }
    ]
+  },
+  {
+   "slug": "precizari-finante-9634-1997",
+   "path": "precizari/finante/1997/9634",
+   "short": "Precizări finante nr. 9634/1997",
+   "title": "Precizările nr. 9.634/1997 pentru aplicarea prevederilor art. 3 alin. (3) din Ordonanța Guvernului nr. 14/1997 cu privire la rectificarea bugetului de stat pe anul 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13893",
+   "versions": [
+    {
+     "from": "1997-09-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13893",
+     "sha256": "2daea65434d8c082b1c561417cd7c085cef8396b01c124fbd6db3e913bd0848e"
+    }
+   ]
   }
  ]
 }

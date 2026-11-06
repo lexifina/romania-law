@@ -1,0 +1,1641 @@
+{
+ "country": "RO",
+ "shard": "anexa/2024",
+ "acts": [
+  {
+   "slug": "anexa-decizie-ccir-13-2024-anexa",
+   "path": "anexa/decizie-ccir-13-2024/anexa",
+   "short": "Anexa la Decizia ccir nr. 13/2024",
+   "title": "Regulament din 17 decembrie 2024 privind organizarea și funcționarea Curții de Arbitraj Comercial Internațional de pe lângă Camera de Comerț și Industrie a României (anexa la Decizia CCIR nr. 13/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295744",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295744",
+     "sha256": "6b8d63ffdb65b8051b5f32919b630ba3ba1524fa77f0602e482b4fa4848740f4"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1074-2024-anexa-1",
+   "path": "anexa/hg-1074-2024/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 1074/2024",
+   "title": "Norme metodologice din 28 august 2024 de punere în aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 75/2024 privind reglementarea etichetării cheltuielilor bugetare și cheltuielilor fiscale pentru bugetarea verde (anexa nr. 1 la Hotărârea Guvernului nr. 1074/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287945",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287945",
+     "sha256": "c11a689c3f29a625cc0a5cebfb1099f43bf3cbcc4ad931fb0bde85b94a5ae8ea"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1074-2024-anexa-2",
+   "path": "anexa/hg-1074-2024/anexa-2",
+   "short": "Anexa nr. 2 la HG nr. 1074/2024",
+   "title": "Regulament din 28 august 2024 privind organizarea, funcționarea și atribuțiile Comitetului interministerial pentru etichetarea cheltuielilor bugetare și cheltuielilor fiscale (anexa nr. 2 la Hotărârea Guvernului nr. 1074/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287946",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287946",
+     "sha256": "890d218c5c83ec760d09d45d95f0d79a95d7bef89b36077a5c20add2074697e4"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-112-2024-anexa",
+   "path": "anexa/hg-112-2024/anexa",
+   "short": "Anexa la HG nr. 112/2024",
+   "title": "Regulament din 8 februarie 2024 de organizare și funcționare a Comitetului de organizare a funeraliilor de stat și a componenței acestuia (anexa la Hotărârea Guvernului nr. 112/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278942",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278942",
+     "sha256": "72abe544a815e74d6f645bffe10d597d5bb5ce785492a66f3d2daec3875a38bb"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1218-2024-anexa",
+   "path": "anexa/hg-1218-2024/anexa",
+   "short": "Anexa la HG nr. 1218/2024",
+   "title": "Norme metodologice din 2 octombrie 2024 de aplicare a prevederilor Ordonanței Guvernului nr. 24/2016 privind organizarea și desfășurarea activității de neutralizare a subproduselor de origine animală care nu sunt destinate consumului uman (anexa la Hotărârea Guvernului nr. 1218/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289176",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289176",
+     "sha256": "1b2e27918d5afd058beba5f5a05ada5442fcf17905529f69e5950ce90beb8662"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1490-2024-anexa",
+   "path": "anexa/hg-1490-2024/anexa",
+   "short": "Anexa la HG nr. 1490/2024",
+   "title": "Norme metodologice din 21 noiembrie 2024 de aplicare a prevederilor art. V din Legea nr. 126/2024 privind unele măsuri pentru consolidarea capacității de combatere a evaziunii fiscale, precum și pentru modificarea și completarea unor acte normative (anexa la Hotărârea Guvernului nr. 1490/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291350",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291350",
+     "sha256": "9f5edffd5533b387959b9c9b49146fa5f0a85dee7475b204dd6d1e80479dc335"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1563-2024-anexa",
+   "path": "anexa/hg-1563-2024/anexa",
+   "short": "Anexa la HG nr. 1563/2024",
+   "title": "Metodologie din 4 decembrie 2024 de organizare și funcționare a serviciilor de educație timpurie complementare (anexa la Hotărârea Guvernului nr. 1563/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292195",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292195",
+     "sha256": "143abda042269b1f24407fd4785754e9fc450a079bb8f7af696d20c722d206ae"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1568-2024-anexa",
+   "path": "anexa/hg-1568-2024/anexa",
+   "short": "Anexa la HG nr. 1568/2024",
+   "title": "Norme metodologice din 4 decembrie 2024 privind organizarea concursurilor pentru ocuparea posturilor vacante ale personalului de cercetare, dezvoltare și inovare din organizațiile de cercetare (anexa la Hotărârea Guvernului nr. 1568/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292335",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292335",
+     "sha256": "f0791c9ad4f6ce8fefb94782c810ae495e00c4c69f6df21af33a1ee1996993b0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1569-2024-anexa",
+   "path": "anexa/hg-1569-2024/anexa",
+   "short": "Anexa la HG nr. 1569/2024",
+   "title": "Norme metodologice din 4 decembrie 2024 privind organizarea examenului de promovare pentru obținerea gradului profesional de către personalul de cercetare, dezvoltare și inovare din organizațiile de cercetare (anexa la Hotărârea Guvernului nr. 1569/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292226",
+   "versions": [
+    {
+     "from": "2025-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292226",
+     "sha256": "840cbdbd38ed921998b8d2f615a56b85972c76085ae22e70ad81b9ce97695e28"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-27-2024-anexa",
+   "path": "anexa/hg-27-2024/anexa",
+   "short": "Anexa la HG nr. 27/2024",
+   "title": "Ghidul solicitantului din 11 ianuarie 2024 aferent schemei de ajutor de stat instituite prin Ordonanța de urgență a Guvernului nr. 68/2023 pentru aprobarea și finanțarea Programului național pentru dezvoltarea producției interne de produse și materiale de construcții (anexa la Hotărârea Guvernului nr. 27/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278198",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278198",
+     "sha256": "c5d279f47b6203ad99ae38caf664a9de7a9ca19d8036e369a23de8c331f3258b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-437-2024-anexa",
+   "path": "anexa/hg-437-2024/anexa",
+   "short": "Anexa la HG nr. 437/2024",
+   "title": "Norme metodologice din 23 aprilie 2024 de aplicare a Legii nr. 216/2015 privind acordarea pensiei de serviciu membrilor Corpului diplomatic și consular al României (anexa la Hotărârea Guvernului nr. 437/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282394",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282394",
+     "sha256": "0fc2c99cb1babd5214244575be8381ce345140aea636c65147f86eb568b856b7"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-438-2024-anexa",
+   "path": "anexa/hg-438-2024/anexa",
+   "short": "Anexa la HG nr. 438/2024",
+   "title": "Norme metodologice din 23 aprilie 2024 de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 124/2023 privind derularea operațiunilor de cooperare tehnologică și industrială în domeniile apărării și securității, înființarea, organizarea și funcționarea Agenției Române de Cooperare Tehnologică și Industrială pentru Securitate și Apărare și pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare (anexa la Hotărârea Guvernului nr. 438/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282327",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282327",
+     "sha256": "389649b76da0bed405d142b73c9098cf466b73bbf68106decffa4787c283138f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-483-2024-anexa",
+   "path": "anexa/hg-483-2024/anexa",
+   "short": "Anexa la HG nr. 483/2024",
+   "title": "Regulament din 9 mai 2024 privind accesarea și implementarea mecanismului de asistență internațională prin intermediul Rețelei de asistență și răspuns la urgență nucleară sau radiologică (RANET - Response Assistance Network) (anexa la Hotărârea Guvernului nr. 483/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282928",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282928",
+     "sha256": "e8a853b5d24efde09eaef390fe9af08bf608d6f1404ef5f6f799b75a075579b6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-56-2024-anexa",
+   "path": "anexa/hg-56-2024/anexa",
+   "short": "Anexa la HG nr. 56/2024",
+   "title": "Metodologie-cadru din 25 ianuarie 2024 privind organizarea și desfășurarea examenului de promovare în cariera didactică, în învățământul superior (anexa la Hotărârea Guvernului nr. 56/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278712",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278712",
+     "sha256": "aab5d8b6f3d6f7e0bd3eb024eee0053674b164a0481cb3e8e5b40a1c87c8e811"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-62-2024-anexa",
+   "path": "anexa/hg-62-2024/anexa",
+   "short": "Anexa la HG nr. 62/2024",
+   "title": "Norme metodologice din 31 ianuarie 2024 privind solicitarea și comunicarea datelor și informațiilor prevăzute la art. 25 alin. (1) din Legea nr. 58/2023 privind securitatea și apărarea cibernetică a României, precum și pentru modificarea și completarea unor acte normative (anexa la Hotărârea Guvernului nr. 62/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278779",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278779",
+     "sha256": "67b5825e8b5f84e53486765f9fc2183d45d47ec851ff5912c3793659a5e4e224"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-72-2024-anexa",
+   "path": "anexa/hg-72-2024/anexa",
+   "short": "Anexa la HG nr. 72/2024",
+   "title": "Regulament-cadru din 31 ianuarie 2024 privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă, precum și a condițiilor de acordare a acestuia pentru familia ocupațională de funcții bugetare \"Apărare, ordine publică și securitate națională\" (anexa la Hotărârea Guvernului nr. 72/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278863",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278863",
+     "sha256": "c1b50c4318d5a6fb28cebee10f654442d911c874b91ae7fc4e9f16fa1c51f7f8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-768-2024-anexa",
+   "path": "anexa/hg-768-2024/anexa",
+   "short": "Anexa la HG nr. 768/2024",
+   "title": "Norme metodologice din 4 iulie 2024 pentru punerea în aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 29/2024 pentru aprobarea Programului național de investiții în infrastructura unităților spitalicești și pentru abrogarea Ordonanței de urgență a Guvernului nr. 55/2023 privind unele măsuri pentru implementarea proiectelor de infrastructură publică de sănătate cu finanțare din fonduri externe nerambursabile în cadrul Programului Sănătate și din împrumuturi contractate cu instituțiile financiare internaționale (anexa la Hotărârea Guvernului nr. 768/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285182",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285182",
+     "sha256": "7a5eacf39cf6f4d7b3219546ae10007b95b9b0307908a771bc6d8a2396300ee2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-877-2024-anexa-1",
+   "path": "anexa/hg-877-2024/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 877/2024",
+   "title": "Norme din 18 iulie 2024 privind recoltarea, depozitarea și transportul mostrelor biologice în vederea stabilirii îmbibației de alcool în sânge sau a prezenței în organism a substanțelor psihoactive în cazul persoanelor implicate în evenimente sau împrejurări în legătură cu traficul rutier (anexa nr. 1 la Hotărârea Guvernului nr. 877/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285722",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285722",
+     "sha256": "bbb8e0cfb26978a7ca99cf0058c4e11ea4588970ee4302698f76e6bc5ffade03"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-962-2024-anexa",
+   "path": "anexa/hg-962-2024/anexa",
+   "short": "Anexa la HG nr. 962/2024",
+   "title": "Metodologie din 8 august 2024 de evaluare externă a calității educației în învățământul superior (anexa la Hotărârea Guvernului nr. 962/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/286995",
+   "versions": [
+    {
+     "from": "2025-02-09",
+     "units": 69,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286995",
+     "sha256": "a4396189f92071c58090c06d1ee4cbb6a36898772a5e7c1642bcfb9724bdadab"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-camera-3-2024-anexa",
+   "path": "anexa/hotarare-camera-3-2024/anexa",
+   "short": "Anexa la Hotărârea camera nr. 3/2024",
+   "title": "Regulament din 18 martie 2024 de organizare și funcționare a Autorității Electorale Permanente (anexa la Hotărârea CAMERA nr. 3/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280147",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280147",
+     "sha256": "1c4c3aed694c34a1bc613316a9b5ddde99b985b50f7dab7bccc8573a5d2af72e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-camera-4-2024-anexa",
+   "path": "anexa/hotarare-camera-4-2024/anexa",
+   "short": "Anexa la Hotărârea camera nr. 4/2024",
+   "title": "Regulament din 25 septembrie 2024 de organizare și funcționare a Consiliului Legislativ (anexa la Hotărârea CAMERA nr. 4/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288889",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288889",
+     "sha256": "4786068b7e64f775e02fdb3a3f76f5ad11b9a27c20bcfe809b39e801422b9d5a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-272-2024-anexa",
+   "path": "anexa/ordin-agricultura-272-2024/anexa",
+   "short": "Anexa la Ordin agricultura nr. 272/2024",
+   "title": "Norme metodologice din 4 iulie 2024 de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 11/2024 privind gestionarea financiară a alocărilor din Fondul european pentru afaceri maritime, pescuit și acvacultură aferente politicii comune de pescuit și politicii maritime integrate la nivelul Uniunii Europene, precum și a fondurilor alocate de la bugetul de stat pentru perioada de programare 2021-2027 (anexa la Ordinul AGRICULTURA nr. 272/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285356",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285356",
+     "sha256": "e4c528894bfc10a971e6667d8e5faa2893c02336d29f8885e07c58eaedd36397"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-441-2024-anexa",
+   "path": "anexa/ordin-agricultura-441-2024/anexa",
+   "short": "Anexa la Ordin agricultura nr. 441/2024",
+   "title": "Procedură operațională din 28 noiembrie 2024 privind efectuarea controlului pe teren pentru cererile de plată aferente pachetului 8, măsura 10 \"Creșterea animalelor de fermă din rase locale în pericol de abandon\" din cadrul Programului Național de Dezvoltare Rurală 2014-2020/intervenției DR-03 - Agromediu și climă - Creșterea animalelor de fermă din rase locale în pericol de abandon din cadrul Planului strategic PAC 2023-2027 (anexa la Ordinul AGRICULTURA nr. 441/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292135",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292135",
+     "sha256": "fef5f8680957143722478af60ee8db469413e734115ce9339770fb465acc2a7f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-88-2024-anexa",
+   "path": "anexa/ordin-agricultura-88-2024/anexa",
+   "short": "Anexa la Ordin agricultura nr. 88/2024",
+   "title": "Procedură din 28 februarie 2024 de acordare și plată a ajutoarelor de stat în cadrul schemei de ajutor de stat \"Creditul fermierului\" (anexa la Ordinul AGRICULTURA nr. 88/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279534",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279534",
+     "sha256": "26d8041a76dc28ac8b25d1c6cb6f7e4b03fdbfc948c8685272014d4216213c80"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-amepip-126-2024-anexa",
+   "path": "anexa/ordin-amepip-126-2024/anexa",
+   "short": "Anexa la Ordin amepip nr. 126/2024",
+   "title": "Regulament-cadru din 12 martie 2024 de organizare și funcționare al comisiilor de selecție și nominalizare a candidaților pentru postul de membru în cadrul consiliilor de administrație/supraveghere ale întreprinderilor publice (anexa la Ordinul AMEPIP nr. 126/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/281063",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281063",
+     "sha256": "d4423ecea61cd7dd584920af3b56d738ae22a31943360a842c12b10676dd199b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-3562-2024-anexa-1",
+   "path": "anexa/ordin-anaf-3562-2024/anexa-1",
+   "short": "Anexa nr. 1 la Ordin anaf nr. 3562/2024",
+   "title": "Procedură din 28 iunie 2024 privind redirecționarea impozitului pe profit, potrivit legii, pentru efectuarea de sponsorizări și/sau acte de mecenat, precum și a modelului și conținutului unor formulare (anexa nr. 1 la Ordinul ANAF nr. 3562/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285150",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285150",
+     "sha256": "dabe4dc61a0df9832a6c2370af59b7d29a894f434a98de4152367d38edbbd87f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-ancpi-387-2024-anexa",
+   "path": "anexa/ordin-ancpi-387-2024/anexa",
+   "short": "Anexa la Ordin ancpi nr. 387/2024",
+   "title": "Procedură din 10 aprilie 2024 și modalitatea de alocare a sumelor, precum și a raportării de către beneficiari a stadiului de execuție a lucrărilor de întocmire a planurilor parcelare în vederea înscrierii din oficiu a imobilelor cuprinse în aceste planuri (anexa la Ordinul ANCPI nr. 387/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/281929",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281929",
+     "sha256": "e61303c7b7ba268c1e5c459a8c47b10bae209c03e77f99e24dc3d3dbaeeb6082"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anfp-332-2024-anexa",
+   "path": "anexa/ordin-anfp-332-2024/anexa",
+   "short": "Anexa la Ordin anfp nr. 332/2024",
+   "title": "Metodologie-cadru din 19 februarie 2024 de analiză a posturilor (anexa la Ordinul ANFP nr. 332/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279374",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279374",
+     "sha256": "aa0d15ecf1dc6541319b26ff1e7913edacc9750d17d3b57c5f750d9c1f1a5a31"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anfp-436-2024-anexa",
+   "path": "anexa/ordin-anfp-436-2024/anexa",
+   "short": "Anexa la Ordin anfp nr. 436/2024",
+   "title": "Instrucțiuni din 26 martie 2024 privind utilizarea instrumentelor informatice de extragere automată a subiectelor de către comisia de concurs pentru ocuparea unor funcții publice de execuție vacante și temporar vacante și a unor funcții publice de conducere vacante, precum și la concursul de promovare în clasă și în grad profesional (anexa la Ordinul ANFP nr. 436/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280592",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280592",
+     "sha256": "31865ddd0ec6d6317060a322041f4e15bf6620b26d52752f1c659623dfa23589"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anfp-437-2024-anexa",
+   "path": "anexa/ordin-anfp-437-2024/anexa",
+   "short": "Anexa la Ordin anfp nr. 437/2024",
+   "title": "Instrucțiuni din 26 martie 2024 privind comunicarea înștiințării de către autoritățile și instituțiile publice, precum și publicarea anunțului de concurs pe site-ul Agenției Naționale a Funcționarilor Publici (anexa la Ordinul ANFP nr. 437/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280594",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280594",
+     "sha256": "935ed096b73f5fac09d61167741e10796b8fe060720d1cd23329ecbf030af5d0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-ansvsa-10-2024-anexa",
+   "path": "anexa/ordin-ansvsa-10-2024/anexa",
+   "short": "Anexa la Ordin ansvsa nr. 10/2024",
+   "title": "Normă sanitară veterinară din 18 ianuarie 2024 privind procedura de înregistrare/autorizare sanitar-veterinară a unităților, centrelor de colectare, transportatorilor și mijloacelor de transport rutier din domeniul sănătății și protecției animalelor (anexa la Ordinul ANSVSA nr. 10/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279034",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 167,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279034",
+     "sha256": "b322420a4f2c604c8ce383ac3bbdda0cc4d38bb098561cd5735495fd91c9946b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-113-2024-anexa",
+   "path": "anexa/ordin-aparare-113-2024/anexa",
+   "short": "Anexa la Ordin aparare nr. 113/2024",
+   "title": "Metodologie-cadru din 29 mai 2024 privind organizarea și desfășurarea admiterii în școlile militare de maiștri militari și subofițeri (anexa la Ordinul APARARE nr. 113/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283794",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283794",
+     "sha256": "d9cf3e7b72379c61afd69f5165f2ec3fddb871b219930b793675e823f752f09f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-43-2024-anexa",
+   "path": "anexa/ordin-aparare-43-2024/anexa",
+   "short": "Anexa la Ordin aparare nr. 43/2024",
+   "title": "Norme din 14 martie 2024 privind certificarea și supravegherea continuă a agenților aeronautici care au ca obiect de activitate furnizarea serviciilor de navigație aeriană militare (anexa la Ordinul APARARE nr. 43/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280485",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280485",
+     "sha256": "04de32a2c23b5eee73fab1cbe3b28ca295c3ae50b0ca28de47f48f55a3211b6a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cncan-135-2024-anexa",
+   "path": "anexa/ordin-cncan-135-2024/anexa",
+   "short": "Anexa la Ordin cncan nr. 135/2024",
+   "title": "Norme din 9 septembrie 2024 privind procedurile de autorizare pentru activități care implică materiale, dispozitive, echipamente și informațiile aferente, pertinente pentru proliferarea armelor nucleare și a altor dispozitive nucleare explozive (anexa la Ordinul CNCAN nr. 135/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288834",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 94,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288834",
+     "sha256": "4f6d27eb5475fb010226c1c143e2ec5cad610cbd894b8e1682970350b765f1b9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cncd-27-2024-anexa",
+   "path": "anexa/ordin-cncd-27-2024/anexa",
+   "short": "Anexa la Ordin cncd nr. 27/2024",
+   "title": "Procedură internă din 7 februarie 2024 de soluționare a petițiilor și sesizărilor (anexa la Ordinul CNCD nr. 27/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278951",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278951",
+     "sha256": "83fd3250a7633ae40226f92c7912dd6b877ff541fdd5310849199e9e80f771ef"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-comunicatii-20717-2024-anexa",
+   "path": "anexa/ordin-comunicatii-20717-2024/anexa",
+   "short": "Anexa la Ordin comunicatii nr. 20717/2024",
+   "title": "Norme tehnice din 9 mai 2024 privind procedura de acreditare a administratorilor de arhivă electronică și procedura de avizare a sistemelor electronice de arhivare (anexa la Ordinul COMUNICATII nr. 20717/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282642",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282642",
+     "sha256": "371c5fdc0d40ac44222234d0b8c64aac6db96b58470573c1c5dfbe4a71697f83"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-comunicatii-21342-2024-anexa",
+   "path": "anexa/ordin-comunicatii-21342-2024/anexa",
+   "short": "Anexa la Ordin comunicatii nr. 21342/2024",
+   "title": "Regulament din 23 august 2024 de organizare și funcționare a Consiliului Național al Cercetării Științifice (anexa la Ordinul COMUNICATII nr. 21342/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287936",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287936",
+     "sha256": "935becdc383e2c42afe5d3bc7772e9b504db83a240f8845b117286e7bbe85a39"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-comunicatii-21343-2024-anexa",
+   "path": "anexa/ordin-comunicatii-21343-2024/anexa",
+   "short": "Anexa la Ordin comunicatii nr. 21343/2024",
+   "title": "Regulament din 23 august 2024 de organizare și funcționare a Consiliului Național de Etică a Cercetării Științifice, Dezvoltării Tehnologice și Inovării (anexa la Ordinul COMUNICATII nr. 21343/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287938",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287938",
+     "sha256": "d68535f44dc6c8e8262861aa0f234bc75fb6be9b08cef63d41a9c1d7a8464e7d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-comunicatii-21364-2024-anexa",
+   "path": "anexa/ordin-comunicatii-21364-2024/anexa",
+   "short": "Anexa la Ordin comunicatii nr. 21364/2024",
+   "title": "Norme metodologice din 29 august 2024 pentru punerea în aplicare a Programului național pentru transformarea digitală a autorităților publice locale (anexa la Ordinul COMUNICATII nr. 21364/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287891",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287891",
+     "sha256": "02420e64284790cdb9c0fe5dc78fa42e291292a4d429ee45ca108534cfd24b31"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cultura-2951-2024-anexa",
+   "path": "anexa/ordin-cultura-2951-2024/anexa",
+   "short": "Anexa la Ordin cultura nr. 2951/2024",
+   "title": "Norme metodologice din 6 iunie 2024 privind stoparea/recuperarea ajutorului de minimis acordat în cadrul Schemei de ajutor de minimis pentru sprijinirea inițiativelor culturale de accelerare a digitalizării producției și distribuției de filme, inclusiv de filme cinematografice, asociată Planului național de redresare și reziliență al României, pilonul IV, componenta 11 - Turism și cultură, investiția 7 (anexa la Ordinul CULTURA nr. 2951/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284119",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284119",
+     "sha256": "a3a3c9926a342afaeb42de3bf725deadd89d3b78a517930c36a55c8f8b900022"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cultura-3032-2024-anexa",
+   "path": "anexa/ordin-cultura-3032-2024/anexa",
+   "short": "Anexa la Ordin cultura nr. 3032/2024",
+   "title": "Regulament din 8 iulie 2024 de organizare și funcționare a Comisiei pentru verificarea îndeplinirii condițiilor de către organizațiile de creatori ce pot beneficia de sumele reprezentând valoarea timbrelor prevăzute de Legea nr. 35/1994 privind timbrul literar, cinematografic, teatral, muzical, folcloric, al artelor plastice, al arhitecturii și de divertisment (anexa la Ordinul CULTURA nr. 3032/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285540",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285540",
+     "sha256": "e01f1a07a7f3dc856c8b98b6b92773973fe054659c4dac5d9e1a4d782eaa1873"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cultura-3122-2024-anexa",
+   "path": "anexa/ordin-cultura-3122-2024/anexa",
+   "short": "Anexa la Ordin cultura nr. 3122/2024",
+   "title": "Regulament din 12 august 2024 de organizare și funcționare a Comisiei de Film în România, responsabilă cu aplicarea Procedurii de evaluare, aprobare și decontare a ajutorului de stat pentru proiectele care pot fi finanțate în cadrul schemei de ajutor de stat reglementate de Hotărârea Guvernului nr. 421/2018 pentru instituirea unei scheme de ajutor de stat privind sprijinirea producției de opere audiovizuale pe teritoriul României, începând cu sesiunea 2024, aprobată prin Decizia managerului Oficiului de Film și Investiții Culturale, interimar, nr. 659/2024 (anexa la Ordinul CULTURA nr. 3122/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287581",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287581",
+     "sha256": "5c59fafb9cd7ccd3b0877cf27ecabe90c79770d708b84c5a940d7a8588f49201"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dezvoltare-4176-2024-anexa",
+   "path": "anexa/ordin-dezvoltare-4176-2024/anexa",
+   "short": "Anexa la Ordin dezvoltare nr. 4176/2024",
+   "title": "Procedură din 19 noiembrie 2024 de omologare a traseelor cicloturistice (anexa la Ordinul DEZVOLTARE nr. 4176/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291762",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291762",
+     "sha256": "debf3020a910bf437265a015d8e39ab6ea91cba410329ac398fa89a680d796ec"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-106-2024-anexa",
+   "path": "anexa/ordin-economie-106-2024/anexa",
+   "short": "Anexa la Ordin economie nr. 106/2024",
+   "title": "Metodologie din 30 ianuarie 2024 de stabilire a sistemului de cooperare la nivel național și european între entitățile de soluționare alternativă a litigiilor (SAL) și autoritățile naționale și europene însărcinate cu punerea în aplicare a legislației privind protecția consumatorilor (anexa la Ordinul ECONOMIE nr. 106/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278851",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278851",
+     "sha256": "28fda00c96819a256585520a9717a9fa2dd5f29f7f847a134f00b2c5f63fb2c8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-107-2024-anexa",
+   "path": "anexa/ordin-economie-107-2024/anexa",
+   "short": "Anexa la Ordin economie nr. 107/2024",
+   "title": "Metodologie din 30 ianuarie 2024 de monitorizare a entităților de soluționare alternativă a litigiilor (SAL) (anexa la Ordinul ECONOMIE nr. 107/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278853",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278853",
+     "sha256": "1235f63423bb4f4647240894d9292201eb4fc6aea2d613539be07cf1ba36c8a8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-1441-2024-anexa",
+   "path": "anexa/ordin-economie-1441-2024/anexa",
+   "short": "Anexa la Ordin economie nr. 1441/2024",
+   "title": "Ghid de finanțare din 4 octombrie 2024 pentru Programul \"ELECTRIC UP\" privind finanțarea întreprinderilor mici și mijlocii și a operatorilor economici care activează în domeniul HORECA pentru instalarea sistemelor de panouri fotovoltaice pentru producerea de energie electrică cu o putere instalată cuprinsă între 27 kWp și 150 kWp necesară consumului propriu, a unui sistem de stocare a energiei produse pentru creșterea gradului de autoconsum, a cel puțin o stație de reîncărcare de minimum 22 kW pentru vehicule electrice și electrice hibrid plug-in pentru reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic, precum și a sistemului alternativ de încălzire/răcire pentru creșterea gradului de utilizare a energiei produse din surse regenerabile în încălzire și răcire (anexa la Ordinul ECONOMIE nr. 1441/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289427",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289427",
+     "sha256": "4fcb746de40236b9da5c3f58f26f3265d28b422ff77a9e227037c0cc69de0780"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-1626-2024-anexa",
+   "path": "anexa/ordin-economie-1626-2024/anexa",
+   "short": "Anexa la Ordin economie nr. 1626/2024",
+   "title": "Ghidul solicitantului din 12 noiembrie 2024 privind sprijinirea investițiilor în dezvoltarea capacităților de stocare a energiei electrice (baterii) cu finanțare din Fondul pentru modernizare (anexa la Ordinul ECONOMIE nr. 1626/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290920",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290920",
+     "sha256": "4446f0728283a1ab87e2169cc0ad35ec66e2624739a108c9b9fa4e53adcf6da4"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-1974-2024-anexa",
+   "path": "anexa/ordin-economie-1974-2024/anexa",
+   "short": "Anexa la Ordin economie nr. 1974/2024",
+   "title": "Procedură din 18 iulie 2024 de implementare a Programului național multianual pentru dezvoltarea culturii antreprenoriale în rândul femeilor manager din sectorul IMM (anexa la Ordinul ECONOMIE nr. 1974/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285939",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285939",
+     "sha256": "5e965556f5660b8f1395b9bbed01d9f00ebfa97ab9ecf5a69b45bbdb83ca2572"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-2887-2024-anexa",
+   "path": "anexa/ordin-economie-2887-2024/anexa",
+   "short": "Anexa la Ordin economie nr. 2887/2024",
+   "title": "Norme metodologice din 9 septembrie 2024 pentru aplicarea de către Ministerul Economiei, Antreprenoriatului și Turismului, în domeniul industriei, a prevederilor art. 25 alin. (4) din Ordonanța de urgență a Guvernului nr. 77/2014 privind procedurile naționale în domeniul ajutorului de stat, precum și pentru modificarea și completarea Legii concurenței nr. 21/1996 (anexa la Ordinul ECONOMIE nr. 2887/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288340",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288340",
+     "sha256": "8f6c809832fc88276f97f0e48d4b0ed730fb57a7ddd169736e2f4832d0634cab"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-356-2024-anexa",
+   "path": "anexa/ordin-economie-356-2024/anexa",
+   "short": "Anexa la Ordin economie nr. 356/2024",
+   "title": "Ghid specific din 5 aprilie 2024 privind Sprijinirea investițiilor în noi capacități de producere a energiei electrice produse din surse regenerabile pentru autoconsum, aferentă Fondului pentru modernizare (anexa la Ordinul ECONOMIE nr. 356/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282537",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282537",
+     "sha256": "d8b4ebdd95025e235b7dcb7bc115c4184d1e11b517f4c1930b8b654f4b07367c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3036-2024-anexa",
+   "path": "anexa/ordin-educatie-3036-2024/anexa",
+   "short": "Anexa la Ordin educatie nr. 3036/2024",
+   "title": "Metodologie din 9 ianuarie 2024 privind organizarea claselor în regim simultan (anexa la Ordinul EDUCATIE nr. 3036/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278065",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278065",
+     "sha256": "4693ca3d13d7f844e04b1f3bf2ae480317f166ebe63727d52ab6d63cf455a59e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3040-2024-anexa",
+   "path": "anexa/ordin-educatie-3040-2024/anexa",
+   "short": "Anexa la Ordin educatie nr. 3040/2024",
+   "title": "Procedură din 10 ianuarie 2024 privind predarea-preluarea personalului medical de specialitate din unitățile de învățământ preuniversitar de stat, inclusiv din unitățile de învățământ special de stat, și a celui din creșele publice arondate unităților de învățământ preuniversitar de stat în structura de personal medico-sanitar angajat de autoritățile administrației publice locale (anexa la Ordinul EDUCATIE nr. 3040/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278525",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278525",
+     "sha256": "aff389dcb228d9d508785cb5a1dab46dd955496a4b5f7380ad9ea697839a3e31"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3939-2024-anexa",
+   "path": "anexa/ordin-educatie-3939-2024/anexa",
+   "short": "Anexa la Ordin educatie nr. 3939/2024",
+   "title": "Metodologie din 29 februarie 2024 de înscriere în clasa a IX-a, în anul școlar 2024-2025, a elevilor care au obținut, pe parcursul gimnaziului, premiul I la etapa națională a olimpiadelor școlare organizate și finanțate de Ministerul Educației sau au obținut premiile I, II sau III la competiții internaționale recunoscute de Ministerul Educației (anexa la Ordinul EDUCATIE nr. 3939/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279649",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279649",
+     "sha256": "ea864abc45570645c639dd7496a40e7f711c794cb7b4e5216f0ec36067e70ed9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4172-2024-anexa",
+   "path": "anexa/ordin-educatie-4172-2024/anexa",
+   "short": "Anexa la Ordin educatie nr. 4172/2024",
+   "title": "Metodologie din 9 aprilie 2024 privind evaluarea anuală a activității cluburilor sportive universitare și a fluxurilor aferente procesului de alocare a subvențiilor de la bugetul de stat pentru cluburile sportive universitare din subordinea Ministerului Educației și din subordinea instituțiilor de învățământ superior de stat (anexa la Ordinul EDUCATIE nr. 4172/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283286",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283286",
+     "sha256": "02149194a7effa40052f719404e0abf80ccf7e933cbf3f7bf0cf334b7cf52c18"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4283-2024-anexa-2",
+   "path": "anexa/ordin-educatie-4283-2024/anexa-2",
+   "short": "Anexa nr. 2 la Ordin educatie nr. 4283/2024",
+   "title": "Procedură din 16 aprilie 2024 privind elaborarea avizului conform, prevăzut la art. 146 alin. (8) din Legea învățământului preuniversitar nr. 198/2023 , pentru schimbarea destinației terenului folosit de unitățile de învățământ preuniversitar de stat, precum și a spațiilor/clădirilor în care nu se mai desfășoară activități didactice, în primii 3 ani calendaristici de la întreruperea activității educaționale, precum și condițiile necesare acordării acestuia (anexa nr. 2 la Ordinul EDUCATIE nr. 4283/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/281962",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281962",
+     "sha256": "6131433ea29efc9b154031f1541d8a2819e1719d14329967b70ac52e7145a8a0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4575-2024-anexa",
+   "path": "anexa/ordin-educatie-4575-2024/anexa",
+   "short": "Anexa la Ordin educatie nr. 4575/2024",
+   "title": "Metodologie-cadru din 3 iunie 2024 privind înființarea și funcționarea unităților de învățământ preuniversitar autorizate cu statut de unități-pilot (anexa la Ordinul EDUCATIE nr. 4575/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283785",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283785",
+     "sha256": "19887b6dec4c1c9da23f839341837fac1c2b220549921462d4e0763ff080c131"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4637-2024-anexa",
+   "path": "anexa/ordin-educatie-4637-2024/anexa",
+   "short": "Anexa la Ordin educatie nr. 4637/2024",
+   "title": "Metodologie-cadru din 11 iunie 2024 pentru organizarea și funcționarea programelor de studii universitare integrate organizate în cadrul instituțiilor de învățământ superior din România, finalizate cu diplomă comună sau diplomă dublă sau multiplă (anexa la Ordinul EDUCATIE nr. 4637/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284169",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284169",
+     "sha256": "6d934b54c88bff415c7b683ad408f05f809a6d3707306730725fd42353872f10"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4696-2024-anexa",
+   "path": "anexa/ordin-educatie-4696-2024/anexa",
+   "short": "Anexa la Ordin educatie nr. 4696/2024",
+   "title": "Metodologie din 13 iunie 2024 privind recunoașterea certificatelor dobândite, după caz, în sistem formal, nonformal și informal la furnizori de formare profesională autorizați/acreditați sau în centre de evaluare a competențelor autorizate/acreditate și/sau în cadrul altor entități cu rol echivalent din afara României (anexa la Ordinul EDUCATIE nr. 4696/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284574",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284574",
+     "sha256": "5585c83085f2686b9ad903f8fb9cdc36ef116a3242100488215654bd7e49cd9b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5429-2024-anexa",
+   "path": "anexa/ordin-educatie-5429-2024/anexa",
+   "short": "Anexa la Ordin educatie nr. 5429/2024",
+   "title": "Metodologie din 8 iulie 2024 privind eliberarea adeverinței de conformitate a studiilor universitare cu prevederile Directivei 2005/36/CE privind recunoașterea calificărilor profesionale, cu modificările ulterioare, pentru cetățenii care au studiat în România, în scopul desfășurării activității didactice la nivel de învățământ superior în străinătate (anexa la Ordinul EDUCATIE nr. 5429/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285417",
+   "versions": [
+    {
+     "from": "2024-07-16",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285417",
+     "sha256": "8974a14e41d408cd1fee23a76546bc314567e7362ad4fefa7f97d6f6ed513aec"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5518-2024-anexa",
+   "path": "anexa/ordin-educatie-5518-2024/anexa",
+   "short": "Anexa la Ordin educatie nr. 5518/2024",
+   "title": "Metodologie-cadru din 11 iulie 2024 de acordare a burselor (anexa la Ordinul EDUCATIE nr. 5518/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285398",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285398",
+     "sha256": "5e014140e8ba4be45f33d60c720e2913b4ecafa45e07c04c555ac164e13157f1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5552-2024-anexa",
+   "path": "anexa/ordin-educatie-5552-2024/anexa",
+   "short": "Anexa la Ordin educatie nr. 5552/2024",
+   "title": "Metodologie din 16 iulie 2024 privind condițiile de școlarizare a românilor de pretutindeni și a cetățenilor străini în cadrul instituțiilor de învățământ superior de stat, particulare și confesionale particulare acreditate din România (anexa la Ordinul EDUCATIE nr. 5552/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/286316",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286316",
+     "sha256": "3253eaf9b7081bb5c648afafae7acca1449c1419d97975f923d820d07ebe212a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5555-2024-anexa",
+   "path": "anexa/ordin-educatie-5555-2024/anexa",
+   "short": "Anexa la Ordin educatie nr. 5555/2024",
+   "title": "Procedură din 16 iulie 2024 de emitere a scrisorii de acceptare la studii pentru elevii români de pretutindeni și cetățenii străini, în vederea continuării studiilor în învățământul preuniversitar din România (anexa la Ordinul EDUCATIE nr. 5555/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/286320",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286320",
+     "sha256": "255707062adb5fb14c2706920a10ce99148cc1793b6e1ad5c758f1a39cde12da"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5679-2024-anexa-1",
+   "path": "anexa/ordin-educatie-5679-2024/anexa-1",
+   "short": "Anexa nr. 1 la Ordin educatie nr. 5679/2024",
+   "title": "Procedură din 29 iulie 2024 privind organizarea și funcționarea Comisiei de coordonare a activității de repartizare a preșcolarilor/elevilor la unitățile de învățământ în care pot desfășura activități educaționale, precum și în instituțiile în care vor beneficia de asistență psihopedagogică și consiliere (anexa nr. 1 la Ordinul EDUCATIE nr. 5679/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/286548",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286548",
+     "sha256": "e65363da73a7de0c20e1a2b8881ba13d432cd073b1e837f77ccf7c7b84b3df9e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5701-2024-anexa",
+   "path": "anexa/ordin-educatie-5701-2024/anexa",
+   "short": "Anexa la Ordin educatie nr. 5701/2024",
+   "title": "Regulament-cadru din 31 iulie 2024 de organizare și funcționare a centrelor județene/al municipiului București de resurse și asistență educațională (anexa la Ordinul EDUCATIE nr. 5701/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/286894",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286894",
+     "sha256": "907e570cb91ba44a6531f9162dcdb2fdd28f9586c6bdb65dc9b75517bd185d1c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5726-2024-anexa",
+   "path": "anexa/ordin-educatie-5726-2024/anexa",
+   "short": "Anexa la Ordin educatie nr. 5726/2024",
+   "title": "Regulament-cadru din 6 august 2024 de organizare și funcționare a unităților de învățământ preuniversitar (anexa la Ordinul EDUCATIE nr. 5726/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/286955",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286955",
+     "sha256": "a1937f0a301a7f8075b47a989921459309f80437b009a4181fb4185f2d8702c2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-6194-2024-anexa",
+   "path": "anexa/ordin-educatie-6194-2024/anexa",
+   "short": "Anexa la Ordin educatie nr. 6194/2024",
+   "title": "Metodologie din 23 august 2024 pentru elaborarea și actualizarea calificărilor profesionale (anexa la Ordinul EDUCATIE nr. 6194/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287855",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287855",
+     "sha256": "bd588550aabbffab1bc8a07fdd2263c96bbdc8cbe646fabc69211dbd1ae99db7"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-6869-2024-anexa",
+   "path": "anexa/ordin-educatie-6869-2024/anexa",
+   "short": "Anexa la Ordin educatie nr. 6869/2024",
+   "title": "Regulament-cadru din 30 septembrie 2024 privind organizarea și funcționarea comisiilor de etică universitară (anexa la Ordinul EDUCATIE nr. 6869/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289095",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289095",
+     "sha256": "256a232ab42ac3e772287444fdd7d89f1e1f06f7a12d493ae32650b2f897c96f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-7303-2024-anexa-1",
+   "path": "anexa/ordin-educatie-7303-2024/anexa-1",
+   "short": "Anexa nr. 1 la Ordin educatie nr. 7303/2024",
+   "title": "Metodologie din 24 octombrie 2024 privind echivalarea de către inspectoratele școlare județene și Inspectoratul Școlar al Municipiului București a perioadelor de studii efectuate în străinătate și la organizațiile furnizoare de educație, care organizează și desfășoară, pe teritoriul României, activități de învățământ corespunzătoare unui sistem educațional din altă țară, înscrise în Registrul special al Agenției Române de Asigurare a Calității în Învățământul Preuniversitar (anexa nr. 1 la Ordinul EDUCATIE nr. 7303/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290112",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290112",
+     "sha256": "90b532ed441c2c463190e2bde85c3ac6dbaf8d7afc95d30038b7128591a19b80"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-7495-2024-anexa",
+   "path": "anexa/ordin-educatie-7495-2024/anexa",
+   "short": "Anexa la Ordin educatie nr. 7495/2024",
+   "title": "Metodologie-cadru din 2 decembrie 2024 privind mobilitatea personalului didactic de predare din învățământul preuniversitar în anul școlar 2025-2026 (anexa la Ordinul EDUCATIE nr. 7495/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292382",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292382",
+     "sha256": "9207cf8516eccac3756ef25bb2a122606338ea40e799abbccec996bf9b3a3ad1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-7871-2024-anexa",
+   "path": "anexa/ordin-educatie-7871-2024/anexa",
+   "short": "Anexa la Ordin educatie nr. 7871/2024",
+   "title": "Metodologie din 20 decembrie 2024 privind fundamentarea cifrei de școlarizare pentru învățământul preuniversitar de stat, evidența efectivelor de antepreșcolari/preșcolari și elevi școlarizați în unitățile de învățământ particular pentru anul școlar 2025-2026 (anexa la Ordinul EDUCATIE nr. 7871/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293665",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293665",
+     "sha256": "21ad6583b90cbb56a7e06013e7b4fd11379795c5ea1d90865e6fe4955c43fbb0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-7877-2024-anexa",
+   "path": "anexa/ordin-educatie-7877-2024/anexa",
+   "short": "Anexa la Ordin educatie nr. 7877/2024",
+   "title": "Norme metodologice din 20 decembrie 2024 de organizare și funcționare a programelor postuniversitare de conversie profesională a cadrelor didactice din învățământul preuniversitar (anexa la Ordinul EDUCATIE nr. 7877/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293117",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293117",
+     "sha256": "1addd27d998f906cc97db13649a4b8a7f585a4a76e74eebba790665c97db9922"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-7930-2024-anexa",
+   "path": "anexa/ordin-educatie-7930-2024/anexa",
+   "short": "Anexa la Ordin educatie nr. 7930/2024",
+   "title": "Norme metodologice din 23 decembrie 2024 privind efectuarea concediului de odihnă al personalului didactic, de conducere, de îndrumare și control și al personalului de cercetare din învățământul de stat (anexa la Ordinul EDUCATIE nr. 7930/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293119",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293119",
+     "sha256": "cf8f94735c4cdf9ccefd25686099e6e05ba14dc8d43343b9f50c4886e1a9d3ee"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-externe-1150-2024-anexa",
+   "path": "anexa/ordin-externe-1150-2024/anexa",
+   "short": "Anexa la Ordin externe nr. 1150/2024",
+   "title": "Regulament-cadru din 27 iunie 2024 privind organizarea și desfășurarea concursurilor pentru ocuparea posturilor vacante prevăzute pentru funcții de execuție specifice Ministerului Afacerilor Externe (anexa la Ordinul EXTERNE nr. 1150/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285232",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285232",
+     "sha256": "b1934d763088b20dc9eeabf720808deeeaa5aaa73af657d7c1c4e8142b15f57f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-familie-1040-2024-anexa",
+   "path": "anexa/ordin-familie-1040-2024/anexa",
+   "short": "Anexa la Ordin familie nr. 1040/2024",
+   "title": "Procedură comună de lucru din 2 februarie 2024 la nivel interinstituțional privind colectarea, raportarea și monitorizarea datelor statistice în domeniul prevenirii și combaterii violenței domestice (anexa la Ordinul FAMILIE nr. 1040/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290878",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290878",
+     "sha256": "7093800da7f35c77d477b8bbb87447c0ee17b77cdacba549e41b6ca8721d3c77"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-familie-25080-2024-anexa",
+   "path": "anexa/ordin-familie-25080-2024/anexa",
+   "short": "Anexa la Ordin familie nr. 25080/2024",
+   "title": "Metodologie din 16 mai 2024 privind calculul indicatorilor-cheie de performanță prevăzuți la art. 21 alin. (3) din Legea nr. 156/2023 privind organizarea activității de prevenire a separării copilului de familie și procedura de diminuare a cotei procentuale de finanțare a centrelor de zi (anexa la Ordinul FAMILIE nr. 25080/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283374",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283374",
+     "sha256": "412504fe7243520151539da4808cd1e11c31bd6ef665e4a0936c39b6ce397c45"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-2582-2024-anexa",
+   "path": "anexa/ordin-finante-2582-2024/anexa",
+   "short": "Anexa la Ordin finante nr. 2582/2024",
+   "title": "Metodologie din 21 iunie 2024 de emitere a certificatului de atestare a structurilor asociative ale autorităților administrației publice locale în vederea asigurării activității de audit public intern în sistem de cooperare (anexa la Ordinul FINANTE nr. 2582/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285474",
+   "versions": [
+    {
+     "from": "2024-07-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285474",
+     "sha256": "afe1978240494a86ace557ac88b5800b5f022fbfb4a1cdd06dfb61c1a23549c9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-3044-2024-anexa",
+   "path": "anexa/ordin-finante-3044-2024/anexa",
+   "short": "Anexa la Ordin finante nr. 3044/2024",
+   "title": "Procedură din 1 iulie 2024 de restituire a TVA aferente achizițiilor de bunuri sau servicii efectuate de entitățile nonprofit și de societățile deținute integral de entitățile nonprofit, pentru care se aplică scutirea de taxă conform art. 294 alin. (5) lit. a)-b^1) din Legea nr. 227/2015 privind Codul fiscal (anexa la Ordinul FINANTE nr. 3044/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285359",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285359",
+     "sha256": "3edd4b6d6c26196da044c81b564bec7202b298fb7a6a41ccdede542fa73ab9ce"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-354-2024-anexa",
+   "path": "anexa/ordin-finante-354-2024/anexa",
+   "short": "Anexa la Ordin finante nr. 354/2024",
+   "title": "Procedură din 19 februarie 2024 de control al activității desfășurate de aparatul propriu și de entitățile aflate în subordinea, sub autoritatea și în administrarea Ministerului Finanțelor (anexa la Ordinul FINANTE nr. 354/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279424",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279424",
+     "sha256": "364368837e6ed64d6e5951abea819ce7be3368a5836282df91b0945862a2aff4"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-4181-2024-anexa",
+   "path": "anexa/ordin-finante-4181-2024/anexa",
+   "short": "Anexa la Ordin finante nr. 4181/2024",
+   "title": "Norme metodologice din 14 august 2024 de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 120/2023 privind stabilirea cadrului financiar general pentru utilizarea celei de-a doua contribuții financiare elvețiene nerambursabile acordate României prin intermediul Programului de cooperare elvețiano-român vizând reducerea disparităților economice și sociale în cadrul Uniunii Europene, precum și a contribuției naționale aferente acestei asistențe (anexa la Ordinul FINANTE nr. 4181/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288260",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288260",
+     "sha256": "982385e8553bb3597d6e201fccbb4d1f47e3f5f5500b6b009efdeeb1b31cea5d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-620-2024-anexa",
+   "path": "anexa/ordin-finante-620-2024/anexa",
+   "short": "Anexa la Ordin finante nr. 620/2024",
+   "title": "Procedură din 29 martie 2024 privind angajarea, lichidarea, ordonanțarea și plata cheltuielilor pentru sumele cuprinse în dispoziția de plată întocmită conform prevederilor Hotărârii Guvernului nr. 153/2024 privind instituirea unei scheme de ajutor de stat pentru compensarea creșterii accizei la motorina utilizată drept combustibil pentru motor (anexa la Ordinul FINANTE nr. 620/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280781",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280781",
+     "sha256": "46269b3e4d2fa17520a90c25911b77a58a9042e3562797b827ea8fb3d92b9a5d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-621-2024-anexa",
+   "path": "anexa/ordin-finante-621-2024/anexa",
+   "short": "Anexa la Ordin finante nr. 621/2024",
+   "title": "Procedură din 29 martie 2024 de implementare a Programului IMM PLUS pentru componentele IMM ROMÂNIA PLUS, AGRO PLUS, IMM PROD PLUS, CONSTRUCT PLUS și INNOVATION PLUS (anexa la Ordinul FINANTE nr. 621/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282623",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282623",
+     "sha256": "e8cf34617fbd229361b28de477ddf6931379d6b8b22a29f741ca3a566571cc4b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-6606-2024-anexa",
+   "path": "anexa/ordin-finante-6606-2024/anexa",
+   "short": "Anexa la Ordin finante nr. 6606/2024",
+   "title": "Norme metodologice din 28 noiembrie 2024 pentru aplicarea de către Fondul Român de Contragarantare - S.A. a procedurilor privind monitorizarea și stoparea/recuperarea ajutorului de stat (anexa la Ordinul FINANTE nr. 6606/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292230",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292230",
+     "sha256": "594d715f660d6d8173e6360654d8920fe3c0fff668501cade52b701359526c55"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-6639-2024-anexa",
+   "path": "anexa/ordin-finante-6639-2024/anexa",
+   "short": "Anexa la Ordin finante nr. 6639/2024",
+   "title": "Norme metodologice din 4 decembrie 2024 privind mecanismul de acordare și derulare a împrumuturilor acordate unităților administrativ-teritoriale conform Ordonanței de urgență a Guvernului nr. 133/2024 pentru asigurarea unor împrumuturi din Trezoreria Statului, documentele în baza cărora se acordă împrumutul și cele care stau la baza obținerii avizului Comisiei de autorizare a împrumuturilor locale, precum și modul de reflectare a sumelor respective în bugetele instituțiilor publice locale (anexa la Ordinul FINANTE nr. 6639/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292085",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292085",
+     "sha256": "6af1562be927bbbdd026531da147707d3cabdea1c1cf2779c8ef7638d5213681"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-6652-2024-anexa-1",
+   "path": "anexa/ordin-finante-6652-2024/anexa-1",
+   "short": "Anexa nr. 1 la Ordin finante nr. 6652/2024",
+   "title": "Procedură din 9 decembrie 2024 de restituire a diferenței achitate anticipat din taxa anuală de către organizatorii de jocuri de noroc care renunță la licența de organizator sau încetează să mai exploateze anumite activități de jocuri de noroc sau mijloace de joc, ca urmare a faptului că nu mai îndeplinesc condițiile legale (anexa nr. 1 la Ordinul FINANTE nr. 6652/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292933",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292933",
+     "sha256": "287ab61d3d0267265776c85811a893836ac3fefffd7e5673971c8707b0f6a318"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-788-2024-anexa",
+   "path": "anexa/ordin-finante-788-2024/anexa",
+   "short": "Anexa la Ordin finante nr. 788/2024",
+   "title": "Norme metodologice din 25 aprilie 2024 privind mecanismul de acordare și derulare a împrumuturilor acordate unităților administrativ-teritoriale conform Ordonanței de urgență a Guvernului nr. 35/2024 pentru asigurarea unor împrumuturi din Trezoreria Statului, precum și pentru modificarea și completarea unor acte normative aferente reprezentării statului în litigiile arbitrale și judiciare internaționale și concesionării proprietății publice a statului și pentru modificarea și completarea unor acte normative, documentele în baza cărora se acordă împrumutul și cele care stau la baza obținerii avizului Comisiei de autorizare a împrumuturilor locale, precum și modul de reflectare a sumelor respective în bugetele instituțiilor publice locale (anexa la Ordinul FINANTE nr. 788/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282289",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282289",
+     "sha256": "183a9bda16d21e4f0fc99221364ae6f9e2cfc08f137b1ec9dd2a733076e144b7"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-fonduri-2025-2024-anexa",
+   "path": "anexa/ordin-fonduri-2025-2024/anexa",
+   "short": "Anexa la Ordin fonduri nr. 2025/2024",
+   "title": "Norme din 13 mai 2024 de aplicare a Ordonanței Guvernului nr. 15/2013 privind reglementarea unor măsuri fiscal-bugetare pentru suportarea de la bugetul de stat a sumelor aferente reducerilor procentuale și corecțiilor financiare aplicate pentru abaterile de la conformitatea cu legislația din domeniul achizițiilor publice pentru Programul operațional sectorial Mediu 2007-2013, Programul operațional Infrastructură mare 2014-2020 și pentru Programul Dezvoltare durabilă 2021-2027 (anexa la Ordinul FONDURI nr. 2025/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283029",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283029",
+     "sha256": "e6b856512d759c44b4d5f3f1d8960a9b630c6e12105323adb7ed10538eb5d7ac"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-fonduri-4490-2024-anexa",
+   "path": "anexa/ordin-fonduri-4490-2024/anexa",
+   "short": "Anexa la Ordin fonduri nr. 4490/2024",
+   "title": "Instrucțiuni din 9 august 2024 pentru stabilirea mecanismului de justificare a sumelor rămase la dispoziția beneficiarilor, aferente proiectelor finanțate în cadrul Programului operațional regional 2014-2020, potrivit dispozițiilor art. III alin. (1) din Ordonanța de urgență a Guvernului nr. 31/2024 privind reglementarea unor măsuri fiscal-bugetare și pentru modificarea și completarea unor acte normative, aprobată cu modificări prin Legea nr. 204/2024 (anexa la Ordinul FONDURI nr. 4490/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290207",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290207",
+     "sha256": "5b1f4ab7a113948a286c08fe66081cb31dd4021115596ff2a4b45e4019f5628e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-integritate-14645-2024-anexa",
+   "path": "anexa/ordin-integritate-14645-2024/anexa",
+   "short": "Anexa la Ordin integritate nr. 14645/2024",
+   "title": "Regulament din 4 septembrie 2024 de organizare și funcționare al Agenției Naționale de Integritate (anexa la Ordinul INTEGRITATE nr. 14645/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288228",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288228",
+     "sha256": "b3294ffd7d86583b34f7c01d415b5772f84cfa7ea54493d85500b7e9fe540aad"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-211-2024-anexa",
+   "path": "anexa/ordin-interne-211-2024/anexa",
+   "short": "Anexa la Ordin interne nr. 211/2024",
+   "title": "Regulament din 27 noiembrie 2024 de organizare și funcționare a Colegiului Național de Afaceri Interne (anexa la Ordinul INTERNE nr. 211/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292106",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292106",
+     "sha256": "dead009115cd79da76b6905967a033d65a99d563859463ce307b91e3572b0c88"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-224-2024-anexa",
+   "path": "anexa/ordin-interne-224-2024/anexa",
+   "short": "Anexa la Ordin interne nr. 224/2024",
+   "title": "Regulament din 10 decembrie 2024 de organizare și funcționare a Direcției fonduri externe nerambursabile (anexa la Ordinul INTERNE nr. 224/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292279",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292279",
+     "sha256": "50d8b028119b21a626faa5e0497547457be7aee5d9a7807af16cdae1e354f943"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-33-2024-anexa",
+   "path": "anexa/ordin-interne-33-2024/anexa",
+   "short": "Anexa la Ordin interne nr. 33/2024",
+   "title": "Regulament din 22 februarie 2024 de organizare și funcționare a Academiei de Poliție \"Alexandru Ioan Cuza\" (anexa la Ordinul INTERNE nr. 33/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279493",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 98,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279493",
+     "sha256": "59f99ec0730ebd147ebf857877ecc4fb3db93569783015ecbc0be8fcc53a5437"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-75-2024-anexa",
+   "path": "anexa/ordin-interne-75-2024/anexa",
+   "short": "Anexa la Ordin interne nr. 75/2024",
+   "title": "Ghid specific din 26 aprilie 2024 privind regulile și condițiile aplicabile finanțării din fondurile europene aferente Planului național de redresare și reziliență în cadrul apelului necompetitiv de proiecte - cod: PNRR/2024/C.7/I.8/1, componenta C7 - Transformare digitală, investiția 8 - Carte de identitate electronică și semnătura digitală, jalonul 174 - Punerea în aplicare a măsurilor de sprijin pentru implementarea cărții de identitate electronice (anexa la Ordinul INTERNE nr. 75/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282955",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282955",
+     "sha256": "38d2fc0a6eab150876578e8543cf2cc333e14a51b682f5dffe104bda8e9d05de"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-justitie-1554-c-2024-anexa",
+   "path": "anexa/ordin-justitie-1554-c-2024/anexa",
+   "short": "Anexa la Ordin justitie nr. 1554/C/2024",
+   "title": "Norme din 2 iulie 2024 privind avizarea și autorizarea, sub aspect tehnic și al securității tehnologiei informației, a soluțiilor informatice dezvoltate de specialiștii IT din cadrul instanțelor judecătorești (anexa la Ordinul JUSTITIE nr. 1554/C/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/286525",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286525",
+     "sha256": "a7ab0a3001752b076c0b944e011c7c47b492300783bff0a366f7855190053bb6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-1712-2024-anexa",
+   "path": "anexa/ordin-mediu-1712-2024/anexa",
+   "short": "Anexa la Ordin mediu nr. 1712/2024",
+   "title": "Ghid de finanțare din 8 august 2024 a Programului național \"Rangerii juniori\" vizând educația și conștientizarea tinerilor privind protecția mediului (anexa la Ordinul MEDIU nr. 1712/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287406",
+   "versions": [
+    {
+     "from": "2024-08-19",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287406",
+     "sha256": "614acb2d848b9fb6377fa9fbbebb72513c401bb336bdf78ec9715c0a2a193dc5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-1896-2024-anexa",
+   "path": "anexa/ordin-mediu-1896-2024/anexa",
+   "short": "Anexa la Ordin mediu nr. 1896/2024",
+   "title": "Regulament din 30 august 2024 privind alocarea, la cerere, a exemplarelor de urs brun din nivelul de intervenție la nivel național, prevăzute la art. 3^1 alin. (1) din Ordonanța de urgență a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenție imediată pentru prevenirea și combaterea atacurilor exemplarelor de urs brun asupra persoanelor și bunurilor acestora, precum și pentru modificarea și completarea unor acte normative (anexa la Ordinul MEDIU nr. 1896/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287951",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287951",
+     "sha256": "e2795c881db053a066ccfb229cb4449d181eed660200edba8e1f1275ebd65a92"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-475-2024-anexa",
+   "path": "anexa/ordin-mediu-475-2024/anexa",
+   "short": "Anexa la Ordin mediu nr. 475/2024",
+   "title": "Ghid de finanțare din 29 februarie 2024 a Programului vizând sisteme de alimentare cu apă, canalizare și epurare a apelor uzate (anexa la Ordinul MEDIU nr. 475/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279611",
+   "versions": [
+    {
+     "from": "2024-03-05",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279611",
+     "sha256": "bf347cd7b9ac4dd31667ba7d7c8d8141b550d34ac386c9d79e56fe4fccbcd993"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-595-2024-anexa",
+   "path": "anexa/ordin-mediu-595-2024/anexa",
+   "short": "Anexa la Ordin mediu nr. 595/2024",
+   "title": "Ghid de finanțare din 7 martie 2024 a Programului privind instalarea sistemelor de panouri fotovoltaice pentru producerea de energie electrică, în vederea acoperirii necesarului de consum și livrării surplusului în rețeaua națională, pentru unități de cult, instituții și autorități publice din sistemul național de asistență socială, precum și entități juridice nonprofit acreditate pentru furnizarea de servicii sociale (anexa la Ordinul MEDIU nr. 595/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279929",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279929",
+     "sha256": "fed1a75973d3cacecdc297e6999bffedb97152e9a65dc0509841f4f7b003c44e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-moldova-812-2024-anexa",
+   "path": "anexa/ordin-moldova-812-2024/anexa",
+   "short": "Anexa la Ordin moldova nr. 812/2024",
+   "title": "Ghid și documentar din 29 ianuarie 2024 de finanțare nerambursabilă - D.R.R.M. 2024 (anexa la Ordinul MOLDOVA nr. 812/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279074",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279074",
+     "sha256": "867c5ff48c778efdf3937d7c007c87f3a8d1395bfde9cb85d461b035d44237e8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-3433-2024-anexa",
+   "path": "anexa/ordin-sanatate-3433-2024/anexa",
+   "short": "Anexa la Ordin sanatate nr. 3433/2024",
+   "title": "Metodologie din 11 iunie 2024 pentru acordarea avizului de oportunitate în vederea implementării proiectelor de investiții în infrastructura laboratoarelor de microbiologie din cadrul unităților sanitare publice cu finanțare din Programul Sănătate (anexa la Ordinul SANATATE nr. 3433/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284070",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 63,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284070",
+     "sha256": "1a0eaa4153e62a128f67eb6749f8f6f01ec716e584a31db215ba97e07845b348"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-3735-2024-anexa-1",
+   "path": "anexa/ordin-sanatate-3735-2024/anexa-1",
+   "short": "Anexa nr. 1 la Ordin sanatate nr. 3735/2024",
+   "title": "Metodologie din 28 iunie 2024 de screening pentru cancerul de col uterin (anexa nr. 1 la Ordinul SANATATE nr. 3735/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285272",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285272",
+     "sha256": "27e6641af184c768e1d839635fb7615c8bbea3ee373056765cd0411fa74ef9a3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-3991-2024-anexa",
+   "path": "anexa/ordin-sanatate-3991-2024/anexa",
+   "short": "Anexa la Ordin sanatate nr. 3991/2024",
+   "title": "Metodologie din 25 iulie 2024 pentru obținerea avizului de oportunitate în vederea implementării proiectelor din cadrul Programului național de investiții în infrastructura unităților spitalicești (anexa la Ordinul SANATATE nr. 3991/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/286343",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286343",
+     "sha256": "9a045fafb9c8e0f2f2fc8a098992533be975502d2c1157c248480d85316af8f5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-4533-2024-anexa",
+   "path": "anexa/ordin-sanatate-4533-2024/anexa",
+   "short": "Anexa la Ordin sanatate nr. 4533/2024",
+   "title": "Metodologie din 10 septembrie 2024 de organizare a examenului pentru obținerea titlului de medic specialist în specialitatea Anestezie și terapie intensivă (anexa la Ordinul SANATATE nr. 4533/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288285",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288285",
+     "sha256": "efdc891114e3944ff5b7e361927d7d242339fb48927550f32bb4cec417355bc5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-6161-2024-anexa",
+   "path": "anexa/ordin-sanatate-6161-2024/anexa",
+   "short": "Anexa la Ordin sanatate nr. 6161/2024",
+   "title": "Regulamentul din 20 decembrie 2024 de organizare și funcționare a direcțiilor de sănătate publică județene și a municipiului București (anexa la Ordinul SANATATE nr. 6161/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293018",
+   "versions": [
+    {
+     "from": "2024-12-24",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293018",
+     "sha256": "8d8c83ec301f59d51cf52e47945fd66241f3766206ded0774d4840b369bdcf7f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-62-2024-anexa",
+   "path": "anexa/ordin-sanatate-62-2024/anexa",
+   "short": "Anexa la Ordin sanatate nr. 62/2024",
+   "title": "Metodologie-cadru din 10 ianuarie 2024 privind înscrierea la programul de pregătire în cea de-a doua specialitate în regim cu taxă (anexa la Ordinul SANATATE nr. 62/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278117",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278117",
+     "sha256": "4487fc2c51d83d6804b67a74cce02ecc3d4fc5c7351a16c954a02015f62a36fb"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sport-1413-2024-anexa",
+   "path": "anexa/ordin-sport-1413-2024/anexa",
+   "short": "Anexa la Ordin sport nr. 1413/2024",
+   "title": "Metodologie din 23 decembrie 2024 de finanțare a federațiilor sportive naționale și a Comitetului Național Paralimpic pe baza programelor sportive de utilitate publică pe anul 2025 (anexa la Ordinul SPORT nr. 1413/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293766",
+   "versions": [
+    {
+     "from": "2024-12-24",
+     "units": 105,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293766",
+     "sha256": "bfd8bd8c44cde257417f19bc46d436026c05ec36d18c3255d68705ef7d3c36a5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-1090-2024-anexa",
+   "path": "anexa/ordin-transporturi-1090-2024/anexa",
+   "short": "Anexa la Ordin transporturi nr. 1090/2024",
+   "title": "Norme metodologice din 23 mai 2024 privind modul de efectuare a inspecțiilor și controlului asupra transporturilor rutiere, a activităților conexe acestora, a activității centrelor de pregătire și perfecționare a personalului de specialitate din domeniul transporturilor rutiere, a activității școlilor de conducători auto și a activității instructorilor auto (anexa la Ordinul TRANSPORTURI nr. 1090/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283753",
+   "versions": [
+    {
+     "from": "2024-06-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283753",
+     "sha256": "5e69c8d03df9bb79eaea47a81105faf3433563af39d157dfaeeaae54b7d0854d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-3949-2024-anexa",
+   "path": "anexa/ordin-transporturi-3949-2024/anexa",
+   "short": "Anexa la Ordin transporturi nr. 3949/2024",
+   "title": "Regulament din 3 decembrie 2024 de navigație pe lacul de acumulare Călimănești, județul Vâlcea (anexa la Ordinul TRANSPORTURI nr. 3949/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292361",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292361",
+     "sha256": "9fe3f5ef3721837fe895c0117f6f457c02158702193323dcfd40bacfef58ffc0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-720-2024-anexa",
+   "path": "anexa/ordin-transporturi-720-2024/anexa",
+   "short": "Anexa la Ordin transporturi nr. 720/2024",
+   "title": "Regulament din 27 februarie 2024 de navigație pe balta Comana, județul Giurgiu (anexa la Ordinul TRANSPORTURI nr. 720/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279720",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279720",
+     "sha256": "9398ceefa48eb0a9926f2e09e728a25538d83297fdd6a3ae467ce3646b36673c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-738-2024-anexa",
+   "path": "anexa/ordin-transporturi-738-2024/anexa",
+   "short": "Anexa la Ordin transporturi nr. 738/2024",
+   "title": "Metodologie din 4 martie 2024 de monitorizare a cheltuielilor eligibile realizate raportate la cheltuielile eligibile preliminate și de implementare a acțiunilor necesare (anexa la Ordinul TRANSPORTURI nr. 738/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279907",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279907",
+     "sha256": "e11b87bf10b61a386e412800e93dcc15e4a2dd6b8db71e1f537b4a1e2ed4e5fb"
+    }
+   ]
+  }
+ ]
+}
