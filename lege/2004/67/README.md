@@ -166,3 +166,36 @@ Act id: `legea-67-2004` (tags `legea-67-2004/<day>`; `python tools/on.py <day> l
 - Legea nr. 67/2004: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 21 such paragraphs across all forms, for example «Prin urmare, în conformitate cu art. 147 din Constituția Rom», «Reproducem pct. 17 al art. 77 al Titlului II din LEGEA nr. 3», «În consecință, în intervalul 14 februarie 2008-30 martie 200».
 - Legea nr. 67/2004: 139 changed article(s) with no note naming a law, committed as the publisher's: 2005-03-01 art-001, 2005-03-01 art-002, 2005-03-01 art-003, 2005-03-01 art-004, 2005-03-01 art-005, 2005-03-01 art-006, 2005-03-01 art-007, 2005-03-01 art-008, 2005-03-01 art-009, 2005-03-01 art-010, 2005-03-01 art-011, 2005-03-01 art-012, 2005-03-01 art-013, 2005-03-01 art-014, 2005-03-01 art-015, 2005-03-01 art-016, 2005-03-01 art-017, 2005-03-01 art-018, 2005-03-01 art-019, 2005-03-01 art-020, 2005-03-01 art-021, 2005-03-01 art-022, 2005-03-01 art-023, 2005-03-01 art-024, 2005-03-01 art-025, 2005-03-01 art-026, 2005-03-01 art-027, 2005-03-01 art-028, 2005-03-01 art-029, 2005-03-01 art-030, 2005-03-01 art-032, 2005-03-01 art-033, 2005-03-01 art-034, 2005-03-01 art-035, 2005-03-01 art-036, 2005-03-01 art-037, 2005-03-01 art-038, 2005-03-01 art-039, 2005-03-01 art-040, 2005-03-01 art-041, 2005-03-01 art-042, 2005-03-01 art-043, 2005-03-01 art-044, 2005-03-01 art-045, 2005-03-01 art-046, 2005-03-01 art-047, 2005-03-01 art-048, 2005-03-01 art-049, 2005-03-01 art-050, 2005-03-01 art-051, 2005-03-01 art-052, 2005-03-01 art-053, 2005-03-01 art-054, 2005-03-01 art-055, 2005-03-01 art-056, 2005-03-01 art-057, 2005-03-01 art-058, 2005-03-01 art-059, 2005-03-01 art-060, 2005-03-01 art-061, 2005-03-01 art-062, 2005-03-01 art-063, 2005-03-01 art-064, 2005-03-01 art-065, 2005-03-01 art-066, 2005-03-01 art-067, 2005-03-01 art-068, 2005-03-01 art-069, 2005-03-01 art-070, 2005-03-01 art-071, 2005-03-01 art-072, 2005-03-01 art-073, 2005-03-01 art-074, 2005-03-01 art-075, 2005-03-01 art-076, 2005-03-01 art-077, 2005-03-01 art-078, 2005-03-01 art-079, 2005-03-01 art-080, 2005-03-01 art-081, 2005-03-01 art-082, 2005-03-01 art-083, 2005-03-01 art-084, 2005-03-01 art-085, 2005-03-01 art-086, 2005-03-01 art-087, 2005-03-01 art-088, 2005-03-01 art-089, 2005-03-01 art-090, 2005-03-01 art-091, 2005-03-01 art-092, 2005-03-01 art-093, 2005-03-01 art-094, 2005-03-01 art-095, 2005-03-01 art-096, 2005-03-01 art-097, 2005-03-01 art-098, 2005-03-01 art-099, 2005-03-01 art-100, 2005-03-01 art-101, 2005-03-01 art-102, 2005-03-01 art-103, 2005-03-01 art-104, 2005-03-01 art-105, 2005-03-01 art-106, 2005-03-01 art-107, 2005-03-01 art-108, 2005-03-01 art-109, 2005-03-01 art-110, 2005-03-01 art-111, 2005-03-01 art-112, 2005-03-01 art-113, 2005-03-01 art-114, 2005-03-01 art-115, 2005-03-01 art-116, 2005-03-01 art-117, 2005-03-01 art-118, 2005-03-01 art-119, 2005-03-01 art-120, 2005-03-01 art-121, 2005-03-01 art-122, 2005-03-01 art-123, 2005-03-01 art-124, 2005-03-01 art-126, 2005-03-01 art-127, 2005-03-01 art-128, 2008-03-07 art-133, 2008-03-31 art-096, 2008-03-31 art-133, 2011-06-27 art-133, 2012-04-11 art-006, 2012-04-11 art-009, 2012-04-11 art-024, 2012-04-11 art-099, 2013-02-15 art-133, 2013-12-15 art-035, 2013-12-15 art-063, 2014-02-01 art-024, 2014-02-13 art-035.
 - Legea nr. 67/2004: forms with no change after normalisation, so no version: 2008-02-14 (89796).
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-097.md`, in force from 2011-06-27: Legea nr. 129/2011 (first published as no law named).
+- `art-098.md`, in force from 2011-06-27: Legea nr. 129/2011 (first published as no law named).
+- `art-016.md`, in force from 2013-02-15: Legea nr. 76/2012 (first published as no law named).
+- `art-031.md`, in force from 2013-02-15: Legea nr. 76/2012 (first published as no law named).
+- `art-039.md`, in force from 2013-02-15: Legea nr. 76/2012 (first published as no law named).
+- `art-052.md`, in force from 2013-02-15: Legea nr. 76/2012 (first published as no law named).
+- `art-121.md`, in force from 2013-02-15: Legea nr. 76/2012 (first published as no law named).
+- `art-006.md`, in force from 2013-12-15: Legea nr. 338/2013 (first published as no law named).
+- `art-103.md`, in force from 2014-02-01: Legea nr. 187/2012 (first published as no law named).
+- `art-104.md`, in force from 2014-02-01: Legea nr. 187/2012 (first published as no law named).
+- `art-105.md`, in force from 2014-02-01: Legea nr. 187/2012 (first published as no law named).
+- `art-106.md`, in force from 2014-02-01: Legea nr. 187/2012 (first published as no law named).
+- `art-107.md`, in force from 2014-02-01: Legea nr. 187/2012 (first published as no law named).
+- `art-108.md`, in force from 2014-02-01: Legea nr. 187/2012 (first published as no law named).
+- `art-109.md`, in force from 2014-02-01: Legea nr. 187/2012 (first published as no law named).
+- `art-110.md`, in force from 2014-02-01: Legea nr. 187/2012 (first published as no law named).
+- `art-111.md`, in force from 2014-02-01: Legea nr. 187/2012 (first published as no law named).
+- `art-112.md`, in force from 2014-02-01: Legea nr. 187/2012 (first published as no law named).
+- `art-113.md`, in force from 2014-02-01: Legea nr. 187/2012 (first published as no law named).
+- `art-114.md`, in force from 2014-02-01: Legea nr. 187/2012 (first published as no law named).
+- `art-115.md`, in force from 2014-02-01: Legea nr. 187/2012 (first published as no law named).
+- `art-116.md`, in force from 2014-02-01: Legea nr. 187/2012 (first published as no law named).
+- `art-133.md`, in force from 2014-02-01: OUG nr. 20/2008 (first published as no law named).
+- `art-013.md`, in force from 2014-02-13: OUG nr. 4/2014 (first published as no law named).
+- `art-015.md`, in force from 2014-02-13: OUG nr. 4/2014 (first published as no law named).
+- `art-016.md`, in force from 2014-02-13: OUG nr. 4/2014 (first published as no law named).
+- `art-017.md`, in force from 2014-02-13: OUG nr. 4/2014 (first published as no law named).
+- `art-103.md`, in force from 2014-02-23: OUG nr. 4/2014 (first published as no law named).
