@@ -8,7 +8,7 @@ personal
 Structura din care face parte
 27
 Țone Sorina
-2780624520013
+[CNP omis]
 Compania Națională "Aeroporturi
 București"
 ------

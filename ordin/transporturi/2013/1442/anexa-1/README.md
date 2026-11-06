@@ -1,4 +1,4 @@
-# Anexa nr. 1: Completare la lista inspectorilor AVSEC Nr. crt. Numele și prenumele Codul numeric personal Structura din care face parte 27 Țone Sorina 2780624520013 Compania Națională "Aeroporturi București"
+# Anexa nr. 1: Completare la lista inspectorilor AVSEC Nr. crt. Numele și prenumele Codul numeric personal Structura din care face parte 27 Țone Sorina [CNP omis] Compania Națională "Aeroporturi București"
 
 Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
 
