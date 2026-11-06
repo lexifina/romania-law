@@ -17,7 +17,7 @@
   "laws": "data/laws.csv",
   "list": "ACTS.md",
   "sources": "REPRODUCE.md",
-  "count": 18780
+  "count": 19213
  },
  "shards": [
   {
@@ -13982,12 +13982,12 @@
   {
    "shard": "ordin/1997",
    "kind": "ordin",
-   "count": 215,
+   "count": 216,
    "acts": "data/acts/ordin/1997.json",
    "list": "data/acts/ordin/1997.md",
    "versions": "data/versions/ordin/1997.json",
    "laws": "data/laws/ordin/1997.csv",
-   "laws_count": 215,
+   "laws_count": 216,
    "sources": "data/sources/ordin/1997.csv"
   },
   {
@@ -14015,23 +14015,23 @@
   {
    "shard": "ordin/2000",
    "kind": "ordin",
-   "count": 323,
+   "count": 324,
    "acts": "data/acts/ordin/2000.json",
    "list": "data/acts/ordin/2000.md",
    "versions": "data/versions/ordin/2000.json",
    "laws": "data/laws/ordin/2000.csv",
-   "laws_count": 323,
+   "laws_count": 324,
    "sources": "data/sources/ordin/2000.csv"
   },
   {
    "shard": "ordin/2001",
    "kind": "ordin",
-   "count": 551,
+   "count": 552,
    "acts": "data/acts/ordin/2001.json",
    "list": "data/acts/ordin/2001.md",
    "versions": "data/versions/ordin/2001.json",
    "laws": "data/laws/ordin/2001.csv",
-   "laws_count": 551,
+   "laws_count": 552,
    "sources": "data/sources/ordin/2001.csv"
   },
   {
@@ -14114,23 +14114,23 @@
   {
    "shard": "ordin/2009",
    "kind": "ordin",
-   "count": 1019,
+   "count": 1020,
    "acts": "data/acts/ordin/2009.json",
    "list": "data/acts/ordin/2009.md",
    "versions": "data/versions/ordin/2009.json",
    "laws": "data/laws/ordin/2009.csv",
-   "laws_count": 1019,
+   "laws_count": 1020,
    "sources": "data/sources/ordin/2009.csv"
   },
   {
    "shard": "ordin/2010",
    "kind": "ordin",
-   "count": 1080,
+   "count": 1081,
    "acts": "data/acts/ordin/2010.json",
    "list": "data/acts/ordin/2010.md",
    "versions": "data/versions/ordin/2010.json",
    "laws": "data/laws/ordin/2010.csv",
-   "laws_count": 1080,
+   "laws_count": 1081,
    "sources": "data/sources/ordin/2010.csv"
   },
   {
@@ -14158,12 +14158,12 @@
   {
    "shard": "ordin/2013",
    "kind": "ordin",
-   "count": 1084,
+   "count": 1085,
    "acts": "data/acts/ordin/2013.json",
    "list": "data/acts/ordin/2013.md",
    "versions": "data/versions/ordin/2013.json",
    "laws": "data/laws/ordin/2013.csv",
-   "laws_count": 1084,
+   "laws_count": 1085,
    "sources": "data/sources/ordin/2013.csv"
   },
   {
@@ -14191,23 +14191,23 @@
   {
    "shard": "ordin/2016",
    "kind": "ordin",
-   "count": 1365,
+   "count": 1366,
    "acts": "data/acts/ordin/2016.json",
    "list": "data/acts/ordin/2016.md",
    "versions": "data/versions/ordin/2016.json",
    "laws": "data/laws/ordin/2016.csv",
-   "laws_count": 1365,
+   "laws_count": 1366,
    "sources": "data/sources/ordin/2016.csv"
   },
   {
    "shard": "ordin/2017",
    "kind": "ordin",
-   "count": 1109,
+   "count": 1110,
    "acts": "data/acts/ordin/2017.json",
    "list": "data/acts/ordin/2017.md",
    "versions": "data/versions/ordin/2017.json",
    "laws": "data/laws/ordin/2017.csv",
-   "laws_count": 1109,
+   "laws_count": 1110,
    "sources": "data/sources/ordin/2017.csv"
   },
   {
@@ -14235,34 +14235,34 @@
   {
    "shard": "ordin/2020",
    "kind": "ordin",
-   "count": 1430,
+   "count": 1431,
    "acts": "data/acts/ordin/2020.json",
    "list": "data/acts/ordin/2020.md",
    "versions": "data/versions/ordin/2020.json",
    "laws": "data/laws/ordin/2020.csv",
-   "laws_count": 1430,
+   "laws_count": 1431,
    "sources": "data/sources/ordin/2020.csv"
   },
   {
    "shard": "ordin/2021",
    "kind": "ordin",
-   "count": 1184,
+   "count": 1186,
    "acts": "data/acts/ordin/2021.json",
    "list": "data/acts/ordin/2021.md",
    "versions": "data/versions/ordin/2021.json",
    "laws": "data/laws/ordin/2021.csv",
-   "laws_count": 1184,
+   "laws_count": 1186,
    "sources": "data/sources/ordin/2021.csv"
   },
   {
    "shard": "ordin/2022",
    "kind": "ordin",
-   "count": 1401,
+   "count": 1402,
    "acts": "data/acts/ordin/2022.json",
    "list": "data/acts/ordin/2022.md",
    "versions": "data/versions/ordin/2022.json",
    "laws": "data/laws/ordin/2022.csv",
-   "laws_count": 1401,
+   "laws_count": 1402,
    "sources": "data/sources/ordin/2022.csv"
   },
   {

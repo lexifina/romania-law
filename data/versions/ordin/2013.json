@@ -5388,6 +5388,21 @@
    ]
   },
   {
+   "slug": "ordin-cnas-739-2013",
+   "path": "ordin/cnas/2013/739",
+   "short": "Ordin cnas nr. 739/2013",
+   "title": "Ordinul nr. 739/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152379",
+   "versions": [
+    {
+     "from": "2013-11-05",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250406224830id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/152379",
+     "sha256": "ce0585c8e432d7a0d5f32941ef2b4b829527b044eb589afb86811667ef968b56"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnas-946-2013",
    "path": "ordin/cnas/2013/946",
    "short": "Ordin cnas nr. 946/2013",

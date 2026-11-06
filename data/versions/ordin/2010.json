@@ -2598,6 +2598,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-30-2010",
+   "path": "ordin/anre/2010/30",
+   "short": "Ordin anre nr. 30/2010",
+   "title": "Ordinul nr. 30/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123935",
+   "versions": [
+    {
+     "from": "2010-11-26",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250406180923id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/123935",
+     "sha256": "afbef3dd2fe36da20cb3348ce935d5d988373a31ff31b4e2eab5bc0509838b95"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-31-2010",
    "path": "ordin/anre/2010/31",
    "short": "Ordin anre nr. 31/2010",

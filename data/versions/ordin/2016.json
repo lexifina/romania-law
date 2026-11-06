@@ -15078,6 +15078,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-2018-2016",
+   "path": "ordin/mediu/2016/2018",
+   "short": "Ordin mediu nr. 2018/2016",
+   "title": "Ordinul nr. 2.018/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183189",
+   "versions": [
+    {
+     "from": "2016-11-01",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20161105195755id_/https://legislatie.just.ro/Public/DetaliiDocument/183189",
+     "sha256": "8204900592b2ef81316cf0fbfd5661b6ee937e33afc776916d9c197029740c76"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-2020-2016",
    "path": "ordin/mediu/2016/2020",
    "short": "Ordin mediu nr. 2020/2016",

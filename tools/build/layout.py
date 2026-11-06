@@ -84,7 +84,11 @@ LANE_KINDS = {'decizie-bec': 'Central Electoral Bureau decisions, regulations an
               # Monitorul Oficial with the act that ratifies or approves them. A treaty has no number of its own, so the
               # signing day and type name it: tratat/<year>/<MM-DD>-<type>[-<n>], id tratat-<year>-<MM-DD>-<type>[-<n>]
               # (tratat/2024/05-21-acord); -2, -3 ... in service document order for one day's several of one type.
-              'tratat': 'Treaties and international agreements (texts published with their ratifying act)'}
+              'tratat': 'Treaties and international agreements (texts published with their ratifying act)',
+              # CNSC decisions (sources/cnsc; 2026-11-06): the public-procurement complaints council's decisions from its
+              # portal, numbered per year: cnsc/decizie/<year>/<nr>[-<n>], id cnsc-decizie-<year>-<nr>[-<n>]
+              # (cnsc/decizie/2026/3557, id cnsc-decizie-2026-3557); -2, -3 ... only when one year lists a number twice.
+              'cnsc': 'Public procurement complaints council decisions (CNSC)'}
 KIND_NAMES = {**{k: v for k, v in KIND_NAMES.items() if k not in ('cod', 'alte')}, **LANE_KINDS,
               'cod': KIND_NAMES['cod'], 'alte': KIND_NAMES['alte']}
 LANE_ROOTS = tuple(LANE_KINDS)

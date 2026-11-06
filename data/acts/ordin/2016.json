@@ -22089,6 +22089,25 @@
 "joint": []
 },
 {
+"slug": "ordin-mediu-2018-2016",
+"path": "ordin/mediu/2016/2018",
+"kind": "ordin",
+"year": "2016",
+"number": "2018",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.018/2016",
+"short": "Ordin mediu nr. 2018/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-11-01",
+"latest": "2016-11-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/183189",
+"issuer": "mediu",
+"joint": []
+},
+{
 "slug": "ordin-mediu-2020-2016",
 "path": "ordin/mediu/2016/2020",
 "kind": "ordin",

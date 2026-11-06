@@ -3,6 +3,25 @@
 "shard": "ordin/2001",
 "acts": [
 {
+"slug": "ordin-agricultura-4-2001",
+"path": "ordin/agricultura/2001/4",
+"kind": "ordin",
+"year": "2001",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4/2001",
+"short": "Ordin agricultura nr. 4/2001",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2001-02-15",
+"latest": "2001-02-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/26693",
+"issuer": "agricultura",
+"joint": []
+},
+{
 "slug": "ordin-agricultura-26-2001",
 "path": "ordin/agricultura/2001/26",
 "kind": "ordin",

@@ -212,6 +212,25 @@
 "joint": []
 },
 {
+"slug": "ordin-agricultura-80-2000",
+"path": "ordin/agricultura/2000/80",
+"kind": "ordin",
+"year": "2000",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 80/2000 pentru aprobarea Normei privind condițiile minime necesare pentru efectuarea controlului fitosanitar vamal",
+"short": "Ordin agricultura nr. 80/2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2000-09-09",
+"latest": "2000-09-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/23712",
+"issuer": "agricultura",
+"joint": []
+},
+{
 "slug": "ordin-agricultura-81-2000",
 "path": "ordin/agricultura/2000/81",
 "kind": "ordin",

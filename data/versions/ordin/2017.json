@@ -3183,6 +3183,21 @@
    ]
   },
   {
+   "slug": "ordin-anpc-1-2017",
+   "path": "ordin/anpc/2017/1",
+   "short": "Ordin anpc nr. 1/2017",
+   "title": "Ordinul nr. 1/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185619",
+   "versions": [
+    {
+     "from": "2017-01-11",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20181221010031id_/https://legislatie.just.ro/Public/DetaliiDocument/185619",
+     "sha256": "52714d9bb638d5a4e08fc65ad6ac7d8262dcd00b6d1bd752af9eed024addacf2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anpc-214-2017",
    "path": "ordin/anpc/2017/214",
    "short": "Ordin anpc nr. 214/2017",

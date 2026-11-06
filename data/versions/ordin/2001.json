@@ -1053,6 +1053,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-4-2001",
+   "path": "ordin/agricultura/2001/4",
+   "short": "Ordin agricultura nr. 4/2001",
+   "title": "Ordinul nr. 4/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26693",
+   "versions": [
+    {
+     "from": "2001-02-15",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250407062603id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/26693",
+     "sha256": "6051506449efa5dca7a7173bb03f02c57e4c89bf367e915f5411f66a19e1c972"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-400-2001",
    "path": "ordin/agricultura/2001/400",
    "short": "Ordin agricultura nr. 400/2001",

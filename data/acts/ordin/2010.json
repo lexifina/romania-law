@@ -3667,6 +3667,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anre-30-2010",
+"path": "ordin/anre/2010/30",
+"kind": "ordin",
+"year": "2010",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 30/2010",
+"short": "Ordin anre nr. 30/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-11-26",
+"latest": "2010-11-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/123935",
+"issuer": "anre",
+"joint": []
+},
+{
 "slug": "ordin-anre-31-2010",
 "path": "ordin/anre/2010/31",
 "kind": "ordin",

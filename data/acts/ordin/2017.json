@@ -4160,6 +4160,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anpc-1-2017",
+"path": "ordin/anpc/2017/1",
+"kind": "ordin",
+"year": "2017",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1/2017",
+"short": "Ordin anpc nr. 1/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-01-11",
+"latest": "2017-01-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/185619",
+"issuer": "anpc",
+"joint": []
+},
+{
 "slug": "ordin-anpc-4-2017",
 "path": "ordin/anpc/2017/4",
 "kind": "ordin",

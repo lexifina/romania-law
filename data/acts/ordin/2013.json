@@ -7677,6 +7677,25 @@
 "joint": []
 },
 {
+"slug": "ordin-cnas-739-2013",
+"path": "ordin/cnas/2013/739",
+"kind": "ordin",
+"year": "2013",
+"number": "739",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 739/2013",
+"short": "Ordin cnas nr. 739/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-11-05",
+"latest": "2013-11-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/152379",
+"issuer": "cnas",
+"joint": []
+},
+{
 "slug": "ordin-cnas-946-2013",
 "path": "ordin/cnas/2013/946",
 "kind": "ordin",

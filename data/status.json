@@ -1,6 +1,6 @@
 {
  "schema": "romania-law-status/1",
- "generated": "2026-11-06T13:06:39Z",
+ "generated": "2026-11-06T14:06:40Z",
  "updates": "running",
  "last_published": "2026-11-06T12:54:47Z",
  "published_last_24h": {
@@ -11,16 +11,16 @@
   {
    "name": "Portal legislativ: web service (legislatie.just.ro)",
    "state": "unavailable",
-   "unavailable_since": "2026-11-06T12:56:52Z",
-   "last_successful_contact": "2026-11-06T12:56:49Z",
-   "as_of": "2026-11-06T13:01:39Z"
+   "unavailable_since": "2026-11-06T13:53:13Z",
+   "last_successful_contact": "2026-11-06T13:53:10Z",
+   "as_of": "2026-11-06T14:02:05Z"
   },
   {
    "name": "Portal legislativ: website (legislatie.just.ro)",
    "state": "unavailable",
    "unavailable_since": "2026-11-02T18:44:43Z",
    "last_successful_contact": null,
-   "as_of": "2026-11-06T12:54:44Z"
+   "as_of": "2026-11-06T13:54:48Z"
   },
   {
    "name": "EU Publications Office (CELLAR)",
