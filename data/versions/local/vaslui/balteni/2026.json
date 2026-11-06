@@ -423,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--balteni-35-2026",
+   "path": "local/vaslui/balteni/2026/35",
+   "short": "HCL Bălteni nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 35/2026 Proiect de hotarare privind inchirierea unui spatiu din Dispensarul Uman pentru cabinet stomatologic",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#126471",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#126471",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--balteni-36-2026",
    "path": "local/vaslui/balteni/2026/36",
    "short": "HCL Bălteni nr. 36/2026",
@@ -523,6 +538,36 @@
      "from": "2026-08-26",
      "units": 1,
      "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#128954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-42-2026",
+   "path": "local/vaslui/balteni/2026/42",
+   "short": "HCL Bălteni nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 42/2026 PROIECT DE HOTARARE PRIVIND DESEMNARE REPREZENTANT CL IN CONSILIUL DE ADMINISTRATIE AL SCOLII",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#129387",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#129387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-43-2026",
+   "path": "local/vaslui/balteni/2026/43",
+   "short": "HCL Bălteni nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 43/2026 PROIECT DE HOTARARE PRIVIND DESEMNARE REPREZENTANT CL IN CEAC AL SCOLII",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#129388",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#129388",
      "sha256": null
     }
    ]
@@ -648,6 +693,21 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--balteni-51-2026",
+   "path": "local/vaslui/balteni/2026/51",
+   "short": "HCL Bălteni nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 51/2026 PROIECT DE HOTARARE PRIVIND DESEMNAREA REPREZENTANT CL IN COMISIA DE EXAMINARE A DIRECTORULUI",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#130794",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#130794",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--balteni-52-2026",
    "path": "local/vaslui/balteni/2026/52",
    "short": "HCL Bălteni nr. 52/2026",
@@ -703,6 +763,21 @@
      "from": "2026-10-12",
      "units": 1,
      "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#131217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-6-2026",
+   "path": "local/vaslui/balteni/2026/6",
+   "short": "HCL Bălteni nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 6/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]

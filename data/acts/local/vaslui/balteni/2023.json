@@ -136,6 +136,51 @@
 }
 },
 {
+"slug": "hcl-vaslui--balteni-7-2023",
+"path": "local/vaslui/balteni/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 7/2023 PROIECT DE HOTARARE NR. 7 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA",
+"short": "HCL Bălteni nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#43524",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--balteni-8-2023",
+"path": "local/vaslui/balteni/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 8/2023",
+"short": "HCL Bălteni nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": null,
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-vaslui--balteni-9-2023",
 "path": "local/vaslui/balteni/2023/9",
 "kind": "local",
@@ -243,6 +288,51 @@
 "council_name": "Consiliul Local al Comunei Bălteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--balteni-14-2023",
+"path": "local/vaslui/balteni/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 14/2023 PROIECT DE HOTARARE NR. 14 PRIVIND CONCESIONAREA UNEI SUPRAFETE DE TEREN",
+"short": "HCL Bălteni nr. 14/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-29",
+"latest": "2023-03-29",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#46136",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--balteni-15-2023",
+"path": "local/vaslui/balteni/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 15/2023",
+"short": "HCL Bălteni nr. 15/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-29",
+"latest": "2023-03-29",
+"portal": null,
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -400,6 +490,50 @@
 }
 },
 {
+"slug": "hcl-vaslui--balteni-23-2023",
+"path": "local/vaslui/balteni/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 23/2023 PROIECT DE HOTARARE PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA",
+"short": "HCL Bălteni nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-03",
+"latest": "2023-05-03",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#48568",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--balteni-24-2023",
+"path": "local/vaslui/balteni/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 24/2023 PROIECT DE HOTARARE PRIVIND REVOCAREA HCL",
+"short": "HCL Bălteni nr. 24/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-03",
+"latest": "2023-05-03",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#48571",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vaslui--balteni-25-2023",
 "path": "local/vaslui/balteni/2023/25",
 "kind": "local",
@@ -488,6 +622,28 @@
 }
 },
 {
+"slug": "hcl-vaslui--balteni-29-2023",
+"path": "local/vaslui/balteni/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 29/2023 Proiect de hotarare privind vanzarea prin licitatie publica a unor suprafete de teren",
+"short": "HCL Bălteni nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-26",
+"latest": "2023-05-26",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#50915",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vaslui--balteni-30-2023",
 "path": "local/vaslui/balteni/2023/30",
 "kind": "local",
@@ -507,6 +663,29 @@
 "council_name": "Consiliul Local al Comunei Bălteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--balteni-31-2023",
+"path": "local/vaslui/balteni/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 31/2023",
+"short": "HCL Bălteni nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-02",
+"latest": "2023-06-02",
+"portal": null,
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1322,6 +1501,28 @@
 "council_name": "Consiliul Local al Comunei Bălteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--balteni-69-2023",
+"path": "local/vaslui/balteni/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 69/2023 PROIECT DE HOTARARE PRIVIND DESEMNAREA A 2 CONSILIERI LOCALI CARE SA FACA PARTE DIN COMISIA DE EV A ACTIV. SECRETARULUI",
+"short": "HCL Bălteni nr. 69/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#65162",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

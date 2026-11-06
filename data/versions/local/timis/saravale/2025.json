@@ -3,6 +3,111 @@
  "shard": "local/timis/saravale/2025",
  "acts": [
   {
+   "slug": "hcl-timis--saravale-12-2025",
+   "path": "local/timis/saravale/2025/12",
+   "short": "HCL Saravale nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 12/2025 pentru aprobarea raportului primarului pe anul 2024 privind starea economică , socială și de mediu a Unității Administrativ Teritoriale al Comunei Saravale, judeţul Timiş",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#98984",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#98984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-13-2025",
+   "path": "local/timis/saravale/2025/13",
+   "short": "HCL Saravale nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 13/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-15-2025",
+   "path": "local/timis/saravale/2025/15",
+   "short": "HCL Saravale nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 15/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-18-2025",
+   "path": "local/timis/saravale/2025/18",
+   "short": "HCL Saravale nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 18/2025 ALEGEREA PRESEDINTELUI DE SEDINTA",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#100467",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#100467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-21-2025",
+   "path": "local/timis/saravale/2025/21",
+   "short": "HCL Saravale nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 21/2025 aprobarea Organigramei și a Statului de Funcții al aparatului de specialitate al Primarului comunei Saravale",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#100611",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#100611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-22-2025",
+   "path": "local/timis/saravale/2025/22",
+   "short": "HCL Saravale nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 22/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-32-2025",
+   "path": "local/timis/saravale/2025/32",
+   "short": "HCL Saravale nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 32/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--saravale-33-2025",
    "path": "local/timis/saravale/2025/33",
    "short": "HCL Saravale nr. 33/2025",
@@ -13,6 +118,96 @@
      "from": "2025-07-14",
      "units": 1,
      "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#103031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-36-2025",
+   "path": "local/timis/saravale/2025/36",
+   "short": "HCL Saravale nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 36/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-38-2025",
+   "path": "local/timis/saravale/2025/38",
+   "short": "HCL Saravale nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 38/2025 ALEGEREA PRESEDINTELUI DE SEDINTA",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#105943",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#105943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-39-2025",
+   "path": "local/timis/saravale/2025/39",
+   "short": "HCL Saravale nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 39/2025 privind modificarea și completarea Hotărârii Consiliului Local Comuna Saravale nr.55 din 05.11.2024 , privind constituirea COMISIILOR DE SPECIALITATE ale Consiliului Local al comunei Saravale, județul Timiș,",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#105949",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#105949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-44-2025",
+   "path": "local/timis/saravale/2025/44",
+   "short": "HCL Saravale nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 44/2025 2. Proiect de hotărâre nr.5969. din 11.09.2025 privind modificarea și completarea Hotărârii Consiliului Local Comuna Saravale nr. 55 din 05.11.2024 , privind constituirea COMISIILOR DE SPECIALITATE ale Consiliului Local al comunei Saravale, județul",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#106432",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#106432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-47-2025",
+   "path": "local/timis/saravale/2025/47",
+   "short": "HCL Saravale nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 47/2025 5. Proiect de hotărâre nr. 5998 din 11.09.2025 privind desemnarea din rândul consilierilor locali ai Consiliului Local al Comunei Saravale a doi reprezentanţi în Consiliul de Administraţie a Scolii Gimnaziale Saravale , pentru anul şcolar 2025-2026",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#106435",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#106435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-51-2025",
+   "path": "local/timis/saravale/2025/51",
+   "short": "HCL Saravale nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 51/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]

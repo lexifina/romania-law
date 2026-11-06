@@ -3,6 +3,21 @@
  "shard": "local/tulcea/macin/2024",
  "acts": [
   {
+   "slug": "hcl-tulcea--macin-1-2024",
+   "path": "local/tulcea/macin/2024/1",
+   "short": "HCL Măcin nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 1/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/macin-tl/registru-hcl/137173",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/137173",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--macin-10-2024",
    "path": "local/tulcea/macin/2024/10",
    "short": "HCL Măcin nr. 10/2024",
@@ -28,6 +43,96 @@
      "from": "2024-04-22",
      "units": 1,
      "source_url": "https://emol.ro/macin-tl/registru-hcl/151351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-12-2024",
+   "path": "local/tulcea/macin/2024/12",
+   "short": "HCL Măcin nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 12/2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/151352",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/151352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-13-2024",
+   "path": "local/tulcea/macin/2024/13",
+   "short": "HCL Măcin nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 13/2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/151353",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/151353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-14-2024",
+   "path": "local/tulcea/macin/2024/14",
+   "short": "HCL Măcin nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 14/2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/151354",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/151354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-15-2024",
+   "path": "local/tulcea/macin/2024/15",
+   "short": "HCL Măcin nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 15/2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/151355",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/151355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-16-2024",
+   "path": "local/tulcea/macin/2024/16",
+   "short": "HCL Măcin nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 16/2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/151356",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/151356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-17-2024",
+   "path": "local/tulcea/macin/2024/17",
+   "short": "HCL Măcin nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 17/2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/151357",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/151357",
      "sha256": null
     }
    ]
@@ -108,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--macin-22-2024",
+   "path": "local/tulcea/macin/2024/22",
+   "short": "HCL Măcin nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 22/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/macin-tl/registru-hcl/155246",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/155246",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--macin-23-2024",
    "path": "local/tulcea/macin/2024/23",
    "short": "HCL Măcin nr. 23/2024",
@@ -153,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--macin-26-2024",
+   "path": "local/tulcea/macin/2024/26",
+   "short": "HCL Măcin nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 26/2024 privind aprobarea rezultatului evaluării activității managerului spitalului orășenesc Măcin, pentru anul 2023 și menținerea contractului de management",
+   "url": "https://emol.ro/macin-tl/registru-hcl/155250",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/155250",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--macin-27-2024",
    "path": "local/tulcea/macin/2024/27",
    "short": "HCL Măcin nr. 27/2024",
@@ -163,6 +298,36 @@
      "from": "2025-02-05",
      "units": 1,
      "source_url": "https://emol.ro/macin-tl/registru-hcl/155251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-28-2024",
+   "path": "local/tulcea/macin/2024/28",
+   "short": "HCL Măcin nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 28/2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/155252",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/155252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-29-2024",
+   "path": "local/tulcea/macin/2024/29",
+   "short": "HCL Măcin nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 29/2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/155253",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/155253",
      "sha256": null
     }
    ]
@@ -208,6 +373,21 @@
      "from": "2025-02-05",
      "units": 1,
      "source_url": "https://emol.ro/macin-tl/registru-hcl/155255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-32-2024",
+   "path": "local/tulcea/macin/2024/32",
+   "short": "HCL Măcin nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 32/2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/155256",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/155256",
      "sha256": null
     }
    ]
@@ -348,6 +528,21 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--macin-41-2024",
+   "path": "local/tulcea/macin/2024/41",
+   "short": "HCL Măcin nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 41/2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/159102",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/159102",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--macin-42-2024",
    "path": "local/tulcea/macin/2024/42",
    "short": "HCL Măcin nr. 42/2024",
@@ -358,6 +553,36 @@
      "from": "2025-02-05",
      "units": 1,
      "source_url": "https://emol.ro/macin-tl/registru-hcl/159103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-43-2024",
+   "path": "local/tulcea/macin/2024/43",
+   "short": "HCL Măcin nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 43/2024 privind instituirea dreptului de uz și servitute cu titlu gratuit către concesionarul serviciului public de distribuție a gazelor naturale asupra terenurilor necesare pentru realizarea obiectivului de: \"DEZVOLTARE SISTEM DE DISTRIBUȚIE GAZE NATURALE ÎN ORAȘUL MĂCIN, JUDEȚUL TULCEA\" pe toată durata concesiunii, precum și a terenurilor necesare organizării de șantier pe durata realizării investiției",
+   "url": "https://emol.ro/macin-tl/registru-hcl/159316",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/159316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-44-2024",
+   "path": "local/tulcea/macin/2024/44",
+   "short": "HCL Măcin nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 44/2024 privind inițierea procedurii de concesionare a serviciului de utilitate publică de distribuție a gazelor naturale în Oraș Măcin, județul Tulcea",
+   "url": "https://emol.ro/macin-tl/registru-hcl/159317",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/159317",
      "sha256": null
     }
    ]
@@ -408,6 +633,36 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--macin-48-2024",
+   "path": "local/tulcea/macin/2024/48",
+   "short": "HCL Măcin nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 48/2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/161345",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/161345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-49-2024",
+   "path": "local/tulcea/macin/2024/49",
+   "short": "HCL Măcin nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 49/2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/161346",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/161346",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--macin-5-2024",
    "path": "local/tulcea/macin/2024/5",
    "short": "HCL Măcin nr. 5/2024",
@@ -433,6 +688,21 @@
      "from": "2025-02-05",
      "units": 1,
      "source_url": "https://emol.ro/macin-tl/registru-hcl/161347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-51-2024",
+   "path": "local/tulcea/macin/2024/51",
+   "short": "HCL Măcin nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 51/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/macin-tl/registru-hcl/164916",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/164916",
      "sha256": null
     }
    ]
@@ -483,6 +753,21 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--macin-55-2024",
+   "path": "local/tulcea/macin/2024/55",
+   "short": "HCL Măcin nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 55/2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/164920",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/164920",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--macin-56-2024",
    "path": "local/tulcea/macin/2024/56",
    "short": "HCL Măcin nr. 56/2024",
@@ -498,6 +783,51 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--macin-57-2024",
+   "path": "local/tulcea/macin/2024/57",
+   "short": "HCL Măcin nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 57/2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/164922",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/164922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-58-2024",
+   "path": "local/tulcea/macin/2024/58",
+   "short": "HCL Măcin nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 58/2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/164923",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/164923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-59-2024",
+   "path": "local/tulcea/macin/2024/59",
+   "short": "HCL Măcin nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 59/2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/164924",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/164924",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--macin-6-2024",
    "path": "local/tulcea/macin/2024/6",
    "short": "HCL Măcin nr. 6/2024",
@@ -508,6 +838,81 @@
      "from": "2024-04-22",
      "units": 1,
      "source_url": "https://emol.ro/macin-tl/registru-hcl/144671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-60-2024",
+   "path": "local/tulcea/macin/2024/60",
+   "short": "HCL Măcin nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 60/2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/164925",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/164925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-61-2024",
+   "path": "local/tulcea/macin/2024/61",
+   "short": "HCL Măcin nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 61/2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/164926",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/164926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-62-2024",
+   "path": "local/tulcea/macin/2024/62",
+   "short": "HCL Măcin nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 62/2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/164927",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/164927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-63-2024",
+   "path": "local/tulcea/macin/2024/63",
+   "short": "HCL Măcin nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 63/2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/164928",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/164928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-64-2024",
+   "path": "local/tulcea/macin/2024/64",
+   "short": "HCL Măcin nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 64/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/macin-tl/registru-hcl/165450",
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/165450",
      "sha256": null
     }
    ]
@@ -558,6 +963,21 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--macin-68-2024",
+   "path": "local/tulcea/macin/2024/68",
+   "short": "HCL Măcin nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 68/2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/168048",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/168048",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--macin-69-2024",
    "path": "local/tulcea/macin/2024/69",
    "short": "HCL Măcin nr. 69/2024",
@@ -568,6 +988,21 @@
      "from": "2024-10-08",
      "units": 1,
      "source_url": "https://emol.ro/macin-tl/registru-hcl/170142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-7-2024",
+   "path": "local/tulcea/macin/2024/7",
+   "short": "HCL Măcin nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 7/2024 privind recalcularea chiriei pentru locuințele realizate prin \"Programul de locuințe pentru tineret ANL, destinate închirierii\", nivel chirie aplicabil în anul 2024",
+   "url": "https://emol.ro/macin-tl/registru-hcl/144672",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/144672",
      "sha256": null
     }
    ]
@@ -618,6 +1053,36 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--macin-73-2024",
+   "path": "local/tulcea/macin/2024/73",
+   "short": "HCL Măcin nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 73/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/macin-tl/registru-hcl/179912",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/179912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-74-2024",
+   "path": "local/tulcea/macin/2024/74",
+   "short": "HCL Măcin nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 74/2024 privind organizarea comisiilor de specialitate ale Consiliului Local al Orașului Măcin, județul Tulcea",
+   "url": "https://emol.ro/macin-tl/registru-hcl/179913",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/179913",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--macin-75-2024",
    "path": "local/tulcea/macin/2024/75",
    "short": "HCL Măcin nr. 75/2024",
@@ -628,6 +1093,36 @@
      "from": "2025-02-05",
      "units": 1,
      "source_url": "https://emol.ro/macin-tl/registru-hcl/179942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-76-2024",
+   "path": "local/tulcea/macin/2024/76",
+   "short": "HCL Măcin nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 76/2024 privind alegerea viceprimarului orașului",
+   "url": "https://emol.ro/macin-tl/registru-hcl/179943",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/179943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-77-2024",
+   "path": "local/tulcea/macin/2024/77",
+   "short": "HCL Măcin nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 77/2024 privind stabilirea cuantumului indemnizației lunare pentru participarea consilierilor locali la ședințele Consiliului Local Măcin și ale comisiilor de specialitate ale acestuia",
+   "url": "https://emol.ro/macin-tl/registru-hcl/179944",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/179944",
      "sha256": null
     }
    ]
@@ -678,6 +1173,21 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--macin-80-2024",
+   "path": "local/tulcea/macin/2024/80",
+   "short": "HCL Măcin nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 80/2024 privind aprobarea desemnării reprezentanților Consiliului Local al Orașului Măcin în consiliile de administrație cât și a reprezentanților în Comisiile de Evaluare și Asigurarea Calității ale unităților de învățământ preuniversitar de stat din Orașul Măcin, pentru anul 2024-2025",
+   "url": "https://emol.ro/macin-tl/registru-hcl/182549",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/182549",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--macin-81-2024",
    "path": "local/tulcea/macin/2024/81",
    "short": "HCL Măcin nr. 81/2024",
@@ -688,6 +1198,21 @@
      "from": "2025-02-05",
      "units": 1,
      "source_url": "https://emol.ro/macin-tl/registru-hcl/182550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--macin-82-2024",
+   "path": "local/tulcea/macin/2024/82",
+   "short": "HCL Măcin nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Măcin nr. 82/2024 privind împuternicirea persoanei ce va reprezenta interesele Orașului Măcin în Adunarea Generală a membrilor Asociației pentru Supravegherea și Protecția Animalelor ASPA - IVETS",
+   "url": "https://emol.ro/macin-tl/registru-hcl/182551",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/macin-tl/registru-hcl/182551",
      "sha256": null
     }
    ]

@@ -1,0 +1,228 @@
+{
+"country": "RO",
+"shard": "local/vaslui/dodesti/2024",
+"acts": [
+{
+"slug": "hcl-vaslui--dodesti-3-2024",
+"path": "local/vaslui/dodesti/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 3/2024 privind alegerea preşedintelui de şedinţă pentru lunile: februarie, martie, aprilie 2024",
+"short": "HCL Dodești nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68941",
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--dodesti-19-2024",
+"path": "local/vaslui/dodesti/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 19/2024",
+"short": "HCL Dodești nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": null,
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vaslui--dodesti-27-2024",
+"path": "local/vaslui/dodesti/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 27/2024 privind alegerea preşedintelui de şedinţă pentru lunile: mai, iunie, iulie 2024",
+"short": "HCL Dodești nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-26",
+"latest": "2024-04-26",
+"portal": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#75441",
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--dodesti-44-2024",
+"path": "local/vaslui/dodesti/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 44/2024 privind alegerea preşedintelui de şedinţă pentru lunile: august, septembrie 2024",
+"short": "HCL Dodești nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#80015",
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--dodesti-52-2024",
+"path": "local/vaslui/dodesti/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 52/2024 privind alegerea preşedintelui de şedinţă pentru lunile: octombrie, noiembrie, decembrie 2024",
+"short": "HCL Dodești nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-27",
+"latest": "2024-09-27",
+"portal": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#83663",
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--dodesti-58-2024",
+"path": "local/vaslui/dodesti/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 58/2024",
+"short": "HCL Dodești nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-18",
+"latest": "2024-10-18",
+"portal": null,
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vaslui--dodesti-62-2024",
+"path": "local/vaslui/dodesti/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 62/2024 privind alegerea preşedintelui de şedinţă pentru lunile: noiembrie, decembrie 2024, ianuarie 2025",
+"short": "HCL Dodești nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#85570",
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--dodesti-63-2024",
+"path": "local/vaslui/dodesti/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 63/2024 privind constituirea comisiilor de specialitate ale Consiliului local al comunei Dodești",
+"short": "HCL Dodești nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#85571",
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--dodesti-64-2024",
+"path": "local/vaslui/dodesti/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 64/2024 privind alegerea viceprimarului comunei Dodești",
+"short": "HCL Dodești nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#85572",
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--dodesti-69-2024",
+"path": "local/vaslui/dodesti/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 69/2024 privind desemnarea persoanei care să reprezinte interesele UAT COMUNA DODEȘTI în Adunarea Generală a Asociaţiei pentru Dezvoltare Intercomunitară a județului Vaslui",
+"short": "HCL Dodești nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#85577",
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

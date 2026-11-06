@@ -3,6 +3,66 @@
  "shard": "local/valcea/ghioroiu/2024",
  "acts": [
   {
+   "slug": "hcl-valcea--ghioroiu-1-2024",
+   "path": "local/valcea/ghioroiu/2024/1",
+   "short": "HCL Ghioroiu nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 1/2024 Aprobarea Planului de lucrari de interes local",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#68512",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#68512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-10-2024",
+   "path": "local/valcea/ghioroiu/2024/10",
+   "short": "HCL Ghioroiu nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 10/2024 Aprobarea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al Primarului şi din serviciile publice din subordinea Consiliului Local Ghioroiu",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#70726",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#70726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-11-2024",
+   "path": "local/valcea/ghioroiu/2024/11",
+   "short": "HCL Ghioroiu nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 11/2024 stabilirea redeventei pentru contractul de concesiune nr.645 din 18.02.2019",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#70727",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#70727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-13-2024",
+   "path": "local/valcea/ghioroiu/2024/13",
+   "short": "HCL Ghioroiu nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 13/2024 la aprobarea tipului de suport alimentar acordat prescolarilor si elevilor Scolii Gimnaziale, comuna Ghioroiu, judetul Valcea, in cadrul Programului national „Masa sanatoasa“",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#72347",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#72347",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--ghioroiu-15-2024",
    "path": "local/valcea/ghioroiu/2024/15",
    "short": "HCL Ghioroiu nr. 15/2024",
@@ -48,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-valcea--ghioroiu-18-2024",
+   "path": "local/valcea/ghioroiu/2024/18",
+   "short": "HCL Ghioroiu nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 18/2024 Decontare naveta cadre didactice pe lunile decembrie 2023, ianuarie+martie 2024",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#76135",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#76135",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--ghioroiu-19-2024",
    "path": "local/valcea/ghioroiu/2024/19",
    "short": "HCL Ghioroiu nr. 19/2024",
@@ -58,6 +133,51 @@
      "from": "2024-04-30",
      "units": 1,
      "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#76136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-2-2024",
+   "path": "local/valcea/ghioroiu/2024/2",
+   "short": "HCL Ghioroiu nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 2/2024 aprobarea neasumarii organizarii si derularii procedurilor de atribuire a contractelor pentru achizitia produselor si masurilor educative aferente Programului pentru scoli al Romaniei pentru perioada 01 septembrie 2024-31 iulie 2029",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#68513",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#68513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-20-2024",
+   "path": "local/valcea/ghioroiu/2024/20",
+   "short": "HCL Ghioroiu nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 20/2024 acordarea unui sprijin financiar Parohiei Stirbesti",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#76137",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#76137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-21-2024",
+   "path": "local/valcea/ghioroiu/2024/21",
+   "short": "HCL Ghioroiu nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 21/2024 Alegerea presedintelui de sedinta pe 3 luni",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#76138",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#76138",
      "sha256": null
     }
    ]
@@ -78,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-valcea--ghioroiu-3-2024",
+   "path": "local/valcea/ghioroiu/2024/3",
+   "short": "HCL Ghioroiu nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 3/2024 aprobarea Raportului privind activitatea desfasurata de asistentii personali ai persoanelor cu handicap grav pe semestrul al II-lea al anului 2023",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#68514",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#68514",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--ghioroiu-30-2024",
    "path": "local/valcea/ghioroiu/2024/30",
    "short": "HCL Ghioroiu nr. 30/2024",
@@ -88,6 +223,156 @@
      "from": "2024-06-26",
      "units": 1,
      "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#78636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-34-2024",
+   "path": "local/valcea/ghioroiu/2024/34",
+   "short": "HCL Ghioroiu nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 34/2024 aprobarea Raportului privind activitatea desfasurata de asistentii personali ai persoanelor cu handicap grav pe semestrul I al anului 2024",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#80922",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#80922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-35-2024",
+   "path": "local/valcea/ghioroiu/2024/35",
+   "short": "HCL Ghioroiu nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 35/2024 decontarea cheltuielilor pentru naveta cadrelor didactice si personalului didactic auxiliar pentru lunile aprilie-iunie 2024",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#80923",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#80923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-36-2024",
+   "path": "local/valcea/ghioroiu/2024/36",
+   "short": "HCL Ghioroiu nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 36/2024 aprobarea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al Primarului şi din serviciile publice din subordinea Consiliului Local Ghioroiu",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#80924",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#80924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-37-2024",
+   "path": "local/valcea/ghioroiu/2024/37",
+   "short": "HCL Ghioroiu nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 37/2024 inchirierea, prin licitatie publica, a unui spatiu apartinand domeniului privat la comunei Ghioroiu, situat in incinta Dispensarului medical Ghioroiu",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#81459",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#81459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-40-2024",
+   "path": "local/valcea/ghioroiu/2024/40",
+   "short": "HCL Ghioroiu nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 40/2024 decontarea cheltuielilor pentru naveta cadrelor didactice si personalului didactic auxiliar pentru luna iulie 2024",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#82330",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#82330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-41-2024",
+   "path": "local/valcea/ghioroiu/2024/41",
+   "short": "HCL Ghioroiu nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 41/2024 desemnarea reprezentantului Consiliului Local Ghioroiu in Consiliul de Administratie al Scolii Gimnaziale, comuna Ghioroiu",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#82331",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#82331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-42-2024",
+   "path": "local/valcea/ghioroiu/2024/42",
+   "short": "HCL Ghioroiu nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 42/2024 Modificare stat functii",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#86136",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#86136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-43-2024",
+   "path": "local/valcea/ghioroiu/2024/43",
+   "short": "HCL Ghioroiu nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 43/2024 Alegerea presedintelui de sedinta pe 3 luni",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#88041",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#88041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-44-2024",
+   "path": "local/valcea/ghioroiu/2024/44",
+   "short": "HCL Ghioroiu nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 44/2024 Constituirea comisiilor de specialitate",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#88042",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#88042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-45-2024",
+   "path": "local/valcea/ghioroiu/2024/45",
+   "short": "HCL Ghioroiu nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 45/2024 Alegerea viceprimarului",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#88043",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#88043",
      "sha256": null
     }
    ]
@@ -153,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcl-valcea--ghioroiu-5-2024",
+   "path": "local/valcea/ghioroiu/2024/5",
+   "short": "HCL Ghioroiu nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 5/2024 Alegerea presedintelui de sedinta pe 3 luni",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#68518",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#68518",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--ghioroiu-50-2024",
    "path": "local/valcea/ghioroiu/2024/50",
    "short": "HCL Ghioroiu nr. 50/2024",
@@ -178,6 +478,21 @@
      "from": "2024-12-23",
      "units": 1,
      "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#90829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-53-2024",
+   "path": "local/valcea/ghioroiu/2024/53",
+   "short": "HCL Ghioroiu nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 53/2024 decontarea cheltuielilor pentru naveta cadrelor didactice si personalului didactic auxiliar pentru lunile august-noiembrie2024",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#90830",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#90830",
      "sha256": null
     }
    ]
@@ -238,6 +553,36 @@
      "from": "2024-12-23",
      "units": 1,
      "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#90837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-8-2024",
+   "path": "local/valcea/ghioroiu/2024/8",
+   "short": "HCL Ghioroiu nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 8/2024 Aprobarea organigramei si a statului de functii pentru aparatul de specialitate al primarului comunei Ghioroiu",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#70724",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#70724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-9-2024",
+   "path": "local/valcea/ghioroiu/2024/9",
+   "short": "HCL Ghioroiu nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 9/2024 Aprobarea numarului de asistenti personali pe anul 2024",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#70725",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#70725",
      "sha256": null
     }
    ]

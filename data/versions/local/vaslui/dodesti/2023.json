@@ -3,6 +3,21 @@
  "shard": "local/vaslui/dodesti/2023",
  "acts": [
   {
+   "slug": "hcl-vaslui--dodesti-80-2023",
+   "path": "local/vaslui/dodesti/2023/80",
+   "short": "HCL Dodești nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 80/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--dodesti-81-2023",
    "path": "local/vaslui/dodesti/2023/81",
    "short": "HCL Dodești nr. 81/2023",

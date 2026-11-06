@@ -3,6 +3,73 @@
 "shard": "local/vaslui/dodesti/2026",
 "acts": [
 {
+"slug": "hcl-vaslui--dodesti-1-2026",
+"path": "local/vaslui/dodesti/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 1/2026 privind alegerea preşedintelui de şedinţă pentru lunile: februarie, martie, aprilie 2026",
+"short": "HCL Dodești nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#115030",
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--dodesti-13-2026",
+"path": "local/vaslui/dodesti/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 13/2026",
+"short": "HCL Dodești nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-18",
+"latest": "2026-02-18",
+"portal": null,
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vaslui--dodesti-23-2026",
+"path": "local/vaslui/dodesti/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 23/2026 privind alegerea preşedintelui de şedinţă pentru lunile: mai, iunie, iulie 2026",
+"short": "HCL Dodești nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-28",
+"latest": "2026-04-28",
+"portal": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#120885",
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vaslui--dodesti-30-2026",
 "path": "local/vaslui/dodesti/2026/30",
 "kind": "local",
@@ -177,6 +244,73 @@
 "council_name": "Consiliul Local al Comunei Dodești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--dodesti-38-2026",
+"path": "local/vaslui/dodesti/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 38/2026 privind stabilirea salariilor de baza ale functionarilor publici si personalului contractual, din aparatul de specialitate a primarului comunei Dodesti, judetul Vaslui",
+"short": "HCL Dodești nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-29",
+"latest": "2026-07-29",
+"portal": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#126667",
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--dodesti-39-2026",
+"path": "local/vaslui/dodesti/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 39/2026",
+"short": "HCL Dodești nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-29",
+"latest": "2026-07-29",
+"portal": null,
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vaslui--dodesti-40-2026",
+"path": "local/vaslui/dodesti/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 40/2026 privind alegerea preşedintelui de şedinţă pentru lunile: august, septembrie, octombrie 2026",
+"short": "HCL Dodești nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-29",
+"latest": "2026-07-29",
+"portal": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#126669",
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -442,6 +576,29 @@
 "council_name": "Consiliul Local al Comunei Dodești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--dodesti-53-2026",
+"path": "local/vaslui/dodesti/2026/53",
+"kind": "local",
+"year": "2026",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 53/2026",
+"short": "HCL Dodești nr. 53/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": null,
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

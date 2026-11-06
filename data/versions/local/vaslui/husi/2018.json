@@ -3,6 +3,426 @@
  "shard": "local/vaslui/husi/2018",
  "acts": [
   {
+   "slug": "hcl-vaslui--husi-1-2018",
+   "path": "local/vaslui/husi/2018/1",
+   "short": "HCL Huși nr. 1/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 1/2018 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna ianuarie 2018",
+   "url": "https://www.primariahusi.ro/hotarari-09-ianuarie-2018/",
+   "versions": [
+    {
+     "from": "2018-01-09",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_01_2018.pdf",
+     "sha256": "40ef59446a242a0e994993e19da4ae700b5cf7654e355d05996bc52e017979f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-100-2018",
+   "path": "local/vaslui/husi/2018/100",
+   "short": "HCL Huși nr. 100/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 100/2018 privind aprobarea prelungirii delegarii gestiunii serviciului de transport public local prin curse regulate, efectuat pe raza municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-29-martie-2018/",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_100_2018.pdf",
+     "sha256": "c7545fe8ff7d259a3858f91abcbe7999d8bbe810e941594a1d6d37848f51caeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-101-2018",
+   "path": "local/vaslui/husi/2018/101",
+   "short": "HCL Huși nr. 101/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 101/2018 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenție și a indicatorilor tehnico-economici pentru obiectivul de investiție “Reabilitarea, modernizarea și echiparea infrastructurii educaționale pentru corp clădire C1 al Colegiului Agricol “Dimitrie Cantemir”, în vederea accesării unei finantari în cadrul Programului Operațional Regional 2014-2020, Axa prioritară 10 Îmbunătățirea in",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_101_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_101_2018.pdf",
+     "sha256": "f64d27d6b33bdb2a072e095eb4d899bfd3b20981bb732cb034fe8bea738894ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-102-2018",
+   "path": "local/vaslui/husi/2018/102",
+   "short": "HCL Huși nr. 102/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 102/2018 privind aprobarea executiei bugetului local si bugetului institutiilor publice finantate integral sau partial din venituri proprii si subventii incheiata la data de 31.12.2017",
+   "url": "https://www.primariahusi.ro/hotarari-29-martie-2018/",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_102_2018.pdf",
+     "sha256": "d40b0d957ffd6202b03a01fb48dda54c1b34770374632cb06e9b62e8cf756076"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-103-2018",
+   "path": "local/vaslui/husi/2018/103",
+   "short": "HCL Huși nr. 103/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 103/2018 privind aprobarea dezmembrarii imobilului - teren, situat în municipiul Husi, strada I.A.Anghelus, în suprafata de 2683 mp, cu numarul cadastral 70334",
+   "url": "https://www.primariahusi.ro/hotarari-29-martie-2018/",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_103_2018.pdf",
+     "sha256": "6b4e67a37305a9271da35fc927b2a52f7aeeaa6608877d0061c1955cc8e236d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-107-2018",
+   "path": "local/vaslui/husi/2018/107",
+   "short": "HCL Huși nr. 107/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 107/2018 privind reorganizarea Serviciului Public Local de Asistenta Sociala Husi cu personalitate juridica in Directia de Asistenta Sociala Husi cu personalitate juridica, aprobarea organigramei si statului de functii si constituirea Colegiului Director",
+   "url": "https://www.primariahusi.ro/hotarari-29-martie-2018/",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_107_2018.pdf",
+     "sha256": "e333eb8f18f1e088f073513c9b984cafbcad0d25125846b843305de47c048070"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-108-2018",
+   "path": "local/vaslui/husi/2018/108",
+   "short": "HCL Huși nr. 108/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 108/2018 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna aprilie 2018",
+   "url": "https://www.primariahusi.ro/hotarari-23-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_108_2018.pdf",
+     "sha256": "471552ffdc08643ea2cedee1b6e685be2eaf2a6ae26d62369fdc8fdc35b1687c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-109-2018",
+   "path": "local/vaslui/husi/2018/109",
+   "short": "HCL Huși nr. 109/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 109/2018",
+   "url": "https://www.primariahusi.ro/hotarari-23-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_109_2018.pdf",
+     "sha256": "a9689b7f616aa2e452bc52815617d43bd151931c7a5735bcefb0608c0a6d58ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-11-2018",
+   "path": "local/vaslui/husi/2018/11",
+   "short": "HCL Huși nr. 11/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 11/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-ianuarie-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_11_2018.pdf",
+     "sha256": "6255e2e3c7528fb177606d2b7f8c19f9657c82fa734636f17eae174892097ceb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-111-2018",
+   "path": "local/vaslui/husi/2018/111",
+   "short": "HCL Huși nr. 111/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 111/2018 privind emiterea unui aviz de principiu în vederea achiziționării de către Spitalul Municipal \"Dimitrie Castroian\" Huși de servicii juridice de consultanță, de asistenta și reprezentare, în Dosarul Civil nr.875/244/2018 aflat pe rolul Judecătoriei Municipiului Huși Consiliul Local al Municipiului Huși,județul Vaslui; Având în vedere expunerea de motive privind emiterea unui aviz de principiu în ve",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_111_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-04-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_111_2018.pdf",
+     "sha256": "5e3e2603c03f89f18f2f374d56908006170697b30cdabac70d384aed556911ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-112-2018",
+   "path": "local/vaslui/husi/2018/112",
+   "short": "HCL Huși nr. 112/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 112/2018 privind modificarea si completarea inventarului bunurilor mobile si imobile ce apartin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_112_2018.pdf",
+     "sha256": "edc3c40c6ba8cadc34d92695879615da18179353b94c0359be488e7be5348a23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-113-2018",
+   "path": "local/vaslui/husi/2018/113",
+   "short": "HCL Huși nr. 113/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 113/2018 privind darea în administrarea Colegiului Agricol \"Dimitrie Cantemir\" Husi a cladirilor si terenurilor proprietatea municipiului Husi, în care acesta îsi desfasoara activitatea",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_113_2018.pdf",
+     "sha256": "da2048b94dadb5240bdca36193c402555110362ff48d4f5bd934cd510f86245c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-114-2018",
+   "path": "local/vaslui/husi/2018/114",
+   "short": "HCL Huși nr. 114/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 114/2018 privind emiterea avizului de principiu în vederea darii în folosință gratuită a imobilului Baia Populară, aparținând domeniului public al municipiului Huși, situat în stradă Cpt.N.N.Cisman nr.20, către Asociația pentru Dezvoltare Comunitară \"Econova\" Consiliul Local al municipiului Huși,județul Vaslui ; Având în vedere : • expunerea de motive privind emiterea avizului de principiu în vederea darii",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_114_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_114_2018.pdf",
+     "sha256": "3f892f758866e06449c5b4830a1828ba1b2f7a209578febcc96c89aea0ef4386"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-115-2018",
+   "path": "local/vaslui/husi/2018/115",
+   "short": "HCL Huși nr. 115/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 115/2018",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_115_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_115_2018.pdf",
+     "sha256": "f1c79a0a60cafb796ffcb53ca7d23a183ed14d6b9ed1f52f5b0964096f5a699b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-116-2018",
+   "path": "local/vaslui/husi/2018/116",
+   "short": "HCL Huși nr. 116/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 116/2018",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_116_2018.pdf",
+     "sha256": "c21b1bb3b28bdf357ceb6ab9d9b00c9b3bf4bb71761b37320fbc796cfffa7883"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-117-2018",
+   "path": "local/vaslui/husi/2018/117",
+   "short": "HCL Huși nr. 117/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 117/2018",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_117_2018.pdf",
+     "sha256": "4297fe03e5f1f35c2928678b4d62b0401f9285702d76fa0ebae0a551e4600c3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-118-2018",
+   "path": "local/vaslui/husi/2018/118",
+   "short": "HCL Huși nr. 118/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 118/2018",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_118_2018.pdf",
+     "sha256": "d181d3ac540e4d4a60536d06b45e5f7a17e1229312188071d2e5feff88ec8ee6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-119-2018",
+   "path": "local/vaslui/husi/2018/119",
+   "short": "HCL Huși nr. 119/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 119/2018",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_119_2018.pdf",
+     "sha256": "8091c7af22716fc0b1fac179ffb091c7089c4ed3a695720be56587ee54a19cd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-12-2018",
+   "path": "local/vaslui/husi/2018/12",
+   "short": "HCL Huși nr. 12/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 12/2018 privind aprobarea inchirierii prin licitatie publica a terenului in suprafata de 8,74 mp apartinand domeniului public al municipiului Husi, strada G-ral Teleman",
+   "url": "https://www.primariahusi.ro/hotarari-31-ianuarie-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_12_2018.pdf",
+     "sha256": "5aa9fb95ad8fc536eba3bfff4761e24bf647ae35b8a1c0070b36116770a017cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-120-2018",
+   "path": "local/vaslui/husi/2018/120",
+   "short": "HCL Huși nr. 120/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 120/2018",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_120_2018.pdf",
+     "sha256": "7745ae8923cc089cd2d779d549527fee6c98b13f6f63ce46f5d694d05da63ba6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-121-2018",
+   "path": "local/vaslui/husi/2018/121",
+   "short": "HCL Huși nr. 121/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 121/2018",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_121_2018.pdf",
+     "sha256": "5daf5875bc641595e8e420b0d64896e9b42208e02e275816cb2730ff27a4d834"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-122-2018",
+   "path": "local/vaslui/husi/2018/122",
+   "short": "HCL Huși nr. 122/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 122/2018",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_122_2018.pdf",
+     "sha256": "b76f4ead3bce915e1dd10d51f4af3a394f55f859292a1b9e5457edd2c1439425"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-123-2018",
+   "path": "local/vaslui/husi/2018/123",
+   "short": "HCL Huși nr. 123/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 123/2018 privind retragerea dreptului de folosinta asupra unor terenuri atribuite în conformitate cu Legea nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_123_2018.pdf",
+     "sha256": "4442eaacf0d0e0bc7e0cbdfac24342683035012c2a7cb49ba99c76b7fc42ecc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-126-2018",
+   "path": "local/vaslui/husi/2018/126",
+   "short": "HCL Huși nr. 126/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 126/2018 privind actualizarea redeventei pentru concesionarea serviciului de salubrizare, concesionarea serviciului de administrare, amenajare, întretinerea si înfrumusetarea spatiilor verzi si pentru concesionarea bunurilor proprietatea Municipiului Husi, incluse în infrastructura aferen",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_126_2018.pdf",
+     "sha256": "aeef46b8b34531efe1117865bd7a91ca86afabefa902df5071f1e580422e262f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-128-2018",
+   "path": "local/vaslui/husi/2018/128",
+   "short": "HCL Huși nr. 128/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 128/2018",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_128_2018.pdf",
+     "sha256": "e1b66d095c4c2573a231502a32e169a7df3757e4f02feae4dad30096a637b3e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-129-2018",
+   "path": "local/vaslui/husi/2018/129",
+   "short": "HCL Huși nr. 129/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 129/2018 privind modificarea statului de functii al personalului din cadrul aparatului de specialitate al primarului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_129_2018.pdf",
+     "sha256": "fd5c5c672c46fb201a64f64a8c3fe1d34852205d9c7d60e41a6e55c75d8246eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-13-2018",
+   "path": "local/vaslui/husi/2018/13",
+   "short": "HCL Huși nr. 13/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 13/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-ianuarie-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_13_2018.pdf",
+     "sha256": "ed484d2fdef33f15d16b4bbe9cebdae88247ac5c6f9d394514b9be92067c1204"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-130-2018",
+   "path": "local/vaslui/husi/2018/130",
+   "short": "HCL Huși nr. 130/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 130/2018 privind aprobarea Regulamentului de organizare si functionare al Directiei de Asistenta Sociala Husi",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_130_2018.pdf",
+     "sha256": "bd19ef1aa2f5a388c91f5d12f9d1ced39b11e31c892060e7702707c1c8926f9c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-132-2018",
    "path": "local/vaslui/husi/2018/132",
    "short": "HCL Huși nr. 132/2018",
@@ -108,6 +528,66 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-139-2018",
+   "path": "local/vaslui/husi/2018/139",
+   "short": "HCL Huși nr. 139/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 139/2018 privind rectificarea bugetului local etapa aprilie 2018",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_139_2018.pdf",
+     "sha256": "4ab81b23a231951dcd535e67476f5cbfd3644f8d4411098f22ee219299b31908"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-14-2018",
+   "path": "local/vaslui/husi/2018/14",
+   "short": "HCL Huși nr. 14/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 14/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-ianuarie-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_14_2018.pdf",
+     "sha256": "a80b5a3d517ea42f95e76ac2323b63ec76ae5d445239668292064d050a44d523"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-140-2018",
+   "path": "local/vaslui/husi/2018/140",
+   "short": "HCL Huși nr. 140/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 140/2018 privind rectificarea bugetului de venituri si cheltuieli al institutiilor publice finantate integral sau partial din venituri proprii- etapa aprilie 2018",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_140_2018.pdf",
+     "sha256": "e0395ddb13a22edd2379d44435ae6d89229519e99944dfad647f058a31b99edc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-142-2018",
+   "path": "local/vaslui/husi/2018/142",
+   "short": "HCL Huși nr. 142/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 142/2018",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_142_2018.pdf",
+     "sha256": "fd38046eba4abe624ea565795d126886e2a2e1f24f7647ba73d3b3d6475c2fd6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-143-2018",
    "path": "local/vaslui/husi/2018/143",
    "short": "HCL Huși nr. 143/2018",
@@ -119,6 +599,591 @@
      "units": 3,
      "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_143_2018.pdf",
      "sha256": "ea0ab0f621f1f61873dff2e9cdc9c5141fe3aef0b536f923fd2ff48b5a1db4e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-144-2018",
+   "path": "local/vaslui/husi/2018/144",
+   "short": "HCL Huși nr. 144/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 144/2018 privind emiterea avizului de principiu pentru intocmirea studiilor si documentatiilor necesare pentru promovarea obiectivului de investitii \"Reabilitare, modernizare si dotare Cinematograf Dacia din municipiul Husi” Consiliul Local al municipiului Huși, județul Vaslui; Având în vedere: • expunerea de motive privind emiterea avizului de principiu pentru intocmirea studiilor si documentatiilor neces",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_144_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_144_2018.pdf",
+     "sha256": "990f3946e02c60595437ab2105a968bdbf690bb5baec4eb404108a46b6dbda22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-145-2018",
+   "path": "local/vaslui/husi/2018/145",
+   "short": "HCL Huși nr. 145/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 145/2018 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna mai 2018",
+   "url": "https://www.primariahusi.ro/hotarari-11-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-11",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_145_2018.pdf",
+     "sha256": "b03647c75a3d1891000bae35550b065c3f1552815991793035c2750b7d05e3a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-146-2018",
+   "path": "local/vaslui/husi/2018/146",
+   "short": "HCL Huși nr. 146/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 146/2018 privind aprobarea documentatiei tehnico-economice a obiectivului de investitie «Reabilitare spatiu de joaca Parc \"Rodina\" din municipiul Husi»",
+   "url": "https://www.primariahusi.ro/hotarari-11-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-11",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_146_2018.pdf",
+     "sha256": "ca531b8e6ef544eb76285bcd988be969c055daa1c5f0c27a2f88046ef5d3749a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-147-2018",
+   "path": "local/vaslui/husi/2018/147",
+   "short": "HCL Huși nr. 147/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 147/2018 privind aprobarea creditelor de angajament pentru actiuni multianuale ale bugetului local al Municipiului Husi, pentru perioada 2018-2019 pentru finantarea obiectivului de investitii «Reabilitare spatiu de joaca Parc \"Rodina\" din municipiul Husi»",
+   "url": "https://www.primariahusi.ro/hotarari-11-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-11",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_147_2018.pdf",
+     "sha256": "262bff1303801450e2af0f3d7e28c9583e3c16d4a4927fea00df2753b6c0a0a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-148-2018",
+   "path": "local/vaslui/husi/2018/148",
+   "short": "HCL Huși nr. 148/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 148/2018 privind aprobarea plății cotizației UAT Municipiul Huși la Asociația Grupul de Acțiune Locală \"Huși - Comunitate Incluzivă\", asociație inființată urmare implementării proiectului cu finanțare europeană \"Sprijin pregătitor pentru elaborarea Strategiei de Dezvoltare Locală pentru zonele urbane marginalizate din municipiul Huși, județul Vaslui\" Consiliul Local al municipiului Husi, judetul Vaslui; Av",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_148_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-05-11",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_148_2018.pdf",
+     "sha256": "ea0b65d65d0e6a0c7ee612de297cf5f6fe198c5427c9632278e38621f8ad4f70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-149-2018",
+   "path": "local/vaslui/husi/2018/149",
+   "short": "HCL Huși nr. 149/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 149/2018 privind rectificarea bugetului local cu suma de 179,0 mii lei reprezentând sume alocate din bugetul ANCPI pentru finantarea lucrarilor de înregistrare sistematica din cadrul Programului national de cadastru si carte funciara si venituri proprii buget local",
+   "url": "https://www.primariahusi.ro/hotarari-11-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-11",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_149_2018.pdf",
+     "sha256": "96623cf0bb39c36721a5044ef622f89a1c0242dc7d41524acffd54989b27649b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-150-2018",
+   "path": "local/vaslui/husi/2018/150",
+   "short": "HCL Huși nr. 150/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 150/2018 privind aprobarea dezmembrarii imobilului - teren cu numarul cadastral 70476 în suprafata de 55.000 mp situat in Soseaua Husi-Averesti, Tarla 3, Parcela 48, proprietatea municipiului Husi, in doua loturi distincte",
+   "url": "https://www.primariahusi.ro/hotarari-11-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-11",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_150_2018.pdf",
+     "sha256": "173bcd080a1e1a367cd1adf19a2766c79285bf15decb09d1809db2e96433c822"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-152-2018",
+   "path": "local/vaslui/husi/2018/152",
+   "short": "HCL Huși nr. 152/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 152/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_152_2018.pdf",
+     "sha256": "4508eff7595a6a0b61aaf733820f69d120cb9a912c8cc99706aee687937df177"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-153-2018",
+   "path": "local/vaslui/husi/2018/153",
+   "short": "HCL Huși nr. 153/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 153/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_153_2018.pdf",
+     "sha256": "a573aa434b4a1d576a072c7b7f7676c3ed846b9c7a6094de732cf2dc1700a458"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-154-2018",
+   "path": "local/vaslui/husi/2018/154",
+   "short": "HCL Huși nr. 154/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 154/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_154_2018.pdf",
+     "sha256": "6d7546766348578f494662ef18b406941737179ac5e18b34ab1f6801f1b93eeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-155-2018",
+   "path": "local/vaslui/husi/2018/155",
+   "short": "HCL Huși nr. 155/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 155/2018 privind completarea a doua comisii de specialitate din cadrul Consiliului Local al Municipiului Husi, judetul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_155_2018.pdf",
+     "sha256": "5f6cbd058c992159ec29fbaf514d07ff847f6dbe81af882ec49e913fc67a7e60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-156-2018",
+   "path": "local/vaslui/husi/2018/156",
+   "short": "HCL Huși nr. 156/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 156/2018 privind modificarea si completarea inventarului bunurilor mobile si imobile ce apartin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_156_2018.pdf",
+     "sha256": "e52eb9e6613e982b576b417e02d349807ee4b0cb87e89c7eaf70d060fcacf281"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-158-2018",
+   "path": "local/vaslui/husi/2018/158",
+   "short": "HCL Huși nr. 158/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 158/2018 privind emiterea unui aviz de principiu in vederea vânzării apartamentului apartinând domeniului privat al municipiului Huși, situat in strada Calea Basarabiei bl.G.3, sc.A, parter, ap.1, către actualul chiriaș Consiliul Local al municipiului Huși,județul Vaslui ; Având în vedere : • expunerea de motive privind emiterea unui aviz de principiu în vederea vânzării apartamentului aparținând domeniulu",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_158_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_158_2018.pdf",
+     "sha256": "8bcca8f2ea5407ae3ea8fd45fb8ef2995f06d1a7b427fcaed41c6ded2d403c62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-159-2018",
+   "path": "local/vaslui/husi/2018/159",
+   "short": "HCL Huși nr. 159/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 159/2018",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_159_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_159_2018.pdf",
+     "sha256": "098758d0ece98235b26a26e26b36f1d6fe6de0a547a3767a134619e4d0923334"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-16-2018",
+   "path": "local/vaslui/husi/2018/16",
+   "short": "HCL Huși nr. 16/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 16/2018",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_16_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_16_2018.pdf",
+     "sha256": "971b7f63979c5189aa2c2a25c37f8aafd437ba00aa1e14500b5ddbfcc127ca44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-160-2018",
+   "path": "local/vaslui/husi/2018/160",
+   "short": "HCL Huși nr. 160/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 160/2018",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_160_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_160_2018.pdf",
+     "sha256": "8c110ffbe234efd9076d296e9020d7063bf883c9476607992d651b8587613feb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-161-2018",
+   "path": "local/vaslui/husi/2018/161",
+   "short": "HCL Huși nr. 161/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 161/2018",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_161_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_161_2018.pdf",
+     "sha256": "3644465b3198b938439f273152cfb19c1df0c71cea1f3893a32bce143bb439fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-162-2018",
+   "path": "local/vaslui/husi/2018/162",
+   "short": "HCL Huși nr. 162/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 162/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_162_2018.pdf",
+     "sha256": "0ea854e987aab2730d6f4822f44d8fa5261efacc513b3ddbc23b026009c2ea43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-163-2018",
+   "path": "local/vaslui/husi/2018/163",
+   "short": "HCL Huși nr. 163/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 163/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_163_2018.pdf",
+     "sha256": "641ca6a7507614295ce1758ba366ed31923d8b6a5074c9d61e1923eb58e8aa9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-164-2018",
+   "path": "local/vaslui/husi/2018/164",
+   "short": "HCL Huși nr. 164/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 164/2018 privind aprobarea dezmembrarii imobilului – teren, situat în municipiul Husi, Piata Agroalimentara, strada Piata Victoriei, în suprafata de 3164 mp, cu numar cadastral 76081",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_164_2018.pdf",
+     "sha256": "73c31fcbfc4a77b4e8d80e7547e5ef4505aaca632a02e9a7f19a93b4e6f61024"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-165-2018",
+   "path": "local/vaslui/husi/2018/165",
+   "short": "HCL Huși nr. 165/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 165/2018 privind aprobarea dezmembrarii imobilului - teren cu numarul cadastral 76476 in suprafata de 116899 m.p, situat in Cartier Dric 3, proprietatea municipiului Husi, in 2 loturi distincte",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_165_2018.pdf",
+     "sha256": "00a339c9e192e55d772db38618c5c33170f52b2e796d5acb702d5177356f5393"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-166-2018",
+   "path": "local/vaslui/husi/2018/166",
+   "short": "HCL Huși nr. 166/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 166/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_166_2018.pdf",
+     "sha256": "dd985843d68ee6f1659c94dbab9653f29495a635a7af988db21c3bd6587b3fdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-167-2018",
+   "path": "local/vaslui/husi/2018/167",
+   "short": "HCL Huși nr. 167/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 167/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_167_2018.pdf",
+     "sha256": "f872773da266f7aa24019494865914eaf5ba9d926f706d50e9d4f6abe88160dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-168-2018",
+   "path": "local/vaslui/husi/2018/168",
+   "short": "HCL Huși nr. 168/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 168/2018 privind aprobarea închirierii prin licitatie publica a unor terenuri ce apartin domeniului public al municipiului Husi, aflate în administrarea Centrului Public de Desfacere Husi, situate în Bazarul din strada Stefan cel Mare",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_168_2018.pdf",
+     "sha256": "dbf94315751447d1ea2f65d8b146b34617cf7959c68d6e90ef5f8edf0f783ba7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-169-2018",
+   "path": "local/vaslui/husi/2018/169",
+   "short": "HCL Huși nr. 169/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 169/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_169_2018.pdf",
+     "sha256": "0cc0e1f586c392a88aaba5b1419ed02de09730f15c043a893f1bf6f8c4629566"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-17-2018",
+   "path": "local/vaslui/husi/2018/17",
+   "short": "HCL Huși nr. 17/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 17/2018 privind emiterea unui aviz de principiu în vederea vânzării apartamentului proprietatea municipiului Huși, situat în strada Schit bl.H.2, sc.D, ap.49, către actualul chiriaș Consiliul Local al municipiului Huși,județul Vaslui ; Având în vedere: • expunerea de motive privind emiterea unui aviz de principiu în vederea vânzării apartamentului proprietatea municipiului Huși, situat în strada Schit bl",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_17_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_17_2018.pdf",
+     "sha256": "bbf08b593fc21dff05a7bbf210810bac98f17dbc3813e77bfdbdac4721071b70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-170-2018",
+   "path": "local/vaslui/husi/2018/170",
+   "short": "HCL Huși nr. 170/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 170/2018 privind aprobarea ordinii de prioritate a cererilor depuse conform Legii nr.15/2003, republicata, modificata si completata",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_170_2018.pdf",
+     "sha256": "ceb9d05bf73067ca1aa0a136c026e4aaa927aa4a74376369608126af44f4ee89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-171-2018",
+   "path": "local/vaslui/husi/2018/171",
+   "short": "HCL Huși nr. 171/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 171/2018 privind acordarea unui mandat special reprezentantului Consiliului Local al municipiului Husi in vederea exprimarii votului in Adunarea Generala a Asociatiei pentru dezvoltare intercomunitara de utilitati publice pentru serviciul de alimentare cu apa si de canalizare din municipi",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_171_2018.pdf",
+     "sha256": "d168547ab1738811f53cf46fa57282bfa45fb3d5ff2f0669641e43fd6f2ad20c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-172-2018",
+   "path": "local/vaslui/husi/2018/172",
+   "short": "HCL Huși nr. 172/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 172/2018 pentru emiterea unui aviz favorabil privind constituirea Comisiei de concurs și a Comisiei de soluționare a eventualelor contestații la concursul organizat pentru ocuparea postului specific comitetului director de director medical la Spitalul Municipal \"Dimitrie Castroian\" Huși Consiliul Local al municipiului Huși, județul Vaslui; Având în vedere : • expunerea de motive pentru emiterea unui aviz f",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_172_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_172_2018.pdf",
+     "sha256": "4ccd935d40364166185160f33dac98927b0118850682ccfef3e3c1ca82d89785"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-173-2018",
+   "path": "local/vaslui/husi/2018/173",
+   "short": "HCL Huși nr. 173/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 173/2018 privind aprobarea executiei bugetului local si bugetului institutiilor publice finantate integral sau partial din venituri proprii si subventii incheiata la data de 31.03.2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_173_2018.pdf",
+     "sha256": "cddc01a8459188bfc54c00a0a1159b4684b28d2c570b314866a90c7cbc434675"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-174-2018",
+   "path": "local/vaslui/husi/2018/174",
+   "short": "HCL Huși nr. 174/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 174/2018 privind aprobarea Programului de reparatii strazi în municipiul Husi pentru anul 2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_174_2018.pdf",
+     "sha256": "f361955c7643f586e5ee65107b0b0b7a5e0fefc1b2e38d36f686732579b5a517"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-175-2018",
+   "path": "local/vaslui/husi/2018/175",
+   "short": "HCL Huși nr. 175/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 175/2018 privind aprobarea Studiului de Fezabilitate si a indicatorilor tehnico-economici pentru obiectivul de investitii \"Modernizare prin asfaltare strazi în municipiul Husi\"",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_175_2018.pdf",
+     "sha256": "b2a259e92481151f418799c9d5714b8a14beb3e577d23b4bdddb03f0f7998776"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-176-2018",
+   "path": "local/vaslui/husi/2018/176",
+   "short": "HCL Huși nr. 176/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 176/2018 privind aprobarea actualizarii valorii creditelor de angajament pentru actiuni multianuale ale bugetului local al Municipiului Husi, pentru perioada 2018-2019 pentru obiectivul «Program de reparatii strazi in Municipiul Husi»",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_176_2018.pdf",
+     "sha256": "e198d92715e3af678192d8c28c420eb53e3edac4bb4cfade92376e8d2b37380b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-178-2018",
+   "path": "local/vaslui/husi/2018/178",
+   "short": "HCL Huși nr. 178/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 178/2018 privind rectificarea bugetului local cu suma de 507,0 mii lei reprezentând sume alocate din cotele defalcate din impozitul pe venit pentru echilibrarea bugetelor locale, din fondul aflat la dispozitia Consiliului Judetean Vaslui din cota de 17,25% din impozitul pe venit, pe anul 2018 Consiliul Local al municipiului Husi,judetul Vaslui ; Avand in vedere : • expunerea de motive privind rectificarea",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_178_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_178_2018.pdf",
+     "sha256": "eeab81fb62a65f4fcae4aecc0fe32aa8a77d7504421ef409fac8f904d5da0333"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-18-2018",
+   "path": "local/vaslui/husi/2018/18",
+   "short": "HCL Huși nr. 18/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 18/2018",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_18_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_18_2018.pdf",
+     "sha256": "9e85c5716fd6b04e16badc9f92ef554e18c7111b07021bc366dbff7037b8b440"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-180-2018",
+   "path": "local/vaslui/husi/2018/180",
+   "short": "HCL Huși nr. 180/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 180/2018 privind modificarea statului de functii al personalului din cadrul aparatului de specialitate al primarului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_180_2018.pdf",
+     "sha256": "4202e4174d87bc62424405367bdaad3ae123fb05b65c3a1164735cbd498e1b39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-181-2018",
+   "path": "local/vaslui/husi/2018/181",
+   "short": "HCL Huși nr. 181/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 181/2018 privind modificarea statului de functii al personalului din cadrul Serviciului Public Comunitar Local de Evidenta Persoanelor Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_181_2018.pdf",
+     "sha256": "7e0e1bb740df0284d1bbd4998322d41f07547f1e1d8cb05c45c426781f7bc9b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-182-2018",
+   "path": "local/vaslui/husi/2018/182",
+   "short": "HCL Huși nr. 182/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 182/2018 privind modificarea statului de functii al personalului din cadrul Serviciului Voluntar pentru Situatii de Urgenta Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_182_2018.pdf",
+     "sha256": "6d738cd53c73638b9a7d4a9dccd6454ed2ddb8c2de7ee5e0b44b04c5d4bbff66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-183-2018",
+   "path": "local/vaslui/husi/2018/183",
+   "short": "HCL Huși nr. 183/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 183/2018 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenție și a indicatorilor tehnico-economici pentru obiectivul de investiție “Asfaltare/reabilitare strazi(inclusiv trotuare,piste de biciclete) pe traseul transportului public(aproximativ1,7km),asfaltare trotuare cu exceptia celor de mai sus(aproximativ 5,5 km),amenajare statii de transport in comun”in cadrul proiectului integrat” Red",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_183_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_183_2018.pdf",
+     "sha256": "df74f3924f1843dba826e73c9ebe559a348918eb0f5f78fb1640fb2ad191072b"
     }
    ]
   },
@@ -153,6 +1218,486 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-188-2018",
+   "path": "local/vaslui/husi/2018/188",
+   "short": "HCL Huși nr. 188/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 188/2018 privind aprobarea Studiului de Fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiție “Dezvoltare terminal de transport public si statii de incarcare autobuze”in cadrul proiectului integrat”Reducerea emisiilor de carbon in Municipiul Husi bazata pe Planul de Mobilitate Urbana Durabila” în vederea accesării unei finantari în cadrul Programului Operațional Regional 2014-20",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_188_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_188_2018.pdf",
+     "sha256": "d0cccd8b60bc852e2bbaa506d12b6dfccc11be14ccb11d5c803ef158a955c6d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-189-2018",
+   "path": "local/vaslui/husi/2018/189",
+   "short": "HCL Huși nr. 189/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 189/2018 privind emiterea unui aviz de principiu în vederea construirii unei alveole reprezentând stație de autobuz strada A.I.Cuza, vizavi de magazinul LIDL Consiliul Local al municipiului Huși, județul Vaslui ; Având în vedere: • expunerea de motive privind emiterea unui aviz de principiu în vederea construirii unei alveole reprezentând stație de autobuz strada A.I.Cuza , vizavi de magazinul LIDL ; • rap",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_189_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_189_2018.pdf",
+     "sha256": "43aaac3fc2c0194f7d3accd21fe7bd960060ec940abe79aa9b81c9e55c874412"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-19-2018",
+   "path": "local/vaslui/husi/2018/19",
+   "short": "HCL Huși nr. 19/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 19/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-ianuarie-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_19_2018.pdf",
+     "sha256": "eedaf0318f9056d2642b57655d43f03967a9dd3688f569af0b8998e4fa90aa95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-190-2018",
+   "path": "local/vaslui/husi/2018/190",
+   "short": "HCL Huși nr. 190/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 190/2018 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna iunie 2018",
+   "url": "https://www.primariahusi.ro/hotarari-22-iunie-2018/",
+   "versions": [
+    {
+     "from": "2018-06-22",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_190_2018.pdf",
+     "sha256": "4c914d3f76bd17e6d2f1b2f63c53f760b57e48639ef4a6bf707014eeb7629eb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-191-2018",
+   "path": "local/vaslui/husi/2018/191",
+   "short": "HCL Huși nr. 191/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 191/2018 privind aprobarea proiectului “Reabilitarea termica/modernizare sediul Primariei municipiului Husi” cod SMIS 117872 si a cheltuielilor legate de proiect, finantare solicitata in cadrul Programului Operational Regional 2014-2020, Axa priotritara 3 “Sprijinirea tranzitiei catre o economie cu emisii scazute de carbon”, Prioritatea de investiții 3.1 Sprijinirea eficienței energetice, a gestionării int",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_191_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-06-22",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_191_2018.pdf",
+     "sha256": "5978627a3556b2b51ee809e051d1e2f807a2a98795a6e4b31d439751e2da8656"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-192-2018",
+   "path": "local/vaslui/husi/2018/192",
+   "short": "HCL Huși nr. 192/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 192/2018 privind actualizarea documentației tehnico-economice și a contribuției locale a Municipiului Huși pentru proiectul \"Modernizare străzi în municipiul Huși \" Consiliul Local al municipiului Huși, județul Vaslui; Având în vedere expunerea de motive privind actualizarea documentației tehnico- economice și a contribuției locale a Municipiului Huși pentru proiectul \"Modernizare străzi în municipiul Huși",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_192_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-06-22",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_192_2018.pdf",
+     "sha256": "e25e15be074ded77fa034e12269ad84b122d62069e0288747ef314d77b2d5b6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-193-2018",
+   "path": "local/vaslui/husi/2018/193",
+   "short": "HCL Huși nr. 193/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 193/2018 privind emiterea unui aviz de principiu în vederea vânzării apartamentului proprietatea municipiului Huși, situat în Bd.1 Mai bl.25, sc.A, et.4, ap.18, către actualul chiriaș Consiliul Local al municipiului Huși,județul Vaslui ; Având în vedere: • expunerea de motive privind emiterea unui aviz de principiu în vederea vânzării apartamentului proprietatea municipiului Huși , situat în Bd.1 Mai bl.25",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_193_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_193_2018.pdf",
+     "sha256": "606681e5d628ee200e0dbaf3c8dc737ce969f1b1bb384ad4b0922f96483f72b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-197-2018",
+   "path": "local/vaslui/husi/2018/197",
+   "short": "HCL Huși nr. 197/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 197/2018 privind aprobarea dezmembrarii imobilului - teren cu numarul cadastral 76474 in suprafata de 80796 m.p, situat in Cartier Dric 3, proprietatea municipiului Husi, in 2 loturi distincte",
+   "url": "https://www.primariahusi.ro/hotarari-28-iunie-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_197_2018.pdf",
+     "sha256": "7e24595f8d53cc18cbb56a79cbbd10f764022b3db6de64ec144bd96df4f55cf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-198-2018",
+   "path": "local/vaslui/husi/2018/198",
+   "short": "HCL Huși nr. 198/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 198/2018",
+   "url": "https://www.primariahusi.ro/hotarari-28-iunie-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_198_2018.pdf",
+     "sha256": "9957aceb3cf94636d2586ca5b12760b2fe08a2709fdd8a1bdc7b6849d3411aa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-199-2018",
+   "path": "local/vaslui/husi/2018/199",
+   "short": "HCL Huși nr. 199/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 199/2018",
+   "url": "https://www.primariahusi.ro/hotarari-28-iunie-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_199_2018.pdf",
+     "sha256": "75e22a63cdf7e90b402267d636f88e82da6ac7afc544d182103c62efb2ec4f89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-2-2018",
+   "path": "local/vaslui/husi/2018/2",
+   "short": "HCL Huși nr. 2/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 2/2018 privind acoperirea definitiva din excedentul bugetului de venituri si cheltuieli al institutiilor publice finantate integral sau partial din venituri proprii a deficitului bugetar pe anul 2017",
+   "url": "https://www.primariahusi.ro/hotarari-09-ianuarie-2018/",
+   "versions": [
+    {
+     "from": "2018-01-09",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_02_2018.pdf",
+     "sha256": "60d08288fef771a8410779eb56a9fcc779be95d59cd22625913b7d8f6524953a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-200-2018",
+   "path": "local/vaslui/husi/2018/200",
+   "short": "HCL Huși nr. 200/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 200/2018",
+   "url": "https://www.primariahusi.ro/hotarari-28-iunie-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_200_2018.pdf",
+     "sha256": "eb6cc9996d802f4a5482b3278ce8304beb41aba94ae8d8272003540e89c0eafe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-201-2018",
+   "path": "local/vaslui/husi/2018/201",
+   "short": "HCL Huși nr. 201/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 201/2018",
+   "url": "https://www.primariahusi.ro/hotarari-28-iunie-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_201_2018.pdf",
+     "sha256": "7b3885f062a08fe5471bf3827436481e67f3ac73ae850d11d3c019e22bd21c58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-202-2018",
+   "path": "local/vaslui/husi/2018/202",
+   "short": "HCL Huși nr. 202/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 202/2018",
+   "url": "https://www.primariahusi.ro/hotarari-28-iunie-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_202_2018.pdf",
+     "sha256": "c1b186a6b405418680b6bd979de57c45bfe428bf0a32f8ce400a369c1a48bd87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-204-2018",
+   "path": "local/vaslui/husi/2018/204",
+   "short": "HCL Huși nr. 204/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 204/2018 privind aprobarea contractelor de dare în administrare intre U.A.T",
+   "url": "https://www.primariahusi.ro/hotarari-28-iunie-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_204_2018.pdf",
+     "sha256": "84cc60a6f5c5fb54ecb9dd3e5ee003efaec4b13f4b9dae6893eeddac032511dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-205-2018",
+   "path": "local/vaslui/husi/2018/205",
+   "short": "HCL Huși nr. 205/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 205/2018",
+   "url": "https://www.primariahusi.ro/hotarari-28-iunie-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_205_2018.pdf",
+     "sha256": "ccb2e13ff7e787e7d552fa772288c17328078a78aaf479f87d02e8834a1d0146"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-206-2018",
+   "path": "local/vaslui/husi/2018/206",
+   "short": "HCL Huși nr. 206/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 206/2018 privind modificarea si completarea inventarului bunurilor mobile si imobile ce aparin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-28-iunie-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_206_2018.pdf",
+     "sha256": "1d521dfb80a0b2dea8e89b44e2c7c76322ada527a514802e35c2c45b37d53d2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-207-2018",
+   "path": "local/vaslui/husi/2018/207",
+   "short": "HCL Huși nr. 207/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 207/2018 privind modificarea Contractului de delegare a gestiunii si a Contractului de prestari servicii pentru amenajarea, întretinerea si înfrumusetarea spatiilor verzi, incheiate cu SC \"PARCURI VERZI\" SRL HUSI",
+   "url": "https://www.primariahusi.ro/hotarari-28-iunie-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_207_2018.pdf",
+     "sha256": "212df41a654b8be5a76e4e51958de64c80f410d81cb9c738f9380c4627964513"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-208-2018",
+   "path": "local/vaslui/husi/2018/208",
+   "short": "HCL Huși nr. 208/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 208/2018",
+   "url": "https://www.primariahusi.ro/hotarari-28-iunie-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_208_2018.pdf",
+     "sha256": "94538bbf55f0b882af7d40a5407d4c4f7d380c38c118d2ccacc6cf78fd416a85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-209-2018",
+   "path": "local/vaslui/husi/2018/209",
+   "short": "HCL Huși nr. 209/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 209/2018 privind modificarea statului de functii al personalului din cadrul aparatului de specialitate al primarului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-28-iunie-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_209_2018.pdf",
+     "sha256": "43036ae1d5918c323a7eca4fe064ce10d9bd85107bebc19d8e5f6d0d0bcfdd0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-211-2018",
+   "path": "local/vaslui/husi/2018/211",
+   "short": "HCL Huși nr. 211/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 211/2018 privind actualizarea creditelor de angajament pentru actiuni multianuale ale bugetului local al Municipiului Husi, pentru perioada 2017 -2019 pentru obiectivul de investitii «Modernizare strazi in Municipiul Husi»",
+   "url": "https://www.primariahusi.ro/hotarari-28-iunie-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_211_2018.pdf",
+     "sha256": "3e72c3975b9b39bc8d11cac454c2ce5f6f08eb1bdfb832aa12dec7e4576d3332"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-212-2018",
+   "path": "local/vaslui/husi/2018/212",
+   "short": "HCL Huși nr. 212/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 212/2018 privind aprobarea creditelor de angajament pentru actiuni multianuale ale bugetului local al Municipiului Husi, pentru perioada 2018-2021 pentru obiectivul de investitii «Modernizare prin asfaltare strazi in Municipiul Husi»",
+   "url": "https://www.primariahusi.ro/hotarari-28-iunie-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_212_2018.pdf",
+     "sha256": "884fd0862b1b11c179fb4c111b270c5a81a9383dd80b0c3f097a095baade3724"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-213-2018",
+   "path": "local/vaslui/husi/2018/213",
+   "short": "HCL Huși nr. 213/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 213/2018 privind rectificarea bugetului local etapa iunie 2018",
+   "url": "https://www.primariahusi.ro/hotarari-28-iunie-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_213_2018.pdf",
+     "sha256": "be0af7d5acbbe30ded94edcfe6099036b7e7ac694308684963e1e78a15243600"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-214-2018",
+   "path": "local/vaslui/husi/2018/214",
+   "short": "HCL Huși nr. 214/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 214/2018 privind rectificarea bugetului de venituri si cheltuieli al institutiilor publice finantate integral sau partial din venituri proprii- etapa iunie 2018",
+   "url": "https://www.primariahusi.ro/hotarari-28-iunie-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_214_2018.pdf",
+     "sha256": "52beb9958076221d410d28caf4a00bc8e77217f05b4770b145ebed550eec24d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-216-2018",
+   "path": "local/vaslui/husi/2018/216",
+   "short": "HCL Huși nr. 216/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 216/2018 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna iulie 2018",
+   "url": "https://www.primariahusi.ro/hotarari-10-iulie-2018/",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_216_2018.pdf",
+     "sha256": "0044205be9b37b7924784da7c02c96b52fe070c6cfde4c1eeb03dd49e66177c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-217-2018",
+   "path": "local/vaslui/husi/2018/217",
+   "short": "HCL Huși nr. 217/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 217/2018 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenție și a indicatorilor tehnico- economici pentru investiția “Reabilitare Termică/Modernizare Sediul Primăriei Municipiului Huși” în vederea accesării unei finanțări nerambursabile în cadrul Programului Operațional Regional 2014-2020, Axa priotritara 3 “Sprijinirea tranziției către o economie cu emisii scăzute de carbon”, Prioritate",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_217_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_217_2018.pdf",
+     "sha256": "ae1ead6f2634057ba2f78069b3fe559bd5ece12d4f7838187b8313c0fc386cac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-218-2018",
+   "path": "local/vaslui/husi/2018/218",
+   "short": "HCL Huși nr. 218/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 218/2018 privind aprobarea proiectului “Reabilitarea termică/modernizare sediul Primăriei municipiului Huși” cod SMIS 117872 și a cheltuielilor legate de proiect, finanțare solicitată în cadrul Programului Operațional Regional 2014-2020, Axa priotritara 3 “Sprijinirea tranziției către o economie cu emisii scăzute de carbon”, Prioritatea de investiții 3.1 Sprijinirea eficienței energetice, a gestionării int",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_218_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_218_2018.pdf",
+     "sha256": "f339276d23b18b30a17452874b71dc0d6b44d5a8988ba5fb66560e7a3a365816"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-219-2018",
+   "path": "local/vaslui/husi/2018/219",
+   "short": "HCL Huși nr. 219/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 219/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-iulie-2018/",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_219_2018.pdf",
+     "sha256": "162a0e11c099902067251757f20bd73b95b34996f5e22d957c34a60de3a568f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-220-2018",
+   "path": "local/vaslui/husi/2018/220",
+   "short": "HCL Huși nr. 220/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 220/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-iulie-2018/",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_220_2018.pdf",
+     "sha256": "876be583176148672f5aba7b69fe5246f893d797ec0ebee098c3d46fc6524aaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-223-2018",
+   "path": "local/vaslui/husi/2018/223",
+   "short": "HCL Huși nr. 223/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 223/2018 privind modificarea statului de functii al personalului din cadrul aparatului de specialitate al primarului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-iulie-2018/",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_223_2018.pdf",
+     "sha256": "ff7397432fc837fffc775226154a481a8312870811cdcddf770fd332c44d03e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-224-2018",
+   "path": "local/vaslui/husi/2018/224",
+   "short": "HCL Huși nr. 224/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 224/2018 privind modificarea statului de functii al personalului din cadrul Directiei de Asistenta Sociala Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-iulie-2018/",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_224_2018.pdf",
+     "sha256": "2504dcabfba978d20e95a0b04ed9925f83285e73335e155f86abdbac1b092c7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-225-2018",
+   "path": "local/vaslui/husi/2018/225",
+   "short": "HCL Huși nr. 225/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 225/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-iulie-2018/",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_225_2018.pdf",
+     "sha256": "ad423dfb75ace9b6c503f22914ce93aa45ddf7125792f011a0f6504c620e8992"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-226-2018",
    "path": "local/vaslui/husi/2018/226",
    "short": "HCL Huși nr. 226/2018",
@@ -164,6 +1709,396 @@
      "units": 7,
      "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_226_2018.pdf",
      "sha256": "1537d27210ab66514617ca417fa3fc9a63669f34bc122eb8b8107d9a03d88fcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-227-2018",
+   "path": "local/vaslui/husi/2018/227",
+   "short": "HCL Huși nr. 227/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 227/2018 privind aprobarea executiei bugetului local si bugetului institutiilor publice finantate integral sau partial din venituri proprii si subventii incheiata la data de 30.06.2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-iulie-2018/",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_227_2018.pdf",
+     "sha256": "19d13e15011169cb77f22f4e9576600de87cb44516987d7953479a29d867e3fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-228-2018",
+   "path": "local/vaslui/husi/2018/228",
+   "short": "HCL Huși nr. 228/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 228/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-iulie-2018/",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_228_2018.pdf",
+     "sha256": "605466f182da6e6a80f86bf2792d7792aabadf1f12bb30de20746e91ff4221a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-23-2018",
+   "path": "local/vaslui/husi/2018/23",
+   "short": "HCL Huși nr. 23/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 23/2018 pentru mentinerea retelei scolare a unitatilor de invatamant preuniversitar din municipiul Husi in anul scolar 2018-2019",
+   "url": "https://www.primariahusi.ro/hotarari-31-ianuarie-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_23_2018.pdf",
+     "sha256": "be4836a1a2c48e9f4d6a77c43e3bb56f4f7f80933d00089a59a6d1dc33a08a81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-230-2018",
+   "path": "local/vaslui/husi/2018/230",
+   "short": "HCL Huși nr. 230/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 230/2018 privind aprobarea documentatiei tehnico-economice a obiectivului de investitie \"Reparatii punti strada Arion si strada Vîlciu Veteranu din municipiul Husi\"",
+   "url": "https://www.primariahusi.ro/hotarari-31-iulie-2018/",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_230_2018.pdf",
+     "sha256": "a0a8c82477482a068cd256ebead0f1a1a4de6b0eb3a4052aaacc952367cf4f6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-231-2018",
+   "path": "local/vaslui/husi/2018/231",
+   "short": "HCL Huși nr. 231/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 231/2018 privind aprobarea documentatiei tehnico-economice a obiectivului de investitie «Realizare instalatie de incalzire centrala Scoala Gimnaziala \"Ion Creanga\" Husi (fosta Scoala generala nr.2 Husi), Corp Cladire strada Stefan cel Mare din municipiul Husi»",
+   "url": "https://www.primariahusi.ro/hotarari-31-iulie-2018/",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_231_2018.pdf",
+     "sha256": "479dabd52a5598240a2c1537eb57cec0a8a783bd699c6a29e0a0a40f46f8c97e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-232-2018",
+   "path": "local/vaslui/husi/2018/232",
+   "short": "HCL Huși nr. 232/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 232/2018 privind actualizarea documentatiei tehnico-economice pentru obiectivul \"Executie lucrari de utilitati si sistematizare verticala locuinte ANL municipiul Husi\"",
+   "url": "https://www.primariahusi.ro/hotarari-31-iulie-2018/",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_232_2018.pdf",
+     "sha256": "46a8e5955a4ad89936b0c5462f35dce8881ba92e6063bf7a7494bcd8a1a2313a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-233-2018",
+   "path": "local/vaslui/husi/2018/233",
+   "short": "HCL Huși nr. 233/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 233/2018 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna august 2018",
+   "url": "https://www.primariahusi.ro/hotarari-13-august-2018/",
+   "versions": [
+    {
+     "from": "2018-08-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_233_2018.pdf",
+     "sha256": "abc43eddd4501f0293acfb47e339acacb6449a7eac326349a7f90d82126b84f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-234-2018",
+   "path": "local/vaslui/husi/2018/234",
+   "short": "HCL Huși nr. 234/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 234/2018 privind aprobarea realizarii si depunerii de documentatii in vederea obtinerii unei finantari europene nerambursabile in cadrul POR 2014-2020, Axa prioritara 8 - Dezvoltarea infrastructurii sanitare si sociale; Prioritatea de investitii 8.1 – Investitii in infrastructurile sanita",
+   "url": "https://www.primariahusi.ro/hotarari-13-august-2018/",
+   "versions": [
+    {
+     "from": "2018-08-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_234_2018.pdf",
+     "sha256": "27d8c5e93e0f98a1d1cc47829c1f7b9be9b29c43633a800eaeafd21f25cc2346"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-235-2018",
+   "path": "local/vaslui/husi/2018/235",
+   "short": "HCL Huși nr. 235/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 235/2018 privind acordarea unui mandat special expres reprezentantului Unitatii Administrativ-Teritoriale a Municipiul Husi, in vederea exprimarii votului in Adunarea Generala a Asociatiei pentru dezvoltare intercomunitara de utilitati publice pentru serviciul de alimentare cu apa si de c",
+   "url": "https://www.primariahusi.ro/hotarari-13-august-2018/",
+   "versions": [
+    {
+     "from": "2018-08-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_235_2018.pdf",
+     "sha256": "ae2512ca0aa69bcccb7cb8766317fb4316897746882dbfea144de413c8de932b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-236-2018",
+   "path": "local/vaslui/husi/2018/236",
+   "short": "HCL Huși nr. 236/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 236/2018 privind modificarea si completarea Inventarului bunurilor mobile si imobile care apartin domeniului privat al municipiului Hus",
+   "url": "https://www.primariahusi.ro/hotarari-29-august-2018/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_236_2018.pdf",
+     "sha256": "3be9bc459cab931a2587616907744c97885f525e657f5d828277a83d05658273"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-237-2018",
+   "path": "local/vaslui/husi/2018/237",
+   "short": "HCL Huși nr. 237/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 237/2018",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_237_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_237_2018.pdf",
+     "sha256": "665eebb01634b29ba7a5eeeb6a57372cff0271cc95bcbacb107a7ff2ad256506"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-238-2018",
+   "path": "local/vaslui/husi/2018/238",
+   "short": "HCL Huși nr. 238/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 238/2018",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_238_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_238_2018.pdf",
+     "sha256": "d617e30903473c57f929b4010e189290d69e087c111b78709d08d7ad028e91f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-239-2018",
+   "path": "local/vaslui/husi/2018/239",
+   "short": "HCL Huși nr. 239/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 239/2018",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_239_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_239_2018.pdf",
+     "sha256": "850aa992c2f8c67e83f8ea7c8b382796bff479fc3ffcbdbaf5b2a60c8f0fdce2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-24-2018",
+   "path": "local/vaslui/husi/2018/24",
+   "short": "HCL Huși nr. 24/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 24/2018 privind aprobarea cuantumului si numarului de burse acordate elevilor din invatamantul preuniversitar de stat din Municipiul Husi pentru semestrul II an scolar 2017-2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-ianuarie-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_24_2018.pdf",
+     "sha256": "2a5cc9038b873f3078c92d42cee9ed0744e542a9d79f19ba7514f30e21a8e8a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-240-2018",
+   "path": "local/vaslui/husi/2018/240",
+   "short": "HCL Huși nr. 240/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 240/2018 privind aprobarea construirii unei alveole reprezentând statie de autobuz strada A.I.Cuza, vizavi de magazinul LIDL",
+   "url": "https://www.primariahusi.ro/hotarari-29-august-2018/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_240_2018.pdf",
+     "sha256": "b58d0c9d971680c16395f533d0983ea953afdfff272d427d6202902345e26635"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-241-2018",
+   "path": "local/vaslui/husi/2018/241",
+   "short": "HCL Huși nr. 241/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 241/2018 privind aprobarea concesionarii prin licitatie publica a terenului în suprafata de 4,00 mp, apartinând domeniului privat al municipiului Husi, situat în municipiul Husi, strada Stefan cel Mare, Complex Confin, judetul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-29-august-2018/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_241_2018.pdf",
+     "sha256": "5a6ddff9688f75ac4bca48e6db54d2bf2d993bacbf9e75c3a0f22d70e05804ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-242-2018",
+   "path": "local/vaslui/husi/2018/242",
+   "short": "HCL Huși nr. 242/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 242/2018",
+   "url": "https://www.primariahusi.ro/hotarari-29-august-2018/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_242_2018.pdf",
+     "sha256": "b189b2bc5272e3c3f13dd646515758920817ada61f8e698b564ed26e8cb93f52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-243-2018",
+   "path": "local/vaslui/husi/2018/243",
+   "short": "HCL Huși nr. 243/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 243/2018",
+   "url": "https://www.primariahusi.ro/hotarari-29-august-2018/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_243_2018.pdf",
+     "sha256": "9094923b040fac951f4159c86c96ddb1b731b815dfbdb3e1e755ab38750684b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-244-2018",
+   "path": "local/vaslui/husi/2018/244",
+   "short": "HCL Huși nr. 244/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 244/2018",
+   "url": "https://www.primariahusi.ro/hotarari-29-august-2018/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_244_2018.pdf",
+     "sha256": "efed28d0e33708cb816238aa3426e6f8a2701e0b423a8f12e34d939e66e34114"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-245-2018",
+   "path": "local/vaslui/husi/2018/245",
+   "short": "HCL Huși nr. 245/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 245/2018",
+   "url": "https://www.primariahusi.ro/hotarari-29-august-2018/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_245_2018.pdf",
+     "sha256": "0da1a289b85a2bc7dd32d05485537e484d1e114c4efaa2cc187da25b4f671ea8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-246-2018",
+   "path": "local/vaslui/husi/2018/246",
+   "short": "HCL Huși nr. 246/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 246/2018 privind aprobarea dezmembrarii imobilului - teren cu numarul cadastral 76486 in suprafata de 43431 m.p, situat in Cartier Dric 2, proprietatea municipiului Husi, in 2 loturi distincte",
+   "url": "https://www.primariahusi.ro/hotarari-29-august-2018/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_246_2018.pdf",
+     "sha256": "d8d37036e14f06fd09c20aeb51ce83878bb98d43aadee6be25ccc67d6f92abab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-247-2018",
+   "path": "local/vaslui/husi/2018/247",
+   "short": "HCL Huși nr. 247/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 247/2018",
+   "url": "https://www.primariahusi.ro/hotarari-29-august-2018/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_247_2018.pdf",
+     "sha256": "0770d87c60c4aa7b1343a61312db953c90b5c35a1b02d875144b0e2310901fa9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-248-2018",
+   "path": "local/vaslui/husi/2018/248",
+   "short": "HCL Huși nr. 248/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 248/2018",
+   "url": "https://www.primariahusi.ro/hotarari-29-august-2018/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_248_2018.pdf",
+     "sha256": "eb0bc77ab4c0f20ac99eb07c82f8af7b91a7807b140de4a912e0a7ef2bd13cd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-249-2018",
+   "path": "local/vaslui/husi/2018/249",
+   "short": "HCL Huși nr. 249/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 249/2018 privind aprobarea asocierii Municipiului Husi cu SC \"LIDL ROMÂNIA\" SCS pentru amenajarea intersectiei intre Calea Basarabiei si Soseaua Husi-Stanilesti",
+   "url": "https://www.primariahusi.ro/hotarari-29-august-2018/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_249_2018.pdf",
+     "sha256": "ebaa76c95dfc3af5822bbd55c09e8d3be5f6c436323401b215d2fbf153902250"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-25-2018",
+   "path": "local/vaslui/husi/2018/25",
+   "short": "HCL Huși nr. 25/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 25/2018 privind stabilirea numarului de veterani si vaduve de razboi, persoane cu handicap si asistenti personali ai acestora care au dreptul de a calatori gratuit pe mijloacele de transport in comun, pe raza municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-ianuarie-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_25_2018.pdf",
+     "sha256": "a576656989e037a2838d7d23fe7b526b03661308d5b3d2ab3d00f8e141502995"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-250-2018",
+   "path": "local/vaslui/husi/2018/250",
+   "short": "HCL Huși nr. 250/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 250/2018",
+   "url": "https://www.primariahusi.ro/hotarari-29-august-2018/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_250_2018.pdf",
+     "sha256": "185ae9678903db1db8247fdf2ed9aa082e24c015e2e2c0eae33af2cf8d7a7448"
     }
    ]
   },
@@ -183,6 +2118,396 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-254-2018",
+   "path": "local/vaslui/husi/2018/254",
+   "short": "HCL Huși nr. 254/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 254/2018 privind rectificarea bugetului de venituri si cheltuieli al institutiilor publice finantate integral sau partial din venituri proprii- etapa august 2018",
+   "url": "https://www.primariahusi.ro/hotarari-29-august-2018/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_254_2018.pdf",
+     "sha256": "d43cfd141aebe03e44121cc71670f23f794e5a3c98c32821477bfceed802cecf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-255-2018",
+   "path": "local/vaslui/husi/2018/255",
+   "short": "HCL Huși nr. 255/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 255/2018 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenție și a indicatorilor tehnico-economici pentru obiectivul de investiție “Modernizare infrastructura in cadrul proiectului integrat Regenerare cartier Corni din municipiul Husi prin realizare/dotare infrastructura educationala pentru educatia prescolara si modernizare spatii publice urbane” în vederea accesării unei finantari în ca",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_255_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_255_2018.pdf",
+     "sha256": "ba385bf42c5358da303c0044205e31bbe1387940150caa65c8bd037c459cfcb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-256-2018",
+   "path": "local/vaslui/husi/2018/256",
+   "short": "HCL Huși nr. 256/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 256/2018 privind aprobarea Studiului de Fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiție “Rest de executat-Construire Gradinita nr.8 Husi din cadrul proiectului integrat Regenerare cartier Corni din municipiul Husi prin realizare/dotare infrastructura educationala pentru educatia prescolara si modernizare spatii publice urbane” în vederea accesării unei finantari în cadrul",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_256_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_256_2018.pdf",
+     "sha256": "19cdb64dce9d914bb7b76f1c46b039f37d917892b654d4babda04a775ccea440"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-257-2018",
+   "path": "local/vaslui/husi/2018/257",
+   "short": "HCL Huși nr. 257/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 257/2018 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna septembrie 2018",
+   "url": "https://www.primariahusi.ro/hotarari-07-septembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-09-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_257_2018.pdf",
+     "sha256": "3d0b66b7810cbdf0c1853da21bbabdd9c436346fb6cd15ab76253707908d186d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-258-2018",
+   "path": "local/vaslui/husi/2018/258",
+   "short": "HCL Huși nr. 258/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 258/2018 privind rectificarea bugetului de venituri si cheltuieli al institutiilor publice finantate integral sau partial din venituri proprii- etapa septembrie 2018",
+   "url": "https://www.primariahusi.ro/hotarari-07-septembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-09-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_258_2018.pdf",
+     "sha256": "6ec69d64e2dd29bf081acbade2f303e2aaa7a94af58aa1fb113f6f40a059836e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-259-2018",
+   "path": "local/vaslui/husi/2018/259",
+   "short": "HCL Huși nr. 259/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 259/2018 privind aprobarea realizarii si depunerii de documentatii in vederea obtinerii unei finantari europene nerambursabile in cadrul Programului Operational Capacitate Administrativa 2014- 2020 – cererea de proiecte POCA / 350/ 2/ 1 ( CP10/2018 pentru regiunile mai puțin dezvoltate)) „Fundamentarea deciziilor, planificare strategică și măsuri de simplificare pentru cetățeni la nivelul administrației pu",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_259_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-09-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_259_2018.pdf",
+     "sha256": "013efafe065aa52585aaeb6a358de655ab856e1b37bcf1654f9e8870d83a8590"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-26-2018",
+   "path": "local/vaslui/husi/2018/26",
+   "short": "HCL Huși nr. 26/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 26/2018 privind modificarea statului de functii al personalului din cadrul Serviciului Public Comunitar Local de Evidenta Persoanelor Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-ianuarie-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_26_2018.pdf",
+     "sha256": "474beb7546c1ebca70be7d6b606c0ee67b3fe0c19cb40cb48b730096534ae9d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-260-2018",
+   "path": "local/vaslui/husi/2018/260",
+   "short": "HCL Huși nr. 260/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 260/2018 privind acordarea unui aviz de principiu pentru Programul Cadru de Conformare și pentru Planul de Conformare în vederea rezolvării neconformităților pentru obținerea autorizației de funcționare a Spitalului Municipal \"Dimitrie Castroian\" Huși Consiliul Local al municipiului Huși, județul Vaslui; Având în vedere expunerea de motive privind acordarea unui aviz de principiu pentru Programul Cadru de",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_260_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-09-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_260_2018.pdf",
+     "sha256": "f2e58cabb64718ec7699b8ca7884d52c15052686cafd650eff70d94b6dd7873c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-261-2018",
+   "path": "local/vaslui/husi/2018/261",
+   "short": "HCL Huși nr. 261/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 261/2018",
+   "url": "https://www.primariahusi.ro/hotarari-07-septembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-09-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_261_2018.pdf",
+     "sha256": "5095487623a83a4e62f74e2997b86731d62441d77065771352a038696074601d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-262-2018",
+   "path": "local/vaslui/husi/2018/262",
+   "short": "HCL Huși nr. 262/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 262/2018 privind aprobarea depunerii de documentatii in vederea accesarii unei finantari europene nerambursabile in cadrul Programului Operational Capacitate Administrativa 2014-2020 – cererea de proiecte POCA/350/2/1 ( CP10/2018 pentru regiunile mai puțin dezvoltate ) „Fundamentarea deciziilor, planificare strategică și măsuri de simplificare pentru cetățeni la nivelul administrației publice locale din re",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_262_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-09-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_262_2018.pdf",
+     "sha256": "7e7139143f54b6a01ee709ff16a5b140197464af845471d897377d70c6c544f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-263-2018",
+   "path": "local/vaslui/husi/2018/263",
+   "short": "HCL Huși nr. 263/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 263/2018 privind aprobarea propunerii de proiect, și indicatorii tehnico-economici aferenți obiectivului de investiții: “Introducerea de sisteme informatice in vederea optimizarii proceselor in Municipiul Husi”, pentru accesarea unei finantarii europene nerambursabile in cadrul Progrmului Operational Capacitate Administrativa 2014-2020 – cererea de proiecte POCA /350/2/ 1 ( CP10 / 2018 pentru regiunile mai",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_263_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-09-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_263_2018.pdf",
+     "sha256": "b387750eb8f51c6b472934199ed7374299ddce6e1e6fad00436b815b13f3b165"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-264-2018",
+   "path": "local/vaslui/husi/2018/264",
+   "short": "HCL Huși nr. 264/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 264/2018 privind modificarea si completarea Inventarului bunurilor mobile si imobile care apartin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_264_2018.pdf",
+     "sha256": "d80d2956e719e0aa057ae8b959bba6ef2fec67f1b55b96e4bd6943060cc652a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-266-2018",
+   "path": "local/vaslui/husi/2018/266",
+   "short": "HCL Huși nr. 266/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 266/2018 privind completarea inventarului bunurilor ce apartin domeniului public al municipiului Husi, cu bunuri aferente Serviciului public de alimentare cu apa si de canalizare menajera",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_266_2018.pdf",
+     "sha256": "4bb7e2c5c0ba4683263add4139d2ecc96bd17e7e0919274645dfcf605faf280d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-267-2018",
+   "path": "local/vaslui/husi/2018/267",
+   "short": "HCL Huși nr. 267/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 267/2018",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_267_2018.pdf",
+     "sha256": "18f133df55fe2d5bc6161a4b41bd2e7f0274505dcc26d9baeaa76a6fdbaf62e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-268-2018",
+   "path": "local/vaslui/husi/2018/268",
+   "short": "HCL Huși nr. 268/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 268/2018 privind aprobarea dezmembrarii imobilului - teren cu numarul cadastral 77110 in suprafata de 116599 m.p, situat in Cartier Dric 3, proprietatea privata a municipiului Husi, in 3 loturi distincte",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_268_2018.pdf",
+     "sha256": "b439f3d783b1e9f1df1836c27e56ff572c575962063823f308e2b1951b7d8b80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-269-2018",
+   "path": "local/vaslui/husi/2018/269",
+   "short": "HCL Huși nr. 269/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 269/2018 privind aprobarea dezmembrarii imobilului - teren cu numarul cadastral 76481 in suprafata de 22664 m.p, situat in Cartier Dric 2, proprietatea privata a municipiului Husi, in 2 loturi distincte",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_269_2018.pdf",
+     "sha256": "5b2f647671d03c1c9bbb643b4b13c307ebbdc6ab6e835a1137087b53fbc7dc2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-27-2018",
+   "path": "local/vaslui/husi/2018/27",
+   "short": "HCL Huși nr. 27/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 27/2018 privind modificarea statului de functii al personalului din cadrul CRESEI MUNICIPIULUI HUSI",
+   "url": "https://www.primariahusi.ro/hotarari-31-ianuarie-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_27_2018.pdf",
+     "sha256": "c2957bfaef854f6cd0e5af1a4d18e7c4d352c1750706c5b4e428165cf21d4336"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-270-2018",
+   "path": "local/vaslui/husi/2018/270",
+   "short": "HCL Huși nr. 270/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 270/2018 privind aprobarea închirierii prin licitatie publica a 6(sase) loturi de teren apartinând domeniului public al municipiului Husi, situate în strada Stefan cel Mare",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_270_2018.pdf",
+     "sha256": "8c0bfb09bb1a789da5d66f04cd924cfe3e837ecb619956c9193ad5823f287708"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-271-2018",
+   "path": "local/vaslui/husi/2018/271",
+   "short": "HCL Huși nr. 271/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 271/2018 privind aprobarea închirierii prin licitatie publica a 6 loturi de teren apartinând domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_271_2018.pdf",
+     "sha256": "609f078fa4f0a6cf569972ef106bf0eb0d6baea6bffec9578a6d0c1ea135a5f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-272-2018",
+   "path": "local/vaslui/husi/2018/272",
+   "short": "HCL Huși nr. 272/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 272/2018",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_272_2018.pdf",
+     "sha256": "9f4d3a773a2690fbd668784bea28e9b44d05b1ec32f5f8e474d0f0bb0766f967"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-273-2018",
+   "path": "local/vaslui/husi/2018/273",
+   "short": "HCL Huși nr. 273/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 273/2018",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_273_2018.pdf",
+     "sha256": "f3bc98c82d0f4fcd466ac524728eb4b579e7f107af13a06ec36535f083148170"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-274-2018",
+   "path": "local/vaslui/husi/2018/274",
+   "short": "HCL Huși nr. 274/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 274/2018",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_274_2018.pdf",
+     "sha256": "83319872964922f8fc97cb11be9c0c39d51c827218ec7e15fdad8f444779f0a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-275-2018",
+   "path": "local/vaslui/husi/2018/275",
+   "short": "HCL Huși nr. 275/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 275/2018",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_275_2018.pdf",
+     "sha256": "f0e1ab845c62ccfa26a979134c1c462f306826058306c9bc0f179adec8ded3ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-276-2018",
+   "path": "local/vaslui/husi/2018/276",
+   "short": "HCL Huși nr. 276/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 276/2018",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_276_2018.pdf",
+     "sha256": "6b9509e1dfc3ab58ca058a9c9eca6acfe5a2ef261a173905798900dbcefa021d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-277-2018",
+   "path": "local/vaslui/husi/2018/277",
+   "short": "HCL Huși nr. 277/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 277/2018",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_277_2018.pdf",
+     "sha256": "6f8b6605768467fa4a44c10ecede251c7cd5708903afbe0c48e01d6867bf3d38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-278-2018",
+   "path": "local/vaslui/husi/2018/278",
+   "short": "HCL Huși nr. 278/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 278/2018",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_278_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_278_2018.pdf",
+     "sha256": "5742edcdaa7135b7731ff8f0529966c997b9ef121e0e8b69130e9c4c39bc802c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-28-2018",
    "path": "local/vaslui/husi/2018/28",
    "short": "HCL Huși nr. 28/2018",
@@ -194,6 +2519,741 @@
      "units": 4,
      "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_28_2018.pdf",
      "sha256": "050f17068c803bfa4a2dc5f0f050c054970208b41ab1991451c6a96f3f05e7d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-280-2018",
+   "path": "local/vaslui/husi/2018/280",
+   "short": "HCL Huși nr. 280/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 280/2018 privind aprobarea vânzarii apartamentului situat în municipiul Husi, strada Bd.1 Mai bl.25, sc.A, et.4, ap.18, aflat în proprietatea municipiului Husi, catre actualul chirias",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_280_2018.pdf",
+     "sha256": "4cf1c998dee4367f6c2919464f6725f7295474e9fc039d560b7134712b2df123"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-281-2018",
+   "path": "local/vaslui/husi/2018/281",
+   "short": "HCL Huși nr. 281/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 281/2018",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_281_2018.pdf",
+     "sha256": "d472588b148060b67c8bd086fbfd9b9682451098e1445dec8df17db40a67b050"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-282-2018",
+   "path": "local/vaslui/husi/2018/282",
+   "short": "HCL Huși nr. 282/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 282/2018 privind retragerea dreptului de folosinta asupra unor terenuri atribuite în conformitate cu Legea nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_282_2018.pdf",
+     "sha256": "e6ea86ca7f2d5872e23bf0ef7a9f22c735803c22f4f441efb6068899c3c52bdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-284-2018",
+   "path": "local/vaslui/husi/2018/284",
+   "short": "HCL Huși nr. 284/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 284/2018 privind aprobarea documentatiei tehnico-economice a obiectivului de investitie «Lucrari de reparatii ale instalatiei sanitare din subsolul cladirii caminului - internat Colegiul Agricol \"Dimitrie Cantemir\" - Gradinita nr.2 si înlocuire conducta de canalizare menajera Gradinita nr",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_284_2018.pdf",
+     "sha256": "d5b9789916d71f5e0bb43131cf5cdfa8cde9355abbb0dd03686ab8994365497c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-285-2018",
+   "path": "local/vaslui/husi/2018/285",
+   "short": "HCL Huși nr. 285/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 285/2018 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna octombrie 2018",
+   "url": "https://www.primariahusi.ro/hotarari-01-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-01",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_285_2018.pdf",
+     "sha256": "0335c0840091fb9e3a74d5d53bfd7bdcd439d5d1152e3fe3b6337a0b64c47c1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-286-2018",
+   "path": "local/vaslui/husi/2018/286",
+   "short": "HCL Huși nr. 286/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 286/2018 privind aprobarea documentatei tehnico-economica pentru investitia „Reabilitare, modernizare si dotare Cinematograf Dacia din municipiul Husi”",
+   "url": "https://www.primariahusi.ro/hotarari-01-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-01",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_286_2018.pdf",
+     "sha256": "9d9e6a53a147fdebee3f1af192dceb0b6c7c108f1707bbeae4ce3df520f09fee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-287-2018",
+   "path": "local/vaslui/husi/2018/287",
+   "short": "HCL Huși nr. 287/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 287/2018",
+   "url": "https://www.primariahusi.ro/hotarari-01-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-01",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_287_2018.pdf",
+     "sha256": "7a5476ca10a89849fb45b8fc60b3bca46ef8723e61d85e9620bfc9e34ad96f39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-288-2018",
+   "path": "local/vaslui/husi/2018/288",
+   "short": "HCL Huși nr. 288/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 288/2018 privind rectificarea bugetului local cu suma de 691,4 mii lei reprezentand sume defalcate din TVA, cote defalcate din impozit pe venit si venituri proprii buget local",
+   "url": "https://www.primariahusi.ro/hotarari-10-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_288_2018.pdf",
+     "sha256": "b35a2168c7928c7ac6a010d861119d4c341caa75e93d00913d836226563e94fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-289-2018",
+   "path": "local/vaslui/husi/2018/289",
+   "short": "HCL Huși nr. 289/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 289/2018 privind rectificarea bugetului de venituri si cheltuieli al institutiilor publice finantate integral sau partial din venituri proprii- etapa octombrie 2018",
+   "url": "https://www.primariahusi.ro/hotarari-10-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_289_2018.pdf",
+     "sha256": "3b748515ab96b3794a9c32fbf9203d501cfe32aae1065ef215bc9c20396724e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-29-2018",
+   "path": "local/vaslui/husi/2018/29",
+   "short": "HCL Huși nr. 29/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 29/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-ianuarie-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_29_2018.pdf",
+     "sha256": "6df931e1d574cb75464dc20e479c6f4485eedaa7dc0eab2e459992e4bd276b2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-290-2018",
+   "path": "local/vaslui/husi/2018/290",
+   "short": "HCL Huși nr. 290/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 290/2018 pentru emiterea unui aviz favorabil privind constituirea Comisiilor de concurs si a Comisiilor de solutionare a eventualelor contestatii la concursurile organizate pentru ocuparea posturilor specifice comitetului director de director medical si director financiar contabil la Spitalului Municipal “Dimitrie Castroian” Husi Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expuner",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_290_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_290_2018.pdf",
+     "sha256": "07dc0b4400da092c5bfd7959b77aca012957cbe6a39c092af320902e39747e93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-291-2018",
+   "path": "local/vaslui/husi/2018/291",
+   "short": "HCL Huși nr. 291/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 291/2018",
+   "url": "https://www.primariahusi.ro/hotarari-10-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_291_2018.pdf",
+     "sha256": "db4f6decdae8cf33c80969881c9170128fed51224c41cb70abae7e156ebe40b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-293-2018",
+   "path": "local/vaslui/husi/2018/293",
+   "short": "HCL Huși nr. 293/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 293/2018 privind aprobarea Studiului de Oportunitate si a indicatorilor tehnico-economici ai investitiei Modernizarea si dotarea Ambulatoriului Spitalului Municipal Dimitrie Castroian din Husi, pentru solicitarea unei finantari europene nerambursabile in cadrul POR 2014-2020, Axa priorita",
+   "url": "https://www.primariahusi.ro/hotarari-15-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-15",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_293_2018.pdf",
+     "sha256": "3a78bddc25ac35adef170b2b3d62930f073d404028e0d4f9422ebaa6c76b3740"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-295-2018",
+   "path": "local/vaslui/husi/2018/295",
+   "short": "HCL Huși nr. 295/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 295/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_295_2018.pdf",
+     "sha256": "6be0946b99647251133a57a0236d7dfe32fe33600d4db6f627e9f02b4d38acc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-297-2018",
+   "path": "local/vaslui/husi/2018/297",
+   "short": "HCL Huși nr. 297/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 297/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_297_2018.pdf",
+     "sha256": "2d9badbd2fa40273a528d3e2829885b063f6a308fcdc7479b6d91f34270b31c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-298-2018",
+   "path": "local/vaslui/husi/2018/298",
+   "short": "HCL Huși nr. 298/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 298/2018 privind modificarea si completarea Inventarului bunurilor mobile si imobile care apartin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_298_2018.pdf",
+     "sha256": "00a125fd67d726adb1841be8e6a4efa2d589f9edc20e6bffe5e2105a0f283a43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-299-2018",
+   "path": "local/vaslui/husi/2018/299",
+   "short": "HCL Huși nr. 299/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 299/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_299_2018.pdf",
+     "sha256": "640ef4ec91f18bfe1cd2f1ad03fe46a3b5a89069e4386c770cfeafada890e8e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-3-2018",
+   "path": "local/vaslui/husi/2018/3",
+   "short": "HCL Huși nr. 3/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 3/2018",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_03_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-01-09",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_03_2018.pdf",
+     "sha256": "a622d42298085dabf4ec2048fab4111cf7ae7ef0ddb98fcef0549e1ebbce688f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-300-2018",
+   "path": "local/vaslui/husi/2018/300",
+   "short": "HCL Huși nr. 300/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 300/2018 privind modificarea contractului de închiriere nr.29155 din 13.01.2017 încheiat cu SC \"Braniss\" SRL Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_300_2018.pdf",
+     "sha256": "cff39c2d8d0781b41e29124ab92bb738516bbf6dbf52bbbaed05617c932614e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-302-2018",
+   "path": "local/vaslui/husi/2018/302",
+   "short": "HCL Huși nr. 302/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 302/2018",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_302_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_302_2018.pdf",
+     "sha256": "3a5a4dcc3dec432acddba2e875a810c5f3d1d4670c32c22c209dcf3fdbd7c0be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-303-2018",
+   "path": "local/vaslui/husi/2018/303",
+   "short": "HCL Huși nr. 303/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 303/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_303_2018.pdf",
+     "sha256": "54cca52a2606fc3648616d5222f65269261662da8f99e3a25c52ac40f3c6f3fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-304-2018",
+   "path": "local/vaslui/husi/2018/304",
+   "short": "HCL Huși nr. 304/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 304/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_304_2018.pdf",
+     "sha256": "722726c226023eefc2d8e4cd494ec2c57b538d6c1010db36091898eb4d84bcbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-305-2018",
+   "path": "local/vaslui/husi/2018/305",
+   "short": "HCL Huși nr. 305/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 305/2018 privind retragerea dreptului de folosinta asupra unor terenuri atribuite în conformitate cu Legea nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_305_2018.pdf",
+     "sha256": "6b91bc80d7fdf080905c804005c4fc1c6f7849f6efae4e04494459a7b8d2134c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-306-2018",
+   "path": "local/vaslui/husi/2018/306",
+   "short": "HCL Huși nr. 306/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 306/2018",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_306_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_306_2018.pdf",
+     "sha256": "09ff8086f03e915869a239b3a2b5cd11f8bf50d326d6140fe524cb5766f69807"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-308-2018",
+   "path": "local/vaslui/husi/2018/308",
+   "short": "HCL Huși nr. 308/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 308/2018",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_308_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_308_2018.pdf",
+     "sha256": "75bf1db59de195f508232ce5342d6b9f6021e17636fd52feffc857a180e7a9dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-309-2018",
+   "path": "local/vaslui/husi/2018/309",
+   "short": "HCL Huși nr. 309/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 309/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_309_2018.pdf",
+     "sha256": "838710ab85e85a6ec841358fb78ed6076895e2a19d30f1f16c363f1ab5ad308d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-31-2018",
+   "path": "local/vaslui/husi/2018/31",
+   "short": "HCL Huși nr. 31/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 31/2018 privind aprobarea, pentru anul 2018, a numarului de asistenti personali ai persoanelor cu handicap grav, incadrati cu contract individual de munca pe raza municipiului Husi, conform Hotararii Guvernului nr.427/2001",
+   "url": "https://www.primariahusi.ro/hotarari-31-ianuarie-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_31_2018.pdf",
+     "sha256": "aef94e2058f0baa9130b8635c6f25680d17bba804b9cad14936d8af2017a1472"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-310-2018",
+   "path": "local/vaslui/husi/2018/310",
+   "short": "HCL Huși nr. 310/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 310/2018 privind aprobarea Programului de pregatire, deszapezire si combaterea poleiului pe drumurile publice din municipiul Husi pentru perioada 15 noiembrie 2018 – 15 martie 2019 si a Programului cu principalele masuri pentru prevenirea si combaterea efectelor negative ale situatiilor de",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_310_2018.pdf",
+     "sha256": "738277629303f4a414eedac65cc6813f17402f3ad94b1130b77dbad4fdf40529"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-311-2018",
+   "path": "local/vaslui/husi/2018/311",
+   "short": "HCL Huși nr. 311/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 311/2018 privind aprobarea executiei bugetului local si bugetului institutiilor publice finantate integral sau partial din venituri proprii si subventii incheiata la data de 30.09.2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_311_2018.pdf",
+     "sha256": "37021963e15bcec926db539837954cf69e9df074d71f3c04051ee823b08afac6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-312-2018",
+   "path": "local/vaslui/husi/2018/312",
+   "short": "HCL Huși nr. 312/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 312/2018 privind aprobarea valorii proiectului, a bugetului acestuia si a contributiei proprii a Unitatii Administrativ Teritoriale Municipiul Husi la proiectul “Reabilitarea termica/modernizare sediul Primariei municipiului Husi” codul SMIS 117872, depus in cadrul Programului Operational Regional 2014-2020; Axa prioritară 3- “Sprijinirea tranzitiei catre o economie cu emisii scazute de carbon”, Prioritate",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_312_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_312_2018.pdf",
+     "sha256": "c2c667e4a07b8c7649b3ffeb5126132e4aacafc0c1ace22143d77e5529f01d24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-313-2018",
+   "path": "local/vaslui/husi/2018/313",
+   "short": "HCL Huși nr. 313/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 313/2018 privind emiterea unui aviz de principiu în vederea alocării sumei de 549.900 lei reprezentând contribuția Consiliului local al municipiului Huși în cuantum de 10% din valoarea cheltuielilor de investiții propuse de Spitalul Municipal “Dimitrie Castroian” Huși din bugetul Ministerului Sănătății Consiliul Local al municipiului Huși, județul Vaslui; Având în vedere:  expunerea de motive privind emit",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_313_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_313_2018.pdf",
+     "sha256": "b96d690aab50c60b6a141a5d6554e5d56e3730a74ee90daaa497565b111b0323"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-314-2018",
+   "path": "local/vaslui/husi/2018/314",
+   "short": "HCL Huși nr. 314/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 314/2018 privind aprobarea cuantumului si numarului de burse acordate elevilor din învatamântul preuniversitar de stat din Municipiul Husi pentru semestrul I an scolar 2018-2019",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_314_2018.pdf",
+     "sha256": "a63b160612c6d104525687fca8543a143ce974292c7c9617012fb39292bee762"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-315-2018",
+   "path": "local/vaslui/husi/2018/315",
+   "short": "HCL Huși nr. 315/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 315/2018 privind aprobarea creditelor de angajament actualizate pentru actiuni multianuale ale bugetului local al Municipiului Husi, pentru perioada 2018-2019 pentru obiectivul de investitii «Executie lucrari de utilitati si sistematizare pe verticala ANL Municipiul Husi»",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_315_2018.pdf",
+     "sha256": "903377e3ce9624f6744d23e295500f20ba889fa7d04519cc47707b6ed368d1e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-316-2018",
+   "path": "local/vaslui/husi/2018/316",
+   "short": "HCL Huși nr. 316/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 316/2018 privind aprobarea creditelor de angajament actualizate pentru actiuni multianuale ale bugetului local al Municipiului Husi, pentru perioada 2018-2021 pentru obiectivul de investitii «Modernizare prin asfaltare strazi in Municipiul Hus",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_316_2018.pdf",
+     "sha256": "ef97b7e06c76d5664927417625d372d434489dea91f268da7d17d20cf42cbe5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-317-2018",
+   "path": "local/vaslui/husi/2018/317",
+   "short": "HCL Huși nr. 317/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 317/2018 privind aprobarea creditelor de angajament pentru actiuni multianuale ale bugetului local al Municipiului Husi, pentru perioada 2018-2021 pentru obiectivul “Reabilitarea termica/modernizare sediul Primariei municipiului Husi” cod SMIS 117872 si a cheltuielilor legate de proiect, finantare solicitata in cadrul Programului Operational Regional 2014-2020, Axa priotritara 3 “Sprijinirea tranzitiei cat",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_317_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_317_2018.pdf",
+     "sha256": "2365e053d80284c258cbc304e34cedc52401ee1732c54774dc3f5b9797848402"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-318-2018",
+   "path": "local/vaslui/husi/2018/318",
+   "short": "HCL Huși nr. 318/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 318/2018 privind rectificarea bugetului local etapa octombrie 2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_318_2018.pdf",
+     "sha256": "b5050b381a13657bee147abf9703d2557431203c6ac1abd7fffa67e06ac29d34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-319-2018",
+   "path": "local/vaslui/husi/2018/319",
+   "short": "HCL Huși nr. 319/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 319/2018 privind rectificarea bugetului de venituri si cheltuieli al institutiilor publice finantate integral sau partial din venituri proprii- etapa II octombrie 2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_319_2018.pdf",
+     "sha256": "2949360cf00fdc6159c6c24cdce2da8086ad4ed8e3a81ec44df4335a6c217542"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-32-2018",
+   "path": "local/vaslui/husi/2018/32",
+   "short": "HCL Huși nr. 32/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 32/2018 privind aprobarea Planului de actiuni si lucrari de interes local pentru repartizarea orelor de munca prestate de beneficiarii prevederilor Legii nr. 416/2001 privind venitul minim garantat pentru anul 2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-ianuarie-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_32_2018.pdf",
+     "sha256": "6563c7fb7c6cf58bf0bb8c72740940d215f55923d0a12f35616e639575f1fa16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-320-2018",
+   "path": "local/vaslui/husi/2018/320",
+   "short": "HCL Huși nr. 320/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 320/2018 privind modificarea statului de functii al personalului din cadrul Serviciului Public Comunitar Local de Evidenta Persoanelor Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_320_2018.pdf",
+     "sha256": "17d1104ff3fcddc3bbaa335e937eda1aec044094eb4bfce9a125e4726c502d3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-321-2018",
+   "path": "local/vaslui/husi/2018/321",
+   "short": "HCL Huși nr. 321/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 321/2018 privind modificarea statului de functii al personalului din cadrul Muzeului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_321_2018.pdf",
+     "sha256": "2e00e1851779f1a4fe942a913b1e0c08f68db129794f0fad7fd96d3d98dc7a6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-324-2018",
+   "path": "local/vaslui/husi/2018/324",
+   "short": "HCL Huși nr. 324/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 324/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_324_2018.pdf",
+     "sha256": "55f951bae9b590fc469822d769c842149d776fe58a7bc70bb83669f1dcd4da15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-325-2018",
+   "path": "local/vaslui/husi/2018/325",
+   "short": "HCL Huși nr. 325/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 325/2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_325_2018.pdf",
+     "sha256": "a862c6c1049295ee1e715f14a9f09e8e3ca22a988eb5eb20e6844089f1b7ee3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-326-2018",
+   "path": "local/vaslui/husi/2018/326",
+   "short": "HCL Huși nr. 326/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 326/2018 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna noiembrie 2018",
+   "url": "https://www.primariahusi.ro/hotarari-21-noiembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-11-21",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_326_2018.pdf",
+     "sha256": "c93aff9308dd185feb4bbd27fd56d71a573292b26a69524a917ab5fb37b774c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-328-2018",
+   "path": "local/vaslui/husi/2018/328",
+   "short": "HCL Huși nr. 328/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 328/2018 privind functionarea in cladirea Colegiului National \"Cuza Voda\" Husi, pentru copiii si tinerii din municipiul Husi si zona limitrofa a Centrului Judetean de Excelenta Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-21-noiembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-11-21",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_328_2018.pdf",
+     "sha256": "5b19c062450cc2d316779ec6a2b90cf7fd8bec7d239d2b5c4f69667ee30da4b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-329-2018",
+   "path": "local/vaslui/husi/2018/329",
+   "short": "HCL Huși nr. 329/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 329/2018 privind aprobarea repartizarii din bugetul local al municipiului Husi a sumei de 25,0 mii lei in vederea sustinerii financiare a Centrului Judetean de Excelenta Vaslui –Centrul Husi",
+   "url": "https://www.primariahusi.ro/hotarari-21-noiembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-11-21",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_329_2018.pdf",
+     "sha256": "acf53fa27db679c465321a0a202c66106f3ec78fb0ad679b3aee650a4d2bdadc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-33-2018",
+   "path": "local/vaslui/husi/2018/33",
+   "short": "HCL Huși nr. 33/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 33/2018",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_33_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_33_2018.pdf",
+     "sha256": "6858740c3aa786eca5760a1e692861d0e70dabfbafd677a42ec774cfa52bfbeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-330-2018",
+   "path": "local/vaslui/husi/2018/330",
+   "short": "HCL Huși nr. 330/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 330/2018",
+   "url": "https://www.primariahusi.ro/hotarari-21-noiembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-11-21",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_330_2018.pdf",
+     "sha256": "51612c5b131a0e95c1f4aeaddb505f0e9ce8e063b01a788e7f0aa9e066ba8640"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-331-2018",
+   "path": "local/vaslui/husi/2018/331",
+   "short": "HCL Huși nr. 331/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 331/2018 privind rectificarea bugetului local in sensul diminuarii cu suma de -1.714,0 mii lei reprezentând sume defalcate din TVA si subventii primite de la bugetele consiliilor locale si judetene pentru ajutoare in situatii de extrema dificultate",
+   "url": "https://www.primariahusi.ro/hotarari-21-noiembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-11-21",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_331_2018.pdf",
+     "sha256": "cbd5a2cf70cd611cb088a1d910244763364f2e9c899141f897d544719f551514"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-332-2018",
+   "path": "local/vaslui/husi/2018/332",
+   "short": "HCL Huși nr. 332/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 332/2018 privind rectificarea bugetului de venituri si cheltuieli al institutiilor publice finantate integral sau partial din venituri proprii- etapa noiembrie 2018",
+   "url": "https://www.primariahusi.ro/hotarari-21-noiembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-11-21",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_332_2018.pdf",
+     "sha256": "b81a13d063cb19480a860cf7d34867f44c330b7db2f740be8c1b7c0c6871188d"
     }
    ]
   },

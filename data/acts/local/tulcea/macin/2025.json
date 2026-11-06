@@ -3,6 +3,28 @@
 "shard": "local/tulcea/macin/2025",
 "acts": [
 {
+"slug": "hcl-tulcea--macin-1-2025",
+"path": "local/tulcea/macin/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 1/2025 privind recalcularea chiriei pentru locuințele realizate prin \"Programul de locuințe pentru tineret ANL, destinate închirierii\", nivel chirie aplicabil în anul 2025",
+"short": "HCL Măcin nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-20",
+"latest": "2025-02-20",
+"portal": "https://emol.ro/macin-tl/registru-hcl/192125",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-tulcea--macin-2-2025",
 "path": "local/tulcea/macin/2025/2",
 "kind": "local",
@@ -92,6 +114,28 @@
 }
 },
 {
+"slug": "hcl-tulcea--macin-6-2025",
+"path": "local/tulcea/macin/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 6/2025 privind alegerea președintelui de ședință",
+"short": "HCL Măcin nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-14",
+"latest": "2025-03-14",
+"portal": "https://emol.ro/macin-tl/registru-hcl/195880",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-tulcea--macin-7-2025",
 "path": "local/tulcea/macin/2025/7",
 "kind": "local",
@@ -138,6 +182,119 @@
 }
 },
 {
+"slug": "hcl-tulcea--macin-9-2025",
+"path": "local/tulcea/macin/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 9/2025",
+"short": "HCL Măcin nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-14",
+"latest": "2025-03-14",
+"portal": "https://emol.ro/macin-tl/registru-hcl/195883",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--macin-10-2025",
+"path": "local/tulcea/macin/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 10/2025",
+"short": "HCL Măcin nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-14",
+"latest": "2025-03-14",
+"portal": "https://emol.ro/macin-tl/registru-hcl/195884",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--macin-11-2025",
+"path": "local/tulcea/macin/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 11/2025",
+"short": "HCL Măcin nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-14",
+"latest": "2025-03-14",
+"portal": "https://emol.ro/macin-tl/registru-hcl/195885",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--macin-12-2025",
+"path": "local/tulcea/macin/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 12/2025 privind constituirea Comisiei Locale de Ordine Publică și aprobarea regulamentului de organizare și funcționare a Comisiei Locale de Ordine Publică Măcin",
+"short": "HCL Măcin nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-14",
+"latest": "2025-03-14",
+"portal": "https://emol.ro/macin-tl/registru-hcl/195886",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-tulcea--macin-13-2025",
+"path": "local/tulcea/macin/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 13/2025 privind aprobarea desemnării a doi reprezentanți ai Consiliului Local al Orașului Măcin în consiliul de administrație al Spitalului Orășenesc Măcin",
+"short": "HCL Măcin nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-14",
+"latest": "2025-03-14",
+"portal": "https://emol.ro/macin-tl/registru-hcl/195887",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-tulcea--macin-14-2025",
 "path": "local/tulcea/macin/2025/14",
 "kind": "local",
@@ -157,6 +314,28 @@
 "council_name": "Consiliul Local al Orașului Măcin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--macin-15-2025",
+"path": "local/tulcea/macin/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 15/2025 privind modificarea și completarea Hotărârii Consiliului Local al Orașului Măcin nr. 80/16.12.2024 privind aprobarea desemnării reprezentanților Consiliului Local al Orașului Măcin în consiliile de administrație cât și a reprezentanților în Comisiile de Evaluare și Asigurarea Calității ale unităților de învățământ preuniversitar de stat din Orașul Măcin, pentru anul 2024-2025",
+"short": "HCL Măcin nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-14",
+"latest": "2025-03-14",
+"portal": "https://emol.ro/macin-tl/registru-hcl/195889",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -226,6 +405,28 @@
 }
 },
 {
+"slug": "hcl-tulcea--macin-19-2025",
+"path": "local/tulcea/macin/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 19/2025 privind alegerea președintelui de ședință",
+"short": "HCL Măcin nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-08",
+"latest": "2025-04-08",
+"portal": "https://emol.ro/macin-tl/registru-hcl/200889",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-tulcea--macin-20-2025",
 "path": "local/tulcea/macin/2025/20",
 "kind": "local",
@@ -245,6 +446,29 @@
 "council_name": "Consiliul Local al Orașului Măcin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--macin-21-2025",
+"path": "local/tulcea/macin/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 21/2025",
+"short": "HCL Măcin nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-08",
+"latest": "2025-04-08",
+"portal": "https://emol.ro/macin-tl/registru-hcl/200891",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -292,6 +516,95 @@
 }
 },
 {
+"slug": "hcl-tulcea--macin-24-2025",
+"path": "local/tulcea/macin/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 24/2025",
+"short": "HCL Măcin nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-12",
+"latest": "2025-05-12",
+"portal": "https://emol.ro/macin-tl/registru-hcl/205914",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--macin-25-2025",
+"path": "local/tulcea/macin/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 25/2025 privind aprobarea rezultatului evaluării activității managerului Spitalului orășenesc Măcin, pentru anul 2024 și menținerea contractului de management",
+"short": "HCL Măcin nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-12",
+"latest": "2025-05-12",
+"portal": "https://emol.ro/macin-tl/registru-hcl/205915",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-tulcea--macin-26-2025",
+"path": "local/tulcea/macin/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 26/2025 privind aprobarea modului de întocmire a registrului agricol pe perioada 2025 - 2029",
+"short": "HCL Măcin nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-12",
+"latest": "2025-05-12",
+"portal": "https://emol.ro/macin-tl/registru-hcl/205916",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-tulcea--macin-27-2025",
+"path": "local/tulcea/macin/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 27/2025 privind reorganizarea comisiei de evaluare a ofertelor pentru concesionarea, închirierea, vânzarea și vânzarea prin negociere directă a imobilelor din domeniul privat al orașului Măcin",
+"short": "HCL Măcin nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-12",
+"latest": "2025-05-12",
+"portal": "https://emol.ro/macin-tl/registru-hcl/205917",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-tulcea--macin-28-2025",
 "path": "local/tulcea/macin/2025/28",
 "kind": "local",
@@ -311,6 +624,52 @@
 "council_name": "Consiliul Local al Orașului Măcin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--macin-29-2025",
+"path": "local/tulcea/macin/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 29/2025",
+"short": "HCL Măcin nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-12",
+"latest": "2025-05-12",
+"portal": "https://emol.ro/macin-tl/registru-hcl/205919",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--macin-30-2025",
+"path": "local/tulcea/macin/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 30/2025",
+"short": "HCL Măcin nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-12",
+"latest": "2025-05-12",
+"portal": "https://emol.ro/macin-tl/registru-hcl/205920",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -381,6 +740,52 @@
 }
 },
 {
+"slug": "hcl-tulcea--macin-34-2025",
+"path": "local/tulcea/macin/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 34/2025",
+"short": "HCL Măcin nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/macin-tl/registru-hcl/210213",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--macin-35-2025",
+"path": "local/tulcea/macin/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 35/2025",
+"short": "HCL Măcin nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/macin-tl/registru-hcl/210214",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-tulcea--macin-36-2025",
 "path": "local/tulcea/macin/2025/36",
 "kind": "local",
@@ -426,6 +831,51 @@
 }
 },
 {
+"slug": "hcl-tulcea--macin-38-2025",
+"path": "local/tulcea/macin/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 38/2025",
+"short": "HCL Măcin nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/macin-tl/registru-hcl/211895",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--macin-39-2025",
+"path": "local/tulcea/macin/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 39/2025 privind alegerea președintelui de ședință",
+"short": "HCL Măcin nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://emol.ro/macin-tl/registru-hcl/214850",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-tulcea--macin-40-2025",
 "path": "local/tulcea/macin/2025/40",
 "kind": "local",
@@ -445,6 +895,28 @@
 "council_name": "Consiliul Local al Orașului Măcin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--macin-41-2025",
+"path": "local/tulcea/macin/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 41/2025 privind desemnarea reprezentantului orașului Măcin în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru serviciile de salubrizare ale orașului Măcin și a comunelor partenere",
+"short": "HCL Măcin nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://emol.ro/macin-tl/registru-hcl/214853",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -650,6 +1122,29 @@
 }
 },
 {
+"slug": "hcl-tulcea--macin-51-2025",
+"path": "local/tulcea/macin/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 51/2025",
+"short": "HCL Măcin nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-22",
+"latest": "2025-09-22",
+"portal": "https://emol.ro/macin-tl/registru-hcl/220212",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-tulcea--macin-52-2025",
 "path": "local/tulcea/macin/2025/52",
 "kind": "local",
@@ -779,6 +1274,28 @@
 "council_name": "Consiliul Local al Orașului Măcin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--macin-58-2025",
+"path": "local/tulcea/macin/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 58/2025 privind alegerea președintelui de ședință",
+"short": "HCL Măcin nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-08",
+"latest": "2025-10-08",
+"portal": "https://emol.ro/macin-tl/registru-hcl/228075",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -939,6 +1456,28 @@
 }
 },
 {
+"slug": "hcl-tulcea--macin-66-2025",
+"path": "local/tulcea/macin/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 66/2025 privind aprobarea desemnării reprezentanților Consiliului Local al orașului Măcin în consiliile de administrație cât și a reprezentanților în Comisiile de Evaluare și Asigurarea Calității ale unităților de învățământ preuniversitar de stat din orașul Măcin, pentru anul 2025 - 2026",
+"short": "HCL Măcin nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-08",
+"latest": "2025-10-08",
+"portal": "https://emol.ro/macin-tl/registru-hcl/228083",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-tulcea--macin-67-2025",
 "path": "local/tulcea/macin/2025/67",
 "kind": "local",
@@ -1069,6 +1608,28 @@
 "council_name": "Consiliul Local al Orașului Măcin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--macin-73-2025",
+"path": "local/tulcea/macin/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 73/2025 privind modificarea și completarea art. 1 din Hotărârea Consiliului Local al orașului Măcin nr. 66 din 29.09.2025 privind aprobarea desemnării reprezentanților Consiliului Local al orașului Măcin în consiliile de administrație cât și a reprezentanților în Comisiile de Evaluare și Asigurarea Calității ale unităților de învățământ preuniversitar de stat din orașul Măcin, pentru anul 2025 - 2026",
+"short": "HCL Măcin nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://emol.ro/macin-tl/registru-hcl/231156",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1447,6 +2008,51 @@
 "council_name": "Consiliul Local al Orașului Măcin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--macin-91-2025",
+"path": "local/tulcea/macin/2025/91",
+"kind": "local",
+"year": "2025",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 91/2025",
+"short": "HCL Măcin nr. 91/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-11",
+"latest": "2025-12-11",
+"portal": "https://emol.ro/macin-tl/registru-hcl/239188",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--macin-92-2025",
+"path": "local/tulcea/macin/2025/92",
+"kind": "local",
+"year": "2025",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Măcin nr. 92/2025 privind alegerea președintelui de ședință",
+"short": "HCL Măcin nr. 92/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-05",
+"latest": "2026-01-05",
+"portal": "https://emol.ro/macin-tl/registru-hcl/243206",
+"council": "tulcea/macin",
+"council_name": "Consiliul Local al Orașului Măcin",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,36 @@
  "shard": "local/tulcea/isaccea/2025",
  "acts": [
   {
+   "slug": "hcl-tulcea--isaccea-129-2025",
+   "path": "local/tulcea/isaccea/2025/129",
+   "short": "HCL Isaccea nr. 129/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 129/2025 privind propunerea de initiere a unui proiect de hotărâre pentru aprobarea procesului–verbal nr. 2062 / 20180/ 25.11.2025 , a listelor solicitanților cu acces/neacces la locuințele ANL și lista privind ordinea de prioritate a cererilor cu drept de access la locuințele A.N.L",
+   "url": "https://isaccea.ro/wp-content/uploads/2025/11/HCL-129_merged.pdf",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2025/11/HCL-129_merged.pdf",
+     "sha256": "1c9395b787e79454e7dec875d2cf4a5c8285c121f33171d848959b788cfc0f6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-22-2025",
+   "path": "local/tulcea/isaccea/2025/22",
+   "short": "HCL Isaccea nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 22/2025 privind propunerea de initiere a unui proiect de hotărâre pentru aprobarea procesului–verbal nr. 4674/14.02.2025, a listelor solicitanților cu acces/neacces la locuințele ANL și a listei privind ordinea de prioritate a solicitanților cu drept de acces la locuințele ANL Consiliul Local al ORAȘULUI ISACCEA, județul Tulcea, legal constituit, întrunit în ședința ordinară în data de 28.02.2025, ora pre",
+   "url": "https://isaccea.ro/wp-content/uploads/2025/03/HCL-nr-22.pdf",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2025/03/HCL-nr-22.pdf",
+     "sha256": "efe7289a0c2a15b7907349339a1352a8f7a459dd26bd27a0c7fce14a6f3f4b3e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--isaccea-42-2025",
    "path": "local/tulcea/isaccea/2025/42",
    "short": "HCL Isaccea nr. 42/2025",

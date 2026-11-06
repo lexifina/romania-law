@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-timis--deta-10-2025",
+   "path": "local/timis/deta/2025/10",
+   "short": "HCL Deta nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 10/2025 privind completarea Hotărârii Consiliului Local nr. 181/17.12.2024 privind actualizarea cu rata inflației de 10,4% a nivelului redevențelor/chiriilor aferente raporturilor juridice contractuale, având ca obiect concesionarea/ închirierea terenurilor aparținând domeniului public sau privat al orașului Deta și a nivelului redevențelor/chiriilor aferente raporturilor juridice contractuale având ca obiect închirierea spațiilor cu altă destinație decât aceea de locuință aparținând domeniului public al orașului Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/188656",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/188656",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--deta-100-2025",
    "path": "local/timis/deta/2025/100",
    "short": "HCL Deta nr. 100/2025",
@@ -103,6 +118,111 @@
      "from": "2025-08-27",
      "units": 1,
      "source_url": "https://emol.ro/deta-tm/registru-hcl/221195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-106-2025",
+   "path": "local/timis/deta/2025/106",
+   "short": "HCL Deta nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 106/2025 privind concesionarea prin licitație publică a terenurilor din Deta, situate în zona Termal în vederea construirii de locuințe individuale conform PUZ aprobat",
+   "url": "https://emol.ro/deta-tm/registru-hcl/221924",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/221924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-107-2025",
+   "path": "local/timis/deta/2025/107",
+   "short": "HCL Deta nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 107/2025 privind renunțarea la dreptul de servitute cu piciorul și mașina din cartea funciară cu nr. 400248, nr. cad. 400248 asupra cotei de 232/2592 mp, înscrisă în favoarea imobilului din CF nr. 400812, cu nr. cad. 400812 al UAT Deta, situat în strada Ștefan cel Mare, nr. 4A",
+   "url": "https://emol.ro/deta-tm/registru-hcl/221925",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/221925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-108-2025",
+   "path": "local/timis/deta/2025/108",
+   "short": "HCL Deta nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 108/2025 privind aderarea Orașului Deta la Asociația de Dezvoltare Intercomunitară „Centrul de Digitalizare și Inovare Timiș”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/221926",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/221926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-109-2025",
+   "path": "local/timis/deta/2025/109",
+   "short": "HCL Deta nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 109/2025 privind modificarea statului de funcţii prin transformarea funcției publice de execuție de inspector, clasa I, grad profesional superior, în funcție publică de execuție de inspector, clasa I, grad profesional asistent la Compartimentul Resurse umane și salarizare și transformarea funcției publice de execuție de consilier clasa I, grad profesional superior, în funcție publică de execuție de inspector, clasa I, grad profesional asistent la Compartimentul Asistență socială și relații cu publicul",
+   "url": "https://emol.ro/deta-tm/registru-hcl/221927",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/221927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-11-2025",
+   "path": "local/timis/deta/2025/11",
+   "short": "HCL Deta nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 11/2025 privind aprobarea radierii dreptului de proprietate publică al orașului Deta, asupra terenului înscris în CF nr. 405916, cu nr. top. 405916, situat în intravilan Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/188657",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/188657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-110-2025",
+   "path": "local/timis/deta/2025/110",
+   "short": "HCL Deta nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 110/2025 privind înființarea Direcției de Asistență Socială și aprobarea Regulamentului de organizare și funcționare, organigramei și a statului de funcții",
+   "url": "https://emol.ro/deta-tm/registru-hcl/221928",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/221928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-111-2025",
+   "path": "local/timis/deta/2025/111",
+   "short": "HCL Deta nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 111/2025 privind stabilirea unor măsuri în vederea înființării Direcției de Asistență Socială Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/223704",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/223704",
      "sha256": null
     }
    ]
@@ -213,6 +333,36 @@
    ]
   },
   {
+   "slug": "hcl-timis--deta-119-2025",
+   "path": "local/timis/deta/2025/119",
+   "short": "HCL Deta nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 119/2025 privind desemnarea reprezentanților Consiliului local al oraşului Deta în Consiliul de administraţie al Liceului Tehnologic „Sfântu Nicolae” Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/227540",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/227540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-12-2025",
+   "path": "local/timis/deta/2025/12",
+   "short": "HCL Deta nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 12/2025 privind aprobarea primei înscrieri – atribuire număr cadastral nou - intravilan Deta pentru parcelele cadastrale Ds 995, CTS 1078, De 619",
+   "url": "https://emol.ro/deta-tm/registru-hcl/188658",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/188658",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--deta-120-2025",
    "path": "local/timis/deta/2025/120",
    "short": "HCL Deta nr. 120/2025",
@@ -223,6 +373,36 @@
      "from": "2025-10-13",
      "units": 1,
      "source_url": "https://emol.ro/deta-tm/registru-hcl/227541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-121-2025",
+   "path": "local/timis/deta/2025/121",
+   "short": "HCL Deta nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 121/2025 privind modificarea organigramei și a statului de funcţii al Aparatului de specialitate al Primarului orașului Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/227542",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/227542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-122-2025",
+   "path": "local/timis/deta/2025/122",
+   "short": "HCL Deta nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 122/2025 privind mandatarea Liceul Tehnologic „Sfântu Nicolae” Deta să încheie acte necesare pentru gestionarea normală și curentă a imobilul cu destinația de Grădiniță cu program prelungit",
+   "url": "https://emol.ro/deta-tm/registru-hcl/227543",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/227543",
      "sha256": null
     }
    ]
@@ -253,6 +433,21 @@
      "from": "2025-10-13",
      "units": 1,
      "source_url": "https://emol.ro/deta-tm/registru-hcl/227545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-125-2025",
+   "path": "local/timis/deta/2025/125",
+   "short": "HCL Deta nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 125/2025 privind modificarea statului de funcţii prin transformarea postului contractual de execuție vacantabil de referent I superior, gradația de vechime 5, în post contractual de execuție de inspector de specialitate debutant, cu studii superioare la Compartimentul Administrație publică, protocol",
+   "url": "https://emol.ro/deta-tm/registru-hcl/227546",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/227546",
      "sha256": null
     }
    ]
@@ -378,6 +573,51 @@
    ]
   },
   {
+   "slug": "hcl-timis--deta-133-2025",
+   "path": "local/timis/deta/2025/133",
+   "short": "HCL Deta nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 133/2025 privind decontarea navetei cadrelor didactice de la unitățile de învățământ din orașul Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/231718",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/231718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-134-2025",
+   "path": "local/timis/deta/2025/134",
+   "short": "HCL Deta nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 134/2025 privind aprobarea vânzării locuinței pentru tineri, construită prin Agenția Națională pentru Locuințe, situată în orașul Deta, str. Orhideelor, bl. D, sc. 1, ap. 7, actualului chiriaș Bîlc Ciprian-Ioan, căsătorit cu Bîlc Gabriela-Roxana",
+   "url": "https://emol.ro/deta-tm/registru-hcl/231719",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/231719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-135-2025",
+   "path": "local/timis/deta/2025/135",
+   "short": "HCL Deta nr. 135/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 135/2025 privind aprobarea unor operațiuni cadastrale de rectificare suprafață la imobilul-teren situat în orașul Deta, strada Aleea Revoluției, nr. 2A, înscris în CF nr. 404038, cu nr. top. 81/a/2",
+   "url": "https://emol.ro/deta-tm/registru-hcl/231720",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/231720",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--deta-136-2025",
    "path": "local/timis/deta/2025/136",
    "short": "HCL Deta nr. 136/2025",
@@ -498,6 +738,21 @@
    ]
   },
   {
+   "slug": "hcl-timis--deta-143-2025",
+   "path": "local/timis/deta/2025/143",
+   "short": "HCL Deta nr. 143/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 143/2025 privind stabilirea locurilor pentru vânzarea de produse din autovehicule și practicarea comerțului ambulant în afara piețelor organizate",
+   "url": "https://emol.ro/deta-tm/registru-hcl/235435",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/235435",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--deta-144-2025",
    "path": "local/timis/deta/2025/144",
    "short": "HCL Deta nr. 144/2025",
@@ -513,6 +768,21 @@
    ]
   },
   {
+   "slug": "hcl-timis--deta-145-2025",
+   "path": "local/timis/deta/2025/145",
+   "short": "HCL Deta nr. 145/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 145/2025 privind decontarea navetei cadrelor didactice de la unitățile de învățământ din orașul Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/236739",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/236739",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--deta-146-2025",
    "path": "local/timis/deta/2025/146",
    "short": "HCL Deta nr. 146/2025",
@@ -523,6 +793,81 @@
      "from": "2025-12-05",
      "units": 1,
      "source_url": "https://emol.ro/deta-tm/registru-hcl/236740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-147-2025",
+   "path": "local/timis/deta/2025/147",
+   "short": "HCL Deta nr. 147/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 147/2025 privind scutirea de la plata impozitului/taxei pentru anul 2026 a Asociației de Dezvoltare Intercomunitară Timiș Totontal",
+   "url": "https://emol.ro/deta-tm/registru-hcl/236741",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/236741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-148-2025",
+   "path": "local/timis/deta/2025/148",
+   "short": "HCL Deta nr. 148/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 148/2025 privind actualizarea cu rata inflației de 5,6% a nivelului redevențelor/chiriilor aferente raporturilor juridice contractuale, având ca obiect concesionarea/ închirierea terenurilor aparținând domeniului public sau privat al orașului Deta și a nivelului redevențelor/chiriilor aferente raporturilor juridice contractuale având ca obiect închirierea spațiilor cu altă destinație decât aceea de locuință aparținând domeniului public al orașului Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/236742",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/236742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-149-2025",
+   "path": "local/timis/deta/2025/149",
+   "short": "HCL Deta nr. 149/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 149/2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/236743",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/236743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-15-2025",
+   "path": "local/timis/deta/2025/15",
+   "short": "HCL Deta nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 15/2025 privind aprobarea statului de funcții al Spitalului Orăşenesc Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/188661",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/188661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-150-2025",
+   "path": "local/timis/deta/2025/150",
+   "short": "HCL Deta nr. 150/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 150/2025 privind darea în administrarea Serviciului de Ambulanţă Județean Timiş a imobilului înscris CF nr. 400239-C1-U8, cu nr. top. 326-327/1/1/1-2, 326-327/2/II, pentru desfăşurarea activităţii specifice",
+   "url": "https://emol.ro/deta-tm/registru-hcl/236744",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/236744",
      "sha256": null
     }
    ]
@@ -573,6 +918,96 @@
    ]
   },
   {
+   "slug": "hcl-timis--deta-154-2025",
+   "path": "local/timis/deta/2025/154",
+   "short": "HCL Deta nr. 154/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 154/2025 privind decontarea navetei cadrelor didactice de la unitățile de învățământ din orașul Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/243783",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/243783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-155-2025",
+   "path": "local/timis/deta/2025/155",
+   "short": "HCL Deta nr. 155/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 155/2025 privind majorarea impozitului aferent anului 2026 cu 500% pentru clădirea din Deta, str. Calea Voitegului, nr. 4, ca urmare a constatării stării de imobil neîngrijit",
+   "url": "https://emol.ro/deta-tm/registru-hcl/243784",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/243784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-156-2025",
+   "path": "local/timis/deta/2025/156",
+   "short": "HCL Deta nr. 156/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 156/2025 privind majorarea impozitului aferent anului 2026 cu 500% pentru clădirea din Deta, str. Mihai Viteazu, nr. 55, ca urmare a constatării stării de imobil neîngrijit",
+   "url": "https://emol.ro/deta-tm/registru-hcl/243785",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/243785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-157-2025",
+   "path": "local/timis/deta/2025/157",
+   "short": "HCL Deta nr. 157/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 157/2025 privind majorarea impozitului aferent anului 2026 cu 300% pentru clădirea din Opatița, nr. 179, ca urmare a constatării stării de imobil neîngrijit",
+   "url": "https://emol.ro/deta-tm/registru-hcl/243786",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/243786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-158-2025",
+   "path": "local/timis/deta/2025/158",
+   "short": "HCL Deta nr. 158/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 158/2025 privind majorarea impozitului aferent anului 2026 cu 500% pentru clădirea din Opatița, nr. 147, ca urmare a constatării stării de imobil neîngrijit",
+   "url": "https://emol.ro/deta-tm/registru-hcl/243787",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/243787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-159-2025",
+   "path": "local/timis/deta/2025/159",
+   "short": "HCL Deta nr. 159/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 159/2025 privind majorarea impozitului aferent anului 2026 cu 300% pentru clădirea din Opatița, nr. 101, ca urmare a constatării stării de imobil neîngrijit",
+   "url": "https://emol.ro/deta-tm/registru-hcl/243788",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/243788",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--deta-16-2025",
    "path": "local/timis/deta/2025/16",
    "short": "HCL Deta nr. 16/2025",
@@ -583,6 +1018,51 @@
      "from": "2025-02-12",
      "units": 1,
      "source_url": "https://emol.ro/deta-tm/registru-hcl/188662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-160-2025",
+   "path": "local/timis/deta/2025/160",
+   "short": "HCL Deta nr. 160/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 160/2025 privind majorarea impozitului aferent anului 2026 cu 300% pentru clădirea din Opatița, nr. 16, ca urmare a constatării stării de imobil neîngrijit",
+   "url": "https://emol.ro/deta-tm/registru-hcl/243789",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/243789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-161-2025",
+   "path": "local/timis/deta/2025/161",
+   "short": "HCL Deta nr. 161/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 161/2025 privind majorarea impozitului aferent anului 2026 cu 200% pentru clădirea din Opatița, nr. 45, ca urmare a constatării stării de imobil neîngrijit",
+   "url": "https://emol.ro/deta-tm/registru-hcl/243790",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/243790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-162-2025",
+   "path": "local/timis/deta/2025/162",
+   "short": "HCL Deta nr. 162/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 162/2025 privind majorarea impozitului aferent anului 2026 cu 500% pentru clădirea din Opatița, nr. 250, ca urmare a constatării stării de imobil neîngrijit",
+   "url": "https://emol.ro/deta-tm/registru-hcl/243791",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/243791",
      "sha256": null
     }
    ]
@@ -613,6 +1093,36 @@
      "from": "2026-01-21",
      "units": 1,
      "source_url": "https://emol.ro/deta-tm/registru-hcl/243793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-165-2025",
+   "path": "local/timis/deta/2025/165",
+   "short": "HCL Deta nr. 165/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 165/2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/243794",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/243794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-166-2025",
+   "path": "local/timis/deta/2025/166",
+   "short": "HCL Deta nr. 166/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 166/2025 privind aprobarea vânzării locuinței pentru tineri, construită prin Agenția Națională pentru Locuințe, situată în orașul Deta, str. Orhideelor, bl. A, sc. A, ap. 3, actualului chiriaș Petraș Alex-Matei căsătorit cu Petraș Iasmina-Alice",
+   "url": "https://emol.ro/deta-tm/registru-hcl/243795",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/243795",
      "sha256": null
     }
    ]
@@ -678,6 +1188,36 @@
    ]
   },
   {
+   "slug": "hcl-timis--deta-18-2025",
+   "path": "local/timis/deta/2025/18",
+   "short": "HCL Deta nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 18/2025 privind decontarea navetei cadrelor didactice de la unitățile de învățământ din orașul Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/188664",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/188664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-19-2025",
+   "path": "local/timis/deta/2025/19",
+   "short": "HCL Deta nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 19/2025 privind închiderea conturilor de cheltuieli ale Clubului Sportiv Orășenesc Deta de pe sursa A și deschiderea conturilor de venituri și cheltuieli ale acestuia pe sursa G",
+   "url": "https://emol.ro/deta-tm/registru-hcl/188665",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/188665",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--deta-2-2025",
    "path": "local/timis/deta/2025/2",
    "short": "HCL Deta nr. 2/2025",
@@ -688,6 +1228,21 @@
      "from": "2025-02-03",
      "units": 1,
      "source_url": "https://emol.ro/deta-tm/registru-hcl/187322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-20-2025",
+   "path": "local/timis/deta/2025/20",
+   "short": "HCL Deta nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 20/2025 privind stabilirea tipului de suport alimentar și modalitatea de servire a mesei de către elevii Liceului Tehnologic ”Sfântul Nicolae” Deta, în cadrul Programului național ”Masa sănătoasă”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/191616",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/191616",
      "sha256": null
     }
    ]
@@ -753,6 +1308,36 @@
    ]
   },
   {
+   "slug": "hcl-timis--deta-25-2025",
+   "path": "local/timis/deta/2025/25",
+   "short": "HCL Deta nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 25/2025 privind însușirea raportului de evaluare a terenurilor concesionate în Zona Termal, proprietatea Orașului Deta, domeniul privat, și aprobarea vânzării prin negociere directă către actualii concesionari",
+   "url": "https://emol.ro/deta-tm/registru-hcl/193536",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/193536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-26-2025",
+   "path": "local/timis/deta/2025/26",
+   "short": "HCL Deta nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 26/2025 privind însușirea raportului de evaluare a proprietății imobiliare (teren), situată în intravilan Deta, str. Victoriei, nr. 16, înscrisă în CF nr. 401089, nr. cad. 401089, proprietatea Oraşului Deta, domeniul privat şi aprobarea vânzării prin negociere directă către actualul chiriaș SC „SILINIUS” SRL",
+   "url": "https://emol.ro/deta-tm/registru-hcl/193537",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/193537",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--deta-27-2025",
    "path": "local/timis/deta/2025/27",
    "short": "HCL Deta nr. 27/2025",
@@ -763,6 +1348,36 @@
      "from": "2025-03-13",
      "units": 1,
      "source_url": "https://emol.ro/deta-tm/registru-hcl/193538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-28-2025",
+   "path": "local/timis/deta/2025/28",
+   "short": "HCL Deta nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 28/2025 privind aprobarea documentaţiei tehnice de apartamentare a imobilului înscris în CF nr. 400515, nr. cad. 400515-C2, situat în oraș Deta, strada Victoriei, nr. 88, C2 - Casă",
+   "url": "https://emol.ro/deta-tm/registru-hcl/193539",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/193539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-29-2025",
+   "path": "local/timis/deta/2025/29",
+   "short": "HCL Deta nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 29/2025 privind aprobarea documentaţiei tehnice de alipire a parcelelor înscrise în CF nr. 401421 și CF nr. 401414",
+   "url": "https://emol.ro/deta-tm/registru-hcl/193540",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/193540",
      "sha256": null
     }
    ]
@@ -808,6 +1423,96 @@
      "from": "2025-03-13",
      "units": 1,
      "source_url": "https://emol.ro/deta-tm/registru-hcl/193542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-32-2025",
+   "path": "local/timis/deta/2025/32",
+   "short": "HCL Deta nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 32/2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/193543",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/193543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-33-2025",
+   "path": "local/timis/deta/2025/33",
+   "short": "HCL Deta nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 33/2025 privind aprobarea listelor pentru repartizarea locuințelor sociale situate în orașul Deta, str. 1 Mai, nr. 32A",
+   "url": "https://emol.ro/deta-tm/registru-hcl/193544",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/193544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-34-2025",
+   "path": "local/timis/deta/2025/34",
+   "short": "HCL Deta nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 34/2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/193545",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/193545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-35-2025",
+   "path": "local/timis/deta/2025/35",
+   "short": "HCL Deta nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 35/2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/193546",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/193546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-36-2025",
+   "path": "local/timis/deta/2025/36",
+   "short": "HCL Deta nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 36/2025 privind aderarea orașului Deta la ASOCIAȚIA JUDEȚEANĂ PENTRU PROTECȚIA ANIMALELOR TIMIȘ",
+   "url": "https://emol.ro/deta-tm/registru-hcl/193547",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/193547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-37-2025",
+   "path": "local/timis/deta/2025/37",
+   "short": "HCL Deta nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 37/2025 privind achiziționarea unor servicii juridice constând în consultanță juridică de specialitate, asistență juridică şi reprezentare în fața instanțelor de judecată a intereselor Orașului Deta, a Consiliului local Deta, a instituției Primarului orașului Deta, precum și a Comisiei locale pentru stabilirea dreptului de proprietate privată asupra terenurilor Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/193548",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/193548",
      "sha256": null
     }
    ]
@@ -903,6 +1608,111 @@
    ]
   },
   {
+   "slug": "hcl-timis--deta-43-2025",
+   "path": "local/timis/deta/2025/43",
+   "short": "HCL Deta nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 43/2025 privind decontarea navetei cadrelor didactice de la unitățile de învățământ din orașul Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/199147",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/199147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-44-2025",
+   "path": "local/timis/deta/2025/44",
+   "short": "HCL Deta nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 44/2025 privind aprobarea cuantumului cotizaţiei ce revine Oraşului Deta, pentru anul 2025, ca membru al Asociaţiei de Dezvoltare Intercomunitară Apă-Canal Timiş",
+   "url": "https://emol.ro/deta-tm/registru-hcl/199148",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/199148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-45-2025",
+   "path": "local/timis/deta/2025/45",
+   "short": "HCL Deta nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 45/2025 privind aprobarea cuantumului cotizaţiei ce revine oraşului Deta, pentru anul 2025, ca membru al Asociaţiei de Dezvoltare Intercomunitară Deşeuri Timiş",
+   "url": "https://emol.ro/deta-tm/registru-hcl/199149",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/199149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-46-2025",
+   "path": "local/timis/deta/2025/46",
+   "short": "HCL Deta nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 46/2025 privind aprobarea cuantumului cotizaţiei ce revine Oraşului Deta pentru anul 2025, ca membru al Asociaţiei de Dezvoltare Intercomunitară „Timiş-Torontal”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/199150",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/199150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-47-2025",
+   "path": "local/timis/deta/2025/47",
+   "short": "HCL Deta nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 47/2025 privind aprobarea cuantumului cotizației ce revine Oraşului Deta, pentru anul 2025, ca membru al Asociației Timiş Torontal Bârzava",
+   "url": "https://emol.ro/deta-tm/registru-hcl/199151",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/199151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-48-2025",
+   "path": "local/timis/deta/2025/48",
+   "short": "HCL Deta nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 48/2025 privind aprobarea cuantumului cotizației ce revine oraşului Deta pentru anul 2025, ca membru al Patronatului Serviciilor Publice",
+   "url": "https://emol.ro/deta-tm/registru-hcl/199152",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/199152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-49-2025",
+   "path": "local/timis/deta/2025/49",
+   "short": "HCL Deta nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 49/2025 privind aprobarea cuantumului cotizației ce revine oraşului Deta, pentru anul 2025, ca membru al Asociației Comunelor din România",
+   "url": "https://emol.ro/deta-tm/registru-hcl/199153",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/199153",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--deta-5-2025",
    "path": "local/timis/deta/2025/5",
    "short": "HCL Deta nr. 5/2025",
@@ -913,6 +1723,36 @@
      "from": "2025-02-03",
      "units": 1,
      "source_url": "https://emol.ro/deta-tm/registru-hcl/187325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-50-2025",
+   "path": "local/timis/deta/2025/50",
+   "short": "HCL Deta nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 50/2025 privind aprobarea contractului de parteneriat pentru organizarea evenimentului cultural - artistic „Zilele orașului Deta, Ediția a XIV-a”, în perioada 01.08.2025-03.08.2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/199154",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/199154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-51-2025",
+   "path": "local/timis/deta/2025/51",
+   "short": "HCL Deta nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 51/2025 privind solicitarea de trecere a unor bunuri imobile din domeniul public al județului Timiș în domeniul public al Orașului Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/199155",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/199155",
      "sha256": null
     }
    ]
@@ -933,6 +1773,36 @@
    ]
   },
   {
+   "slug": "hcl-timis--deta-53-2025",
+   "path": "local/timis/deta/2025/53",
+   "short": "HCL Deta nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 53/2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/199157",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/199157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-54-2025",
+   "path": "local/timis/deta/2025/54",
+   "short": "HCL Deta nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 54/2025 privind modificarea statului de funcţii prin transformarea postului de natură contractuală la Compartimentul Urbanism, amenajarea teritoriului",
+   "url": "https://emol.ro/deta-tm/registru-hcl/199158",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/199158",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--deta-55-2025",
    "path": "local/timis/deta/2025/55",
    "short": "HCL Deta nr. 55/2025",
@@ -943,6 +1813,36 @@
      "from": "2025-04-09",
      "units": 1,
      "source_url": "https://emol.ro/deta-tm/registru-hcl/199159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-56-2025",
+   "path": "local/timis/deta/2025/56",
+   "short": "HCL Deta nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 56/2025 privind trecerea imobilului înscris în CF nr. 404062, Deta, nr. top 404062, din domeniul public al orașului Deta în domeniul privat al orașului Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/201999",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/201999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-57-2025",
+   "path": "local/timis/deta/2025/57",
+   "short": "HCL Deta nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 57/2025 privind aprobarea transmiterii în folosință gratuită a terenului înscris în CF nr. 404062, cu nr. top. 404062, în suprafaţă de 1.428 mp., către Agenția Naţională pentru Locuințe, în vederea realizării investiţiei „Locuinţe pentru tineri, destinate închirierii”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/202000",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/202000",
      "sha256": null
     }
    ]
@@ -993,6 +1893,51 @@
    ]
   },
   {
+   "slug": "hcl-timis--deta-60-2025",
+   "path": "local/timis/deta/2025/60",
+   "short": "HCL Deta nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 60/2025 privind decontarea navetei cadrelor didactice de la unitățile de învățământ din orașul Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/204953",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/204953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-61-2025",
+   "path": "local/timis/deta/2025/61",
+   "short": "HCL Deta nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 61/2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/204954",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/204954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-62-2025",
+   "path": "local/timis/deta/2025/62",
+   "short": "HCL Deta nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 62/2025 privind scoaterea la licitație în vederea vânzării a proprietății imobiliare (teren), situată în Deta, str. Unirii, nr. 35, înscrisă în CF nr. 400163 cu nr. top 1492-1493/8/a/2/1/2",
+   "url": "https://emol.ro/deta-tm/registru-hcl/204955",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/204955",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--deta-63-2025",
    "path": "local/timis/deta/2025/63",
    "short": "HCL Deta nr. 63/2025",
@@ -1033,6 +1978,36 @@
      "from": "2025-05-19",
      "units": 1,
      "source_url": "https://emol.ro/deta-tm/registru-hcl/204958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-66-2025",
+   "path": "local/timis/deta/2025/66",
+   "short": "HCL Deta nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 66/2025 privind modificarea statului de funcţii prin transformarea postului contractual de execuție de merceolog IA în post contractual de execuție de magaziner debutant la Spitalul Orășenesc Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/204959",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/204959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-67-2025",
+   "path": "local/timis/deta/2025/67",
+   "short": "HCL Deta nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 67/2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/204960",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/204960",
      "sha256": null
     }
    ]
@@ -1083,6 +2058,21 @@
    ]
   },
   {
+   "slug": "hcl-timis--deta-70-2025",
+   "path": "local/timis/deta/2025/70",
+   "short": "HCL Deta nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 70/2025 privind decontarea navetei cadrelor didactice de la unitățile de învățământ din orașul Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/207956",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/207956",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--deta-71-2025",
    "path": "local/timis/deta/2025/71",
    "short": "HCL Deta nr. 71/2025",
@@ -1093,6 +2083,21 @@
      "from": "2025-06-03",
      "units": 1,
      "source_url": "https://emol.ro/deta-tm/registru-hcl/207957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-72-2025",
+   "path": "local/timis/deta/2025/72",
+   "short": "HCL Deta nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 72/2025 privind stabilirea condițiilor de majorare a impozitului pe clădirile și terenurile neîngrijite pe raza Orașului Deta și Opatița pentru anul 2026",
+   "url": "https://emol.ro/deta-tm/registru-hcl/207958",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/207958",
      "sha256": null
     }
    ]
@@ -1128,6 +2133,36 @@
    ]
   },
   {
+   "slug": "hcl-timis--deta-75-2025",
+   "path": "local/timis/deta/2025/75",
+   "short": "HCL Deta nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 75/2025 privind aprobarea cuantumului cotizaţiei ce revine oraşului Deta, pentru anul 2025, ca membru al Asociaţiei Oraşelor din România",
+   "url": "https://emol.ro/deta-tm/registru-hcl/207961",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/207961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-76-2025",
+   "path": "local/timis/deta/2025/76",
+   "short": "HCL Deta nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 76/2025 privind aprobarea cuantumului cotizaţiei ce revine oraşului Deta, pentru anul 2025, ca membru al Asociaţiei pentru Promovarea şi Dezvoltarea Turismului în Timiş",
+   "url": "https://emol.ro/deta-tm/registru-hcl/207962",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/207962",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--deta-77-2025",
    "path": "local/timis/deta/2025/77",
    "short": "HCL Deta nr. 77/2025",
@@ -1138,6 +2173,21 @@
      "from": "2025-06-03",
      "units": 1,
      "source_url": "https://emol.ro/deta-tm/registru-hcl/207963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-78-2025",
+   "path": "local/timis/deta/2025/78",
+   "short": "HCL Deta nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 78/2025 privind atestarea inventarului bunurilor care aparțin domeniului public al Orașului Deta, Județul Timiș",
+   "url": "https://emol.ro/deta-tm/registru-hcl/207964",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/207964",
      "sha256": null
     }
    ]
@@ -1188,6 +2238,141 @@
    ]
   },
   {
+   "slug": "hcl-timis--deta-81-2025",
+   "path": "local/timis/deta/2025/81",
+   "short": "HCL Deta nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 81/2025 privind desemnarea reprezentantului Orașului Deta în Adunarea Generală a Asociației pentru Promovarea și Dezvoltarea Turismului Timiș",
+   "url": "https://emol.ro/deta-tm/registru-hcl/207967",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/207967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-82-2025",
+   "path": "local/timis/deta/2025/82",
+   "short": "HCL Deta nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 82/2025 privind completarea și modificarea Hotărârii Consiliului Local nr. 57 din 08.05.2025 privind aprobarea transmiterii în folosință gratuită a terenului înscris în CF nr. 404062, cu nr. top 404062, în suprafață de 1.428 mp., către Agenția Națională pentru Locuințe în vederea realizării investiției ,,Locuințe pentru tineri, destinate închirierii”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/207968",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/207968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-83-2025",
+   "path": "local/timis/deta/2025/83",
+   "short": "HCL Deta nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 83/2025 privind decontarea navetei cadrelor didactice de la unitățile de învățământ din orașul Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/212811",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/212811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-84-2025",
+   "path": "local/timis/deta/2025/84",
+   "short": "HCL Deta nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 84/2025 privind solicitarea de trecere a unor bunuri imobile din domeniul public al Statului Român aflat în administrarea Direcției pentru Agricultură Județeană Timiș, în domeniul public al Orașului Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/212812",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/212812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-85-2025",
+   "path": "local/timis/deta/2025/85",
+   "short": "HCL Deta nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 85/2025 privind atestarea inventarului bunurilor care aparțin domeniului public al Orașului Deta, Județul Timiș",
+   "url": "https://emol.ro/deta-tm/registru-hcl/212813",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/212813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-86-2025",
+   "path": "local/timis/deta/2025/86",
+   "short": "HCL Deta nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 86/2025 privind aprobarea documentației tehnice pentru prima înscriere - atribuire nr. cad. Nou - str. Elena Ghenescu- Zona 1, amplasament în suprafață măsurată de 2454 mp. compus din: CF nr. 400426 Deta (CF vechi 643 Deta) - parte din nr. top. 28-29/1/1/1/1/1, CF nr. 404084 Deta (CF vechi 9 Deta) - nr. top. 24-25/1/1/1/c și CF nr. 402236 Deta (CF vechi 3007 Deta) nr. top. 22-23/1/1/1/a",
+   "url": "https://emol.ro/deta-tm/registru-hcl/212814",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/212814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-87-2025",
+   "path": "local/timis/deta/2025/87",
+   "short": "HCL Deta nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 87/2025 privind aprobarea documentației tehnice pentru prima înscriere - atribuire nr. cad. nou - str. Elena Ghenescu - Zona 2.1, amplasament în suprafață total măsurată de 1681 mp, compus din: CF nr. 400683 Deta (CF vechi 2567 Deta) – nr. top. 26-27/1/2/1/2, CF nr. 404020 Deta (CF vechi 454 Deta) - nr. top. 26-27/1/2/1/1, CF nr. 405958 Deta (CF vechi 2511 Deta) - parte din nr. top. 28-29/1/4, CF nr. 402609 Deta (CF vechi 596 Deta) – nr. top. 857/4/a/1/3, CF nr. 405947 Deta (CF vechi 2505 Deta) - nr. top. 857/4/a/1/5, CF nr. 405951 Deta (CF vechi 2505 Deta) - nr. top. 857/4/b/6, CF nr. 405957 Deta (CF vechi 2511 Deta) – nr. top. 30-31/a/1/3, CF nr. 405960 Deta (CF vechi 1830 Deta) - nr. top. 857/4/b/4, CF nr. 405952 Deta (CF vechi 2505 Deta) - nr. top. 857/4/b/7 și CF nr. 405953 Deta (CF vechi 2505 Deta) - nr. top. 857/4/c/1/4",
+   "url": "https://emol.ro/deta-tm/registru-hcl/212815",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/212815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-88-2025",
+   "path": "local/timis/deta/2025/88",
+   "short": "HCL Deta nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 88/2025 privind aprobarea documentației tehnice pentru prima înscriere - atribuire nr. cad. - str. Elena Ghenescu - Zona 2.2, imobil în suprafaţă total măsurată de 870 mp identificat cu nr. cadastral: 1065/2, 1023/2, 1068/2, 1069/2",
+   "url": "https://emol.ro/deta-tm/registru-hcl/212816",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/212816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-89-2025",
+   "path": "local/timis/deta/2025/89",
+   "short": "HCL Deta nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 89/2025 privind aprobarea documentației tehnice pentru prima înscriere - atribuire nr. cad. nou - str. Elena Ghenescu- Zona 2.3, amplasament in suprafață totală măsurată de 1850 mp. compus din: CF nr. 404003 Deta (CF vechi 6 Deta) - nr. top. 32-33/3, CF nr. 404001 Deta (CF vechi 2562 Deta) - nr. top. 32-33/2 și CF nr. 403474 Deta (CF vechi 2545 Deta) - nr. top. 30-31/b/2/1/1/1/2",
+   "url": "https://emol.ro/deta-tm/registru-hcl/212817",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/212817",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--deta-9-2025",
    "path": "local/timis/deta/2025/9",
    "short": "HCL Deta nr. 9/2025",
@@ -1198,6 +2383,51 @@
      "from": "2025-02-12",
      "units": 1,
      "source_url": "https://emol.ro/deta-tm/registru-hcl/188655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-90-2025",
+   "path": "local/timis/deta/2025/90",
+   "short": "HCL Deta nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 90/2025 privind constatarea apartenenței la domeniul public al Orasului Deta și completarea inventarului domeniului public corespunzator pentru terenurile situate în Orașul Deta - str. Elena Ghenescu, a imobilului cu nr. cadastral NOU: 1065/2, 1023/2, 1068/2, 1069/2. în suprafață măsurată de 870 mp",
+   "url": "https://emol.ro/deta-tm/registru-hcl/212818",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/212818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-91-2025",
+   "path": "local/timis/deta/2025/91",
+   "short": "HCL Deta nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 91/2025 privind constatarea apartenenței la domeniul public al Orașului Deta și completarea inventarului domeniului public corespunzător pentru terenurile situate în Orașul Deta, str. Elena Ghenescu, înscrise în: CF nr. 405958 Deta, CF nr. 402609 Deta, CF nr. 405947 Deta, CF nr. 405951 Deta, CF nr. 405957 Deta, CF nr. 405960 Deta, CF nr. 405952 Deta. CF nr. 405953 Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/212819",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/212819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-92-2025",
+   "path": "local/timis/deta/2025/92",
+   "short": "HCL Deta nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 92/2025 privind trecerea din domeniul privat al Orașului Deta în domeniul public al Orașului Deta pentru cauză de utilitate publică a terenurilor situate în Orașul Deta str. Elena Ghenescu, înscrise în: CF nr. 404084 Deta, CF nr. 402236 Deta, CF nr. 400683 Deta, CF nr. 404020 Deta, CF nr. 404003 Deta, CF nr. 404001 Deta, CF nr. 403474 Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/212820",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/212820",
      "sha256": null
     }
    ]
@@ -1258,6 +2488,36 @@
      "from": "2025-08-20",
      "units": 1,
      "source_url": "https://emol.ro/deta-tm/registru-hcl/218389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-97-2025",
+   "path": "local/timis/deta/2025/97",
+   "short": "HCL Deta nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 97/2025 privind decontarea navetei cadrelor didactice de la unitățile de învățământ din orașul Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/218390",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/218390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-98-2025",
+   "path": "local/timis/deta/2025/98",
+   "short": "HCL Deta nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 98/2025 privind aprobarea Actului adițional nr. 1 la Acordul de parteneriat nr. 36571/09.12.2022 pentru realizarea Proiectului “Cu bicicleta prin vest – traseu cicloturistic”, din Investiția I.4 – “Implementarea a 3000 km de trasee cicloturistice la nivel național” finanțat din PNRR, Componenta C11 – Turism și Cultură",
+   "url": "https://emol.ro/deta-tm/registru-hcl/218391",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/218391",
      "sha256": null
     }
    ]

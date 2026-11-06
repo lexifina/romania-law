@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-vaslui--balteni-16-2021",
+"path": "local/vaslui/balteni/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 16/2021 PRIVIND INCHIRIEREA UNEI SUPRAFETE DE PASUNE",
+"short": "HCL Bălteni nr. 16/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-07",
+"latest": "2021-04-07",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#2008",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vaslui--balteni-17-2021",
 "path": "local/vaslui/balteni/2021/17",
 "kind": "local",
@@ -132,6 +154,94 @@
 "council_name": "Consiliul Local al Comunei Bălteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--balteni-21-2021",
+"path": "local/vaslui/balteni/2021/21",
+"kind": "local",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 21/2021 PR HOT.19-ALEGERE PRESED DE SEDINTA",
+"short": "HCL Bălteni nr. 21/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-11",
+"latest": "2021-05-11",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#8244",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--balteni-22-2021",
+"path": "local/vaslui/balteni/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 22/2021 PR HOT.20 APROB VANZARE PRIN LICITATIE PUBLICA A UNUI TEREN",
+"short": "HCL Bălteni nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-11",
+"latest": "2021-05-11",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#8245",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--balteni-23-2021",
+"path": "local/vaslui/balteni/2021/23",
+"kind": "local",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 23/2021 PR HOT.21 CONCESIONAREA SERV PUBLIC DE GESTIONARE A CAINILOOR FARA STAPAN",
+"short": "HCL Bălteni nr. 23/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-11",
+"latest": "2021-05-11",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#8246",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--balteni-24-2021",
+"path": "local/vaslui/balteni/2021/24",
+"kind": "local",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 24/2021 PR HOT.22 INCHIRIERE SPATIU DIN DOMENIUL PUBLIC",
+"short": "HCL Bălteni nr. 24/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-11",
+"latest": "2021-05-11",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#8247",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -289,6 +399,50 @@
 }
 },
 {
+"slug": "hcl-vaslui--balteni-32-2021",
+"path": "local/vaslui/balteni/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 32/2021 PR HOT 30 VANZARE TEREN",
+"short": "HCL Bălteni nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-15",
+"latest": "2021-07-15",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11319",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--balteni-33-2021",
+"path": "local/vaslui/balteni/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 33/2021 PR HOT 31 ALEGERE PRESED DE SED",
+"short": "HCL Bălteni nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-27",
+"latest": "2021-08-27",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11333",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vaslui--balteni-34-2021",
 "path": "local/vaslui/balteni/2021/34",
 "kind": "local",
@@ -308,6 +462,50 @@
 "council_name": "Consiliul Local al Comunei Bălteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--balteni-35-2021",
+"path": "local/vaslui/balteni/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 35/2021 PR HOT.35 VANZARE TEREN",
+"short": "HCL Bălteni nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-27",
+"latest": "2021-08-27",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11345",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--balteni-36-2021",
+"path": "local/vaslui/balteni/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 36/2021 PR HOT.36 INCHIRIERE SPATIU",
+"short": "HCL Bălteni nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-27",
+"latest": "2021-08-27",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11357",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -815,6 +1013,29 @@
 "council_name": "Consiliul Local al Comunei Bălteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--balteni-60-2021",
+"path": "local/vaslui/balteni/2021/60",
+"kind": "local",
+"year": "2021",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 60/2021",
+"short": "HCL Bălteni nr. 60/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-13",
+"latest": "2021-12-13",
+"portal": null,
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

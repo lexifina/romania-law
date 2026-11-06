@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/valcea/francesti/2016",
+"acts": [
+{
+"slug": "hcl-valcea--francesti-1-2016",
+"path": "local/valcea/francesti/2016/1",
+"kind": "local",
+"year": "2016",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frâncești nr. 1/2016",
+"short": "HCL Frâncești nr. 1/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-06-27",
+"latest": "2016-06-27",
+"portal": "https://primariafrancesti-valcea.ro/index.php/despre-noi/organizare/consiliul-local/hotarari-ale-consiliului-local/hotarari-legislatura-veche",
+"council": "valcea/francesti",
+"council_name": "Consiliul Local al Comunei Frâncești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-valcea--francesti-2-2016",
+"path": "local/valcea/francesti/2016/2",
+"kind": "local",
+"year": "2016",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frâncești nr. 2/2016",
+"short": "HCL Frâncești nr. 2/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-06-27",
+"latest": "2016-06-27",
+"portal": "https://primariafrancesti-valcea.ro/index.php/despre-noi/organizare/consiliul-local/hotarari-ale-consiliului-local/hotarari-legislatura-veche",
+"council": "valcea/francesti",
+"council_name": "Consiliul Local al Comunei Frâncești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-valcea--francesti-3-2016",
+"path": "local/valcea/francesti/2016/3",
+"kind": "local",
+"year": "2016",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frâncești nr. 3/2016",
+"short": "HCL Frâncești nr. 3/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-06-27",
+"latest": "2016-06-27",
+"portal": "https://primariafrancesti-valcea.ro/index.php/despre-noi/organizare/consiliul-local/hotarari-ale-consiliului-local/hotarari-legislatura-veche",
+"council": "valcea/francesti",
+"council_name": "Consiliul Local al Comunei Frâncești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-valcea--francesti-4-2016",
+"path": "local/valcea/francesti/2016/4",
+"kind": "local",
+"year": "2016",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frâncești nr. 4/2016",
+"short": "HCL Frâncești nr. 4/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-06-27",
+"latest": "2016-06-27",
+"portal": "https://primariafrancesti-valcea.ro/index.php/despre-noi/organizare/consiliul-local/hotarari-ale-consiliului-local/hotarari-legislatura-veche",
+"council": "valcea/francesti",
+"council_name": "Consiliul Local al Comunei Frâncești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-valcea--francesti-5-2016",
+"path": "local/valcea/francesti/2016/5",
+"kind": "local",
+"year": "2016",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frâncești nr. 5/2016",
+"short": "HCL Frâncești nr. 5/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-06-27",
+"latest": "2016-06-27",
+"portal": "https://primariafrancesti-valcea.ro/index.php/despre-noi/organizare/consiliul-local/hotarari-ale-consiliului-local/hotarari-legislatura-veche",
+"council": "valcea/francesti",
+"council_name": "Consiliul Local al Comunei Frâncești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-valcea--francesti-6-2016",
+"path": "local/valcea/francesti/2016/6",
+"kind": "local",
+"year": "2016",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frâncești nr. 6/2016",
+"short": "HCL Frâncești nr. 6/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-06-27",
+"latest": "2016-06-27",
+"portal": "https://primariafrancesti-valcea.ro/index.php/despre-noi/organizare/consiliul-local/hotarari-ale-consiliului-local/hotarari-legislatura-veche",
+"council": "valcea/francesti",
+"council_name": "Consiliul Local al Comunei Frâncești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

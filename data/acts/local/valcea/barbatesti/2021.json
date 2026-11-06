@@ -3,6 +3,28 @@
 "shard": "local/valcea/barbatesti/2021",
 "acts": [
 {
+"slug": "hcl-valcea--barbatesti-46-2021",
+"path": "local/valcea/barbatesti/2021/46",
+"kind": "local",
+"year": "2021",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 46/2021 hcl 33/2021-Incetare mandat consilier",
+"short": "HCL Bărbătești nr. 46/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-05",
+"latest": "2021-08-05",
+"portal": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#1148",
+"council": "valcea/barbatesti",
+"council_name": "Consiliul Local al Comunei Bărbătești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-valcea--barbatesti-54-2021",
 "path": "local/valcea/barbatesti/2021/54",
 "kind": "local",

@@ -23,6 +23,28 @@
 "flags": {
 "text_pending": "source"
 }
+},
+{
+"slug": "hcl-valcea--pietrari-35-2026",
+"path": "local/valcea/pietrari/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 35/2026 Alegerea presedintelui de sedinta pentru luna mai 2026",
+"short": "HCL Pietrari nr. 35/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-21",
+"latest": "2026-05-21",
+"portal": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#123445",
+"council": "valcea/pietrari",
+"council_name": "Consiliul Local al Comunei Pietrari",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

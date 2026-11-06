@@ -3,6 +3,126 @@
  "shard": "local/timis/parta/2025",
  "acts": [
   {
+   "slug": "hcl-timis--parta-100-2025",
+   "path": "local/timis/parta/2025/100",
+   "short": "HCL Parța nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Parța nr. 100/2025 pentru aprobarea devizului general actualizat Realizare trotuare",
+   "url": "https://primariaparta.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://primariaparta.ro/wp-content/uploads/2026/01/HCL-nr.100-din-26.11.2025-pentru-aprobarea-devizului-general-actualizat-Realizare-trotuare.pdf",
+     "sha256": "19f4d7a71b5723742c3a7327f4071315d18835cabf0225703ae72fde0e83a132"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--parta-101-2025",
+   "path": "local/timis/parta/2025/101",
+   "short": "HCL Parța nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Parța nr. 101/2025 privind aprobarea modificarii suprafetei si geometriei unui imobil",
+   "url": "https://primariaparta.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://primariaparta.ro/wp-content/uploads/2026/01/HCL-nr.101-din-26.11.2025-privind-aprobarea-modificarii-suprafetei-si-geometriei-unui-imobil.pdf",
+     "sha256": "a8378704f368d3ef6bf077e66f0e94c54bffba8b0ea6403b6b758d796869fdf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--parta-104-2025",
+   "path": "local/timis/parta/2025/104",
+   "short": "HCL Parța nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Parța nr. 104/2025 pentru aprobarea retelei scolare din UAT Parta pentru anul scolar 2026-2027",
+   "url": "https://primariaparta.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primariaparta.ro/wp-content/uploads/2026/01/HCL-nr.104-din-17.12.2025-pentru-aprobarea-retelei-scolare-din-UAT-Parta-pentru-anul-scolar-2026-2027.pdf",
+     "sha256": "4c96de681247a54ca97276b0eca6d99ca42dc1c64aa321dc3baf74b67d0a310b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--parta-105-2025",
+   "path": "local/timis/parta/2025/105",
+   "short": "HCL Parța nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Parța nr. 105/2025 privind aprobarea devizului general ”Reabilitare moderată cămin”",
+   "url": "https://primariaparta.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primariaparta.ro/wp-content/uploads/2026/01/HCL-nr.105-din-17.12.2025-privind-aprobarea-devizului-general-Reabilitare-moderata-camin.pdf",
+     "sha256": "e012be08bb27666ab54b22a88e1f3a81813f12e06838f556ce8be17b2a224bec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--parta-106-2025",
+   "path": "local/timis/parta/2025/106",
+   "short": "HCL Parța nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Parța nr. 106/2025 pentru aprobarea inscierii in domeniul public aunor imobile",
+   "url": "https://primariaparta.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primariaparta.ro/wp-content/uploads/2026/01/HCL-nr.106-din-17.12.2025-pentru-aprobarea-inscierii-in-domeniul-public-aunor-imobile.pdf",
+     "sha256": "baa72eddb65c431449faff8b7acbd569f3e70418395db96b292dde529471e95b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--parta-111-2025",
+   "path": "local/timis/parta/2025/111",
+   "short": "HCL Parța nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Parța nr. 111/2025 privind aprobare deviz general fina lreabilitare infrastructura rutiera",
+   "url": "https://primariaparta.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primariaparta.ro/wp-content/uploads/2026/01/HCL-nr.111-din-17.12.2025-privind-aprobare-deviz-general-fina-lreabilitare-infrastructura-rutiera.pdf",
+     "sha256": "359d7e604d7f5b2d9fca05c497a0223bdff5f9e75e16de5ee756a714c9716dbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--parta-112-2025",
+   "path": "local/timis/parta/2025/112",
+   "short": "HCL Parța nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Parța nr. 112/2025 pentru aprobarea devizului general final ”Reabilitare drumuri”",
+   "url": "https://primariaparta.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primariaparta.ro/wp-content/uploads/2026/01/HCL-nr.112-din-17.12.2025-pentru-aprobarea-devizului-general-final-Reabilitare-drumuri.pdf",
+     "sha256": "956d8860a2374eafea421f28b00233abce21406290299aa1183a99c22c58f18b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--parta-115-2025",
+   "path": "local/timis/parta/2025/115",
+   "short": "HCL Parța nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Parța nr. 115/2025 privind achizitionarea servicii juridice",
+   "url": "https://primariaparta.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://primariaparta.ro/wp-content/uploads/2026/01/HCL-nr.115-din-30.12.2025-privind-achizitionarea-servicii-juridice.pdf",
+     "sha256": "44b3f9326f45953178d29077bb936d821ca3be5f164b67126cbc2b01c118168c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--parta-116-2025",
    "path": "local/timis/parta/2025/116",
    "short": "HCL Parța nr. 116/2025",
@@ -14,6 +134,141 @@
      "units": 1,
      "source_url": "https://primariaparta.ro/wp-content/uploads/2026/01/HCL-nr.116-din-30.12.2025-pentru-aprobare-tarife-colectare-separata.pdf",
      "sha256": "81d907bbd1598982d7fffc55ff2bff1ebc3ca7cf6aaa1a559bc15b17f47298c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--parta-88-2025",
+   "path": "local/timis/parta/2025/88",
+   "short": "HCL Parța nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Parța nr. 88/2025 privind desemnarea reprezentantului CL în CEAC",
+   "url": "https://primariaparta.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://primariaparta.ro/wp-content/uploads/2025/11/HCL-nr.88-din-29.10.2025-privind-desemnarea-reprezentantului-CL-in-CEAC-.pdf",
+     "sha256": "b8db27196093fb9e9e2bc2f700ca1ff80e65de8395e070e8133c482388fcba74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--parta-89-2025",
+   "path": "local/timis/parta/2025/89",
+   "short": "HCL Parța nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Parța nr. 89/2025 privind efectuarea studiului de oportunitate inchiriere garaj",
+   "url": "https://primariaparta.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://primariaparta.ro/wp-content/uploads/2025/11/HCL-nr.89-din-29.10.2025-privind-efectuarea-studiului-de-oportunitate-inchiriere-garaj.pdf",
+     "sha256": "c76e6a3e2bec3837e9fcb8dbcbec44bf831f00f417f91e3559a010845b2d6c5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--parta-90-2025",
+   "path": "local/timis/parta/2025/90",
+   "short": "HCL Parța nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Parța nr. 90/2025 privind aprbarea cererii pentru plata despagubiri aferente obictiv de investitii",
+   "url": "https://primariaparta.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://primariaparta.ro/wp-content/uploads/2025/11/HCL-nr.90-din-29.10.2025-privind-aprbarea-cererii-pentru-plata-despagubiri-aferente-obictiv-de-investitii.pdf",
+     "sha256": "3c6b316a217f8081c8f878eba1cb34046829c76685cf9c37655ae061172ebf13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--parta-91-2025",
+   "path": "local/timis/parta/2025/91",
+   "short": "HCL Parța nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Parța nr. 91/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectul ”Elaborare în format digita PUG”",
+   "url": "https://primariaparta.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://primariaparta.ro/wp-content/uploads/2025/11/HCL-nr.91-din-29.10.2025-privind-aprobarea-indicatorilor-tehnico-economici-pentru-obiectul-Elaborare-in-format-digita-PUG.pdf",
+     "sha256": "19fdb374509960c5b6acfd8c76f42ce829146ffdc679579896f2dae670bf7e15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--parta-95-2025",
+   "path": "local/timis/parta/2025/95",
+   "short": "HCL Parța nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Parța nr. 95/2025 privind rectificarea bugetului local",
+   "url": "https://primariaparta.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://primariaparta.ro/wp-content/uploads/2025/11/HCL-nr.95-din-03.11.2025-privind-rectificarea-bugetului-local.pdf",
+     "sha256": "3b5cb675a0ec7e1fa3523f22d7219982768aa4cc989183236b023da307c44854"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--parta-96-2025",
+   "path": "local/timis/parta/2025/96",
+   "short": "HCL Parța nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Parța nr. 96/2025 privind acordul consiliului local pentru conversia unui teren in drum de acces",
+   "url": "https://primariaparta.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://primariaparta.ro/wp-content/uploads/2025/11/HCL-nr.96-din-03.11.2025-privind-acordul-consiliului-local-pentru-conversia-unui-teren-in-drum-de-acces.pdf",
+     "sha256": "5d494906a3d329e6fbf0cdd1ab76c482830203f489775d44d9773826a05fb296"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--parta-97-2025",
+   "path": "local/timis/parta/2025/97",
+   "short": "HCL Parța nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Parța nr. 97/2025 pentru aprobarea executiei bugetare la 30.09.2025",
+   "url": "https://primariaparta.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://primariaparta.ro/wp-content/uploads/2026/01/HCL-nr.97-din-26.11.2025-pentru-aprobarea-executiei-bugetare-la-30.09.2025.pdf",
+     "sha256": "6f30d4671c665995381157d4dba2500b9e608e973fb9e7ffc4468b43130eea10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--parta-98-2025",
+   "path": "local/timis/parta/2025/98",
+   "short": "HCL Parța nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Parța nr. 98/2025 privind modificarea numarului asistentilor personali ai persoanelor cu handicap",
+   "url": "https://primariaparta.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://primariaparta.ro/wp-content/uploads/2026/01/HCL-nr.98-din-26.11.2025-privind-modificarea-numarului-asistentilor-personali-ai-persoanelor-cu-handicap.pdf",
+     "sha256": "5d83dafe7fe1aae84b5ec1978d40c365de37ceee4711f50366c926a00cddf646"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--parta-99-2025",
+   "path": "local/timis/parta/2025/99",
+   "short": "HCL Parța nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Parța nr. 99/2025 privind aprobarea devizului general actualizat rest de executat Amenajare parc muzeu",
+   "url": "https://primariaparta.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://primariaparta.ro/wp-content/uploads/2026/01/HCL-nr.99-din-26.11.2025-privind-aprobarea-devizului-general-actualizat-rest-de-executat-Amenajare-parc-muzeu.pdf",
+     "sha256": "1759d5220e06ec444d247b061865471bc39b4d363e0d13f195f9cb3428fa82bb"
     }
    ]
   }

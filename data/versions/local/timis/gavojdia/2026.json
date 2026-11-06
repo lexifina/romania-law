@@ -16,6 +16,36 @@
      "sha256": "8a7c62697d181c1b7e58ace5e54d7bcaeff2bb77b94cc2b7f0734443d1c17d5b"
     }
    ]
+  },
+  {
+   "slug": "hcl-timis--gavojdia-75-2026",
+   "path": "local/timis/gavojdia/2026/75",
+   "short": "HCL Gavojdia nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gavojdia nr. 75/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cfe628ee9eae208f11eba5428ccd0bb4a8a6055e2873d03ef8483f6f961c0f05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--gavojdia-76-2026",
+   "path": "local/timis/gavojdia/2026/76",
+   "short": "HCL Gavojdia nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gavojdia nr. 76/2026 privind reorganizarea și stabilirea numărului de posturi pentru aparatul de specialitate al Primarului comunei Gavojdia și aprobarea organigramei și a statului de funcții Consiliul Local al comunei Găvojdia Având în vedere: - Referatul de aprobare nr. 5655/29.10.2026 al primarului comunei Gavojdia - Raportul de specialitate nr. 5656/29.10.2026 întocmit de secretarul general al unității administrat",
+   "url": "https://comunagavojdia.ro/documente/hotarare-nr-76-din-29-10-2026-reorganizare-si-aprobare-organigrama-si-stat-de-functii/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://comunagavojdia.ro/wp-content/uploads/2026/11/HOTARARE-nr.-76-din-29.10.2026-reorganizare-si-aprobare-organigrama-si-stat-de-functii.pdf",
+     "sha256": "e85ef92e8386cc9fe1b5aa0ce3bf7f238cbb94378c4782debec6e667e2c557e6"
+    }
+   ]
   }
  ]
 }

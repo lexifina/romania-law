@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/timis/peciu-nou/2004",
+ "acts": [
+  {
+   "slug": "hcl-timis--peciu-nou-8-2004",
+   "path": "local/timis/peciu-nou/2004/8",
+   "short": "HCL Peciu Nou nr. 8/2004",
+   "title": "Hotărârea Consiliului Local al Comunei Peciu Nou nr. 8/2004 privind constituirea comisiilor de specialitate ale Consiliului local Peciu Nou, in mandatul 2004-2008",
+   "url": "https://primariapeciunou.ro/comisiile-de-specialitate-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2004-07-02",
+     "units": 1,
+     "source_url": "https://primariapeciunou.ro/templates/default/uploads/files/8-%20Comisii%20de%20specialitate.pdf",
+     "sha256": "c834385069e80ac86f06fc22504afa4f2abaa812d70a51f3937f21c9da1cef4e"
+    }
+   ]
+  }
+ ]
+}

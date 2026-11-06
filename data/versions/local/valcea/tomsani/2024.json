@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-valcea--tomsani-42-2024",
+   "path": "local/valcea/tomsani/2024/42",
+   "short": "HCL Tomșani nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 42/2024 Cu privire la aprobare dezmembrare imobil situat in Comuna Tomșani sat Foleștii de Jos , județul Vâlcea",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#73643",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#73643",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--tomsani-43-2024",
    "path": "local/valcea/tomsani/2024/43",
    "short": "HCL Tomșani nr. 43/2024",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-valcea--tomsani-48-2024",
+   "path": "local/valcea/tomsani/2024/48",
+   "short": "HCL Tomșani nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 48/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--tomsani-49-2024",
    "path": "local/valcea/tomsani/2024/49",
    "short": "HCL Tomșani nr. 49/2024",
@@ -178,6 +208,21 @@
      "from": "2024-04-24",
      "units": 1,
      "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#75094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-51-2024",
+   "path": "local/valcea/tomsani/2024/51",
+   "short": "HCL Tomșani nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 51/2024 privind concesionarea fără licitatie publică a spațiului cu destinația de cabinet stomatologic din incinta Dispensarului medical din localitatea Foleștii de Sus str Principală nr. 18 Comuna Tomșani, județul Vâlcea",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#75944",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#75944",
      "sha256": null
     }
    ]

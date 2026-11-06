@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei I.C. Brătianu nr. 32/2026 privind actualizarea obligatiilor financiare rezultate din Acordul de cooperare privind organizarea si exercitarea actiunilor si activitatilor departamentului Administrativ prin care se asigura satisfacerea nevoilor de utilitate si i 19-06-2026
+
+HCL I.C. Brătianu nr. 32/2026 · 1 versions, from 2026-06-19 (latest in force: 2026-06-19) · <http://www.icbratianu.ro/hotarari_autoritati.php>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-tulcea--i-c-bratianu-32-2026` (tags `hcl-tulcea--i-c-bratianu-32-2026/<day>`; `python tools/on.py <day> hcl-tulcea--i-c-bratianu-32-2026`).
+
+## Decisions made by hand
+
+- HCL I.C. Brătianu nr. 32/2026: listed from Consiliul Local al Comunei I.C. Brătianu (www.icbratianu.ro); an individual decision: metadata only.
+- HCL I.C. Brătianu nr. 32/2026: dated from 19 June 2026, the day it was adopted (the register gives no later day of publication).
+- HCL I.C. Brătianu nr. 32/2026: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

@@ -1,0 +1,96 @@
+{
+"country": "RO",
+"shard": "local/vaslui/dodesti/2025",
+"acts": [
+{
+"slug": "hcl-vaslui--dodesti-8-2025",
+"path": "local/vaslui/dodesti/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 8/2025",
+"short": "HCL Dodești nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": null,
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vaslui--dodesti-18-2025",
+"path": "local/vaslui/dodesti/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 18/2025 privind alegerea preşedintelui de şedinţă pentru lunile: mai, iunie, iulie 2025",
+"short": "HCL Dodești nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#98134",
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--dodesti-41-2025",
+"path": "local/vaslui/dodesti/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 41/2025 privind retragerea dreptului de folosință gratuită asupra unor terenuri aflate în proprietatea privată a comunei Dodești, județul Vaslui transmis în conformitate cu prevederile Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală",
+"short": "HCL Dodești nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#106467",
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--dodesti-42-2025",
+"path": "local/vaslui/dodesti/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 42/2025",
+"short": "HCL Dodești nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": null,
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

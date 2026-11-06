@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/valcea/pietrari/2021",
+"acts": [
+{
+"slug": "hcl-valcea--pietrari-30-2021",
+"path": "local/valcea/pietrari/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 30/2021 30-alegerea presedintelui de sedinta pe o perioada de trei luni",
+"short": "HCL Pietrari nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#2416",
+"council": "valcea/pietrari",
+"council_name": "Consiliul Local al Comunei Pietrari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-valcea--pietrari-43-2021",
+"path": "local/valcea/pietrari/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 43/2021 Alegerea presedintelui de sedinta pe o perioada de trei luni",
+"short": "HCL Pietrari nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#4496",
+"council": "valcea/pietrari",
+"council_name": "Consiliul Local al Comunei Pietrari",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

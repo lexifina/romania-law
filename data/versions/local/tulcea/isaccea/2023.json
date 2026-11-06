@@ -3,6 +3,381 @@
  "shard": "local/tulcea/isaccea/2023",
  "acts": [
   {
+   "slug": "hcl-tulcea--isaccea-143-2023",
+   "path": "local/tulcea/isaccea/2023/143",
+   "short": "HCL Isaccea nr. 143/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 143/2023 privind aprobarea procesului –verbal al ședinței extraordinare de îndată din data de 04.10.2023",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_143.pdf",
+     "sha256": "b587b34d324d810fba2d60e7b3cd7e5ad6ff6542db7c15e681d9d705a32bc37c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-144-2023",
+   "path": "local/tulcea/isaccea/2023/144",
+   "short": "HCL Isaccea nr. 144/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 144/2023 privind aprobarea procesului –verbal al ședinței extraordinare din data de 20.10.2023",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_144.pdf",
+     "sha256": "d624268b3ae3e44a0931122301eccdbfb1ad22a83df5b4258c516b9065379738"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-145-2023",
+   "path": "local/tulcea/isaccea/2023/145",
+   "short": "HCL Isaccea nr. 145/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 145/2023 privind alegerea preşedintelui de şedinţă pentru perioada noiembrie, decembrie 2023 și ianuarie 2024",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_145.pdf",
+     "sha256": "7676859099d60f6cb1551a683aa6e477faaee72fe5604600d373550303f3c81c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-146-2023",
+   "path": "local/tulcea/isaccea/2023/146",
+   "short": "HCL Isaccea nr. 146/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 146/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_146.pdf",
+     "sha256": "009309eabd828765c93df2964b5697f5305445c76eb51577dad451c4ead95b71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-147-2023",
+   "path": "local/tulcea/isaccea/2023/147",
+   "short": "HCL Isaccea nr. 147/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 147/2023 privind continuarea contractului de inchiriere nr. 11722/30.12.2013 prin preluarea de către d-na ………,domiciliată în oraș Isaccea, jud.Tulcea, a obligațiilor contractuale în calitate de locatar începând cu data de 19.10.2023",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_147.pdf",
+     "sha256": "305d7218a8da4781ab6da9303b53602b427485a45f2197da60f876c659ac588b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-148-2023",
+   "path": "local/tulcea/isaccea/2023/148",
+   "short": "HCL Isaccea nr. 148/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 148/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_148.pdf",
+     "sha256": "36b79d89ea428fbb666710f5c92c27d8509f33354b274ea4aacfd80b0a42dd80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-149-2023",
+   "path": "local/tulcea/isaccea/2023/149",
+   "short": "HCL Isaccea nr. 149/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 149/2023 privind aprobarea repartizării unei locuințe ANL-vacantă, situată in ors.Isaccea, jud.Tulcea, d-nei………………………",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_149.pdf",
+     "sha256": "c6e4035730ffeb4f08e1533de484b5c7228fc0597062430ab6993daae722c08d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-150-2023",
+   "path": "local/tulcea/isaccea/2023/150",
+   "short": "HCL Isaccea nr. 150/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 150/2023 privind aprobarea Planului operativ de actiune pe timpul iernii in perioada 2023-2024 în orașul Isaccea, județul Tulcea",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_150.pdf",
+     "sha256": "a2d68db47ef6856e300d9025ee53c4f5a7bdb7ca712a4c289a400d9374e78bce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-151-2023",
+   "path": "local/tulcea/isaccea/2023/151",
+   "short": "HCL Isaccea nr. 151/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 151/2023 privind inventarierea imobilului apartament situat în str",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_151.pdf",
+     "sha256": "3c4c372e9e4aae3f17f93ae31e4ebaddc632cf92593567c201039f62bc09b5a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-153-2023",
+   "path": "local/tulcea/isaccea/2023/153",
+   "short": "HCL Isaccea nr. 153/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 153/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_153.pdf",
+     "sha256": "69815cb19d057691a73acb25a945889552ed99831097286a9a70e1c18794a483"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-154-2023",
+   "path": "local/tulcea/isaccea/2023/154",
+   "short": "HCL Isaccea nr. 154/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 154/2023 privind neexercitarea dreptului de preemțiune cu privire la suprafața totală de 1,00 ha, teren situat în extravilanul orașului Isaccea, tarla 84, parcela A 1189/1, NC/CF 32218, conform Legii nr.422/2001",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_154.pdf",
+     "sha256": "76005cfcc18df4bbf7fd6bb865b6062c0d4cb3d36c3083766a6c55e96677cc5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-155-2023",
+   "path": "local/tulcea/isaccea/2023/155",
+   "short": "HCL Isaccea nr. 155/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 155/2023 privind alipirea a 11 imobile, proprietate a orașului Isaccea , având NC/CF: 32311, 32425, 32428, 32431, 32433, 32446, 32497, 32536, 32537, 32538, 32539 rezultând imobilul cu NC 36324 cu suprafața totală de 67721 mp",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_155_merged_1.pdf",
+     "sha256": "836b86f9567387b2152d4cf889e6e58ed2ee2a8b7b81527fc23ac16e7eee08f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-157-2023",
+   "path": "local/tulcea/isaccea/2023/157",
+   "short": "HCL Isaccea nr. 157/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 157/2023 privind aprobarea modificării Organigramei și a Statului de Funcții din aparatul de specialitate al Primarului Orașului Isaccea",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/hcl157o.pdf",
+     "sha256": "a46478a41c8f4003a2684445b8f4fb98d568618af6593df4f92763fd27070b0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-159-2023",
+   "path": "local/tulcea/isaccea/2023/159",
+   "short": "HCL Isaccea nr. 159/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 159/2023 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții “Imbunatatirea izolatiei termice si hidroizolarea anvelopei blocului de locuinte nr. 32 si blocului de locuinte nr. 60 din orasul Isaccea, judetul Tulcea”",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_159_merged_1.pdf",
+     "sha256": "7fc1e383357c9fd85ab2ed68027f860d8477d125a752918e336f5a3268f5d583"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-162-2023",
+   "path": "local/tulcea/isaccea/2023/162",
+   "short": "HCL Isaccea nr. 162/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 162/2023 privind acordarea unui ajutor de urgență",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_162.pdf",
+     "sha256": "64ad45acb5164e13d004dd8756dc9b72e4e2a59ce65884b65a243934b0c29c5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-163-2023",
+   "path": "local/tulcea/isaccea/2023/163",
+   "short": "HCL Isaccea nr. 163/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 163/2023 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici conform devizului general , aferent obiectivului de investiții , , Amenajare și sistematizare pe verticală a terenului aferent Complexului de servicii sociale Revărsarea”",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/hcl163b_compressed.pdf",
+     "sha256": "718b7d96b0e5b57493ddbd190bba2cb305e7da4f9e656485b02a8be41c776d86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-164-2023",
+   "path": "local/tulcea/isaccea/2023/164",
+   "short": "HCL Isaccea nr. 164/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 164/2023 privind aprobarea procesului –verbal al ședinței ordinare din data de 31.10.2023",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_164.pdf",
+     "sha256": "3d4e5bc4dffc55874309fefd611f12588b3323dcb71f189a4223eeee081b9f32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-165-2023",
+   "path": "local/tulcea/isaccea/2023/165",
+   "short": "HCL Isaccea nr. 165/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 165/2023 privind aprobarea procesului –verbal al ședinței extraordinare de îndată din data de 08.11.2023",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_165.pdf",
+     "sha256": "3b5abd84f15cb97f15aad16be74115970a4f1c6327ff3eb2901978befa71db6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-171-2023",
+   "path": "local/tulcea/isaccea/2023/171",
+   "short": "HCL Isaccea nr. 171/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 171/2023 privind aprobarea rectificării bugetului de venituri și cheltuieli al oraşului Isaccea, judeţul Tulcea pe anul 2023",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_171b.pdf",
+     "sha256": "76b9df16f7c8eb5a98e3a26898441bb79c2ebc2b97c61ec4d3e6d33eadaaf1b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-172-2023",
+   "path": "local/tulcea/isaccea/2023/172",
+   "short": "HCL Isaccea nr. 172/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 172/2023 privind aprobarea contului de executie al bugetului local oras Isaccea, pe trimestrul III, an 2023",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/hcl_172b.pdf",
+     "sha256": "f512b18d766a19a0fc4db68d47a802a92e3acbb6e918028403d5b959235b2fe8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-173-2023",
+   "path": "local/tulcea/isaccea/2023/173",
+   "short": "HCL Isaccea nr. 173/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 173/2023 privind aprobarea contului de executie al bugetului creditelor interne al orașului Isaccea, pe trimestrul III, al anului bugetar 2023",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/hcl_173b.pdf",
+     "sha256": "468fb6c58eab080d3e5c927c49eb91d41a3be0dae6eece4612d42807612a00ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-174-2023",
+   "path": "local/tulcea/isaccea/2023/174",
+   "short": "HCL Isaccea nr. 174/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 174/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL174_.pdf",
+     "sha256": "c3376df3acfe505f156f5c22f0d676cc1f3bf427f3c85ceacef17c1d2d08358c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-175-2023",
+   "path": "local/tulcea/isaccea/2023/175",
+   "short": "HCL Isaccea nr. 175/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 175/2023 privind aprobarea inventarierii imobilelor cu NC/CF 35592;35770; 35771; 35778; 35779; 35913 in domeniul privat al orașului Isaccea",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/hcl175b.pdf",
+     "sha256": "27934b8e1af8c80b68af19e7c91a5a6f6bff6eaf5e1783466b93794baba2e91a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-186-2023",
+   "path": "local/tulcea/isaccea/2023/186",
+   "short": "HCL Isaccea nr. 186/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 186/2023 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții „Înființare capacități noi de producere a energiei electrice pentru autoconsum în oraș Isaccea”",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_186.pdf",
+     "sha256": "2ed1fdfd5b381a5af3f8477fa2adee1be8e05872e41b7917e6ef032df3e6ce59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-187-2023",
+   "path": "local/tulcea/isaccea/2023/187",
+   "short": "HCL Isaccea nr. 187/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 187/2023 privind aprobarea rectificării bugetului de venituri și cheltuieli al oraşului Isaccea, judeţul Tulcea pe anul 2023",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/hcl187.pdf",
+     "sha256": "2d161443ed8edcc5f0820c08490df9d43dc5f3ff6bc92b93259cd8172fb6945e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--isaccea-188-2023",
    "path": "local/tulcea/isaccea/2023/188",
    "short": "HCL Isaccea nr. 188/2023",
@@ -14,6 +389,81 @@
      "units": 1,
      "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_188.pdf",
      "sha256": "d4b034e5ea0ba8e10d38cedeede782deb9bdcd4c51b93e1605bcc9071ab17b40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-189-2023",
+   "path": "local/tulcea/isaccea/2023/189",
+   "short": "HCL Isaccea nr. 189/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 189/2023 privind acordarea unui mandat special reprezentantului U.A.T.Oraș ISACCEA în Adunarea Generală a ”Asociației de Dezvoltare Intercomunitară a Infrastructurii de Deșeuri Menajere” Tulcea",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL189.pdf",
+     "sha256": "9c89877f40c4c6fb93b28b9e36ae3b4b49bd8797e5567ce5fb784d14ce47abf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-190-2023",
+   "path": "local/tulcea/isaccea/2023/190",
+   "short": "HCL Isaccea nr. 190/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 190/2023 privind modificarea art.1 din HCL nr. 100/29.06.2023 privind neexercitarea dreptului de preempțiune cu privire la suprafața totală de 1,00 ha, teren situat în extravilanul orașului Isaccea, tarla 84, parcela A 1189/1, NC/CF 32224, conform Legii nr.422/2001",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_190.pdf",
+     "sha256": "64a7cc3653c27bf72fb9276fa8bb875bb9a85a1e556887be5c38d26d366da013"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-191-2023",
+   "path": "local/tulcea/isaccea/2023/191",
+   "short": "HCL Isaccea nr. 191/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 191/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_191.pdf",
+     "sha256": "8ed8253a716cde3ad19221062ed0ea6579960ee5f12dd295a141d6ed62579571"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-192-2023",
+   "path": "local/tulcea/isaccea/2023/192",
+   "short": "HCL Isaccea nr. 192/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 192/2023 privind aprobarea rectificării bugetului de venituri și cheltuieli al oraşului Isaccea, judeţul Tulcea pe anul 2023",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/hcl192.pdf",
+     "sha256": "cd1d360d6d3a5b1189e79303cd51f4d3cb7ae4580c68bc8509fef4cdbb6f2a0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-196-2023",
+   "path": "local/tulcea/isaccea/2023/196",
+   "short": "HCL Isaccea nr. 196/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 196/2023 privind inchirierea imobilelor situate în str.Livezii aparținând domeniului privat al orașului Isaccea",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_196.pdf",
+     "sha256": "2b128695d943c99e53224fe7a9ada29505c7e7762b77fcc48f9037c65c75a9ce"
     }
    ]
   }

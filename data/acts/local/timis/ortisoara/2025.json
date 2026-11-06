@@ -3,6 +3,117 @@
 "shard": "local/timis/ortisoara/2025",
 "acts": [
 {
+"slug": "hcl-timis--ortisoara-55-2025",
+"path": "local/timis/ortisoara/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Orțișoara nr. 55/2025 Privind aprobarea reactualizarii Planului de analiza si acoperire a riscurilor in domeniul sittuatiilor de urgenta pentru anul 2025 Consiliul Local al comunei Ortisoara intrunit in sedinta extraordinara , Având în vedere: -Referatul de aprobare nr.4535/04.07.2025 al Primarului UAT Ortisoara, -Raportul de specialitate nr.3851/04.06.2025 intocmit de catre Sef SVSU, -Avizul favorabil al comisiei de s",
+"short": "HCL Orțișoara nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-10",
+"latest": "2025-07-10",
+"portal": "https://primariaortisoara.ro/wp-content/uploads/2025/08/HCL-NR.55-REACTUALIZARE-RISCURI.pdf",
+"council": "timis/ortisoara",
+"council_name": "Consiliul Local al Comunei Orțișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--ortisoara-56-2025",
+"path": "local/timis/ortisoara/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Orțișoara nr. 56/2025 PRIVIND REORGANIZAREA SVSU ORTISOARA",
+"short": "HCL Orțișoara nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-17",
+"latest": "2025-07-17",
+"portal": "https://primariaortisoara.ro/wp-content/uploads/2025/08/HCL-NR.56-PRIVIND-REORGANIZAREA-SVSU-ORTISOARA.pdf",
+"council": "timis/ortisoara",
+"council_name": "Consiliul Local al Comunei Orțișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--ortisoara-58-2025",
+"path": "local/timis/ortisoara/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Orțișoara nr. 58/2025 Privind aprobarea alegerii Președintelui de sedință Consiliul local al comunei Orțișoara jud",
+"short": "HCL Orțișoara nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-05",
+"latest": "2025-08-05",
+"portal": "https://primariaortisoara.ro/wp-content/uploads/2025/09/HOTARAREA-58-ALEGERE-PRESEDINTE-SEDINTA-1.pdf",
+"council": "timis/ortisoara",
+"council_name": "Consiliul Local al Comunei Orțișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--ortisoara-59-2025",
+"path": "local/timis/ortisoara/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Orțișoara nr. 59/2025 privind modificarea sau completarea1 Acordului de cooperare privind organizarea și exercitarea unor activități necesare comunei Orțișoara, în scopul realizării unor atribuții stabilite prin lege autorităților administrației publice locale, nr. 39/ 29.06.2022, prin Act Adițional Ținând seama de faptul că obținerea eficienței și eficacității serviciilor publice reprezintă o condiție esențială a mana",
+"short": "HCL Orțișoara nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-05",
+"latest": "2025-08-05",
+"portal": "https://primariaortisoara.ro/wp-content/uploads/2025/09/Hotararea-59-CL-de-modificare-completare-a-Acordului-de-cooperare-01.08.2025.pdf",
+"council": "timis/ortisoara",
+"council_name": "Consiliul Local al Comunei Orțișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--ortisoara-86-2025",
+"path": "local/timis/ortisoara/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Orțișoara nr. 86/2025",
+"short": "HCL Orțișoara nr. 86/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": null,
+"council": "timis/ortisoara",
+"council_name": "Consiliul Local al Comunei Orțișoara",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-timis--ortisoara-90-2025",
 "path": "local/timis/ortisoara/2025/90",
 "kind": "local",

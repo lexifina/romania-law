@@ -3,6 +3,28 @@
 "shard": "local/valcea/malaia/2025",
 "acts": [
 {
+"slug": "hcl-valcea--malaia-28-2025",
+"path": "local/valcea/malaia/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malaia nr. 28/2025",
+"short": "HCL Malaia nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-26",
+"latest": "2025-03-26",
+"portal": "https://primariamalaiavl.ro/wp-content/uploads/2026/04/Hotararea-nr.-28-din-26.03.2025-privind-aprobarea-regulamentului-actualizat-si-completat-de-organizare-si-functionare-al-aparatului-de-specialitate.pdf",
+"council": "valcea/malaia",
+"council_name": "Consiliul Local al Comunei Malaia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-valcea--malaia-57-2025",
 "path": "local/valcea/malaia/2025/57",
 "kind": "local",

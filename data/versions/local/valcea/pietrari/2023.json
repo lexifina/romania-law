@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/pietrari/2023",
+ "acts": [
+  {
+   "slug": "hcl-valcea--pietrari-59-2023",
+   "path": "local/valcea/pietrari/2023/59",
+   "short": "HCL Pietrari nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 59/2023 Alegerea președintelui de ședință pe o perioadă de trei luni",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#58892",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#58892",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

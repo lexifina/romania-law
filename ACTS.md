@@ -23284,7 +23284,7 @@
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
 | Government decisions (HG) | 42021 | [`data/acts/hg/`](data/acts/hg/) |
-| Ministerial and authority orders (ordine) | 40493 | [`data/acts/ordin/`](data/acts/ordin/) |
+| Ministerial and authority orders (ordine) | 40494 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 1540 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 1261 | [`data/acts/regulament/`](data/acts/regulament/) |
 | Instructions (instrucțiuni) | 381 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
@@ -23311,4 +23311,4 @@
 | Treaties and international agreements (texts published with their ratifying act) | 2579 | [`data/acts/tratat/`](data/acts/tratat/) |
 | Public procurement complaints council decisions (CNSC) | 2717 | [`data/acts/cnsc/`](data/acts/cnsc/) |
 | Lower-court decisions published in the Monitorul Oficial (courts of appeal, tribunals): annulments of normative acts and other rulings | 528 | [`data/acts/instante/`](data/acts/instante/) |
-| Local acts (decisions of local and county councils) | 168296 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 171296 | [`data/acts/local/`](data/acts/local/) |

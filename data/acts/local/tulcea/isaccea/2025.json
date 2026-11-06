@@ -3,6 +3,28 @@
 "shard": "local/tulcea/isaccea/2025",
 "acts": [
 {
+"slug": "hcl-tulcea--isaccea-22-2025",
+"path": "local/tulcea/isaccea/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 22/2025 privind propunerea de initiere a unui proiect de hotărâre pentru aprobarea procesului–verbal nr. 4674/14.02.2025, a listelor solicitanților cu acces/neacces la locuințele ANL și a listei privind ordinea de prioritate a solicitanților cu drept de acces la locuințele ANL Consiliul Local al ORAȘULUI ISACCEA, județul Tulcea, legal constituit, întrunit în ședința ordinară în data de 28.02.2025, ora pre",
+"short": "HCL Isaccea nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://isaccea.ro/wp-content/uploads/2025/03/HCL-nr-22.pdf",
+"council": "tulcea/isaccea",
+"council_name": "Consiliul Local al Orașului Isaccea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-tulcea--isaccea-42-2025",
 "path": "local/tulcea/isaccea/2025/42",
 "kind": "local",
@@ -22,6 +44,28 @@
 "council_name": "Consiliul Local al Orașului Isaccea",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--isaccea-129-2025",
+"path": "local/tulcea/isaccea/2025/129",
+"kind": "local",
+"year": "2025",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 129/2025 privind propunerea de initiere a unui proiect de hotărâre pentru aprobarea procesului–verbal nr. 2062 / 20180/ 25.11.2025 , a listelor solicitanților cu acces/neacces la locuințele ANL și lista privind ordinea de prioritate a cererilor cu drept de access la locuințele A.N.L",
+"short": "HCL Isaccea nr. 129/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://isaccea.ro/wp-content/uploads/2025/11/HCL-129_merged.pdf",
+"council": "tulcea/isaccea",
+"council_name": "Consiliul Local al Orașului Isaccea",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/francesti/2016",
+ "acts": [
+  {
+   "slug": "hcl-valcea--francesti-1-2016",
+   "path": "local/valcea/francesti/2016/1",
+   "short": "HCL Frâncești nr. 1/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Frâncești nr. 1/2016",
+   "url": "https://primariafrancesti-valcea.ro/index.php/despre-noi/organizare/consiliul-local/hotarari-ale-consiliului-local/hotarari-legislatura-veche",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://primariafrancesti-valcea.ro/upload/hotarari_leg_veche/Hotararea%20nr.%201%20-%202016.pdf",
+     "sha256": "b7aaacc4c6e433b84c1ad3ac148e1d58a6eda19a490cca893006b0a784a06e52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--francesti-2-2016",
+   "path": "local/valcea/francesti/2016/2",
+   "short": "HCL Frâncești nr. 2/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Frâncești nr. 2/2016",
+   "url": "https://primariafrancesti-valcea.ro/index.php/despre-noi/organizare/consiliul-local/hotarari-ale-consiliului-local/hotarari-legislatura-veche",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://primariafrancesti-valcea.ro/upload/hotarari_leg_veche/Hotararea%20nr.%202%20-%202016.pdf",
+     "sha256": "4e0cf78d8633670a48b3ba6dcfaf05ded80fe02adeb49cc0babc79db04b2c8d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--francesti-3-2016",
+   "path": "local/valcea/francesti/2016/3",
+   "short": "HCL Frâncești nr. 3/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Frâncești nr. 3/2016",
+   "url": "https://primariafrancesti-valcea.ro/index.php/despre-noi/organizare/consiliul-local/hotarari-ale-consiliului-local/hotarari-legislatura-veche",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://primariafrancesti-valcea.ro/upload/hotarari_leg_veche/Hotararea%20nr.%203%20-%202016.pdf",
+     "sha256": "7c0b1f40196ae6ee17270f1b561af4dd181e8c5c9d3f1f4cbc70d84bb1f02127"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--francesti-4-2016",
+   "path": "local/valcea/francesti/2016/4",
+   "short": "HCL Frâncești nr. 4/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Frâncești nr. 4/2016",
+   "url": "https://primariafrancesti-valcea.ro/index.php/despre-noi/organizare/consiliul-local/hotarari-ale-consiliului-local/hotarari-legislatura-veche",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://primariafrancesti-valcea.ro/upload/hotarari_leg_veche/Hotararea%20nr.%204%20-%202016.pdf",
+     "sha256": "27232c27f13d1b6d2a466d5cd56c57153e6b20b489e4583b99e08c6b30fe1b41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--francesti-5-2016",
+   "path": "local/valcea/francesti/2016/5",
+   "short": "HCL Frâncești nr. 5/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Frâncești nr. 5/2016",
+   "url": "https://primariafrancesti-valcea.ro/index.php/despre-noi/organizare/consiliul-local/hotarari-ale-consiliului-local/hotarari-legislatura-veche",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://primariafrancesti-valcea.ro/upload/hotarari_leg_veche/Hotararea%20nr.%205%20-%202016.pdf",
+     "sha256": "9d0ad7e767e9aa5faa002906e100d317d506114116e61e101404576a37985e97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--francesti-6-2016",
+   "path": "local/valcea/francesti/2016/6",
+   "short": "HCL Frâncești nr. 6/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Frâncești nr. 6/2016",
+   "url": "https://primariafrancesti-valcea.ro/index.php/despre-noi/organizare/consiliul-local/hotarari-ale-consiliului-local/hotarari-legislatura-veche",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://primariafrancesti-valcea.ro/upload/hotarari_leg_veche/Hotararea%20nr.%206%20-%202016.pdf",
+     "sha256": "c0e5ff33b0b981da5431789354235470fb218d5e6ae89881e1e9ffddc35a55a1"
+    }
+   ]
+  }
+ ]
+}

@@ -16,6 +16,36 @@
      "sha256": "b9471e0bcc853dee799706415a53c0f120dac76de1be3bf93a1239e4af365264"
     }
    ]
+  },
+  {
+   "slug": "hcl-timis--ortisoara-15-2026",
+   "path": "local/timis/ortisoara/2026/15",
+   "short": "HCL Orțișoara nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Orțișoara nr. 15/2026 privind darea în administrare și exploatarea serviciului public de interes local cu personalitate juridică și a sistemelor de alimentare cu apă și canalizare către „Consiliul local al Comunei Orțișoara –SERVICIUL APĂ”, înființat și organizat în subordinea Consiliului local al comunei Orțișoara, județul Timiș Consiliul Local al comunei Orțișoara, întrunit în Ședința Ordinară din data de 07.04.2026",
+   "url": "https://primariaortisoara.ro/wp-content/uploads/2026/04/HCL-nr.15-07.04.2026-Darea-in-administrare-serviciu-si-Contract-cadru-Apa.pdf",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://primariaortisoara.ro/wp-content/uploads/2026/04/HCL-nr.15-07.04.2026-Darea-in-administrare-serviciu-si-Contract-cadru-Apa.pdf",
+     "sha256": "2641128bb8d2bb70e51dc1c5c48b17bab976cc4ccf117f48289a5f7f2bfc48b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ortisoara-6-2026",
+   "path": "local/timis/ortisoara/2026/6",
+   "short": "HCL Orțișoara nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Orțișoara nr. 6/2026 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici/ indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiții „Sisteme de Alimentare cu Apă în Comuna Orțișoara, jud.Timiș” aprobat pentru finanțare prin Programul național de investiții „Anghel Salign",
+   "url": "https://primariaortisoara.ro/wp-content/uploads/2026/04/HOTARARE-NR.06-26.02.2026-Aprobare-indicatori-teh-ec-si-a-DG-Sisteme-de-alimentare-cu-apa-Anghel-Saligny.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaortisoara.ro/wp-content/uploads/2026/04/HOTARARE-NR.06-26.02.2026-Aprobare-indicatori-teh-ec-si-a-DG-Sisteme-de-alimentare-cu-apa-Anghel-Saligny.pdf",
+     "sha256": "044a1c53c8d6138bb26e2e8786c297fb4cac5d52b1d663356e2a5ed3932fcba4"
+    }
+   ]
   }
  ]
 }

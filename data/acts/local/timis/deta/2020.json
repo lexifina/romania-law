@@ -25,6 +25,96 @@
 }
 },
 {
+"slug": "hcl-timis--deta-2-2020",
+"path": "local/timis/deta/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 2/2020 privind scoaterea din funcţiune în vederea valorificării şi casării a bunurilor mijloace fixe și obiecte de inventar care aparțin patrimoniului privat al Orașului Deta",
+"short": "HCL Deta nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-28",
+"latest": "2020-01-28",
+"portal": "https://emol.ro/deta-tm/registru-hcl/9954",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-3-2020",
+"path": "local/timis/deta/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 3/2020",
+"short": "HCL Deta nr. 3/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-28",
+"latest": "2020-01-28",
+"portal": "https://emol.ro/deta-tm/registru-hcl/9955",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--deta-4-2020",
+"path": "local/timis/deta/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 4/2020 privind radierea poziţiei nr. 37 din “Inventarul bunurilor care aparţin domeniului public al oraşului Deta” însuşit prin Hotărârea Consiliului local al oraşului Deta nr. 13/5.03.2002, cu modificările și completările ulterioare",
+"short": "HCL Deta nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-28",
+"latest": "2020-01-28",
+"portal": "https://emol.ro/deta-tm/registru-hcl/9956",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-5-2020",
+"path": "local/timis/deta/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 5/2020",
+"short": "HCL Deta nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-28",
+"latest": "2020-01-28",
+"portal": "https://emol.ro/deta-tm/registru-hcl/9957",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-timis--deta-6-2020",
 "path": "local/timis/deta/2020/6",
 "kind": "local",
@@ -69,6 +159,28 @@
 }
 },
 {
+"slug": "hcl-timis--deta-8-2020",
+"path": "local/timis/deta/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 8/2020 privind repartizarea locuinţei situate în oraşul Deta, str. Pădurii, nr.13 A, ap.11, cu două camere, construită pentru tineri, destinată închirierii, realizată de către Agenţia Naţională pentru Locuinţe",
+"short": "HCL Deta nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-28",
+"latest": "2020-01-28",
+"portal": "https://emol.ro/deta-tm/registru-hcl/9960",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-timis--deta-9-2020",
 "path": "local/timis/deta/2020/9",
 "kind": "local",
@@ -88,6 +200,28 @@
 "council_name": "Consiliul Local al Orașului Deta",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--deta-10-2020",
+"path": "local/timis/deta/2020/10",
+"kind": "local",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 10/2020 privind aprobarea Planului anual de acţiune privind serviciile sociale administrate şi finanţate din bugetul Consiliului local al oraşului Deta pentru anul 2020",
+"short": "HCL Deta nr. 10/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-28",
+"latest": "2020-01-28",
+"portal": "https://emol.ro/deta-tm/registru-hcl/9962",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +269,51 @@
 }
 },
 {
+"slug": "hcl-timis--deta-13-2020",
+"path": "local/timis/deta/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 13/2020",
+"short": "HCL Deta nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-28",
+"latest": "2020-01-28",
+"portal": "https://emol.ro/deta-tm/registru-hcl/9965",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--deta-14-2020",
+"path": "local/timis/deta/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 14/2020 privind utilizarea excedentului bugetului local pe anul 2019, în sumă de 567,00 mii lei, pentru finanţarea investiţiei Îmbunătățirea infrastructurii pentru creșterea mobilității urbane str. Mihai Viteazu și str. Revoluției - lucrări complementare”",
+"short": "HCL Deta nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-13",
+"latest": "2020-02-13",
+"portal": "https://emol.ro/deta-tm/registru-hcl/9971",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-timis--deta-15-2020",
 "path": "local/timis/deta/2020/15",
 "kind": "local",
@@ -154,6 +333,51 @@
 "council_name": "Consiliul Local al Orașului Deta",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--deta-16-2020",
+"path": "local/timis/deta/2020/16",
+"kind": "local",
+"year": "2020",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 16/2020 privind aprobarea situaţiei financiare pe anul 2019",
+"short": "HCL Deta nr. 16/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10198",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-17-2020",
+"path": "local/timis/deta/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 17/2020",
+"short": "HCL Deta nr. 17/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10199",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -202,6 +426,248 @@
 }
 },
 {
+"slug": "hcl-timis--deta-20-2020",
+"path": "local/timis/deta/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 20/2020 privind aprobarea cuantumului cotizaţiei ce revine Oraşului Deta, pentru anul 2020, ca membru al Asociaţiei de Dezvoltare Intercomunitară Apă-Canal Timiş",
+"short": "HCL Deta nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10202",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-21-2020",
+"path": "local/timis/deta/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 21/2020 privind aprobarea cuantumului cotizaţiei ce revine oraşului Deta, pentru anul 2020, ca membru al Asociaţiei de Dezvoltare Intercomunitară Deşeuri Timiş (ADID)",
+"short": "HCL Deta nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10203",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-22-2020",
+"path": "local/timis/deta/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 22/2020 privind aprobarea cuantumului cotizaţiei ce revine oraşului Deta, pentru anul 2020, ca membru al Asociaţiei Oraşelor din România (AOR)",
+"short": "HCL Deta nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10204",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-23-2020",
+"path": "local/timis/deta/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 23/2020 privind aprobarea cuantumului cotizaţiei ce revine oraşului Deta, pentru anul 2020, ca membru al Asociaţiei Comunelor din România (ACOR)",
+"short": "HCL Deta nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10205",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-24-2020",
+"path": "local/timis/deta/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 24/2020 privind aprobarea cuantumului și plății cotizaţiei anuale către Asociaţia de Dezvoltare Intercomunitară „Distribuție Gaz Timiș Sud” pentru anul 2020",
+"short": "HCL Deta nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10206",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-25-2020",
+"path": "local/timis/deta/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 25/2020 privind aprobarea cuantumului cotizaţiei ce revine Oraşului Deta, pentru anul 2020, ca membru al Asociaţiei Timiş Torontal",
+"short": "HCL Deta nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10207",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-26-2020",
+"path": "local/timis/deta/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 26/2020 privind aprobarea cuantumului cotizaţiei ce revine Oraşului Deta, pentru anul 2020, ca membru al Asociaţiei Timiş Torontal Bârzava",
+"short": "HCL Deta nr. 26/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10208",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-27-2020",
+"path": "local/timis/deta/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 27/2020 privind aprobarea cuantumului cotizaţiei ce revine oraşului Deta, pentru anul 2020, ca membru al Asociaţiei pentru Promovarea şi Dezvoltarea Turismului în Timiş",
+"short": "HCL Deta nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10209",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-28-2020",
+"path": "local/timis/deta/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 28/2020 privind aprobarea cuantumului cotizaţiei ce revine oraşului Deta, pentru anul 2020, ca membru al Grupării Economice de Cooperare Teritorială (GECT) Banat –Triplex Confinium",
+"short": "HCL Deta nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10210",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-29-2020",
+"path": "local/timis/deta/2020/29",
+"kind": "local",
+"year": "2020",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 29/2020 privind aprobarea cuantumului cotizaţiei ce revine oraşului Deta, pentru anul 2020, ca membru al Patronatului Serviciilor Publice",
+"short": "HCL Deta nr. 29/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10211",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-30-2020",
+"path": "local/timis/deta/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 30/2020 privind stabilirea modului de întocmire și ținere la zi a Registrului agricol al orașului Deta și satului Opatița pentru perioada 2020-2024",
+"short": "HCL Deta nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10212",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-timis--deta-31-2020",
 "path": "local/timis/deta/2020/31",
 "kind": "local",
@@ -221,6 +687,29 @@
 "council_name": "Consiliul Local al Orașului Deta",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--deta-32-2020",
+"path": "local/timis/deta/2020/32",
+"kind": "local",
+"year": "2020",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 32/2020",
+"short": "HCL Deta nr. 32/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10214",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -246,6 +735,75 @@
 }
 },
 {
+"slug": "hcl-timis--deta-34-2020",
+"path": "local/timis/deta/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 34/2020",
+"short": "HCL Deta nr. 34/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10216",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--deta-35-2020",
+"path": "local/timis/deta/2020/35",
+"kind": "local",
+"year": "2020",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 35/2020",
+"short": "HCL Deta nr. 35/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10217",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--deta-36-2020",
+"path": "local/timis/deta/2020/36",
+"kind": "local",
+"year": "2020",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 36/2020",
+"short": "HCL Deta nr. 36/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10218",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-timis--deta-37-2020",
 "path": "local/timis/deta/2020/37",
 "kind": "local",
@@ -265,6 +823,28 @@
 "council_name": "Consiliul Local al Orașului Deta",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--deta-38-2020",
+"path": "local/timis/deta/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 38/2020 privind modificarea, completarea și radierea unor poziții din inventarului bunurilor care aparţin domeniului public al oraşului Deta",
+"short": "HCL Deta nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10220",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -312,6 +892,117 @@
 }
 },
 {
+"slug": "hcl-timis--deta-41-2020",
+"path": "local/timis/deta/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 41/2020",
+"short": "HCL Deta nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10223",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--deta-42-2020",
+"path": "local/timis/deta/2020/42",
+"kind": "local",
+"year": "2020",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 42/2020 privind modificarea „Agendei principalelor manifestări cultural-artistice şi sportive în perioada 1.01.2020 - 31.12.2020” finanţată din bugetul local de venituri şi cheltuieli",
+"short": "HCL Deta nr. 42/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10224",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-43-2020",
+"path": "local/timis/deta/2020/43",
+"kind": "local",
+"year": "2020",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 43/2020 privind aprobarea contractării/garantării unei finanțări rambursabile interne în valoare de 3.000.000 lei pentru realizarea unor investiții publice de interes local, aprobate prin Hotărârea nr.15/15.02.2020 a Consiliului local al orașului Deta",
+"short": "HCL Deta nr. 43/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-04",
+"latest": "2020-03-04",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10225",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-44-2020",
+"path": "local/timis/deta/2020/44",
+"kind": "local",
+"year": "2020",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 44/2020 privind aprobarea DOCUMENTAȚIILOR TEHNICO - ECONOMICE (faza S.F.) a Devizului General, Descrierea sumară a investiției și Indicatorii tehnico - economici actualizați ai proiectului ,,Îmbunătățirea calității vieții prin reabilitarea și consolidarea locuințelor sociale precum și realizarea pistelor de biciclete - acces la proprietate și acces auto la locuințele sociale, oraș Deta, jud. Timiș”",
+"short": "HCL Deta nr. 44/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-04",
+"latest": "2020-03-04",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10226",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-45-2020",
+"path": "local/timis/deta/2020/45",
+"kind": "local",
+"year": "2020",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 45/2020 privind aprobarea DOCUMENTAȚIILOR TEHNICO-ECONOMICE (faza S.F.) a Devizului General, Descrierea sumară a investiției și indicatorii tehnico-economici actualizați ai proiectului ,,Îmbunătățirea calității vieții populației orașului Deta prin crearea de noi structuri sociale”",
+"short": "HCL Deta nr. 45/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-04",
+"latest": "2020-03-04",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10227",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-timis--deta-46-2020",
 "path": "local/timis/deta/2020/46",
 "kind": "local",
@@ -353,6 +1044,28 @@
 "council_name": "Consiliul Local al Orașului Deta",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--deta-48-2020",
+"path": "local/timis/deta/2020/48",
+"kind": "local",
+"year": "2020",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 48/2020 privind rectificarea bugetului de venituri proprii pe anul 2020",
+"short": "HCL Deta nr. 48/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10244",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -423,6 +1136,75 @@
 }
 },
 {
+"slug": "hcl-timis--deta-52-2020",
+"path": "local/timis/deta/2020/52",
+"kind": "local",
+"year": "2020",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 52/2020",
+"short": "HCL Deta nr. 52/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10230",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--deta-53-2020",
+"path": "local/timis/deta/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 53/2020",
+"short": "HCL Deta nr. 53/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10231",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--deta-54-2020",
+"path": "local/timis/deta/2020/54",
+"kind": "local",
+"year": "2020",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 54/2020",
+"short": "HCL Deta nr. 54/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10232",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-timis--deta-55-2020",
 "path": "local/timis/deta/2020/55",
 "kind": "local",
@@ -468,6 +1250,94 @@
 }
 },
 {
+"slug": "hcl-timis--deta-57-2020",
+"path": "local/timis/deta/2020/57",
+"kind": "local",
+"year": "2020",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 57/2020 privind închirierea prin licitație publică a terenului situat în orașul Deta, str. Calea Opatiței, înscris în CF nr. 402766, cu nr. top. NGL 606, în suprafață de 3.582 m2, în vederea construirii de mici unități productive și de depozitare, nepoluante",
+"short": "HCL Deta nr. 57/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10235",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-58-2020",
+"path": "local/timis/deta/2020/58",
+"kind": "local",
+"year": "2020",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 58/2020 privind însuşirea raportului de evaluare a terenurilor concesionate în Zona Termal, proprietatea oraşului Deta, domeniul privat şi aprobarea vânzării prin negociere directă către actualii concesionari",
+"short": "HCL Deta nr. 58/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10236",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-59-2020",
+"path": "local/timis/deta/2020/59",
+"kind": "local",
+"year": "2020",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 59/2020 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Construire locuințe sociale în regim de înălțime P+3E+șarpantă” - faza SF în orașul Deta, județul Timiș",
+"short": "HCL Deta nr. 59/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10237",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-60-2020",
+"path": "local/timis/deta/2020/60",
+"kind": "local",
+"year": "2020",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 60/2020 privind actualizarea indicatorilor tehnico-economici pentru utilitățile aferente obiectivului de investiții ”Construire locuințe sociale în regim de înălțime P+3E+șarpantă” - faza SF în orașul Deta, județul Timiș",
+"short": "HCL Deta nr. 60/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10238",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-timis--deta-61-2020",
 "path": "local/timis/deta/2020/61",
 "kind": "local",
@@ -487,6 +1357,50 @@
 "council_name": "Consiliul Local al Orașului Deta",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--deta-62-2020",
+"path": "local/timis/deta/2020/62",
+"kind": "local",
+"year": "2020",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 62/2020 privind aprobarea cererii de atribuire a terenurilor pentru tineri în vederea construirii unei locuinţe proprietate personală",
+"short": "HCL Deta nr. 62/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10240",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-63-2020",
+"path": "local/timis/deta/2020/63",
+"kind": "local",
+"year": "2020",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 63/2020 privind modificarea statului de funcţii la Biblioteca orașului Deta",
+"short": "HCL Deta nr. 63/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10241",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -601,6 +1515,28 @@
 }
 },
 {
+"slug": "hcl-timis--deta-69-2020",
+"path": "local/timis/deta/2020/69",
+"kind": "local",
+"year": "2020",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 69/2020 privind însuşirea rapoartelor de evaluare a blocurilor construite pentru tineri, destinate închirierii, realizate de către Agenţia Naţională pentru Locuinţe, situate în orașul Deta, str.Orhideelor-bl.A și B și str.Păduri-bl.13A și 13B, în vederea vânzării către actualii chiriași",
+"short": "HCL Deta nr. 69/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-28",
+"latest": "2020-04-28",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10251",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-timis--deta-70-2020",
 "path": "local/timis/deta/2020/70",
 "kind": "local",
@@ -645,6 +1581,50 @@
 }
 },
 {
+"slug": "hcl-timis--deta-72-2020",
+"path": "local/timis/deta/2020/72",
+"kind": "local",
+"year": "2020",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 72/2020 privind rectificarea bugetului local de venituri şi cheltuieli pe anul 2020",
+"short": "HCL Deta nr. 72/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-26",
+"latest": "2020-05-26",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10272",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-73-2020",
+"path": "local/timis/deta/2020/73",
+"kind": "local",
+"year": "2020",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 73/2020 privind aprobarea Situaţiei financiare anuale la 31.12.2019 la S.C “ŞTRAND TERMAL DETA” S.R.L",
+"short": "HCL Deta nr. 73/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-26",
+"latest": "2020-05-26",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10273",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-timis--deta-74-2020",
 "path": "local/timis/deta/2020/74",
 "kind": "local",
@@ -664,6 +1644,28 @@
 "council_name": "Consiliul Local al Orașului Deta",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--deta-75-2020",
+"path": "local/timis/deta/2020/75",
+"kind": "local",
+"year": "2020",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 75/2020 privind însușirea raportului de evaluare a proprietății imobiliare (teren), situat în Deta, strada Elena Ghenescu, înscris în CF 400884, nr.top.28-29/1/1/1/1/2/III, proprietatea Oraşului Deta, domeniul privat şi aprobarea vânzării prin negociere directă către actuala deținătoare a construcției edificată pe acest teren Ursulescu Rodica",
+"short": "HCL Deta nr. 75/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-26",
+"latest": "2020-05-26",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10275",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -708,6 +1710,95 @@
 "council_name": "Consiliul Local al Orașului Deta",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--deta-78-2020",
+"path": "local/timis/deta/2020/78",
+"kind": "local",
+"year": "2020",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 78/2020 privind revocarea dreptul de administrare operativă directă asupra terenului înscris în CF nr.400385 cu top. 1443-1444/b/2/b/1/1/1/2 al SC AGROMEC SA Deta",
+"short": "HCL Deta nr. 78/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-26",
+"latest": "2020-05-26",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10278",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-79-2020",
+"path": "local/timis/deta/2020/79",
+"kind": "local",
+"year": "2020",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 79/2020 privind constatarea desființării Serviciului Voluntar pentru Situații de Urgență al Oraşului Deta, judeţul Timiş",
+"short": "HCL Deta nr. 79/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-26",
+"latest": "2020-05-26",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10279",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-80-2020",
+"path": "local/timis/deta/2020/80",
+"kind": "local",
+"year": "2020",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 80/2020",
+"short": "HCL Deta nr. 80/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-26",
+"latest": "2020-05-26",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10280",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--deta-81-2020",
+"path": "local/timis/deta/2020/81",
+"kind": "local",
+"year": "2020",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 81/2020 privind rectificarea bugetului local de venituri şi cheltuieli pe anul 2020",
+"short": "HCL Deta nr. 81/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-27",
+"latest": "2020-05-27",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10281",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -800,6 +1891,252 @@
 }
 },
 {
+"slug": "hcl-timis--deta-86-2020",
+"path": "local/timis/deta/2020/86",
+"kind": "local",
+"year": "2020",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 86/2020 privind modificarea „Agendei principalelor manifestări cultural-artistice şi sportive în perioada 1.01.2020 - 31.12.2020” finanţată din bugetul local de venituri şi cheltuieli",
+"short": "HCL Deta nr. 86/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10286",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-87-2020",
+"path": "local/timis/deta/2020/87",
+"kind": "local",
+"year": "2020",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 87/2020 privind stabilirea îndemnizației și efectuarea orelor suplimentare de către administratorului SC STRAND TERMAL DETA SRL",
+"short": "HCL Deta nr. 87/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10287",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-88-2020",
+"path": "local/timis/deta/2020/88",
+"kind": "local",
+"year": "2020",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 88/2020 privind aprobarea organigramei și statului de funcții la SC STRAND TERMAL DETA SRL",
+"short": "HCL Deta nr. 88/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10288",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-89-2020",
+"path": "local/timis/deta/2020/89",
+"kind": "local",
+"year": "2020",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 89/2020 privind aprobarea Regulamentului de organizare și funcționare al SC STRAND TERMAL DETA SRL",
+"short": "HCL Deta nr. 89/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10289",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-90-2020",
+"path": "local/timis/deta/2020/90",
+"kind": "local",
+"year": "2020",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 90/2020",
+"short": "HCL Deta nr. 90/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10290",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--deta-91-2020",
+"path": "local/timis/deta/2020/91",
+"kind": "local",
+"year": "2020",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 91/2020 privind repartizarea locuinţei situate în oraşul Deta, str. Pădurii, nr.13 B, ap.10, cu o cameră, construită pentru tineri, destinată închirierii, realizată de către Agenţia Naţională pentru Locuinţe",
+"short": "HCL Deta nr. 91/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10291",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-92-2020",
+"path": "local/timis/deta/2020/92",
+"kind": "local",
+"year": "2020",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 92/2020",
+"short": "HCL Deta nr. 92/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10292",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--deta-93-2020",
+"path": "local/timis/deta/2020/93",
+"kind": "local",
+"year": "2020",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 93/2020 privind aprobarea nivelului minim al redevenței/chiriei pentru terenul intravilan înscris în CF nr.401516, nr.top./cad Cc64/1/90 în vederea concesionării/închirierii",
+"short": "HCL Deta nr. 93/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10293",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-94-2020",
+"path": "local/timis/deta/2020/94",
+"kind": "local",
+"year": "2020",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 94/2020",
+"short": "HCL Deta nr. 94/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10294",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--deta-95-2020",
+"path": "local/timis/deta/2020/95",
+"kind": "local",
+"year": "2020",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 95/2020 privind însușirea raportului de evaluare a proprietății imobiliare (construcție și teren), situate în loc. Deta, str. Înfrățirii, nr. 9, ap.5, înscris în CF nr. 401074-C1-U6, nr.top.333-334/b/1/2/ proprietatea Oraşului Deta, domeniul privat şi aprobarea vânzării prin negociere directă către actuala chiriașă Surugiu Mihaela-Hermina",
+"short": "HCL Deta nr. 95/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10295",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-96-2020",
+"path": "local/timis/deta/2020/96",
+"kind": "local",
+"year": "2020",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 96/2020",
+"short": "HCL Deta nr. 96/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10296",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-timis--deta-97-2020",
 "path": "local/timis/deta/2020/97",
 "kind": "local",
@@ -844,6 +2181,116 @@
 }
 },
 {
+"slug": "hcl-timis--deta-99-2020",
+"path": "local/timis/deta/2020/99",
+"kind": "local",
+"year": "2020",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 99/2020 privind aprobarea unor operaţiuni cadastrale de modificare suprafaţă, la imobilul -teren, situat în strada Termal, înscris în CF 402376 cu nr.top.Nms 65/4",
+"short": "HCL Deta nr. 99/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10299",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-100-2020",
+"path": "local/timis/deta/2020/100",
+"kind": "local",
+"year": "2020",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 100/2020 privind rectificarea bugetului local de venituri şi cheltuieli pe anul 2020",
+"short": "HCL Deta nr. 100/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-01",
+"latest": "2020-07-01",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10300",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-101-2020",
+"path": "local/timis/deta/2020/101",
+"kind": "local",
+"year": "2020",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 101/2020 privind revizuirea indicatorilor tehnico-economici pentru obiectivul de investiții ”Construire locuințe sociale în regim de înălțime P+3E+șarpantă” - faza SF în orașul Deta, județul Timiș",
+"short": "HCL Deta nr. 101/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-10",
+"latest": "2020-07-10",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10301",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-102-2020",
+"path": "local/timis/deta/2020/102",
+"kind": "local",
+"year": "2020",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 102/2020 privind revizuirea indicatorilor tehnico-economici pentru utilitățile aferente obiectivului de investiții ”Construire locuințe sociale în regim de înălțime P+3E+șarpantă” - faza SF în orașul Deta, județul Timiș",
+"short": "HCL Deta nr. 102/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-10",
+"latest": "2020-07-10",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10302",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-103-2020",
+"path": "local/timis/deta/2020/103",
+"kind": "local",
+"year": "2020",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 103/2020 privind rectificarea bugetului local de venituri şi cheltuieli pe anul 2020",
+"short": "HCL Deta nr. 103/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-28",
+"latest": "2020-07-28",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10303",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-timis--deta-104-2020",
 "path": "local/timis/deta/2020/104",
 "kind": "local",
@@ -863,6 +2310,72 @@
 "council_name": "Consiliul Local al Orașului Deta",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--deta-105-2020",
+"path": "local/timis/deta/2020/105",
+"kind": "local",
+"year": "2020",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 105/2020 privind acordarea unor facilități la plata impozitului sau a taxei lunare pe clădirile din orașul Deta și la plata taxei și a chiriei datorate pentru ocuparea domeniului public al orașului Deta, pentru perioada stării de urgență",
+"short": "HCL Deta nr. 105/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-28",
+"latest": "2020-07-28",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10305",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-106-2020",
+"path": "local/timis/deta/2020/106",
+"kind": "local",
+"year": "2020",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 106/2020 privind aprobarea indicatorilor economici actualizați pentru obiectivul de investiții “Amenajare străzi în zona rezidențială PUZ Termal - Strada Ghioceilor, oraș Deta, județ Timiș”",
+"short": "HCL Deta nr. 106/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-28",
+"latest": "2020-07-28",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10306",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-107-2020",
+"path": "local/timis/deta/2020/107",
+"kind": "local",
+"year": "2020",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 107/2020 privind aprobarea DOCUMENTAȚIILOR TEHNICO - ECONOMICE (faza S.F.) a Devizului General, Descrierea sumară a investiției și Indicatorii tehnico - economici actualizați ai proiectului,,Îmbunătățirea calității vieții prin reabilitarea și consolidarea locuințelor sociale precum și realizarea pistelor de biciclete - acces la proprietate și acces auto la locuințele sociale, oraș Deta, jud. Timiș”",
+"short": "HCL Deta nr. 107/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-28",
+"latest": "2020-07-28",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10307",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -910,6 +2423,28 @@
 }
 },
 {
+"slug": "hcl-timis--deta-110-2020",
+"path": "local/timis/deta/2020/110",
+"kind": "local",
+"year": "2020",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 110/2020 privind actualizarea DOCUMENTAȚIILOR TEHNICO-ECONOMICE (faza S.F.) a Devizului General, Descrierea sumară a investiției și indicatorilor tehnico-economici ai proiectului ,,Îmbunătățirea calității vieții populației orașului Deta prin crearea de noi structuri sociale”",
+"short": "HCL Deta nr. 110/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-07",
+"latest": "2020-08-07",
+"portal": "https://emol.ro/deta-tm/registru-hcl/10310",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-timis--deta-111-2020",
 "path": "local/timis/deta/2020/111",
 "kind": "local",
@@ -954,6 +2489,50 @@
 }
 },
 {
+"slug": "hcl-timis--deta-113-2020",
+"path": "local/timis/deta/2020/113",
+"kind": "local",
+"year": "2020",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 113/2020 privind concesionarea prin licitație publică a terenului intravilan, situat în Zona Termal a orașului Deta, intabulat în CF nr. 401516, nr. top./cad Cc64/1/90, în suprafață de 10.089 mp",
+"short": "HCL Deta nr. 113/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-25",
+"latest": "2020-08-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/12339",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-114-2020",
+"path": "local/timis/deta/2020/114",
+"kind": "local",
+"year": "2020",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 114/2020 privind aprobarea Studiului de oportunitate în vederea concesionării prin licitație publică a terenului intravilan, situat în Zona Termal a orașului Deta, înscris în CF nr. 401516, nr. top./cad Cc64/1/90, în suprafață de 10.089 mp",
+"short": "HCL Deta nr. 114/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-25",
+"latest": "2020-08-25",
+"portal": "https://emol.ro/deta-tm/registru-hcl/12340",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-timis--deta-115-2020",
 "path": "local/timis/deta/2020/115",
 "kind": "local",
@@ -973,6 +2552,52 @@
 "council_name": "Consiliul Local al Orașului Deta",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--deta-116-2020",
+"path": "local/timis/deta/2020/116",
+"kind": "local",
+"year": "2020",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 116/2020",
+"short": "HCL Deta nr. 116/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-01",
+"latest": "2020-09-01",
+"portal": "https://emol.ro/deta-tm/registru-hcl/12351",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--deta-117-2020",
+"path": "local/timis/deta/2020/117",
+"kind": "local",
+"year": "2020",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 117/2020",
+"short": "HCL Deta nr. 117/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-01",
+"latest": "2020-09-01",
+"portal": "https://emol.ro/deta-tm/registru-hcl/12352",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1306,6 +2931,96 @@
 }
 },
 {
+"slug": "hcl-timis--deta-150-2020",
+"path": "local/timis/deta/2020/150",
+"kind": "local",
+"year": "2020",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 150/2020",
+"short": "HCL Deta nr. 150/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/deta-tm/registru-hcl/15108",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--deta-151-2020",
+"path": "local/timis/deta/2020/151",
+"kind": "local",
+"year": "2020",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 151/2020 privind însușirea raportului de evaluare a proprietății imobiliare (teren), situată în intravilanul orașului Deta, înscris în CF 402598, nr.top.402598, proprietatea Oraşului Deta domeniul privat şi aprobarea vânzării prin negociere directă către actualul deținător al construcției edificate pe acest teren SC NEMULESCU SRL",
+"short": "HCL Deta nr. 151/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/deta-tm/registru-hcl/15109",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-152-2020",
+"path": "local/timis/deta/2020/152",
+"kind": "local",
+"year": "2020",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 152/2020 privind darea în folosință gratuită Serviciului de Ambulanţă Județean Timiş, a imobilului SAD1 înscris în CF 400239-C1-U3 cu nr.top.326 -327/1/1/1-2; 326-327/2/I, pentru desfăşurarea activităţii specifice",
+"short": "HCL Deta nr. 152/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/deta-tm/registru-hcl/15110",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-153-2020",
+"path": "local/timis/deta/2020/153",
+"kind": "local",
+"year": "2020",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 153/2020",
+"short": "HCL Deta nr. 153/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/deta-tm/registru-hcl/15111",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-timis--deta-154-2020",
 "path": "local/timis/deta/2020/154",
 "kind": "local",
@@ -1328,6 +3043,51 @@
 }
 },
 {
+"slug": "hcl-timis--deta-155-2020",
+"path": "local/timis/deta/2020/155",
+"kind": "local",
+"year": "2020",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 155/2020 privind desemnarea reprezentantului Consiliului local al Oraşului Deta în Adunarea Generală a Asociaţiei pentru Promovarea şi Dezvoltarea Turismului Timiş – APDT Timiş",
+"short": "HCL Deta nr. 155/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/deta-tm/registru-hcl/15113",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--deta-156-2020",
+"path": "local/timis/deta/2020/156",
+"kind": "local",
+"year": "2020",
+"number": "156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 156/2020",
+"short": "HCL Deta nr. 156/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/deta-tm/registru-hcl/15114",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-timis--deta-157-2020",
 "path": "local/timis/deta/2020/157",
 "kind": "local",
@@ -1347,6 +3107,28 @@
 "council_name": "Consiliul Local al Orașului Deta",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--deta-158-2020",
+"path": "local/timis/deta/2020/158",
+"kind": "local",
+"year": "2020",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 158/2020 privind aprobarea „Agendei principalelor manifestări cultural-artistice şi sportive în perioada 1.01.2021 - 31.12.2021” finanţată din bugetul local de venituri şi cheltuieli",
+"short": "HCL Deta nr. 158/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/deta-tm/registru-hcl/15116",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

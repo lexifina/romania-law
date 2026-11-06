@@ -3,6 +3,126 @@
  "shard": "local/valcea/babeni/2025",
  "acts": [
   {
+   "slug": "hcl-valcea--babeni-1-2025",
+   "path": "local/valcea/babeni/2025/1",
+   "short": "HCL Băbeni nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 1/2025 utilizarea sumei de 67.680 lei din excedentul anului 2024, necesară achitării cheltuielilor cu serviciile de colectare si transport a deșeurilor menajere de la persoanele fizice și juridice, pentru acoperirea temporară a golurilor de casă provenite din decalajele între veniturile și cheltuielile secțiunii de funcționare în anul 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#91621",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#91621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-10-2025",
+   "path": "local/valcea/babeni/2025/10",
+   "short": "HCL Băbeni nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 10/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-100-2025",
+   "path": "local/valcea/babeni/2025/100",
+   "short": "HCL Băbeni nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 100/2025 aprobarea documentației tehnico-economice aferente obiectivului de investiţii ” Extindere rețea de canalizare menajeră strada Aleea Codrului, Oraș Băbeni, Județul Vâlcea”",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#106740",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#106740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-101-2025",
+   "path": "local/valcea/babeni/2025/101",
+   "short": "HCL Băbeni nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 101/2025 aprobarea documentației tehnico-economice aferente obiectivului de investiţii ” Extindere rețea de canalizare menajeră strada Intrarea Murelor, Oraș Băbeni, Județul Vâlcea”",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#106741",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#106741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-102-2025",
+   "path": "local/valcea/babeni/2025/102",
+   "short": "HCL Băbeni nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 102/2025 alegerea preşedintelui de şedinţă pentru luna noiembrie 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#108299",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#108299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-103-2025",
+   "path": "local/valcea/babeni/2025/103",
+   "short": "HCL Băbeni nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 103/2025 analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul al III - lea 2025 şi stabilirea masurilor pentru eficientizarea acestei activităţi la nivelul orașului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#108300",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#108300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-105-2025",
+   "path": "local/valcea/babeni/2025/105",
+   "short": "HCL Băbeni nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 105/2025 aprobarea realizării obiectivului de investiţii ” Extindere rețea gaze naturale Aleea Stadionului, oraș Băbeni, județul Vâlcea, L = 157 ml”",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#108302",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#108302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-106-2025",
+   "path": "local/valcea/babeni/2025/106",
+   "short": "HCL Băbeni nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 106/2025 aprobarea scoaterii din funcţiune a imobilizărilor corporale, respectiv a scoaterii din uz a bunurilor de natura obiectelor de inventar din patrimoniul orașului Băbeni în vederea casării și valorificării",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#108303",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#108303",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--babeni-107-2025",
    "path": "local/valcea/babeni/2025/107",
    "short": "HCL Băbeni nr. 107/2025",
@@ -14,6 +134,51 @@
      "units": 1,
      "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24eGXvjEwGhFtUG2JpUO5kFeZpzW20nvxvPVKYpBzH3Jxwknla7i3hW/4247",
      "sha256": "c4bfa92089731e49cef789b832b6040794855a7256cfc819bdeebe1df46d6ffb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-108-2025",
+   "path": "local/valcea/babeni/2025/108",
+   "short": "HCL Băbeni nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 108/2025 acordarea unui mandat reprezentantului UAT orașul Băbeni în Adunarea Generală a Asociației de Dezvoltare Intercomunitară BISTRIȚA-OTĂSĂU în vederea exprimării votului cu privire la aprobarea bugetului de venituri și cheltuieli aferent anului 2025, a cotizației membrilor asociați aferente aceleiași perioade, precum și pentru mandatarea liderului Asociației",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#108305",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#108305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-109-2025",
+   "path": "local/valcea/babeni/2025/109",
+   "short": "HCL Băbeni nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 109/2025 actualizarea Regulamentului de organizare și funcționare a aparatului de specialitate al primarului orașului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#108306",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#108306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-11-2025",
+   "path": "local/valcea/babeni/2025/11",
+   "short": "HCL Băbeni nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 11/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
     }
    ]
   },
@@ -33,6 +198,366 @@
    ]
   },
   {
+   "slug": "hcl-valcea--babeni-112-2025",
+   "path": "local/valcea/babeni/2025/112",
+   "short": "HCL Băbeni nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 112/2025 modificarea organigramei și a statului de funcții ale aparatului de specialitate al primarului orașului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#108648",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#108648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-113-2025",
+   "path": "local/valcea/babeni/2025/113",
+   "short": "HCL Băbeni nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 113/2025 modificarea Anexei nr.2 la Hotărârea Consiliului Local al orașului Băbeni nr.103/28 noiembrie 2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului orașului Băbeni și din serviciile de subordonare locală – familia ocupațională ”Administrație”, începând cu data de 01 decembrie 2024",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#108649",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#108649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-114-2025",
+   "path": "local/valcea/babeni/2025/114",
+   "short": "HCL Băbeni nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 114/2025 instalarea unor indicatoare rutiere pe raza orașului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#108750",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#108750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-115-2025",
+   "path": "local/valcea/babeni/2025/115",
+   "short": "HCL Băbeni nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 115/2025 rectificarea bugetului local al orașului Băbeni și a listei de investiții finanțate din acesta pentru anul 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110076",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-116-2025",
+   "path": "local/valcea/babeni/2025/116",
+   "short": "HCL Băbeni nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 116/2025 aprobarea proiectului de organizare a reţelei unităţilor de învăţământ preuniversitar de stat care funcţionează pe raza oraşului Băbeni pentru anul şcolar 2026 - 2027, precum și a raportului argumentativ pe care se fundamentează acest proiect",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110077",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-117-2025",
+   "path": "local/valcea/babeni/2025/117",
+   "short": "HCL Băbeni nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 117/2025 alegerea preşedintelui de şedinţă pentru luna decembrie 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110215",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-118-2025",
+   "path": "local/valcea/babeni/2025/118",
+   "short": "HCL Băbeni nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 118/2025 aprobarea contului de execuţie al bugetului local al oraşului Băbeni şi al institutiilor publice si activitatilor finantate integral sau partial din venituri proprii si subventii pentru trimestrul al III - lea 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110217",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-119-2025",
+   "path": "local/valcea/babeni/2025/119",
+   "short": "HCL Băbeni nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 119/2025 modificarea și completarea Hotărârii Consiliului Local al orașului Băbeni nr. 113/30 octombrie 2025 privind modificarea Anexei nr.2 la Hotărârea Consiliului Local al orașului Băbeni nr.103/28 noiembrie 2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului orașului Băbeni și din serviciile de subordonare locală – familia ocupațională ”Administrație”, începând cu data de 01 decembrie 2024",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110222",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-12-2025",
+   "path": "local/valcea/babeni/2025/12",
+   "short": "HCL Băbeni nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 12/2025 alegerea preşedintelui de şedinţă pentru luna martie 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#93309",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#93309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-120-2025",
+   "path": "local/valcea/babeni/2025/120",
+   "short": "HCL Băbeni nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 120/2025 modificarea Hotărârii Consiliului Local al orașului Băbeni nr.36/27 martie 2025 privind aprobarea susţinerii financiare a Asociației Fotbal Club Băbeni pentru anul calendaristic 2025, precum și a Contractului de susținere financiară nr.5525/02 aprilie 2025, încheiat cu AFC Băbeni pentru anul 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110224",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-121-2025",
+   "path": "local/valcea/babeni/2025/121",
+   "short": "HCL Băbeni nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 121/2025 aprobarea reţelei unităţilor de învăţământ preuniversitar de stat care funcţionează pe raza oraşului Băbeni pentru anul şcolar 2026 - 2027",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110807",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-122-2025",
+   "path": "local/valcea/babeni/2025/122",
+   "short": "HCL Băbeni nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 122/2025 stabilirea tarifului de închiriere a buldoexcavatorului proprietate privată a orașului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110809",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-123-2025",
+   "path": "local/valcea/babeni/2025/123",
+   "short": "HCL Băbeni nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 123/2025 aprobarea documentaţiei tehnico-economice (faza DALI) şi a indicatorilor tehnico-economici pentru proiectul investițional «CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN CLADIREA SCOLII DIN LOCALITATEA VALEA MARE, ORAS BABENI, JUDETUL VALCEA»",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110810",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-124-2025",
+   "path": "local/valcea/babeni/2025/124",
+   "short": "HCL Băbeni nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 124/2025 aprobarea proiectului „ CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN CLADIREA SCOLII DIN LOCALITATEA VALEA MAREA, ORAS BABENI, JUDETUL VALCEA”, în vederea finanțării acestuia în cadrul Programul Regional Sud-Vest Oltenia 2021-2027, Prioritatea 3 - Eficienţa energetică și infrastructura verde, Obiectiv specific 2.1 - Promovarea măsurilor de eficiență energetică și reducerea emisiilor de gaze cu efect de seră, Operaţiunea A - Investiții în clădirile publice în vederea asigurării/creșterii eficienței energetice și măsuri pentru utilizarea unor surse regenerabile de energie – Apel 2, nr. apelului de proiecte. PRSVO/732/PRSVO_P3/OP2/RSO2.1/PRSVO_A14",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110812",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-125-2025",
+   "path": "local/valcea/babeni/2025/125",
+   "short": "HCL Băbeni nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 125/2025 aprobarea documentaţiei tehnico-economice (faza DALI) şi a indicatorilor tehnico-economici pentru proiectul investițional „CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN CLADIREA GRADINITEI DIN LOCALITATEA CAPU DEALULUI, ORAS BABENI, JUDETUL VALCEA”",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110813",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-126-2025",
+   "path": "local/valcea/babeni/2025/126",
+   "short": "HCL Băbeni nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 126/2025 aprobarea proiectului „CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN CLADIREA GRADINITEI DIN LOCALITATEA CAPU DEALULUI, ORAS BABENI, JUDETUL VALCEA”, în vederea finanțării acestuia în cadrul Programul Regional Sud-Vest Oltenia 2021-2027, Prioritatea 3 - Eficienţa energetică și infrastructura verde, Obiectiv specific 2.1 - Promovarea măsurilor de eficiență energetică și reducerea emisiilor de gaze cu efect de seră, Operaţiunea A - Investiții în clădirile publice în vederea asigurării/creșterii eficienței energetice și măsuri pentru utilizarea unor surse regenerabile de energie – Apel 2, nr. apelului de proiecte. PRSVO/732/PRSVO_P3/OP2/RSO2.1/PRSVO_A14",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110814",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-127-2025",
+   "path": "local/valcea/babeni/2025/127",
+   "short": "HCL Băbeni nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 127/2025 aprobarea documentaţiei tehnico-economice (faza DALI) şi a indicatorilor tehnico-economici pentru proiectul investițional „CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN CLADIREA CORP C1 ‐ LICEUL „GEORGE TARNEA” BABENI, JUDETUL VALCEA”",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110815",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-128-2025",
+   "path": "local/valcea/babeni/2025/128",
+   "short": "HCL Băbeni nr. 128/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 128/2025 aprobarea proiectului „CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN CLADIREA CORP C1 ‐ LICEUL „GEORGE TARNEA” BABENI, JUDETUL VALCEA”, în vederea finanțării acestuia în cadrul Programul Regional Sud-Vest Oltenia 2021-2027, Prioritatea 3 - Eficienţa energetică și infrastructura verde, Obiectiv specific 2.1 - Promovarea măsurilor de eficiență energetică și reducerea emisiilor de gaze cu efect de seră, Operaţiunea A - Investiții în clădirile publice în vederea asigurării/creșterii eficienței energetice și măsuri pentru utilizarea unor surse regenerabile de energie – Apel 2, nr. apelului de proiecte. PRSVO/732/PRSVO_P3/OP2/RSO2.1/PRSVO_A14",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110817",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-129-2025",
+   "path": "local/valcea/babeni/2025/129",
+   "short": "HCL Băbeni nr. 129/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 129/2025 aprobarea documentaţiei tehnico-economice (faza DALI) şi a indicatorilor tehnico-economici pentru proiectul investițional „CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN CLADIREA PRIMARIEI DIN ORAS BABENI, JUDETUL VALCEA”",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110818",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-13-2025",
+   "path": "local/valcea/babeni/2025/13",
+   "short": "HCL Băbeni nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 13/2025 actualizarea componenței Grupului Local de Lucru la nivelul orașului Băbeni, precum și aprobarea Planului Local de Acțiune pentru incluziunea comunităților de romi pentru anul 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#93310",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#93310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-130-2025",
+   "path": "local/valcea/babeni/2025/130",
+   "short": "HCL Băbeni nr. 130/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 130/2025 aprobarea proiectului „CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN CLADIREA PRIMARIEI DIN ORAS BABENI, JUDETUL VALCEA” în vederea finanțării acestuia în cadrul Programul Regional Sud-Vest Oltenia 2021-2027, Prioritatea 3 - Eficienţa energetică și infrastructura verde, Obiectiv specific 2.1 - Promovarea măsurilor de eficiență energetică și reducerea emisiilor de gaze cu efect de seră, Operaţiunea A - Investiții în clădirile publice în vederea asigurării/creșterii eficienței energetice și măsuri pentru utilizarea unor surse regenerabile de energie – Apel 2, nr. apelului de proiecte. PRSVO/732/PRSVO_P3/OP2/RSO2.1/PRSVO_A14",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110819",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#110819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-131-2025",
+   "path": "local/valcea/babeni/2025/131",
+   "short": "HCL Băbeni nr. 131/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 131/2025 alegerea preşedintelui de şedinţă pentru luna ianuarie 2026",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#111624",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#111624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-132-2025",
+   "path": "local/valcea/babeni/2025/132",
+   "short": "HCL Băbeni nr. 132/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 132/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-133-2025",
+   "path": "local/valcea/babeni/2025/133",
+   "short": "HCL Băbeni nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 133/2025 rectificarea bugetului local al orașului Băbeni pentru anul 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#112390",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#112390",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--babeni-134-2025",
    "path": "local/valcea/babeni/2025/134",
    "short": "HCL Băbeni nr. 134/2025",
@@ -44,6 +569,846 @@
      "units": 1,
      "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%249p.CZ6Pig9KxRj3Tm5Qyg.6VJXxn6VzqcQT9HKSFZmp/yJMax6FM2/4247",
      "sha256": "c471a32645c1912719e05860b5ab0afb8f560492885ae0e3c2f3b399903fcc44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-135-2025",
+   "path": "local/valcea/babeni/2025/135",
+   "short": "HCL Băbeni nr. 135/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 135/2025 rectificarea bugetului local al orașului Băbeni pentru anul 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#112992",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#112992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-14-2025",
+   "path": "local/valcea/babeni/2025/14",
+   "short": "HCL Băbeni nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 14/2025 dezlipirea unui imobil-teren aparținând domeniului public al orașului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#93311",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#93311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-15-2025",
+   "path": "local/valcea/babeni/2025/15",
+   "short": "HCL Băbeni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 15/2025 actualizarea Regulamentului de organizare și funcționare a Serviciului Public Comunitar Local de Evidență a Persoanelor Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#93312",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#93312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-16-2025",
+   "path": "local/valcea/babeni/2025/16",
+   "short": "HCL Băbeni nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 16/2025 aprobarea proiectului tehnic, a devizului general actualizat, a caracteristicilor principale și a indicatorilor tehnico – economici actualizați aferenți obiectivului de investiții „Reabilitare drumuri și străzi în localitatea componentă Băbeni din orașul Băbeni, județul Vâlcea”, depus în cadrul Programului național de investiții ”Anghel Saligny”",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#93313",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#93313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-17-2025",
+   "path": "local/valcea/babeni/2025/17",
+   "short": "HCL Băbeni nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 17/2025 aprobarea proiectului tehnic, a devizului general actualizat, a caracteristicilor principale și a indicatorilor tehnico – economici actualizați aferenți obiectivului de investiții „Reabilitare drumuri și străzi în satele aparținătoare Bonciu, Capu Dealului, Tătărani, Valea Mare și Pădurețu din orașul Băbeni, județul Vâlcea”, depus în cadrul Programului național de investiții ”Anghel Saligny”",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#93315",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#93315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-19-2025",
+   "path": "local/valcea/babeni/2025/19",
+   "short": "HCL Băbeni nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 19/2025 închirierea prin atribuire directă a pajiștilor aflate în proprietatea privată a orașului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#93317",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#93317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-2-2025",
+   "path": "local/valcea/babeni/2025/2",
+   "short": "HCL Băbeni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 2/2025 înregistrarea orașului Băbeni, județul Vâlcea, în Sistemul Național Electronic de Plată Online (SNEP) a impozitelor și taxelor locale („Ghișeul.ro”) utilizând cardul bancar, instalarea unui terminal de plată (POS), precum și stabilirea modului în care sunt suportate comisioanele bancare",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#91622",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#91622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-20-2025",
+   "path": "local/valcea/babeni/2025/20",
+   "short": "HCL Băbeni nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 20/2025 reorganizarea activității aparatului de specialitate al primarului orașului Băbeni și a instituțiilor de subordonare locală",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#93319",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#93319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-21-2025",
+   "path": "local/valcea/babeni/2025/21",
+   "short": "HCL Băbeni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 21/2025 alegerea preşedintelui şedinţei extraordinare convocate de îndată în data de 18 februarie 2025, ora 10,00",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#93828",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#93828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-26-2025",
+   "path": "local/valcea/babeni/2025/26",
+   "short": "HCL Băbeni nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 26/2025 alegerea preşedintelui de şedinţă pentru luna aprilie 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#96154",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#96154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-27-2025",
+   "path": "local/valcea/babeni/2025/27",
+   "short": "HCL Băbeni nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 27/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-28-2025",
+   "path": "local/valcea/babeni/2025/28",
+   "short": "HCL Băbeni nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 28/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-29-2025",
+   "path": "local/valcea/babeni/2025/29",
+   "short": "HCL Băbeni nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 29/2025 aprobarea contului de execuţie al bugetului local al oraşului Băbeni şi al institutiilor publice si activitatilor finantate integral sau partial din venituri proprii si subventii pentru anul 2024",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#96157",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#96157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-3-2025",
+   "path": "local/valcea/babeni/2025/3",
+   "short": "HCL Băbeni nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 3/2025 alegerea preşedintelui de şedinţă pentru luna februarie 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#92209",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#92209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-30-2025",
+   "path": "local/valcea/babeni/2025/30",
+   "short": "HCL Băbeni nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 30/2025 aprobarea documentației tehnico-economice aferente obiectivului de investiţii ”Sistem supraveghere video, orașul Băbeni, județul Vâlcea”",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#96159",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#96159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-31-2025",
+   "path": "local/valcea/babeni/2025/31",
+   "short": "HCL Băbeni nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 31/2025 aprobarea documentației tehnico-economice aferente obiectivului de investiţii ”Amenajare rigole și podețe strada Șonești, oraș Băbeni, jud. Vâlcea”",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#96160",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#96160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-32-2025",
+   "path": "local/valcea/babeni/2025/32",
+   "short": "HCL Băbeni nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 32/2025 aprobarea documentației tehnico-economice aferente obiectivului de investiţii ”Extindere canalizare menajeră str.Oprițescu Gheorghe, oraș Băbeni, jud. Vâlcea”",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#96161",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#96161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-33-2025",
+   "path": "local/valcea/babeni/2025/33",
+   "short": "HCL Băbeni nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 33/2025 aprobarea proiectului tehnic de execuție, a indicatorilor tehnico – economici și a devizelor generale aferente obiectivului de investiţii ”Construirea de locuințe – NZEB pentru tinerii din ORAȘUL BĂBENI, județul VÂLCEA”, finanțat prin Planul Național de Redresare și Reziliență, Componenta 10 – Fondul local",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#96162",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#96162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-36-2025",
+   "path": "local/valcea/babeni/2025/36",
+   "short": "HCL Băbeni nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 36/2025 aprobarea susţinerii financiare a Asociației Fotbal Club Băbeni pentru anul calendaristic 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#96165",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#96165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-38-2025",
+   "path": "local/valcea/babeni/2025/38",
+   "short": "HCL Băbeni nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 38/2025 alegerea preşedintelui de şedinţă pentru luna mai 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#98119",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#98119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-4-2025",
+   "path": "local/valcea/babeni/2025/4",
+   "short": "HCL Băbeni nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 4/2025 modificarea și completarea Hotărârii Consiliului Local al orașului Băbeni nr.103/28 noiembrie 2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului orașului Băbeni și din serviciile de subordonare locală – familia ocupațională ”Administrație”, începând cu data de 01 decembrie 2024",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#92210",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#92210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-40-2025",
+   "path": "local/valcea/babeni/2025/40",
+   "short": "HCL Băbeni nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 40/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-41-2025",
+   "path": "local/valcea/babeni/2025/41",
+   "short": "HCL Băbeni nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 41/2025 valorificarea unui volum total de 227,10 mc de masa lemnoasă proprietate publică a orașului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#98122",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#98122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-43-2025",
+   "path": "local/valcea/babeni/2025/43",
+   "short": "HCL Băbeni nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 43/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-47-2025",
+   "path": "local/valcea/babeni/2025/47",
+   "short": "HCL Băbeni nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 47/2025 însușirea Raportului de evaluare a unui imobil – teren situat în orașul Băbeni, Aleea Liceului, punctul ”Blocuri”, județul Vâlcea și constituirea comisiei de negociere",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#98918",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#98918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-49-2025",
+   "path": "local/valcea/babeni/2025/49",
+   "short": "HCL Băbeni nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 49/2025 alegerea preşedintelui de şedinţă pentru luna iunie 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#99347",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#99347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-5-2025",
+   "path": "local/valcea/babeni/2025/5",
+   "short": "HCL Băbeni nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 5/2025 analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul al IV - lea 2024 şi stabilirea masurilor pentru eficientizarea acestei activităţi la nivelul orașului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#92211",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#92211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-50-2025",
+   "path": "local/valcea/babeni/2025/50",
+   "short": "HCL Băbeni nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 50/2025 aprobarea contului de execuţie al bugetului local al oraşului Băbeni şi al institutiilor publice si activitatilor finantate integral sau partial din venituri proprii si subventii pentru trimestrul I 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#99348",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#99348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-51-2025",
+   "path": "local/valcea/babeni/2025/51",
+   "short": "HCL Băbeni nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 51/2025 acordarea unui mandat special Asociației de Dezvoltare Intercomunitară ”APA Vâlcea” să exercite, în numele și pe seama orașului Băbeni, atribuțiile de autoritate publică tutelară pentru operatorul regional - Societatea APAVIL S.A",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#99350",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#99350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-52-2025",
+   "path": "local/valcea/babeni/2025/52",
+   "short": "HCL Băbeni nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 52/2025 aprobarea proiectului tehnic, a devizului general și a indicatorilor tehnico – economici aferenți obiectivului de investiții „Amenajare parcare bloc H2 din orașul Babeni, județul Vâlcea”",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#99352",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#99352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-55-2025",
+   "path": "local/valcea/babeni/2025/55",
+   "short": "HCL Băbeni nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 55/2025 modificarea Hotărârii Consiliului Local al orașului Băbeni nr.36/27 martie 2025 privind aprobarea susţinerii financiare a Asociației Fotbal Club Băbeni pentru anul calendaristic 2025, precum și a contractului de susținere financiară nr.5525/02 aprilie 2025 încheiat cu Asociația Fotbal Club Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#99357",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#99357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-56-2025",
+   "path": "local/valcea/babeni/2025/56",
+   "short": "HCL Băbeni nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 56/2025 constituirea comisiei de negociere a prețului de cumpărare a unui imobil – teren situat în intravilanul orașului Băbeni, Aleea Liceului, punctul ”Blocuri”, județul Vâlcea",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#99358",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#99358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-57-2025",
+   "path": "local/valcea/babeni/2025/57",
+   "short": "HCL Băbeni nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 57/2025 alegerea preşedintelui şedinţei extraordinare convocate de îndată în data de 12 iunie 2025, ora 10,00",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#100645",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#100645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-58-2025",
+   "path": "local/valcea/babeni/2025/58",
+   "short": "HCL Băbeni nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 58/2025 aprobarea achiziționării serviciilor de reprezentare juridică a Orașului Băbeni prin primar, a primarului orașului Băbeni și a Consiliului Local al orașului Băbeni în dosarul nr.1244/90/2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#100608",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#100608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-59-2025",
+   "path": "local/valcea/babeni/2025/59",
+   "short": "HCL Băbeni nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 59/2025 aprobarea Planului de dezvoltare a serviciilor sociale acordate la nivelul Orașului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#100609",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#100609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-6-2025",
+   "path": "local/valcea/babeni/2025/6",
+   "short": "HCL Băbeni nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 6/2025 acordarea unui mandat special reprezentantului UAT orașul Băbeni în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”APA Vâlcea” în vederea exprimării votului cu privire la retragerea Comunei Crețeni din cadrul Asociației, precum și la modificarea Statutului Asociației, cu modificarile și completările ulterioare",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#92212",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#92212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-60-2025",
+   "path": "local/valcea/babeni/2025/60",
+   "short": "HCL Băbeni nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 60/2025 încetarea, prin reziliere, a contractului de asociere în participațiune nr.7097/08 mai 2023, încheiat între Orașul Băbeni și Asociația ”Piticii Veseli",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#100610",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#100610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-63-2025",
+   "path": "local/valcea/babeni/2025/63",
+   "short": "HCL Băbeni nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 63/2025 alegerea preşedintelui de şedinţă pentru luna iulie 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#101346",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#101346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-64-2025",
+   "path": "local/valcea/babeni/2025/64",
+   "short": "HCL Băbeni nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 64/2025 aprobarea proiectului tehnic, a devizului general și a indicatorilor tehnico – economici aferenți obiectivului de investiții „Amenajare zona centrală în oraș Băbeni, județul Vâlcea”",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#101347",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#101347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-69-2025",
+   "path": "local/valcea/babeni/2025/69",
+   "short": "HCL Băbeni nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 69/2025 aprobarea indicatorilor tehnico-economici ai obiectivului de investiții „Demolare și construire grădinița Români, oraș Băbeni, județul Vâlcea”, inclus la finanțare în Programul național de investiții \"Școli sigure și sănătoase\"",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#101613",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#101613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-7-2025",
+   "path": "local/valcea/babeni/2025/7",
+   "short": "HCL Băbeni nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 7/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-70-2025",
+   "path": "local/valcea/babeni/2025/70",
+   "short": "HCL Băbeni nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 70/2025 aprobarea indicatorilor tehnico-economici ai obiectivului de investiții „Demolare și construire grădinița nr. 1, oraș Băbeni, județul Vâlcea”, inclus la finanțare în Programul național de investiții \"Școli sigure și sănătoase\"",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#101614",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#101614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-72-2025",
+   "path": "local/valcea/babeni/2025/72",
+   "short": "HCL Băbeni nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 72/2025 alegerea preşedintelui de şedinţă pentru luna august 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#103102",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#103102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-77-2025",
+   "path": "local/valcea/babeni/2025/77",
+   "short": "HCL Băbeni nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 77/2025 alegerea preşedintelui de şedinţă pentru luna septembrie 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#103957",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#103957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-78-2025",
+   "path": "local/valcea/babeni/2025/78",
+   "short": "HCL Băbeni nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 78/2025 organizarea Festivalului Folcloric \"La Izvorul Dorului\", Ediția 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#103959",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#103959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-8-2025",
+   "path": "local/valcea/babeni/2025/8",
+   "short": "HCL Băbeni nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 8/2025 modificarea și completarea Hotărârii Consiliului Local al orașului Băbeni nr.39/11 aprilie 2016 privind aprobarea Regulamentului intern al Asociației Fotbal Club Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#92214",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#92214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-80-2025",
+   "path": "local/valcea/babeni/2025/80",
+   "short": "HCL Băbeni nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 80/2025 alegerea preşedintelui şedinţei extraordinare convocate de îndată în data de 11 septembrie 2025, ora 14,30",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#105433",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#105433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-81-2025",
+   "path": "local/valcea/babeni/2025/81",
+   "short": "HCL Băbeni nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 81/2025 modificarea Hotărârii Consiliului Local al orașului Băbeni nr.93/28 noiembrie 2024 privind aprobarea reţelei unităţilor de învăţământ preuniversitar de stat care funcţionează pe raza oraşului Băbeni pentru anul şcolar 2025 – 2026",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#105397",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#105397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-82-2025",
+   "path": "local/valcea/babeni/2025/82",
+   "short": "HCL Băbeni nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 82/2025 finanțarea parțială din bugetul local al oraşului Băbeni a contribuției de hrană pentru preșcolarii din cadrul Grădiniței cu Program Prelungit, sat Tătărani, oraș Băbeni, județul Vâlcea",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#105398",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#105398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-84-2025",
+   "path": "local/valcea/babeni/2025/84",
+   "short": "HCL Băbeni nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 84/2025 aprobarea proiectului tehnic, a devizului general actualizat, a caracteristicilor principale și a indicatorilor tehnico – economici actualizați aferenți obiectivului de investiții „Reabilitare drumuri și străzi în satul aparținător Români din orașul Băbeni, județul Vâlcea”, depus în cadrul Programului național de investiții ”Anghel Saligny”",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#105400",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#105400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-85-2025",
+   "path": "local/valcea/babeni/2025/85",
+   "short": "HCL Băbeni nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 85/2025 alegerea preşedintelui de şedinţă pentru luna octombrie 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#106359",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#106359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-86-2025",
+   "path": "local/valcea/babeni/2025/86",
+   "short": "HCL Băbeni nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 86/2025 aprobarea contului de execuţie al bugetului local al oraşului Băbeni şi al institutiilor publice si activitatilor finantate integral sau partial din venituri proprii si subventii pentru trimestrul al II-lea 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#106360",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#106360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-87-2025",
+   "path": "local/valcea/babeni/2025/87",
+   "short": "HCL Băbeni nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 87/2025 analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul al II - lea 2025 şi stabilirea masurilor pentru eficientizarea acestei activităţi la nivelul orașului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#106361",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#106361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-88-2025",
+   "path": "local/valcea/babeni/2025/88",
+   "short": "HCL Băbeni nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 88/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-9-2025",
+   "path": "local/valcea/babeni/2025/9",
+   "short": "HCL Băbeni nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 9/2025 aprobarea Regulamentului de organizare și funcționare a Consiliului Local al orașului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#92215",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#92215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-91-2025",
+   "path": "local/valcea/babeni/2025/91",
+   "short": "HCL Băbeni nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 91/2025 valorificarea prin negociere a unui volum total de 227,10 mc de masa lemnoasă proprietate publică a orașului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#106365",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#106365",
+     "sha256": null
     }
    ]
   },
@@ -89,6 +1454,51 @@
      "units": 1,
      "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24NDgf92BO2uS.ZJhUaCNd/.DkGgJ5b2EBcKf9q4dWPmDJGYON8fsz./4247",
      "sha256": "8be192069e3aa84e5335d79885b1f6796c964cf1ce5172fb62a4de6a561121c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-95-2025",
+   "path": "local/valcea/babeni/2025/95",
+   "short": "HCL Băbeni nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 95/2025 actualizarea devizului general al obiectivului de investiții „Reabilitare drumuri și străzi în satul aparținător Români din orașul Băbeni, județul Vâlcea”, depus în cadrul Programului național de investiții ”Anghel Saligny”",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#106369",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#106369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-96-2025",
+   "path": "local/valcea/babeni/2025/96",
+   "short": "HCL Băbeni nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 96/2025 aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici aferenți obiectivului de investiții „Construirea de locuințe – NZEB pentru tinerii din ORAȘUL BĂBENI – Stații reîncărcare autovehicule electrice (6 bucăți)” , finanțat prin Planul Național de Redresare și Reziliență, Componenta 10 – Fondul local",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#106370",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#106370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-97-2025",
+   "path": "local/valcea/babeni/2025/97",
+   "short": "HCL Băbeni nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 97/2025 aprobarea documentației tehnico-economice aferente obiectivului de investiţii ”Amenajare curte Grădinița cu Program Prelungit Sat Tătărani, Oraș Băbeni, Județul Vâlcea”",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#106431",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#106431",
+     "sha256": null
     }
    ]
   },

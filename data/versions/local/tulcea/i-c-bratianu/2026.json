@@ -3,6 +3,126 @@
  "shard": "local/tulcea/i-c-bratianu/2026",
  "acts": [
   {
+   "slug": "hcl-tulcea--i-c-bratianu-13-2026",
+   "path": "local/tulcea/i-c-bratianu/2026/13",
+   "short": "HCL I.C. Brătianu nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei I.C. Brătianu nr. 13/2026",
+   "url": "http://www.icbratianu.ro/hotarari_autoritati.php",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "http://www.icbratianu.ro/uploads/1288.pdf",
+     "sha256": "22b91764d5237f5f0d74665ae174db6d9a4a64d3cba21564b5df3d7232a8f151"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--i-c-bratianu-14-2026",
+   "path": "local/tulcea/i-c-bratianu/2026/14",
+   "short": "HCL I.C. Brătianu nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei I.C. Brătianu nr. 14/2026 privind aprobarea contului de execu?ie bugetara la data de 31.12.2025 20-03-2026",
+   "url": "http://www.icbratianu.ro/hotarari_autoritati.php",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "http://www.icbratianu.ro/uploads/1301.pdf",
+     "sha256": "92eeb34f7bc9ac798d3e93d5ee1befeba8f011ed60d2a52543868afef181f40c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--i-c-bratianu-24-2026",
+   "path": "local/tulcea/i-c-bratianu/2026/24",
+   "short": "HCL I.C. Brătianu nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei I.C. Brătianu nr. 24/2026",
+   "url": "http://www.icbratianu.ro/hotarari_autoritati.php",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "http://www.icbratianu.ro/uploads/1404.docx",
+     "sha256": "a893a68f5fc7074077e215046a528e07f0c7a091f6dfe641c19a92099b5fa58e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--i-c-bratianu-25-2026",
+   "path": "local/tulcea/i-c-bratianu/2026/25",
+   "short": "HCL I.C. Brătianu nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei I.C. Brătianu nr. 25/2026",
+   "url": "http://www.icbratianu.ro/hotarari_autoritati.php",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "http://www.icbratianu.ro/uploads/1402.docx",
+     "sha256": "4656523aed9705e832b4d34dda4dc6e196d19558b5a181ae1cbfebbda9893495"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--i-c-bratianu-30-2026",
+   "path": "local/tulcea/i-c-bratianu/2026/30",
+   "short": "HCL I.C. Brătianu nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei I.C. Brătianu nr. 30/2026",
+   "url": "http://www.icbratianu.ro/hotarari_autoritati.php",
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 1,
+     "source_url": "http://www.icbratianu.ro/uploads/1355.pdf",
+     "sha256": "52ee327fb3f6317990a9a1c2af46828c92be3c227d79245c13daac0a5dd85929"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--i-c-bratianu-31-2026",
+   "path": "local/tulcea/i-c-bratianu/2026/31",
+   "short": "HCL I.C. Brătianu nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei I.C. Brătianu nr. 31/2026 privind majoarea obliga?iilor financiare rezultate din Acordul de cooperare privind organizarea ?i func?ionarea compartimentului Contabilitate, Acordului de cooperare privind organizarea ?i func?ionarea compartimentului Registrul Agr 19-06-2026",
+   "url": "http://www.icbratianu.ro/hotarari_autoritati.php",
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 1,
+     "source_url": "http://www.icbratianu.ro/uploads/1348.pdf",
+     "sha256": "7c953e0772e9b1d391e1474d8e291e326b7478e06ff8966d490e6d79235e77e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--i-c-bratianu-32-2026",
+   "path": "local/tulcea/i-c-bratianu/2026/32",
+   "short": "HCL I.C. Brătianu nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei I.C. Brătianu nr. 32/2026 privind actualizarea obligatiilor financiare rezultate din Acordul de cooperare privind organizarea si exercitarea actiunilor si activitatilor departamentului Administrativ prin care se asigura satisfacerea nevoilor de utilitate si i 19-06-2026",
+   "url": "http://www.icbratianu.ro/hotarari_autoritati.php",
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 1,
+     "source_url": "http://www.icbratianu.ro/uploads/1350.pdf",
+     "sha256": "8d3180f9b823f97c6c4a065d59be789adb1ee855d0e1dbedd3abd04361ede156"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--i-c-bratianu-35-2026",
+   "path": "local/tulcea/i-c-bratianu/2026/35",
+   "short": "HCL I.C. Brătianu nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei I.C. Brătianu nr. 35/2026 privind Codul administrativ, cu modificările și completările ulterioare;  Ordonanței guvernului nr. 26/2000 cu privire la asociații și fundații, aprobată cu modificări și completări prin Legea nr. 246/2005, cu modificările și completările ulterioare;  art. 8, alin. (3), lit. k), art. 10, alin (5), teza 2, alin. (5^1 ) din Legea serviciilor comunitare de utilități publice nr. 51/2006, republicată",
+   "url": "http://www.icbratianu.ro/hotarari_autoritati.php",
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 1,
+     "source_url": "http://www.icbratianu.ro/uploads/1354.pdf",
+     "sha256": "34d8ec848fc02175ac2baba3caeb9212c7fdc7fa8f1c0f222ac5ff6699de1ed9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--i-c-bratianu-36-2026",
    "path": "local/tulcea/i-c-bratianu/2026/36",
    "short": "HCL I.C. Brătianu nr. 36/2026",
@@ -14,6 +134,111 @@
      "units": 1,
      "source_url": "http://www.icbratianu.ro/uploads/1347.pdf",
      "sha256": "99d3438456c0bd4c5b39d2b922665a248a8792f57d99dfec0e048f1f43997af8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--i-c-bratianu-38-2026",
+   "path": "local/tulcea/i-c-bratianu/2026/38",
+   "short": "HCL I.C. Brătianu nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei I.C. Brătianu nr. 38/2026 privind desemnarea presedintelui sedintelor Consiliului local al U.A.T.Comuna I.C",
+   "url": "http://www.icbratianu.ro/hotarari_autoritati.php",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "http://www.icbratianu.ro/uploads/1379.docx",
+     "sha256": "0ea652e96c1a2b8509ba70d1a26fe29c1e3aa61b5e2381ac74b5876b9a351f7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--i-c-bratianu-45-2026",
+   "path": "local/tulcea/i-c-bratianu/2026/45",
+   "short": "HCL I.C. Brătianu nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei I.C. Brătianu nr. 45/2026 privind inventarierea unor terenuri din Comuna I.C Brătianu,județul Tulcea",
+   "url": "http://www.icbratianu.ro/hotarari_autoritati.php",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 1,
+     "source_url": "http://www.icbratianu.ro/uploads/1384.docx",
+     "sha256": "6492a8059b8c1a0f1aeca52121e2f1e72f573c3bfb510fa8222e6e7d73f7a496"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--i-c-bratianu-46-2026",
+   "path": "local/tulcea/i-c-bratianu/2026/46",
+   "short": "HCL I.C. Brătianu nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei I.C. Brătianu nr. 46/2026 privind inventarierea unor terenuri din Comuna I.C Brătianu,județul Tulcea",
+   "url": "http://www.icbratianu.ro/hotarari_autoritati.php",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 1,
+     "source_url": "http://www.icbratianu.ro/uploads/1383.docx",
+     "sha256": "9e5510b7b6c270e163e216c58bf91dd36cdee5821b5730c3d661a8ab9ed7ad0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--i-c-bratianu-53-2026",
+   "path": "local/tulcea/i-c-bratianu/2026/53",
+   "short": "HCL I.C. Brătianu nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei I.C. Brătianu nr. 53/2026 Privind modificarea unui contract individual de muncă încheiat în baza Acordului de cooperare privind organizarea și funcționarea compartimentului contabilitate din cadrul Filialei Județene Tulcea ACOR Consiliul Local întrunit în ședinta ordinară din data de 28.08.2026 Având în vedere: Cererea dnei",
+   "url": "http://www.icbratianu.ro/hotarari_autoritati.php",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "http://www.icbratianu.ro/uploads/1382.docx",
+     "sha256": "5cfbcb1eddd6bfcb28a182af434c5d5e337b42995832bbd5de3c273d625435d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--i-c-bratianu-58-2026",
+   "path": "local/tulcea/i-c-bratianu/2026/58",
+   "short": "HCL I.C. Brătianu nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei I.C. Brătianu nr. 58/2026",
+   "url": "http://www.icbratianu.ro/hotarari_autoritati.php",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "http://www.icbratianu.ro/uploads/1375.docx",
+     "sha256": "d7dc19f25600f5bba6922d452610d0aa356c66f3c5b503b3f2e3427e074b3d5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--i-c-bratianu-59-2026",
+   "path": "local/tulcea/i-c-bratianu/2026/59",
+   "short": "HCL I.C. Brătianu nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei I.C. Brătianu nr. 59/2026",
+   "url": "http://www.icbratianu.ro/hotarari_autoritati.php",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "http://www.icbratianu.ro/uploads/1392.docx",
+     "sha256": "62782d1212369c7f082e4a2291a796241057f7392a448e72d17ce7b4a6d94644"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--i-c-bratianu-70-2026",
+   "path": "local/tulcea/i-c-bratianu/2026/70",
+   "short": "HCL I.C. Brătianu nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei I.C. Brătianu nr. 70/2026 privind aprobarea actualizării PLANULUI DE MĂSURI pentru prevenirea și combaterea abandonării deșeurilor și asigurarea gestionării corespunzătoare a deșeurilor pe raza U.A.T",
+   "url": "http://www.icbratianu.ro/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "http://www.icbratianu.ro/uploads/1431.docx",
+     "sha256": "e3ed63df9e50996306d2fe51522305319c9bd54d8cce6ed6836eaa56a9f189c9"
     }
    ]
   }

@@ -3,6 +3,126 @@
  "shard": "local/tulcea/sulina/2025",
  "acts": [
   {
+   "slug": "hcl-tulcea--sulina-100-2025",
+   "path": "local/tulcea/sulina/2025/100",
+   "short": "HCL Sulina nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 100/2025 privind aprobarea întocmirii raportului de evaluare destinat stabilirii prețului minim de pornire în vederea vânzării prin licitație publică a terenului în suprafață totală de 503 mp, aparținând domeniului privat al orașului Sulina, situat în intravilanul orașu",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL100din2025_raport_evaluare_teren.pdf",
+     "sha256": "d18e65f559d7ec94a4bb4cd608d89b5e56dc5fc994cc9d61e07a7c67d731f77d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-101-2025",
+   "path": "local/tulcea/sulina/2025/101",
+   "short": "HCL Sulina nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 101/2025 privind aprobarea întocmirii raportului de evaluare destinat stabilirii prețului minim de pornire în vederea vânzării prin licitație publică a terenului în suprafață totală de 120 mp, aparținând domeniului privat al orașului Sulina, situat în intravilanul orașu",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL101din2025_raport_evaluare_teren.pdf",
+     "sha256": "cca818e3f8655acf85709644e8f15c395a1eb3c2451c1ae9ec327abd1ebc18b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-102-2025",
+   "path": "local/tulcea/sulina/2025/102",
+   "short": "HCL Sulina nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 102/2025 privind aprobarea întocmirii raportului de evaluare destinat stabilirii prețului minim de pornire în vederea vânzării prin licitație publică a terenului în suprafață totală de 653 mp, aparținând domeniului privat al orașului Sulina, situat în intravilanul orașu",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL102din2025_raport_evaluare_teren.pdf",
+     "sha256": "7ea81a91b2f29b18f20c0013af72327f0d1149e0d51c18fd4b7ea79efb663f37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-103-2025",
+   "path": "local/tulcea/sulina/2025/103",
+   "short": "HCL Sulina nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 103/2025 privind aprobarea întocmirii raportului de evaluare destinat stabilirii prețului minim de pornire în vederea vânzării prin licitație publică a terenului în suprafață totală de 239 mp, aparținând domeniului privat al orașului Sulina, situat în intravilanul orașu",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL103din2025_raport_evaluare_teren.pdf",
+     "sha256": "a204771b7ab6c70f324e20df369b56a570c64f0b581163712309e667c526c4f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-104-2025",
+   "path": "local/tulcea/sulina/2025/104",
+   "short": "HCL Sulina nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 104/2025 privind aprobarea întocmirii raportului de evaluare destinat stabilirii prețului minim de pornire în vederea vânzării prin licitație publică a terenului în suprafață totală de 254 mp, aparținând domeniului privat al orașului Sulina, situat în intravilanul orașu",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL104din2025_raport_evaluare_teren.pdf",
+     "sha256": "5c49c4ed80a38067d80f3d74f68a3a88ea7bef9f58b6628b1ca52d1674167ab0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-105-2025",
+   "path": "local/tulcea/sulina/2025/105",
+   "short": "HCL Sulina nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 105/2025 privind aprobarea întocmirii raportului de evaluare destinat stabilirii prețului minim de pornire în vederea vânzării prin licitație publică a terenului în suprafață totală de 194 mp, aparținând domeniului privat al orașului Sulina, situat în intravilanul orașu",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL105din2025_raport_evaluare_teren.pdf",
+     "sha256": "86efb7aa575d33979aab645fdde82d92fb0aca570403ffb7cfbef0ee7882ce04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-106-2025",
+   "path": "local/tulcea/sulina/2025/106",
+   "short": "HCL Sulina nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 106/2025 privind modificarea Hotărârii Consiliului Local Sulina nr. 137 din 26.09.2011 privind aprobarea prețului de vânzare pentru terenul în suprafață de 400 mp, situat în intravilanul orașului Sulina, în zona A, pe strada a II-a, nr. 244 și acordarea dreptului de pre",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL106din2025_modificare_HCL137.pdf",
+     "sha256": "b2bedcfec7c6a3e2bba0fe2d9fc41ea6891d43c269a3fc83692dd7d9af8b0935"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-108-2025",
+   "path": "local/tulcea/sulina/2025/108",
+   "short": "HCL Sulina nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 108/2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL108din2026_mandatare_primar.pdf",
+     "sha256": "e55892cfbc68efb4ae2e30638ee5bbefda9a677f0c82738f9b0fb1b4da3fd1c8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--sulina-109-2025",
    "path": "local/tulcea/sulina/2025/109",
    "short": "HCL Sulina nr. 109/2025",
@@ -33,6 +153,36 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--sulina-111-2025",
+   "path": "local/tulcea/sulina/2025/111",
+   "short": "HCL Sulina nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 111/2025 privind aprobarea cuantumului minim al chiriilor, percepute în cazul închirierii utilajelor și echipamentelor, pentru anul 2026",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL111din2025_cuantum_chirii_utilaje.pdf",
+     "sha256": "72b0288dd451e11499b31cf07cbdae3e25d43fabe202702f0c76932cc7ee72a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-112-2025",
+   "path": "local/tulcea/sulina/2025/112",
+   "short": "HCL Sulina nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 112/2025 privind aprobarea menținerii rețelei școlare a unității de învățământ preuniversitar de stat de pe raza orașului Sulina pentru anul școlar 2026-2027",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL112din2025_retea_invatamant.pdf",
+     "sha256": "b22afe4548cec973d2dac085afdaebcfb0408e27d171595b700e71495ed058cf"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--sulina-113-2025",
    "path": "local/tulcea/sulina/2025/113",
    "short": "HCL Sulina nr. 113/2025",
@@ -44,6 +194,36 @@
      "units": 1,
      "source_url": "https://primaria-sulina.ro/files/HCL113din2025_subventii.pdf",
      "sha256": "6f3c5e3764a790f25ec9c5b89070ceda778d780743356a7612f26bb559758645"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-114-2025",
+   "path": "local/tulcea/sulina/2025/114",
+   "short": "HCL Sulina nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 114/2025 privind aprobarea modificării Organigramei și Statelor de funcții ale aparatului de specialitate al primarului orașului Sulina, ale serviciilor publice fără personalitate juridică din subordinea Consiliului Local Sulina",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL114din2025_modificare_organigrama.pdf",
+     "sha256": "966e96a84973e9ad0ca8b0f6c71bf9db9168890cdeffdb0bf16ffce504d60d45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-115-2025",
+   "path": "local/tulcea/sulina/2025/115",
+   "short": "HCL Sulina nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 115/2025 privind aprobarea rectificării bugetului propriu de venituri și cheltuieli al Orașului Sulina pe anul 2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL115din2025_rectificare_buget.pdf",
+     "sha256": "9560abc472c139b8c113725093535f4b429872cdd5fbba0aadfc1e1a7043643c"
     }
    ]
   },
@@ -63,6 +243,261 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--sulina-12-2025",
+   "path": "local/tulcea/sulina/2025/12",
+   "short": "HCL Sulina nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 12/2025 privind aprobarea declanșării procedurii de selecție pentru un membru ce va face parte din Consiliul de Administrație al SC ASPL Sulina SRL",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL12din30ian2025_membru_consiliu_ASPL.docx",
+     "sha256": "d3bbea54823e69d56d9776b0c0753ca63445193b2546bfee8b58308fe11e010f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-13-2025",
+   "path": "local/tulcea/sulina/2025/13",
+   "short": "HCL Sulina nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 13/2025 privind aprobarea unor măsuri pentru implementarea Programului național „Masă sănătoasă” în anul 2025, pentru acordarea unui suport alimentar elevilor Liceului teoretic „Jean Bart” din orașul Sulina, județul Tulcea",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL13din2025_masa_sanatoasa.docx",
+     "sha256": "8886943705ad2e7c8b48e1c2869e1fdb0b6aa8789f700aafba5d31d492c5b2af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-17-2025",
+   "path": "local/tulcea/sulina/2025/17",
+   "short": "HCL Sulina nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 17/2025 privind aprobarea întocmirii studiilor (raport sintetic al evaluării seismice, raport de audit energetic, inclusiv certificatul de performanță energetică, studiu geotehnic, studiu topografic, etc) pentru obiectivul de investiții „Consolidare clădire cu risc seis",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL17din2025_consolidare_casa_cultura.docx",
+     "sha256": "56182d7e2cf16903550ae225e31f977b66b4d36ba75c6c3981525a14f89dc0a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-19-2025",
+   "path": "local/tulcea/sulina/2025/19",
+   "short": "HCL Sulina nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 19/2025 privind aprobarea întocmirii raportului de evaluare destinat stabilirii prețului minim de pornire în vederea vânzării prin licitație publică a terenului în suprafață totală de 287,00 mp, situat în intravilanul orașului Sulina, zona ,,A’’, pe strada I , nr. 74, j",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL19din2025_pret_vanzare_teren.docx",
+     "sha256": "64ea236f2bc29ff4de3e0a770af516aade81d3de7c3ede13b56b6e08de081508"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-2-2025",
+   "path": "local/tulcea/sulina/2025/2",
+   "short": "HCL Sulina nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 2/2025 privind transmiterea dreptului de concesiune pentru terenul în suprafață de 225 mp, situat în intravilanul orașului Sulina, str. Europolis, nr. 2, județul Tulcea, înscris în cartea funciară nr. 30399 Sulina, în favoarea Autorității Naționale Pentru Administrare Și",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL2din15ian2025_drept_concesiune.docx",
+     "sha256": "bb2c2d07fe45c65e262fc9f532b1763c1a3a07128b856680eeefb259c4ae1a08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-20-2025",
+   "path": "local/tulcea/sulina/2025/20",
+   "short": "HCL Sulina nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 20/2025 privind aprobarea întocmirii raportului de evaluare destinat stabilirii prețului minim de pornire în vederea concesionării prin licitație publică a terenului în suprafață totală de 241 mp, situat în intravilanul orașului Sulina, zona ,,A’’, pe strada I , nr. 74",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL20din2025_pret_vanzare.docx",
+     "sha256": "ea2327155b3956eebdf14b0a3ed0d4d70f4226cf128f2af1772f2c07d9c3fb7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-21-2025",
+   "path": "local/tulcea/sulina/2025/21",
+   "short": "HCL Sulina nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 21/2025 privind aprobarea întocmirii raportului de evaluare destinat stabilirii prețului minim de pornire în vederea concesionării prin licitație publică a terenului în suprafață totală de 263 mp, situat în intravilanul orașului Sulina, zona ,,A’’, pe strada I , nr. 74",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL21din2025_pret_vanzare.docx",
+     "sha256": "59744a94e9f05f50521bb59b12f4fc3d3742fa5018fd6f60c8bc15fe449fdd43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-22-2025",
+   "path": "local/tulcea/sulina/2025/22",
+   "short": "HCL Sulina nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 22/2025 privind aprobarea întocmirii raportului de evaluare în vederea concesionării terenului aparținând domeniului privat al orașului Sulina în suprafață de 81 mp, reprezentând cota indiviză aferentă spațiului comercial situat în intravilanul orașului Sulina, str.I, n",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL22din2025_pret_concesionare_teren.docx",
+     "sha256": "7901fcb82511e01637c2ebcff4c9c2c3002e9d9e00fb5ea18abfa3ec4960e61e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-23-2025",
+   "path": "local/tulcea/sulina/2025/23",
+   "short": "HCL Sulina nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 23/2025 privind aprobarea întocmirii raportului de evaluare în vederea concesionării terenului aparținând domeniului privat al orașului Sulina în suprafață de 10,29 mp, reprezentând cota indiviză aferentă spațiului comercial situat în intravilanul orașului Sulina, str.I",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL23din2025_pret_concesionare_teren.docx",
+     "sha256": "9d8867810583e8fadc50bc30bff833addd27aeb9fddca8cf17be7292bb4bd576"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-24-2025",
+   "path": "local/tulcea/sulina/2025/24",
+   "short": "HCL Sulina nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 24/2025 privind aprobarea întocmirii raportului de evaluare în vederea concesionării terenului aparținând domeniului privat al orașului Sulina în suprafață de 30,70 mp, reprezentând cota indiviză aferentă spațiului comercial situat în intravilanul orașului Sulina, str.I",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL24din2025_pret_concesionare_teren.docx",
+     "sha256": "4530f5166aa91ae3c498a4a38d3064ca34b9043a51ba27066405d9515def5596"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-25-2025",
+   "path": "local/tulcea/sulina/2025/25",
+   "short": "HCL Sulina nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 25/2025 privind alegerea unui președinte de ședință, care va conduce ședințele consiliului local și va semna hotărârile adoptate de acesta în perioada 01.03.2025-31.05.2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL25din2025_presedinte_sedinta.docx",
+     "sha256": "76c8e0e8e534e1235c3c0df42a123382f44d7ebd503960a4b205aef80d5e52ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-26-2025",
+   "path": "local/tulcea/sulina/2025/26",
+   "short": "HCL Sulina nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 26/2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL26din2025_reprezentanti_proprietari.docx",
+     "sha256": "ad0611420d331f26a05f326a09fead3d17f5504226acbd518f5a2e86deba88b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-29-2025",
+   "path": "local/tulcea/sulina/2025/29",
+   "short": "HCL Sulina nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 29/2025 privind aprobarea întocmirii raportului de evaluare destinat stabilirii prețului minim de pornire pentru închirierea prin licitație publică a terenului în suprafață totală de 1112568 mp, aparținând domeniului privat al orașului Sulina, situat în extravilanul ora",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL29din2025_pret_inchiriere_teren.docx",
+     "sha256": "ef71d53d15c9557e3596e1b1255ee294ed6c9546b23e809294ba831fda79deed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-3-2025",
+   "path": "local/tulcea/sulina/2025/3",
+   "short": "HCL Sulina nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 3/2025 privind modificarea H.C.L",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL3din30ian2025_taxi.docx",
+     "sha256": "c963d56e8ba3862fc6e76b40ec1e2db73fd9bc2b33a4278bdc4d109793a6dfe5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-30-2025",
+   "path": "local/tulcea/sulina/2025/30",
+   "short": "HCL Sulina nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 30/2025 privind aprobarea întocmirii Raportului de evaluare destinat stabilirii prețului minim de pornire pentru închirierea prin licitație publică a terenului în suprafață totală de 1042790 mp, aparținând domeniului privat al orașului Sulina, situat în extravilanul ora",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL30din2025_pret_inchiriere_teren.docx",
+     "sha256": "852e6ccb94ddb9748ae6ba93e4de2044eb9968b3a7dd205156ff5f018f179783"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-31-2025",
+   "path": "local/tulcea/sulina/2025/31",
+   "short": "HCL Sulina nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 31/2025 privind aprobarea bugetului propriu de venituri și cheltuieli al Orașului Sulina, pe anul 2025 (conține anexe)",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL31din2025_buget_local.pdf",
+     "sha256": "8939835c3822b1ff37ac45247fffc1453717971a78f0c6d87effbac53a10f0df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-32-2025",
+   "path": "local/tulcea/sulina/2025/32",
+   "short": "HCL Sulina nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 32/2025 privind aprobarea bugetelor de venituri și cheltuieli ale activităților finanțate integral din venituri proprii din subordinea Consiliului Local Sulina, pe anul 2025 (conține anexe)",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL32din2025_buget_activitati.pdf",
+     "sha256": "8b05eb7bc5242f7e077bab17bd0f01a6af31153d65292aa0c872f379081f4f5b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--sulina-33-2025",
    "path": "local/tulcea/sulina/2025/33",
    "short": "HCL Sulina nr. 33/2025",
@@ -74,6 +509,66 @@
      "units": 1,
      "source_url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
      "sha256": "e3adc3889e7767f1af04801176b76c14084a0dfa7ad258ad42ae7bc85447d586"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-36-2025",
+   "path": "local/tulcea/sulina/2025/36",
+   "short": "HCL Sulina nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 36/2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL36din2025_predare_Polaris.pdf",
+     "sha256": "2df4d293f431b79731158c0d5a0eaa4124389852ad61723f3f6760690bcb75f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-38-2025",
+   "path": "local/tulcea/sulina/2025/38",
+   "short": "HCL Sulina nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 38/2025 privind revocarea HCL Sulina nr. 18/27.02.2025 privind modificarea și actualizarea poziției nr. 149 din Anexa nr. 1 la Hotărârea de Consiliu Local nr.24/29.03.2019 privind inventarul bunurilor care alcătuiesc domeniul privat al orașului Sulina",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL38din2025_revocare_HCL18din2025.pdf",
+     "sha256": "9ac26964af57cc24cb8620a0ffac0ba11990cd6eefd42dec0fff33ce8ec0f8e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-39-2025",
+   "path": "local/tulcea/sulina/2025/39",
+   "short": "HCL Sulina nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 39/2025 privind modificarea și completarea inventarului bunurilor aparținând domeniului privat al orașului Sulina, însușit prin Hotărârea Consiliului Local nr.24/29.03.2019",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL39din2025_mod_inventar_bunuri.pdf",
+     "sha256": "507fd05cd181f7a0a1e8c45a6af7455fa3330e2e50157b6138362ed8bfc81962"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-4-2025",
+   "path": "local/tulcea/sulina/2025/4",
+   "short": "HCL Sulina nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 4/2025 privind stabilirea salariului de bază pentru funcția contractuală de consilier personal al primarului orașului Sulina, județul Tulcea",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL4din30ian2025_salariu_consilierl.docx",
+     "sha256": "d5d35526bf824904b9902588860bc393d0fea7278442aa450b99e5bb674acbde"
     }
    ]
   },
@@ -93,6 +588,201 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--sulina-41-2025",
+   "path": "local/tulcea/sulina/2025/41",
+   "short": "HCL Sulina nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 41/2025 privind aprobarea însușirii Raportului de evaluare și a vânzării, cu drept de preemțiune, a terenului în suprafață totala de 182,00 mp., situat în intravilanul orașului Sulina, zona ,,B’’, pe malul stâng al Canalului Caraorman, aparținând domeniului privat al oraș",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL41din2025_raport_evaluare.pdf",
+     "sha256": "21163bdde2b2d25cf8f572a659d7a04b553244baa041ee24753fec02f357df00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-42-2025",
+   "path": "local/tulcea/sulina/2025/42",
+   "short": "HCL Sulina nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 42/2025 privind aprobarea însușirii Raportului de evaluare și a vânzării, cu drept de preemțiune, a terenului în suprafață totala de 226 mp., situat în intravilanul orașului Sulina, zona ,,B’’, pe malul stâng al Canalului Caraorman, aparținând domeniului privat al orașulu",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL42din2025_raport_evaluare.pdf",
+     "sha256": "9aa983937c5e6ce23a94e98fca8332aba555fb19e36ff6cb58439611174aaf61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-43-2025",
+   "path": "local/tulcea/sulina/2025/43",
+   "short": "HCL Sulina nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 43/2025 privind aprobarea însușirii Raportului de evaluare și a vânzării, cu drept de preemțiune, a terenului în suprafață totala de 1323 mp, situat în intravilanul orașului Sulina, zona ,,C’’, Trup 2, mal stâng Canal Caraorman, aparținând domeniului privat al orașului Su",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL43din2025_raport_evaluare.pdf",
+     "sha256": "b627604c01d3bfd925f973aa0fa9ac912b7689e01d3792eaadccc573f9a0e0fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-44-2025",
+   "path": "local/tulcea/sulina/2025/44",
+   "short": "HCL Sulina nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 44/2025 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, prevăzute de „P",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL44din2025_responsabilitati_scoli.pdf",
+     "sha256": "26bd04fe2e4bbd8895dd1316c4166d58329afbff9a011faf7e1b2fe6c59d9ac5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-45-2025",
+   "path": "local/tulcea/sulina/2025/45",
+   "short": "HCL Sulina nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 45/2025 privind acordarea unui ajutor de urgenţă în caz de forţă majoră - pentru adultul aflat în situație de risc socio-medical, dl",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL45din2025_ajutor_Mladintov.pdf",
+     "sha256": "e8db262072f0e7a0cd9f6744639a4fff6e35ae2a832d5a2b0056cc1ff85ae49e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-48-2025",
+   "path": "local/tulcea/sulina/2025/48",
+   "short": "HCL Sulina nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 48/2025 privind alegerea unui președinte de ședință, care va conduce ședințele consiliului local și va semna hotărârile adoptate de acesta în perioada 01.06.2025 - 30.09.2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL48din2025_alegere_presedinte_sedinta.docx",
+     "sha256": "32d20e13c329dba802f9a3143e972bce87b058b492ab20f3e0b3d2b04dc7956e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-49-2025",
+   "path": "local/tulcea/sulina/2025/49",
+   "short": "HCL Sulina nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 49/2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+     "sha256": "aaefcf7da7f6090023eb936b90df41efce35ba3b4f0b22a52aca809f357ae049"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-5-2025",
+   "path": "local/tulcea/sulina/2025/5",
+   "short": "HCL Sulina nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 5/2025 privind aprobarea cuantumului minim al chiriilor, percepute în cazul închirierii utilajelor și echipamentelor, pentru anul 2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL5din30ian2025_chirii_utilaje.docx",
+     "sha256": "de9ade57576d818b51505ab57a7e8ee5c08e212a093e2b66a0abf4876a5445fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-50-2025",
+   "path": "local/tulcea/sulina/2025/50",
+   "short": "HCL Sulina nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 50/2025 privind aprobarea modificării și completării Regulamentului de organizare și funcționare a Sălii de sport din orașul Sulina, str. a VI-a, nr. 44, aprobat prin Hotărârea Consiliului Local nr. 72/29.08.2024",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL50din2025_aprobare_regulament_sala_sport.docx",
+     "sha256": "0f520f0fb749c64fe1e3866e6266140c48b073d74b537c75cad55cd4557fc9fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-51-2025",
+   "path": "local/tulcea/sulina/2025/51",
+   "short": "HCL Sulina nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 51/2025 privind aprobarea modului de întocmire a Registrului Agricol exclusiv în format electronic începând cu anul 2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL51din2025_registrul_agricol.docx",
+     "sha256": "073b5f4d4ea3396a5c6ea2b79d950a616ad6871b55b921d5dec411253e2997c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-53-2025",
+   "path": "local/tulcea/sulina/2025/53",
+   "short": "HCL Sulina nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 53/2025 privind modificarea și completarea H.C.L",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL53din2025_onorariu_avocat.docx",
+     "sha256": "e9eacf7c5f65f42dea88441dc05d536adc0e8eb93df0c25079c4b0d4b1a591f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-54-2025",
+   "path": "local/tulcea/sulina/2025/54",
+   "short": "HCL Sulina nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 54/2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+     "sha256": "d5fb542b0d242013fca56907bf0adc3481fb49ddd40baa47403116ad22db88c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-55-2025",
+   "path": "local/tulcea/sulina/2025/55",
+   "short": "HCL Sulina nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 55/2025 privind aprobarea dezmembrării în două loturi a imobilului înscris în Cartea Funciară nr. 30222, nr. cadastral 30222, aparținând domeniului public al orașului Sulina, identificat în Anexa nr. 1 la H.C.L",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL55_dezmembrare_imobil.docx",
+     "sha256": "e6a9f7c465586811e906eb3a0f51244be9787d4e6437602f2e955fce7e00718a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--sulina-56-2025",
    "path": "local/tulcea/sulina/2025/56",
    "short": "HCL Sulina nr. 56/2025",
@@ -104,6 +794,21 @@
      "units": 1,
      "source_url": "https://primaria-sulina.ro/files/HCL56din2025_taxe_autorizare_ag_economici.docx",
      "sha256": "fac5c544cfbeff1c5db1b2f51bfcb954488a68a98473de149b316572e82e483c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-58-2025",
+   "path": "local/tulcea/sulina/2025/58",
+   "short": "HCL Sulina nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 58/2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL58din2025_imobil_ASPL.docx",
+     "sha256": "4d7b79e4dd40209426b5e1d132be5b173a604035882bbe940b0112e075366715"
     }
    ]
   },
@@ -123,6 +828,261 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--sulina-6-2025",
+   "path": "local/tulcea/sulina/2025/6",
+   "short": "HCL Sulina nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 6/2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL6din30ian2025_repartizare_ANL.docx",
+     "sha256": "a68965f9c45da8b776a7bf614937c669a9492124d38fa74e13a94d9fcb4a3117"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-61-2025",
+   "path": "local/tulcea/sulina/2025/61",
+   "short": "HCL Sulina nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 61/2025 privind aprobarea încetării prin reziliere a contractului de închiriere nr. 4916/26.08.2016 încheiat în baza Hotărârii Consiliului Local Sulina nr. 62/13.04.2016 și radierea acestuia din cartea funciară",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL61din2025_reziliere_contract_inchiriere.docx",
+     "sha256": "d0c0c57fc4c5e6a932517d2ffcba75ff925613e611e86bcb5ac287de8bf456df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-62-2025",
+   "path": "local/tulcea/sulina/2025/62",
+   "short": "HCL Sulina nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 62/2025 privind aprobarea documentației de atribuire directă a contractului de delegare a gestiunii serviciului de salubrizare, activitatea de dezinsecție, dezinfecție și deratizare la obiectivele din domeniul public și domeniul privat ale orașului Sulina, județul Tulcea, s",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL62din2025_servicii_ASPL.doc",
+     "sha256": "b14e1f144179f9b6101866f7f9f614d5315ff5c21b2c275d736f69be7548dc5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-63-2025",
+   "path": "local/tulcea/sulina/2025/63",
+   "short": "HCL Sulina nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 63/2025 privind aprobarea rectificării bugetului propriu de venituri și cheltuieli al Orașului Sulina, pe anul 2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL63din2025_rectificare_bugetara.docx",
+     "sha256": "67bf946850183dc3548464ed8302ebe88cde4744de7b1cbb4fc63fcd64706cc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-65-2025",
+   "path": "local/tulcea/sulina/2025/65",
+   "short": "HCL Sulina nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 65/2025 privind aprobarea însușirii Raportului de evaluare și a vânzării în rate a terenului în suprafață de 300 mp, situat în intravilanul orașului Sulina, str. a VI - a, nr. 42A, județul Tulcea, aparținând domeniului privat al orașului Sulina, atribuit în conformitate cu",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL65din2025_vanzare_teren_Macaila.docx",
+     "sha256": "1120ee91f4f2e82ae8e74c58fba803e42979f006670266ec3f5c3bbc91a4f9a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-66-2025",
+   "path": "local/tulcea/sulina/2025/66",
+   "short": "HCL Sulina nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 66/2025 privind aprobarea nivelului cotizației U.A.T",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL66din2025_cotizatie_GAL.docx",
+     "sha256": "202e6f63c3ca96786088b567094a4bb8d3a4e5afd80692f9d7add59e9cf3ff68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-67-2025",
+   "path": "local/tulcea/sulina/2025/67",
+   "short": "HCL Sulina nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 67/2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+     "sha256": "4a0d536defc84d8a7a65c8b363fc53c572a4b3dfd2d60da96fe35e57784bc339"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-68-2025",
+   "path": "local/tulcea/sulina/2025/68",
+   "short": "HCL Sulina nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 68/2025 privind aprobarea întocmirii raportului de evaluare destinat stabilirii prețului minim de pornire în vederea vânzării prin licitație publică a terenului în suprafață totală de 342,00 mp, aparținând domeniului privat al orașului Sulina, situat în intravilanul orașulu",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL68din2025_evaluare_vanzare_teren.docx",
+     "sha256": "a05a2707f19380bb90c0460491b05f213c5ca418c4397d2db495164b0512eb06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-69-2025",
+   "path": "local/tulcea/sulina/2025/69",
+   "short": "HCL Sulina nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 69/2025 privind aprobarea întocmirii raportului de evaluare destinat stabilirii prețului minim de pornire în vederea vânzării prin licitație publică a terenului în suprafață totală de 326,00 mp, aparținând domeniului privat al orașului Sulina, situat în intravilanul orașulu",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL69din2025_evaluare_vanzare_teren.docx",
+     "sha256": "dd387781cf7a57889b718cf50c5b29d6621aeb26ac94d17a2bc2010946d95e7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-7-2025",
+   "path": "local/tulcea/sulina/2025/7",
+   "short": "HCL Sulina nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 7/2025 privind aprobarea actualizării anuale cu rata inflației a chiriei stabilite pentru fiecare chiriaș ce ocupă spațiul din fondul locativ al Agenției Naționale pentru Locuințe",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL7din30ian2025_indexare_ANL.docx",
+     "sha256": "21417411ada80f114b463754ba30fc939d960bd78659ff86e13dc4238470ffee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-70-2025",
+   "path": "local/tulcea/sulina/2025/70",
+   "short": "HCL Sulina nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 70/2025 privind alegerea unui președinte de ședință, care va conduce ședințele Consiliului Local și va semna hotărârile adoptate de acesta în perioada 01.09.2025 - 30.11.2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL70din2025_presedinte_sedinta.docx",
+     "sha256": "cf1fd309766dbfda730047b5239a6a599ab647d8b4118f406df5de28712f0481"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-72-2025",
+   "path": "local/tulcea/sulina/2025/72",
+   "short": "HCL Sulina nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 72/2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+     "sha256": "c3bf3648304fb5784a7447b86ea5c78448aeb09b0f41d38a8bd30df0d25ca89d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-73-2025",
+   "path": "local/tulcea/sulina/2025/73",
+   "short": "HCL Sulina nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 73/2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+     "sha256": "6f945f11e4e1ffdcd14d161bc1760e446be68da82de21d3aac5ff7545321446c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-76-2025",
+   "path": "local/tulcea/sulina/2025/76",
+   "short": "HCL Sulina nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 76/2025 privind aprobarea propunerii de numire a unui membru provizoriu în Consiliul de Administrație al SC ASPL Sulina SRL",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL76din2025_numire_membru_CA_ASPL.docx",
+     "sha256": "f489a947fa96eab488a7bc0ddc83ab7581520acc6a7ad508ebd890f0658cfb17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-77-2025",
+   "path": "local/tulcea/sulina/2025/77",
+   "short": "HCL Sulina nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 77/2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+     "sha256": "2b947e71047a1ec75387613dba34d6b4be82f7228d8c237b2bf518a229ead6ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-78-2025",
+   "path": "local/tulcea/sulina/2025/78",
+   "short": "HCL Sulina nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 78/2025 privind aprobarea însușirii Raportului de evaluare și a concesionării prin licitație publică, a unui teren, aparținând domeniului privat de interes local al orașului Sulina, identificat prin carte funciară nr. 32299",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL78din2025_aprobare_raport_evaluare_teren.doc",
+     "sha256": "eb006daad60d93f2fd9124dd0ff762d578cffa288b1ef95612aa87364c803ae7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-79-2025",
+   "path": "local/tulcea/sulina/2025/79",
+   "short": "HCL Sulina nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 79/2025 privind aprobarea însușirii Raportului de evaluare și a concesionării prin licitație publică, a unui teren, aparținând domeniului privat de interes local al orașului Sulina, identificat prin carte funciară nr. 32297",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL79din2025_aprobare_raport_evaluare_teren.doc",
+     "sha256": "e552e6661d869324f0d57fef77b388518f840ff64889a329130fa65013616b83"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--sulina-8-2025",
    "path": "local/tulcea/sulina/2025/8",
    "short": "HCL Sulina nr. 8/2025",
@@ -138,6 +1098,66 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--sulina-80-2025",
+   "path": "local/tulcea/sulina/2025/80",
+   "short": "HCL Sulina nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 80/2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+     "sha256": "0e616fd209c5f39bc18a9cada61f70783e3d1da6cc3ba9b0b318086dcc55dd1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-81-2025",
+   "path": "local/tulcea/sulina/2025/81",
+   "short": "HCL Sulina nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 81/2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+     "sha256": "73a1a0a45cf1cf5618ea7bb1f81ce37a1f16e139f6a23670cb9d6470420b3dac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-82-2025",
+   "path": "local/tulcea/sulina/2025/82",
+   "short": "HCL Sulina nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 82/2025 privind aprobarea întocmirii raportului de evaluare destinat stabilirii prețului minim de pornire în vederea vânzării prin licitație publică a terenului în suprafață totală de 257 mp, situat în intravilanul orașului Sulina, zona „B”, pe strada a VI - a, nr. 46",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL82din2025_intocmire_raport_str_VI.docx",
+     "sha256": "c9877a9c9fc11ddea1d9ba897d3f36e64f4223d77ff8ee69617b5a082b820862"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-83-2025",
+   "path": "local/tulcea/sulina/2025/83",
+   "short": "HCL Sulina nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 83/2025 privind aprobarea Planului propriu de acțiune pe timpul iernii 2025-2026 la nivelul orașului Sulina",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL83din2025_plan_actiune_iarna.doc",
+     "sha256": "d720191d13fd954323b57efcd6b01f2a3e627e83ade76039a1f00a8ae6bf6bdb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--sulina-84-2025",
    "path": "local/tulcea/sulina/2025/84",
    "short": "HCL Sulina nr. 84/2025",
@@ -149,6 +1169,231 @@
      "units": 1,
      "source_url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
      "sha256": "9aeda84e9fb8a2b4304152b99b408c092ab4b55392985656bd55cac3dfe0d570"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-85-2025",
+   "path": "local/tulcea/sulina/2025/85",
+   "short": "HCL Sulina nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 85/2025 privind aprobarea întocmirii raportului de evaluare destinat stabilirii prețului minim de pornire în vederea vânzării prin licitație publică a terenului în suprafață totală de 120 mp, situat în intravilanul orașului Sulina, zona „A”, pe strada a III - a, nr. 11",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL85_intocmire_raport_str3nr111.docx",
+     "sha256": "6ce80686e5f3e2f2c95be000eb9e0e0c5f489882d3241ff0c68d02022be320ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-86-2025",
+   "path": "local/tulcea/sulina/2025/86",
+   "short": "HCL Sulina nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 86/2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+     "sha256": "7bf88ffc58d0e95b3d77ab4f91889faef8bdd11d67f490e7c5ac3e6f06b98141"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-87-2025",
+   "path": "local/tulcea/sulina/2025/87",
+   "short": "HCL Sulina nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 87/2025 privind însușirea cererii de chemare în judecată ce constituie obiect al dosarului nr. 22971/3/2025 și mandatarea Primarului Orașului Sulina în vederea reprezentării Consiliului Local Sulina în acest dosar",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hcl87din2025_mandatare_primar.pdf",
+     "sha256": "ab071420c77502b207c6e1e9f7135c40154de9d3a46f48e03bce20485b248eb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-88-2025",
+   "path": "local/tulcea/sulina/2025/88",
+   "short": "HCL Sulina nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 88/2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+     "sha256": "848488ae811e9c38f6e3b21c5af9f03389ec1d27e5f605f4909a20790846d8c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-89-2025",
+   "path": "local/tulcea/sulina/2025/89",
+   "short": "HCL Sulina nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 89/2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL89din2025_completare_inventar.pdf",
+     "sha256": "06876d4fac4bfcaadd7f80300522cdf5bac880ce30471133a56b7c78084ff148"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-9-2025",
+   "path": "local/tulcea/sulina/2025/9",
+   "short": "HCL Sulina nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 9/2025 privind revocarea H.C.L",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL9din30ian2025_revocare_hcl.docx",
+     "sha256": "ffda4805d4642e6d6d2ddb2652f54f90c111a7fb8fbcfaa144bc921bdeef9fbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-91-2025",
+   "path": "local/tulcea/sulina/2025/91",
+   "short": "HCL Sulina nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 91/2025 privind aprobarea însușirii Raportului de evaluare și a vânzării, prin licitație publică, a terenului în suprafață totală de 326 mp, aparținând domeniului privat al orașului Sulina, situat în intravilanul orașului Sulina, strada a V-a, nr. 112A, județul Tulcea",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL91din2025_raport_licitatie_teren.pdf",
+     "sha256": "a1f8d3f4c45a068d7e76af2d0497742acc2f8f8af4fe0d067fa86f185ba1fcdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-92-2025",
+   "path": "local/tulcea/sulina/2025/92",
+   "short": "HCL Sulina nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 92/2025 privind aprobarea Planului de analiză și acoperire a riscurilor și a structurii cadru, pentru gestionarea situațiilor de urgență în orașul Sulina, județul Tulcea, pe anul 2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL92din2025_plan_riscuri_ugenta.pdf",
+     "sha256": "1aaac6c21030332919d7bf1717d821d861a08b14c8a02c92b3462ebd207ca3e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-93-2025",
+   "path": "local/tulcea/sulina/2025/93",
+   "short": "HCL Sulina nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 93/2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL93din2025_asistent_personal.pdf",
+     "sha256": "0707b3633ea206c918fc2b6f5adf095aa0d054eff719dc8436cfc253a28771e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-94-2025",
+   "path": "local/tulcea/sulina/2025/94",
+   "short": "HCL Sulina nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 94/2025 privind aprobarea rectificării bugetului propriu de venituri și cheltuieli al Orașului Sulina și al instituțiilor subordonate pe anul 2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL94din2025_rectificare_buget_propriu.pdf",
+     "sha256": "c3b593e51656d9ab1014cdbe4283ec0970170b65e8ff5ab73d6e6c4ae9b1d262"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-95-2025",
+   "path": "local/tulcea/sulina/2025/95",
+   "short": "HCL Sulina nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 95/2025 privind aprobarea însușirii Raportului de evaluare și a vânzării, prin licitație publică, a terenului în suprafață totală de 120 mp, aparținând domeniului privat al orașului Sulina, situat în intravilanul orașului Sulina, strada a III-a, nr. 111, județul Tulcea",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL95din2025_raport_licitatie_teren.pdf",
+     "sha256": "57be10aea039dc69efd41754a5296824eb035c1caf8012ddc130d57553353bf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-96-2025",
+   "path": "local/tulcea/sulina/2025/96",
+   "short": "HCL Sulina nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 96/2025 privind alegerea unui președinte de ședință, care va conduce ședințele consiliului local și va semna hotărârile adoptate de acesta în perioada 01.12.2025-28.02.2026",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL96din2025_presedinte_sedinte_cls.pdf",
+     "sha256": "784c559c34b51a56e777abaebf88e18ff8b77db39a91a26c82edd9572fd2d5a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-97-2025",
+   "path": "local/tulcea/sulina/2025/97",
+   "short": "HCL Sulina nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 97/2025 privind aprobarea rectificării bugetului propriu de venituri și cheltuieli al Orașului Sulina, pe anul 2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL97din2025_rectificare_buget_propriu.pdf",
+     "sha256": "3b7518b3492f097c21434a7a72fbd921a51c355030e5c36cbd5e4ca4de309dc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-98-2025",
+   "path": "local/tulcea/sulina/2025/98",
+   "short": "HCL Sulina nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 98/2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL98din2025_completare_inventar.pdf",
+     "sha256": "a0c23ca909421c0986a8d426e722f59f0ea9f5f3d172370a654c3419b0b6cd9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-99-2025",
+   "path": "local/tulcea/sulina/2025/99",
+   "short": "HCL Sulina nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 99/2025 privind aprobarea însușirii Raportului de evaluare și a vânzării, prin licitație publică, a terenului în suprafață totală de 342 mp, aparținând domeniului privat al orașului Sulina, situat în intravilanul orașului Sulina, strada Mihail Sadoveanu, nr. 1, județul",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL99din2025_raport_licitatie_teren.pdf",
+     "sha256": "b82ad240034fba9e24af345dcfed47a2c9535ab29d1b8f823b2335a05dc4023c"
     }
    ]
   }

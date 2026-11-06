@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/tulcea/mihai-bravu/2024",
+"acts": [
+{
+"slug": "hcl-tulcea--mihai-bravu-558-2024",
+"path": "local/tulcea/mihai-bravu/2024/558",
+"kind": "local",
+"year": "2024",
+"number": "558",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Bravu nr. 558/2024",
+"short": "HCL Mihai Bravu nr. 558/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-28",
+"latest": "2024-10-28",
+"portal": "https://www.primaria-mihaibravu.ro/?p=consiliul_local",
+"council": "tulcea/mihai-bravu",
+"council_name": "Consiliul Local al Comunei Mihai Bravu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -3,6 +3,51 @@
  "shard": "local/tulcea/isaccea/2024",
  "acts": [
   {
+   "slug": "hcl-tulcea--isaccea-35-2024",
+   "path": "local/tulcea/isaccea/2024/35",
+   "short": "HCL Isaccea nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 35/2024",
+   "url": "https://isaccea.ro/wp-content/uploads/2024/04/HCL-35-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2024/04/HCL-35-2024.pdf",
+     "sha256": "71700461dfe8663126009178024e209f6ae5489d7dc4c9a915a9e40d0e21cc83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-4-2024",
+   "path": "local/tulcea/isaccea/2024/4",
+   "short": "HCL Isaccea nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 4/2024 privind modificarea organigramei si a statului de funcții al aparatului de specialitate al Primarului orașului Isaccea, județul Tulcea Consiliul Local al orașului Isaccea, întrunit în ședința extraordinară din data de 18.01.2024 fiind legal constituită, Văzând : -Proiectul de hotărâre nr.8/12.01.2024 al inițiatorului – Primar, Moraru Anastase, Raportul de specialitate nr. 432/12.01.2024 al Compart",
+   "url": "https://isaccea.ro/wp-content/uploads/2024/05/HCL-4.pdf",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2024/05/HCL-4.pdf",
+     "sha256": "34a9172ad7fa244de649e51ec7e26b1a79ea416309c473521c34e5aa058d4097"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--isaccea-55-2024",
+   "path": "local/tulcea/isaccea/2024/55",
+   "short": "HCL Isaccea nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 55/2024",
+   "url": "https://isaccea.ro/wp-content/uploads/2024/07/HCL-55.pdf",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2024/07/HCL-55.pdf",
+     "sha256": "968bb0b0e60123a7c0228f0ca4d2577de434b58273cb1be39c6f10c5351c42f5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--isaccea-73-2024",
    "path": "local/tulcea/isaccea/2024/73",
    "short": "HCL Isaccea nr. 73/2024",

@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-vaslui--balteni-8-2022",
+"path": "local/vaslui/balteni/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 8/2022 ALEGEREA PRESEDINTELUI DE SEDINTA",
+"short": "HCL Bălteni nr. 8/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-10",
+"latest": "2022-02-10",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23086",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vaslui--balteni-9-2022",
 "path": "local/vaslui/balteni/2022/9",
 "kind": "local",
@@ -333,6 +355,28 @@
 }
 },
 {
+"slug": "hcl-vaslui--balteni-17-2022",
+"path": "local/vaslui/balteni/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 17/2022 PROIECT HCL VANZARE TEREN",
+"short": "HCL Bălteni nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-24",
+"latest": "2022-03-24",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23103",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vaslui--balteni-18-2022",
 "path": "local/vaslui/balteni/2022/18",
 "kind": "local",
@@ -506,6 +550,28 @@
 "council_name": "Consiliul Local al Comunei Bălteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--balteni-26-2022",
+"path": "local/vaslui/balteni/2022/26",
+"kind": "local",
+"year": "2022",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 26/2022 DESEMNARE REPREZ. ZONA METROPOLITANA",
+"short": "HCL Bălteni nr. 26/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-18",
+"latest": "2022-05-18",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23153",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -817,6 +883,28 @@
 }
 },
 {
+"slug": "hcl-vaslui--balteni-41-2022",
+"path": "local/vaslui/balteni/2022/41",
+"kind": "local",
+"year": "2022",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 41/2022 DESEMNARE REPREZ IN CONS DE AD-TIE",
+"short": "HCL Bălteni nr. 41/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-02",
+"latest": "2022-09-02",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36815",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vaslui--balteni-42-2022",
 "path": "local/vaslui/balteni/2022/42",
 "kind": "local",
@@ -969,6 +1057,28 @@
 "council_name": "Consiliul Local al Comunei Bălteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--balteni-49-2022",
+"path": "local/vaslui/balteni/2022/49",
+"kind": "local",
+"year": "2022",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 49/2022 INCHIRIERE SPATIU",
+"short": "HCL Bălteni nr. 49/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-16",
+"latest": "2022-09-16",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36840",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

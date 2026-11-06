@@ -3,6 +3,81 @@
  "shard": "local/timis/ortisoara/2025",
  "acts": [
   {
+   "slug": "hcl-timis--ortisoara-55-2025",
+   "path": "local/timis/ortisoara/2025/55",
+   "short": "HCL Orțișoara nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Orțișoara nr. 55/2025 Privind aprobarea reactualizarii Planului de analiza si acoperire a riscurilor in domeniul sittuatiilor de urgenta pentru anul 2025 Consiliul Local al comunei Ortisoara intrunit in sedinta extraordinara , Având în vedere: -Referatul de aprobare nr.4535/04.07.2025 al Primarului UAT Ortisoara, -Raportul de specialitate nr.3851/04.06.2025 intocmit de catre Sef SVSU, -Avizul favorabil al comisiei de s",
+   "url": "https://primariaortisoara.ro/wp-content/uploads/2025/08/HCL-NR.55-REACTUALIZARE-RISCURI.pdf",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://primariaortisoara.ro/wp-content/uploads/2025/08/HCL-NR.55-REACTUALIZARE-RISCURI.pdf",
+     "sha256": "81e2ec3665450e2c8f51f2d229eda15118354d458cb4fad7437cdfc88c6394bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ortisoara-56-2025",
+   "path": "local/timis/ortisoara/2025/56",
+   "short": "HCL Orțișoara nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Orțișoara nr. 56/2025 PRIVIND REORGANIZAREA SVSU ORTISOARA",
+   "url": "https://primariaortisoara.ro/wp-content/uploads/2025/08/HCL-NR.56-PRIVIND-REORGANIZAREA-SVSU-ORTISOARA.pdf",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://primariaortisoara.ro/wp-content/uploads/2025/08/HCL-NR.56-PRIVIND-REORGANIZAREA-SVSU-ORTISOARA.pdf",
+     "sha256": "2326b06ca5eab1095c6aa9a1754de34571e5bd012568ce5dd353d7e6cc827985"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ortisoara-58-2025",
+   "path": "local/timis/ortisoara/2025/58",
+   "short": "HCL Orțișoara nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Orțișoara nr. 58/2025 Privind aprobarea alegerii Președintelui de sedință Consiliul local al comunei Orțișoara jud",
+   "url": "https://primariaortisoara.ro/wp-content/uploads/2025/09/HOTARAREA-58-ALEGERE-PRESEDINTE-SEDINTA-1.pdf",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://primariaortisoara.ro/wp-content/uploads/2025/09/HOTARAREA-58-ALEGERE-PRESEDINTE-SEDINTA-1.pdf",
+     "sha256": "cfeab73262b67cd0ca3d3741e4a52fec6ff8b848a6409879fd48a2176a66cf1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ortisoara-59-2025",
+   "path": "local/timis/ortisoara/2025/59",
+   "short": "HCL Orțișoara nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Orțișoara nr. 59/2025 privind modificarea sau completarea1 Acordului de cooperare privind organizarea și exercitarea unor activități necesare comunei Orțișoara, în scopul realizării unor atribuții stabilite prin lege autorităților administrației publice locale, nr. 39/ 29.06.2022, prin Act Adițional Ținând seama de faptul că obținerea eficienței și eficacității serviciilor publice reprezintă o condiție esențială a mana",
+   "url": "https://primariaortisoara.ro/wp-content/uploads/2025/09/Hotararea-59-CL-de-modificare-completare-a-Acordului-de-cooperare-01.08.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://primariaortisoara.ro/wp-content/uploads/2025/09/Hotararea-59-CL-de-modificare-completare-a-Acordului-de-cooperare-01.08.2025.pdf",
+     "sha256": "5f1d6f2588070485183c1eee574e02f4649a6171377e264e2a663bbdb0123434"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ortisoara-86-2025",
+   "path": "local/timis/ortisoara/2025/86",
+   "short": "HCL Orțișoara nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Orțișoara nr. 86/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "fab428da6fe96ec548b8e98fd8dfacd87576d90b84989206645cfec622758765"
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--ortisoara-90-2025",
    "path": "local/timis/ortisoara/2025/90",
    "short": "HCL Orțișoara nr. 90/2025",

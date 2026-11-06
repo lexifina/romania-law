@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/berbesti/2018",
+ "acts": [
+  {
+   "slug": "hcl-valcea--berbesti-38-2018",
+   "path": "local/valcea/berbesti/2018/38",
+   "short": "HCL Berbești nr. 38/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Berbești nr. 38/2018",
+   "url": "https://primaria-berbesti.ro/wp-content/uploads/2025/08/HOTARAREA-NR.38-DIN-25.10.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-10-25",
+     "units": 1,
+     "source_url": "https://primaria-berbesti.ro/wp-content/uploads/2025/08/HOTARAREA-NR.38-DIN-25.10.2018.pdf",
+     "sha256": "ccb329f2a865e7b6e19efc1ca06f7a47a5ee85808756b00cf848af30e0d4862d"
+    }
+   ]
+  }
+ ]
+}

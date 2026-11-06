@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/timis/peciu-nou/2008",
+ "acts": [
+  {
+   "slug": "hcl-timis--peciu-nou-6-2008",
+   "path": "local/timis/peciu-nou/2008/6",
+   "short": "HCL Peciu Nou nr. 6/2008",
+   "title": "Hotărârea Consiliului Local al Comunei Peciu Nou nr. 6/2008 privind stabilirea numarului si componenta comisiilor de specialitate ale Consiliului local Peciu Nou",
+   "url": "https://primariapeciunou.ro/comisiile-de-specialitate-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2008-07-15",
+     "units": 1,
+     "source_url": "https://primariapeciunou.ro/templates/default/uploads/files/6-%20Comisii%20de%20specialitate.pdf",
+     "sha256": "f5e90be5dff14ab117f37d7d4cb93b8f1a4305a786ddfa7748cd94b2b9d5b0b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--peciu-nou-7-2008",
+   "path": "local/timis/peciu-nou/2008/7",
+   "short": "HCL Peciu Nou nr. 7/2008",
+   "title": "Hotărârea Consiliului Local al Comunei Peciu Nou nr. 7/2008 privind aprobarea Regulamentului de organizare si functionare a Consiliului local Peciu Nou, în mandatul 2008-2012",
+   "url": "https://primariapeciunou.ro/regulamentul-consiliului-local/",
+   "versions": [
+    {
+     "from": "2008-07-15",
+     "units": 1,
+     "source_url": "https://primariapeciunou.ro/templates/default/uploads/files/7-%20REG_%20C_L.pdf",
+     "sha256": "567e0c01753dabe5f73675c2965db62542032671cc0b848a4a856cc4d40ffa3e"
+    }
+   ]
+  }
+ ]
+}

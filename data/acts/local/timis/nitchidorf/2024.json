@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/timis/nitchidorf/2024",
+"acts": [
+{
+"slug": "hcl-timis--nitchidorf-55-2024",
+"path": "local/timis/nitchidorf/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nițchidorf nr. 55/2024",
+"short": "HCL Nițchidorf nr. 55/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://primarianitchidorf.ro/wp-content/uploads/2025/10/HCL-nr.-55-din-20-12-2024.pdf",
+"council": "timis/nitchidorf",
+"council_name": "Consiliul Local al Comunei Nițchidorf",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}
