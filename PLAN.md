@@ -2,7 +2,7 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**62.1%** of the plan is published, weighted by how binding each source is and how often it is used. **81.4%** counting sources already collected but not yet published. 1.1% of the weight is in parts that need the publisher's permission first. Updated 2026-11-06 12:02 UTC.
+**62.1%** of the plan is published, weighted by how binding each source is and how often it is used. **81.4%** counting sources already collected but not yet published. 1.1% of the weight is in parts that need the publisher's permission first. Updated 2026-11-06 12:23 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
@@ -21,7 +21,7 @@ This is the plan for this repository, part by part, with what is published so fa
 | CNSC and other bodies | jurisprudenta/cnsc/ (links for the rest) | 0.6% | target unknown | official texts where public; decisions naming private persons as metadata only | collecting |
 | **Secondary legislation** | | | | | |
 | Ministerial and authority orders | ordin/<issuer>/ | 10.4% | 0 of 62,513 orders · 0.0% | official texts as published, with the documents that amend them | planned |
-| Norms and regulations (BNR, ASF, ANRE, ANCOM and others) | norme/<issuer>/ | 11.2% | 291 of 38,945 acts · 2.5% | official texts as published | collecting |
+| Norms and regulations (BNR, ASF, ANRE, ANCOM and others) | norme/<issuer>/ | 11.2% | 291 of 38,947 acts · 2.5% | official texts as published | collecting |
 | Standards (ASRO) | none: standard numbers cited only | – | out of scope | standard numbers cited only (the texts are copyright) | not planned: Copyright held by ASRO |
 | **Local acts** | | | | | |
 | Local acts: Bucharest (CGMB) | local/bucuresti/cgmb/ | 1.1% | 12,536 of 12,536 records · index pages 1,224/1,224 · listed 12,236/12,536 · texts 1 · 100.0% | the council's own register of decisions (PDF and text) | done |
