@@ -4046,6 +4046,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anmcs-106-2017",
+"path": "ordin/anmcs/2017/106",
+"kind": "ordin",
+"year": "2017",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 106/2017 privind aprobarea tarifului orar de plată a activităților de natură intelectuală desfășurate de către experții în domeniul managementului calității în sănătate",
+"short": "Ordin anmcs nr. 106/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-05-18",
+"latest": "2017-05-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/189357",
+"issuer": "anmcs",
+"joint": []
+},
+{
 "slug": "ordin-anmcs-127-2017",
 "path": "ordin/anmcs/2017/127",
 "kind": "ordin",
@@ -6379,6 +6398,25 @@
 "from": "2018-01-01",
 "latest": "2018-01-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/195716",
+"issuer": "anre",
+"joint": []
+},
+{
+"slug": "ordin-anre-119-2017",
+"path": "ordin/anre/2017/119",
+"kind": "ordin",
+"year": "2017",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 119/2017 pentru desemnarea furnizorilor de ultimă instanță",
+"short": "Ordin anre nr. 119/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-01-01",
+"latest": "2018-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/195765",
 "issuer": "anre",
 "joint": []
 },
@@ -13749,6 +13787,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-3315-2017",
+"path": "ordin/finante/2017/3315",
+"kind": "ordin",
+"year": "2017",
+"number": "3315",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.315/2017 pentru modificarea Normelor metodologice privind încheierea exercițiului bugetar al anului 2017, aprobate prin Ordinul ministrului finanțelor publice nr. 3.244/2017",
+"short": "Ordin finante nr. 3315/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-12-22",
+"latest": "2017-12-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/196184",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-3323-2017",
 "path": "ordin/finante/2017/3323",
 "kind": "ordin",
@@ -15154,6 +15211,25 @@
 "alias": "ordin-parchet-1123-c-2017"
 }
 ]
+},
+{
+"slug": "ordin-justitie-1284-c-2017",
+"path": "ordin/justitie/2017/1284-c",
+"kind": "ordin",
+"year": "2017",
+"number": "1284-c",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.284/C/2017 pentru modificarea anexei nr. 2 la Ordinul ministrului justiției nr. 1.650/C/2011 privind emiterea, folosirea, evidența și gestionarea legitimațiilor de serviciu pentru personalul din sistemul administrației penitenciare",
+"short": "Ordin justitie nr. 1284/C/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-07-10",
+"latest": "2017-07-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/191127",
+"issuer": "justitie",
+"joint": []
 },
 {
 "slug": "ordin-justitie-1291-c-2017",

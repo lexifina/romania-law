@@ -3348,6 +3348,21 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-20-2010",
+   "path": "ordin/ansvsa/2010/20",
+   "short": "Ordin ansvsa nr. 20/2010",
+   "title": "Ordinul nr. 20/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117630",
+   "versions": [
+    {
+     "from": "2010-04-02",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250407115144id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/117630",
+     "sha256": "453f0d93d789b6f0353e558a5088b804f5a7405d5e545da35e6ed45be4bbdcf7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-21-2010",
    "path": "ordin/ansvsa/2010/21",
    "short": "Ordin ansvsa nr. 21/2010",
@@ -6404,6 +6419,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123348",
      "sha256": "dfb8b42ce11c32163b3d26ae4e298c160c38a6d41f42ddd0eaae5fb566bb7524"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-2513-2010",
+   "path": "ordin/dezvoltare/2010/2513",
+   "short": "Ordin dezvoltare nr. 2513/2010",
+   "title": "Ordinul nr. 2.513/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124251",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250407002354id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/124251",
+     "sha256": "c0858c4530ce42b5dfd3848d2e9217c63c59d291ad7fecfde588a2f7faeca26a"
     }
    ]
   },

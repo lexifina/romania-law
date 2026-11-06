@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "regulament-cnvm-9-1997",
+   "path": "regulament/cnvm/1997/9",
+   "short": "Regulament cnvm nr. 9/1997",
+   "title": "Regulamentul nr. 9/1997 REGULAMENTUL nr. 9/1997 privind cerințele, criteriile de înregistrare și procedurile de autorizare a societăților de registru independent privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10907",
+   "versions": [
+    {
+     "from": "1997-11-25",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10907",
+     "sha256": "47298a7a49febf32ffa10acc149f5f367b3beeb48a25a8fff102eb9ffde24d08"
+    }
+   ]
+  },
+  {
    "slug": "regulament-cnvm-1-1997",
    "path": "regulament/cnvm/1997/1",
    "short": "Regulament cnvm nr. 1/1997",

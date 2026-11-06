@@ -18280,10 +18280,10 @@
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
 | Government decisions (HG) | 41954 | [`data/acts/hg/`](data/acts/hg/) |
-| Ministerial and authority orders (ordine) | 31010 | [`data/acts/ordin/`](data/acts/ordin/) |
-| Norms (norme) | 839 | [`data/acts/norma/`](data/acts/norma/) |
-| Regulations (regulamente) | 685 | [`data/acts/regulament/`](data/acts/regulament/) |
-| Instructions (instrucțiuni) | 245 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
+| Ministerial and authority orders (ordine) | 31094 | [`data/acts/ordin/`](data/acts/ordin/) |
+| Norms (norme) | 840 | [`data/acts/norma/`](data/acts/norma/) |
+| Regulations (regulamente) | 686 | [`data/acts/regulament/`](data/acts/regulament/) |
+| Instructions (instrucțiuni) | 246 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
 | Clarifications (precizări) | 35 | [`data/acts/precizari/`](data/acts/precizari/) |
 | Methodologies (metodologii) | 3 | [`data/acts/metodologie/`](data/acts/metodologie/) |
 | Criteria (criterii) | 3 | [`data/acts/criterii/`](data/acts/criterii/) |

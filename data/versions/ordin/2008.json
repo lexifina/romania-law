@@ -2973,6 +2973,21 @@
    ]
   },
   {
+   "slug": "ordin-anfp-11430-2008",
+   "path": "ordin/anfp/2008/11430",
+   "short": "Ordin anfp nr. 11430/2008",
+   "title": "Ordinul nr. 11.430/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99185",
+   "versions": [
+    {
+     "from": "2008-11-14",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406073718id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/99185",
+     "sha256": "785ef076233d0ab86527f231f2d10358da19902c007623fb872fd32ed28ff64b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anfp-13601-2008",
    "path": "ordin/anfp/2008/13601",
    "short": "Ordin anfp nr. 13601/2008",
@@ -5928,6 +5943,21 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-68-2008",
+   "path": "ordin/comunicatii/2008/68",
+   "short": "Ordin comunicatii nr. 68/2008",
+   "title": "Ordinul nr. 68/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89620",
+   "versions": [
+    {
+     "from": "2008-02-15",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20250421184907id_/https://legislatie.just.ro/Public/DetaliiDocument/89620",
+     "sha256": "4d86312ad3f7c3a7e7cf00ada3ef9e937e834e0ac2d5233b80199eed5fea4d0f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-690-2008",
    "path": "ordin/comunicatii/2008/690",
    "short": "Ordin comunicatii nr. 690/2008",
@@ -8774,6 +8804,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96337",
      "sha256": "097d8d2fe99028bc7e69545238675aecebe00accbd5408d2fc069fac71dc5e92"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-227-2008",
+   "path": "ordin/finante/2008/227",
+   "short": "Ordin finante nr. 227/2008",
+   "title": "Ordinul nr. 227/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89283",
+   "versions": [
+    {
+     "from": "2008-02-04",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250407012427id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/89283",
+     "sha256": "b0457bd1fb782bc90a91bd371bd06b3fc2ded2201b799bfb5dbb3743ad465874"
     }
    ]
   },

@@ -2178,6 +2178,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-798-2007",
+   "path": "ordin/agricultura/2007/798",
+   "short": "Ordin agricultura nr. 798/2007",
+   "title": "Ordinul nr. 798/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85663",
+   "versions": [
+    {
+     "from": "2007-09-26",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250425130419id_/https://legislatie.just.ro/Public/DetaliiDocument/85663",
+     "sha256": "0c306afbf0649c624fa055cfb8c081b550d5c83530749f79707ebbee748f00b3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-806-2007",
    "path": "ordin/agricultura/2007/806",
    "short": "Ordin agricultura nr. 806/2007",
@@ -3659,6 +3674,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84107",
      "sha256": "84ff8ce54dd69ce05970cc4f48378c88b79f71f09075c219c2a88283d02061cb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-27-2007",
+   "path": "ordin/anre/2007/27",
+   "short": "Ordin anre nr. 27/2007",
+   "title": "Ordinul nr. 27/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85256",
+   "versions": [
+    {
+     "from": "2007-10-12",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20250407025219id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/85256",
+     "sha256": "3eb898bf6485c1a22705feb2ccb70f890e49d80584d3d5533b8a38410dd2eab9"
     }
    ]
   },
@@ -9498,6 +9528,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1823-2007",
+   "path": "ordin/finante/2007/1823",
+   "short": "Ordin finante nr. 1823/2007",
+   "title": "Ordinul nr. 1.823/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86920",
+   "versions": [
+    {
+     "from": "2007-11-14",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250407012426id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/86920",
+     "sha256": "85b8d37c06ecb83d1b8b969e6e6abe0a5ae97e364b955a25126a465a69df7f9e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-185-2007",
    "path": "ordin/finante/2007/185",
    "short": "Ordin finante nr. 185/2007",
@@ -12513,6 +12558,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1166-2007",
+   "path": "ordin/mediu/2007/1166",
+   "short": "Ordin mediu nr. 1166/2007",
+   "title": "Ordinul nr. 1.166/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83883",
+   "versions": [
+    {
+     "from": "2007-07-26",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250407165107id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/83883",
+     "sha256": "c47f2b31438c7432d35c85158c621a19a23c0ea6ed744890a15f3bf764f228c9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1205-2007",
    "path": "ordin/mediu/2007/1205",
    "short": "Ordin mediu nr. 1205/2007",
@@ -13184,6 +13244,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84118",
      "sha256": "d1834082e86ae0baf9d0d56d628b2a72c705fba1d306982a4ba79c238ee527e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-153-2007",
+   "path": "ordin/metrologie/2007/153",
+   "short": "Ordin metrologie nr. 153/2007",
+   "title": "Ordinul nr. 153/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85230",
+   "versions": [
+    {
+     "from": "2007-09-10",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250406134735id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/85230",
+     "sha256": "15d4f6bb12e3e9108f6a5ffa6dcf6b903783e6e07b4ffedee57d36bfda1aa1b6"
     }
    ]
   },

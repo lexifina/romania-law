@@ -1248,6 +1248,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-135-1999",
+   "path": "ordin/economie/1999/135",
+   "short": "Ordin economie nr. 135/1999",
+   "title": "Ordinul nr. 135/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18394",
+   "versions": [
+    {
+     "from": "1999-06-09",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406202432id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/18394",
+     "sha256": "f3fef9a861e0329332b3ea1de128f29da3a28e448feadeda7990005682b5b255"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-172-1999",
    "path": "ordin/economie/1999/172",
    "short": "Ordin economie nr. 172/1999",
@@ -3404,6 +3419,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20375",
      "sha256": "b1fda3f3b395796bb100d9532d2962181b90cfcbc9391c2bd5d8a402b93836bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-700-1999",
+   "path": "ordin/munca/1999/700",
+   "short": "Ordin munca nr. 700/1999",
+   "title": "Ordinul nr. 700/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20378",
+   "versions": [
+    {
+     "from": "1999-12-27",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250407102849id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/20378",
+     "sha256": "a70f091d54f24f971443a7ca78a46f083964ed9a3d8daee709e4054992bf2140"
     }
    ]
   },

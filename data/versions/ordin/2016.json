@@ -3228,6 +3228,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-794-2016",
+   "path": "ordin/anaf/2016/794",
+   "short": "Ordin anaf nr. 794/2016",
+   "title": "Ordinul nr. 794/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176146",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250407022515id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/176146",
+     "sha256": "c77d4a6038a577bb5cbc14f8f3ddfadb87190798f3b46b1e4f9534296bdcb1d3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-795-2016",
    "path": "ordin/anaf/2016/795",
    "short": "Ordin anaf nr. 795/2016",

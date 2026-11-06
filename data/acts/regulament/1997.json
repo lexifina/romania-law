@@ -193,6 +193,25 @@
 "joint": []
 },
 {
+"slug": "regulament-cnvm-9-1997",
+"path": "regulament/cnvm/1997/9",
+"kind": "regulament",
+"year": "1997",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 9/1997 REGULAMENTUL nr. 9/1997 privind cerințele, criteriile de înregistrare și procedurile de autorizare a societăților de registru independent privat",
+"short": "Regulament cnvm nr. 9/1997",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1997-11-25",
+"latest": "1997-11-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/10907",
+"issuer": "cnvm",
+"joint": []
+},
+{
 "slug": "regulament-cnvm-10-1997",
 "path": "regulament/cnvm/1997/10",
 "kind": "regulament",

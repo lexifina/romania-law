@@ -4349,6 +4349,25 @@
 "joint": []
 },
 {
+"slug": "ordin-ansvsa-20-2010",
+"path": "ordin/ansvsa/2010/20",
+"kind": "ordin",
+"year": "2010",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 20/2010",
+"short": "Ordin ansvsa nr. 20/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-04-02",
+"latest": "2010-04-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117630",
+"issuer": "ansvsa",
+"joint": []
+},
+{
 "slug": "ordin-ansvsa-21-2010",
 "path": "ordin/ansvsa/2010/21",
 "kind": "ordin",
@@ -9286,6 +9305,25 @@
 "alias": "ordin-finante-2631-2010"
 }
 ]
+},
+{
+"slug": "ordin-dezvoltare-2513-2010",
+"path": "ordin/dezvoltare/2010/2513",
+"kind": "ordin",
+"year": "2010",
+"number": "2513",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.513/2010",
+"short": "Ordin dezvoltare nr. 2513/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-01-01",
+"latest": "2011-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/124251",
+"issuer": "dezvoltare",
+"joint": []
 },
 {
 "slug": "ordin-dezvoltare-2701-2010",

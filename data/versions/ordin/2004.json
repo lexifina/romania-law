@@ -7278,6 +7278,21 @@
    ]
   },
   {
+   "slug": "ordin-csa-3108-2004",
+   "path": "ordin/csa/2004/3108",
+   "short": "Ordin csa nr. 3108/2004",
+   "title": "Ordinul nr. 3.108/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57875",
+   "versions": [
+    {
+     "from": "2004-12-17",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250406230501id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/57875",
+     "sha256": "a87cfa01f4825b4482c5fd5d6ddbad9dd94c3b47a6a918102a7356120ba274d1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-csa-3110-2004",
    "path": "ordin/csa/2004/3110",
    "short": "Ordin csa nr. 3110/2004",

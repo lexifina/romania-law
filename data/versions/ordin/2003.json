@@ -9243,6 +9243,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-313-2003",
+   "path": "ordin/economie/2003/313",
+   "short": "Ordin economie nr. 313/2003",
+   "title": "Ordinul nr. 313/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48561",
+   "versions": [
+    {
+     "from": "2003-12-19",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406202432id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/48561",
+     "sha256": "b98020049fd99a03dd877b444273862c71fb09167a312d3e7ba9e3a6127aead7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-315-2003",
    "path": "ordin/economie/2003/315",
    "short": "Ordin economie nr. 315/2003",
@@ -9689,6 +9704,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49592",
      "sha256": "05edeb9042f81260f57a062a57b377c53c55dc50f79ac86058b2885677ff9a0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-377-2003",
+   "path": "ordin/economie/2003/377",
+   "short": "Ordin economie nr. 377/2003",
+   "title": "Ordinul nr. 377/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49692",
+   "versions": [
+    {
+     "from": "2004-02-11",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406061305id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/49692",
+     "sha256": "334c90646fdb85379af1f23d915e80ddc8f96708e7caafb2ba50fba057645066"
     }
    ]
   },

@@ -15672,6 +15672,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1319-2006",
+"path": "ordin/finante/2006/1319",
+"kind": "ordin",
+"year": "2006",
+"number": "1319",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.319/2006",
+"short": "Ordin finante nr. 1319/2006",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2006-08-11",
+"latest": "2006-08-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/74209",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1340-2006",
 "path": "ordin/finante/2006/1340",
 "kind": "ordin",
@@ -21638,6 +21657,25 @@
 "alias": "ordin-cnas-161-2006"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-398-2006",
+"path": "ordin/sanatate/2006/398",
+"kind": "ordin",
+"year": "2006",
+"number": "398",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 398/2006",
+"short": "Ordin sanatate nr. 398/2006",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2006-05-16",
+"latest": "2006-05-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/71693",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-399-2006",

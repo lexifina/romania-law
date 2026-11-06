@@ -3093,6 +3093,21 @@
    ]
   },
   {
+   "slug": "ordin-anmcs-106-2017",
+   "path": "ordin/anmcs/2017/106",
+   "short": "Ordin anmcs nr. 106/2017",
+   "title": "Ordinul nr. 106/2017 privind aprobarea tarifului orar de plată a activităților de natură intelectuală desfășurate de către experții în domeniul managementului calității în sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189357",
+   "versions": [
+    {
+     "from": "2017-05-18",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20210605160101id_/https://legislatie.just.ro/Public/DetaliiDocument/189357",
+     "sha256": "036c8e65f7f1363880f31a6b90f6a29d2dacfca640fdad9fe228340743901648"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anmcs-127-2017",
    "path": "ordin/anmcs/2017/127",
    "short": "Ordin anmcs nr. 127/2017",
@@ -3404,6 +3419,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195708",
      "sha256": "0d6389fd60cfa4a123a6efbc730ae21347e9595d692aaa11e964f8eb526a811c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-119-2017",
+   "path": "ordin/anre/2017/119",
+   "short": "Ordin anre nr. 119/2017",
+   "title": "Ordinul nr. 119/2017 pentru desemnarea furnizorilor de ultimă instanță",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195765",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250407144514id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/195765",
+     "sha256": "a9f439dbd7892a9e2a653267703eb837e5bb6b9994bdabaf638efcac89d73596"
     }
    ]
   },
@@ -9678,6 +9708,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-3315-2017",
+   "path": "ordin/finante/2017/3315",
+   "short": "Ordin finante nr. 3315/2017",
+   "title": "Ordinul nr. 3.315/2017 pentru modificarea Normelor metodologice privind încheierea exercițiului bugetar al anului 2017, aprobate prin Ordinul ministrului finanțelor publice nr. 3.244/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196184",
+   "versions": [
+    {
+     "from": "2017-12-22",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407045846id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/196184",
+     "sha256": "8b2f2c3ea36be0dcffd5236873cdc70db0f49539c9f6edd494de0acfada62ded"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-3323-2017",
    "path": "ordin/finante/2017/3323",
    "short": "Ordin finante nr. 3323/2017",
@@ -11024,6 +11069,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193737",
      "sha256": "7306f0be27643bba92b267a33933ff6e4968b62d552f17b49bcb6f99037d6cf4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1284-c-2017",
+   "path": "ordin/justitie/2017/1284-c",
+   "short": "Ordin justitie nr. 1284/C/2017",
+   "title": "Ordinul nr. 1.284/C/2017 pentru modificarea anexei nr. 2 la Ordinul ministrului justiției nr. 1.650/C/2011 privind emiterea, folosirea, evidența și gestionarea legitimațiilor de serviciu pentru personalul din sistemul administrației penitenciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191127",
+   "versions": [
+    {
+     "from": "2017-07-10",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20170713191512id_/https://legislatie.just.ro/Public/DetaliiDocument/191127",
+     "sha256": "2bf35d09844efea396bed979bad2347e311ca78ca4a66a1a2757f24bf3b1dd5b"
     }
    ]
   },

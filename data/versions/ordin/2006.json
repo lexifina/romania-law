@@ -10203,6 +10203,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1319-2006",
+   "path": "ordin/finante/2006/1319",
+   "short": "Ordin finante nr. 1319/2006",
+   "title": "Ordinul nr. 1.319/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74209",
+   "versions": [
+    {
+     "from": "2006-08-11",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406222336id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/74209",
+     "sha256": "364ab92991db99f1c4557398ad9fd0e3665cfd6e7c519c9ed508ffd4d3fab08e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1340-2006",
    "path": "ordin/finante/2006/1340",
    "short": "Ordin finante nr. 1340/2006",
@@ -16484,6 +16499,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68231",
      "sha256": "fdb810b7ddaf3dd1c26c384094a80336a2644d2ec662ad4ac80c587047f3f2b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-398-2006",
+   "path": "ordin/sanatate/2006/398",
+   "short": "Ordin sanatate nr. 398/2006",
+   "title": "Ordinul nr. 398/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71693",
+   "versions": [
+    {
+     "from": "2006-05-16",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20170324173421id_/https://legislatie.just.ro/Public/DetaliiDocument/71693",
+     "sha256": "b9dd815b99297972bcf4b097221cb07d609b9525dad6cc08f19f50fcbbbe3bd8"
     }
    ]
   },

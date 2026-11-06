@@ -4158,6 +4158,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-730-2001",
+   "path": "ordin/dezvoltare/2001/730",
+   "short": "Ordin dezvoltare nr. 730/2001",
+   "title": "Ordinul nr. 730/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31931",
+   "versions": [
+    {
+     "from": "2001-10-31",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20250407012936id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/31931",
+     "sha256": "94459281fab39672b8c36f3b162506b0cfa797b781b8c97ea9034b9a06b21d9d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-731-2001",
    "path": "ordin/dezvoltare/2001/731",
    "short": "Ordin dezvoltare nr. 731/2001",
@@ -6524,6 +6539,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27548",
      "sha256": "17ce14aaba4753bbad0100793e69d6b64656f50f3db4df7f2b25fe708c2ec8d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-108-2001",
+   "path": "ordin/interne/2001/108",
+   "short": "Ordin interne nr. 108/2001",
+   "title": "Ordinul nr. 108/2001 pentru aprobarea Dispozițiilor generale privind reducerea riscurilor de incendiu generate de încărcări electrostatice - D.G.P.S.I.-004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30821",
+   "versions": [
+    {
+     "from": "2001-10-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30821",
+     "sha256": "1fcf611ed663caeabd060ebfec48bafd3f2fab707327195082ae41d00221b54a"
     }
    ]
   },

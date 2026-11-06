@@ -7038,6 +7038,21 @@
    ]
   },
   {
+   "slug": "ordin-csa-3111-2005",
+   "path": "ordin/csa/2005/3111",
+   "short": "Ordin csa nr. 3111/2005",
+   "title": "Ordinul nr. 3.111/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63206",
+   "versions": [
+    {
+     "from": "2005-07-15",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407023938id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/63206",
+     "sha256": "24ada69ad75a977ef1fa6bfeaf689cb8c0cfc6dead84e4a09d3e45ebee0a0761"
+    }
+   ]
+  },
+  {
    "slug": "ordin-csa-3112-2005",
    "path": "ordin/csa/2005/3112",
    "short": "Ordin csa nr. 3112/2005",
@@ -11264,6 +11279,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68053",
      "sha256": "edd161ba7448e2de7c611c80583ec15faf66bb726e9def2a2c04e35a44e8a74f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-1223-2005",
+   "path": "ordin/ins/2005/1223",
+   "short": "Ordin ins nr. 1223/2005",
+   "title": "Ordinul nr. 1.223/2005 pentru stabilirea Metodologiei cercetării statistice privind efectivele de porcine existente la 1 aprilie/1 august",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68055",
+   "versions": [
+    {
+     "from": "2006-01-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68055",
+     "sha256": "6131f2b5eb22da27fb84c818f9a6a0a0deead08870013318d1f626d1daa11f98"
     }
    ]
   },
@@ -16469,6 +16499,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66059",
      "sha256": "673a62eebdef43eddb1ad598c4483c9dd0eed1b6371ea47081f3da4661acfc48"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-194-2005",
+   "path": "ordin/transporturi/2005/194",
+   "short": "Ordin transporturi nr. 194/2005",
+   "title": "Ordinul nr. 194/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61778",
+   "versions": [
+    {
+     "from": "2005-06-19",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250407102900id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/61778",
+     "sha256": "7e6f7b5e2494cd4f3f683fda08dcaa731c47b9b262e0bdd78872c8e03b661012"
     }
    ]
   },

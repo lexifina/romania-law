@@ -978,6 +978,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-143-2026",
+   "path": "ordin/anaf/2026/143",
+   "short": "Ordin anaf nr. 143/2026",
+   "title": "Ordinul nr. 143/2026 privind abrogarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 1.887/2016 pentru aprobarea Normelor privind utilizarea declarațiilor vamale simplificate și înscrierea în evidențele declarantului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307146",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260214071633id_/https://legislatie.just.ro/Public/DetaliiDocument/307146",
+     "sha256": "4159ffdf30bae004865511df453b9dae18ef41c732b977a33ee70f47029da4a7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-1444-2026",
    "path": "ordin/anaf/2026/1444",
    "short": "Ordin anaf nr. 1444/2026",
@@ -8774,6 +8789,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306581",
      "sha256": "3eed59ba29c087c5872595eacf68c85c2f98b231ec6c9a2fb9301f03b922b17d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-160-2026",
+   "path": "ordin/mediu/2026/160",
+   "short": "Ordin mediu nr. 160/2026",
+   "title": "Ordinul nr. 160/2026 pentru aprobarea Listei prețurilor de referință, pe specii și sortimente, stabilite pentru anul 2026, pentru materialele lemnoase care nu se găsesc sau care nu pot fi identificate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306531",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20261011172914id_/https://legislatie.just.ro/Public/DetaliiDocument/306531",
+     "sha256": "d158b617c9eda3052daf8eff8fcf993a44a76bf6e69635aa1f9bc3f9a9eb0bd5"
     }
    ]
   },
