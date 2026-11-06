@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/bistrita/2009",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--bistrita-1420-2009",
+   "path": "local/bistrita-nasaud/bistrita/2009/1420",
+   "short": "HCL Bistrița nr. 1420/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Bistrița nr. 1420/2009",
+   "url": "https://primariabistrita.ro/monitorul-oficial-local/documente-si-informatii-financiare/datoria-publica-locala/hotarari-ale-comisiei-de-autorizare-a-imprumuturilor-locale/",
+   "versions": [
+    {
+     "from": "2009-10-01",
+     "units": 1,
+     "source_url": "https://primariabistrita.ro/wp-content/uploads/2025/12/2.Decizia-CNVM-nr.1420-din-01.10.2009.pdf",
+     "sha256": "d23490593ea25e2102a6557252763507a69680dae7e66ef4a7f876bf86dcca8e"
+    }
+   ]
+  }
+ ]
+}

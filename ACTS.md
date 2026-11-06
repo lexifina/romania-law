@@ -18294,7 +18294,7 @@
 | Permanent Electoral Authority decisions (AEP) | 201 | [`data/acts/hotarare-aep/`](data/acts/hotarare-aep/) |
 | Permanent Electoral Authority norms, instructions and lists (AEP) | 229 | [`data/acts/norma-aep/`](data/acts/norma-aep/) |
 | Court of Accounts (plenum decisions, regulations) | 18 | [`data/acts/curtea-de-conturi/`](data/acts/curtea-de-conturi/) |
-| Ombudsman (Avocatul Poporului): recommendations, reports, constitutional referrals | 1482 | [`data/acts/avocatul-poporului/`](data/acts/avocatul-poporului/) |
+| Ombudsman (Avocatul Poporului): recommendations, reports, constitutional referrals | 1776 | [`data/acts/avocatul-poporului/`](data/acts/avocatul-poporului/) |
 | Anti-discrimination council decisions (CNCD) | 2315 | [`data/acts/cncd/`](data/acts/cncd/) |
 | Data protection authority decisions and sanction notices (ANSPDCP) | 375 | [`data/acts/anspdcp/`](data/acts/anspdcp/) |
 | Technical rules for construction (normative tehnice) | 291 | [`data/acts/normativ-tehnic/`](data/acts/normativ-tehnic/) |
@@ -18302,4 +18302,4 @@
 | Annexes published apart from their act (court circumscriptions, official forms) | 7 | [`data/acts/anexa/`](data/acts/anexa/) |
 | Legal professions' rules: statutes, codes of ethics, regulations and decisions of the professional bodies (UNBR, UNNPR, UNEJ, OCJR, UNPIR, Consiliul de Mediere, CSM, INM, CAFR) | 667 | [`data/acts/profesii/`](data/acts/profesii/) |
 | Treaties and international agreements (texts published with their ratifying act) | 2579 | [`data/acts/tratat/`](data/acts/tratat/) |
-| Local acts (decisions of local and county councils) | 67796 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 69296 | [`data/acts/local/`](data/acts/local/) |

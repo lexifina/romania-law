@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--salonta-36-2019",
+   "path": "local/bihor/salonta/2019/36",
+   "short": "HCL Salonta nr. 36/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 36/2019",
+   "url": "https://salonta.net/ro/hotarari/14-martie-2019/",
+   "versions": [
+    {
+     "from": "2019-03-14",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/Anexa-HCLMS-nr.36-din-14.03.2019.pdf",
+     "sha256": "8ece4a90e0a6cb8bdd2c0688ad1a1a9d13de9dfabe23dca61c46f32f80ef44d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-39-2019",
+   "path": "local/bihor/salonta/2019/39",
+   "short": "HCL Salonta nr. 39/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 39/2019",
+   "url": "https://salonta.net/ro/hotarari/14-martie-2019/",
+   "versions": [
+    {
+     "from": "2019-03-14",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/Anexa-HCLMS-nr.39-din-14.03.2019.pdf",
+     "sha256": "231f5e4aacc0463bfbdda6e3868bfd6024fad8a8fc6a31e5990b0adcd7f9d6c2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--salonta-57-2019",
    "path": "local/bihor/salonta/2019/57",
    "short": "HCL Salonta nr. 57/2019",
@@ -59,6 +89,21 @@
      "units": 1,
      "source_url": "https://salonta.net/wp-content/uploads/Hot.58-Republicata.pdf",
      "sha256": "e98de008a035390c87ddd794e23614faf625e905accb2c6a0a683bcab138c71f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-64-2019",
+   "path": "local/bihor/salonta/2019/64",
+   "short": "HCL Salonta nr. 64/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 64/2019",
+   "url": "https://salonta.net/ro/hotarari/15-aprilie-2019/",
+   "versions": [
+    {
+     "from": "2019-04-15",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/Anexa-nr.1-HCLMS-nr.64-din-15.04.2019-min.pdf",
+     "sha256": "484bd98043abda32f3d8abc4425c6911ca1166fc2e81c07ba6d08d65f312b8e0"
     }
    ]
   }

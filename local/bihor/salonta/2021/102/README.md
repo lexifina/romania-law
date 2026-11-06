@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Municipiului Salonta nr. 102/2021 privind aprobarea Documentației de avizare a Lucrărilor de Investiție DALI și ai indicatorilor tehnico-economici ai obiectivului de investiție „Reabilitare alei și parcări în incinta 4 de blocuri P-ța Libertății din Municipiul Salonta Consiliul Local al Municipiului Salonta întrunit în ședința ordinară, • Examinând proiectul de hotărâre privind aprobarea Documentației de avizare a Lucrărilor de In
+
+HCL Salonta nr. 102/2021 · 1 versions, from 2021-06-30 (latest in force: 2021-06-30) · <https://salonta.net/ro/hotarari/30-iunie-2021/>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-bihor--salonta-102-2021` (tags `hcl-bihor--salonta-102-2021/<day>`; `python tools/on.py <day> hcl-bihor--salonta-102-2021`).
+
+## Decisions made by hand
+
+- HCL Salonta nr. 102/2021: listed from Consiliul Local al Municipiului Salonta (salonta.net); an individual decision: metadata only.
+- HCL Salonta nr. 102/2021: dated from 30 June 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Salonta nr. 102/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

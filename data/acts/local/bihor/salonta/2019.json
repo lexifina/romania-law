@@ -3,6 +3,50 @@
 "shard": "local/bihor/salonta/2019",
 "acts": [
 {
+"slug": "hcl-bihor--salonta-36-2019",
+"path": "local/bihor/salonta/2019/36",
+"kind": "local",
+"year": "2019",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 36/2019",
+"short": "HCL Salonta nr. 36/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-03-14",
+"latest": "2019-03-14",
+"portal": "https://salonta.net/ro/hotarari/14-martie-2019/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--salonta-39-2019",
+"path": "local/bihor/salonta/2019/39",
+"kind": "local",
+"year": "2019",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 39/2019",
+"short": "HCL Salonta nr. 39/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-03-14",
+"latest": "2019-03-14",
+"portal": "https://salonta.net/ro/hotarari/14-martie-2019/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--salonta-57-2019",
 "path": "local/bihor/salonta/2019/57",
 "kind": "local",
@@ -40,6 +84,28 @@
 "from": "2019-03-29",
 "latest": "2019-03-29",
 "portal": "https://salonta.net/ro/hotarari-republicate/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--salonta-64-2019",
+"path": "local/bihor/salonta/2019/64",
+"kind": "local",
+"year": "2019",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 64/2019",
+"short": "HCL Salonta nr. 64/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-15",
+"latest": "2019-04-15",
+"portal": "https://salonta.net/ro/hotarari/15-aprilie-2019/",
 "council": "bihor/salonta",
 "council_name": "Consiliul Local al Municipiului Salonta",
 "flags": {

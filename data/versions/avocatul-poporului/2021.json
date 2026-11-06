@@ -3796,6 +3796,36 @@
      "sha256": "b825599fee764267afb9372a60e7ee3c35dc59b7150b741550f21f63e6ae66c4"
     }
    ]
+  },
+  {
+   "slug": "avocatul-poporului-recurs-in-interesul-legii-recurs-in-interesul-legii-cu-privire-la-interpretarea-si-apl-82d255-2021",
+   "path": "avocatul-poporului/recurs-in-interesul-legii/2021/recurs-in-interesul-legii-cu-privire-la-interpretarea-si-apl-82d255",
+   "short": "Recurs-in-interesul-legii Avocatul Poporului din 2021-08-25",
+   "title": "Recurs în interesul legii cu privire la interpretarea și aplicarea prevederilor art. 39 alin. (1) din Legea nr. 188/2000 privind executorii judecătorești, republicată, coroborat cu art. 125 (actual art. 265) din Codul fiscal, art. 670 alin. (2) din Codul de procedură civilă și Ordinul ministrului ju",
+   "url": "https://avp.ro/wp-content/uploads/2021/12/RIL-art-39-al-1-L188-2000.pdf",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2021/12/RIL-art-39-al-1-L188-2000.pdf",
+     "sha256": "b3a4630fa898156961fe9b54e948e6c362030a214703dd0e9772e33c67c6c955"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recurs-in-interesul-legii-recurs-in-interesul-legii-cu-privire-la-interpretarea-si-apl-9222e1-2021",
+   "path": "avocatul-poporului/recurs-in-interesul-legii/2021/recurs-in-interesul-legii-cu-privire-la-interpretarea-si-apl-9222e1",
+   "short": "Recurs-in-interesul-legii Avocatul Poporului din 2020-12-15",
+   "title": "Recurs-in-interesul-legii Avocatului Poporului din 2020-12-15",
+   "url": "https://avp.ro/wp-content/uploads/2021/12/RIL-art-684-687-L-95-2006-art-94-p-1-l-k-95-p-1-C-pr-civila-.pdf",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2021/12/RIL-art-684-687-L-95-2006-art-94-p-1-l-k-95-p-1-C-pr-civila-.pdf",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

@@ -3,6 +3,81 @@
  "shard": "local/botosani/botosani/2025",
  "acts": [
   {
+   "slug": "hcl-botosani--botosani-109-2025",
+   "path": "local/botosani/botosani/2025/109",
+   "short": "HCL Botoșani nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 109/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/109_25-1.pdf",
+     "sha256": "07136f905e721fedd47dfddf9ff2cb7868484664c7f0f3a2e54be7c8e23637ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-144-2025",
+   "path": "local/botosani/botosani/2025/144",
+   "short": "HCL Botoșani nr. 144/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 144/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/144_25.pdf",
+     "sha256": "2aa3de770732508608b7b17a7e7a298253e0d5e8f81e6bdd81a34bf2378803d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-153-2025",
+   "path": "local/botosani/botosani/2025/153",
+   "short": "HCL Botoșani nr. 153/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 153/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/153_25.pdf",
+     "sha256": "c20d3db40f552452a3f6c99c710134a1e35dc5eec4328aa530beef9852591a20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-164-2025",
+   "path": "local/botosani/botosani/2025/164",
+   "short": "HCL Botoșani nr. 164/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 164/2025 privind modificarea anexelor nr. 3 și nr. 4 la Hotărâre Consiliului Local nr. 164 din 29 aprilie 2025 privind declararea de uz și interes public local a obiectivului de investiții „Extindere Cimitir Eternitatea” și darea acestuia în administrare Direcției Servicii Publice Botoșani (Publicat pe site: 19.09.2025) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/390-modificare-anexe-HCL-164_2025-extindere-cimitir-Eternitatea.pdf",
+     "sha256": "37d01197779f2bb16416087938e7743a6841c988996578e04b358b6af3914d71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-185-2025",
+   "path": "local/botosani/botosani/2025/185",
+   "short": "HCL Botoșani nr. 185/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 185/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/185_25.pdf",
+     "sha256": "ba1f1d4dc5518c372320df235ca9e46c483c5628a454f733045f809b31226cd1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-187-2025",
    "path": "local/botosani/botosani/2025/187",
    "short": "HCL Botoșani nr. 187/2025",
@@ -18,6 +93,921 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-188-2025",
+   "path": "local/botosani/botosani/2025/188",
+   "short": "HCL Botoșani nr. 188/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 188/2025 privind modificarea Hotărârii Consiliului Local al Municipiului Botoșani nr. 168/29.04.2025 privind aprobarea prelungirii duratei unor contracte de închiriere – aprilie 2025",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/188_25.pdf",
+     "sha256": "b481141947374dcdb49cb2883adaba0a3d997d726c2eb669bb06306e90b639d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-205-2025",
+   "path": "local/botosani/botosani/2025/205",
+   "short": "HCL Botoșani nr. 205/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 205/2025 privind modificarea art. 1 poziția 1.3 din Hotărârea Consiliului Local al Municipiului Botoșani nr. 179 din 29 aprilie 2025 privind modificarea unor poziții din Hotărârea Consiliului Local al Municipiului Botoșani nr. 246/2010 privind aprobarea inventarului bunurilor din domeniul public al Municipiului Botoșani",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/205_25.pdf",
+     "sha256": "8f3ba6e65cbb2955091b7d9632e62310239c2978f3591491532f3d4f0f07d93f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-21-2025",
+   "path": "local/botosani/botosani/2025/21",
+   "short": "HCL Botoșani nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 21/2025 privind modificarea anexei Hotărârii Consiliului Local nr 183 din 26.06.2013",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/21.pdf",
+     "sha256": "9001ac2156d37ff5889ce198b0a07a1469e59fd1370160bdc4793988de1706e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-224-2025",
+   "path": "local/botosani/botosani/2025/224",
+   "short": "HCL Botoșani nr. 224/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 224/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/224_25.pdf",
+     "sha256": "7260f5ae751c9a6548c0412953c0719ce71dcad1f3e5966c4f07b2374fbc258b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-227-2025",
+   "path": "local/botosani/botosani/2025/227",
+   "short": "HCL Botoșani nr. 227/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 227/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/227_25.pdf",
+     "sha256": "fa65d18cf780cdd8e3d4545bd419996f6be5cdca4d66020250c20a6543ef8f9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-229-2025",
+   "path": "local/botosani/botosani/2025/229",
+   "short": "HCL Botoșani nr. 229/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 229/2025 privind modificarea Hotărârii Consiliului local al Municipiului Botoșani nr. 189 din 12.05.2025 privind aprobarea organizării evenimentului ,,Maratonul Nordului Botoșani” în zilele de 14-15 iunie 2025",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/229_25.pdf",
+     "sha256": "9242d704bc23fb477ee01eebe332f2cf152408ccc35bf13ccdeb3ede75ade81d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-235-2025",
+   "path": "local/botosani/botosani/2025/235",
+   "short": "HCL Botoșani nr. 235/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 235/2025 privind modificarea și completarea Anexei Hotărârii Consiliului Local al Municipiului Botoșani nr. 279 din 20 iunie 2023 privind aprobarea documentației tehnico-economice faza Documentație de avizare a lucrărilor de intervenție (DALI) și a indicatorilor tehnico-economici pentru obiectivul de investiții „Renovare energetică a clădirilor publice – Colegiul Național Mihai Eminescu” finanțat în cadrul Programului Planul Național de Redresare și Reziliență, Componenta 5 - Valul Renovării, Axa 2 – Schema de granturi pentru eficiență energetică și reziliență în clădiri publice, Operațiunea B.2. Renovarea energetică moderată sau aprofundată a clădirilor publice",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/235_25.pdf",
+     "sha256": "1f9bd7bcb97f0d22dfaedf315b5b8981513a1289efb3c91275a58bb48d12101d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-236-2025",
+   "path": "local/botosani/botosani/2025/236",
+   "short": "HCL Botoșani nr. 236/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 236/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/236_25.pdf",
+     "sha256": "2e0f76d47b5e75ea4bd4df22c8b7314d6f01f58f0f8db8af79cb6408b47268fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-237-2025",
+   "path": "local/botosani/botosani/2025/237",
+   "short": "HCL Botoșani nr. 237/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 237/2025 privind modificarea și completarea Anexei Hotărârii Consiliului Local al Municipiului Botoșani nr. 275 din 20 iunie 2023 privind aprobarea documentației tehnico-economice faza Documentație de avizare a lucrărilor de intervenție (DALI) și a indicatorilor tehnico-economici pentru obiectivul de investiții „Renovare energetică a clădirilor publice – LICEUL PEDAGOGIC NICOLAE IORGA” finanțat în cadrul Programului Planul Național de Redresare și Reziliență, Componenta 5 – Valul Renovării, Axa 2 – Schema de granturi pentru eficiență energetică și reziliență în clădiri publice, Operațiunea B.2. Renovarea energetică moderată sau aprofundată a clădirilor publice",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/237_25.pdf",
+     "sha256": "a13928ae7066448073920b651ec65680491a3f1806d5ff5a0f66ad06a3fc958b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-238-2025",
+   "path": "local/botosani/botosani/2025/238",
+   "short": "HCL Botoșani nr. 238/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 238/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/238_25.pdf",
+     "sha256": "b357a344fd701ef20d95f55489d67987434740b4afb5199b039eb28fb06967cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-239-2025",
+   "path": "local/botosani/botosani/2025/239",
+   "short": "HCL Botoșani nr. 239/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 239/2025 privind modificarea și completarea Anexelor nr. 3 și nr. 4 ale Hotărârii Consiliului Local al Municipiului Botoșani nr. 328 din 13 iulie 2023 privind aprobarea documentației tehnico- economice faza Documentație de avizare a lucrărilor de intervenție (DALI) și a indicatorilor tehnico-economici pentru cele 4 Componente ale obiectivului de investiții „Renovare energetică a clădirilor rezidențiale Botoșani-etapa II”, finanțat în cadrul Programului Planul Național de Redresare și Reziliență, Componenta 5– Valul Renovării, Operațiunea - Renovarea energetică moderată sau aprofundată a clădirilor rezidențiale multifamiliale",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/239_25.pdf",
+     "sha256": "5b55a7bd77ceab316dfa69c2581829e3d1d35a867c7c7bed088342700343834b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-24-2025",
+   "path": "local/botosani/botosani/2025/24",
+   "short": "HCL Botoșani nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 24/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/24_25.pdf",
+     "sha256": "95f1983fe993bba2279a84767e828034dfb5c5fce9f0424ffee21b6791424dfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-240-2025",
+   "path": "local/botosani/botosani/2025/240",
+   "short": "HCL Botoșani nr. 240/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 240/2025 privind modificarea și completarea Anexei Hotărârii Consiliului Local al Municipiului Botoșani nr. 284 din 20.06.2023 privind aprobarea documentației tehnico-economice faza Documentație de avizare a lucrărilor de intervenție (DALI) și a indicatorilor tehnico-economici pentru obiectivul de investiții „Școala gimnazială nr. 12 Botoșani” finanțat în cadrul Programului Planul Național de Redresare și Reziliență, Componenta 5 - Valul Renovării, Axa 2 – Schema de granturi pentru eficiență energetică și reziliență în clădiri publice, Operațiunea B.2. Renovarea energetică moderată sau aprofundată a clădirilor publice",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/240_25.pdf",
+     "sha256": "294c45d7751a4537fb0b6a85656a71c998ee25ce8e36d5d07a0f2894d9150c8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-241-2025",
+   "path": "local/botosani/botosani/2025/241",
+   "short": "HCL Botoșani nr. 241/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 241/2025 privind modificarea și completarea Anexei Hotărârii Consiliului Local al Municipiului Botoșani nr. 273 din 20.06.2023 privind aprobarea documentației tehnico-economice faza Documentație de avizare a lucrărilor de intervenție (DALI) și a indicatorilor tehnico-economici pentru obiectivul de investiții „Școala gimnazială nr. 2 Botoșani” finanțat în cadrul Programului Planul Național de Redresare și Reziliență, Componenta 5 - Valul Renovării, Axa 2 – Schema de granturi pentru eficiență energetică și reziliență în clădiri publice, Operațiunea B.2. Renovarea energetică moderată sau aprofundată a clădirilor publice",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/241_25.pdf",
+     "sha256": "d375f644e0153aca24dbcefdf589d86b04949281f0fd2a3571941f37b668d77b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-242-2025",
+   "path": "local/botosani/botosani/2025/242",
+   "short": "HCL Botoșani nr. 242/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 242/2025 privind modificarea și completarea Anexei Hotărârii Consiliului Local al Municipiului Botoșani nr. 285 din 20.06.2023 privind aprobarea documentației tehnico-economice faza Documentație de avizare a lucrărilor de intervenție (DALI) și a indicatorilor tehnico-economici pentru obiectivul de investiții „Grădinița cu Program Prelungit nr. 15 Botoșani” finanțat în cadrul Programului Planul Național de Redresare și Reziliență, Componenta 5 - Valul Renovării, Axa 2 – Schema de granturi pentru eficiență energetică și reziliență în clădiri publice, Operațiunea B.2. Renovarea energetică moderată sau aprofundată a clădirilor publice",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/242_25.pdf",
+     "sha256": "e74b3a9d16514f37dac2b9d8328bfcd079af84bee7c1defc66f518edc6e26d5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-243-2025",
+   "path": "local/botosani/botosani/2025/243",
+   "short": "HCL Botoșani nr. 243/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 243/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/243_25.pdf",
+     "sha256": "00e4c7dcb8e697b1cd744516e1f192bc6152e18f72cfc8d665f0b1ea4f7e6943"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-245-2025",
+   "path": "local/botosani/botosani/2025/245",
+   "short": "HCL Botoșani nr. 245/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 245/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/245_25.pdf",
+     "sha256": "ac02d886a345e5f4fa316b8e8bf77a037b110535ebbd84068daa3eeeec8b4874"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-246-2025",
+   "path": "local/botosani/botosani/2025/246",
+   "short": "HCL Botoșani nr. 246/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 246/2025 pentru modificarea și completarea Hotărârii Consiliului Local al Municipiului Botoșani nr. 274 din 20 iunie 2023 privind modificarea și completarea Anexei Hotărârii Consiliului Local al Municipiului Botoșani nr. 181 din 21 aprilie 2023 privind aprobarea documentației tehnico- economice faza Documentație de avizare a lucrărilor de intervenție (DALI) și a indicatorilor tehnico-economici pentru obiectivul de investiții „Renovare energetică a clădirilor publice – SEMINARUL TEOLOGIC SFÂNTUL GHEORGHE BOTOȘANI” finanțat în cadrul Programului Planul Național de Redresare și Reziliență, Componenta 5 - Valul Renovării, Axa 2 – Schema de granturi pentru eficiență energetică și reziliență în clădiri publice, Operațiunea B.2. Renovarea energetică moderată sau aprofundată a clădirilor publice, Runda 2",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/246_25.pdf",
+     "sha256": "1e17fc0dbe830d4cfb7c17939d1e2b97feb4c771dcc7c74ada7bc6553a32106b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-247-2025",
+   "path": "local/botosani/botosani/2025/247",
+   "short": "HCL Botoșani nr. 247/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 247/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/247_25.pdf",
+     "sha256": "8a629e0a7303c0ed2e58daef5ca275a2d79c094956afc78aa89c40632f20ff68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-248-2025",
+   "path": "local/botosani/botosani/2025/248",
+   "short": "HCL Botoșani nr. 248/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 248/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/248_25.pdf",
+     "sha256": "a961583b62f6ef7b34a96c147421b1aeb2f12e84382f14cc95c2016d81f010df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-25-2025",
+   "path": "local/botosani/botosani/2025/25",
+   "short": "HCL Botoșani nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 25/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/25_25.pdf",
+     "sha256": "4e729d5c06eae44a2ea4fed5cded6ecf20cafa0011d4182cc5501dce089c75eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-253-2025",
+   "path": "local/botosani/botosani/2025/253",
+   "short": "HCL Botoșani nr. 253/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 253/2025 pentru modificarea și completarea Hotărârii de Consiliu Local a Municipiului Botoșani nr. 467 din 13.10.2022 privind aprobarea proiectului „Centrul integrat de mobilitate urbană din Municipiul Botoșani” depus spre finanțare în cadrul Planului Național de Redresare și Reziliență și a cheltuielilor legate de acest proiect, prin înlocuirea Anexei nr. 1 și modificarea punctului nr. 2 al Anexei nr. 2",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/253_25.pdf",
+     "sha256": "d635cc19b7c40aeff71a17d4d13b839d20a8065c025bb9c8d951d1dba836a10e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-255-2025",
+   "path": "local/botosani/botosani/2025/255",
+   "short": "HCL Botoșani nr. 255/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 255/2025 privind modificarea și completarea Anexei Hotărârii Consiliului Local al Municipiului Botoșani nr. 222 din 28.05.2025 privind aprobarea documentației tehnico-economice faza Proiect Tehnic și a indicatorilor tehnico-economici pentru obiectivul de investiții „Renovare energetică a clădirilor publice – Colegiul Economic „Octav Onicescu” Botoșani”",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/255_25.pdf",
+     "sha256": "a6af114237f26ec3d28bcc20562de26e671b4b6856db8b45c005ab37033d83eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-257-2025",
+   "path": "local/botosani/botosani/2025/257",
+   "short": "HCL Botoșani nr. 257/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 257/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/500_25.pdf",
+     "sha256": "5f724787b960b30e48da9aa07ea8830fada36927b7223534ce8ee32bc247000e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-27-2025",
+   "path": "local/botosani/botosani/2025/27",
+   "short": "HCL Botoșani nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 27/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/27_25.pdf",
+     "sha256": "1476345630e4fb5b4f7bfa0fa692374670a34bc8eede8acc119afa311a02e0d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-275-2025",
+   "path": "local/botosani/botosani/2025/275",
+   "short": "HCL Botoșani nr. 275/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 275/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/275_25.pdf",
+     "sha256": "d9e7e5236535dfdd64c82ae731e2a0f003646cbb22f99c0d874f797dc47c9a34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-288-2025",
+   "path": "local/botosani/botosani/2025/288",
+   "short": "HCL Botoșani nr. 288/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 288/2025 privind revocarea Hotărârii Consiliului Local nr. 204 din 28.05.2025 privind modificarea pozițiilor 860, 863, 864, 865, 866 și 867 din Hotărârea Consiliului Local al Municipiului Botoșani nr. 246/2010 privind aprobarea inventarului bunurilor din domeniul public al Municipiului Botoșani și actualizarea cotelor aferente fiecărei unități locative individuale",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/288_25.pdf",
+     "sha256": "da5011a2fbe25b4a6281774ecbdd992d4125578fbd3ce8f83b29666eca3dd129"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-298-2025",
+   "path": "local/botosani/botosani/2025/298",
+   "short": "HCL Botoșani nr. 298/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 298/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/298_25.pdf",
+     "sha256": "295e232587b367b1d1263e3ea806c42ea6e3642c85d8cc552e94ed99e5cfaa24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-30-2025",
+   "path": "local/botosani/botosani/2025/30",
+   "short": "HCL Botoșani nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 30/2025 privind modificarea Anexei nr. 7 B la HCL nr. 370 din 25.08.2022 privind reorganizarea unor instituții publice care prestează servicii publice de interes local (reorganizarea Direcției Servicii Publice, Sport și Agrement Botoșani prin divizare parțială; reorganizarea Serviciului Public de Administrare a Piețelor, Oborului și Cimitirelor aflate în proprietatea Municipiului Botoșani)",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/30_25.pdf",
+     "sha256": "0c6a4aa98cef1b4692fe254c51fe19703d41ea30986f543f0eb592a41d47b186"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-300-2025",
+   "path": "local/botosani/botosani/2025/300",
+   "short": "HCL Botoșani nr. 300/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 300/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/300_25.pdf",
+     "sha256": "a3dd7bb738ebe415f1cf1a8d905e7e711a28a7c6ac28a1dcd9f16b122f010cb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-307-2025",
+   "path": "local/botosani/botosani/2025/307",
+   "short": "HCL Botoșani nr. 307/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 307/2025 privind aprobarea prelungirii contractului de închiriere nr. 9070/28.08.2020 pentru spațiul proprietate publică a Municipiului Botoșani, încheiat cu SC All Perfect Consulting SRL",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/307_25.pdf",
+     "sha256": "6f9f37f456be3428d0d8ec92b5584d0c5d2501dd72c9e15e51bbedff2c2fac48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-31-2025",
+   "path": "local/botosani/botosani/2025/31",
+   "short": "HCL Botoșani nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 31/2025 privind aprobarea prelungirii duratei contractului nr. 4000 din 30.01.2007 de delegare de gestiune a Serviciului public de administrare a fondului locativ și a spațiilor cu altă destinație decât aceea de locuință, aflate în proprietatea Municipiului Botoșani",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/31_25.pdf",
+     "sha256": "4944751e29f0e34ab013612ec8afbcc0cfc521bf9ba11a0ad7c63cadbdc455d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-310-2025",
+   "path": "local/botosani/botosani/2025/310",
+   "short": "HCL Botoșani nr. 310/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 310/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/310_25.pdf",
+     "sha256": "e17b22f650f056e831c2a2dfbb2e66f4db887d1d4807887e42978e0472cbd22d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-312-2025",
+   "path": "local/botosani/botosani/2025/312",
+   "short": "HCL Botoșani nr. 312/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 312/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/312_25.pdf",
+     "sha256": "1a05b5e45c78725328a0d460eb4e315f4123bbda8bae980ee389c324e9d3e99a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-318-2025",
+   "path": "local/botosani/botosani/2025/318",
+   "short": "HCL Botoșani nr. 318/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 318/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/318_25.pdf",
+     "sha256": "52d1c92edbb83d63dbc159c1a42e8cb124dd7008ca793ae46e05478f6192cb3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-319-2025",
+   "path": "local/botosani/botosani/2025/319",
+   "short": "HCL Botoșani nr. 319/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 319/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/319_25.pdf",
+     "sha256": "5ccf5c621b8f3b6debe24d30d4f50e7180ae82b52d3ca29b929efdd95882a297"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-320-2025",
+   "path": "local/botosani/botosani/2025/320",
+   "short": "HCL Botoșani nr. 320/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 320/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/320_25.pdf",
+     "sha256": "9252c15a31aee4fa0ccbff85113d1ef0a57eaba62fa254aadfcc688170a203c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-33-2025",
+   "path": "local/botosani/botosani/2025/33",
+   "short": "HCL Botoșani nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 33/2025 privind mandatarea Asociației de Dezvoltare Intercomunitară Transport Metropolitan Botoșani să exercite în numele și pe seama Municipiului Botoșani unele atribuții prevăzute în Legea serviciilor publice de transport persoane în unitățile administrativ-teritoriale nr. 92/2007",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/33_25.pdf",
+     "sha256": "9d080bcc37bf86abc609b986d6dc5e37c978cff579a46d9986a8415c54df6f2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-340-2025",
+   "path": "local/botosani/botosani/2025/340",
+   "short": "HCL Botoșani nr. 340/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 340/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/340_25.pdf",
+     "sha256": "6b083125c2dce47d8704a3b44afa8885fb3d48585e37006a9e29d258fab627b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-341-2025",
+   "path": "local/botosani/botosani/2025/341",
+   "short": "HCL Botoșani nr. 341/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 341/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/341_25.pdf",
+     "sha256": "3746f384f103976092365b934d93804a2ecdb79737dc3e05c773cb904ef02d3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-342-2025",
+   "path": "local/botosani/botosani/2025/342",
+   "short": "HCL Botoșani nr. 342/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 342/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/342_25.pdf",
+     "sha256": "22327c0183fce76af123d6e90a428c816b40965124d301786e174e0bcc9ad16a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-349-2025",
+   "path": "local/botosani/botosani/2025/349",
+   "short": "HCL Botoșani nr. 349/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 349/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/349_25.pdf",
+     "sha256": "dfd47ed38cf34129f616cccc4d255b405f70e486acd9bdcbb328e20b8e031223"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-357-2025",
+   "path": "local/botosani/botosani/2025/357",
+   "short": "HCL Botoșani nr. 357/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 357/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/357_25.pdf",
+     "sha256": "926dcaa122ed9644dd20b82b271170be331457d1f1bbd7e24ee8eb226f2201ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-359-2025",
+   "path": "local/botosani/botosani/2025/359",
+   "short": "HCL Botoșani nr. 359/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 359/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/359_25.pdf",
+     "sha256": "cfc831e28cdfadc8f757140759ab1f21e6d7401248e122c99875ab443efe990f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-360-2025",
+   "path": "local/botosani/botosani/2025/360",
+   "short": "HCL Botoșani nr. 360/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 360/2025 pentru modificarea Hotărârii Consiliului Local al Municipiului Botoșani nr. 303/31.07.2025 privind aprobarea prețurilor de vânzare pentru locuinṭe ANL – iulie 2025",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/360_25.pdf",
+     "sha256": "ad65b45888dd1df2866081670c49c805a892aa2d4a7ac691ed3278842657a77b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-366-2025",
+   "path": "local/botosani/botosani/2025/366",
+   "short": "HCL Botoșani nr. 366/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 366/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/366_25.pdf",
+     "sha256": "43d66b6b08a3dd31dfc735528ecf5e21d8ac751194ec36ba5e6dbd00c3a0377e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-369-2025",
+   "path": "local/botosani/botosani/2025/369",
+   "short": "HCL Botoșani nr. 369/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 369/2025 privind aprobarea prelungirii Contractului de delegare a gestiunii serviciului de transport public local de persoane efectuat cu autobuze/microbuze în Municipiul Botoșani nr. 4071 din 28.01.2020",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/369_25.pdf",
+     "sha256": "ae85c70e72a7c0030949e53eecec93dd2b254fc0708ff02a5bba2a5103df5691"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-371-2025",
+   "path": "local/botosani/botosani/2025/371",
+   "short": "HCL Botoșani nr. 371/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 371/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/371_25.pdf",
+     "sha256": "af098cedbfd619c60bcbc0de33a70a077eb7ffaace38ba35e38291699ac2127a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-377-2025",
+   "path": "local/botosani/botosani/2025/377",
+   "short": "HCL Botoșani nr. 377/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 377/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/377_25.pdf",
+     "sha256": "d0f3e418321fd3adc70662d0128514b052027f33c5737d550683036b9f3751f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-379-2025",
+   "path": "local/botosani/botosani/2025/379",
+   "short": "HCL Botoșani nr. 379/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 379/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/379_25.pdf",
+     "sha256": "2eb38cd53c0835eba60cd2315d79b27963ab0977d9c9d23ce27cf142c45207a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-380-2025",
+   "path": "local/botosani/botosani/2025/380",
+   "short": "HCL Botoșani nr. 380/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 380/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/380_25.pdf",
+     "sha256": "ab5cc7b9e995c63207bb69d704d039e7bb2a9081dcd3fe9101c6ed2a4caa4bde"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-381-2025",
+   "path": "local/botosani/botosani/2025/381",
+   "short": "HCL Botoșani nr. 381/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 381/2025 pentru modificarea Hotărârii Consiliului Local nr. 372 din 09.09.2025 privind modificarea bugetului local și a bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pe anul 2025 ca urmare a reorganizării unităților de învățământ preuniversitar de stat din municipiul Botoșani începând cu anul școlar 2025-2026",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/381_25.pdf",
+     "sha256": "57961b62a48f87dd2d11c7cf18c0160cde02a01cd5c442043640f8f01aa9dfea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-389-2025",
+   "path": "local/botosani/botosani/2025/389",
+   "short": "HCL Botoșani nr. 389/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 389/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/hcl389_17.09.2025.pdf",
+     "sha256": "926280c16277294f3f654503290ae821d01820fc0bce86634f4dd5f323124728"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-391-2025",
+   "path": "local/botosani/botosani/2025/391",
+   "short": "HCL Botoșani nr. 391/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 391/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/HCL-391_2025.pdf",
+     "sha256": "af26227e613fdb18fd6da1a60227cb840b96885e2c791d30f6f6a29f03822458"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-402-2025",
+   "path": "local/botosani/botosani/2025/402",
+   "short": "HCL Botoșani nr. 402/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 402/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "66849077aa9c1315740e5acd3c9bd0dc6be08f7970572e996bfc3aa03ab1046b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-407-2025",
+   "path": "local/botosani/botosani/2025/407",
+   "short": "HCL Botoșani nr. 407/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 407/2025 pentru revocarea Hotărârii Consiliului Local nr. 308 din 31.07.2025 privind modificarea pozițiilor 633, 634 și 636 din Hotărârea Consiliului Local al Municipiului Botoșani nr. 246/2010 privind aprobarea inventarului bunurilor din domeniul public al Municipiului Botoșani și transmiterea bunurilor în administrare Direcției de Servicii Publice Municipiul Botoșani",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/407_25.pdf",
+     "sha256": "36df74e3170bf7c643a229d58e35c58423ea3919eb1b26b54d202dddca10ff97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-410-2025",
+   "path": "local/botosani/botosani/2025/410",
+   "short": "HCL Botoșani nr. 410/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 410/2025 privind aprobarea încheierii unui acord notarial de vecinătate în vederea construirii pe limita de proprietate a Municipiului Botoșani pentru obținerea autorizației de construire în temeiul prevederilor Certificatului de urbanism nr. 163 din 31.03.2025",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/410_25.pdf",
+     "sha256": "ab5da30111fc6acf3782fe3cd70daa7a2b2ca95c29e628ea446816d3114bbb71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-411-2025",
+   "path": "local/botosani/botosani/2025/411",
+   "short": "HCL Botoșani nr. 411/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 411/2025 privind aprobarea încheierii unui acord notarial de vecinătate și emiterii acordului în vederea obținerii autorizației de construire în temeiul prevederilor Certificatului de urbanism nr. 542 din 13.08.2024",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/411_25.pdf",
+     "sha256": "4f702b8509e9c446e3f7ece04dc94ae4df8b40611b840796a98f1765202067ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-412-2025",
+   "path": "local/botosani/botosani/2025/412",
+   "short": "HCL Botoșani nr. 412/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 412/2025 privind aprobarea emiterii acordului în vederea obținerii autorizației de construire, în temeiul prevederilor Certificatului de urbanism nr. 530 din 18.08.2025",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/412_25.pdf",
+     "sha256": "15dd938a08ae032c12eaa2bf81cb8c0bc9c0767b216dc1d8b5486299d989ef87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-435-2025",
+   "path": "local/botosani/botosani/2025/435",
+   "short": "HCL Botoșani nr. 435/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 435/2025 pentru modificarea și completarea Hotărârii Consiliului Local al Municipiului Botoșani nr. 233 din 28 mai 2025 privind aprobarea documentației tehnico-economice faza „Proiect Tehnic și Detalii de Execuție” (PTh+D.E.) precum și a indicatorilor tehnico-economici pentru obiectivul de investiții „Creșterea mobilității urbane a Municipiului Botoșani prin înființarea unei autobaze de transport public metropolitan”, propus la finanțare în cadrul Programului Regional Nord-Est 2021-2027, Prioritatea 4: O regiune cu o mobilitate urbană mai durabilă",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/435_25.pdf",
+     "sha256": "43d09081bd41531d4c2cee67d4acce08f2d9fb82c719b6b242e949b7536da135"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-437-2025",
+   "path": "local/botosani/botosani/2025/437",
+   "short": "HCL Botoșani nr. 437/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 437/2025 privind revocarea Hotărârii nr. 221 din 28.05.2025 privind trecerea din domeniul privat al Municipiului Botoșani la dispoziția Comisiei Locale de Fond Funciar a unei suprafețe de teren în vederea punerii în posesie și reconstituirea dreptului de proprietate a unei persoane îndreptățită – mai 2025",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/437_25.pdf",
+     "sha256": "205656c7fd953f6c5ce48cb558524f7ba92940bbe5e14ea8d9c77808bd7a2248"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-439-2025",
    "path": "local/botosani/botosani/2025/439",
    "short": "HCL Botoșani nr. 439/2025",
@@ -29,6 +1019,456 @@
      "units": 1,
      "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/439_25.pdf",
      "sha256": "23937f15f4f9f3f0a375b60b034638f87355f83ae75ea46373d577e6ecd0951d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-441-2025",
+   "path": "local/botosani/botosani/2025/441",
+   "short": "HCL Botoșani nr. 441/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 441/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/441_25.pdf",
+     "sha256": "ba21047edb5d9d1371989736da17e6f35a574969229b0dcafef1456e74e41961"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-443-2025",
+   "path": "local/botosani/botosani/2025/443",
+   "short": "HCL Botoșani nr. 443/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 443/2025 pentru modificarea și completarea Hotărârii Consiliului Local al Municipiului Botoșani nr. 339 din 14 august 2025 privind aprobarea contractării și implementării proiectului „Renovare energetică a clădirilor publice - Grădinița cu Program Prelungit nr. 6 „Prichindel” Botoșani”, cod SMIS 346317, în cadrul Programului Regional Nord-Est 2021-2027, Prioritatea 3 - O regiune durabilă, prietenoasă cu mediul, Apel de proiecte PRNE/234/PRNE_P3/OP2/RSO2.1/PRNE_A14 - PR/NE/2024/3/RSO2.1/1/Eficienta energetica Cladiri publice MRJ+M, precum și a cheltuielilor legate de acest proiect",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/443_25.pdf",
+     "sha256": "d77a951f50e627938b7d3d9f4c988e2536da26b7bf2c4f107d8371885563ec1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-445-2025",
+   "path": "local/botosani/botosani/2025/445",
+   "short": "HCL Botoșani nr. 445/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 445/2025 pentru modificarea și completarea Hotărârii Consiliului Local al Municipiului Botoșani nr. 436/30.09.2025 privind aprobarea contractării și implementării proiectului „Renovare energetică a clădirilor publice - Școala Gimnazială nr. 17 Botoșani”, cod SMIS 346020, în cadrul Programului Regional Nord-Est 2021-2027, Prioritatea 3-O regiune durabilă, prietenoasă cu mediul, Apel de proiecte PRNE/234/PRNE_P3/OP2/RSO2.1/PRNE_A14 - PR/NE/2024/3/RSO2.1/1/Eficienta energetica Cladiri publice MRJ+M, precum și a cheltuielilor legate de acest proiect",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/445_25.pdf",
+     "sha256": "dabbf582724c01ad1cf68f36bdc388f82a2abc83e21f939dc6461c1e8f209e50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-449-2025",
+   "path": "local/botosani/botosani/2025/449",
+   "short": "HCL Botoșani nr. 449/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 449/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/449_25.pdf",
+     "sha256": "ff184b06a20a245b28bdd6483e5e2c68443bb48bcbb902a5527bede8f83a135e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-451-2025",
+   "path": "local/botosani/botosani/2025/451",
+   "short": "HCL Botoșani nr. 451/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 451/2025 privind aprobarea garantării unei finanțări rambursabile interne în valoare de 8.000.000 lei de către S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/451_25.pdf",
+     "sha256": "7112a306f939174392d994e6749b0549d7f6a6fc7652dc4e559e8b1a2a96219c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-458-2025",
+   "path": "local/botosani/botosani/2025/458",
+   "short": "HCL Botoșani nr. 458/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 458/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/458_25.pdf",
+     "sha256": "0f4f576833122fb85c3931a95033361fd9fd4c10266d56b20856c7d9043e2f89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-464-2025",
+   "path": "local/botosani/botosani/2025/464",
+   "short": "HCL Botoșani nr. 464/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 464/2025 pentru modificarea și completarea Hotărârii Consiliului Local al Municipiului Botoșani nr. 405 din 30 septembrie 2025 privind aprobarea contractării și implementării proiectului „Renovare energetică a clădirilor publice – Colegiul Economic ,,Octav Onicescu”, cod SMIS 346318, în cadrul Programului Regional Nord-Est 2021-2027, Prioritatea 3-O regiune durabilă, prietenoasă cu mediul, Apel de proiecte PRNE/234/PRNE_P3/OP2/RSO2.1/PRNE_A14 - PR/NE/2024/3/RSO2.1/1/Eficienta energetica Cladiri publice MRJ+M, precum și a cheltuielilor legate de acest proiect",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/464_25.pdf",
+     "sha256": "429b9c775be60b22e4c455f555301c6b4ba71b80e29a8eb21a902d0f287067a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-467-2025",
+   "path": "local/botosani/botosani/2025/467",
+   "short": "HCL Botoșani nr. 467/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 467/2025 pentru modificarea și completarea Hotărârii Consiliului Local al Municipiului Botoșani nr. 382 din 11 septembrie 2025 privind aprobarea documentației tehnico-economice faza „Proiect Tehnic și Detalii de Execuție (PTh+D.E.) precum și actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții „Acces pietonal și biciclete între PRATS Cornișa și Versant Pacea – Pasarelă supraterană pentru transport ecologic nemotorizat (pietonal și biciclete) în vederea accesibilității între PRATS Cornișa și versant Pacea, municipiul Botoșani”, propus la finanțare în cadrul Programului Regional Nord-Est 2021- 2027, Prioritatea 4: O regiune cu o mobilitate urbană mai durabilă",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/467_25.pdf",
+     "sha256": "d960f750f2ae1fde607d4f909180516b4f6292b0a40b7e6c722a94cbfe1ce1a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-469-2025",
+   "path": "local/botosani/botosani/2025/469",
+   "short": "HCL Botoșani nr. 469/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 469/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/469_25.pdf",
+     "sha256": "102523287193b7ae38f475bf71f7376cf105f3721d221be5831e8d282a43b8d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-470-2025",
+   "path": "local/botosani/botosani/2025/470",
+   "short": "HCL Botoșani nr. 470/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 470/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/470_25.pdf",
+     "sha256": "0948a94e8c34f30bc4e0ad71dd422f48099cdaa377d7fc17b818093f8bb7840a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-474-2025",
+   "path": "local/botosani/botosani/2025/474",
+   "short": "HCL Botoșani nr. 474/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 474/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/474_25.pdf",
+     "sha256": "7aeff7181133bb73d37f89a4252806b5e3182ee7f207a166209386232d0a242a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-481-2025",
+   "path": "local/botosani/botosani/2025/481",
+   "short": "HCL Botoșani nr. 481/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 481/2025 privind aprobarea încheierii unui acord notarial de vecinătate în vederea construirii pe limita de proprietate a Municipiului Botoșani pentru obținerea autorizației de construire în temeiul prevederilor Certificatului de urbanism nr. 328 din 10.06.2025",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/481_25.pdf",
+     "sha256": "c28597b2c6445f5e5c61c5037773416f03c00486afe15102ec1e8ce3f924b47d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-494-2025",
+   "path": "local/botosani/botosani/2025/494",
+   "short": "HCL Botoșani nr. 494/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 494/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/494_25.pdf",
+     "sha256": "a1735dbef1627d505817ecf99282f8d2b7d0d2bfd61247b9ff393f89203ee084"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-495-2025",
+   "path": "local/botosani/botosani/2025/495",
+   "short": "HCL Botoșani nr. 495/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 495/2025 pentru modificarea Anexei nr. 6 a Hotărârii Consiliului Local al Municipiului Botoșani nr. 415/30.09.2025 privind transmiterea bunurilor aferente investiției „Consolidare și Restaurare Teatrul „Mihai Eminescu” Botoșani” în administrare instituției Teatrului „Mihai Eminescu” Botoșani",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/495_25.pdf",
+     "sha256": "56f7550f8aa0e85b6160248360e65ca2b6a03c9e50f83069e7147453856638ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-502-2025",
+   "path": "local/botosani/botosani/2025/502",
+   "short": "HCL Botoșani nr. 502/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 502/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/502_25.pdf",
+     "sha256": "e4af0aeed647a4967768b008b6a1f1b2639802c078f25d2f122d9aa28e7e7e42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-506-2025",
+   "path": "local/botosani/botosani/2025/506",
+   "short": "HCL Botoșani nr. 506/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 506/2025 privind acceptarea unor donaṭii constând în extindere conductă apă rece și canalizare realizate în baza Autorizației de construire nr. 179 din 08.08.2023",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/506_25.pdf",
+     "sha256": "9812808d91e07af2b00d2faa0f39bd663848b5f5f30c52562d45fee33d64ffc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-519-2025",
+   "path": "local/botosani/botosani/2025/519",
+   "short": "HCL Botoșani nr. 519/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 519/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/519_25.pdf",
+     "sha256": "c53fa3ff10a01ef797388aab76bd67b8b8f6517fd49d7c9f2165ac020d61e638"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-520-2025",
+   "path": "local/botosani/botosani/2025/520",
+   "short": "HCL Botoșani nr. 520/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 520/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/520_25.pdf",
+     "sha256": "773c0d96b648ccf19d969fc831fd0ac05b47fd0c4fcfdb27a7c4f849b0a142f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-528-2025",
+   "path": "local/botosani/botosani/2025/528",
+   "short": "HCL Botoșani nr. 528/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 528/2025 privind aprobarea încheierii unui acord notarial de vecinătate și emiterea acordului în vederea obținerii autorizației de construire în temeiul prevederilor Certificatului de urbanism nr. 539 din 18.08.2025",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/528_25.pdf",
+     "sha256": "980253df9bfe96c5b44fbd038e27950fb3532cdb0c156388f2326a2da5427703"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-54-2025",
+   "path": "local/botosani/botosani/2025/54",
+   "short": "HCL Botoșani nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 54/2025 privind aprobarea prelungirii duratei contractului de închiriere nr. 3441 din 28.01.2019 încheiat cu Asociația pentru Promovarea Culturii în Est – Culturest",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/54_25.pdf",
+     "sha256": "c8a25f60e4b4160eef863a7a3799990d101b858a4bc774ed815b129add51b11e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-557-2025",
+   "path": "local/botosani/botosani/2025/557",
+   "short": "HCL Botoșani nr. 557/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 557/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/557_25.pdf",
+     "sha256": "0a8f62b6121d3fd28ecf3576ac1b622952519104215f505456ed7f1d9cd13f73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-558-2025",
+   "path": "local/botosani/botosani/2025/558",
+   "short": "HCL Botoșani nr. 558/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 558/2025 pentru modificarea și completarea Hotărârii Consiliului Local al Municipiului Botoșani nr. 394 din 19 noiembrie 2024 având ca obiect aprobarea participării UAT Municipiul Botoșani cu propunerea de proiect intitulată „Creșterea eficienței energetice a infrastructurii de iluminat – etapa 5” în cadrul Programului privind creșterea eficienței energetice a infrastructurii de iluminat public derulat de către Administrația Fondului pentru Mediu, precum și aprobarea documentației tehnico-economice faza Documentație de avizare a lucrărilor de intervenții și a principalilor indicatori tehnico-economici pentru obiectivul de investiții „Creșterea eficienței energetice a infrastructurii de iluminat – etapa 5”",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/558_25.pdf",
+     "sha256": "d3969ab4b04bf631c5c141bfd12a03b66c6ba51d826d3a8acdc823208a5e64a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-569-2025",
+   "path": "local/botosani/botosani/2025/569",
+   "short": "HCL Botoșani nr. 569/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 569/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/569_25.pdf",
+     "sha256": "c8c55a1bd8a3569210df348d05c08386db1bad45712eb29a32281d989283b029"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-57-2025",
+   "path": "local/botosani/botosani/2025/57",
+   "short": "HCL Botoșani nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 57/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/57_25.pdf",
+     "sha256": "847d10712703a5833763d8ec411e9392a89c3926d3e71e9f254b99b2c192219c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-570-2025",
+   "path": "local/botosani/botosani/2025/570",
+   "short": "HCL Botoșani nr. 570/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 570/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/570_25.pdf",
+     "sha256": "2c46c2f709c908f0c222303cb20d57d5f8adc398f2a45b4afde02be811080a17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-58-2025",
+   "path": "local/botosani/botosani/2025/58",
+   "short": "HCL Botoșani nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 58/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/58_25.pdf",
+     "sha256": "4e4906d8d13c70ac449f24e46dc19534d65c2c8335f8a091c7dad65cc93d6e20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-585-2025",
+   "path": "local/botosani/botosani/2025/585",
+   "short": "HCL Botoșani nr. 585/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 585/2025 privind acordul Consiliului Local pentru ipotecarea unui imobil edificat pe teren concesionat în baza contractului de concesiune nr. 4367 din 07.09.2012",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/585_25.pdf",
+     "sha256": "045d77ae051bbaf4c736c42e2a7f6f6bfa7f90e498a9374d9764ff71ef3f18fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-601-2025",
+   "path": "local/botosani/botosani/2025/601",
+   "short": "HCL Botoșani nr. 601/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 601/2025 pentru modificarea și completarea Hotărârii Consiliului Local al Municipiului Botoșani nr. 489 din 19 decembrie 2024 având ca obiect aprobarea participării UAT Municipiul Botoșani cu propunerea de proiect intitulată „Creșterea eficienței energetice a infrastructurii de iluminat – etapa 6” în cadrul Programului privind creșterea eficienței energetice a infrastructurii de iluminat public derulat de către Administrația Fondului pentru Mediu, precum și aprobarea documentației tehnico-economice faza Documentație de avizare a lucrărilor de intervenții și a principalilor indicatori tehnico-economici pentru obiectivul de investiții „Creșterea eficienței energetice a infrastructurii de iluminat – etapa 6”",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/601_25.pdf",
+     "sha256": "41011ae84cadb8d6043af1d86b32a12515e7aa751cc4bdec9c498968efe7aa70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-80-2025",
+   "path": "local/botosani/botosani/2025/80",
+   "short": "HCL Botoșani nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 80/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/80_25.pdf",
+     "sha256": "0e50461a9058b1624f6e98327e577f197b6dd42b8b11085dd3a59e0ddcca96bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-98-2025",
+   "path": "local/botosani/botosani/2025/98",
+   "short": "HCL Botoșani nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 98/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/98_25-1.pdf",
+     "sha256": "beb298e5163aad32c7a29ad5fbab5f9396cb50e5716af1ea0a41d113d78650e3"
     }
    ]
   }

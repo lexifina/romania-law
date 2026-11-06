@@ -4366,6 +4366,81 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "avocatul-poporului-recurs-in-interesul-legii-recurs-in-interesul-legii-avand-ca-obiect-problema-de-drept-505ffa-2020",
+   "path": "avocatul-poporului/recurs-in-interesul-legii/2020/recurs-in-interesul-legii-avand-ca-obiect-problema-de-drept-505ffa",
+   "short": "Recurs-in-interesul-legii Avocatul Poporului din 2019-05-23",
+   "title": "Recurs în interesul legii având ca obiect problema de drept referitoare la interpretarea și aplicarea art. 22 din Legea nr. 104/2003 privind manipularea cadavrelor umane și prelevarea organelor și țesuturilor de la cadavre în vederea transplantului, republicată – 23 mai 2019",
+   "url": "https://avp.ro/wp-content/uploads/2020/07/ril1_2019.pdf",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/07/ril1_2019.pdf",
+     "sha256": "5ec6ab772ceefd31e8ad7ea2f585601d1b38a0bd9bb7a6f8d3757de288f915c4"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recurs-in-interesul-legii-recurs-in-interesul-legii-privind-interpretarea-si-aplicarea-6579a1-2020",
+   "path": "avocatul-poporului/recurs-in-interesul-legii/2020/recurs-in-interesul-legii-privind-interpretarea-si-aplicarea-6579a1",
+   "short": "Recurs-in-interesul-legii Avocatul Poporului din 2020-07-01",
+   "title": "Recurs-in-interesul-legii Avocatului Poporului din 2020-07-01",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/ril1_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/ril1_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recurs-in-interesul-legii-recurs-in-interesul-legii-privind-interpretarea-si-aplicarea-a1597d-2020",
+   "path": "avocatul-poporului/recurs-in-interesul-legii/2020/recurs-in-interesul-legii-privind-interpretarea-si-aplicarea-a1597d",
+   "short": "Recurs-in-interesul-legii Avocatul Poporului din 2020-11-03",
+   "title": "Recurs-in-interesul-legii Avocatului Poporului din 2020-11-03",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/ril3_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/ril3_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recurs-in-interesul-legii-recurs-in-interesul-legii-privind-interpretarea-si-aplicarea-b56f1d-2020",
+   "path": "avocatul-poporului/recurs-in-interesul-legii/2020/recurs-in-interesul-legii-privind-interpretarea-si-aplicarea-b56f1d",
+   "short": "Recurs-in-interesul-legii Avocatul Poporului din 2020-05-12",
+   "title": "Recurs în interesul legii privind interpretarea și aplicarea neunitară a dispozițiilor art. 65 alin. (2) din legea nr. 53/2003, republicată, referitor la sintagma „cauză reală și serioasă”, în sensul de a se stabili „dacă un caracter serios al concedierii presupune ca, în situația reducerii numărulu",
+   "url": "https://avp.ro/wp-content/uploads/2020/10/ril2_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-05-12",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/10/ril2_2020.pdf",
+     "sha256": "f532dc896bf2014e13c683a49981a45284850270c8da9cd25e3c46e798ef1820"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recurs-in-interesul-legii-recurs-in-interesul-legii-privind-interpretarea-si-aplicarea-f2d680-2020",
+   "path": "avocatul-poporului/recurs-in-interesul-legii/2020/recurs-in-interesul-legii-privind-interpretarea-si-aplicarea-f2d680",
+   "short": "Recurs-in-interesul-legii Avocatul Poporului din 2019-04-12",
+   "title": "Recurs în interesul legii privind interpretarea și aplicarea neunitară a dispozițiilor art. 2 alin. (4), art. 59 alin. (2) și art. 64 alin. (2) din Legea nr. 192/2006 privind medierea și organizarea profesiei de mediator, cu modificările și completările ulterioare, în sensul de a stabili dacă instan",
+   "url": "https://avp.ro/wp-content/uploads/2020/07/ril2_2019.pdf",
+   "versions": [
+    {
+     "from": "2019-04-12",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/07/ril2_2019.pdf",
+     "sha256": "162ac91960c4bf31e68debf8c9534f32d7bd2d75b800ff97ec741637527aa5e1"
+    }
+   ]
   }
  ]
 }
