@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/alba/blandiana/2025",
+"acts": [
+{
+"slug": "hcl-alba--blandiana-44-2025",
+"path": "local/alba/blandiana/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 44/2025 privind alegerea presedintelui de sedinta al consiliului Local al comunei Blandiana pentru perioada iulie – septembrie 2025",
+"short": "HCL Blandiana nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+"council": "alba/blandiana",
+"council_name": "Consiliul Local al Comunei Blandiana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--blandiana-46-2025",
+"path": "local/alba/blandiana/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 46/2025 privind analiza stadiului de inscriere a datelor in Registrul agricol si stabilirea masurilor pentru eficientizarea acestei",
+"short": "HCL Blandiana nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+"council": "alba/blandiana",
+"council_name": "Consiliul Local al Comunei Blandiana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--blandiana-47-2025",
+"path": "local/alba/blandiana/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 47/2025 privind rectificarea bugetului de venituri si cheltuieli al comunei Blandiana pe anul 2025",
+"short": "HCL Blandiana nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+"council": "alba/blandiana",
+"council_name": "Consiliul Local al Comunei Blandiana",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

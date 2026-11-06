@@ -3,6 +3,51 @@
  "shard": "local/arad/lipova/2026",
  "acts": [
   {
+   "slug": "hcl-arad--lipova-107-2026",
+   "path": "local/arad/lipova/2026/107",
+   "short": "HCL Lipova nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 107/2026",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.107.pdf",
+     "sha256": "ac93534c10b28b6c6a9e86ffe61ac5ce36ccba63305f38a72f2efdd267f69ada"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-108-2026",
+   "path": "local/arad/lipova/2026/108",
+   "short": "HCL Lipova nr. 108/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 108/2026 privind aprobarea unor măsuri vizând masa lemnoasă supusă exploatării in anul 2026 din pădurea proprietate publică a Orașului Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.108.pdf",
+     "sha256": "1a6eef3be5e2246f07dd82a17a574106818ab23f9e5f9dc8547b74cd12955b79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-109-2026",
+   "path": "local/arad/lipova/2026/109",
+   "short": "HCL Lipova nr. 109/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 109/2026",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.109.pdf",
+     "sha256": "218bb3168c7d5789b4954fd9e7f967344cb67ac715bb5422b74f284f50f26b2b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--lipova-110-2026",
    "path": "local/arad/lipova/2026/110",
    "short": "HCL Lipova nr. 110/2026",
@@ -14,6 +59,156 @@
      "units": 1,
      "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.110.pdf",
      "sha256": "c7fb573df335a6ed66a018874d10e164fe546d0bdc11ed61a89ce3e307f2572c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-113-2026",
+   "path": "local/arad/lipova/2026/113",
+   "short": "HCL Lipova nr. 113/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 113/2026 privind desemnarea reprezentantului Consiliului Local al Orașului Lipova în Comisia de evaluare a probei de interviu a concursului pentru ocuparea funcției de director/ director adjunct al Liceului \"Atanasie Marienescu\" Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.113.pdf",
+     "sha256": "08d172759b0cd583575908f51ad986d33b0704e7ee5be1135553861fb5179948"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-114-2026",
+   "path": "local/arad/lipova/2026/114",
+   "short": "HCL Lipova nr. 114/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 114/2026 privind desemnarea reprezentantului Consiliului Local al Orașului Lipova în Comisia de evaluare a probei de interviu a concursului pentru ocuparea funcției de director/director adjunct al Liceului \"Sever Bocu\" Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.114.pdf",
+     "sha256": "0a028e2230ef2d313956ea3ddb2f98d7945b65a153837f8c88fdc6cba71b4f85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-115-2026",
+   "path": "local/arad/lipova/2026/115",
+   "short": "HCL Lipova nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 115/2026 privind desemnarea reprezentanților Consiliului Local al Orașului Lipova în comisiile de concurs și soluționare a contestațiilor pentru ocuparea funcției de director medical in cadrul Spitalului orășenesc Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.115.pdf",
+     "sha256": "31f550e5d25e1ceaf8be87039a1051d6cbe6c9d6fa3a448b0b4e7cb584cc368c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-116-2026",
+   "path": "local/arad/lipova/2026/116",
+   "short": "HCL Lipova nr. 116/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 116/2026 privind desemnarea reprezentanților Consiliului Local al Orașului Lipova in Consiliul de Administrație al Clubului Sportiv \"Șoimii\" Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.116.pdf",
+     "sha256": "923dbd8ead74664b5daffed3578e36f21550b6f25ee29e83eff25fb653ac1815"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-117-2026",
+   "path": "local/arad/lipova/2026/117",
+   "short": "HCL Lipova nr. 117/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 117/2026 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apä și de canalizare prin Actul Adițional nr.37",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.117.pdf",
+     "sha256": "104f493731665eedce26b03685b0e5103c97dbb7a0b3ceae5a782d8110507182"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-120-2026",
+   "path": "local/arad/lipova/2026/120",
+   "short": "HCL Lipova nr. 120/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 120/2026 privind desemnarea reprezentanților Consiliului Local al Orașului Lipova în cadrul Consiliului de Administrație al Liceului \"ATANASIE MARIENESCU\" Lipova, pentru anul școlar 2026-2027",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.120.pdf",
+     "sha256": "f28bcc0ccca7a4d82b23d88fe8f30337a9ef58a4daf8dec484d3ce76d9192550"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-121-2026",
+   "path": "local/arad/lipova/2026/121",
+   "short": "HCL Lipova nr. 121/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 121/2026 privind desemnarea reprezentanților Consiliului Local al Orașului Lipova în cadrul Consiliului de Administrație al Liceului \"SEVER BOCU\" Lipova, pentru anul școlar 2026 -2027",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.121.pdf",
+     "sha256": "63ce55dd16b0af87c226b8d7deabd881a65d70a2caac57a96a61df4858ad19f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-122-2026",
+   "path": "local/arad/lipova/2026/122",
+   "short": "HCL Lipova nr. 122/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 122/2026 privind desemnarea reprezentantului Consiliului Local Lipova în cadrul Comisiei pentru Evaluarea și Asigurarea Calității din Liceul \"SEVER BOCU\" Lipova pentru anul școlar 2026-2027",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.122.pdf",
+     "sha256": "f2846128e214896f704aae6d5a16e9763fad5e0815dc0b61aa4d614df739d238"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-123-2026",
+   "path": "local/arad/lipova/2026/123",
+   "short": "HCL Lipova nr. 123/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 123/2026 privind desemnarea reprezentanților Consiliului Local al Orașului Lipova în Comisia de evaluare a probei de interviu a concursului pentru ocuparea funcției de director/director adjunct al Liceului \"Atanasie Marienescu\" Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.123.pdf",
+     "sha256": "bada79d2680b8969f624c62a963ba30bf4406912964187433e500812256546c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-125-2026",
+   "path": "local/arad/lipova/2026/125",
+   "short": "HCL Lipova nr. 125/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 125/2026 privind rectificarea Bugetului General Consolidat de Venituri și Cheltuieli, pentru anul 2026, al Orașului Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.125.pdf",
+     "sha256": "c391073b6d0aa9fbb5e3e597e93b504ca3b08abfe75ac5e2723a8634e4af15a4"
     }
    ]
   }

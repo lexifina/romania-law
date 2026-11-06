@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/ignesti/2020",
+ "acts": [
+  {
+   "slug": "hcl-arad--ignesti-59-2020",
+   "path": "local/arad/ignesti/2020/59",
+   "short": "HCL Ignești nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 59/2020 privind aprobarea ajustării tarifelor aferente Contractului de delegare nr. 3640/09.09.2024 pentru operarea stațiilor de transfer Bârzava, Chișineu-Criș și Sebiș și acordarea unui mandat special reprezentantului Comunei Ignești în Adunarea Generală a Asociaților ADISIGD Arad",
+   "url": "https://primariaignesti.ro/wp-content/uploads/2026/11/HCL-59.pdf",
+   "versions": [
+    {
+     "from": "2020-10-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/11/HCL-59.pdf",
+     "sha256": "88f08821ae248f2f973eb1413af1dee717db1ccaeba9833464f7b9575bda636f"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,426 @@
+{
+ "country": "RO",
+ "shard": "local/timis/deta/2022",
+ "acts": [
+  {
+   "slug": "hcl-timis--deta-178-2022",
+   "path": "local/timis/deta/2022/178",
+   "short": "HCL Deta nr. 178/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 178/2022 privind aprobarea documentaţiei tehnice de dezmembrare a imobilului înscris în CF nr. 403921, nr. top. 403921 (A668/3/1), situat în extravilan Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/76851",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/76851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-179-2022",
+   "path": "local/timis/deta/2022/179",
+   "short": "HCL Deta nr. 179/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 179/2022 privind trecerea din domeniul privat în domeniul public și apartenența la domeniul public al orașului Deta pentru cauză de utilitate publică a unui imobil",
+   "url": "https://emol.ro/deta-tm/registru-hcl/77668",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/77668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-180-2022",
+   "path": "local/timis/deta/2022/180",
+   "short": "HCL Deta nr. 180/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 180/2022 privind punerea la dispoziție a terenului necesar investiției „ÎNFIINȚAREA UNOR CENTRE DE COLECTARE PRIN APORT VOLUNTAR ÎN JUDEȚUL TIMIȘ - LOT 1\" finanțat prin Planul Național de Redresare și Reziliență (PNRR) - Componenta C3: Managementul deșeurilor/Investiția I.1.a. Înființarea de centre de colectare prin aport voluntar",
+   "url": "https://emol.ro/deta-tm/registru-hcl/77669",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/77669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-181-2022",
+   "path": "local/timis/deta/2022/181",
+   "short": "HCL Deta nr. 181/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 181/2022 privind aprobarea proiectului ,,Realizarea unui sistem centralizat de producere și distribuție a energiei termice pentru clădiri publice din Orașul Deta, jud. Timiș, utilizând surse regenerabile de energie geotermală”, a Documentației tehnico-economice (faza - SF), a Devizului General și a Indicatorilor tehnico-economici ai obiectivului de investiții",
+   "url": "https://emol.ro/deta-tm/registru-hcl/78313",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/78313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-182-2022",
+   "path": "local/timis/deta/2022/182",
+   "short": "HCL Deta nr. 182/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 182/2022 privind rectificarea bugetului de venituri şi cheltuieli pe anul 2022",
+   "url": "https://emol.ro/deta-tm/registru-hcl/78732",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/78732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-183-2022",
+   "path": "local/timis/deta/2022/183",
+   "short": "HCL Deta nr. 183/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 183/2022 privind aprobarea trecerii din domeniul public al Orașului Deta în domeniul public al Județului Timiș a imobilului Teren, înscris în CF nr. 401793 Deta, cu destinația curți construcții pentru zona dotări și servicii publice, în suprafață de 4.600 mp, proprietatea Orașului Deta, și declararea imobilului, bun de interes public județean, în vederea construirii unui centru de colectare separată prin aport voluntar în județul Timiș",
+   "url": "https://emol.ro/deta-tm/registru-hcl/79383",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/79383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-184-2022",
+   "path": "local/timis/deta/2022/184",
+   "short": "HCL Deta nr. 184/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 184/2022 privind completarea Hotărârea Consiliului local al oraşului Deta nr.18/27.02.2007 privind aprobarea domeniului privat al oraşului Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/80304",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/80304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-186-2022",
+   "path": "local/timis/deta/2022/186",
+   "short": "HCL Deta nr. 186/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 186/2022 privind rectificarea bugetului de venituri şi cheltuieli pe anul 2022",
+   "url": "https://emol.ro/deta-tm/registru-hcl/81456",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/81456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-188-2022",
+   "path": "local/timis/deta/2022/188",
+   "short": "HCL Deta nr. 188/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 188/2022 privind majorarea taxei speciale de salubrizare pentru serviciile de salubritate prestate beneficiarilor fără contract",
+   "url": "https://emol.ro/deta-tm/registru-hcl/81458",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/81458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-190-2022",
+   "path": "local/timis/deta/2022/190",
+   "short": "HCL Deta nr. 190/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 190/2022",
+   "url": "https://emol.ro/deta-tm/registru-hcl/81460",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/81460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-191-2022",
+   "path": "local/timis/deta/2022/191",
+   "short": "HCL Deta nr. 191/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 191/2022 privind modificarea „Agendei principalelor manifestări cultural-artistice şi sportive în perioada 1.01.2022 - 31.12.2022” finanţată din bugetul local de venituri şi cheltuieli",
+   "url": "https://emol.ro/deta-tm/registru-hcl/81461",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/81461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-194-2022",
+   "path": "local/timis/deta/2022/194",
+   "short": "HCL Deta nr. 194/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 194/2022 privind aprobarea listelor de priorităţi pentru repartizarea locuinţelor sociale şi a locuinţelor cu chirie din fondul locativ al orașului Deta pentru anul 2023",
+   "url": "https://emol.ro/deta-tm/registru-hcl/81464",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/81464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-195-2022",
+   "path": "local/timis/deta/2022/195",
+   "short": "HCL Deta nr. 195/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 195/2022 privind aprobarea propunerii de reţea şcolară în oraşul Deta, pe anul şcolar 2023 – 2024",
+   "url": "https://emol.ro/deta-tm/registru-hcl/81465",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/81465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-197-2022",
+   "path": "local/timis/deta/2022/197",
+   "short": "HCL Deta nr. 197/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 197/2022 privind revocarea unor Hotărâri ale Consiliului local al orașului Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/81467",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/81467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-201-2022",
+   "path": "local/timis/deta/2022/201",
+   "short": "HCL Deta nr. 201/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 201/2022 privind rectificarea bugetului de venituri şi cheltuieli pe anul 2022",
+   "url": "https://emol.ro/deta-tm/registru-hcl/82194",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/82194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-202-2022",
+   "path": "local/timis/deta/2022/202",
+   "short": "HCL Deta nr. 202/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 202/2022 privind participarea Orașului Deta la implementarea proiectului din Investiția I.4 Implementarea a 3.000 km de trasee cicloturistice la nivel național” finanțat din PNRR, Componenta 11 – Turism și cultură",
+   "url": "https://emol.ro/deta-tm/registru-hcl/82195",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/82195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-203-2022",
+   "path": "local/timis/deta/2022/203",
+   "short": "HCL Deta nr. 203/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 203/2022",
+   "url": "https://emol.ro/deta-tm/registru-hcl/82895",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/82895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-204-2022",
+   "path": "local/timis/deta/2022/204",
+   "short": "HCL Deta nr. 204/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 204/2022 privind aprobarea proiectului „Investiții în echipamente și materiale destinate reducerii riscului de infecții nosocomiale la Spitalul Orășenesc Deta”, cât și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/deta-tm/registru-hcl/82896",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/82896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-205-2022",
+   "path": "local/timis/deta/2022/205",
+   "short": "HCL Deta nr. 205/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 205/2022",
+   "url": "https://emol.ro/deta-tm/registru-hcl/83503",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/83503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-206-2022",
+   "path": "local/timis/deta/2022/206",
+   "short": "HCL Deta nr. 206/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 206/2022 privind aprobarea Execuției bugetului local la data de 12.12.2022, a Execuției bugetului instituțiilor publice finanțate din venituri proprii la data de 12.12.2022 și a Execuției bugetului creditelor interne la data de 12.12.2022",
+   "url": "https://emol.ro/deta-tm/registru-hcl/83504",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/83504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-209-2022",
+   "path": "local/timis/deta/2022/209",
+   "short": "HCL Deta nr. 209/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 209/2022",
+   "url": "https://emol.ro/deta-tm/registru-hcl/83507",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/83507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-210-2022",
+   "path": "local/timis/deta/2022/210",
+   "short": "HCL Deta nr. 210/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 210/2022 privind aprobarea cofinanţării „Proiectului regional de dezvoltare a infrastructurii de apă şi apă uzată din judeţul Timiş, în perioada 2014-2020\" prin POIM în vederea asigurării cofinanțării proiectului",
+   "url": "https://emol.ro/deta-tm/registru-hcl/83508",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/83508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-211-2022",
+   "path": "local/timis/deta/2022/211",
+   "short": "HCL Deta nr. 211/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 211/2022 privind aprobarea indicatorilor tehnico-economici aferenți ”Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată din județul Timiș, în perioada 2014-2020” – oraș Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/83509",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/83509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-212-2022",
+   "path": "local/timis/deta/2022/212",
+   "short": "HCL Deta nr. 212/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 212/2022 privind trecerea din domeniul privat în domeniul public al orașului Deta a unor imobile pentru cauză de utilitate publică",
+   "url": "https://emol.ro/deta-tm/registru-hcl/83510",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/83510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-213-2022",
+   "path": "local/timis/deta/2022/213",
+   "short": "HCL Deta nr. 213/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 213/2022 privind aprobarea „Agendei principalelor manifestări cultural-artistice şi sportive în perioada 1.01.2023 - 31.12.2023” finanţată din bugetul local de venituri şi cheltuieli",
+   "url": "https://emol.ro/deta-tm/registru-hcl/83511",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/83511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-214-2022",
+   "path": "local/timis/deta/2022/214",
+   "short": "HCL Deta nr. 214/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 214/2022 privind modificarea statului de funcţii prin schimbarea denumirii funcției publice de execuție de inspector, clasa I, grad profesional asistent, în funcția publică de consilier achiziții publice, grad profesional asistent la Serviciul Urbanism, amenajarea teritoriului, autorizarea executării lucrărilor și administrarea patrimoniului",
+   "url": "https://emol.ro/deta-tm/registru-hcl/83512",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/83512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-216-2022",
+   "path": "local/timis/deta/2022/216",
+   "short": "HCL Deta nr. 216/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 216/2022 privind solicitarea de trecere a unor bunuri imobile din domeniul public al Județului Timiș în domeniul public al Orașului Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/83514",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/83514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-217-2022",
+   "path": "local/timis/deta/2022/217",
+   "short": "HCL Deta nr. 217/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 217/2022 privind rectificarea bugetului de venituri şi cheltuieli pe anul 2022",
+   "url": "https://emol.ro/deta-tm/registru-hcl/83972",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/83972",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -273,6 +273,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-65-2018-anexa",
+   "path": "anexa/hg-65-2018/anexa",
+   "short": "Anexa la HG nr. 65/2018",
+   "title": "Norme metodologice din 1 martie 2018 de aplicare a Ordonanței de urgență a Guvernului nr. 92/2017 privind aprobarea Programului-pilot de acordare a unui suport alimentar pentru preșcolarii și elevii din 50 de unități de învățământ preuniversitar de stat (anexa la Hotărârea Guvernului nr. 65/2018)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198418",
+   "versions": [
+    {
+     "from": "2018-03-06",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198418",
+     "sha256": "7e0b1f3789686dd1a824f5104da7e30bd34c5a1e22cfaf581f1778a4080f9005"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-707-2018-anexa",
    "path": "anexa/hg-707-2018/anexa",
    "short": "Anexa la HG nr. 707/2018",
@@ -393,6 +408,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-agricultura-1395-2018-anexa",
+   "path": "anexa/ordin-agricultura-1395-2018/anexa",
+   "short": "Anexa la Ordin agricultura nr. 1395/2018",
+   "title": "Ghidul solicitantului din 28 septembrie 2018 aferent măsurilor I.6, I.23, II.2, IV.4 din Programul operațional pentru pescuit și afaceri maritime 2014-2020 (anexa la Ordinul AGRICULTURA nr. 1395/2018)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280723",
+   "versions": [
+    {
+     "from": "2018-11-20",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280723",
+     "sha256": "e893ab00a4b13eac844dd6549c153e60522223df7797b5225c3a8b3d9d5f98e9"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-agricultura-1412-2018-anexa",
    "path": "anexa/ordin-agricultura-1412-2018/anexa",
    "short": "Anexa la Ordin agricultura nr. 1412/2018",
@@ -453,6 +483,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-anaf-565-2018-anexa",
+   "path": "anexa/ordin-anaf-565-2018/anexa",
+   "short": "Anexa la Ordin anaf nr. 565/2018",
+   "title": "Procedură din 28 februarie 2018 de organizare și funcționare a Registrului persoanelor care aplică plata defalcată a TVA (anexa la Ordinul ANAF nr. 565/2018)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198213",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198213",
+     "sha256": "80ece81a832b00ed16355d0de7303416b860795db3977a7d1cdf7f2c73215f19"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-anaf-627-2018-anexa",
    "path": "anexa/ordin-anaf-627-2018/anexa",
    "short": "Anexa la Ordin anaf nr. 627/2018",
@@ -464,6 +509,201 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198797",
      "sha256": "0fd5953f14988ca4f56487e43fe96d0b621b629b210458b2325ef6b9e78be9a7"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-170-2018-anexa",
+   "path": "anexa/ordin-anre-170-2018/anexa",
+   "short": "Anexa la Ordin anre nr. 170/2018",
+   "title": "Condiții-cadru de valabilitate din 26 septembrie 2018 asociate autorizației de înființare a unor noi conducte de alimentare din amonte aferente producției de gaze naturale (anexa la Ordinul ANRE nr. 170/2018)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205459",
+   "versions": [
+    {
+     "from": "2018-10-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205459",
+     "sha256": "b4c1e7e1d5a0fd4371a2dc5d04ab1100de45df496162fc22e1a2c12a2ba67e10"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-171-2018-anexa",
+   "path": "anexa/ordin-anre-171-2018/anexa",
+   "short": "Anexa la Ordin anre nr. 171/2018",
+   "title": "Condiții-cadru de valabilitate din 26 septembrie 2018 asociate licenței pentru activitatea de operare a conductelor de alimentare din amonte aferente producției de gaze naturale (anexa la Ordinul ANRE nr. 171/2018)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205484",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205484",
+     "sha256": "8abbab03b0efc5802c0700ae334b5c426db3da717a7c6fa83894f345089710be"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-172-2018-anexa",
+   "path": "anexa/ordin-anre-172-2018/anexa",
+   "short": "Anexa la Ordin anre nr. 172/2018",
+   "title": "Condiții-cadru din 26 septembrie 2018 de valabilitate asociate licenței pentru desfășurarea activității de operare a sistemului de transport al gazelor naturale (anexa la Ordinul ANRE nr. 172/2018)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205868",
+   "versions": [
+    {
+     "from": "2018-10-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205868",
+     "sha256": "ddefc729377a32b2a574d2887e5a2815a0ed864b3cfbb3794c82ccd2b1de2a28"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-205-2018-anexa",
+   "path": "anexa/ordin-anre-205-2018/anexa",
+   "short": "Anexa la Ordin anre nr. 205/2018",
+   "title": "Metodologie din 14 decembrie 2018 de monitorizare a pieței de energie electrică pentru clienții finali deserviți de furnizorii de ultimă instanță (anexa la Ordinul ANRE nr. 205/2018)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209070",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209070",
+     "sha256": "b9f138adb071d3bfcf1eaf4d25f90f8c74a42938c36bf445fc9ea8a1eeb48ab5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-208-2018-anexa",
+   "path": "anexa/ordin-anre-208-2018/anexa",
+   "short": "Anexa la Ordin anre nr. 208/2018",
+   "title": "Normă tehnică din 14 decembrie 2018 privind cerințele tehnice de racordare la rețelele electrice de interes public pentru module generatoare, centrale formate din module generatoare și centrale formate din module generatoare offshore (situate în larg) (anexa la Ordinul ANRE nr. 208/2018)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211640",
+   "versions": [
+    {
+     "from": "2019-04-27",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211640",
+     "sha256": "d4e05594c3adbbbd3feb57e901b516514410aaefa067d1cbc07ca378f8a2580f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-217-2018-anexa",
+   "path": "anexa/ordin-anre-217-2018/anexa",
+   "short": "Anexa la Ordin anre nr. 217/2018",
+   "title": "Metodologie din 19 decembrie 2018 de stabilire a tarifelor reglementate pentru serviciile de distribuție în sectorul gazelor naturale (anexa la Ordinul ANRE nr. 217/2018)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209431",
+   "versions": [
+    {
+     "from": "2018-12-28",
+     "units": 95,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209431",
+     "sha256": "98784dea837084ca5a03a009c4d31eac4ec30b612ba340669bed97455bc73628"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-223-2018-anexa",
+   "path": "anexa/ordin-anre-223-2018/anexa",
+   "short": "Anexa la Ordin anre nr. 223/2018",
+   "title": "Regulament din 19 decembrie 2018 privind cadrul organizat de tranzacționare a produselor standardizate pe piețele centralizate de gaze naturale administrate de Societatea Bursa Română de Mărfuri (Romanian Commodities Exchange) - S.A (anexa la Ordinul ANRE nr. 223/2018)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209407",
+   "versions": [
+    {
+     "from": "2018-12-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209407",
+     "sha256": "a013aaeb1a2b9b695be444959cdcfafecbb4dd365ba29c09875d145777c09ff9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-228-2018-anexa",
+   "path": "anexa/ordin-anre-228-2018/anexa",
+   "short": "Anexa la Ordin anre nr. 228/2018",
+   "title": "Normă tehnică din 28 decembrie 2018 \"Condiții tehnice de racordare la rețelele electrice de interes public pentru prosumatorii cu injecție de putere activă în rețea\" (anexa la Ordinul ANRE nr. 228/2018)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209500",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209500",
+     "sha256": "2cd97329622fa243566f43c2ce09cc874600fe8c6081c8bbef7b8945b3b093f1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-26-2018-anexa",
+   "path": "anexa/ordin-anre-26-2018/anexa",
+   "short": "Anexa la Ordin anre nr. 26/2018",
+   "title": "Regulament din 31 ianuarie 2018 de selecție concurențială în vederea desemnării furnizorilor de ultimă instanță (anexa la Ordinul ANRE nr. 26/2018)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197598",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 58,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197598",
+     "sha256": "64b941009f45d020c0df22a974713cf51da516ea5348a2916dfbdd0868514d2f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-64-2018-anexa",
+   "path": "anexa/ordin-anre-64-2018/anexa",
+   "short": "Anexa la Ordin anre nr. 64/2018",
+   "title": "Condiții-cadru din 29 martie 2018 de valabilitate asociate licenței pentru activitatea de furnizare de gaze naturale (anexa la Ordinul ANRE nr. 64/2018)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199780",
+   "versions": [
+    {
+     "from": "2018-04-17",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199780",
+     "sha256": "bba1ae86cbce8ac26c78513ea9a71a3f94ad49ce87792f7215ad50cc449b3dff"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-72-2018-anexa",
+   "path": "anexa/ordin-anre-72-2018/anexa",
+   "short": "Anexa la Ordin anre nr. 72/2018",
+   "title": "Condiții-cadru din 25 aprilie 2018 de valabilitate asociate licenței pentru activitatea de furnizare de GNC/GNCV (anexa la Ordinul ANRE nr. 72/2018)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200667",
+   "versions": [
+    {
+     "from": "2018-05-15",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200667",
+     "sha256": "a587204820470b1fa7dad8edcd454339da60996e4a83a2c9817e604231fa1189"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-90-2018-anexa",
+   "path": "anexa/ordin-anre-90-2018/anexa",
+   "short": "Anexa la Ordin anre nr. 90/2018",
+   "title": "Condiții-cadru din 10 mai 2018 de valabilitate asociate licenței pentru activitatea de furnizare de GNL (anexa la Ordinul ANRE nr. 90/2018)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200977",
+   "versions": [
+    {
+     "from": "2018-05-23",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200977",
+     "sha256": "73d3b92658930701dbe1b5770b85b45437ae88a13bdc89b7d8cc9a0e92e112f9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-97-2018-anexa",
+   "path": "anexa/ordin-anre-97-2018/anexa",
+   "short": "Anexa la Ordin anre nr. 97/2018",
+   "title": "Regulament din 25 mai 2018 privind accesul la sistemele de distribuție a gazelor naturale și de modificare a unor ordine ale președintelui Autorității Naționale de Reglementare în Domeniul Energiei (anexa la Ordinul ANRE nr. 97/2018)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201053",
+   "versions": [
+    {
+     "from": "2018-05-29",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201053",
+     "sha256": "9f04fc8fc085b81ab1bc30f7f3261f4d14f67435adb32e32338b10c25d1151c3"
     }
    ]
   },
@@ -644,6 +884,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200540",
      "sha256": "c6b82c0e5f4e9055d9f379920c4b75e909f7aa53f3ddf7acfa128ee472197f89"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dezvoltare-49-2018-anexa",
+   "path": "anexa/ordin-dezvoltare-49-2018/anexa",
+   "short": "Anexa la Ordin dezvoltare nr. 49/2018",
+   "title": "Regulament din 10 ianuarie 2018 privind implementarea programului \"Termoficare 2006-2020 căldură și confort\", componenta de reabilitare a sistemului centralizat de alimentare cu energie termică (anexa la Ordinul DEZVOLTARE nr. 49/2018)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197544",
+   "versions": [
+    {
+     "from": "2018-02-08",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197544",
+     "sha256": "61ce42746055357a7631dfef1066d345d0bdefedc3e12cfd562c7f488b6a60c0"
     }
    ]
   },
@@ -1154,6 +1409,21 @@
      "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203573",
      "sha256": "0f7791311aa8913cd1204894c72fadebeda684208ed4f1e99bb3e02546e5f0e1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-82-2018-anexa",
+   "path": "anexa/ordin-sanatate-82-2018/anexa",
+   "short": "Anexa la Ordin sanatate nr. 82/2018",
+   "title": "Regulament din 25 ianuarie 2018 de organizare și funcționare al Institutului Național de Neurologie și Boli Neurovasculare București (anexa la Ordinul SANATATE nr. 82/2018)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197492",
+   "versions": [
+    {
+     "from": "2018-02-06",
+     "units": 55,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197492",
+     "sha256": "297e84d762f37442887632920df3d774c87990cfd21b0d400615de0a03aaba58"
     }
    ]
   },

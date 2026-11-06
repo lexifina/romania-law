@@ -348,6 +348,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-anaf-85-2021-anexa",
+   "path": "anexa/ordin-anaf-85-2021/anexa",
+   "short": "Anexa la Ordin anaf nr. 85/2021",
+   "title": "Procedură de anulare din 11 martie 2021 a obligațiilor de plată accesorii în conformitate cu prevederile cap. II - Anularea unor obligații accesorii din Ordonanța de urgență a Guvernului nr. 69/2020 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal , precum și pentru instituirea unor măsuri fiscale (anexa la Ordinul ANAF nr. 85/2021)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/239347",
+   "versions": [
+    {
+     "from": "2021-03-17",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239347",
+     "sha256": "82af3428819cfcd3dc730d7be47a4bf081c7b165809214088fd55d26a02c82a6"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-andpdca-149-2021-anexa",
    "path": "anexa/ordin-andpdca-149-2021/anexa",
    "short": "Anexa la Ordin andpdca nr. 149/2021",
@@ -374,6 +389,186 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235983",
      "sha256": "93430d6d58f5f03c5e1e59e7cfa9d386bdb3a404d70a66429f38e4dd0525925a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-127-2021-anexa-1",
+   "path": "anexa/ordin-anre-127-2021/anexa-1",
+   "short": "Anexa nr. 1 la Ordin anre nr. 127/2021",
+   "title": "Regulament din 8 decembrie 2021 privind clauzele și condițiile pentru furnizorii de servicii de echilibrare și pentru furnizorii de rezervă de stabilizare a frecvenței (anexa nr. 1 la Ordinul ANRE nr. 127/2021)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249313",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249313",
+     "sha256": "06f5e3c590a71ed2020ca19a5718eb6df5a6dce0b5ab4720b89f77388522d8b2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-127-2021-anexa-2",
+   "path": "anexa/ordin-anre-127-2021/anexa-2",
+   "short": "Anexa nr. 2 la Ordin anre nr. 127/2021",
+   "title": "Regulament din 8 decembrie 2021 privind clauzele și condițiile pentru părțile responsabile cu echilibrarea (anexa nr. 2 la Ordinul ANRE nr. 127/2021)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249314",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 250,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249314",
+     "sha256": "6b94e624c39b47053ae7412e16215edb7af39c9dc19e7729a157ebe0406fd4b4"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-132-2021-anexa",
+   "path": "anexa/ordin-anre-132-2021/anexa",
+   "short": "Anexa la Ordin anre nr. 132/2021",
+   "title": "Regulament din 15 decembrie 2021 pentru autorizarea operatorilor economici care desfășoară activități în domeniul gazelor naturale (anexa la Ordinul ANRE nr. 132/2021)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249749",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249749",
+     "sha256": "063f3e937cd5392a88488156cd50b287dbf2b30294c24a3b221cc1ad94f2ac61"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-133-2021-anexa",
+   "path": "anexa/ordin-anre-133-2021/anexa",
+   "short": "Anexa la Ordin anre nr. 133/2021",
+   "title": "Regulament din 15 decembrie 2021 pentru atestarea verificatorilor de proiecte și a experților tehnici pentru obiectivele/sistemele din sectorul gazelor naturale (anexa la Ordinul ANRE nr. 133/2021)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249355",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249355",
+     "sha256": "9cc9518d7dfa8e80b5318eb62e944f57ae968f6a07a8d741f6f510695faf2273"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-134-2021-anexa",
+   "path": "anexa/ordin-anre-134-2021/anexa",
+   "short": "Anexa la Ordin anre nr. 134/2021",
+   "title": "Regulament din 15 decembrie 2021 pentru atestarea operatorilor economici care proiectează, execută și verifică instalații electrice (anexa la Ordinul ANRE nr. 134/2021)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249816",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249816",
+     "sha256": "14de10704dc57ea067efea48ba06c6aa082b79ad54b691bec7c6327b54977e48"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-140-2021-anexa",
+   "path": "anexa/ordin-anre-140-2021/anexa",
+   "short": "Anexa la Ordin anre nr. 140/2021",
+   "title": "Standard de performanță din 22 decembrie 2021 pentru serviciul de transport și de sistem al gazelor naturale (anexa la Ordinul ANRE nr. 140/2021)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250234",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250234",
+     "sha256": "ec4976716dcf522fb8aae75690d6aa4b6851a812bdca95185b71509b85134866"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-142-2021-anexa",
+   "path": "anexa/ordin-anre-142-2021/anexa",
+   "short": "Anexa la Ordin anre nr. 142/2021",
+   "title": "Procedură din 22 decembrie 2021 de rezolvare a reclamațiilor/sesizărilor/divergențelor privind măsurarea cantităților de gaze naturale (anexa la Ordinul ANRE nr. 142/2021)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250384",
+   "versions": [
+    {
+     "from": "2022-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250384",
+     "sha256": "4a1f394f549ae40afe3455aec32ff6a6d80a02634f7c8e07c0ce55ea4624e60b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-15-2021-anexa",
+   "path": "anexa/ordin-anre-15-2021/anexa",
+   "short": "Anexa la Ordin anre nr. 15/2021",
+   "title": "Procedură din 10 martie 2021 privind racordarea la rețelele electrice de interes public a locurilor de consum și de producere aparținând prosumatorilor care dețin instalații de producere a energiei electrice din surse regenerabile cu puterea instalată de cel mult 100 kW pe loc de consum (anexa la Ordinul ANRE nr. 15/2021)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/239250",
+   "versions": [
+    {
+     "from": "2021-03-16",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239250",
+     "sha256": "14d4c4b50e0f94dc6b113035f838d21463839eca603ee0832dda6ab2c48a0541"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-18-2021-anexa",
+   "path": "anexa/ordin-anre-18-2021/anexa",
+   "short": "Anexa la Ordin anre nr. 18/2021",
+   "title": "Regulament din 10 martie 2021 privind racordarea la sistemul de distribuție a gazelor naturale (anexa la Ordinul ANRE nr. 18/2021)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/239302",
+   "versions": [
+    {
+     "from": "2021-03-17",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239302",
+     "sha256": "7e7220b5b7160666d80d19ab7c16894eaf624a5b2a9d9185ed1c47f321b53f1e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-34-2021-anexa",
+   "path": "anexa/ordin-anre-34-2021/anexa",
+   "short": "Anexa la Ordin anre nr. 34/2021",
+   "title": "Normă tehnică din 26 mai 2021 privind stabilirea cerințelor pentru executarea lucrărilor sub tensiune în instalații electrice, cod NTE 010/20/01 (anexa la Ordinul ANRE nr. 34/2021)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243247",
+   "versions": [
+    {
+     "from": "2021-09-15",
+     "units": 53,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243247",
+     "sha256": "c5341819b43790fd4955f9dc7105278671d2c431a1b02b06f0518c5df38bcd30"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-98-2021-anexa",
+   "path": "anexa/ordin-anre-98-2021/anexa",
+   "short": "Anexa la Ordin anre nr. 98/2021",
+   "title": "Procedură din 22 septembrie 2021 privind corecția datelor de măsurare în raport cu punctul de delimitare (anexa la Ordinul ANRE nr. 98/2021)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246880",
+   "versions": [
+    {
+     "from": "2021-10-05",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246880",
+     "sha256": "d1d8374a7ed304b5bf6255505e4cab37b54d0360cbbbf9acb95ddbca179dd8ac"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-99-2021-anexa",
+   "path": "anexa/ordin-anre-99-2021/anexa",
+   "short": "Anexa la Ordin anre nr. 99/2021",
+   "title": "Regulament din 30 septembrie 2021 pentru autorizarea electricienilor în domeniul instalațiilor electrice, respectiv a verificatorilor de proiecte și a experților tehnici de calitate și extrajudiciari în domeniul instalațiilor electrice tehnologice (anexa la Ordinul ANRE nr. 99/2021)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247718",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 69,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247718",
+     "sha256": "8f85d8897058ffdc1fcc0cbd6ba8b9e6d28e2f3a0ea583cbc58c8a2b6314d402"
     }
    ]
   },
@@ -483,6 +678,36 @@
    ]
   },
   {
+   "slug": "anexa-ordin-comunicatii-28-2021-anexa",
+   "path": "anexa/ordin-comunicatii-28-2021/anexa",
+   "short": "Anexa la Ordin comunicatii nr. 28/2021",
+   "title": "Norme metodologice din 16 aprilie 2021 privind înființarea și dezvoltarea spin-offurilor în domeniul cercetării-dezvoltării și inovării (anexa la Ordinul COMUNICATII nr. 28/2021)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242107",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242107",
+     "sha256": "4bae59e00c2baead57695c56b2e087a987d7ecc9d16581e1063ae372ae56fcf7"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dezvoltare-838-2021-anexa",
+   "path": "anexa/ordin-dezvoltare-838-2021/anexa",
+   "short": "Anexa la Ordin dezvoltare nr. 838/2021",
+   "title": "Procedură din 24 iunie 2021 privind evaluarea laboratoarelor de analize și încercări în activitatea de construcții în vederea autorizării (anexa la Ordinul DEZVOLTARE nr. 838/2021)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/244840",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244840",
+     "sha256": "f20a6ee735398d9338af7cf9fdbb91aa0149d62a6be9ba7711742b8d42a95dcf"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-economie-1363-2021-anexa",
    "path": "anexa/ordin-economie-1363-2021/anexa",
    "short": "Anexa la Ordin economie nr. 1363/2021",
@@ -494,6 +719,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246337",
      "sha256": "808d1cb7386c6988c0124e8e549d1819186264296d1ec4b7efd0fff55e158d65"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-1364-2021-anexa",
+   "path": "anexa/ordin-economie-1364-2021/anexa",
+   "short": "Anexa la Ordin economie nr. 1364/2021",
+   "title": "Norme metodologice din 7 septembrie 2021 pentru aplicarea de către Ministerul Economiei, Antreprenoriatului și Turismului și de către agențiile pentru întreprinderi mici și mijlocii, atragere de investiții și promovarea comerțului a prevederilor art. 25 alin. (4) din Ordonanța de urgență a Guvernului nr. 77/2014 privind procedurile naționale în domeniul ajutorului de stat, precum și pentru modificarea și completarea Legii concurenței nr. 21/1996 , pentru proiectele finanțate în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 130/2020 privind unele măsuri pentru acordarea de sprijin financiar din fonduri externe nerambursabile, aferente Programului operațional Competitivitate 2014-2020, în contextul crizei provocate de COVID-19, precum și alte măsuri în domeniul fondurilor europene (anexa la Ordinul ECONOMIE nr. 1364/2021)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246310",
+   "versions": [
+    {
+     "from": "2021-09-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246310",
+     "sha256": "d45668c151dcca722b02cbc90f47107f4ae00982609204806cd5c3f8b0fb723b"
     }
    ]
   },
@@ -659,6 +899,21 @@
      "units": 36,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239875",
      "sha256": "2262bc9b29e5f2801a20a0d88cb813e6ce662686f1450d04da020b27033e70c9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1040-2021-anexa",
+   "path": "anexa/ordin-finante-1040-2021/anexa",
+   "short": "Anexa la Ordin finante nr. 1040/2021",
+   "title": "Norme metodologice din 18 august 2021 privind mecanismul de acordare și derulare a împrumuturilor acordate unităților/subdiviziunilor administrativ-teritoriale conform Ordonanței de urgență a Guvernului nr. 83/2021 pentru unele măsuri fiscal-bugetare privind acordarea unor împrumuturi din Trezoreria Statului, documentele în baza cărora se acordă împrumutul și cele care stau la baza obținerii avizului Comisiei de autorizare a împrumuturilor locale, precum și modul de reflectare a sumelor respective în bugetele instituțiilor publice prevăzute la art. 1 alin. (3) din Ordonanța de urgență a Guvernului nr. 83/2021 (anexa la Ordinul FINANTE nr. 1040/2021)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245431",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245431",
+     "sha256": "752ee145c9f28c667c69f64179ccae77e40b3587621192b69e1559a0ded750ea"
     }
    ]
   },
@@ -854,6 +1109,21 @@
      "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248370",
      "sha256": "fcd71b74860b3f2331effde7db55795d0a8df3da990d97517fe4f26b3db7e940"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-784-2021-anexa",
+   "path": "anexa/ordin-mediu-784-2021/anexa",
+   "short": "Anexa la Ordin mediu nr. 784/2021",
+   "title": "Procedură din 7 mai 2021 de interzicere a utilizării sau punerii în funcțiune a unui amplasament, unei instalații ori zone de depozitare sau a oricărei părți din acestea (anexa la Ordinul MEDIU nr. 784/2021)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/244188",
+   "versions": [
+    {
+     "from": "2021-08-07",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244188",
+     "sha256": "12bd87b7fec71d77e8f960274ea8de559b1190250af77d50d3ff998a36327f46"
     }
    ]
   },

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/fantanele/2020",
+"acts": [
+{
+"slug": "hcl-arad--fantanele-3-2020",
+"path": "local/arad/fantanele/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 3/2020",
+"short": "HCL Fântânele nr. 3/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-03",
+"latest": "2020-08-03",
+"portal": "https://primariafantanele-arad.ro/wp-content/uploads/2021/07/hotararea-CLSU-FANTANELE-NR.-3-DIN-03.08.2020.pdf",
+"council": "arad/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

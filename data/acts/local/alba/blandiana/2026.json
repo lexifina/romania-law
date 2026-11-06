@@ -1,0 +1,52 @@
+{
+"country": "RO",
+"shard": "local/alba/blandiana/2026",
+"acts": [
+{
+"slug": "hcl-alba--blandiana-49-2026",
+"path": "local/alba/blandiana/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 49/2026",
+"short": "HCL Blandiana nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+"council": "alba/blandiana",
+"council_name": "Consiliul Local al Comunei Blandiana",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--blandiana-67-2026",
+"path": "local/alba/blandiana/2026/67",
+"kind": "local",
+"year": "2026",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 67/2026",
+"short": "HCL Blandiana nr. 67/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+"council": "alba/blandiana",
+"council_name": "Consiliul Local al Comunei Blandiana",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

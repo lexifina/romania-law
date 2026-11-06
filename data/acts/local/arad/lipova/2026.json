@@ -3,6 +3,74 @@
 "shard": "local/arad/lipova/2026",
 "acts": [
 {
+"slug": "hcl-arad--lipova-107-2026",
+"path": "local/arad/lipova/2026/107",
+"kind": "local",
+"year": "2026",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 107/2026",
+"short": "HCL Lipova nr. 107/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--lipova-108-2026",
+"path": "local/arad/lipova/2026/108",
+"kind": "local",
+"year": "2026",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 108/2026 privind aprobarea unor măsuri vizând masa lemnoasă supusă exploatării in anul 2026 din pădurea proprietate publică a Orașului Lipova",
+"short": "HCL Lipova nr. 108/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--lipova-109-2026",
+"path": "local/arad/lipova/2026/109",
+"kind": "local",
+"year": "2026",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 109/2026",
+"short": "HCL Lipova nr. 109/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arad--lipova-110-2026",
 "path": "local/arad/lipova/2026/110",
 "kind": "local",
@@ -22,6 +90,226 @@
 "council_name": "Consiliul Local al Orașului Lipova",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--lipova-113-2026",
+"path": "local/arad/lipova/2026/113",
+"kind": "local",
+"year": "2026",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 113/2026 privind desemnarea reprezentantului Consiliului Local al Orașului Lipova în Comisia de evaluare a probei de interviu a concursului pentru ocuparea funcției de director/ director adjunct al Liceului \"Atanasie Marienescu\" Lipova",
+"short": "HCL Lipova nr. 113/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--lipova-114-2026",
+"path": "local/arad/lipova/2026/114",
+"kind": "local",
+"year": "2026",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 114/2026 privind desemnarea reprezentantului Consiliului Local al Orașului Lipova în Comisia de evaluare a probei de interviu a concursului pentru ocuparea funcției de director/director adjunct al Liceului \"Sever Bocu\" Lipova",
+"short": "HCL Lipova nr. 114/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--lipova-115-2026",
+"path": "local/arad/lipova/2026/115",
+"kind": "local",
+"year": "2026",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 115/2026 privind desemnarea reprezentanților Consiliului Local al Orașului Lipova în comisiile de concurs și soluționare a contestațiilor pentru ocuparea funcției de director medical in cadrul Spitalului orășenesc Lipova",
+"short": "HCL Lipova nr. 115/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--lipova-116-2026",
+"path": "local/arad/lipova/2026/116",
+"kind": "local",
+"year": "2026",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 116/2026 privind desemnarea reprezentanților Consiliului Local al Orașului Lipova in Consiliul de Administrație al Clubului Sportiv \"Șoimii\" Lipova",
+"short": "HCL Lipova nr. 116/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--lipova-117-2026",
+"path": "local/arad/lipova/2026/117",
+"kind": "local",
+"year": "2026",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 117/2026 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apä și de canalizare prin Actul Adițional nr.37",
+"short": "HCL Lipova nr. 117/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--lipova-120-2026",
+"path": "local/arad/lipova/2026/120",
+"kind": "local",
+"year": "2026",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 120/2026 privind desemnarea reprezentanților Consiliului Local al Orașului Lipova în cadrul Consiliului de Administrație al Liceului \"ATANASIE MARIENESCU\" Lipova, pentru anul școlar 2026-2027",
+"short": "HCL Lipova nr. 120/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--lipova-121-2026",
+"path": "local/arad/lipova/2026/121",
+"kind": "local",
+"year": "2026",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 121/2026 privind desemnarea reprezentanților Consiliului Local al Orașului Lipova în cadrul Consiliului de Administrație al Liceului \"SEVER BOCU\" Lipova, pentru anul școlar 2026 -2027",
+"short": "HCL Lipova nr. 121/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--lipova-122-2026",
+"path": "local/arad/lipova/2026/122",
+"kind": "local",
+"year": "2026",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 122/2026 privind desemnarea reprezentantului Consiliului Local Lipova în cadrul Comisiei pentru Evaluarea și Asigurarea Calității din Liceul \"SEVER BOCU\" Lipova pentru anul școlar 2026-2027",
+"short": "HCL Lipova nr. 122/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--lipova-123-2026",
+"path": "local/arad/lipova/2026/123",
+"kind": "local",
+"year": "2026",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 123/2026 privind desemnarea reprezentanților Consiliului Local al Orașului Lipova în Comisia de evaluare a probei de interviu a concursului pentru ocuparea funcției de director/director adjunct al Liceului \"Atanasie Marienescu\" Lipova",
+"short": "HCL Lipova nr. 123/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--lipova-125-2026",
+"path": "local/arad/lipova/2026/125",
+"kind": "local",
+"year": "2026",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 125/2026 privind rectificarea Bugetului General Consolidat de Venituri și Cheltuieli, pentru anul 2026, al Orașului Lipova",
+"short": "HCL Lipova nr. 125/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-21",
+"latest": "2026-10-21",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/boianu-mare/2026",
+ "acts": [
+  {
+   "slug": "hcl-bihor--boianu-mare-34-2026",
+   "path": "local/bihor/boianu-mare/2026/34",
+   "short": "HCL Boianu Mare nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 34/2026",
+   "url": "https://www.comuna-boianumare.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2026/10/Boianu-Mare-HCL-nr.34-din-28.09.2026.pdf",
+     "sha256": "a959c130d1f6e952b0e18b3856d5a0a0f9e30bc087aecbb2c7fa1a7cfbc7ab41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-35-2026",
+   "path": "local/bihor/boianu-mare/2026/35",
+   "short": "HCL Boianu Mare nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 35/2026",
+   "url": "https://www.comuna-boianumare.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2026/10/Boianu-Mare-HCL-nr.35-din-07.10.2026.pdf",
+     "sha256": "84882d41a23113fbea6699821e6cfe5089302413641d7598baec460827c5215b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-36-2026",
+   "path": "local/bihor/boianu-mare/2026/36",
+   "short": "HCL Boianu Mare nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 36/2026",
+   "url": "https://www.comuna-boianumare.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2026/10/Boianu-Mare-HCL-nr.-36-din-07.10.2026.pdf",
+     "sha256": "9d1bf861fdd880b3dcfffc729966bb3193359fc3e4b4ff78900dce48a9a59379"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-37-2026",
+   "path": "local/bihor/boianu-mare/2026/37",
+   "short": "HCL Boianu Mare nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 37/2026",
+   "url": "https://www.comuna-boianumare.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2026/10/Boianu-Mare-HCL-nr-37-din-07.10.2026.pdf",
+     "sha256": "84f0e163a03903b7ff4fbe00d304dde1452d6ff15a3bd52be45fae9fe9764b3d"
+    }
+   ]
+  }
+ ]
+}

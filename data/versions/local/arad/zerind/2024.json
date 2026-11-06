@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/arad/zerind/2024",
+ "acts": [
+  {
+   "slug": "hcl-arad--zerind-2-2024",
+   "path": "local/arad/zerind/2024/2",
+   "short": "HCL Zerind nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zerind nr. 2/2024",
+   "url": "https://primariazerind.ro/wp-content/uploads/2024/04/Hotararea-nr.-2-din-26.04.2024-B.E.C.-ZERIND.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://primariazerind.ro/wp-content/uploads/2024/04/Hotararea-nr.-2-din-26.04.2024-B.E.C.-ZERIND.pdf",
+     "sha256": "17a092a55c4bfddf09bcbb3bb74bef3e3a0e3bd0f85d692f2278849e024f4bce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zerind-3-2024",
+   "path": "local/arad/zerind/2024/3",
+   "short": "HCL Zerind nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zerind nr. 3/2024",
+   "url": "https://primariazerind.ro/wp-content/uploads/2024/04/Hotararea-nr.-3-din-26.04.2024-B.E.C.-ZERIND.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://primariazerind.ro/wp-content/uploads/2024/04/Hotararea-nr.-3-din-26.04.2024-B.E.C.-ZERIND.pdf",
+     "sha256": "e332f480061be21ad8fb01a0d12914e1ee4744dbd0c82c1b893b6e5705c910d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zerind-4-2024",
+   "path": "local/arad/zerind/2024/4",
+   "short": "HCL Zerind nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zerind nr. 4/2024",
+   "url": "https://primariazerind.ro/wp-content/uploads/2024/04/Hotararea-nr.-4-din-26.04.2024-B.E.C.-ZERIND.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://primariazerind.ro/wp-content/uploads/2024/04/Hotararea-nr.-4-din-26.04.2024-B.E.C.-ZERIND.pdf",
+     "sha256": "3b29c3a912d4e9f6018d195c6b9d6771fb574d938d309053bec8d9efe9433446"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zerind-5-2024",
+   "path": "local/arad/zerind/2024/5",
+   "short": "HCL Zerind nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zerind nr. 5/2024",
+   "url": "https://primariazerind.ro/wp-content/uploads/2024/04/Hotararea-nr.-5-din-26.04.2024-B.E.C.-ZERIND.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://primariazerind.ro/wp-content/uploads/2024/04/Hotararea-nr.-5-din-26.04.2024-B.E.C.-ZERIND.pdf",
+     "sha256": "b65e2f38b2e8d2963a9dcb815df6a691908580d8bbae4742b67d7e2c4982f447"
+    }
+   ]
+  }
+ ]
+}

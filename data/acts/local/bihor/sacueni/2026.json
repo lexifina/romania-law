@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-52-2026",
+"path": "local/bihor/sacueni/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 52/2026",
+"short": "HCL Săcueni nr. 52/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-07",
+"latest": "2026-07-07",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/274444",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-53-2026",
 "path": "local/bihor/sacueni/2026/53",
 "kind": "local",
@@ -179,6 +202,28 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-60-2026",
+"path": "local/bihor/sacueni/2026/60",
+"kind": "local",
+"year": "2026",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 60/2026 privind aprobarea Procedurii operaționale PO-SS-03 privind organizarea și exercitarea activității de control al disciplinei în autorizarea executării lucrărilor de construcții și urmărirea modului de ducere la îndeplinire a măsurilor dispuse de Inspectoratul de Stat în Construcții, la nivelul UAT Orașul Săcueni",
+"short": "HCL Săcueni nr. 60/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-20",
+"latest": "2026-07-20",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/275945",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-61-2026",
 "path": "local/bihor/sacueni/2026/61",
 "kind": "local",
@@ -198,6 +243,75 @@
 "council_name": "Consiliul Local al Orașului Săcueni",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-62-2026",
+"path": "local/bihor/sacueni/2026/62",
+"kind": "local",
+"year": "2026",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 62/2026",
+"short": "HCL Săcueni nr. 62/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-20",
+"latest": "2026-07-20",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/275947",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-63-2026",
+"path": "local/bihor/sacueni/2026/63",
+"kind": "local",
+"year": "2026",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 63/2026",
+"short": "HCL Săcueni nr. 63/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-20",
+"latest": "2026-07-20",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/275948",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-64-2026",
+"path": "local/bihor/sacueni/2026/64",
+"kind": "local",
+"year": "2026",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 64/2026",
+"short": "HCL Săcueni nr. 64/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-20",
+"latest": "2026-07-20",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/275949",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -246,6 +360,28 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-67-2026",
+"path": "local/bihor/sacueni/2026/67",
+"kind": "local",
+"year": "2026",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 67/2026 privind aprobarea afectării domeniului public prin executarea lucrărilor de „Realizare foraj nou și conductă de aducțiune” pe terenurile situate în intravilanul orașului Săcueni, identificate prin nr. cad. 50866, 58111, 54227, 50403, 54228",
+"short": "HCL Săcueni nr. 67/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-29",
+"latest": "2026-07-29",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/278064",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-68-2026",
 "path": "local/bihor/sacueni/2026/68",
 "kind": "local",
@@ -290,6 +426,117 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-70-2026",
+"path": "local/bihor/sacueni/2026/70",
+"kind": "local",
+"year": "2026",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 70/2026",
+"short": "HCL Săcueni nr. 70/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/284395",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-71-2026",
+"path": "local/bihor/sacueni/2026/71",
+"kind": "local",
+"year": "2026",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 71/2026 privind aprobarea afectării domeniului public prin executarea lucrărilor aferente Proiectului modificator al proiectului „Realizarea unei infrastructuri conexe și sigure pentru deplasările cu bicicletă în orașul Săcueni, jud. Bihor” pe terenurile identificate cu CF nr. 54096, 54122, 56322, 56327, 56320, 56316, 52870, 54100 nr. cad. 54096, 54122, 56322, 56327, 56320, 56316, 52870, 54100",
+"short": "HCL Săcueni nr. 71/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/284396",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-72-2026",
+"path": "local/bihor/sacueni/2026/72",
+"kind": "local",
+"year": "2026",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 72/2026 referitor la aprobarea documentației tehnico-economice faza PT, a devizului general și a indicatorilor tehnico-economici aferenți proiectului „Lucrări de reabilitare având scopul creșterii eficienței energetice al școlii gimnaziale localitatea Ciocaia, Orașul Săcueni”",
+"short": "HCL Săcueni nr. 72/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/284397",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-73-2026",
+"path": "local/bihor/sacueni/2026/73",
+"kind": "local",
+"year": "2026",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 73/2026 referitor la aprobarea documentatiei tehnico-economice faza PT, a devizului general si a indicatorilor tehnico-economici aferenti proiectului „Realizarea unei infrastructuri conexe și sigure pentru deplasările cu bicicleta în Orașul Săcueni, jud. Bihor”",
+"short": "HCL Săcueni nr. 73/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/284398",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-74-2026",
+"path": "local/bihor/sacueni/2026/74",
+"kind": "local",
+"year": "2026",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 74/2026 referitor la aprobarea documentatiei tehnico-economice faza PT , a devizului general si a indicatorilor tehnico-economici aferenti proiectului „Realizarea unei infrastructuri conexe și sigure pentru deplasările cu bicicleta în Orașul Săcueni, jud. Bihor-etapa II”",
+"short": "HCL Săcueni nr. 74/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/284399",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-75-2026",
 "path": "local/bihor/sacueni/2026/75",
 "kind": "local",
@@ -309,6 +556,50 @@
 "council_name": "Consiliul Local al Orașului Săcueni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-76-2026",
+"path": "local/bihor/sacueni/2026/76",
+"kind": "local",
+"year": "2026",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 76/2026 privind aprobarea listelor de priorități pentru repartizarea locuințelor nZEB plus destinate tinerilor și a locuințelor de serviciu destinate specialiștilor din sănătate și învățământ",
+"short": "HCL Săcueni nr. 76/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-17",
+"latest": "2026-09-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/285361",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-77-2026",
+"path": "local/bihor/sacueni/2026/77",
+"kind": "local",
+"year": "2026",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 77/2026 privind aprobarea listei de prioritate pentru repartizarea locuințelor ANL pe anul 2026, disponibile în orașul Săcueni",
+"short": "HCL Săcueni nr. 77/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-17",
+"latest": "2026-09-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/285362",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -334,6 +625,29 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-79-2026",
+"path": "local/bihor/sacueni/2026/79",
+"kind": "local",
+"year": "2026",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 79/2026",
+"short": "HCL Săcueni nr. 79/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/288152",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-80-2026",
 "path": "local/bihor/sacueni/2026/80",
 "kind": "local",
@@ -353,6 +667,28 @@
 "council_name": "Consiliul Local al Orașului Săcueni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-81-2026",
+"path": "local/bihor/sacueni/2026/81",
+"kind": "local",
+"year": "2026",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 81/2026 privind aprobarea depunerii proiectului și a cererii de finanțare pentru obiectivul de investiții „Construirea unei unități de producere a energiei electrice din surse regenerabile în vederea compensării consumului propriu din orașul Săcueni, județul Bihor”, precum și aprobarea Studiului de fezabilitate, a devizului general și a indicatorilor tehnico-economici",
+"short": "HCL Săcueni nr. 81/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/289144",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -422,6 +758,97 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-85-2026",
+"path": "local/bihor/sacueni/2026/85",
+"kind": "local",
+"year": "2026",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 85/2026",
+"short": "HCL Săcueni nr. 85/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/291216",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-86-2026",
+"path": "local/bihor/sacueni/2026/86",
+"kind": "local",
+"year": "2026",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 86/2026 privind aprobarea trecerii terenurilor aferente sondelor geotermale nr. 4076 și nr. 4691 în domeniul privat al Orașului Săcueni, în vederea clarificării situației juridice și reglementării utilizării acestora",
+"short": "HCL Săcueni nr. 86/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/291217",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-87-2026",
+"path": "local/bihor/sacueni/2026/87",
+"kind": "local",
+"year": "2026",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 87/2026",
+"short": "HCL Săcueni nr. 87/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/291218",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-88-2026",
+"path": "local/bihor/sacueni/2026/88",
+"kind": "local",
+"year": "2026",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 88/2026",
+"short": "HCL Săcueni nr. 88/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/291219",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-89-2026",
 "path": "local/bihor/sacueni/2026/89",
 "kind": "local",
@@ -441,6 +868,28 @@
 "council_name": "Consiliul Local al Orașului Săcueni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-90-2026",
+"path": "local/bihor/sacueni/2026/90",
+"kind": "local",
+"year": "2026",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 90/2026 privind desemnarea reprezentanților titulari și a membrilor supleanți ai Consiliului Local al Orașului Săcueni în comisiile de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat, sesiunea august–decembrie 2026",
+"short": "HCL Săcueni nr. 90/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/291221",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -466,6 +915,52 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-92-2026",
+"path": "local/bihor/sacueni/2026/92",
+"kind": "local",
+"year": "2026",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 92/2026",
+"short": "HCL Săcueni nr. 92/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/291223",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-93-2026",
+"path": "local/bihor/sacueni/2026/93",
+"kind": "local",
+"year": "2026",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 93/2026",
+"short": "HCL Săcueni nr. 93/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/291224",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-94-2026",
 "path": "local/bihor/sacueni/2026/94",
 "kind": "local",
@@ -488,6 +983,28 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-95-2026",
+"path": "local/bihor/sacueni/2026/95",
+"kind": "local",
+"year": "2026",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 95/2026 privind aprobarea delegării prin concesiune a Serviciului de iluminat public al ORAȘULUI SĂCUENI, județul BIHOR, a studiului de fundamentare a deciziei de delegare a Serviciului Public de Iluminat al ORAȘULUI SĂCUENI, judetul BIHOR, a Regulamentului de Organizare și funcționare al serviciului de iluminat public, a Caietului de Sarcini, a documentației de atribuire prin procedura simplificată",
+"short": "HCL Săcueni nr. 95/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/291226",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-96-2026",
 "path": "local/bihor/sacueni/2026/96",
 "kind": "local",
@@ -507,6 +1024,28 @@
 "council_name": "Consiliul Local al Orașului Săcueni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-97-2026",
+"path": "local/bihor/sacueni/2026/97",
+"kind": "local",
+"year": "2026",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 97/2026 privind aprobarea proiectului „Construirea unei unități de producere a energiei electrice din surse regenerabile în vederea compensării consumului propriu\" pentru Sacueni, Jud Bihor, a Studiului de fezabilitate și a indicatorilor tehnico-economici ai obiectivului de investiții, a valorii proiectului și a finanțării cheltuielilor din proiect, altele decât ajutorul public nerambursabil, precum și a participării Oraș Săcueni la apelul de proiecte „Sprijinirea investiţiilor în noi capacităţi de producere a energiei electrice produsă din surse regenerabile de energie solară, cu capacități de stocare integrate, pentru autoconsum pentru entități publice\", finanțat din Fondul pentru Modernizare – Programul-cheie 1",
+"short": "HCL Săcueni nr. 97/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/291228",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -664,6 +1203,29 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-105-2026",
+"path": "local/bihor/sacueni/2026/105",
+"kind": "local",
+"year": "2026",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 105/2026",
+"short": "HCL Săcueni nr. 105/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/296080",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-106-2026",
 "path": "local/bihor/sacueni/2026/106",
 "kind": "local",
@@ -683,6 +1245,95 @@
 "council_name": "Consiliul Local al Orașului Săcueni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-107-2026",
+"path": "local/bihor/sacueni/2026/107",
+"kind": "local",
+"year": "2026",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 107/2026 privind continuarea prin succesiune a contractelor de concesiune nr. 4440 din 17.08.2016 și nr. 4443 din 17.08.2016 și actualizarea titularului acestora",
+"short": "HCL Săcueni nr. 107/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/296082",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-108-2026",
+"path": "local/bihor/sacueni/2026/108",
+"kind": "local",
+"year": "2026",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 108/2026",
+"short": "HCL Săcueni nr. 108/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/296083",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-109-2026",
+"path": "local/bihor/sacueni/2026/109",
+"kind": "local",
+"year": "2026",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 109/2026 privind repartizarea unei locuințe din fondul locativ de stat",
+"short": "HCL Săcueni nr. 109/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/296084",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-110-2026",
+"path": "local/bihor/sacueni/2026/110",
+"kind": "local",
+"year": "2026",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 110/2026 privind analiza stadiului de înscriere a datelor în registrul agricol pe semestrul I al anului 2026",
+"short": "HCL Săcueni nr. 110/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/296085",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

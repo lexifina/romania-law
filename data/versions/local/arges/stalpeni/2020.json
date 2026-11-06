@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arges/stalpeni/2020",
+ "acts": [
+  {
+   "slug": "hcl-arges--stalpeni-19-2020",
+   "path": "local/arges/stalpeni/2020/19",
+   "short": "HCL Stâlpeni nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 19/2020",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2020/Noul-CL/HCL-19-din-23.12.2020.pdf",
+     "sha256": "0b2c7762d33f4f599c85e247dc238fa659ac95600cfd3cf8922385f11ed50fa5"
+    }
+   ]
+  }
+ ]
+}

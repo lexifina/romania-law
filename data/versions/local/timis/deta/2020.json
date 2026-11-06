@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/timis/deta/2020",
+ "acts": [
+  {
+   "slug": "hcl-timis--deta-119-2020",
+   "path": "local/timis/deta/2020/119",
+   "short": "HCL Deta nr. 119/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 119/2020 privind rectificarea bugetului local de venituri şi cheltuieli pe anul 2020",
+   "url": "https://emol.ro/deta-tm/registru-hcl/13273",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/13273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-120-2020",
+   "path": "local/timis/deta/2020/120",
+   "short": "HCL Deta nr. 120/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 120/2020 privind aprobarea cererilor de atribuire a terenurilor pentru tineri în vederea construirii unei locuinţe proprietate personală",
+   "url": "https://emol.ro/deta-tm/registru-hcl/13274",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/13274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-121-2020",
+   "path": "local/timis/deta/2020/121",
+   "short": "HCL Deta nr. 121/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 121/2020 privind modificarea unei poziții din inventarului bunurilor care aparţin domeniului public al oraşului Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/13275",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/13275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-122-2020",
+   "path": "local/timis/deta/2020/122",
+   "short": "HCL Deta nr. 122/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 122/2020 privind completarea Hotărârii nr. 18/27.02.2007 a Consiliului local al oraşului Deta pentru aprobarea domeniului privat al oraşului Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/13276",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/13276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-123-2020",
+   "path": "local/timis/deta/2020/123",
+   "short": "HCL Deta nr. 123/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 123/2020 privind aprobarea documentaţiei tehnice de dezmembrare a imobilului înscris în C.F.400235, nr.top.400235, situat în Orașul Deta, strada Calea Banlocului, nr.46",
+   "url": "https://emol.ro/deta-tm/registru-hcl/13277",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/13277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-124-2020",
+   "path": "local/timis/deta/2020/124",
+   "short": "HCL Deta nr. 124/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 124/2020 privind achiziţionarea unor servicii juridice de consultanţă, asistenţă şi reprezentare",
+   "url": "https://emol.ro/deta-tm/registru-hcl/13278",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/13278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-125-2020",
+   "path": "local/timis/deta/2020/125",
+   "short": "HCL Deta nr. 125/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 125/2020 privind aprobarea documentaţiei tehnice de alipire a imobilelor înscrise în CF 402376 și 402844, situat în Orașul Deta, Zona PUZ Termal",
+   "url": "https://emol.ro/deta-tm/registru-hcl/13279",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/13279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-126-2020",
+   "path": "local/timis/deta/2020/126",
+   "short": "HCL Deta nr. 126/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 126/2020 privind rectificarea bugetului local de venituri şi cheltuieli pe anul 2020",
+   "url": "https://emol.ro/deta-tm/registru-hcl/13280",
+   "versions": [
+    {
+     "from": "2020-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/13280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-127-2020",
+   "path": "local/timis/deta/2020/127",
+   "short": "HCL Deta nr. 127/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 127/2020 privind rectificarea bugetului local de venituri şi cheltuieli pe anul 2020",
+   "url": "https://emol.ro/deta-tm/registru-hcl/13281",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/13281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-128-2020",
+   "path": "local/timis/deta/2020/128",
+   "short": "HCL Deta nr. 128/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 128/2020 privind aprobarea Execuţiei bugetului local la data de 30.09.2020, a Execuției bugetului instituțiilor publice finanțate din venituri proprii la data de 30.09.2020 și a Execuției bugetului creditelor interne la data de 30.09.2020",
+   "url": "https://emol.ro/deta-tm/registru-hcl/13282",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/13282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-129-2020",
+   "path": "local/timis/deta/2020/129",
+   "short": "HCL Deta nr. 129/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 129/2020 privind rectificarea bugetului local de venituri şi cheltuieli pe anul 2020",
+   "url": "https://emol.ro/deta-tm/registru-hcl/13300",
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/13300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-147-2020",
+   "path": "local/timis/deta/2020/147",
+   "short": "HCL Deta nr. 147/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 147/2020 privind rectificarea bugetului local de venituri şi cheltuieli pe anul 2020",
+   "url": "https://emol.ro/deta-tm/registru-hcl/13781",
+   "versions": [
+    {
+     "from": "2020-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/13781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-148-2020",
+   "path": "local/timis/deta/2020/148",
+   "short": "HCL Deta nr. 148/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 148/2020 privind stabilirea impozitelor şi taxelor locale pentru anul 2021",
+   "url": "https://emol.ro/deta-tm/registru-hcl/15106",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/15106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-149-2020",
+   "path": "local/timis/deta/2020/149",
+   "short": "HCL Deta nr. 149/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 149/2020 privind aprobarea Execuţiei bugetului local la data de 09.12.2020, a Execuției bugetului instituțiilor publice finanțate din venituri proprii la data de 09.12.2020 și a Execuției bugetului creditelor interne la data de 09.12.2020",
+   "url": "https://emol.ro/deta-tm/registru-hcl/15107",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/15107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-154-2020",
+   "path": "local/timis/deta/2020/154",
+   "short": "HCL Deta nr. 154/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 154/2020 privind aprobarea listelor de priorităţi pentru repartizarea locuinţelor sociale şi a locuinţelor cu chirie din fondul locativ al oraşului Deta pentru anul 2021",
+   "url": "https://emol.ro/deta-tm/registru-hcl/15112",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/15112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-157-2020",
+   "path": "local/timis/deta/2020/157",
+   "short": "HCL Deta nr. 157/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 157/2020 privind rectificarea bugetului local de venituri şi cheltuieli pe anul 2020",
+   "url": "https://emol.ro/deta-tm/registru-hcl/15115",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/15115",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

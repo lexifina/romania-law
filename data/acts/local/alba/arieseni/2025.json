@@ -3,6 +3,50 @@
 "shard": "local/alba/arieseni/2025",
 "acts": [
 {
+"slug": "hcl-alba--arieseni-59-2025",
+"path": "local/alba/arieseni/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 59/2025 privind aprobarea organizării rețelei școlare pentru anul 2026-2027 la nivelul comunei Arieșeni Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 15.12.2025 Luând in dezbatere: - proiectul de hotărâre nr. 58/2025 privind aprobarea organizării rețelei școlare pentru anul 2026-2027 la nivelul Comunei Arieșeni - referatul de aprobare întocmit de către Primarul",
+"short": "HCL Arieșeni nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2025/12/HCL-59-1.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--arieseni-61-2025",
+"path": "local/alba/arieseni/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 61/2025 privind modificarea art. 1 din Hotărârea nr. 46/2025 privind aprobarea modul de valorificare și prețurile de valorificare pentru APV 2617 Dealu Vârtop și APV 2625 Sărăscu Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 15.12.2025 - proiectul de hotărâre nr. 60/2025 privind modificarea art. 1 din Hotărârea nr. 46/2025 privind aprobarea modul de valorificar",
+"short": "HCL Arieșeni nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2025/12/HCL-61.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-alba--arieseni-63-2025",
 "path": "local/alba/arieseni/2025/63",
 "kind": "local",
@@ -25,6 +69,50 @@
 }
 },
 {
+"slug": "hcl-alba--arieseni-65-2025",
+"path": "local/alba/arieseni/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 65/2025 privind amenajarea si întreținerea parcărilor temporare din zona pârtiei de schi Vârtop -Arieșeni în perioada decembrie 2025-martie 2026 Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 15.12.2025 Luând in dezbatere: - referatul de aprobare întocmit de Primarul comunei Arieseni, înregistrat sub nr.6451 /08.12.2025 ; - raportul compartimentului Protecția me",
+"short": "HCL Arieșeni nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2025/12/HCL-65-1.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--arieseni-66-2025",
+"path": "local/alba/arieseni/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 66/2025 privind modificarea și completarea art. 2 din HCL 34/2023 modificat prin HCL 47/2025 Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică extraordinară în 29.12.2025 Luând în dezbatere: - referatul de aprobare nr. 6666/19.12.2025 întocmit de domnul primar în calitate de inițiator privind oportunitatea proiectului de hotărâre; - raportul de specialitate nr. 6668/19.12.2025",
+"short": "HCL Arieșeni nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2025/12/HCL-66.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-alba--arieseni-67-2025",
 "path": "local/alba/arieseni/2025/67",
 "kind": "local",
@@ -44,6 +132,29 @@
 "council_name": "Consiliul Local al Comunei Arieșeni",
 "flags": {
 "text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--arieseni-68-2025",
+"path": "local/alba/arieseni/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 68/2025",
+"short": "HCL Arieșeni nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2025/12/HCL-68.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 }

@@ -183,6 +183,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-1672-2008-anexa",
+   "path": "anexa/hg-1672-2008/anexa",
+   "short": "Anexa la HG nr. 1672/2008",
+   "title": "Norme metodologice din 10 decembrie 2008 privind evaluarea personalului artistic, tehnic și administrativ de specialitate din instituțiile de spectacole sau concerte în vederea stabilirii salariilor de bază (anexa la Hotărârea Guvernului nr. 1672/2008)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100961",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 55,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100961",
+     "sha256": "0abe6f660438bf6af8fa02440725949bb9a7b8dcf01a686c54d5eb053e7563a3"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-211-2008-anexa",
    "path": "anexa/hg-211-2008/anexa",
    "short": "Anexa la HG nr. 211/2008",
@@ -239,6 +254,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90972",
      "sha256": "071fdff366978d3367bac9be2682d14365dd5b17e6f87712ed57cdc9fa1c02d6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-358-2008-anexa",
+   "path": "anexa/hg-358-2008/anexa",
+   "short": "Anexa la HG nr. 358/2008",
+   "title": "Regulament din 26 martie 2008 de aplicare a Ordonanței de urgență a Guvernului nr. 121/2006 privind regimul juridic al precursorilor de droguri (anexa la Hotărârea Guvernului nr. 358/2008)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91047",
+   "versions": [
+    {
+     "from": "2008-05-04",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91047",
+     "sha256": "6bf61f5009fb658d424bf1a550523c94d6d0641609667c1c9a68d80be18cc7bb"
     }
    ]
   },
@@ -404,6 +434,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95497",
      "sha256": "267bc3db518db634ed3b0f644d914053238263be643f475eb4c76add497ef216"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-741-2008-anexa",
+   "path": "anexa/hg-741-2008/anexa",
+   "short": "Anexa la HG nr. 741/2008",
+   "title": "Regulament din 9 iulie 2008 privind gestionarea situațiilor de urgență generate de producerea unui accident de aviație civilă (anexa la Hotărârea Guvernului nr. 741/2008)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95605",
+   "versions": [
+    {
+     "from": "2008-08-13",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95605",
+     "sha256": "d660770dd1bff0dd7393722d0371eedd0b141b413d5a38b1f3d1d15e2bfcd5fd"
     }
    ]
   },
@@ -963,6 +1008,156 @@
    ]
   },
   {
+   "slug": "anexa-ordin-anpc-34-2008-anexa",
+   "path": "anexa/ordin-anpc-34-2008/anexa",
+   "short": "Anexa la Ordin anpc nr. 34/2008",
+   "title": "Normă sanitară veterinară și pentru siguranța alimentelor din 12 februarie 2008 privind condițiile speciale aplicabile anumitor produse alimentare importate din anumite țări terțe din cauza riscurilor de contaminare a produselor respective cu aflatoxine (anexa la Ordinul ANPC nr. 34/2008)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89782",
+   "versions": [
+    {
+     "from": "2008-02-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89782",
+     "sha256": "c17ab1e279280f9330639efa482f723d701e711500164e303c90645eb4de0b26"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anpc-353-2008-anexa",
+   "path": "anexa/ordin-anpc-353-2008/anexa",
+   "short": "Anexa la Ordin anpc nr. 353/2008",
+   "title": "Regulament din 4 noiembrie 2008 de organizare și funcționare a comisiei de evaluare și selectare a centrelor de consultanță și informare a consumatorilor, din cadrul asociațiilor de consumatori, care primesc sume de la bugetul de stat (anexa la Ordinul ANPC nr. 353/2008)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99132",
+   "versions": [
+    {
+     "from": "2008-11-13",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99132",
+     "sha256": "215ebbf0db208d4a31a44d6137ce083d3d8ae5a1d1bf9d25f282ecbb4a6c9162"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-117-2008-anexa-1",
+   "path": "anexa/ordin-anre-117-2008/anexa-1",
+   "short": "Anexa nr. 1 la Ordin anre nr. 117/2008",
+   "title": "Metodologie din 14 august 2008 privind raportarea informațiilor referitoare la consumatorii industriali de gaze naturale (anexa nr. 1 la Ordinul ANRE nr. 117/2008)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97222",
+   "versions": [
+    {
+     "from": "2008-09-09",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97222",
+     "sha256": "c3ccb4564b47eb712b5b7a3b9f721080fdd24bb8738c2c225586d712e8327b1c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-117-2008-anexa-2",
+   "path": "anexa/ordin-anre-117-2008/anexa-2",
+   "short": "Anexa nr. 2 la Ordin anre nr. 117/2008",
+   "title": "Metodologie din 14 august 2008 privind raportarea informațiilor referitoare la consumatorii de energie electrică (anexa nr. 2 la Ordinul ANRE nr. 117/2008)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97223",
+   "versions": [
+    {
+     "from": "2008-09-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97223",
+     "sha256": "133d5b76e533fc2ac4a3b7b5642b46a18203eaf26e487494f8eb80255a42e149"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-126-2008-anexa",
+   "path": "anexa/ordin-anre-126-2008/anexa",
+   "short": "Anexa la Ordin anre nr. 126/2008",
+   "title": "Normă tehnică energetică din 20 noiembrie 2008 privind conservarea echipamentelor energetice (anexa la Ordinul ANRE nr. 126/2008)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100824",
+   "versions": [
+    {
+     "from": "2009-03-24",
+     "units": 194,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100824",
+     "sha256": "e98adca8a567db363f73ecb7c08fa3665dc8b7b6f90e6008750c22596f05a014"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-129-2008-anexa",
+   "path": "anexa/ordin-anre-129-2008/anexa",
+   "short": "Anexa la Ordin anre nr. 129/2008",
+   "title": "Regulament din 11 decembrie 2008 privind stabilirea soluțiilor de racordare a utilizatorilor la rețelele electrice de interes public (anexa la Ordinul ANRE nr. 129/2008)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101207",
+   "versions": [
+    {
+     "from": "2009-01-12",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101207",
+     "sha256": "1223a839a51536ff8148c2615a784f1d0afd4a6419b522bc467fef104da77f16"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-133-2008-anexa",
+   "path": "anexa/ordin-anre-133-2008/anexa",
+   "short": "Anexa la Ordin anre nr. 133/2008",
+   "title": "Metodologie din 22 decembrie 2008 de calcul necesar stabilirii prețurilor și tarifelor reglementate (anexa la Ordinul ANRE nr. 133/2008)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100850",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100850",
+     "sha256": "1ff02f7a46537917c0fc957695c30a278b946641165074582a628a8500dbea8a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-48-2008-anexa",
+   "path": "anexa/ordin-anre-48-2008/anexa",
+   "short": "Anexa la Ordin anre nr. 48/2008",
+   "title": "Metodologie din 8 mai 2008 pentru emiterea avizelor de amplasament de către operatorii de rețea (anexa la Ordinul ANRE nr. 48/2008)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93940",
+   "versions": [
+    {
+     "from": "2008-07-11",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93940",
+     "sha256": "161a87f9557846800e6c08f969f5ca0ce42b86de0f0a4e9c0fb61dc97ae045d0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-60-2008-anexa",
+   "path": "anexa/ordin-anre-60-2008/anexa",
+   "short": "Anexa la Ordin anre nr. 60/2008",
+   "title": "Metodologie din 12 iunie 2008 de monitorizare a pieței cu amănuntul de energie electrică (anexa la Ordinul ANRE nr. 60/2008)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95841",
+   "versions": [
+    {
+     "from": "2008-07-22",
+     "units": 63,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95841",
+     "sha256": "432dac8f74b0f8ad784c23c491cf23a3d465eac04ec5edacdef2864b51a7c2d6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-62-2008-anexa",
+   "path": "anexa/ordin-anre-62-2008/anexa",
+   "short": "Anexa la Ordin anre nr. 62/2008",
+   "title": "Regulament din 24 iunie 2008 de măsurare a cantităților de gaze naturale tranzacționate în România (anexa la Ordinul ANRE nr. 62/2008)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95121",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95121",
+     "sha256": "ac1ff33040d12f446b7e4801a99cf10bbe480266b7965f6264e71bc8eabfe0fd"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-ansvsa-113-2008-anexa",
    "path": "anexa/ordin-ansvsa-113-2008/anexa",
    "short": "Anexa la Ordin ansvsa nr. 113/2008",
@@ -1079,6 +1274,21 @@
      "units": 31,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99119",
      "sha256": "cdd21cd64c2550ba765894baa793883e2bee1071408d663ad63bd859c8e0e7fd"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-ansvsa-93-2008-anexa",
+   "path": "anexa/ordin-ansvsa-93-2008/anexa",
+   "short": "Anexa la Ordin ansvsa nr. 93/2008",
+   "title": "Normă sanitară veterinară din 29 octombrie 2008 privind procedura de autorizare sanitară veterinară a unităților care produc, procesează, depozitează, transportă și/sau distribuie produse de origine animală (anexa la Ordinul ANSVSA nr. 93/2008)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99199",
+   "versions": [
+    {
+     "from": "2008-11-24",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99199",
+     "sha256": "ad26ba1b81f8aacce1d0e9b89b471b3c357e65bfd30a951acfdf010dc83a6ba6"
     }
    ]
   },
@@ -1278,6 +1488,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-cncd-144-2008-anexa",
+   "path": "anexa/ordin-cncd-144-2008/anexa",
+   "short": "Anexa la Ordin cncd nr. 144/2008",
+   "title": "Procedura internă din 11 aprilie 2008 de soluționare a petițiilor și sesizărilor (anexa la Ordinul CNCD nr. 144/2008)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92179",
+   "versions": [
+    {
+     "from": "2008-05-06",
+     "units": 83,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92179",
+     "sha256": "a00c13a76ca00e809c3130d7e7a39b4e63cf2520d9ceb2254b1ae5232b3119d6"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-cultura-2398-2008-anexa",
    "path": "anexa/ordin-cultura-2398-2008/anexa",
    "short": "Anexa la Ordin cultura nr. 2398/2008",
@@ -1454,6 +1679,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95699",
      "sha256": "27e012ac8f4863f9588ae0a6bb2f9275756cb4d7f69dfd87f33bb6510da5e071"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-2827-2008-anexa",
+   "path": "anexa/ordin-finante-2827-2008/anexa",
+   "short": "Anexa la Ordin finante nr. 2827/2008",
+   "title": "Procedură din 29 septembrie 2008 de atestare tehnico-profesională a specialiștilor în activitatea de închidere și reconstrucție ecologică a minelor/carierelor (proiectarea și verificarea planurilor de încetare a activității obiectivelor miniere și a proiectelor tehnice de execuție a lucrărilor miniere, asistență tehnică - dirigenție de șantier pentru lucrări miniere și activități de execuție a lucrărilor miniere) (anexa la Ordinul FINANTE nr. 2827/2008)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100876",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100876",
+     "sha256": "3c712887140d6626440e727cf30c63ce35674f552b0353814d57c2c54b87a0d5"
     }
    ]
   },
@@ -1743,6 +1983,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-justitie-2321-c-2008-anexa",
+   "path": "anexa/ordin-justitie-2321-c-2008/anexa",
+   "short": "Anexa la Ordin justitie nr. 2321/C/2008",
+   "title": "Metodologie din 4 septembrie 2008 de admitere a candidaților în Școala Națională de Pregătire a Agenților de Penitenciare Târgu Ocna (anexa la Ordinul JUSTITIE nr. 2321/C/2008)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98557",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98557",
+     "sha256": "77a97a03db955258ef9655124e811fea05fba8732369c95fda17056035a72d48"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-justitie-2594-c-2008-anexa",
    "path": "anexa/ordin-justitie-2594-c-2008/anexa",
    "short": "Anexa la Ordin justitie nr. 2594/C/2008",
@@ -1769,6 +2024,21 @@
      "units": 43,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100262",
      "sha256": "6fc4539ddde8cc1edb8aeb1e8f9d6b9fae0192bf5e203583165a85c743fbaa1a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-1119-2008-anexa-1",
+   "path": "anexa/ordin-mediu-1119-2008/anexa-1",
+   "short": "Anexa nr. 1 la Ordin mediu nr. 1119/2008",
+   "title": "Ghid din 9 iunie 2008 privind adoptarea valorilor-limită și modul de aplicare a acestora atunci când se elaborează planurile de acțiune, pentru indicatorii L(zsn) și L(noapte), în cazul zgomotului produs de traficul rutier pe drumurile principale și în aglomerări, traficul feroviar pe căile ferate principale și în aglomerări, traficul aerian pe aeroporturile mari și/sau urbane și pentru zgomotul produs în zonele din aglomerări unde se desfășoară activități industriale prevăzute în anexa nr. 1 la Ordonanța de urgență a Guvernului nr. 152/2005 privind prevenirea și controlul integrat al poluării, aprobată cu modificări și completări prin Legea nr. 84/2006 (anexa nr. 1 la Ordinul MEDIU nr. 1119/2008)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95642",
+   "versions": [
+    {
+     "from": "2008-07-15",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95642",
+     "sha256": "63f14cc534d0c5cadc28abce5ca17dbe0181289a82a270ebfd9dc17592e3557f"
     }
    ]
   },
@@ -2069,6 +2339,21 @@
      "units": 23,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90682",
      "sha256": "6fde2f200282f4dbe1380bb9a45195b637b125769e265a27c5f764098d13f115"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-558-2008-anexa-1",
+   "path": "anexa/ordin-transporturi-558-2008/anexa-1",
+   "short": "Anexa nr. 1 la Ordin transporturi nr. 558/2008",
+   "title": "Ghid din 30 aprilie 2008 privind adoptarea valorilor-limită și modul de aplicare a acestora atunci când se elaborează planurile de acțiune, pentru indicatorii L(zsn) și L(noapte), în cazul zgomotului produs de traficul rutier pe drumurile principale și în aglomerări, traficul feroviar pe căile ferate principale și în aglomerări, traficul aerian pe aeroporturile mari și/sau urbane și pentru zgomotul produs în zonele din aglomerări unde se desfășoară activități industriale prevăzute în anexa nr. 1 la Ordonanța de urgență a Guvernului nr. 152/2005 privind prevenirea și controlul integrat al poluării, aprobată cu modificări și completări prin Legea nr. 84/2006 (anexa nr. 1 la Ordinul TRANSPORTURI nr. 558/2008)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95641",
+   "versions": [
+    {
+     "from": "2008-07-15",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95641",
+     "sha256": "21fbe3cb41f42234a28c4b4b726dd79e85d60b477e1c1680a07aa72f22c27dbd"
     }
    ]
   },

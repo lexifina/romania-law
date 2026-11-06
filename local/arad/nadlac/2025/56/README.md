@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Orașului Nădlac nr. 56/2025 privind alegerea președintelui de ședință Consiliul local al orașului Nădlac, întrunit în ședința extraordinară din data de 14.04.2025, Având în vedere: - propunerea nominală pentru alegerea președintelui de ședință și rezultatul votului deschis al majorității consilierilor în funcție - prevederile art.123(1), (4), art.129(1) și art.196(1), lit.a din Ordonanța de urgență nr.57/2019 privind Codul a
+
+HCL Nădlac nr. 56/2025 · 1 versions, from 2025-04-14 (latest in force: 2025-04-14) · <https://primaria-nadlac.ro/hotarari-din-anul-2025/>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-arad--nadlac-56-2025` (tags `hcl-arad--nadlac-56-2025/<day>`; `python tools/on.py <day> hcl-arad--nadlac-56-2025`).
+
+## Decisions made by hand
+
+- HCL Nădlac nr. 56/2025: listed from Consiliul Local al Orașului Nădlac (primaria-nadlac.ro); an individual decision: metadata only.
+- HCL Nădlac nr. 56/2025: dated from 14 April 2025, the day it was adopted (the register gives no later day of publication).
+- HCL Nădlac nr. 56/2025: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

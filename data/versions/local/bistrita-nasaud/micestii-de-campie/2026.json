@@ -3,6 +3,66 @@
  "shard": "local/bistrita-nasaud/micestii-de-campie/2026",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--micestii-de-campie-12-2026",
+   "path": "local/bistrita-nasaud/micestii-de-campie/2026/12",
+   "short": "HCL Miceștii de Câmpie nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 12/2026 privind modificarea art.15 din Hotărârea Consiliului local Miceștii de Câmpie nr.69/29.12.2025 (...)",
+   "url": "https://micestiidecampie.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 1,
+     "source_url": "https://micestiidecampie.ro/documente/hcl/uat_micestii_hcl.nr.12_18.03.2026.pdf",
+     "sha256": "186daf2746926e241f897f1359eadd7bf87f3c69762e6cc3d6128e5519b71805"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--micestii-de-campie-20-2026",
+   "path": "local/bistrita-nasaud/micestii-de-campie/2026/20",
+   "short": "HCL Miceștii de Câmpie nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 20/2026 privind aprobarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ”ELABORARE PUG COMUNA MICEȘTII DE CÂMPIE ÎN GIS” județul Bistrița-Năsăud",
+   "url": "https://micestiidecampie.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://micestiidecampie.ro/documente/hcl/uat_micestii_hcl.nr.20_20.04.2026.pdf",
+     "sha256": "60ade0d96e1d9820438843bc9a62647213bacaffa660047430b5092e9f58935e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--micestii-de-campie-22-2026",
+   "path": "local/bistrita-nasaud/micestii-de-campie/2026/22",
+   "short": "HCL Miceștii de Câmpie nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 22/2026",
+   "url": "https://micestiidecampie.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://micestiidecampie.ro/registru_hcl.html",
+     "sha256": "69847eb5640c36ab5189fc19907a7654159e953800466ca653c9371bd29b2764"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--micestii-de-campie-23-2026",
+   "path": "local/bistrita-nasaud/micestii-de-campie/2026/23",
+   "short": "HCL Miceștii de Câmpie nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 23/2026 privind alegerea președintelui de ședință al Consiliului local Miceștii de Câmpie pentru lunile iulie-septembrie 2026",
+   "url": "https://micestiidecampie.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://micestiidecampie.ro/documente/hcl/uat_micestii_hcl.nr.23_22.06.2026.pdf",
+     "sha256": "2f568fdcebb7d8f1cd63a64abcc61b35fa7c8358689cb2c7e6b6fd276df5f454"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--micestii-de-campie-24-2026",
    "path": "local/bistrita-nasaud/micestii-de-campie/2026/24",
    "short": "HCL Miceștii de Câmpie nr. 24/2026",
@@ -18,6 +78,51 @@
    ]
   },
   {
+   "slug": "hcl-bistrita-nasaud--micestii-de-campie-25-2026",
+   "path": "local/bistrita-nasaud/micestii-de-campie/2026/25",
+   "short": "HCL Miceștii de Câmpie nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 25/2026 privind aprobarea scutirilor la plata majorărilor de întârziere conform Hotărârii Consiliului local Miceștii de Câmpie nr.58 din 21.11.2025",
+   "url": "https://micestiidecampie.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://micestiidecampie.ro/documente/hcl/uat_micestii_hcl.nr.25_22.06.2026.pdf",
+     "sha256": "7070a376401bdbe393f66ed236ffde4d6b7906b14f89de75c6492337be400484"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--micestii-de-campie-26-2026",
+   "path": "local/bistrita-nasaud/micestii-de-campie/2026/26",
+   "short": "HCL Miceștii de Câmpie nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 26/2026 privind aprobarea Actului adițional nr.10 la Contractul de concesiune nr.1277 din 06.12.2018 privind Delegarea prin concesiune a serviciului public de salubrizare (...)",
+   "url": "https://micestiidecampie.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://micestiidecampie.ro/documente/hcl/uat_micestii_hcl.nr.26_22.06.2026.pdf",
+     "sha256": "ad8db755e950a7e2bddc5c29820975625f2556fea609770c15290072aee07535"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--micestii-de-campie-30-2026",
+   "path": "local/bistrita-nasaud/micestii-de-campie/2026/30",
+   "short": "HCL Miceștii de Câmpie nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 30/2026 privind neasumarea responsabilității organizării și derulării la nivel local a procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziționarea produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative aferente Programului pentru Școli al României (...)",
+   "url": "https://micestiidecampie.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://micestiidecampie.ro/documente/hcl/uat_micestii_hcl.nr.30_29.06.2026.pdf",
+     "sha256": "6c4b73ba5bf9d32202b13aebbd7d68d47cb18c653961b6400dbf177653358fac"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--micestii-de-campie-32-2026",
    "path": "local/bistrita-nasaud/micestii-de-campie/2026/32",
    "short": "HCL Miceștii de Câmpie nr. 32/2026",
@@ -29,6 +134,36 @@
      "units": 1,
      "source_url": "https://micestiidecampie.ro/documente/hcl/uat_micestii_hcl.nr.32_13.08.2026.pdf",
      "sha256": "e796277da226375c78daa2b06c8e47a275b6c78d80a55758719847e0eb8c22c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--micestii-de-campie-4-2026",
+   "path": "local/bistrita-nasaud/micestii-de-campie/2026/4",
+   "short": "HCL Miceștii de Câmpie nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 4/2026 privind aprobarea Planului anual de acțiune privind serviciile sociale admnistrate și finanțate din bugetul local al Consiliului local al Comunei Miceștii de Câmpie pentru anul 2026",
+   "url": "https://micestiidecampie.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://micestiidecampie.ro/documente/hcl/uat_micestii_hcl.nr.04_29.01.2026.pdf",
+     "sha256": "8584137905943bd35f99a3be82c632460b11f0a3fcb8510b75de26992520e979"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--micestii-de-campie-9-2026",
+   "path": "local/bistrita-nasaud/micestii-de-campie/2026/9",
+   "short": "HCL Miceștii de Câmpie nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 9/2026 privind aprobarea inventarului aferent anului 2025 și aprobarea scoaterii din evidență a obiectelor de inventar reformate",
+   "url": "https://micestiidecampie.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 1,
+     "source_url": "https://micestiidecampie.ro/documente/hcl/uat_micestii_hcl.nr.09_18.03.2026.pdf",
+     "sha256": "3836aebac223cf3312cf22ef4ea270a97029931f33f09bf7f5ab53b999e55b59"
     }
    ]
   }

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bacau/racaciuni/2025",
+"acts": [
+{
+"slug": "hcl-bacau--racaciuni-584-2025",
+"path": "local/bacau/racaciuni/2025/584",
+"kind": "local",
+"year": "2025",
+"number": "584",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 584/2025",
+"short": "HCL Răcăciuni nr. 584/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-10",
+"latest": "2025-06-10",
+"portal": "https://www.comunaracaciuni.ro/",
+"council": "bacau/racaciuni",
+"council_name": "Consiliul Local al Comunei Răcăciuni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

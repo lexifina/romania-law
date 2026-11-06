@@ -3,6 +3,66 @@
  "shard": "anexa/1999",
  "acts": [
   {
+   "slug": "anexa-decizie-anre-11-1999-anexa",
+   "path": "anexa/decizie-anre-11-1999/anexa",
+   "short": "Anexa la Decizia anre nr. 11/1999",
+   "title": "Regulament din 12 mai 1999 pentru acreditarea consumatorilor eligibili de energie electrică (anexa la Decizia ANRE nr. 11/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92221",
+   "versions": [
+    {
+     "from": "1999-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92221",
+     "sha256": "ca388021519bc8f21555200f9e0e067096c5be7378f3a01b54d081b42ed474b5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anre-33-1999-anexa",
+   "path": "anexa/decizie-anre-33-1999/anexa",
+   "short": "Anexa la Decizia anre nr. 33/1999",
+   "title": "Regulament din 26 august 1999 de constatare, notificare și sancționare a abaterilor de la reglementările emise în domeniul energiei electrice și termice (anexa la Decizia ANRE nr. 33/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75422",
+   "versions": [
+    {
+     "from": "1999-10-19",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75422",
+     "sha256": "227b79e7c833930ae986f8df5ca29b731bd08371350e005c45d9a1ae1aedbe6c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anre-34-1999-anexa",
+   "path": "anexa/decizie-anre-34-1999/anexa",
+   "short": "Anexa la Decizia anre nr. 34/1999",
+   "title": "Standard de performanta din 27 august 1999 pentru serviciul de furnizare a energiei electrice la tarife reglementate (anexa la Decizia ANRE nr. 34/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75420",
+   "versions": [
+    {
+     "from": "1999-10-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75420",
+     "sha256": "d534098e8e6f6c09375c6ba86f3c6c1a3452443f5c086abaee95f26c65a56a29"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anre-61-1999-anexa",
+   "path": "anexa/decizie-anre-61-1999/anexa",
+   "short": "Anexa la Decizia anre nr. 61/1999",
+   "title": "Norme tehnice din 1 noiembrie 1999 privind delimitarea zonelor de protecție și de siguranță ale capacităților energetice (anexa la Decizia ANRE nr. 61/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20585",
+   "versions": [
+    {
+     "from": "2000-01-18",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20585",
+     "sha256": "6e4da38bfaedc998418edb15770502bbc10d525f4792a896752728589b8bb157"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-1000-1999-anexa",
    "path": "anexa/hg-1000-1999/anexa",
    "short": "Anexa la HG nr. 1000/1999",
@@ -228,6 +288,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-767-1999-anexa-1",
+   "path": "anexa/hg-767-1999/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 767/1999",
+   "title": "Regulament din 20 septembrie 1999 de organizare și funcționare a Inspecției Muncii (anexa nr. 1 la Hotărârea Guvernului nr. 767/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53505",
+   "versions": [
+    {
+     "from": "1999-09-24",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53505",
+     "sha256": "c4e0bb7ef20e43bec5151c828da3dc5166b610432cf1ea43c517295a73b2eb4f"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-788-1999-anexa",
    "path": "anexa/hg-788-1999/anexa",
    "short": "Anexa la HG nr. 788/1999",
@@ -344,6 +419,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21567",
      "sha256": "241d77154bb9e324584895346cb760216aab358a0b49c7a162f250ba6e672c65"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-58-1999-anexa",
+   "path": "anexa/ordin-agricultura-58-1999/anexa",
+   "short": "Anexa la Ordin agricultura nr. 58/1999",
+   "title": "Regulament din 25 iunie 1999 cu privire la acordarea licențelor de fabricăție agenților economici care desfășoară activități în domeniul producției de produse alimentare (anexa la Ordinul AGRICULTURA nr. 58/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36556",
+   "versions": [
+    {
+     "from": "1999-08-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36556",
+     "sha256": "d94c953e4c6b3a07e13a0f071b525076efb674a60da2d8a26dcc3c2d7c466a07"
     }
    ]
   },

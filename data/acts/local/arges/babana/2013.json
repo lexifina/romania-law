@@ -3,6 +3,28 @@
 "shard": "local/arges/babana/2013",
 "acts": [
 {
+"slug": "hcl-arges--babana-75-2013",
+"path": "local/arges/babana/2013/75",
+"kind": "local",
+"year": "2013",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 75/2013 Privind arborarea drapelului de catre toti agentii economici care rsr desfasoara activitatea pe raza comunei Babana de Ziua Nationala a Rornaniei",
+"short": "HCL Băbana nr. 75/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-10",
+"latest": "2013-12-10",
+"portal": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--babana-76-2013",
 "path": "local/arges/babana/2013/76",
 "kind": "local",

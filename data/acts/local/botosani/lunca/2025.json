@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/lunca/2025",
+"acts": [
+{
+"slug": "hcl-botosani--lunca-73-2025",
+"path": "local/botosani/lunca/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca nr. 73/2025",
+"short": "HCL Lunca nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://primarialunca.ro/wp-content/uploads/2026/06/HCL-nr.-73-din-23.12.2025-INDICATORI-TEHNICO-ECONOMICI-PT-PARC-FOTOVOLTAIC.pdf",
+"council": "botosani/lunca",
+"council_name": "Consiliul Local al Comunei Lunca",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

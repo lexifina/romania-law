@@ -3,6 +3,21 @@
  "shard": "local/arad/nadlac/2025",
  "acts": [
   {
+   "slug": "hcl-arad--nadlac-1-2025",
+   "path": "local/arad/nadlac/2025/1",
+   "short": "HCL Nădlac nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 1/2025 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local din data de 13.01.2025",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h1.pdf",
+     "sha256": "6e68a52249a1e69b2cfb105c6a1238fce1f1ecf6cb77cb518c78fe06b51ed07e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-11-2025",
    "path": "local/arad/nadlac/2025/11",
    "short": "HCL Nădlac nr. 11/2025",
@@ -18,6 +33,576 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-12-2025",
+   "path": "local/arad/nadlac/2025/12",
+   "short": "HCL Nădlac nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 12/2025 privind aprobarea măsurilor pentru remedierea deficienţelor și pentru realizarea capacității de apărare împotriva incendiilor și în alte situații de urgență la nivelul oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h12.pdf",
+     "sha256": "b32f3dfff30c3d857afb6050a44b247cfa229470dc7352a4153c48bd82c52757"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-14-2025",
+   "path": "local/arad/nadlac/2025/14",
+   "short": "HCL Nădlac nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 14/2025 privind modificarea și actualizarea statului de funcții",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h14.pdf",
+     "sha256": "9c750d5da6a59d2ec6ab47714b614fd36554d5e26c0712d3acdb1c3b538e2c82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-15-2025",
+   "path": "local/arad/nadlac/2025/15",
+   "short": "HCL Nădlac nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 15/2025 privind aprobarea modului de întocmire a registrului agricol pentru perioada 2025-2029",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h15.pdf",
+     "sha256": "2398e99f4553d7f5115acf3ae355b50da44774d5fd758be7ebcb3683c11e0337"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-16-2025",
+   "path": "local/arad/nadlac/2025/16",
+   "short": "HCL Nădlac nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 16/2025 privind aprobarea gestiunii delegate ca modalitate de organizare și realizare a gestiunii serviciului public de salubrizare, respectiv a activităților componente ale serviciului de tratare aerobă a biodeșeurilor colectate separat în instalații de compostare, inclusiv",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h16.pdf",
+     "sha256": "b55e4f7dd3f40f97204c6027aab9b07067d457d0229e1016fe0ce856faa2a29f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-17-2025",
+   "path": "local/arad/nadlac/2025/17",
+   "short": "HCL Nădlac nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 17/2025 privind completarea și modificarea Hotărârii Consiliului Local nr. 163/30.12.2024",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h17.pdf",
+     "sha256": "4d871844053a0036611b04b8c6427b12a2349d666a9fa0795b2d9da951739f02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-18-2025",
+   "path": "local/arad/nadlac/2025/18",
+   "short": "HCL Nădlac nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 18/2025 privind mandatarea Asociației de Dezvoltare Intercomunitară de Transport Public Arad, în vederea atribuirii gesiunii serviciului de transport public local de persoane, pe raza administrativ-teritorială a Asociației de Dezvoltare Intercomunitară de Transport public Ara",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h18.pdf",
+     "sha256": "7dfdb6ffdbb9bc2433af8df3fb9293515e441d0943ff90098000e86deae7875c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-2-2025",
+   "path": "local/arad/nadlac/2025/2",
+   "short": "HCL Nădlac nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 2/2025 privind aderarea la Asociația de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h2.pdf",
+     "sha256": "f11ac03e2ba17239e07e982b42f993ba56deaeeb4f43991f46fb1f9e23d64afe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-20-2025",
+   "path": "local/arad/nadlac/2025/20",
+   "short": "HCL Nădlac nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 20/2025 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local din data de 14.02.2025",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h20.pdf",
+     "sha256": "8293f8bb654eb22fd5589948f20e7c514bb7650566bdbfcd4245e7e9bcf51f77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-21-2025",
+   "path": "local/arad/nadlac/2025/21",
+   "short": "HCL Nădlac nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 21/2025 privind aprobarea gestiunii delegate ca modalitate de organizare și realizare a gestiunii serviciului public de salubrizare, respectiv a activităților componente ale serviciului de tartare aerobă a biodeșeurilor colectate separate în instalații de compostare, a studiu",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h21.pdf",
+     "sha256": "770186315ce8ac1b9e93894554664e1f36ab328c5f3d024f5d1bf0baa50be9e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-22-2025",
+   "path": "local/arad/nadlac/2025/22",
+   "short": "HCL Nădlac nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 22/2025 privind aprobarea tipului de suport alimentar si modalitatea de distribuire a acestuia privind instituirea Programului naţional „Masă sănătoasă”",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h22.pdf",
+     "sha256": "24a163a69c3ac22cff612d06715da6a40082624cf63f37700552f92fc0892d94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-23-2025",
+   "path": "local/arad/nadlac/2025/23",
+   "short": "HCL Nădlac nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 23/2025 privind alegerea președintelui de ședință",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h23.pdf",
+     "sha256": "a2addfd6a258953a94befa4baf99f268f8ee26eb240067e8a5c8492528d23923"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-24-2025",
+   "path": "local/arad/nadlac/2025/24",
+   "short": "HCL Nădlac nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 24/2025 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local din data de 25.02.2025",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h24.pdf",
+     "sha256": "f5cdcd0ab43d613941f3e5740b97bc8afe1092f6eebf4c153f64c3d1aeb5e082"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-25-2025",
+   "path": "local/arad/nadlac/2025/25",
+   "short": "HCL Nădlac nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 25/2025 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului Local din data de 13.01.2025",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h25.pdf",
+     "sha256": "678b2bffb66831593351c789210e27ed4b2799c59584607383c61d4fd7575798"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-26-2025",
+   "path": "local/arad/nadlac/2025/26",
+   "short": "HCL Nădlac nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 26/2025 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local din data de 28.01.2025",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h26.pdf",
+     "sha256": "edbb96f7eaafe6ad02310d0759e6097090195a5025f8f09ae889460ab4dc604c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-27-2025",
+   "path": "local/arad/nadlac/2025/27",
+   "short": "HCL Nădlac nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 27/2025 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului Local din data de 14.02.2025",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h27.pdf",
+     "sha256": "6010dd83b6acb77927a6790246c49ad72946d38d298b981873acc88f98713474"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-28-2025",
+   "path": "local/arad/nadlac/2025/28",
+   "short": "HCL Nădlac nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 28/2025 privind modificarea și completarea anexei la Hotărârea Consiliului Local Nădlac nr.142/25.11.2024",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h28.pdf",
+     "sha256": "71eb9951ef135b673e6116ba25f7a4ae169ddca7f9d88c48e2e81fe2c8174e5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-29-2025",
+   "path": "local/arad/nadlac/2025/29",
+   "short": "HCL Nădlac nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 29/2025 privind a probarea Planului anual de resurse umane, materiale și financiare pentru gestionarea situațiilor de urgenţă pe anul 2025",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h29.pdf",
+     "sha256": "fb025433d7970091e75880af9426c2a4274a5e378c1eee30db855cf888dbdcda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-3-2025",
+   "path": "local/arad/nadlac/2025/3",
+   "short": "HCL Nădlac nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 3/2025 privind acoperirea definitivă din excedentul bugetului local din anii precedenți a deficitului secțiunii de dezvoltare pentru anul 2024",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h3.pdf",
+     "sha256": "dabaac2bae83fdef3237007c17800bc741632640114bfde7055ec1f5062dc55d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-30-2025",
+   "path": "local/arad/nadlac/2025/30",
+   "short": "HCL Nădlac nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 30/2025 privind actualizarea Planului de Analiză și Acoperire a Riscurilor al Localitații Nădlac pe anul 2025",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h30.pdf",
+     "sha256": "c346f5577ff2fc1153f43adc3126fad7eb109db9b693c3cc7492c8167d52d97c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-32-2025",
+   "path": "local/arad/nadlac/2025/32",
+   "short": "HCL Nădlac nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 32/2025 privind modificarea Statutului Asociaţiei de Dezvoltare Intercomunitară Apă Canalizare Judeţul Arad, la care UAT Nădlac este membru asociat",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h32.pdf",
+     "sha256": "444c62d0ef7306e9018158ad4bc6919b80a8e33bcb64ae62bd8a69a1cb113001"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-33-2025",
+   "path": "local/arad/nadlac/2025/33",
+   "short": "HCL Nădlac nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 33/2025 privind aprobarea variantei de dezmembrare a terenului situat în orașul Nădlac, str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h33.pdf",
+     "sha256": "ac1f733cab8481cebe9eb75e965373ecdadda4c5ba4877449b847f7ec83a5dd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-34-2025",
+   "path": "local/arad/nadlac/2025/34",
+   "short": "HCL Nădlac nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 34/2025 privind acordarea unui mandat special reprezentantului Orașului Nădlac în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad pentru aprobarea cotizației pe anul 2025 către Asociația de Dezvoltare Intercomunitară de Transp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h34.pdf",
+     "sha256": "cf35910b3bc3ddbbe6d997011761f438201f9522f64681e7ab2338e20fc91c76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-35-2025",
+   "path": "local/arad/nadlac/2025/35",
+   "short": "HCL Nădlac nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 35/2025 privind acordarea unui mandat special reprezentantului Consiliului Local al Orașului Nădlac în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară Transport Public Arad în vederea modificării Contractului de delegare a gestiunii Serviciului de tra",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h35.pdf",
+     "sha256": "8839dd186f21879cdf56d607e0dad31e1d5c40f5fff478308aa0b8dbc7a25868"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-36-2025",
+   "path": "local/arad/nadlac/2025/36",
+   "short": "HCL Nădlac nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 36/2025 privind aprobarea tipului de suport alimentar și modalitatea de distribuire a acestuia privind instituirea Programului naţional „Masă sănătoasă”",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h36.pdf",
+     "sha256": "8d83bc852a7a11f9c4d6369589cc00656c0e0675eab90cbf0fb6d8cdb9a7c86a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-37-2025",
+   "path": "local/arad/nadlac/2025/37",
+   "short": "HCL Nădlac nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 37/2025 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local din data de 12.03.2025",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h37.pdf",
+     "sha256": "e55c7078296ba9ae4d1b4508c3733fe6100e09c9eaf5668bfe2b7916b2ab5a45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-39-2025",
+   "path": "local/arad/nadlac/2025/39",
+   "short": "HCL Nădlac nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 39/2025 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local Nădlac din data de 25.03.2025",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h39.pdf",
+     "sha256": "0d1a1f9064d84cd706d2ee16f615ccb1fb5ecd3ec9884598e57339aafbed3920"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-4-2025",
+   "path": "local/arad/nadlac/2025/4",
+   "short": "HCL Nădlac nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 4/2025 privind modificarea limitei de proprietate comună între parcelele evidențiate în CF nr. 318876 Nădlac, CF nr. 320276 Nădlac și CF nr. 320275 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h4.pdf",
+     "sha256": "11f56b1d304e055a0e4a1a9081f5ba5964bee8aff11967bb4f16627fe181ec79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-40-2025",
+   "path": "local/arad/nadlac/2025/40",
+   "short": "HCL Nădlac nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 40/2025 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local din data de 25.02.2025",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h40.pdf",
+     "sha256": "f7c8df0cf1f06b055284943b79193fbe727efd3f481c1df96a5015e83a7dc3b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-41-2025",
+   "path": "local/arad/nadlac/2025/41",
+   "short": "HCL Nădlac nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 41/2025 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului Local din data de 12.03.2025",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h41.pdf",
+     "sha256": "2a531e204a7b2780dde116efcb58e8736ef10e4ee139d9074e59af73a86d424c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-42-2025",
+   "path": "local/arad/nadlac/2025/42",
+   "short": "HCL Nădlac nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 42/2025 privind actualizarea Strategiei Integrate de Dezvoltare Urbană (SIDU), perioada 2021-2030, a orașului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h42.pdf",
+     "sha256": "0c24bfa6ebd304d0754b24f3c0588af6fafeb8eca1f7908be45ca7765ee9e2b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-43-2025",
+   "path": "local/arad/nadlac/2025/43",
+   "short": "HCL Nădlac nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 43/2025 privind alegerea Consiliului de Administraţie la Clubul Sportiv „Victoria” Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h43.pdf",
+     "sha256": "41b6e0d35633f835bff095245a181e7cb7c0f599cf22a0499b177c1d9b9cbdae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-44-2025",
+   "path": "local/arad/nadlac/2025/44",
+   "short": "HCL Nădlac nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 44/2025 privind aprobarea unor măsuri privind activităţi componente ale serviciului de tratare aerobă a biodeşeurilor colectate separat în instalaţii de compostare, inclusiv transportul reziduurilor la depozitele de deşeuri şi/sau la instalaţiile de valorificare energetică cu",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h44.pdf",
+     "sha256": "8817747ebea6dce6ce9635150180cfb299f1e3ec328c08cc94a4ba801ddcbcd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-45-2025",
+   "path": "local/arad/nadlac/2025/45",
+   "short": "HCL Nădlac nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 45/2025 privind stabilirea componenței echipei mobile pentru intervenția de urgență în cazurile de violență domestică",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h45.pdf",
+     "sha256": "3b510c6c7e4b9276f559b50a8f93257c4d167ef94394b4a1a49b03973f7df81e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-46-2025",
+   "path": "local/arad/nadlac/2025/46",
+   "short": "HCL Nădlac nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 46/2025 privind aprobarea Planului anual de acţiune privind serviciile sociale administrate şi finanţate din bugetul Consiliului Local Nădlac și a Programului de acțiune comunitară destinată prevenirii și combaterii riscului de sărăcie și excluziune socială pe anul 2025",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h46.pdf",
+     "sha256": "b70ce457ce471f03b18bf55b588a45720f4e64ca446286b7cb18d273dab2455d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-47-2025",
+   "path": "local/arad/nadlac/2025/47",
+   "short": "HCL Nădlac nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 47/2025 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr.28",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h47.pdf",
+     "sha256": "0d7db667d6f141f9abb725066f44422dc9eadfcef4bd297704bc6b9079316293"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-48-2025",
+   "path": "local/arad/nadlac/2025/48",
+   "short": "HCL Nădlac nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 48/2025 privind modificarea și completarea Hotărârii Consiliului Local Nădlac nr.55/30.04.2024",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h48.pdf",
+     "sha256": "1c5a39164c6832cdcb38fea9063e3341456b6602d009628b70fe4b6371da7a27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-49-2025",
+   "path": "local/arad/nadlac/2025/49",
+   "short": "HCL Nădlac nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 49/2025 privind aprobarea vânzării terenului în suprafaţă de 1160 mp, parcela cu nr. cad. 320286, evidenţiată în CF nr. 320286 Nădlac, situat în oraşul Nădlac, str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h49.pdf",
+     "sha256": "e5a95d8629308296d531e8d3eb067d5f7e48464e8d9b008cf1046de4e1b87e93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-5-2025",
+   "path": "local/arad/nadlac/2025/5",
+   "short": "HCL Nădlac nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 5/2025 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local din data de 28.01.2025",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h5.pdf",
+     "sha256": "e6c7d51bcaf65a39dd5003c2033f55e4dd2ef4083df387507af8d839a116236e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-50-2025",
    "path": "local/arad/nadlac/2025/50",
    "short": "HCL Nădlac nr. 50/2025",
@@ -29,6 +614,186 @@
      "units": 5,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h50.pdf",
      "sha256": "59fa54a44baabc494bf1be880417ae4765b034afce589327261b8568d5b58a4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-51-2025",
+   "path": "local/arad/nadlac/2025/51",
+   "short": "HCL Nădlac nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 51/2025 privind aprobarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2025",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h51.pdf",
+     "sha256": "c4c1ff500ebb0057008370d63f32c82062cc0317d5ccc66eb6b70d6cf17e33c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-52-2025",
+   "path": "local/arad/nadlac/2025/52",
+   "short": "HCL Nădlac nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 52/2025 privind aprobarea rectificării suprafeței imobilului situat în orașul Nădlac, parcela evidențiată în CF nr. 304430 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h52.pdf",
+     "sha256": "8403db029161f416e178965c83810043511388be398b36d08fee5b92bf61c58e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-53-2025",
+   "path": "local/arad/nadlac/2025/53",
+   "short": "HCL Nădlac nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 53/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h53.pdf",
+     "sha256": "10554e176471d288da98cc1a7f4751f42630aa85014321e4665b5ecf1ad5aa11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-54-2025",
+   "path": "local/arad/nadlac/2025/54",
+   "short": "HCL Nădlac nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 54/2025 privind aprobarea introducerii în circuitul funciar a unor terenuri",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h54.pdf",
+     "sha256": "ee124afe640e44d069fc0830f2ced99bb42ae283d5c065b49534241796227f6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-55-2025",
+   "path": "local/arad/nadlac/2025/55",
+   "short": "HCL Nădlac nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 55/2025 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2025",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h55.pdf",
+     "sha256": "fdaf6a3608d51fd1bd63e989e248e20b5b90d7bc001c7f03caf34f163eec369d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-56-2025",
+   "path": "local/arad/nadlac/2025/56",
+   "short": "HCL Nădlac nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 56/2025 privind alegerea președintelui de ședință Consiliul local al orașului Nădlac, întrunit în ședința extraordinară din data de 14.04.2025, Având în vedere: - propunerea nominală pentru alegerea președintelui de ședință și rezultatul votului deschis al majorității consilierilor în funcție - prevederile art.123(1), (4), art.129(1) și art.196(1), lit.a din Ordonanța de urgență nr.57/2019 privind Codul a",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h56.pdf",
+     "sha256": "ae75cc36f0c5a11b1b13a2416aeed5fdcea1ff9b48723ddbe6323fd4bcc3ced1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-57-2025",
+   "path": "local/arad/nadlac/2025/57",
+   "short": "HCL Nădlac nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 57/2025 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local Nădlac din data de 14.04.2025",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h57.pdf",
+     "sha256": "e30572e0d424df09e9d68a46b8200f61e7857f6e453eb5c9680669920d7a4ed2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-58-2025",
+   "path": "local/arad/nadlac/2025/58",
+   "short": "HCL Nădlac nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 58/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h58.pdf",
+     "sha256": "f1a6eac4c5d8323b9b8add72ad00652bc7a8de2321e16ed477ad1b196b961771"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-59-2025",
+   "path": "local/arad/nadlac/2025/59",
+   "short": "HCL Nădlac nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 59/2025 privind modificarea și completarea prevederilor HCL nr.39/20.02.2020 și a prevederilor HCL nr.146/14.11.2023",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h59.pdf",
+     "sha256": "8c4b3062f22633fdb863c44b36f9f8209e7412cc54f55ca85697fb2aee7ed186"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-6-2025",
+   "path": "local/arad/nadlac/2025/6",
+   "short": "HCL Nădlac nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 6/2025 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului Local din data de 23.12.2024",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h6.pdf",
+     "sha256": "225ab1858cd394c900cb57ea3671cb98c3dc8c4b02fb4dcfeb86daff94f09e4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-7-2025",
+   "path": "local/arad/nadlac/2025/7",
+   "short": "HCL Nădlac nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 7/2025 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local din data de 30.12.2024",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h7.pdf",
+     "sha256": "6bc756a6e3f9244a8b98bf332305a2bef27d6741626d16c6e672502770e4267a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-9-2025",
+   "path": "local/arad/nadlac/2025/9",
+   "short": "HCL Nădlac nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 9/2025 privind aprobarea cuantumului cotizaţiei Consiliului Local Nădlac aferent anului 2025 la bugetul Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor Judeţul Arad",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h9.pdf",
+     "sha256": "05d9dcafeed1908827c9fd8545b51e1e63b6d9c669798f280bb7d59e46bbcb2e"
     }
    ]
   }

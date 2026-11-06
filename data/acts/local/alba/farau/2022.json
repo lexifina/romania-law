@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/alba/farau/2022",
+"acts": [
+{
+"slug": "hcl-alba--farau-69-2022",
+"path": "local/alba/farau/2022/69",
+"kind": "local",
+"year": "2022",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărău nr. 69/2022 Privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico- economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Reabilitare drumuri comunale în comuna Fărău”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local",
+"short": "HCL Fărău nr. 69/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-14",
+"latest": "2022-11-14",
+"portal": "https://www.primariafarau.ro/wp-content/uploads/2022/11/Hcl-69-reabilitare-drumuri11152022.pdf",
+"council": "alba/farau",
+"council_name": "Consiliul Local al Comunei Fărău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

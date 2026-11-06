@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/cajvana/2025",
+ "acts": [
+  {
+   "slug": "hcl-suceava--cajvana-13-2025",
+   "path": "local/suceava/cajvana/2025/13",
+   "short": "HCL Cajvana nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Cajvana nr. 13/2025 privind atribuire denumire unei străzi din orașului Cajvana, judeţul Suceava",
+   "url": "https://emol.ro/cajvana-sv/registru-hcl/223282",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cajvana-sv/registru-hcl/223282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cajvana-26-2025",
+   "path": "local/suceava/cajvana/2025/26",
+   "short": "HCL Cajvana nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Cajvana nr. 26/2025 privind actualizarea organigramei și a statului de funcţii al primăriei oraşului Cajvana, județul Suceava",
+   "url": "https://emol.ro/cajvana-sv/registru-hcl/223431",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cajvana-sv/registru-hcl/223431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cajvana-47-2025",
+   "path": "local/suceava/cajvana/2025/47",
+   "short": "HCL Cajvana nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Cajvana nr. 47/2025 privind privind reorganizarea Serviciului Voluntar pentru Situaţii de Urgenţă, aflat în subordinea Consiliului Local al orașului Cajvana, județul Suceava",
+   "url": "https://emol.ro/cajvana-sv/registru-hcl/228947",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cajvana-sv/registru-hcl/228947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cajvana-48-2025",
+   "path": "local/suceava/cajvana/2025/48",
+   "short": "HCL Cajvana nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Cajvana nr. 48/2025 privind rectificarea bugetului local al orașului Cajvana",
+   "url": "https://emol.ro/cajvana-sv/registru-hcl/228948",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cajvana-sv/registru-hcl/228948",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

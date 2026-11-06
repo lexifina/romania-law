@@ -346,6 +346,51 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-92-2023",
+   "path": "local/prahova/urlati/2023/92",
+   "short": "HCL Urlați nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 92/2023 privind rectificarea bugetului general al unităţii administrativ-teritoriale pe anul 2023 prin utilizarea sumei de 115, 00 mii lei din fondul de rezervă bugetară",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/119827",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/119827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-93-2023",
+   "path": "local/prahova/urlati/2023/93",
+   "short": "HCL Urlați nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 93/2023 privind rectificarea bugetului general al unităţii administrativ-teritoriale pe anul 2023 prin utilizarea sumei de 350,00 mii lei din fondul de rezervă bugetară",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/120828",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/120828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-95-2023",
+   "path": "local/prahova/urlati/2023/95",
+   "short": "HCL Urlați nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 95/2023 privind aprobarea Planului Urbanistic Zonal ,, Extindere intravilan (S = 24 087 mp) zonă locuințe și funcțiuni complementare, zonă spații verzi și zonă căi de comunicații și schimbare parțială destinație din zonă locuințe în zonă spații verzi pentru amplasare locuințe și modificare trama stradală (S.studiat = 35 651 mp),” situat în judeţul Prahova, orașul Urlați, str. Valea Bobului, De 2037, De 2041, De 2052, nr. cadastrale 22216, 22217, tarlaua 37, parcela A 2050, nr. cadastral 22851, tarlaua 37, parcela V 2050, nr. cadastrale 25897, 25898, tarlaua 37, parcela V 2024",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/122948",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/122948",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

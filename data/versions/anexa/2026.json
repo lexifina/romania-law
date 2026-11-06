@@ -3,6 +3,21 @@
  "shard": "anexa/2026",
  "acts": [
   {
+   "slug": "anexa-decizie-adr-162-2026-anexa-2",
+   "path": "anexa/decizie-adr-162-2026/anexa-2",
+   "short": "Anexa nr. 2 la Decizia adr nr. 162/2026",
+   "title": "Procedură din 20 martie 2026 de acordare a statutului de prestator de servicii de încredere calificate (anexa nr. 2 la Decizia ADR nr. 162/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309008",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309008",
+     "sha256": "639e4579aae8cf04522352abb85a9d0f4a6cf936ccae8e1528f7422f12dc7e67"
+    }
+   ]
+  },
+  {
    "slug": "anexa-decizie-camera-8-2026-anexa",
    "path": "anexa/decizie-camera-8-2026/anexa",
    "short": "Anexa la Decizia camera nr. 8/2026",
@@ -74,6 +89,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311574",
      "sha256": "28b9ab24ab3527efa096a1f48413452096948dd286829879a0cce743283d460b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-530-2026-anexa",
+   "path": "anexa/hg-530-2026/anexa",
+   "short": "Anexa la HG nr. 530/2026",
+   "title": "Norme metodologice din 9 iulie 2026 de aplicare a prevederilor art. XVII din Ordonanța de urgență a Guvernului nr. 7/2026 pentru modificarea și completarea unor acte normative, precum și pentru adoptarea unor măsuri pentru creșterea capacității financiare a unităților administrativ-teritoriale (anexa la Hotărârea Guvernului nr. 530/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312151",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312151",
+     "sha256": "b018f8bede5c06f076505124708639e63d0831b1e3189cd303efed72b53c64b6"
     }
    ]
   },
@@ -228,6 +258,51 @@
    ]
   },
   {
+   "slug": "anexa-ordin-anre-56-2026-anexa",
+   "path": "anexa/ordin-anre-56-2026/anexa",
+   "short": "Anexa la Ordin anre nr. 56/2026",
+   "title": "Codul din 28 august 2026 pentru hidrogen (anexa la Ordinul ANRE nr. 56/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313851",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313851",
+     "sha256": "e6cbd6360fafb8a79afc12cc2ee7d27ac9b14e8bbebadba80277f4685f8b43c5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-7-2026-anexa",
+   "path": "anexa/ordin-anre-7-2026/anexa",
+   "short": "Anexa la Ordin anre nr. 7/2026",
+   "title": "Regulament din 31 martie 2026 privind accesul și utilizarea sistemelor de distribuție a gazelor naturale (anexa la Ordinul ANRE nr. 7/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310206",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310206",
+     "sha256": "5bd56d1e8841c0cbbcf4ca52daa07b412df12ca6ad67e5d5becba29ffb3b05f8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-9-2026-anexa",
+   "path": "anexa/ordin-anre-9-2026/anexa",
+   "short": "Anexa la Ordin anre nr. 9/2026",
+   "title": "Reguli din 21 aprilie 2026 privind participarea unei comunități de energie din surse regenerabile sau a unei comunități de energie a cetățenilor la piețele angro de energie electrică și a condițiilor utilizării capacităților de stocare aparținând unei comunități de energie din surse regenerabile sau unei comunități de energie a cetățenilor și/sau a celor aparținând membrilor acesteia, în vederea furnizării de servicii către operatorii de rețea (anexa la Ordinul ANRE nr. 9/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310314",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310314",
+     "sha256": "568c4230b136778ffa7fc429f47e62a0558163374a0eef9c3ee774cae44cd33a"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-anrm-174-2026-anexa",
    "path": "anexa/ordin-anrm-174-2026/anexa",
    "short": "Anexa la Ordin anrm nr. 174/2026",
@@ -254,6 +329,21 @@
      "units": 131,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310947",
      "sha256": "bb097a333b92e351cf325da629c5336cabfab52c5c43d8efc1956e12228cf7c9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-ansvsa-358-2026-anexa-1",
+   "path": "anexa/ordin-ansvsa-358-2026/anexa-1",
+   "short": "Anexa nr. 1 la Ordin ansvsa nr. 358/2026",
+   "title": "Norme metodologice din 24 martie 2026 de aplicare a Programului acțiunilor de supraveghere, prevenire, control și eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecția animalelor și protecția mediului, de imobilizare a animalelor care amenință viața sau integritatea corporală a persoanelor prin utilizarea și administrarea substanțelor din categoria stupefiante, psihotrope, de identificare și înregistrare a bovinelor, porcinelor, ovinelor, caprinelor și ecvideelor (anexa nr. 1 la Ordinul ANSVSA nr. 358/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309533",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309533",
+     "sha256": "77adfdc851ee1f3837eb935ac87db869ab6b4e166bbcf16d3a7c8f7a0c04b9e5"
     }
    ]
   },
@@ -374,6 +464,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314528",
      "sha256": "ce7d4adf40598224261964465b9a33a664b9b01edc5512b24594b8f85a9f0bff"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dezvoltare-476-2026-anexa",
+   "path": "anexa/ordin-dezvoltare-476-2026/anexa",
+   "short": "Anexa la Ordin dezvoltare nr. 476/2026",
+   "title": "Instrucțiuni din 22 aprilie 2026 pentru aplicarea unitară a prevederilor art. 289 din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ (anexa la Ordinul DEZVOLTARE nr. 476/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310437",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310437",
+     "sha256": "782725574afd9947ab7f641976e7b128f7108c934080cd2f3b4dca550a907c4c"
     }
    ]
   },
@@ -659,6 +764,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311489",
      "sha256": "32539b716cd9aa472533187dd4fe4f466b39d9763b0e7ceb1c94d358a33bf6c6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-integritate-2901-2026-anexa",
+   "path": "anexa/ordin-integritate-2901-2026/anexa",
+   "short": "Anexa la Ordin integritate nr. 2901/2026",
+   "title": "Procedură din 23 februarie 2026 de transmitere prin e-DAI a declarației prevăzute la art. 7^3 alin. (1) și a notificării prevăzute la art. 7^6 alin. (1) din Legea nr. 176/2010 privind integritatea în exercitarea funcțiilor și demnităților publice, pentru modificarea și completarea Legii nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate, precum și pentru modificarea și completarea altor acte normative, cu modificările și completările ulterioare, precum și a condițiilor în care aceasta se realizează (anexa la Ordinul INTEGRITATE nr. 2901/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307588",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307588",
+     "sha256": "74acf86e52c43259a230a6badbc87c1b502381aa92b54821fe610b9d7be2a60d"
     }
    ]
   },

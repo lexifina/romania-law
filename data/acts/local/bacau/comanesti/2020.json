@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bacau/comanesti/2020",
+"acts": [
+{
+"slug": "hcl-bacau--comanesti-30-2020",
+"path": "local/bacau/comanesti/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Comănești nr. 30/2020 privind aprobarea Regulamentului de Organizare şi Funcţionare a Consiliului Local al oraşului Comăneşti",
+"short": "HCL Comănești nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-18",
+"latest": "2020-02-18",
+"portal": "http://www.primariacomanesti.ro/regulamente-consiliul-local.html",
+"council": "bacau/comanesti",
+"council_name": "Consiliul Local al Orașului Comănești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

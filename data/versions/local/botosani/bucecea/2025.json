@@ -3,6 +3,426 @@
  "shard": "local/botosani/bucecea/2025",
  "acts": [
   {
+   "slug": "hcl-botosani--bucecea-100-2025",
+   "path": "local/botosani/bucecea/2025/100",
+   "short": "HCL Bucecea nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 100/2025 de aprobare a indicatorilor tehnico economici conform Devizului general actualizat, prin aplicarea HG 141/2025 privind unele măsuri bugetar fiscale, privind cheltuielile necesare realizării investiției ”REABILITARE CLĂDIRE SEDIU PRIMĂRIE”",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/229157",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/229157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-101-2025",
+   "path": "local/botosani/bucecea/2025/101",
+   "short": "HCL Bucecea nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 101/2025 privind Rectificarea Bugetului de venituri și cheltuieli al Consiliului local al orașului Bucecea, pe anul 2025",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/233339",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/233339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-102-2025",
+   "path": "local/botosani/bucecea/2025/102",
+   "short": "HCL Bucecea nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 102/2025 privind alocarea unei sume de bani reprezentând contravaloarea cadourilor care vor fi distribuite copiilor cu ocazia sărbătorilor de iarnă",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/233340",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/233340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-103-2025",
+   "path": "local/botosani/bucecea/2025/103",
+   "short": "HCL Bucecea nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 103/2025 privind aprobarea indicatorilor tehnico economici conform Devizului general actualizat, prin aplicarea cotei de TVA, în conformitate cu HG 141/2025 privind unele măsuri bugetar fiscale, privind cheltuielile necesare realizării investiției ”REALIZARE GRĂDINIȚĂ CU PROGRAM PRELUNGIT,ORAȘ BUCECEA, JUDEȚUL BOTOȘANI”",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/233341",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/233341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-104-2025",
+   "path": "local/botosani/bucecea/2025/104",
+   "short": "HCL Bucecea nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 104/2025 privind aprobarea indicatorilor tehnico - economici conform Devizului general actualizat, cu aplicarea cotei de TVA, în conformitate cu HG 141/2025 privind unele măsuri bugetar fiscale, privind cheltuielile necesare realizării investiției ”Modernizarea sistemului de iluminat stradal în Orașul Bucecea, județul Botoșani”",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/233342",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/233342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-105-2025",
+   "path": "local/botosani/bucecea/2025/105",
+   "short": "HCL Bucecea nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 105/2025 privind aprobarea Documentației tehico - economice - Faza Proiect Tehnic și a Documentației pentru autorizarea executării lucrărilor de construire (PTh + DTAC), și a Indicatorilor tehnico economici conform Devizului General privind cheltuielile necesare realizării investiției ”Rețea de stații inteligente și modernizarea transportului public la nivel zonei urbane funcționale a Municipiului Botoșani - Orașul Bucecea”",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/233343",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/233343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-106-2025",
+   "path": "local/botosani/bucecea/2025/106",
+   "short": "HCL Bucecea nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 106/2025 privind aprobarea unei sume bănești unui cult religios de pe raza oraşului Bucecea",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/233344",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/233344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-107-2025",
+   "path": "local/botosani/bucecea/2025/107",
+   "short": "HCL Bucecea nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 107/2025 privind alegerea președintelui de ședință a Consiliului local al orașului Bucecea, pe o perioadă de 3 luni",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/233345",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/233345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-108-2025",
+   "path": "local/botosani/bucecea/2025/108",
+   "short": "HCL Bucecea nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 108/2025 privind actualizarea modalității de calcul a taxei de salubrizare pentru utilizatorii casnici, stabilită potrivit HCL nr. 77/26.09.2017",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/233346",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/233346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-109-2025",
+   "path": "local/botosani/bucecea/2025/109",
+   "short": "HCL Bucecea nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 109/2025 privind aprobarea indicatorilor tehnico - economici conform Devizului general actualizat, cu aplicarea cotei de TVA, în conformitate cu HG 141/2025 privind unele măsuri bugetar fiscale, privind cheltuielile necesare realizării investiției ”REABILITARE ȘI MODERNIZARE CORP CLĂDIRE ÎNVĂȚĂMÂNT P+1 STR.CALEA NAȚIONALĂ, NR. 100,ORAȘ BUCECEA, JUDEȚUL BOTOȘANI”, după atribuirea contractului de lucrări",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/233347",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/233347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-110-2025",
+   "path": "local/botosani/bucecea/2025/110",
+   "short": "HCL Bucecea nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 110/2025 privind aprobarea structurii Comisiei sociale de analiză a solicitărilor și de prezentare a propunerilor de stabilire a ordinii de prioritate în soluționarea cererilor privind repartizarea locuințelor construite din fonduri ANL",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/234721",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/234721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-111-2025",
+   "path": "local/botosani/bucecea/2025/111",
+   "short": "HCL Bucecea nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 111/2025 de completare a Anexei la HCL nr. 37/29.04.2025 privind stabilirea impozitelor si taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/237445",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/237445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-112-2025",
+   "path": "local/botosani/bucecea/2025/112",
+   "short": "HCL Bucecea nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 112/2025 privind aprobarea organigramei și a statului de funcții al Aparatului de specialitate al Primarului orașului Bucecea și al serviciilor publice din subordinea Consiliului local al orașului Bucecea",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/237446",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/237446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-113-2025",
+   "path": "local/botosani/bucecea/2025/113",
+   "short": "HCL Bucecea nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 113/2025 privind Rectificarea Bugetului de venituri și cheltuieli al Consiliului local al orașului Bucecea, pe anul 2025",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/237447",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/237447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-114-2025",
+   "path": "local/botosani/bucecea/2025/114",
+   "short": "HCL Bucecea nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 114/2025 privind aprobarea anulării unui debit din amenzi",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/237448",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/237448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-115-2025",
+   "path": "local/botosani/bucecea/2025/115",
+   "short": "HCL Bucecea nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 115/2025 privind acordul Consiliului local Bucecea pentru efectuarea operațiunilor de alipire a unor imobile, proprietatea orașului Bucecea",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/237449",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/237449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-116-2025",
+   "path": "local/botosani/bucecea/2025/116",
+   "short": "HCL Bucecea nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 116/2025 privind alocarea unor sume de bani cu titlu de contribuţie la Asociația de Dezvoltare Intercomunitară – Dezvoltare Sustenabilă și Integrată în Țara de Sus,",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/237450",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/237450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-117-2025",
+   "path": "local/botosani/bucecea/2025/117",
+   "short": "HCL Bucecea nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 117/2025 privind aprobarea unor cheltuieli cu prilejul sărbătorilor de iarnă din anul 2025",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/237451",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/237451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-118-2025",
+   "path": "local/botosani/bucecea/2025/118",
+   "short": "HCL Bucecea nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 118/2025 privind acordul Consiliului local Bucecea pentru efectuarea operațiunilor de dezmembrare a unui imobil, proprietatea orașului Bucecea",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/239296",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/239296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-119-2025",
+   "path": "local/botosani/bucecea/2025/119",
+   "short": "HCL Bucecea nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 119/2025 privind aprobarea indicatorilor tehnico - economici conform Devizului general actualizat, cu aplicarea cotei de TVA, în conformitate cu HG 141/2025 privind unele măsuri bugetar fiscale, privind cheltuielile necesare realizării investiției ”Realizare școală clasele I - VIII, cu 8 săli de clasă, P + 1E, oraș Bucecea, județul Botoșani”",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/239297",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/239297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-120-2025",
+   "path": "local/botosani/bucecea/2025/120",
+   "short": "HCL Bucecea nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 120/2025 privind aprobarea indicatorilor tehnico - economici conform Devizului general actualizat, cu aplicarea cotei de TVA, în conformitate cu HG 141/2025 privind unele măsuri bugetar fiscale, privind cheltuielile necesare realizării investiției ”Reabilitare clădire Casa Căsătoriilor”",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/239298",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/239298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-121-2025",
+   "path": "local/botosani/bucecea/2025/121",
+   "short": "HCL Bucecea nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 121/2025 privind aprobarea execuției bugetului local al orașului Bucecea pe trimestrul III– 2025",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/239299",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/239299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-122-2025",
+   "path": "local/botosani/bucecea/2025/122",
+   "short": "HCL Bucecea nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 122/2025 privind aprobarea rețelei școlare pentru anul 2026 - 2027 la nivelul orașului Bucecea județul Botoșani",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/240082",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/240082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-123-2025",
+   "path": "local/botosani/bucecea/2025/123",
+   "short": "HCL Bucecea nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 123/2025 privind Rectificarea Bugetului de venituri și cheltuieli al Consiliului local al orașului Bucecea, pe anul 2025",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/240083",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/240083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-124-2025",
+   "path": "local/botosani/bucecea/2025/124",
+   "short": "HCL Bucecea nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 124/2025 privind modificarea HCL nr. 37/29.04.2025 privind stabilirea impozitelor si taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/240084",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/240084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-125-2025",
+   "path": "local/botosani/bucecea/2025/125",
+   "short": "HCL Bucecea nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 125/2025 privind acordul Consiliului local Bucecea pentru efectuarea operațiunilor de dezmembrare a unui imobil, proprietatea orașului Bucecea",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/240085",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/240085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-126-2025",
+   "path": "local/botosani/bucecea/2025/126",
+   "short": "HCL Bucecea nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 126/2025 privind Aprobarea listei cuprinzând ordinea de prioritate în repartizarea locuințelor pentru tineri, realizate prin Agenția Națională pentru Locuințe, precum și lista cuprinzând dosarele respinse pentru neîndeplinirea criteriilor de acces la locuință",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/240086",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/240086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-127-2025",
+   "path": "local/botosani/bucecea/2025/127",
+   "short": "HCL Bucecea nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 127/2025 privind modificarea HCL nr. 117/24.11.2025 privind aprobarea unor cheltuieli cu prilejul sărbătorilor de iarnă din anul 2025",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/240087",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/240087",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--bucecea-128-2025",
    "path": "local/botosani/bucecea/2025/128",
    "short": "HCL Bucecea nr. 128/2025",
@@ -33,6 +453,36 @@
    ]
   },
   {
+   "slug": "hcl-botosani--bucecea-130-2025",
+   "path": "local/botosani/bucecea/2025/130",
+   "short": "HCL Bucecea nr. 130/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 130/2025 privind Rectificarea Bugetului de venituri și cheltuieli al Consiliului local al orașului Bucecea, pe anul 2025",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/241191",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/241191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-131-2025",
+   "path": "local/botosani/bucecea/2025/131",
+   "short": "HCL Bucecea nr. 131/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 131/2025 privind Aprobarea Documentației tehnico economice – Faza SF și a Indicatorilor tehnico economici conform Devizului general – Faza SF privind cheltuielile realizării proiectului ”Construire subunitate de intervenție, Centru de instruire și informare pentru prevenirea dezastrelor Bucecea” în cadrul obiectivului de investiție ”Reziliență integrată: abordarea în comun a provocărilor și soluțiilor privind situațiile de urgență (RO) ”Unified Resilience: Addressing Common Challenges with a Shared Soluțion for Emergency Situațions” (ENG)",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/241192",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/241192",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--bucecea-132-2025",
    "path": "local/botosani/bucecea/2025/132",
    "short": "HCL Bucecea nr. 132/2025",
@@ -43,6 +493,411 @@
      "from": "2026-01-30",
      "units": 1,
      "source_url": "https://emol.ro/bucecea-bt/registru-hcl/245123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-73-2025",
+   "path": "local/botosani/bucecea/2025/73",
+   "short": "HCL Bucecea nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 73/2025 privind măsurile necesare pentru interzicerea abandonării, aruncării necontrolate a deseurilor sau gestionarii neconforme cu ierarhia deseurilor",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/220520",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/220520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-74-2025",
+   "path": "local/botosani/bucecea/2025/74",
+   "short": "HCL Bucecea nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 74/2025 privind alocarea sumei de 3500 lei din bugetul local al orașului Bucecea în vederea susținerii activității umanitare desfășurate de SOCIETATEA DE CRUCE ROȘIE DIN ROMANIA – FILIALA BOTOȘANI",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/220521",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/220521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-75-2025",
+   "path": "local/botosani/bucecea/2025/75",
+   "short": "HCL Bucecea nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 75/2025 privind completarea Anexei la HCL nr. 4/29.01.2025, privind aprobarea planului de analiză și acoperire a riscurilor a oraşului Bucecea, pentru anul 2025",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/220522",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/220522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-76-2025",
+   "path": "local/botosani/bucecea/2025/76",
+   "short": "HCL Bucecea nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 76/2025 privind Rectificarea Bugetului de venituri și cheltuieli al Consiliului local al orașului Bucecea, pe anul 2025",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/221351",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/221351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-77-2025",
+   "path": "local/botosani/bucecea/2025/77",
+   "short": "HCL Bucecea nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 77/2025 privind Aprobarea Indicatorilor tehnico economici conform Devizului general estimativ privind cheltuielile necesare realizării investiției ”Extindere iluminat public ”",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/221352",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/221352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-78-2025",
+   "path": "local/botosani/bucecea/2025/78",
+   "short": "HCL Bucecea nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 78/2025 privind înființarea unui centru de colectare deșeuri periculoase de la populație",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/221353",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/221353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-79-2025",
+   "path": "local/botosani/bucecea/2025/79",
+   "short": "HCL Bucecea nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 79/2025 privind aprobarea Indicatorilor tehnico - economici conform Devizului General actualizat, cu aplicarea cotei de TVA în conformitate cu prevederile Legii nr. 141/2025 privind unele măsuri fiscal bugetare, privind cheltuielile necesare realizării investiției ”Înființare sistem de distribuție de gaze naturale în localitatea Călinești, din cadrul UAT Bucecea, județul Botoșani”",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/221354",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/221354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-80-2025",
+   "path": "local/botosani/bucecea/2025/80",
+   "short": "HCL Bucecea nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 80/2025 privind aprobarea propunerii de criterii pentru stabilirea ordinii de prioritate în soluționarea cererilor de locuințe și în repartizarea locuințelor pentru tineri, destinate închirierii, în orașul Bucecea",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/226741",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/226741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-81-2025",
+   "path": "local/botosani/bucecea/2025/81",
+   "short": "HCL Bucecea nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 81/2025 privind aprobarea acordării unei diplome de excelenţă unui număr de 16 familii de pe raza oraşului Bucecea la împlinirea a peste 50 şi peste 60 de ani de căsnicie şi a sumelor aferente în vederea susţinerii financiare a acestei acțiuni",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/226742",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/226742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-82-2025",
+   "path": "local/botosani/bucecea/2025/82",
+   "short": "HCL Bucecea nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 82/2025 privind aprobarea acordării unei diplome de excelenţă și a unui premiu în bani unei persoane din orașul Bucecea, județul Botoșani, la împlinirea vârstei de 100 de ani",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/226743",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/226743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-83-2025",
+   "path": "local/botosani/bucecea/2025/83",
+   "short": "HCL Bucecea nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 83/2025 privind Completarea listei de investiții, pe anul 2025, cu obiectivul de investiție ”Construirea și instalarea unui sistem fotovoltaic în orașul Bucecea, județul Botoșani”",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/226744",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/226744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-84-2025",
+   "path": "local/botosani/bucecea/2025/84",
+   "short": "HCL Bucecea nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 84/2025 privind aprobarea execuției bugetului local al orașului Bucecea pe trimestrul II– 2025",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/226745",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/226745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-85-2025",
+   "path": "local/botosani/bucecea/2025/85",
+   "short": "HCL Bucecea nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 85/2025 privind avizarea documentației de atribuire pentru delegarea gestiunii serviciului de transport public local de călători prin curse regulate din cadrul Asociației de Dezvoltare Intercomunitară „Transport Metropolitan Botoșani”",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/226746",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/226746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-86-2025",
+   "path": "local/botosani/bucecea/2025/86",
+   "short": "HCL Bucecea nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 86/2025 privind aprobarea traseelor de parcurs pentru microbuzele școlare aflate în folosința Liceului Tehnologic Bucecea",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/226747",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/226747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-87-2025",
+   "path": "local/botosani/bucecea/2025/87",
+   "short": "HCL Bucecea nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 87/2025 privind aprobarea Indicatorilor tehnico - economici conform Devizului General actualizat, aferente cheltuielilor necesare realizării investiției ”Înființare sistem de distribuție de gaze naturale în localitatea Călinești, din cadrul UAT Bucecea, județul Botoșani”",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/228226",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/228226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-88-2025",
+   "path": "local/botosani/bucecea/2025/88",
+   "short": "HCL Bucecea nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 88/2025 privind Desemnarea reprezentanților Consiliului Local Bucecea în Consiliul de Administrație al Liceului Tehnologic Bucecea pentru anul școlar 2025 - 2026",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/228227",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/228227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-89-2025",
+   "path": "local/botosani/bucecea/2025/89",
+   "short": "HCL Bucecea nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 89/2025 privind desemnarea unui reprezentant al Consiliului Local Bucecea în Comisia de Evaluare și Asigurare a Calității din cadrul Liceului Tehnologic Bucecea pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/228228",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/228228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-90-2025",
+   "path": "local/botosani/bucecea/2025/90",
+   "short": "HCL Bucecea nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 90/2025 privind desemnarea unui reprezentant al Consiliului Local Bucecea în Grupul de acțiune antibullying din cadrul Liceului Tehnologic Bucecea pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/228229",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/228229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-91-2025",
+   "path": "local/botosani/bucecea/2025/91",
+   "short": "HCL Bucecea nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 91/2025 privind desemnarea unui reprezentant al Consiliului Local Bucecea în Comisia pentru prevenirea și combaterea violenței, a faptelor de corupție și a discriminării în mediul școlar și promovarea interculturalității din cadrul Liceului Tehnologic Bucecea pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/228230",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/228230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-92-2025",
+   "path": "local/botosani/bucecea/2025/92",
+   "short": "HCL Bucecea nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 92/2025 privind Completarea listei de investiții, pe anul 2025, cu obiectivul de investiție ” Investiții destinate revitalizării și regenerării urbane fizice prin amenajarea de grădini publice cu spații verzi, iluminat inteligent, modernizarea infrastructurii activităților de recreere în Orașul Bucecea, jud. Botoșani - Parcul Orășenesc ”",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/228231",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/228231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-93-2025",
+   "path": "local/botosani/bucecea/2025/93",
+   "short": "HCL Bucecea nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 93/2025 de aprobare a indicatorilor tehnico economici conform Devizului general actualizat, prin aplicarea HG 141/2025 privind unele măsuri bugetar fiscale, privind cheltuielile necesare realizării investiției ”Amenajări interioare clădire - sediu primărie”",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/228232",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/228232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-94-2025",
+   "path": "local/botosani/bucecea/2025/94",
+   "short": "HCL Bucecea nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 94/2025 privind concesionarea prin licitație publică a unui teren intravilan, proprietatea privată a Orașului Bucecea, județul Botoșani, în suprafață de 8.600 mp, situat în PC 1003/935",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/229151",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/229151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-95-2025",
+   "path": "local/botosani/bucecea/2025/95",
+   "short": "HCL Bucecea nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 95/2025 privind Rectificarea Bugetului de venituri și cheltuieli al Consiliului local al orașului Bucecea, pe anul 2025",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/229152",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/229152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-96-2025",
+   "path": "local/botosani/bucecea/2025/96",
+   "short": "HCL Bucecea nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 96/2025 privind aprobarea criteriilor pentru stabilirea ordinii de prioritate în soluționarea cererilor de locuințe și în repartizarea locuințelor pentru tineri, destinate închirierii, în orașul Bucecea",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/229153",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/229153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-97-2025",
+   "path": "local/botosani/bucecea/2025/97",
+   "short": "HCL Bucecea nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 97/2025 privind aprobarea traseelor de parcurs pentru microbuzele școlare aflate în folosința Liceului Tehnologic Bucecea",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/229154",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/229154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-98-2025",
+   "path": "local/botosani/bucecea/2025/98",
+   "short": "HCL Bucecea nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 98/2025 privind alocarea unei sume de bani în vederea susținerii financiare a unui număr de 16 familii de pe raza oraşului Bucecea la împlinirea a peste 50 şi peste 60 de ani de căsnicie",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/229155",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/229155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-99-2025",
+   "path": "local/botosani/bucecea/2025/99",
+   "short": "HCL Bucecea nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 99/2025 privind alocarea unei sume de bani, pentru susținerea financiară a unei persoane din orașul Bucecea, județul Botoșani, la împlinirea vârstei de 100 de ani",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/229156",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/229156",
      "sha256": null
     }
    ]

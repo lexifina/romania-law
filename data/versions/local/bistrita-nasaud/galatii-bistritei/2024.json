@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/galatii-bistritei/2024",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-665-2024",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2024/665",
+   "short": "HCL Galații Bistriței nr. 665/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 665/2024 pentru anul 2023",
+   "url": "http://galatiibistritei.ro/",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/uat_galatii-bistritei_nr.665_06.03.2024_ra_2023_primar.pdf",
+     "sha256": "4836a146989ed5cd27e868dd928d41eb03219671ed77fc58fbde56297faac394"
+    }
+   ]
+  }
+ ]
+}

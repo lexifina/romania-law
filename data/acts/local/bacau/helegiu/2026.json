@@ -3,6 +3,72 @@
 "shard": "local/bacau/helegiu/2026",
 "acts": [
 {
+"slug": "hcl-bacau--helegiu-40-2026",
+"path": "local/bacau/helegiu/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 40/2026 privind aprobarea alocarii de la bugetul local al unui sprijin financiar Parohiilor de pe raza comunei Helegiu",
+"short": "HCL Helegiu nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-21",
+"latest": "2026-08-21",
+"portal": "https://helegiu.ro/wp-content/uploads/2026/08/Hotararea-nr.40-din-21.08.2026-privind-aprobarea-alocarii-de-la-bugetul-local-al-unui-sprijin-financiar-Parohiilor-de-pe-raza-comunei-Helegiu.pdf",
+"council": "bacau/helegiu",
+"council_name": "Consiliul Local al Comunei Helegiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--helegiu-41-2026",
+"path": "local/bacau/helegiu/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 41/2026 Privind rectificarea bugetului local al comunei Helegiu pentru anul 2026",
+"short": "HCL Helegiu nr. 41/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-21",
+"latest": "2026-08-21",
+"portal": "https://helegiu.ro/wp-content/uploads/2026/08/Hotararea-nr.-41-din-21.08.2026-Privind-rectificarea-bugetului-local-al-comunei-Helegiu-pentru-anul-2026.pdf",
+"council": "bacau/helegiu",
+"council_name": "Consiliul Local al Comunei Helegiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--helegiu-45-2026",
+"path": "local/bacau/helegiu/2026/45",
+"kind": "local",
+"year": "2026",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 45/2026 privind dezmembrarea in doua loturi",
+"short": "HCL Helegiu nr. 45/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://helegiu.ro/wp-content/uploads/2026/11/Hotararea-nr.-45-privind-dezmembrarea-in-doua-loturi.pdf",
+"council": "bacau/helegiu",
+"council_name": "Consiliul Local al Comunei Helegiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--helegiu-46-2026",
 "path": "local/bacau/helegiu/2026/46",
 "kind": "local",
@@ -22,6 +88,73 @@
 "council_name": "Consiliul Local al Comunei Helegiu",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-bacau--helegiu-47-2026",
+"path": "local/bacau/helegiu/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 47/2026",
+"short": "HCL Helegiu nr. 47/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": null,
+"council": "bacau/helegiu",
+"council_name": "Consiliul Local al Comunei Helegiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--helegiu-48-2026",
+"path": "local/bacau/helegiu/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 48/2026 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Helegiu nr. 48/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://helegiu.ro/wp-content/uploads/2026/11/hotararea-nr.-48-privind-alegerea-presedintelui-de-sedinta.pdf",
+"council": "bacau/helegiu",
+"council_name": "Consiliul Local al Comunei Helegiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--helegiu-49-2026",
+"path": "local/bacau/helegiu/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 49/2026 privind aprobare indicatori gaze.docx",
+"short": "HCL Helegiu nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://helegiu.ro/wp-content/uploads/2026/11/hotararea-nr.-49-privind-aprobare-indicatori-gaze.docx.pdf",
+"council": "bacau/helegiu",
+"council_name": "Consiliul Local al Comunei Helegiu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

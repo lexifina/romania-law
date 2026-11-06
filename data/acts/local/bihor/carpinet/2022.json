@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bihor/carpinet/2022",
+"acts": [
+{
+"slug": "hcl-bihor--carpinet-40-2022",
+"path": "local/bihor/carpinet/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărpinet nr. 40/2022",
+"short": "HCL Cărpinet nr. 40/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-19",
+"latest": "2022-04-19",
+"portal": "http://www.primaria-carpinet.ro/hotararile-autoritatii-deliberative.php",
+"council": "bihor/carpinet",
+"council_name": "Consiliul Local al Comunei Cărpinet",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--carpinet-115-2022",
+"path": "local/bihor/carpinet/2022/115",
+"kind": "local",
+"year": "2022",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărpinet nr. 115/2022",
+"short": "HCL Cărpinet nr. 115/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "http://www.primaria-carpinet.ro/hotararile-autoritatii-deliberative.php",
+"council": "bihor/carpinet",
+"council_name": "Consiliul Local al Comunei Cărpinet",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

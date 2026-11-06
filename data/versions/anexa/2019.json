@@ -3,6 +3,21 @@
  "shard": "anexa/2019",
  "acts": [
   {
+   "slug": "anexa-decizie-anre-2168-2019-anexa",
+   "path": "anexa/decizie-anre-2168-2019/anexa",
+   "short": "Anexa la Decizia anre nr. 2168/2019",
+   "title": "Anexă din 16 decembrie 2019 privind modelul pentru întocmirea Programului de îmbunătățire a eficienței energetice (PIEE) aferent localităților cu o populație mai mare de 5.000 locuitori (anexa la Decizia ANRE nr. 2168/2019)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222333",
+   "versions": [
+    {
+     "from": "2020-01-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222333",
+     "sha256": "c0e0ef8ffaf1dc807b2960e3da904bd33c18bf5fa28e3024de7225ac6e9f7220"
+    }
+   ]
+  },
+  {
    "slug": "anexa-decizie-camera-5-2019-anexa",
    "path": "anexa/decizie-camera-5-2019/anexa",
    "short": "Anexa la Decizia camera nr. 5/2019",
@@ -198,6 +213,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-58-2019-anexa",
+   "path": "anexa/hg-58-2019/anexa",
+   "short": "Anexa la HG nr. 58/2019",
+   "title": "Norme metodologice din 8 februarie 2019 de aplicare a Legii nr. 256/2015 privind exercitarea profesiei de dietetician, precum și înființarea, organizarea și funcționarea Colegiului Dieteticienilor din România (anexa la Hotărârea Guvernului nr. 58/2019)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211007",
+   "versions": [
+    {
+     "from": "2019-02-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211007",
+     "sha256": "f8e795caa212541c41a81f95e8b5b3970b97b0bf858b4e97e68cef0235abbd4c"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-773-2019-anexa",
    "path": "anexa/hg-773-2019/anexa",
    "short": "Anexa la HG nr. 773/2019",
@@ -209,6 +239,21 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219441",
      "sha256": "9a8b268ea2c09436252a68bb0e3add6549ca84c6a5214bb0e03245013dd80c7d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-934-2019-anexa",
+   "path": "anexa/hg-934-2019/anexa",
+   "short": "Anexa la HG nr. 934/2019",
+   "title": "Norme metodologice din 13 decembrie 2019 de aplicare a prevederilor Legii nr. 229/2016 privind organizarea și exercitarea profesiei de fizioterapeut, precum și pentru înființarea, organizarea și funcționarea Colegiului Fizioterapeuților din România (anexa la Hotărârea Guvernului nr. 934/2019)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221001",
+   "versions": [
+    {
+     "from": "2019-12-17",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221001",
+     "sha256": "470e9559a4008c9eeea9858c4711c4024a492cc0f0fd9269efa0d9cb8bef5259"
     }
    ]
   },
@@ -284,6 +329,246 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214949",
      "sha256": "8e95eaca0e39e01a6e890985e2404b22b31db86782af091b88db5ec703cbceeb"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-10-2019-anexa",
+   "path": "anexa/ordin-anre-10-2019/anexa",
+   "short": "Anexa la Ordin anre nr. 10/2019",
+   "title": "Metodologie din 1 februarie 2019 de stabilire a prețurilor pentru energia electrică vândută de producători pe bază de contracte reglementate și a cantităților de energie electrică din contractele reglementate încheiate de producători cu furnizorii de ultimă instanță (anexa la Ordinul ANRE nr. 10/2019)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210508",
+   "versions": [
+    {
+     "from": "2019-02-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210508",
+     "sha256": "db9dd2e43336e1d1e8770d51320dab07ced872ff079ec0d6dfbca3223d46c5ca"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-14-2019-anexa",
+   "path": "anexa/ordin-anre-14-2019/anexa",
+   "short": "Anexa la Ordin anre nr. 14/2019",
+   "title": "Metodologie din 13 februarie 2019 de stabilire a tarifelor reglementate pentru prestarea serviciilor de înmagazinare subterană a gazelor naturale (anexa la Ordinul ANRE nr. 14/2019)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210999",
+   "versions": [
+    {
+     "from": "2019-02-14",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210999",
+     "sha256": "3cf64f96bdfe644a65540106983ea7279b157bad098c733c7e8095083245438c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-163-2019-anexa",
+   "path": "anexa/ordin-anre-163-2019/anexa",
+   "short": "Anexa la Ordin anre nr. 163/2019",
+   "title": "Normă tehnică din 17 iulie 2019 pentru odorizarea gazelor naturale (anexa la Ordinul ANRE nr. 163/2019)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216609",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 63,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216609",
+     "sha256": "5eaab7001034f99659c68c68208f84ce1888d0f0411bd7f0cb45a33a83ace120"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-165-2019-anexa",
+   "path": "anexa/ordin-anre-165-2019/anexa",
+   "short": "Anexa la Ordin anre nr. 165/2019",
+   "title": "Anexe din 17 iulie 2019 privind modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 162/2014 pentru aprobarea punctelor relevante ale Sistemului național de transport al gazelor naturale (anexa la Ordinul ANRE nr. 165/2019)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218428",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218428",
+     "sha256": "0a568cd651aaa69b23ecdd03df49821062b9f9f82d51503ac161e565c41f2711"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-176-2019-anexa",
+   "path": "anexa/ordin-anre-176-2019/anexa",
+   "short": "Anexa la Ordin anre nr. 176/2019",
+   "title": "Procedură din 7 august 2019 de notificare pentru racordarea la rețelele electrice de interes public a locurilor/nodurilor de consum și de verificare a conformității acestora cu cerințele tehnice de racordare (anexa la Ordinul ANRE nr. 176/2019)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217108",
+   "versions": [
+    {
+     "from": "2019-08-18",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217108",
+     "sha256": "9ea0d0bc0107aa0f76da440594ca699f4112e21bec267cb86420470b85f3e8a5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-18-2019-anexa-1",
+   "path": "anexa/ordin-anre-18-2019/anexa-1",
+   "short": "Anexa nr. 1 la Ordin anre nr. 18/2019",
+   "title": "Metodologie din 25 februarie 2019 privind calculul și stabilirea contribuției bănești anuale prevăzute la art. 2 alin. (3^1) din Ordonanța de urgență a Guvernului nr. 33/2007 privind organizarea și funcționarea Autorității Naționale de Reglementare în Domeniul Energiei, aprobată cu modificări și completări prin Legea nr. 60/2012 , cu modificările și completările ulterioare, astfel cum a fost introdus prin Ordonanța de urgență a Guvernului nr. 114/2018 (anexa nr. 1 la Ordinul ANRE nr. 18/2019)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211200",
+   "versions": [
+    {
+     "from": "2019-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211200",
+     "sha256": "845d72a8df5b2bd65d205dabcd036e8f7b1181174cb020bd4abc821db3f8d03a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-18-2019-anexa",
+   "path": "anexa/ordin-anre-18-2019/anexa",
+   "short": "Anexa la Ordin anre nr. 18/2019",
+   "title": "Anexă din 25 februarie 2019 pentru modificarea anexei nr. 4 la Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 224/2018 privind aprobarea tarifelor și contribuțiilor bănești percepute de Autoritatea Națională de Reglementare în Domeniul Energiei (anexa la Ordinul ANRE nr. 18/2019)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211201",
+   "versions": [
+    {
+     "from": "2019-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211201",
+     "sha256": "1e6197cc95cfea5829377730bf80a8c6a2a296c6063a4777d3bf66cc784bcc75"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-185-2019-anexa",
+   "path": "anexa/ordin-anre-185-2019/anexa",
+   "short": "Anexa la Ordin anre nr. 185/2019",
+   "title": "Norma tehnică din 28 august 2019 privind cerințele tehnice de racordare la rețelele electrice de interes public pentru sistemele de înaltă tensiune în curent continuu și pentru centralele electrice formate din modulele generatoare care se racordează la rețelele electrice de interes public prin intermediul sistemelor de înaltă tensiune în curent continuu (anexa la Ordinul ANRE nr. 185/2019)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218316",
+   "versions": [
+    {
+     "from": "2019-09-08",
+     "units": 84,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218316",
+     "sha256": "b410bd3cd8ca889e16561797a14fb5f44d1bb2451dc47f812414107464d5d019"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-186-2019-anexa",
+   "path": "anexa/ordin-anre-186-2019/anexa",
+   "short": "Anexa la Ordin anre nr. 186/2019",
+   "title": "Procedură din 28 august 2019 privind acordarea derogărilor sistemelor de înaltă tensiune în curent continuu și centralelor electrice formate din module generatoare, care se racordează la rețelele electrice de interes public prin intermediul sistemelor de înaltă tensiune în curent continuu, de la obligația de îndeplinire a uneia sau mai multor cerințe prevăzute în norma tehnică de racordare (anexa la Ordinul ANRE nr. 186/2019)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217641",
+   "versions": [
+    {
+     "from": "2019-09-08",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217641",
+     "sha256": "cf951f905860591d3561a06607067ef1f62d610bda53303b780b73c240456aa9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-188-2019-anexa",
+   "path": "anexa/ordin-anre-188-2019/anexa",
+   "short": "Anexa la Ordin anre nr. 188/2019",
+   "title": "Regulament din 23 septembrie 2019 de emitere a avizelor tehnice privind eficiența energetică în cadrul Programului multianual de finanțare a investițiilor pentru modernizarea, reabilitarea, retehnologizarea și extinderea sau înființarea sistemelor de alimentare centralizată cu energie termică a localităților (anexa la Ordinul ANRE nr. 188/2019)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218466",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218466",
+     "sha256": "e364e1a24749d5dc30b33e48db26ded6d4634473fccec3521c997561872e0ad7"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-195-2019-anexa",
+   "path": "anexa/ordin-anre-195-2019/anexa",
+   "short": "Anexa la Ordin anre nr. 195/2019",
+   "title": "Metodologie din 9 octombrie 2019 de monitorizare a sistemului de promovare a producerii energiei electrice din surse regenerabile de energie (anexa la Ordinul ANRE nr. 195/2019)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218945",
+   "versions": [
+    {
+     "from": "2019-10-16",
+     "units": 79,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218945",
+     "sha256": "3d5094b734c219f22aedc117fb0a5849c97cbe15f70431c657a4923907ab103c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-216-2019-anexa",
+   "path": "anexa/ordin-anre-216-2019/anexa",
+   "short": "Anexa la Ordin anre nr. 216/2019",
+   "title": "Metodologie din 11 decembrie 2019 de stabilire a prețurilor pentru energia electrică vândută de producători pe bază de contracte reglementate și a cantităților maxime de energie electrică din contractele reglementate încheiate de producători cu furnizorii de ultimă instanță și de stabilire a cantităților maxime de energie electrică ce pot fi impuse ca obligații de vânzare pe bază de contracte reglementate (anexa la Ordinul ANRE nr. 216/2019)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221110",
+   "versions": [
+    {
+     "from": "2019-12-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221110",
+     "sha256": "a79e60ab629ae9f45f2cbc377de5284c5c1714236f9b476759bc40f0e9622b8b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-220-2019-anexa",
+   "path": "anexa/ordin-anre-220-2019/anexa",
+   "short": "Anexa la Ordin anre nr. 220/2019",
+   "title": "Procedură de notificare din 11 decembrie 2019 pentru racordarea la rețelele electrice de interes public a sistemelor de înaltă tensiune în curent continuu și a centralelor electrice formate din module generatoare, care se racordează la rețelele electrice de interes public prin intermediul sistemelor de înaltă tensiune în curent continuu și de verificare a conformității acestora (anexa la Ordinul ANRE nr. 220/2019)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222381",
+   "versions": [
+    {
+     "from": "2020-01-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222381",
+     "sha256": "b4ad3d18407de56b23f522fe2fb2388fffea8d66eecccfdf7b339eddd86d029b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-239-2019-anexa",
+   "path": "anexa/ordin-anre-239-2019/anexa",
+   "short": "Anexa la Ordin anre nr. 239/2019",
+   "title": "Normă tehnică din 20 decembrie 2019 privind delimitarea zonelor de protecție și de siguranță aferente capacităților energetice (anexa la Ordinul ANRE nr. 239/2019)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222694",
+   "versions": [
+    {
+     "from": "2020-04-20",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222694",
+     "sha256": "c263f29f1eef33dd75c7da648e8be9bea45ac466e2330f116e1bd1e7786ef8dc"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-41-2019-anexa",
+   "path": "anexa/ordin-anre-41-2019/anexa",
+   "short": "Anexa la Ordin anre nr. 41/2019",
+   "title": "Metodologie din 15 martie 2019 de stabilire a tarifelor reglementate pentru serviciile de transport al gazelor naturale (anexa la Ordinul ANRE nr. 41/2019)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211887",
+   "versions": [
+    {
+     "from": "2019-03-18",
+     "units": 91,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211887",
+     "sha256": "5e924e207c38bb321da9a61c9b82d9c71c2665f4495f7f5839733a44d6bb8fba"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anrm-204-2019-anexa-1",
+   "path": "anexa/ordin-anrm-204-2019/anexa-1",
+   "short": "Anexa nr. 1 la Ordin anrm nr. 204/2019",
+   "title": "Metodologie din 17 aprilie 2019 de stabilire a prețului de referință pentru țițeiurile extrase în România (anexa nr. 1 la Ordinul ANRM nr. 204/2019)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213802",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213802",
+     "sha256": "91c5ace56b925e3b366498cc7d3f6c8589efcace99c389c138927d5d79dfebd3"
     }
    ]
   },
@@ -449,6 +734,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212405",
      "sha256": "c596795203bde81add210e6eaa317f406139c51925c43872c62a8d3faaa02859"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4338-2019-anexa",
+   "path": "anexa/ordin-educatie-4338-2019/anexa",
+   "short": "Anexa la Ordin educatie nr. 4338/2019",
+   "title": "Metodologie din 26 iunie 2019 de monitorizare specială a Universității \"Tibiscus\" din Timișoara (anexa la Ordinul EDUCATIE nr. 4338/2019)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215620",
+   "versions": [
+    {
+     "from": "2019-07-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215620",
+     "sha256": "8ad1224a616538a90672e28a7610dafe92e95a47ef35e0ecab3a49ea059456ed"
     }
    ]
   },
@@ -734,6 +1034,21 @@
      "units": 41,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212968",
      "sha256": "99d2b30ed937c9f877968f156210c0cf8b765fe5ddf00ac906b060a9ab40f4a0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-393-2019-anexa",
+   "path": "anexa/ordin-mediu-393-2019/anexa",
+   "short": "Anexa la Ordin mediu nr. 393/2019",
+   "title": "Instrucțiuni din 20 februarie 2019 de organizare și funcționare a comisiilor de avizare a documentațiilor de evaluare a stării de siguranță în exploatare a digurilor de apărare împotriva inundațiilor, NTLH - 074 (anexa la Ordinul MEDIU nr. 393/2019)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211236",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211236",
+     "sha256": "ae3e84b31ffc8fc668fe62706f8ed66e9fc387dd0b23dc6b6ed4c0d39ab3f8da"
     }
    ]
   },

@@ -1,0 +1,273 @@
+{
+"country": "RO",
+"shard": "local/alba/ocna-mures/2018",
+"acts": [
+{
+"slug": "hcl-alba--ocna-mures-1-2018",
+"path": "local/alba/ocna-mures/2018/1",
+"kind": "local",
+"year": "2018",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 1/2018 privind utilizarea excedentului bugetar al UAT orașul Ocna Mureș pe anul 2017, in anul 2018 | 25.04.2018",
+"short": "HCL Ocna Mureș nr. 1/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-09",
+"latest": "2018-01-09",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2018/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-2-2018",
+"path": "local/alba/ocna-mures/2018/2",
+"kind": "local",
+"year": "2018",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 2/2018 privind alocarea sumei de 91290 lei la capitolul 68.02.50 ‚’’Asistenta sociala’’, pentru continuarea sustenabilitatii proiectului ’’Centrul educational Egalitate de Sanse’’,conform anexei, care face parte integranta din prezenta | 25.04.2018",
+"short": "HCL Ocna Mureș nr. 2/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-09",
+"latest": "2018-01-09",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2018/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-3-2018",
+"path": "local/alba/ocna-mures/2018/3",
+"kind": "local",
+"year": "2018",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 3/2018 privind apartamentarea imobilului proprietate privată a UAT orașul Ocna Mureș, situat în Ocna Mureș, str",
+"short": "HCL Ocna Mureș nr. 3/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2018/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-4-2018",
+"path": "local/alba/ocna-mures/2018/4",
+"kind": "local",
+"year": "2018",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 4/2018",
+"short": "HCL Ocna Mureș nr. 4/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": null,
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-5-2018",
+"path": "local/alba/ocna-mures/2018/5",
+"kind": "local",
+"year": "2018",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 5/2018 privind încetarea contractului de închiriere nr 9030/03.07.2014, începând cu data de 20.01.2018, ca urmare a decesului titularului contractului de închiriere | 25.04.2018",
+"short": "HCL Ocna Mureș nr. 5/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2018/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-6-2018",
+"path": "local/alba/ocna-mures/2018/6",
+"kind": "local",
+"year": "2018",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 6/2018",
+"short": "HCL Ocna Mureș nr. 6/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": null,
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-7-2018",
+"path": "local/alba/ocna-mures/2018/7",
+"kind": "local",
+"year": "2018",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 7/2018 privind încetarea contractului de închiriere nr. 3596/17.03.2014, începând cu data de 17.02.2018 prin denunțarea unilaterală de către chiriaș | 25.04.2018",
+"short": "HCL Ocna Mureș nr. 7/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2018/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-8-2018",
+"path": "local/alba/ocna-mures/2018/8",
+"kind": "local",
+"year": "2018",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 8/2018 privind încetarea contractului de închiriere nr. 284/09.01.2013, începând cu data de 06.01.2018, prin expirarea termenului prevăzut în contract | 25.04.2018",
+"short": "HCL Ocna Mureș nr. 8/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2018/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-9-2018",
+"path": "local/alba/ocna-mures/2018/9",
+"kind": "local",
+"year": "2018",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 9/2018 privind prelungirea termenului contractual, pe o perioadă de 12 luni de la data expirării termenelor contractuale pentru chiriașii din bl. 7AB-73-ANL, str",
+"short": "HCL Ocna Mureș nr. 9/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2018/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-10-2018",
+"path": "local/alba/ocna-mures/2018/10",
+"kind": "local",
+"year": "2018",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 10/2018 privind aprobarea propunerii de evaluare a performanțelor profesionale individuale ale secretarului Orașului Ocna Mureș pentru anul 2017 | 25.04.2018",
+"short": "HCL Ocna Mureș nr. 10/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2018/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-11-2018",
+"path": "local/alba/ocna-mures/2018/11",
+"kind": "local",
+"year": "2018",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 11/2018 privind aprobarea Contului Trimestrial de Execuţie pentru trimestrul IV 2017 – Oraș Ocna Mureș și Unitatea Medico Socială din Ocna Mureș | 25.04.2018",
+"short": "HCL Ocna Mureș nr. 11/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2018/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-12-2018",
+"path": "local/alba/ocna-mures/2018/12",
+"kind": "local",
+"year": "2018",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 12/2018",
+"short": "HCL Ocna Mureș nr. 12/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": null,
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

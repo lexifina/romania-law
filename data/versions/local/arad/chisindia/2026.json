@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--chisindia-16-2026",
+   "path": "local/arad/chisindia/2026/16",
+   "short": "HCL Chisindia nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 16/2026",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/263042",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/263042",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--chisindia-17-2026",
    "path": "local/arad/chisindia/2026/17",
    "short": "HCL Chisindia nr. 17/2026",
@@ -178,6 +193,21 @@
      "from": "2026-05-18",
      "units": 1,
      "source_url": "https://emol.ro/chisindia-ar/registru-hcl/272864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-21-2026",
+   "path": "local/arad/chisindia/2026/21",
+   "short": "HCL Chisindia nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 21/2026",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/272865",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/272865",
      "sha256": null
     }
    ]
@@ -283,6 +313,21 @@
      "from": "2026-05-18",
      "units": 1,
      "source_url": "https://emol.ro/chisindia-ar/registru-hcl/272872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-29-2026",
+   "path": "local/arad/chisindia/2026/29",
+   "short": "HCL Chisindia nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 29/2026 privind acordul de principiu pentru cumpararea unui imobil în centrul localitatii CHISINDIA, JUDEȚUL ARAD",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/272873",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/272873",
      "sha256": null
     }
    ]
@@ -403,6 +448,21 @@
      "from": "2026-06-25",
      "units": 1,
      "source_url": "https://emol.ro/chisindia-ar/registru-hcl/276746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-37-2026",
+   "path": "local/arad/chisindia/2026/37",
+   "short": "HCL Chisindia nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 37/2026 privind aprobarea prețului de vâzare la licitație a materialului lemnos din Partida exploatată 230 Hurez și a prețului de vânzare la licitație a materialului lemnos din Partida 236 - Câmpu Oarsa",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/276747",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/276747",
      "sha256": null
     }
    ]
@@ -603,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--chisindia-5-2026",
+   "path": "local/arad/chisindia/2026/5",
+   "short": "HCL Chisindia nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 5/2026 privind aprobarea volumului, destinației și a modului de valorificare a masei lemnoase ce urmează a se recolta în anul 2026 din fondul forestier proprietate publică UAT Chisindia, aprobarea prețului de vânzare către populație a lemnului de foc destinat încălzirii locuinței",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/250743",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/250743",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--chisindia-50-2026",
    "path": "local/arad/chisindia/2026/50",
    "short": "HCL Chisindia nr. 50/2026",
@@ -718,6 +793,36 @@
      "from": "2026-09-30",
      "units": 1,
      "source_url": "https://emol.ro/chisindia-ar/registru-hcl/291957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-58-2026",
+   "path": "local/arad/chisindia/2026/58",
+   "short": "HCL Chisindia nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 58/2026 privind desemnarea unui reprezentant și a unui membru supleant, din partea Consiliului Local în Comisia de evaluare a probei de interviu pentru concursul de ocupare a funcției de director al Școlii Gimnaziale Chisindia",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/291958",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/291958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-59-2026",
+   "path": "local/arad/chisindia/2026/59",
+   "short": "HCL Chisindia nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 59/2026 privind desemnarea reprezentantului Consiliului Local Chisindia în Consiliul de administrație al Scolii Gimnaziale Chisindia în anul școlar 2026-2027",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/291959",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/291959",
      "sha256": null
     }
    ]

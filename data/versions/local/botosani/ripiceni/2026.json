@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/ripiceni/2026",
+ "acts": [
+  {
+   "slug": "hcl-botosani--ripiceni-13-2026",
+   "path": "local/botosani/ripiceni/2026/13",
+   "short": "HCL Ripiceni nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 13/2026",
+   "url": "https://www.ripicenibt.ro/index.php/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2026/hot_13.pdf",
+     "sha256": "6cb2bf35a41ae30a649f412f48237acdd70d6595cb45095e77363c3546e87076"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-14-2026",
+   "path": "local/botosani/ripiceni/2026/14",
+   "short": "HCL Ripiceni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 14/2026",
+   "url": "https://www.ripicenibt.ro/index.php/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2026/hot_14.pdf",
+     "sha256": "4810fac81eac20653f6d2cd5398f75a8600cc3e456bd350e46bf2d4f80cb9c49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-15-2026",
+   "path": "local/botosani/ripiceni/2026/15",
+   "short": "HCL Ripiceni nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 15/2026",
+   "url": "https://www.ripicenibt.ro/index.php/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2026/hot_15.pdf",
+     "sha256": "43eca74041703664f59f36ce2e631e73515f6e807251cbd4b007169aa2dbd86b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-16-2026",
+   "path": "local/botosani/ripiceni/2026/16",
+   "short": "HCL Ripiceni nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 16/2026",
+   "url": "https://www.ripicenibt.ro/index.php/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2026/hot_16.pdf",
+     "sha256": "6a093174e64b9ca6d1a843c1d8f3b2b069b165d4f1bcf753df0c404ef8761e1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-17-2026",
+   "path": "local/botosani/ripiceni/2026/17",
+   "short": "HCL Ripiceni nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 17/2026",
+   "url": "https://www.ripicenibt.ro/index.php/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2026/hot_17.pdf",
+     "sha256": "3b11dcbf2193554f93735ef3c6aa7c0fdba2f2b6b42c58c0e60951cb06eef58e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-18-2026",
+   "path": "local/botosani/ripiceni/2026/18",
+   "short": "HCL Ripiceni nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 18/2026",
+   "url": "https://www.ripicenibt.ro/index.php/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2026/hot_18.pdf",
+     "sha256": "327196d98d2da315c14af4b642b5704a0c8d6c14cec4d2b96cd20d6a0104b30f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-19-2026",
+   "path": "local/botosani/ripiceni/2026/19",
+   "short": "HCL Ripiceni nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 19/2026",
+   "url": "https://www.ripicenibt.ro/index.php/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2026/hot_19.pdf",
+     "sha256": "b784547271c38b5b5e7c74559d5ce046143db7af3bffa8fe2790c0af6db365ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-20-2026",
+   "path": "local/botosani/ripiceni/2026/20",
+   "short": "HCL Ripiceni nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 20/2026",
+   "url": "https://www.ripicenibt.ro/index.php/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2026/hot_20.pdf",
+     "sha256": "94df3ab51e1b3e10fdea410f0b06e910fe7d953b5fa94724bbf937d81aac8e20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-21-2026",
+   "path": "local/botosani/ripiceni/2026/21",
+   "short": "HCL Ripiceni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 21/2026 Privind aprobarea Strategiei anuale de achiziții publice și a Planului Anual de Achizitii Publice pentru anul 2026 la nivelul Comunei Ripiceni, județul Botoșani Consiliul Local al Comunei Ripiceni, întrunit în ședința ordinară în data de 15.06.2026; Având în vedere: – Referatul de aprobare al Primarului Comunei Ripiceni; – Raportul compartimentului de resort din cadrul aparatului de specialitate a",
+   "url": "https://www.ripicenibt.ro/index.php/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2026/HCL%20nr.%2021%2015.06.2026.pdf",
+     "sha256": "09ed8d3cd83683d92d61736a455da19cf18d0f6437c50b6a1f40bca9bb78f722"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-22-2026",
+   "path": "local/botosani/ripiceni/2026/22",
+   "short": "HCL Ripiceni nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 22/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2026/HCL%20nr.%2022%2015.06.2026.pdf",
+     "sha256": "72b129f45fec086750c9613ebb392df62fa4103b725355fdfefc4969ac90e95c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-23-2026",
+   "path": "local/botosani/ripiceni/2026/23",
+   "short": "HCL Ripiceni nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 23/2026 privind înregistrarea Unității Administrativ-Teritoriale Comuna Ripiceni în Sistemul Național Electronic de Plată Online – SNEP, în vederea încasării online a impozitelor, taxelor și altor obligații de plată datorate bugetului local Consiliul Local al comunei Ripiceni, județul Botoșani, Având în vedere: • Referatul de aprobare al Primarului comunei Ripiceni nr. 5164 /13.07.2026, prin care se propu",
+   "url": "https://www.ripicenibt.ro/index.php/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2026/HCL%20nr.%2023%2028.07.2026.pdf",
+     "sha256": "d53300ffc6753968ac3b604665c1a02c160a95d8ae8dbf1d237d2dcb6fe51c25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-24-2026",
+   "path": "local/botosani/ripiceni/2026/24",
+   "short": "HCL Ripiceni nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 24/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2026/HCL%20nr.%2024%2028.07.2026.pdf",
+     "sha256": "bf7793ba28f6c1975333a3b2031440e639f57ff93f2f7c3dd11a15b344817792"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-25-2026",
+   "path": "local/botosani/ripiceni/2026/25",
+   "short": "HCL Ripiceni nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 25/2026 pentru lunile august, septembrie și octombrie 2026 Consiliul Local al comunei Ripiceni, județul Botoșani întrunit în ședință ordinară în data de 28.07.2026, la care participă un număr de 15 consilieri locali din totalul de 15 consilieri aleși în funcție; Analizând referatul de aprobare la proiectul de hotărâre cu privire la alegerea președintelui de ședință pentru lunile august, septembrie și octo",
+   "url": "https://www.ripicenibt.ro/index.php/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2026/HCL%20nr.%2025%2028.07.2026.pdf",
+     "sha256": "2c31528f64ad778d9858c928c877bebb8187d5e53c5711b05ced3b0cdda4f577"
+    }
+   ]
+  }
+ ]
+}

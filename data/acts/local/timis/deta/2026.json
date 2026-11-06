@@ -1,0 +1,204 @@
+{
+"country": "RO",
+"shard": "local/timis/deta/2026",
+"acts": [
+{
+"slug": "hcl-timis--deta-105-2026",
+"path": "local/timis/deta/2026/105",
+"kind": "local",
+"year": "2026",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 105/2026 privind aprobarea relocării elevilor din cadrul Liceului Tehnologic ″Sfântul Nicolae″ Deta pe durata implementării proiectelor de investiții la clădirile în care se desfășoară procesul educațional",
+"short": "HCL Deta nr. 105/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-09",
+"latest": "2026-09-09",
+"portal": "https://emol.ro/deta-tm/registru-hcl/284304",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--deta-114-2026",
+"path": "local/timis/deta/2026/114",
+"kind": "local",
+"year": "2026",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 114/2026 privind aprobarea aderării Orașului Deta la Asociația de Dezvoltare Intercomunitară Transport Județean „TRANSTIMIȘ”",
+"short": "HCL Deta nr. 114/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-16",
+"latest": "2026-09-16",
+"portal": "https://emol.ro/deta-tm/registru-hcl/286151",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--deta-119-2026",
+"path": "local/timis/deta/2026/119",
+"kind": "local",
+"year": "2026",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 119/2026 privind aprobarea documentației tehnico-economice (faza - SF), a indicatorilor tehnico-economici și a devizului general ai obiectivului de investiții: ,,REALIZAREA UNUI SISTEM DE STOCARE A ENERGIEI ELECTRICE PRODUSE DIN SURSE REGENERABILE DE TIP SOLAR PENTRU CLĂDIRI PUBLICE ȘI ILUMINAT PUBLIC ORAȘ DETA, JUDEȚUL TIMIȘ”",
+"short": "HCL Deta nr. 119/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://emol.ro/deta-tm/registru-hcl/289454",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--deta-120-2026",
+"path": "local/timis/deta/2026/120",
+"kind": "local",
+"year": "2026",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 120/2026 privind aprobarea proiectului, a depunerii cererii de finanțare și a finanțării cheltuielilor care nu sunt acoperite de ajutorul public nerambursabil pentru proiectul „REALIZAREA UNUI SISTEM DE STOCARE A ENERGIEI ELECTRICE PRODUSE DIN SURSE REGENERABILE DE TIP SOLAR PENTRU CLĂDIRI PUBLICE ȘI ILUMINAT PUBLIC ORAȘ DETA, JUDEȚUL TIMIȘ”",
+"short": "HCL Deta nr. 120/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://emol.ro/deta-tm/registru-hcl/289455",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--deta-121-2026",
+"path": "local/timis/deta/2026/121",
+"kind": "local",
+"year": "2026",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 121/2026 privind aprobarea Programului multianual de sterilizare gratuită a câinilor aparținând rasei comune și metișii acestora, aflați în proprietatea locuitorilor Orașului Deta",
+"short": "HCL Deta nr. 121/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://emol.ro/deta-tm/registru-hcl/290376",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--deta-123-2026",
+"path": "local/timis/deta/2026/123",
+"kind": "local",
+"year": "2026",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 123/2026 privind aprobarea finalizării și închiderii proiectului ,,Extindere rețea canalizare menajeră în Opatița, județul Timiș,, - cod proiect C1I100122000225, finanțat în cadrul Planului național de Redresare și Reziliență prin apelul nr. PNRR/2022/C1/I1, precum și asigurarea sustenabilității investiției",
+"short": "HCL Deta nr. 123/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://emol.ro/deta-tm/registru-hcl/290378",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--deta-128-2026",
+"path": "local/timis/deta/2026/128",
+"kind": "local",
+"year": "2026",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 128/2026 privind abrogarea Hotărârii Consiliului Local al Orașului Deta nr. 63/26.05.2026 privind utilizarea excedentului bugetar al anilor precedenți, pentru acoperirea temporară a golurilor de casă și ca sursă de finanțare a secțiunii de dezvoltare, pentru Spital orășenesc Deta și aprobarea unei noi repartizări a excedentului bugetar 2025",
+"short": "HCL Deta nr. 128/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://emol.ro/deta-tm/registru-hcl/290383",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--deta-129-2026",
+"path": "local/timis/deta/2026/129",
+"kind": "local",
+"year": "2026",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 129/2026 privind rectificarea bugetului de venituri şi cheltuieli pe anul 2026",
+"short": "HCL Deta nr. 129/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://emol.ro/deta-tm/registru-hcl/290384",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--deta-140-2026",
+"path": "local/timis/deta/2026/140",
+"kind": "local",
+"year": "2026",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Deta nr. 140/2026 privind aprobarea listelor de priorităţi pentru repartizarea locuinţelor din fondul locativ de stat și a locuințelor sociale sau din proprietatea privată a orașului Deta, pentru anul 2027",
+"short": "HCL Deta nr. 140/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-27",
+"latest": "2026-10-27",
+"portal": "https://emol.ro/deta-tm/registru-hcl/294880",
+"council": "timis/deta",
+"council_name": "Consiliul Local al Orașului Deta",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

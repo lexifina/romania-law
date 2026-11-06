@@ -3,6 +3,96 @@
  "shard": "anexa/2001",
  "acts": [
   {
+   "slug": "anexa-decizie-anrgn-100-2001-anexa",
+   "path": "anexa/decizie-anrgn-100-2001/anexa",
+   "short": "Anexa la Decizia anrgn nr. 100/2001",
+   "title": "Regulament din 16 mai 2001 privind organizarea și funcționarea corpului auditorilor de terță parte din sectorul gazelor naturale (anexa la Decizia ANRGN nr. 100/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28685",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28685",
+     "sha256": "e131dac94fef1e40a7653a570cee3be15c56a0094d1b2f7aca6c97907e3f4c40"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anrgn-51-2001-anexa",
+   "path": "anexa/decizie-anrgn-51-2001/anexa",
+   "short": "Anexa la Decizia anrgn nr. 51/2001",
+   "title": "Instrucțiuni din 17 ianuarie 2001 privind regimul eliberării documentelor (anexa la Decizia ANRGN nr. 51/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26779",
+   "versions": [
+    {
+     "from": "2001-02-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26779",
+     "sha256": "4bd6afeb89b8bb8b2a42ec9184daf7aae5361f85644539c5c4fd37aac46f054b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anrgn-533-2001-anexa",
+   "path": "anexa/decizie-anrgn-533-2001/anexa",
+   "short": "Anexa la Decizia anrgn nr. 533/2001",
+   "title": "Contract-cadru din 15 octombrie 2001 de distribuție a gazelor naturale (anexa la Decizia ANRGN nr. 533/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31987",
+   "versions": [
+    {
+     "from": "2001-11-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31987",
+     "sha256": "6bd160f5f3f452354e4ad62942624a0e554d2cad8fc0e99f2fb43f9368af809b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anrgn-78-2001-anexa",
+   "path": "anexa/decizie-anrgn-78-2001/anexa",
+   "short": "Anexa la Decizia anrgn nr. 78/2001",
+   "title": "Standard de performanță din 15 martie 2001 pentru serviciul de furnizare a gazelor naturale realizat de operatorii de distribuție (anexa la Decizia ANRGN nr. 78/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60247",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60247",
+     "sha256": "2b53a9fa150001e3e04cc216a410f2a30a0c91dc18df74ac14ce08d2db003a4f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anrgn-79-2001-anexa",
+   "path": "anexa/decizie-anrgn-79-2001/anexa",
+   "short": "Anexa la Decizia anrgn nr. 79/2001",
+   "title": "Criterii și metode din 15 martie 2001 pentru stabilirea prețurilor și a tarifelor reglementate în sectorul gazelor naturale (anexa la Decizia ANRGN nr. 79/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27985",
+   "versions": [
+    {
+     "from": "2001-04-20",
+     "units": 65,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27985",
+     "sha256": "d1793cae1ba6179bd51c69b4c1ecd5c5771fd41d1653538cdfda1ea30a01836b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anrgn-946-2001-anexa",
+   "path": "anexa/decizie-anrgn-946-2001/anexa",
+   "short": "Anexa la Decizia anrgn nr. 946/2001",
+   "title": "Regulament din 18 decembrie 2001 pentru acreditarea consumatorilor eligibili de gaze naturale (anexa la Decizia ANRGN nr. 946/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33141",
+   "versions": [
+    {
+     "from": "2002-01-09",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33141",
+     "sha256": "0e67ccf206eff112e5befcad09ba8cde90a6fc2cc4c642eaaa0c0ee22c9cf0a6"
+    }
+   ]
+  },
+  {
    "slug": "anexa-decizie-finante-633-2001-anexa",
    "path": "anexa/decizie-finante-633-2001/anexa",
    "short": "Anexa la Decizia finante nr. 633/2001",
@@ -183,6 +273,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-1205-2001-anexa",
+   "path": "anexa/hg-1205-2001/anexa",
+   "short": "Anexa la HG nr. 1205/2001",
+   "title": "Metodologie din 27 noiembrie 2001 de funcționare a comisiei pentru protecția copilului (anexa la Hotărârea Guvernului nr. 1205/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32527",
+   "versions": [
+    {
+     "from": "2001-12-04",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32527",
+     "sha256": "f596e9ba162cf4589ed9f521882b42e9fcf19d70f4ad551e9f92e7ce899ac16a"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-1206-2001-anexa",
    "path": "anexa/hg-1206-2001/anexa",
    "short": "Anexa la HG nr. 1206/2001",
@@ -239,6 +344,21 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33476",
      "sha256": "6029f0b764f9c00515d45613c715fbb2e51711595830ecb93c2e4dada9f8d754"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1364-2001-anexa",
+   "path": "anexa/hg-1364-2001/anexa",
+   "short": "Anexa la HG nr. 1364/2001",
+   "title": "Norme metodologice din 27 decembrie 2001 de aplicare a Ordonanței Guvernului nr. 20/1994 *) privind măsuri pentru reducerea riscului seismic al construcțiilor existente, republicată (anexa la Hotărârea Guvernului nr. 1364/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33969",
+   "versions": [
+    {
+     "from": "2002-02-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33969",
+     "sha256": "c5888bd2e51583ac2561ec2e68b8cb2a41ef6a10b75e71b79db519828efeaaa1"
     }
    ]
   },
@@ -828,6 +948,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-982-2001-anexa",
+   "path": "anexa/hg-982-2001/anexa",
+   "short": "Anexa la HG nr. 982/2001",
+   "title": "Regulament din 4 octombrie 2001 privind organizarea licitațiilor pentru valorificarea bunurilor scoase din funcțiune, aflate în administrarea Serviciului de Protecție și Paza (anexa la Hotărârea Guvernului nr. 982/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31348",
+   "versions": [
+    {
+     "from": "2001-11-18",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31348",
+     "sha256": "e325b968dd3371299d8fe5b5a7cd8cd26dbd3a2d69a214b417befb6c280c81e1"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hotarare-rechizitii-482-2001-anexa",
    "path": "anexa/hotarare-rechizitii-482-2001/anexa",
    "short": "Anexa la Hotărârea rechizitii nr. 482/2001",
@@ -1263,6 +1398,36 @@
    ]
   },
   {
+   "slug": "anexa-ordin-anre-17-2001-anexa",
+   "path": "anexa/ordin-anre-17-2001/anexa",
+   "short": "Anexa la Ordin anre nr. 17/2001",
+   "title": "Metodologie din 25 iulie 2001 de stabilire a prețului pentru apa de adaos în sistemele de alimentare centralizata cu energie termica (anexa la Ordinul ANRE nr. 17/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32247",
+   "versions": [
+    {
+     "from": "2001-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32247",
+     "sha256": "87482b14c6c98ada37902645b9ec82a772f6fcfb61e372e35b5621ca529e3516"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anrgn-538-2001-anexa",
+   "path": "anexa/ordin-anrgn-538-2001/anexa",
+   "short": "Anexa la Ordin anrgn nr. 538/2001",
+   "title": "Procedura din 15 octombrie 2001 pentru raportarea datelor privind consumatorii de gaze naturale, în conformitate cu Directiva CE 90/377 (anexa la Ordinul ANRGN nr. 538/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31983",
+   "versions": [
+    {
+     "from": "2001-11-02",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31983",
+     "sha256": "5e79db9e752046f84c5a6a398a58e2761af0d604f96105b5db45d866a29bde0a"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-anrm-151-2001-anexa",
    "path": "anexa/ordin-anrm-151-2001/anexa",
    "short": "Anexa la Ordin anrm nr. 151/2001",
@@ -1274,6 +1439,21 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33035",
      "sha256": "f6c11ef067f9f4a1fa9c11207f776abbdaa66c7e1a0da37426d64f0b831e261a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anrm-38-2001-anexa",
+   "path": "anexa/ordin-anrm-38-2001/anexa",
+   "short": "Anexa la Ordin anrm nr. 38/2001",
+   "title": "Metodologie din 16 martie 2001 de atestare a competentei tehnice a persoanelor juridice care întocmesc documentații și/sau executa lucrări de cercetare geologica, lucrări de exploatare a petrolului și a resurselor minerale și de expertizare, precum și a persoanelor fizice care întocmesc documentații și/sau executa lucrări de cercetare geologica și de expertizare (anexa la Ordinul ANRM nr. 38/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28986",
+   "versions": [
+    {
+     "from": "2001-06-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28986",
+     "sha256": "8b929e0b3fafef974345eb65e92d379218def13035c5c7f503d93a49043085dc"
     }
    ]
   },
@@ -1409,6 +1589,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28658",
      "sha256": "2edbd50b00bf0d59d454943c320c66b08d5e0537e3153e03f511e14564e1638b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dezvoltare-5120-2001-anexa",
+   "path": "anexa/ordin-dezvoltare-5120-2001/anexa",
+   "short": "Anexa la Ordin dezvoltare nr. 5120/2001",
+   "title": "Regulament din 10 noiembrie 2001 privind conținutul documentațiilor referitoare la scoaterea terenurilor din circuitul agricol, necesare amplasării obiectivelor de investiții (anexa la Ordinul DEZVOLTARE nr. 5120/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32745",
+   "versions": [
+    {
+     "from": "2001-12-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32745",
+     "sha256": "0de631a7dec307da89d8ca62b1fc816cd2066128bc8a2bf2f0fa8f625dfc16a8"
     }
    ]
   },
@@ -1683,6 +1878,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-finante-2293-2001-anexa",
+   "path": "anexa/ordin-finante-2293-2001/anexa",
+   "short": "Anexa la Ordin finante nr. 2293/2001",
+   "title": "Norme metodologice din 10 decembrie 2001 privind scutirea de la plata obligațiilor bugetare aferente minelor și carierelor închise, aflate în conservare, potrivit prevederilor Ordonanței de urgență a Guvernului nr. 156/2001 (anexa la Ordinul FINANTE nr. 2293/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32911",
+   "versions": [
+    {
+     "from": "2001-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32911",
+     "sha256": "7957d06018dca01c98ba925f6433db3237059c2eff170665d63ba5cbf7978d15"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-finante-2329-2001-anexa",
    "path": "anexa/ordin-finante-2329-2001/anexa",
    "short": "Anexa la Ordin finante nr. 2329/2001",
@@ -1844,6 +2054,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28820",
      "sha256": "96785f105432fef653e27b7a7847286c2f5aaebe2bfba2a0f370b5943a53d111"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-647-2001-anexa",
+   "path": "anexa/ordin-mediu-647-2001/anexa",
+   "short": "Anexa la Ordin mediu nr. 647/2001",
+   "title": "Procedura de autorizare din 6 iulie 2001 a activităților de recoltare, capturare și/sau de achiziție și comercializare pe piața internă sau la export a plantelor și animalelor din flora și fauna sălbatică, precum și a importului acestora (anexa la Ordinul MEDIU nr. 647/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29851",
+   "versions": [
+    {
+     "from": "2001-07-26",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29851",
+     "sha256": "85e1a1fd67567bf04e8ad4c26d158be76d74f77601612df56585becb8fe425d7"
     }
    ]
   },
@@ -2054,6 +2279,21 @@
      "units": 29,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31076",
      "sha256": "9d05f1cb14c17d0cb685c9bb89c18a6ec845c5859e62680db2a0f076ef5bb8ac"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-761-2001-anexa",
+   "path": "anexa/ordin-sanatate-761-2001/anexa",
+   "short": "Anexa la Ordin sanatate nr. 761/2001",
+   "title": "Metodologie din 30 octombrie 2001 privind examenul medical la angajarea în munca, examenul medical de adaptare, controlul medical periodic și examenul medical la reluarea muncii (anexa la Ordinul SANATATE nr. 761/2001)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33110",
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33110",
+     "sha256": "71f02257ce31b002713ff996582e2b2aa3d71f4e9f3bd48f0ee00a62ca7ab33b"
     }
    ]
   },

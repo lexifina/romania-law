@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/tarnova/2024",
+ "acts": [
+  {
+   "slug": "hcl-arad--tarnova-18-2024",
+   "path": "local/arad/tarnova/2024/18",
+   "short": "HCL Târnova nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Târnova nr. 18/2024",
+   "url": "https://tarnova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://tarnova.ro/wp-content/uploads/2026/08/Hotarare-18-din-28.03.2024-1.pdf",
+     "sha256": "7cedf7587301ae2857d7b842e0c817fd23895b1fa0cf57dde5b364633513b29d"
+    }
+   ]
+  }
+ ]
+}

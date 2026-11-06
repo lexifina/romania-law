@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bistrita-nasaud/budacu-de-jos/2025",
+"acts": [
+{
+"slug": "hcl-bistrita-nasaud--budacu-de-jos-1-2025",
+"path": "local/bistrita-nasaud/budacu-de-jos/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Budacu de Jos nr. 1/2025 privind aprobarea închirierii, prin licitație publică, a pajiștilor permanente aparținând comunei Budacu de Jos, județul Bistrița-Năsăud",
+"short": "HCL Budacu de Jos nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://www.budacudejos.ro/registru_hcl25.html",
+"council": "bistrita-nasaud/budacu-de-jos",
+"council_name": "Consiliul Local al Comunei Budacu de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

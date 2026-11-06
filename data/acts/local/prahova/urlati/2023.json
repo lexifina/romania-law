@@ -47,6 +47,72 @@
 }
 },
 {
+"slug": "hcl-prahova--urlati-92-2023",
+"path": "local/prahova/urlati/2023/92",
+"kind": "local",
+"year": "2023",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 92/2023 privind rectificarea bugetului general al unităţii administrativ-teritoriale pe anul 2023 prin utilizarea sumei de 115, 00 mii lei din fondul de rezervă bugetară",
+"short": "HCL Urlați nr. 92/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-13",
+"latest": "2023-09-13",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/119827",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--urlati-93-2023",
+"path": "local/prahova/urlati/2023/93",
+"kind": "local",
+"year": "2023",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 93/2023 privind rectificarea bugetului general al unităţii administrativ-teritoriale pe anul 2023 prin utilizarea sumei de 350,00 mii lei din fondul de rezervă bugetară",
+"short": "HCL Urlați nr. 93/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-22",
+"latest": "2023-09-22",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/120828",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--urlati-95-2023",
+"path": "local/prahova/urlati/2023/95",
+"kind": "local",
+"year": "2023",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 95/2023 privind aprobarea Planului Urbanistic Zonal ,, Extindere intravilan (S = 24 087 mp) zonă locuințe și funcțiuni complementare, zonă spații verzi și zonă căi de comunicații și schimbare parțială destinație din zonă locuințe în zonă spații verzi pentru amplasare locuințe și modificare trama stradală (S.studiat = 35 651 mp),” situat în judeţul Prahova, orașul Urlați, str. Valea Bobului, De 2037, De 2041, De 2052, nr. cadastrale 22216, 22217, tarlaua 37, parcela A 2050, nr. cadastral 22851, tarlaua 37, parcela V 2050, nr. cadastrale 25897, 25898, tarlaua 37, parcela V 2024",
+"short": "HCL Urlați nr. 95/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/122948",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-prahova--urlati-101-2023",
 "path": "local/prahova/urlati/2023/101",
 "kind": "local",

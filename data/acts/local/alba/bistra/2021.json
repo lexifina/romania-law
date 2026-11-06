@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/alba/bistra/2021",
+"acts": [
+{
+"slug": "hcl-alba--bistra-19-2021",
+"path": "local/alba/bistra/2021/19",
+"kind": "local",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bistra nr. 19/2021 privind aprobarea Regulamentului de organizare și funcționare a Consiliului local . al comunei Bistra",
+"short": "HCL Bistra nr. 19/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-12",
+"latest": "2021-04-12",
+"portal": "https://bistra.ro/despre-institutie/consiliul-local/regulament-de-ordine-si-functionare-al-consiliului-local/",
+"council": "alba/bistra",
+"council_name": "Consiliul Local al Comunei Bistra",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

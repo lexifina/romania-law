@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/carpinet/2022",
+ "acts": [
+  {
+   "slug": "hcl-bihor--carpinet-115-2022",
+   "path": "local/bihor/carpinet/2022/115",
+   "short": "HCL Cărpinet nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpinet nr. 115/2022",
+   "url": "http://www.primaria-carpinet.ro/hotararile-autoritatii-deliberative.php",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "http://www.primaria-carpinet.ro/media/monitor_oficial/1672219622_Hcl_nr._115_din_19.12.2022_.pdf",
+     "sha256": "edd881a7488cbb7ac833f0e6e9bfb0fe167651a8d4619f5ab4c1a6ad6faf8fc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--carpinet-40-2022",
+   "path": "local/bihor/carpinet/2022/40",
+   "short": "HCL Cărpinet nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpinet nr. 40/2022",
+   "url": "http://www.primaria-carpinet.ro/hotararile-autoritatii-deliberative.php",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "http://www.primaria-carpinet.ro/media/monitor_oficial/1656056484_Hcl_nr._40_din_19.04.2022.pdf",
+     "sha256": "2c646d8bf503eb7e166e4f1691811d9413d5d7f4a7aa3529548c6145e5f2b070"
+    }
+   ]
+  }
+ ]
+}

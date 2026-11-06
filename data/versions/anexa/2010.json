@@ -3,6 +3,636 @@
  "shard": "anexa/2010",
  "acts": [
   {
+   "slug": "anexa-decizie-aspaas-17-2010-anexa",
+   "path": "anexa/decizie-aspaas-17-2010/anexa",
+   "short": "Anexa la Decizia aspaas nr. 17/2010",
+   "title": "Regulament din 9 decembrie 2010 privind limitarea răspunderii civile a auditorilor statutari și a firmelor de audit (anexa la Decizia ASPAAS nr. 17/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126759",
+   "versions": [
+    {
+     "from": "2011-03-14",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126759",
+     "sha256": "7faa42e73d3813d33a34c3623704aa7a951e013fae3bbd898dc9e56b30734309"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-imm-125-2010-anexa",
+   "path": "anexa/decizie-imm-125-2010/anexa",
+   "short": "Anexa la Decizia imm nr. 125/2010",
+   "title": "Procedură din 21 mai 2010 de implementare a Programului național multianual pe perioada 2002-2012 de înființare și dezvoltare de incubatoare tehnologice și de afaceri (anexa la Decizia IMM nr. 125/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119443",
+   "versions": [
+    {
+     "from": "2010-06-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119443",
+     "sha256": "7d6c487ca77d71ce8c76706c4dbbc92aaacbc84ff9dc15501f50b3e99aee14ee"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1013-2010-anexa",
+   "path": "anexa/hg-1013-2010/anexa",
+   "short": "Anexa la HG nr. 1013/2010",
+   "title": "Regulament din 6 octombrie 2010 de organizare și funcționare a Centrului de Investigații și Analiză pentru Siguranța Aviației Civile (anexa la Hotărârea Guvernului nr. 1013/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123092",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123092",
+     "sha256": "3454410537248fb7aa1155f35eb787e515c2249b5d8aa0806726c27e2e7ba20e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1134-2010-anexa",
+   "path": "anexa/hg-1134-2010/anexa",
+   "short": "Anexa la HG nr. 1134/2010",
+   "title": "Regulament din 10 noiembrie 2010 de aplicare a Legii nr. 84/1998 privind mărcile și indicațiile geografice (anexa la Hotărârea Guvernului nr. 1134/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124132",
+   "versions": [
+    {
+     "from": "2010-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124132",
+     "sha256": "cc04926ef05df0944f29ddaed83d87946ad510abbc9306bfea0af26d123eb6b0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-117-2010-anexa",
+   "path": "anexa/hg-117-2010/anexa",
+   "short": "Anexa la HG nr. 117/2010",
+   "title": "Regulament din 17 februarie 2010 de investigare a accidentelor și a incidentelor, de dezvoltare și îmbunătățire a siguranței feroviare pe căile ferate și pe rețeaua de transport cu metroul din România (anexa la Hotărârea Guvernului nr. 117/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116694",
+   "versions": [
+    {
+     "from": "2010-05-01",
+     "units": 96,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116694",
+     "sha256": "3eb84780984437955e99bbca8fd8d8feb3d51d3016e74abf5de67e2dcf5d8bc0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-118-2010-anexa",
+   "path": "anexa/hg-118-2010/anexa",
+   "short": "Anexa la HG nr. 118/2010",
+   "title": "Metodologie din 17 februarie 2010 de achiziționare prin cumpărare, schimb sau donație de către stat, prin Regia Națională a Pădurilor - Romsilva și ceilalți administratori, a terenurilor ce pot fi incluse în fondul forestier proprietate publică a statului (anexa la Hotărârea Guvernului nr. 118/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116664",
+   "versions": [
+    {
+     "from": "2010-03-01",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116664",
+     "sha256": "e8bcd13c8265ed6f82112741be6dd385a0c855b195738d2a0806848fcb337c28"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1239-2010-anexa-1",
+   "path": "anexa/hg-1239-2010/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 1239/2010",
+   "title": "Norme metodologice din 8 decembrie 2010 de aplicare a Legii parteneriatului public-privat nr. 178/2010 (anexa nr. 1 la Hotărârea Guvernului nr. 1239/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124381",
+   "versions": [
+    {
+     "from": "2010-12-13",
+     "units": 116,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124381",
+     "sha256": "e7dedf21714d6a0102185d34408c7f8d0da9d4dfe0debc426416169dde70239d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1332-2010-anexa",
+   "path": "anexa/hg-1332-2010/anexa",
+   "short": "Anexa la HG nr. 1332/2010",
+   "title": "Regulament-cadru din 23 decembrie 2010 de organizare și funcționare a poliției locale (anexa la Hotărârea Guvernului nr. 1332/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124819",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 77,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124819",
+     "sha256": "38d3fa5b5b4f46bb2f12ea479ca9fe9661c7de0c5d07c1f9c63c2ad5eb73743d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-187-2010-anexa-2",
+   "path": "anexa/hg-187-2010/anexa-2",
+   "short": "Anexa nr. 2 la HG nr. 187/2010",
+   "title": "Regulament din 9 martie 2010 pentru desfășurarea activității Grupului de lucru coordonator pentru elaborarea strategiei fiscal-bugetare pentru perioada 2011-2013 (anexa nr. 2 la Hotărârea Guvernului nr. 187/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117057",
+   "versions": [
+    {
+     "from": "2010-03-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117057",
+     "sha256": "d4ec9f06e67b545c624bc84d009b82877197fd127f5e7706ea906ecc7541fcf4"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-493-2010-anexa-1",
+   "path": "anexa/hg-493-2010/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 493/2010",
+   "title": "Regulamentul de organizare și funcționare din 19 mai 2010 a Consiliului Infrastructurii naționale pentru informații spațiale în România (anexa nr. 1 la Hotărârea Guvernului nr. 493/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119553",
+   "versions": [
+    {
+     "from": "2010-06-15",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119553",
+     "sha256": "0695d65ac39342ba46efde1165cc1e2a15f99ee632486e27ead76749e89689a2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-497-2010-anexa",
+   "path": "anexa/hg-497-2010/anexa",
+   "short": "Anexa la HG nr. 497/2010",
+   "title": "Regulament din 26 mai 2010 de organizare și desfășurare a concursului și a examenului pentru ocuparea posturilor vacante și temporar vacante, precum și stabilirea criteriilor de evaluare a performanțelor profesionale individuale la promovare prin examen a personalului contractual din sistemul sanitar (anexa la Hotărârea Guvernului nr. 497/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119773",
+   "versions": [
+    {
+     "from": "2010-06-23",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119773",
+     "sha256": "2020b6174087f0cbbad621167b5a56ff9bf14bfd1b6457d65b41ce993405f181"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-723-2010-anexa",
+   "path": "anexa/hg-723-2010/anexa",
+   "short": "Anexa la HG nr. 723/2010",
+   "title": "Norme metodologice din 14 iulie 2010 de aplicare a Ordonanței de urgență a Guvernului nr. 196/2008 privind înființarea activității de derulare și gestionare a proiectelor de înfrățire instituțională finanțate de Uniunea Europeană, pentru care România are calitate de donator de asistență tehnică (anexa la Hotărârea Guvernului nr. 723/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121411",
+   "versions": [
+    {
+     "from": "2010-08-12",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121411",
+     "sha256": "bda95d7270093c3f710e8aab0266d657a7b74a42e3c79e93758f1ddcb72e316f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-736-2010-anexa",
+   "path": "anexa/hg-736-2010/anexa",
+   "short": "Anexa la HG nr. 736/2010",
+   "title": "Norme din 21 iulie 2010 de aplicare a Ordonanței de urgență a Guvernului nr. 69/2010 privind reabilitarea termică a clădirilor de locuit cu finanțare prin credite bancare cu garanție guvernamentală (anexa la Hotărârea Guvernului nr. 736/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121104",
+   "versions": [
+    {
+     "from": "2010-08-02",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121104",
+     "sha256": "efafa3164de97762eb34053d888c219f81110f83223f74ab609752ae56d89737"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-763-2010-anexa-1",
+   "path": "anexa/hg-763-2010/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 763/2010",
+   "title": "Regulament din 21 iulie 2010 privind organizarea și desfășurarea concursului sau examenului pentru ocuparea posturilor vacante sau temporar vacante corespunzătoare funcțiilor contractuale din aparatul propriu al Ministerului Culturii și Patrimoniului Național, precum și din cadrul unităților care funcționează în subordinea ori în coordonarea acestuia (anexa nr. 1 la Hotărârea Guvernului nr. 763/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121664",
+   "versions": [
+    {
+     "from": "2010-08-23",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121664",
+     "sha256": "a0d4051a7298faa8a45fd456377f114c194f80070569e9b9dd7481851ae9fc80"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-763-2010-anexa-2",
+   "path": "anexa/hg-763-2010/anexa-2",
+   "short": "Anexa nr. 2 la HG nr. 763/2010",
+   "title": "Regulament din 21 iulie 2010 privind evaluarea performanțelor profesionale individuale, promovarea și avansarea personalului contractual din aparatul propriu al Ministerului Culturii și Patrimoniului Național, precum și din cadrul unităților care funcționează în subordinea ori în coordonarea acestuia (anexa nr. 2 la Hotărârea Guvernului nr. 763/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121665",
+   "versions": [
+    {
+     "from": "2010-08-23",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121665",
+     "sha256": "aa751faa6a63f6055d153c03c3bb5c14b0d812a46971cbaf482837d7af5d0667"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-769-2010-anexa",
+   "path": "anexa/hg-769-2010/anexa",
+   "short": "Anexa la HG nr. 769/2010",
+   "title": "Norme metodologice din 28 iulie 2010 de aplicare a Legii viei și vinului în sistemul organizării comune a pieței vitivinicole nr. 244/2002 (anexa la Hotărârea Guvernului nr. 769/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121696",
+   "versions": [
+    {
+     "from": "2010-08-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121696",
+     "sha256": "210158f2f6ff8dbdbfda3b77b2451e114190c91a225f17cfe7510e6c8c98c64a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-791-2010-anexa-2",
+   "path": "anexa/hg-791-2010/anexa-2",
+   "short": "Anexa nr. 2 la HG nr. 791/2010",
+   "title": "Norme metodologice din 2 august 2010 de aplicare a prevederilor art. III din Ordonanța de urgență a Guvernului nr. 58/2010 pentru modificarea și completarea Legii nr. 571/2003 privind Codul fiscal și alte măsuri financiar-fiscale (anexa nr. 2 la Hotărârea Guvernului nr. 791/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121171",
+   "versions": [
+    {
+     "from": "2010-08-03",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121171",
+     "sha256": "dec4ae32d547a93db5baf73c234fff35d7f0b4b4ea8524d2c8bad1d4929b8713"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-cifga-112-2010-anexa",
+   "path": "anexa/hotarare-cifga-112-2010/anexa",
+   "short": "Anexa la Hotărârea cifga nr. 112/2010",
+   "title": "Normă din 2 septembrie 2010 privind instituirea unei scheme de ajutor de stat destinate facilitării accesului la finanțare în actuala perioadă de criză economică și financiară, constând în garanții acordate IMM-urilor și întreprinderilor mari (NI-GAR-09-II/0) (anexa la Hotărârea CIFGA nr. 112/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122254",
+   "versions": [
+    {
+     "from": "2010-09-20",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122254",
+     "sha256": "9a0561fa3f8e9a2fbb3da1212bb77cbecbb25788afef6cabfea1734799a8f28f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-cifga-167-2010-anexa",
+   "path": "anexa/hotarare-cifga-167-2010/anexa",
+   "short": "Anexa la Hotărârea cifga nr. 167/2010",
+   "title": "Normă din 23 decembrie 2010 privind finanțarea cu dobândă subvenționată a operatorilor economici (NI-FIN-06-V/0) (anexa la Hotărârea CIFGA nr. 167/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125463",
+   "versions": [
+    {
+     "from": "2011-01-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125463",
+     "sha256": "f7f778c539488e93adf580c633c980254b583e9644a5bfa46325bb0a6fcec2b3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-cifga-168-2010-anexa",
+   "path": "anexa/hotarare-cifga-168-2010/anexa",
+   "short": "Anexa la Hotărârea cifga nr. 168/2010",
+   "title": "Normă din 23 decembrie 2010 pentru finanțarea proiectelor prioritare, în numele și în contul statului (NI-FIN-07-III/0) (anexa la Hotărârea CIFGA nr. 168/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125465",
+   "versions": [
+    {
+     "from": "2011-01-21",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125465",
+     "sha256": "1881f43fe8ae9625c4f473ed233707af950f994519cf8406719fa84a61834628"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-cifga-60-2010-anexa",
+   "path": "anexa/hotarare-cifga-60-2010/anexa",
+   "short": "Anexa la Hotărârea cifga nr. 60/2010",
+   "title": "Norma din 20 mai 2010 \"Garanții EximBank în numele și în contul statului\" (NI-GAR-10-I/0) (anexa la Hotărârea CIFGA nr. 60/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119192",
+   "versions": [
+    {
+     "from": "2010-06-02",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119192",
+     "sha256": "fa9c35f5df184ec6f609938b27927f496ab5849ae234de6e92fe16a4356ffdd9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-126-2010-anexa",
+   "path": "anexa/ordin-agricultura-126-2010/anexa",
+   "short": "Anexa la Ordin agricultura nr. 126/2010",
+   "title": "Proceduri specifice din 26 mai 2010 de implementare și control, precum și formularistica necesară privind acordarea ajutorului de stat pentru motorina utilizată în agricultură (anexa la Ordinul AGRICULTURA nr. 126/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119101",
+   "versions": [
+    {
+     "from": "2010-05-28",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119101",
+     "sha256": "c91c7e4e33d07b87c13e6e3327499764b465eb8943b4bb7a96854d8938a83de4"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-16-2010-anexa",
+   "path": "anexa/ordin-agricultura-16-2010/anexa",
+   "short": "Anexa la Ordin agricultura nr. 16/2010",
+   "title": "Norme metodologice din 26 ianuarie 2010 de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 74/2009 privind gestionarea fondurilor comunitare nerambursabile provenite din Fondul european de garantare agricolă, Fondul european agricol de dezvoltare rurală și Fondul european pentru pescuit și a fondurilor alocate de la bugetul de stat, privind gestionarea fondurilor nerambursabile alocate de la Comunitatea Europeană și a fondurilor alocate de la bugetul de stat aferente programului de colectare și gestionare a datelor necesare desfășurării politicii comune în domeniul pescuitului și a programului de control, inspecție și supraveghere în domeniul pescuitului și pentru modificarea art. 10 din Legea nr. 218/2005 privind stimularea absorbției fondurilor SAPARD, Fondul european agricol pentru dezvoltare rurală, Fondul european pentru pescuit, Fondul european de garantare agricolă, prin preluarea riscului de creditare de către fondurile de garantare (anexa la Ordinul AGRICULTURA nr. 16/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115891",
+   "versions": [
+    {
+     "from": "2010-02-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115891",
+     "sha256": "cf56b70681db411b13d8a6e98bc6e93342819313ac16d5823892be0e209b61b9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-172-2010-anexa",
+   "path": "anexa/ordin-agricultura-172-2010/anexa",
+   "short": "Anexa la Ordin agricultura nr. 172/2010",
+   "title": "Norme din 29 iulie 2010 privind practicarea activității de pescuit pentru consumul familial în Rezervația Biosferei Delta Dunării (anexa la Ordinul AGRICULTURA nr. 172/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121850",
+   "versions": [
+    {
+     "from": "2010-08-30",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121850",
+     "sha256": "7103881dff788bb535913377ffc72c730c9826c3279b01896bcfb6b52e1fd4f8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-216-2010-anexa",
+   "path": "anexa/ordin-agricultura-216-2010/anexa",
+   "short": "Anexa la Ordin agricultura nr. 216/2010",
+   "title": "Norme metodologice din 28 septembrie 2010 de aplicare a Ordonanței Guvernului nr. 24/2010 privind controlul operațiunilor care fac parte din sistemul de finanțare prin Fondul European de Garantare Agricolă (FEGA) (anexa la Ordinul AGRICULTURA nr. 216/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126314",
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 66,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126314",
+     "sha256": "a7d02d1d1ce808a0988a3a358d8ce6682fa225d0d849810e1229ce93228c705a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-218-2010-anexa",
+   "path": "anexa/ordin-agricultura-218-2010/anexa",
+   "short": "Anexa la Ordin agricultura nr. 218/2010",
+   "title": "Norme tehnice din 29 septembrie 2010 pentru desfășurarea activității Inspecției de stat în zootehnie (anexa la Ordinul AGRICULTURA nr. 218/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122585",
+   "versions": [
+    {
+     "from": "2010-10-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122585",
+     "sha256": "4d9a4e67cc0a32b3b31c1ef855c219adaef03a5905b56e920cdbbeac4713fd4d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-7-2010-anexa",
+   "path": "anexa/ordin-agricultura-7-2010/anexa",
+   "short": "Anexa la Ordin agricultura nr. 7/2010",
+   "title": "Norme din 15 ianuarie 2010 privind accesul la resursele acvatice vii din domeniul public al statului în vederea practicării pescuitului comercial în habitatele piscicole naturale (anexa la Ordinul AGRICULTURA nr. 7/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115674",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115674",
+     "sha256": "d053123b64b4cefda1789078a7152daee3b98acf17e52d2c46d829e4fd1f9e84"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-84-2010-anexa",
+   "path": "anexa/ordin-agricultura-84-2010/anexa",
+   "short": "Anexa la Ordin agricultura nr. 84/2010",
+   "title": "Metodologie din 6 aprilie 2010 de aplicare a evaluării impactului asupra mediului pentru proiecte publice și private (anexa la Ordinul AGRICULTURA nr. 84/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118253",
+   "versions": [
+    {
+     "from": "2010-04-27",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118253",
+     "sha256": "cb0ec68bf92900ea0e4d35e3eafbdefc46562ec7ed3354c00699a3b65bfd4108"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-1468-2010-anexa",
+   "path": "anexa/ordin-anaf-1468-2010/anexa",
+   "short": "Anexa la Ordin anaf nr. 1468/2010",
+   "title": "Regulament din 12 februarie 2010 de organizare și funcționare a Gărzii Financiare (anexa la Ordinul ANAF nr. 1468/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116334",
+   "versions": [
+    {
+     "from": "2010-02-19",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116334",
+     "sha256": "79294a29ef0ed505e545d0d557f2eb893f8001d85d7843de545f7e911a4ef2b3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-1786-2010-anexa-1",
+   "path": "anexa/ordin-anaf-1786-2010/anexa-1",
+   "short": "Anexa nr. 1 la Ordin anaf nr. 1786/2010",
+   "title": "Procedură din 28 aprilie 2010 de modificare, din oficiu, a vectorului fiscal cu privire la TVA (anexa nr. 1 la Ordinul ANAF nr. 1786/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118454",
+   "versions": [
+    {
+     "from": "2010-05-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118454",
+     "sha256": "f002ca0d2e62b18a4d9473244357f23f6bdf8a8546e0530ebf93fe73a2d6cc78"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-6504-2010-anexa",
+   "path": "anexa/ordin-anaf-6504-2010/anexa",
+   "short": "Anexa la Ordin anaf nr. 6504/2010",
+   "title": "Norme din 8 iulie 2010 privind accesul operatorilor economici la Sistemul român de procesare a declarației vamale RCDPS (anexa la Ordinul ANAF nr. 6504/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120660",
+   "versions": [
+    {
+     "from": "2010-08-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120660",
+     "sha256": "0cec4f2e6a7ce75c893f90f14f937da67992b04ce11ebb238f07eb1cce10f488"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-ancpi-108-2010-anexa",
+   "path": "anexa/ordin-ancpi-108-2010/anexa",
+   "short": "Anexa la Ordin ancpi nr. 108/2010",
+   "title": "Regulament din 29 martie 2010 de avizare, verificare și recepție a lucrărilor de specialitate din domeniul cadastrului, al geodeziei, al topografiei, al fotogrammetriei și al cartografiei (anexa la Ordinul ANCPI nr. 108/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117796",
+   "versions": [
+    {
+     "from": "2010-04-09",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117796",
+     "sha256": "1d5642af6ae716c5918d760a3256c6f55c89aeeeeea512cc73bf3297259aafaa"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-17-2010-anexa",
+   "path": "anexa/ordin-anre-17-2010/anexa",
+   "short": "Anexa la Ordin anre nr. 17/2010",
+   "title": "Metodologie din 24 iunie 2010 de stabilire a tarifelor reglementate practicate de operatorii piețelor centralizate din sectorul energiei electrice (anexa la Ordinul ANRE nr. 17/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120454",
+   "versions": [
+    {
+     "from": "2010-07-13",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120454",
+     "sha256": "034c01a29400cfe8e19871a6816ab9e29986dcaafecf2196683dd8adefdcba1f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-26-2010-anexa",
+   "path": "anexa/ordin-anre-26-2010/anexa",
+   "short": "Anexa la Ordin anre nr. 26/2010",
+   "title": "Procedură din 16 septembrie 2010 de avizare a proiectelor noi sau de retehnologizare ale centralelor de cogenerare (anexa la Ordinul ANRE nr. 26/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122612",
+   "versions": [
+    {
+     "from": "2010-10-07",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122612",
+     "sha256": "9892e9490d8d1f45280bfa4e2d92ebf121bd8ca3e30c7272a4734207dae82968"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-3-2010-anexa",
+   "path": "anexa/ordin-anre-3-2010/anexa",
+   "short": "Anexa la Ordin anre nr. 3/2010",
+   "title": "Metodologie din 21 ianuarie 2010 de stabilire și ajustare a prețurilor pentru energia electrică și termică produsă și livrată din centrale de cogenerare ce beneficiază de schema de sprijin, respectiv a bonusului pentru cogenerarea de înaltă eficiență (anexa la Ordinul ANRE nr. 3/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115832",
+   "versions": [
+    {
+     "from": "2010-02-04",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115832",
+     "sha256": "22335210654c931cf3e38a0d55a0f1133352366f6e8086990231b9989028b93d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-42-2010-anexa-1",
+   "path": "anexa/ordin-anre-42-2010/anexa-1",
+   "short": "Anexa nr. 1 la Ordin anre nr. 42/2010",
+   "title": "Regulament din 22 decembrie 2010 pentru autorizarea auditorilor energetici (anexa nr. 1 la Ordinul ANRE nr. 42/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125610",
+   "versions": [
+    {
+     "from": "2011-01-26",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125610",
+     "sha256": "e5d92bc9b2bb846ac789815fddbbed4de6cf00414ddbb96eaddd67b4897650ca"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-42-2010-anexa-2",
+   "path": "anexa/ordin-anre-42-2010/anexa-2",
+   "short": "Anexa nr. 2 la Ordin anre nr. 42/2010",
+   "title": "Regulament din 22 decembrie 2010 pentru atestarea managerilor energetici (anexa nr. 2 la Ordinul ANRE nr. 42/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125611",
+   "versions": [
+    {
+     "from": "2011-01-26",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125611",
+     "sha256": "b971a8bfe7a5d47a4f15931308a45e8578ce357556f935ca1a8fcce14a1fd671"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anrsc-343-2010-anexa",
+   "path": "anexa/ordin-anrsc-343-2010/anexa",
+   "short": "Anexa la Ordin anrsc nr. 343/2010",
+   "title": "Normă tehnică din 13 iulie 2010 privind repartizarea consumurilor de energie termică între consumatorii din imobilele de tip condominiu, în cazul folosirii sistemelor de repartizare a costurilor pentru încălzire și apă caldă de consum (anexa la Ordinul ANRSC nr. 343/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120770",
+   "versions": [
+    {
+     "from": "2010-07-20",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120770",
+     "sha256": "12e3531b0f40272ee4a65dcc093312628291dc99c5a8c41628e243f2f0d41aac"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-ansvsa-48-2010-anexa",
+   "path": "anexa/ordin-ansvsa-48-2010/anexa",
+   "short": "Anexa la Ordin ansvsa nr. 48/2010",
+   "title": "Normă din 26 mai 2010 sanitară veterinară și pentru siguranța alimentelor privind autorizarea laboratoarelor supuse controlului sanitar-veterinar și pentru siguranța alimentelor (anexa la Ordinul ANSVSA nr. 48/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119099",
+   "versions": [
+    {
+     "from": "2010-05-28",
+     "units": 120,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119099",
+     "sha256": "7c162f3f76d5d0bbb088b5a2ee227e6aca5fa54ae4aa91ff37112d1485674b3e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-ansvsa-57-2010-anexa",
+   "path": "anexa/ordin-ansvsa-57-2010/anexa",
+   "short": "Anexa la Ordin ansvsa nr. 57/2010",
+   "title": "Normă sanitară veterinară din 24 iunie 2010 privind procedura de autorizare sanitară veterinară a unităților care produc, procesează, depozitează, transportă și/sau distribuie produse de origine animală (anexa la Ordinul ANSVSA nr. 57/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120278",
+   "versions": [
+    {
+     "from": "2010-07-16",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120278",
+     "sha256": "e346bc1919fae7607ee958af17511c2f69697bc3131c9b27a72174ea6104034a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-39-2010-anexa",
+   "path": "anexa/ordin-aparare-39-2010/anexa",
+   "short": "Anexa la Ordin aparare nr. 39/2010",
+   "title": "Instrucțiuni din 8 aprilie 2010 de aplicare în Ministerul Apărării Naționale a prevederilor Legii nr. 384/2006 privind statutul soldaților și gradaților voluntari (anexa la Ordinul APARARE nr. 39/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118024",
+   "versions": [
+    {
+     "from": "2010-04-23",
+     "units": 96,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118024",
+     "sha256": "f3b62bdfe47cd331d3b6d6a9efcd85cb2b4a2c1fe1b18d48f985b2279801ff8c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-86-2010-anexa",
+   "path": "anexa/ordin-aparare-86-2010/anexa",
+   "short": "Anexa la Ordin aparare nr. 86/2010",
+   "title": "Regulament din 16 iulie 2010 privind organizarea și funcționarea Consiliului de Supraveghere a Cerințelor (anexa la Ordinul APARARE nr. 86/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120960",
+   "versions": [
+    {
+     "from": "2010-07-27",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120960",
+     "sha256": "c55a3cfe33408eefb50388f8b512429a8fed870c12b09246a19b91b0a152ff82"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-aparare-91-2010-anexa",
    "path": "anexa/ordin-aparare-91-2010/anexa",
    "short": "Anexa la Ordin aparare nr. 91/2010",
@@ -14,6 +644,1086 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299928",
      "sha256": "3058cd2a1f8b35429aa4662bb25fa05ee62aee063439dc0fef7ee150f972d5d2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cnas-460-2010-anexa",
+   "path": "anexa/ordin-cnas-460-2010/anexa",
+   "short": "Anexa la Ordin cnas nr. 460/2010",
+   "title": "Metodologie din 5 mai 2010 transmiterii rapoartelor aferente programelor/subprogramelor naționale de sănătate cu scop curativ (anexa la Ordinul CNAS nr. 460/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119196",
+   "versions": [
+    {
+     "from": "2010-06-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119196",
+     "sha256": "b38e33e4759a9cf1f9224e08268fc4b075cf5dee2f6e52582c646845880a44d9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-concurenta-387-2010-anexa",
+   "path": "anexa/ordin-concurenta-387-2010/anexa",
+   "short": "Anexa la Ordin concurenta nr. 387/2010",
+   "title": "Instrucțiuni din 5 august 2010 privind restricționările direct legate și necesare punerii în aplicare a concentrărilor economice (anexa la Ordinul CONCURENTA nr. 387/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121241",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121241",
+     "sha256": "5258da0f7f239439b959f891087b5a689dfd89d8f8776899cc491b28b7103671"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-concurenta-388-2010-anexa",
+   "path": "anexa/ordin-concurenta-388-2010/anexa",
+   "short": "Anexa la Ordin concurenta nr. 388/2010",
+   "title": "Instrucțiuni din 5 august 2010 privind definirea pieței relevante (anexa la Ordinul CONCURENTA nr. 388/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121246",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121246",
+     "sha256": "5b64612e6f14847bf5bbab1e0e97d20ebb9253ee476c9718b829cfa3dc6cd577"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-concurenta-499-2010-anexa",
+   "path": "anexa/ordin-concurenta-499-2010/anexa",
+   "short": "Anexa la Ordin concurenta nr. 499/2010",
+   "title": "Regulament din 5 octombrie 2010 privind analiza și soluționarea plângerilor referitoare la încălcarea prevederilor art. 5, 6 și 9 din Legea concurenței nr. 21/1996 și a prevederilor art. 101 și 102 din Tratatul privind funcționarea Uniunii Europene (anexa la Ordinul CONCURENTA nr. 499/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122700",
+   "versions": [
+    {
+     "from": "2010-10-12",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122700",
+     "sha256": "f96b85110828e744eaa8e05c4ff0571b2d70c4a981f3c8c55ca74828a1ea95f1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-concurenta-519-2010-anexa",
+   "path": "anexa/ordin-concurenta-519-2010/anexa",
+   "short": "Anexa la Ordin concurenta nr. 519/2010",
+   "title": "Regulament din 15 octombrie 2010 privind constatarea contravențiilor și aplicarea sancțiunilor de către Consiliul Concurenței (anexa la Ordinul CONCURENTA nr. 519/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122902",
+   "versions": [
+    {
+     "from": "2010-10-22",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122902",
+     "sha256": "e65b1d6bceba9c784b34a15790a737b2fc5bb3fdb96ea5795c6aa10dd906cb34"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cultura-2494-2010-anexa",
+   "path": "anexa/ordin-cultura-2494-2010/anexa",
+   "short": "Anexa la Ordin cultura nr. 2494/2010",
+   "title": "Metodologie din 26 august 2010 privind atestarea personalului de specialitate din domeniul cercetării arheologice și înscrierea sa în Registrul arheologilor (anexa la Ordinul CULTURA nr. 2494/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122038",
+   "versions": [
+    {
+     "from": "2010-09-08",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122038",
+     "sha256": "285771311f50527d5662a38da0ff264b972933539f60ba0fab40588dc0fae32c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dezvoltare-1204-2010-anexa-1",
+   "path": "anexa/ordin-dezvoltare-1204-2010/anexa-1",
+   "short": "Anexa nr. 1 la Ordin dezvoltare nr. 1204/2010",
+   "title": "Norme metodologice din 26 martie 2010 privind autorizarea plajelor în scop turistic (anexa nr. 1 la Ordinul DEZVOLTARE nr. 1204/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117888",
+   "versions": [
+    {
+     "from": "2010-04-14",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117888",
+     "sha256": "417e5d934d2c44afd7531025d5f3d4ed2b19af7448232409257cbee7c6888a82"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dezvoltare-1284-2010-anexa",
+   "path": "anexa/ordin-dezvoltare-1284-2010/anexa",
+   "short": "Anexa la Ordin dezvoltare nr. 1284/2010",
+   "title": "Metodologie din 14 aprilie 2010 de aplicare a evaluării impactului asupra mediului pentru proiecte publice și private (anexa la Ordinul DEZVOLTARE nr. 1284/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118255",
+   "versions": [
+    {
+     "from": "2010-04-27",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118255",
+     "sha256": "37e4bd5bf73490dc031fc2f7dc2b484ed35262ec6353899184bf0bb4ffd564bf"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dezvoltare-1564-2010-anexa",
+   "path": "anexa/ordin-dezvoltare-1564-2010/anexa",
+   "short": "Anexa la Ordin dezvoltare nr. 1564/2010",
+   "title": "Norme metodologice din 27 mai 2010 de aplicare a Hotărârii Guvernului nr. 577/1997 pentru aprobarea Programului privind reabilitarea, modernizarea și/sau asfaltarea drumurilor de interes județean și de interes local, alimentarea cu apă, canalizarea și epurarea apelor uzate la sate, precum și în unitățile administrativ-teritoriale cu resurse turistice (anexa la Ordinul DEZVOLTARE nr. 1564/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119235",
+   "versions": [
+    {
+     "from": "2010-06-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119235",
+     "sha256": "f8fbbe9ff25006c5cd1d07ea019d434308191ce322b91c1af9899d3e01a780bb"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dezvoltare-1866-2010-anexa",
+   "path": "anexa/ordin-dezvoltare-1866-2010/anexa",
+   "short": "Anexa la Ordin dezvoltare nr. 1866/2010",
+   "title": "Norme metodologice din 16 iulie 2010 privind criteriile și metodologia pentru eliberarea licenței și brevetului de turism (anexa la Ordinul DEZVOLTARE nr. 1866/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121179",
+   "versions": [
+    {
+     "from": "2010-08-04",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121179",
+     "sha256": "e8d5aacec9029b91c240463fa697648328a3db0891bbeb56638ebb31ca595f7d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dezvoltare-2237-2010-anexa",
+   "path": "anexa/ordin-dezvoltare-2237-2010/anexa",
+   "short": "Anexa la Ordin dezvoltare nr. 2237/2010",
+   "title": "Regulament din 30 septembrie 2010 privind atestarea auditorilor energetici pentru clădiri (anexa la Ordinul DEZVOLTARE nr. 2237/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122660",
+   "versions": [
+    {
+     "from": "2010-10-13",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122660",
+     "sha256": "e164237a87fac8cbd8cf13e9ead6e13d439604ffe744535b0045ffcc8a5450ac"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dezvoltare-2701-2010-anexa",
+   "path": "anexa/ordin-dezvoltare-2701-2010/anexa",
+   "short": "Anexa la Ordin dezvoltare nr. 2701/2010",
+   "title": "Metodologie din 30 decembrie 2010 de informare și consultare a publicului cu privire la elaborarea sau revizuirea planurilor de amenajare a teritoriului și de urbanism (anexa la Ordinul DEZVOLTARE nr. 2701/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125366",
+   "versions": [
+    {
+     "from": "2011-01-19",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125366",
+     "sha256": "47a76823cc4ce738c7e1a5e6516fdbec97a734fb21eac36635c83682ea318bba"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-391-2010-anexa",
+   "path": "anexa/ordin-economie-391-2010/anexa",
+   "short": "Anexa la Ordin economie nr. 391/2010",
+   "title": "Procedură din 4 martie 2010 de atestare tehnico-profesională a specialiștilor în activitatea de închidere și reconstrucție ecologică a minelor/carierelor (proiectarea și verificarea planurilor de închidere a obiectivelor miniere și a proiectelor tehnice de execuție a lucrărilor miniere, activitatea de execuție a lucrărilor de închidere de mine și activitatea de asistență tehnică - dirigenție de șantier pentru lucrări de închidere a minelor) (anexa la Ordinul ECONOMIE nr. 391/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117354",
+   "versions": [
+    {
+     "from": "2010-04-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117354",
+     "sha256": "041abe94f1b02e9214aaa1280c0082d487805f328ce1fe3ae6fd9dada79cb274"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3142-2010-anexa-2",
+   "path": "anexa/ordin-educatie-3142-2010/anexa-2",
+   "short": "Anexa nr. 2 la Ordin educatie nr. 3142/2010",
+   "title": "Metodologia din 4 februarie 2010 specială de organizare și desfășurare a examenului de bacalaureat - 2010, pentru absolvenții din promoțiile anterioare anului 2010 (anexa nr. 2 la Ordinul EDUCATIE nr. 3142/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116812",
+   "versions": [
+    {
+     "from": "2010-03-05",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116812",
+     "sha256": "069c37632a0ece614cd2a4cbac16c6952a7d18691d0e18287604393eccec8805"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4247-2010-anexa",
+   "path": "anexa/ordin-educatie-4247-2010/anexa",
+   "short": "Anexa la Ordin educatie nr. 4247/2010",
+   "title": "Regulament din 21 iunie 2010 de organizare și funcționare a Consiliului național al elevilor (anexa la Ordinul EDUCATIE nr. 4247/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120358",
+   "versions": [
+    {
+     "from": "2010-07-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120358",
+     "sha256": "5d529023c8b101286ee43a74cddc28ee58a0a7b59ae67c2a3bcc79d48432d880"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4713-2010-anexa-1",
+   "path": "anexa/ordin-educatie-4713-2010/anexa-1",
+   "short": "Anexa nr. 1 la Ordin educatie nr. 4713/2010",
+   "title": "Regulament din 23 august 2010 de organizare și funcționare a casei corpului didactic (anexa nr. 1 la Ordinul EDUCATIE nr. 4713/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122040",
+   "versions": [
+    {
+     "from": "2010-09-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122040",
+     "sha256": "d2ad6d314c78592751fbfb2a0f00f10dfedcaf840670c235d4c4f0776acbfc0d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4713-2010-anexa-2",
+   "path": "anexa/ordin-educatie-4713-2010/anexa-2",
+   "short": "Anexa nr. 2 la Ordin educatie nr. 4713/2010",
+   "title": "Metodologie din 23 august 2010 de încadrare a personalului didactic și didactic auxiliar în casele corpului didactic (anexa nr. 2 la Ordinul EDUCATIE nr. 4713/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122041",
+   "versions": [
+    {
+     "from": "2010-09-08",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122041",
+     "sha256": "ebb9ad83ad280af790c17b1ad8077beccbf195a75071d1a95a5f965ed19abd23"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5217-2010-anexa",
+   "path": "anexa/ordin-educatie-5217-2010/anexa",
+   "short": "Anexa la Ordin educatie nr. 5217/2010",
+   "title": "Metodologie din 9 septembrie 2010 de organizare și desfășurare a probelor specifice susținute de elevii secțiilor bilingve francofone în vederea obținerii mențiunii speciale \"secție bilingvă francofonă\" pe diploma de bacalaureat (anexa la Ordinul EDUCATIE nr. 5217/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123383",
+   "versions": [
+    {
+     "from": "2010-11-09",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123383",
+     "sha256": "39966a1ed70d85b02eb5a8d01a302bc0a4b6cec203151be69d40f6cd9230a050"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5385-2010-anexa",
+   "path": "anexa/ordin-educatie-5385-2010/anexa",
+   "short": "Anexa la Ordin educatie nr. 5385/2010",
+   "title": "Metodologie din 6 octombrie 2010 de organizare și desfășurare a concursului pentru ocuparea funcțiilor de director general și director general adjunct la bibliotecile centrale universitare și de director general la Biblioteca Pedagogică Națională \"I.C. Petrescu\" din București (anexa la Ordinul EDUCATIE nr. 5385/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123024",
+   "versions": [
+    {
+     "from": "2010-10-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123024",
+     "sha256": "4b7eb13d4f58bc000f0f4875690c20375bbf108cd3fee92b27c8428715bb07a0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1901-2010-anexa",
+   "path": "anexa/ordin-finante-1901-2010/anexa",
+   "short": "Anexa la Ordin finante nr. 1901/2010",
+   "title": "Norme metodologice din 28 iunie 2010 pentru aplicarea prevederilor art. 1-6 din Ordonanța de urgență a Guvernului nr. 51/2010 privind reglementarea unor măsuri pentru reducerea unor arierate din economie, precum și alte măsuri financiare (anexa la Ordinul FINANTE nr. 1901/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119986",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119986",
+     "sha256": "8f7204da5fbe7799cdb3cf3f3dd404b083c1ffc0deb4646f9b127769ef4e00e6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-197-2010-anexa",
+   "path": "anexa/ordin-finante-197-2010/anexa",
+   "short": "Anexa la Ordin finante nr. 197/2010",
+   "title": "Precizări din 8 februarie 2010 pentru efectuarea modificărilor în execuția bugetului de stat pe anul 2010, în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 115/2009 privind stabilirea unor măsuri de reorganizare în cadrul administrației publice centrale (anexa la Ordinul FINANTE nr. 197/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116197",
+   "versions": [
+    {
+     "from": "2010-02-12",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116197",
+     "sha256": "a571ec96466ae1b4d11a81dddca10ea762b3c8697bdd6d15226f10d9873a7f45"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1998-2010-anexa",
+   "path": "anexa/ordin-finante-1998-2010/anexa",
+   "short": "Anexa la Ordin finante nr. 1998/2010",
+   "title": "Norme tehnice din 16 iulie 2010 de completare a registrului agricol pentru perioada 2010-2014 (anexa la Ordinul FINANTE nr. 1998/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122270",
+   "versions": [
+    {
+     "from": "2010-09-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122270",
+     "sha256": "e111cfce78fc488db29469dacfe0a87c8fc255b459389d9beed889e4ca9b2c48"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-2289-2010-anexa-1",
+   "path": "anexa/ordin-finante-2289-2010/anexa-1",
+   "short": "Anexa nr. 1 la Ordin finante nr. 2289/2010",
+   "title": "Procedură din 13 septembrie 2010 de selectare a societăților profesionale civile de avocați din România sau din străinătate pentru acordarea de asistență juridică pentru Programul-cadru de emisiuni de titluri de stat pe termen mediu \"Medium Term Notes\" (anexa nr. 1 la Ordinul FINANTE nr. 2289/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122171",
+   "versions": [
+    {
+     "from": "2010-09-14",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122171",
+     "sha256": "86a91b2872b2bb2b5d170b786881a19afb3be918cc227f708f5489e84a55b130"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-2389-2010-anexa-1",
+   "path": "anexa/ordin-finante-2389-2010/anexa-1",
+   "short": "Anexa nr. 1 la Ordin finante nr. 2389/2010",
+   "title": "Procedură din 4 octombrie 2010 de valorificare, în regim de urgență, a bunurilor de consum alimentar și a materiilor prime necesare pentru prepararea acestor bunuri, cu grad ridicat de perisabilitate sau care, prin trecerea timpului, pierd din greutate ori din valoare, inclusiv animale, păsări vii sau plante, în cazul aplicării măsurilor asigurătorii și/sau executorii prevăzute de Ordonanța Guvernului nr. 92/2003 privind Codul de procedură fiscală (anexa nr. 1 la Ordinul FINANTE nr. 2389/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122658",
+   "versions": [
+    {
+     "from": "2010-10-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122658",
+     "sha256": "a3f0228bae32a8c1d4dfd166fcc5394cb4f79129d31b2c3c2b5714d2648a5ec1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-263-2010-anexa",
+   "path": "anexa/ordin-finante-263-2010/anexa",
+   "short": "Anexa la Ordin finante nr. 263/2010",
+   "title": "Procedura de soluționare din 22 februarie 2010 a deconturilor cu sume negative de taxă pe valoarea adăugată cu opțiune de rambursare (anexa la Ordinul FINANTE nr. 263/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116635",
+   "versions": [
+    {
+     "from": "2010-02-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116635",
+     "sha256": "4322fd3cadcce094c2a670cede85cab0284da0f3bbd52386d035b4041b7d8dbf"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-996-2010-anexa",
+   "path": "anexa/ordin-finante-996-2010/anexa",
+   "short": "Anexa la Ordin finante nr. 996/2010",
+   "title": "Norme metodologice din 21 aprilie 2010 de aplicare a prevederilor Ordonanței Guvernului nr. 24/2009 privind gestionarea financiară a fondurilor externe nerambursabile aferente Mecanismului financiar al Spațiului Economic European (anexa la Ordinul FINANTE nr. 996/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118330",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118330",
+     "sha256": "fcb932e1762858f3ec6fd50a46accdf0d690fa02defdbe9d268e6802bc2bec38"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-integritate-340-2010-anexa",
+   "path": "anexa/ordin-integritate-340-2010/anexa",
+   "short": "Anexa la Ordin integritate nr. 340/2010",
+   "title": "Regulament din 14 decembrie 2010 de organizare și funcționare al Agenției Naționale de Integritate (anexa la Ordinul INTEGRITATE nr. 340/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125294",
+   "versions": [
+    {
+     "from": "2011-01-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125294",
+     "sha256": "efc4b695d4532c3628c0c7b031b0f1eeda458831a782a64b63cd35a8f9ba057a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-104-2010-anexa",
+   "path": "anexa/ordin-interne-104-2010/anexa",
+   "short": "Anexa la Ordin interne nr. 104/2010",
+   "title": "Regulament din 22 aprilie 2010 privind organizarea și desfășurarea concursurilor pentru ocuparea posturilor vacante/temporar vacante corespunzătoare funcțiilor contractuale din Ministerul Administrației și Internelor (anexa la Ordinul INTERNE nr. 104/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118290",
+   "versions": [
+    {
+     "from": "2010-04-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118290",
+     "sha256": "b2381cc83e2f5a773a48b4c061beb15f35ec5fbce30c4c834fb0df5f835c2359"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-110-2010-anexa",
+   "path": "anexa/ordin-interne-110-2010/anexa",
+   "short": "Anexa la Ordin interne nr. 110/2010",
+   "title": "Instrucțiune din 12 mai 2010 privind planificarea, organizarea, desfășurarea și evaluarea pregătirii prin exerciții a personalului structurilor Ministerului Administrației și Internelor (anexa la Ordinul INTERNE nr. 110/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118742",
+   "versions": [
+    {
+     "from": "2010-05-14",
+     "units": 65,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118742",
+     "sha256": "363ad252cbfa43ecee7e4b775445311c78a3ec1446a8b954fae2f5b981e983fc"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-120-2010-anexa",
+   "path": "anexa/ordin-interne-120-2010/anexa",
+   "short": "Anexa la Ordin interne nr. 120/2010",
+   "title": "Regulament din 25 mai 2010 de ordine interioară în direcțiile generale/direcțiile aparatului central al Ministerului Administrației și Internelor (anexa la Ordinul INTERNE nr. 120/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119134",
+   "versions": [
+    {
+     "from": "2010-05-31",
+     "units": 96,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119134",
+     "sha256": "4b524b0c9f2559c6aa280613f02ba71cba27d390a8580a44806337ac0400ed4a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-150-2010-anexa",
+   "path": "anexa/ordin-interne-150-2010/anexa",
+   "short": "Anexa la Ordin interne nr. 150/2010",
+   "title": "Procedură de compensare din 5 iulie 2010 conform art. 8 din Ordonanța de urgență a Guvernului nr. 51/2010 privind reglementarea unor măsuri pentru reducerea unor arierate din economie, precum și alte măsuri financiare (anexa la Ordinul INTERNE nr. 150/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120463",
+   "versions": [
+    {
+     "from": "2010-07-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120463",
+     "sha256": "f85ebe607988759d5f02cf5f723865d6551f40a0928b33bcde2c0bbcccc99a4b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-153-2010-anexa",
+   "path": "anexa/ordin-interne-153-2010/anexa",
+   "short": "Anexa la Ordin interne nr. 153/2010",
+   "title": "Norme tehnice din 6 iulie 2010 de completare a registrului agricol pentru perioada 2010-2014 (anexa la Ordinul INTERNE nr. 153/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122271",
+   "versions": [
+    {
+     "from": "2010-09-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122271",
+     "sha256": "f7314b07ca3262e880680f18a718a1d1df1fb3beda2429d4f709496c41a21ec6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-225-2010-anexa",
+   "path": "anexa/ordin-interne-225-2010/anexa",
+   "short": "Anexa la Ordin interne nr. 225/2010",
+   "title": "Regulament din 8 octombrie 2010 de organizare și funcționare a Direcției generale pentru relațiile cu instituțiile prefectului (anexa la Ordinul INTERNE nr. 225/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122743",
+   "versions": [
+    {
+     "from": "2010-10-15",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122743",
+     "sha256": "8a78ece0d11d1aeba69b16dc757d2846e70aed56deb2d37fc4271e19fdd32e34"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-234-2010-anexa",
+   "path": "anexa/ordin-interne-234-2010/anexa",
+   "short": "Anexa la Ordin interne nr. 234/2010",
+   "title": "Procedură din 18 octombrie 2010 de determinare a riscului de arson (anexa la Ordinul INTERNE nr. 234/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123084",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123084",
+     "sha256": "39891a56364b8e656f2647a8a772060bd106fa8011173fd2afe7d9cb1c570fcc"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-275-2010-anexa",
+   "path": "anexa/ordin-interne-275-2010/anexa",
+   "short": "Anexa la Ordin interne nr. 275/2010",
+   "title": "Regulament din 20 decembrie 2010 de organizare și funcționare a Direcției Generale Anticorupție (anexa la Ordinul INTERNE nr. 275/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125176",
+   "versions": [
+    {
+     "from": "2011-01-11",
+     "units": 72,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125176",
+     "sha256": "d271bfb7ed7f28cbf9bca15f476562bc67e68d2b4662ab4bc00316ddb01c3254"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-279-2010-anexa",
+   "path": "anexa/ordin-interne-279-2010/anexa",
+   "short": "Anexa la Ordin interne nr. 279/2010",
+   "title": "Norme metodologice din 22 decembrie 2010 privind planificarea, pregătirea și intervenția în caz de urgență nucleară sau radiologică (anexa la Ordinul INTERNE nr. 279/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125212",
+   "versions": [
+    {
+     "from": "2011-02-11",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125212",
+     "sha256": "5c435589804efe96290491462995066fa9bd97664e42fecf4a20486cf35d7f6f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-76-2010-anexa",
+   "path": "anexa/ordin-interne-76-2010/anexa",
+   "short": "Anexa la Ordin interne nr. 76/2010",
+   "title": "Metodologie din 24 martie 2010 de aplicare a evaluării impactului asupra mediului pentru proiecte publice și private (anexa la Ordinul INTERNE nr. 76/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118254",
+   "versions": [
+    {
+     "from": "2010-04-27",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118254",
+     "sha256": "f03b674502803302c89a345acc76c4e4476b3dfc36ea04ff3a6abfd97adc08c1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-87-2010-anexa",
+   "path": "anexa/ordin-interne-87-2010/anexa",
+   "short": "Anexa la Ordin interne nr. 87/2010",
+   "title": "Metodologie din 6 aprilie 2010 de autorizare a persoanelor care efectuează lucrări în domeniul apărării împotriva incendiilor (anexa la Ordinul INTERNE nr. 87/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117900",
+   "versions": [
+    {
+     "from": "2010-04-14",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117900",
+     "sha256": "545f50bc9738cfa1e11a03ee2093aa5c0a7242a94e6456f7e0352baf210522e2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-94-2010-anexa",
+   "path": "anexa/ordin-interne-94-2010/anexa",
+   "short": "Anexa la Ordin interne nr. 94/2010",
+   "title": "Norme metodologice din 15 aprilie 2010 privind procedurile de planificare a resursei de aviație, cooperarea și accesul la bordul aeronavelor Ministerului Administrației și Internelor (anexa la Ordinul INTERNE nr. 94/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118065",
+   "versions": [
+    {
+     "from": "2010-04-20",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118065",
+     "sha256": "7964d57ac4de04158180dc65f9d12388ce498d7a4bdddd655ca56ce7b9098506"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-isc-153-2010-anexa",
+   "path": "anexa/ordin-isc-153-2010/anexa",
+   "short": "Anexa la Ordin isc nr. 153/2010",
+   "title": "Procedură din 11 martie 2010 privind evaluarea laboratoarelor de analiză și încercări în activitatea de construcții în vederea autorizării (anexa la Ordinul ISC nr. 153/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117357",
+   "versions": [
+    {
+     "from": "2010-03-24",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117357",
+     "sha256": "1ebe852924c2f1888dc841782c9b3bb212e7c7c9295c5cf8ea943ca7b77d4cc8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-justitie-3015-c-2010-anexa",
+   "path": "anexa/ordin-justitie-3015-c-2010/anexa",
+   "short": "Anexa la Ordin justitie nr. 3015/C/2010",
+   "title": "Instrucțiuni din 20 decembrie 2010 privind scoaterea din funcțiune/declasarea și casarea activelor fixe și a bunurilor materiale de natura obiectelor de inventar aflate în patrimoniul Administrației Naționale a Penitenciarelor și al unităților subordonate (anexa la Ordinul JUSTITIE nr. 3015/C/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125314",
+   "versions": [
+    {
+     "from": "2011-01-17",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125314",
+     "sha256": "999d067c871134e3a1341f352fe540db002f9eefcc65685319db840e59a9a5b6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-1181-2010-anexa",
+   "path": "anexa/ordin-mediu-1181-2010/anexa",
+   "short": "Anexa la Ordin mediu nr. 1181/2010",
+   "title": "Ghid de finanțare din 5 august 2010 a Programului vizând educația și conștientizarea publicului privind protecția mediului (anexa la Ordinul MEDIU nr. 1181/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121401",
+   "versions": [
+    {
+     "from": "2010-08-11",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121401",
+     "sha256": "ce343febd03b4346f131098ca7d27af306eaea7a9a2fc15a0131fb593f8911d7"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-135-2010-anexa",
+   "path": "anexa/ordin-mediu-135-2010/anexa",
+   "short": "Anexa la Ordin mediu nr. 135/2010",
+   "title": "Metodologie din 10 februarie 2010 de aplicare a evaluării impactului asupra mediului pentru proiecte publice și private (anexa la Ordinul MEDIU nr. 135/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118250",
+   "versions": [
+    {
+     "from": "2010-04-27",
+     "units": 94,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118250",
+     "sha256": "a4c650190b12a1cf616bca11f39a098589ea9c9bd7d31b23552fc7b3bb751313"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-1450-2010-anexa",
+   "path": "anexa/ordin-mediu-1450-2010/anexa",
+   "short": "Anexa la Ordin mediu nr. 1450/2010",
+   "title": "Ghid de finanțare din 10 septembrie 2010 a Programului vizând protecția resurselor de apă, sisteme integrate de alimentare cu apă, stații de tratare, canalizare și stații de epurare (anexa la Ordinul MEDIU nr. 1450/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122516",
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122516",
+     "sha256": "91f863ed18f0d76a3ee6a9cd6b5ab52db9c6ea47f6a411646f23946bfecf187b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-1741-2010-anexa",
+   "path": "anexa/ordin-mediu-1741-2010/anexa",
+   "short": "Anexa la Ordin mediu nr. 1741/2010",
+   "title": "Ghid de finanțare din 20 octombrie 2010 a Programului privind instalarea sistemelor de încălzire care utilizează energie regenerabilă, inclusiv înlocuirea sau completarea sistemelor clasice de încălzire - beneficiari unități administrativ-teritoriale, instituții publice și unități de cult (anexa la Ordinul MEDIU nr. 1741/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123255",
+   "versions": [
+    {
+     "from": "2010-11-03",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123255",
+     "sha256": "8b80bc9cf52da8dd701e4eeafce83a79c3e97b345e1c7cc23b1aa7bc24734d3d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-1775-2010-anexa",
+   "path": "anexa/ordin-mediu-1775-2010/anexa",
+   "short": "Anexa la Ordin mediu nr. 1775/2010",
+   "title": "Ghid de finanțare din 26 octombrie 2010 a Programului privind reducerea impactului asupra atmosferei, inclusiv monitorizarea calității aerului (anexa la Ordinul MEDIU nr. 1775/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123353",
+   "versions": [
+    {
+     "from": "2010-11-08",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123353",
+     "sha256": "318a1b691adf5e18bd4e1f5336a3d268eca95947998ab15bff6bc1617e3e979b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-2-2010-anexa",
+   "path": "anexa/ordin-mediu-2-2010/anexa",
+   "short": "Anexa la Ordin mediu nr. 2/2010",
+   "title": "Ghid de finanțare din 5 ianuarie 2010 a Programului de stimulare a înnoirii Parcului național de tractoare și mașini agricole autopropulsate (anexa la Ordinul MEDIU nr. 2/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115339",
+   "versions": [
+    {
+     "from": "2010-01-15",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115339",
+     "sha256": "1512631fabd94bbe39e691ebfae6f93094df6805fcddee36d24cbfff536562b3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-2210-2010-anexa-1",
+   "path": "anexa/ordin-mediu-2210-2010/anexa-1",
+   "short": "Anexa nr. 1 la Ordin mediu nr. 2210/2010",
+   "title": "Procedură din 8 decembrie 2010 de realizare a controlului produselor și echipamentelor care conțin anumite gaze fluorurate cu efect de seră și modalitățile de colaborare dintre autoritățile desemnate potrivit prevederilor Hotărârii Guvernului nr. 939/2010 privind unele măsuri pentru aplicarea prevederilor Regulamentului (CE) nr. 842/2006 al Parlamentului European și al Consiliului din 17 mai 2006 privind anumite gaze fluorurate cu efect de seră (anexa nr. 1 la Ordinul MEDIU nr. 2210/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125809",
+   "versions": [
+    {
+     "from": "2011-02-03",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125809",
+     "sha256": "4a8a39359e6bf923bc7d339826d2aa8c3eb1ea6caee49e0dd209f4105e17a53f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-460-2010-anexa-1",
+   "path": "anexa/ordin-mediu-460-2010/anexa-1",
+   "short": "Anexa nr. 1 la Ordin mediu nr. 460/2010",
+   "title": "Metodologie din 1 aprilie 2010 de atestare a unităților specializate să elaboreze amenajamente silvice (anexa nr. 1 la Ordinul MEDIU nr. 460/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118104",
+   "versions": [
+    {
+     "from": "2010-04-21",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118104",
+     "sha256": "d41bd77b499c997940eadca4a1af0dd2cd0d869c82a6c22817aface1dc87199a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-566-2010-anexa-1",
+   "path": "anexa/ordin-mediu-566-2010/anexa-1",
+   "short": "Anexa nr. 1 la Ordin mediu nr. 566/2010",
+   "title": "Instrucțiuni din 15 aprilie 2010 privind organizarea și desfășurarea licitației publice pentru atribuirea contractelor de închiriere (anexa nr. 1 la Ordinul MEDIU nr. 566/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117983",
+   "versions": [
+    {
+     "from": "2010-04-16",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117983",
+     "sha256": "4a3bd2c603e6f23ad415f9478bbf3dfd22ebdd58532295d187704441cc727f2a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-714-2010-anexa",
+   "path": "anexa/ordin-mediu-714-2010/anexa",
+   "short": "Anexa la Ordin mediu nr. 714/2010",
+   "title": "Ghid de finanțare din 6 mai 2010 a Programului privind creșterea producției de energie din surse regenerabile (anexa la Ordinul MEDIU nr. 714/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118971",
+   "versions": [
+    {
+     "from": "2010-05-21",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118971",
+     "sha256": "0ca8e113eb3a9b7e2db3a6671770be1ba1bac75379e4a4c8da8b90fe6547b13d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-740-2010-anexa",
+   "path": "anexa/ordin-mediu-740-2010/anexa",
+   "short": "Anexa la Ordin mediu nr. 740/2010",
+   "title": "Normele metodologice din 13 mai 2010 de agreare a experților evaluatori, membri titulari ai Asociației Naționale a Evaluatorilor din România, care desfășoară activități de evaluare a terenurilor forestiere și agricole supuse exproprierii (anexa la Ordinul MEDIU nr. 740/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119075",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119075",
+     "sha256": "5cf1346b7f095e7e30753822176b6a2a64fb33acb61e836cf70bad2263c99fa4"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-862-2010-anexa-2",
+   "path": "anexa/ordin-mediu-862-2010/anexa-2",
+   "short": "Anexa nr. 2 la Ordin mediu nr. 862/2010",
+   "title": "Regulament de organizare și funcționare din 3 iunie 2010 a Consiliului Național de Vânătoare (anexa nr. 2 la Ordinul MEDIU nr. 862/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119663",
+   "versions": [
+    {
+     "from": "2010-06-18",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119663",
+     "sha256": "232d2b43f59ec7679570ad90547e5094d29cb11b5d885b39180c3ee4e329d790"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-950-2010-anexa",
+   "path": "anexa/ordin-mediu-950-2010/anexa",
+   "short": "Anexa la Ordin mediu nr. 950/2010",
+   "title": "Ghid de finanțare din 17 iunie 2010 a Programului privind instalarea sistemelor de încălzire care utilizează energie regenerabilă, inclusiv înlocuirea sau completarea sistemelor clasice de încălzire (anexa la Ordinul MEDIU nr. 950/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119679",
+   "versions": [
+    {
+     "from": "2010-06-18",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119679",
+     "sha256": "359b497b7ca2f7b82abcf23da0d139e117552daff9633d5f4c268a6213323242"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-989-2010-anexa",
+   "path": "anexa/ordin-mediu-989-2010/anexa",
+   "short": "Anexa la Ordin mediu nr. 989/2010",
+   "title": "Ghid de finanțare din 24 iunie 2010 a Programului de îmbunătățire a calității mediului prin împădurirea terenurilor agricole degradate (anexa la Ordinul MEDIU nr. 989/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120990",
+   "versions": [
+    {
+     "from": "2010-07-28",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120990",
+     "sha256": "856a17ca7eec28888a16a87287e50fb26d2243467ba0defd716132e0a4c902a1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-munca-1418-2010-anexa-1",
+   "path": "anexa/ordin-munca-1418-2010/anexa-1",
+   "short": "Anexa nr. 1 la Ordin munca nr. 1418/2010",
+   "title": "Procedură din 11 octombrie 2010 de încadrare în grade de invaliditate în vederea înscrierii la pensia de invaliditate (anexa nr. 1 la Ordinul MUNCA nr. 1418/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122801",
+   "versions": [
+    {
+     "from": "2010-10-19",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122801",
+     "sha256": "ac8477bd36c7afb8a2673d9edf36827c32d5675fcbf5b78b51147fb05d4032a3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-munca-1418-2010-anexa-2",
+   "path": "anexa/ordin-munca-1418-2010/anexa-2",
+   "short": "Anexa nr. 2 la Ordin munca nr. 1418/2010",
+   "title": "Procedură din 11 octombrie 2010 de verificare a încadrării în grad de invaliditate (anexa nr. 2 la Ordinul MUNCA nr. 1418/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122802",
+   "versions": [
+    {
+     "from": "2010-10-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122802",
+     "sha256": "832f3954f50758671c511acdc1168b6a8e18d4e4c6da21017017d2f5bf7874ba"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-munca-1739-2010-anexa",
+   "path": "anexa/ordin-munca-1739-2010/anexa",
+   "short": "Anexa la Ordin munca nr. 1739/2010",
+   "title": "Procedură din 16 decembrie 2010 de suspendare a dreptului de asistență socială sub formă de prestații sociale a persoanelor adulte cu handicap, în situația reevaluării ca urmare a recomandărilor cuprinse în documentele întocmite în urma unor acțiuni de control dispuse prin ordin al ministrului muncii, familiei și protecției sociale (anexa la Ordinul MUNCA nr. 1739/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125193",
+   "versions": [
+    {
+     "from": "2011-01-12",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125193",
+     "sha256": "b1d1784df856ba83c9251b2e130afd7881022891d04d5f2d669a8856800d1a6a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-munca-455-2010-anexa",
+   "path": "anexa/ordin-munca-455-2010/anexa",
+   "short": "Anexa la Ordin munca nr. 455/2010",
+   "title": "Regulament-cadru din 14 iunie 2010 privind componența și regulile generale după care funcționează Comisia de abilitare a serviciilor externe de prevenire și protecție și de avizare a documentațiilor (anexa la Ordinul MUNCA nr. 455/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119700",
+   "versions": [
+    {
+     "from": "2010-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119700",
+     "sha256": "57fe4b21523f6fce922e3c10dbae42f8ce5446ee342526247b5128dce3c019db"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1043-2010-anexa",
+   "path": "anexa/ordin-sanatate-1043-2010/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1043/2010",
+   "title": "Norme metodologice din 16 iulie 2010 pentru elaborarea bugetului de venituri și cheltuieli al spitalului public (anexa la Ordinul SANATATE nr. 1043/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121038",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121038",
+     "sha256": "8980395286fa43759b8ca11a322e3cad66ac60ecb0656d0020ca5a3bb69ab49a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-12641-2010-anexa",
+   "path": "anexa/ordin-sanatate-12641-2010/anexa",
+   "short": "Anexa la Ordin sanatate nr. 12641/2010",
+   "title": "Norme proprii din 20 august 2010 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2010, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 12641/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123850",
+   "versions": [
+    {
+     "from": "2010-11-23",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123850",
+     "sha256": "0c23aca50313c1ee95e944dbcea637266b4edd3deb22a34a812bd5abfe71fc57"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-140-2010-anexa",
+   "path": "anexa/ordin-sanatate-140-2010/anexa",
+   "short": "Anexa la Ordin sanatate nr. 140/2010",
+   "title": "Norme proprii din 9 septembrie 2010 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2010, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 140/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123852",
+   "versions": [
+    {
+     "from": "2010-11-23",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123852",
+     "sha256": "104b502cc559e1e69005336cad91865ff17493250e8a2dbf0bc4ae31680a070f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1432-2010-anexa",
+   "path": "anexa/ordin-sanatate-1432-2010/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1432/2010",
+   "title": "Norme proprii din 18 noiembrie 2010 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2010, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 1432/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123836",
+   "versions": [
+    {
+     "from": "2010-11-23",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123836",
+     "sha256": "c99437fd6a12caa2b378756ce21da94eafd94b546b912f267fac48a7d09bdcbc"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1483-2010-anexa",
+   "path": "anexa/ordin-sanatate-1483-2010/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1483/2010",
+   "title": "Normă din 9 decembrie 2010 privind procedura administrativă a Agenției Naționale a Medicamentului și a Dispozitivelor Medicale de gestionare a variațiilor (anexa la Ordinul SANATATE nr. 1483/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125027",
+   "versions": [
+    {
+     "from": "2011-01-04",
+     "units": 81,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125027",
+     "sha256": "9a3d3d76a40949fea6475b11dcdb9bb932c2b01a5d08591b29712568222bfdad"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-237-2010-anexa",
+   "path": "anexa/ordin-sanatate-237-2010/anexa",
+   "short": "Anexa la Ordin sanatate nr. 237/2010",
+   "title": "Norme proprii din 22 octombrie 2010 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2010, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 237/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123848",
+   "versions": [
+    {
+     "from": "2010-11-23",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123848",
+     "sha256": "781c7c51514d949e729a57c40a3a2a26750090901a2118d83b88ad98e74ce89d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-434-2010-anexa",
+   "path": "anexa/ordin-sanatate-434-2010/anexa",
+   "short": "Anexa la Ordin sanatate nr. 434/2010",
+   "title": "Norme proprii din 31 august 2010 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2010, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 434/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123851",
+   "versions": [
+    {
+     "from": "2010-11-23",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123851",
+     "sha256": "9d4b9f717cd82c89c97c7e663c30b476ec4caaf65287ac61c3090e7e92532a0e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-76-2010-anexa-1",
+   "path": "anexa/ordin-sanatate-76-2010/anexa-1",
+   "short": "Anexa nr. 1 la Ordin sanatate nr. 76/2010",
+   "title": "Proceduri din 3 februarie 2010 de organizare a campaniei școlare de vaccinare cu vaccinul gripal pandemic \"Cantgrip\", produs de Institutul Național de Cercetare-Dezvoltare pentru Microbiologie și Imunologie \"Cantacuzino\", România, a copiilor cuprinși în grupa de vârstă 6-15 ani (anexa nr. 1 la Ordinul SANATATE nr. 76/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117400",
+   "versions": [
+    {
+     "from": "2010-03-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117400",
+     "sha256": "d4d2c10f446d785b1eed2979bd6faeedeeb8532c205599df350f5e175c167f4f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-968-2010-anexa",
+   "path": "anexa/ordin-sanatate-968-2010/anexa",
+   "short": "Anexa la Ordin sanatate nr. 968/2010",
+   "title": "Norme proprii din 2 septembrie 2010 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2010, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 968/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123853",
+   "versions": [
+    {
+     "from": "2010-11-23",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123853",
+     "sha256": "d81d2d5982e9a3e1be2dfe7c0991443966c75e6caec63d3479ece3891aabd7d9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sri-10088-2010-anexa",
+   "path": "anexa/ordin-sri-10088-2010/anexa",
+   "short": "Anexa la Ordin sri nr. 10088/2010",
+   "title": "Regulament din 15 iulie 2010 de garnizoană (anexa la Ordinul SRI nr. 10088/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121272",
+   "versions": [
+    {
+     "from": "2010-08-06",
+     "units": 82,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121272",
+     "sha256": "86144c0f9132e91593ef77dd42b960d9b9374681a0413284c04661ac52c067c0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sts-350-2010-anexa",
+   "path": "anexa/ordin-sts-350-2010/anexa",
+   "short": "Anexa la Ordin sts nr. 350/2010",
+   "title": "Regulament din 23 iulie 2010 de garnizoană (anexa la Ordinul STS nr. 350/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121271",
+   "versions": [
+    {
+     "from": "2010-08-06",
+     "units": 82,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121271",
+     "sha256": "1429a9e44cdf80e7a4311220218599adf8c2c615a93790d3638fde22dd0db4aa"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-36-2010-anexa",
+   "path": "anexa/ordin-transporturi-36-2010/anexa",
+   "short": "Anexa la Ordin transporturi nr. 36/2010",
+   "title": "Normă tehnică feroviară din 19 ianuarie 2010 \"Vehicule de cale ferată destinate transportului de călători. Instalații de ventilație/încălzire/climatizare. Cerințe pentru proiectare\" (anexa la Ordinul TRANSPORTURI nr. 36/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115758",
+   "versions": [
+    {
+     "from": "2010-03-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115758",
+     "sha256": "27e1748d4c7d5219f102fde6f7f4370282a74046c41fed0e4dacbdefb77584ab"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-792-2010-anexa-2",
+   "path": "anexa/ordin-transporturi-792-2010/anexa-2",
+   "short": "Anexa nr. 2 la Ordin transporturi nr. 792/2010",
+   "title": "Metodologie din 6 octombrie 2010 de atestare a auditorilor de siguranță rutieră (anexa nr. 2 la Ordinul TRANSPORTURI nr. 792/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122713",
+   "versions": [
+    {
+     "from": "2010-10-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122713",
+     "sha256": "1d15d08999c6a7d3969761f024d32dd14fbf5a755731c5d7e596e1a7972b8aff"
     }
    ]
   }

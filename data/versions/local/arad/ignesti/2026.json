@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/arad/ignesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-arad--ignesti-56-2026",
+   "path": "local/arad/ignesti/2026/56",
+   "short": "HCL Ignești nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 56/2026 privind acordarea unui mandat special reprezentantului Comunei Ignești în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad să voteze aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://primariaignesti.ro/wp-content/uploads/2026/11/HCL-56.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/11/HCL-56.pdf",
+     "sha256": "37e7808ec41b97276808881d90a381303b03fd53a38028d732d0951f2dd02523"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-58-2026",
+   "path": "local/arad/ignesti/2026/58",
+   "short": "HCL Ignești nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 58/2026 privind aprobarea ajustării tarifului aferent Contractului de delegare nr. 5430/29.12.2023 pentru operarea Depozitului de deșeuri nepericuloase Arad și acordarea unui mandat special reprezentantului Comunei Ignești în Adunarea Generală a Asociaților ADISIGD Arad",
+   "url": "https://primariaignesti.ro/wp-content/uploads/2026/11/HCL-58.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/11/HCL-58.pdf",
+     "sha256": "e682dc1fb61fad695e71589d6be0d7e4b33d345a3c7ed54209940b1fea61d650"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-60-2026",
+   "path": "local/arad/ignesti/2026/60",
+   "short": "HCL Ignești nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 60/2026 Privind însușirea Raportului de evaluare a mijloacelor fixe - bunuri mobile aflate în patrimoniul comunei Ignești",
+   "url": "https://primariaignesti.ro/wp-content/uploads/2026/11/HCL-60.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/11/HCL-60.pdf",
+     "sha256": "b7bd70f51ac63ee9530d4c4748fe02b4b0fc756ad74139d63622fe0ab02e9246"
+    }
+   ]
+  }
+ ]
+}

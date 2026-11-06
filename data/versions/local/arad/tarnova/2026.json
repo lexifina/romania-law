@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/tarnova/2026",
+ "acts": [
+  {
+   "slug": "hcl-arad--tarnova-72-2026",
+   "path": "local/arad/tarnova/2026/72",
+   "short": "HCL Târnova nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Târnova nr. 72/2026",
+   "url": "https://tarnova.ro/",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://tarnova.ro/wp-content/uploads/2026/10/hotararea-nr-72-din-16-10-2026-privind-interzicerea-desfasurarii-activitatilor-de-jocuri-de-noroc-in-locatii-fizice-inclusiv-a-activitatilor-de-pariuri-pe-raza.pdf",
+     "sha256": "5efb4a5fdd31125ee4274ad428aea6743bac7603de29292a8ba87ca08f20bae9"
+    }
+   ]
+  }
+ ]
+}

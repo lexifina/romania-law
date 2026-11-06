@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--sacueni-5-2021",
+   "path": "local/bihor/sacueni/2021/5",
+   "short": "HCL Săcueni nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 5/2021 privind schimbarea destinației temporară a unor imobile din orașul Săcueni în Centru de vaccinare",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/14928",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/14928",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--sacueni-6-2021",
    "path": "local/bihor/sacueni/2021/6",
    "short": "HCL Săcueni nr. 6/2021",
@@ -73,6 +88,21 @@
      "from": "2021-01-07",
      "units": 1,
      "source_url": "https://emol.ro/sacueni-bh/registru-hcl/14929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-7-2021",
+   "path": "local/bihor/sacueni/2021/7",
+   "short": "HCL Săcueni nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 7/2021 privind schimbarea destinației temporare a unor imobile din orașul Săcueni în cetru de vaccinare",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/14930",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/14930",
      "sha256": null
     }
    ]

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/flamanzi/2022",
+"acts": [
+{
+"slug": "hcl-botosani--flamanzi-187-2022",
+"path": "local/botosani/flamanzi/2022/187",
+"kind": "local",
+"year": "2022",
+"number": "187",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Flămânzi nr. 187/2022",
+"short": "HCL Flămânzi nr. 187/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://orasul-flamanzi.ro/wp-content/uploads/2023/01/HCL-NR.-187-21.12.2022-IMPOZITE-SI-TAXE-LOCALE-2023.pdf",
+"council": "botosani/flamanzi",
+"council_name": "Consiliul Local al Orașului Flămânzi",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

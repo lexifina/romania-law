@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/curtici/2022",
+ "acts": [
+  {
+   "slug": "hcl-arad--curtici-68-2022",
+   "path": "local/arad/curtici/2022/68",
+   "short": "HCL Curtici nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Curtici nr. 68/2022",
+   "url": "https://primariacurtici.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 1,
+     "source_url": "https://primariacurtici.ro/wp-content/uploads/2022/04/hcl-68-06.04.2022-REGULAMENT-Comisia-de-Siste-matizare-a-Circulat%CC%A6iei-i%CC%82n-oras%CC%A6ul-Curtici.pdf",
+     "sha256": "964edb3f9ff70876721492a7e4c7ca977d563c2a13c83468ae9d22e1fc230d17"
+    }
+   ]
+  }
+ ]
+}

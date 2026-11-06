@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/arad/curtici/2025",
+ "acts": [
+  {
+   "slug": "hcl-arad--curtici-154-2025",
+   "path": "local/arad/curtici/2025/154",
+   "short": "HCL Curtici nr. 154/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Curtici nr. 154/2025",
+   "url": "https://primariacurtici.ro/wp-content/uploads/2026/02/HCL-NR.154-29.07.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://primariacurtici.ro/wp-content/uploads/2026/02/HCL-NR.154-29.07.2025.pdf",
+     "sha256": "0f5b344a831114ef89b966e5290cca350d98070ebc4fc3d442dffa973e8c0705"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--curtici-93-2025",
+   "path": "local/arad/curtici/2025/93",
+   "short": "HCL Curtici nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Curtici nr. 93/2025",
+   "url": "https://primariacurtici.ro/wp-content/uploads/2026/02/HCL-93-30.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://primariacurtici.ro/wp-content/uploads/2026/02/HCL-93-30.04.2025.pdf",
+     "sha256": "2bcc3e0414de0f9ef104ec5363d415c6ed6998c3f801aa280a5ff39c777229f4"
+    }
+   ]
+  }
+ ]
+}

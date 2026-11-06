@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/alba/ciuruleasa/2024",
+"acts": [
+{
+"slug": "hcl-alba--ciuruleasa-6-2024",
+"path": "local/alba/ciuruleasa/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciuruleasa nr. 6/2024 pentru alegerea autoritatilor administratiei publice locale, pentru modificarea Legii administratiei publice locale nr. 215/2001, precum și pentru modificarea și completarea Legii nr. 393/2004 privind Statutul alesilor locali, cu modificările și completările ulterioare, examinând propunerile de candidatură depuse de Partidul Național Liberal – Organizația Județeană Alba la data de 25 aprilie 2024",
+"short": "HCL Ciuruleasa nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-26",
+"latest": "2024-04-26",
+"portal": "https://primariaciuruleasa.ro/wp-content/uploads/Hotararea-nr.6.pdf",
+"council": "alba/ciuruleasa",
+"council_name": "Consiliul Local al Comunei Ciuruleasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--ciuruleasa-8-2024",
+"path": "local/alba/ciuruleasa/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciuruleasa nr. 8/2024 pentru alegerea autoritatilor administratiei publice locale, pentru modificarea Legii administratiei publice locale nr. 215/2001, precum și pentru modificarea și completarea Legii nr. 393/2004 privind Statutul alesilor locali, cu modificările și completările ulterioare, examinând propunerea de candidaturi depusă de Partidul Social Democrat la data de 29 aprilie 2024 pentru functia de consilier loc",
+"short": "HCL Ciuruleasa nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://primariaciuruleasa.ro/wp-content/uploads/Hotararea-nr.8.pdf",
+"council": "alba/ciuruleasa",
+"council_name": "Consiliul Local al Comunei Ciuruleasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--ciuruleasa-10-2024",
+"path": "local/alba/ciuruleasa/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciuruleasa nr. 10/2024 pentru alegerea autoritatilor administratiei publice locale, pentru modificarea Legii administratiei publice locale nr. 215/2001, precum și pentru modificarea și completarea Legii nr. 393/2004 privind Statutul alesilor locali, cu modificările și completările ulterioare, examinând propunerea de candidaturi depusă de Alianța pentru Unirea Românilor la data de 28 aprilie 2024 pentru functia de consil",
+"short": "HCL Ciuruleasa nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://primariaciuruleasa.ro/wp-content/uploads/Hotararea-nr.10.pdf",
+"council": "alba/ciuruleasa",
+"council_name": "Consiliul Local al Comunei Ciuruleasa",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

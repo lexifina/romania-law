@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/sarbi/2019",
+ "acts": [
+  {
+   "slug": "hcl-bihor--sarbi-164-2019",
+   "path": "local/bihor/sarbi/2019/164",
+   "short": "HCL Sârbi nr. 164/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbi nr. 164/2019",
+   "url": "https://comunasarbi.ro/wp-content/uploads/2020/12/HCL-NR.-164-din-21.11.2019.pdf",
+   "versions": [
+    {
+     "from": "2019-11-21",
+     "units": 1,
+     "source_url": "https://comunasarbi.ro/wp-content/uploads/2020/12/HCL-NR.-164-din-21.11.2019.pdf",
+     "sha256": "47dcbd0df37e318871f3cda7414336a3a2decf36cf154ccc2b0f44dd23b2b532"
+    }
+   ]
+  }
+ ]
+}

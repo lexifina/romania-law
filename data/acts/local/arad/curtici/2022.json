@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/curtici/2022",
+"acts": [
+{
+"slug": "hcl-arad--curtici-68-2022",
+"path": "local/arad/curtici/2022/68",
+"kind": "local",
+"year": "2022",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Curtici nr. 68/2022",
+"short": "HCL Curtici nr. 68/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-06",
+"latest": "2022-04-06",
+"portal": "https://primariacurtici.ro/monitorul-oficial-local/",
+"council": "arad/curtici",
+"council_name": "Consiliul Local al Orașului Curtici",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bacau/lipova/2018",
+"acts": [
+{
+"slug": "hcl-bacau--lipova-25-2018",
+"path": "local/bacau/lipova/2018/25",
+"kind": "local",
+"year": "2018",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lipova nr. 25/2018 pentru perioada iunie-august 2018",
+"short": "HCL Lipova nr. 25/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-05-25",
+"latest": "2018-05-25",
+"portal": "https://www.comunalipova.ro/hotarari-de-consiliu/",
+"council": "bacau/lipova",
+"council_name": "Consiliul Local al Comunei Lipova",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

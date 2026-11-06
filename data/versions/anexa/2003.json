@@ -3,6 +3,21 @@
  "shard": "anexa/2003",
  "acts": [
   {
+   "slug": "anexa-decizie-anrgn-1078-2003-anexa",
+   "path": "anexa/decizie-anrgn-1078-2003/anexa",
+   "short": "Anexa la Decizia anrgn nr. 1078/2003",
+   "title": "Criterii și metode din 18 decembrie 2003 pentru aprobarea prețurilor și stabilirea tarifelor reglementate în sectorul gazelor naturale (anexa la Decizia ANRGN nr. 1078/2003)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49218",
+   "versions": [
+    {
+     "from": "2004-01-19",
+     "units": 160,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49218",
+     "sha256": "795a9c7fbfc81b4afd73958c624dad3738b6f9f3e74dc6408be4c92e6d3e87a3"
+    }
+   ]
+  },
+  {
    "slug": "anexa-decizie-cnas-193-2003-anexa",
    "path": "anexa/decizie-cnas-193-2003/anexa",
    "short": "Anexa la Decizia cnas nr. 193/2003",
@@ -44,6 +59,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47233",
      "sha256": "62b293856f844cb74796d5a74761be967d028ac17720ef6f1a495bdb7b87a863"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1070-2003-anexa",
+   "path": "anexa/hg-1070-2003/anexa",
+   "short": "Anexa la HG nr. 1070/2003",
+   "title": "Norme metodologice din 11 septembrie 2003 de aplicare a Ordonanței de urgență a Guvernului nr. 174/2002 privind instituirea măsurilor speciale pentru reabilitarea termica a unor clădiri de locuit multietajate (anexa la Hotărârea Guvernului nr. 1070/2003)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46403",
+   "versions": [
+    {
+     "from": "2003-09-18",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46403",
+     "sha256": "9379c7557e7dc4a8167a23f2d7e4cb7dd1065b99f6b6332e53f341c7497f5b5d"
     }
    ]
   },
@@ -149,6 +179,36 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47256",
      "sha256": "e9cf43364078aeba60b429d1524e7c0b4c07fd3f7d41f24d6e7c2c962ae22dc6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1253-2003-anexa",
+   "path": "anexa/hg-1253-2003/anexa",
+   "short": "Anexa la HG nr. 1253/2003",
+   "title": "Norme metodologice din 24 octombrie 2003 pentru aplicarea prevederilor Ordonanței de urgență a Guvernului nr. 193/2002 privind introducerea sistemelor moderne de plată (anexa la Hotărârea Guvernului nr. 1253/2003)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47592",
+   "versions": [
+    {
+     "from": "2003-11-10",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47592",
+     "sha256": "a1b3c4852d584b7cb2f5747962660b23524662180ddace4afec0217c504f0687"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1344-2003-anexa",
+   "path": "anexa/hg-1344-2003/anexa",
+   "short": "Anexa la HG nr. 1344/2003",
+   "title": "Norme metodologice din 18 noiembrie 2003 pentru aplicarea prevederilor Ordonanței de urgență a Guvernului nr. 190/2000 privind regimul metalelor prețioase și pietrelor prețioase în România, cu modificările și completările ulterioare (anexa la Hotărârea Guvernului nr. 1344/2003)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47984",
+   "versions": [
+    {
+     "from": "2003-11-25",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47984",
+     "sha256": "2c32fa11eb5b2e8c5f946d4bcc6a8cc745e2f2c2e40a132ee77a50e6d3ad5e35"
     }
    ]
   },
@@ -269,6 +329,21 @@
      "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48951",
      "sha256": "ecf23f62299fe2de7d95f44233e1655ea468ed0fbd8008b05b0fc71b2c4a4703"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-156-2003-anexa",
+   "path": "anexa/hg-156-2003/anexa",
+   "short": "Anexa la HG nr. 156/2003",
+   "title": "Norme metodologice din 6 februarie 2003 de aplicare a Legii nr. 421/2002 privind regimul juridic al vehiculelor fără stăpân sau abandonate pe terenuri aparținând domeniului public sau privat al statului ori al unităților administrativ-teritoriale (anexa la Hotărârea Guvernului nr. 156/2003)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41806",
+   "versions": [
+    {
+     "from": "2003-02-17",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41806",
+     "sha256": "56e27c5e07668d95bf899cd966eda7f514ceea8efa02b3f32494e520f0e30806"
     }
    ]
   },
@@ -618,6 +693,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-49-2003-anexa",
+   "path": "anexa/hg-49-2003/anexa",
+   "short": "Anexa la HG nr. 49/2003",
+   "title": "Norme metodologice din 16 ianuarie 2003 privind stabilirea criteriilor de acordare a unor subvenții asociațiilor și fundațiilor rromâne cu personalitate juridică, precum și altor organizații neguvernamentale fără scop lucrativ, care inițiază și organizează programe și proiecte culturale (anexa la Hotărârea Guvernului nr. 49/2003)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41872",
+   "versions": [
+    {
+     "from": "2003-02-19",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41872",
+     "sha256": "771719cf8ff036c4632b18c1c17531d8799cb475f01fac0ccdec2d3f94c6f1f1"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-498-2003-anexa",
    "path": "anexa/hg-498-2003/anexa",
    "short": "Anexa la HG nr. 498/2003",
@@ -888,6 +978,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-894-2003-anexa",
+   "path": "anexa/hg-894-2003/anexa",
+   "short": "Anexa la HG nr. 894/2003",
+   "title": "Norme din 29 iulie 2003 de aplicare a prevederilor Legii nr. 703/2001 privind răspunderea civilă pentru daune nucleare (anexa la Hotărârea Guvernului nr. 894/2003)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45629",
+   "versions": [
+    {
+     "from": "2003-08-14",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45629",
+     "sha256": "bc4d1e3f35ea7e504ebebbe3589e8f0f8729e866e9cc1ce51dff2cefc96ae4c5"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-896-2003-anexa",
    "path": "anexa/hg-896-2003/anexa",
    "short": "Anexa la HG nr. 896/2003",
@@ -929,6 +1034,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41617",
      "sha256": "f6995112176373c53e3562da36ecfc67154c4b6998d4109710ebd64c144afaba"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-92-2003-anexa",
+   "path": "anexa/hg-92-2003/anexa",
+   "short": "Anexa la HG nr. 92/2003",
+   "title": "Norme metodologice din 23 ianuarie 2003 privind clasificarea, etichetarea și ambalarea preparatelor chimice periculoase (anexa la Hotărârea Guvernului nr. 92/2003)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41980",
+   "versions": [
+    {
+     "from": "2003-02-25",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41980",
+     "sha256": "360ead70be3bbaae201c04ce04132b9be75f2f49ed55dd7d36c2bc9f59135f91"
     }
    ]
   },
@@ -1278,6 +1398,66 @@
    ]
   },
   {
+   "slug": "anexa-ordin-anpc-117-2003-anexa",
+   "path": "anexa/ordin-anpc-117-2003/anexa",
+   "short": "Anexa la Ordin anpc nr. 117/2003",
+   "title": "Norma din 24 iunie 2003 privind definirea, descrierea și prezentarea băuturilor spirtoase (anexa la Ordinul ANPC nr. 117/2003)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45589",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45589",
+     "sha256": "23163eabeccf91d7f4bd5f52936b388d6cfa67c27e45114dddae2b779b4b993b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anpc-78-2003-anexa",
+   "path": "anexa/ordin-anpc-78-2003/anexa",
+   "short": "Anexa la Ordin anpc nr. 78/2003",
+   "title": "Norma din 19 mai 2003 cu privire la metodele de analiza pentru testarea unor zaharuri destinate consumului uman (anexa la Ordinul ANPC nr. 78/2003)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44589",
+   "versions": [
+    {
+     "from": "2003-06-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44589",
+     "sha256": "1d1d06ec9a9d3cda50fb0cf009d52c61f5809404a580c992cb4068fda4c8c165"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anpc-8-2003-anexa",
+   "path": "anexa/ordin-anpc-8-2003/anexa",
+   "short": "Anexa la Ordin anpc nr. 8/2003",
+   "title": "Norma din 4 februarie 2003 privind denumirile sub care se vând și condițiile de calitate ale grăsimilor tartinabile destinate comercializării (anexa la Ordinul ANPC nr. 8/2003)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42131",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42131",
+     "sha256": "507fa158488126f84dc3a62acfb4fab65bbd26a9d72058cfff0e3e85555ea057"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anpc-81-2003-anexa",
+   "path": "anexa/ordin-anpc-81-2003/anexa",
+   "short": "Anexa la Ordin anpc nr. 81/2003",
+   "title": "Norma din 27 mai 2003 cu privire la natura, conținutul, originea, etichetarea și marcarea unor zaharuri destinate consumului uman (anexa la Ordinul ANPC nr. 81/2003)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44410",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44410",
+     "sha256": "02145b53afbf4971b75a2ae40837056c7d62641ff863681032dac6983b219e3c"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-anrm-133-2003-anexa",
    "path": "anexa/ordin-anrm-133-2003/anexa",
    "short": "Anexa la Ordin anrm nr. 133/2003",
@@ -1454,6 +1634,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42685",
      "sha256": "1ea5bd5e9c92e6dcd8307a784663ecb924a4400b57e5f7aa64840a7661d894d1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dezvoltare-189-2003-anexa",
+   "path": "anexa/ordin-dezvoltare-189-2003/anexa",
+   "short": "Anexa la Ordin dezvoltare nr. 189/2003",
+   "title": "Procedura din 5 aprilie 2003 de evaluare și desemnare a organismelor abilitate pentru atestarea conformității produselor pentru construcții (anexa la Ordinul DEZVOLTARE nr. 189/2003)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43519",
+   "versions": [
+    {
+     "from": "2003-05-05",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43519",
+     "sha256": "f71a735220eae00b4cd1fd1435550df4e0c614e3350f5e1be313e599c1f5765a"
     }
    ]
   },
@@ -1758,6 +1953,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-educatie-5442-2003-anexa-1",
+   "path": "anexa/ordin-educatie-5442-2003/anexa-1",
+   "short": "Anexa nr. 1 la Ordin educatie nr. 5442/2003",
+   "title": "Metodologie din 11 noiembrie 2003 de autorizare, suspendare și anulare a autorizației de funcționare a parcului științific și tehnologic (anexa nr. 1 la Ordinul EDUCATIE nr. 5442/2003)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48640",
+   "versions": [
+    {
+     "from": "2003-12-22",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48640",
+     "sha256": "4184249861b705ed3e0d5339611eff47a20613cc611662831f4494993840b1d7"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-educatie-5468-2003-anexa",
    "path": "anexa/ordin-educatie-5468-2003/anexa",
    "short": "Anexa la Ordin educatie nr. 5468/2003",
@@ -1769,6 +1979,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49546",
      "sha256": "9c0825ed1e6c3a9188e419d7f3adf4acce55b389bcdc43844f21820eba70d6a8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5574-2003-anexa",
+   "path": "anexa/ordin-educatie-5574-2003/anexa",
+   "short": "Anexa la Ordin educatie nr. 5574/2003",
+   "title": "Metodologie de evaluare din 2 decembrie 2003 a unităților de învățământ preuniversitar în vederea acordării autorizației de încredere (anexa la Ordinul EDUCATIE nr. 5574/2003)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48632",
+   "versions": [
+    {
+     "from": "2003-12-23",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48632",
+     "sha256": "4f5bbff6a84e79fe2fee5f0305c1573828d303733f58e638e0d02ce56965c685"
     }
    ]
   },

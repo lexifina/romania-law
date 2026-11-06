@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/racaciuni/2025",
+ "acts": [
+  {
+   "slug": "hcl-bacau--racaciuni-584-2025",
+   "path": "local/bacau/racaciuni/2025/584",
+   "short": "HCL Răcăciuni nr. 584/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 584/2025",
+   "url": "https://www.comunaracaciuni.ro/",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/Decizia%20de%20expropriere%20nr%20584%20din%2010.06.2025.pdf",
+     "sha256": "82c7e847a55faa0f489020bd5cf04eaa3205536880ccd2f97c615bc248e88103"
+    }
+   ]
+  }
+ ]
+}

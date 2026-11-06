@@ -1,0 +1,591 @@
+{
+ "country": "RO",
+ "shard": "local/arges/stalpeni/2026",
+ "acts": [
+  {
+   "slug": "hcl-arges--stalpeni-1-2026",
+   "path": "local/arges/stalpeni/2026/1",
+   "short": "HCL Stâlpeni nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 1/2026",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_1_din_12.01.2026.pdf",
+     "sha256": "3e54b3bdb798dec97cf57b0e9c266ca3db6f2e0806cf5d1d7eed70e3c9dcfbe2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-10-2026",
+   "path": "local/arges/stalpeni/2026/10",
+   "short": "HCL Stâlpeni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 10/2026 pentru aparatul de specialitate al primarului comunei Stalpeni Consiliul Local al Comunei Stalpeni, județul Argeș, întrunit în ședință extraordinara, n izi,04.03.2026; Analizând Referatul de aprobare nr. 1435/25.03.2026 al primarului comunei Stalpeni; Raportul de specialitate inregistrat sub nr.1436/25.03.2026 cu privire la aprobarea mc dificarii organigramei si a statului de functii pentru aparat",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_nr.10_din_04.03.2026.pdf",
+     "sha256": "d4542a9367be47e5a28c27c6164f81749fb35fc0c7aa00d4c2bc75e13c88842f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-11-2026",
+   "path": "local/arges/stalpeni/2026/11",
+   "short": "HCL Stâlpeni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 11/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_nr.11_din_04.03.2026.pdf",
+     "sha256": "b374ff7f36c6df30540f3f353e1e11e5bf216733c54d2f4c192eb5412ee70ac4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-14-2026",
+   "path": "local/arges/stalpeni/2026/14",
+   "short": "HCL Stâlpeni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 14/2026",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_14_din_26.03.2026.pdf",
+     "sha256": "09af9644495348814625d536d009e8081f2ae201be1715df4a43bd45341e929b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-15-2026",
+   "path": "local/arges/stalpeni/2026/15",
+   "short": "HCL Stâlpeni nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 15/2026",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_15_din_26.03.2026.pdf",
+     "sha256": "1b767c8d415216983150333b0659f871fd5ce8c64a3b8d5f72e81701e1948397"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-16-2026",
+   "path": "local/arges/stalpeni/2026/16",
+   "short": "HCL Stâlpeni nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 16/2026",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_16_din_26.03.2026.pdf",
+     "sha256": "e66e5f3cecbe2d2c017ccf43972cad4f1b63581d329a5e55cba711c586f12c30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-17-2026",
+   "path": "local/arges/stalpeni/2026/17",
+   "short": "HCL Stâlpeni nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 17/2026",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_17_din_26.03.2026.pdf",
+     "sha256": "e7a8e89904d697195e065c2e13b0c0c7bea489b23c7c7db528380d82ed099b83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-18-2026",
+   "path": "local/arges/stalpeni/2026/18",
+   "short": "HCL Stâlpeni nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 18/2026",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_18_din_15.04.2026.pdf",
+     "sha256": "349150ec012633b5ec4f88d9d601047eb5b901c69d87006fbdc654936ef599ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-19-2026",
+   "path": "local/arges/stalpeni/2026/19",
+   "short": "HCL Stâlpeni nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 19/2026",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_19_din_15.04.2026.pdf",
+     "sha256": "024ea3b46734b03f720b284d47f2bf9d093388efb49883e427c0ed30590f66ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-2-2026",
+   "path": "local/arges/stalpeni/2026/2",
+   "short": "HCL Stâlpeni nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 2/2026",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_2_din_12.01.2026.pdf",
+     "sha256": "89cbfbd369e4fa28dbeb20f29b569692086c2c6ba46b5ea3ab29183fcfd25489"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-21-2026",
+   "path": "local/arges/stalpeni/2026/21",
+   "short": "HCL Stâlpeni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 21/2026 Privind stabilirea normativului propriu de cheltuieli privind consumul lunar de carburanti pentru utila;ale, Primarie Comunei Stalpeni pe anul 2026 Consiliul local al comunei Stalpeni, judetul Arges, Avand in vedere : Referatul de aprobare al primarului comunei Stalpeni nr.3166/24.04.2026; Raportul de specialitate inregistrat sub nr.3167/24.04.2026 al compartimentului de resort dir primarie; ; Avi",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_21_din_06.05.2026.pdf",
+     "sha256": "abd8a2e11c7d8ef9c2a4af160923c48bfbcc8820fb785101905a95aaaf4f743e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-22-2026",
+   "path": "local/arges/stalpeni/2026/22",
+   "short": "HCL Stâlpeni nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 22/2026 privind reorganizarea aparatului de specialitate al primarului comunei Stalpeni, aprobarea Organigramei și a Statului de Funcții Consiliul Local al comunei Stalpeni, întrunit în ședință ordinară în data de 06.05.2026; Având în vedere următoarele: - referatul de aprobare nr.3170/24.04.2026; - raportul compartimentului de specialitate nr.3171/24.04.2026; - avizul favorabil al comisiilor de specialit",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_22_din_06.05.2026.pdf",
+     "sha256": "6f5859885a8191b64efc4d82da3674781e36a90dcb9aac1f948caa67c431c8d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-23-2026",
+   "path": "local/arges/stalpeni/2026/23",
+   "short": "HCL Stâlpeni nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 23/2026 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale — facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate” Consiliul Local al comunei Stâlpeni, județul Argeș, întrunit în ședință ordinară, astăzi 07.05.2026",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_23_din_06.05.2026.pdf",
+     "sha256": "8f4393d50809b2c85681668c6b8a6a555151a597fcb3036fdcc9dedc36e55173"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-26-2026",
+   "path": "local/arges/stalpeni/2026/26",
+   "short": "HCL Stâlpeni nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 26/2026",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_26_din_08.05.2026-buget.pdf",
+     "sha256": "63eefa29a473a70191be7fcee10eabb2db152e03fe994036a5522fd2bdbad12f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-28-2026",
+   "path": "local/arges/stalpeni/2026/28",
+   "short": "HCL Stâlpeni nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 28/2026 privind serviciile comunitare de utilități publice : - vispozițiile capitolului Il din Legea nr. 241/2006 a serviciului de alimentare cu apă și de caxalizare : - dispozițiile 0.G. nr.26/2013 privind întărirea disciplinei financiare la nivelul unor operatori ecunomici la cari statul sau unitățile administrativ-teritoriale sunt acționari unici ori majoritari sau dej:n direct ori indirect o participa",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_28_din_28.05.2026.pdf",
+     "sha256": "d7739ec70c08e4b85e396edbf5eef74e5d6364511db1f8ec2d2e55a6ddc1650d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-29-2026",
+   "path": "local/arges/stalpeni/2026/29",
+   "short": "HCL Stâlpeni nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 29/2026 pentru Apa Serv Top Stâlpeni SRL Descarcă HCL",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_29_din_28.05.2026.pdf",
+     "sha256": "fc6f905a52d3e18c2a730210f2a914c15fe751a033d3d8e48560d35b8abaa97e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-3-2026",
+   "path": "local/arges/stalpeni/2026/3",
+   "short": "HCL Stâlpeni nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 3/2026",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_3_din_12.01.2026.pdf",
+     "sha256": "85584f7c30e06000d3d844e7f1f1f438da432c523b213e85321c1de90f5e53b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-31-2026",
+   "path": "local/arges/stalpeni/2026/31",
+   "short": "HCL Stâlpeni nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 31/2026 privind rectificarea bugetului local al comunei Stâlpeni Consiliul Local al comunei Stalpeni, județul Argeș întrunit în ședința extraordinară în data de 15.06.2026; Luând în discuție referatul de aprobare nr.3540/10.06.2026 al primarului comunei Stâlpeni și \"aportul de specialitate nr.3543/10.06.2026 al compartimentului contabilitate; Având în vedere: Adresa Consiliului Judetean Arges cu nr. 13185",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_31_din_15.06.2026.pdf",
+     "sha256": "bf62cfbb20eb617b9154ad6273bcef5c83054104809739548b194d89e20505fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-32-2026",
+   "path": "local/arges/stalpeni/2026/32",
+   "short": "HCL Stâlpeni nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 32/2026 privind trecerea din domeniul public al comunei Stalpeni in domeniul privat al comunei Stalpeni a imobilului constructie -sopron din comuna Stalpeni,sat Livezeni, punct, Targ Saptamanal Stalpeni, inscris in CF cu nr. cadastral 80882-CS, in vederea scoaterii din funcțiune, casării și valorificării ; Consiliul local al comunei Stalpeni „judetul Arges Avand in vedere: - referatul de aprobare al Prima",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_32_din_15.06.2026.pdf",
+     "sha256": "b9c16e5c49193be6d1d60913f81173262f946e34448241121f9e2cb6fb9199e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-33-2026",
+   "path": "local/arges/stalpeni/2026/33",
+   "short": "HCL Stâlpeni nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 33/2026 privind modificarea și completarea Regulamentului de Organizare și Funcționare al Târgului săptămânal Stâlpeni, comuna Stâlpeni, județul Argeș Consiliul Local al comunei Stâlpeni, județul Argeș, întrunit în ședința extraordinară din data de 15.06.2026 Având în vedere: HCL nr.24/06.05.2026 privind aprobarea Regulamentului de Organizare și Funcționare al Târgului săptămânal Stâlpeni, comuna Stâlpeni",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_33_din_15.06.2026.pdf",
+     "sha256": "a0a8144184074c47af401ca3e853a1a9a867d62fbe400bbe2245201e6b1906c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-34-2026",
+   "path": "local/arges/stalpeni/2026/34",
+   "short": "HCL Stâlpeni nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 34/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_34_din_15.06.2026.pdf",
+     "sha256": "e0e467e63b83473e78d23099a68078210ab56d81c51763262edf86af76903472"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-35-2026",
+   "path": "local/arges/stalpeni/2026/35",
+   "short": "HCL Stâlpeni nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 35/2026 privind desemnarea consilierilor locali in Comisia de analiza si selectie si in Comisia de solutionare a contestatiilor, constituite pentru procedura de selectie publica a proiectelor structurilor sportive, in vederea acordarii de finanțării nerambursabile de la bugetul local, în anul fiscal 2026 Consiliul Local al comunei Stalpeni, județul Arges, întrunit în ședință publică extraordinara, astăzi",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_35_din_29_06_2026.pdf",
+     "sha256": "8d79cae9c9a109a3c4c04e91f8693554334829a7ec04f2674af232b4eaf52127"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-36-2026",
+   "path": "local/arges/stalpeni/2026/36",
+   "short": "HCL Stâlpeni nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 36/2026 privind aprobarea acordarii unor compensatii in bani pentru timpul efectiv de lucru prestat la interventii si la celelalte activitati prevazute in programul serviciului voluntar pentru situatii de urgenta pentru anul 2026 ; Consiliul local al comunei Stalpeni „judetul Arges Avand in vedere : ; - Referatul nr.4842/18.06.2026 al primarului comunei Stalpeni -Raportul de specialitate inregistrat sub n",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_36_din_29_06_2026.pdf",
+     "sha256": "7d78bc045126e70399ccae5bb1ff4e39bae2849cde9d1716f1279fe9511e3674"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-37-2026",
+   "path": "local/arges/stalpeni/2026/37",
+   "short": "HCL Stâlpeni nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 37/2026 privind constituirea echipei mobile pentru intervenția în regim de urgență în cazurile de violență domestică identificate pe raza comunei Stalpeni Consiliul local al comunei Stâlpeni „judetul Arges,intrunit in sedinta extraordinara; Avand in vedere : ; - Referatul de aprobare al primarului comunei Stalpeni nr.4923/22.06.2026 - Raportul de specialitate inregistrat sub nr.4924 /22.06.2026 al compart",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_37_din_29_06_2026.pdf",
+     "sha256": "7213f336992c5fff9f679a4cb6bbf55c7033957c3492842c8ae9434680244f7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-38-2026",
+   "path": "local/arges/stalpeni/2026/38",
+   "short": "HCL Stâlpeni nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 38/2026 Privind alegerea presedintelui de sedinta Consiliul local al comunei Stalpeni „judetul Arges ; Avand in vedere dispozitiile art.123 0UG nr.57/ 03 iulie 2019 privind Codul Administrativ,consiliul local alege dintre membrii săi, în termenul stabilit prin regulamentul de organizare și funcționare a consiliului local, un președinte de ședință, pe o perioadă de cel mult 3 luni, care conduce ședințele c",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_38_din_13_07_2026.pdf",
+     "sha256": "93042a073ee95b947e9988068ec0d7db6d28c590fc8f4cd01c2968520792bd21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-39-2026",
+   "path": "local/arges/stalpeni/2026/39",
+   "short": "HCL Stâlpeni nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 39/2026 privind rectificarea bugetului local al comunei Stâlpeni Consiliul Local al comunei Stalpeni, județul Argeș întrunit în ședința extraordinară în data de 13.07.2026; Luând în discuție referatul de aprobare nr.5354/08.07.2026 al primarului comunei Stâlpeni și r::portul de specialitate nr.5358/08.07.2026 al compartimentului contabilitate; Având în vedere: Adresa Liceului Tehnologic „IC Petrescu” cu n",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_39_din_13_07_2026.pdf",
+     "sha256": "43cf08a3a1e9efd4cece834e9e6a4b6cff21cb30991af8e2d2200fa0dfa03888"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-4-2026",
+   "path": "local/arges/stalpeni/2026/4",
+   "short": "HCL Stâlpeni nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 4/2026",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_4_din_29.01.2026.pdf",
+     "sha256": "c38e8c4a6dacafad103aaba9c0db10d71b613facf1e30e08ab54d52b0eb1bdc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-40-2026",
+   "path": "local/arges/stalpeni/2026/40",
+   "short": "HCL Stâlpeni nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 40/2026 privind majoraraea salariilor de bază pentru funcțiile publice si contractuale din cadrul aparatului de specialitate al primarului comunei Stalpeni, județul Arges, începând cu 1 iulie 2026 TONSILIUL LOCAL STALPENI; Analizând terneiurile juridice, respectiv prevederile: |)art. “5, art. 41, art. 120 alin. (1) și art. 121 alin. (1) și alin. (2) din Constituția României, republicată; 3) art. 3, art. 4",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_40_din_13_07_2026.pdf",
+     "sha256": "21b49b2348070211d86f494961aa6e44cd60408bfad32dc362df6786b2a45410"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-41-2026",
+   "path": "local/arges/stalpeni/2026/41",
+   "short": "HCL Stâlpeni nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 41/2026 cu privire la aprobarea organigramei si a structurii functiilor publice; Având in vedere : -Avizul favorabil al comisiei de specialitate din cadrul consiliului local ; - art.409 alin.(1),alin.(2) si art 517 alin.(1),lit.d) privind Codul Administrativ,din ORDONANȚĂ DE URGENȚĂ nr. 57 din 3 iulie 2019 privind Codul administrativ, Legea nr. 153/2017 privind salarizarea personalului plătit din fonduri",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_41_din_13_07_2026.pdf",
+     "sha256": "b29351f89915bf567b933138517e31b66ec88f7ced31d577d57ae0401613c424"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-42-2026",
+   "path": "local/arges/stalpeni/2026/42",
+   "short": "HCL Stâlpeni nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 42/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_42_din_13_07_2026.pdf",
+     "sha256": "4a6877fb616e10c160d73b95fdb6bdd9fb1f658c34af82cff95d545c5b921b18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-43-2026",
+   "path": "local/arges/stalpeni/2026/43",
+   "short": "HCL Stâlpeni nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 43/2026 privind Regul. Org. și Funcționare Târgul Stâlpeni Descarcă HCL",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_43_din_30.07.2026.pdf",
+     "sha256": "8100f250880c35c83fc85d5292e9707548a2d73f9aa64f50486e1a4c1e8fc1b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-47-2026",
+   "path": "local/arges/stalpeni/2026/47",
+   "short": "HCL Stâlpeni nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 47/2026 privind rectificarea bugetului local al comunei Stâlpeni Consiliul Local al comunei Stalpeni, județul Argeș întrunit în ședința ordinară ; Luând în discuție referatul de aprobare nr.6258/12.08.2026 al primarului comunei Stâlpeni și raportul de specialitate nr.6259/12.08.2026 al compartimentului contabilitate; Având în vedere: Dispozițiile Legii nr. 273/2006 privind finanțele publice locale, cu mod",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_47_din_31.08.2026.pdf",
+     "sha256": "91f9b9f1f06791f651e910449f1faf5822043798efc2f71c648fa47657d795c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-48-2026",
+   "path": "local/arges/stalpeni/2026/48",
+   "short": "HCL Stâlpeni nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 48/2026 Privind alegerea presedintelui de sedinta pentru sedinta extraordinara de indata din data de 03.09.2026 Consiliul local al comunei Stalpeni „judetul Arges ; Avand in vedere dispozitiile art.123 alin.(3) 0UG nr.57/ 03 iulie 2019 privind Codul Administrativ; -Raportul de specialitate al compartimentului de resort din primarie ,„nr.6793/03.09.2026 ; -Referatul de aprobare al primarului cu nr.6757/03",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_48_din_03.09.2026.pdf",
+     "sha256": "e3734dedc4f66abe714ae22f0992372758440391aa2483fe3163497e8a5eecf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-49-2026",
+   "path": "local/arges/stalpeni/2026/49",
+   "short": "HCL Stâlpeni nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 49/2026 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici finali la finalizarea lucrărilor pentru obiectivul de investiții „Modernizare drumuri comunale si de interes local în comuna Stalpeni,judetul Arges ” Consiliul Local al Comunei Stalpeni, întrunit în ședință extraordinară de indața în data de 03.09.2026; Pirând în vedere: - Referatul de aprobare al Primarului locali",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_49_din_03.09.2026.pdf",
+     "sha256": "7a3757316c4850cdf2c79dc8b3865f5bb8e88cdd793098e13584b185af147cee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-5-2026",
+   "path": "local/arges/stalpeni/2026/5",
+   "short": "HCL Stâlpeni nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 5/2026 privind serviciile sociale administrate și finanțate prin buget Descarcă HCL",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_5_din_29.01.2026.pdf",
+     "sha256": "eb2461a7efd3104754f6a31257bc9320a3dd4eb6474bf5757584545bd8733951"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-55-2026",
+   "path": "local/arges/stalpeni/2026/55",
+   "short": "HCL Stâlpeni nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 55/2026",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_53_din_24.09.2026.pdf",
+     "sha256": "e950d77b5d3805d8604294f1a18937f845261b95c7ec6969f164dd046dcf2b8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-6-2026",
+   "path": "local/arges/stalpeni/2026/6",
+   "short": "HCL Stâlpeni nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 6/2026",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_6_din_29.01.2026.pdf",
+     "sha256": "868f5521e811e349d8e820f9656ee909ffa75249577b53741cf3649b7e65e691"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-7-2026",
+   "path": "local/arges/stalpeni/2026/7",
+   "short": "HCL Stâlpeni nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 7/2026",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_7_din_29.01.2026.pdf",
+     "sha256": "4f64819f7b20a1dd0bb753f2b1584b480845410b80937829cfe88d1b70e3f0de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-9-2026",
+   "path": "local/arges/stalpeni/2026/9",
+   "short": "HCL Stâlpeni nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 9/2026",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_9_din_29.01.2026.pdf",
+     "sha256": "ee3cd6882d703eb7632195730f62fc0b9259be92005d883911ede86f3dc51b0e"
+    }
+   ]
+  }
+ ]
+}

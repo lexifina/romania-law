@@ -3,6 +3,21 @@
  "shard": "anexa/1993",
  "acts": [
   {
+   "slug": "anexa-decizie-cna-175-1993-anexa",
+   "path": "anexa/decizie-cna-175-1993/anexa",
+   "short": "Anexa la Decizia cna nr. 175/1993",
+   "title": "Norme obligatorii din 9 decembrie 1993 pentru acordarea și programarea dreptului la replica în cadrul programelor audiovizuale (anexa la Decizia CNA nr. 175/1993)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64405",
+   "versions": [
+    {
+     "from": "1993-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64405",
+     "sha256": "cf6b4f0555812084a2bd4b2ff5ae2c455b1128c306edd16028a3ff172de401be"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-126-1993-anexa-1",
    "path": "anexa/hg-126-1993/anexa-1",
    "short": "Anexa nr. 1 la HG nr. 126/1993",

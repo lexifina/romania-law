@@ -24,6 +24,50 @@
 "text_pending": "ocr",
 "title_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-bistrita-nasaud--budacu-de-jos-40-2026",
+"path": "local/bistrita-nasaud/budacu-de-jos/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Budacu de Jos nr. 40/2026 privind aprobarea execuției bugetare a comunei Budacu de Jos pentru trimestrul I al anului 2026 pentru secțiunile de dezvoltare și de funcționare",
+"short": "HCL Budacu de Jos nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-12",
+"latest": "2026-08-12",
+"portal": "https://www.budacudejos.ro/registru_hcl.html",
+"council": "bistrita-nasaud/budacu-de-jos",
+"council_name": "Consiliul Local al Comunei Budacu de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--budacu-de-jos-41-2026",
+"path": "local/bistrita-nasaud/budacu-de-jos/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Budacu de Jos nr. 41/2026 privind aprobarea execuției bugetare a comunei Budacu de Jos pentru trimestrul al II-lea al anului 2026 pentru secțiunile de dezvoltare și de funcționare",
+"short": "HCL Budacu de Jos nr. 41/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-14",
+"latest": "2026-08-14",
+"portal": "https://www.budacudejos.ro/registru_hcl.html",
+"council": "bistrita-nasaud/budacu-de-jos",
+"council_name": "Consiliul Local al Comunei Budacu de Jos",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

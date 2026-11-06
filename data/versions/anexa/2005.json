@@ -3,6 +3,126 @@
  "shard": "anexa/2005",
  "acts": [
   {
+   "slug": "anexa-decizie-ancom-373-2005-anexa",
+   "path": "anexa/decizie-ancom-373-2005/anexa",
+   "short": "Anexa la Decizia ancom nr. 373/2005",
+   "title": "Procedură din 21 iulie 2005 de supraveghere a pieței echipamentelor radio și a echipamentelor terminale de telecomunicații, precum și a altor echipamente electrice și electronice din punct de vedere al compatibilității electromagnetice (anexa la Decizia ANCOM nr. 373/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64256",
+   "versions": [
+    {
+     "from": "2005-08-17",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64256",
+     "sha256": "73ea4cfa97e3e858a1b261f7e56661bd74a2ba0bdc9d963170eb75887654dbb7"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anrgn-1086-2005-anexa",
+   "path": "anexa/decizie-anrgn-1086-2005/anexa",
+   "short": "Anexa la Decizia anrgn nr. 1086/2005",
+   "title": "Procedură din 14 decembrie 2005 de acreditare a consumatorilor eligibili de gaze naturale (anexa la Decizia ANRGN nr. 1086/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66965",
+   "versions": [
+    {
+     "from": "2005-12-16",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66965",
+     "sha256": "465ac7c22142ed589d1e262dfcdcbe367bd5cf25526807499fc8583880e4b683"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anrgn-309-2005-anexa",
+   "path": "anexa/decizie-anrgn-309-2005/anexa",
+   "short": "Anexa la Decizia anrgn nr. 309/2005",
+   "title": "Condiții generale de contractare din 30 martie 2005 a serviciilor de distribuție a gazelor naturale (anexa la Decizia ANRGN nr. 309/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60592",
+   "versions": [
+    {
+     "from": "2005-04-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60592",
+     "sha256": "4d01c8e41366ed8ef1e62b2783d8b7273063ff519cb1eb162f1150f81cf38209"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anrgn-313-2005-anexa",
+   "path": "anexa/decizie-anrgn-313-2005/anexa",
+   "short": "Anexa la Decizia anrgn nr. 313/2005",
+   "title": "Metodologie din 30 martie 2005 de monitorizare a pieței interne reglementate a gazelor naturale și a consumatorilor eligibili (anexa la Decizia ANRGN nr. 313/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60981",
+   "versions": [
+    {
+     "from": "2005-04-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60981",
+     "sha256": "c8679798b97daa6163bb43627c98c8270dfbac1b7a678fa0bfd7b9222ca8d433"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anrgn-400-2005-anexa",
+   "path": "anexa/decizie-anrgn-400-2005/anexa",
+   "short": "Anexa la Decizia anrgn nr. 400/2005",
+   "title": "Metodologie din 9 mai 2005 privind medierea neînțelegerilor precontractuale în sectorul gazelor naturale - segmentul reglementat (anexa la Decizia ANRGN nr. 400/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61596",
+   "versions": [
+    {
+     "from": "2005-05-13",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61596",
+     "sha256": "681a957eced2cdd394fdcaa50ac3267b03a7a03e5abbb005abba361025510e83"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anrgn-665-2005-anexa",
+   "path": "anexa/decizie-anrgn-665-2005/anexa",
+   "short": "Anexa la Decizia anrgn nr. 665/2005",
+   "title": "Regulament din 23 august 2005 de măsurare a cantităților de gaze naturale tranzacționate la consumatorii captivi (anexa la Decizia ANRGN nr. 665/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65354",
+   "versions": [
+    {
+     "from": "2005-09-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65354",
+     "sha256": "f4a1687c49f98fd3f7a8ccac57561541ebf85d776c516cac4660e9dd345c3206"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anrgn-757-2005-anexa",
+   "path": "anexa/decizie-anrgn-757-2005/anexa",
+   "short": "Anexa la Decizia anrgn nr. 757/2005",
+   "title": "Regulament din 26 septembrie 2005 privind managementul congestiilor contractuale din Sistemul național de transport al gazelor naturale (anexa la Decizia ANRGN nr. 757/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31559",
+   "versions": [
+    {
+     "from": "2005-10-07",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31559",
+     "sha256": "d0a8d7085deb010dcc52f1068f13a55841b78261ba2d816586ba90a7448314d2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-orda-237-2005-anexa",
+   "path": "anexa/decizie-orda-237-2005/anexa",
+   "short": "Anexa la Decizia orda nr. 237/2005",
+   "title": "Protocol din 7 decembrie 2005 referitor la Metodologia privind remunerațiile reprezentând drepturi patrimoniale de autor pentru înregistrările audiovizuale ale operelor muzicale pe suporturi (anexa la Decizia ORDA nr. 237/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67362",
+   "versions": [
+    {
+     "from": "2005-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67362",
+     "sha256": "cde6252e772fdca5ca514c38600571ce4739240feca9b96b525dd1b57c8f79a7"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-1006-2005-anexa",
    "path": "anexa/hg-1006-2005/anexa",
    "short": "Anexa la HG nr. 1006/2005",
@@ -239,6 +359,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66492",
      "sha256": "830be60398a735b444da614739ac2214d1149bafe51c815db6fbc7bf5a7d828a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1517-2005-anexa",
+   "path": "anexa/hg-1517-2005/anexa",
+   "short": "Anexa la HG nr. 1517/2005",
+   "title": "Norme metodologice din 29 noiembrie 2005 de aplicare a Legii nr. 300/2005 privind instituirea sistemului de certificate de import și de export pentru produse agricole (anexa la Hotărârea Guvernului nr. 1517/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67477",
+   "versions": [
+    {
+     "from": "2005-12-27",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67477",
+     "sha256": "d2f96c58e40160a4509cb61e38f8b8beb131ecda7ec082cb802af18e9600547c"
     }
    ]
   },
@@ -543,6 +678,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-804-2005-anexa",
+   "path": "anexa/hg-804-2005/anexa",
+   "short": "Anexa la HG nr. 804/2005",
+   "title": "Criterii din 14 iulie 2005 de acordare a etichetei ecologice pentru grupul de produse materiale pentru pardoseli rigide (anexa la Hotărârea Guvernului nr. 804/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64179",
+   "versions": [
+    {
+     "from": "2005-09-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64179",
+     "sha256": "f4c588717c8db66d71a54194b54d7086464e47b51a1b476be8d88d6211cdaecb"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-808-2005-anexa",
    "path": "anexa/hg-808-2005/anexa",
    "short": "Anexa la HG nr. 808/2005",
@@ -704,6 +854,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65866",
      "sha256": "e3f4346e6288395552047020a8e317beb0752f83b0951163a8e5415cdf4ba614"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-1126-2005-anexa",
+   "path": "anexa/ordin-agricultura-1126-2005/anexa",
+   "short": "Anexa la Ordin agricultura nr. 1126/2005",
+   "title": "Regulament din 25 octombrie 2005 de funcționare a Comisiei de atestare a agenților economici în activitatea de exploatare forestieră (anexa la Ordinul AGRICULTURA nr. 1126/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65704",
+   "versions": [
+    {
+     "from": "2005-11-08",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65704",
+     "sha256": "38c0e7faf94f0e424d9a10918348fe5e45194e68c6672538218d4c96fce06be9"
     }
    ]
   },
@@ -1143,6 +1308,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-ansvsa-93-2005-anexa",
+   "path": "anexa/ordin-ansvsa-93-2005/anexa",
+   "short": "Anexa la Ordin ansvsa nr. 93/2005",
+   "title": "Normă sanitară veterinară din 15 septembrie 2005 care stabilește metoda analitică de determinare a constituenților de origine animală pentru controlul oficial al furajelor (anexa la Ordinul ANSVSA nr. 93/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65334",
+   "versions": [
+    {
+     "from": "2005-09-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65334",
+     "sha256": "53192d01a9c2fbb89f84c4a0ea2f772b89c2034555ec141c3bca152d781fd262"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-aparare-85-2005-anexa",
    "path": "anexa/ordin-aparare-85-2005/anexa",
    "short": "Anexa la Ordin aparare nr. 85/2005",
@@ -1184,6 +1364,21 @@
      "units": 25,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66249",
      "sha256": "6757de0dde8554711f2f0dddccefe121170c04619c5ca4f134f19ddc1fb02717"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cncan-274-2005-anexa",
+   "path": "anexa/ordin-cncan-274-2005/anexa",
+   "short": "Anexa la Ordin cncan nr. 274/2005",
+   "title": "Norme din 26 septembrie 2005 privind controlul și supravegherea expedierilor internaționale de deșeuri radioactive implicând teritoriul României (anexa la Ordinul CNCAN nr. 274/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65577",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65577",
+     "sha256": "65c1794f5f3b339335288571cd2a15e30bb54a56952c9da09b6c8f65429798fb"
     }
    ]
   },
@@ -1244,6 +1439,21 @@
      "units": 24,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69102",
      "sha256": "dce017d6a764a57d62aede86b4e007f596d26ac07ae7cbafea4d598d83c22510"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-concurenta-3-2005-anexa",
+   "path": "anexa/ordin-concurenta-3-2005/anexa",
+   "short": "Anexa la Ordin concurenta nr. 3/2005",
+   "title": "Regulament din 7 ianuarie 2005 pentru modificarea și completarea Regulamentului privind ajutorul de stat în domeniul industriei carbonifere (anexa la Ordinul CONCURENTA nr. 3/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58641",
+   "versions": [
+    {
+     "from": "2005-01-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58641",
+     "sha256": "b241d4070f04ddd6fa6bac61037489a40e7fe72c16611c4d616e322ac8f35abd"
     }
    ]
   },
@@ -2013,6 +2223,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-mediu-494-2005-anexa-1",
+   "path": "anexa/ordin-mediu-494-2005/anexa-1",
+   "short": "Anexa nr. 1 la Ordin mediu nr. 494/2005",
+   "title": "Procedură din 30 mai 2005 de atribuire în custodie a ariilor naturale protejate care nu necesită constituirea de structuri de administrare (anexa nr. 1 la Ordinul MEDIU nr. 494/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62244",
+   "versions": [
+    {
+     "from": "2005-06-09",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62244",
+     "sha256": "a38e6346af38a06aa466952fd447822f72e5749f566797791ad4c3c079981692"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-munca-3469-2005-anexa",
    "path": "anexa/ordin-munca-3469-2005/anexa",
    "short": "Anexa la Ordin munca nr. 3469/2005",
@@ -2129,6 +2354,21 @@
      "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64355",
      "sha256": "3b5a3838d1912657b1dfff1fb1db2a52d3e37bf67062754b8d2a4a3fbbb1e18c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-940-2005-anexa",
+   "path": "anexa/ordin-sanatate-940-2005/anexa",
+   "short": "Anexa la Ordin sanatate nr. 940/2005",
+   "title": "Criterii din 7 septembrie 2005 de evaluare a echipamentelor de neutralizare prin sterilizare termică a deșeurilor rezultate din activitatea medicală (anexa la Ordinul SANATATE nr. 940/2005)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65242",
+   "versions": [
+    {
+     "from": "2005-09-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65242",
+     "sha256": "4c5b0fcce0ab8d1d463a117630caa3bdb4a36542a3e56998330e3632f38aeb96"
     }
    ]
   },

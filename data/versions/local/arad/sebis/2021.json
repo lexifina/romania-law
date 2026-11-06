@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/arad/sebis/2021",
+ "acts": [
+  {
+   "slug": "hcl-arad--sebis-10-2021",
+   "path": "local/arad/sebis/2021/10",
+   "short": "HCL Sebiș nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 10/2021",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-nr.10-din22.01.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-01-22",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-nr.10-din22.01.2021.pdf",
+     "sha256": "d8d8db82e7cb90d304f213204dbc691e269a4b105b2dd70f82e968020e664bc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-11-2021",
+   "path": "local/arad/sebis/2021/11",
+   "short": "HCL Sebiș nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 11/2021",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-nr.11-din-26.01.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-nr.11-din-26.01.2021.pdf",
+     "sha256": "8e8743bf91c7c9b8cb609809db9812eb8c767ed583521e86ef3de72197271881"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-2-2021",
+   "path": "local/arad/sebis/2021/2",
+   "short": "HCL Sebiș nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 2/2021",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-Nr.2-din-25.03.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-Nr.2-din-25.03.2021.pdf",
+     "sha256": "3494c30671b4cf64319d7d88ab44c83067a2e828bca4fda1f7cb6b4eb8986758"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-3-2021",
+   "path": "local/arad/sebis/2021/3",
+   "short": "HCL Sebiș nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 3/2021",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-nr.3-din-05.01.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-01-05",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-nr.3-din-05.01.2021.pdf",
+     "sha256": "d6c022e6c0c077171ce160403c6de9d3d8c1d22671fc56c8eed7619878cf97b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-4-2021",
+   "path": "local/arad/sebis/2021/4",
+   "short": "HCL Sebiș nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 4/2021",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-nr.4-din-05.01.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-01-05",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-nr.4-din-05.01.2021.pdf",
+     "sha256": "7146a3770c6b465d51d9b709d6eba4c18150061d7a50edb9b331f78a7c048d9f"
+    }
+   ]
+  }
+ ]
+}

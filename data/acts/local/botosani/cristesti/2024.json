@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/botosani/cristesti/2024",
+"acts": [
+{
+"slug": "hcl-botosani--cristesti-2-2024",
+"path": "local/botosani/cristesti/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristești nr. 2/2024",
+"short": "HCL Cristești nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-22",
+"latest": "2024-04-22",
+"portal": "https://primariacristesti.ro/",
+"council": "botosani/cristesti",
+"council_name": "Consiliul Local al Comunei Cristești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--cristesti-3-2024",
+"path": "local/botosani/cristesti/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristești nr. 3/2024",
+"short": "HCL Cristești nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-22",
+"latest": "2024-04-22",
+"portal": "https://primariacristesti.ro/",
+"council": "botosani/cristesti",
+"council_name": "Consiliul Local al Comunei Cristești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--cristesti-5-2024",
+"path": "local/botosani/cristesti/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristești nr. 5/2024",
+"short": "HCL Cristești nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-26",
+"latest": "2024-04-26",
+"portal": "https://primariacristesti.ro/",
+"council": "botosani/cristesti",
+"council_name": "Consiliul Local al Comunei Cristești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--cristesti-6-2024",
+"path": "local/botosani/cristesti/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristești nr. 6/2024",
+"short": "HCL Cristești nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-26",
+"latest": "2024-04-26",
+"portal": "https://primariacristesti.ro/",
+"council": "botosani/cristesti",
+"council_name": "Consiliul Local al Comunei Cristești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--cristesti-7-2024",
+"path": "local/botosani/cristesti/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristești nr. 7/2024",
+"short": "HCL Cristești nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-26",
+"latest": "2024-04-26",
+"portal": "https://primariacristesti.ro/",
+"council": "botosani/cristesti",
+"council_name": "Consiliul Local al Comunei Cristești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--cristesti-20-2024",
+"path": "local/botosani/cristesti/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristești nr. 20/2024",
+"short": "HCL Cristești nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-11",
+"latest": "2024-05-11",
+"portal": "https://primariacristesti.ro/",
+"council": "botosani/cristesti",
+"council_name": "Consiliul Local al Comunei Cristești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--cristesti-26-2024",
+"path": "local/botosani/cristesti/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristești nr. 26/2024",
+"short": "HCL Cristești nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-24",
+"latest": "2024-05-24",
+"portal": "https://primariacristesti.ro/",
+"council": "botosani/cristesti",
+"council_name": "Consiliul Local al Comunei Cristești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

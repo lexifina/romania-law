@@ -3,6 +3,50 @@
 "shard": "local/botosani/george-enescu/2026",
 "acts": [
 {
+"slug": "hcl-botosani--george-enescu-33-2026",
+"path": "local/botosani/george-enescu/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei George Enescu nr. 33/2026 privind actualizarea poziției nr. 23 din Anexa nr. 1 la Hotărârea de Consiliu Local nr. 22/04.11.2016 privind însușirea inventarului domeniului privat al Comunei George Enescu Consiliul Local al Comunei George Enescu, județul Botoșani, întrunit în ședința ordinară convocată în data de 12 iunie 2026, conform prevederilor articolului 133 alin. (1) din Ordonanța de urgență a Guvernului nr. 57/2019 pr",
+"short": "HCL George Enescu nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://primariageorgeenescu.ro/wp-content/uploads/2026/06/HCL-nr.-33-Actualizare-poz.-23-inventar-dom.-privat.pdf",
+"council": "botosani/george-enescu",
+"council_name": "Consiliul Local al Comunei George Enescu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--george-enescu-34-2026",
+"path": "local/botosani/george-enescu/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei George Enescu nr. 34/2026 Privind transm. cu titlu gratuit teren in suprafața de 7 mp",
+"short": "HCL George Enescu nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://primariageorgeenescu.ro/wp-content/uploads/2026/06/HCL-nr.-34-Privind-transm.-cu-titlu-gratuit-teren-in-suprafata-de-7-mp.pdf",
+"council": "botosani/george-enescu",
+"council_name": "Consiliul Local al Comunei George Enescu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--george-enescu-35-2026",
 "path": "local/botosani/george-enescu/2026/35",
 "kind": "local",

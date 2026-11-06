@@ -3,6 +3,156 @@
  "shard": "local/botosani/ripiceni/2025",
  "acts": [
   {
+   "slug": "hcl-botosani--ripiceni-1-2025",
+   "path": "local/botosani/ripiceni/2025/1",
+   "short": "HCL Ripiceni nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 1/2025 privind aprobarea organizării rețelei școlare pentru anul școlar 2025 - 2026 la nivelul comunei Ripiceni, județul Botoșani CONSILIUL LOCAL RIPICENI , JUDEȚUL BOTOȘANI , având în vedere : - adresa Inspectoratului Școlar Județean Botoșani nr. 15699 din 12.11.2024 prin care se solicită proiectul de hotărâre pentru organizarea rețelei școlare în comuna Ripiceni pentru anul școlar 2025 - 2026 , -Refera",
+   "url": "https://www.ripicenibt.ro/index.php/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2025/HCL%20nr.%201.pdf",
+     "sha256": "27881c373c9c11a2394ef3612be79cbc707b74ce299abe68927c9b3b33067caa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-12-2025",
+   "path": "local/botosani/ripiceni/2025/12",
+   "short": "HCL Ripiceni nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 12/2025 Privind aprobarea Strategiei anuale de achiziții publice și a Planului Anual de Achizitii Publice pentru anul 2025 la nivelul Comunei Ripiceni, județul Botoșani Consiliul Local al Comunei Ripiceni, întrunit în ședința ordinară în data de 28.04.2025; Având în vedere: – Referatul de aprobare al Primarului Comunei Ripiceni; – Raportul compartimentului de resort din cadrul aparatului de specialitate a",
+   "url": "https://www.ripicenibt.ro/index.php/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2025/HCL%20nr.%2012.pdf",
+     "sha256": "9f548e7da9534bdb80c521a33855013959665fb9a3912a42e2359350475710b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-14-2025",
+   "path": "local/botosani/ripiceni/2025/14",
+   "short": "HCL Ripiceni nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 14/2025 pentru lunile mai, iunie, iulie 2025 Consiliul Local al comunei Ripiceni, județul Botoșani întrunit în ședință ordinară în data de 28.04.2025, la care participă un număr de 15 consilieri locali din totalul de 15 consilieri aleși în funcție; Analizând referatul de aprobare la proiectul de hotărâre cu privire la alegerea președintelui de ședință pentru lunile mai, iunie, iulie 2025, prezentat de doa",
+   "url": "https://www.ripicenibt.ro/index.php/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2025/HCL%20nr.%2014.pdf",
+     "sha256": "ad1817dbc18e7576d8448ef67d7b694c0b155cbfe90c367973bb6facf2a64ad5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-15-2025",
+   "path": "local/botosani/ripiceni/2025/15",
+   "short": "HCL Ripiceni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 15/2025 privind aprobarea Regulamentului de Organizare și Funcționare al Serviciului Voluntar pentru Situații de Urgență la nivelul Comunei Ripiceni, județul Botoșani Consiliul Local al Comunei Ripiceni, întrunit în ședință ordinară în data de 29.05.2025; Având în vedere: – Referatul de aprobare al Primarului Comunei Ripiceni nr. 5112/16.05.2025; – Rapartul compartimentului de specialitate înregistrat sub",
+   "url": "https://www.ripicenibt.ro/index.php/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2025/HCL%20nr.%2015.pdf",
+     "sha256": "b9015e7d3821658d3318f362531a6c36407314043a523328eb268db20f9533a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-17-2025",
+   "path": "local/botosani/ripiceni/2025/17",
+   "short": "HCL Ripiceni nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 17/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2025/HCL%20nr.%2017.pdf",
+     "sha256": "3ce8147a17980df734662cf5bb590d3157a77f193083c2c0bb2ef551a1e9ea7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-18-2025",
+   "path": "local/botosani/ripiceni/2025/18",
+   "short": "HCL Ripiceni nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 18/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2025/HCL%20nr.%2018.pdf",
+     "sha256": "3bd8f3271f51d3dd94d0c70f59b7e2d7bc290ebdf0b0459c0f98d051d0acf328"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-19-2025",
+   "path": "local/botosani/ripiceni/2025/19",
+   "short": "HCL Ripiceni nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 19/2025 privind alegerea președintelui de ședință pentru august, septembrie și octombrie 2025 Consiliul Local al comunei Ripiceni, județul Botoșani întrunit în ședință ordinară în data de 31.07.2025, la care participă un număr de 15 consilieri locali din totalul de 15 consilieri aleși în funcție; Analizând referatul de aprobare la proiectul de hotărâre cu privire la alegerea președintelui de ședință pentr",
+   "url": "https://www.ripicenibt.ro/index.php/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2025/HCL%20nr.%2019.pdf",
+     "sha256": "9b94f07417f71f9ac4b679ba4b6cd66801f197529e030e0f8e4debdc4acc83e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-2-2025",
+   "path": "local/botosani/ripiceni/2025/2",
+   "short": "HCL Ripiceni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 2/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2025/HCL%20nr.%202.pdf",
+     "sha256": "656ad13d9f33c3d3a94fc5342ec4f4125bad3f2b40d11796463dc318460ae8a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-20-2025",
+   "path": "local/botosani/ripiceni/2025/20",
+   "short": "HCL Ripiceni nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 20/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2025/HCL%20nr.%2020.pdf",
+     "sha256": "c6381b3ae00124b4bfb13031929869893ff4922137a165cd85134b0ae2d578ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-21-2025",
+   "path": "local/botosani/ripiceni/2025/21",
+   "short": "HCL Ripiceni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 21/2025 privind aprobarea planului de acțiuni sau de lucrări de interes local pe anul 2025 Consiliul Local al comunei Ripiceni întrunit în ședință ordinară în ziua de 26.08.2025 Luând act de: - Referatul de aprobare al primarului comunei Ripiceni, în calitatea sa de inițiator, înregistrat sub nr. 1563 din 11.08.2025; - Referatul Compartimentului de resort din cadrul Aparatului de specialitate al Primarulu",
+   "url": "https://www.ripicenibt.ro/index.php/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2025/HCL%20nr.%2021.pdf",
+     "sha256": "4ccf842596408f6dde4b4d349f799a1d8ed44032d2f1a6423c9865430fc777c1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--ripiceni-6-2025",
    "path": "local/botosani/ripiceni/2025/6",
    "short": "HCL Ripiceni nr. 6/2025",
@@ -14,6 +164,36 @@
      "units": 1,
      "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2025/HCL%20nr.%206.pdf",
      "sha256": "108daf8f467b0a500504286e0d61cd63bf24b91b8a540239675d9deae3119bf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-7-2025",
+   "path": "local/botosani/ripiceni/2025/7",
+   "short": "HCL Ripiceni nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 7/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2025/HCL%20nr.%207.pdf",
+     "sha256": "a8bac4f5c3d3b099cbd72057b4088576cf55d2dc678cb8c80b65ea0d24c5c004"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--ripiceni-8-2025",
+   "path": "local/botosani/ripiceni/2025/8",
+   "short": "HCL Ripiceni nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ripiceni nr. 8/2025 privind suportul alimentar prin Programul național „ Masă Sănătoasă” Consiliul local al comunei Ripiceni, județul Botoșani, întrunit astăzi 07 martie 2025 în ședință ordinară : Având în vedere: - Referatul de aprobare al Primarului comunei Ripiceni - Adresa nr. 72 din 06.03.2025, transmisă de Școala Gimnazială nr. 1 Ripiceni; - HG 23/28.01.2025 privind instituirea Programului național „Masă sănăto",
+   "url": "https://www.ripicenibt.ro/index.php/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://www.ripicenibt.ro/images/all_docs/hcl/2025/HCL%20nr.%208.pdf",
+     "sha256": "2026e431068fd33d150ce87ed19af561c7ef30ea22406049e84438d6991c8b12"
     }
    ]
   }

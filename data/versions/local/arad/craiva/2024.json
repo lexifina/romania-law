@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/arad/craiva/2024",
+ "acts": [
+  {
+   "slug": "hcl-arad--craiva-1-2024",
+   "path": "local/arad/craiva/2024/1",
+   "short": "HCL Craiva nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 1/2024",
+   "url": "https://primariacraiva.ro/wp-content/uploads/2024/04/Hotararea-nr.1-din-19-aprilie-2024-numarul-de-sustinatori-necesar-depunerii-candidaturilor.pdf",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2024/04/Hotararea-nr.1-din-19-aprilie-2024-numarul-de-sustinatori-necesar-depunerii-candidaturilor.pdf",
+     "sha256": "031c85117bbd160db7aaa556fc8a84ae9b00c37cd0e115d1e124524d55e8d222"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-11-2024",
+   "path": "local/arad/craiva/2024/11",
+   "short": "HCL Craiva nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 11/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f1190da1b3b9e4a3502e1177fee3987630a5889b1a6812b4c3f5d299cc541c06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-12-2024",
+   "path": "local/arad/craiva/2024/12",
+   "short": "HCL Craiva nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 12/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5e56bac573d63414434ef13da3dd72f7d6e1d47b8be3ef7ae3e79c68fb813c1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-39-2024",
+   "path": "local/arad/craiva/2024/39",
+   "short": "HCL Craiva nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 39/2024 privind aprobarea Organigramei și a Statului de funcții pentru funcțiile publice și personalul contractual din cadrul aparatului de specialitate al primarului comunei Craiva Având în vedere: -prevederile art. 26 alin.4 din Legea nr.273/2006, privind finanțele publice locale cu modificarile si completarile ulterioare; -prevederile Ordinului Prefectului nr. 245/12.04.2024 privind numarul maxim de po",
+   "url": "https://primariacraiva.ro/wp-content/uploads/2024/08/Hotarare-aprobare-organigrama-si-stat-de-functii.pdf",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2024/08/Hotarare-aprobare-organigrama-si-stat-de-functii.pdf",
+     "sha256": "8ceb45aa1c351c294006d9ccf2554fa208674315a1364eb1e7bccd1ec1d65a0b"
+    }
+   ]
+  }
+ ]
+}

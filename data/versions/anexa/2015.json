@@ -3,6 +3,21 @@
  "shard": "anexa/2015",
  "acts": [
   {
+   "slug": "anexa-decizie-ancom-390-2015-anexa",
+   "path": "anexa/decizie-ancom-390-2015/anexa",
+   "short": "Anexa la Decizia ancom nr. 390/2015",
+   "title": "Strategia și planul de acțiune din 6 mai 2015 privind implementarea și dezvoltarea sistemelor de comunicații de bandă largă la nivel național în banda de frecvențe 3400-3800 MHz pentru perioada 2015-2025 (anexa la Decizia ANCOM nr. 390/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167970",
+   "versions": [
+    {
+     "from": "2015-05-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167970",
+     "sha256": "d92a5a13929ebaddd93946b80bd1e5a3371296bff03f9e3034ab1cea5297d2f4"
+    }
+   ]
+  },
+  {
    "slug": "anexa-decizie-anrm-5-2015-anexa",
    "path": "anexa/decizie-anrm-5-2015/anexa",
    "short": "Anexa la Decizia anrm nr. 5/2015",
@@ -29,6 +44,51 @@
      "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175382",
      "sha256": "08b8b5ae4ae26d8d9b26143bd02518da3e8d48a07c27aa42c38625a56504b3df"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-orda-170-2015-anexa",
+   "path": "anexa/decizie-orda-170-2015/anexa",
+   "short": "Anexa la Decizia orda nr. 170/2015",
+   "title": "Protocol din 8 decembrie 2015 privind interpretarea Listei de aparate și suporturi pentru care se datorează remunerație compensatorie pentru copie privată pentru operele reproduse după înregistrări sonore și audiovizuale (anexa la Decizia ORDA nr. 170/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174678",
+   "versions": [
+    {
+     "from": "2016-01-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174678",
+     "sha256": "9873788e58c9f1c0e1b2a1a91a267fc4e432456d46537a854a90fd9d5b992b09"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-orda-82-2015-anexa",
+   "path": "anexa/decizie-orda-82-2015/anexa",
+   "short": "Anexa la Decizia orda nr. 82/2015",
+   "title": "Încheiere din 3 august 2015 privind cererea de lămurire a întinderii și aplicării dispozitivului Hotărârii arbitrale nr. 2 din 16 iulie 2015 privind stabilirea criteriilor de repartizare a remunerației compensatorii pentru copia privată, a remunerației cuvenite artiștilor interpreți sau executanți pentru retransmiterea prin cablu și pentru dreptul de comunicare publică (ambiental/lucrativ) între organismele de gestiune colectivă ARAIEX, CREDIDAM și UNART și a comisionului datorat colectorului pentru domeniile: copie privată, comunicare publică - ambiental/lucrativ și retransmitere prin cablu (anexa la Decizia ORDA nr. 82/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170594",
+   "versions": [
+    {
+     "from": "2015-08-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170594",
+     "sha256": "d5daa9f33878932ff62cfdfb168945a3ca8f1f4fd8dbe7464f0db452a514c730"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-orda-99-2015-anexa",
+   "path": "anexa/decizie-orda-99-2015/anexa",
+   "short": "Anexa la Decizia orda nr. 99/2015",
+   "title": "Protocol din 22 septembrie 2015 între Uniunea Producătorilor de Fonograme din România (UPFR) și Centrul Român pentru Administrarea Drepturilor Artiștilor Interpreți (CREDIDAM), pe de o parte, și Federația Patronală a Rețelelor de Comerț (FPRC), Societatea Comercială Altex România - S.R.L. (ALTEX) și Societatea Comercială OMV Petrom Marketing - S.R.L. (OMV), pe de altă parte (anexa la Decizia ORDA nr. 99/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172174",
+   "versions": [
+    {
+     "from": "2015-10-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172174",
+     "sha256": "ffb238a0bd9ae0495d5a0d91b0ba7f67bcdd2ba4828955fff08b81a432e0edec"
     }
    ]
   },
@@ -753,6 +813,456 @@
    ]
   },
   {
+   "slug": "anexa-ordin-anre-1-2015-anexa",
+   "path": "anexa/ordin-anre-1-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 1/2015",
+   "title": "Procedură din 21 ianuarie 2015 de înregistrare a participanților la piața angro de energie în Registrul național al participanților la piața angro de energie (anexa la Ordinul ANRE nr. 1/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165240",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165240",
+     "sha256": "added59475b5cc21aec1f7bb673cbcbfd09b3e0269b58091f449333dff13e1ba"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-101-2015-anexa",
+   "path": "anexa/ordin-anre-101-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 101/2015",
+   "title": "Metodologie din 1 iulie 2015 de stabilire a cotelor anuale obligatorii de energie electrică produsă din surse regenerabile de energie care beneficiază de sistemul de promovare prin certificate verzi și a celor de achiziție de certificate verzi (anexa la Ordinul ANRE nr. 101/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170082",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170082",
+     "sha256": "a5d4b8aef1968e882e18d82d2dcf0c061310a3ba000f55cc7ec035aa7d38669a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-102-2015-anexa",
+   "path": "anexa/ordin-anre-102-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 102/2015",
+   "title": "Regulament din 1 iulie 2015 privind stabilirea soluțiilor de racordare a utilizatorilor la rețelele electrice de interes public (anexa la Ordinul ANRE nr. 102/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169663",
+   "versions": [
+    {
+     "from": "2015-07-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169663",
+     "sha256": "d48e71d2c31b94270066028ce86e65f58ddcbf2df2d90d413c0ff405adbbe12d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-103-2015-anexa",
+   "path": "anexa/ordin-anre-103-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 103/2015",
+   "title": "Cod din 1 iulie 2015 de măsurare a energiei electrice (anexa la Ordinul ANRE nr. 103/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169725",
+   "versions": [
+    {
+     "from": "2016-07-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169725",
+     "sha256": "3ffa283bcf3f48e309c633a3c5138bdf554be983a122556953595b71a4455dfd"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-104-2015-anexa",
+   "path": "anexa/ordin-anre-104-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 104/2015",
+   "title": "Procedură din 1 iulie 2015 privind elaborarea studiului tehnico-economic în vederea realizării obiectivelor din sectorul gazelor naturale (anexa la Ordinul ANRE nr. 104/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169573",
+   "versions": [
+    {
+     "from": "2015-07-09",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169573",
+     "sha256": "fed1dedad4ae269765444e5a0fe8d24b8a3f93514b90b63659c12ee5bd4f06fe"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-118-2015-anexa",
+   "path": "anexa/ordin-anre-118-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 118/2015",
+   "title": "Standard de performanță din 17 iulie 2015 pentru activitatea de furnizare a energiei electrice (anexa la Ordinul ANRE nr. 118/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170101",
+   "versions": [
+    {
+     "from": "2015-07-28",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170101",
+     "sha256": "1b465cb0116cf5e770e76aa9f64970a93e2fe24c1aedac187a53724d08d9170b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-12-2015-anexa",
+   "path": "anexa/ordin-anre-12-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 12/2015",
+   "title": "Regulament din 4 martie 2015 pentru acordarea licențelor și autorizațiilor în sectorul energiei electrice (anexa la Ordinul ANRE nr. 12/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166413",
+   "versions": [
+    {
+     "from": "2015-03-17",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166413",
+     "sha256": "2d0a98a72c618bf2a2ed085a85667224e2acf03097f46cc8ebacaffff299af41"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-121-2015-anexa",
+   "path": "anexa/ordin-anre-121-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 121/2015",
+   "title": "Procedură din 29 iulie 2015 privind determinarea consumului de energie electrică în caz de înregistrare eronată și în sistem paușal (anexa la Ordinul ANRE nr. 121/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170365",
+   "versions": [
+    {
+     "from": "2015-08-06",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170365",
+     "sha256": "5f00d9bcb11cfd021aac756ea0355004b7597165d005ef59a7920bb835efefc1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-129-2015-anexa",
+   "path": "anexa/ordin-anre-129-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 129/2015",
+   "title": "Procedură din 12 august 2015 privind constituirea garanțiilor financiare în cadrul contractului pentru serviciul de distribuție a energiei electrice (anexa la Ordinul ANRE nr. 129/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170685",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170685",
+     "sha256": "39af3cbedebffaed9bef738ee5f8a9060f00f78b7784d8a48c8d9ac9b4088e6e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-13-2015-anexa",
+   "path": "anexa/ordin-anre-13-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 13/2015",
+   "title": "Condiții generale din 4 martie 2015 asociate licenței pentru activitatea traderului de energie electrică (anexa la Ordinul ANRE nr. 13/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166259",
+   "versions": [
+    {
+     "from": "2015-03-11",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166259",
+     "sha256": "b1b944a5a5c6d690dfaf686c2e31da42a033843e69abdb673b59ad97d12b0a45"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-130-2015-anexa",
+   "path": "anexa/ordin-anre-130-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 130/2015",
+   "title": "Procedură din 12 august 2015 privind alimentarea cu energie electrică a locurilor de consum aparținând furnizorilor, producătorilor sau operatorilor de rețea, altele decât consumul propriu tehnologic al rețelelor electrice (anexa la Ordinul ANRE nr. 130/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170683",
+   "versions": [
+    {
+     "from": "2015-08-18",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170683",
+     "sha256": "859525bbef5a4ca776816c4f0f33616303931e69b8089af1d3c2f3f2ce39e081"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-14-2015-anexa",
+   "path": "anexa/ordin-anre-14-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 14/2015",
+   "title": "Metodologie din 11 martie 2015 privind determinarea anuală a nivelului stocului minim de gaze naturale pentru titularii licențelor de furnizare de gaze naturale și pentru titularii licențelor de operare a sistemelor de transport al gazelor naturale (anexa la Ordinul ANRE nr. 14/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166429",
+   "versions": [
+    {
+     "from": "2015-03-17",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166429",
+     "sha256": "16027ada29b8a6badb5641f3059919b845bfd6b3a110a7360a875000b36d35ad"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-140-2015-anexa",
+   "path": "anexa/ordin-anre-140-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 140/2015",
+   "title": "Metodologie din 16 septembrie 2015 de stabilire a tarifelor reglementate pentru activitățile conexe celei de operare a sistemului de distribuție a gazelor naturale (anexa la Ordinul ANRE nr. 140/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171722",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171722",
+     "sha256": "8383bf734c9c3289ce89296f20dc4d798831079968b87fffcbb221cd11d9c5b8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-15-2015-anexa",
+   "path": "anexa/ordin-anre-15-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 15/2015",
+   "title": "Metodologie din 18 martie 2015 de stabilire și ajustare a prețurilor pentru energia electrică și termică produsă și livrată din centrale de cogenerare ce beneficiază de schema de sprijin, respectiv a bonusului pentru cogenerarea de înaltă eficiență (anexa la Ordinul ANRE nr. 15/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167322",
+   "versions": [
+    {
+     "from": "2015-04-21",
+     "units": 60,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167322",
+     "sha256": "b3e67d0a811509658f34d430e57dda9db00afc20357d9f8fa301597b8db87400"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-159-2015-anexa",
+   "path": "anexa/ordin-anre-159-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 159/2015",
+   "title": "Metodologie din 26 noiembrie 2015 de alocare a capacității și de stabilire a tarifelor pe conducta de transport gaze naturale Isaccea III-Negru Vodă II (anexa la Ordinul ANRE nr. 159/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173502",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173502",
+     "sha256": "53dcaf203bda00f84496dcfb611f48dca35ec84dfe96bbedc280205233f44208"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-16-2015-anexa",
+   "path": "anexa/ordin-anre-16-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 16/2015",
+   "title": "Procedură-cadru din 18 martie 2015 privind obligația furnizorilor de energie electrică și gaze naturale de soluționare a plângerilor clienților finali (anexa la Ordinul ANRE nr. 16/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166564",
+   "versions": [
+    {
+     "from": "2015-03-23",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166564",
+     "sha256": "8a3d62a9f72e44de0a1104ed193fe684d8afd0f3856ad6f471b2fc39ef729854"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-163-2015-anexa",
+   "path": "anexa/ordin-anre-163-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 163/2015",
+   "title": "Condiții generale din 26 noiembrie 2015 asociate licenței pentru administrarea piețelor centralizate de energie electrică (anexa la Ordinul ANRE nr. 163/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173848",
+   "versions": [
+    {
+     "from": "2015-12-11",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173848",
+     "sha256": "59bb3dd89b39b465b976d525eef4abf3ae780460aa7b88cf91b99e6eda3f9dc3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-17-2015-anexa",
+   "path": "anexa/ordin-anre-17-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 17/2015",
+   "title": "Regulament din 18 martie 2015 de preluare de către furnizorii de ultimă instanță a locurilor de consum ale clienților finali care nu au asigurată furnizarea energiei electrice din nicio altă sursă (anexa la Ordinul ANRE nr. 17/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166730",
+   "versions": [
+    {
+     "from": "2015-03-27",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166730",
+     "sha256": "7295ce0f92700a59de7b727b9f70c5064d7325e46e022c431a978a3c403246c8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-177-2015-anexa",
+   "path": "anexa/ordin-anre-177-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 177/2015",
+   "title": "Procedură din 16 decembrie 2015 privind acordarea despăgubirilor clienților casnici pentru receptoarele electrocasnice deteriorate ca efect al unor supratensiuni accidentale produse din culpa operatorului de rețea (anexa la Ordinul ANRE nr. 177/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174438",
+   "versions": [
+    {
+     "from": "2015-12-29",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174438",
+     "sha256": "76baaf35de2386eb4caeda7c72c9a6e5475365ffbca4a82537b672b8d576cbc2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-179-2015-anexa",
+   "path": "anexa/ordin-anre-179-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 179/2015",
+   "title": "Procedură din 16 decembrie 2015 privind verificările și reviziile tehnice ale instalațiilor de utilizare a gazelor naturale (anexa la Ordinul ANRE nr. 179/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174380",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174380",
+     "sha256": "e49fc1bf5841e4b74536855964eed08710480f3f104800d82907e2ed9be87912"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-182-2015-anexa",
+   "path": "anexa/ordin-anre-182-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 182/2015",
+   "title": "Metodologie din 30 decembrie 2015 pentru stabilirea venitului unitar aferent activității de furnizare reglementată, desfășurată într-un an de reglementare, și de aprobare a prețurilor reglementate în sectorul gazelor naturale, începând cu anul 2016 (anexa la Ordinul ANRE nr. 182/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174627",
+   "versions": [
+    {
+     "from": "2016-01-05",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174627",
+     "sha256": "a268e4fe9308f20eef44862c350e4e1aca82e32c533c4712c58c1084f4c34239"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-4-2015-anexa",
+   "path": "anexa/ordin-anre-4-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 4/2015",
+   "title": "Regulament din 4 februarie 2015 de emitere a certificatelor verzi (anexa la Ordinul ANRE nr. 4/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165715",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165715",
+     "sha256": "4b3988ea90ac8579125b797f62e8c635ae706025daf0b8852a67576f9a324b47"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-60-2015-anexa",
+   "path": "anexa/ordin-anre-60-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 60/2015",
+   "title": "Regulament din 1 aprilie 2015 de organizare și funcționare a pieței de certificate verzi (anexa la Ordinul ANRE nr. 60/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167494",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 75,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167494",
+     "sha256": "4088563d2e1af2ec11f116efab45378be013cd9eab5932b515cb1aeacff03dfa"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-61-2015-anexa",
+   "path": "anexa/ordin-anre-61-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 61/2015",
+   "title": "Metodologie de calcul din 1 aprilie 2015 pentru stabilirea cantităților de energie electrică produse în cogenerare de înaltă eficiență în vederea certificării prin garanții de origine (anexa la Ordinul ANRE nr. 61/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168468",
+   "versions": [
+    {
+     "from": "2015-06-02",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168468",
+     "sha256": "c0544731974c5b76dd045290ba45a88edfc9073a58dca7586a5a8df2aa0283bd"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-7-2015-anexa",
+   "path": "anexa/ordin-anre-7-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 7/2015",
+   "title": "Metodologie din 11 februarie 2015 pentru stabilirea veniturilor reglementate unitare și a veniturilor totale unitare aferente activității de furnizare reglementată și de aprobare a prețurilor reglementate în sectorul gazelor naturale, pentru anul 2015 (anexa la Ordinul ANRE nr. 7/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165722",
+   "versions": [
+    {
+     "from": "2015-02-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165722",
+     "sha256": "f8363292b6f39d40b8bc84fd3612fc8e9ea7f9320f75f7b88405cd0d748d88c0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-75-2015-anexa",
+   "path": "anexa/ordin-anre-75-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 75/2015",
+   "title": "Procedură din 29 aprilie 2015 privind corecția datelor de măsurare în raport cu punctul de delimitare (anexa la Ordinul ANRE nr. 75/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167730",
+   "versions": [
+    {
+     "from": "2015-05-06",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167730",
+     "sha256": "999735c5a449ec95f5d64500a855e56702192667a7212fe0546c1fc63e48e61f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-78-2015-anexa",
+   "path": "anexa/ordin-anre-78-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 78/2015",
+   "title": "Metodologie din 28 mai 2015 de monitorizare a sistemului de promovare a energiei electrice din surse regenerabile de energie prin certificate verzi (anexa la Ordinul ANRE nr. 78/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169232",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169232",
+     "sha256": "ab4136e84863bbfe91208ce7ddddd73d02de9fa1e57e1d06f8771f1de25de981"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-92-2015-anexa",
+   "path": "anexa/ordin-anre-92-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 92/2015",
+   "title": "Metodologie din 17 iunie 2015 de stabilire a tarifelor aplicate de furnizorii de ultimă instanță clienților finali (anexa la Ordinul ANRE nr. 92/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169094",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169094",
+     "sha256": "cbfec8b957ca615ab49629652591739e2d666dc67920682395bfea678226997c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-96-2015-anexa",
+   "path": "anexa/ordin-anre-96-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 96/2015",
+   "title": "Regulament din 25 iunie 2015 privind activitatea de informare a clienților finali de energie electrică și gaze naturale (anexa la Ordinul ANRE nr. 96/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169464",
+   "versions": [
+    {
+     "from": "2015-07-06",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169464",
+     "sha256": "85045cdcf1d86e8bdb6a9f7498a23ef404829ee7ce3129cdc00451333dc0d7bf"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-98-2015-anexa",
+   "path": "anexa/ordin-anre-98-2015/anexa",
+   "short": "Anexa la Ordin anre nr. 98/2015",
+   "title": "Regulament din 25 iunie 2015 pentru autorizarea operatorilor economici care desfășoară activități în domeniul gazelor naturale (anexa la Ordinul ANRE nr. 98/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169439",
+   "versions": [
+    {
+     "from": "2015-07-06",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169439",
+     "sha256": "08347d12bb03f5f8ffabb9cf0d119d7bdf7f2df37d4cbb1cc6f52e3cb41a34f4"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-anrsc-82-2015-anexa",
    "path": "anexa/ordin-anrsc-82-2015/anexa",
    "short": "Anexa la Ordin anrsc nr. 82/2015",
@@ -974,6 +1484,51 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171650",
      "sha256": "8c03a66c3d22465653478223676a22815c47bf941768e60505bd52cd126089e7"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-concurenta-227-2015-anexa",
+   "path": "anexa/ordin-concurenta-227-2015/anexa",
+   "short": "Anexa la Ordin concurenta nr. 227/2015",
+   "title": "Regulament din 6 mai 2015 pentru modificarea Regulamentului privind organizarea și funcționarea Consiliului de supraveghere din domeniul feroviar, pus în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 62/2013 (anexa la Ordinul CONCURENTA nr. 227/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167761",
+   "versions": [
+    {
+     "from": "2015-05-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167761",
+     "sha256": "8466486fc48f4c1382ea4b9c10084d570be0e80509d3fcaedbcd570f60b6dfbe"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-concurenta-228-2015-anexa",
+   "path": "anexa/ordin-concurenta-228-2015/anexa",
+   "short": "Anexa la Ordin concurenta nr. 228/2015",
+   "title": "Regulament din 6 mai 2015 pentru modificarea și completarea Regulamentului de organizare, funcționare și procedură al Consiliului Concurenței, pus în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 101/2012 (anexa la Ordinul CONCURENTA nr. 228/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167765",
+   "versions": [
+    {
+     "from": "2015-05-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167765",
+     "sha256": "0aba2e1e65cd82636e39e7257a80cd9ec7fb9d8371c1f166cb9cefc38bb027fd"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-concurenta-512-2015-anexa",
+   "path": "anexa/ordin-concurenta-512-2015/anexa",
+   "short": "Anexa la Ordin concurenta nr. 512/2015",
+   "title": "Regulament din 2 septembrie 2015 pentru modificarea și completarea Regulamentului de organizare, funcționare și procedură al Consiliului Concurenței, pus în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 101/2012 (anexa la Ordinul CONCURENTA nr. 512/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171147",
+   "versions": [
+    {
+     "from": "2015-09-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171147",
+     "sha256": "17838d7bd125939f6a7c9333d9b6b5219fa18543bb995aa667324fce596ef2b3"
     }
    ]
   },
@@ -1698,6 +2253,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-mediu-631-2015-anexa",
+   "path": "anexa/ordin-mediu-631-2015/anexa",
+   "short": "Anexa la Ordin mediu nr. 631/2015",
+   "title": "Regulament din 31 martie 2015 privind organizarea activității de atestare a instituțiilor publice sau private specializate în elaborarea documentațiilor pentru fundamentarea solicitării avizului de gospodărire a apelor și a autorizației de gospodărire a apelor (anexa la Ordinul MEDIU nr. 631/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167525",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167525",
+     "sha256": "54cee8077e9ccc42c0cb7d88204955adea5e36de9e1e31c03010f685dabfccf3"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-mediu-819-2015-anexa",
    "path": "anexa/ordin-mediu-819-2015/anexa",
    "short": "Anexa la Ordin mediu nr. 819/2015",
@@ -2024,6 +2594,21 @@
      "units": 25,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173220",
      "sha256": "830c348dbc2d2e4c933321ec7a4402fb823e2f0bba56660cfe41319a85df27a3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-1213-2015-anexa",
+   "path": "anexa/ordin-transporturi-1213-2015/anexa",
+   "short": "Anexa la Ordin transporturi nr. 1213/2015",
+   "title": "Normă din 11 noiembrie 2015 privind atestarea profesională a lectorilor necesari procesului de pregătire și perfecționare profesională a personalului de specialitate din domeniul transportului rutier (anexa la Ordinul TRANSPORTURI nr. 1213/2015)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173054",
+   "versions": [
+    {
+     "from": "2015-11-18",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173054",
+     "sha256": "015f363ccc5ded22f2a6ed84ea91d4ea5ca3b67b2651dc3f7c621c1653c92679"
     }
    ]
   },

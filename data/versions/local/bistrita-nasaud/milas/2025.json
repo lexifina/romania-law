@@ -3,6 +3,81 @@
  "shard": "local/bistrita-nasaud/milas/2025",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--milas-25-2025",
+   "path": "local/bistrita-nasaud/milas/2025/25",
+   "short": "HCL Milaș nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 25/2025 privind atestarea apartenenței unui imobil, cu destinația de Cale acces Cămin Cultural-scări, la domeniul public al comunei Milaș, județul Bistrița-Năsăud, în vederea înscrierii acestuia în Cartea Funciară",
+   "url": "https://comunamilas.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.25_27.06.2025.pdf",
+     "sha256": "13893307cfdc88923c4f2478a94ee4302a21c9bf8db41555bfd1cb314476d465"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-26-2025",
+   "path": "local/bistrita-nasaud/milas/2025/26",
+   "short": "HCL Milaș nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 26/2025 privind înființarea, organigrama și numărul de personal ale Serviciului Voluntar pentru Situații de Urgență al comunei Milaș, județul Bistrița-Năsăud",
+   "url": "https://comunamilas.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.26_27.06.2025.pdf",
+     "sha256": "6912cb714bdced04aaea0324d989c3a60388dee3462c3adbbeb17ef1ca6111c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-27-2025",
+   "path": "local/bistrita-nasaud/milas/2025/27",
+   "short": "HCL Milaș nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 27/2025 privind alegerea președintelui de ședință al Consiliului local al comunei Milaș pentru lunile AUGUST 2025 - OCTOMBRIE 2025",
+   "url": "https://comunamilas.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.27_31.07.2025.pdf",
+     "sha256": "635a691b806ebc1e2ee0e7fe82ff446844b2928c4a02c39543f906272e6a5cd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-28-2025",
+   "path": "local/bistrita-nasaud/milas/2025/28",
+   "short": "HCL Milaș nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 28/2025 privind aprobarea contului de execuție al bugetului local al comunei Milaș pe trim.II an 2025",
+   "url": "https://comunamilas.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.28_31.07.2025.pdf",
+     "sha256": "02abe68f167c0f71dea3036106e34a31c08be6c6ecc6b73b4217e5886a1cbaa7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-30-2025",
+   "path": "local/bistrita-nasaud/milas/2025/30",
+   "short": "HCL Milaș nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 30/2025 privind avizarea lucrării ”Internet zone albe - jud. Satu-Mare, Maramureș, Cluj și Bistrița-Năsăud zon 5 - în comuna Milaș”",
+   "url": "https://comunamilas.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.30_19.09.2025.pdf",
+     "sha256": "6d950e8542102de92fd18c4e254f94213013b58ac66b976612a01e351adcc558"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--milas-32-2025",
    "path": "local/bistrita-nasaud/milas/2025/32",
    "short": "HCL Milaș nr. 32/2025",
@@ -18,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-bistrita-nasaud--milas-33-2025",
+   "path": "local/bistrita-nasaud/milas/2025/33",
+   "short": "HCL Milaș nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 33/2025 privind aprobarea Actului adițional nr. 8 la Contractul de concesiune nr. 1277 din 06.12.2018 privind Delegarea prin concesiune a serviciului public de salubrizare respectiv activitatea de colectare, transport, depozitare și transfer al deșeurilor municipale inclusiv deșeuri periculoase din deșeuri menajere și managementul Stațiilor de Transfer și al Centrelor de Colectare din județul Bistrița-Năs",
+   "url": "https://comunamilas.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.33_29.09.2025.pdf",
+     "sha256": "7c1bf5336fffdf38ee55c6def51f1b18ac27d8f0743bf83f524f9819e42af64c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--milas-34-2025",
    "path": "local/bistrita-nasaud/milas/2025/34",
    "short": "HCL Milaș nr. 34/2025",
@@ -29,6 +119,96 @@
      "units": 1,
      "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.34_29.09.2025_regulament.pdf",
      "sha256": "548c5dbb01a60f7baa2a0a977ffa751db1392fcd6a009358c48a6979b2c2a40a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-35-2025",
+   "path": "local/bistrita-nasaud/milas/2025/35",
+   "short": "HCL Milaș nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 35/2025 privind modificarea Statului de funcții pentru aparatul de specialitate al primarului comunei Milaș",
+   "url": "https://comunamilas.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.35_29.09.2025.pdf",
+     "sha256": "eab05d079fa2fb30ba3c4120c3e7920047a089dca0a057f3b8e76c036513af48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-36-2025",
+   "path": "local/bistrita-nasaud/milas/2025/36",
+   "short": "HCL Milaș nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 36/2025 privind aprobarea documentației pentru atribuirea contractului de achiziție publică de servicii ”Prestări servicii exploatare” pentru partida 6817 u.a112A.112B din UP BREAZA, aproarea vânzării ca lemn de foc pentru populația locală a masei lemnoase rezultată din exploatarea forestieră, stabilirea cantității de lemn de foc care se vinde pentru o familie",
+   "url": "https://comunamilas.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.36_29.09.2025.pdf",
+     "sha256": "e0ba339715d50c4d5476f449f94a8e920d78e6ba0986b360230f4ea38fd2357c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-37-2025",
+   "path": "local/bistrita-nasaud/milas/2025/37",
+   "short": "HCL Milaș nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 37/2025",
+   "url": "https://comunamilas.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/registru_hcl.html",
+     "sha256": "bcba870f8394728e5cfddacdf065a4bc38252d6424b000cc09ca44a46ebbaea5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-38-2025",
+   "path": "local/bistrita-nasaud/milas/2025/38",
+   "short": "HCL Milaș nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 38/2025 privind schimbarea denumirii și destinația imobilului situat în satul Comlod, nr. 67 din ”Școala Comlod” - spațiu pentru învățământ în ”Cămin cultural” - clădire administrativă",
+   "url": "https://comunamilas.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.38_31.10.2025.pdf",
+     "sha256": "3f2fd7509f59aa58c76e1c6918d90c0ec4b9f3c6f6764660c8796455bda841d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-39-2025",
+   "path": "local/bistrita-nasaud/milas/2025/39",
+   "short": "HCL Milaș nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 39/2025 privind rectificarea bugetului de venituri și cheltuieli al Comunei Milaș pentru anul 2025",
+   "url": "https://comunamilas.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.39_31.10.2025.pdf",
+     "sha256": "efb5c87d3ba7ce9c8fd6651e7cc313d06fe85a04b50994e7234fd004bd89b7ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-41-2025",
+   "path": "local/bistrita-nasaud/milas/2025/41",
+   "short": "HCL Milaș nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 41/2025 privind APROBAREA ajustării tarifelor aferente Contractului de concesiune nr. 1277/2018 privind delegarea prin concesiune a serviciului public de salubrizare, respectiv activitatea de colectare, transport, depozitare și transfer al deșeurilor municipale inclusiv deșeuri periculoase din deșeuri menajere și managementul Stațiilor de Transfer și al Centrelor de Colectare din județul Bistrița-Năsăud",
+   "url": "https://comunamilas.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.41_31.10.2025.pdf",
+     "sha256": "f5e504796cf785b57281e7fe4a34d86997de7b25d0e1ea6f8388dd826323e6d3"
     }
    ]
   }

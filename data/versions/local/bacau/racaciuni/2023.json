@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/racaciuni/2023",
+ "acts": [
+  {
+   "slug": "hcl-bacau--racaciuni-303-2023",
+   "path": "local/bacau/racaciuni/2023/303",
+   "short": "HCL Răcăciuni nr. 303/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 303/2023",
+   "url": "https://www.comunaracaciuni.ro/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/anunturi_comunicari/2024/decizie_autostrada.pdf",
+     "sha256": "d455ff52624371c3db347a2228bbccb067f4e00f096721fe24f6659ce965ca26"
+    }
+   ]
+  }
+ ]
+}

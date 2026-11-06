@@ -3,6 +3,94 @@
 "shard": "local/bihor/sacueni/2025",
 "acts": [
 {
+"slug": "hcl-bihor--sacueni-82-2025",
+"path": "local/bihor/sacueni/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 82/2025 privind declararea stării de insolvabilitate și scăderea din evidențele fiscale a debitului aferent contribuabilului radiat THE TRANSILVANIANS MOBILEX SRL",
+"short": "HCL Săcueni nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/218254",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-83-2025",
+"path": "local/bihor/sacueni/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 83/2025 privind modificarea Hotărârilor Consiliului Local nr. 80/2021, nr. 81/2021 și nr. 82/2021, în sensul completării acestora cu regimul de „dare în administrare” al unor construcții către unitățile de învățământ beneficiare",
+"short": "HCL Săcueni nr. 83/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/218255",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-84-2025",
+"path": "local/bihor/sacueni/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 84/2025 privind revocarea HCL nr. 24 din 31.03.2025, privind trecerea terenului identificat prin nr. topo 448 înscris în CF nr. 57540 în suprafață de 856 mp din domeniul Statului Român în domeniul privat al orașului Săcueni",
+"short": "HCL Săcueni nr. 84/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/218256",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-85-2025",
+"path": "local/bihor/sacueni/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 85/2025 privind revocarea HCL nr. 134 din 20.12.2024, cu privire la trecerea unor imobile în domeniul privat al orașului Săcueni",
+"short": "HCL Săcueni nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/218257",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-86-2025",
 "path": "local/bihor/sacueni/2025/86",
 "kind": "local",
@@ -47,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-88-2025",
+"path": "local/bihor/sacueni/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 88/2025 privind alipirea a patru imobile (teren) identificate prin numere cadastrale distincte în vederea formării unui singur imobil, necesar pentru întabularea construcției blocului ANL situat în orașul Săcueni",
+"short": "HCL Săcueni nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/218260",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-89-2025",
 "path": "local/bihor/sacueni/2025/89",
 "kind": "local",
@@ -66,6 +176,50 @@
 "council_name": "Consiliul Local al Orașului Săcueni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-90-2025",
+"path": "local/bihor/sacueni/2025/90",
+"kind": "local",
+"year": "2025",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 90/2025 privind aprobarea contractării unui împrumut în valoare de 3.150.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului",
+"short": "HCL Săcueni nr. 90/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-11",
+"latest": "2025-09-11",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/223654",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-91-2025",
+"path": "local/bihor/sacueni/2025/91",
+"kind": "local",
+"year": "2025",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 91/2025 privind aprobarea contractării unui împrumut în valoare de 2.483.970 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului,",
+"short": "HCL Săcueni nr. 91/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-11",
+"latest": "2025-09-11",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/223655",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +311,72 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-96-2025",
+"path": "local/bihor/sacueni/2025/96",
+"kind": "local",
+"year": "2025",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 96/2025 privind aprobarea contractării unui împrumut în valoare de 1.900.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului,",
+"short": "HCL Săcueni nr. 96/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/227750",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-97-2025",
+"path": "local/bihor/sacueni/2025/97",
+"kind": "local",
+"year": "2025",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 97/2025 privind aprobarea contractării unui împrumut în valoare de 1.274.668 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului,",
+"short": "HCL Săcueni nr. 97/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/227751",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-98-2025",
+"path": "local/bihor/sacueni/2025/98",
+"kind": "local",
+"year": "2025",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 98/2025 privind suplimentarea numărului de asistenți personali ai persoanelor cu handicap grav pe anul 2025",
+"short": "HCL Săcueni nr. 98/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/227752",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-99-2025",
 "path": "local/bihor/sacueni/2025/99",
 "kind": "local",
@@ -198,6 +418,252 @@
 "council_name": "Consiliul Local al Orașului Săcueni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-101-2025",
+"path": "local/bihor/sacueni/2025/101",
+"kind": "local",
+"year": "2025",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 101/2025 privind revocarea HCL nr. 14 din 28.02.2024, cu privire la trecerea unor imobile în domeniul privat al orașului Săcueni",
+"short": "HCL Săcueni nr. 101/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/227755",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-102-2025",
+"path": "local/bihor/sacueni/2025/102",
+"kind": "local",
+"year": "2025",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 102/2025 privind aprobarea regulamentului de vânzare a locuințelor Agenției Naționale pentru Locuințe (ANL)",
+"short": "HCL Săcueni nr. 102/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/227756",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-103-2025",
+"path": "local/bihor/sacueni/2025/103",
+"kind": "local",
+"year": "2025",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 103/2025",
+"short": "HCL Săcueni nr. 103/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/227757",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-104-2025",
+"path": "local/bihor/sacueni/2025/104",
+"kind": "local",
+"year": "2025",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 104/2025",
+"short": "HCL Săcueni nr. 104/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/227758",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-105-2025",
+"path": "local/bihor/sacueni/2025/105",
+"kind": "local",
+"year": "2025",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 105/2025 privind darea în folosință gratuită a Bazei sportive – Stadion, situat în orașul Săcueni, str. Dunării, înscris în CF nr. 58111, domeniul public al orașului Săcueni, în favoarea asociației sportive Clubul de Fotbal „Vulturii Tineri” Săcueni",
+"short": "HCL Săcueni nr. 105/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/227759",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-106-2025",
+"path": "local/bihor/sacueni/2025/106",
+"kind": "local",
+"year": "2025",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 106/2025",
+"short": "HCL Săcueni nr. 106/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/227760",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-107-2025",
+"path": "local/bihor/sacueni/2025/107",
+"kind": "local",
+"year": "2025",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 107/2025 privind aprobarea schimbării denumirii unei străzi din orașul Săcueni",
+"short": "HCL Săcueni nr. 107/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/227761",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-108-2025",
+"path": "local/bihor/sacueni/2025/108",
+"kind": "local",
+"year": "2025",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 108/2025 privind aprobarea situațiilor financiare la data de 31.12.2024 a SC General Edilitar Construct SRL",
+"short": "HCL Săcueni nr. 108/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/227762",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-109-2025",
+"path": "local/bihor/sacueni/2025/109",
+"kind": "local",
+"year": "2025",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 109/2025 privind aprobarea bugetului de venituri și cheltuieli al SC General Edilitar Construct SRL, pe anul 2025",
+"short": "HCL Săcueni nr. 109/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/227763",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-110-2025",
+"path": "local/bihor/sacueni/2025/110",
+"kind": "local",
+"year": "2025",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 110/2025 privind modificarea actului constitutiv al societăţii comerciale de interes public „SC General Edilitar Construct SRL”",
+"short": "HCL Săcueni nr. 110/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/227764",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-111-2025",
+"path": "local/bihor/sacueni/2025/111",
+"kind": "local",
+"year": "2025",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 111/2025",
+"short": "HCL Săcueni nr. 111/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/227765",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -289,6 +755,28 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-116-2025",
+"path": "local/bihor/sacueni/2025/116",
+"kind": "local",
+"year": "2025",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 116/2025 privind aprobarea contractării unui împrumut în valoare de 750.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului",
+"short": "HCL Săcueni nr. 116/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/231410",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-117-2025",
 "path": "local/bihor/sacueni/2025/117",
 "kind": "local",
@@ -355,6 +843,28 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-120-2025",
+"path": "local/bihor/sacueni/2025/120",
+"kind": "local",
+"year": "2025",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 120/2025 privind aprobarea Acordului de cooperare dintre Orașul Săcueni, județul Bihor și Orașul Pucioasa, județul Dâmbovița",
+"short": "HCL Săcueni nr. 120/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/236673",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-121-2025",
 "path": "local/bihor/sacueni/2025/121",
 "kind": "local",
@@ -418,6 +928,116 @@
 "council_name": "Consiliul Local al Orașului Săcueni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-124-2025",
+"path": "local/bihor/sacueni/2025/124",
+"kind": "local",
+"year": "2025",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 124/2025 privind acordarea unor facilități fiscale pentru persoanele fizice care donează sânge în mod regulat",
+"short": "HCL Săcueni nr. 124/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/237941",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-125-2025",
+"path": "local/bihor/sacueni/2025/125",
+"kind": "local",
+"year": "2025",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 125/2025 privind aprobarea modificării regulamentului de vânzare a locuințelor Agenției Naționale pentru Locuințe (ANL)",
+"short": "HCL Săcueni nr. 125/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/237942",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-126-2025",
+"path": "local/bihor/sacueni/2025/126",
+"kind": "local",
+"year": "2025",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 126/2025 privind aprobarea Planului Urbanistic Zonal - „Amenajare camping și împrejmuire teren” în satul Sânnicolau de Munte, nr. cad. 52818, CF nr. 52818",
+"short": "HCL Săcueni nr. 126/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/237943",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-127-2025",
+"path": "local/bihor/sacueni/2025/127",
+"kind": "local",
+"year": "2025",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 127/2025 privind inițierea demersurilor de elaborare PUZ „Reconstrucția conacului ”Fényes” din Ciocaia și înființare centru turistic cu terenuri de sport și unități de cazare”",
+"short": "HCL Săcueni nr. 127/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/237944",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-128-2025",
+"path": "local/bihor/sacueni/2025/128",
+"kind": "local",
+"year": "2025",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 128/2025 privind aprobarea acordului de principiu și afectarea domeniului public și privat prin executarea lucrărilor de ”Conductă de transport de la GA proiectată Diosig la GA Ciocaia și la GA proiectată Săcueni. Extindere GA Cadea. Extindere GA Ciocaia. Stație de pompare Cadea. GA proiectată Săcueni” din cadrul ”PROIECT REGIONAL DE DEZVOLTARE A INFRASTRUCTURII DE APĂ ȘI APĂ UZATĂ DIN ZONA DE NORD VEST A JUDEȚULUI BIHOR” pe terenurile identificate prin nr. cad. 54114, 54113, 54088, 54112, 54127, 57046, 57086, 50807, 56722, 56712 – loc. Cadea, nr. cad. 55559, 55560, 55557, 54095, 54133, 54086, 50814 – loc. Ciocaia",
+"short": "HCL Săcueni nr. 128/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/237945",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -550,6 +1170,50 @@
 "council_name": "Consiliul Local al Orașului Săcueni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-135-2025",
+"path": "local/bihor/sacueni/2025/135",
+"kind": "local",
+"year": "2025",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 135/2025 privind trecerea din proprietatea publică a orașului Săcueni în domeniul privat al orașului Săcueni a unui imobil",
+"short": "HCL Săcueni nr. 135/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-27",
+"latest": "2026-01-27",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/243647",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-136-2025",
+"path": "local/bihor/sacueni/2025/136",
+"kind": "local",
+"year": "2025",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 136/2025 privind solicitarea trecereii din domeniul public al UAT – Județul Bihor în domeniul public al UAT – Oraș Săcueni, a imobilului – autogară, înscris în Cartea Funciară nr.54768, nr.cad.54768",
+"short": "HCL Săcueni nr. 136/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-27",
+"latest": "2026-01-27",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/243648",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,111 @@
  "shard": "local/bistrita-nasaud/runcu-salvei/2025",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-15-2025",
+   "path": "local/bistrita-nasaud/runcu-salvei/2025/15",
+   "short": "HCL Runcu Salvei nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 15/2025 privind aprobarea rectificării nr.1 a bugetului de venituri și cheltuieli al comunei Runcu Salvei pe anul 2025",
+   "url": "https://primariaruncusalvei.ro/registru_hcl25.html",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_prh.nr.15_23.06.2025_aprobare_rectificare.pdf",
+     "sha256": "15ec70f210c64a697a85fdc95e33e7921c5a8a348be03681ca2f3bb9a581e521"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-16-2025",
+   "path": "local/bistrita-nasaud/runcu-salvei/2025/16",
+   "short": "HCL Runcu Salvei nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 16/2025 privind aprobarea notei conceptuale și temei de proiectare pentru obiectivul de investiții: REABILITARE ENERGETICĂ ȘCOALA GIMNAZIALĂ \"IOAN S. PAVELEA CLASELE I-VIII, CORP A ȘI B, COMUNA RUNCU SALVEI, JUDEȚUL BISTRIȚA-NĂSĂUD\"",
+   "url": "https://primariaruncusalvei.ro/registru_hcl25.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_prh.nr.16_01.07.2025_aprobare_nota.pdf",
+     "sha256": "07729b8aff3663d12e4c759849da8d0a19629e936a3546135da49ed0a759a551"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-17-2025",
+   "path": "local/bistrita-nasaud/runcu-salvei/2025/17",
+   "short": "HCL Runcu Salvei nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 17/2025 privind aprobarea notei conceptuale și temei de proiectare pentru obiectivul de investiții: REABILITARE ENERGETICĂ SEDIU PRIMĂRIA RUNCU-SALVEI, JUDEȚUL BISTRIȚA-NĂSĂUD",
+   "url": "https://primariaruncusalvei.ro/registru_hcl25.html",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_prh.nr.17_02.07.2025_aprobare_nota.pdf",
+     "sha256": "b94576cfb465351e821ddf4a175ce18c696147f3345ea809734d1d24f65cfc4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-18-2025",
+   "path": "local/bistrita-nasaud/runcu-salvei/2025/18",
+   "short": "HCL Runcu Salvei nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 18/2025",
+   "url": "https://primariaruncusalvei.ro/registru_hcl25.html",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/registru_hcl25.html",
+     "sha256": "f9519eba12149d6f65d23eb60d6ce81c357d549a37855461e18f5779db20f548"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-23-2025",
+   "path": "local/bistrita-nasaud/runcu-salvei/2025/23",
+   "short": "HCL Runcu Salvei nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 23/2025 privind alegerea președintelui de ședință al Consiliului local Runcu Salvei",
+   "url": "https://primariaruncusalvei.ro/registru_hcl25.html",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_prh_nr.23_19.09.2025_alegere_psd.pdf",
+     "sha256": "626a89f8d47e969d123e0ec8cd644bd368d995f3bb8c1324a6c8bdaf2248e883"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-29-2025",
+   "path": "local/bistrita-nasaud/runcu-salvei/2025/29",
+   "short": "HCL Runcu Salvei nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 29/2025 privind modificarea și completarea Hotărârii Consiliului local nr.3 din 31.01.2024 privind aprobarea organigramei și a statului de funcții pentru aparatul de specialitate al primarului comunei Runcu Salvei",
+   "url": "https://primariaruncusalvei.ro/registru_hcl25.html",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_prh.nr.29_28.10.2025_mod_hcl.pdf",
+     "sha256": "0395849929cc63d1e2a938d6f2e16bda6548a755f0da2d47f5dcc6a7f78d4774"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-3-2025",
+   "path": "local/bistrita-nasaud/runcu-salvei/2025/3",
+   "short": "HCL Runcu Salvei nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 3/2025 privind aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară pentru gestionarea integrată a deșeurilor municipale în județul Bistrița-Năsăud",
+   "url": "https://primariaruncusalvei.ro/registru_hcl25.html",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_hcl.nr.03_24.02.2025.pdf",
+     "sha256": "9531771de967c551713f6413c2bb579af39466776b85d68c9a76d22c096a8372"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--runcu-salvei-5-2025",
    "path": "local/bistrita-nasaud/runcu-salvei/2025/5",
    "short": "HCL Runcu Salvei nr. 5/2025",
@@ -14,6 +119,21 @@
      "units": 1,
      "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_hcl.nr.05_24.02.2025.pdf",
      "sha256": "21610b2c4fc28f553e9d84a853377fb33b5a38c71c91453626596a9fec7a21c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-6-2025",
+   "path": "local/bistrita-nasaud/runcu-salvei/2025/6",
+   "short": "HCL Runcu Salvei nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 6/2025 privind aprobarea operațiunii cadastrale de înscriere în cartea funciară, a unor imobile - Sediu primărie și magazie - aparținând domeniului public al comunei Runcu-Salvei",
+   "url": "https://primariaruncusalvei.ro/registru_hcl25.html",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_hcl.nr.06_21.03.2025.pdf",
+     "sha256": "a4793865298dc716ea0b8b8cdea939a1c6250724b2f82c6c996aecb768ae31e1"
     }
    ]
   }

@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/arad/bata/2020",
+"acts": [
+{
+"slug": "hcl-arad--bata-46-2020",
+"path": "local/arad/bata/2020/46",
+"kind": "local",
+"year": "2020",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bata nr. 46/2020",
+"short": "HCL Bata nr. 46/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://www.primariabata.ro/hotarari-c-l/",
+"council": "arad/bata",
+"council_name": "Consiliul Local al Comunei Bata",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

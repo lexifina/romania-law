@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/milas/2024",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--milas-54-2024",
+   "path": "local/bistrita-nasaud/milas/2024/54",
+   "short": "HCL Milaș nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 54/2024",
+   "url": "https://comunamilas.ro/monitorul_oficial_local.html",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/publicatiicasatorie/uat_milas_nr.54_08.02.2024_pc.pdf",
+     "sha256": "76d510c5fc73b2ac8dee74dd3a2cc3bdb90779287d28a73cfb17acaf90bd83dd"
+    }
+   ]
+  }
+ ]
+}

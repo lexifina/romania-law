@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/racaciuni/2026",
+ "acts": [
+  {
+   "slug": "hcl-bacau--racaciuni-1711-2026",
+   "path": "local/bacau/racaciuni/2026/1711",
+   "short": "HCL Răcăciuni nr. 1711/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 1711/2026",
+   "url": "https://www.comunaracaciuni.ro/",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/Dezbatere%20Publica%20ADIS%20adresa%20nr%201711%20din%2020.04.2026.pdf",
+     "sha256": "caf5d1a73ac134b9fd18d68914fcad7f154cdcaa4a7a4187c278d26f9f0db0d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-61-2026",
+   "path": "local/bacau/racaciuni/2026/61",
+   "short": "HCL Răcăciuni nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 61/2026 privind vanzare teren 870 mp Dumbraveni Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri.html",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2026/HCL%20nr.61%20din%2030.09.2026%20privind%20%20vanzare%20teren%20870%20mp%20Dumbraveni.pdf",
+     "sha256": "cb111e61b831862acb2349229917f5b773f6707a8d7a091c55b9592a78bc0199"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-62-2026",
+   "path": "local/bacau/racaciuni/2026/62",
+   "short": "HCL Răcăciuni nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 62/2026 privind aprob rectificarii bugetului com Rac si modificarea listei de investitii pentru trim III al anului 2026 conform rap de spec nr 7685 din 3_09_2026 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri.html",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2026/HCL%20nr.62%20din%2030_09_2026%20privind%20aprob%20rectificarii%20bugetului%20com%20Rac%20si%20modificarea%20listei%20de%20investitii%20pentru%20trim%20III%20al%20anului%202026%20conform%20rap%20de%20spec%20nr%207685%20din%203_09_2026.pdf",
+     "sha256": "339ca67a2f43ff1a51cc8ca1f0358cde6c669da672e818c3d7e7da38b9846375"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-63-2026",
+   "path": "local/bacau/racaciuni/2026/63",
+   "short": "HCL Răcăciuni nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 63/2026 privind alegerea presedintelui de sedinta al Consiliului local al comunei Racaciuni,jud Bacau pentru lunile noiembrie Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri.html",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2026/HCL%20nr.%2063%20din%2028.10.2026%20privind%20alegerea%20presedintelui%20de%20sedinta%20al%20Consiliului%20local%20al%20comunei%20Racaciuni,jud%20Bacau%20pentru%20lunile%20noiembrie-.pdf",
+     "sha256": "a1b7105009b0c8fb9c2a1754a3a962a42874a775272b20607ada118480799d24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-64-2026",
+   "path": "local/bacau/racaciuni/2026/64",
+   "short": "HCL Răcăciuni nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 64/2026 privind aprobarea actualizarii Statului de functii apartinand Primariei comunei Racaciuni,jud Bacau,conform raportului Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri.html",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2026/HCL%20nr.%2064%20din%2028.10.2026%20privind%20aprobarea%20actualizarii%20Statului%20de%20functii%20apartinand%20Primariei%20comunei%20Racaciuni,jud%20Bacau,conform%20raportului.pdf",
+     "sha256": "1674ccf3277712ef55fb3bf5aa0d61abb98fdbd2266f497ae272b7427054f6bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-65-2026",
+   "path": "local/bacau/racaciuni/2026/65",
+   "short": "HCL Răcăciuni nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 65/2026",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri.html",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri.html",
+     "sha256": "b937e8cab4536139cbad4c7bc642eb33affef5b89f5f6d107a2acadf0bb7aeed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-66-2026",
+   "path": "local/bacau/racaciuni/2026/66",
+   "short": "HCL Răcăciuni nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 66/2026 privind insusirea Raportului de follow-up nr.66472 din 30.09.2026 al Camerei de Conturi jud Bacau Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri.html",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2026/HCL%20nr.%2066%20din%2028.10.2026%20privind%20insusirea%20Raportului%20de%20follow-up%20nr.66472%20din%2030.09.2026%20al%20Camerei%20de%20Conturi%20jud%20Bacau.pdf",
+     "sha256": "c7413cc5dde0b9bc8581b035512052fecded927729b8ed97f7f6e9a96fd29860"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-67-2026",
+   "path": "local/bacau/racaciuni/2026/67",
+   "short": "HCL Răcăciuni nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 67/2026",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri.html",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri.html",
+     "sha256": "5ae868eb44db5751e037de880daef911906e7ebca651ae721a84aace8ce5e201"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-68-2026",
+   "path": "local/bacau/racaciuni/2026/68",
+   "short": "HCL Răcăciuni nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 68/2026 privind aprobarea executiei bugetare a UAT Racaciuni,jud Bacau,la data de 30 septembrie 2026 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri.html",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2026/HCL%20nr.%2068%20din%2028.10.2026%20privind%20aprobarea%20executiei%20bugetare%20a%20UAT%20Racaciuni,jud%20Bacau,la%20data%20de%2030%20septembrie%202026.pdf",
+     "sha256": "f7fa8fd530f0e90eb1195d6253d65f43bc60a43835c4b0265392aeac38559d7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-69-2026",
+   "path": "local/bacau/racaciuni/2026/69",
+   "short": "HCL Răcăciuni nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 69/2026 privind aprobarea rectificarii bugetului com Racaciuni si modificarea listei de investitii pentru sem IV al anului 2026 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri.html",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2026/HCL%20nr%2069%20din%2028.10.2026%20privind%20aprobarea%20rectificarii%20bugetului%20com%20Racaciuni%20si%20modificarea%20listei%20de%20investitii%20pentru%20sem%20IV%20al%20anului%202026.pdf",
+     "sha256": "862ed9a69b6446d7b45c2ba30bcefbedd62ecd04c22b1e04d8dfee4be8859be1"
+    }
+   ]
+  }
+ ]
+}

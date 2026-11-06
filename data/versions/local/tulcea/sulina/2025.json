@@ -31,6 +31,36 @@
      "sha256": "f3b09fdb78e2094be3b4b541b23507ee83ea69ab4b6fe91a28b129218fbc6eb1"
     }
    ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-56-2025",
+   "path": "local/tulcea/sulina/2025/56",
+   "short": "HCL Sulina nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 56/2025 privind stabilirea taxelor de autorizare pentru organizarea și desfășurarea unor activități economice, de turism și agrement pe teritoriul Rezervației Biosferei „Delta Dunării”, pe raza de competență a orașului Sulina, pentru anul 2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL56din2025_taxe_autorizare_ag_economici.docx",
+     "sha256": "fac5c544cfbeff1c5db1b2f51bfcb954488a68a98473de149b316572e82e483c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-8-2025",
+   "path": "local/tulcea/sulina/2025/8",
+   "short": "HCL Sulina nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 8/2025 privind aprobarea întocmirii Planului Urbanistic Zonal „Refuncționalizare Urbanistică”, strada a III - a, Zona Vest, loturi atribuite în baza Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL8din30ian2025_aprobare_PUZ.docx",
+     "sha256": "ae08998f5c8647c561dc3167b3dd35c61d66e23ad793f153c87445b62f9b13e0"
+    }
+   ]
   }
  ]
 }

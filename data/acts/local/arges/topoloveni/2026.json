@@ -1,0 +1,204 @@
+{
+"country": "RO",
+"shard": "local/arges/topoloveni/2026",
+"acts": [
+{
+"slug": "hcl-arges--topoloveni-75-2026",
+"path": "local/arges/topoloveni/2026/75",
+"kind": "local",
+"year": "2026",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 75/2026",
+"short": "HCL Topoloveni nr. 75/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-23",
+"latest": "2026-10-23",
+"portal": "https://topoloveni.ro/wp-content/uploads/2026/11/Hotararea_nr_75_din_23.10.2026.pdf",
+"council": "arges/topoloveni",
+"council_name": "Consiliul Local al Orașului Topoloveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--topoloveni-77-2026",
+"path": "local/arges/topoloveni/2026/77",
+"kind": "local",
+"year": "2026",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 77/2026",
+"short": "HCL Topoloveni nr. 77/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-23",
+"latest": "2026-10-23",
+"portal": "https://topoloveni.ro/wp-content/uploads/2026/11/Hotararea_nr_77_din_23.10.2026.pdf",
+"council": "arges/topoloveni",
+"council_name": "Consiliul Local al Orașului Topoloveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--topoloveni-78-2026",
+"path": "local/arges/topoloveni/2026/78",
+"kind": "local",
+"year": "2026",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 78/2026",
+"short": "HCL Topoloveni nr. 78/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-23",
+"latest": "2026-10-23",
+"portal": "https://topoloveni.ro/wp-content/uploads/2026/11/Hotararea_nr_78_din_23.10.2026.pdf",
+"council": "arges/topoloveni",
+"council_name": "Consiliul Local al Orașului Topoloveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--topoloveni-79-2026",
+"path": "local/arges/topoloveni/2026/79",
+"kind": "local",
+"year": "2026",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 79/2026",
+"short": "HCL Topoloveni nr. 79/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-23",
+"latest": "2026-10-23",
+"portal": "https://topoloveni.ro/wp-content/uploads/2026/11/Hotararea_nr_79_din_23.10.2026.pdf",
+"council": "arges/topoloveni",
+"council_name": "Consiliul Local al Orașului Topoloveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--topoloveni-80-2026",
+"path": "local/arges/topoloveni/2026/80",
+"kind": "local",
+"year": "2026",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 80/2026",
+"short": "HCL Topoloveni nr. 80/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-23",
+"latest": "2026-10-23",
+"portal": "https://topoloveni.ro/wp-content/uploads/2026/11/Hotararea_nr_80_din_23.10.2026.pdf",
+"council": "arges/topoloveni",
+"council_name": "Consiliul Local al Orașului Topoloveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--topoloveni-81-2026",
+"path": "local/arges/topoloveni/2026/81",
+"kind": "local",
+"year": "2026",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 81/2026",
+"short": "HCL Topoloveni nr. 81/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://topoloveni.ro/wp-content/uploads/2026/11/Hotararea_nr_81_din_04.11.2026.pdf",
+"council": "arges/topoloveni",
+"council_name": "Consiliul Local al Orașului Topoloveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--topoloveni-82-2026",
+"path": "local/arges/topoloveni/2026/82",
+"kind": "local",
+"year": "2026",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 82/2026",
+"short": "HCL Topoloveni nr. 82/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://topoloveni.ro/wp-content/uploads/2026/11/Hotararea_nr_82_din_04.11.2026.pdf",
+"council": "arges/topoloveni",
+"council_name": "Consiliul Local al Orașului Topoloveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--topoloveni-83-2026",
+"path": "local/arges/topoloveni/2026/83",
+"kind": "local",
+"year": "2026",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 83/2026",
+"short": "HCL Topoloveni nr. 83/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://topoloveni.ro/wp-content/uploads/2026/11/Hotararea_nr_83_din_04.11.2026.pdf",
+"council": "arges/topoloveni",
+"council_name": "Consiliul Local al Orașului Topoloveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--topoloveni-84-2026",
+"path": "local/arges/topoloveni/2026/84",
+"kind": "local",
+"year": "2026",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 84/2026",
+"short": "HCL Topoloveni nr. 84/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://topoloveni.ro/wp-content/uploads/2026/11/Hotararea_nr_84_din_04.11.2026_Rectificare_bugetara-1.pdf",
+"council": "arges/topoloveni",
+"council_name": "Consiliul Local al Orașului Topoloveni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

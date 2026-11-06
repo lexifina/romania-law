@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-1405-2022-anexa",
+   "path": "anexa/hg-1405-2022/anexa",
+   "short": "Anexa la HG nr. 1405/2022",
+   "title": "Norme metodologice din 17 noiembrie 2022 privind evaluarea, contractarea, finanțarea și monitorizarea programelor-nucleu de cercetare-dezvoltare (anexa la Hotărârea Guvernului nr. 1405/2022)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261595",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261595",
+     "sha256": "ed374272bd6bd929cdcef22f1dc72c65b5b51442b853e845bd90c02c3b3606dd"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-1542-2022-anexa",
    "path": "anexa/hg-1542-2022/anexa",
    "short": "Anexa la HG nr. 1542/2022",
@@ -468,6 +483,111 @@
    ]
   },
   {
+   "slug": "anexa-ordin-anpc-467-2022-anexa",
+   "path": "anexa/ordin-anpc-467-2022/anexa",
+   "short": "Anexa la Ordin anpc nr. 467/2022",
+   "title": "Procedură de lucru din 6 iunie 2022 pentru stabilirea și aplicarea sancțiunilor prevăzute la art. IV din Ordonanța de urgență a Guvernului nr. 58/2022 pentru modificarea și completarea unor acte normative din domeniul protecției consumatorilor (anexa la Ordinul ANPC nr. 467/2022)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257312",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257312",
+     "sha256": "d6816429e452a1a7ecfb5a9fbcaac120d151ead69c0068d2fb010c5ad6668f0e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-119-2022-anexa",
+   "path": "anexa/ordin-anre-119-2022/anexa",
+   "short": "Anexa la Ordin anre nr. 119/2022",
+   "title": "Regulament din 28 septembrie 2022 privind stocarea gazelor naturale în sistemul de distribuție a gazelor naturale (anexa la Ordinul ANRE nr. 119/2022)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260306",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260306",
+     "sha256": "35ba71a1018fc51f0e9c074690166461076c92652d2d3b6397e7663bf289da6a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-61-2022-anexa",
+   "path": "anexa/ordin-anre-61-2022/anexa",
+   "short": "Anexa la Ordin anre nr. 61/2022",
+   "title": "Regulament din 30 martie 2022 pentru acordarea licențelor în domeniul serviciului public de alimentare cu energie termică (anexa la Ordinul ANRE nr. 61/2022)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253691",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 58,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253691",
+     "sha256": "bc0b5989b01e8722c6b9d3d67cd5083534eddb7f75ac762ba6d4c44ee4b9a1b3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-7-2022-anexa",
+   "path": "anexa/ordin-anre-7-2022/anexa",
+   "short": "Anexa la Ordin anre nr. 7/2022",
+   "title": "Regulament din 23 februarie 2022 privind racordarea la sistemul de distribuție a gazelor naturale (anexa la Ordinul ANRE nr. 7/2022)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252209",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 65,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252209",
+     "sha256": "5fb1d8a35393bef7a15b03462c28178c09b7543ef21d0147e58f8de4f19fb8db"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-72-2022-anexa",
+   "path": "anexa/ordin-anre-72-2022/anexa",
+   "short": "Anexa la Ordin anre nr. 72/2022",
+   "title": "Regulament din 4 mai 2022 privind stocarea gazelor naturale în sistemul de transport al gazelor naturale (anexa la Ordinul ANRE nr. 72/2022)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255079",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255079",
+     "sha256": "3ca1b734151fae73b7387bd55c3b0884ff77f5074c33b907bc17fb0f12b78e24"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-8-2022-anexa",
+   "path": "anexa/ordin-anre-8-2022/anexa",
+   "short": "Anexa la Ordin anre nr. 8/2022",
+   "title": "Regulament din 23 februarie 2022 privind racordarea la sistemul de transport al gazelor naturale (anexa la Ordinul ANRE nr. 8/2022)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251918",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251918",
+     "sha256": "4d6bb80527f5905aa798ff0f0a2c8f44c6f3dcfd337a9a32d5cf265ff35ca09d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-87-2022-anexa",
+   "path": "anexa/ordin-anre-87-2022/anexa",
+   "short": "Anexa la Ordin anre nr. 87/2022",
+   "title": "Regulament din 22 iunie 2022 pentru acordarea autorizațiilor pentru montarea, punerea în funcțiune, repararea și exploatarea sistemelor de repartizare a costurilor (anexa la Ordinul ANRE nr. 87/2022)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256760",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256760",
+     "sha256": "7ff0f415596a6f4273babe145413c4c2b398abfe1b778ca66a417f406cca8414"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-ansvsa-112-2022-anexa",
    "path": "anexa/ordin-ansvsa-112-2022/anexa",
    "short": "Anexa la Ordin ansvsa nr. 112/2022",
@@ -588,6 +708,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-concurenta-483-2022-anexa",
+   "path": "anexa/ordin-concurenta-483-2022/anexa",
+   "short": "Anexa la Ordin concurenta nr. 483/2022",
+   "title": "Instrucțiuni din 3 mai 2022 privind individualizarea sancțiunilor prevăzute la art. 68 alin. (1^1) lit. a) și b) pentru contravențiile prevăzute la art. 67^1 din Ordonanța Guvernului nr. 22/1999 privind administrarea porturilor și a căilor navigabile, utilizarea infrastructurilor de transport naval aparținând domeniului public, precum și desfășurarea activităților de transport naval în porturi și pe căile navigabile interioare (anexa la Ordinul CONCURENTA nr. 483/2022)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255441",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255441",
+     "sha256": "824d7d879f0c73e49032cb854decf144e02ed6f5fcb21a9b2632525ee880c762"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-dezvoltare-1620-2022-anexa",
    "path": "anexa/ordin-dezvoltare-1620-2022/anexa",
    "short": "Anexa la Ordin dezvoltare nr. 1620/2022",
@@ -614,6 +749,51 @@
      "units": 37,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261290",
      "sha256": "d6539db8fe5491ce37e104508da609abf9f680efa5a44df0d8ae64f96601c8b8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dezvoltare-310-2022-anexa-1",
+   "path": "anexa/ordin-dezvoltare-310-2022/anexa-1",
+   "short": "Anexa nr. 1 la Ordin dezvoltare nr. 310/2022",
+   "title": "Procedură din 28 februarie 2022 de control al statului privind respectarea prevederilor legale la emiterea certificatelor de urbanism (anexa nr. 1 la Ordinul DEZVOLTARE nr. 310/2022)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253698",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253698",
+     "sha256": "af57e1239f23d8a46be0baf779d2e2ed46edd66eddffc1deb358e7f3f3309853"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dezvoltare-310-2022-anexa-2",
+   "path": "anexa/ordin-dezvoltare-310-2022/anexa-2",
+   "short": "Anexa nr. 2 la Ordin dezvoltare nr. 310/2022",
+   "title": "Procedură din 28 februarie 2022 de control al statului privind respectarea prevederilor legale la emiterea autorizațiilor de construire/desființare (anexa nr. 2 la Ordinul DEZVOLTARE nr. 310/2022)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253699",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253699",
+     "sha256": "6005e6b026b974aeb8fdeb4cafda0de5dfef87453b10b1948a0ca1ae79fcc4f8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dezvoltare-310-2022-anexa-3",
+   "path": "anexa/ordin-dezvoltare-310-2022/anexa-3",
+   "short": "Anexa nr. 3 la Ordin dezvoltare nr. 310/2022",
+   "title": "Procedură din 28 februarie 2022 de control al statului privind respectarea prevederilor legale la avizarea și aprobarea documentațiilor de urbanism (anexa nr. 3 la Ordinul DEZVOLTARE nr. 310/2022)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253700",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253700",
+     "sha256": "a84b8895660233529e23ffb14a42d2930cf32b76e77ecd493114b1981a885c09"
     }
    ]
   },
@@ -749,6 +929,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256694",
      "sha256": "6508a642e3cf8d4a9cc9884f09caaa7e40595ac521774ad08db737790dc033d5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-829-2022-anexa",
+   "path": "anexa/ordin-economie-829-2022/anexa",
+   "short": "Anexa la Ordin economie nr. 829/2022",
+   "title": "Norme metodologice din 18 august 2022 pentru recuperarea ajutoarelor de minimis acordate în cadrul Ordonanței de urgență a Guvernului nr. 118/2021 privind stabilirea unei scheme de compensare pentru consumul de energie electrică și gaze naturale pentru sezonul rece 2021-2022, precum și pentru completarea Ordonanței Guvernului nr. 27/1996 privind acordarea de facilități persoanelor care domiciliază sau lucrează în unele localități din Munții Apuseni și în Rezervația Biosferei \"Delta Dunării\" (anexa la Ordinul ECONOMIE nr. 829/2022)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258686",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258686",
+     "sha256": "ab86ae17afdfbedc21312ef895c3fdbb2d6cf43996bf21fb3497f0bd1d2fcd6d"
     }
    ]
   },
@@ -1248,6 +1443,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-interne-93-2022-anexa",
+   "path": "anexa/ordin-interne-93-2022/anexa",
+   "short": "Anexa la Ordin interne nr. 93/2022",
+   "title": "Regulament din 25 iulie 2022 de organizare și funcționare a Clubului Sportiv \"Dinamo\" București (anexa la Ordinul INTERNE nr. 93/2022)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257941",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257941",
+     "sha256": "3a9d42b55505559c7a50ba804c1f0ee7843e9cc98351dc053c81386e2414d5d8"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-justitie-5745-c-2022-anexa",
    "path": "anexa/ordin-justitie-5745-c-2022/anexa",
    "short": "Anexa la Ordin justitie nr. 5745/C/2022",
@@ -1533,6 +1743,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-sanatate-2845-2022-anexa",
+   "path": "anexa/ordin-sanatate-2845-2022/anexa",
+   "short": "Anexa la Ordin sanatate nr. 2845/2022",
+   "title": "Norme metodologice din 29 septembrie 2022 pentru aplicarea prevederilor art. 13 din Ordonanța de urgență a Guvernului nr. 46/2021 privind stabilirea cadrului instituțional și a măsurilor pentru punerea în aplicare a Regulamentului (UE) 2017/745 al Parlamentului European și al Consiliului din 5 aprilie 2017 privind dispozitivele medicale, de modificare a Directivei 2001/83/CE, a Regulamentului (CE) nr. 178/2002 și a Regulamentului (CE) nr. 1.223/2009 și de abrogare a Directivelor 90/385/CEE și 93/42/CEE ale Consiliului, privind înregistrarea dispozitivelor fabricate la comandă introduse pe piață sub propriul nume de producătorii cu sediul în România (anexa la Ordinul SANATATE nr. 2845/2022)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260231",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260231",
+     "sha256": "0cd944b8e155121f26e01781febc2dd198bb96c3ce7a2f325a9fb84455398226"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-sanatate-2901-2022-anexa",
    "path": "anexa/ordin-sanatate-2901-2022/anexa",
    "short": "Anexa la Ordin sanatate nr. 2901/2022",
@@ -1559,6 +1784,21 @@
      "units": 28,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261366",
      "sha256": "d53a8273eb6f26cce193e1f3c9b43b5823d89679fd4714ca8aaacf9d65b4e5c3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-3539-2022-anexa",
+   "path": "anexa/ordin-sanatate-3539-2022/anexa",
+   "short": "Anexa la Ordin sanatate nr. 3539/2022",
+   "title": "Norme metodologice din 24 noiembrie 2022 privind introducerea pe piață a dispozitivelor medicale și înregistrarea operatorilor economici în Baza europeană de date referitoare la dispozitivele medicale (Eudamed), precum și în baza națională de date și de derogare de la procedurile de evaluare a conformității (anexa la Ordinul SANATATE nr. 3539/2022)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262301",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262301",
+     "sha256": "9d0ae21818f2848dc9c42f4c7e3a8b855850317a205d8fbc2dfae65812e1baec"
     }
    ]
   },

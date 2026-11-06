@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-152-2023-anexa",
+   "path": "anexa/hg-152-2023/anexa",
+   "short": "Anexa la HG nr. 152/2023",
+   "title": "Norme metodologice din 22 februarie 2023 de aplicare a Legii nr. 421/2002 privind regimul juridic al vehiculelor fără stăpân sau abandonate pe terenuri aparținând domeniului public sau privat al statului ori al unităților administrativ-teritoriale (anexa la Hotărârea Guvernului nr. 152/2023)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265319",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265319",
+     "sha256": "dbfad3694eb499b0adf83520a99846d72cfbc7a6066ebb95466c56ab6c2c3f5d"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-187-2023-anexa",
    "path": "anexa/hg-187-2023/anexa",
    "short": "Anexa la HG nr. 187/2023",
@@ -134,6 +149,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265712",
      "sha256": "4c5e424a452b5786d05fcb01590f0abb64e0919968c5b30ded031b1846047a89"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-346-2023-anexa",
+   "path": "anexa/hg-346-2023/anexa",
+   "short": "Anexa la HG nr. 346/2023",
+   "title": "Norme metodologice din 12 aprilie 2023 privind constituirea, funcționarea, evaluarea și acreditarea entităților din infrastructura de inovare și transfer tehnologic, precum și modalitatea de susținere a acestora (anexa la Hotărârea Guvernului nr. 346/2023)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267321",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267321",
+     "sha256": "85b974934f6f50d8d33dba249ee33ca1868c321bc7d3e48538c27ec0c0962d2d"
     }
    ]
   },
@@ -363,6 +393,21 @@
    ]
   },
   {
+   "slug": "anexa-hotarare-rur-430-2023-anexa",
+   "path": "anexa/hotarare-rur-430-2023/anexa",
+   "short": "Anexa la Hotărârea rur nr. 430/2023",
+   "title": "Regulament din 25 iulie 2023 privind organizarea și desfășurarea atestării pentru atribuirea calității de expert tehnic extrajudiciar în domeniul amenajării teritoriului și al urbanismului (anexa la Hotărârea RUR nr. 430/2023)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273790",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273790",
+     "sha256": "e73f9720f5123d6b15795488e0a0e32932ed32aa51197e3234f756b0b7053361"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-agricultura-105-2023-anexa",
    "path": "anexa/ordin-agricultura-105-2023/anexa",
    "short": "Anexa la Ordin agricultura nr. 105/2023",
@@ -374,6 +419,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266560",
      "sha256": "dc4f25d0a023dabaffd2ba4ec2be485e93d2e7c0b4b978decc9d84516ff6ff91"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-437-2023-anexa",
+   "path": "anexa/ordin-agricultura-437-2023/anexa",
+   "short": "Anexa la Ordin agricultura nr. 437/2023",
+   "title": "Procedură de lucru din 19 octombrie 2023 prin care se stabilește cadrul juridic, administrativ și operațional, în temeiul căruia se asigură schimbul de informații și date necesare pentru implementarea prevederilor titlului IV capitolul III din Regulamentul (UE) 2021/2.116 al Parlamentului European și al Consiliului din 2 decembrie 2021 privind finanțarea, gestionarea și monitorizarea politicii agricole comune și de abrogare a Regulamentului (UE) nr. 1.306/2013, dintre Ministerul Agriculturii și Dezvoltării Rurale și Agenția de Plăți și Intervenție pentru Agricultură (anexa la Ordinul AGRICULTURA nr. 437/2023)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275516",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275516",
+     "sha256": "bab5090b450d57f7fa98f4a2343411bf0cc4b23ba964174a66e2a49f13890d61"
     }
    ]
   },
@@ -404,6 +464,51 @@
      "units": 71,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265122",
      "sha256": "c271ce8def4daf87bc3f7f010dff122b515b967e5ed1fae96cb670cfffe55475"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-3-2023-anexa",
+   "path": "anexa/ordin-anre-3-2023/anexa",
+   "short": "Anexa la Ordin anre nr. 3/2023",
+   "title": "Normă tehnică din 18 ianuarie 2023 privind cerințele tehnice de racordare la rețelele electrice de interes public pentru instalațiile de stocare a energiei electrice și procedura de notificare pentru racordarea instalațiilor de stocare a energiei electrice (anexa la Ordinul ANRE nr. 3/2023)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264042",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264042",
+     "sha256": "cbbc643a3d4c6e5c8887eda3a07ab0cefd7186291846f33c536dafe818b526ff"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-65-2023-anexa",
+   "path": "anexa/ordin-anre-65-2023/anexa",
+   "short": "Anexa la Ordin anre nr. 65/2023",
+   "title": "Regulament din 10 mai 2023 pentru autorizarea persoanelor fizice care desfășoară activități în sectorul gazelor naturale (anexa la Ordinul ANRE nr. 65/2023)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270152",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270152",
+     "sha256": "b208e8ad10ae11dad8f6395d80f444724309af1ab03211aea452c3f16c3e27c0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-66-2023-anexa",
+   "path": "anexa/ordin-anre-66-2023/anexa",
+   "short": "Anexa la Ordin anre nr. 66/2023",
+   "title": "Regulament din 10 mai 2023 pentru autorizarea electricienilor în domeniul instalațiilor electrice, respectiv a verificatorilor de proiecte și a experților tehnici de calitate și extrajudiciari în domeniul instalațiilor electrice tehnologice (anexa la Ordinul ANRE nr. 66/2023)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270204",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270204",
+     "sha256": "769ac5cf4ad3876b4d053f70b515c67c51ae2b25362b84751d82fa88b9504cd6"
     }
    ]
   },

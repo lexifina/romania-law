@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/arad/sebis/2020",
+ "acts": [
+  {
+   "slug": "hcl-arad--sebis-12-2020",
+   "path": "local/arad/sebis/2020/12",
+   "short": "HCL Sebiș nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 12/2020",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hot-nr.-12-din-10.03.2020-a-CJSU-Arad.pdf",
+   "versions": [
+    {
+     "from": "2020-03-10",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hot-nr.-12-din-10.03.2020-a-CJSU-Arad.pdf",
+     "sha256": "1770721ada51dd0b6ec729f2a1113fbcc0d41c5a7e9e7a8785fcc0bb2b48204f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-13-2020",
+   "path": "local/arad/sebis/2020/13",
+   "short": "HCL Sebiș nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 13/2020",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-CJSU-nr-13-din-11.03.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-03-11",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-CJSU-nr-13-din-11.03.2020.pdf",
+     "sha256": "5d82e0e67dd70a94e21a6b05c80c7bde8048594626a2fb5e7541bec83a499b6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-24-2020",
+   "path": "local/arad/sebis/2020/24",
+   "short": "HCL Sebiș nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 24/2020",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-CJSU-Arad-nr.24-din-02.04.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-04-02",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-CJSU-Arad-nr.24-din-02.04.2020.pdf",
+     "sha256": "b10195c89a5f96ff0b978360cd1c7c746231d1598f442a83796ad9e716de7073"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-25-2020",
+   "path": "local/arad/sebis/2020/25",
+   "short": "HCL Sebiș nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 25/2020",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotarare-CJSU-nr.-25-din-06.04.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-04-06",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotarare-CJSU-nr.-25-din-06.04.2020.pdf",
+     "sha256": "1c19744caf540734954e2dc9c9a250a8052b1adc65f1e9996f232d9f698882e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-37-2020",
+   "path": "local/arad/sebis/2020/37",
+   "short": "HCL Sebiș nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 37/2020",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-37-din-31.07.2020-a-CJSU-ARAD.pdf",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-37-din-31.07.2020-a-CJSU-ARAD.pdf",
+     "sha256": "32d3acd306dca38189a1911bf468f28da65621cb7e3b4f9e73ebb650d26b8a44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-394-2020",
+   "path": "local/arad/sebis/2020/394",
+   "short": "HCL Sebiș nr. 394/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 394/2020",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-394-din-18-mai-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-394-din-18-mai-2020.pdf",
+     "sha256": "9cd4cce1a1eb2bc763483a8636ae11ae5559511f26e6a7666ec45b947aa87b52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-4-2020",
+   "path": "local/arad/sebis/2020/4",
+   "short": "HCL Sebiș nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 4/2020",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/HOTARAREA-CLSU-Sebis-nr.4-din-20.05.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/HOTARAREA-CLSU-Sebis-nr.4-din-20.05.2020.pdf",
+     "sha256": "af45d78b3d09aa3e40fb362ede7becafe2cf20c0600ec79ef6e4b2e839d4b148"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-45-2020",
+   "path": "local/arad/sebis/2020/45",
+   "short": "HCL Sebiș nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 45/2020",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-CJSU-ARD-nr.45-din-10.09.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-CJSU-ARD-nr.45-din-10.09.2020.pdf",
+     "sha256": "0e698a81a0977812cd93c484e9f34eaabcfa3f29a3fa3b8a06677cb9448b06c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-46-2020",
+   "path": "local/arad/sebis/2020/46",
+   "short": "HCL Sebiș nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 46/2020",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-46-din-15.09.2020-a-CJSU-Arad.pdf",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-46-din-15.09.2020-a-CJSU-Arad.pdf",
+     "sha256": "0603571261efcac9e3629b2a876f36f86bf1e9937c1fea2b74701c149129f954"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-47-2020",
+   "path": "local/arad/sebis/2020/47",
+   "short": "HCL Sebiș nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 47/2020",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-nr.47-din-15.09.2020-a-CJSU-Arad.pdf",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-nr.47-din-15.09.2020-a-CJSU-Arad.pdf",
+     "sha256": "b2a5092e90233614aac910e10cf2d2a222559e652441a6e1e6e52ce5a40a52ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-5-2020",
+   "path": "local/arad/sebis/2020/5",
+   "short": "HCL Sebiș nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 5/2020",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-5-din-03.08.2020-a-CLSU-SEBIS.pdf",
+   "versions": [
+    {
+     "from": "2020-08-03",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-5-din-03.08.2020-a-CLSU-SEBIS.pdf",
+     "sha256": "28aadb3208e12a15899e6528dd6fb33ca84c203d3a2f3b065b4cbf7da7f05fff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-52-2020",
+   "path": "local/arad/sebis/2020/52",
+   "short": "HCL Sebiș nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 52/2020",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hot.-CJSU-nr.52-din-06.10.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-10-06",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hot.-CJSU-nr.52-din-06.10.2020.pdf",
+     "sha256": "88482b3b61f992da8e86094b9c73962e7adb983c4b0526171300ed4e1d7f81a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-53-2020",
+   "path": "local/arad/sebis/2020/53",
+   "short": "HCL Sebiș nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 53/2020",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hot.-CJSU-nr.53-din-06.10.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-10-06",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hot.-CJSU-nr.53-din-06.10.2020.pdf",
+     "sha256": "f666f30f641756c32d3099ce61b97d1873fe6a542da35c3a1a1ccdda564a071d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-54-2020",
+   "path": "local/arad/sebis/2020/54",
+   "short": "HCL Sebiș nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 54/2020",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hot.-CJSU-nr.54-din-06.10.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-10-06",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hot.-CJSU-nr.54-din-06.10.2020.pdf",
+     "sha256": "16a2fff060c3cbe1a571ff462d53de3b6752478bcc2a302b88bd08aa5741d982"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-55-2020",
+   "path": "local/arad/sebis/2020/55",
+   "short": "HCL Sebiș nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 55/2020",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hot-CJSU-nr.-55-din-09.10.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hot-CJSU-nr.-55-din-09.10.2020.pdf",
+     "sha256": "c28fe4f91c3cd53c27377a8c30918140a6cfaa039122ea90c23c983245351815"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-58-2020",
+   "path": "local/arad/sebis/2020/58",
+   "short": "HCL Sebiș nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 58/2020",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-nr.-58-din-15.10.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-nr.-58-din-15.10.2020.pdf",
+     "sha256": "9634904fefdbc871fe21ceca615b89961ac23a03b92c1a9c1c7235fd3cd1eb46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-59-2020",
+   "path": "local/arad/sebis/2020/59",
+   "short": "HCL Sebiș nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 59/2020",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-nr.-59-din-15.10.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-nr.-59-din-15.10.2020.pdf",
+     "sha256": "a3e62eeb7e48219743517dd5ecdc38e46abb3539ecb0d9f6fbd544f1c8d9f29d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-668-2020",
+   "path": "local/arad/sebis/2020/668",
+   "short": "HCL Sebiș nr. 668/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 668/2020",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/HOTARAREA-668-din-16.08.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-08-16",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/HOTARAREA-668-din-16.08.2020.pdf",
+     "sha256": "d951f59b9e92ef99dd096c101c7c76ed58535328df37197bb3d461655ff0fb56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-83-2020",
+   "path": "local/arad/sebis/2020/83",
+   "short": "HCL Sebiș nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 83/2020",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/HOTARAREA-NR-83-DIN-08.12.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-12-08",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/HOTARAREA-NR-83-DIN-08.12.2020.pdf",
+     "sha256": "1add724507dbbe70d2bce13d539725d42cae7b1a95a5641afc65b66a4c0d05d4"
+    }
+   ]
+  }
+ ]
+}

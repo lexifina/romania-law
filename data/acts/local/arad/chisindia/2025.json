@@ -1282,6 +1282,28 @@
 }
 },
 {
+"slug": "hcl-arad--chisindia-59-2025",
+"path": "local/arad/chisindia/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 59/2025 privind desemnarea reprezentantului Consiliului Local Chisindia în Consiliul de administrație al Scolii Gimnaziale Chisindia în anul școlar 2025-2026",
+"short": "HCL Chisindia nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/chisindia-ar/registru-hcl/235190",
+"council": "arad/chisindia",
+"council_name": "Consiliul Local al Comunei Chisindia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--chisindia-60-2025",
 "path": "local/arad/chisindia/2025/60",
 "kind": "local",

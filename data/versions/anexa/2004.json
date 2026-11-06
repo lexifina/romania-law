@@ -3,6 +3,81 @@
  "shard": "anexa/2004",
  "acts": [
   {
+   "slug": "anexa-decizie-anrgn-1231-2004-anexa",
+   "path": "anexa/decizie-anrgn-1231-2004/anexa",
+   "short": "Anexa la Decizia anrgn nr. 1231/2004",
+   "title": "Regulament din 24 septembrie 2004 de constatare, notificare și sancționare a abaterilor de la reglementările emise în sectorul gazelor naturale (anexa la Decizia ANRGN nr. 1231/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55514",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55514",
+     "sha256": "329e662eb2b9992a053b2575e327952fe5390b1ed7a3d57e08c0095a33b960ff"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anrgn-387-2004-anexa",
+   "path": "anexa/decizie-anrgn-387-2004/anexa",
+   "short": "Anexa la Decizia anrgn nr. 387/2004",
+   "title": "Regulament din 22 martie 2004 pentru acordarea licenței provizorii în sectorul gazelor naturale (anexa la Decizia ANRGN nr. 387/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50741",
+   "versions": [
+    {
+     "from": "2004-03-26",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50741",
+     "sha256": "df66915d40e21ed126396f3689d3c94eff590baac405ce25ed361c06f9be2ecb"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anrgn-480-2004-anexa",
+   "path": "anexa/decizie-anrgn-480-2004/anexa",
+   "short": "Anexa la Decizia anrgn nr. 480/2004",
+   "title": "Contract-cadru din 1 aprilie 2004 de înmagazinare subterană a gazelor naturale (anexa la Decizia ANRGN nr. 480/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51187",
+   "versions": [
+    {
+     "from": "2004-04-15",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51187",
+     "sha256": "367cd248833fb1cb109ac5494adbf0949ced11e8ac5ba837549c55fa6805512a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anrgn-620-2004-anexa",
+   "path": "anexa/decizie-anrgn-620-2004/anexa",
+   "short": "Anexa la Decizia anrgn nr. 620/2004",
+   "title": "Normă din 30 aprilie 2004 privind prevenirea abuzului de poziție dominantă pe piața internă de gaze naturale (anexa la Decizia ANRGN nr. 620/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51775",
+   "versions": [
+    {
+     "from": "2004-05-10",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51775",
+     "sha256": "57e7a79d156828a3ced4349544243b6c3ee8425fe71933321994a8ab2b71ba4a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anrgn-888-2004-anexa",
+   "path": "anexa/decizie-anrgn-888-2004/anexa",
+   "short": "Anexa la Decizia anrgn nr. 888/2004",
+   "title": "Contract-cadru din 22 iunie 2004 de transport al gazelor naturale (anexa la Decizia ANRGN nr. 888/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53223",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53223",
+     "sha256": "921d4ee39f17025cb36acea76f75645b1011dec8203ff004346d1d371fe8ab1f"
+    }
+   ]
+  },
+  {
    "slug": "anexa-decizie-cnas-98-2004-anexa",
    "path": "anexa/decizie-cnas-98-2004/anexa",
    "short": "Anexa la Decizia cnas nr. 98/2004",
@@ -194,6 +269,21 @@
      "units": 34,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53635",
      "sha256": "b85034691d96d33ff88faf03bb9a4f9381e721d36b412872add432239c88d1af"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1089-2004-anexa",
+   "path": "anexa/hg-1089-2004/anexa",
+   "short": "Anexa la HG nr. 1089/2004",
+   "title": "Norme metodologice din 8 iulie 2004 de aplicare a Legii nr. 147/2000 privind reducerile acordate pensionarilor pentru transportul intern (anexa la Hotărârea Guvernului nr. 1089/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54169",
+   "versions": [
+    {
+     "from": "2004-08-05",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54169",
+     "sha256": "03c3b124b10341b932ccfacae3410f65ab44ee7adf7265689357c9cf1c9ca013"
     }
    ]
   },
@@ -903,6 +993,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-2415-2004-anexa",
+   "path": "anexa/hg-2415-2004/anexa",
+   "short": "Anexa la HG nr. 2415/2004",
+   "title": "Norme metodologice din 21 decembrie 2004 de aplicare a prevederilor Legii datoriei publice nr. 313/2004 (anexa la Hotărârea Guvernului nr. 2415/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58677",
+   "versions": [
+    {
+     "from": "2005-01-18",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58677",
+     "sha256": "db8adcfcc00b52489edaf0045575c784826f6b71f75d2a02b0ec64e624a7bde0"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-2424-2004-anexa-2",
    "path": "anexa/hg-2424-2004/anexa-2",
    "short": "Anexa nr. 2 la HG nr. 2424/2004",
@@ -1218,6 +1323,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-698-2004-anexa",
+   "path": "anexa/hg-698-2004/anexa",
+   "short": "Anexa la HG nr. 698/2004",
+   "title": "Norme metodologice din 5 mai 2004 de aplicare a prevederilor Legii nr. 469/2003 privind producerea și valorificarea legumelor, florilor și plantelor ornamentale de seră (anexa la Hotărârea Guvernului nr. 698/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52147",
+   "versions": [
+    {
+     "from": "2004-05-24",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52147",
+     "sha256": "483fff211b5890a8be6ac9f7285b248fefb56149b721dd8e2996f96d543286d8"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-754-2004-anexa",
    "path": "anexa/hg-754-2004/anexa",
    "short": "Anexa la HG nr. 754/2004",
@@ -1323,6 +1443,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-88-2004-anexa",
+   "path": "anexa/hg-88-2004/anexa",
+   "short": "Anexa la HG nr. 88/2004",
+   "title": "Norme din 29 ianuarie 2004 de supraveghere, inspecție sanitară și control al zonelor naturale utilizate pentru îmbăiere (anexa la Hotărârea Guvernului nr. 88/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49771",
+   "versions": [
+    {
+     "from": "2004-03-14",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49771",
+     "sha256": "f2d152ffdfcb6ad6d8019c90846fd650dbf65b156cd878e130c8729cf3eed18b"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-898-2004-anexa",
    "path": "anexa/hg-898-2004/anexa",
    "short": "Anexa la HG nr. 898/2004",
@@ -1424,6 +1559,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50427",
      "sha256": "3a269997aa9d9752dc12371dc8be4ee111075bf6fc2ae6a355955eb2d6ac984f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-2-2004-anexa",
+   "path": "anexa/ordin-agricultura-2-2004/anexa",
+   "short": "Anexa la Ordin agricultura nr. 2/2004",
+   "title": "Procedură din 6 februarie 2004 de reglementare și control al transportului deșeurilor pe teritoriul României (anexa la Ordinul AGRICULTURA nr. 2/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51201",
+   "versions": [
+    {
+     "from": "2004-04-15",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51201",
+     "sha256": "68299e34589b888df824fdae382df840d9fdac6239992aeace69559daa4f2576"
     }
    ]
   },
@@ -1548,6 +1698,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-agricultura-749-2004-anexa",
+   "path": "anexa/ordin-agricultura-749-2004/anexa",
+   "short": "Anexa la Ordin agricultura nr. 749/2004",
+   "title": "Norme metodologice din 14 octombrie 2004 privind alocarea și acordarea subvențiilor de la bugetul de stat pentru acoperirea unor categorii de cheltuieli necesare desfășurării activităților de îmbunătățiri funciare (anexa la Ordinul AGRICULTURA nr. 749/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57242",
+   "versions": [
+    {
+     "from": "2004-11-30",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57242",
+     "sha256": "c7d99fa08bd8de81a6e069504c14b3b373f43b9220704f2152524264d7decb73"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-agricultura-758-2004-anexa",
    "path": "anexa/ordin-agricultura-758-2004/anexa",
    "short": "Anexa la Ordin agricultura nr. 758/2004",
@@ -1593,6 +1758,36 @@
    ]
   },
   {
+   "slug": "anexa-ordin-anpc-102-2004-anexa",
+   "path": "anexa/ordin-anpc-102-2004/anexa",
+   "short": "Anexa la Ordin anpc nr. 102/2004",
+   "title": "Norme tehnice din 28 aprilie 2004 de analiză și marcare a metalelor prețioase și aliajelor acestora (anexa la Ordinul ANPC nr. 102/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51843",
+   "versions": [
+    {
+     "from": "2004-05-12",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51843",
+     "sha256": "e641ce060c1481e961bce04e3be4ca853f8e8bba55f3d891ed6b1197ac8f4694"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anpc-226-2004-anexa",
+   "path": "anexa/ordin-anpc-226-2004/anexa",
+   "short": "Anexa la Ordin anpc nr. 226/2004",
+   "title": "Normă din 15 septembrie 2004 cu privire la natura, conținutul, fabricarea, calitatea, ambalarea, etichetarea, marcarea, depozitarea și transportul castraveților conservați (anexa la Ordinul ANPC nr. 226/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56049",
+   "versions": [
+    {
+     "from": "2005-10-21",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56049",
+     "sha256": "8bcf7ccad9a2a4a4e2004baf458cfb92d9a6a61cefcd7865c7241b4fbab7b1ac"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-anrm-238-2004-anexa",
    "path": "anexa/ordin-anrm-238-2004/anexa",
    "short": "Anexa la Ordin anrm nr. 238/2004",
@@ -1619,6 +1814,21 @@
      "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51717",
      "sha256": "0aed6a9d6158e2ddec9613b7ed73f7a8c3e7af50f9e28a6740229be060ace2f6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anrm-74-2004-anexa",
+   "path": "anexa/ordin-anrm-74-2004/anexa",
+   "short": "Anexa la Ordin anrm nr. 74/2004",
+   "title": "Instrucțiuni tehnice din 29 martie 2004 privind modul de raportare și de calcul al valorii producției și redevenței miniere datorate de către titularii actelor de dare în administrare sau de concesiune (anexa la Ordinul ANRM nr. 74/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51541",
+   "versions": [
+    {
+     "from": "2004-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51541",
+     "sha256": "19fab12d95782d3419b7d2b47a6aea21a782d340448b26d91f0649b41577ad5f"
     }
    ]
   },
@@ -1784,6 +1994,111 @@
      "units": 60,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51622",
      "sha256": "82ba84e73c3c4837aeb9388f8e90808de8329f3d479dbe03129c89f05a3e6467"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-concurenta-150-2004-anexa",
+   "path": "anexa/ordin-concurenta-150-2004/anexa",
+   "short": "Anexa la Ordin concurenta nr. 150/2004",
+   "title": "Regulament din 3 iunie 2004 pentru modificarea anexei la Regulamentul Consiliului Concurenței privind autorizarea concentrărilor economice (anexa la Ordinul CONCURENTA nr. 150/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53232",
+   "versions": [
+    {
+     "from": "2004-07-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53232",
+     "sha256": "031d2397a412a5f55c49ae4ec02c51bae62819d931e47ba29d49ab5e1039b252"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-concurenta-192-2004-anexa",
+   "path": "anexa/ordin-concurenta-192-2004/anexa",
+   "short": "Anexa la Ordin concurenta nr. 192/2004",
+   "title": "Regulament din 30 iulie 2004 privind ajutorul de stat în domeniul industriei carbonifere (anexa la Ordinul CONCURENTA nr. 192/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54379",
+   "versions": [
+    {
+     "from": "2004-08-16",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54379",
+     "sha256": "5ecc9d6fb8bd53a324668f9056c721fe722f35157aa91c63f3251ecdea6b10c7"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-concurenta-240-2004-anexa",
+   "path": "anexa/ordin-concurenta-240-2004/anexa",
+   "short": "Anexa la Ordin concurenta nr. 240/2004",
+   "title": "Regulament din 27 septembrie 2004 cu privire la forma, conținutul și alte detalii prevăzute de plângerea privind ajutorul de stat pretins ilegal (anexa la Ordinul CONCURENTA nr. 240/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55538",
+   "versions": [
+    {
+     "from": "2004-10-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55538",
+     "sha256": "fc494f3aa994043b1f17be8933d4ff8ab70cf404357fa232df8b667ea019e4f1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-concurenta-483-2004-anexa",
+   "path": "anexa/ordin-concurenta-483-2004/anexa",
+   "short": "Anexa la Ordin concurenta nr. 483/2004",
+   "title": "Regulament din 29 octombrie 2004 privind ajutorul de stat sub forma compensărilor acordate anumitor întreprinderi cărora le-a fost încredințată prestarea serviciilor de interes economic general (anexa la Ordinul CONCURENTA nr. 483/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56598",
+   "versions": [
+    {
+     "from": "2004-11-12",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56598",
+     "sha256": "cf3300735861919de3207e11463735bd31bcbfdbc56866e32304c2b55c2aea3a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-concurenta-528-2004-anexa",
+   "path": "anexa/ordin-concurenta-528-2004/anexa",
+   "short": "Anexa la Ordin concurenta nr. 528/2004",
+   "title": "Regulament din 31 decembrie 2004 privind forma, conținutul și alte detalii ale notificării unui ajutor de stat (anexa la Ordinul CONCURENTA nr. 528/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58832",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58832",
+     "sha256": "f0e1890950fbd8706f4ebfadfb20d1fe76554ab9621420afcfcc25955059378a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-concurenta-80-2004-anexa",
+   "path": "anexa/ordin-concurenta-80-2004/anexa",
+   "short": "Anexa la Ordin concurenta nr. 80/2004",
+   "title": "Regulament din 14 aprilie 2004 privind constatarea contravențiilor și aplicarea sancțiunilor de către Consiliul Concurenței (anexa la Ordinul CONCURENTA nr. 80/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51876",
+   "versions": [
+    {
+     "from": "2004-05-13",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51876",
+     "sha256": "0b607e25ee5831f8cab04753826b6ecaa597b7e7ea7c3c9fea1c19a16b6509d0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-concurenta-81-2004-anexa",
+   "path": "anexa/ordin-concurenta-81-2004/anexa",
+   "short": "Anexa la Ordin concurenta nr. 81/2004",
+   "title": "Regulament din 14 aprilie 2004 pentru aplicarea prevederilor art. 5 și 6 din Legea concurenței nr. 21/1996 , cu modificările și completările ulterioare, privind practicile anticoncurențiale în cazul plângerilor (anexa la Ordinul CONCURENTA nr. 81/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51880",
+   "versions": [
+    {
+     "from": "2004-05-13",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51880",
+     "sha256": "4e6b48d756507df61aed43b38a0c0cba68031e9538981f3d9399d1b51b2cb65f"
     }
    ]
   },
@@ -1998,6 +2313,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-educatie-4209-2004-anexa",
+   "path": "anexa/ordin-educatie-4209-2004/anexa",
+   "short": "Anexa la Ordin educatie nr. 4209/2004",
+   "title": "Normă din 8 iulie 2004 de aplicare a unor prevederi din Statutul personalului didactic referitoare la calculul salariilor pentru personalul didactic din învățământ (anexa la Ordinul EDUCATIE nr. 4209/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54514",
+   "versions": [
+    {
+     "from": "2004-08-18",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54514",
+     "sha256": "0cb851d95edc39db0021b0ad1ae127889f2b4252fcb572fd5de0f339c0d372a6"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-educatie-4295-2004-anexa-1",
    "path": "anexa/ordin-educatie-4295-2004/anexa-1",
    "short": "Anexa nr. 1 la Ordin educatie nr. 4295/2004",
@@ -2144,6 +2474,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49384",
      "sha256": "5eecff4124d07546b68cc130f1177274c8988b012316cff330b0459960bf52e0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-141-2004-anexa",
+   "path": "anexa/ordin-finante-141-2004/anexa",
+   "short": "Anexa la Ordin finante nr. 141/2004",
+   "title": "Norme din 20 ianuarie 2004 privind aplicarea scutirii de taxa pe valoarea adăugată pentru livrările de bunuri și prestările de servicii finanțate din ajutoare sau din împrumuturi nerambursabile acordate de guverne străine, de organisme internaționale și de organizații nonprofit și de caritate din străinătate și din țară, inclusiv din donații ale persoanelor fizice, prevăzută la art. 143 alin. (1) lit. l) din Legea nr. 571/2003 privind Codul fiscal (anexa la Ordinul FINANTE nr. 141/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49355",
+   "versions": [
+    {
+     "from": "2004-01-26",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49355",
+     "sha256": "1109b3ca5b69490923eed4dfda75d76f00cdae47a5e03e1837fece9b51aca562"
     }
    ]
   },
@@ -2504,6 +2849,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54312",
      "sha256": "b9dbd3c352c76f5dd77603c7965e204332f4c6a9a6a72a53f1473800212e07ae"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-munca-30-2004-anexa",
+   "path": "anexa/ordin-munca-30-2004/anexa",
+   "short": "Anexa la Ordin munca nr. 30/2004",
+   "title": "Procedură din 22 ianuarie 2004 privind declararea lunară de către angajatori a evidenței nominale a asiguraților și a obligațiilor de plată la bugetul asigurărilor pentru șomaj (anexa la Ordinul MUNCA nr. 30/2004)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49552",
+   "versions": [
+    {
+     "from": "2004-02-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49552",
+     "sha256": "e2c287696480801693792f3b53cf3452466a44fbf94be8eca5f48dfa2b2fffd0"
     }
    ]
   },

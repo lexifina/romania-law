@@ -3,6 +3,72 @@
 "shard": "local/botosani/mihaileni/2024",
 "acts": [
 {
+"slug": "hcl-botosani--mihaileni-10-2024",
+"path": "local/botosani/mihaileni/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 10/2024 privind aprobarea planului anual de balastare a drumurilor comunale, satesti si exploatare ce apartin comunei Mihaileni Nr: 10 (Adaugat la data 29.02.2024) Vizualizare",
+"short": "HCL Mihăileni nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+"council": "botosani/mihaileni",
+"council_name": "Consiliul Local al Comunei Mihăileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--mihaileni-11-2024",
+"path": "local/botosani/mihaileni/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 11/2024 privind aprobarea salariilor de baza pentru functionarii si personalul contractual din cadrul familiei ocupationale Administratie din aparatul de specialitate al primarului Nr: 11 (Adaugat la data 29.02.2024) Vizualizare",
+"short": "HCL Mihăileni nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+"council": "botosani/mihaileni",
+"council_name": "Consiliul Local al Comunei Mihăileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--mihaileni-26-2024",
+"path": "local/botosani/mihaileni/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 26/2024 privind aprobarea reorganizarii aparatului de specialitate incepand cu 09.08.2023 in cf. cu Lg. nr. 296 din 2023 masuri fiscal-bugetare Nr: 26 (Adaugat la data 09.08.2024) Vizualizare",
+"short": "HCL Mihăileni nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-09",
+"latest": "2024-08-09",
+"portal": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+"council": "botosani/mihaileni",
+"council_name": "Consiliul Local al Comunei Mihăileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--mihaileni-37-2024",
 "path": "local/botosani/mihaileni/2024/37",
 "kind": "local",

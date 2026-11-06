@@ -906,6 +906,28 @@
 }
 },
 {
+"slug": "hcl-arad--chisindia-42-2024",
+"path": "local/arad/chisindia/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 42/2024 privind desemnarea reprezentantului Consiliului Local Chisindia în Consiliul de administrație al Scolii Gimnaziale Chisindia în anul școlar 2024-2025",
+"short": "HCL Chisindia nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": "https://emol.ro/chisindia-ar/registru-hcl/171425",
+"council": "arad/chisindia",
+"council_name": "Consiliul Local al Comunei Chisindia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--chisindia-43-2024",
 "path": "local/arad/chisindia/2024/43",
 "kind": "local",
@@ -1147,6 +1169,28 @@
 "council_name": "Consiliul Local al Comunei Chisindia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--chisindia-54-2024",
+"path": "local/arad/chisindia/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 54/2024 privind stabilirea indemnizației lunare de care beneficiază consilierii locali ai Consiliului Local CHISINDIA, mandat 2024 - 2028",
+"short": "HCL Chisindia nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-22",
+"latest": "2024-11-22",
+"portal": "https://emol.ro/chisindia-ar/registru-hcl/178815",
+"council": "arad/chisindia",
+"council_name": "Consiliul Local al Comunei Chisindia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

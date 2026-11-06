@@ -1,0 +1,321 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/slanic-moldova/2022",
+ "acts": [
+  {
+   "slug": "hcl-bacau--slanic-moldova-100-2022",
+   "path": "local/bacau/slanic-moldova/2022/100",
+   "short": "HCL Slănic-Moldova nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 100/2022",
+   "url": "https://primariaslanicmoldova.ro/hotarari-ale-consiliului-local-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/hotarari-ale-consiliului-local-anul-2022/",
+     "sha256": "2e2cc95a07b7240a8b0ebe6f9b4b84273504ca429a38f116e6d6703f370d092f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--slanic-moldova-101-2022",
+   "path": "local/bacau/slanic-moldova/2022/101",
+   "short": "HCL Slănic-Moldova nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 101/2022",
+   "url": "https://primariaslanicmoldova.ro/hotarari-ale-consiliului-local-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/wp-content/uploads/2022/06/hcl-nr.101-din-31.05.2022-acoperire-contributie-lunara-intretinere-folea-lucica.pdf",
+     "sha256": "639441bc8a63c87b3128ff9a064d2547e0a06c65f7cfde0bada5f437f33f665b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--slanic-moldova-102-2022",
+   "path": "local/bacau/slanic-moldova/2022/102",
+   "short": "HCL Slănic-Moldova nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 102/2022",
+   "url": "https://primariaslanicmoldova.ro/hotarari-ale-consiliului-local-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/wp-content/uploads/2022/06/hcl-nr.-102-din-31.05.2022-modificare-tarife-partie-de-schi.pdf",
+     "sha256": "92c25235254abdd50d4284155d6a5887085a29d927c0e0cf967239654ff709cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--slanic-moldova-12-2022",
+   "path": "local/bacau/slanic-moldova/2022/12",
+   "short": "HCL Slănic-Moldova nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 12/2022",
+   "url": "https://primariaslanicmoldova.ro/registrul-spatiilor-verzi/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/wp-content/uploads/2025/11/hcl-nr.-12-din-31.01.2022-aprobare-registrul-spatiilor-verzi.pdf",
+     "sha256": "1b4d732d7ebc8ea7bae77729fda9dec6c409aa46d64b10619efe49c6dfc831a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--slanic-moldova-79-2022",
+   "path": "local/bacau/slanic-moldova/2022/79",
+   "short": "HCL Slănic-Moldova nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 79/2022",
+   "url": "https://primariaslanicmoldova.ro/hotarari-ale-consiliului-local-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/wp-content/uploads/2022/05/hcl-nr.-79-din-28.04.2022-aprobare-prelungire-contracte-ANL.pdf",
+     "sha256": "43de782e559a2fadeabd175d9d03d4404e1f0e1b49fa3fd89f8c0efc44dc1002"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--slanic-moldova-80-2022",
+   "path": "local/bacau/slanic-moldova/2022/80",
+   "short": "HCL Slănic-Moldova nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 80/2022",
+   "url": "https://primariaslanicmoldova.ro/hotarari-ale-consiliului-local-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-10",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/wp-content/uploads/2022/05/hcl-nr.-80-din-10.05.2022-aprobare-deviz-actualizat-pod-dobru-2.pdf",
+     "sha256": "03cd29d686612f3e55284c91bbedffdf285cd4411b49103ed189908e7097ad80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--slanic-moldova-81-2022",
+   "path": "local/bacau/slanic-moldova/2022/81",
+   "short": "HCL Slănic-Moldova nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 81/2022",
+   "url": "https://primariaslanicmoldova.ro/hotarari-ale-consiliului-local-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-10",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/wp-content/uploads/2022/05/hcl-nr.-81-din-10.05.2022-aprobare-actualizare-deviz-pod-dobru-3.pdf",
+     "sha256": "d45c5845ad3987bea403033fd8f4ca051ad32c6437a8c82f29c9b2fd5ed56ce5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--slanic-moldova-82-2022",
+   "path": "local/bacau/slanic-moldova/2022/82",
+   "short": "HCL Slănic-Moldova nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 82/2022",
+   "url": "https://primariaslanicmoldova.ro/hotarari-ale-consiliului-local-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-10",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/wp-content/uploads/2022/05/hcl-nr.-82-din-10.05.2022-rectificare-bugetara.pdf",
+     "sha256": "4dde3f8df1ba9718162b045d2f56737a05cb2affeea760ecf6a122c46b5a3ced"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--slanic-moldova-83-2022",
+   "path": "local/bacau/slanic-moldova/2022/83",
+   "short": "HCL Slănic-Moldova nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 83/2022",
+   "url": "https://primariaslanicmoldova.ro/hotarari-ale-consiliului-local-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-10",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/wp-content/uploads/2022/05/hcl-nr.-83-din-10.05.2022-modificare-lista-obiective-de-investitie.pdf",
+     "sha256": "1e8c20aaf4fc09cde189db61571b2a8899f24fabdc194b160b6f24da03c832f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--slanic-moldova-84-2022",
+   "path": "local/bacau/slanic-moldova/2022/84",
+   "short": "HCL Slănic-Moldova nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 84/2022",
+   "url": "https://primariaslanicmoldova.ro/hotarari-ale-consiliului-local-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-10",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/wp-content/uploads/2022/05/hcl-nr.-84-din-10.05.2022-rectificare-buget-transport-public-local.pdf",
+     "sha256": "03cadede771f9c5303908e275112b26b3b6a7a555453c8907f317a54c8959204"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--slanic-moldova-85-2022",
+   "path": "local/bacau/slanic-moldova/2022/85",
+   "short": "HCL Slănic-Moldova nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 85/2022",
+   "url": "https://primariaslanicmoldova.ro/hotarari-ale-consiliului-local-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-10",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/wp-content/uploads/2022/05/hcl-nr.-85-din-10.05.2022-indreptare-eroare-materiala-hcl-144-din-28.10.2021.pdf",
+     "sha256": "b047f9adf4992dc5ead08c777c8c75405cd7cd009bb769920ec220e78a3a06e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--slanic-moldova-86-2022",
+   "path": "local/bacau/slanic-moldova/2022/86",
+   "short": "HCL Slănic-Moldova nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 86/2022",
+   "url": "https://primariaslanicmoldova.ro/hotarari-ale-consiliului-local-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-10",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/wp-content/uploads/2022/05/hcl-nr.-86-din-10.05.2022-aprobare-trecere-in-domeniul-privat-gradinita-nr.-2-si-demolarea-acestei.pdf",
+     "sha256": "16a73600d7edfb342512b5bfc924d425104ddff398e3010308e15d8aa487e8a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--slanic-moldova-87-2022",
+   "path": "local/bacau/slanic-moldova/2022/87",
+   "short": "HCL Slănic-Moldova nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 87/2022",
+   "url": "https://primariaslanicmoldova.ro/hotarari-ale-consiliului-local-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-10",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/wp-content/uploads/2022/05/hcl-nr.-87-din-10.05.2022-aprobare-acord-parteneriat-cu-tg.-ocna-achizitie-vehicule-electrice-pnrr.pdf",
+     "sha256": "c8a0af1e93c0b7b55c9ab131ff75a22ef0a4d3aa81692fe94576b048f4d42edf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--slanic-moldova-88-2022",
+   "path": "local/bacau/slanic-moldova/2022/88",
+   "short": "HCL Slănic-Moldova nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 88/2022",
+   "url": "https://primariaslanicmoldova.ro/hotarari-ale-consiliului-local-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-10",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/wp-content/uploads/2022/05/hcl-nr.-88-din-10.05.2022-stabilire-salarii-de-baza-aparat-de-specialitate-primar-.pdf",
+     "sha256": "e6273cb0d167c6e5e1637a279ed322f02dcd4a74f4aa313ead7cb13c1b10a1de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--slanic-moldova-93-2022",
+   "path": "local/bacau/slanic-moldova/2022/93",
+   "short": "HCL Slănic-Moldova nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 93/2022",
+   "url": "https://primariaslanicmoldova.ro/hotarari-ale-consiliului-local-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/wp-content/uploads/2022/05/hcl-nr.-93-din-13.05.2022-completare-hcl-66-aprobare-organigrama-si-stat-de-functii.pdf",
+     "sha256": "3f2993602668702c37eac8237d2f26c4206a440fe3db3cbe1116a162bcdd15e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--slanic-moldova-94-2022",
+   "path": "local/bacau/slanic-moldova/2022/94",
+   "short": "HCL Slănic-Moldova nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 94/2022",
+   "url": "https://primariaslanicmoldova.ro/hotarari-ale-consiliului-local-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/wp-content/uploads/2022/06/hcl-nr.-94-din-31.05.2022-aprobare-modificare-indicatori-tehnico-economici-statii-de-reincarcare.pdf",
+     "sha256": "86f0722ba7715d00535499167034e09f99e6b233b2b64622c72df0d4c90f7c2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--slanic-moldova-95-2022",
+   "path": "local/bacau/slanic-moldova/2022/95",
+   "short": "HCL Slănic-Moldova nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 95/2022",
+   "url": "https://primariaslanicmoldova.ro/hotarari-ale-consiliului-local-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/wp-content/uploads/2022/06/hcl-nr.-95-din-31.05.2022-atestare-in-domeniul-privat-teren.pdf",
+     "sha256": "4cd6fb1d81e278415cc9689d624f900e971e00f64b09d081ff3e462323c00b6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--slanic-moldova-96-2022",
+   "path": "local/bacau/slanic-moldova/2022/96",
+   "short": "HCL Slănic-Moldova nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 96/2022",
+   "url": "https://primariaslanicmoldova.ro/hotarari-ale-consiliului-local-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/wp-content/uploads/2022/06/hcl-nr.-96-din-31.05.2022-asociere-festival-de-folclor.pdf",
+     "sha256": "dad4f6681af78cf29eaa48de5611e7cd876130a979a9c1c1246bf35b72fa5b3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--slanic-moldova-97-2022",
+   "path": "local/bacau/slanic-moldova/2022/97",
+   "short": "HCL Slănic-Moldova nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 97/2022",
+   "url": "https://primariaslanicmoldova.ro/hotarari-ale-consiliului-local-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/wp-content/uploads/2022/06/hcl-nr.-97-din-31.05.2022-asociere-cu-judetul-bacau-activitati-protectie-de-tip-rezidential.pdf",
+     "sha256": "f131c4890643668a2f00b099113949e44ce4d63c570d33d16c9c9463fd4a42b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--slanic-moldova-98-2022",
+   "path": "local/bacau/slanic-moldova/2022/98",
+   "short": "HCL Slănic-Moldova nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 98/2022",
+   "url": "https://primariaslanicmoldova.ro/hotarari-ale-consiliului-local-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/wp-content/uploads/2022/06/hcl-nr.-98-din-31.05.2022-aprobare-decontare-naveta-cadre-didactice.pdf",
+     "sha256": "bce5939c9d0039abe594122a06bb4b9504c8be2ca0e51e125b68b6b604d2e9d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--slanic-moldova-99-2022",
+   "path": "local/bacau/slanic-moldova/2022/99",
+   "short": "HCL Slănic-Moldova nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 99/2022",
+   "url": "https://primariaslanicmoldova.ro/hotarari-ale-consiliului-local-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://primariaslanicmoldova.ro/wp-content/uploads/2022/06/hcl-nr.-99-din-31.05.2022-aprobare-cuantum-acordare-burse-scolare.pdf",
+     "sha256": "864a49ae94b39012bcada86e800bea1b9cce43c41b903b36b616351f336668dd"
+    }
+   ]
+  }
+ ]
+}

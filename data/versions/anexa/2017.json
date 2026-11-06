@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "anexa-decizie-penitenciare-463-2017-anexa",
+   "path": "anexa/decizie-penitenciare-463-2017/anexa",
+   "short": "Anexa la Decizia penitenciare nr. 463/2017",
+   "title": "Procedură din 9 martie 2017 de selecție a operatorilor serviciilor de telefonie necesară exercitării dreptului deținuților la convorbiri telefonice, categoriile de servicii de telefonie și condițiile de furnizare a acestora (anexa la Decizia PENITENCIARE nr. 463/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187565",
+   "versions": [
+    {
+     "from": "2017-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187565",
+     "sha256": "c9e22bb991f782baa3ff17956cc0c72dbf16ebacd53ed012e1221a22f5791261"
+    }
+   ]
+  },
+  {
    "slug": "anexa-decizie-penitenciare-500165-2017-anexa",
    "path": "anexa/decizie-penitenciare-500165-2017/anexa",
    "short": "Anexa la Decizia penitenciare nr. 500165/2017",
@@ -89,6 +104,21 @@
      "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189658",
      "sha256": "396f32c90d3be58d182a00c11fbffea3955abf342a1e9f3f03e8098385810dbd"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-406-2017-anexa",
+   "path": "anexa/hg-406-2017/anexa",
+   "short": "Anexa la HG nr. 406/2017",
+   "title": "Regulament din 31 mai 2017 privind organizarea, funcționarea și componența nominală a membrilor Comitetului de amenajare a spațiului maritim (anexa la Hotărârea Guvernului nr. 406/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190377",
+   "versions": [
+    {
+     "from": "2017-06-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190377",
+     "sha256": "09780253c1ffe8c80a9a09c59029e39d6b04ed9a48f5acfeca59a9156420f929"
     }
    ]
   },
@@ -194,6 +224,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193420",
      "sha256": "0b7be2dd2d9e01f6e357e926a562c579f8b941fad3430b55ca3fd346fe1fdbd0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-688-2017-anexa",
+   "path": "anexa/hg-688-2017/anexa",
+   "short": "Anexa la HG nr. 688/2017",
+   "title": "Regulament din 21 septembrie 2017 de organizare și funcționare a Autorității Competente de Reglementare a Operațiunilor Petroliere Offshore la Marea Neagră (anexa la Hotărârea Guvernului nr. 688/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193395",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193395",
+     "sha256": "96d2f75bb2dd4e7c5829fdda74ca0ad03b5211a66569f1aaeda52c35b49874ff"
     }
    ]
   },
@@ -393,6 +438,36 @@
    ]
   },
   {
+   "slug": "anexa-ordin-agricultura-188-2017-anexa-1",
+   "path": "anexa/ordin-agricultura-188-2017/anexa-1",
+   "short": "Anexa nr. 1 la Ordin agricultura nr. 188/2017",
+   "title": "Ghidul solicitantului din 7 iunie 2017 pentru măsura I.6 - \"Diversificarea veniturilor și noi forme de venit\" (anexa nr. 1 la Ordinul AGRICULTURA nr. 188/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220644",
+   "versions": [
+    {
+     "from": "2017-06-23",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220644",
+     "sha256": "44588d133f7296ecb146577a88500ec37188e08d5c32bea577d820c6b1a0dd46"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-188-2017-anexa-2",
+   "path": "anexa/ordin-agricultura-188-2017/anexa-2",
+   "short": "Anexa nr. 2 la Ordin agricultura nr. 188/2017",
+   "title": "Ghidul solicitantului din 7 iunie 2017 pentru măsura I.23 - Porturi de pescuit, locuri de debarcare, hale de licitații și adăposturi - investiții de îmbunătățire a infrastructurii porturilor de pescuit și a halelor de licitații sau a locurilor de debarcare și a adăposturilor; construirea de adăposturi, pentru îmbunătățirea siguranței pescarilor (anexa nr. 2 la Ordinul AGRICULTURA nr. 188/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220645",
+   "versions": [
+    {
+     "from": "2017-06-23",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220645",
+     "sha256": "1237d1cb3a88872b8107405a84328fb1c69e89ce82c1e269739ddb6f4ff50438"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-agricultura-193-2017-anexa",
    "path": "anexa/ordin-agricultura-193-2017/anexa",
    "short": "Anexa la Ordin agricultura nr. 193/2017",
@@ -404,6 +479,21 @@
      "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190053",
      "sha256": "c1ddf4883bdf1f33a3dac71d7cffb517920578682d2e6c189c649a663458678a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-52-2017-anexa",
+   "path": "anexa/ordin-agricultura-52-2017/anexa",
+   "short": "Anexa la Ordin agricultura nr. 52/2017",
+   "title": "Procedură din 3 martie 2017 de verificare a conformității datelor cuprinse în caietul de sarcini în vederea acordării dreptului de utilizare a mențiunii de calitate facultative \"produs montan\" și de verificare a respectării legislației europene și naționale de către operatorii economici care au obținut dreptul de utilizare a respectivei mențiuni (anexa la Ordinul AGRICULTURA nr. 52/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187214",
+   "versions": [
+    {
+     "from": "2017-03-14",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187214",
+     "sha256": "e3dce816452c296b37341ca3f519ed1f323cf8cb67bad4c11a084b68fb314abc"
     }
    ]
   },
@@ -528,6 +618,186 @@
    ]
   },
   {
+   "slug": "anexa-ordin-anre-12-2017-anexa",
+   "path": "anexa/ordin-anre-12-2017/anexa",
+   "short": "Anexa la Ordin anre nr. 12/2017",
+   "title": "Regulament din 24 februarie 2017 de preluare de către furnizorii de ultimă instanță a locurilor de consum ale clienților finali care nu au asigurată furnizarea energiei electrice din nicio altă sursă (anexa la Ordinul ANRE nr. 12/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187061",
+   "versions": [
+    {
+     "from": "2017-03-06",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187061",
+     "sha256": "482b0e4e150b3da6cede4b7c4f4a1531d83b0a2f66db3188193265b68da1fb4b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-28-2017-anexa",
+   "path": "anexa/ordin-anre-28-2017/anexa",
+   "short": "Anexa la Ordin anre nr. 28/2017",
+   "title": "Regulament din 5 aprilie 2017 pentru acordarea licențelor în domeniul serviciului de alimentare centralizată cu energie termică (anexa la Ordinul ANRE nr. 28/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188402",
+   "versions": [
+    {
+     "from": "2017-04-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188402",
+     "sha256": "64f47bb6f9fd3b47ef40e44ef8bacdf65ffe273441eb35000a5c12033780b267"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-32-2017-anexa",
+   "path": "anexa/ordin-anre-32-2017/anexa",
+   "short": "Anexa la Ordin anre nr. 32/2017",
+   "title": "Regulament din 25 aprilie 2017 privind racordarea la sistemul de distribuție a gazelor naturale (anexa la Ordinul ANRE nr. 32/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189171",
+   "versions": [
+    {
+     "from": "2017-05-10",
+     "units": 64,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189171",
+     "sha256": "eafdc0da0fee6fa00586c802b5f5f809aec3492d5ac775e9926f59c83c73f516"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-4-2017-anexa",
+   "path": "anexa/ordin-anre-4-2017/anexa",
+   "short": "Anexa la Ordin anre nr. 4/2017",
+   "title": "Metodologie din 18 ianuarie 2017 de stabilire a venitului reglementat, a venitului total și a tarifelor reglementate pentru activitatea de înmagazinare subterană a gazelor naturale (anexa la Ordinul ANRE nr. 4/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186383",
+   "versions": [
+    {
+     "from": "2017-04-01",
+     "units": 80,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186383",
+     "sha256": "7a4c6cbdf0d83b615d9137b1354ba939559391db38288e25abbd9bc603c2f37a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-45-2017-anexa",
+   "path": "anexa/ordin-anre-45-2017/anexa",
+   "short": "Anexa la Ordin anre nr. 45/2017",
+   "title": "Metodologie din 13 iunie 2017 de stabilire a tarifelor pentru serviciul de sistem (anexa la Ordinul ANRE nr. 45/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190095",
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190095",
+     "sha256": "fedbe56f9d5c12cee790f061a17559fe0c59b7ed6ac33c865b697ea94ebe6f65"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-46-2017-anexa",
+   "path": "anexa/ordin-anre-46-2017/anexa",
+   "short": "Anexa la Ordin anre nr. 46/2017",
+   "title": "Criterii din 13 iunie 2017 de acordare a derogărilor pentru sistemele de înaltă tensiune în curent continuu care se racordează la rețeaua electrică de transport sau de distribuție și pentru modulele generatoare dintr-o centrală electrică care se racordează printr-un sistem de înaltă tensiune în curent continuu la rețeaua electrică de transport sau de distribuție de la obligația de îndeplinire a uneia sau mai multor cerințe din normele tehnice pentru racordare, aplicabile acestora (anexa la Ordinul ANRE nr. 46/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190097",
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190097",
+     "sha256": "d5fc0fa8a144b41d2416bbeb4398fa7bc456a8f600d7ebe7f8e94c6e761ac1f6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-76-2017-anexa",
+   "path": "anexa/ordin-anre-76-2017/anexa",
+   "short": "Anexa la Ordin anre nr. 76/2017",
+   "title": "Reguli din 9 august 2017 de transparentizare a decontării în cadrul părților responsabile cu echilibrarea (anexa la Ordinul ANRE nr. 76/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192436",
+   "versions": [
+    {
+     "from": "2017-10-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192436",
+     "sha256": "b888ad78c5ede4a02d16b1eb741623a809748cf5c748c5c7b321e2d90c19092a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-77-2017-anexa",
+   "path": "anexa/ordin-anre-77-2017/anexa",
+   "short": "Anexa la Ordin anre nr. 77/2017",
+   "title": "Regulament din 18 august 2017 de organizare și funcționare a pieței de certificate verzi (anexa la Ordinul ANRE nr. 77/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192586",
+   "versions": [
+    {
+     "from": "2017-09-01",
+     "units": 79,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192586",
+     "sha256": "1195936b7ffd7084f1565b0d7e45d11e5df878da0f1541f477d2d6d5ed65ccff"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-78-2017-anexa",
+   "path": "anexa/ordin-anre-78-2017/anexa",
+   "short": "Anexa la Ordin anre nr. 78/2017",
+   "title": "Metodologie din 18 august 2017 de stabilire a cantității statice anuale de certificate verzi și a cotei anuale obligatorii de achiziție de certificate verzi (anexa la Ordinul ANRE nr. 78/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192515",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 57,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192515",
+     "sha256": "fe36d9a7965eb8651cb39c6921a76be4218ee748fa11c12f53b9acfdc4ee351d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-84-2017-anexa",
+   "path": "anexa/ordin-anre-84-2017/anexa",
+   "short": "Anexa la Ordin anre nr. 84/2017",
+   "title": "Procedură din 13 septembrie 2017 privind transmiterea către Autoritatea Națională de Reglementare în Domeniul Energiei a informațiilor referitoare la compoziția și presiunile combustibililor gazoși utilizate pe teritoriul României (anexa la Ordinul ANRE nr. 84/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193230",
+   "versions": [
+    {
+     "from": "2017-09-15",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193230",
+     "sha256": "3ea547178e972354d57965039b3ee7748b41fa116b4d0c9070dd352347ad8ad6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-85-2017-anexa",
+   "path": "anexa/ordin-anre-85-2017/anexa",
+   "short": "Anexa la Ordin anre nr. 85/2017",
+   "title": "Metodologie din 26 septembrie 2017 de calculare a tarifelor de neutralitate pentru echilibrare, inclusiv repartizarea lor în rândul utilizatorilor rețelei de transport al gazelor naturale (anexa la Ordinul ANRE nr. 85/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193413",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193413",
+     "sha256": "bfdd0b9507efa7384079fb5e3665fe0bc066986196a1636f8d46b7e61f0f0f9b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-9-2017-anexa",
+   "path": "anexa/ordin-anre-9-2017/anexa",
+   "short": "Anexa la Ordin anre nr. 9/2017",
+   "title": "Anexe din 8 februarie 2017 privind modificarea Ordinului nr. 162 din 19 decembrie 2014 pentru aprobarea punctelor relevante ale Sistemului national de transport al gazelor naturale (anexa la Ordinul ANRE nr. 9/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193775",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193775",
+     "sha256": "d7a3000cf678b071b9a6c854f568ec94b24f045928e14206d5ba996dd88e8128"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-ansvsa-44-2017-anexa-1",
    "path": "anexa/ordin-ansvsa-44-2017/anexa-1",
    "short": "Anexa nr. 1 la Ordin ansvsa nr. 44/2017",
@@ -573,6 +843,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-dezvoltare-3067-2017-anexa",
+   "path": "anexa/ordin-dezvoltare-3067-2017/anexa",
+   "short": "Anexa la Ordin dezvoltare nr. 3067/2017",
+   "title": "Norme metodologice din 23 mai 2017 privind mecanismul de acordare și derulare a împrumuturilor acordate unităților/subdiviziunilor administrativ-teritoriale în condițiile art. 1 din Ordonanța de urgență a Guvernului nr. 27/2017 pentru adoptarea unor măsuri fiscal-bugetare, precum și modul de reflectare a sumelor respective în bugetele instituțiilor publice (anexa la Ordinul DEZVOLTARE nr. 3067/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189540",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189540",
+     "sha256": "c6adc3901cb9399c8f1eaa6fdbc941e0a0768fab17c72987f5f6564441909833"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-dezvoltare-3710-2017-anexa",
    "path": "anexa/ordin-dezvoltare-3710-2017/anexa",
    "short": "Anexa la Ordin dezvoltare nr. 3710/2017",
@@ -599,6 +884,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193164",
      "sha256": "da3c6bd4cac9b0e1ab19e1bae6573e358542b91841fab8009abd94d965a45673"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-1238-2017-anexa",
+   "path": "anexa/ordin-economie-1238-2017/anexa",
+   "short": "Anexa la Ordin economie nr. 1238/2017",
+   "title": "Norme metodologice din 27 septembrie 2017 pentru aplicarea de către Ministerul pentru Mediul de Afaceri, Comerț și Antreprenoriat a prevederilor art. 25 din Ordonanța de urgență a Guvernului nr. 77/2014 privind procedurile naționale în domeniul ajutorului de stat, precum și pentru modificarea și completarea Legii concurenței nr. 21/1996 (anexa la Ordinul ECONOMIE nr. 1238/2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193787",
+   "versions": [
+    {
+     "from": "2017-10-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193787",
+     "sha256": "c98586402768d0ab308808d3be2506dd79cedebddc8c33d315ec2261f737005a"
     }
    ]
   },

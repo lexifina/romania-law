@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/comanesti/2016",
+ "acts": [
+  {
+   "slug": "hcl-bacau--comanesti-120-2016",
+   "path": "local/bacau/comanesti/2016/120",
+   "short": "HCL Comănești nr. 120/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 120/2016 privind aprobarea contractării unei finanțări rambursabile interne în valoare de 15.000.000 lei",
+   "url": "http://www.primariacomanesti.ro/registrul-datoriei-publice.html",
+   "versions": [
+    {
+     "from": "2016-09-22",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/contabilitate/reg_dat_publice/hcl-120-22.09.2015.pdf",
+     "sha256": "d48d70be048d5d75eb59ae8ea9064fe38a417231bef8689a003ef7687dc8124c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-91-2016",
+   "path": "local/bacau/comanesti/2016/91",
+   "short": "HCL Comănești nr. 91/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 91/2016 privind aprobarea contractării unui împrumut în valoare de maximum 6.000.000 lei, în conformitate cu prevederile Ordonanței de urgență a guvernului nr. 2//2015 pentru modificarea și completarea unor acte normative, precum și alte măsuri",
+   "url": "http://www.primariacomanesti.ro/registrul-datoriei-publice.html",
+   "versions": [
+    {
+     "from": "2016-07-31",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/contabilitate/reg_dat_publice/hcl-091-31.07.2015.pdf",
+     "sha256": "7fff8b5b06645d1f33c6b11468c6bb21540cbe68dcf3ff8f2a6c8073bcf70b82"
+    }
+   ]
+  }
+ ]
+}

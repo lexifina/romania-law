@@ -3,6 +3,28 @@
 "shard": "local/alba/cergau/2025",
 "acts": [
 {
+"slug": "hcl-alba--cergau-41-2025",
+"path": "local/alba/cergau/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cergău nr. 41/2025 privind rectificare buget local al comunei Cergău pe anul 2025",
+"short": "HCL Cergău nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/cergau-ab/registru-hcl/227029",
+"council": "alba/cergau",
+"council_name": "Consiliul Local al Comunei Cergău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-alba--cergau-42-2025",
 "path": "local/alba/cergau/2025/42",
 "kind": "local",
@@ -23,6 +45,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--cergau-43-2025",
+"path": "local/alba/cergau/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cergău nr. 43/2025 privind aprobarea modului de utilizare a microbuzului școlar destinat transportului elevilor, la nivelul comunei Cergău",
+"short": "HCL Cergău nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/cergau-ab/registru-hcl/227031",
+"council": "alba/cergau",
+"council_name": "Consiliul Local al Comunei Cergău",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

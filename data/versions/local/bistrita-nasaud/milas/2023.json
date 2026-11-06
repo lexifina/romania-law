@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/milas/2023",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--milas-146-2023",
+   "path": "local/bistrita-nasaud/milas/2023/146",
+   "short": "HCL Milaș nr. 146/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 146/2023",
+   "url": "https://comunamilas.ro/monitorul_oficial_local.html",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/publicatiicasatorie/uat_milas_nr.146_28.06.2023_pc.pdf",
+     "sha256": "b7c07108d7ab075d6831456ced5f2bebb036a6de2875bfc727301bc05a175119"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-232-2023",
+   "path": "local/bistrita-nasaud/milas/2023/232",
+   "short": "HCL Milaș nr. 232/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 232/2023",
+   "url": "https://comunamilas.ro/monitorul_oficial_local.html",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/publicatiicasatorie/uat_milas_nr.232_05.10.2023_pc_belean_moldovan.pdf",
+     "sha256": "1140c8766adeaf406740902934d737a294555120b6fb244e3c6d9929906a8ae6"
+    }
+   ]
+  }
+ ]
+}

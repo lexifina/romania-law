@@ -3,6 +3,23 @@
 "shard": "anexa/2000",
 "acts": [
 {
+"slug": "anexa-decizie-anre-22-2000-anexa",
+"path": "anexa/decizie-anre-22-2000/anexa",
+"kind": "anexa",
+"year": "2000",
+"number": "decizie-anre-22-2000/anexa",
+"withdrawn_by": null,
+"reason": null,
+"title": "Procedura din 8 februarie 2000 de soluționare a neînțelegerilor apărute la încheierea contractelor în sectorul energiei electrice și termice (anexa la Decizia ANRE nr. 22/2000)",
+"short": "Anexa la Decizia anre nr. 22/2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2000-08-22",
+"latest": "2000-08-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/23935"
+},
+{
 "slug": "anexa-decizie-finante-216-2000-anexa",
 "path": "anexa/decizie-finante-216-2000/anexa",
 "kind": "anexa",
@@ -86,6 +103,40 @@
 "from": "2000-05-17",
 "latest": "2000-05-17",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/22352"
+},
+{
+"slug": "anexa-decizie-orda-5-2000-anexa",
+"path": "anexa/decizie-orda-5-2000/anexa",
+"kind": "anexa",
+"year": "2000",
+"number": "decizie-orda-5-2000/anexa",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norme metodologice din 30 octombrie 2000 privind administrarea Registrului programelor pentru calculator (RPC) (anexa la Decizia ORDA nr. 5/2000)",
+"short": "Anexa la Decizia orda nr. 5/2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2000-11-10",
+"latest": "2000-11-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/24954"
+},
+{
+"slug": "anexa-decizie-orda-6-2000-anexa",
+"path": "anexa/decizie-orda-6-2000/anexa",
+"kind": "anexa",
+"year": "2000",
+"number": "decizie-orda-6-2000/anexa",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norme metodologice din 30 octombrie 2000 privind condițiile de eliberare și de aplicare a marcajului distinctiv, precum și modelul acestuia (anexa la Decizia ORDA nr. 6/2000)",
+"short": "Anexa la Decizia orda nr. 6/2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2000-11-10",
+"latest": "2000-11-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/24956"
 },
 {
 "slug": "anexa-hg-1005-2000-anexa",
@@ -547,6 +598,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/22805"
 },
 {
+"slug": "anexa-hg-457-2000-anexa",
+"path": "anexa/hg-457-2000/anexa",
+"kind": "anexa",
+"year": "2000",
+"number": "hg-457-2000/anexa",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norme metodologice din 2 iunie 2000 de stabilire a nivelului contribuțiilor comunităților locale la finanțarea activității de protecție a copilului aflat în dificultate, a celui cu handicap, precum și a persoanei majore care beneficiază de protecție în condițiile art. 19 din Ordonanța de urgență a Guvernului nr. 26/1997 , republicată (anexa la Hotărârea Guvernului nr. 457/2000)",
+"short": "Anexa la HG nr. 457/2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2000-06-15",
+"latest": "2000-06-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/22836"
+},
+{
 "slug": "anexa-hg-497-2000-anexa",
 "path": "anexa/hg-497-2000/anexa",
 "kind": "anexa",
@@ -664,6 +732,23 @@
 "from": "2000-07-21",
 "latest": "2000-07-21",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/23431"
+},
+{
+"slug": "anexa-hg-618-2000-anexa",
+"path": "anexa/hg-618-2000/anexa",
+"kind": "anexa",
+"year": "2000",
+"number": "hg-618-2000/anexa",
+"withdrawn_by": null,
+"reason": null,
+"title": "Criterii din 13 iulie 2000 pe baza cărora se aloca agenților economici din industrie sumele din Fondul special pentru reducerea riscurilor tehnologice la utilaje, echipamente și instalații industriale și Grila de evaluare pentru alocarea sumelor (anexa la Hotărârea Guvernului nr. 618/2000)",
+"short": "Anexa la HG nr. 618/2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2000-08-10",
+"latest": "2000-08-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/23746"
 },
 {
 "slug": "anexa-hg-626-2000-anexa",
@@ -936,6 +1021,23 @@
 "from": "2001-02-22",
 "latest": "2001-02-22",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/26886"
+},
+{
+"slug": "anexa-ordin-anre-8-2000-anexa",
+"path": "anexa/ordin-anre-8-2000/anexa",
+"kind": "anexa",
+"year": "2000",
+"number": "ordin-anre-8-2000/anexa",
+"withdrawn_by": null,
+"reason": null,
+"title": "Metodologie din 6 decembrie 2000 de calcul al tarifului pentru apa de adaos în sistemele de alimentare centralizata cu căldura (anexa la Ordinul ANRE nr. 8/2000)",
+"short": "Anexa la Ordin anre nr. 8/2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2001-01-30",
+"latest": "2001-01-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/26430"
 },
 {
 "slug": "anexa-ordin-dezvoltare-11-2000-anexa",

@@ -3,6 +3,126 @@
  "shard": "local/bistrita-nasaud/cetate/2025",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--cetate-27-2025",
+   "path": "local/bistrita-nasaud/cetate/2025/27",
+   "short": "HCL Cetate nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 27/2025 privind aprobarea exploatării și vânzării de material lemnos din pădurile comunei Cetate",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/Hot%C4%83r%C3%A2rea%20nr.27%20din%2027.10.2025,privind%20aprobarea%20exploat%C4%83rii%20%C8%99i%20v%C3%A2nz%C4%83rii%20de%20material%20lemnos%20din%20p%C4%83durile%20comunei%20Cetate.pdf",
+     "sha256": "a858f34f79ebaa39b3d4cde7a2bc7aea51f54211bb135802e9b41c72b964d6f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-28-2025",
+   "path": "local/bistrita-nasaud/cetate/2025/28",
+   "short": "HCL Cetate nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 28/2025 privind aprobarea închirierii-prin licitație publică-a unui spațiu din imobilul,proprietate publică a comunei Cetate,situat în localitatea Petriș nr.221",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/Hot%C4%83r%C3%A2rea%20nr.28%20din%2027.10.2025,%20privind%20aprobarea%20%C3%AEnchirierii-prin%20licita%C8%9Bie%20public%C4%83-a%20unui%20spa%C8%9Biu%20din%20imobilul,proprietate%20public%C4%83%20a%20comunei%20Cetate,situat%20%C3%AEn%20localitatea%20Petri%C8%99%20nr.221.pdf",
+     "sha256": "676099bfeea29465866fde6d490d23adcf9961acf6d0282c4e686a7d7b4a8988"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-30-2025",
+   "path": "local/bistrita-nasaud/cetate/2025/30",
+   "short": "HCL Cetate nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 30/2025 privind aprobarea ajustării tarifelor aferente Contractului de concesiune nr.1277 din 2018 prin concesiunea serviciului public de salubrizare",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/Hot%C4%83r%C3%A2rea%20nr.30%20din%2013.11.2025,%20privind%20aprobarea%20ajust%C4%83rii%20tarifelor%20aferente%20Contractului%20de%20concesiune%20nr.1277%20din%202018%20prin%20concesiunea%20serviciului%20public%20de%20salubrizare.pdf",
+     "sha256": "b5f24533f3bbf6176a0c19adc4d0fe4fc6024790d8b45cefb422010614e47c88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-31-2025",
+   "path": "local/bistrita-nasaud/cetate/2025/31",
+   "short": "HCL Cetate nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 31/2025 privind însușirea și aprobarea documentației cadastrale de actualizare date în Cartea Funciară,pentru imobilul înscris în CF nr.26937 Cetate, nr.topo.269,270,271",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/Hot%C4%83r%C3%A2rea%20nr.31%20din%2013.11.2025,privind%20%C3%AEnsu%C8%99irea%20%C8%99i%20aprobarea%20documenta%C8%9Biei%20cadastrale%20de%20actualizare%20date%20%C3%AEn%20Cartea%20Funciar%C4%83,pentru%20imobilul%20%C3%AEnscris%20%C3%AEn%20CF%20nr.26937%20Cetate,%20nr.topo.269,270,271.pdf",
+     "sha256": "0f31ba9c8a77c704ee8582dfa0ff36e2c5a3df5e741871329c5854dfe5d461ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-32-2025",
+   "path": "local/bistrita-nasaud/cetate/2025/32",
+   "short": "HCL Cetate nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 32/2025 privind punctele de colectare deșeuri",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/Hot%C4%83r%C3%A2rea%20nr.32%20din%2013.11.2025,privind%20punctele%20de%20colectare%20de%C8%99euri.pdf",
+     "sha256": "687aa506abad8b63393a7e1d0c2c5a82616107ea87884352775abf5c463995a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-33-2025",
+   "path": "local/bistrita-nasaud/cetate/2025/33",
+   "short": "HCL Cetate nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 33/2025 privind indicatorii tehnico-economici,revizuiți prin aplicarea OUG nr.15 din 30.08.2021",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/Hot%C4%83r%C3%A2rea%20nr.33%20din%2019.11.2025,%20privind%20indicatorii%20tehnico-economici,revizui%C8%9Bi%20prin%20aplicarea%20OUG%20nr.15%20din%2030.08.2021.pdf",
+     "sha256": "71cbbf511500fac184e6aab0993811c43def941284ce348ceee9cbf587ea159e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-34-2025",
+   "path": "local/bistrita-nasaud/cetate/2025/34",
+   "short": "HCL Cetate nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 34/2025 privind rectificarea bugetului de venituri și cheltuieli pe anul 2025",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/Hot%C4%83r%C3%A2rea%20nr.34%20din%2009.12.2025,privind%20rectificarea%20bugetului%20de%20venituri%20%C8%99i%20cheltuieli%20pe%20anul%202025.pdf",
+     "sha256": "6208347867ae6068cf3f2ebf3272a2804e761b10a3a66cbd5831ab9e6e5d5ee1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-35-2025",
+   "path": "local/bistrita-nasaud/cetate/2025/35",
+   "short": "HCL Cetate nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 35/2025 privind acceptarea donației unui imobil teren",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/Hot%C4%83r%C3%A2rea%20nr.35%20din%2009.12.2025,privind%20acceptarea%20dona%C8%9Biei%20unui%20imobil%20teren.pdf",
+     "sha256": "474f7660f2a09f10ecca4eb30877d1d7b419fff50cd0acc125fbf02e19a90be5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--cetate-38-2025",
    "path": "local/bistrita-nasaud/cetate/2025/38",
    "short": "HCL Cetate nr. 38/2025",

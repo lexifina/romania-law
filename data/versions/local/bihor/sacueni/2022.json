@@ -18,6 +18,66 @@
    ]
   },
   {
+   "slug": "hcl-bihor--sacueni-120-2022",
+   "path": "local/bihor/sacueni/2022/120",
+   "short": "HCL Săcueni nr. 120/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 120/2022 privind aprobarea documentaţiei PUZ – Construire creșă mare în orașul Săcueni, str. Dunării, nr. cad. 56781, 56782, jud. Bihor",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/74901",
+   "versions": [
+    {
+     "from": "2022-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/74901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-121-2022",
+   "path": "local/bihor/sacueni/2022/121",
+   "short": "HCL Săcueni nr. 121/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 121/2022 privind aprobarea documentației tehnico-economică și a principalilor indicatori tehnico-economici al obiectivului de investiţie: „Transformarea străzilor zonei istorice a cramelor și drumului de legătură întrevparcul central și parcul dendrologic în spații verzi”, cuprins în cadrul proeictului ”Un Săcueni mai verde”",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/74902",
+   "versions": [
+    {
+     "from": "2022-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/74902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-122-2022",
+   "path": "local/bihor/sacueni/2022/122",
+   "short": "HCL Săcueni nr. 122/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 122/2022 privind aprobarea documentației tehnico-economică a principalilor indicatori tehnico-economici al obiectivului de investiţie: „Modernizarea parcului recreativ (deschis pentru public) și dotarea parcului”, cuprins în cadrul proeictului ”Un Săcueni mai verde”",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/74903",
+   "versions": [
+    {
+     "from": "2022-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/74903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-123-2022",
+   "path": "local/bihor/sacueni/2022/123",
+   "short": "HCL Săcueni nr. 123/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 123/2022 privind aprobarea documentației tehnico-economică a principalilor indicatori tehnico-economici al obiectivului de investiţie: „Modernizarea parcului central și dotarea parcului cu mobilier urban smart”, cuprins în cadrul proeictului ”Un Săcueni mai verde”",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/74904",
+   "versions": [
+    {
+     "from": "2022-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/74904",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--sacueni-124-2022",
    "path": "local/bihor/sacueni/2022/124",
    "short": "HCL Săcueni nr. 124/2022",
@@ -93,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--sacueni-129-2022",
+   "path": "local/bihor/sacueni/2022/129",
+   "short": "HCL Săcueni nr. 129/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 129/2022 privind aprobarea scutirii de la plata impozitului/taxei pe clădiri și a accesorilor aferente, în cazul clădirilor/terenurilor utilizate pentru activități social-umanitare de către asociații, fundații și culte în orașul Săcueni",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/77138",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/77138",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--sacueni-130-2022",
    "path": "local/bihor/sacueni/2022/130",
    "short": "HCL Săcueni nr. 130/2022",
@@ -108,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--sacueni-131-2022",
+   "path": "local/bihor/sacueni/2022/131",
+   "short": "HCL Săcueni nr. 131/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 131/2022",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/77140",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/77140",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--sacueni-132-2022",
    "path": "local/bihor/sacueni/2022/132",
    "short": "HCL Săcueni nr. 132/2022",
@@ -118,6 +208,21 @@
      "from": "2022-11-18",
      "units": 1,
      "source_url": "https://emol.ro/sacueni-bh/registru-hcl/77141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-133-2022",
+   "path": "local/bihor/sacueni/2022/133",
+   "short": "HCL Săcueni nr. 133/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 133/2022",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/77142",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/77142",
      "sha256": null
     }
    ]
@@ -168,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--sacueni-137-2022",
+   "path": "local/bihor/sacueni/2022/137",
+   "short": "HCL Săcueni nr. 137/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 137/2022",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/77146",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/77146",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--sacueni-138-2022",
    "path": "local/bihor/sacueni/2022/138",
    "short": "HCL Săcueni nr. 138/2022",
@@ -183,6 +303,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--sacueni-139-2022",
+   "path": "local/bihor/sacueni/2022/139",
+   "short": "HCL Săcueni nr. 139/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 139/2022 privind revizuirea și recalcularea coeficienților de salarizare ale aparatului de specialitate al primarului Orașului Săcueni conform Legii 153/2017 privind salarizarea personalului plătit din fonduri publice",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/77148",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/77148",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--sacueni-140-2022",
    "path": "local/bihor/sacueni/2022/140",
    "short": "HCL Săcueni nr. 140/2022",
@@ -193,6 +328,21 @@
      "from": "2022-11-18",
      "units": 1,
      "source_url": "https://emol.ro/sacueni-bh/registru-hcl/77149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-141-2022",
+   "path": "local/bihor/sacueni/2022/141",
+   "short": "HCL Săcueni nr. 141/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 141/2022 privind concesionarea prin licitație publică a imobilului înscris în Cartea Funciară nr. 50434 Săcueni",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/77150",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/77150",
      "sha256": null
     }
    ]
@@ -348,6 +498,51 @@
    ]
   },
   {
+   "slug": "hcl-bihor--sacueni-152-2022",
+   "path": "local/bihor/sacueni/2022/152",
+   "short": "HCL Săcueni nr. 152/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 152/2022",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/81365",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/81365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-153-2022",
+   "path": "local/bihor/sacueni/2022/153",
+   "short": "HCL Săcueni nr. 153/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 153/2022 privind aprobarea listei de prioritate pentru repartizarea locuințelor ANL pe anul 2022, disponibile în orașul Săcueni, varianta 3",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/81366",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/81366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-154-2022",
+   "path": "local/bihor/sacueni/2022/154",
+   "short": "HCL Săcueni nr. 154/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 154/2022",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/81367",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/81367",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--sacueni-155-2022",
    "path": "local/bihor/sacueni/2022/155",
    "short": "HCL Săcueni nr. 155/2022",
@@ -358,6 +553,21 @@
      "from": "2023-01-31",
      "units": 1,
      "source_url": "https://emol.ro/sacueni-bh/registru-hcl/82022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-156-2022",
+   "path": "local/bihor/sacueni/2022/156",
+   "short": "HCL Săcueni nr. 156/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 156/2022 privind închirierea prin licitație publică a imobilului înscris în CF nr. 55686, nr. cad. 55686, situat în intravilanul orașului Săcueni, strada Zólyomi Dávid, nr.10, respectiv aprobarea documentației de atribuire privind închirierea imobilului înscris în CF nr. 55686, nr. cad. 55686, situat în intravilanul orașului Săcueni, strada Zólyomi Dávid, nr.10",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/82023",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/82023",
      "sha256": null
     }
    ]
@@ -628,6 +838,21 @@
      "from": "2023-02-14",
      "units": 1,
      "source_url": "https://emol.ro/sacueni-bh/registru-hcl/84855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-175-2022",
+   "path": "local/bihor/sacueni/2022/175",
+   "short": "HCL Săcueni nr. 175/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 175/2022 privind aprobarea scutirii de la plata impozitului/taxei pe clădiri și a accesorilor aferente, în cazul clădirilor/terenurilor utilizate pentru activități social-umanitare de către asociații, fundații și culte în orașul Săcueni",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/84856",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/84856",
      "sha256": null
     }
    ]

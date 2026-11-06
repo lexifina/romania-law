@@ -3,6 +3,606 @@
  "shard": "anexa/2012",
  "acts": [
   {
+   "slug": "anexa-decizie-ccir-2-2012-anexa",
+   "path": "anexa/decizie-ccir-2-2012/anexa",
+   "short": "Anexa la Decizia ccir nr. 2/2012",
+   "title": "Regulament din 16 ianuarie 2012 privind organizarea și funcționarea Curții de Arbitraj Comercial Internațional de pe lângă Camera de Comerț și Industrie a României (anexa la Decizia CCIR nr. 2/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135042",
+   "versions": [
+    {
+     "from": "2012-02-07",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135042",
+     "sha256": "66dc402e2b7d0ee81d892435ea2d7158974e9513dba90d3b004de507f0a6cb00"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-justitie-742-2012-anexa",
+   "path": "anexa/decizie-justitie-742-2012/anexa",
+   "short": "Anexa la Decizia justitie nr. 742/2012",
+   "title": "Metodologie din 9 noiembrie 2012 privind modalitățile de depunere și de soluționare a cererilor de acordare a drepturilor prevăzute de Ordonanța de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor, pentru personalul care își desfășoară activitatea în sistemul administrației penitenciare (anexa la Decizia JUSTITIE nr. 742/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143182",
+   "versions": [
+    {
+     "from": "2012-11-28",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143182",
+     "sha256": "7b788cb20a992ca01adaca9ed2e1f506148646e59f9ba557399e290667e6e052"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-orda-151-2012-anexa",
+   "path": "anexa/decizie-orda-151-2012/anexa",
+   "short": "Anexa la Decizia orda nr. 151/2012",
+   "title": "Protocol din 19 septembrie 2012 având drept obiect Metodologia privind remunerația datorată de organismele de televiziune titularilor de drepturi de autor pentru radiodifuzarea operelor scrise gestionate de Societatea Autorilor și Editorilor Români de Opere Științifice - PERGAM (anexa la Decizia ORDA nr. 151/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141611",
+   "versions": [
+    {
+     "from": "2012-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141611",
+     "sha256": "8f06cda6f62e989bb4ade1c4711922c9a01cc80b51c65360e0d3af64c35c5e3e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-orda-4-2012-anexa",
+   "path": "anexa/decizie-orda-4-2012/anexa",
+   "short": "Anexa la Decizia orda nr. 4/2012",
+   "title": "Protocol din 13 decembrie 2011 având ca obiect Metodologia privind reproducerea repertoriului de opere cinematografice și alte opre audiovizuale și tabelul de remunerații cuprinzând drepturile patrimoniale cuvenite autorilor acestora (anexa la Decizia ORDA nr. 4/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134953",
+   "versions": [
+    {
+     "from": "2012-02-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134953",
+     "sha256": "df33b304c391c829ddb403f64ec3097dfa29c08be783f1f72266038c57e97b03"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-penitenciare-507-2012-anexa",
+   "path": "anexa/decizie-penitenciare-507-2012/anexa",
+   "short": "Anexa la Decizia penitenciare nr. 507/2012",
+   "title": "Regulament din 21 mai 2012 de organizare și funcționare a unităților penitenciare (anexa la Decizia PENITENCIARE nr. 507/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138790",
+   "versions": [
+    {
+     "from": "2012-06-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138790",
+     "sha256": "99891fe51c1fb793209834272749fa1ae34062bccf0a5ac4d6488030458f6318"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-penitenciare-543-2012-anexa",
+   "path": "anexa/decizie-penitenciare-543-2012/anexa",
+   "short": "Anexa la Decizia penitenciare nr. 543/2012",
+   "title": "Regulament din 12 iunie 2012 de ordine interioară în Administrația Națională a Penitenciarelor (anexa la Decizia PENITENCIARE nr. 543/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139082",
+   "versions": [
+    {
+     "from": "2012-06-26",
+     "units": 80,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139082",
+     "sha256": "f2eb1a9d0457a45e02e217ae9d474b7fe9d377757a52e88a902a49c42b1eca2f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-101-2012-anexa",
+   "path": "anexa/hg-101-2012/anexa",
+   "short": "Anexa la HG nr. 101/2012",
+   "title": "Norme metodologice din 28 februarie 2012 privind înființarea, organizarea și funcționarea inspecției economico-financiare (anexa la Hotărârea Guvernului nr. 101/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135950",
+   "versions": [
+    {
+     "from": "2012-03-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135950",
+     "sha256": "c2651b5acf12d790fd7008cae612271f8fd8b70f472d9ed5199ce403c2ff7a6b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1049-2012-anexa",
+   "path": "anexa/hg-1049-2012/anexa",
+   "short": "Anexa la HG nr. 1049/2012",
+   "title": "Norme metodologice din 24 octombrie 2012 pentru aplicarea prevederilor Legii nr. 226/2011 privind reparațiile morale și materiale pentru fostele cadre militare active, îndepărtate abuziv din armată în perioada 23 august 1944 - 31 decembrie 1961 (anexa la Hotărârea Guvernului nr. 1049/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142788",
+   "versions": [
+    {
+     "from": "2012-11-14",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142788",
+     "sha256": "ff8ff52cb48ff522945cc8367bfdecf257684f5c762871afc8072b5a1149a957"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1151-2012-anexa",
+   "path": "anexa/hg-1151-2012/anexa",
+   "short": "Anexa la HG nr. 1151/2012",
+   "title": "Norme metodologice din 27 noiembrie 2012 privind modul de organizare și exercitare a controlului financiar de gestiune (anexa la Hotărârea Guvernului nr. 1151/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143328",
+   "versions": [
+    {
+     "from": "2012-12-03",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143328",
+     "sha256": "59ca86b65a8b1703a157ffe5530663a78ba5565f8be7df0b435c8c318c2eedd9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1183-2012-anexa",
+   "path": "anexa/hg-1183-2012/anexa",
+   "short": "Anexa la HG nr. 1183/2012",
+   "title": "Norme din 4 decembrie 2012 privind sistemul de cooperare pentru asigurarea funcției de audit public intern (anexa la Hotărârea Guvernului nr. 1183/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143753",
+   "versions": [
+    {
+     "from": "2012-12-13",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143753",
+     "sha256": "ab928577c40bb55cad6b48e8098e636442247ffc147ef0bac64b24b87d1025ca"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1200-2012-anexa",
+   "path": "anexa/hg-1200-2012/anexa",
+   "short": "Anexa la HG nr. 1200/2012",
+   "title": "Metodologie din 4 decembrie 2012 privind modul de calcul al sumelor pentru care se aplică decertificarea definitivă și deducerea procentuală definitivă din declarațiile de cheltuieli care se transmit Comisiei Europene, pentru perioada de programare 2007-2013, aferente contractelor de achiziție publică pentru care procedurile de atribuire au fost lansate în Sistemul Electronic de Achiziții Publice, denumit în continuare SEAP, înainte de data de 1 octombrie 2011 de către autoritățile contractante, finanțate din axa prioritară 1 \"Modernizarea și dezvoltarea axelor prioritare TEN-T în scopul dezvoltării unui sistem durabil de transport și integrării acestuia în rețelele de transport ale UE\" - beneficiari Compania Națională de Autostrăzi și Drumuri Naționale din România - S.A., denumită în continuare CNADNR - S.A., și Compania Națională de Căi Ferate \"CFR\" - S.A., denumită în continuare CNCF \"CFR\" - S.A., axa prioritară 2 \"Modernizarea și dezvoltarea infrastructurii naționale de transport în scopul dezvoltării unui sistem național durabil de transport\" - beneficiar CNCF \"CFR\"- S.A. și axa prioritară 3 \"Modernizarea sectorului de transport în scopul îmbunătățirii protecției mediului, a sănătății umane și a siguranței pasagerilor\" - beneficiar CNCF \"CFR\" - S.A. ale Programului operațional sectorial Transport (anexa la Hotărârea Guvernului nr. 1200/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143921",
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143921",
+     "sha256": "039299d2042dc74e8b20940001607099d4bf2e4263d79183aa37fa2a5ba9b4fc"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1252-2012-anexa",
+   "path": "anexa/hg-1252-2012/anexa",
+   "short": "Anexa la HG nr. 1252/2012",
+   "title": "Metodologie din 12 decembrie 2012 de organizare și funcționare a creșelor și a altor unități de educație timpurie antepreșcolară (anexa la Hotărârea Guvernului nr. 1252/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144372",
+   "versions": [
+    {
+     "from": "2013-01-07",
+     "units": 79,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144372",
+     "sha256": "14dca581f5771943d60d566efa5c6254dc3418e60ba1c8afbc1c44f54e8f6b4e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1288-2012-anexa",
+   "path": "anexa/hg-1288-2012/anexa",
+   "short": "Anexa la HG nr. 1288/2012",
+   "title": "Regulament din 18 decembrie 2012 de organizare și funcționare a Agenției Naționale de Cadastru și Publicitate Imobiliară (anexa la Hotărârea Guvernului nr. 1288/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144204",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144204",
+     "sha256": "02dafacfb4850af62634583717875b1f43708e0f9d0baa9e00ae28542dfde62d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-218-2012-anexa",
+   "path": "anexa/hg-218-2012/anexa",
+   "short": "Anexa la HG nr. 218/2012",
+   "title": "Norme metodologice din 23 martie 2012 de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 64/2009 privind gestionarea financiară a instrumentelor structurale și utilizarea acestora pentru obiectivul convergență (anexa la Hotărârea Guvernului nr. 218/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136509",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136509",
+     "sha256": "75137a7ceb3fa69f302285e0458218702af7281a0373e5320cd4ca7437ed38c4"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-301-2012-anexa",
+   "path": "anexa/hg-301-2012/anexa",
+   "short": "Anexa la HG nr. 301/2012",
+   "title": "Norme metodologice din 11 aprilie 2012 de aplicare a Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor și protecția persoanelor (anexa la Hotărârea Guvernului nr. 301/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138060",
+   "versions": [
+    {
+     "from": "2012-06-16",
+     "units": 102,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138060",
+     "sha256": "61c7dab71d389ff48ac8760e7cf274cf1f35b4288a305a3d3af01e9c0cc689b7"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-350-2012-anexa-1",
+   "path": "anexa/hg-350-2012/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 350/2012",
+   "title": "Norme metodologice din 18 aprilie 2012 de aplicare a Legii nr. 273/2004 privind regimul juridic al adopției (anexa nr. 1 la Hotărârea Guvernului nr. 350/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137315",
+   "versions": [
+    {
+     "from": "2012-04-23",
+     "units": 124,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137315",
+     "sha256": "98c758dbaf40ab0dff541843a75f9f4271be9fd251d76381f850e4a9decd1ace"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-350-2012-anexa-2",
+   "path": "anexa/hg-350-2012/anexa-2",
+   "short": "Anexa nr. 2 la HG nr. 350/2012",
+   "title": "Regulament din 18 aprilie 2012 de organizare și funcționare a Consiliului de coordonare de pe lângă Oficiul Român pentru Adopții (anexa nr. 2 la Hotărârea Guvernului nr. 350/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137316",
+   "versions": [
+    {
+     "from": "2012-04-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137316",
+     "sha256": "f105987ac1032866ef4aade02e2fe035e2f5abf2ac7133dfee4c394c80f91bbb"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-353-2012-anexa",
+   "path": "anexa/hg-353-2012/anexa",
+   "short": "Anexa la HG nr. 353/2012",
+   "title": "Regulament din 18 aprilie 2012 de organizare și funcționare a Uniunii Naționale a Evaluatorilor Autorizați din România (anexa la Hotărârea Guvernului nr. 353/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137428",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137428",
+     "sha256": "7bb41a8d84b2c489c0b6a9faf45ae7ef6b40d3ee78f9ddfda86faf1e5c259dd4"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-9-2012-anexa",
+   "path": "anexa/hg-9-2012/anexa",
+   "short": "Anexa la HG nr. 9/2012",
+   "title": "Norme metodologice din 11 ianuarie 2012 de aplicare a Legii nr. 9/2012 privind taxa pentru emisiile poluante provenite de la autovehicule (anexa la Hotărârea Guvernului nr. 9/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134531",
+   "versions": [
+    {
+     "from": "2012-01-13",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134531",
+     "sha256": "caf2ea1b952c0f8c8e8046d8150ce81fc83f86c484779fb4727a8b0617185b2f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-900-2012-anexa",
+   "path": "anexa/hg-900-2012/anexa",
+   "short": "Anexa la HG nr. 900/2012",
+   "title": "Norme metodologice din 1 septembrie 2012 de aplicare a prevederilor referitoare la cardul național de asigurări sociale de sănătate din titlul IX \"Cardul european și cardul național de asigurări sociale de sănătate\" din Legea nr. 95/2006 privind reforma în domeniul sănătății (anexa la Hotărârea Guvernului nr. 900/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141111",
+   "versions": [
+    {
+     "from": "2012-09-10",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141111",
+     "sha256": "6569e6c5786eab088101566a0bb454abd232b1cdb159531a3afdca94fb0c0150"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-cifga-10-2012-anexa",
+   "path": "anexa/hotarare-cifga-10-2012/anexa",
+   "short": "Anexa la Hotărârea cifga nr. 10/2012",
+   "title": "Normă din 6 februarie 2012 privind finanțarea proiectelor prioritare (NI-FIN-07-IV/0) (anexa la Hotărârea CIFGA nr. 10/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135487",
+   "versions": [
+    {
+     "from": "2012-02-17",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135487",
+     "sha256": "75cdde0ad11e13505301166dfc9554d480ae0c6a3df9b31654e0a380f06f394e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-cifga-128-2012-anexa",
+   "path": "anexa/hotarare-cifga-128-2012/anexa",
+   "short": "Anexa la Hotărârea cifga nr. 128/2012",
+   "title": "Normă din 10 august 2012 privind finanțarea domeniilor prioritare (NI-FIN-07-V/0) (anexa la Hotărârea CIFGA nr. 128/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140636",
+   "versions": [
+    {
+     "from": "2012-08-20",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140636",
+     "sha256": "76752b5bd2069aa934e7a2684feb0becdcbd4fc56e8a06886769238334c77c45"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-cifga-166-2012-anexa",
+   "path": "anexa/hotarare-cifga-166-2012/anexa",
+   "short": "Anexa la Hotărârea cifga nr. 166/2012",
+   "title": "Normă unitară din 19 octombrie 2012 privind asigurarea creditelor la export pe termen mediu și lung și a investițiilor românești de capital în străinătate, în numele și în contul statului (NI-ASR-05-II/0) (anexa la Hotărârea CIFGA nr. 166/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142320",
+   "versions": [
+    {
+     "from": "2012-10-26",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142320",
+     "sha256": "55d6bb79e68dbb18c78d4642867e72168e91df65696c1392717f27d9da0d308a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-cifga-180-2012-anexa",
+   "path": "anexa/hotarare-cifga-180-2012/anexa",
+   "short": "Anexa la Hotărârea cifga nr. 180/2012",
+   "title": "Normă din 8 noiembrie 2012 privind \"Finanțarea cu dobândă subvenționată a operatorilor economici\" (NI-FIN-06-VII/0) (anexa la Hotărârea CIFGA nr. 180/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142956",
+   "versions": [
+    {
+     "from": "2012-11-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142956",
+     "sha256": "6369d2014583a6b23a2df0e6ea2337476f3690b5882fa0ae7fe0e4b5cd861f07"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-cifga-45-2012-anexa",
+   "path": "anexa/hotarare-cifga-45-2012/anexa",
+   "short": "Anexa la Hotărârea cifga nr. 45/2012",
+   "title": "Normă din 12 aprilie 2012 privind compensarea parțială a dobânzii plătite de operatorii economici la creditele în lei (NI-CST-15-III/0) (anexa la Hotărârea CIFGA nr. 45/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137292",
+   "versions": [
+    {
+     "from": "2012-04-23",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137292",
+     "sha256": "b939604fb777fdd3fb6b10ddb5431c008f2db231385b99165f07901a234395c9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-cifga-8-2012-anexa",
+   "path": "anexa/hotarare-cifga-8-2012/anexa",
+   "short": "Anexa la Hotărârea cifga nr. 8/2012",
+   "title": "Normă din 6 februarie 2012 privind finanțarea cu dobândă subvenționată a operatorilor economici (NI-FIN-06-VI/0) (anexa la Hotărârea CIFGA nr. 8/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135489",
+   "versions": [
+    {
+     "from": "2012-02-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135489",
+     "sha256": "09165a6153a5476db4b9f447de03fb85b704cad3da6ca39d95bb9d19c2f95a5a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-128-2012-anexa",
+   "path": "anexa/ordin-agricultura-128-2012/anexa",
+   "short": "Anexa la Ordin agricultura nr. 128/2012",
+   "title": "Normă din 11 iunie 2012 privind accesul la resursele acvatice vii din domeniul public al statului în vederea practicării pescuitului comercial în habitatele piscicole naturale, cu excepția ariilor naturale protejate (anexa la Ordinul AGRICULTURA nr. 128/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138830",
+   "versions": [
+    {
+     "from": "2012-06-15",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138830",
+     "sha256": "fc3935b2e8317f5a2a2bc25905088649c3605f2852d74cc1fcca20da2d57e58b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-141-2012-anexa",
+   "path": "anexa/ordin-agricultura-141-2012/anexa",
+   "short": "Anexa la Ordin agricultura nr. 141/2012",
+   "title": "Proceduri, CONDIȚII ȘI REGULI din 10 iulie 2012 privind autorizarea oficială a laboratoarelor pentru testarea semințelor oficial și sub supraveghere oficială (anexa la Ordinul AGRICULTURA nr. 141/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140156",
+   "versions": [
+    {
+     "from": "2012-08-01",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140156",
+     "sha256": "cbe3a1c61ca75dcf5298ad623ac981d02dd50ab130ae2a4866be56ea0bad7382"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-150-2012-anexa",
+   "path": "anexa/ordin-agricultura-150-2012/anexa",
+   "short": "Anexa la Ordin agricultura nr. 150/2012",
+   "title": "Regulament din 17 iulie 2012 pentru aplicarea Legii nr. 255/1998 privind protecția noilor soiuri de plante (anexa la Ordinul AGRICULTURA nr. 150/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141093",
+   "versions": [
+    {
+     "from": "2012-09-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141093",
+     "sha256": "dc60ddf07a8e60d3bf3091f4aa4b2607f3ab86a31008c473ccd27ba8185f32d1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-16-2012-anexa",
+   "path": "anexa/ordin-agricultura-16-2012/anexa",
+   "short": "Anexa la Ordin agricultura nr. 16/2012",
+   "title": "Metodologia și formularistica din 30 ianuarie 2012 necesare punerii în aplicare a prevederilor Ordonanței Guvernului nr. 25/2010 pentru instituirea unei scheme de ajutor de stat temporare privind asigurarea accesului la finanțare în agricultură, inclusiv modul de calcul al ratei dobânzii la credit necesare pentru calculul subvenției, al ratei de referință și al valorii nominale a subvenției (anexa la Ordinul AGRICULTURA nr. 16/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134986",
+   "versions": [
+    {
+     "from": "2012-02-06",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134986",
+     "sha256": "e8914c116d7004a230da554911f8c8400da08c93fbcb18df707b3c83b04848f0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-163-2012-anexa",
+   "path": "anexa/ordin-agricultura-163-2012/anexa",
+   "short": "Anexa la Ordin agricultura nr. 163/2012",
+   "title": "Norme tehnice din 3 august 2012 pentru producerea vinurilor cu indicație geografică (anexa la Ordinul AGRICULTURA nr. 163/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140523",
+   "versions": [
+    {
+     "from": "2012-08-14",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140523",
+     "sha256": "63a6516fc0b18719531916d0a1dbde2fbf400391b408d4af8693df187545c3d2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-166-2012-anexa",
+   "path": "anexa/ordin-agricultura-166-2012/anexa",
+   "short": "Anexa la Ordin agricultura nr. 166/2012",
+   "title": "Norme din 3 august 2012 privind gestionarea, procedura și condițiile de acordare a drepturilor de plantare nouă, replantare sau plantare pe o rezervă a viței-de-vie pentru struguri de vin (anexa la Ordinul AGRICULTURA nr. 166/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140642",
+   "versions": [
+    {
+     "from": "2012-08-20",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140642",
+     "sha256": "3c9f209cf1eb8437bddd7b5d9bce1429da42c3126accf1807a1cdc17b3406839"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-1985-2012-anexa-2",
+   "path": "anexa/ordin-anaf-1985-2012/anexa-2",
+   "short": "Anexa nr. 2 la Ordin anaf nr. 1985/2012",
+   "title": "Procedură din 21 decembrie 2012 de înregistrare a contractelor de locațiune (anexa nr. 2 la Ordinul ANAF nr. 1985/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144473",
+   "versions": [
+    {
+     "from": "2013-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144473",
+     "sha256": "dec0c61bb4c1a87ba2dfa41606faf2afe2ea6c4244bf57d69e20c66cbd807487"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-16-2012-anexa",
+   "path": "anexa/ordin-anre-16-2012/anexa",
+   "short": "Anexa la Ordin anre nr. 16/2012",
+   "title": "Procedură din 11 mai 2012 privind racordarea utilizatorilor la rețelele electrice în vecinătatea limitei zonei de activitate a unor operatori de distribuție (anexa la Ordinul ANRE nr. 16/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138120",
+   "versions": [
+    {
+     "from": "2012-05-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138120",
+     "sha256": "f536b7fc0a62abfdaf9b909ee6deb8feae478359e3f691428d4133e4d2b478e8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-30-2012-anexa",
+   "path": "anexa/ordin-anre-30-2012/anexa",
+   "short": "Anexa la Ordin anre nr. 30/2012",
+   "title": "Metodologie din 27 august 2012 de stabilire a prețurilor și tarifelor la consumatorii finali care nu uzează de dreptul de eligibilitate (anexa la Ordinul ANRE nr. 30/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140965",
+   "versions": [
+    {
+     "from": "2012-09-01",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140965",
+     "sha256": "48e5f57227cc70c5efdeb0300977a50e2dc149c471a03d4fc328799b9d6f37a4"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-ansvsa-66-2012-anexa-1",
+   "path": "anexa/ordin-ansvsa-66-2012/anexa-1",
+   "short": "Anexa nr. 1 la Ordin ansvsa nr. 66/2012",
+   "title": "Ghid din 19 octombrie 2012 privind cadrul legal care reglementează importul paralel de produse medicinale veterinare pentru care s-a acordat deja o autorizație de comercializare (anexa nr. 1 la Ordinul ANSVSA nr. 66/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142574",
+   "versions": [
+    {
+     "from": "2012-11-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142574",
+     "sha256": "583b78e36e1831b767dc3129f0e5d4996d0d62bcadb7c62355bb489fb36e2000"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-ansvsa-66-2012-anexa-2",
+   "path": "anexa/ordin-ansvsa-66-2012/anexa-2",
+   "short": "Anexa nr. 2 la Ordin ansvsa nr. 66/2012",
+   "title": "Procedura simplificată din 19 octombrie 2012 de obținere a autorizației de import paralel pentru produse medicinale veterinare (anexa nr. 2 la Ordinul ANSVSA nr. 66/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142575",
+   "versions": [
+    {
+     "from": "2012-11-06",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142575",
+     "sha256": "0b21f199b320f4fa823ba24cd1a74c68d77c56a9d761968a65ef645f59ce84cd"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-10-2012-anexa",
+   "path": "anexa/ordin-aparare-10-2012/anexa",
+   "short": "Anexa la Ordin aparare nr. 10/2012",
+   "title": "Regulament din 28 ianuarie 2012 de organizare și funcționare a Comisiei pentru determinarea calității de fost cadru militar activ, combatant în rândurile Armatei Regale Române, îndepărtat abuziv din armată în perioada 23 august 1944-31 decembrie 1961, din considerente politice, religioase, etnice sau sociale, constituită la nivelul Ministerului Apărării Naționale (anexa la Ordinul APARARE nr. 10/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135350",
+   "versions": [
+    {
+     "from": "2012-02-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135350",
+     "sha256": "e62d0cdb29e175da20da264d7e577a38c316c90d41c395ccf57b80ce7a5a366c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-120-2012-anexa",
+   "path": "anexa/ordin-aparare-120-2012/anexa",
+   "short": "Anexa la Ordin aparare nr. 120/2012",
+   "title": "Regulament din 12 octombrie 2012 privind inițierea, elaborarea, conținutul-cadru și aprobarea documentațiilor tehnico-economice aferente investițiilor publice imobiliare în Ministerul Apărării Naționale (anexa la Ordinul APARARE nr. 120/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142477",
+   "versions": [
+    {
+     "from": "2013-03-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142477",
+     "sha256": "96c96880c0f24da8f42ccfba0cbc56346c3a3c6c2aaf1329f5f1915f83ba8eb5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-149-2012-anexa",
+   "path": "anexa/ordin-aparare-149-2012/anexa",
+   "short": "Anexa la Ordin aparare nr. 149/2012",
+   "title": "Regulamentul din 13 decembrie 2012 Educației Fizice Militare (anexa la Ordinul APARARE nr. 149/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145750",
+   "versions": [
+    {
+     "from": "2013-02-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145750",
+     "sha256": "c3c7d95295f23f5f23f9b6855af2f4933669c56aaee1a1542b31a08cc220496a"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-aparare-150-2012-anexa",
    "path": "anexa/ordin-aparare-150-2012/anexa",
    "short": "Anexa la Ordin aparare nr. 150/2012",
@@ -14,6 +614,996 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301401",
      "sha256": "791f906672aabea69deaacf00e08c26c157c23d9f6eb4265a9b3069835866281"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-30-2012-anexa",
+   "path": "anexa/ordin-aparare-30-2012/anexa",
+   "short": "Anexa la Ordin aparare nr. 30/2012",
+   "title": "Instrucțiuni din 21 martie 2012 privind recrutarea, selecția, formarea profesională și evoluția în cariera militară în Armata României (anexa la Ordinul APARARE nr. 30/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136915",
+   "versions": [
+    {
+     "from": "2012-04-05",
+     "units": 127,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136915",
+     "sha256": "1ef16bde1dab6e3526da965cdd37e5203a4af9001afd67124a89c7a617fd38d1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-75-2012-anexa",
+   "path": "anexa/ordin-aparare-75-2012/anexa",
+   "short": "Anexa la Ordin aparare nr. 75/2012",
+   "title": "Norme metodologice din 12 iulie 2012 privind sistemul de control intern/managerial în Ministerul Apărării Naționale (anexa la Ordinul APARARE nr. 75/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140129",
+   "versions": [
+    {
+     "from": "2012-07-31",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140129",
+     "sha256": "b120d0b173513241a2af01bfdfbfbc417a189d18a0eb5b5cbf04d12d4803109c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cnas-175-2012-anexa",
+   "path": "anexa/ordin-cnas-175-2012/anexa",
+   "short": "Anexa la Ordin cnas nr. 175/2012",
+   "title": "Norme metodologice din 31 mai 2012 pentru realizarea și raportarea activităților specifice în cadrul subprogramului de screening pentru depistarea precoce activă a cancerului de col uterin (anexa la Ordinul CNAS nr. 175/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138788",
+   "versions": [
+    {
+     "from": "2012-06-13",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138788",
+     "sha256": "ebc1a03231377654411201b3c90767a315661e237469ab44d1e950f7a30f947c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cnpp-198-2012-anexa",
+   "path": "anexa/ordin-cnpp-198-2012/anexa",
+   "short": "Anexa la Ordin cnpp nr. 198/2012",
+   "title": "Norme metodologice din 25 mai 2012 pentru aplicarea prevederilor Ordonanței de urgență a Guvernului nr. 17/2012 privind stabilirea unor măsuri de restituire a unor contribuții de asigurări sociale de sănătate (anexa la Ordinul CNPP nr. 198/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138481",
+   "versions": [
+    {
+     "from": "2012-05-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138481",
+     "sha256": "3bb4ba77e27f2b66c75cdf7af30c84e36d0eee161e6d041f1d8d349e0c0e7607"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-concurenta-101-2012-anexa",
+   "path": "anexa/ordin-concurenta-101-2012/anexa",
+   "short": "Anexa la Ordin concurenta nr. 101/2012",
+   "title": "Regulament din 2 februarie 2012 de organizare, funcționare și procedură al Consiliului Concurenței (anexa la Ordinul CONCURENTA nr. 101/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135407",
+   "versions": [
+    {
+     "from": "2012-02-14",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135407",
+     "sha256": "58474fbeb7ccdc3c145b5b4cf276029487bae2ffa46d317b5705e3bfa21308ca"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dezvoltare-252-2012-anexa",
+   "path": "anexa/ordin-dezvoltare-252-2012/anexa",
+   "short": "Anexa la Ordin dezvoltare nr. 252/2012",
+   "title": "Norme metodologice din 15 martie 2012 de aplicare a Legii nr. 105/2011 privind gestionarea și utilizarea fondurilor externe nerambursabile și a cofinanțării publice naționale, pentru obiectivul Cooperare teritorială europeană\" (anexa la Ordinul DEZVOLTARE nr. 252/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137473",
+   "versions": [
+    {
+     "from": "2012-04-27",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137473",
+     "sha256": "6d3c48ff31ab5a78fef0faeceecc8abc88a8f6c9f4b921d0ffba54ca51e1fe7e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-1532-2012-anexa",
+   "path": "anexa/ordin-economie-1532-2012/anexa",
+   "short": "Anexa la Ordin economie nr. 1532/2012",
+   "title": "Norme metodologice din 13 august 2012 pentru aplicarea de către Agenția pentru Implementarea Proiectelor și Programelor pentru Întreprinderi Mici și Mijlocii a prevederilor art. 18 din Ordonanța de urgență a Guvernului nr. 117/2006 privind procedurile naționale în domeniul ajutorului de stat (anexa la Ordinul ECONOMIE nr. 1532/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141372",
+   "versions": [
+    {
+     "from": "2012-09-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141372",
+     "sha256": "c3fb0176096496be66c7b97e5a377be40017b4825320e945ac46eec4c02c79fc"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3035-2012-anexa-1",
+   "path": "anexa/ordin-educatie-3035-2012/anexa-1",
+   "short": "Anexa nr. 1 la Ordin educatie nr. 3035/2012",
+   "title": "Metodologie-cadru din 10 ianuarie 2012 de organizare și desfășurare a competițiilor școlare (anexa nr. 1 la Ordinul EDUCATIE nr. 3035/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134826",
+   "versions": [
+    {
+     "from": "2012-01-27",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134826",
+     "sha256": "ce66a67d05abc2f837b6440325ac99f23d7d8398e3546ceead99938b80847b35"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3035-2012-anexa-2",
+   "path": "anexa/ordin-educatie-3035-2012/anexa-2",
+   "short": "Anexa nr. 2 la Ordin educatie nr. 3035/2012",
+   "title": "Regulament din 10 ianuarie 2012 de organizare a activităților cuprinse în calendarul activităților educative, școlare și extrașcolare (anexa nr. 2 la Ordinul EDUCATIE nr. 3035/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134827",
+   "versions": [
+    {
+     "from": "2012-01-27",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134827",
+     "sha256": "294f15c9af5601c2345b1ccdfe8fa1766eb22636f0f5244f8fe66b748b85a375"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3064-2012-anexa-1",
+   "path": "anexa/ordin-educatie-3064-2012/anexa-1",
+   "short": "Anexa nr. 1 la Ordin educatie nr. 3064/2012",
+   "title": "Metodologie din 19 ianuarie 2012 privind cuprinderea copiilor în clasa pregătitoare și în clasa I pentru anul școlar 2012-2013 (anexa nr. 1 la Ordinul EDUCATIE nr. 3064/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134775",
+   "versions": [
+    {
+     "from": "2012-01-25",
+     "units": 53,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134775",
+     "sha256": "4cf12f93c760f6bce3ce41d13c0255644f56a0d608abeee60245a8149f03d3d3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3850-2012-anexa",
+   "path": "anexa/ordin-educatie-3850-2012/anexa",
+   "short": "Anexa la Ordin educatie nr. 3850/2012",
+   "title": "Metodologie din 2 mai 2012 pentru evaluarea externă în vederea autorizării provizorii, acreditării și pentru evaluarea periodică a școlilor doctorale, pe domenii (anexa la Ordinul EDUCATIE nr. 3850/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137738",
+   "versions": [
+    {
+     "from": "2012-05-10",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137738",
+     "sha256": "c9f576a3b050806d57e16ad0acbb845f6750cb66b6fcbbbae8f7c3a0ceb81bbd"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4616-2012-anexa",
+   "path": "anexa/ordin-educatie-4616-2012/anexa",
+   "short": "Anexa la Ordin educatie nr. 4616/2012",
+   "title": "Metodologie din 28 iunie 2012 de monitorizare specială a instituțiilor de învățământ superior persoane juridice de drept privat și de utilitate publică, înființate prin Legea nr. 58/2012 privind înființarea Universității \"Sapientia\" din municipiul Cluj-Napoca, județul Cluj, și Legea nr. 59/2012 privind înființarea Universității Agora din municipiul Oradea, județul Bihor (anexa la Ordinul EDUCATIE nr. 4616/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139663",
+   "versions": [
+    {
+     "from": "2012-07-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139663",
+     "sha256": "a9531834ed26a0dc47fc949669988cb17daed8ca2cbc43f72b006d715f1df03c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5624-2012-anexa",
+   "path": "anexa/ordin-educatie-5624-2012/anexa",
+   "short": "Anexa la Ordin educatie nr. 5624/2012",
+   "title": "Metodologie din 31 august 2012 de organizare și desfășurare a concursurilor de ocupare a posturilor didactice/catedrelor care se vacantează pe parcursul anului școlar 2012-2013 în unitățile de învățământ preuniversitar de stat (anexa la Ordinul EDUCATIE nr. 5624/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141283",
+   "versions": [
+    {
+     "from": "2012-09-17",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141283",
+     "sha256": "a740f9e88b8d150e35ae5ca5a60950ab5d4f0ad852bd8c52d1cc435e9bb8be32"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5625-2012-anexa",
+   "path": "anexa/ordin-educatie-5625-2012/anexa",
+   "short": "Anexa la Ordin educatie nr. 5625/2012",
+   "title": "Metodologie din 31 august 2012 de organizare și desfășurare a concursului pentru ocuparea posturilor didactice/catedrelor vacante/rezervate în unitățile de învățământ particular din învățământul preuniversitar (anexa la Ordinul EDUCATIE nr. 5625/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142402",
+   "versions": [
+    {
+     "from": "2012-10-30",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142402",
+     "sha256": "f97a7bf47ff3e7b927cc8ee0c952a6c627db57f2e62adb31e963b21025882a9a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5745-2012-anexa",
+   "path": "anexa/ordin-educatie-5745-2012/anexa",
+   "short": "Anexa la Ordin educatie nr. 5745/2012",
+   "title": "Metodologia-cadru din 13 septembrie 2012 de organizare a programelor de formare psihopedagogică în vederea certificării competențelor pentru profesia didactică (anexa la Ordinul EDUCATIE nr. 5745/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141313",
+   "versions": [
+    {
+     "from": "2012-09-17",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141313",
+     "sha256": "7cb87ec572532ef8301ef74eb23b2f9c7c4a8779d689c9363e55a0237ca97984"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5773-2012-anexa",
+   "path": "anexa/ordin-educatie-5773-2012/anexa",
+   "short": "Anexa la Ordin educatie nr. 5773/2012",
+   "title": "Metodologie din 19 septembrie 2012 de întocmire, completare și valorificare a raportului de evaluare a dezvoltării fizice, socio-emoționale, cognitive, a limbajului și a comunicării, precum și a dezvoltării capacităților și atitudinilor de învățare, la finalul clasei pregătitoare (anexa la Ordinul EDUCATIE nr. 5773/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141403",
+   "versions": [
+    {
+     "from": "2012-09-20",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141403",
+     "sha256": "ddf92cfd5c5744258e3081d11835e171e0298c71673f34e2086a07ec3f11b068"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-europene-348-2012-anexa",
+   "path": "anexa/ordin-europene-348-2012/anexa",
+   "short": "Anexa la Ordin europene nr. 348/2012",
+   "title": "Norme procedurale interne din 7 mai 2012 pentru organizarea și desfășurarea procedurii de selecție de oferte în vederea închirierii unui spațiu într-o clădire de birouri, dotată cu mobilier de birouri, utilități și spații de parcare, necesar funcționării Direcției generale Autoritatea pentru coordonarea instrumentelor structurale din cadrul Ministerului Afacerilor Europene (anexa la Ordinul EUROPENE nr. 348/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137723",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137723",
+     "sha256": "ca3773e65d1d91ed6c39bfedb41bfdb3a2c473ca7983e9bdea17268c882819f1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-europene-851-2012-anexa",
+   "path": "anexa/ordin-europene-851-2012/anexa",
+   "short": "Anexa la Ordin europene nr. 851/2012",
+   "title": "Norme metodologice din 26 iulie 2012 de aplicare a prevederilor art. 14^1 din Ordonanța de urgență a Guvernului nr. 64/2009 privind gestionarea financiară a instrumentelor structurale și utilizarea acestora pentru obiectivul convergență (anexa la Ordinul EUROPENE nr. 851/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140338",
+   "versions": [
+    {
+     "from": "2012-08-07",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140338",
+     "sha256": "2cd164177597b725592ab7e1ba9755243d4a28a0eb7467768e0fbdd20ed1ea25"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-europene-869-2012-anexa",
+   "path": "anexa/ordin-europene-869-2012/anexa",
+   "short": "Anexa la Ordin europene nr. 869/2012",
+   "title": "Norme procedurale interne din 6 august 2012 pentru atribuirea contractului de închiriere a unui spațiu într-o clădire de birouri, dotată cu mobilier de birouri, utilități și spații de parcare, necesar funcționării Direcției generale Autoritatea pentru coordonarea instrumentelor structurale din cadrul Ministerului Afacerilor Europene (anexa la Ordinul EUROPENE nr. 869/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140634",
+   "versions": [
+    {
+     "from": "2012-08-20",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140634",
+     "sha256": "6a7e3b41f315854da6ec10309858644521b4d688cfe84beb561fd894a3516c01"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-externe-882-2012-anexa",
+   "path": "anexa/ordin-externe-882-2012/anexa",
+   "short": "Anexa la Ordin externe nr. 882/2012",
+   "title": "Norme interne de implementare din 28 iunie 2012 privind acordarea finanțării asistenței pentru dezvoltare (anexa la Ordinul EXTERNE nr. 882/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140202",
+   "versions": [
+    {
+     "from": "2012-08-02",
+     "units": 64,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140202",
+     "sha256": "3203ea34daa8a13e9fd1c79cf16b2265a808cf3cac079eafcd8cccc1e9eeb4fa"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-externe-914-2012-anexa",
+   "path": "anexa/ordin-externe-914-2012/anexa",
+   "short": "Anexa la Ordin externe nr. 914/2012",
+   "title": "Norme metodologice din 2 iulie 2012 de aplicare a Ordonanței de urgență a Guvernului nr. 119/2010 privind regimul de control al operațiunilor cu produse cu dublă utilizare (anexa la Ordinul EXTERNE nr. 914/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139510",
+   "versions": [
+    {
+     "from": "2012-07-09",
+     "units": 63,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139510",
+     "sha256": "5e0608d51a9f28102f9e75f7b594606e2b95c779f3ef41c869ca9c7722b294cf"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1152-2012-anexa",
+   "path": "anexa/ordin-finante-1152-2012/anexa",
+   "short": "Anexa la Ordin finante nr. 1152/2012",
+   "title": "Norme metodologice din 30 august 2012 de aplicare a prevederilor art. 7 alin. (3)-(18) din Ordonanța Guvernului nr. 13/2012 cu privire la rectificarea bugetului de stat pe anul 2012 (anexa la Ordinul FINANTE nr. 1152/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140954",
+   "versions": [
+    {
+     "from": "2012-08-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140954",
+     "sha256": "9da6e799a014b01b6e4ef5401d49dcd9e801b69154e382b66c2e63c5e0651393"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1248-2012-anexa",
+   "path": "anexa/ordin-finante-1248-2012/anexa",
+   "short": "Anexa la Ordin finante nr. 1248/2012",
+   "title": "Norme metodologice din 20 septembrie 2012 de aplicare a prevederilor art. 49 alin. (13^1) din Legea nr. 273/2006 privind finanțele publice locale și de modificare și completare a Normelor metodologice privind întocmirea și depunerea situațiilor financiare trimestriale ale instituțiilor publice, precum și a unor raportări financiare lunare în anul 2009, aprobate prin Ordinul ministrului finanțelor publice nr. 629/2009 (anexa la Ordinul FINANTE nr. 1248/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141429",
+   "versions": [
+    {
+     "from": "2012-09-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141429",
+     "sha256": "aac342db2625e9efbfbe99353da6506b25b2db7f306b10fccdc1de52ea14aed1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1302-2012-anexa",
+   "path": "anexa/ordin-finante-1302-2012/anexa",
+   "short": "Anexa la Ordin finante nr. 1302/2012",
+   "title": "Norme metodologice din 4 octombrie 2012 de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 62/2011 privind stabilirea cadrului financiar general pentru utilizarea contribuției financiare elvețiene nerambursabile acordate României prin intermediul Programului de cooperare elvețiano-român vizând reducerea disparităților economice și sociale în cadrul Uniunii Europene extinse, precum și a contribuției naționale aferente acestei asistențe (anexa la Ordinul FINANTE nr. 1302/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142482",
+   "versions": [
+    {
+     "from": "2012-11-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142482",
+     "sha256": "2f941a5433cc139932ce6dddee993174964b862a59d3b3ef45d664e60b7f7658"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1543-2012-anexa",
+   "path": "anexa/ordin-finante-1543-2012/anexa",
+   "short": "Anexa la Ordin finante nr. 1543/2012",
+   "title": "Norme metodologice din 23 noiembrie 2012 privind contabilitatea operațiunilor derulate prin bugetul Trezoreriei Statului și a cheltuielilor efectuate din bugetul Ministerului Finanțelor Publice - Acțiuni generale, specifice unităților teritoriale ale Trezoreriei Statului (anexa la Ordinul FINANTE nr. 1543/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143415",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143415",
+     "sha256": "b9100599a3d5a6bcadf6b3468e53df8f58aaf56ad7c73c7cd294491f1ae3e5b4"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1720-2012-anexa",
+   "path": "anexa/ordin-finante-1720-2012/anexa",
+   "short": "Anexa la Ordin finante nr. 1720/2012",
+   "title": "Norme metodologice din 17 decembrie 2012 privind încheierea exercițiului bugetar al anului 2012 (anexa la Ordinul FINANTE nr. 1720/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144009",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144009",
+     "sha256": "322854799fa76ec25fd44c0c10ec3ccfb7a6d31ab406390ccd5c024fc53a76ba"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-809-2012-anexa",
+   "path": "anexa/ordin-finante-809-2012/anexa",
+   "short": "Anexa la Ordin finante nr. 809/2012",
+   "title": "Norme metodologice din 8 iunie 2012 pentru încasarea, gestionarea conturilor de disponibilități în lei și în valută și virarea sumelor obținute din scoaterea la licitație, prin platforma comună, a certificatelor de emisii de gaze cu efect de seră (anexa la Ordinul FINANTE nr. 809/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138779",
+   "versions": [
+    {
+     "from": "2012-06-13",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138779",
+     "sha256": "7cb6c41abb5c90892567a49828e0b6b4717e59ecca264b53dfb6cd59731b3107"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-823-2012-anexa",
+   "path": "anexa/ordin-finante-823-2012/anexa",
+   "short": "Anexa la Ordin finante nr. 823/2012",
+   "title": "Norme metodologice din 12 iunie 2012 privind execuția bugetului de venituri și cheltuieli al Fondului pentru mediu (anexa la Ordinul FINANTE nr. 823/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138892",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138892",
+     "sha256": "8675e142f031654b4c5d9a3043555c101040b40b2e820bae526ba42c665f6ebf"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-ins-1948-2012-anexa",
+   "path": "anexa/ordin-ins-1948-2012/anexa",
+   "short": "Anexa la Ordin ins nr. 1948/2012",
+   "title": "Norme din 19 decembrie 2012 de completare a Declarației statistice Intrastat (anexa la Ordinul INS nr. 1948/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144349",
+   "versions": [
+    {
+     "from": "2013-01-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144349",
+     "sha256": "1bc8c648ded8f9e672bda0f5370128f024ee756c4e7ea70e64deb67a5f443289"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-103-2012-anexa",
+   "path": "anexa/ordin-interne-103-2012/anexa",
+   "short": "Anexa la Ordin interne nr. 103/2012",
+   "title": "Procedură din 26 aprilie 2012 de autorizare a operațiunilor cu produse susceptibile de a avea efecte psihoactive, altele decât cele prevăzute de acte normative în vigoare (anexa la Ordinul INTERNE nr. 103/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138029",
+   "versions": [
+    {
+     "from": "2012-05-16",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138029",
+     "sha256": "c2806ef2816b66183eec69aac34125bc8897d239f94648f0321e00123dc5a834"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-117-2012-anexa",
+   "path": "anexa/ordin-interne-117-2012/anexa",
+   "short": "Anexa la Ordin interne nr. 117/2012",
+   "title": "Procedură din 30 mai 2012 privind desemnarea organismelor de evaluare a conformității produselor pentru construcții (anexa la Ordinul INTERNE nr. 117/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138988",
+   "versions": [
+    {
+     "from": "2012-06-21",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138988",
+     "sha256": "404f5e5c90b194890d33958e9cc5afcbbfbf2978ca3d6cefdc2a28a703191646"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-124-2012-anexa",
+   "path": "anexa/ordin-interne-124-2012/anexa",
+   "short": "Anexa la Ordin interne nr. 124/2012",
+   "title": "Regulament din 5 iunie 2012 privind implementarea programului \"Termoficare 2006-2015 căldură și confort\", componenta de reabilitare a sistemului centralizat de alimentare cu energie termică (anexa la Ordinul INTERNE nr. 124/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138786",
+   "versions": [
+    {
+     "from": "2012-06-13",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138786",
+     "sha256": "83af5ca0811ceb95b0a3ef3c86d17483c6d6aab25f695d6b5504e0ec505f78f2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-220-2012-anexa",
+   "path": "anexa/ordin-interne-220-2012/anexa",
+   "short": "Anexa la Ordin interne nr. 220/2012",
+   "title": "Regulament din 7 septembrie 2012 de organizare și funcționare a Agenției Naționale împotriva Traficului de Persoane (anexa la Ordinul INTERNE nr. 220/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141308",
+   "versions": [
+    {
+     "from": "2012-09-17",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141308",
+     "sha256": "fd39802247a8274eef2cc286035adb5a7a3eab7404d3780a7af15113ef467cee"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-236-2012-anexa",
+   "path": "anexa/ordin-interne-236-2012/anexa",
+   "short": "Anexa la Ordin interne nr. 236/2012",
+   "title": "Regulament din 2 octombrie 2012 privind organizarea și desfășurarea concursurilor profesionale ale serviciilor voluntare și private pentru situații de urgență (anexa la Ordinul INTERNE nr. 236/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141900",
+   "versions": [
+    {
+     "from": "2012-10-10",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141900",
+     "sha256": "51c18cdaaf9d43cc8f41d54b3b8b1c26201e03923ab71d19c243b2d8dae79c94"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-252-2012-anexa",
+   "path": "anexa/ordin-interne-252-2012/anexa",
+   "short": "Anexa la Ordin interne nr. 252/2012",
+   "title": "Regulament din 2 noiembrie 2012 de organizare și funcționare a Direcției pentru dezvoltarea capacității administrative (anexa la Ordinul INTERNE nr. 252/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142922",
+   "versions": [
+    {
+     "from": "2012-11-19",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142922",
+     "sha256": "ed28ee6f2232117981f06a25c22944f64059faeaf8e1f3a6052ed8148fda7b2a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-286-2012-anexa",
+   "path": "anexa/ordin-interne-286-2012/anexa",
+   "short": "Anexa la Ordin interne nr. 286/2012",
+   "title": "Norme metodologice din 28 decembrie 2012 privind stabilirea competențelor structurilor Ministerului Afacerilor Interne sau ale instituțiilor și structurilor aflate în subordine, în aplicarea Ordonanței de urgență a Guvernului nr. 69/2012 privind asigurarea unei contribuții suplimentare a României la nivelul Organizației Internaționale de Poliție Criminală - INTERPOL prin detașarea ofițerilor de poliție (anexa la Ordinul INTERNE nr. 286/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144502",
+   "versions": [
+    {
+     "from": "2013-01-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144502",
+     "sha256": "43fd9b474a8500a9f54f7e089cfc1648dfacda1c0f453755ff53ea50b8f71d96"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-52-2012-anexa",
+   "path": "anexa/ordin-interne-52-2012/anexa",
+   "short": "Anexa la Ordin interne nr. 52/2012",
+   "title": "Regulament din 27 februarie 2012 de organizare și funcționare al Agenției Naționale Antidrog (anexa la Ordinul INTERNE nr. 52/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135918",
+   "versions": [
+    {
+     "from": "2012-03-05",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135918",
+     "sha256": "a134023ac2e499122c9a7d4505f787df786cd8ce51ccc5d42538440f91fadc55"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-68-2012-anexa",
+   "path": "anexa/ordin-interne-68-2012/anexa",
+   "short": "Anexa la Ordin interne nr. 68/2012",
+   "title": "Regulament din 5 martie 2012 de organizare și funcționare a Institutului de Studii pentru Ordine Publică (anexa la Ordinul INTERNE nr. 68/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136282",
+   "versions": [
+    {
+     "from": "2012-03-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136282",
+     "sha256": "aa3e1149ec499625393600a5324f536bb53bc5ec448acdcb95b95f9fa1be9a0f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-75-2012-anexa",
+   "path": "anexa/ordin-interne-75-2012/anexa",
+   "short": "Anexa la Ordin interne nr. 75/2012",
+   "title": "Metodologie din 14 martie 2012 privind confecționarea și valorificarea plăcilor cu numere de înmatriculare cu fond reflectorizant, precum și aprovizionarea cu acestea în formă brută (anexa la Ordinul INTERNE nr. 75/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136404",
+   "versions": [
+    {
+     "from": "2012-04-01",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136404",
+     "sha256": "fbe72e4a3853c688bc264cc03442ac181312f9777b563c78b66f9d245dd8f737"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-justitie-3278-2012-anexa",
+   "path": "anexa/ordin-justitie-3278-2012/anexa",
+   "short": "Anexa la Ordin justitie nr. 3278/2012",
+   "title": "Regulament din 1 octombrie 2012 privind procedura de evaluare a performanțelor profesionale individuale ale personalului auxiliar de specialitate, precum și ale personalului conex din cadrul instanțelor judecătorești (anexa la Ordinul JUSTITIE nr. 3278/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142229",
+   "versions": [
+    {
+     "from": "2012-10-24",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142229",
+     "sha256": "3cf4a50a85a04fef5ed8ae2419a8e61944efa03b18eff9f5c10879b9d535bd4b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-3298-2012-anexa",
+   "path": "anexa/ordin-mediu-3298-2012/anexa",
+   "short": "Anexa la Ordin mediu nr. 3298/2012",
+   "title": "Regulament din 28 august 2012 privind organizarea activității de atestare a instituțiilor publice sau private specializate în elaborarea documentațiilor pentru fundamentarea solicitării avizului de gospodărire a apelor și a autorizației de gospodărire a apelor (anexa la Ordinul MEDIU nr. 3298/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141407",
+   "versions": [
+    {
+     "from": "2012-09-20",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141407",
+     "sha256": "511978c33dc6523f7d42cbc3b5dd62e6ee7ffc025f08a9b693e79253a60ff919"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-4017-2012-anexa",
+   "path": "anexa/ordin-mediu-4017-2012/anexa",
+   "short": "Anexa la Ordin mediu nr. 4017/2012",
+   "title": "Procedură de predare-primire din 12 decembrie 2012 a amplasamentelor terenurilor constituite în perimetre de ameliorare și de transfer al obiectivului de investiție (anexa la Ordinul MEDIU nr. 4017/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144384",
+   "versions": [
+    {
+     "from": "2013-01-07",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144384",
+     "sha256": "f3f61aefcddc71b1b01b0deffe1cfc5ceb70ec6517a34c4bc0707247534cafba"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-981-2012-anexa",
+   "path": "anexa/ordin-mediu-981-2012/anexa",
+   "short": "Anexa la Ordin mediu nr. 981/2012",
+   "title": "Ghid de finanțare din 7 martie 2012 a Programului de stimulare a înnoirii Parcului auto național (anexa la Ordinul MEDIU nr. 981/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136165",
+   "versions": [
+    {
+     "from": "2012-03-14",
+     "units": 71,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136165",
+     "sha256": "16222695c4f21e7dfc024ee72fcd57233b386f5e17fb1fad0b58d0fdc5e65465"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-munca-1804-2012-anexa-1",
+   "path": "anexa/ordin-munca-1804-2012/anexa-1",
+   "short": "Anexa nr. 1 la Ordin munca nr. 1804/2012",
+   "title": "Metodologie din 3 iulie 2012 de utilizare a instrumentelor Europass și Youthpass (anexa nr. 1 la Ordinul MUNCA nr. 1804/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139912",
+   "versions": [
+    {
+     "from": "2012-07-24",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139912",
+     "sha256": "7f71838ef25b6fb265ccb8332f6762ca7d4f16fb38732bb6b56e70eb6dd1ca02"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-munca-1804-2012-anexa-2",
+   "path": "anexa/ordin-munca-1804-2012/anexa-2",
+   "short": "Anexa nr. 2 la Ordin munca nr. 1804/2012",
+   "title": "Metodologie-cadru din 3 iulie 2012 cu privire la serviciile de consiliere și orientare a carierei pe tot parcursul vieții (anexa nr. 2 la Ordinul MUNCA nr. 1804/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139913",
+   "versions": [
+    {
+     "from": "2012-07-24",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139913",
+     "sha256": "be223a452e4e6d5c8c959efb8b902906ef134dc064626f31d1c2cc557b214e9d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-munca-2298-2012-anexa",
+   "path": "anexa/ordin-munca-2298-2012/anexa",
+   "short": "Anexa la Ordin munca nr. 2298/2012",
+   "title": "Procedura-cadru din 23 august 2012 de evaluare a persoanelor adulte în vederea încadrării în grad și tip de handicap (anexa la Ordinul MUNCA nr. 2298/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141528",
+   "versions": [
+    {
+     "from": "2012-09-26",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141528",
+     "sha256": "4d8666d2719d7ce219422680482fc496f69724fca495ce06a70dcd24afb8caf4"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-munca-2765-2012-anexa",
+   "path": "anexa/ordin-munca-2765-2012/anexa",
+   "short": "Anexa la Ordin munca nr. 2765/2012",
+   "title": "Metodologie din 5 noiembrie 2012 de înregistrare și evaluare a solicitărilor de finanțare a unor cheltuieli de investiții și reparații capitale pentru centrele de zi și rezidențiale din bugetul Ministerului Muncii, Familiei și Protecției Sociale, precum și de decontare a finanțării (anexa la Ordinul MUNCA nr. 2765/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142696",
+   "versions": [
+    {
+     "from": "2012-11-09",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142696",
+     "sha256": "0e660287ad60040c5ab3d26a6bfc712847ea775e6ff0355aa1ef03d43e025194"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-orniss-21-2012-anexa",
+   "path": "anexa/ordin-orniss-21-2012/anexa",
+   "short": "Anexa la Ordin orniss nr. 21/2012",
+   "title": "Metodologie din 28 martie 2012 de evaluare și certificare a pachetelor, produselor și profilelor de protecție INFOSEC-INFOSEC 14 (anexa la Ordinul ORNISS nr. 21/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136999",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136999",
+     "sha256": "21b595e13913a5b05adb1cb4d28ba17e31b410f5f8b0856617016c94ffc5832b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-orniss-23-2012-anexa",
+   "path": "anexa/ordin-orniss-23-2012/anexa",
+   "short": "Anexa la Ordin orniss nr. 23/2012",
+   "title": "Metodologie de acreditare din 28 martie 2012 a entităților pentru evaluarea produselor de securitate IT și a sistemelor informatice și de comunicații - INFOSEC 12 (anexa la Ordinul ORNISS nr. 23/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136990",
+   "versions": [
+    {
+     "from": "2012-04-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136990",
+     "sha256": "a3f643ca30573595be5e50872b5ea228775cc80f0585cc278d5ed342479cb683"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1164-2012-anexa",
+   "path": "anexa/ordin-sanatate-1164-2012/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1164/2012",
+   "title": "Metodologie din 14 noiembrie 2012 privind condițiile și modalitatea de stingere a obligațiilor de plată ale unităților sanitare publice cu paturi înregistrate peste termenul de scadență mai vechi de 90 de zile și neachitate până la data intrării în vigoare a Ordonanței de urgență a Guvernului nr. 61/2012 cu privire la rectificarea bugetului de stat pe anul 2012 (anexa la Ordinul SANATATE nr. 1164/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142879",
+   "versions": [
+    {
+     "from": "2012-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142879",
+     "sha256": "f1d351b52fcd0bcbace78623761524a8360585bbe390e90aefbdb8e45ec5f3e0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1248-2012-anexa",
+   "path": "anexa/ordin-sanatate-1248-2012/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1248/2012",
+   "title": "Regulament din 6 decembrie 2012 de organizare și funcționare al Spitalului Clinic Județean de Urgență \"Sf. Spiridon\" Iași (anexa la Ordinul SANATATE nr. 1248/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144422",
+   "versions": [
+    {
+     "from": "2013-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144422",
+     "sha256": "e290983eee74011879682fb6f99466ceb30a65a2f8575cdf6827e83093b0166b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1279-2012-anexa",
+   "path": "anexa/ordin-sanatate-1279-2012/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1279/2012",
+   "title": "Criterii din 14 decembrie 2012 de evaluare, condițiile de funcționare și monitorizare a echipamentelor de tratare prin decontaminare termică la temperaturi scăzute a deșeurilor medicale periculoase (anexa la Ordinul SANATATE nr. 1279/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144283",
+   "versions": [
+    {
+     "from": "2013-02-02",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144283",
+     "sha256": "abd4bf141a0693d621ca19633d79aae69737ce41ffbb9192f4a554886fceeee1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1322-2012-anexa",
+   "path": "anexa/ordin-sanatate-1322-2012/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1322/2012",
+   "title": "Regulament din 20 decembrie 2012 de organizare și funcționare a unităților de supraveghere și tratament avansat al pacienților cardiaci critici din unitățile sanitare cu paturi (anexa la Ordinul SANATATE nr. 1322/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144049",
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144049",
+     "sha256": "34b558ab9293b0879acfed96e7a152329bd2dd90a7a2b7554eee06310bb3c080"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-144-2012-anexa",
+   "path": "anexa/ordin-sanatate-144-2012/anexa",
+   "short": "Anexa la Ordin sanatate nr. 144/2012",
+   "title": "Norme proprii din 20 iunie 2012 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2011-2012, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 144/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139901",
+   "versions": [
+    {
+     "from": "2012-07-24",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139901",
+     "sha256": "3eab99669bb1eb5ec4983ba09c8fdf72862f42e39a34d2c1713a94d7a3cd91ee"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-168-2012-anexa",
+   "path": "anexa/ordin-sanatate-168-2012/anexa",
+   "short": "Anexa la Ordin sanatate nr. 168/2012",
+   "title": "Norme proprii din 1 iunie 2012 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2011-2012, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 168/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139903",
+   "versions": [
+    {
+     "from": "2012-07-24",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139903",
+     "sha256": "c6267892f78c07982db7825350e893e284d5f1f95ecf0c64040bbadcbd03f381"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-386-2012-anexa",
+   "path": "anexa/ordin-sanatate-386-2012/anexa",
+   "short": "Anexa la Ordin sanatate nr. 386/2012",
+   "title": "Metodologie din 12 aprilie 2012 pentru desfășurarea concursului de rezidențiat pe post și pe loc, sesiunea 20 mai 2012, pentru locurile și posturile rămase libere în urma sesiunii 20 noiembrie 2011 pentru domeniul medicină (anexa la Ordinul SANATATE nr. 386/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137152",
+   "versions": [
+    {
+     "from": "2012-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137152",
+     "sha256": "f64dd706c2cf9ce735c021caa114515795400b22b12b02c91660e0fd155c8269"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-398-2012-anexa-1",
+   "path": "anexa/ordin-sanatate-398-2012/anexa-1",
+   "short": "Anexa nr. 1 la Ordin sanatate nr. 398/2012",
+   "title": "Procedură din 3 mai 2012 de autorizare a operațiunilor cu produse susceptibile de a avea efecte psihoactive, altele decât cele prevăzute de acte normative în vigoare (anexa nr. 1 la Ordinul SANATATE nr. 398/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138031",
+   "versions": [
+    {
+     "from": "2012-05-16",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138031",
+     "sha256": "ad3788f7b4e434eec4b0afb52a59519926478ac93b1a32df00a579389ae95bb5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-398-2012-anexa",
+   "path": "anexa/ordin-sanatate-398-2012/anexa",
+   "short": "Anexa la Ordin sanatate nr. 398/2012",
+   "title": "Procedură din 18 aprilie 2012 de autorizare a operațiunilor cu produse susceptibile de a avea efecte psihoactive, altele decât cele prevăzute de acte normative în vigoare (anexa la Ordinul SANATATE nr. 398/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137998",
+   "versions": [
+    {
+     "from": "2012-05-16",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137998",
+     "sha256": "7c37357c42484bca9f48ae758343b2e7a30857141fae2fd52eb3d076267301e8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-463-2012-anexa",
+   "path": "anexa/ordin-sanatate-463-2012/anexa",
+   "short": "Anexa la Ordin sanatate nr. 463/2012",
+   "title": "Norme proprii din 9 mai 2012 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2011-2012, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 463/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139889",
+   "versions": [
+    {
+     "from": "2012-07-24",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139889",
+     "sha256": "887f501a77baa2e84aa9e902a4de9901e694d772b6a716f9a996ad2add41c025"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-5217-2012-anexa",
+   "path": "anexa/ordin-sanatate-5217-2012/anexa",
+   "short": "Anexa la Ordin sanatate nr. 5217/2012",
+   "title": "Norme proprii din 14 mai 2012 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2011-2012, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 5217/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139902",
+   "versions": [
+    {
+     "from": "2012-07-24",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139902",
+     "sha256": "1653858823d22ce1da03f2d37c1ee5c0d14ef3a2f9dddcc184ce8a26b7a8b8fa"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-537-2012-anexa",
+   "path": "anexa/ordin-sanatate-537-2012/anexa",
+   "short": "Anexa la Ordin sanatate nr. 537/2012",
+   "title": "Norme metodologice din 5 iunie 2012 pentru realizarea și raportarea activităților specifice în cadrul subprogramului de screening pentru depistarea precoce activă a cancerului de col uterin (anexa la Ordinul SANATATE nr. 537/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138782",
+   "versions": [
+    {
+     "from": "2012-06-13",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138782",
+     "sha256": "89ef92c2ad111e9a8e232976b91ae4e0592f8f4dc1a2d7754084362431637a45"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-62-2012-anexa",
+   "path": "anexa/ordin-sanatate-62-2012/anexa",
+   "short": "Anexa la Ordin sanatate nr. 62/2012",
+   "title": "Norme proprii din 11 iunie 2012 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2011-2012, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 62/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139904",
+   "versions": [
+    {
+     "from": "2012-07-24",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139904",
+     "sha256": "82ad0ad9de232f2ad2784c163affa4f5958b2d0346eb1732ac3d6a42be67a70f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sie-154-2012-anexa",
+   "path": "anexa/ordin-sie-154-2012/anexa",
+   "short": "Anexa la Ordin sie nr. 154/2012",
+   "title": "Metodologie din 28 martie 2012 de identificare a infrastructurilor critice naționale din sectorul tehnologia informației și comunicații (anexa la Ordinul SIE nr. 154/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138365",
+   "versions": [
+    {
+     "from": "2012-05-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138365",
+     "sha256": "0c016c6c55d630cb870493314eb0a7b7ba31f9648117b832abdfa9d908d0f9c0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sie-174-2012-anexa-2",
+   "path": "anexa/ordin-sie-174-2012/anexa-2",
+   "short": "Anexa nr. 2 la Ordin sie nr. 174/2012",
+   "title": "Metodologie din 10 octombrie 2012 de evaluare și certificare a produselor și sistemelor criptografice, altele decât cele din categoria cifrului de stat (anexa nr. 2 la Ordinul SIE nr. 174/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142490",
+   "versions": [
+    {
+     "from": "2012-11-02",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142490",
+     "sha256": "714eff99051b72f5196cd945169bedb0323cabfbfbb14fab747399b2cc8dd672"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-1294-2012-anexa",
+   "path": "anexa/ordin-transporturi-1294-2012/anexa",
+   "short": "Anexa la Ordin transporturi nr. 1294/2012",
+   "title": "Regulament din 9 august 2012 privind compunerea, portul și modul de acordare a uniformei de serviciu cu însemnele specifice ale acesteia, pentru personalul Autorității Navale Române (anexa la Ordinul TRANSPORTURI nr. 1294/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140638",
+   "versions": [
+    {
+     "from": "2012-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140638",
+     "sha256": "7497d690420aa1cdbc700cf688b7b7ea8be12381f9516f704abd43afca648582"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-1318-2012-anexa-1",
+   "path": "anexa/ordin-transporturi-1318-2012/anexa-1",
+   "short": "Anexa nr. 1 la Ordin transporturi nr. 1318/2012",
+   "title": "Regulament din 16 august 2012 privind modelul și însemnele uniformei, modul de acordare și portul acesteia de către inspectorii Inspectoratului de Stat pentru Controlul în Transportul Rutier (anexa nr. 1 la Ordinul TRANSPORTURI nr. 1318/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141045",
+   "versions": [
+    {
+     "from": "2012-09-05",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141045",
+     "sha256": "dd7004ce43eac88e8c0e2d3ddb201263e45c5c268c06178ff865e7b97ce6353f"
     }
    ]
   }

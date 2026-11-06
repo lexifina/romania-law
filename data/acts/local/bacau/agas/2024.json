@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/bacau/agas/2024",
+"acts": [
+{
+"slug": "hcl-bacau--agas-3-2024",
+"path": "local/bacau/agas/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Agăș nr. 3/2024 Privind înregistrarea candidaturilor pentru functiile de consilieri in Consiliul Local al comunei Agăș, jud. Bacău",
+"short": "HCL Agăș nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-27",
+"latest": "2024-04-27",
+"portal": "https://primaria-agas.ro/wp-content/uploads/2024/05/Hotarare-candidatura-consilieri-AUR.pdf",
+"council": "bacau/agas",
+"council_name": "Consiliul Local al Comunei Agăș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--agas-5-2024",
+"path": "local/bacau/agas/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Agăș nr. 5/2024 Privind înregistrarea candidaturilor pentru functiile de consilieri in Consiliul Local al comunei Agăș, jud. Bacău",
+"short": "HCL Agăș nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-27",
+"latest": "2024-04-27",
+"portal": "https://primaria-agas.ro/wp-content/uploads/2024/05/Hotarare-candidatura-consilieri-PSD.pdf",
+"council": "bacau/agas",
+"council_name": "Consiliul Local al Comunei Agăș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--agas-8-2024",
+"path": "local/bacau/agas/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Agăș nr. 8/2024 Privind înregistrarea candidaturilor pentru functiile de consilieri in Consiliul Local al comunei Agăș, jud. Bacău",
+"short": "HCL Agăș nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://primaria-agas.ro/wp-content/uploads/2024/05/Hotarare-candidatura-consilieri-PNL.pdf",
+"council": "bacau/agas",
+"council_name": "Consiliul Local al Comunei Agăș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--agas-11-2024",
+"path": "local/bacau/agas/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Agăș nr. 11/2024 Privind înregistrarea candidaturilor pentru functiile de consilieri in Consiliul Local al comunei Agăș, jud. Bacău",
+"short": "HCL Agăș nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://primaria-agas.ro/wp-content/uploads/2024/05/Hotarare-candidatura-consilieri-UDMR.pdf",
+"council": "bacau/agas",
+"council_name": "Consiliul Local al Comunei Agăș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--agas-12-2024",
+"path": "local/bacau/agas/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Agăș nr. 12/2024 Privind înregistrarea candidaturilor pentru functiile de consilieri in Consiliul Local al comunei Agăș, jud. Bacău",
+"short": "HCL Agăș nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": "https://primaria-agas.ro/wp-content/uploads/2024/05/Hotarare-candidatura-consilieri-Reper.pdf",
+"council": "bacau/agas",
+"council_name": "Consiliul Local al Comunei Agăș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

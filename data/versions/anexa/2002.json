@@ -3,6 +3,96 @@
  "shard": "anexa/2002",
  "acts": [
   {
+   "slug": "anexa-decizie-anrgn-246-2002-anexa",
+   "path": "anexa/decizie-anrgn-246-2002/anexa",
+   "short": "Anexa la Decizia anrgn nr. 246/2002",
+   "title": "Metodologie de monitorizare din 6 februarie 2002 a pieței interne reglementate a gazelor naturale și a consumatorilor eligibili (anexa la Decizia ANRGN nr. 246/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34285",
+   "versions": [
+    {
+     "from": "2002-02-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34285",
+     "sha256": "6a9d253d2b1054dc8865484674320977566453e1d2fb635e420b08a69650635b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anrgn-247-2002-anexa",
+   "path": "anexa/decizie-anrgn-247-2002/anexa",
+   "short": "Anexa la Decizia anrgn nr. 247/2002",
+   "title": "Contract-cadru din 6 februarie 2002 de înmagazinare subterana a gazelor naturale (anexa la Decizia ANRGN nr. 247/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34307",
+   "versions": [
+    {
+     "from": "2002-02-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34307",
+     "sha256": "565bd3122b996ab8449c92cb518ad18e11539d1599f5de82f3994f2f2ef85c8f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anrgn-248-2002-anexa",
+   "path": "anexa/decizie-anrgn-248-2002/anexa",
+   "short": "Anexa la Decizia anrgn nr. 248/2002",
+   "title": "Metodologie din 6 februarie 2002 de soluționare a neînțelegerilor precontractuale în sectorul gazelor naturale (anexa la Decizia ANRGN nr. 248/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34301",
+   "versions": [
+    {
+     "from": "2002-02-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34301",
+     "sha256": "840abb2a77d21360fe213211223aa751533ce1ae3d14aed5371bdb523b6ce88a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anrgn-938-2002-anexa",
+   "path": "anexa/decizie-anrgn-938-2002/anexa",
+   "short": "Anexa la Decizia anrgn nr. 938/2002",
+   "title": "Standard de performanta din 12 noiembrie 2002 pentru serviciul de furnizare a gazelor naturale, realizat de operatorii de distribuție (anexa la Decizia ANRGN nr. 938/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40094",
+   "versions": [
+    {
+     "from": "2002-11-25",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40094",
+     "sha256": "8c55b8d12ce097c6e2bfce5145f0cd6496bc63db841bc2f1981d3f4220a08f88"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anrgn-939-2002-anexa",
+   "path": "anexa/decizie-anrgn-939-2002/anexa",
+   "short": "Anexa la Decizia anrgn nr. 939/2002",
+   "title": "Regulament din 12 noiembrie 2002 de constatare, notificare și sancționare a abaterilor de la reglementările emise în sectorul gazelor naturale (anexa la Decizia ANRGN nr. 939/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40184",
+   "versions": [
+    {
+     "from": "2002-11-27",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40184",
+     "sha256": "fc50b527687549a664eecb4fb5d7bb13f465eddfc1d2cad89cd7d3c9f1e083f5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-anrgn-974-2002-anexa",
+   "path": "anexa/decizie-anrgn-974-2002/anexa",
+   "short": "Anexa la Decizia anrgn nr. 974/2002",
+   "title": "Regulament din 3 decembrie 2002 pentru acreditarea consumatorilor eligibili de gaze naturale (anexa la Decizia ANRGN nr. 974/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40782",
+   "versions": [
+    {
+     "from": "2002-12-18",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40782",
+     "sha256": "e69df67aa963908f58f884e8d153ec01f94f90e578352aadde8212e75d8af414"
+    }
+   ]
+  },
+  {
    "slug": "anexa-decizie-finante-879-2002-anexa",
    "path": "anexa/decizie-finante-879-2002/anexa",
    "short": "Anexa la Decizia finante nr. 879/2002",
@@ -344,6 +434,36 @@
      "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40926",
      "sha256": "12f5d11c00a5e627166072e6508072ce1c733d59a81b1d84f53052b4cdec0271"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1494-2002-anexa-3",
+   "path": "anexa/hg-1494-2002/anexa-3",
+   "short": "Anexa nr. 3 la HG nr. 1494/2002",
+   "title": "Norme metodologice din 18 decembrie 2002 privind instituirea mecanismului de eliberare a certificatelor de export în cadrul contingentului tarifar de ovine și caprine vii și carne de ovine și caprine, convenit în relația cu Uniunea Europeană pentru anul 2003 (anexa nr. 3 la Hotărârea Guvernului nr. 1494/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41072",
+   "versions": [
+    {
+     "from": "2002-12-28",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41072",
+     "sha256": "25d3d2173e7668ab5524658e959280f28594f40b7afb37cb05c8e13df52435ad"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1494-2002-anexa-4",
+   "path": "anexa/hg-1494-2002/anexa-4",
+   "short": "Anexa nr. 4 la HG nr. 1494/2002",
+   "title": "Norme metodologice din 18 decembrie 2002 privind modul de administrare a contingentelor tarifare cu taxă vamală redusă la importul în România al unor produse agroalimentare originare din țările membre ale Acordului Central European de Comerț Liber (CEFTA), precum și din Republica Turcia, Republica Lituania și Statul Israel (anexa nr. 4 la Hotărârea Guvernului nr. 1494/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41073",
+   "versions": [
+    {
+     "from": "2002-12-28",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41073",
+     "sha256": "875fc7e228fe26d0811870560f4f52abd0244385a3ba3ce0622735658d281dbb"
     }
    ]
   },
@@ -873,6 +993,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-796-2002-anexa",
+   "path": "anexa/hg-796-2002/anexa",
+   "short": "Anexa la HG nr. 796/2002",
+   "title": "Metodologie din 25 iulie 2002 de achiziționare, prin cumpărare, schimb sau donație, de către autoritatea publică centrala care răspunde de silvicultura, prin Regia Naționala a Pădurilor, a terenurilor ce pot fi incluse în fondul forestier proprietate publică a statului (anexa la Hotărârea Guvernului nr. 796/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38020",
+   "versions": [
+    {
+     "from": "2002-08-15",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38020",
+     "sha256": "61d6506cb869c14d13d7b4b15bba96b286ac9245310822a06f4c99242b44d919"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-846-2002-anexa",
    "path": "anexa/hg-846-2002/anexa",
    "short": "Anexa la HG nr. 846/2002",
@@ -963,6 +1098,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-935-2002-anexa-2",
+   "path": "anexa/hg-935-2002/anexa-2",
+   "short": "Anexa nr. 2 la HG nr. 935/2002",
+   "title": "Norma din 29 august 2002 privind modul de finanțare a proiectului privind reabilitarea și revitalizarea Centrului istoric București (anexa nr. 2 la Hotărârea Guvernului nr. 935/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38330",
+   "versions": [
+    {
+     "from": "2002-09-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38330",
+     "sha256": "d1514650ef3cebb443fcf6aa0512a8068c56994c73db10ef91b4261b0ddf19e2"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-940-2002-anexa",
    "path": "anexa/hg-940-2002/anexa",
    "short": "Anexa la HG nr. 940/2002",
@@ -1008,6 +1158,36 @@
    ]
   },
   {
+   "slug": "anexa-ordin-agricultura-105-2002-anexa",
+   "path": "anexa/ordin-agricultura-105-2002/anexa",
+   "short": "Anexa la Ordin agricultura nr. 105/2002",
+   "title": "Norma sanitară veterinara din 11 martie 2002 cu privire la condițiile de sănătate a animalelor și certificarea veterinara pentru importul din tari terțe de material seminal provenit de la bovine (anexa la Ordinul AGRICULTURA nr. 105/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37688",
+   "versions": [
+    {
+     "from": "2002-08-14",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37688",
+     "sha256": "6da357fd5e9143728d2a27555f89bc89aca4cb30c508046407c0582151189047"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-110-2002-anexa",
+   "path": "anexa/ordin-agricultura-110-2002/anexa",
+   "short": "Anexa la Ordin agricultura nr. 110/2002",
+   "title": "Norme metodologice din 11 martie 2002 de aplicare a Hotărârii Guvernului nr. 54/2002 privind sprijinul direct al statului prin acordarea de subvenții, în anul 2002, producătorilor agricoli din sectorul animalier, pentru creșterea producției de carne și a efectivelor de animale (anexa la Ordinul AGRICULTURA nr. 110/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35137",
+   "versions": [
+    {
+     "from": "2002-04-09",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35137",
+     "sha256": "3f9c1fc8775300064bfdd3b288c55be8df15cf3580591a1b38ab6a6a0f992c78"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-agricultura-112-2002-anexa",
    "path": "anexa/ordin-agricultura-112-2002/anexa",
    "short": "Anexa la Ordin agricultura nr. 112/2002",
@@ -1034,6 +1214,21 @@
      "units": 33,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34757",
      "sha256": "a6d7c56c933008268721b9d464c7a2e11bfe508a77552a325f64242b2c2f0a21"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-143-2002-anexa",
+   "path": "anexa/ordin-agricultura-143-2002/anexa",
+   "short": "Anexa la Ordin agricultura nr. 143/2002",
+   "title": "Instrucțiuni din 1 aprilie 2002 privind adăpostirea și îngrijirea animalelor folosite în scopuri științifice sau în alte scopuri experimentale (anexa la Ordinul AGRICULTURA nr. 143/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38546",
+   "versions": [
+    {
+     "from": "2002-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38546",
+     "sha256": "8614b2701120304a12f61050e7856f031951ec2ce11d342c2f5c25961c958436"
     }
    ]
   },
@@ -1443,6 +1638,36 @@
    ]
   },
   {
+   "slug": "anexa-ordin-agricultura-367-2002-anexa",
+   "path": "anexa/ordin-agricultura-367-2002/anexa",
+   "short": "Anexa la Ordin agricultura nr. 367/2002",
+   "title": "Norma sanitară veterinara din 19 august 2002 privind condițiile sanitare veterinare specifice aplicabile comerțului și importurilor de pulpe de broasca destinate consumului uman (anexa la Ordinul AGRICULTURA nr. 367/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38890",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38890",
+     "sha256": "4f15dad3650a706f7f15ff366874a7c265b91f991e1d3276c46796c69ba8c058"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-384-2002-anexa",
+   "path": "anexa/ordin-agricultura-384-2002/anexa",
+   "short": "Anexa la Ordin agricultura nr. 384/2002",
+   "title": "Regulament din 17 aprilie 2002 de organizare și funcționare a Comitetului Național Român F.A.O (anexa la Ordinul AGRICULTURA nr. 384/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36028",
+   "versions": [
+    {
+     "from": "2002-05-16",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36028",
+     "sha256": "e2ab03968d1ce54e3876904182ea1688179ba6f4022d5da65de110468e8ee6fd"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-agricultura-391-2002-anexa",
    "path": "anexa/ordin-agricultura-391-2002/anexa",
    "short": "Anexa la Ordin agricultura nr. 391/2002",
@@ -1679,6 +1904,51 @@
      "units": 27,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34591",
      "sha256": "2f38f12c4137c502fe6c7bd05b1592163172b8bf73c1e332c1ad544ca8cebd82"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anpc-137-2002-anexa",
+   "path": "anexa/ordin-anpc-137-2002/anexa",
+   "short": "Anexa la Ordin anpc nr. 137/2002",
+   "title": "Norme din 19 noiembrie 2002 cu privire la natura, conținutul, fabricarea, calitatea, ambalarea, etichetarea, marcarea și păstrarea sucurilor de legume (anexa la Ordinul ANPC nr. 137/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41059",
+   "versions": [
+    {
+     "from": "2003-07-06",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41059",
+     "sha256": "c387cde286fdec1b6661bb9337aff796af2aa860d8e2227d879f728d0d84d8ac"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anpc-83-2002-anexa",
+   "path": "anexa/ordin-anpc-83-2002/anexa",
+   "short": "Anexa la Ordin anpc nr. 83/2002",
+   "title": "Norma din 19 august 2002 cu privire la fabricarea, conținutul, ambalarea, etichetarea și calitatea fainii de grâu destinate comercializării pentru consum uman (anexa la Ordinul ANPC nr. 83/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39731",
+   "versions": [
+    {
+     "from": "2003-05-07",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39731",
+     "sha256": "61fa4b367f6a4510c94352b4d5e55dc89420c6343230eb9548b4c44876329831"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-21-2002-anexa",
+   "path": "anexa/ordin-anre-21-2002/anexa",
+   "short": "Anexa la Ordin anre nr. 21/2002",
+   "title": "Regulament din 9 august 2002 de constatare, notificare și sancționare a abaterilor de la reglementările emise în domeniul energiei electrice și termice (anexa la Ordinul ANRE nr. 21/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38867",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38867",
+     "sha256": "4f61a98e051671196ecf977df07c38500ff62800dceb450941cb6e6a0ead071e"
     }
    ]
   },
@@ -2103,6 +2373,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-economie-182-2002-anexa",
+   "path": "anexa/ordin-economie-182-2002/anexa",
+   "short": "Anexa la Ordin economie nr. 182/2002",
+   "title": "Normele metodologice din 24 mai 2002 privind desemnarea organismelor care realizează evaluarea conformității aparatelor de cântărit cu funcționare neautomată (anexa la Ordinul ECONOMIE nr. 182/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37236",
+   "versions": [
+    {
+     "from": "2002-08-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37236",
+     "sha256": "a1d3ef5704fd74e07f239d736751c35bd947797c8a6e35c76e87542e3c49f70d"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-economie-209-2002-anexa",
    "path": "anexa/ordin-economie-209-2002/anexa",
    "short": "Anexa la Ordin economie nr. 209/2002",
@@ -2418,6 +2703,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-externe-11842-2002-anexa",
+   "path": "anexa/ordin-externe-11842-2002/anexa",
+   "short": "Anexa la Ordin externe nr. 11842/2002",
+   "title": "Regulament din 15 februarie 2002 de organizare și funcționare a Comitetului Național Român F.A.O (anexa la Ordinul EXTERNE nr. 11842/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36026",
+   "versions": [
+    {
+     "from": "2002-05-16",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36026",
+     "sha256": "e138325f41491cf3d7d30fa2327a3dbe86108dd5811e9e3656948b2b94af1aee"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-finante-1111-2002-anexa",
    "path": "anexa/ordin-finante-1111-2002/anexa",
    "short": "Anexa la Ordin finante nr. 1111/2002",
@@ -2459,6 +2759,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39276",
      "sha256": "07fef87ce6d10df1d5d0e2734d9520f3292835a8db092793dd181971d86d7405"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-552-2002-anexa",
+   "path": "anexa/ordin-finante-552-2002/anexa",
+   "short": "Anexa la Ordin finante nr. 552/2002",
+   "title": "Instrucțiuni din 24 aprilie 2002 privind modul de încasare și plata a taxelor prevăzute de Ordonanța Guvernului nr. 89/2000 privind unele măsuri pentru autorizarea operatorilor și efectuarea înscrierilor în Arhiva Electronică de Garanții Reale Mobiliare (anexa la Ordinul FINANTE nr. 552/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36031",
+   "versions": [
+    {
+     "from": "2002-05-16",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36031",
+     "sha256": "9d6be3e00f876a62ae95c6e9998f29ff5ae773ff64ebab8310b62a3377122c85"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-580-2002-anexa",
+   "path": "anexa/ordin-finante-580-2002/anexa",
+   "short": "Anexa la Ordin finante nr. 580/2002",
+   "title": "Norme metodologice din 7 mai 2002 privind procedura și competențele de acordare a înlesnirilor la plata obligațiilor restante la bugetul de stat, administrate de Ministerul Finanțelor Publice (anexa la Ordinul FINANTE nr. 580/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35949",
+   "versions": [
+    {
+     "from": "2002-05-14",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35949",
+     "sha256": "b47619c4a6cdedfa4d35d30f6901e57bebd4d76457ef8c9f19de0173a80ab58e"
     }
    ]
   },
@@ -2549,6 +2879,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38448",
      "sha256": "9d866c4fcb15a5ee125a57ad556dd3b9009fd750f65e4267e97b19eca508828a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-ins-1817-2002-anexa",
+   "path": "anexa/ordin-ins-1817-2002/anexa",
+   "short": "Anexa la Ordin ins nr. 1817/2002",
+   "title": "Regulament din 25 martie 2002 de organizare și funcționare a Comitetului Național Român F.A.O (anexa la Ordinul INS nr. 1817/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36025",
+   "versions": [
+    {
+     "from": "2002-05-16",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36025",
+     "sha256": "d37eb02188955ef4559b44e0b8cb9242d633f9a12e9758e7df4013cc61afb65b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-289-2002-anexa",
+   "path": "anexa/ordin-interne-289-2002/anexa",
+   "short": "Anexa la Ordin interne nr. 289/2002",
+   "title": "Norme metodologice din 15 iulie 2002 pentru organizarea și efectuarea activităților de control de către echipajele mixte de control al traficului rutier (anexa la Ordinul INTERNE nr. 289/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37905",
+   "versions": [
+    {
+     "from": "2002-08-07",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37905",
+     "sha256": "edf61510c276cca722dfad8179de645644ddf04fc00b5fd7fd54d9fdc5213100"
     }
    ]
   },
@@ -2688,6 +3048,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-mediu-482-2002-anexa",
+   "path": "anexa/ordin-mediu-482-2002/anexa",
+   "short": "Anexa la Ordin mediu nr. 482/2002",
+   "title": "Regulament din 2002 de organizare și funcționare a Comitetului Național Român F.A.O (anexa la Ordinul MEDIU nr. 482/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36027",
+   "versions": [
+    {
+     "from": "2002-05-16",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36027",
+     "sha256": "afe1e1b7c309076d52698062003c6e7fbce6ade0348618dacf3ff790d7018a99"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-mediu-860-2002-anexa",
    "path": "anexa/ordin-mediu-860-2002/anexa",
    "short": "Anexa la Ordin mediu nr. 860/2002",
@@ -2729,6 +3104,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38806",
      "sha256": "4cb3f0108d9c4c68a9f56f68552005d91c0f12e6365d3c852ab8e35bd5615f42"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-munca-534-2002-anexa",
+   "path": "anexa/ordin-munca-534-2002/anexa",
+   "short": "Anexa la Ordin munca nr. 534/2002",
+   "title": "Metodologia din 4 decembrie 2002w de organizare și desfășurare a examenului pentru certificarea competentelor profesionale în învățământul liceal, filierele tehnologică și vocațională (anexa la Ordinul MUNCA nr. 534/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42878",
+   "versions": [
+    {
+     "from": "2003-04-04",
+     "units": 60,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42878",
+     "sha256": "db47f7ea90eb74f2a8beafe2183a0596a2c21e8bdb9f655407744f5d852776f1"
     }
    ]
   },
@@ -2954,6 +3344,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42130",
      "sha256": "6fd338735cb250024d5399dac4ae50d6d2d27bfefad4dc977e35ebcc70532b34"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-turism-510-2002-anexa",
+   "path": "anexa/ordin-turism-510-2002/anexa",
+   "short": "Anexa la Ordin turism nr. 510/2002",
+   "title": "Norme metodologice din 28 iunie 2002 privind clasificarea structurilor de primire turistice (anexa la Ordinul TURISM nr. 510/2002)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38048",
+   "versions": [
+    {
+     "from": "2002-08-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38048",
+     "sha256": "fe6c84b2d20e94151fa67c8d7684ab444c0180c896aea9d4a8339550d9793546"
     }
    ]
   }

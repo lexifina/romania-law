@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-181-2024-anexa",
+   "path": "anexa/hg-181-2024/anexa",
+   "short": "Anexa la HG nr. 181/2024",
+   "title": "Norme din 28 februarie 2024 de aplicare a Legii nr. 360/2023 privind sistemul public de pensii (anexa la Hotărârea Guvernului nr. 181/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279549",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 164,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279549",
+     "sha256": "cecb2da0cfa96d36fd6073c6bd24dd32dccc98fccae769733d1e45dce754120d"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-27-2024-anexa",
    "path": "anexa/hg-27-2024/anexa",
    "short": "Anexa la HG nr. 27/2024",
@@ -453,6 +468,36 @@
    ]
   },
   {
+   "slug": "anexa-ordin-anre-53-2024-anexa-1",
+   "path": "anexa/ordin-anre-53-2024/anexa-1",
+   "short": "Anexa nr. 1 la Ordin anre nr. 53/2024",
+   "title": "Metodologie din 30 iulie 2024 privind alocarea capacității rețelei electrice pentru racordarea locurilor de producere a energiei electrice (anexa nr. 1 la Ordinul ANRE nr. 53/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/286491",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286491",
+     "sha256": "9fae738e3cc0750eac8a30c640b2387c7ac9914828c3747da01e1b8a7974609e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-89-2024-anexa",
+   "path": "anexa/ordin-anre-89-2024/anexa",
+   "short": "Anexa la Ordin anre nr. 89/2024",
+   "title": "Metodologie din 17 decembrie 2024 de stabilire a tarifelor reglementate pentru serviciile de distribuție în sectorul gazelor naturale (anexa la Ordinul ANRE nr. 89/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293600",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 119,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293600",
+     "sha256": "379727e77015eba0e0b104f065022799b95a86713ae46db8a32bcbdeb9118a4c"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-ansvsa-10-2024-anexa",
    "path": "anexa/ordin-ansvsa-10-2024/anexa",
    "short": "Anexa la Ordin ansvsa nr. 10/2024",
@@ -528,6 +573,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-cnpp-322-2024-anexa",
+   "path": "anexa/ordin-cnpp-322-2024/anexa",
+   "short": "Anexa la Ordin cnpp nr. 322/2024",
+   "title": "Metodologie de calcul din 3 aprilie 2024 al drepturilor de pensie în aplicarea prevederilor Regulamentelor (CE) nr. 883/2004 al Parlamentului European și al Consiliului din 29 aprilie 2004 privind coordonarea sistemelor de securitate socială, cu modificările și completările ulterioare, și (CE) nr. 987/2009 al Parlamentului European și al Consiliului din 16 septembrie 2009 de stabilire a procedurii de punere în aplicare a Regulamentului (CE) nr. 883/2004 privind coordonarea sistemelor de securitate socială, cu modificările și completările ulterioare, a prevederilor Acordului Comercial și de Cooperare între Uniunea Europeană și Comunitatea Europeană a Energiei Atomice, pe de o parte, și Regatul Unit al Marii Britanii și Irlandei de Nord, pe de altă parte, și a prevederilor acordurilor bilaterale de securitate socială la care România este parte, odată cu intrarea în vigoare a prevederilor Legii nr. 360/2023 privind sistemul public de pensii (anexa la Ordinul CNPP nr. 322/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/281766",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281766",
+     "sha256": "45c5dce8c59b90a01aa94ffa2b043e51bb8e9a55ac57b1dc9b1b9948eb1a981e"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-comunicatii-20717-2024-anexa",
    "path": "anexa/ordin-comunicatii-20717-2024/anexa",
    "short": "Anexa la Ordin comunicatii nr. 20717/2024",
@@ -584,6 +644,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287891",
      "sha256": "02420e64284790cdb9c0fe5dc78fa42e291292a4d429ee45ca108534cfd24b31"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-concurenta-1061-2024-anexa",
+   "path": "anexa/ordin-concurenta-1061-2024/anexa",
+   "short": "Anexa la Ordin concurenta nr. 1061/2024",
+   "title": "Protocol din 31 mai 2024 privind colaborarea interinstituțională (anexa la Ordinul CONCURENTA nr. 1061/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285534",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285534",
+     "sha256": "aedd014c8c952e47022486fdfed072e3cd144812842470878563cf02ea89ec0d"
     }
    ]
   },
@@ -1634,6 +1709,36 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279907",
      "sha256": "e11b87bf10b61a386e412800e93dcc15e4a2dd6b8db71e1f537b4a1e2ed4e5fb"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-877-2024-anexa",
+   "path": "anexa/ordin-transporturi-877-2024/anexa",
+   "short": "Anexa la Ordin transporturi nr. 877/2024",
+   "title": "Metodologie din 28 martie 2024 de efectuare a inspecției tehnice și a supravegherii prin acțiuni de inspecție tehnică în domeniul feroviar, al transportului cu metroul, metroul ușor, monorai și al transportului urban, suburban și regional pe șine, pe linii ferate industriale și pe căile ferate cu caracter de patrimoniu, de muzeu sau turistic (anexa la Ordinul TRANSPORTURI nr. 877/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280802",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280802",
+     "sha256": "6e557e95564836711d2371ab4118f86467da61f4faca9bf8b9039f4872b2dd34"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-882-2024-anexa",
+   "path": "anexa/ordin-transporturi-882-2024/anexa",
+   "short": "Anexa la Ordin transporturi nr. 882/2024",
+   "title": "Ghidul solicitantului din 1 aprilie 2024 Condiții specifice de accesare a finanțării din Fondul de Coeziune - Realizarea de investiții în suprastructura portuară de încărcare/descărcare și depozitare a mărfurilor (anexa la Ordinul TRANSPORTURI nr. 882/2024)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/281874",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281874",
+     "sha256": "63ea217d94f80e6d09dccd2d1c4246b03906b54d9e9acb86705792e9b9b89d9f"
     }
    ]
   }

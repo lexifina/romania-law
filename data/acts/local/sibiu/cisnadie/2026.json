@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/sibiu/cisnadie/2026",
+"acts": [
+{
+"slug": "hcl-sibiu--cisnadie-187-2026",
+"path": "local/sibiu/cisnadie/2026/187",
+"kind": "local",
+"year": "2026",
+"number": "187",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 187/2026 privind aprobarea suplimentării finanțării acordate prin programul anual de finanțări nerambursabile din bugetul local al orașului Cisnădie pentru activități non-profit de interes general, pentru anul 2026 - domeniul culte",
+"short": "HCL Cisnădie nr. 187/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://emol.ro/cisnadie-sb/registru-hcl/291302",
+"council": "sibiu/cisnadie",
+"council_name": "Consiliul Local al Orașului Cisnădie",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--cisnadie-200-2026",
+"path": "local/sibiu/cisnadie/2026/200",
+"kind": "local",
+"year": "2026",
+"number": "200",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 200/2026 pentru aprobarea Regulamentului privind stabilirea tarifului, a condițiilor de utilizare și exploatare a stațiilor de încărcare a vehiculelor electrice amplasate pe domeniul public al Orașului Cisnădie",
+"short": "HCL Cisnădie nr. 200/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-27",
+"latest": "2026-10-27",
+"portal": "https://emol.ro/cisnadie-sb/registru-hcl/295143",
+"council": "sibiu/cisnadie",
+"council_name": "Consiliul Local al Orașului Cisnădie",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--cisnadie-220-2026",
+"path": "local/sibiu/cisnadie/2026/220",
+"kind": "local",
+"year": "2026",
+"number": "220",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 220/2026 privind organizarea unei noi sesiuni de selecție și finanțare a programelor sportive de utilitate publică „Promovarea sportului de performanță\" și „Sportul pentru toți” - anul 2026",
+"short": "HCL Cisnădie nr. 220/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/cisnadie-sb/registru-hcl/297872",
+"council": "sibiu/cisnadie",
+"council_name": "Consiliul Local al Orașului Cisnădie",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

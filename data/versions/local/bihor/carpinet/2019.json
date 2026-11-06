@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/carpinet/2019",
+ "acts": [
+  {
+   "slug": "hcl-bihor--carpinet-36-2019",
+   "path": "local/bihor/carpinet/2019/36",
+   "short": "HCL Cărpinet nr. 36/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpinet nr. 36/2019",
+   "url": "http://www.primaria-carpinet.ro/hotararile-autoritatii-deliberative.php",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "http://www.primaria-carpinet.ro/media/monitor_oficial/1588852834_Hcl_nr._36_din_31_mai_2019_privind_aprobarea_organigramei.pdf",
+     "sha256": "b59a91791dbd147093eda88ac1d15806d48ce606bd2fc2dd3c55eb99bc3b185d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--carpinet-84-2019",
+   "path": "local/bihor/carpinet/2019/84",
+   "short": "HCL Cărpinet nr. 84/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpinet nr. 84/2019",
+   "url": "http://www.primaria-carpinet.ro/hotararile-autoritatii-deliberative.php",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "http://www.primaria-carpinet.ro/media/monitor_oficial/1588852434_Hcl_nr._84_din_16.12.2019.pdf",
+     "sha256": "787880f343b7ed67d3a70ec21b835152d5e830c057d6a43b85ba083afcdb0f46"
+    }
+   ]
+  }
+ ]
+}

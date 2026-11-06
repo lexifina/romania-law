@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/galatii-bistritei/2022",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-106-2022",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2022/106",
+   "short": "HCL Galații Bistriței nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 106/2022 pentru ocuparea funcției contractuale de inspector debutant",
+   "url": "http://galatiibistritei.ro/",
+   "versions": [
+    {
+     "from": "2022-01-14",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/cariera/uat_galatii_bistritei_nr.106_14.01.2022_Centralizator_14.01.2022.pdf",
+     "sha256": "d4d66be2b95f0871196f6852df5c03c615bd5bcbaa6b5d448f8553fead6f5ae3"
+    }
+   ]
+  }
+ ]
+}

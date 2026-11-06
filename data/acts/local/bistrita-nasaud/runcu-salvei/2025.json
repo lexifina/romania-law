@@ -3,6 +3,28 @@
 "shard": "local/bistrita-nasaud/runcu-salvei/2025",
 "acts": [
 {
+"slug": "hcl-bistrita-nasaud--runcu-salvei-3-2025",
+"path": "local/bistrita-nasaud/runcu-salvei/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 3/2025 privind aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară pentru gestionarea integrată a deșeurilor municipale în județul Bistrița-Năsăud",
+"short": "HCL Runcu Salvei nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-24",
+"latest": "2025-02-24",
+"portal": "https://primariaruncusalvei.ro/registru_hcl25.html",
+"council": "bistrita-nasaud/runcu-salvei",
+"council_name": "Consiliul Local al Comunei Runcu Salvei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--runcu-salvei-5-2025",
 "path": "local/bistrita-nasaud/runcu-salvei/2025/5",
 "kind": "local",
@@ -22,6 +44,161 @@
 "council_name": "Consiliul Local al Comunei Runcu Salvei",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--runcu-salvei-6-2025",
+"path": "local/bistrita-nasaud/runcu-salvei/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 6/2025 privind aprobarea operațiunii cadastrale de înscriere în cartea funciară, a unor imobile - Sediu primărie și magazie - aparținând domeniului public al comunei Runcu-Salvei",
+"short": "HCL Runcu Salvei nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-21",
+"latest": "2025-03-21",
+"portal": "https://primariaruncusalvei.ro/registru_hcl25.html",
+"council": "bistrita-nasaud/runcu-salvei",
+"council_name": "Consiliul Local al Comunei Runcu Salvei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--runcu-salvei-15-2025",
+"path": "local/bistrita-nasaud/runcu-salvei/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 15/2025 privind aprobarea rectificării nr.1 a bugetului de venituri și cheltuieli al comunei Runcu Salvei pe anul 2025",
+"short": "HCL Runcu Salvei nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-23",
+"latest": "2025-06-23",
+"portal": "https://primariaruncusalvei.ro/registru_hcl25.html",
+"council": "bistrita-nasaud/runcu-salvei",
+"council_name": "Consiliul Local al Comunei Runcu Salvei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--runcu-salvei-16-2025",
+"path": "local/bistrita-nasaud/runcu-salvei/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 16/2025 privind aprobarea notei conceptuale și temei de proiectare pentru obiectivul de investiții: REABILITARE ENERGETICĂ ȘCOALA GIMNAZIALĂ \"IOAN S. PAVELEA CLASELE I-VIII, CORP A ȘI B, COMUNA RUNCU SALVEI, JUDEȚUL BISTRIȚA-NĂSĂUD\"",
+"short": "HCL Runcu Salvei nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://primariaruncusalvei.ro/registru_hcl25.html",
+"council": "bistrita-nasaud/runcu-salvei",
+"council_name": "Consiliul Local al Comunei Runcu Salvei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--runcu-salvei-17-2025",
+"path": "local/bistrita-nasaud/runcu-salvei/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 17/2025 privind aprobarea notei conceptuale și temei de proiectare pentru obiectivul de investiții: REABILITARE ENERGETICĂ SEDIU PRIMĂRIA RUNCU-SALVEI, JUDEȚUL BISTRIȚA-NĂSĂUD",
+"short": "HCL Runcu Salvei nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://primariaruncusalvei.ro/registru_hcl25.html",
+"council": "bistrita-nasaud/runcu-salvei",
+"council_name": "Consiliul Local al Comunei Runcu Salvei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--runcu-salvei-18-2025",
+"path": "local/bistrita-nasaud/runcu-salvei/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 18/2025",
+"short": "HCL Runcu Salvei nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-03",
+"latest": "2025-07-03",
+"portal": "https://primariaruncusalvei.ro/registru_hcl25.html",
+"council": "bistrita-nasaud/runcu-salvei",
+"council_name": "Consiliul Local al Comunei Runcu Salvei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--runcu-salvei-23-2025",
+"path": "local/bistrita-nasaud/runcu-salvei/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 23/2025 privind alegerea președintelui de ședință al Consiliului local Runcu Salvei",
+"short": "HCL Runcu Salvei nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-19",
+"latest": "2025-09-19",
+"portal": "https://primariaruncusalvei.ro/registru_hcl25.html",
+"council": "bistrita-nasaud/runcu-salvei",
+"council_name": "Consiliul Local al Comunei Runcu Salvei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--runcu-salvei-29-2025",
+"path": "local/bistrita-nasaud/runcu-salvei/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 29/2025 privind modificarea și completarea Hotărârii Consiliului local nr.3 din 31.01.2024 privind aprobarea organigramei și a statului de funcții pentru aparatul de specialitate al primarului comunei Runcu Salvei",
+"short": "HCL Runcu Salvei nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://primariaruncusalvei.ro/registru_hcl25.html",
+"council": "bistrita-nasaud/runcu-salvei",
+"council_name": "Consiliul Local al Comunei Runcu Salvei",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

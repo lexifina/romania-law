@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/suceava/cajvana/2025",
+"acts": [
+{
+"slug": "hcl-suceava--cajvana-13-2025",
+"path": "local/suceava/cajvana/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cajvana nr. 13/2025 privind atribuire denumire unei străzi din orașului Cajvana, judeţul Suceava",
+"short": "HCL Cajvana nr. 13/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-12",
+"latest": "2025-09-12",
+"portal": "https://emol.ro/cajvana-sv/registru-hcl/223282",
+"council": "suceava/cajvana",
+"council_name": "Consiliul Local al Orașului Cajvana",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--cajvana-26-2025",
+"path": "local/suceava/cajvana/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cajvana nr. 26/2025 privind actualizarea organigramei și a statului de funcţii al primăriei oraşului Cajvana, județul Suceava",
+"short": "HCL Cajvana nr. 26/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-12",
+"latest": "2025-09-12",
+"portal": "https://emol.ro/cajvana-sv/registru-hcl/223431",
+"council": "suceava/cajvana",
+"council_name": "Consiliul Local al Orașului Cajvana",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--cajvana-47-2025",
+"path": "local/suceava/cajvana/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cajvana nr. 47/2025 privind privind reorganizarea Serviciului Voluntar pentru Situaţii de Urgenţă, aflat în subordinea Consiliului Local al orașului Cajvana, județul Suceava",
+"short": "HCL Cajvana nr. 47/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://emol.ro/cajvana-sv/registru-hcl/228947",
+"council": "suceava/cajvana",
+"council_name": "Consiliul Local al Orașului Cajvana",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--cajvana-48-2025",
+"path": "local/suceava/cajvana/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cajvana nr. 48/2025 privind rectificarea bugetului local al orașului Cajvana",
+"short": "HCL Cajvana nr. 48/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://emol.ro/cajvana-sv/registru-hcl/228948",
+"council": "suceava/cajvana",
+"council_name": "Consiliul Local al Orașului Cajvana",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bacau/lipova/2017",
+"acts": [
+{
+"slug": "hcl-bacau--lipova-420-2017",
+"path": "local/bacau/lipova/2017/420",
+"kind": "local",
+"year": "2017",
+"number": "420",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lipova nr. 420/2017",
+"short": "HCL Lipova nr. 420/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-11-27",
+"latest": "2017-11-27",
+"portal": "https://www.comunalipova.ro/upload_canny/2016/01/Hot%C4%83r%C3%A2rea-nr.-420-din-27.11.2017.pdf",
+"council": "bacau/lipova",
+"council_name": "Consiliul Local al Comunei Lipova",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

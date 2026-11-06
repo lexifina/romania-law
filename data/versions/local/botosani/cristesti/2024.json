@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/cristesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-botosani--cristesti-2-2024",
+   "path": "local/botosani/cristesti/2024/2",
+   "short": "HCL Cristești nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cristești nr. 2/2024",
+   "url": "https://primariacristesti.ro/",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://primariacristesti.ro/wp-content/uploads/2024/04/Hotararea-nr.-2-din-22.04.2024.pdf",
+     "sha256": "f1bf3700df29c81864f94f8a9d75e89a61ca7fbaf1e8575ba5d070049da2ee3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--cristesti-20-2024",
+   "path": "local/botosani/cristesti/2024/20",
+   "short": "HCL Cristești nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cristești nr. 20/2024",
+   "url": "https://primariacristesti.ro/",
+   "versions": [
+    {
+     "from": "2024-05-11",
+     "units": 1,
+     "source_url": "https://primariacristesti.ro/wp-content/uploads/2024/05/PV-NR.-20-11.05.2024.pdf",
+     "sha256": "a3d1fa7026e910111d23df2a9f21be57bba56023777af84bd1baf338c4cdaff8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--cristesti-26-2024",
+   "path": "local/botosani/cristesti/2024/26",
+   "short": "HCL Cristești nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cristești nr. 26/2024",
+   "url": "https://primariacristesti.ro/",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 1,
+     "source_url": "https://primariacristesti.ro/wp-content/uploads/2024/05/PV-NR.-26-24.05.2024.pdf",
+     "sha256": "628ee7fe5ab1e2abbf791e636ceae02079a8ccbc1d698034e95fc2d9f876222a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--cristesti-3-2024",
+   "path": "local/botosani/cristesti/2024/3",
+   "short": "HCL Cristești nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cristești nr. 3/2024",
+   "url": "https://primariacristesti.ro/",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://primariacristesti.ro/wp-content/uploads/2024/04/Hotararea-nr.-3-din-22.04.2024.pdf",
+     "sha256": "95f9793511b55da95602333d608e92f73cd6072a162803bf8f414f6d884d1b08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--cristesti-5-2024",
+   "path": "local/botosani/cristesti/2024/5",
+   "short": "HCL Cristești nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cristești nr. 5/2024",
+   "url": "https://primariacristesti.ro/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://primariacristesti.ro/wp-content/uploads/2024/04/HOTARARE-NR.5-din-26.04.2024.pdf",
+     "sha256": "d1c2ea964f1a62a6b2e039c8acaab040450140eb75f4bcd54bda85e8e81c6273"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--cristesti-6-2024",
+   "path": "local/botosani/cristesti/2024/6",
+   "short": "HCL Cristești nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cristești nr. 6/2024",
+   "url": "https://primariacristesti.ro/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://primariacristesti.ro/wp-content/uploads/2024/04/HOTARARE-NR.6-din-26.04.2024.pdf",
+     "sha256": "7d5e7051aaab717538c5e7bd7622bb23b15a863e6d796f39df061171b3d5f81f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--cristesti-7-2024",
+   "path": "local/botosani/cristesti/2024/7",
+   "short": "HCL Cristești nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cristești nr. 7/2024",
+   "url": "https://primariacristesti.ro/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://primariacristesti.ro/wp-content/uploads/2024/05/HOTARARE-NR.7-din-26.04.2024.pdf",
+     "sha256": "268a33c707fc29e50fe02990614388db25f584f854c1e8131e2a6cbfc27b4736"
+    }
+   ]
+  }
+ ]
+}

@@ -576,6 +576,29 @@
 }
 },
 {
+"slug": "hcl-arad--chisindia-27-2023",
+"path": "local/arad/chisindia/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 27/2023",
+"short": "HCL Chisindia nr. 27/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-17",
+"latest": "2023-03-17",
+"portal": "https://emol.ro/chisindia-ar/registru-hcl/95416",
+"council": "arad/chisindia",
+"council_name": "Consiliul Local al Comunei Chisindia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arad--chisindia-28-2023",
 "path": "local/arad/chisindia/2023/28",
 "kind": "local",
@@ -1475,6 +1498,28 @@
 "council_name": "Consiliul Local al Comunei Chisindia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--chisindia-69-2023",
+"path": "local/arad/chisindia/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 69/2023 privind desemnarea reprezentantului Consiliului Local Chisindia în Consiliul de administrație al Scolii Ginaziale Chisindia în anul școlar 2023-2024",
+"short": "HCL Chisindia nr. 69/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/chisindia-ar/registru-hcl/122540",
+"council": "arad/chisindia",
+"council_name": "Consiliul Local al Comunei Chisindia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

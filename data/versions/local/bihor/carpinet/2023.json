@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/carpinet/2023",
+ "acts": [
+  {
+   "slug": "hcl-bihor--carpinet-45-2023",
+   "path": "local/bihor/carpinet/2023/45",
+   "short": "HCL Cărpinet nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpinet nr. 45/2023",
+   "url": "http://www.primaria-carpinet.ro/hotararile-autoritatii-deliberative.php",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "http://www.primaria-carpinet.ro/media/monitor_oficial/1682328666_Hcl_nr._45_din_11.04.2023_privind_indexarea_cu_rata_inflatiei_si_stabilirea_impozitelor_si_taxelor_pentru_anul_2024.pdf",
+     "sha256": "85c2b2ad02637a9872cb72375179c4cdaf4746ea119228bf881d9fda0b3d5b87"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,111 @@
  "shard": "local/bistrita-nasaud/cetate/2026",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--cetate-1-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/1",
+   "short": "HCL Cetate nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 1/2026 privind utilizarea în anul 2026 a excedentului bugetar",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/Hot%C4%83r%C3%A2rea%20nr.1%20din%2013.01.2026,%20privind%20utilizarea%20%C3%AEn%20anul%202026%20a%20excedentului%20bugetar.pdf",
+     "sha256": "6b5c316d9a6ddc524dcf745a3bfe824d61d8f3d37957508e6bcb6d9193926e1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-10-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/10",
+   "short": "HCL Cetate nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 10/2026 privind acordarea unor scutiri sau reduceri la plata impozitelor",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/hot-10-09.03.2026.pdf",
+     "sha256": "67af85e17c8eca4221f16585f2a50d58e5b5ea0e080ade5aa353c819e5660724"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-12-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/12",
+   "short": "HCL Cetate nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 12/2026 privind vânzarea unui teren intravilan",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/hot-12-31.03.2026.pdf",
+     "sha256": "bef67adfc67a25ecb4f6373ceee802df342c2fa70f24fe20ef8b9854cb7f18b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-13-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/13",
+   "short": "HCL Cetate nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 13/2026 privind aprobarea numărului maxim de posturi pentru anul 2026",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/hot-13-31.03.2026.pdf",
+     "sha256": "f98beef6a1899563dd13703f61615b4908d69f4f66cd5230dc6008fb391c9d90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-14-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/14",
+   "short": "HCL Cetate nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 14/2026 privind trecerea microbuzului școlar în domeniul privat al comunei Cetate",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/hot-14-31.03.2026.pdf",
+     "sha256": "1a7c490d6b54b97ac78fa0fb78c46d237bfd7aa60f5b223fd871d56529ad50aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-15-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/15",
+   "short": "HCL Cetate nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 15/2026 privind rutele și stațiile microbuzelor școlare",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/hot-15-31.03.2026.pdf",
+     "sha256": "10d99d795f4112d59eddcf87cdb9aed510ef7df4899685c5bced8db402be6ffd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-17-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/17",
+   "short": "HCL Cetate nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 17/2026 privind aprobarea bugetului de venituri și cheltuieli al comunei Cetate pe anul 2026",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/hot-17-28.04.2026.pdf",
+     "sha256": "7a84092f25fcc35b5c1cfa19bacfe1f5aa4b6ae40afa2c8c17768d944e12fd00"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--cetate-18-2026",
    "path": "local/bistrita-nasaud/cetate/2026/18",
    "short": "HCL Cetate nr. 18/2026",
@@ -33,6 +138,81 @@
    ]
   },
   {
+   "slug": "hcl-bistrita-nasaud--cetate-2-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/2",
+   "short": "HCL Cetate nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 2/2026 privind prețurile de vânzarea masei lemnoase pentru anul 2026",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/Hot%C4%83r%C3%A2rea%20nr.2%20din%2013.01.2026,%20privind%20pre%C8%9Burile%20de%20v%C3%A2nzarea%20masei%20lemnoase%20pentru%20anul%202026.pdf",
+     "sha256": "0e64ca2bbaf837c4898d096b73d0787a8f4e5a358e874bc2388e0b76b50bd661"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-20-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/20",
+   "short": "HCL Cetate nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 20/2026 privind clasificarea unor drumuri de interes public local",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/hot-20-28.04.2026.pdf",
+     "sha256": "10c3cb7a30a8eece1429a4528f95281de6685c6e222a2513a9428d82eabbed25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-21-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/21",
+   "short": "HCL Cetate nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 21/2026 privind desemnarea reprezentanților din Comisia de evaluare oferte vânzare teren",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/hot-21-28.04.2026.pdf",
+     "sha256": "fadeaa7cc9360353fece247a550c3132a12e8a27a8c15e60042b1efe1e5364a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-23-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/23",
+   "short": "HCL Cetate nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 23/2026 privind desemnarea reprezentantului în relația cu APIA",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/hot-23-27.05.2026.pdf",
+     "sha256": "3df37960fea64c87eabaea6d12809f35bbf35edcfaaf57f8092bb552a9c39244"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-25-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/25",
+   "short": "HCL Cetate nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 25/2026 privind contractul de concesiune a serviciului de salubrizare",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/hot-25-24.06.2026.pdf",
+     "sha256": "4ee050bd0dbd8650b38d077b7bb50929b56d932c387bcd5c8d901170348a812f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--cetate-26-2026",
    "path": "local/bistrita-nasaud/cetate/2026/26",
    "short": "HCL Cetate nr. 26/2026",
@@ -48,6 +228,96 @@
    ]
   },
   {
+   "slug": "hcl-bistrita-nasaud--cetate-27-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/27",
+   "short": "HCL Cetate nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 27/2026 privind programul pentru școli al României în perioada septembrie 2026-iunie 2029",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/hot-27-24.06.2026.pdf",
+     "sha256": "844fe2d682fb6b112b7772249695e3bf400fcd3a74febd08a7a8e46092154068"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-28-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/28",
+   "short": "HCL Cetate nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 28/2026 privind scoaterea din fondul forestier național a unei suprafețe de 0,0300 ha",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/hot-28-28.07.2026.pdf",
+     "sha256": "7bd3ce41abbd1483b7c3d4754d76404702212087b533b8b220bbd2c6b907d6f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-29-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/29",
+   "short": "HCL Cetate nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 29/2026 privind aprobarea Organigramei și a Statului de funcții începând cu 01.08.2026",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/hot-29-28.07.2026.pdf",
+     "sha256": "3a71410438205076771df10dfcc1a4766bf81e333aeaf40ed1e96e7c8e4a1b98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-30-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/30",
+   "short": "HCL Cetate nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 30/2026 privind aprobarea exploatării și vânzării de material lemnos",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/hot-30-28.07.2026.pdf",
+     "sha256": "5b6995b7960939bd834d91131b777226e4f4227683c04739611909958d459ee8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-31-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/31",
+   "short": "HCL Cetate nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 31/2026 privind aprobarea exploatării și vânzării de material lemnos",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/hot-31-12.08.2026.pdf",
+     "sha256": "eba501e2c0279d30a317316d27d73b669be084e291159ac4325d24a5210ddd27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-33-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/33",
+   "short": "HCL Cetate nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 33/2026 privind aprobarea exploatării și vânzării de material lemnos",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/hot-33-08.09.2026.pdf",
+     "sha256": "275711c45b136b5b639975d33d9176b79dee2595aa2cf2a0fab7399dff7b5384"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--cetate-34-2026",
    "path": "local/bistrita-nasaud/cetate/2026/34",
    "short": "HCL Cetate nr. 34/2026",
@@ -59,6 +329,111 @@
      "units": 1,
      "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/hot-34-08.09.2026.pdf",
      "sha256": "912a805c343c0695a849b6faf1a8412007b4f082eaa188b05eea1677c61cf786"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-35-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/35",
+   "short": "HCL Cetate nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 35/2026 privind rectificarea bugetului local de venituri și cheltuieli al comunei Cetate pe anul 2026",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/hot-35-08.09.2026.pdf",
+     "sha256": "dfc2b1083293098182192a672c37a17d5f39e2dbc829ef7818ba5a657002860a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-39-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/39",
+   "short": "HCL Cetate nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 39/2026 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2026",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/hot-39-01.10.2026.pdf",
+     "sha256": "30da22c718f300bea5b009663186f17160053b7d08ad50ca9a3322e7208779aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-4-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/4",
+   "short": "HCL Cetate nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 4/2026 privind aprobarea programului de lucru pentru persoanele ce vor execută muncă în folosul comunității în anul 2026",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/Hot%C4%83r%C3%A2rea%20nr.4%20din%2013.01.2026,%20privind%20aprobarea%20programului%20de%20lucru%20pentru%20persoanele%20ce%20vor%20execut%C4%83%20munc%C4%83%20%C3%AEn%20folosul%20comunit%C4%83%C8%9Bii%20%C3%AEn%20anul%202026.pdf",
+     "sha256": "27f1c709138467cf109407c7c63524248554764c0f02c734e78637a81864d35c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-5-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/5",
+   "short": "HCL Cetate nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 5/2026 privind acordarea unor ajutoare de urgență",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/Hot%C4%83r%C3%A2rea%20nr.5%20din%2013.01.2026,%20privind%20acordarea%20unor%20ajutoare%20de%20urgen%C8%9B%C4%83.pdf",
+     "sha256": "cf994060a7ad0b219905bd3fab33453b85e2480481a5b6ca7d8481047164c00b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-6-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/6",
+   "short": "HCL Cetate nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 6/2026 privind aprobarea exploatării și vânzării de material lemnos din pădurile comunei Cetate",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/Hot%C4%83r%C3%A2rea%20nr.6%20din%2009.02.2026,privind%20aprobarea%20exploat%C4%83rii%20%C8%99i%20v%C3%A2nz%C4%83rii%20de%20material%20lemnos%20din%20p%C4%83durile%20comunei%20Cetate.pdf",
+     "sha256": "eab0eedb6b53b5f2d3e8c16fbeaac3d4b6a30d39caf56ac76af5c18e75c061ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-7-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/7",
+   "short": "HCL Cetate nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 7/2026 privind aprobarea actualizării Planului de Analiză și Acoperire a Riscurilor",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/hot-7-09.02.2026.pdf",
+     "sha256": "d67e0c4ae8bd79e2f4583293d6cf4d94e21ac02cd257c8603917ee2b93f7ac61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--cetate-9-2026",
+   "path": "local/bistrita-nasaud/cetate/2026/9",
+   "short": "HCL Cetate nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cetate nr. 9/2026 privind obiectivul \"Modernizare drumuri de interes local\"",
+   "url": "https://www.primaria-cetate.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://www.primaria-cetate.ro/documente/2026/hcl/hot-9-09.03.2026.pdf",
+     "sha256": "dae207305f42270670330e15421d19a82bab26e9208bf0a2606e3077fb67dced"
     }
    ]
   }

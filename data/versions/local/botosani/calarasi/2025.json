@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/calarasi/2025",
+ "acts": [
+  {
+   "slug": "hcl-botosani--calarasi-14-2025",
+   "path": "local/botosani/calarasi/2025/14",
+   "short": "HCL Călărași nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 14/2025 privind aprobarea Regulamentului de organizare și funcționare a Consiliului local al comunei Călărași",
+   "url": "https://primariacalarasibt.ro/wp-content/uploads/2026/01/Hotararea-nr.-14-din-04.03.2025-privind-aprobarea-Regulamentului-de-organizare-si-functionare-a-Consiliului-local-al-comunei-Calarasi.pdf",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://primariacalarasibt.ro/wp-content/uploads/2026/01/Hotararea-nr.-14-din-04.03.2025-privind-aprobarea-Regulamentului-de-organizare-si-functionare-a-Consiliului-local-al-comunei-Calarasi.pdf",
+     "sha256": "347d6648ab7f3d82d83d5289b63ccc5e9d8d1048066f2c47f128b1ca37df182f"
+    }
+   ]
+  }
+ ]
+}

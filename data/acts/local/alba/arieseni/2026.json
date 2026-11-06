@@ -3,6 +3,96 @@
 "shard": "local/alba/arieseni/2026",
 "acts": [
 {
+"slug": "hcl-alba--arieseni-1-2026",
+"path": "local/alba/arieseni/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 1/2026 privind însușirea și validarea Dispoziției nr.1/09.01.2026 Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 19.01.2026 Având în vedere prevederile: • Prevederile Legii nr. 273/2006 - Legea privind finanțele publice locale; • Prevederile OUG nr. 57/2019 - Codul Administrativ cu modificările ulterioare; • Prevederile pct.5.16.3 al.1 lit. b) din Anexa la Ordi",
+"short": "HCL Arieșeni nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/02/hcl-1-2026.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--arieseni-2-2026",
+"path": "local/alba/arieseni/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 2/2026",
+"short": "HCL Arieșeni nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-19",
+"latest": "2026-01-19",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/02/HCL-2-.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--arieseni-3-2026",
+"path": "local/alba/arieseni/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 3/2026 privind aprobarea Planului de acțiuni si lucrări de interes local ce vor fi executate de beneficiarii Legii nr.196/2016 privind venitul minim de incluziune pentru anul 2026 Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 19.01.2026 Ținând cont : - Referatul de aprobare întocmit de către Primarul Comunei Arieseni , înregistrat sub nr. 70 din 13.01.2026 - R",
+"short": "HCL Arieșeni nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-19",
+"latest": "2026-01-19",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/02/HCL-3-2026.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--arieseni-4-2026",
+"path": "local/alba/arieseni/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 4/2026",
+"short": "HCL Arieșeni nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-19",
+"latest": "2026-01-19",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/02/hcl-4.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-alba--arieseni-6-2026",
 "path": "local/alba/arieseni/2026/6",
 "kind": "local",
@@ -25,6 +115,51 @@
 }
 },
 {
+"slug": "hcl-alba--arieseni-7-2026",
+"path": "local/alba/arieseni/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 7/2026 privind implementarea proiectului „Dotare cu mobilier în Comuna Arieșeni, județul Alba” Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 11.02.2026 Luând în dezbatere: Proiectul de hotărâre nr.7/03.02.2026 privind implementarea proiectului „Dotare cu mobilier in Comuna Arieseni, județul Alba” - referatul de aprobare al Primarului comunei Arieșeni înregistr",
+"short": "HCL Arieșeni nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-11",
+"latest": "2026-02-11",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/02/hcl-7.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--arieseni-8-2026",
+"path": "local/alba/arieseni/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 8/2026",
+"short": "HCL Arieșeni nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-11",
+"latest": "2026-02-11",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/02/HCL-8-2026.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-alba--arieseni-9-2026",
 "path": "local/alba/arieseni/2026/9",
 "kind": "local",
@@ -44,6 +179,28 @@
 "council_name": "Consiliul Local al Comunei Arieșeni",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--arieseni-10-2026",
+"path": "local/alba/arieseni/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 10/2026 privind aprobarea trecerii din domeniul public în domeniul privat al Comunei Arieșeni a imobilului teren in suprafața de 38949 mp, identificat prin CF 72763 Arieșeni Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 11.02.2026 Luând în dezbatere: - Referatul de aprobare nr. 489/03.02.2026, întocmit de inițiatorul proiectului de hotărâre, primarul comunei Ar",
+"short": "HCL Arieșeni nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-11",
+"latest": "2026-02-11",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/02/HCL-10-2026.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -70,6 +227,28 @@
 }
 },
 {
+"slug": "hcl-alba--arieseni-12-2026",
+"path": "local/alba/arieseni/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 12/2026 privind acordarea unui mandat special reprezentantului Consiliului Local Arieșeni în Adunarea Generalei a Asociației de Dezvoltare Intercomunitară „SALUBRITATE APUSENI\" Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 11.02.2026 Luând în dezbatere: - Adresa A.D.I",
+"short": "HCL Arieșeni nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-11",
+"latest": "2026-02-11",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/02/HCL-12.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-alba--arieseni-14-2026",
 "path": "local/alba/arieseni/2026/14",
 "kind": "local",
@@ -89,6 +268,72 @@
 "council_name": "Consiliul Local al Comunei Arieșeni",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--arieseni-15-2026",
+"path": "local/alba/arieseni/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 15/2026 privind aprobarea contului de execuție al bugetului de venituri si cheltuieli la 31 decembrie 2025 Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 07.04.2026 Luând în dezbatere: − contul de execuție al bugetului de venituri si cheltuieli la 31 decembrie 2025, respectiv anexa nr. 1; – secțiunea funcționare si secțiunea dezvoltare si anexa nr. 2 – activităț",
+"short": "HCL Arieșeni nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-08",
+"latest": "2026-04-08",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/04/hcl-15-site.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--arieseni-16-2026",
+"path": "local/alba/arieseni/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 16/2026 privind aprobarea procentului necesar constituirii fondului de conservare și regenerare a pădurilor pentru anul 2026 Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 07.04.2026 Având în vedere: - adresa nr. 2/05.01.2026 a Ocolului Silvic HOREA APUSENI R.A.; - Proiectul de hotărâre inițiat de primarul comunei nr. 15/02.03.2026; - referatul de aprobare nr. 1",
+"short": "HCL Arieșeni nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-08",
+"latest": "2026-04-08",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/04/HCL-16.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--arieseni-17-2026",
+"path": "local/alba/arieseni/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 17/2026 pentru aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local al Comunei Arieșeni pentru anul 2026 Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 07.04.2026 Având în vedere temeiurile juridice, respectiv prevederile:  art. 120 și art. 121 alin. (1) și (2) din Constituția României, republica",
+"short": "HCL Arieșeni nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-08",
+"latest": "2026-04-08",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/04/hcl-17-site.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -137,6 +382,72 @@
 }
 },
 {
+"slug": "hcl-alba--arieseni-20-2026",
+"path": "local/alba/arieseni/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 20/2026 privind acordarea unui mandat special reprezentantului Consiliului Local Arieșeni în Adunarea Generalei a Asociației de Dezvoltare Intercomunitară „SALUBRITATE APUSENI\" , acordarea unui mandat reprezentantului legal al Asociației de Dezvoltare Intercomunitară „Salubritate Apuseni” să semneze actul adițional nr. 4 la Contractul de delegare dea gestiunii serviciilor publice de salubrizare Consiliul",
+"short": "HCL Arieșeni nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-08",
+"latest": "2026-04-08",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/04/HCL-20.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--arieseni-21-2026",
+"path": "local/alba/arieseni/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 21/2026 privind aprobarea modul de valorificare și prețurile de valorificare pentru APV 2648 Bubești Linie și APV 2649 Vârtop Linie Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 07.04.2026 Luând în dezbatere: - Referatul de aprobare nr. 2210/27.03.2026, întocmit de inițiatorul proiectului de hotărâre, primarul comunei Arieșeni, dl",
+"short": "HCL Arieșeni nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-08",
+"latest": "2026-04-08",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/04/hcl-21.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--arieseni-25-2026",
+"path": "local/alba/arieseni/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 25/2026 privind aprobarea bugetului local initial pentru anul 2026",
+"short": "HCL Arieșeni nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-08",
+"latest": "2026-05-08",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/09/Hotararea-nr.-25-din-08.05.2026-privind-aprobarea-bugetului-local-initial-pentru-anul-2026.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-alba--arieseni-31-2026",
 "path": "local/alba/arieseni/2026/31",
 "kind": "local",
@@ -159,6 +470,183 @@
 }
 },
 {
+"slug": "hcl-alba--arieseni-32-2026",
+"path": "local/alba/arieseni/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 32/2026",
+"short": "HCL Arieșeni nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/07/HCL-32.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--arieseni-33-2026",
+"path": "local/alba/arieseni/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 33/2026 privind darea in folosință gratuită către Compania Națională Poșta Română a unui spațiu în suprafață de 24,2 mp din imobilului-construcție identificat cu nr. cadastral 70898-A1.2 , înscris în CF nr. 70898 Arieșeni, aparținând domeniului public al comunei Arieșeni Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 30 iunie 2026 Având în vedere temeiurile juri",
+"short": "HCL Arieșeni nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/07/HCL-33.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--arieseni-34-2026",
+"path": "local/alba/arieseni/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 34/2026 privind aprobarea destinației volumului de masă lemnoasă, modul de valorificare al acesteia precum și prețurile de valorificare pentru anul 2026 Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 30 iunie 2026 Luând în dezbatere: - Referatul de aprobare nr. 4090/19.06.2026, întocmit de inițiatorul proiectului de hotărâre, primarul comunei Arieșeni, dl",
+"short": "HCL Arieșeni nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/07/HCL-34-LEMN.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--arieseni-35-2026",
+"path": "local/alba/arieseni/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 35/2026 privind însușirea valorilor bunurilor aferente serviciului de salubrizare și punerea acestora la dispoziția Asociației de Dezvoltare Intercomunitară “SALUBRIS ALBA” în scopul delegării activității de colectare separată și transport separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separate din Zona 3",
+"short": "HCL Arieșeni nr. 35/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-14",
+"latest": "2026-07-14",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/07/HCL-35-2026.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--arieseni-36-2026",
+"path": "local/alba/arieseni/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 36/2026 privind aprobarea valorii de investiție a proiectului intitulat „MODERNIZARE DRUMURI DE INTERES LOCAL ÎN COMUNA ARIEȘENI, JUDEȚUL ALBA” și solicitarea unei Scrisori de garanție la FNGCIMM SA IFN în vederea garantării obligațiilor de plată a avansului solicitat către A.F.I.R din fondurile nerambursabile pentru implementarea proiectului în baza contractului de finanțare nr. C28020000031370100333 / 0",
+"short": "HCL Arieșeni nr. 36/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-14",
+"latest": "2026-07-14",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/07/HCL-36-2026-corect.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--arieseni-37-2026",
+"path": "local/alba/arieseni/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 37/2026 privind aprobarea rectificării nr. 3 a bugetului local al comunei Arieșeni, județul Alba, pe anul 2026 Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică extraordinară în 28 iulie 2026 Luând în considerare: - proiectul de hotărâre nr. 37/21.07.2026 privind aprobarea rectificării nr. 3 a bugetului local al comunei Arieșeni, județul Alba, în anul 2026; - referatul de apro",
+"short": "HCL Arieșeni nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-28",
+"latest": "2026-07-28",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/07/hcl-37-site.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--arieseni-39-2026",
+"path": "local/alba/arieseni/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 39/2026 privind modificarea art. 3 și art. 4 din Hotărârea Consiliului Local nr. 34/2026 privind aprobarea destinației volumului de masă lemnoasă, modul de valorificare al acesteia, precum și prețurile de valorificare pentru anul 2026 Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică extraordinară în 28 iulie 2026 Luând în dezbatere: - Proiectul de hotărâre nr. 39 din 24.07.20",
+"short": "HCL Arieșeni nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-24",
+"latest": "2026-07-24",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/07/HCL-39-2026.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--arieseni-40-2026",
+"path": "local/alba/arieseni/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 40/2026 privind alegerea președintelui de ședință care va conduce lucrările Consiliului Local al Comunei Arieșeni în lunile septembrie, octombrie și noiembrie 2026 Consiliul local al Comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 20 august 2026 Luând în dezbatere: - referatul de aprobare întocmit de către primarul comunei Arieșeni, înregistrat sub nr. din 4718 /31.07.2026. - rapor",
+"short": "HCL Arieșeni nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-20",
+"latest": "2026-08-20",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/08/HCL-40-2026.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-alba--arieseni-41-2026",
 "path": "local/alba/arieseni/2026/41",
 "kind": "local",
@@ -178,6 +666,183 @@
 "council_name": "Consiliul Local al Comunei Arieșeni",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--arieseni-43-2026",
+"path": "local/alba/arieseni/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 43/2026",
+"short": "HCL Arieșeni nr. 43/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-20",
+"latest": "2026-08-20",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/08/HCL-43-2026.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--arieseni-44-2026",
+"path": "local/alba/arieseni/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 44/2026 privind aprobarea programului de acțiune- comunitară destinată prevenirii si combaterii riscului de sărăcie si excluziune socială pentru anul 2026 Consiliul local al Comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 20 august 2026 Luând în dezbatere: - Referatul de aprobare nr. 4852/10.08.2026, întocmit de inițiatorul proiectului de hotărâre, primarul comunei Arieșeni, dl",
+"short": "HCL Arieșeni nr. 44/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-20",
+"latest": "2026-08-20",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/08/HCL-44-2026.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--arieseni-45-2026",
+"path": "local/alba/arieseni/2026/45",
+"kind": "local",
+"year": "2026",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 45/2026 privind aprobarea destinației volumului de masă lemnoasă, modul de valorificare al acesteia precum și prețurile de valorificare pentru APV 2682 Vârf Vârtop și APV 2686 Între Păraie Consiliul local al Comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 20 august 2026 Luând în dezbatere: - Referatul de aprobare nr. 4926/14.08.2026, întocmit de inițiatorul proiectului de hotărâre",
+"short": "HCL Arieșeni nr. 45/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-20",
+"latest": "2026-08-20",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/08/HCL-45-2026.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--arieseni-46-2026",
+"path": "local/alba/arieseni/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 46/2026 privind aprobarea rectificarii nr. 4 a bugetului local in anul 2026",
+"short": "HCL Arieșeni nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-10",
+"latest": "2026-09-10",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/09/Hotararea-nr.-46-din-10.09.2026-privind-aprobarea-rectificarii-nr.-4-a-bugetului-local-in-anul-2026.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--arieseni-49-2026",
+"path": "local/alba/arieseni/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 49/2026 privind desemnarea reprezentantului Consiliului local Arieșeni în Consiliul de Administrație și în Comisia de Evaluare și Asigurare a Calității al Liceului Tehnologic de Turism și Alimentație Arieșeni în anul școlar 2026-2027 Consiliul local al Comunei Arieșeni, județul Alba, întrunit în ședință publică extraordinară în 30 septembrie 2026 Luând în dezbatere: - Proiectul de hotărâre nr. 49/2026 pri",
+"short": "HCL Arieșeni nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/10/HCL-49-2026.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--arieseni-50-2026",
+"path": "local/alba/arieseni/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 50/2026 privind desemnarea unui reprezentant al Consiliului local Arieșeni în calitate de membru și a unui reprezentant în calitate de membru supleant, pentru a face parte din comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcției de Director de la Liceului Tehnologic de Turism și Alimentație Arieșeni Consiliul local al Comunei Arieșeni, județul Alba, întrunit în ședință",
+"short": "HCL Arieșeni nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/10/hcl-50.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--arieseni-53-2026",
+"path": "local/alba/arieseni/2026/53",
+"kind": "local",
+"year": "2026",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 53/2026 privind aprobarea destinației volumului de masă lemnoasă, modul de valorificare al acesteia precum și prețurile de valorificare pentru APV 2726 Glăvoiu Consiliul local al Comunei Arieșeni, județul Alba, întrunit în ședință publică extraordinară în 30 septembrie 2026 Luând în dezbatere: - Proiectul de hotărâre nr. 53/2026 privind aprobarea destinației volumului de masă lemnoasă, modul de valorifica",
+"short": "HCL Arieșeni nr. 53/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/10/hcl-53.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--arieseni-56-2026",
+"path": "local/alba/arieseni/2026/56",
+"kind": "local",
+"year": "2026",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 56/2026 privind declararea zilei de 23 mai drept Ziua Binelui în comuna Arieșeni Consiliul local al Comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară din 29 octombrie 2026, Având în vedere: - proiectul de hotărâre nr. 55/13.10.2026 privind declararea zilei de 23 mai drept Ziua Binelui în comuna Arieșeni, inițiat de primarul comunei Arieșeni; - referatul de aprobare al Primarului comunei",
+"short": "HCL Arieșeni nr. 56/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://comuna-arieseni.ro/wp-content/uploads/2026/11/HCL-56-2026.pdf",
+"council": "alba/arieseni",
+"council_name": "Consiliul Local al Comunei Arieșeni",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

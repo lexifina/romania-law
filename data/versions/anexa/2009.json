@@ -3,6 +3,156 @@
  "shard": "anexa/2009",
  "acts": [
   {
+   "slug": "anexa-decizie-imm-181-2009-anexa",
+   "path": "anexa/decizie-imm-181-2009/anexa",
+   "short": "Anexa la Decizia imm nr. 181/2009",
+   "title": "Procedură din 10 iulie 2009 de implementare a Programului național multianual pe perioada 2002-2012 de înființare și dezvoltare de incubatoare tehnologice și de afaceri (anexa la Decizia IMM nr. 181/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109902",
+   "versions": [
+    {
+     "from": "2009-07-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109902",
+     "sha256": "948e046f122b4e4b9b7bf883c43f8ec30cc5fde152a752926a2c82e56e29628f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-imm-200-2009-anexa",
+   "path": "anexa/decizie-imm-200-2009/anexa",
+   "short": "Anexa la Decizia imm nr. 200/2009",
+   "title": "Procedură din 18 august 2009 de implementare a Programului național multianual pe perioada 2002-2012 de înființare și dezvoltare de incubatoare tehnologice și de afaceri (anexa la Decizia IMM nr. 200/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111135",
+   "versions": [
+    {
+     "from": "2009-09-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111135",
+     "sha256": "afb905e7e31281702cced0ea26b5a31d7317fb3b84ca01af37d60e9f39e762bf"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1056-2009-anexa",
+   "path": "anexa/hg-1056-2009/anexa",
+   "short": "Anexa la HG nr. 1056/2009",
+   "title": "Norme metodologice din 23 septembrie 2009 privind organizarea și desfășurarea controlului doping (anexa la Hotărârea Guvernului nr. 1056/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111899",
+   "versions": [
+    {
+     "from": "2009-10-06",
+     "units": 90,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111899",
+     "sha256": "73498d7537bbf7fdfaca4e9e70eaf70e7253c9afb353b6ee5f785b5c8f484488"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1076-2009-anexa",
+   "path": "anexa/hg-1076-2009/anexa",
+   "short": "Anexa la HG nr. 1076/2009",
+   "title": "Regulament din 23 septembrie 2009 de pază a fondului forestier (anexa la Hotărârea Guvernului nr. 1076/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112636",
+   "versions": [
+    {
+     "from": "2010-01-24",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112636",
+     "sha256": "a2cecbcc51f39cdb76fb7009ca146687e287737ce4f249f17b38d4b7a0776e53"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1262-2009-anexa",
+   "path": "anexa/hg-1262-2009/anexa",
+   "short": "Anexa la HG nr. 1262/2009",
+   "title": "Norme metodologice din 28 octombrie 2009 de aplicare a Ordonanței de urgență a Guvernului nr. 79/2009 privind reglementarea unor măsuri pentru stimularea absorbției fondurilor alocate prin Programul Național de Dezvoltare Rurală pentru renovarea și dezvoltarea spațiului rural prin creșterea calității vieții și diversificării economiei în zonele rurale (anexa la Hotărârea Guvernului nr. 1262/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112799",
+   "versions": [
+    {
+     "from": "2009-10-28",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112799",
+     "sha256": "0267cd1bb3e120abf3f7d6737f7b5d37784c5fc07d4429c4c66cdcbcc77011d3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1299-2009-anexa",
+   "path": "anexa/hg-1299-2009/anexa",
+   "short": "Anexa la HG nr. 1299/2009",
+   "title": "Norme din 28 octombrie 2009 de punere în aplicare a Convenției internaționale din 2001 privind răspunderea civilă pentru prejudicii provocate de poluarea cu hidrocarburi de consum de la navele maritime (BUNKERS (anexa la Hotărârea Guvernului nr. 1299/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113774",
+   "versions": [
+    {
+     "from": "2009-12-26",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113774",
+     "sha256": "85c43d34afb050d7eec2d01fa13b1e92ef03a40e05e0d75a3c186801656cfaa8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1377-2009-anexa-1",
+   "path": "anexa/hg-1377-2009/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 1377/2009",
+   "title": "Regulament din 18 noiembrie 2009 de organizare și funcționare a Inspecției Muncii (anexa nr. 1 la Hotărârea Guvernului nr. 1377/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113713",
+   "versions": [
+    {
+     "from": "2009-11-25",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113713",
+     "sha256": "54563ba03a6aeacaa23eb237a2d977c1ee4ba6d952de0707b47cda64d6447726"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1442-2009-anexa",
+   "path": "anexa/hg-1442-2009/anexa",
+   "short": "Anexa la HG nr. 1442/2009",
+   "title": "Regulament din 18 noiembrie 2009 de organizare și funcționare a Institutului Național de Cercetare-Dezvoltare pentru Protecția Mediului (anexa la Hotărârea Guvernului nr. 1442/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114809",
+   "versions": [
+    {
+     "from": "2009-12-23",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114809",
+     "sha256": "52db42009d0213f8cab21bea0ad9b2dee4a83d92c4666192ea065a3c5f1e04ad"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1541-2009-anexa",
+   "path": "anexa/hg-1541-2009/anexa",
+   "short": "Anexa la HG nr. 1541/2009",
+   "title": "Regulament din 9 decembrie 2009 de organizare și funcționare a Consiliului interinstituțional, înființat pentru asigurarea cadrului general de cooperare în domeniul punerii în aplicare în România a sancțiunilor internaționale (anexa la Hotărârea Guvernului nr. 1541/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114530",
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114530",
+     "sha256": "95eda44553aeff48de5e0d4a28cbefff965adb6fe528b1714dfa9ae3eda0a3ac"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1611-2009-anexa",
+   "path": "anexa/hg-1611-2009/anexa",
+   "short": "Anexa la HG nr. 1611/2009",
+   "title": "Norme din 16 decembrie 2009 privind certificarea mecanicilor de locomotivă care conduc locomotive și trenuri în sistemul feroviar din România (anexa la Hotărârea Guvernului nr. 1611/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115192",
+   "versions": [
+    {
+     "from": "2010-01-08",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115192",
+     "sha256": "a9ad7bb0e6b1e7fd022ec02f7af6721c504b3c39e5861097d4f0075d973af56f"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-215-2009-anexa",
    "path": "anexa/hg-215-2009/anexa",
    "short": "Anexa la HG nr. 215/2009",
@@ -33,6 +183,36 @@
    ]
   },
   {
+   "slug": "anexa-hg-409-2009-anexa",
+   "path": "anexa/hg-409-2009/anexa",
+   "short": "Anexa la HG nr. 409/2009",
+   "title": "Norme metodologice din 1 aprilie 2009 de aplicare a Ordonanței Guvernului nr. 22/2008 privind eficiența energetică și promovarea utilizării la consumatorii finali a surselor regenerabile de energie (anexa la Hotărârea Guvernului nr. 409/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104942",
+   "versions": [
+    {
+     "from": "2009-04-22",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104942",
+     "sha256": "2198284fddc26ee8f085e8c51148e7320b4bf1776864eb05dfd91310e0cf107a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-434-2009-anexa",
+   "path": "anexa/hg-434-2009/anexa",
+   "short": "Anexa la HG nr. 434/2009",
+   "title": "Norme metodologice din 8 aprilie 2009 de aplicare a Legii nr. 198/2004 privind unele măsuri prealabile lucrărilor de construcție de drumuri de interes național, județean și local (anexa la Hotărârea Guvernului nr. 434/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105620",
+   "versions": [
+    {
+     "from": "2009-05-11",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105620",
+     "sha256": "c27e8ffd85dbebf2f8c9782b42362c6d43a8b6a16ed4384d0e1bd9d649e4820e"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-56-2009-anexa",
    "path": "anexa/hg-56-2009/anexa",
    "short": "Anexa la HG nr. 56/2009",
@@ -44,6 +224,201 @@
      "units": 28,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102361",
      "sha256": "416e44bbd9a17fbfe9355d2f6624f388815b981f1bf629ce08b4de6b8be7bb3d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-563-2009-anexa",
+   "path": "anexa/hg-563-2009/anexa",
+   "short": "Anexa la HG nr. 563/2009",
+   "title": "Regulament din 10 mai 2009 privind descentralizarea activității sportive și de tineret (anexa la Hotărârea Guvernului nr. 563/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106811",
+   "versions": [
+    {
+     "from": "2009-06-11",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106811",
+     "sha256": "c1650a18de946fff89931ad095e66359af4bd9d08e5a9dcb52f85354a7796194"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-682-2009-anexa",
+   "path": "anexa/hg-682-2009/anexa",
+   "short": "Anexa la HG nr. 682/2009",
+   "title": "Regulament de organizare și funcționare din 3 iunie 2009 a Comitetului național de coordonare a activității Sistemului național unic pentru apeluri de urgență, precum și a Secretariatului tehnic permanent (anexa la Hotărârea Guvernului nr. 682/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106937",
+   "versions": [
+    {
+     "from": "2009-06-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106937",
+     "sha256": "94c8a32f7470715596f759c3c8d0ef348e7d413d4fb192fea76af9a60d472b29"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-712-2009-anexa-1",
+   "path": "anexa/hg-712-2009/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 712/2009",
+   "title": "Regulament din 14 iunie 2009 privind taxele și tarifele pentru autorizarea și controlul activităților nucleare (anexa nr. 1 la Hotărârea Guvernului nr. 712/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110976",
+   "versions": [
+    {
+     "from": "2009-09-01",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110976",
+     "sha256": "f089c90bbf34e9d77c8bd0ca193406526582b18f8da378cc6ee20dffc971123d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-717-2009-anexa-1",
+   "path": "anexa/hg-717-2009/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 717/2009",
+   "title": "Norme din 17 iunie 2009 de implementare a programului \"Prima casă\" (anexa nr. 1 la Hotărârea Guvernului nr. 717/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/107178",
+   "versions": [
+    {
+     "from": "2009-06-18",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/107178",
+     "sha256": "5459018d3b678947b85b38c2318bb4048b7f26e033b6556da0c03a796a2ff1e7"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-827-2009-anexa",
+   "path": "anexa/hg-827-2009/anexa",
+   "short": "Anexa la HG nr. 827/2009",
+   "title": "Norme din 22 iulie 2009 privind procedura specifică pentru elaborarea și transmiterea cererii de constatare a faptului că o anumită activitate relevantă este expusă direct concurenței pe o piață la care accesul nu este restricționat (anexa la Hotărârea Guvernului nr. 827/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110699",
+   "versions": [
+    {
+     "from": "2009-08-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110699",
+     "sha256": "4a571df021ff3d14131a87dba599b3e87919c8db39dfb7a98ec32e027a1a362b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-861-2009-anexa-1",
+   "path": "anexa/hg-861-2009/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 861/2009",
+   "title": "Norme metodologice din 22 iulie 2009 de acordare, utilizare și control al sumelor anuale destinate gestionării durabile a fondului forestier proprietate privată a persoanelor fizice și juridice și a celui proprietate publică și privată a unităților administrativ-teritoriale (anexa nr. 1 la Hotărârea Guvernului nr. 861/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110603",
+   "versions": [
+    {
+     "from": "2009-08-18",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110603",
+     "sha256": "98f9acbdba2d861bf5462798c3feb1192ae9600f13252f2d7dd9bac54b382fc1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-861-2009-anexa-2",
+   "path": "anexa/hg-861-2009/anexa-2",
+   "short": "Anexa nr. 2 la HG nr. 861/2009",
+   "title": "Procedură din 22 iulie 2009 de realizare a serviciilor silvice și de efectuare a controalelor de fond (anexa nr. 2 la Hotărârea Guvernului nr. 861/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110604",
+   "versions": [
+    {
+     "from": "2009-08-18",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110604",
+     "sha256": "7c152b010c4a8fba9bb23375ca259d5456167de504468c4098f3002474ff554d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-cifga-104-2009-anexa",
+   "path": "anexa/hotarare-cifga-104-2009/anexa",
+   "short": "Anexa la Hotărârea cifga nr. 104/2009",
+   "title": "Normă din 18 iunie 2009 privind instituirea unei scheme de ajutor de stat destinate facilitării accesului la finanțare în actuala perioadă de criză economică și financiară, constând în garanții acordate IMM-urilor și întreprinderilor mari (NI-GAR-08-I/0) (anexa la Hotărârea CIFGA nr. 104/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109191",
+   "versions": [
+    {
+     "from": "2009-07-02",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109191",
+     "sha256": "e64ee7c9336b950de0cfd3274a506f7c6e9475a7e7e92adafe44f1bbd6e2d6ee"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-cifga-116-2009-anexa",
+   "path": "anexa/hotarare-cifga-116-2009/anexa",
+   "short": "Anexa la Hotărârea cifga nr. 116/2009",
+   "title": "Normă din 2 iulie 2009 privind compensarea parțială a dobânzii plătite de IMM la creditele în lei (NI-CST-15-I/0) (anexa la Hotărârea CIFGA nr. 116/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109569",
+   "versions": [
+    {
+     "from": "2009-07-14",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109569",
+     "sha256": "95ca2814d079a3875ad82021013e16a0587f5da1b53f8f7cf93a732a61b6cb2a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-cifga-191-2009-anexa",
+   "path": "anexa/hotarare-cifga-191-2009/anexa",
+   "short": "Anexa la Hotărârea cifga nr. 191/2009",
+   "title": "Normă din 18 noiembrie 2009 privind derularea activității de emitere, în numele și în contul statului, a garanției pentru proiecte în domenii prioritare (NI-GAR-06-II/0) (anexa la Hotărârea CIFGA nr. 191/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114408",
+   "versions": [
+    {
+     "from": "2009-12-14",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114408",
+     "sha256": "ebfa0f6cd25ccde36f350e66f84c9c6f9c94bb0d1a5743c443d7c6227e60ed79"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-cifga-202-2009-anexa",
+   "path": "anexa/hotarare-cifga-202-2009/anexa",
+   "short": "Anexa la Hotărârea cifga nr. 202/2009",
+   "title": "Normă din 26 noiembrie 2009 privind finanțarea cu dobândă subvenționată a operatorilor economici, în numele și în contul statului (NI-FIN-06-IV/0) (anexa la Hotărârea CIFGA nr. 202/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114938",
+   "versions": [
+    {
+     "from": "2009-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114938",
+     "sha256": "583bf0b56e6dd8b7633f3f8f8ddcdc9b9d26e78fc6378e5f38a96f77186b0e26"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-achizitii-107-2009-anexa",
+   "path": "anexa/ordin-achizitii-107-2009/anexa",
+   "short": "Anexa la Ordin achizitii nr. 107/2009",
+   "title": "Regulament din 6 iulie 2009 privind supravegherea modului de atribuire a contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii (anexa la Ordinul ACHIZITII nr. 107/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109412",
+   "versions": [
+    {
+     "from": "2009-07-09",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109412",
+     "sha256": "778eac036aa547277ebdfff23d1d93d8b38df3198184484d5486671107fbd4e7"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-182-2009-anexa",
+   "path": "anexa/ordin-agricultura-182-2009/anexa",
+   "short": "Anexa la Ordin agricultura nr. 182/2009",
+   "title": "Norme metodologice din 19 februarie 2009 privind atestarea persoanelor fizice și juridice care își manifestă intenția de a desfășura, pe terenuri din domeniul agricol, activități de îmbunătățiri funciare, studii, proiectare, executare de lucrări și servicii și/sau de fabricăre a instalațiilor de irigat (anexa la Ordinul AGRICULTURA nr. 182/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104472",
+   "versions": [
+    {
+     "from": "2009-04-07",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104472",
+     "sha256": "af8e65e6ee9b3810933e68037ed36568303f988dfba9a2184bb50002dca78fda"
     }
    ]
   },
@@ -63,6 +438,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-agricultura-390-2009-anexa",
+   "path": "anexa/ordin-agricultura-390-2009/anexa",
+   "short": "Anexa la Ordin agricultura nr. 390/2009",
+   "title": "Metodologie din 17 iunie 2009 de autorizare a operatorilor din cadrul sectorului de legume și fructe proaspete, în vederea folosirii regimului de autocontrol și de utilizare a logoului comunitar (anexa la Ordinul AGRICULTURA nr. 390/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109374",
+   "versions": [
+    {
+     "from": "2009-07-08",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109374",
+     "sha256": "2c8ab5073fb7d5bfdd3d113fc9a604e7252f955e6c10a7badc446bba7bb8e113"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-agricultura-4-2009-anexa",
    "path": "anexa/ordin-agricultura-4-2009/anexa",
    "short": "Anexa la Ordin agricultura nr. 4/2009",
@@ -74,6 +464,216 @@
      "units": 28,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101439",
      "sha256": "e93f360f6f3b0dcc49c2d6b48235116532bb102c98aae11d39fb7754d24cf16f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-769-2009-anexa",
+   "path": "anexa/ordin-agricultura-769-2009/anexa",
+   "short": "Anexa la Ordin agricultura nr. 769/2009",
+   "title": "Metodologie din 21 decembrie 2009 de înregistrare a operatorilor economici și eliberare a autorizației pentru producerea, prelucrarea și/sau comercializarea semințelor și materialului săditor (anexa la Ordinul AGRICULTURA nr. 769/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114946",
+   "versions": [
+    {
+     "from": "2009-12-28",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114946",
+     "sha256": "974a2bc0141f46d34226548bd3d5b0ffca2a344c8f31783fe56b170d6333408b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-1129-2009-anexa",
+   "path": "anexa/ordin-anaf-1129-2009/anexa",
+   "short": "Anexa la Ordin anaf nr. 1129/2009",
+   "title": "Procedură din 26 mai 2009 privind valorificarea prin vânzare la licitație a bunurilor sechestrate potrivit dispozițiilor Codului de procedură fiscală (anexa la Ordinul ANAF nr. 1129/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106557",
+   "versions": [
+    {
+     "from": "2009-06-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106557",
+     "sha256": "3bd22134cdc4cf5e7947cc2f7cc79c51582bf97c0606e6a10dde09152ed5d4b2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-1615-2009-anexa",
+   "path": "anexa/ordin-anaf-1615-2009/anexa",
+   "short": "Anexa la Ordin anaf nr. 1615/2009",
+   "title": "Instrucțiuni din 22 iunie 2009 privind accesul operatorilor economici la componenta NCTS/TIR din aplicația NCTS-RO (anexa la Ordinul ANAF nr. 1615/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109120",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109120",
+     "sha256": "99011c49bb7bdf00316cb4c00eefc26103c0cb9e7914666d038a7ef56046ff9f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-1998-2009-anexa-1",
+   "path": "anexa/ordin-anaf-1998-2009/anexa-1",
+   "short": "Anexa nr. 1 la Ordin anaf nr. 1998/2009",
+   "title": "Norme tehnice din 28 iulie 2009 privind autorizarea destinatarilor agreați în cadrul regimului de tranzit sub acoperirea carnetelor TIR (anexa nr. 1 la Ordinul ANAF nr. 1998/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110257",
+   "versions": [
+    {
+     "from": "2009-08-06",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110257",
+     "sha256": "3d92ae62b9a40e9e2ad2201a674979ef1dc4d9704354e92db16add12269b20bb"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anaf-1998-2009-anexa-2",
+   "path": "anexa/ordin-anaf-1998-2009/anexa-2",
+   "short": "Anexa nr. 2 la Ordin anaf nr. 1998/2009",
+   "title": "Norme tehnice din 28 iulie 2009 privind agrearea vehiculelor rutiere și containerelor pentru transportul mărfurilor sub acoperirea carnetelor TIR (anexa nr. 2 la Ordinul ANAF nr. 1998/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110258",
+   "versions": [
+    {
+     "from": "2009-08-06",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110258",
+     "sha256": "246112f1db25fbe9dca0697c67a24da2e835bdec542d877d3bbe87cc817b3ce5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anpc-432-2009-anexa",
+   "path": "anexa/ordin-anpc-432-2009/anexa",
+   "short": "Anexa la Ordin anpc nr. 432/2009",
+   "title": "Norme tehnice din 16 iunie 2009 privind definirea, descrierea, prezentarea și etichetarea băuturilor alcoolice fermentate nedistilate, altele decât berea și vinul, destinate consumului uman ca atare (anexa la Ordinul ANPC nr. 432/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110393",
+   "versions": [
+    {
+     "from": "2009-08-10",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110393",
+     "sha256": "4c8dff47445180cf7b938a4c4019e0e5b6657cea7eb6c440a8c68da778317845"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anpc-675-2009-anexa",
+   "path": "anexa/ordin-anpc-675-2009/anexa",
+   "short": "Anexa la Ordin anpc nr. 675/2009",
+   "title": "Norme tehnice din 18 decembrie 2009 privind fabricarea, natura și calitatea materiilor prime, ambalarea, etichetarea și comercializarea băuturilor alcoolice fermentate nedistilate, altele decât berea și vinul, destinate consumului uman ca atare (anexa la Ordinul ANPC nr. 675/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114963",
+   "versions": [
+    {
+     "from": "2009-12-29",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114963",
+     "sha256": "2cc1f82e90c74f056b0b433986228464c09f954bea93e77e145dc35cea82ea8c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-51-2009-anexa",
+   "path": "anexa/ordin-anre-51-2009/anexa",
+   "short": "Anexa la Ordin anre nr. 51/2009",
+   "title": "Normă tehnică din 3 aprilie 2009 \"Condiții tehnice de racordare la rețelele electrice de interes public pentru centralele electrice eoliene\" - Cod ANRE: 51.1.017.0.00.03/04/09 (anexa la Ordinul ANRE nr. 51/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105602",
+   "versions": [
+    {
+     "from": "2009-05-11",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105602",
+     "sha256": "719c6620f053b90a3e992d29c8f6dc94983c91d064a205137362ca122cabdd4d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-69-2009-anexa",
+   "path": "anexa/ordin-anre-69-2009/anexa",
+   "short": "Anexa la Ordin anre nr. 69/2009",
+   "title": "Regulament din 2 iulie 2009 de etichetare a energiei electrice - Revizia 1 (anexa la Ordinul ANRE nr. 69/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110145",
+   "versions": [
+    {
+     "from": "2009-09-02",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110145",
+     "sha256": "279f527a495216067d56a9bd320f54f2eea50862ef3aafc7d201f285810a81ac"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-73-2009-anexa",
+   "path": "anexa/ordin-anre-73-2009/anexa",
+   "short": "Anexa la Ordin anre nr. 73/2009",
+   "title": "Procedură din 6 august 2009 privind prognoza consumului de energie electrică a consumatorilor cu putere aprobată mai mare sau egală cu 1 MVA (anexa la Ordinul ANRE nr. 73/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110835",
+   "versions": [
+    {
+     "from": "2010-01-26",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110835",
+     "sha256": "1d4ae743294f964439611fe32c29a25e60b5821ae779970242ad399d88424998"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-85-2009-anexa",
+   "path": "anexa/ordin-anre-85-2009/anexa",
+   "short": "Anexa la Ordin anre nr. 85/2009",
+   "title": "Procedura din 5 noiembrie 2009 de urmărire a garanțiilor de origine pentru energia electrică produsă în cogenerare de eficiență înaltă de la emitere până la valorificare (anexa la Ordinul ANRE nr. 85/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113554",
+   "versions": [
+    {
+     "from": "2009-11-20",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113554",
+     "sha256": "8f81c5bf0466a2496542e5599efaf095b16c690fe62714fdffcc94458a387e4f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-90-2009-anexa",
+   "path": "anexa/ordin-anre-90-2009/anexa",
+   "short": "Anexa la Ordin anre nr. 90/2009",
+   "title": "Regulament din 19 noiembrie 2009 pentru autorizarea electricienilor care proiectează, execută, verifică și exploatează instalații electrice din sistemul electroenergetic (anexa la Ordinul ANRE nr. 90/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114252",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 80,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114252",
+     "sha256": "b5dff7ab1740f072462f5060db372edca5f1691c5603e712c983eea49ebeced8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-109-2009-anexa",
+   "path": "anexa/ordin-aparare-109-2009/anexa",
+   "short": "Anexa la Ordin aparare nr. 109/2009",
+   "title": "Regulamentul din 14 octombrie 2009 uniformelor militare din Armata României (anexa la Ordinul APARARE nr. 109/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112912",
+   "versions": [
+    {
+     "from": "2009-10-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112912",
+     "sha256": "4f6c15cd84fa5d20d3a5509f40b9109d80e0fe020b34cce034acb60b9c47ed61"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-121-2009-anexa",
+   "path": "anexa/ordin-aparare-121-2009/anexa",
+   "short": "Anexa la Ordin aparare nr. 121/2009",
+   "title": "Instrucțiuni din 3 decembrie 2009 privind organizarea și executarea inspecțiilor tehnice periodice la vehiculele militare (anexa la Ordinul APARARE nr. 121/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114416",
+   "versions": [
+    {
+     "from": "2009-12-14",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114416",
+     "sha256": "889ba79f17e9404a472e445b3708e905c3edc28377ccd64c9a2546be60339041"
     }
    ]
   },
@@ -93,6 +693,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-aparare-2-2009-anexa",
+   "path": "anexa/ordin-aparare-2-2009/anexa",
+   "short": "Anexa la Ordin aparare nr. 2/2009",
+   "title": "Norme metodologice din 16 ianuarie 2009 de aplicare a prevederilor Ordonanței Guvernului nr. 7/1998 privind unele măsuri de protecție socială a personalului militar și civil, care se vor aplica în perioada restructurării marilor unități, unităților și formațiunilor din compunerea Ministerului Apărării Naționale, aprobată cu modificări prin Legea nr. 37/2001 (anexa la Ordinul APARARE nr. 2/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105958",
+   "versions": [
+    {
+     "from": "2009-05-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105958",
+     "sha256": "d34147ffbf0f08152c2b20cbe4bce12ce23b7cb293319531771e078e0a3570a7"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-aparare-26-2009-anexa",
    "path": "anexa/ordin-aparare-26-2009/anexa",
    "short": "Anexa la Ordin aparare nr. 26/2009",
@@ -104,6 +719,111 @@
      "units": 84,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103802",
      "sha256": "d1ec74db41e55adb5f010e14ab7404c05ae9201243a9c9afebfde871acdba7a9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-81-2009-anexa",
+   "path": "anexa/ordin-aparare-81-2009/anexa",
+   "short": "Anexa la Ordin aparare nr. 81/2009",
+   "title": "Regulament din 30 iulie 2009 privind constituirea, organizarea, funcționarea și atribuțiile comisiilor de expertiză medico-militară (anexa la Ordinul APARARE nr. 81/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111930",
+   "versions": [
+    {
+     "from": "2009-10-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111930",
+     "sha256": "83886674d657038daa49d2ef87005c6e7f779e055e1a4d92fad09fb763629ee1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-84-2009-anexa",
+   "path": "anexa/ordin-aparare-84-2009/anexa",
+   "short": "Anexa la Ordin aparare nr. 84/2009",
+   "title": "Instrucțiuni din 13 august 2009 privind repartizarea, închirierea și folosirea locuințelor de serviciu și a locuințelor de intervenție din administrarea Ministerului Apărării Naționale (anexa la Ordinul APARARE nr. 84/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110753",
+   "versions": [
+    {
+     "from": "2009-08-24",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110753",
+     "sha256": "f21c373ae39e0b2a8ace36db25195d1bb3fc46d74df12c8acff9751c529c6989"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-aparare-88-2009-anexa",
+   "path": "anexa/ordin-aparare-88-2009/anexa",
+   "short": "Anexa la Ordin aparare nr. 88/2009",
+   "title": "Norme din 17 august 2009 pentru ocuparea posturilor permanente în străinătate de către personalul Ministerului Apărării Naționale (anexa la Ordinul APARARE nr. 88/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110837",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110837",
+     "sha256": "a82ac7e1b4fa2b0cd3e0625a83df32b343b5ed7186fb7908c8546693893d118c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cnas-636-2009-anexa",
+   "path": "anexa/ordin-cnas-636-2009/anexa",
+   "short": "Anexa la Ordin cnas nr. 636/2009",
+   "title": "Metodologie din 20 mai 2009 transmiterii rapoartelor aferente programelor/subprogramelor naționale de sănătate cu scop curativ (anexa la Ordinul CNAS nr. 636/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109201",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109201",
+     "sha256": "f68e90364f75f20ee1fded11163839a369d9416319e59888d70781eb907c8072"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cnas-967-2009-anexa",
+   "path": "anexa/ordin-cnas-967-2009/anexa",
+   "short": "Anexa la Ordin cnas nr. 967/2009",
+   "title": "Norme din 19 noiembrie 2009 privind condițiile și modalitatea de decontare a serviciilor de dializă, contractate de Casa Națională de Asigurări de Sănătate cu furnizorii din sectorul privat, câștigători ai licitației naționale pentru centrele-pilot și alți furnizori privați de servicii de dializă, autorizați și evaluați în condițiile legii (anexa la Ordinul CNAS nr. 967/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113843",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113843",
+     "sha256": "624e1a7c9e5803dab052404fe5dd069c3758894d52ee50d401d1fb81a3a11a2e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-comunicatii-500-2009-anexa",
+   "path": "anexa/ordin-comunicatii-500-2009/anexa",
+   "short": "Anexa la Ordin comunicatii nr. 500/2009",
+   "title": "Norme tehnice și metodologice din 18 iunie 2009 pentru aplicarea Legii nr. 589/2004 privind regimul juridic al activității electronice notariale (anexa la Ordinul COMUNICATII nr. 500/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109517",
+   "versions": [
+    {
+     "from": "2009-07-14",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109517",
+     "sha256": "5a5a0452840527d0765dad576bccd6818158484811cdf6b191c1c4c5e811adbd"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cultura-2076-2009-anexa",
+   "path": "anexa/ordin-cultura-2076-2009/anexa",
+   "short": "Anexa la Ordin cultura nr. 2076/2009",
+   "title": "Norme metodologice din 23 februarie 2009 privind organizarea și funcționarea comisiilor, procedura de selecție a programelor, proiectelor și acțiunilor culturale în vederea acordării de finanțări nerambursabile din Fondul Cultural Național, precum și de soluționare a contestațiilor (anexa la Ordinul CULTURA nr. 2076/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105007",
+   "versions": [
+    {
+     "from": "2009-04-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105007",
+     "sha256": "82b619c0da12dcb65d3e14b5857e498349d04a6a370feee6c47f3a0bfab0c9fc"
     }
    ]
   },
@@ -138,6 +858,66 @@
    ]
   },
   {
+   "slug": "anexa-ordin-dezvoltare-968-2009-anexa",
+   "path": "anexa/ordin-dezvoltare-968-2009/anexa",
+   "short": "Anexa la Ordin dezvoltare nr. 968/2009",
+   "title": "Norme din 19 noiembrie 2009 de aplicare a Ordonanței de urgență a Guvernului nr. 161/2008 privind alocarea de la bugetul de stat a fondurilor necesare pentru continuarea și finalizarea proiectelor PHARE (anexa la Ordinul DEZVOLTARE nr. 968/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114264",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114264",
+     "sha256": "12c6b6a1f14e325e0b42097ff46ab748fedcd9612a092265eb012aa39f8e79a3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dizabilitati-277-2009-anexa",
+   "path": "anexa/ordin-dizabilitati-277-2009/anexa",
+   "short": "Anexa la Ordin dizabilitati nr. 277/2009",
+   "title": "Metodologie din 15 iunie 2009 de preluare de către direcțiile generale de asistență socială și protecția copilului județene, respectiv locale ale sectoarelor municipiului București a contractelor privind angajamentul de plată a dobânzii încheiate de Autoritatea Națională pentru Persoanele cu Handicap și de asigurare a transferurilor financiare (anexa la Ordinul DIZABILITATI nr. 277/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109056",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109056",
+     "sha256": "ef611ccba8b06979dafea1bffd4379122a320763262c0037beab98f0e0105a3e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-1767-2009-anexa-1",
+   "path": "anexa/ordin-economie-1767-2009/anexa-1",
+   "short": "Anexa nr. 1 la Ordin economie nr. 1767/2009",
+   "title": "Regulament din 6 octombrie 2009 pentru autorizarea auditorilor energetici (anexa nr. 1 la Ordinul ECONOMIE nr. 1767/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112801",
+   "versions": [
+    {
+     "from": "2009-10-28",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112801",
+     "sha256": "c786e307454c249ae9bf0fa95a30aee2f8237610531e395c57f318a2195a9ac9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-1767-2009-anexa",
+   "path": "anexa/ordin-economie-1767-2009/anexa",
+   "short": "Anexa la Ordin economie nr. 1767/2009",
+   "title": "Regulament din 6 octombrie 2009 pentru atestarea managerilor energetici (anexa la Ordinul ECONOMIE nr. 1767/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112802",
+   "versions": [
+    {
+     "from": "2009-10-28",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112802",
+     "sha256": "045da6d582d4d9b16c40244b2e1239e9d3a4a6fe8b17f0c5b5a9bc1445b733f4"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-educatie-3110-2009-anexa",
    "path": "anexa/ordin-educatie-3110-2009/anexa",
    "short": "Anexa la Ordin educatie nr. 3110/2009",
@@ -149,6 +929,96 @@
      "units": 25,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103267",
      "sha256": "154fd243c31700842e98665ddfd22e245651b352926e1574b875ce0cb68f7608"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4430-2009-anexa",
+   "path": "anexa/ordin-educatie-4430-2009/anexa",
+   "short": "Anexa la Ordin educatie nr. 4430/2009",
+   "title": "Metodologie din 29 iunie 2009 de realizare și utilizare a Cadrului național al calificărilor din învățământul superior (anexa la Ordinul EDUCATIE nr. 4430/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110225",
+   "versions": [
+    {
+     "from": "2009-08-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110225",
+     "sha256": "5adc66d2fc4bc11251a2b818f330f4ac32cb7023ac39476bf3f9bb339d4ad054"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4853-2009-anexa",
+   "path": "anexa/ordin-educatie-4853-2009/anexa",
+   "short": "Anexa la Ordin educatie nr. 4853/2009",
+   "title": "Metodologie din 31 august 2009 de organizare și desfășurare a examenului pentru obținerea atestatului de competență lingvistică pentru absolvenții claselor cu studiu intensiv și bilingv al unei limbi străine și pentru absolvenții claselor cu predare în limbile minorităților, precum și a atestatului pentru predarea unei limbi străine la clasele I-IV de către absolvenții claselor cu profil pedagogic, specializarea învățători-educatoare (anexa la Ordinul EDUCATIE nr. 4853/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112179",
+   "versions": [
+    {
+     "from": "2009-10-12",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112179",
+     "sha256": "63f29668755357cafd1658b2fb52364e970faf8a78d4c368680e0ea303dcff01"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5262-2009-anexa-1",
+   "path": "anexa/ordin-educatie-5262-2009/anexa-1",
+   "short": "Anexa nr. 1 la Ordin educatie nr. 5262/2009",
+   "title": "Regulament din 24 septembrie 2009 de desfășurare a examenului în vederea obținerii Diplomei de acces general în învățământul superior german și a Diplomei de bacalaureat de către absolvenții secțiilor/școlilor speciale germane din România (anexa nr. 1 la Ordinul EDUCATIE nr. 5262/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112587",
+   "versions": [
+    {
+     "from": "2009-10-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112587",
+     "sha256": "39433629cbc3c1254003f972ac84ceedbf12ae83169590169ea0da16d0c8553e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5793-2009-anexa",
+   "path": "anexa/ordin-educatie-5793-2009/anexa",
+   "short": "Anexa la Ordin educatie nr. 5793/2009",
+   "title": "Metodologia din 29 octombrie 2009 de organizare și desfășurare a probelor specifice susținute de elevii secțiilor bilingve francofone în vederea obținerii mențiunii speciale \"secție bilingvă francofonă\" pe diploma de bacalaureat (anexa la Ordinul EDUCATIE nr. 5793/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113209",
+   "versions": [
+    {
+     "from": "2009-11-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113209",
+     "sha256": "799f6214dccf3308ce6a4cc8d47762f7186f8dc112bf6a9d1c0cd201319fde54"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5794-2009-anexa-1",
+   "path": "anexa/ordin-educatie-5794-2009/anexa-1",
+   "short": "Anexa nr. 1 la Ordin educatie nr. 5794/2009",
+   "title": "Metodologia din 29 octombrie 2009 de recunoaștere și echivalare a rezultatelor obținute la examene cu recunoaștere internațională pentru certificarea competențelor lingvistice în limbi străine cu proba de evaluare a competenței lingvistice într-o limbă de circulație internațională studiată pe parcursul învățământului liceal, din cadrul examenului de bacalaureat (anexa nr. 1 la Ordinul EDUCATIE nr. 5794/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113412",
+   "versions": [
+    {
+     "from": "2009-11-16",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113412",
+     "sha256": "4f2fe3d3da68c479ad336d00360a477080168bbcc5942e0966f7715e19fe329b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-6226-2009-anexa",
+   "path": "anexa/ordin-educatie-6226-2009/anexa",
+   "short": "Anexa la Ordin educatie nr. 6226/2009",
+   "title": "Regulament din 22 decembrie 2009 de organizare și funcționare a cluburilor sportive studențești din subordinea Ministerului Educației, Cercetării și Inovării (anexa la Ordinul EDUCATIE nr. 6226/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114936",
+   "versions": [
+    {
+     "from": "2009-12-29",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114936",
+     "sha256": "85ef0bb33b7e85eaac6df932ab857431abdd07bd3ae1a7e5ac7ffaf29db62e93"
     }
    ]
   },
@@ -168,6 +1038,126 @@
    ]
   },
   {
+   "slug": "anexa-ordin-finante-2175-2009-anexa",
+   "path": "anexa/ordin-finante-2175-2009/anexa",
+   "short": "Anexa la Ordin finante nr. 2175/2009",
+   "title": "Norme metodologice din 29 iunie 2009 pentru aplicarea prevederilor art. 36 din Ordonanța de urgență a Guvernului nr. 34/2009 cu privire la rectificarea bugetară pe anul 2009 și reglementarea unor măsuri financiar-fiscale (anexa la Ordinul FINANTE nr. 2175/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109131",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109131",
+     "sha256": "616b3cee01622dbfe0793505cf2061d1248b6c15166003b1158125999e2a2cfd"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-2321-2009-anexa",
+   "path": "anexa/ordin-finante-2321-2009/anexa",
+   "short": "Anexa la Ordin finante nr. 2321/2009",
+   "title": "Norme metodologice din 16 iulie 2009 privind procedura de acordare a amânării la plată a obligațiilor fiscale neachitate la termen, administrate de Agenția Națională de Administrare Fiscală (anexa la Ordinul FINANTE nr. 2321/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109839",
+   "versions": [
+    {
+     "from": "2009-07-23",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109839",
+     "sha256": "e432abfbb15e70955ad12c6cb1210334ee3dd5a82da4da509a23d5c655c8a6a5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-2361-2009-anexa",
+   "path": "anexa/ordin-finante-2361-2009/anexa",
+   "short": "Anexa la Ordin finante nr. 2361/2009",
+   "title": "Instrucțiuni din 21 iulie 2009 de aplicare a Ordonanței de urgență a Guvernului nr. 8/2008 pentru completarea art. 5 alin. (1^1) din Ordonanța de urgență a Guvernului nr. 63/1999 cu privire la gestionarea fondurilor nerambursabile alocate României de către Comunitatea Europeană, precum și a fondurilor de cofinanțare aferente acestora (anexa la Ordinul FINANTE nr. 2361/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110496",
+   "versions": [
+    {
+     "from": "2009-08-13",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110496",
+     "sha256": "658b7d4e7ba39ba547c274c9039122394af16e7301a18160fff91b8c95881805"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-2548-2009-anexa",
+   "path": "anexa/ordin-finante-2548-2009/anexa",
+   "short": "Anexa la Ordin finante nr. 2548/2009",
+   "title": "Norme metodologice din 25 august 2009 de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 64/2009 privind gestionarea financiară a instrumentelor structurale și utilizarea acestora pentru obiectivul convergență (anexa la Ordinul FINANTE nr. 2548/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111198",
+   "versions": [
+    {
+     "from": "2009-09-15",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111198",
+     "sha256": "d5afc318ff4b1a01bc4d6ec970e37f8b2d25c97f7c376cdd14103731ed61aee6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-3156-2009-anexa",
+   "path": "anexa/ordin-finante-3156-2009/anexa",
+   "short": "Anexa la Ordin finante nr. 3156/2009",
+   "title": "Norme metodologice din 12 noiembrie 2009 privind virarea la bugetul de stat a veniturilor obținute de autoritățile și instituțiile publice finanțate integral sau parțial din venituri proprii, care s-au reorganizat ca instituții publice finanțate integral de la bugetul de stat potrivit Legii nr. 329/2009 privind reorganizarea unor autorități și instituții publice, raționalizarea cheltuielilor publice, susținerea mediului de afaceri și respectarea acordurilor-cadru cu Comisia Europeană și Fondul Monetar Internațional (anexa la Ordinul FINANTE nr. 3156/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113497",
+   "versions": [
+    {
+     "from": "2009-11-18",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113497",
+     "sha256": "79e858a2c00fbc16ac26ef65eb7614f76c2bccfd5d3b7a41c9a3ea3ac84dc9df"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-3387-2009-anexa",
+   "path": "anexa/ordin-finante-3387-2009/anexa",
+   "short": "Anexa la Ordin finante nr. 3387/2009",
+   "title": "Norme metodologice din 15 decembrie 2009 privind încheierea exercițiului bugetar al anului 2009 (anexa la Ordinul FINANTE nr. 3387/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114774",
+   "versions": [
+    {
+     "from": "2009-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114774",
+     "sha256": "02d9cba0a5ec8e36a5f427f59269c14dc098996e260b8b4cd06b5a598567c499"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-3417-2009-anexa-1",
+   "path": "anexa/ordin-finante-3417-2009/anexa-1",
+   "short": "Anexa nr. 1 la Ordin finante nr. 3417/2009",
+   "title": "Instrucțiuni din 21 decembrie 2009 de aplicare a măsurilor de simplificare în domeniul taxei pe valoarea adăugată privind operațiunile pluripartite din Comunitate, legate de lucrări asupra bunurilor mobile corporale (anexa nr. 1 la Ordinul FINANTE nr. 3417/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114889",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114889",
+     "sha256": "1cca360c6ff0a34c9030dcf1e625cc2d4528aae00a9e9d2908365d6b6496a376"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-3417-2009-anexa",
+   "path": "anexa/ordin-finante-3417-2009/anexa",
+   "short": "Anexa la Ordin finante nr. 3417/2009",
+   "title": "Instrucțiuni din 21 decembrie 2009 de aplicare a măsurilor de simplificare în domeniul taxei pe valoarea adăugată privind retururile de bunuri în spațiul comunitar și tratamentul fiscal al reparațiilor efectuate în perioada de garanție și postgaranție (anexa la Ordinul FINANTE nr. 3417/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114890",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114890",
+     "sha256": "f1f7c647ebc2e2b8292411a6a65987d28dc2bf59842e2bcb364cce9bac351b80"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-finante-463-2009-anexa",
    "path": "anexa/ordin-finante-463-2009/anexa",
    "short": "Anexa la Ordin finante nr. 463/2009",
@@ -179,6 +1169,66 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103360",
      "sha256": "ee608ad2da1adc4aed721245080a4815fa5174910c552ca22a945ea7161d454a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-641-2009-anexa",
+   "path": "anexa/ordin-finante-641-2009/anexa",
+   "short": "Anexa la Ordin finante nr. 641/2009",
+   "title": "Procedură din 6 aprilie 2009 de regularizare a sumelor reprezentând contribuție datorată fondurilor de pensii administrate privat (anexa la Ordinul FINANTE nr. 641/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104948",
+   "versions": [
+    {
+     "from": "2009-04-22",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104948",
+     "sha256": "d74fbee3dcc745853775fbe95da37d31b1c29686b4cf38d852950bd0deaf8113"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-236-2009-anexa-1",
+   "path": "anexa/ordin-interne-236-2009/anexa-1",
+   "short": "Anexa nr. 1 la Ordin interne nr. 236/2009",
+   "title": "Regulament din 30 septembrie 2009 pentru compunerea și portul uniformelor de poliție (anexa nr. 1 la Ordinul INTERNE nr. 236/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112918",
+   "versions": [
+    {
+     "from": "2009-10-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112918",
+     "sha256": "0c43f7c9116255d7cc40f6a5519f240b98f8b47fec4cb3c29da73bd2dc588cbb"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-307-2009-anexa",
+   "path": "anexa/ordin-interne-307-2009/anexa",
+   "short": "Anexa la Ordin interne nr. 307/2009",
+   "title": "Regulament din 18 decembrie 2009 serviciului la bordul navelor aparținând Ministerului Administrației și Internelor (anexa la Ordinul INTERNE nr. 307/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115272",
+   "versions": [
+    {
+     "from": "2010-01-12",
+     "units": 449,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115272",
+     "sha256": "31eec543742a51f3cd49d822ee035bdbfe168d4f219f66ffa88c186bbc1043dd"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-interne-50-2009-anexa",
+   "path": "anexa/ordin-interne-50-2009/anexa",
+   "short": "Anexa la Ordin interne nr. 50/2009",
+   "title": "Regulament din 10 aprilie 2009 de organizare și funcționare a Direcției pentru dezvoltarea capacității administrative (anexa la Ordinul INTERNE nr. 50/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104800",
+   "versions": [
+    {
+     "from": "2009-04-15",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104800",
+     "sha256": "8795016467f834a9d9b29c6721df00fae9025b36843b1ab3353a350bf40b78cb"
     }
    ]
   },
@@ -198,6 +1248,36 @@
    ]
   },
   {
+   "slug": "anexa-ordin-iscir-382-2009-anexa",
+   "path": "anexa/ordin-iscir-382-2009/anexa",
+   "short": "Anexa la Ordin iscir nr. 382/2009",
+   "title": "Metodologie din 10 septembrie 2009 privind autorizarea operatorului responsabil cu supravegherea și verificarea tehnică în utilizare a instalațiilor/echipamentelor din domeniul ISCIR - operator RSVTI (anexa la Ordinul ISCIR nr. 382/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112127",
+   "versions": [
+    {
+     "from": "2009-10-09",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112127",
+     "sha256": "e97c5560cb8704a062749db78b4d96fc28043a92b41184f306e59f89af62abc0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-iscir-465-2009-anexa",
+   "path": "anexa/ordin-iscir-465-2009/anexa",
+   "short": "Anexa la Ordin iscir nr. 465/2009",
+   "title": "Metodologie din 28 septembrie 2009 privind atestarea personalului tehnic de specialitate în domeniul ISCIR (anexa la Ordinul ISCIR nr. 465/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113083",
+   "versions": [
+    {
+     "from": "2009-11-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113083",
+     "sha256": "17f026cf1a269565afd0eb25090b2882fe79c51962f0326ecc00c770f5a90d55"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-iscir-8-2009-anexa-1",
    "path": "anexa/ordin-iscir-8-2009/anexa-1",
    "short": "Anexa nr. 1 la Ordin iscir nr. 8/2009",
@@ -209,6 +1289,21 @@
      "units": 27,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101839",
      "sha256": "973a9b30583c6497b7d976d96379ff5b0ee51b6b13a85c952bdb2f891b61b8b5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-justitie-1470-c-2009-anexa",
+   "path": "anexa/ordin-justitie-1470-c-2009/anexa",
+   "short": "Anexa la Ordin justitie nr. 1470/C/2009",
+   "title": "Regulament din 15 mai 2009 privind organizarea și funcționarea Centrului Medical de Diagnostic și Tratament Ambulatoriu din subordinea Ministerului Justiției și Libertăților Cetățenești (anexa la Ordinul JUSTITIE nr. 1470/C/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106551",
+   "versions": [
+    {
+     "from": "2009-06-03",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106551",
+     "sha256": "7fa69d879e16f46e9820f1b5ca4766a1babfae0d76f35f288b354c06efd60ebf"
     }
    ]
   },
@@ -228,6 +1323,66 @@
    ]
   },
   {
+   "slug": "anexa-ordin-mediu-1090-2009-anexa",
+   "path": "anexa/ordin-mediu-1090-2009/anexa",
+   "short": "Anexa la Ordin mediu nr. 1090/2009",
+   "title": "Ghid de finanțare din 13 august 2009 a Programului de îmbunătățire a calității mediului prin împădurirea terenurilor agricole degradate (anexa la Ordinul MEDIU nr. 1090/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110820",
+   "versions": [
+    {
+     "from": "2009-08-25",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110820",
+     "sha256": "2cf0849d6c85643acd0e96959503031945c29cb9cac731ea7886c74931293fd3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-1107-2009-anexa",
+   "path": "anexa/ordin-mediu-1107-2009/anexa",
+   "short": "Anexa la Ordin mediu nr. 1107/2009",
+   "title": "Ghid de finanțare din 20 august 2009 a Programului național de îmbunătățire a calității mediului prin realizarea de spații verzi în localități (anexa la Ordinul MEDIU nr. 1107/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110968",
+   "versions": [
+    {
+     "from": "2009-09-02",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110968",
+     "sha256": "b26a8d1d10115ed068bb1869940939d467cc206f641aa62cf6e6dacb42ce6a8e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-1342-2009-anexa",
+   "path": "anexa/ordin-mediu-1342-2009/anexa",
+   "short": "Anexa la Ordin mediu nr. 1342/2009",
+   "title": "Ghid de finanțare din 15 octombrie 2009 a Programului privind producerea energiei din surse regenerabile: eoliană, geotermală, solară, biomasă și hidro (anexa la Ordinul MEDIU nr. 1342/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112761",
+   "versions": [
+    {
+     "from": "2009-10-28",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112761",
+     "sha256": "4c701f0e340ed4c84b9a5b65c74b74a8b521c7d020c4ebda78424483bab57c88"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-1683-2009-anexa",
+   "path": "anexa/ordin-mediu-1683-2009/anexa",
+   "short": "Anexa la Ordin mediu nr. 1683/2009",
+   "title": "Ghid de finanțare din 10 decembrie 2009 a Programului de stimulare a înnoirii Parcului auto național (anexa la Ordinul MEDIU nr. 1683/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114972",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114972",
+     "sha256": "dca59a52c746c47ee5de4934d70440c673abcea662af7165f6a5f66c37138e82"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-mediu-254-2009-anexa",
    "path": "anexa/ordin-mediu-254-2009/anexa",
    "short": "Anexa la Ordin mediu nr. 254/2009",
@@ -239,6 +1394,21 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103793",
      "sha256": "e8c376654a85239b1d9ff0371c8738b34f6250baef61d28647c9f34a2d62a311"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-565-2009-anexa",
+   "path": "anexa/ordin-mediu-565-2009/anexa",
+   "short": "Anexa la Ordin mediu nr. 565/2009",
+   "title": "Ghid de finanțare din 8 mai 2009 a Programului de înlocuire sau de completare a sistemelor clasice de încălzire cu sisteme care utilizează energie solară, energie geotermală și energie eoliană ori alte sisteme care conduc la îmbunătățirea calității aerului, apei și solului (anexa la Ordinul MEDIU nr. 565/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106574",
+   "versions": [
+    {
+     "from": "2009-06-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106574",
+     "sha256": "3ce5f635782571265f65608e988634d1a28c1c36be5bd4c235de8a9882ae5583"
     }
    ]
   },
@@ -258,6 +1428,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-munca-342-2009-anexa",
+   "path": "anexa/ordin-munca-342-2009/anexa",
+   "short": "Anexa la Ordin munca nr. 342/2009",
+   "title": "Procedură din 14 aprilie 2009 pentru punerea în aplicare a prevederilor art. 84^1 din Legea nr. 76/2002 privind sistemul asigurărilor pentru șomaj și stimularea ocupării forței de muncă, cu modificările și completările ulterioare (anexa la Ordinul MUNCA nr. 342/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105004",
+   "versions": [
+    {
+     "from": "2009-04-23",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105004",
+     "sha256": "918d5a60c6826c1e7d73e202ec94aa7dd01a018fbaecb0ab5a5f95de64a378bb"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-munca-68-2009-anexa",
    "path": "anexa/ordin-munca-68-2009/anexa",
    "short": "Anexa la Ordin munca nr. 68/2009",
@@ -269,6 +1454,81 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102334",
      "sha256": "55ed27c2e49afec5d45545b27e7e6b522f727cb506a5c88fbab0d64191b727c6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-117-2009-anexa",
+   "path": "anexa/ordin-sanatate-117-2009/anexa",
+   "short": "Anexa la Ordin sanatate nr. 117/2009",
+   "title": "Norme proprii din 10 noiembrie 2009 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2009, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 117/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113891",
+   "versions": [
+    {
+     "from": "2009-11-27",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113891",
+     "sha256": "bcf43994c20a272303c5ea183afbef786d6bb395851518e98605b8652350c13a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1281-2009-anexa",
+   "path": "anexa/ordin-sanatate-1281-2009/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1281/2009",
+   "title": "Norme metodologice din 13 octombrie 2009 pentru realizarea și raportarea activităților specifice din cadrul Subprogramului de screening pentru identificarea pacienților cu factori de risc cardiovascular (anexa la Ordinul SANATATE nr. 1281/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112914",
+   "versions": [
+    {
+     "from": "2009-10-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112914",
+     "sha256": "e4e2652a7aab90c292d434e7a1e1918916722578e75cf21049249c0f265bfce3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-135-2009-anexa",
+   "path": "anexa/ordin-sanatate-135-2009/anexa",
+   "short": "Anexa la Ordin sanatate nr. 135/2009",
+   "title": "Norme proprii din 2 octombrie 2009 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2009, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 135/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113890",
+   "versions": [
+    {
+     "from": "2009-11-27",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113890",
+     "sha256": "d775323e63e6594b139ffec5831bdc5f9e0dd8030f09b7b16e75478e430fc556"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1519-2009-anexa",
+   "path": "anexa/ordin-sanatate-1519-2009/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1519/2009",
+   "title": "Norme metodologice din 2 decembrie 2009 de autorizare a furnizorilor privați de servicii de asistență medicală de urgență prespitalicească și de transport medical asistat și transport sanitar neasistat, a serviciilor de ambulanță județene și al municipiului București și a serviciilor mobile de urgență, reanimare și descarcerare (SMURD), precum și a modelului de autorizație emis de direcțiile de sănătate publică județene și a municipiului București (anexa la Ordinul SANATATE nr. 1519/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114257",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114257",
+     "sha256": "2e2b899e85b0813bdb95e530867b272258b19036bdbbae0da4ba63d7280645d4"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-1534-2009-anexa",
+   "path": "anexa/ordin-sanatate-1534-2009/anexa",
+   "short": "Anexa la Ordin sanatate nr. 1534/2009",
+   "title": "Normele proprii din 7 decembrie 2009 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2009, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a Ministerului Transporturilor și Infrastructurii (anexa la Ordinul SANATATE nr. 1534/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114526",
+   "versions": [
+    {
+     "from": "2009-12-16",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114526",
+     "sha256": "8f6ca4f8234ef8d41f8ad87d879718d0a124a3a6494fff08cb0bd5b116febba0"
     }
    ]
   },
@@ -288,6 +1548,36 @@
    ]
   },
   {
+   "slug": "anexa-ordin-sanatate-3127-2009-anexa",
+   "path": "anexa/ordin-sanatate-3127-2009/anexa",
+   "short": "Anexa la Ordin sanatate nr. 3127/2009",
+   "title": "Norme proprii din 17 noiembrie 2009 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2009, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 3127/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113892",
+   "versions": [
+    {
+     "from": "2009-11-27",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113892",
+     "sha256": "37a4dc319a48b79f8121ed890352b814585d25b21d06e7e85c640ea7111dc03e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-697-2009-anexa",
+   "path": "anexa/ordin-sanatate-697-2009/anexa",
+   "short": "Anexa la Ordin sanatate nr. 697/2009",
+   "title": "Norme proprii din 13 octombrie 2009 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2009, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele (anexa la Ordinul SANATATE nr. 697/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113893",
+   "versions": [
+    {
+     "from": "2009-11-27",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113893",
+     "sha256": "21897ffba64288be4e8800f7ab99deb3051d92ce8251cd12337794eb09e86124"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-sanatate-75-2009-anexa",
    "path": "anexa/ordin-sanatate-75-2009/anexa",
    "short": "Anexa la Ordin sanatate nr. 75/2009",
@@ -299,6 +1589,111 @@
      "units": 27,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101986",
      "sha256": "6923a0f2a2eb7bc558014449e82feb05a3fb21df09a5ca5648b0f068d6d62f5f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-905-2009-anexa-2",
+   "path": "anexa/ordin-sanatate-905-2009/anexa-2",
+   "short": "Anexa nr. 2 la Ordin sanatate nr. 905/2009",
+   "title": "Regulament din 16 iulie 2009 de organizare și funcționare al Dispeceratului unic pentru centralizarea paturilor libere care se asigură de către spitalele de urgență din municipiul București pentru internarea pacienților proveniți din UPU sau CPU (anexa nr. 2 la Ordinul SANATATE nr. 905/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110040",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110040",
+     "sha256": "b616d0165ea5a140df2e88348ec8a3a8e1fa826a40dc404ac14a114576e7a301"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-1279-2009-anexa",
+   "path": "anexa/ordin-transporturi-1279-2009/anexa",
+   "short": "Anexa la Ordin transporturi nr. 1279/2009",
+   "title": "Regulament din 24 decembrie 2009 privind modelul și însemnele uniformei, modul de acordare și portul acesteia de către inspectorii Autorității Rutiere Române - A.R.R (anexa la Ordinul TRANSPORTURI nr. 1279/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115105",
+   "versions": [
+    {
+     "from": "2010-01-06",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115105",
+     "sha256": "a424916cb3c49aa4c0f1eb23b7c0aa3c41b014fd19c9719b6fdd2d7dee0b4d39"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-332-2009-anexa",
+   "path": "anexa/ordin-transporturi-332-2009/anexa",
+   "short": "Anexa la Ordin transporturi nr. 332/2009",
+   "title": "Normă tehnică feroviară din 25 martie 2009 \"Vehicule de cale ferată. Prescripții tehnice pentru revizia și repararea amortizoarelor\" (anexa la Ordinul TRANSPORTURI nr. 332/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104914",
+   "versions": [
+    {
+     "from": "2009-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104914",
+     "sha256": "c622a83db27607cf44194deec383457c3c760a136354c2014eeb5139ca3f5a0c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-turism-485-2009-anexa",
+   "path": "anexa/ordin-turism-485-2009/anexa",
+   "short": "Anexa la Ordin turism nr. 485/2009",
+   "title": "Norme metodologice din 27 mai 2009 privind autorizarea plajelor în scop turistic (anexa la Ordinul TURISM nr. 485/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106719",
+   "versions": [
+    {
+     "from": "2009-06-10",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106719",
+     "sha256": "80aefde793849d9f9827a02057fd4132ac6720f4e8af93863fc5bd2f9a3bb9eb"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-vama-1785-2009-anexa",
+   "path": "anexa/ordin-vama-1785-2009/anexa",
+   "short": "Anexa la Ordin vama nr. 1785/2009",
+   "title": "Norme metodologice din 29 iunie 2009 privind procesarea declarațiilor vamale întocmite prin procedee informatice (anexa la Ordinul VAMA nr. 1785/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109136",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109136",
+     "sha256": "e44b692266d83c295757def7bd681f871aba3a3c25c52b69a9383ffaa23a0a27"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-vama-3003-2009-anexa",
+   "path": "anexa/ordin-vama-3003-2009/anexa",
+   "short": "Anexa la Ordin vama nr. 3003/2009",
+   "title": "Norme tehnice din 9 decembrie 2009 privind autorizarea utilizării de proceduri simplificate în cadrul regimului de tranzit comunitar/comun (anexa la Ordinul VAMA nr. 3003/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114724",
+   "versions": [
+    {
+     "from": "2009-12-21",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114724",
+     "sha256": "20dd3e06b5b9b16343fe6a04efc819a8d1a3bcb3857f04a54e2389e54e68a4ca"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-vama-3004-2009-anexa",
+   "path": "anexa/ordin-vama-3004-2009/anexa",
+   "short": "Anexa la Ordin vama nr. 3004/2009",
+   "title": "Norme tehnice din 9 decembrie 2009 privind autorizarea utilizării sigiliilor cu un model special în cadrul regimului de tranzit comunitar/comun (anexa la Ordinul VAMA nr. 3004/2009)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114733",
+   "versions": [
+    {
+     "from": "2009-12-21",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114733",
+     "sha256": "6e3c1d580825682abb6853f577b40c99b624b91d20bc9350e500e6feea4c1546"
     }
    ]
   }

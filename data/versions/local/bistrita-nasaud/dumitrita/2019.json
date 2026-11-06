@@ -3,6 +3,81 @@
  "shard": "local/bistrita-nasaud/dumitrita/2019",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--dumitrita-1-2019",
+   "path": "local/bistrita-nasaud/dumitrita/2019/1",
+   "short": "HCL Dumitrița nr. 1/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 1/2019 Privind stabilirea destinatiei maselor lemnoase inventariate",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2019-01-07",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2019/hcl/HCL%20nr.1-2019%20partizi%20lemn.pdf",
+     "sha256": "cf81c52e29aa53aca555865f38706938662eb65124e69387669ec7195283ebf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-10-2019",
+   "path": "local/bistrita-nasaud/dumitrita/2019/10",
+   "short": "HCL Dumitrița nr. 10/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 10/2019 Privind asigurarea de la bugetul local a cheltuielilor care nu se finanteaza prin PNDL pentru obiectivul Asfaltare strazi rurale secundare",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2019/hcl/HCL%20nr.10-2019%20ch%20buget%20STRAZI.pdf",
+     "sha256": "1e14f431893fad4b3439f685cb59ee8e42ee24360c93980a225d24c32e8e08c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-13-2019",
+   "path": "local/bistrita-nasaud/dumitrita/2019/13",
+   "short": "HCL Dumitrița nr. 13/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 13/2019 Privind asigurarea de la bugetul local a cheltuielilor care nu se finanteaza prin PNDL pentru obiectivul de investitii \"Infiintare sistem de canalizare cu statie de epurare\"",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2019-02-25",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2019/hcl/HCL%20nr.13-2019%20canalizare.pdf",
+     "sha256": "55942057acd3b8927fd14bd22042c58b60faa5a5f008b80981f4718485c93f62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-2-2019",
+   "path": "local/bistrita-nasaud/dumitrita/2019/2",
+   "short": "HCL Dumitrița nr. 2/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 2/2019 Privind stabilirea pretului pentru lemnul de lucru si lemnul de foc",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2019-01-07",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2019/hcl/HCL%20nr.2-2019%20cota%20lemn+preturi.pdf",
+     "sha256": "33576fec09ca47f26b99fb06d92b19687a24cb6df4ba6b545ac4b6574a38dd75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-3-2019",
+   "path": "local/bistrita-nasaud/dumitrita/2019/3",
+   "short": "HCL Dumitrița nr. 3/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 3/2019 Privind distribuirea din excedentul bugetar local si bugetului de venituri proprii",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2019/hcl/HCL%20nr.3-2019%20excedent%20buget.pdf",
+     "sha256": "dfbb275f435285f0497bb5c8a18b3b1e9d7b1a8ce6f63ee778496fc8104ce8c9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--dumitrita-4-2019",
    "path": "local/bistrita-nasaud/dumitrita/2019/4",
    "short": "HCL Dumitrița nr. 4/2019",
@@ -14,6 +89,81 @@
      "units": 1,
      "source_url": "http://www.dumitrita.ro/documente/2019/hcl/HCL%20nr.4-2019%20tarife%20supercom.pdf",
      "sha256": "2ecf4421f6291856ff0901b88625757591bdea2758252f1f84d5c34136a518df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-46-2019",
+   "path": "local/bistrita-nasaud/dumitrita/2019/46",
+   "short": "HCL Dumitrița nr. 46/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 46/2019 Privind aprobarea bugetului de venituri si cheltuieli al comunei Dumitrita pe anul 2019",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2019/hcl/HCL%20nr.46-2019%20aprobare%20Buget%202019.pdf",
+     "sha256": "8466b5acf0e0d3b0d816c8ac214d8d8649dca187a1456ce48791ba43996d68ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-5-2019",
+   "path": "local/bistrita-nasaud/dumitrita/2019/5",
+   "short": "HCL Dumitrița nr. 5/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 5/2019 Privind schimbarea pretului pentru stocurile de material lemnos",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2019/hcl/HCL%20nr.5-2019%20pret%20lemn%20rasinos.pdf",
+     "sha256": "c6063f49145874fce850610aa1dc839693e3d3bec0f3b19603fe3496fbbdb0cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-6-2019",
+   "path": "local/bistrita-nasaud/dumitrita/2019/6",
+   "short": "HCL Dumitrița nr. 6/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 6/2019 Privind aprobarea retelei scolare a unitatilor de invatamant preuniversitar de stat",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2019/hcl/HCL%20nr.6-2019%20retea%20scolara.pdf",
+     "sha256": "d3826f33be43af26db32e6bf44753035c82c35e5afef2d65d58275d919d0a72c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-7-2019",
+   "path": "local/bistrita-nasaud/dumitrita/2019/7",
+   "short": "HCL Dumitrița nr. 7/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 7/2019 Privind aprobarea programului de lucru pentru persoanele ce vor executa munca in folosul comunitatii",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2019/hcl/HCL%20nr.7-2019%20program%20ore%20folosul%20comun..pdf",
+     "sha256": "2829158404b52ce2e8ce1782b04e19234030b9119f4c2dd6a5642d570f0466a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-8-2019",
+   "path": "local/bistrita-nasaud/dumitrita/2019/8",
+   "short": "HCL Dumitrița nr. 8/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 8/2019 Privind aprobarea regulamentului de organizare si functionare al Compartimentului de Asistenta sociala",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2019/hcl/HCL%20nr.8-2019%20ROF%20asistenta%20sociala.pdf",
+     "sha256": "e71ebbad01925cd168eebf359653f6ef892f1cc8d7978011217b32e2ad4b91a0"
     }
    ]
   },

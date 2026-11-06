@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/bata/2020",
+ "acts": [
+  {
+   "slug": "hcl-arad--bata-46-2020",
+   "path": "local/arad/bata/2020/46",
+   "short": "HCL Bata nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bata nr. 46/2020",
+   "url": "https://www.primariabata.ro/hotarari-c-l/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "http://www.primariabata.ro/wp-content/uploads/2020/09/sedinta-iulie-2020.docx",
+     "sha256": "dc8e33fb139e8efd7bc95bd93e1c5bef940616e61dbf467603b170e09eed7813"
+    }
+   ]
+  }
+ ]
+}

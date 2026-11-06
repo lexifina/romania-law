@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bistrita-nasaud/milas/2020",
+"acts": [
+{
+"slug": "hcl-bistrita-nasaud--milas-465-2020",
+"path": "local/bistrita-nasaud/milas/2020/465",
+"kind": "local",
+"year": "2020",
+"number": "465",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milaș nr. 465/2020 pentru ocuparea funcției de execuție de inspector, clasa I, grad profesional debutant - Compartimentul asistență socială la Primăria comunei Milaș, județul Bistrița-Năsăud (detalii în documentul atașat)",
+"short": "HCL Milaș nr. 465/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://comunamilas.ro/",
+"council": "bistrita-nasaud/milas",
+"council_name": "Consiliul Local al Comunei Milaș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

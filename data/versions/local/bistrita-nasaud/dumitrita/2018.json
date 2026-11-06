@@ -3,6 +3,51 @@
  "shard": "local/bistrita-nasaud/dumitrita/2018",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--dumitrita-1-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/1",
+   "short": "HCL Dumitrița nr. 1/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 1/2018 Privind acoperirea definitiva din excedentul bugetului local pe anul 2016 a deficitului sectiunii de dezvoltare aferent anului 2017",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-01-08",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/HCL_%201_08.01.2018.pdf",
+     "sha256": "bfdd1b3d40b3c18ddffceb9a517c373bfc32dca3206d0bbb4c7e0d9f9e6f3bcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-13-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/13",
+   "short": "HCL Dumitrița nr. 13/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 13/2018 Privind aprobarea contului de executie a bugetului local de venituri si cheltuieli al comunei Dumitrita, la data de 31 decembrie 2017",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/HCL_13_12.02.2018.pdf",
+     "sha256": "86205772140b19a2bd752e90a95f01c41eb15ffb716e5d20f0829590af424470"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-15-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/15",
+   "short": "HCL Dumitrița nr. 15/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 15/2018 Privind aprobarea normativelor proprii de cheltuieli pentru comuna Dumitrita pe anul 2018",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/HCL_15_12.02.2018.pdf",
+     "sha256": "f384c2a44b7988c9576a2c0ea57c2115e11b6b2f1b99c86fbec68fc7d5ac78b3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--dumitrita-29-2018",
    "path": "local/bistrita-nasaud/dumitrita/2018/29",
    "short": "HCL Dumitrița nr. 29/2018",
@@ -18,6 +63,261 @@
    ]
   },
   {
+   "slug": "hcl-bistrita-nasaud--dumitrita-35-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/35",
+   "short": "HCL Dumitrița nr. 35/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 35/2018 Privind inscrierea in Cartea funciara a imobilului cu suprafata de 1283mp - privind proprietatea publica a comunei Dumitrita",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/HCL_35_27.04.2018.pdf",
+     "sha256": "0c795ae576107656b01b3dfb49a9a58c3c89056f4534a0ccdfb9c33c15201244"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-37-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/37",
+   "short": "HCL Dumitrița nr. 37/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 37/2018 Privind aprobarea/respingerea conditiilor de incheiere a Actului aditional nr. 7 la Contractul de achizitie publica a serviciului public de salubrizare respectiv \"Activitatea de colectare si transport al deseurilor municipale si managementul Statiilor de Transfer s",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-05-23",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/HCL_37_23.05.2018.pdf",
+     "sha256": "61542b95a19e3752817c22b1c726f12afa1b687d651850709b1e40b69c911788"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-39-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/39",
+   "short": "HCL Dumitrița nr. 39/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 39/2018",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/HCL_39_31.05.2018.pdf",
+     "sha256": "b67801731b28d149c16bb1842376859df9e909620e18bf73a185e8e0f866796e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-40-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/40",
+   "short": "HCL Dumitrița nr. 40/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 40/2018 Privind alegerea viceprimarului comunei Dumitrita",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/HCL_40_31.05.2018.pdf",
+     "sha256": "e19b74603d0d48cd0a488a4cd8907ee2f8d738694ede7a88f09c6edf89bf50e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-41-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/41",
+   "short": "HCL Dumitrița nr. 41/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 41/2018 Privind modificarea anexei nr. 1 a Hotararii Consiliului Local Dumitrita nr. 7/22.01.2018 privind stabilirea indemnizatiilor primarului, viceprimarului, consilierilor locali si a salariilor de baza pentru functiile publice, functiile contractuale din cadrul aparatu",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/HCL_41_31.05.2018.pdf",
+     "sha256": "83aec93c9f13df0edab352d17ed8c6cccb1f89e37b297d138fbbf0e10442c830"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-44-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/44",
+   "short": "HCL Dumitrița nr. 44/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 44/2018 Privind alegerea presedintelui de sedinta al Consiliului local al comunei Dumitrita",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-06-25",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/hcl-44.pdf",
+     "sha256": "0e7bbc7ddeceaa93c64f34d9fbc87f1a13a8687464ac6285b65bae07551167b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-45-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/45",
+   "short": "HCL Dumitrița nr. 45/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 45/2018 Privind aprobarea rectificarii bugetului de venituri si cheltuieli al comunei Dumitrita la 25.06.2018",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-06-25",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/hcl-45.pdf",
+     "sha256": "19159abdec8f89c0d4cc855b7d01d35358c125685ce0d8737381013a106554f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-46-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/46",
+   "short": "HCL Dumitrița nr. 46/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 46/2018",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-06-25",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/hcl-46.pdf",
+     "sha256": "f41a7b4da108ee1b64fc9f7022a2f73eb2306d3af5b40c647e18a79cf1ac630c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-48-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/48",
+   "short": "HCL Dumitrița nr. 48/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 48/2018 Privind insusirea Acordului de cooperare privind organizarea si exercitarea activitatii de audit public intern",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-06-25",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/hcl-48.pdf",
+     "sha256": "8ccbd9a34bf6a7765716ac43f98887f29064d701796518627213c35c2e568118"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-50-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/50",
+   "short": "HCL Dumitrița nr. 50/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 50/2018 Privind organizarea manifestarilor cultural artistice al festivalului interjudetean ,,Jocul Caluseresc\", editia a IX-a Budacu de Sus 2018, in data de 01 iulie 2018",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-06-25",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/hcl-50.pdf",
+     "sha256": "91c12bdc5447e79c3e5f5681062c4cba0acac00d61d91113dbb0d565aaae596e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-51-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/51",
+   "short": "HCL Dumitrița nr. 51/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 51/2018",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/hcl-51.pdf",
+     "sha256": "b7e6524514ec3d2c45bc2978d144d4523e3160cf739ceebb27612e47a62961c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-53-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/53",
+   "short": "HCL Dumitrița nr. 53/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 53/2018 Privind completarea inventarului bunurilor care fac parte din domeniul public al comunei Dumitrita",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/hcl-53.pdf",
+     "sha256": "0c3a9533f5ed19413cc51ad550cd1a9db339eb0ee3745e8c527e098a6fb74bae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-54-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/54",
+   "short": "HCL Dumitrița nr. 54/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 54/2018 Privind insusirea acordului de cooperare intre Comuna Dumitrita, judetul Bistrita-Nasaud din Romania si comuna Cajba, raionul Glodeni din Republica Moldova",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/hcl-54.pdf",
+     "sha256": "6238d6f12ec1432e9661eef3adbdc162b1594f75fc711c8f9758dcf900271ded"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-55-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/55",
+   "short": "HCL Dumitrița nr. 55/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 55/2018 Privind aprobarea prelungirii prin act aditional a contractului de inchiriere a spatiului situat la etajul imobilului -sediu primarie-, proprietate publica a comunei Dumitrita, situat in localitatea Dumitrita, nr.145, cu destinatie activitati manufacturiere",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/hcl-55.pdf",
+     "sha256": "8d855fa048aac61c2060a3d869841b82c3cbec3c9e20546585e9d6902a38e559"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-56-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/56",
+   "short": "HCL Dumitrița nr. 56/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 56/2018 Privind aprobarea rectificarii bugetului de venituri si cheltuieli al comunei Dumitrita la 27.08.2018",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-08-27",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/hcl-56.pdf",
+     "sha256": "d12aa398680228f105dd4159f4f6ba3cc17fb3771e9229f9379b70fd1036273b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-57-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/57",
+   "short": "HCL Dumitrița nr. 57/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 57/2018 Privind aprobarea contului de executie a bugetului local de venituri si cheltuieli a comunei Dumitrita, la data de 30.06.2018",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-08-27",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/hcl-57.pdf",
+     "sha256": "d485d31219ba0decc195bf0409eb8a1adf64f3d5fa9674001557ba70ebcde9d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-58-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/58",
+   "short": "HCL Dumitrița nr. 58/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 58/2018 Privind aprobarea/respingerea conditiilor de incheiere a Actului aditional nr.8 la Contractul de achizitie publica a serviciului public de salubrizare respectiv \"Activitatea de colectare si transport al deseurilor municipale si managementul Statiilor de Transfer si",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-08-27",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/hcl-58.pdf",
+     "sha256": "727c02f9acd23fc6ef85ff0f0293a8724ce6fde8ff5b38fca5e00a6549559b19"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--dumitrita-6-2018",
    "path": "local/bistrita-nasaud/dumitrita/2018/6",
    "short": "HCL Dumitrița nr. 6/2018",
@@ -29,6 +329,66 @@
      "units": 1,
      "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/HCL_6_22.01.2018.pdf",
      "sha256": "60dbbfa7a0aeae7ba487403a91537393e652a1e60890a9f4d18bfd9177fda9a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-60-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/60",
+   "short": "HCL Dumitrița nr. 60/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 60/2018 Privind modificarea H.C.L Dumitrita nr. 42/31.05.2018 cu privire la stabilirea destinatiei si a pretului maselor lemnoase inventariate conform APV nr. 523 SR Sindrila si APV nr. 525 SR Aluneasa, si a devizelor de executie al procesului de productie",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-08-27",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/hcl-60.pdf",
+     "sha256": "8776af1cdfc490c0c83c3eab411577b8bca3ff525aecba0802179201575f26b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-61-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/61",
+   "short": "HCL Dumitrița nr. 61/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 61/2018 Privind stabilirea pretului pentru lemnul de lucru si lemnul de foc rezultat in urma exploatarii masei lemnoase inventariate conform APV nr. 460 P1 Pescosu",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-08-27",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/hcl-61.pdf",
+     "sha256": "e02e34df1d62896c58d930eef7a1ade34c556aebd0fedeb698da56262b6c5572"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-7-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/7",
+   "short": "HCL Dumitrița nr. 7/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 7/2018 Privind stabilirea indemnizatiilor primarului, viceprimarului, consilierilor locali si a salariilor de baza pentru functiile publice, functiile contractuale din cadrul aparatului de specialitate al primarului comunei Dumitrita incepand cu data de 01.01.2018",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-01-22",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/HCL_7_22.01.2018.pdf",
+     "sha256": "bbcd4331f2b83d09c50edb4977276e3f500ab3976d2e385abfdff423c6381ed4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-8-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/8",
+   "short": "HCL Dumitrița nr. 8/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 8/2018 Privind stabilitea pretului pentru lemnul de lucru si lemnul de foc care va fi exploatat din padurile proprietatea comunei Dumitrita in anul 2018",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-01-22",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/HCL_8_%2022.01.2018.pdf",
+     "sha256": "3b9c1844b335935253259b2528da5e8405a6605889439c23181edc600bea4dff"
     }
    ]
   }

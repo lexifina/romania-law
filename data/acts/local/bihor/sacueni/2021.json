@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-bihor--sacueni-5-2021",
+"path": "local/bihor/sacueni/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 5/2021 privind schimbarea destinației temporară a unor imobile din orașul Săcueni în Centru de vaccinare",
+"short": "HCL Săcueni nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-07",
+"latest": "2021-01-07",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/14928",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacueni-6-2021",
 "path": "local/bihor/sacueni/2021/6",
 "kind": "local",
@@ -110,6 +132,28 @@
 "council_name": "Consiliul Local al Orașului Săcueni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-7-2021",
+"path": "local/bihor/sacueni/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 7/2021 privind schimbarea destinației temporare a unor imobile din orașul Săcueni în cetru de vaccinare",
+"short": "HCL Săcueni nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-07",
+"latest": "2021-01-07",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/14930",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

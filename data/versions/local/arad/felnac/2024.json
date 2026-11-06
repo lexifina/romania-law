@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/arad/felnac/2024",
+ "acts": [
+  {
+   "slug": "hcl-arad--felnac-2-2024",
+   "path": "local/arad/felnac/2024/2",
+   "short": "HCL Felnac nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Felnac nr. 2/2024",
+   "url": "https://primaria-felnac.ro/wp-content/uploads/2024/04/Hotararea-BEC-32-Felnac-nr.-2-din-26.04.2024-admitere-candidatura-PRIMAR-PSD.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://primaria-felnac.ro/wp-content/uploads/2024/04/Hotararea-BEC-32-Felnac-nr.-2-din-26.04.2024-admitere-candidatura-PRIMAR-PSD.pdf",
+     "sha256": "bda48564a0755400fb8d00b8fa59114df3dff3b595ab8707a4cf715357516b36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--felnac-3-2024",
+   "path": "local/arad/felnac/2024/3",
+   "short": "HCL Felnac nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Felnac nr. 3/2024",
+   "url": "https://primaria-felnac.ro/wp-content/uploads/2024/04/Hotararea-BEC-32-Felnac-nr.-3-din-26.04.2024-admitere-candidaturi-consiliul-local-PSD.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://primaria-felnac.ro/wp-content/uploads/2024/04/Hotararea-BEC-32-Felnac-nr.-3-din-26.04.2024-admitere-candidaturi-consiliul-local-PSD.pdf",
+     "sha256": "6ebd7f839e627b20d924262bf0367131ce4e44b03f63025e378e8b80b82f1e6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--felnac-4-2024",
+   "path": "local/arad/felnac/2024/4",
+   "short": "HCL Felnac nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Felnac nr. 4/2024",
+   "url": "https://primaria-felnac.ro/wp-content/uploads/2024/04/Hotararea-BEC-32-Felnac-nr.-4-din-29.04.2024-admitere-candidaturi-consiliul-local-Uniunea-Sarbilor-din-Romania-1.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://primaria-felnac.ro/wp-content/uploads/2024/04/Hotararea-BEC-32-Felnac-nr.-4-din-29.04.2024-admitere-candidaturi-consiliul-local-Uniunea-Sarbilor-din-Romania-1.pdf",
+     "sha256": "e092e81297e769d9b7c07b4fed292c6f32d2739b028fc24ef5f6858327e45fa1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--felnac-5-2024",
+   "path": "local/arad/felnac/2024/5",
+   "short": "HCL Felnac nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Felnac nr. 5/2024",
+   "url": "https://primaria-felnac.ro/wp-content/uploads/2024/05/Hotararea-BEC-32-Felnac-nr.-5-din-30.04.2024-admitere-candidatura-PRIMAR-PNL-2.pdf",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://primaria-felnac.ro/wp-content/uploads/2024/05/Hotararea-BEC-32-Felnac-nr.-5-din-30.04.2024-admitere-candidatura-PRIMAR-PNL-2.pdf",
+     "sha256": "ae7ba7a6a59d7d8de3a9d9f43f0a755430a5c53c6ac071cfd780d47e0630b335"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--felnac-6-2024",
+   "path": "local/arad/felnac/2024/6",
+   "short": "HCL Felnac nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Felnac nr. 6/2024",
+   "url": "https://primaria-felnac.ro/wp-content/uploads/2024/05/Hotararea-BEC-32-Felnac-nr.-6-din-30.04.2024-admitere-candidaturi-consiliul-local-PNL.pdf",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://primaria-felnac.ro/wp-content/uploads/2024/05/Hotararea-BEC-32-Felnac-nr.-6-din-30.04.2024-admitere-candidaturi-consiliul-local-PNL.pdf",
+     "sha256": "616239832a61c1fc3be9195e6cd417205c51f0049e312518527718fd60288539"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,21 @@
  "shard": "anexa/2007",
  "acts": [
   {
+   "slug": "anexa-decizie-anrgn-183-2007-anexa",
+   "path": "anexa/decizie-anrgn-183-2007/anexa",
+   "short": "Anexa la Decizia anrgn nr. 183/2007",
+   "title": "Metodologie din 12 martie 2007 de monitorizare a pieței interne a gazelor naturale (anexa la Decizia ANRGN nr. 183/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80857",
+   "versions": [
+    {
+     "from": "2007-04-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80857",
+     "sha256": "544996fdb4595988555d09211000d706fa079f707a81a951889c9c4edba62890"
+    }
+   ]
+  },
+  {
    "slug": "anexa-decizie-cnpp-375-2007-anexa",
    "path": "anexa/decizie-cnpp-375-2007/anexa",
    "short": "Anexa la Decizia cnpp nr. 375/2007",
@@ -498,6 +513,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-731-2007-anexa",
+   "path": "anexa/hg-731-2007/anexa",
+   "short": "Anexa la HG nr. 731/2007",
+   "title": "Norme metodologice din 4 iulie 2007 (*republicată*) de aplicare a Ordonanței Guvernului nr. 14/2007 pentru reglementarea modului și condițiilor de valorificare a bunurilor intrate, potrivit legii, în proprietatea privată a statului (anexa la Hotărârea Guvernului nr. 731/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104834",
+   "versions": [
+    {
+     "from": "2009-04-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104834",
+     "sha256": "2e1c5f08c76bfa80d4033ce34ddbc18c7589b382116af14856018099426ee8c3"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-745-2007-anexa",
    "path": "anexa/hg-745-2007/anexa",
    "short": "Anexa la HG nr. 745/2007",
@@ -539,6 +569,21 @@
      "units": 27,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84187",
      "sha256": "df708b2bfc22a4f2c27e68dd49541e1049ade5d453b9885d2c1465d6c78c3096"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-892-2007-anexa",
+   "path": "anexa/hg-892-2007/anexa",
+   "short": "Anexa la HG nr. 892/2007",
+   "title": "Norme metodologice din 1 august 2007 privind finanțarea proiectelor și programelor din Fondul național de dezvoltare la dispoziția Guvernului (anexa la Hotărârea Guvernului nr. 892/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84516",
+   "versions": [
+    {
+     "from": "2007-08-16",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84516",
+     "sha256": "6a666735c36f5b4fde022fbc36541f80b0f141c1e49d8a3af5ddfe3b3889ae63"
     }
    ]
   },
@@ -633,6 +678,21 @@
    ]
   },
   {
+   "slug": "anexa-hotarare-cifga-72-2007-anexa",
+   "path": "anexa/hotarare-cifga-72-2007/anexa",
+   "short": "Anexa la Hotărârea cifga nr. 72/2007",
+   "title": "Norme de finanțare din 6 septembrie 2007 cu dobândă subvenționată a operatorilor economici, în numele și în contul statului (cod ISO NI-FIN-06-II/0) (anexa la Hotărârea CIFGA nr. 72/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85709",
+   "versions": [
+    {
+     "from": "2007-09-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85709",
+     "sha256": "32fb2e041eda64a2b42164985315ac6c51a5aefd7813ce632c531883761751ac"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hotarare-cifga-73-2007-anexa",
    "path": "anexa/hotarare-cifga-73-2007/anexa",
    "short": "Anexa la Hotărârea cifga nr. 73/2007",
@@ -644,6 +704,21 @@
      "units": 34,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85557",
      "sha256": "66a8748ba8b913ac19f81e7898939236923b41f65f14785ca5e465dd5801d62a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-cifga-82-2007-anexa",
+   "path": "anexa/hotarare-cifga-82-2007/anexa",
+   "short": "Anexa la Hotărârea cifga nr. 82/2007",
+   "title": "Norme din 20 septembrie 2007 privind derularea activității de emitere în numele și în contul statului a garanției pentru întreprinderi mici și mijlocii (cod ISO: NI-GAR-05-II/0) (anexa la Hotărârea CIFGA nr. 82/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85961",
+   "versions": [
+    {
+     "from": "2007-10-08",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85961",
+     "sha256": "37fe69fcc20916c77e9aff4f95813ebe40d467389c51b28ad442ceb266311df7"
     }
    ]
   },
@@ -674,6 +749,21 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80163",
      "sha256": "de68a03ee208748d7288b7c45d1d1f8a8971fa91c4e862408a2e4da1d93ddeb2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-325-2007-anexa",
+   "path": "anexa/ordin-agricultura-325-2007/anexa",
+   "short": "Anexa la Ordin agricultura nr. 325/2007",
+   "title": "Norme din 10 aprilie 2007 privind atribuirea dreptului de pescuit în scop comercial în bazinele piscicole naturale (anexa la Ordinul AGRICULTURA nr. 325/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82844",
+   "versions": [
+    {
+     "from": "2007-06-14",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82844",
+     "sha256": "2aaf1c5e17a4b4f59de393d90e27d16ebf37f136746b036e4d59d4757739ee48"
     }
    ]
   },
@@ -779,6 +869,96 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87558",
      "sha256": "2a3fd4c9637a8f0dc669daae4b5965104babab936865a855560bba7a92593c72"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-24-2007-anexa",
+   "path": "anexa/ordin-anre-24-2007/anexa",
+   "short": "Anexa la Ordin anre nr. 24/2007",
+   "title": "Regulament din 20 iulie 2007 pentru atestarea operatorilor economici care proiectează, execută, verifică și exploatează instalații electrice din sistemul electroenergetic (anexa la Ordinul ANRE nr. 24/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85039",
+   "versions": [
+    {
+     "from": "2007-09-03",
+     "units": 65,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85039",
+     "sha256": "88ac0136bdeb057c612b6e9daccaf9300d1ff248e3e52c52c31d280f1d6acd16"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-25-2007-anexa",
+   "path": "anexa/ordin-anre-25-2007/anexa",
+   "short": "Anexa la Ordin anre nr. 25/2007",
+   "title": "Regulament din 20 iulie 2007 pentru autorizarea electricienilor care proiectează, execută, verifică și exploatează instalații electrice din sistemul electroenergetic (anexa la Ordinul ANRE nr. 25/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85162",
+   "versions": [
+    {
+     "from": "2007-09-05",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85162",
+     "sha256": "4fb7a28e72245749602b017b60d0c0ee83e709969cd34eb49766903b47b19da9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-28-2007-anexa",
+   "path": "anexa/ordin-anre-28-2007/anexa",
+   "short": "Anexa la Ordin anre nr. 28/2007",
+   "title": "Standard de performanță din 30 august 2007 pentru serviciul de distribuție a energiei electrice (anexa la Ordinul ANRE nr. 28/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86828",
+   "versions": [
+    {
+     "from": "2007-11-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86828",
+     "sha256": "7340f51d1ce20c885ce7f352a298a95919545cf708a83adda0d10e4042f68bad"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-4-2007-anexa",
+   "path": "anexa/ordin-anre-4-2007/anexa",
+   "short": "Anexa la Ordin anre nr. 4/2007",
+   "title": "Normă tehnică din 9 martie 2007 privind delimitarea zonelor de protecție și de siguranță aferente capacităților energetice - revizia I (anexa la Ordinul ANRE nr. 4/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81262",
+   "versions": [
+    {
+     "from": "2007-04-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81262",
+     "sha256": "7359716830abaa6173cd66fe691be99cfd3d2b0bfc06784ad24a90f2a5180c68"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-46-2007-anexa",
+   "path": "anexa/ordin-anre-46-2007/anexa",
+   "short": "Anexa la Ordin anre nr. 46/2007",
+   "title": "Regulament din 8 noiembrie 2007 pentru atestarea operatorilor de măsurare a energiei electrice în Sistemul energetic național (anexa la Ordinul ANRE nr. 46/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88204",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88204",
+     "sha256": "356cab16cc88cbacd1aee5f2d2a5ced7b2c2929e362f72834a776f41f52262ef"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anre-62-2007-anexa",
+   "path": "anexa/ordin-anre-62-2007/anexa",
+   "short": "Anexa la Ordin anre nr. 62/2007",
+   "title": "Metodologie din 18 decembrie 2007 de monitorizare a pieței interne a gazelor naturale (anexa la Ordinul ANRE nr. 62/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88479",
+   "versions": [
+    {
+     "from": "2008-01-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88479",
+     "sha256": "23d4b97fa2d23a3b88fe0777b64511a07786b7433a05e532fd8572dedd30f75c"
     }
    ]
   },
@@ -978,6 +1158,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-ansvsa-29-2007-anexa",
+   "path": "anexa/ordin-ansvsa-29-2007/anexa",
+   "short": "Anexa la Ordin ansvsa nr. 29/2007",
+   "title": "Normă sanitară veterinară din 13 februarie 2007 privind furajele destinate unor scopuri nutriționale speciale (anexa la Ordinul ANSVSA nr. 29/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79709",
+   "versions": [
+    {
+     "from": "2007-02-22",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79709",
+     "sha256": "47e65be0d8b8e51f6f86a53ee28027c46af37ca5f040a3c243914dc2a8267049"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-ansvsa-38-2007-anexa",
    "path": "anexa/ordin-ansvsa-38-2007/anexa",
    "short": "Anexa la Ordin ansvsa nr. 38/2007",
@@ -1034,6 +1229,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79411",
      "sha256": "36e64217a016148c309c3ee74e7a2cb274981c68eacdfef1cc81359c4a877c39"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-ansvsa-85-2007-anexa",
+   "path": "anexa/ordin-ansvsa-85-2007/anexa",
+   "short": "Anexa la Ordin ansvsa nr. 85/2007",
+   "title": "Instrucțiuni din 23 martie 2007 pentru organizarea și desfășurarea activității de control oficial în unitățile de prelucrare, procesare, depozitare, transport, valorificare și comercializare a produselor și subproduselor de origine nonanimală (anexa la Ordinul ANSVSA nr. 85/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81006",
+   "versions": [
+    {
+     "from": "2007-04-06",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81006",
+     "sha256": "cb245abfe01e6a312a72c923fef6cbd7f7fca8d6f6ca2e177ecf00a59b22b263"
     }
    ]
   },
@@ -1124,6 +1334,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88293",
      "sha256": "1c65868070e1f32ecae0a5cbd9cf2265d3a16ec5778600ebbb9db02fdc9acf38"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cncan-303-2007-anexa",
+   "path": "anexa/ordin-cncan-303-2007/anexa",
+   "short": "Anexa la Ordin cncan nr. 303/2007",
+   "title": "Ghid din 29 august 2007 privind protecția fizică a materialelor nucleare în timpul transportului (anexa la Ordinul CNCAN nr. 303/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85653",
+   "versions": [
+    {
+     "from": "2007-09-26",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85653",
+     "sha256": "79853898f2cbef4fd6eae87aed7c91b5e82f041bf5a401982797338560ec12b8"
     }
    ]
   },
@@ -1338,6 +1563,21 @@
    ]
   },
   {
+   "slug": "anexa-ordin-finante-2067-2007-anexa",
+   "path": "anexa/ordin-finante-2067-2007/anexa",
+   "short": "Anexa la Ordin finante nr. 2067/2007",
+   "title": "Norme din 16 noiembrie 2007 privind aplicarea scutirii de taxă pe valoarea adăugată prevăzute la art. 143 alin. (1) lit. j), k), l) și m) din Legea nr. 571/2003 privind Codul fiscal, cu modificările și completările ulterioare, și la art. X și XI din Acordul dintre România și Statele Unite ale Americii privind statutul forțelor Statelor Unite ale Americii în România, semnat la Washington la 30 octombrie 2001, ratificat prin Legea nr. 260/2002 (anexa la Ordinul FINANTE nr. 2067/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87381",
+   "versions": [
+    {
+     "from": "2007-12-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87381",
+     "sha256": "71516291bec77de2abf232f86c2b9c6c4c87de443e6742e10adedfdfa51880db"
+    }
+   ]
+  },
+  {
    "slug": "anexa-ordin-finante-269-2007-anexa",
    "path": "anexa/ordin-finante-269-2007/anexa",
    "short": "Anexa la Ordin finante nr. 269/2007",
@@ -1394,6 +1634,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83640",
      "sha256": "e438bb304436d172f8f9ecec930d58c270e876d5be5b18a1f7e481bb2d4ff50d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-616-2007-anexa",
+   "path": "anexa/ordin-finante-616-2007/anexa",
+   "short": "Anexa la Ordin finante nr. 616/2007",
+   "title": "Norme din 29 iunie 2007 privind aplicarea scutirii de taxă pe valoarea adăugată prevăzute la art. 143 alin. (1) lit. j), k), l) și m) din Legea nr. 571/2003 privind Codul fiscal, cu modificările și completările ulterioare, și la art. X și XI din Acordul dintre România și Statele Unite ale Americii privind statutul forțelor Statelor Unite ale Americii în România, semnat la Washington la 30 octombrie 2001, ratificat prin Legea nr. 260/2002 (anexa la Ordinul FINANTE nr. 616/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84557",
+   "versions": [
+    {
+     "from": "2007-09-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84557",
+     "sha256": "cd1e7f378be8df485324774afe0e45f66ae72a0b653ae380754d8436c43c6efa"
     }
    ]
   },
@@ -1694,6 +1949,21 @@
      "units": 72,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87464",
      "sha256": "2462a96602aefb3fc4a6a1e66978cd34725a9b7a1e3359363a7c9ce90d10d460"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-isc-500-2007-anexa",
+   "path": "anexa/ordin-isc-500-2007/anexa",
+   "short": "Anexa la Ordin isc nr. 500/2007",
+   "title": "Procedură din 5 iulie 2007 privind emiterea acordului de către Inspectoratul de Stat în Construcții - I.S.C. pentru intervenții în timp asupra construcțiilor existente (anexa la Ordinul ISC nr. 500/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84295",
+   "versions": [
+    {
+     "from": "2007-08-09",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84295",
+     "sha256": "8068a1bb81b1284a2d5a0408f5f91ea6f23b8b7a4d31732d7770efd4847ccddf"
     }
    ]
   },

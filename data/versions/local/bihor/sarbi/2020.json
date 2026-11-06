@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/sarbi/2020",
+ "acts": [
+  {
+   "slug": "hcl-bihor--sarbi-20-2020",
+   "path": "local/bihor/sarbi/2020/20",
+   "short": "HCL Sârbi nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbi nr. 20/2020",
+   "url": "https://comunasarbi.ro/wp-content/uploads/2020/11/HCL-nr.-20-din-22.01.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://comunasarbi.ro/wp-content/uploads/2020/11/HCL-nr.-20-din-22.01.2020.pdf",
+     "sha256": "73a52ec5aeb273345fdd4c50102c399742de1db25d9bbe0b0967659cc7e2a45f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sarbi-9-2020",
+   "path": "local/bihor/sarbi/2020/9",
+   "short": "HCL Sârbi nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbi nr. 9/2020",
+   "url": "https://comunasarbi.ro/wp-content/uploads/2020/11/HCL-nr.-9-din-22.01.2020-1.pdf",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://comunasarbi.ro/wp-content/uploads/2020/11/HCL-nr.-9-din-22.01.2020-1.pdf",
+     "sha256": "33d5799d2a312ba2cfe298c9c18b00db8af75750f0d904a394156b8b0f4359ab"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/caiuti/2024",
+ "acts": [
+  {
+   "slug": "hcl-bacau--caiuti-2-2024",
+   "path": "local/bacau/caiuti/2024/2",
+   "short": "HCL Căiuți nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 2/2024 pentru prevenirea impactului negativ al temeraturilor crescute asupra starii de sanatate a populatiei Vizualizare",
+   "url": "http://www.primariacaiuti.ro/",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv95SZ4SAhBGnzatCGX8moJYdTN3R6fIflrfgRdju6tbHApmtq07Gjx8I8b6XMdpH_H2uz0Jv4YeMnbeE24kwrSvbRN8cP6Lsn6lYrI2FXHCH85hOog7oScDK6xfjpcFNA1EvZ07rGtl6nF8yeD8420781RFZxfyAkFibzwAaGIxl4M2CiEc",
+     "sha256": "f63007f10f59f627a36ad403ced1eaa71c84e3c311a1982f42842c72ef8d8dff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-32-2024",
+   "path": "local/bacau/caiuti/2024/32",
+   "short": "HCL Căiuți nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 32/2024",
+   "url": "https://www.primariacaiuti.ro/monitorul-oficial-local/regulamentele-privind-procedurile-administrative/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv94TgVM2nDeH6BQi8pabvdUzTFq8BK-DpSgDE-MTnfUmWMHHqNnh4YnhATdcuIR2LqwANw2Vwgmt5uVveW8Zkxm6r0K7EsGGlJG6p-uxEdIm9WAIBuZlGgxc1m56UdrM4akywyyr3l1MN-jAJPkUbTvT0a1rNgWTnIHpWMQDe5k8Q1U35_o",
+     "sha256": "65c5d832c99cc78b436546e6843c72ddb2beb7d8ddba82a1cabfd941ddf18f49"
+    }
+   ]
+  }
+ ]
+}
