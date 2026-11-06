@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/fundu-moldovei/2023",
+ "acts": [
+  {
+   "slug": "hcl-suceava--fundu-moldovei-81-2023",
+   "path": "local/suceava/fundu-moldovei/2023/81",
+   "short": "HCL Fundu Moldovei nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 81/2023 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul local al comunei Fundu Moldovei, pe anul 2024",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/135518",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/135518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-84-2023",
+   "path": "local/suceava/fundu-moldovei/2023/84",
+   "short": "HCL Fundu Moldovei nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 84/2023 privind rectificarea bugetului local de venituri și cheltuieli al comunei Fundu Moldovei, județul Suceava pe anul 2023",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/135521",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/135521",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

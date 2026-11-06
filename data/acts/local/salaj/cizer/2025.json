@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/salaj/cizer/2025",
+"acts": [
+{
+"slug": "hcl-salaj--cizer-75-2025",
+"path": "local/salaj/cizer/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 75/2025 privind aprobarea Devizului General pentru realizarea obiectivului de investiții ,, EXTINDERE REŢEA ALIMETARE CU APĂ ÎN LOCALITATEA CIZER, COMUNA CIZER, JUDEŢUL SĂLAJ\"",
+"short": "HCL Cizer nr. 75/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/229999",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--cizer-82-2025",
+"path": "local/salaj/cizer/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 82/2025 privind rectificarea bugetului local de venituri şi cheltuieli şi validarea Dispoziţiei primarului nr. 163 din 30.09.2025 privind rectificarea bugetului local de venituri şi cheltuieli pentru anul 2025",
+"short": "HCL Cizer nr. 82/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/237075",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--cizer-89-2025",
+"path": "local/salaj/cizer/2025/89",
+"kind": "local",
+"year": "2025",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 89/2025 privind rectificarea bugetului local de venituri şi cheltuieli pentru anul 2025",
+"short": "HCL Cizer nr. 89/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-11",
+"latest": "2025-12-11",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/240246",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--cizer-90-2025",
+"path": "local/salaj/cizer/2025/90",
+"kind": "local",
+"year": "2025",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 90/2025 privind rectificarea bugetului local de venituri şi cheltuieli şi validarea Dispoziţiei primarului nr. 197 din 17.12.2025 privind rectificarea bugetului local de venituri şi cheltuieli pentru anul 2025",
+"short": "HCL Cizer nr. 90/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/243050",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

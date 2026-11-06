@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/paulesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-prahova--paulesti-150-2023",
+   "path": "local/prahova/paulesti/2023/150",
+   "short": "HCL Păulești nr. 150/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 150/2023 privind aprobarea documentației P.U.Z - SCHIMBARE DESTINAȚIE TEREN (S=18406 MP) DIN ZONĂ MIXTĂ INDUSTRIE NEPOLUANTĂ ȘI SERVICII ÎN ZONĂ INSTITUȚII ȘI SERVICII (Sstud. = 23389 mp)",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/129896",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/129896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-151-2023",
+   "path": "local/prahova/paulesti/2023/151",
+   "short": "HCL Păulești nr. 151/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 151/2023 privind majorarea capitalului social al societatii APA-CANAL PAULESTI SRL, prin aport in numerar",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/129897",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/129897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-152-2023",
+   "path": "local/prahova/paulesti/2023/152",
+   "short": "HCL Păulești nr. 152/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 152/2023 privind rectificarea bugetului local al comunei Păulești, luna noiembrie 2023",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/129898",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/129898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-153-2023",
+   "path": "local/prahova/paulesti/2023/153",
+   "short": "HCL Păulești nr. 153/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 153/2023 privind însuşirea raportului de evaluare pentru stabilirea valorii de piață a terenului în suprafață de 7600 mp, nr.cad. 32399, în vederea achiziționării",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/129899",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/129899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-154-2023",
+   "path": "local/prahova/paulesti/2023/154",
+   "short": "HCL Păulești nr. 154/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 154/2023",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/130423",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/130423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-155-2023",
+   "path": "local/prahova/paulesti/2023/155",
+   "short": "HCL Păulești nr. 155/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 155/2023",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/131869",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/131869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-158-2023",
+   "path": "local/prahova/paulesti/2023/158",
+   "short": "HCL Păulești nr. 158/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 158/2023 privind reorganizarea structurii organizatorice a aparatului de specialitate al Primarului Comunei Păulești precum și al serviciilor publice din subordinea Consiliului Local Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/133191",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/133191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-159-2023",
+   "path": "local/prahova/paulesti/2023/159",
+   "short": "HCL Păulești nr. 159/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 159/2023 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru lucrarea ,,Extindere rețele electrice comuna Păulești, zona str.Nicolae Iorga - str.Grădinilor",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/133192",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/133192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-160-2023",
+   "path": "local/prahova/paulesti/2023/160",
+   "short": "HCL Păulești nr. 160/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 160/2023 privind acceptarea donației unor suprafețe de teren cu destinație ulterioară de drum public",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/133193",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/133193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-162-2023",
+   "path": "local/prahova/paulesti/2023/162",
+   "short": "HCL Păulești nr. 162/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 162/2023 privind aprobarea Regulamentului de Organizare și Funcționare al aparatului de specialitate al Primarului Comunei Păulești precum și al serviciilor publice înființate în subordinea Consiliului Local Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/133195",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/133195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-163-2023",
+   "path": "local/prahova/paulesti/2023/163",
+   "short": "HCL Păulești nr. 163/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 163/2023 privind rectificarea bugetului local al comunei Păulești, luna decembrie 2023",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/133196",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/133196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-164-2023",
+   "path": "local/prahova/paulesti/2023/164",
+   "short": "HCL Păulești nr. 164/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 164/2023 privind stabilirea taxelor și a impozitelor locale, precum și a taxelor speciale, pentru anul fiscal 2024",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/133197",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/133197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-166-2023",
+   "path": "local/prahova/paulesti/2023/166",
+   "short": "HCL Păulești nr. 166/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 166/2023 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru lucrarea ,,Rețea canalizare pe str.Livezilor, Stație Epurare - DJ 102",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/133199",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/133199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-167-2023",
+   "path": "local/prahova/paulesti/2023/167",
+   "short": "HCL Păulești nr. 167/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 167/2023 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții ,,Modernizare drumuri și străzi în satele Păulești și Păuleștii Noi, comuna Păulești, județ Prahova,, aprobat pentru finanțare prin Programul Național de Investiții ,,Anghel Saligny,,",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/133329",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/133329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-168-2023",
+   "path": "local/prahova/paulesti/2023/168",
+   "short": "HCL Păulești nr. 168/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 168/2023 privind rectificarea bugetului local al comunei Păulești, luna decembrie 2023",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/133558",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/133558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-169-2023",
+   "path": "local/prahova/paulesti/2023/169",
+   "short": "HCL Păulești nr. 169/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 169/2023 privind rectificarea bugetului local al comunei Păulești, luna decembrie 2023",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/134708",
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/134708",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/suceava/forasti/2025",
+"acts": [
+{
+"slug": "hcl-suceava--forasti-70-2025",
+"path": "local/suceava/forasti/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 70/2025 privind actualizarea indicatorilor tehnico-economici și a Devizului general pentru obiectivul de investiții ''Înființare sistem inteligent de distribuție gaze naturale în comuna Forăști cu satele Forăști, Antoceni, Oniceni, Roșiori, Uidești, Tolești, Manolea, Boura, județul Suceava'' în cadrul Programului Național de Investiții ''Anghel Saligny''",
+"short": "HCL Forăști nr. 70/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/240520",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--forasti-72-2025",
+"path": "local/suceava/forasti/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 72/2025 privind aprobarea documentaței tehnico-economice (faza SF) și a indicatorilor tehnico-economici pentru obiectivul de investiții ''Construire spațiu de garare pentru autovehiculele din dotarea serviciilor publice ale comunei Forăști, județul Suceava''",
+"short": "HCL Forăști nr. 72/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/240522",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--forasti-73-2025",
+"path": "local/suceava/forasti/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 73/2025 privind rectificarea bugetului local de venituri și cheltuieli și a Listei de investiții",
+"short": "HCL Forăști nr. 73/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/240524",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--forasti-74-2025",
+"path": "local/suceava/forasti/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 74/2025 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice de la Școala Gimnazială Oniceni",
+"short": "HCL Forăști nr. 74/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/240525",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--forasti-75-2025",
+"path": "local/suceava/forasti/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 75/2025 privind implementarea proiectului ''Construire spațiu de garare pentru autovehiculele din dotarea serviciilor publice ale comunei Forăști, județul Suceava''",
+"short": "HCL Forăști nr. 75/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/240650",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--forasti-80-2025",
+"path": "local/suceava/forasti/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 80/2025 privind aprobarea execuției bugetului întocmit pe secțiunile funcționare și dezvoltare",
+"short": "HCL Forăști nr. 80/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/240536",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

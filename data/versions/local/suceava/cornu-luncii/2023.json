@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/cornu-luncii/2023",
+ "acts": [
+  {
+   "slug": "hcl-suceava--cornu-luncii-10-2023",
+   "path": "local/suceava/cornu-luncii/2023/10",
+   "short": "HCL Cornu Luncii nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 10/2023",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/102852",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/102852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-2-2023",
+   "path": "local/suceava/cornu-luncii/2023/2",
+   "short": "HCL Cornu Luncii nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 2/2023 privind aprobarea utilizării în cursul anului 2023 a excedentului anual al bugetului local, rezultat la încheierea exercițiului bugetar al anului 2022",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/102843",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/102843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-6-2023",
+   "path": "local/suceava/cornu-luncii/2023/6",
+   "short": "HCL Cornu Luncii nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 6/2023 privind aprobarea bugetului local de venituri și cheltuieli, al bugetului activităților finanțate integral sau parțial din venituri proprii și al bugetului creditelor interne pe anul 2023",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/102848",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/102848",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

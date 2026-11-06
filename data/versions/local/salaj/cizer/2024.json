@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/salaj/cizer/2024",
+ "acts": [
+  {
+   "slug": "hcl-salaj--cizer-57-2024",
+   "path": "local/salaj/cizer/2024/57",
+   "short": "HCL Cizer nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 57/2024 privind rectificarea bugetului local de venituri şi cheltuieli pentru anul 2024",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/176951",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/176951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-58-2024",
+   "path": "local/salaj/cizer/2024/58",
+   "short": "HCL Cizer nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 58/2024 privind validarea DispoziţiiIor primarului nr. 233 din 21.10.2024 şi nr. 260 din 12.11.2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/176952",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/176952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-70-2024",
+   "path": "local/salaj/cizer/2024/70",
+   "short": "HCL Cizer nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 70/2024 privind rectificarea bugetului local de venituri şi cheltuieli pentru anul 2024",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/180798",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/180798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-72-2024",
+   "path": "local/salaj/cizer/2024/72",
+   "short": "HCL Cizer nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 72/2024 privind rectificarea bugetului local de venituri şi cheltuieli pentru anul 2024",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/183662",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/183662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-73-2024",
+   "path": "local/salaj/cizer/2024/73",
+   "short": "HCL Cizer nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 73/2024 privind validarea Dispoziţia primarului nr. 287 din 13.12.2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/183663",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/183663",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

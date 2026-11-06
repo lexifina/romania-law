@@ -1,0 +1,182 @@
+{
+"country": "RO",
+"shard": "local/sibiu/sadu/2025",
+"acts": [
+{
+"slug": "hcl-sibiu--sadu-96-2025",
+"path": "local/sibiu/sadu/2025/96",
+"kind": "local",
+"year": "2025",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 96/2025 privind stabilirea nivelurilor impozitului pe mijloacele de transport, în cazul unui autovehicul de transport de marfă cu masa totală autorizată egală sau mai mare de 12 tone, precum și în cazul unei combinaţii de autovehicule, un autovehicul articulat sau tren rutier, de transport de marfă cu masa totală maximă autorizată egală sau mai mare de 12 tone, aplicabile în anul fiscal 2026",
+"short": "HCL Sadu nr. 96/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/232238",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-105-2025",
+"path": "local/sibiu/sadu/2025/105",
+"kind": "local",
+"year": "2025",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 105/2025 privind aprobarea Procedurii de publicare a listei debitorilor persoane juridice care înregistrează obligații fiscale restante, precum şi cuantumul acestor obligaţii și a Procedurii de publicare a listei contribuabililor persoane juridice care nu au obligaţii restante",
+"short": "HCL Sadu nr. 105/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/237216",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-108-2025",
+"path": "local/sibiu/sadu/2025/108",
+"kind": "local",
+"year": "2025",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 108/2025 privind acordarea pungilor de Moș Crăciun pentru copiii de pe raza comunei Sadu",
+"short": "HCL Sadu nr. 108/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/241774",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-109-2025",
+"path": "local/sibiu/sadu/2025/109",
+"kind": "local",
+"year": "2025",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 109/2025 privind stabilirea taxei speciale de salubrizare pentru anul 2026 la nivelul comunei Sadu",
+"short": "HCL Sadu nr. 109/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/241775",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-110-2025",
+"path": "local/sibiu/sadu/2025/110",
+"kind": "local",
+"year": "2025",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 110/2025 privind organizarea rețelei școlare la nivelul comunei Sadu pentru anul şcolar 2026-2027",
+"short": "HCL Sadu nr. 110/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/241776",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-113-2025",
+"path": "local/sibiu/sadu/2025/113",
+"kind": "local",
+"year": "2025",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 113/2025 privind aprobarea prețului de referință pe picior al unui metru cub de lemn folosit la calculul prețului APV și a metodologiei folosite pentru calculul prețului de APV pentru partizile ce urmează a fi scoase la licitație în anul 2026, provenite din fondul forestier proprietate publică a comunei Sadu",
+"short": "HCL Sadu nr. 113/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/241779",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-114-2025",
+"path": "local/sibiu/sadu/2025/114",
+"kind": "local",
+"year": "2025",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 114/2025 privind aprobarea volumului și a prețurilor pentru valorificarea masei lemnoase provenite din fondul forestier proprietate publică a comunei Sadu, pentru anul 2026",
+"short": "HCL Sadu nr. 114/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/241780",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-115-2025",
+"path": "local/sibiu/sadu/2025/115",
+"kind": "local",
+"year": "2025",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 115/2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pentru anul 2026 la nivelul comunei Sadu",
+"short": "HCL Sadu nr. 115/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/241781",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

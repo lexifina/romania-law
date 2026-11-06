@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Gura Râului nr. 103/2024 privind mandatarea primarului Comunei Gura Raului ca reprezentant al Comunei Gura Raului în Adunarea Generală a Asociației de Dezvoltare Intercomunitară “ECO” Sibiu să voteze “împotriva” aprobării ajustării tarifului pentru activitatea de depozitare a deșeurilor reziduale din Județul Sibiu
+
+HCL Gura Râului nr. 103/2024 · 1 versions, from 2024-12-04 (latest in force: 2024-12-04) · <https://emol.ro/guraraului-sb/registru-hcl/178732>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-sibiu--gura-raului-103-2024` (tags `hcl-sibiu--gura-raului-103-2024/<day>`; `python tools/on.py <day> hcl-sibiu--gura-raului-103-2024`).
+
+## Decisions made by hand
+
+- HCL Gura Râului nr. 103/2024: listed from Consiliul Local al Comunei Gura Râului (emol.ro); metadata only for now: no document of it is held.
+- HCL Gura Râului nr. 103/2024: dated from 4 December 2024, the day the council's register gives it as published (adopted 26 November 2024).
+- HCL Gura Râului nr. 103/2024: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

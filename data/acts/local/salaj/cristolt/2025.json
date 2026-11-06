@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/salaj/cristolt/2025",
+"acts": [
+{
+"slug": "hcl-salaj--cristolt-52-2025",
+"path": "local/salaj/cristolt/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 52/2025 privind rectificarea bugetului local pe anul 2025",
+"short": "HCL Cristolț nr. 52/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-21",
+"latest": "2025-11-21",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/234789",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-54-2025",
+"path": "local/salaj/cristolt/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 54/2025 privind modificarea și completarea actualizarii Planului Anual de Achizitii Publice, pe anul 2025",
+"short": "HCL Cristolț nr. 54/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-21",
+"latest": "2025-11-21",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/234791",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-60-2025",
+"path": "local/salaj/cristolt/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 60/2025 privind rectificarea bugetului local pe anul 2025",
+"short": "HCL Cristolț nr. 60/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/240544",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

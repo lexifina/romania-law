@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/olari/2020",
+ "acts": [
+  {
+   "slug": "hcl-prahova--olari-1-2020",
+   "path": "local/prahova/olari/2020/1",
+   "short": "HCL Olari nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 1/2020 privind aprobarea excedentului bugetar al anului 2019 si utilizarea lui in anul 2020 ca sursa de finantare a cheltuielilor sectiunii de dezvoltare",
+   "url": "https://emol.ro/olari-ph/registru-hcl/294",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-2-2020",
+   "path": "local/prahova/olari/2020/2",
+   "short": "HCL Olari nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 2/2020 privind aprobarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/olari-ph/registru-hcl/295",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-3-2020",
+   "path": "local/prahova/olari/2020/3",
+   "short": "HCL Olari nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 3/2020 privind aprobarea reţelei scolare a unitatilor de invatamant preuniversitar de stat pentru anul scolar 2020-2021 din Comuna Olari",
+   "url": "https://emol.ro/olari-ph/registru-hcl/296",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-4-2020",
+   "path": "local/prahova/olari/2020/4",
+   "short": "HCL Olari nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 4/2020 privind acceptarea sponsorizarii cu puieţi forestieri primiţi de la Regia Naţională a Pădurilor – Romsilva, Directia Silvica Prahova in vederea plantării, pentru crearea de perdele de protective si suprafete de agrement si peisajistica, pe teritoriul unitatii administrativ teritoriale Olari",
+   "url": "https://emol.ro/olari-ph/registru-hcl/297",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-5-2020",
+   "path": "local/prahova/olari/2020/5",
+   "short": "HCL Olari nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 5/2020 privind aprobarea rectificarii bugetului local",
+   "url": "https://emol.ro/olari-ph/registru-hcl/1145",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/1145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-6-2020",
+   "path": "local/prahova/olari/2020/6",
+   "short": "HCL Olari nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 6/2020 privind aprobarea indicatorilor tehnico-economici pentru obiectivul ” Amenajare Parc de Joaca pentru copii, in Comuna Olari, judetul Prahova ”",
+   "url": "https://emol.ro/olari-ph/registru-hcl/1146",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/1146",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/plopu/2020",
+ "acts": [
+  {
+   "slug": "hcl-prahova--plopu-67-2020",
+   "path": "local/prahova/plopu/2020/67",
+   "short": "HCL Plopu nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 67/2020",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/9725",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/9725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-69-2020",
+   "path": "local/prahova/plopu/2020/69",
+   "short": "HCL Plopu nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 69/2020",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/9727",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/9727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-70-2020",
+   "path": "local/prahova/plopu/2020/70",
+   "short": "HCL Plopu nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 70/2020 privind ALEGEREA PRESEDINTELUI DE SEDINTA AL CONSILIULUI LOCAL PLOPU, JUDETUL PRAHOVA PENTRU LUNILE OCTOMBRIE, NOIEMBRIE SI DECEMBRIE/ 2020",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/10500",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/10500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-71-2020",
+   "path": "local/prahova/plopu/2020/71",
+   "short": "HCL Plopu nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 71/2020",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/10501",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/10501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-73-2020",
+   "path": "local/prahova/plopu/2020/73",
+   "short": "HCL Plopu nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 73/2020 privind ALEGEREA VICEPRIMARULUI COMUNEI PLOPU, JUDETUL PRAHOVA",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/12122",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/12122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-74-2020",
+   "path": "local/prahova/plopu/2020/74",
+   "short": "HCL Plopu nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 74/2020 privind CONSTITUIREA COMISIILOR DE SPECIALITATE ALE CONSILIULUI LOCAL PLOPU, JUDETUL PRAHOVA, PE PRINCIPALELE DOMENII DE ACTIVITATE",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/12123",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/12123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-76-2020",
+   "path": "local/prahova/plopu/2020/76",
+   "short": "HCL Plopu nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 76/2020 privind MODIFICAREA SI COMPLETAREA A DOUA HOTARARI ADOPTATE DE CONSILIULUI LOCAL AL COMUNEI PLOPU, JUDETUL PRAHOVA",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/12125",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/12125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-77-2020",
+   "path": "local/prahova/plopu/2020/77",
+   "short": "HCL Plopu nr. 77/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 77/2020 privind APROBAREA STRUCTURII ORGANIZATORICE A APARATULUI DE SPECIALITATE AL PRIMARULUI COMUNEI PLOPU, JUDETUL PRAHOVA",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/12126",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/12126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-78-2020",
+   "path": "local/prahova/plopu/2020/78",
+   "short": "HCL Plopu nr. 78/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 78/2020 privind APROBAREA REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE AL CONSILIULUI LOCAL AL COMUNEI PLOPU, JUDETUL PRAHOVA",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/12127",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/12127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-80-2020",
+   "path": "local/prahova/plopu/2020/80",
+   "short": "HCL Plopu nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 80/2020 privind APROBAREA RECTIFICARII BUGETULUI LOCAL AL COMUNEI PLOPU PE ANUL 2020 SI ESTIMARILE PENTRU ANII 2021 - 2023 SI A LISTEI DE INVESTITII PENTRU ANUL 2020",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/12131",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/12131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-81-2020",
+   "path": "local/prahova/plopu/2020/81",
+   "short": "HCL Plopu nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 81/2020 privind aprobarea Studiului de oportunitate, modalitãtii de dare în gestiune si a documentatiei necesare în vederea scoaterii la licitatie publicã a Serviciului Public de alimentare cu apa potabila, canalizare şi epurare apã menajerã a comunei Plopu, judetul Prahova",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/12132",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/12132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-82-2020",
+   "path": "local/prahova/plopu/2020/82",
+   "short": "HCL Plopu nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 82/2020 privind APROBAREA BUGETULUI LOCAL AL COMUNEI PLOPU, JUDETUL PRAHOVA PE ANUL 2020 SI ESTIMARI PENTRU ANII 2021 – 2023, AL PROGRAMULUI DE INVESTITII PUBLICE PE ANUL 2020 SI A LISTEI DE INVESTITII PE ANUL 2020",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/12445",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/12445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-84-2020",
+   "path": "local/prahova/plopu/2020/84",
+   "short": "HCL Plopu nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 84/2020 privind INCHEIEREA CONTRACTULUI/ CONVENTIEI DE CONSULTANTA SI REPREZENTARE JURIDICA INCHEIAT CU CABINETUL DE AVOCATURA “NEGOIŢĀ MONICA\", PENTRU PERIOADA 01.01.2021 – 31.12.2021",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/12447",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/12447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-85-2020",
+   "path": "local/prahova/plopu/2020/85",
+   "short": "HCL Plopu nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 85/2020 privind RECTIFICAREA BUGETULUI LOCAL AL COMUNEI PLOPU, JUDETUL PRAHOVA, PE ANUL 2020 SI ESTIMARI PENTRU ANII 2021 – 2023 SI A LISTEI DE INVESTITII PE ANUL 2020",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/13107",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/13107",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

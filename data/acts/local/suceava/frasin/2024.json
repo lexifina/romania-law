@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/frasin/2024",
+"acts": [
+{
+"slug": "hcl-suceava--frasin-166-2024",
+"path": "local/suceava/frasin/2024/166",
+"kind": "local",
+"year": "2024",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Frasin nr. 166/2024 privind aprobarea impozitelor si taxelor pocale pentru anul 2025",
+"short": "HCL Frasin nr. 166/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://www.primariaorasuluifrasin.ro/hcl-impozite-si-taxe-locale/",
+"council": "suceava/frasin",
+"council_name": "Consiliul Local al Orașului Frasin",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

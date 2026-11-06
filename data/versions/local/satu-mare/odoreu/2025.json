@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/satu-mare/odoreu/2025",
+ "acts": [
+  {
+   "slug": "hcl-satu-mare--odoreu-64-2025",
+   "path": "local/satu-mare/odoreu/2025/64",
+   "short": "HCL Odoreu nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 64/2025 privind alegerea președintelui de ședință al Consiliului local al comunei Odoreu pe perioada octombrie-decembrie 2025",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/240214",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/240214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-65-2025",
+   "path": "local/satu-mare/odoreu/2025/65",
+   "short": "HCL Odoreu nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 65/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli al Comunei Odoreu pe anul 2025",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/240215",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/240215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-66-2025",
+   "path": "local/satu-mare/odoreu/2025/66",
+   "short": "HCL Odoreu nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 66/2025 privind aprobarea execuției bugetare pe trimestrul III al anului 2025",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/240216",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/240216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-67-2025",
+   "path": "local/satu-mare/odoreu/2025/67",
+   "short": "HCL Odoreu nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 67/2025 privind atribuirea de denumire unei străzi din localitatea Odoreu, comuna Odoreu, Județul Satu Mare",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/240217",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/240217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-68-2025",
+   "path": "local/satu-mare/odoreu/2025/68",
+   "short": "HCL Odoreu nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 68/2025 privind acceptarea donației terenului în suprafață de 400 mp cu destinație de stradă, înscris în C.F nr. 104056 Odoreu",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/240218",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/240218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-70-2025",
+   "path": "local/satu-mare/odoreu/2025/70",
+   "short": "HCL Odoreu nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 70/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli al Comunei Odoreu pe anul 2025",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/252880",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/252880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-71-2025",
+   "path": "local/satu-mare/odoreu/2025/71",
+   "short": "HCL Odoreu nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 71/2025 privind aprobarea execuției bugetare preliminare pe trimestrul IV anul 2025",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/252889",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/252889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-72-2025",
+   "path": "local/satu-mare/odoreu/2025/72",
+   "short": "HCL Odoreu nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 72/2025 privind înregistrarea Comunei Odoreu în Sistemul Național Electronic de Plată online a taxelor și impozitelor utilizând cardul bancar ( SNEP) și implicit înrolarea în sistemul \" Ghișeul.ro\"",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/252893",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/252893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-73-2025",
+   "path": "local/satu-mare/odoreu/2025/73",
+   "short": "HCL Odoreu nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 73/2025 privind aprobarea unor modificări de natură tehnică și financiară necesare pentru realizarea investiției Reabilitare Cămin Cultural în Comuna Odoreu",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/252896",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/252896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-74-2025",
+   "path": "local/satu-mare/odoreu/2025/74",
+   "short": "HCL Odoreu nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 74/2025 privind aprobarea modificării tarifului contractului de delegare a gestiunii serviciului de salubrizare pentru activitatea de sortare a deseurilor de hârtie, carton, metal, plastic, selectate separat din desurilor municipale provenite de pe raza UAT Comuna Odoreu în 2026",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/252904",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/252904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-75-2025",
+   "path": "local/satu-mare/odoreu/2025/75",
+   "short": "HCL Odoreu nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 75/2025 privind aprobarea modificării tarifului aferent contractului de delegare a gestiunii serviciului de salubrizare în Comuna Odoreu în anul 2026",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/252905",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/252905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-76-2025",
+   "path": "local/satu-mare/odoreu/2025/76",
+   "short": "HCL Odoreu nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 76/2025 privind completarea preambului HCL nr. 42/2025 privind aprobarea contractării unui împrumut în valoare de 75.000.000 lei, în conformitate cu prevederile art.1 din Ordonanța de urgență a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/252909",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/252909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-77-2025",
+   "path": "local/satu-mare/odoreu/2025/77",
+   "short": "HCL Odoreu nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 77/2025 privind aprobarea modificării bugetului proiectului Înființare parc fotovoltaic în vederea producerii energiei electrice din surse regenerabile de tip solar pentru autoconsum în Comuna Odoreu",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/252920",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/252920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-78-2025",
+   "path": "local/satu-mare/odoreu/2025/78",
+   "short": "HCL Odoreu nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 78/2025 privind organizarea rețelei școlare din comuna Odoreu, județul Satu Mare pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/252922",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/252922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-79-2025",
+   "path": "local/satu-mare/odoreu/2025/79",
+   "short": "HCL Odoreu nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 79/2025 privind constituirea Consiliului Comunitar Consultativ la nivelul comunei Odoreu, județul Satu Mare și aprobarea Regulamentului de organizare și funcționare al acestuia",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/252924",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/252924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-80-2025",
+   "path": "local/satu-mare/odoreu/2025/80",
+   "short": "HCL Odoreu nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 80/2025 privind aprobarea Programului de acșiune comunitară destinat prevederii și combaterii riscului de sărăcie și excluziune socială pentru anul 2026",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/252925",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/252925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-81-2025",
+   "path": "local/satu-mare/odoreu/2025/81",
+   "short": "HCL Odoreu nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 81/2025 privind aprobarea Planului de actiuni și lucrări de interes local pe anul 2026 pentru activitățile desfășurată de beneficiarii Legii 196/2016 privind venitul minim de incluziune",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/252926",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/252926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-82-2025",
+   "path": "local/satu-mare/odoreu/2025/82",
+   "short": "HCL Odoreu nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 82/2025 privind aprobarea Strategiei de dezvoltare a serviciilor sociale acordate la nivelul comunei Odoreu pentru perioada 2025-2030",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/252927",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/252927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-83-2025",
+   "path": "local/satu-mare/odoreu/2025/83",
+   "short": "HCL Odoreu nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 83/2025 privind atribuirea de denumire unei străzi din localitatea Odoreu, Județul Satu Mare",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/252928",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/252928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-84-2025",
+   "path": "local/satu-mare/odoreu/2025/84",
+   "short": "HCL Odoreu nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 84/2025 privind aprobarea impozitelor, taxelor și tarifelor locale pentru anul 2026, la nivelul comunei Odoreu, județul Satu Mare",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/252929",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/252929",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/satu-mare/tiream/2019",
+ "acts": [
+  {
+   "slug": "hcl-satu-mare--tiream-22-2019",
+   "path": "local/satu-mare/tiream/2019/22",
+   "short": "HCL Tiream nr. 22/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 22/2019 privind stabilirea unor taxe speciale pentru igienizarea şi întreţinerea spaţiilor verzi din faţa gospodăriilor contribuabililor din raza comunei Tiream",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2019-05-22",
+     "units": 1,
+     "source_url": "https://tiream.ro/storage/uploads/2017/02/hcl.-nR.22-DIN-26.06.2019-Word.pdf",
+     "sha256": "118a2aac5e8f3ca36bcbd5a3f04c65e1ea52eaa4f501db1edfc67314589fa199"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-40-2019",
+   "path": "local/satu-mare/tiream/2019/40",
+   "short": "HCL Tiream nr. 40/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 40/2019 privind stabilirea impozitelor şi taxelor locale,precum şi a taxelor speciale, pe anul 2020",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://tiream.ro/storage/hotarari-2019/hclnr40-din-231220219.pdf",
+     "sha256": "3443b52e8997192db1598344fadfc4f702cfff998fb19da7e64a6114d10cfc48"
+    }
+   ]
+  }
+ ]
+}

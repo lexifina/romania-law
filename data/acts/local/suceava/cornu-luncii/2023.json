@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/suceava/cornu-luncii/2023",
+"acts": [
+{
+"slug": "hcl-suceava--cornu-luncii-2-2023",
+"path": "local/suceava/cornu-luncii/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 2/2023 privind aprobarea utilizării în cursul anului 2023 a excedentului anual al bugetului local, rezultat la încheierea exercițiului bugetar al anului 2022",
+"short": "HCL Cornu Luncii nr. 2/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-02",
+"latest": "2023-05-02",
+"portal": "https://emol.ro/cornuluncii-sv/registru-hcl/102843",
+"council": "suceava/cornu-luncii",
+"council_name": "Consiliul Local al Comunei Cornu Luncii",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--cornu-luncii-6-2023",
+"path": "local/suceava/cornu-luncii/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 6/2023 privind aprobarea bugetului local de venituri și cheltuieli, al bugetului activităților finanțate integral sau parțial din venituri proprii și al bugetului creditelor interne pe anul 2023",
+"short": "HCL Cornu Luncii nr. 6/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-02",
+"latest": "2023-05-02",
+"portal": "https://emol.ro/cornuluncii-sv/registru-hcl/102848",
+"council": "suceava/cornu-luncii",
+"council_name": "Consiliul Local al Comunei Cornu Luncii",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--cornu-luncii-10-2023",
+"path": "local/suceava/cornu-luncii/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 10/2023",
+"short": "HCL Cornu Luncii nr. 10/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-02",
+"latest": "2023-05-02",
+"portal": "https://emol.ro/cornuluncii-sv/registru-hcl/102852",
+"council": "suceava/cornu-luncii",
+"council_name": "Consiliul Local al Comunei Cornu Luncii",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

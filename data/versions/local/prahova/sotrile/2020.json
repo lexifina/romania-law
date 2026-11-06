@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/sotrile/2020",
+ "acts": [
+  {
+   "slug": "hcl-prahova--sotrile-43-2020",
+   "path": "local/prahova/sotrile/2020/43",
+   "short": "HCL Șotrile nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 43/2020 privind aprobarea diferențierii tipului de suport alimentar acordat preșcolarilor/elevilor Școlii Gimnaziale comuna Șotrile",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/10018",
+   "versions": [
+    {
+     "from": "2020-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/10018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-44-2020",
+   "path": "local/prahova/sotrile/2020/44",
+   "short": "HCL Șotrile nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 44/2020 privind asocierea Comunei Șotrile cu județul Prahova în vederea realizării obiectivului de investiție ”Reparații drumuri locale- comuna Șotrile”",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/10019",
+   "versions": [
+    {
+     "from": "2020-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/10019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-46-2020",
+   "path": "local/prahova/sotrile/2020/46",
+   "short": "HCL Șotrile nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 46/2020 privind aprobarea indicatorilor tehnico- economici actualizați pentru obiectivul de investitii \"Reabilitare si modernizare Scoala Generala, comuna Sotrile, judetul Prahova\"",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/10463",
+   "versions": [
+    {
+     "from": "2020-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/10463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-47-2020",
+   "path": "local/prahova/sotrile/2020/47",
+   "short": "HCL Șotrile nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 47/2020 privind asigurarea cofinanţării obiectivului de investiţie \"Reabilitare si modernizare Scoala Generala,comuna Sotrile, judetul Prahova",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/10464",
+   "versions": [
+    {
+     "from": "2020-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/10464",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

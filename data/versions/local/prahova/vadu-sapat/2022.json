@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/vadu-sapat/2022",
+ "acts": [
+  {
+   "slug": "hcl-prahova--vadu-sapat-1-2022",
+   "path": "local/prahova/vadu-sapat/2022/1",
+   "short": "HCL Vadu Săpat nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 1/2022 privind acoperirea definitivă a deficitului Secțiunii de Dezvoltare a anului 2021 și stabilirea excedentului anilor precedenți",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/53178",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/53178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-3-2022",
+   "path": "local/prahova/vadu-sapat/2022/3",
+   "short": "HCL Vadu Săpat nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 3/2022 privind aprobarea Planului de acțiuni și lucrări de interes local al beneficiarilor prevederilor Legii nr 416/2001, pentru anul 2022",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/53180",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/53180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-4-2022",
+   "path": "local/prahova/vadu-sapat/2022/4",
+   "short": "HCL Vadu Săpat nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 4/2022 privind stabilirea unor situații deosebite în vederea acordării unor ajutoare de urgență, pe anul 2022",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/53181",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/53181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-5-2022",
+   "path": "local/prahova/vadu-sapat/2022/5",
+   "short": "HCL Vadu Săpat nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 5/2022 privind aprobarea Raportului privind monitorizarea activității asistenților personali, pe semestrul II, anul 2021",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/53182",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/53182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-6-2022",
+   "path": "local/prahova/vadu-sapat/2022/6",
+   "short": "HCL Vadu Săpat nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 6/2022 privind reorganizarea rețelei școlare pentru anul școlar 2022-2023 la nivelul comunei Vadu Săpat, județul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/53183",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/53183",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

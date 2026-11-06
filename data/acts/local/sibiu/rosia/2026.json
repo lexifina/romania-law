@@ -1,0 +1,292 @@
+{
+"country": "RO",
+"shard": "local/sibiu/rosia/2026",
+"acts": [
+{
+"slug": "hcl-sibiu--rosia-31-2026",
+"path": "local/sibiu/rosia/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 31/2026 privind aprobarea actualizării devizului general, pentru obiectivul de investiţii „CREŞTEREA EFICIENŢEI ENERGETICE GESTIONAREA INTELIGENTA A ENERGIEI ÎN CLĂDIREA DE UTILITATE PUBLICĂ CĂMIN CULTURAL ROŞIA , COMUNA ROSIA, JUDETUL SIBIU”",
+"short": "HCL Roșia nr. 31/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/282558",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-33-2026",
+"path": "local/sibiu/rosia/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 33/2026 privind acordarea mandatului special reprezentantului legal al Comunei ROSIA în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „ECO” Sibiu, să voteze ÎMPOTRIVA aprobării modificării tarifului pentru activitatea de depozitare a deșeurilor reziduale din Județul Sibiu",
+"short": "HCL Roșia nr. 33/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/282564",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-34-2026",
+"path": "local/sibiu/rosia/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 34/2026 privind aprobarea devizului general actualizat pentru obiectivul de investiții “ Înfiinţarea unui centru de colectare prin aport voluntar în Comuna Roşia”, în cadrul apelului de proiecte cu titlul PNRR/2022/C3/S/I.1.A, Componenta C3 – Managementul deşeurilor, Investiţia I1 Dezvoltarea, modernizarea şi completarea sistemelor de management integrat al deşeurilor municipale la nivel de judeţ sau la nivel de oraşe/comune, Subinvestiţia I.1. A Înfiinţarea de centre de colectare prin aport voluntar din Planul Naţional de Redresare şi Rezilienţă – PNRR, ca urmare a majorării cotei TVA de la 19% la 21%",
+"short": "HCL Roșia nr. 34/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/282565",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-35-2026",
+"path": "local/sibiu/rosia/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 35/2026 privind aprobarea actualizarii Devizului General (DG) la terminarea lucrărilor pentru obiectivul de investiții „ REABILITARE DRUMURI ÎN COMUNA ROŞIA, JUDEŢUL SIBIU” aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+"short": "HCL Roșia nr. 35/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/282566",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-36-2026",
+"path": "local/sibiu/rosia/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 36/2026 Privind modificarea si actualizarea Regulamentului de Organizare şi Funcţionare al Aparatului de Specialitate al Primarului comunei Roşia, judeţul Sibiu",
+"short": "HCL Roșia nr. 36/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/282567",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-39-2026",
+"path": "local/sibiu/rosia/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 39/2026 privind aprobarea modificării valorii tarifului de prestări servicii silvice şi încheierii actului adiţional nr.2 la contractul nr.14326/01.08.2024 la noul tarif",
+"short": "HCL Roșia nr. 39/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/282570",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-40-2026",
+"path": "local/sibiu/rosia/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 40/2026 privind aprobarea documentației de dezmembrare a unui imobil – teren",
+"short": "HCL Roșia nr. 40/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/282571",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-41-2026",
+"path": "local/sibiu/rosia/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 41/2026 privind stabilirea preţului de vȃnzare către populație a masei lemnoase ( lemn de foc) , volum total 146,38 mc",
+"short": "HCL Roșia nr. 41/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/282572",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-42-2026",
+"path": "local/sibiu/rosia/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 42/2026 referitoare la validarea modificărilor efectuate prin Dispoziția Primarului nr. 105/2026 privind suplimentarea bugetului local cu sume destinate finantarii de baza a unitatilor de invatamant",
+"short": "HCL Roșia nr. 42/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/282573",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-43-2026",
+"path": "local/sibiu/rosia/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 43/2026 privind alegerea presedintelui de sedinta pentru perioada AUGUST-OCTOMBRIE ( 2026)",
+"short": "HCL Roșia nr. 43/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-12",
+"latest": "2026-08-12",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/282576",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-44-2026",
+"path": "local/sibiu/rosia/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 44/2026 privind preluarea prin transfer de la Municipiul Sibiu a dreptului de proprietate și înscrierea în evidența contabilă a Comunei Roșia a unor bunuri mobile achiziționate de Municipiul Sibiu în cadrul proiectului „ Modernizarea și extinderea transportului public la nivelul zonei metropolitane Sibiu”",
+"short": "HCL Roșia nr. 44/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-12",
+"latest": "2026-08-12",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/282577",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-49-2026",
+"path": "local/sibiu/rosia/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 49/2026 privind rectificarea bugetului local aprobat pe anul 2026",
+"short": "HCL Roșia nr. 49/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/288157",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-50-2026",
+"path": "local/sibiu/rosia/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 50/2026 privind aprobarea plății din bugetul local al UAT Rosia a sumei de 127.476,75 lei aferentă facturii fiscale nr.0561/2025, reprezentand cheltuiala eligibila , pentru obiectivul de investiții „CREŞTEREA EFICIENŢEI ENERGETICE GESTIONAREA INTELIGENTA A ENERGIEI ÎN CLĂDIREA DE UTILITATE PUBLICĂ CĂMIN CULTURAL ROŞIA , COMUNA ROSIA, JUDETUL SIBIU”",
+"short": "HCL Roșia nr. 50/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/288158",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

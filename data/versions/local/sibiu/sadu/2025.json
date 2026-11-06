@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/sibiu/sadu/2025",
+ "acts": [
+  {
+   "slug": "hcl-sibiu--sadu-105-2025",
+   "path": "local/sibiu/sadu/2025/105",
+   "short": "HCL Sadu nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 105/2025 privind aprobarea Procedurii de publicare a listei debitorilor persoane juridice care înregistrează obligații fiscale restante, precum şi cuantumul acestor obligaţii și a Procedurii de publicare a listei contribuabililor persoane juridice care nu au obligaţii restante",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/237216",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/237216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-108-2025",
+   "path": "local/sibiu/sadu/2025/108",
+   "short": "HCL Sadu nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 108/2025 privind acordarea pungilor de Moș Crăciun pentru copiii de pe raza comunei Sadu",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/241774",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/241774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-109-2025",
+   "path": "local/sibiu/sadu/2025/109",
+   "short": "HCL Sadu nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 109/2025 privind stabilirea taxei speciale de salubrizare pentru anul 2026 la nivelul comunei Sadu",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/241775",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/241775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-110-2025",
+   "path": "local/sibiu/sadu/2025/110",
+   "short": "HCL Sadu nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 110/2025 privind organizarea rețelei școlare la nivelul comunei Sadu pentru anul şcolar 2026-2027",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/241776",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/241776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-113-2025",
+   "path": "local/sibiu/sadu/2025/113",
+   "short": "HCL Sadu nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 113/2025 privind aprobarea prețului de referință pe picior al unui metru cub de lemn folosit la calculul prețului APV și a metodologiei folosite pentru calculul prețului de APV pentru partizile ce urmează a fi scoase la licitație în anul 2026, provenite din fondul forestier proprietate publică a comunei Sadu",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/241779",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/241779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-114-2025",
+   "path": "local/sibiu/sadu/2025/114",
+   "short": "HCL Sadu nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 114/2025 privind aprobarea volumului și a prețurilor pentru valorificarea masei lemnoase provenite din fondul forestier proprietate publică a comunei Sadu, pentru anul 2026",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/241780",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/241780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-115-2025",
+   "path": "local/sibiu/sadu/2025/115",
+   "short": "HCL Sadu nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 115/2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pentru anul 2026 la nivelul comunei Sadu",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/241781",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/241781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-96-2025",
+   "path": "local/sibiu/sadu/2025/96",
+   "short": "HCL Sadu nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 96/2025 privind stabilirea nivelurilor impozitului pe mijloacele de transport, în cazul unui autovehicul de transport de marfă cu masa totală autorizată egală sau mai mare de 12 tone, precum și în cazul unei combinaţii de autovehicule, un autovehicul articulat sau tren rutier, de transport de marfă cu masa totală maximă autorizată egală sau mai mare de 12 tone, aplicabile în anul fiscal 2026",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/232238",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/232238",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/forasti/2020",
+ "acts": [
+  {
+   "slug": "hcl-suceava--forasti-55-2020",
+   "path": "local/suceava/forasti/2020/55",
+   "short": "HCL Forăști nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 55/2020 privind rectificarea bugetului local de venituri și cheltuieli",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/23900",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/23900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-62-2020",
+   "path": "local/suceava/forasti/2020/62",
+   "short": "HCL Forăști nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 62/2020 privind rectificarea bugetului local de venituri și cheltuieli",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/23907",
+   "versions": [
+    {
+     "from": "2020-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/23907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-66-2020",
+   "path": "local/suceava/forasti/2020/66",
+   "short": "HCL Forăști nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 66/2020 privind aprobarea execuției bugetului întocmit pe secțiunile funcționare și dezvoltare pe trimestrul al-III-lea, anul 2020",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/23911",
+   "versions": [
+    {
+     "from": "2020-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/23911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-67-2020",
+   "path": "local/suceava/forasti/2020/67",
+   "short": "HCL Forăști nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 67/2020 privind aprobarea organizării rețelei școlare din raza teritorială a comunei Forăști, județul Suceava, pentru anul 2021-2022",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/23912",
+   "versions": [
+    {
+     "from": "2020-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/23912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-69-2020",
+   "path": "local/suceava/forasti/2020/69",
+   "short": "HCL Forăști nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 69/2020 privind stabilirea impozitelor și taxelor locale pentru anul 2021",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/23914",
+   "versions": [
+    {
+     "from": "2020-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/23914",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

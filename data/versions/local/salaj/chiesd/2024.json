@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/salaj/chiesd/2024",
+ "acts": [
+  {
+   "slug": "hcl-salaj--chiesd-68-2024",
+   "path": "local/salaj/chiesd/2024/68",
+   "short": "HCL Chieșd nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 68/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/250622",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/250622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-69-2024",
+   "path": "local/salaj/chiesd/2024/69",
+   "short": "HCL Chieșd nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 69/2024 privind validarea Dispoziției nr. 326/29.10.2024 cu privire la rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/250623",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/250623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-76-2024",
+   "path": "local/salaj/chiesd/2024/76",
+   "short": "HCL Chieșd nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 76/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/250707",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/250707",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

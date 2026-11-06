@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/salaj/buciumi/2026",
+"acts": [
+{
+"slug": "hcl-salaj--buciumi-34-2026",
+"path": "local/salaj/buciumi/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buciumi nr. 34/2026 Cu privire la alegerea preşedintelui de şedinţă al Consiliului Local Buciumi",
+"short": "HCL Buciumi nr. 34/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-18",
+"latest": "2026-09-18",
+"portal": "https://emol.ro/buciumi-sj/registru-hcl/287888",
+"council": "salaj/buciumi",
+"council_name": "Consiliul Local al Comunei Buciumi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--buciumi-40-2026",
+"path": "local/salaj/buciumi/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buciumi nr. 40/2026 Privind aprobarea proiectului, a documentației tehnico-economice - faza SF și a indicatorilor tehnico-economici aferenți, cât și participarea la „Programul-cheie 1: Surse regenerabile de energie și stocarea energiei”, respectiv măsura ”Sprijinirea investiţiilor în noi capacităţi de producere a energiei electrice produsă din surse regenerabile de energie solară, cu capacități de stocare integrate, pentru autoconsum pentru entități publice” pentru proiectul denumit ”Instalarea unei noi capacitati de productie a energiei electrice din surse regenerabile in Comuna Buciumi”",
+"short": "HCL Buciumi nr. 40/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://emol.ro/buciumi-sj/registru-hcl/290171",
+"council": "salaj/buciumi",
+"council_name": "Consiliul Local al Comunei Buciumi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--buciumi-42-2026",
+"path": "local/salaj/buciumi/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buciumi nr. 42/2026 privind implementarea proiectului: „ÎMBUNĂTĂȚIREA INFRASTRUCTURII COMUNALE ÎN COMUNA BUCIUMI, JUDEȚUL SĂLAJ, PRIN DOTAREA CU UN BULDOEXCAVATOR”",
+"short": "HCL Buciumi nr. 42/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/buciumi-sj/registru-hcl/292604",
+"council": "salaj/buciumi",
+"council_name": "Consiliul Local al Comunei Buciumi",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

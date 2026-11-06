@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/prahova/sotrile/2023",
+"acts": [
+{
+"slug": "hcl-prahova--sotrile-64-2023",
+"path": "local/prahova/sotrile/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 64/2023 privind indexarea impozitului pe mijloacele de transport prevăzut la art. 470 alin. (5) și alin. (6) din Codul fiscal, cu modificările și completările ulterioare, prin aplicarea ratei de schimb a monedei euro în vigoare în prima zi lucrătoare a lunii octombrie 2023, la nivelurile minime prevăzute de Directiva 1999/62/CE, pe anul 2024",
+"short": "HCL Șotrile nr. 64/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/133573",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

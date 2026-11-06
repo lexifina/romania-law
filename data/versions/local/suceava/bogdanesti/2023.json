@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/bogdanesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-suceava--bogdanesti-66-2023",
+   "path": "local/suceava/bogdanesti/2023/66",
+   "short": "HCL Bogdănești nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 66/2023 privind stabilirea impozitelor și taxelor locale pentru anul 2024",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/139136",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/139136",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

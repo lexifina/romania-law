@@ -1,0 +1,292 @@
+{
+"country": "RO",
+"shard": "local/prahova/stefesti/2024",
+"acts": [
+{
+"slug": "hcl-prahova--stefesti-28-2024",
+"path": "local/prahova/stefesti/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 28/2024 privind modificarea utilizarii excedentului pe anul 2024 al bugetului local",
+"short": "HCL Ștefești nr. 28/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-20",
+"latest": "2024-08-20",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/166157",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--stefesti-29-2024",
+"path": "local/prahova/stefesti/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 29/2024 privind aprobarea rectificarii bugetului local pe anul 2024 si estimari pentru anii 2025-2027",
+"short": "HCL Ștefești nr. 29/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-20",
+"latest": "2024-08-20",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/166158",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--stefesti-31-2024",
+"path": "local/prahova/stefesti/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 31/2024 cu privire la aprobarea Regulamentului privind stabilirea unor forme de sprijin financiar de la bugetul local al comunei Stefesti, pentru unitatile de cult apartinand cultelor religioase recunoscute din Romania, situate pe raza comunei Stefesti",
+"short": "HCL Ștefești nr. 31/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/170666",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--stefesti-33-2024",
+"path": "local/prahova/stefesti/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 33/2024 privind renuntarea la statiile de reincarcare (două) incluse in proiectul ”Asigurarea infrastructurii TIC (sisteme inteligente de management local)la nivelul Comunei Ștefești”, în cadrul Planului National de Redresare si Rezilienta, Componenta C.10- Fondul Local, Investiția I.1.2.- Asigurarea infrastructurii pentru transportul verde- TS/ alte infrastructuri TIC și aprobarea diminuării valorii proiectului cu valoarea stațiilor de reîncărcare",
+"short": "HCL Ștefești nr. 33/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/172188",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--stefesti-34-2024",
+"path": "local/prahova/stefesti/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 34/2024 privind aprobarea contului de execuţie al bugetului local pe trimestrul III al anului 2024",
+"short": "HCL Ștefești nr. 34/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-15",
+"latest": "2024-10-15",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/172781",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--stefesti-35-2024",
+"path": "local/prahova/stefesti/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 35/2024 privind aprobarea rectificarii bugetului local pe anul 2024 si estimari pentru anii 2025-2027",
+"short": "HCL Ștefești nr. 35/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-15",
+"latest": "2024-10-15",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/172782",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--stefesti-37-2024",
+"path": "local/prahova/stefesti/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 37/2024 privind stabilirea numarului si organizarea comisiilor de specialitate ale Consiliului local al comunei Stefesti, județul Prahova",
+"short": "HCL Ștefești nr. 37/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-05",
+"latest": "2024-11-05",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/174894",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--stefesti-39-2024",
+"path": "local/prahova/stefesti/2024/39",
+"kind": "local",
+"year": "2024",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 39/2024 privind aprobarea rectificarii bugetului local pe anul 2024 si estimari pentru anii 2025-2027",
+"short": "HCL Ștefești nr. 39/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/178108",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--stefesti-41-2024",
+"path": "local/prahova/stefesti/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 41/2024 privind aprobarea propunerii rețelei școlare la nivelul comunei Stefesti județul Prahova pentru anul școlar 2025-2026",
+"short": "HCL Ștefești nr. 41/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/181107",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--stefesti-43-2024",
+"path": "local/prahova/stefesti/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 43/2024 privind aprobarea solicitării finanțării cheltuielilor pentru actualizarea Planului Urbanistic General și Regulamentului Local de Urbanism aferente comunei Stefesti, județul Prahova",
+"short": "HCL Ștefești nr. 43/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/181109",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--stefesti-44-2024",
+"path": "local/prahova/stefesti/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 44/2024 privind aprobarea contului de execuţie al bugetului local la luna decembrie a anului 2024",
+"short": "HCL Ștefești nr. 44/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/183105",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--stefesti-45-2024",
+"path": "local/prahova/stefesti/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 45/2024 privind aprobarea rectificarii bugetului local pe anul 2024 si estimari pentru anii 2025-2027",
+"short": "HCL Ștefești nr. 45/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/183106",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--stefesti-46-2024",
+"path": "local/prahova/stefesti/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 46/2024 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2025",
+"short": "HCL Ștefești nr. 46/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/183107",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

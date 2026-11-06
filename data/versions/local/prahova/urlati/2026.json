@@ -3,6 +3,216 @@
  "shard": "local/prahova/urlati/2026",
  "acts": [
   {
+   "slug": "hcl-prahova--urlati-1-2026",
+   "path": "local/prahova/urlati/2026/1",
+   "short": "HCL Urlați nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 1/2026 privind aprobarea utilizării unei sume din excedentul bugetar pe anul 2025",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/246454",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/246454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-10-2026",
+   "path": "local/prahova/urlati/2026/10",
+   "short": "HCL Urlați nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 10/2026",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/256305",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/256305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-11-2026",
+   "path": "local/prahova/urlati/2026/11",
+   "short": "HCL Urlați nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 11/2026 privind aprobarea cotizaţiei Consiliului Local Urlaţi pentru anul 2026 la Asociaţia de Dezvoltare Intercomunitară „Ținutul Vinului”",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/256306",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/256306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-19-2026",
+   "path": "local/prahova/urlati/2026/19",
+   "short": "HCL Urlați nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 19/2026 privind aprobarea necesității și oportunității realizării obiectivului de investiții ,,Modernizarea Cimitirului Public al orașului Urlați,,",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/260124",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/260124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-2-2026",
+   "path": "local/prahova/urlati/2026/2",
+   "short": "HCL Urlați nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 2/2026 pentru modificarea Hotărârii Consiliului Local Urlați nr. 74/22.09.2025 privind aprobarea proiectului ”Utilaje inteligente de întreținere a spațiului public în Orașul URLAȚI- Achiziție automăturătoare stradală smart”",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/248669",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/248669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-20-2026",
+   "path": "local/prahova/urlati/2026/20",
+   "short": "HCL Urlați nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 20/2026 privind atestarea la domeniul privat al Oraşului Urlaţi a imobilului-teren în suprafață de 311 m.p., situat în strada ... nr. ... Tarlaua ..., Parcela",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/260125",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/260125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-21-2026",
+   "path": "local/prahova/urlati/2026/21",
+   "short": "HCL Urlați nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 21/2026 privind aprobarea principalelor manifestări cultural-artistice, sociale şi educative care se vor desfăşura în orașul Urlați în perioada martie-decembrie 2026",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/260126",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/260126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-22-2026",
+   "path": "local/prahova/urlati/2026/22",
+   "short": "HCL Urlați nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 22/2026 privind aprobarea Planului de asigurare a resurselor umane, materiale și financiare necesare gestionării situațiilor de urgență pe anul 2026 - Orașul Urlați",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/260127",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/260127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-23-2026",
+   "path": "local/prahova/urlati/2026/23",
+   "short": "HCL Urlați nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 23/2026 privind aprobarea cotizaţiei Consiliului Local Urlaţi pentru anul 2026 la Asociaţia Oraşelor din România",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/260128",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/260128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-24-2026",
+   "path": "local/prahova/urlati/2026/24",
+   "short": "HCL Urlați nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 24/2026 privind aprobarea cotizaţiei Consiliului Local Urlaţi pentru anul 2026 la Asociaţia de Dezvoltare Intercomunitară „Parteneriatul pentru managementul apei - Prahova”",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/260129",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/260129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-26-2026",
+   "path": "local/prahova/urlati/2026/26",
+   "short": "HCL Urlați nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 26/2026 privind aprobarea Statului de funcții nominal U.A.T.Oraș Urlați, Organigramei şi numărul de personal din aparatul de specialitate al Primarului oraşului Urlaţi şi a serviciilor publice din subordinea Consiliului Local Urlați, prin reorganizare în conformitate cu prevederile O.U.G.nr.7/2026",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/262192",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/262192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-27-2026",
+   "path": "local/prahova/urlati/2026/27",
+   "short": "HCL Urlați nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 27/2026 privind aprobarea proiectului „Modernizarea transportului public local prin amplasarea de stații de autobuz smart în Orașul Urlați”",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/264152",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/264152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-3-2026",
+   "path": "local/prahova/urlati/2026/3",
+   "short": "HCL Urlați nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 3/2026 privind privind continuarea asocierii Consiliului Local Urlaţi cu Fundaţia Bucuria Ajutorului filiala Urlaţi, în vederea susţinerii serviciilor sociale pentru copiii care provin din familii aflate în dificultate, pentru anul bugetar 2026",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/250296",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/250296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-33-2026",
+   "path": "local/prahova/urlati/2026/33",
+   "short": "HCL Urlați nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 33/2026 pentru aprobarea proiectului bugetului general al unităţii administrativ-teritoriale pe anul 2026 şi estimări pentru anii 2027-2029",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/267450",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/267450",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--urlati-34-2026",
    "path": "local/prahova/urlati/2026/34",
    "short": "HCL Urlați nr. 34/2026",
@@ -73,6 +283,21 @@
      "from": "2026-06-09",
      "units": 1,
      "source_url": "https://emol.ro/urlati-ph/registru-hcl/271781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-4-2026",
+   "path": "local/prahova/urlati/2026/4",
+   "short": "HCL Urlați nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 4/2026 privind prelungirea termenului de valabilitate a Planului Urbanistic General al orașului Urlați, județul Prahova până la intrarea în vigoare a noului plan urbanistic general",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/250297",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/250297",
      "sha256": null
     }
    ]
@@ -268,6 +493,21 @@
      "from": "2026-09-23",
      "units": 1,
      "source_url": "https://emol.ro/urlati-ph/registru-hcl/285137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-6-2026",
+   "path": "local/prahova/urlati/2026/6",
+   "short": "HCL Urlați nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 6/2026",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/250299",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/250299",
      "sha256": null
     }
    ]

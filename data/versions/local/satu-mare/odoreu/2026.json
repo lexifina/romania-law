@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/satu-mare/odoreu/2026",
+ "acts": [
+  {
+   "slug": "hcl-satu-mare--odoreu-1-2026",
+   "path": "local/satu-mare/odoreu/2026/1",
+   "short": "HCL Odoreu nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 1/2026 privind alegerea presedintelui de sedință al Consiliului local al comunei Odoreu pe perioada ianuarie-martie 2026",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/263721",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/263721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-10-2026",
+   "path": "local/satu-mare/odoreu/2026/10",
+   "short": "HCL Odoreu nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 10/2026 privind stabilirea salariilor de bază pentru personalul contractual din cadrul familiei ocupaționale Administrației, din aparatul de specialitate al Primarului comunei Odireu pentru anul 2026",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/263794",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/263794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-2-2026",
+   "path": "local/satu-mare/odoreu/2026/2",
+   "short": "HCL Odoreu nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 2/2026 privind aprobarea reîntregirii excedentului cu suma utilizată pentru finanțarea secțiunii de dezvoltare pe anul 2025",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/263722",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/263722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-3-2026",
+   "path": "local/satu-mare/odoreu/2026/3",
+   "short": "HCL Odoreu nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 3/2026 privind aprobarea acoperirii definitive a deficitului secțiunii de dezvoltare pe anul 2025",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/263724",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/263724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-4-2026",
+   "path": "local/satu-mare/odoreu/2026/4",
+   "short": "HCL Odoreu nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 4/2026 privind aprobarea utilizării excedentului bugetar al anului 2025",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/263725",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/263725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-5-2026",
+   "path": "local/satu-mare/odoreu/2026/5",
+   "short": "HCL Odoreu nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 5/2026 privind aprobarea Planului de Analiză și Acoperire a Riscurilor în comuna Odoreu pe anul 2026",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/263726",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/263726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-6-2026",
+   "path": "local/satu-mare/odoreu/2026/6",
+   "short": "HCL Odoreu nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 6/2026 privind aprobarea volumului, modului de valorificare, pretului de referință, nivelul maxim al tarifelor și preturile minime de valorificare pentru masa lemnoasă, prevăzută a se recolta în anul 2026 din fondul forestier, proprietatea publică a UAT Comuna Odoreu, județul Satu Mare",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/263771",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/263771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-7-2026",
+   "path": "local/satu-mare/odoreu/2026/7",
+   "short": "HCL Odoreu nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 7/2026 privind aprobarea procentului necesar construirii fondului de conservare și regenerare a pădurilor și a procentului necesar construirii fondului de accesibilizare a pădurilor pentru anul 2026",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/263789",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/263789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-9-2026",
+   "path": "local/satu-mare/odoreu/2026/9",
+   "short": "HCL Odoreu nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 9/2026 privind implementarea proiectului \" Amenajare piațetă în localitatea Odoreu și dotarea cu mobilier a sediului primăriei comunei Odoreu\"",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/263792",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/263792",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

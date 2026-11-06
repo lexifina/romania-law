@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/satu-mare/odoreu/2022",
+ "acts": [
+  {
+   "slug": "hcl-satu-mare--odoreu-36-2022",
+   "path": "local/satu-mare/odoreu/2022/36",
+   "short": "HCL Odoreu nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 36/2022 privind aprobarea „Strategiei de dezvoltare economico-socială a Comunei Odoreu, Județul Satu Mare în orizonul de timp 2021-2027”",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/74113",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/74113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-52-2022",
+   "path": "local/satu-mare/odoreu/2022/52",
+   "short": "HCL Odoreu nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 52/2022 privind interzicerea circulației pe timpul nopții a vehiculelor cu tracțiune animală în comuna Odoreu, județul Satu Mare",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/74130",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/74130",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

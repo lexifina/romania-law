@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/salaj/sarmasag/2026",
+"acts": [
+{
+"slug": "hcl-salaj--sarmasag-113-2026",
+"path": "local/salaj/sarmasag/2026/113",
+"kind": "local",
+"year": "2026",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 113/2026 pentru aprobarea documentației de apartamentare a imobilului proprietatea privată a Comunei Sărmășag înscris în CF.53286,nr.cad.53286 și situat în localitatea Șărmășag, str.Minerilor,nr.17, bl.17",
+"short": "HCL Șărmășag nr. 113/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/292529",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-118-2026",
+"path": "local/salaj/sarmasag/2026/118",
+"kind": "local",
+"year": "2026",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 118/2026 privind aprobarea Acordului de Parteneriat între Județul Sălaj, și unitățile administrativ - teritoriale din județul Sălaj, în vederea implementării, în parteneriat, a proiectului ”Realizarea, implementarea, utilizarea și administrarea sistemelor informatice de înaltă performanță, la nivelul județului Sălaj, dezvoltate și găzduite prin sistemul Cloud Regional Nord-Vest”",
+"short": "HCL Șărmășag nr. 118/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/292534",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-126-2026",
+"path": "local/salaj/sarmasag/2026/126",
+"kind": "local",
+"year": "2026",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 126/2026 privind avizarea Regulamentului serviciului de salubrizare și a Caietelor de sarcini aferente serviciului de salubrizare, precum și acordarea unui mandat special reprezentantului UAT comuna Șărmășag în Adunarea Generală a Asociației de Dezvoltare Intercomunitară",
+"short": "HCL Șărmășag nr. 126/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/295041",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-127-2026",
+"path": "local/salaj/sarmasag/2026/127",
+"kind": "local",
+"year": "2026",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 127/2026 pentru aprobarea acordului de asociere între Județul Sălaj și Comuna Șărmășag în vederea realizării lucrărilor de pregătire și întreținere a drumurilor județene , din administrarea Consiliului Județean Sălaj, pentru perioada 2026-2027",
+"short": "HCL Șărmășag nr. 127/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/295042",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-128-2026",
+"path": "local/salaj/sarmasag/2026/128",
+"kind": "local",
+"year": "2026",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 128/2026 pentru organizarea și exploatarea jocurilor de noroc pe raza comunei Șărmășag și aprobarea Regulamentului pentru emiterea autorizației de funcționare pentru desfășurarea jocurilor de noroc de tip pariuri pe raza comunei Șărmășag, județul Sălaj",
+"short": "HCL Șărmășag nr. 128/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/295043",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

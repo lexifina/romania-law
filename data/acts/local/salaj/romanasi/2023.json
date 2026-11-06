@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/salaj/romanasi/2023",
+"acts": [
+{
+"slug": "hcl-salaj--romanasi-38-2023",
+"path": "local/salaj/romanasi/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Românași nr. 38/2023 privind aprobarea colaborării cu Citadin Zalău SRL în vederea realizării programului de gstionare a câinilor fără stăpân la nivelul comunei Românași",
+"short": "HCL Românași nr. 38/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-16",
+"latest": "2023-11-16",
+"portal": "https://emol.ro/romanasi-sj/registru-hcl/128958",
+"council": "salaj/romanasi",
+"council_name": "Consiliul Local al Comunei Românași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--romanasi-48-2023",
+"path": "local/salaj/romanasi/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Românași nr. 48/2023 privind aprobarea încheierii unui contract de prestări servicii de permanență/intervenție imediată pentru prevenirea și combaterea atacurilor exemplarelor de urs brun, între Comuna Românași, județul Sălaj și AJVPS Sălaj",
+"short": "HCL Românași nr. 48/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-16",
+"latest": "2023-11-16",
+"portal": "https://emol.ro/romanasi-sj/registru-hcl/128968",
+"council": "salaj/romanasi",
+"council_name": "Consiliul Local al Comunei Românași",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

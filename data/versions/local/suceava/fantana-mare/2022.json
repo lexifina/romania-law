@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/fantana-mare/2022",
+ "acts": [
+  {
+   "slug": "hcl-suceava--fantana-mare-44-2022",
+   "path": "local/suceava/fantana-mare/2022/44",
+   "short": "HCL Fântâna Mare nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Fântâna Mare nr. 44/2022 pentru aprobarea impozitelor şi taxelor locale pentru anul 2023,",
+   "url": "https://emol.ro/fantanamare-sv/registru-hcl/84372",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanamare-sv/registru-hcl/84372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantana-mare-45-2022",
+   "path": "local/suceava/fantana-mare/2022/45",
+   "short": "HCL Fântâna Mare nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Fântâna Mare nr. 45/2022 privind rectificarea Bugetului local de venituri si cheltuieli al Consiliului Local , pentru anul 2022",
+   "url": "https://emol.ro/fantanamare-sv/registru-hcl/84373",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanamare-sv/registru-hcl/84373",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

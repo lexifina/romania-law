@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/satu-mare/odoreu/2021",
+ "acts": [
+  {
+   "slug": "hcl-satu-mare--odoreu-70-2021",
+   "path": "local/satu-mare/odoreu/2021/70",
+   "short": "HCL Odoreu nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 70/2021 privind atribuirea de denumiri unor străzi din comuna Odoreu, Județul Satu Mare",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/73547",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/73547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-71-2021",
+   "path": "local/satu-mare/odoreu/2021/71",
+   "short": "HCL Odoreu nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 71/2021 privind atribuirea de denumiri unor străzi din comuna Odoreu, Județul Satu Mare",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/73548",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/73548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-73-2021",
+   "path": "local/satu-mare/odoreu/2021/73",
+   "short": "HCL Odoreu nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 73/2021 privind atribuirea de denumiri unor străzi din comuna Odoreu, Județul Satu Mare",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/73550",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/73550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-74-2021",
+   "path": "local/satu-mare/odoreu/2021/74",
+   "short": "HCL Odoreu nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 74/2021 privind modificarea inventarului bunurilor ce alcătuiesc domeniul public al comunei Odoreu",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/73551",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/73551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-82-2021",
+   "path": "local/satu-mare/odoreu/2021/82",
+   "short": "HCL Odoreu nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 82/2021 privind aprobarea indicatorilor tehnico-economici ai proiectului „ Consolidarea capacității unităților de învățământ din comuna Odoreu în vederea gestionării crizei COVID-19”, în scopul depunerii acestuia spre finanțare în cadrul Programului Operațional Infrastructură Mare (POIM) 2014-2020",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/73675",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/73675",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

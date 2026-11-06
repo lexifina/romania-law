@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/prahova/sotrile/2021",
+"acts": [
+{
+"slug": "hcl-prahova--sotrile-54-2021",
+"path": "local/prahova/sotrile/2021/54",
+"kind": "local",
+"year": "2021",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 54/2021 privind indexarea impozitului pe mijloacele de transport prevăzut la art. 470 alin. (5) și alin. (6) din Codul fiscal, cu modificările și completările ulterioare, prin aplicarea ratei de schimb a monedei euro în vigoare în prima zi lucrătoare a lunii octombrie 2021, la nivelurile minime prevăzute de Directiva 1999/62/CE, pe anul 2022",
+"short": "HCL Șotrile nr. 54/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/42539",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-55-2021",
+"path": "local/prahova/sotrile/2021/55",
+"kind": "local",
+"year": "2021",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 55/2021",
+"short": "HCL Șotrile nr. 55/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/42540",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

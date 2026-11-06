@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/prahova/sotrile/2022",
+"acts": [
+{
+"slug": "hcl-prahova--sotrile-66-2022",
+"path": "local/prahova/sotrile/2022/66",
+"kind": "local",
+"year": "2022",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 66/2022 privind participarea Comunei Șotrile, în parteneriat cu Județul Prahova și unități administrativ-teritoriale din cadrul județelor Prahova, Buzău si Vrancea la implementarea proiectului ”Velo Valahia” din Investiția I.4 ”Implementarea a 3.000 km de trasee cicloturistice la nivel național” finanțat din PNRR, Componenta 11 – Turism și cultură",
+"short": "HCL Șotrile nr. 66/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/84078",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-67-2022",
+"path": "local/prahova/sotrile/2022/67",
+"kind": "local",
+"year": "2022",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 67/2022 privind indexarea/stabilirea impozitelor şi taxelor locale pentru anul 2023",
+"short": "HCL Șotrile nr. 67/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/84466",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-68-2022",
+"path": "local/prahova/sotrile/2022/68",
+"kind": "local",
+"year": "2022",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 68/2022 privind indexarea impozitului pe mijloacele de transport prevăzut la art. 470 alin. (5) și alin. (6) din Codul fiscal, cu modificările și completările ulterioare, prin aplicarea ratei de schimb a monedei euro în vigoare în prima zi lucrătoare a lunii octombrie 2022, la nivelurile minime prevăzute de Directiva 1999/62/CE, pe anul 2023",
+"short": "HCL Șotrile nr. 68/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/84467",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-72-2022",
+"path": "local/prahova/sotrile/2022/72",
+"kind": "local",
+"year": "2022",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 72/2022 privind aprobarea modificarii tarifelor pentru colectarea selectiva si transportul deseurilor aplicabile utilizatorilor casnici si non casnici din zona 7 - Campina – Rural",
+"short": "HCL Șotrile nr. 72/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/84471",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-73-2022",
+"path": "local/prahova/sotrile/2022/73",
+"kind": "local",
+"year": "2022",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 73/2022 privind participarea Comunei ȘOTRILE , judetul Prahova la constituirea Grupului de Actiune Locala ,,Colinele Prahovei”",
+"short": "HCL Șotrile nr. 73/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/84472",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

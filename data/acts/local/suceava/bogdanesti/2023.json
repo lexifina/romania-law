@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/bogdanesti/2023",
+"acts": [
+{
+"slug": "hcl-suceava--bogdanesti-66-2023",
+"path": "local/suceava/bogdanesti/2023/66",
+"kind": "local",
+"year": "2023",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 66/2023 privind stabilirea impozitelor și taxelor locale pentru anul 2024",
+"short": "HCL Bogdănești nr. 66/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-26",
+"latest": "2024-01-26",
+"portal": "https://emol.ro/bogdanesti-sv/registru-hcl/139136",
+"council": "suceava/bogdanesti",
+"council_name": "Consiliul Local al Comunei Bogdănești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

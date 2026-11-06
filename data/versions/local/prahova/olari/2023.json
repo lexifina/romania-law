@@ -256,6 +256,36 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-prahova--olari-7-2023",
+   "path": "local/prahova/olari/2023/7",
+   "short": "HCL Olari nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 7/2023 privind aprobarea Reţelei scolare a unitatilor de invatamant preuniversitar de stat pentru anul scolar 2023-2024 din Comuna Olari, initiat de primar ;",
+   "url": "https://emol.ro/olari-ph/registru-hcl/94933",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/94933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-8-2023",
+   "path": "local/prahova/olari/2023/8",
+   "short": "HCL Olari nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 8/2023 privind aprobarea cererii de finanțare si a valorii proiectului pentru obiectivul de investiție: ,,DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE DIGITALE A UNITĂȚILOR DE ÎNVĂȚĂMÂNT PREUNIVERSITAR ȘI A UNITĂȚILOR CONEXE DIN LOCALITATEA OLARI” în cadrul finanțării din fondurile europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/Componenta C15",
+   "url": "https://emol.ro/olari-ph/registru-hcl/94934",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/94934",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

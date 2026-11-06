@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/scorteni/2025",
+ "acts": [
+  {
+   "slug": "hcl-prahova--scorteni-100-2025",
+   "path": "local/prahova/scorteni/2025/100",
+   "short": "HCL Scorțeni nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 100/2025 privind aprobarea contului de executie al bugetului local si al bugetului institutiilor publice finantate din venituri proprii si subventii din bugetul local la 30.11.2025",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/242235",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/242235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-101-2025",
+   "path": "local/prahova/scorteni/2025/101",
+   "short": "HCL Scorțeni nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 101/2025 privind aprobarea retelei scolare a unitatilor de invatamant preuniversitar de stat, la nivelul comunei Scorteni, pentru anul scolar 2026 - 2027",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/242236",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/242236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-102-2025",
+   "path": "local/prahova/scorteni/2025/102",
+   "short": "HCL Scorțeni nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 102/2025 privind modificarea HCL nr.35/2025 pentru indexarea si stabilirea impozitelor si taxelor locale, precum si a taxelor speciale, pe anul 2026",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/245290",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/245290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-91-2025",
+   "path": "local/prahova/scorteni/2025/91",
+   "short": "HCL Scorțeni nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 91/2025 privind stabilirea unor măsuri organizatorice pentru asigurarea intervenției de urgență în cazurile de violență domestică, semnalate la nivelul comunei Scorteni",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/238133",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/238133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-94-2025",
+   "path": "local/prahova/scorteni/2025/94",
+   "short": "HCL Scorțeni nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 94/2025 privind aprobarea revizuirii proiectului tehnic pentru obiectivul de investitii ”Asigurarea infrastructurii pentru transportul verde – piste pentru biciclete (si alte vehicule usoare) la nivel local/metropolitan in cadrul UAT Scorteni”;",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/242229",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/242229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-95-2025",
+   "path": "local/prahova/scorteni/2025/95",
+   "short": "HCL Scorțeni nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 95/2025 privind aprobarea actualizarii Planului Anual de Achizitii Publice, pe anul 2025",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/242230",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/242230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-96-2025",
+   "path": "local/prahova/scorteni/2025/96",
+   "short": "HCL Scorțeni nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 96/2025 privind aprobarea Programului Anual al Achizitiilor Publice pentru anul 2026 – forma initiala",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/242231",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/242231",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

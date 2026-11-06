@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 69/2024 privind actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „EXTINDERE SIATEM DE ALIMENTARE CU APĂ ÎN SATELE PĂISENI, SASCA MARE ȘI ȘINCA DIN COMUNA CORNU LUNCII, JUDEȚUL SUCEAVA”
+
+HCL Cornu Luncii nr. 69/2024 · 1 versions, from 2024-11-12 (latest in force: 2024-11-12) · <https://emol.ro/cornuluncii-sv/registru-hcl/223657>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-suceava--cornu-luncii-69-2024` (tags `hcl-suceava--cornu-luncii-69-2024/<day>`; `python tools/on.py <day> hcl-suceava--cornu-luncii-69-2024`).
+
+## Decisions made by hand
+
+- HCL Cornu Luncii nr. 69/2024: listed from Consiliul Local al Comunei Cornu Luncii (emol.ro); metadata only for now: no document of it is held.
+- HCL Cornu Luncii nr. 69/2024: dated from 12 November 2024, the day it was adopted (the register gives no later day of publication).
+- HCL Cornu Luncii nr. 69/2024: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

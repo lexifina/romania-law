@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/hantesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-suceava--hantesti-100-2025",
+   "path": "local/suceava/hantesti/2025/100",
+   "short": "HCL Hănțești nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 100/2025 privind aprobarea impozitelor și taxelor locale, precum și taxele speciale pentru anul 2026, la nivelul Comunei Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/248741",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-101-2025",
+   "path": "local/suceava/hantesti/2025/101",
+   "short": "HCL Hănțești nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 101/2025 privind aprobarea Strategiei anuale de achiziții publice a comunei Hănțești,județul Suceava, pentru anul 2026",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/248742",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-106-2025",
+   "path": "local/suceava/hantesti/2025/106",
+   "short": "HCL Hănțești nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 106/2025 privind implementarea proiectului ,,Modernizarea și extinderea rețelei de iluminat public în comuna Hănțești, județul Suceava”",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/248747",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-107-2025",
+   "path": "local/suceava/hantesti/2025/107",
+   "short": "HCL Hănțești nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 107/2025 privind aprobarea înființării serviciului social ”Centru de zi pentru copii în comuna Hănțești, județul Suceava”",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/248748",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-108-2025",
+   "path": "local/suceava/hantesti/2025/108",
+   "short": "HCL Hănțești nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 108/2025 privind aprobarea modificării Organigramei și Statului de funcții pentru aparatul de specialitate al primarului comunei Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/248749",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-109-2025",
+   "path": "local/suceava/hantesti/2025/109",
+   "short": "HCL Hănțești nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 109/2025 privind alegerea presedintelui de sedinta pentru conducerea ședințelor Consiliului local Hănțești, de la data de 01.01.2026 până la data de 31.03.2026",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/248750",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-91-2025",
+   "path": "local/suceava/hantesti/2025/91",
+   "short": "HCL Hănțești nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 91/2025 privind aprobarea devizului final general pentru obiectivul de investiție “Centru de zi pentru copii în comuna Hănțești, județul Suceava”",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/248730",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-92-2025",
+   "path": "local/suceava/hantesti/2025/92",
+   "short": "HCL Hănțești nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 92/2025",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/248731",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-93-2025",
+   "path": "local/suceava/hantesti/2025/93",
+   "short": "HCL Hănțești nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 93/2025 privind trecerea din domeniul privat al comunei Hănțești în domeniul public al comunei Hănțești a terenului în suprafață de 1600 mp înregistrat în Cartea Funciară nr. 35935",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/248732",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-94-2025",
+   "path": "local/suceava/hantesti/2025/94",
+   "short": "HCL Hănțești nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 94/2025",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/248735",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-95-2025",
+   "path": "local/suceava/hantesti/2025/95",
+   "short": "HCL Hănțești nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 95/2025 privind aprobarea contractării de servicii juridice pentru anul 2026, pentru Comuna Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/248736",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-97-2025",
+   "path": "local/suceava/hantesti/2025/97",
+   "short": "HCL Hănțești nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 97/2025 privind aprobarea devizului general actualizat, în urma suplimentării valorii contractului de execuție lucrări nr. 4291/07.08.2024 privind obiectivul de investiție ,,Construirea de locuințe nZEB pentru specialiști în comuna Hănțești″",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/248738",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-98-2025",
+   "path": "local/suceava/hantesti/2025/98",
+   "short": "HCL Hănțești nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 98/2025 privind aprobarea Planului de dezvoltare a serviciilor sociale prevăzut în Legea nr. 100/2024 pentru modificarea și completarea unor acte normative în domeniul asistenței sociale, precum și pentru completarea Legii nr. 78/2014 privind reglementarea activității de voluntariat în România și pentru modificarea Legii nr. 272/2004 privind protecția și promovarea drepturilor copilului, în vederea depunerii documentației de acreditare a Primăriei comunei Hănțești ca furnizor de servicii sociale",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/248739",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-99-2025",
+   "path": "local/suceava/hantesti/2025/99",
+   "short": "HCL Hănțești nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 99/2025 privind aprobarea Strategiei de dezvoltare a serviciilor sociale la nivelul Comunei Hănțești, județul Suceava, pentru perioada 2025 - 2030",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/248740",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248740",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

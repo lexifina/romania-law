@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/stefesti/2020",
+ "acts": [
+  {
+   "slug": "hcl-prahova--stefesti-24-2020",
+   "path": "local/prahova/stefesti/2020/24",
+   "short": "HCL Ștefești nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 24/2020 privind aprobarea contului de execuție al bugetului local pe trimestrul II al anului 2020",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25793",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-25-2020",
+   "path": "local/prahova/stefesti/2020/25",
+   "short": "HCL Ștefești nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 25/2020",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25794",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-26-2020",
+   "path": "local/prahova/stefesti/2020/26",
+   "short": "HCL Ștefești nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 26/2020 privind rectificarea utilizării excedentului pe anul 2020 al bugetului local",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25795",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-27-2020",
+   "path": "local/prahova/stefesti/2020/27",
+   "short": "HCL Ștefești nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 27/2020 privind asocierea Comunei Ștefești, cu Județul Prahova, în vederea realizării obiectivului: „Modernizare drum local Pîrvulescu”, comuna Ștefești, județul Prahova",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25796",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-28-2020",
+   "path": "local/prahova/stefesti/2020/28",
+   "short": "HCL Ștefești nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 28/2020 privind aprobarea rectificării bugetului local pe anul 2020 și estimări pentru anii 2021-2023",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25797",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-29-2020",
+   "path": "local/prahova/stefesti/2020/29",
+   "short": "HCL Ștefești nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 29/2020 privind aprobarea Regulamentului de organizare și funcționare a Consiliului local al comunei Ștefești",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25798",
+   "versions": [
+    {
+     "from": "2020-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-30-2020",
+   "path": "local/prahova/stefesti/2020/30",
+   "short": "HCL Ștefești nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 30/2020 privind alegerea Președintelui de ședință al Consiliului Local al comunei Ștefești",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25810",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-31-2020",
+   "path": "local/prahova/stefesti/2020/31",
+   "short": "HCL Ștefești nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 31/2020 privind stabilirea numărului și organizarea comisiilor de specialitate ale Consiliului local al comunei Ștefești, județul Prahova",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25811",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-32-2020",
+   "path": "local/prahova/stefesti/2020/32",
+   "short": "HCL Ștefești nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 32/2020 privind aprobarea revizuirii Regulamentului de organizare și funcționare al Consiliului Local al comunei Ștefești",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25812",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-33-2020",
+   "path": "local/prahova/stefesti/2020/33",
+   "short": "HCL Ștefești nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 33/2020",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25813",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-34-2020",
+   "path": "local/prahova/stefesti/2020/34",
+   "short": "HCL Ștefești nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 34/2020 privind alegerea viceprimarului comunei Ștefești, județul Prahova",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25814",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-38-2020",
+   "path": "local/prahova/stefesti/2020/38",
+   "short": "HCL Ștefești nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 38/2020 privind rectificarea bugetului local inițial pe anul 2020 și estimări pentru anii 2021-2023",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25818",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-39-2020",
+   "path": "local/prahova/stefesti/2020/39",
+   "short": "HCL Ștefești nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 39/2020 privind aprobarea numărului de burse școlare și a cunatumului unei burse pentru elevii din unitatea de învățământ preuniversitar din comuna Ștefești",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25819",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-40-2020",
+   "path": "local/prahova/stefesti/2020/40",
+   "short": "HCL Ștefești nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 40/2020",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25820",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-41-2020",
+   "path": "local/prahova/stefesti/2020/41",
+   "short": "HCL Ștefești nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 41/2020 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2021",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25821",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-42-2020",
+   "path": "local/prahova/stefesti/2020/42",
+   "short": "HCL Ștefești nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 42/2020 privind transformarea funcției publice de execuție temporar vacante de inspector grad profesional superior, Compartimentul financiar-contabil din aparatul de specialitate al primarului comunei Ștefești, într-o funcție de nivel inferior (inspector debutant)",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25822",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-43-2020",
+   "path": "local/prahova/stefesti/2020/43",
+   "short": "HCL Ștefești nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 43/2020 privind alegerea președintelui de ședință pentru următoarele trei luni",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25823",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25823",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

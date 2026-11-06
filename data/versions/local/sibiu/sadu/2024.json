@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "local/sibiu/sadu/2024",
+ "acts": [
+  {
+   "slug": "hcl-sibiu--sadu-100-2024",
+   "path": "local/sibiu/sadu/2024/100",
+   "short": "HCL Sadu nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 100/2024 privind organizarea rețelei școlare la nivelul comunei Sadu pentru anul şcolar 2025-2026",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/179382",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/179382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-101-2024",
+   "path": "local/sibiu/sadu/2024/101",
+   "short": "HCL Sadu nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 101/2024 privind aprobarea organizării activităților culturale-tradiționale cu ocazia sărbătorilor de iarnă la nivelul Comunei Sadu, potrivit Statului comunei Sadu aprobat prin HCL nr. 28/2020 și acordarea unor facilităţi tinerilor ce organizează „Ceata Junilor”",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/179383",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/179383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-103-2024",
+   "path": "local/sibiu/sadu/2024/103",
+   "short": "HCL Sadu nr. 103/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 103/2024 privind stabilirea prețurilor de pornire la licitație/ negociere pentru masa lemnoasă fasonată provenită din fondul forestier proprietate publică a comunei Sadu",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/179385",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/179385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-104-2024",
+   "path": "local/sibiu/sadu/2024/104",
+   "short": "HCL Sadu nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 104/2024 privind prelungirea termenului de acordare a facilitățlor fiscale aprobate prin Hotărârea Consiliului Local al comunei Sadu nr. 74/2024 privind aprobarea acordării unor facilități fiscale în cazul obligațiilor restante la data de 31 august 2024, datorate bugetului local al comunei Sadu",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/179386",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/179386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-105-2024",
+   "path": "local/sibiu/sadu/2024/105",
+   "short": "HCL Sadu nr. 105/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 105/2024 privind rectificarea bugetului local de venituri și cheltuieli al comunei Sadu pe anul 2024",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/183557",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/183557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-106-2024",
+   "path": "local/sibiu/sadu/2024/106",
+   "short": "HCL Sadu nr. 106/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 106/2024 privind aprobarea acoperirii golurilor temporare de casă în Bugetul de Venituri și Cheltuieli al comunei Sadu, pentru anul 2025, din excedentul anului precedent pentru secțiunea de funcționare",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/183558",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/183558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-107-2024",
+   "path": "local/sibiu/sadu/2024/107",
+   "short": "HCL Sadu nr. 107/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 107/2024 privind acordarea pungilor de Moș Crăciun pentru copiii de pe raza comunei Sadu",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/183559",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/183559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-108-2024",
+   "path": "local/sibiu/sadu/2024/108",
+   "short": "HCL Sadu nr. 108/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 108/2024 privind alocarea prin transfer a sumelor pentru completarea fondurilor proprii ale unitatilor de cult in anul 2024",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/183560",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/183560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-109-2024",
+   "path": "local/sibiu/sadu/2024/109",
+   "short": "HCL Sadu nr. 109/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 109/2024 privind aprobarea Registrului local al spațiilor verzi din comuna Sadu, județul Sibiu",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/183561",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/183561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-110-2024",
+   "path": "local/sibiu/sadu/2024/110",
+   "short": "HCL Sadu nr. 110/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 110/2024",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/183562",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/183562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-111-2024",
+   "path": "local/sibiu/sadu/2024/111",
+   "short": "HCL Sadu nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 111/2024 privind stabilirea preţurilor de pornire la licitaţie/negociere pentru masa lemnoasă pe picior provenită din fondul forestier proprietate publică a comunei Sadu",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/183563",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/183563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-112-2024",
+   "path": "local/sibiu/sadu/2024/112",
+   "short": "HCL Sadu nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 112/2024 privind aprobarea prețului de referință pe picior al unui metru cub de lemn folosit la calculul prețului APV și a metodologiei folosite pentru calculul prețului de APV pentru partizile ce urmează a fi scoase la licitație în anul 2025, provenite din fondul forestier proprietate publică a comunei Sadu",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/183564",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/183564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-113-2024",
+   "path": "local/sibiu/sadu/2024/113",
+   "short": "HCL Sadu nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 113/2024 privind aprobarea volumului și a prețurilor pentru valorificarea masei lemnoase provenite din fondul forestier proprietate publică a comunei Sadu, pentru anul 2025",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/183565",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/183565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-114-2024",
+   "path": "local/sibiu/sadu/2024/114",
+   "short": "HCL Sadu nr. 114/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 114/2024 privind aprobarea actualizării devizului general al investiției și a indicatorilor tehnico-economici, precum și a devizelor generale pe loturi pentru obiectivul de investiții ,,REABILITAREA MODERATĂ A CLĂDIRILOR DIN DOMENIUL PUBLIC PENTRU ÎMBUNĂTĂȚIREA SERVICIILOR PRESTATE LA NIVELUL UAT SADU, JUDEȚUL SIBIU”",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/183566",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/183566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-95-2024",
+   "path": "local/sibiu/sadu/2024/95",
+   "short": "HCL Sadu nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 95/2024 privind stabilirea nivelurilor impozitului pe mijloacele de transport, în cazul unui autovehicul de transport de marfă cu masa totală autorizată egală sau mai mare de 12 tone, precum și în cazul unei combinaţii de autovehicule, un autovehicul articulat sau tren rutier, de transport de marfă cu masa totală maximă autorizată egală sau mai mare de 12 tone, aplicabile în anul fiscal 2025",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/179377",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/179377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-96-2024",
+   "path": "local/sibiu/sadu/2024/96",
+   "short": "HCL Sadu nr. 96/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 96/2024 privind stabilirea taxei speciale de salubrizare pentru anul 2025 la nivelul comunei Sadu",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/179378",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/179378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-98-2024",
+   "path": "local/sibiu/sadu/2024/98",
+   "short": "HCL Sadu nr. 98/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 98/2024 privind trecerea din domeniul privat în domeniul public al comunei Sadu a terenului identificat prin CF nr. 108573 Sadu, nr. cad. 108573",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/179380",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/179380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-99-2024",
+   "path": "local/sibiu/sadu/2024/99",
+   "short": "HCL Sadu nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 99/2024 privind aprobarea documentatiei tehnico-economice faza Studiu de Fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investitii \"Construcție și dotare Centru Comunitar Integrat în comuna Sadu, județul Sibiu\"",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/179381",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/179381",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

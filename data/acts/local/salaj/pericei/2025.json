@@ -1,0 +1,226 @@
+{
+"country": "RO",
+"shard": "local/salaj/pericei/2025",
+"acts": [
+{
+"slug": "hcl-salaj--pericei-59-2025",
+"path": "local/salaj/pericei/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 59/2025 privind aprobarea planului de investiții pentru anul 2025 al Comunei Pericei aferent activelor date în administrare sau concesiune cu finanțare din Fondul Întreținere, Înlocuire si Dezvoltare",
+"short": "HCL Pericei nr. 59/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/234244",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--pericei-63-2025",
+"path": "local/salaj/pericei/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 63/2025 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de stat și particular din raza teritorială pentru anul școlar 2026-2027",
+"short": "HCL Pericei nr. 63/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/237514",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--pericei-64-2025",
+"path": "local/salaj/pericei/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 64/2025 privind stabilirea impozitelor și taxelor precum și a taxelor speciale pe anul 2026",
+"short": "HCL Pericei nr. 64/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/237515",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--pericei-68-2025",
+"path": "local/salaj/pericei/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 68/2025 privind rectificarea bugetului local al comunei Pericei",
+"short": "HCL Pericei nr. 68/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/237519",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--pericei-69-2025",
+"path": "local/salaj/pericei/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 69/2025 privind rectificarea bugetului local al comunei Pericei",
+"short": "HCL Pericei nr. 69/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/239846",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--pericei-72-2025",
+"path": "local/salaj/pericei/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 72/2025 privind rectificarea bugetului local al comunei Pericei",
+"short": "HCL Pericei nr. 72/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/242171",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--pericei-73-2025",
+"path": "local/salaj/pericei/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 73/2025 privind rectificarea bugetului local al comunei Pericei",
+"short": "HCL Pericei nr. 73/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/244491",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--pericei-74-2025",
+"path": "local/salaj/pericei/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 74/2025 privind stabilirea impozitelor și taxelor precum și a taxelor speciale pe anul 2026",
+"short": "HCL Pericei nr. 74/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/244492",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--pericei-75-2025",
+"path": "local/salaj/pericei/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 75/2025 privind alegerea președintelui de ședință",
+"short": "HCL Pericei nr. 75/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/244493",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--pericei-76-2025",
+"path": "local/salaj/pericei/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 76/2025 privind completarea art.1 din Hotărârea Consiliului local Pericei nr. 66 din 27.11.2025",
+"short": "HCL Pericei nr. 76/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/244494",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

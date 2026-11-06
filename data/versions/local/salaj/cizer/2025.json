@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/salaj/cizer/2025",
+ "acts": [
+  {
+   "slug": "hcl-salaj--cizer-75-2025",
+   "path": "local/salaj/cizer/2025/75",
+   "short": "HCL Cizer nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 75/2025 privind aprobarea Devizului General pentru realizarea obiectivului de investiții ,, EXTINDERE REŢEA ALIMETARE CU APĂ ÎN LOCALITATEA CIZER, COMUNA CIZER, JUDEŢUL SĂLAJ\"",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/229999",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/229999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-82-2025",
+   "path": "local/salaj/cizer/2025/82",
+   "short": "HCL Cizer nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 82/2025 privind rectificarea bugetului local de venituri şi cheltuieli şi validarea Dispoziţiei primarului nr. 163 din 30.09.2025 privind rectificarea bugetului local de venituri şi cheltuieli pentru anul 2025",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/237075",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/237075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-89-2025",
+   "path": "local/salaj/cizer/2025/89",
+   "short": "HCL Cizer nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 89/2025 privind rectificarea bugetului local de venituri şi cheltuieli pentru anul 2025",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/240246",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/240246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-90-2025",
+   "path": "local/salaj/cizer/2025/90",
+   "short": "HCL Cizer nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 90/2025 privind rectificarea bugetului local de venituri şi cheltuieli şi validarea Dispoziţiei primarului nr. 197 din 17.12.2025 privind rectificarea bugetului local de venituri şi cheltuieli pentru anul 2025",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/243050",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/243050",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

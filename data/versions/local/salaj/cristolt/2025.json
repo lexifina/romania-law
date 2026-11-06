@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/salaj/cristolt/2025",
+ "acts": [
+  {
+   "slug": "hcl-salaj--cristolt-52-2025",
+   "path": "local/salaj/cristolt/2025/52",
+   "short": "HCL Cristolț nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 52/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/cristolt-sj/registru-hcl/234789",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cristolt-sj/registru-hcl/234789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cristolt-54-2025",
+   "path": "local/salaj/cristolt/2025/54",
+   "short": "HCL Cristolț nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 54/2025 privind modificarea și completarea actualizarii Planului Anual de Achizitii Publice, pe anul 2025",
+   "url": "https://emol.ro/cristolt-sj/registru-hcl/234791",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cristolt-sj/registru-hcl/234791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cristolt-60-2025",
+   "path": "local/salaj/cristolt/2025/60",
+   "short": "HCL Cristolț nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 60/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/cristolt-sj/registru-hcl/240544",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cristolt-sj/registru-hcl/240544",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

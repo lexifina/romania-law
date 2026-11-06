@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/hantesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-suceava--hantesti-100-2024",
+   "path": "local/suceava/hantesti/2024/100",
+   "short": "HCL Hănțești nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 100/2024 privind aprobarea Strategiei anuale de achiziții publice a comunei Hănțești, județul Suceava, pentru anul 2025",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/192459",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/192459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-101-2024",
+   "path": "local/suceava/hantesti/2024/101",
+   "short": "HCL Hănțești nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 101/2024 privind ...aprobarea contractării de servicii juridice pentru anul 2025, pentru Comuna Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/192460",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/192460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-102-2024",
+   "path": "local/suceava/hantesti/2024/102",
+   "short": "HCL Hănțești nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 102/2024 privind alegerea presedintelui de sedinta pentru conducerea ședințelor Consiliului localHănțești, de la data de 01.01.2025 până la data de 31.03.2025",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/192461",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/192461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-103-2024",
+   "path": "local/suceava/hantesti/2024/103",
+   "short": "HCL Hănțești nr. 103/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 103/2024",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/192462",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/192462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-84-2024",
+   "path": "local/suceava/hantesti/2024/84",
+   "short": "HCL Hănțești nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 84/2024 privind aprobarea rectificării bugetului local al comunei Hănțești, județul Suceava,pentru anul 2024",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/183868",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/183868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-85-2024",
+   "path": "local/suceava/hantesti/2024/85",
+   "short": "HCL Hănțești nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 85/2024 privind participarea UAT Comuna Hănţeşti, județul Suceava la Programul Regional 2021 – 2027 pentru obiectivul de investiții : ”Reabilitare, modernizare, extindere şi dotare unităţi de învăţământ în comuna Hănţeşti, judeţul Suceava”",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/183869",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/183869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-86-2024",
+   "path": "local/suceava/hantesti/2024/86",
+   "short": "HCL Hănțești nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 86/2024 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de stat din comuna Hănțești, județul Suceava, pentru anul școlar 2025 – 2026",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/183904",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/183904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-87-2024",
+   "path": "local/suceava/hantesti/2024/87",
+   "short": "HCL Hănțești nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 87/2024",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/183905",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/183905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-88-2024",
+   "path": "local/suceava/hantesti/2024/88",
+   "short": "HCL Hănțești nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 88/2024 privind aprobarea execuţiei bugetului local al comunei Hănțești, județul Suceava, la data de 30.09.2024",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/183906",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/183906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-89-2024",
+   "path": "local/suceava/hantesti/2024/89",
+   "short": "HCL Hănțești nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 89/2024 privind aprobarea modificării Statului de funcții pentru aparatul de specialitate al primarului comunei Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/183907",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/183907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-90-2024",
+   "path": "local/suceava/hantesti/2024/90",
+   "short": "HCL Hănțești nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 90/2024 privind aprobarea rectificării bugetului local al comunei Hănțești, județul Suceava,pentru anul 2024",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/183911",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/183911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-91-2024",
+   "path": "local/suceava/hantesti/2024/91",
+   "short": "HCL Hănțești nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 91/2024 privind aprobarea rectificării bugetului local al comunei Hănțești, județul Suceava, pentru anul 2024",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/192435",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/192435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-92-2024",
+   "path": "local/suceava/hantesti/2024/92",
+   "short": "HCL Hănțești nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 92/2024 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico – economici pentru proiectul ,,Modernizare sistem comunal integrat de colectare și valorificare a gunoiului de grajd în comuna Hănțești, județul Suceava″",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/192436",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/192436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-93-2024",
+   "path": "local/suceava/hantesti/2024/93",
+   "short": "HCL Hănțești nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 93/2024 privind aprobarea rectificării bugetului local al comunei Hănțești, județul Suceava, pentru anul 2024",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/192446",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/192446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-94-2024",
+   "path": "local/suceava/hantesti/2024/94",
+   "short": "HCL Hănțești nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 94/2024 privind aprobarea rectificării bugetului local al comunei Hănțești, județul Suceava, pentru anul 2024",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/192451",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/192451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-95-2024",
+   "path": "local/suceava/hantesti/2024/95",
+   "short": "HCL Hănțești nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 95/2024 privind aprobarea rectificării bugetului local al comunei Hănțești, județul Suceava, pentru anul 2024",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/192452",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/192452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-96-2024",
+   "path": "local/suceava/hantesti/2024/96",
+   "short": "HCL Hănțești nr. 96/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 96/2024 privind ...aprobarea rectificării bugetului local al comunei Hănțești, județul Suceava,pentru anul 2024",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/192453",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/192453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-97-2024",
+   "path": "local/suceava/hantesti/2024/97",
+   "short": "HCL Hănțești nr. 97/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 97/2024 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local al comunei Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/192456",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/192456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-98-2024",
+   "path": "local/suceava/hantesti/2024/98",
+   "short": "HCL Hănțești nr. 98/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 98/2024 privind aprobarea Regulamentului de organizare și funcționare a aparatului de specialitate al primarului comunei Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/192457",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/192457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-99-2024",
+   "path": "local/suceava/hantesti/2024/99",
+   "short": "HCL Hănțești nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 99/2024 privind aprobarea impozitelor și taxelor locale,precum și taxele speciale pentru anul 2025, pentru Comuna Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/192458",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/192458",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

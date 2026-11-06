@@ -1,0 +1,271 @@
+{
+"country": "RO",
+"shard": "local/prahova/plopu/2023",
+"acts": [
+{
+"slug": "hcl-prahova--plopu-109-2023",
+"path": "local/prahova/plopu/2023/109",
+"kind": "local",
+"year": "2023",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 109/2023 privind APROBAREA FONDURILOR NECESARE ACORDARII SUPLIMENTULUI PENTRU COMBUSTIBILI SOLIZI SAU LICHIZI, AFERENTE LUNII SEPTEMBRIE/ 2023\"",
+"short": "HCL Plopu nr. 109/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-09",
+"latest": "2023-11-09",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/131514",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-110-2023",
+"path": "local/prahova/plopu/2023/110",
+"kind": "local",
+"year": "2023",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 110/2023 privind MODIFICAREA HOTARARII CONSILIULUI LOCAL PLOPU NR.98/29.09.2023",
+"short": "HCL Plopu nr. 110/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-09",
+"latest": "2023-11-09",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/128565",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-111-2023",
+"path": "local/prahova/plopu/2023/111",
+"kind": "local",
+"year": "2023",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 111/2023 privind Aprobarea Devizului General Actualizat pentru obiectivul de investitii ,,CLĀDIRILE PUBLICE - GRADINIŢA CU PROGRAM NORMAL COMUNA PLOPU, SAT PLOPU, JUDEŢUL PRAHOVA”",
+"short": "HCL Plopu nr. 111/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-09",
+"latest": "2023-11-09",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/128566",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-112-2023",
+"path": "local/prahova/plopu/2023/112",
+"kind": "local",
+"year": "2023",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 112/2023 privind Aprobarea Devizului General actualizat pentru obiectivul de investitii ,,CRESTEREA EFICENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN CLADIRILE PUBLICE - SCOALA, SAT NISIPOASA, COMUNA PLOPU, JUDETUL PRAHOVA”",
+"short": "HCL Plopu nr. 112/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-09",
+"latest": "2023-11-09",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/128567",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-113-2023",
+"path": "local/prahova/plopu/2023/113",
+"kind": "local",
+"year": "2023",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 113/2023",
+"short": "HCL Plopu nr. 113/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/130254",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--plopu-114-2023",
+"path": "local/prahova/plopu/2023/114",
+"kind": "local",
+"year": "2023",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 114/2023 privind Aprobarea modificarii Hotararii Consiliului Local Plopu nr.44 din 25.04.2023",
+"short": "HCL Plopu nr. 114/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-28",
+"latest": "2023-11-28",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/131482",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-115-2023",
+"path": "local/prahova/plopu/2023/115",
+"kind": "local",
+"year": "2023",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 115/2023 privind APROBAREA BUGETULUI LOCAL PE ANUL 2023, ESTIMARI PENRU ANII 2024 - 2026 SI A LISTEI OBIECTIVELOR DE INVESTITII PE ANUL 2023",
+"short": "HCL Plopu nr. 115/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-28",
+"latest": "2023-11-28",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/131483",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-116-2023",
+"path": "local/prahova/plopu/2023/116",
+"kind": "local",
+"year": "2023",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 116/2023 privind APROBAREA CONTRACTULUI DE FINANTARE NR.2421/03.10.2023 INREGISTRAT LA UAT COMUNA PLOPU SUB NR.9150/09.10.2023 INCHEIAT INTRE MINISTERUL DEZVOLTARII LUCRARILOR PUBLICE SI ADMINISTRATIEI SI UAT COMUNA PLOPU PENTRU REALIZAREA OBIECTIVULUI DE INVESTITII „REABILITARE SI MODERNIZARE DRUMURI LOCALE SI COMUNALE DIN SATELE PLOPU SI NISIPOASA COMUNA PLOPU, JUDETUL PRAHOVA”, PRIN PROGRAMUL NATIONAL DE INVESTITII „ANGHEL SALIGNY”",
+"short": "HCL Plopu nr. 116/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-28",
+"latest": "2023-11-28",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/131484",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-118-2023",
+"path": "local/prahova/plopu/2023/118",
+"kind": "local",
+"year": "2023",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 118/2023 privind APROBAREA FONDURILOR NECESARE ACORDARII SUPLIMENTULUI PENTRU CONSUMUL DE COMBUSTIBILI SOLIZI SAU LICHIZI AFERENTE LUNII OCTOMBRIE/ 2023",
+"short": "HCL Plopu nr. 118/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-28",
+"latest": "2023-11-28",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/131486",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-119-2023",
+"path": "local/prahova/plopu/2023/119",
+"kind": "local",
+"year": "2023",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 119/2023 privind APROBAREA ADERARII COMUNEI PLOPU, JUDETUL PRAHOVA, LA TERITORIUL ELIGIBIL REPREZENTAT DE ASOCIATIA FLAG PRAHOVA",
+"short": "HCL Plopu nr. 119/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-28",
+"latest": "2023-11-28",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/131487",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-127-2023",
+"path": "local/prahova/plopu/2023/127",
+"kind": "local",
+"year": "2023",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 127/2023 privind RECTIFICAREA BUGETULUI LOCAL PE ANUL 2023, ESTIMARI PENRU ANII 2024 – 2026 SI A LISTEI OBIECTIVELOR DE INVESTITII PE ANUL 2023",
+"short": "HCL Plopu nr. 127/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/135296",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-128-2023",
+"path": "local/prahova/plopu/2023/128",
+"kind": "local",
+"year": "2023",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 128/2023 privind STABILIREA TAXELOR SI IMPOZITELOR LOCALE, PENTRU ANUL 2024 PENTRU SUMELE PREVAZUTE LA ART.470 ALIN.(5) SI (6) DIN CODUL FISCAL",
+"short": "HCL Plopu nr. 128/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/135297",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

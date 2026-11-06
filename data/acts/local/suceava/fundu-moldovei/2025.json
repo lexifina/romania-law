@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/suceava/fundu-moldovei/2025",
+"acts": [
+{
+"slug": "hcl-suceava--fundu-moldovei-60-2025",
+"path": "local/suceava/fundu-moldovei/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 60/2025 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul local al comunei Fundu Moldovei, pe anul 2026",
+"short": "HCL Fundu Moldovei nr. 60/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/239370",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-64-2025",
+"path": "local/suceava/fundu-moldovei/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 64/2025",
+"short": "HCL Fundu Moldovei nr. 64/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/239374",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-65-2025",
+"path": "local/suceava/fundu-moldovei/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 65/2025 privind actualizarea anexelor nr.1 si nr. 2 aferente Hotărârii nr. 45 din 18.09.2025 pentru implementarea proiectului ”ACHIZIȚIA UNEI AUTOSPECIALE MULTIFUNCȚIONALE ÎN VEDEREA ÎMBUNĂTĂȚIRII SERVICIILOR PUBLICE ÎN COMUNA FUNDU MOLDOVEI, JUDEȚUL SUCEAVA”",
+"short": "HCL Fundu Moldovei nr. 65/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/249040",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-68-2025",
+"path": "local/suceava/fundu-moldovei/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 68/2025 privind aprobarea Planului de dezvoltare a serviciilor sociale pentru perioada 2026 - 2030",
+"short": "HCL Fundu Moldovei nr. 68/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/249144",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-71-2025",
+"path": "local/suceava/fundu-moldovei/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 71/2025 privind stabilirea și aprobarea nivelurilor pentru valorile impozabile, impozitele și taxele locale și alte taxe asimilate acestora, precum și amenzile aplicabile începând cu anul fiscal 2026",
+"short": "HCL Fundu Moldovei nr. 71/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/249397",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

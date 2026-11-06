@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/suceava/dorna-candrenilor/2023",
+"acts": [
+{
+"slug": "hcl-suceava--dorna-candrenilor-92-2023",
+"path": "local/suceava/dorna-candrenilor/2023/92",
+"kind": "local",
+"year": "2023",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 92/2023 privind aprobarea organizării și desfășurării Festivalului „La izvor de apă vie”, ediția XX-a, în data de 20 august 2023, în comuna Dorna Candrenilor, județul Suceava",
+"short": "HCL Dorna Candrenilor nr. 92/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-06",
+"latest": "2023-11-06",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/127846",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-94-2023",
+"path": "local/suceava/dorna-candrenilor/2023/94",
+"kind": "local",
+"year": "2023",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 94/2023 privind aprobarea executării de lucrări de „Imprietruire, reparare drumuri forestiere și comunale, în comuna Dorna Candrenilor”, județul Suceava și însușirea documentației economice",
+"short": "HCL Dorna Candrenilor nr. 94/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-06",
+"latest": "2023-11-06",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/127848",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-95-2023",
+"path": "local/suceava/dorna-candrenilor/2023/95",
+"kind": "local",
+"year": "2023",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 95/2023 privind aprobarea executării de lucrări de „Construcții monument, masă izvor și reparații diverse”, în comuna Dorna Candrenilor, județul Suceava și însușirea documentației economice",
+"short": "HCL Dorna Candrenilor nr. 95/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-06",
+"latest": "2023-11-06",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/127849",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

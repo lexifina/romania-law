@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/prahova/sotrile/2020",
+"acts": [
+{
+"slug": "hcl-prahova--sotrile-43-2020",
+"path": "local/prahova/sotrile/2020/43",
+"kind": "local",
+"year": "2020",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 43/2020 privind aprobarea diferențierii tipului de suport alimentar acordat preșcolarilor/elevilor Școlii Gimnaziale comuna Șotrile",
+"short": "HCL Șotrile nr. 43/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-09-11",
+"latest": "2020-09-11",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/10018",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-44-2020",
+"path": "local/prahova/sotrile/2020/44",
+"kind": "local",
+"year": "2020",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 44/2020 privind asocierea Comunei Șotrile cu județul Prahova în vederea realizării obiectivului de investiție ”Reparații drumuri locale- comuna Șotrile”",
+"short": "HCL Șotrile nr. 44/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-09-11",
+"latest": "2020-09-11",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/10019",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-46-2020",
+"path": "local/prahova/sotrile/2020/46",
+"kind": "local",
+"year": "2020",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 46/2020 privind aprobarea indicatorilor tehnico- economici actualizați pentru obiectivul de investitii \"Reabilitare si modernizare Scoala Generala, comuna Sotrile, judetul Prahova\"",
+"short": "HCL Șotrile nr. 46/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-10-26",
+"latest": "2020-10-26",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/10463",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-47-2020",
+"path": "local/prahova/sotrile/2020/47",
+"kind": "local",
+"year": "2020",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 47/2020 privind asigurarea cofinanţării obiectivului de investiţie \"Reabilitare si modernizare Scoala Generala,comuna Sotrile, judetul Prahova",
+"short": "HCL Șotrile nr. 47/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-10-26",
+"latest": "2020-10-26",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/10464",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

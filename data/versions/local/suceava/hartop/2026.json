@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/hartop/2026",
+ "acts": [
+  {
+   "slug": "hcl-suceava--hartop-11-2026",
+   "path": "local/suceava/hartop/2026/11",
+   "short": "HCL Hârtop nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 11/2026 privind aprobarea Regulamentului Serviciului de salubrizare al Județului Suceava Consiliul local al comunei Hârtop, Județul Suceava, având in vedere: - Referatul de aprobare al primarului comunei Hârtop, în calitate de inițiator al proiectului de hotărâre, ca instrument de prezentare și motivare înregistrat cu nr.564 din 23.02.2026; - Raportul compartimentului de resort din cadrul aparatului de sp",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/04/hcl-11-martie-2026.pdf",
+     "sha256": "9facdbebac10fe2eaf067a429f3a9f0046671d1fc4a8c76a633a28d4b9b4c592"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/sibiu/rosia/2024",
+"acts": [
+{
+"slug": "hcl-sibiu--rosia-76-2024",
+"path": "local/sibiu/rosia/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 76/2024 privind indexarea și aprobarea impozitelor si taxelor locale în Comuna Rosia, judeţul Sibiu pentru anul 2025",
+"short": "HCL Roșia nr. 76/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/177788",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-79-2024",
+"path": "local/sibiu/rosia/2024/79",
+"kind": "local",
+"year": "2024",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 79/2024 privind rectificarea bugetului local aprobat pe anul 2024",
+"short": "HCL Roșia nr. 79/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/183800",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-80-2024",
+"path": "local/sibiu/rosia/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 80/2024 privind mandatarea primarului Comunei Roşia ca reprezentant al Comunei Roşia în Adunarea Generală a Asociației de Dezvoltare Intercomunitară “ECO” Sibiu să voteze “pentru” sau “împotriva” aprobării ajustării tarifului pentru activitatea de depozitare a deșeurilor reziduale din Județul Sibiu",
+"short": "HCL Roșia nr. 80/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/183801",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-81-2024",
+"path": "local/sibiu/rosia/2024/81",
+"kind": "local",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 81/2024 privind participarea unităţii administrativ-teritoriale Roşia în cadrul Programului privind sprijinirea eficienței energetice și a gestionării inteligente a energiei în infrastructura de iluminat public – finanțat prin Administrației Fondului pentru Mediu, pentru imbunatatirea iuminatului public, cu proiectul „Modernizarea sistemului de iluminat public în comuna Rosia, judetul Sibiu”",
+"short": "HCL Roșia nr. 81/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/183802",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-83-2024",
+"path": "local/sibiu/rosia/2024/83",
+"kind": "local",
+"year": "2024",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 83/2024 privind aprobarea devizului general si a indicatorilor tehnico-economici actualizati pentru obiectivul de investitii: “REABILITARE DRUMURI ÎN COMUNA ROŞIA, JUDEŢUL SIBIU”, aprobat pentru finantare prin Programul naţional de investiţii “Anghel Saligny”,",
+"short": "HCL Roșia nr. 83/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/183804",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

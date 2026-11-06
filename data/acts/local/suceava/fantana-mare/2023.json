@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/suceava/fantana-mare/2023",
+"acts": [
+{
+"slug": "hcl-suceava--fantana-mare-43-2023",
+"path": "local/suceava/fantana-mare/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântâna Mare nr. 43/2023 privind constituirea Fondului de rezervă bugetară la dispoziţia Consiliului local al comunei Fântâna Mare şi aprobarea utilizării lui prin rectificarea Bugetului local de venituri si cheltuieli al Consiliului Local al anului 2023",
+"short": "HCL Fântâna Mare nr. 43/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://emol.ro/fantanamare-sv/registru-hcl/130925",
+"council": "suceava/fantana-mare",
+"council_name": "Consiliul Local al Comunei Fântâna Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--fantana-mare-44-2023",
+"path": "local/suceava/fantana-mare/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântâna Mare nr. 44/2023 privind aprobarea depunerii și implementării proiectului cu titlul “Construire parc fotovoltaic in comuna Fântâna Mare, judeţul Suceava”",
+"short": "HCL Fântâna Mare nr. 44/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://emol.ro/fantanamare-sv/registru-hcl/130926",
+"council": "suceava/fantana-mare",
+"council_name": "Consiliul Local al Comunei Fântâna Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--fantana-mare-47-2023",
+"path": "local/suceava/fantana-mare/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântâna Mare nr. 47/2023 pentru aprobarea impozitelor şi taxelor locale pentru anul 2024",
+"short": "HCL Fântâna Mare nr. 47/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://emol.ro/fantanamare-sv/registru-hcl/136161",
+"council": "suceava/fantana-mare",
+"council_name": "Consiliul Local al Comunei Fântâna Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--fantana-mare-48-2023",
+"path": "local/suceava/fantana-mare/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântâna Mare nr. 48/2023 privind aprobarea modificării Organigramei şi a Statului de funcţii ale aparatului de specialitate al primarului comunei Fântâna Mare prin reorganizarea aparatului de specialitate al primarului comunei Fântâna Mare, în conformitate cu Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilităţii financiare a României pe termen lung",
+"short": "HCL Fântâna Mare nr. 48/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://emol.ro/fantanamare-sv/registru-hcl/136162",
+"council": "suceava/fantana-mare",
+"council_name": "Consiliul Local al Comunei Fântâna Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--fantana-mare-49-2023",
+"path": "local/suceava/fantana-mare/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântâna Mare nr. 49/2023 privind aprobarea prelungirii termenului de valabilitate a Planului Urbanistic General (PUG) până la data finalizării și aprobării noului PUG al Comunei Fântâna Mare",
+"short": "HCL Fântâna Mare nr. 49/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://emol.ro/fantanamare-sv/registru-hcl/136163",
+"council": "suceava/fantana-mare",
+"council_name": "Consiliul Local al Comunei Fântâna Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--fantana-mare-51-2023",
+"path": "local/suceava/fantana-mare/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântâna Mare nr. 51/2023 privind rectificarea Bugetului local de venituri si cheltuieli al Consiliului Local Fântâna Mare , pentru anul 2023",
+"short": "HCL Fântâna Mare nr. 51/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://emol.ro/fantanamare-sv/registru-hcl/136165",
+"council": "suceava/fantana-mare",
+"council_name": "Consiliul Local al Comunei Fântâna Mare",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

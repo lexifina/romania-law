@@ -3,6 +3,231 @@
  "shard": "local/sibiu/cisnadie/2026",
  "acts": [
   {
+   "slug": "hcl-sibiu--cisnadie-1-2026",
+   "path": "local/sibiu/cisnadie/2026/1",
+   "short": "HCL Cisnădie nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 1/2026 privind atribuirea de denumire de stradă pentru o stradă nou creată, situată în zona de nord-est a localității Cisnădioara",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/249929",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/249929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-112-2026",
+   "path": "local/sibiu/cisnadie/2026/112",
+   "short": "HCL Cisnădie nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 112/2026",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/271878",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/271878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-12-2026",
+   "path": "local/sibiu/cisnadie/2026/12",
+   "short": "HCL Cisnădie nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 12/2026 privind aprobarea programului de audienţe acordate cetăţenilor de către consilierii locali ai oraşului Cisnădie, în anul 2026",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/249940",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/249940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-120-2026",
+   "path": "local/sibiu/cisnadie/2026/120",
+   "short": "HCL Cisnădie nr. 120/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 120/2026",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/273888",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/273888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-121-2026",
+   "path": "local/sibiu/cisnadie/2026/121",
+   "short": "HCL Cisnădie nr. 121/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 121/2026",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/273889",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/273889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-124-2026",
+   "path": "local/sibiu/cisnadie/2026/124",
+   "short": "HCL Cisnădie nr. 124/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 124/2026 privind aprobarea Regulamentului pentru închirierea fără organizarea de licitatie publică a unor bunuri proprietatea publică a UAT Cisnădie",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/273892",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/273892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-130-2026",
+   "path": "local/sibiu/cisnadie/2026/130",
+   "short": "HCL Cisnădie nr. 130/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 130/2026 privind instituirea programului anual al Primăriei Orașului Cisnădie de stimulare a performanței școlare a elevilor din unitățile de învățământ preuniversitar de stat de pe raza UAT Cisnădie",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/275852",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/275852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-131-2026",
+   "path": "local/sibiu/cisnadie/2026/131",
+   "short": "HCL Cisnădie nr. 131/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 131/2026 privind aprobarea Programului multianual de sterilizare gratuită respectiv, după caz, identificare şi înregistrare a câinilor și pisicilor de rasă comună și a metișilor acestora, cu stăpân cu domiciliul/reședința în orașul Cisnădie",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/275853",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/275853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-135-2026",
+   "path": "local/sibiu/cisnadie/2026/135",
+   "short": "HCL Cisnădie nr. 135/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 135/2026 privind aprobarea atribuirii de denumire de străzi pentru 2 străzi nou create, situate în zona de est, respectiv în zona de nord a localității Cisnădie",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/275857",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/275857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-156-2026",
+   "path": "local/sibiu/cisnadie/2026/156",
+   "short": "HCL Cisnădie nr. 156/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 156/2026 privind aprobarea schimbării de denumire a unei străzi situate în partea de vest a localității Cisnădie, respectiv din strada „Hermann Gmeiner” în strada „Pomiculturii”",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/281189",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/281189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-157-2026",
+   "path": "local/sibiu/cisnadie/2026/157",
+   "short": "HCL Cisnădie nr. 157/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 157/2026",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/281190",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/281190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-16-2026",
+   "path": "local/sibiu/cisnadie/2026/16",
+   "short": "HCL Cisnădie nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 16/2026 privind actualizarea nomenclatorului stradal al orașului Cisnădie și al localității componente Cisnădioara",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/256438",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/256438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-162-2026",
+   "path": "local/sibiu/cisnadie/2026/162",
+   "short": "HCL Cisnădie nr. 162/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 162/2026 privind instituirea burselor speciale locale și burselor de excelență pentru elevii din unitățile de învățământ preuniversitar de stat de pe raza UAT Cisnădie, pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/285871",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/285871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-17-2026",
+   "path": "local/sibiu/cisnadie/2026/17",
+   "short": "HCL Cisnădie nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 17/2026 privind completarea Hotărârii Consiliului Local nr.219/2016 cu încadrarea terenurilor din oraşul Cisnădie, pe zone de importanță A, B, C",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/256439",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/256439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-18-2026",
+   "path": "local/sibiu/cisnadie/2026/18",
+   "short": "HCL Cisnădie nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 18/2026",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/256440",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/256440",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--cisnadie-187-2026",
    "path": "local/sibiu/cisnadie/2026/187",
    "short": "HCL Cisnădie nr. 187/2026",
@@ -43,6 +268,231 @@
      "from": "2026-11-06",
      "units": 1,
      "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/297872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-3-2026",
+   "path": "local/sibiu/cisnadie/2026/3",
+   "short": "HCL Cisnădie nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 3/2026 privind analiza stadiului de înscriere a datelor în Registrul agricol al orașului Cisnădie pentru trimestrul IV al anului 2025 precum și stabilirea planului de măsuri pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/249931",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/249931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-38-2026",
+   "path": "local/sibiu/cisnadie/2026/38",
+   "short": "HCL Cisnădie nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 38/2026 privind modificarea și completarea Hotărârii Consiliului Local nr. 119/24.04.2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/258361",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/258361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-42-2026",
+   "path": "local/sibiu/cisnadie/2026/42",
+   "short": "HCL Cisnădie nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 42/2026",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/259789",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/259789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-43-2026",
+   "path": "local/sibiu/cisnadie/2026/43",
+   "short": "HCL Cisnădie nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 43/2026 privind actualizarea documentelor și formularelor utilizate în cadrul procedurii de selecție pentru completarea Consiliului de administrație al Regiei Publice Locale Ocolul Silvic „Valea Sadului” cu 1 post de administrator – profil general",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/259790",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/259790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-56-2026",
+   "path": "local/sibiu/cisnadie/2026/56",
+   "short": "HCL Cisnădie nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 56/2026",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/259803",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/259803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-57-2026",
+   "path": "local/sibiu/cisnadie/2026/57",
+   "short": "HCL Cisnădie nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 57/2026",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/259804",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/259804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-58-2026",
+   "path": "local/sibiu/cisnadie/2026/58",
+   "short": "HCL Cisnădie nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 58/2026",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/259805",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/259805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-63-2026",
+   "path": "local/sibiu/cisnadie/2026/63",
+   "short": "HCL Cisnădie nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 63/2026 privind aprobarea Regulamentului de organizare şi desfăşurare a evaluării activităţii managerului Spitalului Orășenesc Cisnădie, pentru anul 2025",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/263108",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/263108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-65-2026",
+   "path": "local/sibiu/cisnadie/2026/65",
+   "short": "HCL Cisnădie nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 65/2026",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/263110",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/263110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-70-2026",
+   "path": "local/sibiu/cisnadie/2026/70",
+   "short": "HCL Cisnădie nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 70/2026 privind aprobarea bugetului local al oraşului Cisnădie şi a bugetelor instituţiilor publice finanţate integral sau parţial din bugetul local pe anul 2026",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/266214",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/266214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-71-2026",
+   "path": "local/sibiu/cisnadie/2026/71",
+   "short": "HCL Cisnădie nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 71/2026 privind finanțarea de către Consiliul Local Cisnădie din fonduri publice a programelor sportive de utilitate publică „Promovarea sportului de performanță\" și „Sportul pentru toți”",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/266215",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/266215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-72-2026",
+   "path": "local/sibiu/cisnadie/2026/72",
+   "short": "HCL Cisnădie nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 72/2026 privind aprobarea Programului anual pentru acordarea de finanţări nerambursabile din bugetul local al oraşului Cisnădie pentru activităţi non-profit de interes general, pentru anul 2026",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/266216",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/266216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-73-2026",
+   "path": "local/sibiu/cisnadie/2026/73",
+   "short": "HCL Cisnădie nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 73/2026 privind organizarea unei sesiuni de selecție și finanțare a programelor sportive de utilitate publică „Promovarea sportului de performanță\" și „Sportul pentru toți” - anul 2026",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/266217",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/266217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-75-2026",
+   "path": "local/sibiu/cisnadie/2026/75",
+   "short": "HCL Cisnădie nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 75/2026 privind aprobarea Programului minimal de activități la Casa de Cultură a Orașului Cisnădie pe anul 2026",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/266219",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/266219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--cisnadie-83-2026",
+   "path": "local/sibiu/cisnadie/2026/83",
+   "short": "HCL Cisnădie nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cisnădie nr. 83/2026",
+   "url": "https://emol.ro/cisnadie-sb/registru-hcl/266227",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cisnadie-sb/registru-hcl/266227",
      "sha256": null
     }
    ]

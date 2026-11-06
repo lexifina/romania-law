@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/dorna-candrenilor/2023",
+ "acts": [
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-92-2023",
+   "path": "local/suceava/dorna-candrenilor/2023/92",
+   "short": "HCL Dorna Candrenilor nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 92/2023 privind aprobarea organizării și desfășurării Festivalului „La izvor de apă vie”, ediția XX-a, în data de 20 august 2023, în comuna Dorna Candrenilor, județul Suceava",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/127846",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/127846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-94-2023",
+   "path": "local/suceava/dorna-candrenilor/2023/94",
+   "short": "HCL Dorna Candrenilor nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 94/2023 privind aprobarea executării de lucrări de „Imprietruire, reparare drumuri forestiere și comunale, în comuna Dorna Candrenilor”, județul Suceava și însușirea documentației economice",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/127848",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/127848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-95-2023",
+   "path": "local/suceava/dorna-candrenilor/2023/95",
+   "short": "HCL Dorna Candrenilor nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 95/2023 privind aprobarea executării de lucrări de „Construcții monument, masă izvor și reparații diverse”, în comuna Dorna Candrenilor, județul Suceava și însușirea documentației economice",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/127849",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/127849",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

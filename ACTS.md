@@ -23284,7 +23284,7 @@
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
 | Government decisions (HG) | 42021 | [`data/acts/hg/`](data/acts/hg/) |
-| Ministerial and authority orders (ordine) | 40491 | [`data/acts/ordin/`](data/acts/ordin/) |
+| Ministerial and authority orders (ordine) | 40493 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 1540 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 1261 | [`data/acts/regulament/`](data/acts/regulament/) |
 | Instructions (instrucțiuni) | 381 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
@@ -23309,6 +23309,6 @@
 | Annexes published apart from their act (court circumscriptions, official forms) | 3797 | [`data/acts/anexa/`](data/acts/anexa/) |
 | Legal professions' rules: statutes, codes of ethics, regulations and decisions of the professional bodies (UNBR, UNNPR, UNEJ, OCJR, UNPIR, Consiliul de Mediere, CSM, INM, CAFR) | 2536 | [`data/acts/profesii/`](data/acts/profesii/) |
 | Treaties and international agreements (texts published with their ratifying act) | 2579 | [`data/acts/tratat/`](data/acts/tratat/) |
-| Public procurement complaints council decisions (CNSC) | 767 | [`data/acts/cnsc/`](data/acts/cnsc/) |
+| Public procurement complaints council decisions (CNSC) | 927 | [`data/acts/cnsc/`](data/acts/cnsc/) |
 | Lower-court decisions published in the Monitorul Oficial (courts of appeal, tribunals): annulments of normative acts and other rulings | 234 | [`data/acts/instante/`](data/acts/instante/) |
-| Local acts (decisions of local and county councils) | 120296 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 123296 | [`data/acts/local/`](data/acts/local/) |

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/fundu-moldovei/2026",
+ "acts": [
+  {
+   "slug": "hcl-suceava--fundu-moldovei-21-2026",
+   "path": "local/suceava/fundu-moldovei/2026/21",
+   "short": "HCL Fundu Moldovei nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 21/2026 privind aprobarea bugetului de venituri și cheltuieli al comunei Fundu Moldovei, județul Suceava, pe anul 2026",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/280244",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/280244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-22-2026",
+   "path": "local/suceava/fundu-moldovei/2026/22",
+   "short": "HCL Fundu Moldovei nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 22/2026 privind aprobarea Programului anual privind regimul finanțărilor nerambursabile acordate de la bugetul local al comunei Fundu Moldovei",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/280245",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/280245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-31-2026",
+   "path": "local/suceava/fundu-moldovei/2026/31",
+   "short": "HCL Fundu Moldovei nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 31/2026 privind atestarea apartenenței la domeniul privat al comunei a unor bunuri imobile",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/281514",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/281514",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/salaj/cristolt/2026",
+ "acts": [
+  {
+   "slug": "hcl-salaj--cristolt-35-2026",
+   "path": "local/salaj/cristolt/2026/35",
+   "short": "HCL Cristolț nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 35/2026 privind validarea Dispoziției nr. 57 / 07.09.2026 privind rectificare bugetului local pentru anul 2026",
+   "url": "https://emol.ro/cristolt-sj/registru-hcl/287690",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cristolt-sj/registru-hcl/287690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cristolt-36-2026",
+   "path": "local/salaj/cristolt/2026/36",
+   "short": "HCL Cristolț nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 36/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/cristolt-sj/registru-hcl/287691",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cristolt-sj/registru-hcl/287691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cristolt-42-2026",
+   "path": "local/salaj/cristolt/2026/42",
+   "short": "HCL Cristolț nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 42/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/cristolt-sj/registru-hcl/293709",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cristolt-sj/registru-hcl/293709",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

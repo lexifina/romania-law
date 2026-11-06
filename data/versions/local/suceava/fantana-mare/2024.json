@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/fantana-mare/2024",
+ "acts": [
+  {
+   "slug": "hcl-suceava--fantana-mare-36-2024",
+   "path": "local/suceava/fantana-mare/2024/36",
+   "short": "HCL Fântâna Mare nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântâna Mare nr. 36/2024 pentru aprobarea impozitelor şi taxelor locale pentru anul 2025",
+   "url": "https://emol.ro/fantanamare-sv/registru-hcl/185039",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanamare-sv/registru-hcl/185039",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

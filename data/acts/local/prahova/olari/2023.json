@@ -3,6 +3,50 @@
 "shard": "local/prahova/olari/2023",
 "acts": [
 {
+"slug": "hcl-prahova--olari-7-2023",
+"path": "local/prahova/olari/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Olari nr. 7/2023 privind aprobarea Reţelei scolare a unitatilor de invatamant preuniversitar de stat pentru anul scolar 2023-2024 din Comuna Olari, initiat de primar ;",
+"short": "HCL Olari nr. 7/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-17",
+"latest": "2023-03-17",
+"portal": "https://emol.ro/olari-ph/registru-hcl/94933",
+"council": "prahova/olari",
+"council_name": "Consiliul Local al Comunei Olari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--olari-8-2023",
+"path": "local/prahova/olari/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Olari nr. 8/2023 privind aprobarea cererii de finanțare si a valorii proiectului pentru obiectivul de investiție: ,,DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE DIGITALE A UNITĂȚILOR DE ÎNVĂȚĂMÂNT PREUNIVERSITAR ȘI A UNITĂȚILOR CONEXE DIN LOCALITATEA OLARI” în cadrul finanțării din fondurile europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/Componenta C15",
+"short": "HCL Olari nr. 8/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-17",
+"latest": "2023-03-17",
+"portal": "https://emol.ro/olari-ph/registru-hcl/94934",
+"council": "prahova/olari",
+"council_name": "Consiliul Local al Comunei Olari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-prahova--olari-10-2023",
 "path": "local/prahova/olari/2023/10",
 "kind": "local",

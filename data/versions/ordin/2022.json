@@ -29448,6 +29448,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-15-2022",
+   "path": "ordin/anre/2022/15",
+   "short": "Ordin anre nr. 15/2022",
+   "title": "Ordinul nr. 15/2022 pentru aprobarea Metodologiei de stabilire a regulilor de comercializare a energiei electrice produse în centrale electrice din surse regenerabile cu putere electrică instalată de cel mult 400 kW pe loc de consum aparținând prosumatorilor",
+   "url": "https://anre.ro/wp-content/uploads/2023/03/Ordinul-15-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-05-01",
+     "units": 3,
+     "source_url": "https://anre.ro/wp-content/uploads/2023/03/Ordinul-15-2022.pdf",
+     "sha256": "a8ea0c8cc7ada423c54acfa235a634a43fe0b0109775e0ddc9ee69ae558dd45e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-28-2022",
    "path": "ordin/anre/2022/28",
    "short": "Ordin anre nr. 28/2022",

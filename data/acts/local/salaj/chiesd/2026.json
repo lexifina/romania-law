@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/salaj/chiesd/2026",
+"acts": [
+{
+"slug": "hcl-salaj--chiesd-32-2026",
+"path": "local/salaj/chiesd/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 32/2026 privind aprobarea măsurilor necesare punerii în aplicare a prevederilor OUG nr.81/21 iulie 2021 privind aprobarea metodelor de intervenție imediată pentru prevenirea și combaterea atacurilor exemplarelor de urs brun asupra persoanelor și bunurilor acestora, precum și pentru modificarea și completarea unor acte normative",
+"short": "HCL Chieșd nr. 32/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/277387",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

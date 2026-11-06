@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/bogdanesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-suceava--bogdanesti-31-2026",
+   "path": "local/suceava/bogdanesti/2026/31",
+   "short": "HCL Bogdănești nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 31/2026",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/293072",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-32-2026",
+   "path": "local/suceava/bogdanesti/2026/32",
+   "short": "HCL Bogdănești nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 32/2026",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/293079",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-33-2026",
+   "path": "local/suceava/bogdanesti/2026/33",
+   "short": "HCL Bogdănești nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 33/2026 privind rectificarea bugetului local de venituri și cheltuieli pentru anul 2026",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/293080",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-34-2026",
+   "path": "local/suceava/bogdanesti/2026/34",
+   "short": "HCL Bogdănești nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 34/2026 privind aprobarea contului de execuție bugetară la 30 iunie 2026",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/293081",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-36-2026",
+   "path": "local/suceava/bogdanesti/2026/36",
+   "short": "HCL Bogdănești nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 36/2026 privind majorarea cotizației anuale, în calitate de membru al grupului de Acțiune Locală ''Valea Șomuzului''",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/293083",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-37-2026",
+   "path": "local/suceava/bogdanesti/2026/37",
+   "short": "HCL Bogdănești nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 37/2026 privind atestarea apartenenței la domeniul public al comunei Bogdănești, județul Suceava, a 2 imobile - drumuri comunale, situate în intravilanul satului Bogdănești, comuna Bogdănești, județul Suceava",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/293084",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-38-2026",
+   "path": "local/suceava/bogdanesti/2026/38",
+   "short": "HCL Bogdănești nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 38/2026 privind atestarea apartenenței la domeniul privat al comunei Bogdănești, județul Suceava, a unui imobil în suprafață de 1270 mp, situat în intravilanul satului Bogdănești, comuna Bogdănești, județul Suceava",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/293085",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-39-2026",
+   "path": "local/suceava/bogdanesti/2026/39",
+   "short": "HCL Bogdănești nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 39/2026 privind reorganizarea Serviciului Voluntar pentru Situații de urgență al comunei Bogdănești, județul Suceava",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/293086",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-42-2026",
+   "path": "local/suceava/bogdanesti/2026/42",
+   "short": "HCL Bogdănești nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 42/2026 privind rectificarea bugetului local de venituri și cheltuieli pentru anul 2026",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/293089",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-43-2026",
+   "path": "local/suceava/bogdanesti/2026/43",
+   "short": "HCL Bogdănești nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 43/2026 privind rectificarea bugetului local de venituri și cheltuieli pentru anul 2026",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/293090",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-47-2026",
+   "path": "local/suceava/bogdanesti/2026/47",
+   "short": "HCL Bogdănești nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 47/2026 privind aprobarea proiectului, a cheltuielilor legate de proiect și a indicatorilor tehnico-economici pentru obiectivul de investiții ''Modernizarea educației prin dotare, digitalizare și dezvoltarea infrastructurii spotive în comuna Bogdănești, județul Suceava''",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/293094",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-48-2026",
+   "path": "local/suceava/bogdanesti/2026/48",
+   "short": "HCL Bogdănești nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 48/2026 privind aprobarea indicatorilor tehnico-economici și a Devizului general (totalizator, eligibil și neeligibil), pentru obiectivul de investiții ''Înființare capacitate de producere și stocare a energiei electrice din surse regenerabile pentru autoconsumul UAT Bogdănești''",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/293095",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293095",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/valea-calugareasca/2020",
+ "acts": [
+  {
+   "slug": "hcl-prahova--valea-calugareasca-100-2020",
+   "path": "local/prahova/valea-calugareasca/2020/100",
+   "short": "HCL Valea Călugărească nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 100/2020 privind aprobarea încheierii unui Contract de reprezentare juridică",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12724",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-101-2020",
+   "path": "local/prahova/valea-calugareasca/2020/101",
+   "short": "HCL Valea Călugărească nr. 101/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 101/2020 privind aprobarea rectificării bugetului de venituri și cheltuieli pentru Comuna Valea Călugărească aferent anului 2020 și estimări pentru anii 2021-2023",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/13229",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/13229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-102-2020",
+   "path": "local/prahova/valea-calugareasca/2020/102",
+   "short": "HCL Valea Călugărească nr. 102/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 102/2020 privind scutirea la plata impozitului pentru persoanele care datorează sume mai mici de 40 de lei",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/13230",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/13230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-86-2020",
+   "path": "local/prahova/valea-calugareasca/2020/86",
+   "short": "HCL Valea Călugărească nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 86/2020 privind organizarea comisiilor de specialitate ale Consiliului Local Valea Călugărească, pentru mandatul 2020-2024",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/11715",
+   "versions": [
+    {
+     "from": "2020-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/11715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-89-2020",
+   "path": "local/prahova/valea-calugareasca/2020/89",
+   "short": "HCL Valea Călugărească nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 89/2020 privind aprobarea rectificării bugetului de venituri și cheltuieli pentru Comuna Valea Călugărească aferent anului 2020 și estimări pentru anii 2021-2023",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12009",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-90-2020",
+   "path": "local/prahova/valea-calugareasca/2020/90",
+   "short": "HCL Valea Călugărească nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 90/2020 privind rectificarea listei de investiții pentru Comuna Valea Călugărească aferentă anului 2020 și estimări 2021-2023",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12010",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-91-2020",
+   "path": "local/prahova/valea-calugareasca/2020/91",
+   "short": "HCL Valea Călugărească nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 91/2020 privind înregistrarea Primăriei Comunei Valea Călugărească în Sistemul Național Electronic de Plată online a taxelor și impozitelor utilizând cardul bancar la tranzacțiile online",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12011",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-92-2020",
+   "path": "local/prahova/valea-calugareasca/2020/92",
+   "short": "HCL Valea Călugărească nr. 92/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 92/2020 privind alocarea sumei de 7500 lei din bugetul local pentru omagierea familiilor din Valea Călugărească ce împlinesc în anul 2020 cincizeci de ani de căsătorie",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12012",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-93-2020",
+   "path": "local/prahova/valea-calugareasca/2020/93",
+   "short": "HCL Valea Călugărească nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 93/2020 privind alocarea din bugetul local a sumei de 80.000 lei pentru organizarea Sărbătorilor de iarnă",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12013",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-94-2020",
+   "path": "local/prahova/valea-calugareasca/2020/94",
+   "short": "HCL Valea Călugărească nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 94/2020 privind aprobarea proiectului „Acces la e-educatie prin dezvoltarea infrastructurii IT la nivelul scolilor din comuna Valea Calugareasca, judetul Prahova” si a cheltuielilor legate de acesta",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12014",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-96-2020",
+   "path": "local/prahova/valea-calugareasca/2020/96",
+   "short": "HCL Valea Călugărească nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 96/2020 privind aprobarea rectificării bugetului de venituri și cheltuieli pentru Comuna Valea Călugărească aferent anului 2020 și estimări pentru anii 2021-2023",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12720",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-97-2020",
+   "path": "local/prahova/valea-calugareasca/2020/97",
+   "short": "HCL Valea Călugărească nr. 97/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 97/2020 privind rectificarea listei de investiții pentru Comuna Valea Călugărească aferentă anului 2020 și estimări 2021-2023",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12721",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-98-2020",
+   "path": "local/prahova/valea-calugareasca/2020/98",
+   "short": "HCL Valea Călugărească nr. 98/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 98/2020 privind aprobare reparații curente drumuri cu material frezat în Dosuri, Schiau și Vârfuri",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12722",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-99-2020",
+   "path": "local/prahova/valea-calugareasca/2020/99",
+   "short": "HCL Valea Călugărească nr. 99/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 99/2020 Privind aprobarea dezmembrarii în trei loturi a suprafetei de teren , domeniul privat al localităţii cu numar cadastral 24762, situat în satul Rachieri, strada Daliei",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12723",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12723",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

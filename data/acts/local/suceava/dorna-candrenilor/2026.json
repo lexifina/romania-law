@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/suceava/dorna-candrenilor/2026",
+"acts": [
+{
+"slug": "hcl-suceava--dorna-candrenilor-4-2026",
+"path": "local/suceava/dorna-candrenilor/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 4/2026 privind aprobarea rezultatului privind inventarierea generala a elementelor de natura activelor, datoriilor și a capitalurilor proprii aflate în patrimoniul UAT Comuna Dorna Candrenilor la data de 31.12.2025",
+"short": "HCL Dorna Candrenilor nr. 4/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-04",
+"latest": "2026-03-04",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/256993",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-8-2026",
+"path": "local/suceava/dorna-candrenilor/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 8/2026 privind însușirea Bugetului de venituri și cheltuieli privind administrarea pădurilor comunale prin Ocolul Silvic Dorna Candrenilor pentru anul 2026",
+"short": "HCL Dorna Candrenilor nr. 8/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-04",
+"latest": "2026-03-04",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/256997",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-10-2026",
+"path": "local/suceava/dorna-candrenilor/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 10/2026 privind însușirea documentației topo-cadastrale de dezlipire a imobilului cadastral 41164 situat în comuna Dorna Candrenilor, sat Dorna Candrenilor, județul Suceava, în suprafață de 34963 mp",
+"short": "HCL Dorna Candrenilor nr. 10/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-04",
+"latest": "2026-03-04",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/256999",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-12-2026",
+"path": "local/suceava/dorna-candrenilor/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 12/2026 privind aprobarea raportului de descărcare de gestiune privind veniturile și cheltuielile pentru suprafață de pădure proprietatea comunei Dorna Candrenilor, pentru perioada 01.01.2025-31.12.2025, administrată cu Ocolul Silvic Dorna",
+"short": "HCL Dorna Candrenilor nr. 12/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-04",
+"latest": "2026-03-04",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/257001",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-13-2026",
+"path": "local/suceava/dorna-candrenilor/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 13/2026 privind aprobarea listei de partizi și a prețurilor de pornire pentru valorificarea ca masă lemnoasă pe picior a partizilor cu un volum brut de 253,32 mc provenite din fondul forestier proprietate publică a comunei Dorna Candrenilor, administrate de Ocolul Silvic Dorna Candrenilor, județul Suceava, pentru anul 2026",
+"short": "HCL Dorna Candrenilor nr. 13/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-04",
+"latest": "2026-03-04",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/257002",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-21-2026",
+"path": "local/suceava/dorna-candrenilor/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 21/2026 privind aprobarea raportului de descărcare de gestiune privind veniturile și cheltuielile pentru suprafața de pădure proprietatea comunei Dorna Candrenilor, pentru perioada 01.01.2025-31.12.2025, administrată cu Ocolul Silvic Dorna Candrenilor",
+"short": "HCL Dorna Candrenilor nr. 21/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-13",
+"latest": "2026-08-13",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/264057",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-22-2026",
+"path": "local/suceava/dorna-candrenilor/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 22/2026 privind aprobarea listei de partizi și a prețurilor de pornire pentru valorificarea ca masă lemnoasă pe picior a partizilor cu un volum brut de 217,14 mc provenite din fondul forestier proprietate publică a comunei Dorna Candrenilor, administrate de Ocolul Silvic Vatra Dornei, județul Suceava, pentru anul 2026",
+"short": "HCL Dorna Candrenilor nr. 22/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-13",
+"latest": "2026-08-13",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/264058",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

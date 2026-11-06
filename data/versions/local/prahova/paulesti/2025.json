@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/paulesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-prahova--paulesti-118-2025",
+   "path": "local/prahova/paulesti/2025/118",
+   "short": "HCL Păulești nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 118/2025 privind reorganizarea Serviciului Voluntar pentru Situații de Urgență",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/237772",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/237772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-119-2025",
+   "path": "local/prahova/paulesti/2025/119",
+   "short": "HCL Păulești nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 119/2025 privind rectificarea bugetului local al comunei Păulești, luna noiembrie 2025",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/237773",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/237773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-120-2025",
+   "path": "local/prahova/paulesti/2025/120",
+   "short": "HCL Păulești nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 120/2025 privind modificarea și completarea HCL Păulești nr. 2/13.01.2025 privind utilizarea excedentului bugetar al anului 2024, în sumă de 440.559,27 lei pentru acoperirea golurilor de casa la secțiunea de dezvoltare",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/237774",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/237774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-121-2025",
+   "path": "local/prahova/paulesti/2025/121",
+   "short": "HCL Păulești nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 121/2025 privind modificarea și completarea HCL Păulești nr. 96/31.10.2025 privind înființarea unei societăți comerciale de interes public pentru gestionarea serviciilor de administrare a domeniului public și privat, precum și a serviciilor conexe serviciului de salubrizare al comunei Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/239098",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/239098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-122-2025",
+   "path": "local/prahova/paulesti/2025/122",
+   "short": "HCL Păulești nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 122/2025 privind aprobarea declarării ca obiectiv de interes local și utilitate publică lucrarea de investiții ,,Casă Pompe și cale de acces,,",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/239099",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/239099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-123-2025",
+   "path": "local/prahova/paulesti/2025/123",
+   "short": "HCL Păulești nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 123/2025",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/241746",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/241746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-124-2025",
+   "path": "local/prahova/paulesti/2025/124",
+   "short": "HCL Păulești nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 124/2025 privind rectificarea bugetului local al comunei Păulești, luna decembrie 2025",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/241747",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/241747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-125-2025",
+   "path": "local/prahova/paulesti/2025/125",
+   "short": "HCL Păulești nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 125/2025 privind aprobarea Proiectului Tehnic, a documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții ,,Lucrări de întreținere prin așternere covoare bituminoase în comuna Păulești,,",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/241748",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/241748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-126-2025",
+   "path": "local/prahova/paulesti/2025/126",
+   "short": "HCL Păulești nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 126/2025 privind modificarea și completarea HCL Păulești nr. 92/2025 privind implementarea proiectului cu titlul ,,Măsuri de protecție a mediului în comuna Păulești, județul Prahova,,",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/241749",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/241749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-127-2025",
+   "path": "local/prahova/paulesti/2025/127",
+   "short": "HCL Păulești nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 127/2025 privind constituirea Comisiei de Evaluare a Proiectelor pentru implementarea procesului de Bugetare Participativă în comuna Păulești, pentru anul 2026",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/241750",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/241750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-128-2025",
+   "path": "local/prahova/paulesti/2025/128",
+   "short": "HCL Păulești nr. 128/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 128/2025 privind organizarea și funcționarea rețelei școlare, preuniversitare de stat, precum și a celor particulare acreditate, pe raza comunei Păulești, județul Prahova, pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/243294",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/243294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-129-2025",
+   "path": "local/prahova/paulesti/2025/129",
+   "short": "HCL Păulești nr. 129/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 129/2025 privind aprobarea Planului anual de acțiune privind serviciile sociale acordate la nivelul comunei Păulești, pentru anul 2026",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/243295",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/243295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-130-2025",
+   "path": "local/prahova/paulesti/2025/130",
+   "short": "HCL Păulești nr. 130/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 130/2025 privind aprobarea numărului de posturi pentru asistenții personali ai persoanelor cu handicap grav, pentru anul 2026",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/243296",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/243296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-131-2025",
+   "path": "local/prahova/paulesti/2025/131",
+   "short": "HCL Păulești nr. 131/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 131/2025 privind aprobarea Planului de acțiuni de interes local, pentru beneficiarii Legii nr. 196/2016 privind venitul minim de incluziune, pentru anul 2026",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/243297",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/243297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-132-2025",
+   "path": "local/prahova/paulesti/2025/132",
+   "short": "HCL Păulești nr. 132/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 132/2025 privind aprobarea Planului Local de Acțiune privind incluziunea cetățenilor români de etnie romă din comuna Păulești, pentru anul 2026",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/243298",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/243298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-133-2025",
+   "path": "local/prahova/paulesti/2025/133",
+   "short": "HCL Păulești nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 133/2025 privind aprobarea Planului de Dezvoltare a serviciilor de prevenire a separării copilului de familie la nivelul comunei Păulești, județ Prahova",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/243299",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/243299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-134-2025",
+   "path": "local/prahova/paulesti/2025/134",
+   "short": "HCL Păulești nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 134/2025 privind aprobarea Programului de Acțiuni Comunitare pentru Combaterea Sărăciei și Marginalizării sociale, la nivelul comunei Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/243300",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/243300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-135-2025",
+   "path": "local/prahova/paulesti/2025/135",
+   "short": "HCL Păulești nr. 135/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 135/2025 privind aprobarea Criteriilor de acces la locuință și a criteriilor de ierarhizare stabilite prin punctaj, din cadrul Criteriilor pentru stabilirea ordinii de prioritate în soluționarea cererilor de locuințe și în repartizarea locuințelor pentru tineri, destinate închirierii, construite de Agenția Națională pentru Locuințe și aprobarea Regulamentului privind cadrul, modalitatea și criteriile de analiză și soluționare a cererilor de atribuire a locuințelor pentru tineri, construite prin ANL, administrarea, exploatarea și închirierea acestora, în comuna Păulești, județ Prahova",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/243301",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/243301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-136-2025",
+   "path": "local/prahova/paulesti/2025/136",
+   "short": "HCL Păulești nr. 136/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 136/2025 privind stabilirea taxelor si impozitelor locale, pentru anul fiscal 2026",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/245368",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/245368",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

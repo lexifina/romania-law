@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/satu-mare/andrid/2026",
+ "acts": [
+  {
+   "slug": "hcl-satu-mare--andrid-29-2026",
+   "path": "local/satu-mare/andrid/2026/29",
+   "short": "HCL Andrid nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Andrid nr. 29/2026 privind aprobarea execuției bugetare pe trimestrul II – anul 2026",
+   "url": "https://emol.ro/andrid-sm/registru-hcl/286290",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/andrid-sm/registru-hcl/286290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--andrid-31-2026",
+   "path": "local/satu-mare/andrid/2026/31",
+   "short": "HCL Andrid nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Andrid nr. 31/2026 privind revocarea Hotărârii Consiliului Local al Comunei Andrid nr. 28 din 30.06.2026 privind stabilirea tarifelor pentru serviciul de alimentare cu apă și canalizare din Comuna Andrid",
+   "url": "https://emol.ro/andrid-sm/registru-hcl/286292",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/andrid-sm/registru-hcl/286292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--andrid-32-2026",
+   "path": "local/satu-mare/andrid/2026/32",
+   "short": "HCL Andrid nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Andrid nr. 32/2026",
+   "url": "https://emol.ro/andrid-sm/registru-hcl/286293",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/andrid-sm/registru-hcl/286293",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

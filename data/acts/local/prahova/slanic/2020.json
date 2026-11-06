@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/prahova/slanic/2020",
+"acts": [
+{
+"slug": "hcl-prahova--slanic-25-2020",
+"path": "local/prahova/slanic/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Slănic nr. 25/2020 privind indexarea impozitelor şi taxelor locale aplicabile în orașul Slănic în anul fiscal 2021 din 29.04.2020",
+"short": "HCL Slănic nr. 25/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-04-29",
+"latest": "2020-04-29",
+"portal": "https://primariaslanic.ro/arhiva/hotarari.htm",
+"council": "prahova/slanic",
+"council_name": "Consiliul Local al Orașului Slănic",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

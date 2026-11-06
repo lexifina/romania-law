@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/fundu-moldovei/2025",
+ "acts": [
+  {
+   "slug": "hcl-suceava--fundu-moldovei-60-2025",
+   "path": "local/suceava/fundu-moldovei/2025/60",
+   "short": "HCL Fundu Moldovei nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 60/2025 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul local al comunei Fundu Moldovei, pe anul 2026",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/239370",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/239370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-64-2025",
+   "path": "local/suceava/fundu-moldovei/2025/64",
+   "short": "HCL Fundu Moldovei nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 64/2025",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/239374",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/239374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-65-2025",
+   "path": "local/suceava/fundu-moldovei/2025/65",
+   "short": "HCL Fundu Moldovei nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 65/2025 privind actualizarea anexelor nr.1 si nr. 2 aferente Hotărârii nr. 45 din 18.09.2025 pentru implementarea proiectului ”ACHIZIȚIA UNEI AUTOSPECIALE MULTIFUNCȚIONALE ÎN VEDEREA ÎMBUNĂTĂȚIRII SERVICIILOR PUBLICE ÎN COMUNA FUNDU MOLDOVEI, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/249040",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/249040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-68-2025",
+   "path": "local/suceava/fundu-moldovei/2025/68",
+   "short": "HCL Fundu Moldovei nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 68/2025 privind aprobarea Planului de dezvoltare a serviciilor sociale pentru perioada 2026 - 2030",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/249144",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/249144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-71-2025",
+   "path": "local/suceava/fundu-moldovei/2025/71",
+   "short": "HCL Fundu Moldovei nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 71/2025 privind stabilirea și aprobarea nivelurilor pentru valorile impozabile, impozitele și taxele locale și alte taxe asimilate acestora, precum și amenzile aplicabile începând cu anul fiscal 2026",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/249397",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/249397",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

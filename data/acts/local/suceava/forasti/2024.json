@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/suceava/forasti/2024",
+"acts": [
+{
+"slug": "hcl-suceava--forasti-69-2024",
+"path": "local/suceava/forasti/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 69/2024 privind stabilirea nevelurilor pentru valorile impozabile, impozitele și taxele locale și alte taxe asimilate acestora, precum și amenzile aplicabile începând cu anul fiscal 2025",
+"short": "HCL Forăști nr. 69/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188397",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--forasti-72-2024",
+"path": "local/suceava/forasti/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 72/2024 privind aprobarea organizării rețelei școlare din raza teritorială a comunei Forăști, județul Suceava, pentru anul școlar 2025-2026",
+"short": "HCL Forăști nr. 72/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188425",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--forasti-74-2024",
+"path": "local/suceava/forasti/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 74/2024 privind aprobarea participării Comunei Forăști în cadrul Programului privind creșeterea eficienței energetice a infrastructurii de iluminat public, precum și aprobarea documentației tehnico-economice și a indicatorilor pentru proiectul ''Modernizarea sistemului de iluminat public stradal, în comuna Forăști, județul Suceava''",
+"short": "HCL Forăști nr. 74/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188429",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--forasti-79-2024",
+"path": "local/suceava/forasti/2024/79",
+"kind": "local",
+"year": "2024",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 79/2024 privind aprobarea alocării unor sume în vederea organizării pomului de iarnă în instituțiile de învățământ și pentru desfășurarea unor activități culturale cu ocazia sărbătorilor de iarnă în comuna Forăști, județul Suceava",
+"short": "HCL Forăști nr. 79/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188466",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--forasti-82-2024",
+"path": "local/suceava/forasti/2024/82",
+"kind": "local",
+"year": "2024",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 82/2024 privind aprobarea elabotării studiului de fezabilitate pentru obiectivul de investiții ''Amenajare trasee de circuit VELO, în sateșe Rosiori și Oniceni, comuna Forăști, județul Suceava''",
+"short": "HCL Forăști nr. 82/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188471",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

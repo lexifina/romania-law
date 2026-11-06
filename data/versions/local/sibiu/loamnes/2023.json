@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/sibiu/loamnes/2023",
+ "acts": [
+  {
+   "slug": "hcl-sibiu--loamnes-79-2023",
+   "path": "local/sibiu/loamnes/2023/79",
+   "short": "HCL Loamneș nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 79/2023 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Loamneș, județul Sibiu, pentru anul 2023",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/128838",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/128838",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

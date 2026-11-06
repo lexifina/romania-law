@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/fundu-moldovei/2024",
+"acts": [
+{
+"slug": "hcl-suceava--fundu-moldovei-69-2024",
+"path": "local/suceava/fundu-moldovei/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 69/2024 privind aprobarea Planului anual de acțiune privind serviciile social administrate și finanțate din bugetul local al comunei Fundu Moldovei, pe anul 2025",
+"short": "HCL Fundu Moldovei nr. 69/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/196418",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

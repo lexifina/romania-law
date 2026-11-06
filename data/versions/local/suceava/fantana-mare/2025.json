@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/fantana-mare/2025",
+ "acts": [
+  {
+   "slug": "hcl-suceava--fantana-mare-25-2025",
+   "path": "local/suceava/fantana-mare/2025/25",
+   "short": "HCL Fântâna Mare nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fântâna Mare nr. 25/2025 privind aprobarea Amenajamentului pastoral pentru pajiştile din comuna Fântâna Mare",
+   "url": "https://emol.ro/fantanamare-sv/registru-hcl/226266",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanamare-sv/registru-hcl/226266",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

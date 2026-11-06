@@ -1,0 +1,270 @@
+{
+"country": "RO",
+"shard": "local/prahova/rafov/2023",
+"acts": [
+{
+"slug": "hcl-prahova--rafov-80-2023",
+"path": "local/prahova/rafov/2023/80",
+"kind": "local",
+"year": "2023",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 80/2023 privind stabilirea nivelului impozitelor si taxelor locale pentru anul 2024",
+"short": "HCL Râfov nr. 80/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/132377",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-81-2023",
+"path": "local/prahova/rafov/2023/81",
+"kind": "local",
+"year": "2023",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 81/2023 privind alegerea presedintelui de sedinta pentru lunile noiembrie si decembrie 2023 si ianuarie 2024",
+"short": "HCL Râfov nr. 81/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/132378",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-84-2023",
+"path": "local/prahova/rafov/2023/84",
+"kind": "local",
+"year": "2023",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 84/2023 privind rectificarea bugetului local de venituri si cheltuieli al Comunei Rafov, Judetul Prahova , pentru anul 2023",
+"short": "HCL Râfov nr. 84/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/132381",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-85-2023",
+"path": "local/prahova/rafov/2023/85",
+"kind": "local",
+"year": "2023",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 85/2023 privind aprobarea modificarii strategiei anuale a achizitiilor publice si a planului de chizitii publice pentru anul 2023",
+"short": "HCL Râfov nr. 85/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/132382",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-86-2023",
+"path": "local/prahova/rafov/2023/86",
+"kind": "local",
+"year": "2023",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 86/2023 privind aprobarea reorganizarii aparatului de specialitate al Primarului Comunei Rafov incepand cu luna noiembrie 2023, in conformitate cu Legea Nr.296/2023 privind unele masuri fiscal-bugetare pentru asigurarea sustenabilitatii financiare a Romaniei pe termen lung",
+"short": "HCL Râfov nr. 86/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-09",
+"latest": "2024-01-09",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/136829",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-92-2023",
+"path": "local/prahova/rafov/2023/92",
+"kind": "local",
+"year": "2023",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 92/2023 privind aprobarea actualizarii indicatorilor tehnico-economici si a devizului general actualizat pentru abiectivul de investitii \" Construire sistem de distributie gaze naturale , inclusiv racord la SNT si SRM pentru Comuna Rafov, Judetul Prahova \" aprobat pentru finantare prin programul national de investitii \" Anghel Saligny\" precum si a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Râfov nr. 92/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/137061",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-93-2023",
+"path": "local/prahova/rafov/2023/93",
+"kind": "local",
+"year": "2023",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 93/2023 privind rectificarea bugetului local al comunei Rafov pentru anul 2023",
+"short": "HCL Râfov nr. 93/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/137062",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-94-2023",
+"path": "local/prahova/rafov/2023/94",
+"kind": "local",
+"year": "2023",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 94/2023 privind participarea la programul privind cresterea eficientei energetice si gestionarea inteligenta a energiei in cladirile publice cu obiectivele: - eficientizare energetica si gestionarea inteligenta a energiei in Caminul Cultural Buda - eficientizare energetica si gestionarea inteligenta a energiei in Sediul Primariei",
+"short": "HCL Râfov nr. 94/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/137063",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-95-2023",
+"path": "local/prahova/rafov/2023/95",
+"kind": "local",
+"year": "2023",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 95/2023 privind aprobarea modificarii indicatorilor tehnico-economici si a devizului general actualizat pentru obiectivul de investitii \" Construire sistem de distributie gaze naturale , inclusiv racord la SNT si SRM pentru Comuna Rafov, Judetul Prahova , aprobat pentru finantare prin programul de investitii \"Anghel Saligny\"",
+"short": "HCL Râfov nr. 95/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-12",
+"latest": "2024-01-12",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/137394",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-96-2023",
+"path": "local/prahova/rafov/2023/96",
+"kind": "local",
+"year": "2023",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 96/2023 privind apobarea actualizarii indicatorilor tehnico-economici si a devizului general pentru obiectivul de investitii \" Infiintare sistem de alimentare cu apa\" in Comuna Rafov, Sat Sicrita, Jud. Prahova aprobat pentru finantare prin Programul national de investitii \" Anghel Saligny\"",
+"short": "HCL Râfov nr. 96/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-12",
+"latest": "2024-01-12",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/137395",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-98-2023",
+"path": "local/prahova/rafov/2023/98",
+"kind": "local",
+"year": "2023",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 98/2023 privind rectificarea bugetului local al comunei Rafov pentru anul 2023",
+"short": "HCL Râfov nr. 98/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-12",
+"latest": "2024-01-12",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/137397",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-99-2023",
+"path": "local/prahova/rafov/2023/99",
+"kind": "local",
+"year": "2023",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 99/2023 privind revocare HCL86/13.11.2023 privind aprobarea reorganizarii aparatului de specialitate al Primarului Comunei Rafov incepand cu luna noiembrie 2023",
+"short": "HCL Râfov nr. 99/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-12",
+"latest": "2024-01-12",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/137398",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

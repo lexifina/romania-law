@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/tomsani/2025",
+ "acts": [
+  {
+   "slug": "hcl-prahova--tomsani-69-2025",
+   "path": "local/prahova/tomsani/2025/69",
+   "short": "HCL Tomșani nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 69/2025 privind stabilirea impozitelor şi taxelor locale pe anul 2026 la nivelul Comunei Tomşani, judeţul Prahova",
+   "url": "https://emol.ro/tomsani-ph/registru-hcl/244089",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tomsani-ph/registru-hcl/244089",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/satu-mare/odoreu/2022",
+"acts": [
+{
+"slug": "hcl-satu-mare--odoreu-36-2022",
+"path": "local/satu-mare/odoreu/2022/36",
+"kind": "local",
+"year": "2022",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 36/2022 privind aprobarea „Strategiei de dezvoltare economico-socială a Comunei Odoreu, Județul Satu Mare în orizonul de timp 2021-2027”",
+"short": "HCL Odoreu nr. 36/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/odoreu-sm/registru-hcl/74113",
+"council": "satu-mare/odoreu",
+"council_name": "Consiliul Local al Comunei Odoreu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-satu-mare--odoreu-52-2022",
+"path": "local/satu-mare/odoreu/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 52/2022 privind interzicerea circulației pe timpul nopții a vehiculelor cu tracțiune animală în comuna Odoreu, județul Satu Mare",
+"short": "HCL Odoreu nr. 52/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/odoreu-sm/registru-hcl/74130",
+"council": "satu-mare/odoreu",
+"council_name": "Consiliul Local al Comunei Odoreu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

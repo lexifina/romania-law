@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/tinosu/2026",
+ "acts": [
+  {
+   "slug": "hcl-prahova--tinosu-14-2026",
+   "path": "local/prahova/tinosu/2026/14",
+   "short": "HCL Tinosu nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 14/2026",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/257922",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/257922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-15-2026",
+   "path": "local/prahova/tinosu/2026/15",
+   "short": "HCL Tinosu nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 15/2026 privind aprobarea numărului maxim de posturi ce pot fi încadrate la nivelul comunei Tinosu, județul Prahova",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/263988",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/263988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-18-2026",
+   "path": "local/prahova/tinosu/2026/18",
+   "short": "HCL Tinosu nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 18/2026 privind aprobarea bugetului local al comunei Tinosu pe anul 2026 şi a estimărilor pentru anii 2027-2029",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/266996",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/266996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-22-2026",
+   "path": "local/prahova/tinosu/2026/22",
+   "short": "HCL Tinosu nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 22/2026 privind rectificarea bugetului local al comunei Tinosu pe anul 2026 şi estimări pentru anii 2027-2029",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/275292",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/275292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-23-2026",
+   "path": "local/prahova/tinosu/2026/23",
+   "short": "HCL Tinosu nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 23/2026 privind rectificarea bugetului local al comunei Tinosu pe anul 2026 şi estimări pentru anii 2027-2029",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/282362",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/282362",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

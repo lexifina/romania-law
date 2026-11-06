@@ -198,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--urlati-12-2022",
+   "path": "local/prahova/urlati/2022/12",
+   "short": "HCL Urlați nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 12/2022",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/66410",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/66410",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--urlati-120-2022",
    "path": "local/prahova/urlati/2022/120",
    "short": "HCL Urlați nr. 120/2022",
@@ -208,6 +223,351 @@
      "from": "2023-01-19",
      "units": 1,
      "source_url": "https://emol.ro/urlati-ph/registru-hcl/84440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-14-2022",
+   "path": "local/prahova/urlati/2022/14",
+   "short": "HCL Urlați nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 14/2022 privind aprobarea Strategiei de dezvoltare locală a Serviciilor Sociale, Orașul Urlați, pentru perioada 2021-2029",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/66412",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/66412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-15-2022",
+   "path": "local/prahova/urlati/2022/15",
+   "short": "HCL Urlați nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 15/2022 privind aprobarea Planului anual de acțiune privind serviciile sociale pentru anul 2022",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/66413",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/66413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-16-2022",
+   "path": "local/prahova/urlati/2022/16",
+   "short": "HCL Urlați nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 16/2022 privind aprobarea indicatorilor tehnico-economici pentru obiectivul „AMENAJARE ȘI DOTARE PARC BELLU, ORAȘ URLAȚI, JUD.PRAHOVA”",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/66414",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/66414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-17-2022",
+   "path": "local/prahova/urlati/2022/17",
+   "short": "HCL Urlați nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 17/2022 privind atestarea la domeniul privat al Oraşului Urlaţi a trei imobile-teren",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/66415",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/66415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-21-2022",
+   "path": "local/prahova/urlati/2022/21",
+   "short": "HCL Urlați nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 21/2022 privind atestarea la domeniul public al orașului Urlați a unor bunuri",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/66419",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/66419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-31-2022",
+   "path": "local/prahova/urlati/2022/31",
+   "short": "HCL Urlați nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 31/2022 privind aprobarea organizării rețelei școlare de învățământ preuniversitar de pe raza Orașului Urlați pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/66546",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/66546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-34-2022",
+   "path": "local/prahova/urlati/2022/34",
+   "short": "HCL Urlați nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 34/2022 privind aprobarea cererii de finanțare prin Programul Național de Investiții „Anghel Saligny” și a devizului general estimativ pentru obiectivul de investiții „Extindere rețele gaze Orașul Urlați",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/66549",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/66549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-36-2022",
+   "path": "local/prahova/urlati/2022/36",
+   "short": "HCL Urlați nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 36/2022",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/66554",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/66554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-44-2022",
+   "path": "local/prahova/urlati/2022/44",
+   "short": "HCL Urlați nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 44/2022 privind aprobarea STUDIULUI DE FEZABILITATE, INDICATORILOR TEHNICO-ECONOMICI, STRATEGIEI DE TARIFARE ȘI COFINANȚĂRII OBIECTIVULUI DE INVESTIȚIE prevăzute în cadrul „Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată din județul Prahova, în perioada 2014-2020”",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/66562",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/66562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-45-2022",
+   "path": "local/prahova/urlati/2022/45",
+   "short": "HCL Urlați nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 45/2022 privind aprobarea depunerii proiectului „Sisteme inteligente de management urban/local în Oraș Urlați, jud. Prahova”",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/66563",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/66563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-46-2022",
+   "path": "local/prahova/urlati/2022/46",
+   "short": "HCL Urlați nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 46/2022 privind aprobarea depunerii proiectului „Elaborare/actualizare în format GIS a documentelor de amenajare a teritoriului și de planificare urbană a Orașului Urlați, județ Prahova”",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/66564",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/66564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-5-2022",
+   "path": "local/prahova/urlati/2022/5",
+   "short": "HCL Urlați nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 5/2022 privind aprobarea Raportului privind activitatea desfășurată de către asistenţii personali din Orașul Urlați în semestrul II al anului 2021",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/66380",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/66380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-50-2022",
+   "path": "local/prahova/urlati/2022/50",
+   "short": "HCL Urlați nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 50/2022 privind aprobarea indicatorilor tehnico-economici pentru obiectivul „Extindere rețea de apă pe str. Valea Bobului și str. 1 Mai, oraș Urlați, jud. Prahova”",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/66577",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/66577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-54-2022",
+   "path": "local/prahova/urlati/2022/54",
+   "short": "HCL Urlați nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 54/2022 privind aprobarea documentației studiu de fezabilitate, a indicatorilor tehnico-economici pentru proiectul: „STAȚII DE REÎNCĂRCARE PENTRU VEHICULE ELECTRICE ÎN ORAȘUL URLAȚI, JUDEȚUL PRAHOVA” și participarea la „Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehicule de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice în localități”",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/66581",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/66581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-56-2022",
+   "path": "local/prahova/urlati/2022/56",
+   "short": "HCL Urlați nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 56/2022",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/66583",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/66583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-59-2022",
+   "path": "local/prahova/urlati/2022/59",
+   "short": "HCL Urlați nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 59/2022 privind aprobarea documentației tehnico-economice, faza proiect tehnic, și a principalilor indicatori tehnico-economici pentru obiectivul de investiții PROIECT INTEGRAT „IMBUNĂTĂȚIREA CALITĂȚII VIEȚII POPULAȚIEI ÎN ORAȘUL URLAȚI, JUDEȚUL PRAHOVA”, Activitatea A. Imbunățătirea serviciilor educaționale - „CONSTRUCȚIA, MODERNIZAREA ȘI DOTAREA INFRASTRUCTURII EDUCAȚIONALE PENTRU EDUCAȚIA TIMPURIE ANTEPREȘCOLARĂ (CREȘA), ORAȘUL URLAȚI, JUDEȚUL PRAHOVA”, Activitatea B. Imbunătățirea spațiilor publice urban – „CONSTRUIRE PARC STRADA MIHAI VITEAZU, ORAȘUL URLAȚI, JUDEȚUL PRAHOVA”, SMIS 125915",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/70868",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/70868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-6-2022",
+   "path": "local/prahova/urlati/2022/6",
+   "short": "HCL Urlați nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 6/2022 privind modificarea și completarea H.C.L.Urlați nr. 61 din 29.07.2021 privind stabilirea modalităţii de gestiune a serviciului de iluminat public din Orașul Urlați, Județul Prahova",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/66381",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/66381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-61-2022",
+   "path": "local/prahova/urlati/2022/61",
+   "short": "HCL Urlați nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 61/2022",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/70870",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/70870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-67-2022",
+   "path": "local/prahova/urlati/2022/67",
+   "short": "HCL Urlați nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 67/2022 privind modificarea componenței Consiliului de Administraţie al Spitalului Orăşenesc Urlaţi",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/75049",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/75049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-71-2022",
+   "path": "local/prahova/urlati/2022/71",
+   "short": "HCL Urlați nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 71/2022 privind aprobarea principalilor indicatori tehnico-economici, actualizați, pentru obiectivul de investiții PROIECT INTEGRAT „IMBUNĂTĂȚIREA CALITĂȚII VIEȚII POPULAȚIEI ÎN ORAȘUL URLAȚI, JUDEȚUL PRAHOVA”, Activitatea A. Imbunățătirea serviciilor educaționale - „CONSTRUCȚIA, MODERNIZAREA ȘI DOTAREA INFRASTRUCTURII EDUCAȚIONALE PENTRU EDUCAȚIA TIMPURIE ANTEPREȘCOLARĂ (CREȘA), ORAȘUL URLAȚI, JUDEȚUL PRAHOVA”, Activitatea B. Imbunătățirea spațiilor publice urban – „CONSTRUIRE PARC STRADA MIHAI VITEAZU, ORAȘUL URLAȚI, JUDEȚUL PRAHOVA”, SMIS 125915",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/75053",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/75053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-73-2022",
+   "path": "local/prahova/urlati/2022/73",
+   "short": "HCL Urlați nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 73/2022 privind rectificarea bugetului general al unităţii administrativ-teritoriale pe anul 2022",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/77851",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/77851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-75-2022",
+   "path": "local/prahova/urlati/2022/75",
+   "short": "HCL Urlați nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 75/2022 privind stabilirea impozitelor şi taxelor locale pentru anul 2023",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/77867",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/77867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-80-2022",
+   "path": "local/prahova/urlati/2022/80",
+   "short": "HCL Urlați nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 80/2022 privind acordarea drept de servitute pe proprietatea publică a Oraşului Urlaţi",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/77872",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/77872",
      "sha256": null
     }
    ]
@@ -298,6 +658,21 @@
      "from": "2022-11-04",
      "units": 1,
      "source_url": "https://emol.ro/urlati-ph/registru-hcl/77884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-9-2022",
+   "path": "local/prahova/urlati/2022/9",
+   "short": "HCL Urlați nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 9/2022 privind aprobarea Planului de Acțiuni și Lucrări de Interes Local pe anul 2022",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/66384",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/66384",
      "sha256": null
     }
    ]
