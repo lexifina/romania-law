@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 13 din 8 februarie 2001  privind eliberarea domnului Florin Costiniu din funcţia de secretar general al Camerei Deputaţilor     EMITENT     CAMERA DEPUTAŢILOR       Publicat în
+			  MONITORUL OFICIAL nr. 71 din 9 februarie 2001     În temeiul art. 211 alin. 2 din Regulamentul Camerei Deputaţilor, republicat,  Camera Deputaţilor adopta prezenta hotărâre.
+				 +
+			  Articolul UNIC     Domnul Florin Costiniu se eliberează din funcţia de secretar general al Camerei Deputaţilor la data de 8 februarie 2001, ca urmare a numirii sale în funcţia de judecător la Curtea Suprema de Justiţie.  Aceasta hotărâre a fost adoptată de Camera Deputaţilor în şedinţa din 8 februarie 2001, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României.  PREŞEDINTELE  CAMEREI DEPUTAŢILOR  VALER DORNEANU  -----
