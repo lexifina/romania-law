@@ -3,6 +3,321 @@
  "shard": "local/neamt/roman/2021",
  "acts": [
   {
+   "slug": "hcl-neamt--roman-10-2021",
+   "path": "local/neamt/roman/2021/10",
+   "short": "HCL Roman nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 10/2021 privind aprobarea rectificării unor contracte de vânzare cumpărare CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 3117 din 15.01.2021 inițiat de către dnul",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/02/010-HCL-2021-01-rectificare-contracte-de-vanzare-cumparare.pdf",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/02/010-HCL-2021-01-rectificare-contracte-de-vanzare-cumparare.pdf",
+     "sha256": "e38ba718541c217429ce8ad9ff9e9c991f65b62bcdcb1dc13ad374dfeecb83ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-100-2021",
+   "path": "local/neamt/roman/2021/100",
+   "short": "HCL Roman nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 100/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7957b730d7e4352747c769b1c8ac24c1327fbdbf7d7f0cbbe20c194a1902217a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-102-2021",
+   "path": "local/neamt/roman/2021/102",
+   "short": "HCL Roman nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 102/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/102-HCL-2021-04-bugetare-participativa-2021.pdf",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/102-HCL-2021-04-bugetare-participativa-2021.pdf",
+     "sha256": "c005cbed2a19702eb9bc01d25fa30274ba6334cc5f5b77a49121340c90e25178"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-103-2021",
+   "path": "local/neamt/roman/2021/103",
+   "short": "HCL Roman nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 103/2021 privind aprobarea încheierii unui Acord de asociere CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 28196 din 12.04.2021 inițiat de Leonard Achiriloaei - Primarul municipiului Roman, precum și raportul de specialitate comun nr. 28714 din 14.04.2021 întocmit de către Direcția Economică și de Serviciul Organizare Evenimente, Cultură, Culte, Învățământ, Mass Media și I.T; V",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/103-HCL-2021-04-aprobare-acord-asociere.pdf",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/103-HCL-2021-04-aprobare-acord-asociere.pdf",
+     "sha256": "918926e87b0c7bfc46297c0223e9b2cd3b20be13f223933eaec1b3d053fcead5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-104-2021",
+   "path": "local/neamt/roman/2021/104",
+   "short": "HCL Roman nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 104/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "09d364e8aa8a3e0b5c7c00e06a8f9e9201c80e193a676d390d75ca2026f7b537"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-105-2021",
+   "path": "local/neamt/roman/2021/105",
+   "short": "HCL Roman nr. 105/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 105/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f82ea398aa6660a2c0c3552aa2b96fa183fed2fde497e88de2c7d1dd286e8b29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-106-2021",
+   "path": "local/neamt/roman/2021/106",
+   "short": "HCL Roman nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 106/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "feb0bc0c4c042b45652069b50dd2bec7c4a9a6de2b30dd7ad89bad23f8a60dfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-107-2021",
+   "path": "local/neamt/roman/2021/107",
+   "short": "HCL Roman nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 107/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0a96f19499239090f9e81226235cffbdf057b8bb1261d9ec7444fb54eb0b0cd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-108-2021",
+   "path": "local/neamt/roman/2021/108",
+   "short": "HCL Roman nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 108/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e161a305619e7fe16dd7bf238d29c1923850c070d200bdee1e71d4de77a204ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-109-2021",
+   "path": "local/neamt/roman/2021/109",
+   "short": "HCL Roman nr. 109/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 109/2021 privind alocarea unei sume din bugetul local CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 33724 din 06.05.2021 inițiat de Leonard Achiriloaei - Primarul municipiului Roman, precum și raportul de specialitate comun nr. 33917 din 07.05.2021 întocmit de către Direcția Economică și de Serviciul Organizare Evenimente, Cultură, Culte, Învățământ, Mass Media și I.T; Văzând a",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/05/109-HCL-2021-05-alocarea-unei-sume-din-bugetul-local.pdf",
+   "versions": [
+    {
+     "from": "2021-05-11",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/05/109-HCL-2021-05-alocarea-unei-sume-din-bugetul-local.pdf",
+     "sha256": "2ada626230c5381e318cc2ab9e2bfd676aab37d6c3a3186a118c6da84d0fbd7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-11-2021",
+   "path": "local/neamt/roman/2021/11",
+   "short": "HCL Roman nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 11/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f4861d5394ba3b02726758a5cd64f2e583fbc59884dba6f0470608a54f09ac5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-110-2021",
+   "path": "local/neamt/roman/2021/110",
+   "short": "HCL Roman nr. 110/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 110/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3c37ffd70fd5a85232f8d4d44b6f78a000683ef3533fe6aff7354a1818d0f416"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-111-2021",
+   "path": "local/neamt/roman/2021/111",
+   "short": "HCL Roman nr. 111/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 111/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "81f9ccf3f7b667c33b59b91c562277c7e3bad864086e7f043d1189ec31868e82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-112-2021",
+   "path": "local/neamt/roman/2021/112",
+   "short": "HCL Roman nr. 112/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 112/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "43472387a4fe4858ea96b834ac64665b098f42d8e9b9c9a0b4c747ae4a50d371"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-113-2021",
+   "path": "local/neamt/roman/2021/113",
+   "short": "HCL Roman nr. 113/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 113/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "648d80abdd7bc420fbd0d864b414a634947bf0e081f89039a00df91ebcb70ef9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-114-2021",
+   "path": "local/neamt/roman/2021/114",
+   "short": "HCL Roman nr. 114/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 114/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b529ee1d3252b4b3a0b4f364ff6007b7cf5b9849a8dc45eaf66bcbecc1d23945"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-115-2021",
+   "path": "local/neamt/roman/2021/115",
+   "short": "HCL Roman nr. 115/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 115/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/05/115-HCL-2021-05-modificare-HCL-193_2018_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/05/115-HCL-2021-05-modificare-HCL-193_2018_compressed.pdf",
+     "sha256": "e71233af951c36956d0a3732ada0ab110e9415ae4853dac546819be271f49a20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-116-2021",
+   "path": "local/neamt/roman/2021/116",
+   "short": "HCL Roman nr. 116/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 116/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cd6201a11b9c542504e70ed5fd02ca252b582de9b0ad2142847ac41e6de3f7b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-117-2021",
+   "path": "local/neamt/roman/2021/117",
+   "short": "HCL Roman nr. 117/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 117/2021 privind alocarea unei sume din bugetul local CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 34931 din 11.05.2021 inițiat de Leonard Achiriloaei - Primarul municipiului Roman, precum și raportul de specialitate comun nr. 35286 din 12.05.2021 întocmit de către Direcția Economică și de Serviciul Organizare Evenimente, Cultură, Culte, Învățământ, Mass Media și I.T; Văzând a",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/05/117-HCL-2021-05-alocare-suma-buget-local-naveta-medici_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/05/117-HCL-2021-05-alocare-suma-buget-local-naveta-medici_compressed.pdf",
+     "sha256": "db95d5d21c6f4421547bb2ee841b888f58a8ace4d73143cadc5d290d91864f43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-118-2021",
+   "path": "local/neamt/roman/2021/118",
+   "short": "HCL Roman nr. 118/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 118/2021 privind efectuarea unei cheltuieli din bugetul local CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 34933 din 11.05.2021 inițiat de Leonard Achiriloaei - Primarul municipiului Roman, precum și raportul de specialitate comun nr. 35288 din 12.05.2021 întocmit de către Direcția Economică și de Serviciul Organizare Evenimente, Cultură, Culte, Învățământ, Mass Media și I.T",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/05/118-HCL-2021-05-efectuare-cheltuieli-bugetul-local-Ziua-Copilului_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/05/118-HCL-2021-05-efectuare-cheltuieli-bugetul-local-Ziua-Copilului_compressed.pdf",
+     "sha256": "da5e05ad1a0ea92cb4e5b2652839745f55c4f74935fd87617b6f88a6848d853c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-119-2021",
+   "path": "local/neamt/roman/2021/119",
+   "short": "HCL Roman nr. 119/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 119/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4f60f3579659c5acf7ddc4701979a2b63be99413a9d469466beca57369cd005b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-12-2021",
    "path": "local/neamt/roman/2021/12",
    "short": "HCL Roman nr. 12/2021",
@@ -33,6 +348,231 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-121-2021",
+   "path": "local/neamt/roman/2021/121",
+   "short": "HCL Roman nr. 121/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 121/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "801ad86af3effd113ff86d01eaa5fbabd5e7f3da076c33f4148e7b5fddc4333c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-122-2021",
+   "path": "local/neamt/roman/2021/122",
+   "short": "HCL Roman nr. 122/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 122/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9615f809ef1196a1706f0f9ea3f7a3bd8b6893f18bc69fe3f2471e7503c6c892"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-124-2021",
+   "path": "local/neamt/roman/2021/124",
+   "short": "HCL Roman nr. 124/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 124/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "dc8f839d1be78995be4130c919142855afcf5754a64131c145678f39279f5f0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-125-2021",
+   "path": "local/neamt/roman/2021/125",
+   "short": "HCL Roman nr. 125/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 125/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "aab2562d621a925246f0b1a3456420de113215dc037bcfed1ba118219712c4ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-128-2021",
+   "path": "local/neamt/roman/2021/128",
+   "short": "HCL Roman nr. 128/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 128/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c790f3853bc2286091f60e20399e5993d9e73c30caf2a002c143fe4f3f394ba1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-129-2021",
+   "path": "local/neamt/roman/2021/129",
+   "short": "HCL Roman nr. 129/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 129/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b19baea31d5091630dacea3f07c7f2814448f8568618a1156c093905f6816aa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-13-2021",
+   "path": "local/neamt/roman/2021/13",
+   "short": "HCL Roman nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 13/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "15216b5ad4b68ca17a52839c668065dcdd172f5e9e8e4537c2648104b127cc12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-130-2021",
+   "path": "local/neamt/roman/2021/130",
+   "short": "HCL Roman nr. 130/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 130/2021 privind aprobarea „Planului Județean de Gestionare a Deșeurilor Neamț 2019-2025”",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/12/Consiliul-Judetean-Neamt-HCJ-nr.-130-din-30-iunie-2021.pdf",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/12/Consiliul-Judetean-Neamt-HCJ-nr.-130-din-30-iunie-2021.pdf",
+     "sha256": "1323dd00b5040d08398453f55d5a50f69487e3ecf1027589d98ee7bb1684b90b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-131-2021",
+   "path": "local/neamt/roman/2021/131",
+   "short": "HCL Roman nr. 131/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 131/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2b1ca2f4a20722cad780e8c966968a8d7852e42fc8310723e72df403d9d40bc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-132-2021",
+   "path": "local/neamt/roman/2021/132",
+   "short": "HCL Roman nr. 132/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 132/2021 privind aprobarea cuantumului și numărului de burse care se acordă elevilor din învățământul preuniversitar de stat din municipiul Roman pentru semestrul al II-lea al anului școlar 2020-2021 și semestrul I al anului școlar 2021-2022 CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 41593 din 02.06.2021 inițiat de către Leonard Achiriloaei - Primarul municipiului Roman, pre",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/06/132-HCL-2021-06-aprobare-cuamtum-si-numar-burse-scolare_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-06-08",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/06/132-HCL-2021-06-aprobare-cuamtum-si-numar-burse-scolare_compressed.pdf",
+     "sha256": "0705181e181fed1634f9b4c42846b224ecc1e72ec339604d65a169316cd060a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-133-2021",
+   "path": "local/neamt/roman/2021/133",
+   "short": "HCL Roman nr. 133/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 133/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-06-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": "781207a3f4918f552987b532229be6c07d7d6923b6d726dfbd61600cbf9c3f03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-135-2021",
+   "path": "local/neamt/roman/2021/135",
+   "short": "HCL Roman nr. 135/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 135/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-06-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": "02a08af3664b4d1951c2ad2530113d046eefe4f9cad6a85a319a77bf27d5e4b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-136-2021",
+   "path": "local/neamt/roman/2021/136",
+   "short": "HCL Roman nr. 136/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 136/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-06-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0f5eee1d36a7192aa12f6738d3178c915d95282fa4adf9fe8812856d028a7bc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-137-2021",
+   "path": "local/neamt/roman/2021/137",
+   "short": "HCL Roman nr. 137/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 137/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-06-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d608978fc90988d77dbb0d37b9e5ae2984bd5a042688efa7a07e0d6851b5cde3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-138-2021",
+   "path": "local/neamt/roman/2021/138",
+   "short": "HCL Roman nr. 138/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 138/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-06-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d5396c05393f8c0f828e9fac91dd7e56b73d42a999968d398cd1f4d7c6294b02"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-14-2021",
    "path": "local/neamt/roman/2021/14",
    "short": "HCL Roman nr. 14/2021",
@@ -44,6 +584,156 @@
      "units": 1,
      "source_url": "https://primariaroman.ro/wp-content/uploads/2022/01/014-HCL-2022-01-modificare-taxa-concesiune-cabinete-medicale.pdf",
      "sha256": "d726cb89fa9d24f5f4d8f50240a5f1c0a65147daa92e655b4163cbe0c9ece9b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-140-2021",
+   "path": "local/neamt/roman/2021/140",
+   "short": "HCL Roman nr. 140/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 140/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/07/140-HCL-2021-06-alegerea-presedintelui-de-sedinta-Chelmus.pdf",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/07/140-HCL-2021-06-alegerea-presedintelui-de-sedinta-Chelmus.pdf",
+     "sha256": "0775cdded93bccc4ea6fa27a422e9a28a9bf75b7e1306fa35d01f83674bd5464"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-141-2021",
+   "path": "local/neamt/roman/2021/141",
+   "short": "HCL Roman nr. 141/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 141/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "bd2b2cc6b29db1ba50ada1c4ec5997e9a815f9de496323f7047fe9fcd45f3470"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-142-2021",
+   "path": "local/neamt/roman/2021/142",
+   "short": "HCL Roman nr. 142/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 142/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3813fe73fa0f0bc13f067ffe4988bd152848c59cb3da858ed5fd49f34ffdc2a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-143-2021",
+   "path": "local/neamt/roman/2021/143",
+   "short": "HCL Roman nr. 143/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 143/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e6c61fcb59a31332eb6c25011f53bffe4e375272b64a7835d6098d5248fdc25b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-145-2021",
+   "path": "local/neamt/roman/2021/145",
+   "short": "HCL Roman nr. 145/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 145/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "10962ff3f4bc7b088d51070ee2f0cedc7b139d701918513a7ac6b19288585f26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-146-2021",
+   "path": "local/neamt/roman/2021/146",
+   "short": "HCL Roman nr. 146/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 146/2021 privind acordarea unui mandat special și pentru modificarea HCL nr. 13 din 31.01.2018 privind atribuirea și încheierea contractului Delegarea prin concesiune a gestiunii unor activități componente ale serviciului de salubrizare a unităților administrativ-teritoriale membre ale Asociației de Dezvoltare Intercomunitară ”ECONEAMȚ”, din Zona 2, județul Neamț CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Exam",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/07/146-HCL-2021-06-modificare-HCL-13_2018-EcoNeamt.pdf",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/07/146-HCL-2021-06-modificare-HCL-13_2018-EcoNeamt.pdf",
+     "sha256": "0f49c3fe865a3dfd92079e64bfe3a0812d01175bb961faee9f12da0119fd8e6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-147-2021",
+   "path": "local/neamt/roman/2021/147",
+   "short": "HCL Roman nr. 147/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 147/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1a7ab11814aad861c7925e610fd1adc27e4bdcb244809ae07fef08f7e84f954c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-148-2021",
+   "path": "local/neamt/roman/2021/148",
+   "short": "HCL Roman nr. 148/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 148/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "dce69ef39d12edff18b6c4e6f85989e2ca50cd64f7b5b0dd1609924dc0ddbcf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-149-2021",
+   "path": "local/neamt/roman/2021/149",
+   "short": "HCL Roman nr. 149/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 149/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5194e9b8c5e930c8e54c77735632ed89480de041629dc0eeba7f88b269df9b24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-15-2021",
+   "path": "local/neamt/roman/2021/15",
+   "short": "HCL Roman nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 15/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d77c1e666fca3d221402f8fd6243a60de754ca82edd97d519fc0f0cc724a0782"
     }
    ]
   },
@@ -63,6 +753,231 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-151-2021",
+   "path": "local/neamt/roman/2021/151",
+   "short": "HCL Roman nr. 151/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 151/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1313070a50045ee85c9071d9c7923225fe92ffd4f26e80cc27433a938d3109e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-152-2021",
+   "path": "local/neamt/roman/2021/152",
+   "short": "HCL Roman nr. 152/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 152/2021 privind aprobarea concesionării prin licitație a unor terenuri CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 45450 din 16.06.2021 înaintat de către Primarul Municipiului Roman – d-nul Leonard Achiriloaei, precum și raportul de specialitate nr. 45757 din 17.06.2021 al Direcției de Urbanism și Amenajarea Teritoriului; Văzând avizul de legalitate nr. 47583 din 24.06.2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/07/152-HCL-2021-06-aprobare-concesionari-terenuri-AMND.pdf",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/07/152-HCL-2021-06-aprobare-concesionari-terenuri-AMND.pdf",
+     "sha256": "bfdcb391817d9cb95fba7a4a8260927a47efffeed960805fbb03d9831f88be77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-153-2021",
+   "path": "local/neamt/roman/2021/153",
+   "short": "HCL Roman nr. 153/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 153/2021 privind aprobarea concesionării directe a unui imobil CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 45449 din 16.06.2021, înaintat de către Primar – d-nul Leonard Achiriloaei, precum și raportul de specialitate nr. 45753 din 17.06.2021 al Direcției de Urbanism și Amenajarea Teritoriului; Văzând avizul de legalitate nr. 47583 din 24.06.2021 al Secretarului general al mu",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/07/153-HCL-2021-06-concesionare-directa-imobil.pdf",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/07/153-HCL-2021-06-concesionare-directa-imobil.pdf",
+     "sha256": "943f7369a91d1827ec2424ef6b6917e7913bfd79c72c22520a271efa71e9a9a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-154-2021",
+   "path": "local/neamt/roman/2021/154",
+   "short": "HCL Roman nr. 154/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 154/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/07/154-HCL-2021-06-rectificare-contracte-de-vanzare-cumparare.pdf",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/07/154-HCL-2021-06-rectificare-contracte-de-vanzare-cumparare.pdf",
+     "sha256": "51fab208f2223f17551a9051fdd7f4a5f01daa787ddd072775ddaba9289b1031"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-155-2021",
+   "path": "local/neamt/roman/2021/155",
+   "short": "HCL Roman nr. 155/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 155/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "85a51440125ed0889c0b01326781c5c18f78ebdc43262e42d6bc0a1fad3b254e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-156-2021",
+   "path": "local/neamt/roman/2021/156",
+   "short": "HCL Roman nr. 156/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 156/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/07/156-HCL-2021-06-completare-HCL-78_2020.pdf",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/07/156-HCL-2021-06-completare-HCL-78_2020.pdf",
+     "sha256": "88871f357d53f0cbb629da84a9dce9fceee3b88a28812a875499b8f0a1d7803c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-157-2021",
+   "path": "local/neamt/roman/2021/157",
+   "short": "HCL Roman nr. 157/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 157/2021 privind aprobarea Raportului pentru procedura de atribuire a contractelor de finanțare nerambursabilă între Municipiul Roman și beneficiarii de finanțare nerambursabilă de la bugetul local al Municipiului Roman, pe anul 2021, conform prevederilor Legii nr. 350/2005 privind regimul finanțărilor nerambursabile din fonduri publice alocate pentru activități non-profit de interes general CONSILIUL LOCA",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/07/157-HCL-2021-07-aprobare-contracte-de-finantare-nerambursabila.pdf",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/07/157-HCL-2021-07-aprobare-contracte-de-finantare-nerambursabila.pdf",
+     "sha256": "ff1ac9ae5162632e9199497c95dd5f01514f837796cd5c2d0e38b2b1e9216928"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-158-2021",
+   "path": "local/neamt/roman/2021/158",
+   "short": "HCL Roman nr. 158/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 158/2021 privind aprobarea rectificării bugetului local pe anul 2021 CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 54854 din 20.07.2021 inițiat de către dl",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/07/158-HCL-2021-07-rectificare-buget-local.pdf",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/07/158-HCL-2021-07-rectificare-buget-local.pdf",
+     "sha256": "b85d2b9e15a51a892ccea1e921814659f4b3a491b1f2390fbedde01b4df6e13b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-16-2021",
+   "path": "local/neamt/roman/2021/16",
+   "short": "HCL Roman nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 16/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/02/016-HCL-2021-01-modificare-HCL-320_2019-grile.pdf",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/02/016-HCL-2021-01-modificare-HCL-320_2019-grile.pdf",
+     "sha256": "1dc7d80d36f14a28e8030640fa128dc882b9a201472384d3ef899c378ad4ddb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-161-2021",
+   "path": "local/neamt/roman/2021/161",
+   "short": "HCL Roman nr. 161/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 161/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b3d3c70c3fd313b282f0d04117628a30f63094fc4cb63fb047b86ea5fe407caf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-162-2021",
+   "path": "local/neamt/roman/2021/162",
+   "short": "HCL Roman nr. 162/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 162/2021 privind aprobarea încheierii unui Acord de asociere CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 50054 din 02.07.2021 inițiat de Leonard Achiriloaei - Primarul municipiului Roman, precum și raportul de specialitate nr. 50331 din 05.07.2021 întocmit de către Serviciul Organizare Evenimente, Cultură, Culte, Învățământ, Mass Media și I.T; Văzând avizul pentru legalitate",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/08/162-HCL-2021_07-aprobare-acord-MTB_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/08/162-HCL-2021_07-aprobare-acord-MTB_compressed.pdf",
+     "sha256": "82b65dac65c03098246c07ee23717d8ff54427aba629c58fbf7ba2eb56813399"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-164-2021",
+   "path": "local/neamt/roman/2021/164",
+   "short": "HCL Roman nr. 164/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 164/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d16c283d0928d69d7e4baa1d2c9c32e2715db73beae9a92f66738aa108095b63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-165-2021",
+   "path": "local/neamt/roman/2021/165",
+   "short": "HCL Roman nr. 165/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 165/2021 privind aprobarea devizului general reactualizat pentru obiectivul de investiții: “Colectare ape pluviale și modernizare străzi cartier Nicolae Bălcescu, municipiul Roman” CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinand referatul de aprobare nr. 55441 din 22.07.2021 întocmit și înaintat de către Primarul Municipiului Roman – Leonard Achiriloaei, precum și raportul de specialitate nr. 55446 din 22",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/08/165-HCL-2021-07-deviz-reactualizat-Balcescu.pdf",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/08/165-HCL-2021-07-deviz-reactualizat-Balcescu.pdf",
+     "sha256": "fbed77b399012aa08377bf46902f222c1290a7ca218ae68b8b19e50c095b0e14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-166-2021",
+   "path": "local/neamt/roman/2021/166",
+   "short": "HCL Roman nr. 166/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 166/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "555f73944b5c07ceddf79a9ee863efb0e882242e89ad7538873775d8b8775c2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-167-2021",
+   "path": "local/neamt/roman/2021/167",
+   "short": "HCL Roman nr. 167/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 167/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "55b86e7775b9b9972c3b6494efbfe0fc24fd121b55f4c47561d7bc0b10a29f1c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-168-2021",
    "path": "local/neamt/roman/2021/168",
    "short": "HCL Roman nr. 168/2021",
@@ -74,6 +989,141 @@
      "units": 1,
      "source_url": null,
      "sha256": "cc29605c257c3defca4d5f7bb3c4d6d2981c26c412adab2c0178d10bc73ff291"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-169-2021",
+   "path": "local/neamt/roman/2021/169",
+   "short": "HCL Roman nr. 169/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 169/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1b2b530b8d8d5c121447a6c68ee2eeff6809bf9a86c2e9cdaaae422474feffaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-17-2021",
+   "path": "local/neamt/roman/2021/17",
+   "short": "HCL Roman nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 17/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/02/017-HCL-2021-01-modificare-HCL-166_2018.pdf",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/02/017-HCL-2021-01-modificare-HCL-166_2018.pdf",
+     "sha256": "5b407969e497196703fb27a7756dc67d045ffdfa565027222b7ab3579b0ee15e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-170-2021",
+   "path": "local/neamt/roman/2021/170",
+   "short": "HCL Roman nr. 170/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 170/2021 privind aprobarea rectificării unor contracte de vânzare cumpărare CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 54828 din 20.07.2021 inițiat de către dl Leonard Achiriloaei – primarul municipiului Roman, precum și raportul de specialitate nr. 55123 din 21.07.2021 întocmit de Direcția Juridică și Administrație Publică; Văzând avizul pentru legalitate nr. 56010 din 23.0",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/08/170-HCL-2021-07-aprobare-rectificare-contracte-de-vanzare-cumparare_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/08/170-HCL-2021-07-aprobare-rectificare-contracte-de-vanzare-cumparare_compressed.pdf",
+     "sha256": "6761477f7118fd1b2043d84aa2386c96aba3cc80d260855709f65d8d128b8440"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-171-2021",
+   "path": "local/neamt/roman/2021/171",
+   "short": "HCL Roman nr. 171/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 171/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b2d6eb86376f73b697301d108a9ac131c5f684ef7210287b898b0a009f942cd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-173-2021",
+   "path": "local/neamt/roman/2021/173",
+   "short": "HCL Roman nr. 173/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 173/2021 privind aprobarea Devizului general reactualizat pentru obiectivul de investitie „REABILITARE SI DOTARE SCOALA GIMNAZIALA \"VASILE ALECSANDRI\" - CORP B, Municipiul Roman” CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinand referatul de aprobare nr. 55436 din 21.07.2021 întocmit de către Primarul Municipiului Roman – d-nul Leonard Achiriloaei, precum și raportul de specialitate nr. 55596 din 22.07.2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/08/173-HCL-2021-07-aprobare-deviz-Scoala-V-Alecsandri_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/08/173-HCL-2021-07-aprobare-deviz-Scoala-V-Alecsandri_compressed.pdf",
+     "sha256": "6e4a8b18f501297d905a25d3885f82c5e14689a2cbb74aef818014aaa7d5d52a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-174-2021",
+   "path": "local/neamt/roman/2021/174",
+   "short": "HCL Roman nr. 174/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 174/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "88d0636c75a73a5a122293d906bf79bef4387a0543288ca5e72f360005bc6c34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-177-2021",
+   "path": "local/neamt/roman/2021/177",
+   "short": "HCL Roman nr. 177/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 177/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a6dba6d3d80a1793a7557a0d090b00f0736b2b5dfe5eb8031d3108641b67086e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-178-2021",
+   "path": "local/neamt/roman/2021/178",
+   "short": "HCL Roman nr. 178/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 178/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cc5fd4e1b833a90ed723312acd9861d072ccb23cc486bc0c359563bf13ca4cb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-179-2021",
+   "path": "local/neamt/roman/2021/179",
+   "short": "HCL Roman nr. 179/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 179/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3c1e38ec64f03562c10d52e16aa66abd7dc7ff28e686e47387036a23766255c6"
     }
    ]
   },
@@ -108,6 +1158,66 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-182-2021",
+   "path": "local/neamt/roman/2021/182",
+   "short": "HCL Roman nr. 182/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 182/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "bbc2b3ab7f3b16839955872e0169f48fc86aa7e0024663a4ca805033684b69b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-183-2021",
+   "path": "local/neamt/roman/2021/183",
+   "short": "HCL Roman nr. 183/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 183/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9ee080b90c01bc6790700fb521f915851c901ba5586dca3220574f217e513714"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-184-2021",
+   "path": "local/neamt/roman/2021/184",
+   "short": "HCL Roman nr. 184/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 184/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7da0eb836dcb7d9310bbec8bab7b6d91f4720c24eb21ee7243298794ea01ace6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-185-2021",
+   "path": "local/neamt/roman/2021/185",
+   "short": "HCL Roman nr. 185/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 185/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "794c1a2e700dc87b4f260e6b35e4bf187bc5d814f30c2d1a502402827e4d1e98"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-186-2021",
    "path": "local/neamt/roman/2021/186",
    "short": "HCL Roman nr. 186/2021",
@@ -119,6 +1229,36 @@
      "units": 1,
      "source_url": "https://primariaroman.ro/wp-content/uploads/2021/08/186-HCL-2021-08-modificare-HCL-18_2008_compressed.pdf",
      "sha256": "b79ab051c602fa41653b98adb29578527ab4c3a1b357be9ad63fa62963fd3a8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-187-2021",
+   "path": "local/neamt/roman/2021/187",
+   "short": "HCL Roman nr. 187/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 187/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a8271423900d465578f4dd0dcaa3799d26dce9735395423be9d85aada8306378"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-188-2021",
+   "path": "local/neamt/roman/2021/188",
+   "short": "HCL Roman nr. 188/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 188/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": "931eba1fb20827b885f2c5fa656e36bfa2955023c3ea004e54d9c8fbd710de7e"
     }
    ]
   },
@@ -138,6 +1278,171 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-190-2021",
+   "path": "local/neamt/roman/2021/190",
+   "short": "HCL Roman nr. 190/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 190/2021 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/ acordurilor-cadru pentru achizitia produselor aferente programului si a contractelor/ acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative prevăzute de “Programul pentru școli al României” de către Consiliul Local al Municipiului Roman, respectiv Municipiul Roman CONS",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/09/190-HCL-2021-09-neasumare-procedura-atribuire-contracte-Program-scoli_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-09-17",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/09/190-HCL-2021-09-neasumare-procedura-atribuire-contracte-Program-scoli_compressed.pdf",
+     "sha256": "50dbd53e42c07c1f191d15b0c2f3eb4199a62cc71df0f388d0e7e3d7e789be24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-191-2021",
+   "path": "local/neamt/roman/2021/191",
+   "short": "HCL Roman nr. 191/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 191/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3c45fbb17862a2c5e462b26810af088faca96f2ad398d6e24f726332d6c32f16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-192-2021",
+   "path": "local/neamt/roman/2021/192",
+   "short": "HCL Roman nr. 192/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 192/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "76cd055112a09fdbef7f67c95442a80be1fce935a1f454c02b4be75fa6501761"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-193-2021",
+   "path": "local/neamt/roman/2021/193",
+   "short": "HCL Roman nr. 193/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 193/2021 privind aprobarea rectificării bugetului local consolidat, a listei obiectivelor de investiții finanțate din bugetul de dezvoltare al bugetului local, a listei obiectivelor de investiții la Spitalul Municipal de Urgență Roman și a listei obiectivelor de investiții la Direcția Municipal Locato Roman pe anul 2021 CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 71141 din 17",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/09/193-HCL-2021-09-rectificare-buget-local_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/09/193-HCL-2021-09-rectificare-buget-local_compressed.pdf",
+     "sha256": "fe62a64d84125e94c4da527fefc1fe989b7feec761962832f0df49e248bfb783"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-194-2021",
+   "path": "local/neamt/roman/2021/194",
+   "short": "HCL Roman nr. 194/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 194/2021 PRIVIND APROBAREA DOCUMENTAȚIEI TEHNICO- ECONOMICE ȘI A INDICATORILOR TEHNICO-ECONOMICI, A PROIECTULUI ȘI A CHELTUIELILOR CE VOR FI EFECTUATE ÎN CADRUL PROIECTULUI: „CREȘTEREA EFICIENȚEI ENERGETICE ȘI GESTIONAREA INTELIGENTĂ A ENERGIEI ÎN CLĂDIRILE PUBLICE DIN MUNICIPIUL ROMAN - GRADINIȚA CU PROGRAM PRELUNGIT NR.1, MUNICIPIUL ROMAN” Programul privind creșterea eficienței energetice și gestionarea",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/10/194-HCL-2021-09-indicatorii-tehnico-economici-gradinita-nr-1_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/10/194-HCL-2021-09-indicatorii-tehnico-economici-gradinita-nr-1_compressed.pdf",
+     "sha256": "b73ba2c81a1cce320291367b3268d1e94c5d9b611bded19750d4479376a0714a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-195-2021",
+   "path": "local/neamt/roman/2021/195",
+   "short": "HCL Roman nr. 195/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 195/2021 privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădiri publice CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Analizând referatul de aprobare nr. 72228 din 22.09.2021 înaintat de către doamnul Leonard Achiriloaei, Primar al Municipiului Roman, precum și raportul de specialitate nr. 72381 din 23.09.2021 al Serviciului Managementul Proiectelor; Văzând avizul de legalitate n",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/10/195-HCL-2021-09-indicatorii-tehnico-economici-Gradinita-nr-5_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/10/195-HCL-2021-09-indicatorii-tehnico-economici-Gradinita-nr-5_compressed.pdf",
+     "sha256": "f1bebb2b169317e33a1eded0817806ad58cec0030252e47a959ad7717f02c39d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-196-2021",
+   "path": "local/neamt/roman/2021/196",
+   "short": "HCL Roman nr. 196/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 196/2021 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții: “ Rețea de canalizare ape uzate menajere cu stație de pompare și conductă de refulare strada Teiului, Municipiul Roman, județul Neamț” CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinand referatul de aprobare nr. 72638 din 23.09.2021 întocmit și înaintat de către Primarul Municipiului Roman – Leonard Achiriloaei, precum",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/10/196-HCL-2021-09-aprobare-indicatori-canalizare-Teiului_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/10/196-HCL-2021-09-aprobare-indicatori-canalizare-Teiului_compressed.pdf",
+     "sha256": "df7b41d2fd0895d32583a12b36532044e245cbc129e5243800cd01d46d2cafaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-197-2021",
+   "path": "local/neamt/roman/2021/197",
+   "short": "HCL Roman nr. 197/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 197/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "21640e2dedb2c7d72a460692220f57d1b527198d860b2badf9896ce6e348c9e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-198-2021",
+   "path": "local/neamt/roman/2021/198",
+   "short": "HCL Roman nr. 198/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 198/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/10/198-HCL-2021-09-modificare-HCL-163_2021_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/10/198-HCL-2021-09-modificare-HCL-163_2021_compressed.pdf",
+     "sha256": "ed7a9e445dd7fc3671d22d50ab31c0bdd9148b376c4d22ab5cb19bfe21f5cbe3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-199-2021",
+   "path": "local/neamt/roman/2021/199",
+   "short": "HCL Roman nr. 199/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 199/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f032ee7623697b296fb5fcd0bf5afc04fddca8c5b2c29b73c0d03b2355244ec3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-2-2021",
+   "path": "local/neamt/roman/2021/2",
+   "short": "HCL Roman nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 2/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-13",
+     "units": 1,
+     "source_url": null,
+     "sha256": "91658558f341868dbe7d597a726ce22fcdcacae5f87c0f9a5d6761970e7e3c9d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-20-2021",
    "path": "local/neamt/roman/2021/20",
    "short": "HCL Roman nr. 20/2021",
@@ -153,6 +1458,51 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-200-2021",
+   "path": "local/neamt/roman/2021/200",
+   "short": "HCL Roman nr. 200/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 200/2021 privind aprobarea rectificării unor contracte de vânzare cumpărare CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 72608 din 23.09.2021 inițiat de către dl Leonard Achiriloaei – primarul municipiului Roman, precum și raportul de specialitate nr. 72658 din 23.09.2021 întocmit de Direcția Juridică și Administrație Publică; Văzând avizul pentru legalitate nr. 72865 din 24.0",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/10/200-HCL-2021-09-rectificare-contracte-V-C_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/10/200-HCL-2021-09-rectificare-contracte-V-C_compressed.pdf",
+     "sha256": "25c86adc9c57c9116e10bac2b4af047b7e5524c286e1a4b88b57f7b5d5bed81a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-201-2021",
+   "path": "local/neamt/roman/2021/201",
+   "short": "HCL Roman nr. 201/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 201/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "82af4c776e9c0ae36cc834bb9dfd24f78fd2657b720f9084385db3eb6d00959e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-202-2021",
+   "path": "local/neamt/roman/2021/202",
+   "short": "HCL Roman nr. 202/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 202/2021 privind aprobarea concesionării prin licitație publică a unor terenuri CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 72018 din 22.09.2021 înaintat de către Primarul Municipiului Roman – d-nul Leonard Achiriloaei, precum și raportul de specialitate nr. 72307 din 22.09.2021 al Direcției de Urbanism și Amenajarea Teritoriului; Văzând avizul de legalitate nr. 72865 din 24",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/10/202-HCL-2021-09-aprobare-concesionare-prin-licitatie-imobile_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/10/202-HCL-2021-09-aprobare-concesionare-prin-licitatie-imobile_compressed.pdf",
+     "sha256": "cfafcd932124ed6a943b7644f0c0e205acdb050d504851c8a4fd6c8de1529cfb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-203-2021",
    "path": "local/neamt/roman/2021/203",
    "short": "HCL Roman nr. 203/2021",
@@ -164,6 +1514,21 @@
      "units": 1,
      "source_url": "https://primariaroman.ro/wp-content/uploads/2021/10/203-HCL-2021-09-modificare-HCL-83_2017_compressed.pdf",
      "sha256": "8c169fa3e06023e5b73a7f9a50e738759987708f92dce28d26ab83320d399667"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-204-2021",
+   "path": "local/neamt/roman/2021/204",
+   "short": "HCL Roman nr. 204/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 204/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5f2b7cc0abb5a34e9223094d29dc55e3f9c43f32c9b8d59a05b22d853bbb5c9e"
     }
    ]
   },
@@ -213,6 +1578,246 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-208-2021",
+   "path": "local/neamt/roman/2021/208",
+   "short": "HCL Roman nr. 208/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 208/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/10/208-ANX-2021-09-completare-HCL-236_2020-CA-scoli_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/10/208-ANX-2021-09-completare-HCL-236_2020-CA-scoli_compressed.pdf",
+     "sha256": "454085fb994de7261761294716ef6652390fd0a6babe9df7e7738442b7dc03a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-209-2021",
+   "path": "local/neamt/roman/2021/209",
+   "short": "HCL Roman nr. 209/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 209/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "69d7d67936e0d8280fd6c6534e264e13be69af63ae05230b7c4aff1383dca3e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-21-2021",
+   "path": "local/neamt/roman/2021/21",
+   "short": "HCL Roman nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 21/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4e336dde1739d3614101df29efd9c63cf46b6d67aa1450e70e06ac2ef77177bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-211-2021",
+   "path": "local/neamt/roman/2021/211",
+   "short": "HCL Roman nr. 211/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 211/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e7c2d3c2b97beb765da92441f86d5a36e1b0a219368394e3bb8f89a800fcdcd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-213-2021",
+   "path": "local/neamt/roman/2021/213",
+   "short": "HCL Roman nr. 213/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 213/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5213f9e30b2ead358ce2511161b179e678e4f55c3838ef1042fa9347faa92d23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-214-2021",
+   "path": "local/neamt/roman/2021/214",
+   "short": "HCL Roman nr. 214/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 214/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1653fadb39a89539f8c0879933cca53799838b2dc259d1c71a98500d956efe09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-215-2021",
+   "path": "local/neamt/roman/2021/215",
+   "short": "HCL Roman nr. 215/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 215/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6e47d7f754da3314dcc652357cefcca7ebffaa08e9eee509f8fea313cd843fae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-216-2021",
+   "path": "local/neamt/roman/2021/216",
+   "short": "HCL Roman nr. 216/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 216/2021 privind aprobarea încheierii unui Acord de asociere CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 71922 din 21.09.2021 inițiat de Leonard Achiriloaei - Primarul municipiului Roman, precum și raportul de specialitate nr. 72525 din 23.09.2021 întocmit de către Serviciul Organizare Evenimente, Cultură, Culte, Învățământ, Mass Media și I.T; Văzând avizul pentru legalitate",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/10/216-HCL-2021-09-aprobare-acord-Qwan-Ki-Do.pdf",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/10/216-HCL-2021-09-aprobare-acord-Qwan-Ki-Do.pdf",
+     "sha256": "52d1acee6d5b338516b167388c4d4e8c1a5a537d8603f8813aa8c17381a2bdb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-217-2021",
+   "path": "local/neamt/roman/2021/217",
+   "short": "HCL Roman nr. 217/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 217/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-10-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": "288c2c437b13e8a556969d24b8573c30baf01e9b96c9f3715126175e98f11c8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-218-2021",
+   "path": "local/neamt/roman/2021/218",
+   "short": "HCL Roman nr. 218/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 218/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/10/218-HCL-2021-10-modificare-HCL195_2018_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/10/218-HCL-2021-10-modificare-HCL195_2018_compressed.pdf",
+     "sha256": "4d6808c700aa1fb53a6e71f6b139e6a981104df85bfdc4339fe22bb81664edf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-219-2021",
+   "path": "local/neamt/roman/2021/219",
+   "short": "HCL Roman nr. 219/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 219/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/11/219-HCL-2021-10-alegerea-presedintelui-de-sedinta-Corbu.pdf",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/11/219-HCL-2021-10-alegerea-presedintelui-de-sedinta-Corbu.pdf",
+     "sha256": "3918a12065c419b38f6bb13afa6fed46f0704f05d895954111236382e7991d6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-22-2021",
+   "path": "local/neamt/roman/2021/22",
+   "short": "HCL Roman nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 22/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "30ab2abc2f54eac25077e84c8e898611729c580c49a1eb3d62664202274adef6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-220-2021",
+   "path": "local/neamt/roman/2021/220",
+   "short": "HCL Roman nr. 220/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 220/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "068b4f7d964692d98cb0a49c66fde4222dba3a8536369e9aa4f75c2f27435ec7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-221-2021",
+   "path": "local/neamt/roman/2021/221",
+   "short": "HCL Roman nr. 221/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 221/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e1681d28509e038a6e9d01b2e1e75222cbbb6c25d6aaf56ca68373bf41b83be1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-222-2021",
+   "path": "local/neamt/roman/2021/222",
+   "short": "HCL Roman nr. 222/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 222/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/11/222-HCL-2021-10-inscriere-in-CF-drept-proprietate.pdf",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/11/222-HCL-2021-10-inscriere-in-CF-drept-proprietate.pdf",
+     "sha256": "cc4f913e5ae25f492f20e455b82b82a13d2758ce6935c796c6f0231948c4a1fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-224-2021",
+   "path": "local/neamt/roman/2021/224",
+   "short": "HCL Roman nr. 224/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 224/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/11/224-HCL-2021-10-instituire-drept-uz-DELGAZ.pdf",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/11/224-HCL-2021-10-instituire-drept-uz-DELGAZ.pdf",
+     "sha256": "73cd5978bad6a30e7695978e4f279b746fded6c3847219ed4adc6951235cf066"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-225-2021",
    "path": "local/neamt/roman/2021/225",
    "short": "HCL Roman nr. 225/2021",
@@ -224,6 +1829,36 @@
      "units": 1,
      "source_url": null,
      "sha256": "670f4f38fbac3947560dfe087e40e8f5ad5844ce13011ecb1a00c2739e53b2ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-226-2021",
+   "path": "local/neamt/roman/2021/226",
+   "short": "HCL Roman nr. 226/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 226/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "72a4b274b163cdb5a6a5c650732f4764048c99e969e50e654a902fa30dd778c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-227-2021",
+   "path": "local/neamt/roman/2021/227",
+   "short": "HCL Roman nr. 227/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 227/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cde50c42a7bcc465b9857c1a7b7c489316ec586a11c662fd7c7877efbd6b325a"
     }
    ]
   },
@@ -243,6 +1878,81 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-229-2021",
+   "path": "local/neamt/roman/2021/229",
+   "short": "HCL Roman nr. 229/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 229/2021 privind actualizarea prețului de vânzare al unui imobil CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 79547 din 21.10.2021 înaintat de d-nul Leonard Achiriloaei - Primarul Municipiului Roman, precum și raportul de specialitate comun nr. 79828 din 22.10.2021 întocmit de către Direcția Juridică și Administrație Publică și Direcția Economică; Văzând avizul pentru legalita",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/11/229-HCL-2021-10-actualizare-pret-vanzare-imobil.pdf",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/11/229-HCL-2021-10-actualizare-pret-vanzare-imobil.pdf",
+     "sha256": "1cfe7ee4ff06b6c22e1fbd89127ac9ad9c3ebed6d9da246fa615e289cbb64761"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-23-2021",
+   "path": "local/neamt/roman/2021/23",
+   "short": "HCL Roman nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 23/2021 PENTRU SITUATII DE URGENTA HOTARARE privind stabilirea unor mrsuri in domeniut siniti{ii publice Comitetul Judefean pentru Situa(ii de Urgen{i Neam{ Av6nd in vedere: - prevederile Legii nr. 5512020 privind unele mdsuri pentru prevenirea qi combaterea efectelor pandemiei de COVID- 1 9; i. ntaeipvrleiitcoludrl'ipuj---eul ddpidRniersuofefproumavorletmuzdadiinfaeaiNiirecrleeeieileaasiHntmeHDcoi!ae;oit",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/03/HCJSU-23-DIN-14.03.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-03-14",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/03/HCJSU-23-DIN-14.03.2021.pdf",
+     "sha256": "d666222c0ea01a07be5c820ff9152af59fcf82f91e29db0a3af0c7a582b9e211"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-230-2021",
+   "path": "local/neamt/roman/2021/230",
+   "short": "HCL Roman nr. 230/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 230/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "275032bdba3bfccbb0e59129bdf2ca5896017453dd5c51d6d59e9735cd0ddeda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-231-2021",
+   "path": "local/neamt/roman/2021/231",
+   "short": "HCL Roman nr. 231/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 231/2021 privind aprobare documentație de închiriere a construcției cu destinația garaj CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 78909 din 20.10.2021 înaintat de către Primar – d-nul Leonard Achiriloaei, precum și raportul de specialitate comun nr. 79470 din 21.10.2021 al Direcției Juridice și Adminstrație Publică și al Direcției Administrative; Văzând avizul de legalitate",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/11/231-HCL-2021-10-aprobare-documentatie-inchiriere-garaj.pdf",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/11/231-HCL-2021-10-aprobare-documentatie-inchiriere-garaj.pdf",
+     "sha256": "1996bf967814063b4175cc1270595059b2a284b5b492e16bfd057c447e3fb75a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-232-2021",
+   "path": "local/neamt/roman/2021/232",
+   "short": "HCL Roman nr. 232/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 232/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0e691839074ca609a762ed3073d286845f384a50bc3a8145c9ace10bca5d0136"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-233-2021",
    "path": "local/neamt/roman/2021/233",
    "short": "HCL Roman nr. 233/2021",
@@ -254,6 +1964,261 @@
      "units": 1,
      "source_url": null,
      "sha256": "e7003cf83f47f0baca2040cc884fd1c395d583555e73e573b50992636775ebbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-234-2021",
+   "path": "local/neamt/roman/2021/234",
+   "short": "HCL Roman nr. 234/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 234/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "262b5d04c270cf2bba397b42bc4cb73c04106ad838f400d59e7b14f2fa53691c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-235-2021",
+   "path": "local/neamt/roman/2021/235",
+   "short": "HCL Roman nr. 235/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 235/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3a375ccc86326d9308ad55ffbc867f7d2fe657a78a73f8703965f44c225e3018"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-236-2021",
+   "path": "local/neamt/roman/2021/236",
+   "short": "HCL Roman nr. 236/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 236/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "fe2e5279f40ad3ead1a6ee7fb3996bc8e8542f072c7dcde7c4fd4c234639ea0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-237-2021",
+   "path": "local/neamt/roman/2021/237",
+   "short": "HCL Roman nr. 237/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 237/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8c26e5984ad0af990ad1da0b7c89dcb414c9b2f16606513ce93c973dcd67692c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-238-2021",
+   "path": "local/neamt/roman/2021/238",
+   "short": "HCL Roman nr. 238/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 238/2021 privind aprobarea cererii de finanțare și a devizului general estimativ ale obiectivului de investiții: “ Modernizare B-dul Nicolae Bălcescu, strada Teiului și Transilvaniei în municipiul Roman, județul Neamț” în vederea includerii la finanțare prin Programul național de investiții ”Anghel Saligny” CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinand referatul de aprobare nr. 80759 din 25.10.2021 înto",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/11/238-HCL-2021-10-aprobare-fiantare-si-deviz-Teiului-si-Transilvaniei-SUPL1.pdf",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/11/238-HCL-2021-10-aprobare-fiantare-si-deviz-Teiului-si-Transilvaniei-SUPL1.pdf",
+     "sha256": "174db02426f1fc75fe4ba04392ca392dabbe1e8be16d3abf6adcb8547f2ca406"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-239-2021",
+   "path": "local/neamt/roman/2021/239",
+   "short": "HCL Roman nr. 239/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 239/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8c082de4abb64594127694594a1257817e015e6ed64eb53f25b4431ea65c9de1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-24-2021",
+   "path": "local/neamt/roman/2021/24",
+   "short": "HCL Roman nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 24/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "54bb6efb59dcf8cf706933218d6c317ecfeabbc551928b5a24ba56a14a8feb16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-240-2021",
+   "path": "local/neamt/roman/2021/240",
+   "short": "HCL Roman nr. 240/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 240/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/11/240-HCL-2021-11-modificare-HCL-212_2021.pdf",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/11/240-HCL-2021-11-modificare-HCL-212_2021.pdf",
+     "sha256": "46b44b675c57b62bbf64969cf8362aa30b186b0f55f89f58ce163619c63acdb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-241-2021",
+   "path": "local/neamt/roman/2021/241",
+   "short": "HCL Roman nr. 241/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 241/2021 privind aprobarea cererii de finanțare și a devizului general estimativ ale obiectivului de investiții: “ Modernizare str",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/11/241-HCL-2021-11-aprobare-fiantare-si-deviz-Islazului.pdf",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/11/241-HCL-2021-11-aprobare-fiantare-si-deviz-Islazului.pdf",
+     "sha256": "1eb79907b3380b9f29dd38560a43439f0d8f314306f0be149ed0d7f7626ba690"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-242-2021",
+   "path": "local/neamt/roman/2021/242",
+   "short": "HCL Roman nr. 242/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 242/2021 privind aprobarea cererii de finanțare și a devizului general estimativ ale obiectivului de investiții: “ Modernizare Artera Roman Est, DJ207A- Strada Plopilor – DN2, în municipiul Roman, județul Neamț” în vederea includerii la finanțare prin Programul național de investiții ”Anghel Saligny” CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinand referatul de aprobare nr. 83461 din 01.11.2021 întocmit de",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/11/242-HCL-2021-11-aprobare-fiantare-si-deviz-Artera-Est.pdf",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/11/242-HCL-2021-11-aprobare-fiantare-si-deviz-Artera-Est.pdf",
+     "sha256": "7c85f5c95c9f74afaf8e454050b7a8624a0c5341b20871354834fbe6c16c62c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-244-2021",
+   "path": "local/neamt/roman/2021/244",
+   "short": "HCL Roman nr. 244/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 244/2021 privind desemnarea reprezentanților Consiliului Local în Comisia de evaluare a probei de interviu a concursului de ocupare a funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat din Municipiul Roman CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Având în vedere adresa nr. 13096/28.10.2021 și înregistrată la Primăria municipiului Roman sub nr. 82583/29.10.2021, tran",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/11/244-HCL-2021-11-desemnare-consilieri-comisii-evaluare-directori-scoli.pdf",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/11/244-HCL-2021-11-desemnare-consilieri-comisii-evaluare-directori-scoli.pdf",
+     "sha256": "38191f9ab4aaac0fec704ba7eba7b863c88b9397b953c5ca7db7f954f2d5a815"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-245-2021",
+   "path": "local/neamt/roman/2021/245",
+   "short": "HCL Roman nr. 245/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 245/2021 privind aprobarea cererii de finanțare și a devizului general estimativ ale obiectivului de investiții: “ Reabilitare rezervor 5000 mc , strada Mihai Viteazu, municipiul Roman, județul Neamț” în vederea includerii la finanțare prin Programul național de investiții ”Anghel Saligny” CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinand referatul de aprobare nr. 83481 din 01.11.2021 întocmit de către prim",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/11/245-HCL-2021-11-aprobare-fiantare-si-deviz-rezervor-SUPL-1.pdf",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/11/245-HCL-2021-11-aprobare-fiantare-si-deviz-rezervor-SUPL-1.pdf",
+     "sha256": "641440d387a81e32514f5ec0f0aaf029276496ebc2bfe466ba52a1ead15299f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-246-2021",
+   "path": "local/neamt/roman/2021/246",
+   "short": "HCL Roman nr. 246/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 246/2021 privind modificarea Hotărârii Consiliului Local nr. 192 din 21.08.2018 PROIECT: \"Proiect integrat de construire și dotare a Corpului B și a Sălii de Sport - Școala Costache Negri pentru învățământul general obligatoriu și reabilitarea și modernizarea drumurilor publice în cartierul Petru Rareș din Municipiul Roman\" Axa Prioritară 13: Sprijinirea regenerării orașelor mici și mijlocii, Prioritatea d",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/11/246-HCL-2021-11-modificare-HCL-192_2018_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/11/246-HCL-2021-11-modificare-HCL-192_2018_compressed.pdf",
+     "sha256": "13678d1c71846ecd6900e310825c198c79bee8705b2f5319fa521f8605e18cd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-247-2021",
+   "path": "local/neamt/roman/2021/247",
+   "short": "HCL Roman nr. 247/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 247/2021 privind modificarea Hotărârii Consiliului Local nr. 150 din 28.06.2019 PROIECT: \"CARE - Comunitate pentru Alternative familiale, Recuperare și Egalitate\", cod SMIS 130147 Axa prioritară 8 - Dezvoltarea infrastructurii de sănătate și sociale Prioritatea de Investiții 8.1 – Investițiile în infrastructurile sanitare și sociale care contribuie la dezvoltarea la nivel național, regional și local, reduc",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/11/247-HCL-2021-11-modificare-HCL150_2019_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/11/247-HCL-2021-11-modificare-HCL150_2019_compressed.pdf",
+     "sha256": "0efa84d45f578866fab96d42c7e753c79c45016b33d07efd4172ddb3a0015b63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-248-2021",
+   "path": "local/neamt/roman/2021/248",
+   "short": "HCL Roman nr. 248/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 248/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": "842b0afab1f0018ea86b24a06ef5560c03d718b19c431b34082fe4d03a013bf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-249-2021",
+   "path": "local/neamt/roman/2021/249",
+   "short": "HCL Roman nr. 249/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 249/2021 privind aprobarea Programului de aprovizionare a populației municipiului Roman cu principalele produse alimentare raționalizate, în caz de mobilizare sau război CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 86799 din 09.11.2021 întocmit de către Primarul Municipiului Roman – Leonard Achiriloaei, precum și raportul de specialitate nr. 87141 din 10.11.2021 al Serviciului",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/11/249-HCL-2021-11-program-aprovizionare-populatie_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/11/249-HCL-2021-11-program-aprovizionare-populatie_compressed.pdf",
+     "sha256": "ce62bcf0595e721f221176674402c042eef40af54affd3298f0c4ee87cae3c07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-25-2021",
+   "path": "local/neamt/roman/2021/25",
+   "short": "HCL Roman nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 25/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5cc654d533a906fda7fb8c1132000221ae4d4ae4622371cc9ecf2943fe02caa4"
     }
    ]
   },
@@ -393,6 +2358,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-26-2021",
+   "path": "local/neamt/roman/2021/26",
+   "short": "HCL Roman nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 26/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "accc85c0490bd13e0f52cb8ee2d1529b7f089a1fe71dc53c23973a3c143a8b86"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-260-2021",
    "path": "local/neamt/roman/2021/260",
    "short": "HCL Roman nr. 260/2021",
@@ -483,6 +2463,201 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-266-2021",
+   "path": "local/neamt/roman/2021/266",
+   "short": "HCL Roman nr. 266/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 266/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "13ba77840f6be7d8fc574eeebd1bd509a6f3be5cc423612c7b87d95f887a54e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-267-2021",
+   "path": "local/neamt/roman/2021/267",
+   "short": "HCL Roman nr. 267/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 267/2021 privind aprobarea concesionării prin licitație publică a unui teren CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 86998 din 09.11.2021 înaintat de către Primarul Municipiului Roman – d-nul Leonard Achiriloaei, precum și raportul de specialitate nr. 87148 din 10.11.2021 al Direcției de Urbanism și Amenajarea Teritoriului; Văzând avizul de legalitate nr. 90539 din 19.11",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/12/267-HCL-2021-11aprobare-concesiune-teren-licitatie-AV-30_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/12/267-HCL-2021-11aprobare-concesiune-teren-licitatie-AV-30_compressed.pdf",
+     "sha256": "1b107b986020c3c197db4e54f85ac40e42d88831dfef24813b8d899fb9a54738"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-268-2021",
+   "path": "local/neamt/roman/2021/268",
+   "short": "HCL Roman nr. 268/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 268/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "31aae57a4cb427c242e4bc23fdf75942745390287c6d408dfb969c3abf353267"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-269-2021",
+   "path": "local/neamt/roman/2021/269",
+   "short": "HCL Roman nr. 269/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 269/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c8838c5d6d976ab7c51d4747862b87248cf91c7606b27e7bc1d7fd4dfb0a0337"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-27-2021",
+   "path": "local/neamt/roman/2021/27",
+   "short": "HCL Roman nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 27/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "53ce7b22b752b65b6432ba7212def2253dcd69fb4479bca4505a68370f6cd46a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-270-2021",
+   "path": "local/neamt/roman/2021/270",
+   "short": "HCL Roman nr. 270/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 270/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cfac6542f5c0d9d7351986d2a2598285f41f0575bb486ccf9dca5b18ec085d77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-271-2021",
+   "path": "local/neamt/roman/2021/271",
+   "short": "HCL Roman nr. 271/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 271/2021 privind aprobarea închirierii prin licitație publică a unor terenuri ce aparțin domeniului public al Municipiului Roman, în vederea amplasării de panouri publicitare CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 87025 din 09.11.2021 înaintat de către Primarul Municipiului Roman – d-nul Leonard Achiriloaei , precum și raportul de specialitate nr.87174 din 10.11.2021 al",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/12/271-HCL-2021-11-aprobare-inchiriere-panouri_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/12/271-HCL-2021-11-aprobare-inchiriere-panouri_compressed.pdf",
+     "sha256": "cda05baa42683c09ddae1a4973175763295e7873ce4c4c6b5c269e0bc1758fe1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-272-2021",
+   "path": "local/neamt/roman/2021/272",
+   "short": "HCL Roman nr. 272/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 272/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a07b16908e5d68f350fb19c983d1583c4a7130bff1e4c31949d1174c57670727"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-275-2021",
+   "path": "local/neamt/roman/2021/275",
+   "short": "HCL Roman nr. 275/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 275/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1291ff30f9ba148bf0a0d991e25fe878e4d8d113211f29061fae434e7b4ec2a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-276-2021",
+   "path": "local/neamt/roman/2021/276",
+   "short": "HCL Roman nr. 276/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 276/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2e4f7aa9a97f39cc0101a8b622a0c0207e94ef5fc56cea5721639bef43b7243a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-277-2021",
+   "path": "local/neamt/roman/2021/277",
+   "short": "HCL Roman nr. 277/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 277/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8df78f5c0bf4e945aee163d101308911aa89f29e5564629e2be4655625bf7949"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-278-2021",
+   "path": "local/neamt/roman/2021/278",
+   "short": "HCL Roman nr. 278/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 278/2021 privind aprobarea rectificării bugetului local consolidat, a listei obiectivelor de investiții finanțate din bugetul de dezvoltare al bugetului local, a listei obiectivelor de investiții la Spitalul Municipal de Urgență Roman și a listei obiectivelor de investiții la Direcția Municipal Locato Roman pe anul 2021 CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 88905 din 16",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/12/278-HCL-2021-11-rectificare-buget-local_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/12/278-HCL-2021-11-rectificare-buget-local_compressed.pdf",
+     "sha256": "a9373340e14c9453f84fcdc45be0f893f3c858384f48762a7d65cfcd41690289"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-279-2021",
+   "path": "local/neamt/roman/2021/279",
+   "short": "HCL Roman nr. 279/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 279/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/12/279-HCL-2021-11-modificare-HCL-210_2021_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/12/279-HCL-2021-11-modificare-HCL-210_2021_compressed.pdf",
+     "sha256": "152693a8e734aa27a0a36148e92bc7e550bf0110070c44e0783279866e27c59c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-280-2021",
    "path": "local/neamt/roman/2021/280",
    "short": "HCL Roman nr. 280/2021",
@@ -494,6 +2669,171 @@
      "units": 1,
      "source_url": null,
      "sha256": "4e86d6ab80f87224d33d0269b61ae6e9626c709932cfc590dff39137af1ad3b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-281-2021",
+   "path": "local/neamt/roman/2021/281",
+   "short": "HCL Roman nr. 281/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 281/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/12/281-HCL-2021-11-rectificare-c-v-c_compressed.pdf",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/12/281-HCL-2021-11-rectificare-c-v-c_compressed.pdf",
+     "sha256": "3e59260db31b36af09fa3ce28c439fedbd921daed753996c5dd6bf23ae7032ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-282-2021",
+   "path": "local/neamt/roman/2021/282",
+   "short": "HCL Roman nr. 282/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 282/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": "bf78212c4e1d6081f0a1c4e0b09158004b0705a3ad6d541c7f536539f2d13e72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-284-2021",
+   "path": "local/neamt/roman/2021/284",
+   "short": "HCL Roman nr. 284/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 284/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/12/284-HCL-2021-12-alegerea-presedintelui-de-sedinta-Curpan.pdf",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/12/284-HCL-2021-12-alegerea-presedintelui-de-sedinta-Curpan.pdf",
+     "sha256": "6b35688322d7f1cb4a45295b56af23aa7044cadc1ddd7d769ee6e9e2681f01b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-286-2021",
+   "path": "local/neamt/roman/2021/286",
+   "short": "HCL Roman nr. 286/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 286/2021 Privind aderarea Municipiului Roman la ACORDUL PRIVIND ORAȘELE VERZI (GREEN CITY ACCORD) CONSILIUL LOCAL AL MUNICIPIULUI ROMAN Analizând referatul de aprobare nr. 95666 din 14.12.2021 înaintat de către doamnul Leonard Achiriloaei - Primar al Municipiului Roman, precum și raportul de specialitate nr. 95680 din 14.12.2021 al Serviciului Managementul Proiectelor prin care se propune aderarea Municipi",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/12/286-HCL-2021-12-aderare-UAT-Roman-la-Orasele-Verzi.pdf",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/12/286-HCL-2021-12-aderare-UAT-Roman-la-Orasele-Verzi.pdf",
+     "sha256": "533b2a7ca21d3b64ab72ef2ab64a3df9c9f687b79f3d9996d3c0cfe478c7ae21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-287-2021",
+   "path": "local/neamt/roman/2021/287",
+   "short": "HCL Roman nr. 287/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 287/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "464620689a62cf09dadab64e6ff185ca09beb5ad77509cf7ac3dacb05b0a5ff0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-288-2021",
+   "path": "local/neamt/roman/2021/288",
+   "short": "HCL Roman nr. 288/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 288/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/12/288-HCL-2021-12-constituirea-dreptului-de-superficie.pdf",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/12/288-HCL-2021-12-constituirea-dreptului-de-superficie.pdf",
+     "sha256": "bdb406cb8f64ba73959d2d585649fdec7975214de8d0eaf7f6672118d879ea8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-289-2021",
+   "path": "local/neamt/roman/2021/289",
+   "short": "HCL Roman nr. 289/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 289/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ab9f29aff4a499c3ae812d4e521db52e0b866d3f9751dd70c3fdac78d8611571"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-29-2021",
+   "path": "local/neamt/roman/2021/29",
+   "short": "HCL Roman nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 29/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/02/029-ANX-2021-01-modificare-HCL-236_2020-CA-scoli.pdf",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/02/029-ANX-2021-01-modificare-HCL-236_2020-CA-scoli.pdf",
+     "sha256": "9e3fa8f5b33ad9fbb8a811cc48a0f4bcaca417426abc658ab6b8df1f518319d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-290-2021",
+   "path": "local/neamt/roman/2021/290",
+   "short": "HCL Roman nr. 290/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 290/2021 privind aprobarea rectificării unor contracte de vânzare-cumpărare CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 95906 din 14.12.2021 inițiat de către dl Leonard Achiriloaei – primarul municipiului Roman, precum și raportul de specialitate nr. 96419 din 15.12.2021 întocmit de Direcția Juridică și Administrație Publică; Văzând avizul pentru legalitate nr. 96497 din 16.1",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/12/290-HCL-2021-12-rectificare-contracte-V-C.pdf",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/12/290-HCL-2021-12-rectificare-contracte-V-C.pdf",
+     "sha256": "2c6bf2da25dd520ad661c20c006732a3c531c724fa4b57228d7b3fc234afc9bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-291-2021",
+   "path": "local/neamt/roman/2021/291",
+   "short": "HCL Roman nr. 291/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 291/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/12/291-HCL-2021_12-declararea-starii-de-insolvabilitate.pdf",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/12/291-HCL-2021_12-declararea-starii-de-insolvabilitate.pdf",
+     "sha256": "ab98b97eea467f48d686a44351f10b91f688a1ef059dd1a3983d50ca8a804ec1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-292-2021",
+   "path": "local/neamt/roman/2021/292",
+   "short": "HCL Roman nr. 292/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 292/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/12/292-HCL-2021_12-reducere-de-la-plata-impozitului.pdf",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/12/292-HCL-2021_12-reducere-de-la-plata-impozitului.pdf",
+     "sha256": "3771e2d12ebdf39242dbcead649ac2d5207afe4cc22f58616fe6ced9933f34ab"
     }
    ]
   },
@@ -513,6 +2853,351 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-294-2021",
+   "path": "local/neamt/roman/2021/294",
+   "short": "HCL Roman nr. 294/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 294/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "eecd613790dca37536d2dd78a202166b8a66dfa098f62acc9970a7882a90b679"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-295-2021",
+   "path": "local/neamt/roman/2021/295",
+   "short": "HCL Roman nr. 295/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 295/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d30710bda0e8fe21eed0cee7c583332cdcc2329fbbf434a88659718ff540d7f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-296-2021",
+   "path": "local/neamt/roman/2021/296",
+   "short": "HCL Roman nr. 296/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 296/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/12/296-HCL-2021-12-modificare-HCL-45_2018-organigrama-DAS.pdf",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/12/296-HCL-2021-12-modificare-HCL-45_2018-organigrama-DAS.pdf",
+     "sha256": "836ae3dd42f5a1b60a7bc13cc9f607479b8c5e8c1f1289db1031446fe529bc5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-298-2021",
+   "path": "local/neamt/roman/2021/298",
+   "short": "HCL Roman nr. 298/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 298/2021 privind aprobarea achiziționării unor servicii la Spitalul Municipal de Urgență Roman CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 95687 din 14.12.2021 inițiat de către dl",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/12/298-HCL-2021-12-achizitia-de-servicii-juridice-SMUR.pdf",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/12/298-HCL-2021-12-achizitia-de-servicii-juridice-SMUR.pdf",
+     "sha256": "957842bb17e09fcf4770806208fa5c852f0e24972a11d92bc6e86882f62e02c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-299-2021",
+   "path": "local/neamt/roman/2021/299",
+   "short": "HCL Roman nr. 299/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 299/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3fb52f029f1ddc02e044632019e849d6d34ef19f260b4965f5344e99a35762d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-3-2021",
+   "path": "local/neamt/roman/2021/3",
+   "short": "HCL Roman nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 3/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/02/003-HCL-2021-01-alegerea-presedintelui-de-sedinta-Barca.pdf",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/02/003-HCL-2021-01-alegerea-presedintelui-de-sedinta-Barca.pdf",
+     "sha256": "8ad33180322e1151ce61ab0b8377985d4380e7d804e62bd2ba175c3d0b46e506"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-300-2021",
+   "path": "local/neamt/roman/2021/300",
+   "short": "HCL Roman nr. 300/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 300/2021 privind aprobarea participării Municipiul Roman la Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic, 2021-2024- RABLA PLUS MAȘINI ELECTRICE și asigurarea contribuției proprii necesare achiziționării autovehiculelor noi în cadrul programului CONSILIUL LOCAL AL MUNICIP",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/12/300-HCL-2021-12-participare-RABLA-PLUS.pdf",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/12/300-HCL-2021-12-participare-RABLA-PLUS.pdf",
+     "sha256": "8685362313c51959552aaffd94e6f89ebb5ac4c14a5eaa6ca7d0e12a9aa1ad78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-301-2021",
+   "path": "local/neamt/roman/2021/301",
+   "short": "HCL Roman nr. 301/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 301/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c332a6bdc944dbacdf748f32d3c37a0130efdcb9d08eed307430558367f6e47d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-302-2021",
+   "path": "local/neamt/roman/2021/302",
+   "short": "HCL Roman nr. 302/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 302/2021 privind aprobarea rectificării bugetului local consolidat, a listei obiectivelor de investiții finanțate din bugetul de dezvoltare al bugetului local, a listei obiectivelor de investiții la Spitalul Municipal de Urgență Roman, a listei obiectivelor de investiții la Direcția Administrare Piețe și a listei obiectivelor de investiții la Direcția Municipal Locato Roman pe anul 2021 CONSILIUL LOCAL AL",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/12/302-HCL-2021-12-rectificare-buget-local.pdf",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/12/302-HCL-2021-12-rectificare-buget-local.pdf",
+     "sha256": "cf05d56a3f18a60bb3e3cc201ab6514e6a4faff32a7b9ac411198c8bd572d83b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-303-2021",
+   "path": "local/neamt/roman/2021/303",
+   "short": "HCL Roman nr. 303/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 303/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "366403382d80ca9f86d90a6fb8bfe88a981bb17d9eeb84b2a554443998df52c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-304-2021",
+   "path": "local/neamt/roman/2021/304",
+   "short": "HCL Roman nr. 304/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 304/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0459564625d5b990a60562f63cffd77914e3286528cf48bd0eecf6cafb51514e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-305-2021",
+   "path": "local/neamt/roman/2021/305",
+   "short": "HCL Roman nr. 305/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 305/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "535bf98ae9f6f3319af575216a5e8bd9f872ae8a971870eeb00fcd38dcb1426e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-306-2021",
+   "path": "local/neamt/roman/2021/306",
+   "short": "HCL Roman nr. 306/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 306/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/12/306-HCL-2021-12-modificarea-HCL-85_2015.pdf",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/12/306-HCL-2021-12-modificarea-HCL-85_2015.pdf",
+     "sha256": "8dab4eef9d6ef4b4d8a36d3a89eb37ab79353b9fd4c7e61bea67db5a852bfd22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-307-2021",
+   "path": "local/neamt/roman/2021/307",
+   "short": "HCL Roman nr. 307/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 307/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/12/307-HCL-2021-12-modificare-HCL-219_2015-infiintare-CSM.pdf",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/12/307-HCL-2021-12-modificare-HCL-219_2015-infiintare-CSM.pdf",
+     "sha256": "1644b6b6deb3fe2f6440934b86c881ae6cf32587e4939cb61ce84cdb4ea0efc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-308-2021",
+   "path": "local/neamt/roman/2021/308",
+   "short": "HCL Roman nr. 308/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 308/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "bb1ec7e1b5bc32ed5b099c70a3b97fd75357c3c8fd271e76c4168b2c61c845ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-309-2021",
+   "path": "local/neamt/roman/2021/309",
+   "short": "HCL Roman nr. 309/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 309/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/12/309-HCL-2021-12-modificare-HCL-250_2021.pdf",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/12/309-HCL-2021-12-modificare-HCL-250_2021.pdf",
+     "sha256": "4ab98f7cf432a47fef958f1a90703c361f267e723a2d4bb345ff22976935a642"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-31-2021",
+   "path": "local/neamt/roman/2021/31",
+   "short": "HCL Roman nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 31/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/02/031-HCL-2021-01-modificare-HCL-126_2020-SUPL-1.pdf",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/02/031-HCL-2021-01-modificare-HCL-126_2020-SUPL-1.pdf",
+     "sha256": "8c3eb1be5a93295bdc48601e5e36a8a300954b60a1722283bece8ab25d0a08eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-310-2021",
+   "path": "local/neamt/roman/2021/310",
+   "short": "HCL Roman nr. 310/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 310/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0efb1e444831502d45c24052b4c01b41d25ec5a87dfd54903480e567b6c45ae1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-32-2021",
+   "path": "local/neamt/roman/2021/32",
+   "short": "HCL Roman nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 32/2021 pentru vaccinare SUPL 2",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/02/032-HCL-2021-01-schimbare-destinatie-spatii-pentru-vaccinare-SUPL-2.pdf",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/02/032-HCL-2021-01-schimbare-destinatie-spatii-pentru-vaccinare-SUPL-2.pdf",
+     "sha256": "086bab55f2e5f18296d06bd603f60be9e81a804206e7fb4e8490f9e114af6b0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-33-2021",
+   "path": "local/neamt/roman/2021/33",
+   "short": "HCL Roman nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 33/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/02/033-ANX-2021-01-modificare-HCL-1_2021-SUPL-3.pdf",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/02/033-ANX-2021-01-modificare-HCL-1_2021-SUPL-3.pdf",
+     "sha256": "e440d160a2985508235a375b04420a3ffaf1fc7274341a3cd6cce65ac52eeef6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-34-2021",
+   "path": "local/neamt/roman/2021/34",
+   "short": "HCL Roman nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 34/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-02-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7034ed95b5fc4c4c85b3ac852e9df2b1280bf6450837c40c8797320a0629bc0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-36-2021",
+   "path": "local/neamt/roman/2021/36",
+   "short": "HCL Roman nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 36/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "dcdad1f0f4111ebd558b0328e08fba8e77f1409f365e108a32ed909875b35494"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-37-2021",
+   "path": "local/neamt/roman/2021/37",
+   "short": "HCL Roman nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 37/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3cdd8d341016b101c02ebd9a8cbcf505fdeb33b5854e5c48cd4abce58f840784"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-39-2021",
    "path": "local/neamt/roman/2021/39",
    "short": "HCL Roman nr. 39/2021",
@@ -528,6 +3213,36 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-4-2021",
+   "path": "local/neamt/roman/2021/4",
+   "short": "HCL Roman nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 4/2021 privind aprobarea rețelei unităților de învățământ preuniversitar din municipiul Roman pentru anul școlar 2021-2022 CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare a proiectului de hotărâre nr. 25469 din 21.12.2020 inițiat de Leonard Achiriloaei - Primarul municipiului Roman, precum și raportul de specialitate nr. 25500 din 22.12.2020 întocmit de Serviciul Organizare Evenime",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/02/004-HCL-2021-01-retea-scolara-2021-2022.pdf",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/02/004-HCL-2021-01-retea-scolara-2021-2022.pdf",
+     "sha256": "c552894438521ddf3f88a51ee78ebe3f1aadcce318b4c7a9beb30f17dd29e8e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-40-2021",
+   "path": "local/neamt/roman/2021/40",
+   "short": "HCL Roman nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 40/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/03/040-HCL-2021-02-instituire-drept-uz-si-servitute-DELGAZ.pdf",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/03/040-HCL-2021-02-instituire-drept-uz-si-servitute-DELGAZ.pdf",
+     "sha256": "f64caddd521eabd2afdfc4f7c2aec22096e938474fcd7336770619811bfd921a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-41-2021",
    "path": "local/neamt/roman/2021/41",
    "short": "HCL Roman nr. 41/2021",
@@ -539,6 +3254,81 @@
      "units": 1,
      "source_url": null,
      "sha256": "0049decb475fc93b8ad92b45173d0ff8036d93d6ac48164fa2541c01aa260695"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-42-2021",
+   "path": "local/neamt/roman/2021/42",
+   "short": "HCL Roman nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 42/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ef8a0f17f83fe1f38017d1d1b7cd2636196a64c702f32d5ea8a5cadcbd7fd08c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-43-2021",
+   "path": "local/neamt/roman/2021/43",
+   "short": "HCL Roman nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 43/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/03/043-HCL-2021-02-modificare-HCL-93_-2008.pdf",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/03/043-HCL-2021-02-modificare-HCL-93_-2008.pdf",
+     "sha256": "6c0de225f9de1157f550298986ea552c40bcd27c12ad16daaf2f3cd8c180ac1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-44-2021",
+   "path": "local/neamt/roman/2021/44",
+   "short": "HCL Roman nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 44/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/03/044-HCL-2021-02-completare-HCL-228_2019.pdf",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/03/044-HCL-2021-02-completare-HCL-228_2019.pdf",
+     "sha256": "69ac4a7077dd598f1724cce740e51c9881232d9890bab3fbfd86026e0573c167"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-45-2021",
+   "path": "local/neamt/roman/2021/45",
+   "short": "HCL Roman nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 45/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7ef16b483f1a9e6544b463848ba5ceefa150df69fedba83bf15e028f03152eb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-46-2021",
+   "path": "local/neamt/roman/2021/46",
+   "short": "HCL Roman nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 46/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/03/046-HCL-2021-03-modificare-HCL-3_2019-inchiriere-vidanja.pdf",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/03/046-HCL-2021-03-modificare-HCL-3_2019-inchiriere-vidanja.pdf",
+     "sha256": "ef655221e2221183175f9d10b3538e872be1f9d89a380c07cc0dc6a8707e2477"
     }
    ]
   },
@@ -573,6 +3363,36 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-49-2021",
+   "path": "local/neamt/roman/2021/49",
+   "short": "HCL Roman nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 49/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b96ccb13ae37a1aa55fcd7d4b17cd3deeb0f488e043f9283eec91a53206ab3ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-5-2021",
+   "path": "local/neamt/roman/2021/5",
+   "short": "HCL Roman nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 5/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b7d1e31b586dfec0ac87f70bd7fa5dbfd64013f3cff7c50e97e11cf8c39c4f06"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-50-2021",
    "path": "local/neamt/roman/2021/50",
    "short": "HCL Roman nr. 50/2021",
@@ -603,6 +3423,276 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-54-2021",
+   "path": "local/neamt/roman/2021/54",
+   "short": "HCL Roman nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 54/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "bebf09c2cb2921151ae301f72644d842d26468d499f3dbb7cd66910da4894a21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-55-2021",
+   "path": "local/neamt/roman/2021/55",
+   "short": "HCL Roman nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 55/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5c89574ee3621b090a75a1f6440250bf648643a5f472a4f53a6447183684608b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-56-2021",
+   "path": "local/neamt/roman/2021/56",
+   "short": "HCL Roman nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 56/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7c95fee25cef8a9f7f3fd21abe28feedd5f256d1620728b7c0698bf7fefe47d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-58-2021",
+   "path": "local/neamt/roman/2021/58",
+   "short": "HCL Roman nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 58/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9878a2901db4cd3875c5fcf98df1b8f89b9c604a4deef3eda4c12a9b35dda32a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-59-2021",
+   "path": "local/neamt/roman/2021/59",
+   "short": "HCL Roman nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 59/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/059-HCL-2020-03-aprobare-plan-de-analiza-riscuri.pdf",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/059-HCL-2020-03-aprobare-plan-de-analiza-riscuri.pdf",
+     "sha256": "7b27649789f9af98ec68a1d264aa99b33430386089bee34eb3f432964c3de6f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-6-2021",
+   "path": "local/neamt/roman/2021/6",
+   "short": "HCL Roman nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 6/2021 privind aprobarea, pentru anul 2021, a nivelului costului mediu lunar de întreținere și a contribuției lunare de întreținere datorată de persoanele vârstnice îngrijite în Centrul Rezidențial pentru persoane vârstnice Casa Bunicilor din cadrul Direcției de Asistență Socială Roman CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Având în vedere: - referatul de aprobare nr. 3246 din 18.01.2021 înaintat de cătr",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/02/006-HCL-2021-01-cost-intretinere-persoane-varstnice.pdf",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/02/006-HCL-2021-01-cost-intretinere-persoane-varstnice.pdf",
+     "sha256": "79ce4ff39952e5412c2af6e573811e9d369fbc4067bf99dcab31c8726b4a7060"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-60-2021",
+   "path": "local/neamt/roman/2021/60",
+   "short": "HCL Roman nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 60/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/060-HCL-2021-03-modificare-HCL-28_2021.pdf",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/060-HCL-2021-03-modificare-HCL-28_2021.pdf",
+     "sha256": "9085f8d73223b24bba979e5e342c7048dfbb1d1f4574955bb78696454975bcfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-61-2021",
+   "path": "local/neamt/roman/2021/61",
+   "short": "HCL Roman nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 61/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/061-HCL-2021-03-modificare-HCL-230_2020-Regulament-CLR.pdf",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/061-HCL-2021-03-modificare-HCL-230_2020-Regulament-CLR.pdf",
+     "sha256": "079a574acdeff6777d3d6e817aa09caac79660c8057a6f557451df10f3521747"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-62-2021",
+   "path": "local/neamt/roman/2021/62",
+   "short": "HCL Roman nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 62/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1f980d4d5447dada27cdc2ad742d5ad83d1f735dee5d493e5cc11f225913f805"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-63-2021",
+   "path": "local/neamt/roman/2021/63",
+   "short": "HCL Roman nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 63/2021 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Municipiului Roman pentru anul 2021 CONSILIUL LOCAL AL MUNICIPIULUI ROMAN Având în vedere: - referatul de necesitate nr. 3899 din 15.03.2021 al Direcției de Asistență Socială a Municipiului Roman; - referatul de aprobare nr. 19844 din 16.03.2021 înaintat de către Primarul Municipiului Roman",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/063-HCL-2021-03-aprobare-Plan-de-actiune-DAS.pdf",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/063-HCL-2021-03-aprobare-Plan-de-actiune-DAS.pdf",
+     "sha256": "2fd0842ec7d432dbcfdb5a72426b5e3e300c0144237a1a1e1f3c7aba6d604a71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-64-2021",
+   "path": "local/neamt/roman/2021/64",
+   "short": "HCL Roman nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 64/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "be974dc640ea211a5eaf65026f1b867d326337e72c02119e6dce01968f3e8b38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-65-2021",
+   "path": "local/neamt/roman/2021/65",
+   "short": "HCL Roman nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 65/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/065-HCL-2021-03-modificare-HCL-141_2018-Zavoi.pdf",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/065-HCL-2021-03-modificare-HCL-141_2018-Zavoi.pdf",
+     "sha256": "9f6bbd03668db30514558af34aab577bfa24842e6ad5bb81af98397214fe6e93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-67-2021",
+   "path": "local/neamt/roman/2021/67",
+   "short": "HCL Roman nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 67/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/067-HCL-2021-03-modificare-HCL-220_2018-Parcari.pdf",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/067-HCL-2021-03-modificare-HCL-220_2018-Parcari.pdf",
+     "sha256": "cb491b2efea4170127c3f9c3356d72da5f8eee0b48cde709f1f57ece1c7f70ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-68-2021",
+   "path": "local/neamt/roman/2021/68",
+   "short": "HCL Roman nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 68/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ae8b2cc61295d83aac08ca368ff34147fe9a9227c943adb57bea1f87dcf57c49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-69-2021",
+   "path": "local/neamt/roman/2021/69",
+   "short": "HCL Roman nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 69/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/069-HCL-2021-03-modificare-HCL-178_2008-domeniu-public.pdf",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/069-HCL-2021-03-modificare-HCL-178_2008-domeniu-public.pdf",
+     "sha256": "9864b2a1b1eb3854888ebe22ecc1058fd07dc3d3a881eecc6d34136bb8d81e54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-7-2021",
+   "path": "local/neamt/roman/2021/7",
+   "short": "HCL Roman nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 7/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1732beab7567b7ebe0ed873ad91ce0f87ae684d98297b1c8cb423fdb8c39bdc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-70-2021",
+   "path": "local/neamt/roman/2021/70",
+   "short": "HCL Roman nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 70/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4e9e1c44398535d11b72dd92da97c5dabf2d98baa2266a8e64d742327cf494a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-71-2021",
+   "path": "local/neamt/roman/2021/71",
+   "short": "HCL Roman nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 71/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "342a75a64dc61dc5e095326fa7b29a1e9304632ac61357e97d41dd508c14744b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-72-2021",
    "path": "local/neamt/roman/2021/72",
    "short": "HCL Roman nr. 72/2021",
@@ -614,6 +3704,21 @@
      "units": 1,
      "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/072-HCL-2021-03-aprobare-PUZ.pdf",
      "sha256": "4ffcf7cf72a0d97b24b1ea116dc8a0defc80324c7824316b08b854f0b6fe8023"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-73-2021",
+   "path": "local/neamt/roman/2021/73",
+   "short": "HCL Roman nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 73/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "93fda4f0b59fbc3b7a76f81759ebbb534f194ca0da03be7c2a4ca70def44a8c6"
     }
    ]
   },
@@ -633,6 +3738,276 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-75-2021",
+   "path": "local/neamt/roman/2021/75",
+   "short": "HCL Roman nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 75/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "81d719decffc68c62876ce7757cc9f90fe04e53d80ad5cdaf767c814d26d1075"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-76-2021",
+   "path": "local/neamt/roman/2021/76",
+   "short": "HCL Roman nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 76/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/076-HCL-2021-03-modificare-HCL-219_2015-infiintare-CSM.pdf",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/076-HCL-2021-03-modificare-HCL-219_2015-infiintare-CSM.pdf",
+     "sha256": "3756e929c9190829659e9b5185a5e57f948cd196f5607c4c5d7699d1bdad04f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-77-2021",
+   "path": "local/neamt/roman/2021/77",
+   "short": "HCL Roman nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 77/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/077-HCL-2021-03-preluare-Strand.pdf",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/077-HCL-2021-03-preluare-Strand.pdf",
+     "sha256": "d75084044118cbc65a0cb55293085565ee6a90b933f51d913391751d14f19a8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-78-2021",
+   "path": "local/neamt/roman/2021/78",
+   "short": "HCL Roman nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 78/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6ae8272d0b68258eae6eee9d3d056c6b6b93cd96baeb7f0a29899468325e474d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-79-2021",
+   "path": "local/neamt/roman/2021/79",
+   "short": "HCL Roman nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 79/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/079-HCL-2021-03-aprobare-contract-v-c-CEC.pdf",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/079-HCL-2021-03-aprobare-contract-v-c-CEC.pdf",
+     "sha256": "eadc338c05e88ba090c2f2f21c5f9de4ad4b5bc37a8e204917b667494d54a05a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-8-2021",
+   "path": "local/neamt/roman/2021/8",
+   "short": "HCL Roman nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 8/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a84617257dc8ad3c48ed0205f0ee21b608d3a69ef70b0c8e6f14e4458757860e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-80-2021",
+   "path": "local/neamt/roman/2021/80",
+   "short": "HCL Roman nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 80/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ea3802f22cd448057b7cd3a2a21a29d9fc67fcd61425a426bb51c349bb35e9fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-81-2021",
+   "path": "local/neamt/roman/2021/81",
+   "short": "HCL Roman nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 81/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/081-ANX-2-2021-03-modificare-HCL_250_2020-organigrama-SMU.pdf",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/081-ANX-2-2021-03-modificare-HCL_250_2020-organigrama-SMU.pdf",
+     "sha256": "f09af4e7f81c88e814352235c3109f601abeb7bc5a26d9c0dfb2e63048e4ee01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-82-2021",
+   "path": "local/neamt/roman/2021/82",
+   "short": "HCL Roman nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 82/2021 privind aprobarea rectificării unui contract de vânzare - cumpărare CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 22455 din 23.03.2021 inițiat de către dnul",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/082-HCL-2021-03-rectificare-contrac-v-c.pdf",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/082-HCL-2021-03-rectificare-contrac-v-c.pdf",
+     "sha256": "ab136e02b5504bc6cb81ef33cb5a9f59c5b7101d015c498fc934a0682bc2b836"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-83-2021",
+   "path": "local/neamt/roman/2021/83",
+   "short": "HCL Roman nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 83/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/083-HCL-2021-03-modificare-HCL-70_2013.pdf",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/083-HCL-2021-03-modificare-HCL-70_2013.pdf",
+     "sha256": "8ff4005dba74742f6ef9ada6ec018dd751df76a6c846892dd1c773fa5a432396"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-84-2021",
+   "path": "local/neamt/roman/2021/84",
+   "short": "HCL Roman nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 84/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9047da394a13098ba5c8ce1d528d7e9ebd70ac8a8bfb4c718f527639c500114f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-86-2021",
+   "path": "local/neamt/roman/2021/86",
+   "short": "HCL Roman nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 86/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f12e9a7dbfb40503a1b7c3d131e25b3d29d263aa8d2b32a0ad41f245a919bff5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-87-2021",
+   "path": "local/neamt/roman/2021/87",
+   "short": "HCL Roman nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 87/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/087-HCL-2021-01-alegerea-presedintelui-de-sedinta-Balan.pdf",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/087-HCL-2021-01-alegerea-presedintelui-de-sedinta-Balan.pdf",
+     "sha256": "8dfcc6bc06e1c6cad7a206206b8785def40c4d9aaa67c754b07f298700dbdda1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-88-2021",
+   "path": "local/neamt/roman/2021/88",
+   "short": "HCL Roman nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 88/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5f05cc0d50a620177dead63f553cade5eff83befdcb88dec0f067f20e8719e6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-89-2021",
+   "path": "local/neamt/roman/2021/89",
+   "short": "HCL Roman nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 89/2021 privind aprobarea cererilor și repartizarea terenurilor atribuite în baza Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr. 18696 din 11.03.2021 înaintat de către Primarul Municipiului Roman – Leonard Achiriloaei, precum și Procesul verbal nr. 18315 din 10.03.2021 a",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/089-HCL-2021-04-repartizare-teren-tineri.pdf",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/089-HCL-2021-04-repartizare-teren-tineri.pdf",
+     "sha256": "e924cb0f3f5e3fb3c5623988f1174e21cf6aef40796b94baac86c1527dc68bc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-9-2021",
+   "path": "local/neamt/roman/2021/9",
+   "short": "HCL Roman nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 9/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "01c83f7134e312dec6c4e88b40e4681c046a7108bae204c30478b0fab9143f07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-91-2021",
+   "path": "local/neamt/roman/2021/91",
+   "short": "HCL Roman nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 91/2021 privind încheierea unui contract de comodat CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând referatul de aprobare nr 28681 din 14.04.2021 înaintat de către Primarul Municipiului Roman – dl",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/091-HCL-2021-04-aprobare-incheire-contract-comodat.pdf",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/091-HCL-2021-04-aprobare-incheire-contract-comodat.pdf",
+     "sha256": "d27e108d99242fff18a5fbad0dd09a71294978aa50d908fb9a71cb4b4ebbce25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-92-2021",
+   "path": "local/neamt/roman/2021/92",
+   "short": "HCL Roman nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 92/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b82d0587b18c201294b6117cae9e079d1c28f7563086fce9ccc7bd989383370a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-93-2021",
    "path": "local/neamt/roman/2021/93",
    "short": "HCL Roman nr. 93/2021",
@@ -644,6 +4019,81 @@
      "units": 1,
      "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/093-HCL-2021-04-indexare-impozite-si-taxe-locale-2022.pdf",
      "sha256": "5b218ee1ca1685e80fad1386dc20068b9d08d0b909fa1691292bc687ae9a35a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-94-2021",
+   "path": "local/neamt/roman/2021/94",
+   "short": "HCL Roman nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 94/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/094-HCL-2021-04-dare-in-administrare-SMUR.pdf",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/094-HCL-2021-04-dare-in-administrare-SMUR.pdf",
+     "sha256": "4d1e4d0fa847b8db44c2413d04f869333607169b64e90759ea44c743ed34c664"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-95-2021",
+   "path": "local/neamt/roman/2021/95",
+   "short": "HCL Roman nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 95/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/095-HCL-2021-04-vanzare-locuinta.pdf",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/095-HCL-2021-04-vanzare-locuinta.pdf",
+     "sha256": "1a378c75bd9277007816951223e560447063b377777594e978797fcac73bc896"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-96-2021",
+   "path": "local/neamt/roman/2021/96",
+   "short": "HCL Roman nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 96/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "009f135f2ab77d150656a95ae4c1c46fdbefb8c157777a734826c3e5a82bbf7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-98-2021",
+   "path": "local/neamt/roman/2021/98",
+   "short": "HCL Roman nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 98/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/098-HCL-2021-04-aprobare-cont-de-executie-2020.pdf",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/098-HCL-2021-04-aprobare-cont-de-executie-2020.pdf",
+     "sha256": "8f6440edce532a25252ead34e2c8117ba83ff21ef1e29a98684e71e4102ec795"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-99-2021",
+   "path": "local/neamt/roman/2021/99",
+   "short": "HCL Roman nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 99/2021",
+   "url": "https://primariaroman.ro/wp-content/uploads/2021/04/099-HCL-2021-04-modificare-HCL-18_2021-utilizare-excedent.pdf",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2021/04/099-HCL-2021-04-modificare-HCL-18_2021-utilizare-excedent.pdf",
+     "sha256": "5c3cd86cdd12f1d9203a19b813db0714afa5c8b487a386d120d3924b2a8433a0"
     }
    ]
   }

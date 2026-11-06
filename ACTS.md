@@ -18280,7 +18280,7 @@
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
 | Government decisions (HG) | 41954 | [`data/acts/hg/`](data/acts/hg/) |
-| Ministerial and authority orders (ordine) | 30930 | [`data/acts/ordin/`](data/acts/ordin/) |
+| Ministerial and authority orders (ordine) | 30933 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 839 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 685 | [`data/acts/regulament/`](data/acts/regulament/) |
 | Instructions (instrucțiuni) | 245 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
@@ -18302,4 +18302,4 @@
 | Annexes published apart from their act (court circumscriptions, official forms) | 7 | [`data/acts/anexa/`](data/acts/anexa/) |
 | Legal professions' rules: statutes, codes of ethics, regulations and decisions of the professional bodies (UNBR, UNNPR, UNEJ, OCJR, UNPIR, Consiliul de Mediere, CSM, INM, CAFR) | 667 | [`data/acts/profesii/`](data/acts/profesii/) |
 | Treaties and international agreements (texts published with their ratifying act) | 2579 | [`data/acts/tratat/`](data/acts/tratat/) |
-| Local acts (decisions of local and county councils) | 81296 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 82796 | [`data/acts/local/`](data/acts/local/) |

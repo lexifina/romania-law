@@ -15903,6 +15903,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-13-2025",
+   "path": "ordin/anre/2025/13",
+   "short": "Ordin anre nr. 13/2025",
+   "title": "Ordinul nr. 13/2025 pentru modificarea și completarea Regulamentului privind furnizarea de ultimă instanță a gazelor naturale, aprobat prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 173/2020",
+   "url": "https://anre.ro/wp-content/uploads/2025/05/Ord-13-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 1,
+     "source_url": "https://anre.ro/wp-content/uploads/2025/05/Ord-13-2025.pdf",
+     "sha256": "74cd6b7725a8484aa7cd5390d363dbb130bc7318aa87a940b3012fd1f349cb5a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-18-2025",
    "path": "ordin/anre/2025/18",
    "short": "Ordin anre nr. 18/2025",
