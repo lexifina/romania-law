@@ -305,7 +305,13 @@ These changes were first published credited to another law. The words are unchan
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 513/2006](../../../jurisprudenta/ccr/2006/513/)**, Monitorul Oficial nr. 598 din 11 iulie 2006 · art. 16^1 · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că dispoziţiile art. 16^1 din Legea nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat sunt neconstituţionale.
+
+  The Court judged an earlier or a specific wording of the provision (decided 2006-06-20, published 2006-07-11); the text here follows the acts that amended it. The text here is unchanged; read the decision.
 
 - **[Decizia nr. 225/2017](../../../jurisprudenta/ccr/2017/225/)**, Monitorul Oficial nr. 468 din 22 iunie 2017 · art. 14 lit. a) · only some words or a sentence inside the provision
 

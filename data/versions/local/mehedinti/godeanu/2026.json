@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/godeanu/2026",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--godeanu-17-2026",
+   "path": "local/mehedinti/godeanu/2026/17",
+   "short": "HCL Godeanu nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 17/2026 privind aprobarea înregistrării Unității Administrativ Teritoriale Comuna Godeanu în Sistemul Electronic de plată online a taxelor și impozitelor utilizând cardul bancar",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/297632",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/297632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-19-2026",
+   "path": "local/mehedinti/godeanu/2026/19",
+   "short": "HCL Godeanu nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 19/2026 privind participarea în Programul-cheie 1: Sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile de energie solară, cu capacități de stocare integrate, pentru autoconsum pentru entități publice, pentru obiectivul de investiții: „ÎNFIINȚARE CAPACITĂȚI DE PRODUCERE ENERGIE DIN SURSE REGENERABILE DE ENERGIE, PENTRU CONSUM PROPRIU ÎN COMUNA GODEANU, JUDEȚUL MEHEDINȚI”",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/297634",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/297634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-20-2026",
+   "path": "local/mehedinti/godeanu/2026/20",
+   "short": "HCL Godeanu nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 20/2026 privind aprobarea Studiului de Fezabilitate, a devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții „ÎNFIINȚARE CAPACITĂȚI DE PRODUCERE ENERGIE DIN SURSE REGENERABILE DE ENERGIE, PENTRU CONSUM PROPRIU ÎN COMUNA GODEANU, JUDEȚUL MEHEDINȚI”",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/297635",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/297635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-6-2026",
+   "path": "local/mehedinti/godeanu/2026/6",
+   "short": "HCL Godeanu nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 6/2026 privind modificarea anexei 1 la HCL 52/30.12.2025, privind aprobarea stabilirii impozitelor și taxelor locale, pentru comuna Godeanum începând cu 1 ianuarie 2026",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/297557",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/297557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-7-2026",
+   "path": "local/mehedinti/godeanu/2026/7",
+   "short": "HCL Godeanu nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 7/2026 privind aprobarea procedurii de acordare a eșalonării la plată a obligațiilor fiscale restante datorate bugetului local al comunei Godeanu",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/297559",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/297559",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/bodesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-neamt--bodesti-78-2025",
+   "path": "local/neamt/bodesti/2025/78",
+   "short": "HCL Bodești nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 78/2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, aplicabile ȋn anul 2026",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/272509",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/272509",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

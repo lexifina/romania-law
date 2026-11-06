@@ -25,7 +25,7 @@ Act id: `codul-procedura-penala-1968` (tags `codul-procedura-penala-1968/<day>`;
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 60/1994](../../../jurisprudenta/ccr/1994/60/)**, Monitorul Oficial nr. 57 din 28 martie 1995 · art. 149 · decided before the 2003 revision of the Constitution
 
@@ -45,11 +45,53 @@ The Constitutional Court found the provisions below unconstitutional in a way th
 
   Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1998-03-02; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
 
+- **[Decizia nr. 486/1997](../../../jurisprudenta/ccr/1997/486/)**, Monitorul Oficial nr. 105 din 6 martie 1998 · art. 278 · decided before the 2003 revision of the Constitution
+
+  > constata ca art. 278 din Codul de procedură penală este constituţional numai în măsura în care nu opreşte persoana nemultumita de soluţionarea plângerii împotriva măsurilor sau actelor efectuate de procuror ori efectuate pe baza dispoziţiilor date de acesta şi care nu ajung în faţa instanţelor judecătoreşti să se adreseze justiţiei în temeiul art. 21 din Constituţie, ce urmează să se aplice în mod direct.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1998-03-06; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
 - **[Decizia nr. 22/1998](../../../jurisprudenta/ccr/1998/22/)**, Monitorul Oficial nr. 161 din 23 aprilie 1998 · art. 159 alin. (7) · decided before the 2003 revision of the Constitution
 
   > constata ca dispoziţiile art. 159 alin. 7 teza a III-a din Codul de procedură penală sunt neconstituţionale în măsura în care se interpretează în sensul că efectul suspensiv al recursului, declarat împotriva încheierii prin care s-a dispus asupra prelungirii arestării preventive, poate depăşi durata de 30 de zile, prevăzută la art. 23 alin. (4) din Constituţie.
 
   Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1998-04-23; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 112/1998](../../../jurisprudenta/ccr/1998/112/)**, Monitorul Oficial nr. 286 din 4 august 1998 · art. 146 · decided before the 2003 revision of the Constitution
+
+  > constata ca dispoziţiile art. 146 din Codul de procedură penală sunt constituţionale numai în măsura în care asigura învinuitului aceleaşi drepturi procesuale ca şi inculpatului, în temeiul garanţiilor constituţionale privind libertatea individuală şi siguranţa persoanei, prevăzute la art. 23 şi 24 din Constituţie.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1998-08-04; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 106/1998](../../../jurisprudenta/ccr/1998/106/)**, Monitorul Oficial nr. 287 din 5 august 1998 · art. 146 · decided before the 2003 revision of the Constitution
+
+  > constata ca dispoziţiile art. 146 din Codul de procedură penală sunt constituţionale numai în măsura în care asigura învinuitului aceleaşi drepturi procesuale ca şi inculpatului, în temeiul garanţiilor constituţionale privind libertatea individuală şi siguranţa persoanei, prevăzute la art. 23 şi 24 din Constituţie.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1998-08-05; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 107/1998](../../../jurisprudenta/ccr/1998/107/)**, Monitorul Oficial nr. 287 din 5 august 1998 · art. 146 · decided before the 2003 revision of the Constitution
+
+  > constata ca dispoziţiile art. 146 din Codul de procedură penală sunt constituţionale numai în măsura în care asigura învinuitului aceleaşi drepturi procesuale ca şi inculpatului, în temeiul garanţiilor constituţionale privind libertatea individuală şi siguranţa persoanei, prevăzute la art. 23 şi 24 din Constituţie.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1998-08-05; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 108/1998](../../../jurisprudenta/ccr/1998/108/)**, Monitorul Oficial nr. 287 din 5 august 1998 · art. 146 · decided before the 2003 revision of the Constitution
+
+  > constata ca dispoziţiile art. 146 din Codul de procedură penală sunt constituţionale numai în măsura în care asigura învinuitului aceleaşi drepturi procesuale ca şi inculpatului, în temeiul garanţiilor constituţionale privind libertatea individuală şi siguranţa persoanei, prevăzute la art. 23 şi 24 din Constituţie.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1998-08-05; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 110/1998](../../../jurisprudenta/ccr/1998/110/)**, Monitorul Oficial nr. 287 din 5 august 1998 · art. 146 · decided before the 2003 revision of the Constitution
+
+  > constata ca dispoziţiile art. 146 din Codul de procedură penală sunt constituţionale numai în măsura în care asigura învinuitului aceleaşi drepturi procesuale ca şi inculpatului, în temeiul garanţiilor constituţionale privind libertatea individuală şi siguranţa persoanei, prevăzute la art. 23 şi 24 din Constituţie.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1998-08-05; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 111/1998](../../../jurisprudenta/ccr/1998/111/)**, Monitorul Oficial nr. 287 din 5 august 1998 · art. 146 · decided before the 2003 revision of the Constitution
+
+  > constata ca dispoziţiile art. 146 din Codul de procedură penală sunt constituţionale numai în măsura în care asigura învinuitului aceleaşi drepturi procesuale ca şi inculpatului, în temeiul garanţiilor constituţionale privind libertatea individuală şi siguranţa persoanei, prevăzute la art. 23 şi 24 din Constituţie.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1998-08-05; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
 
 - **[Decizia nr. 24/1999](../../../jurisprudenta/ccr/1999/24/)**, Monitorul Oficial nr. 136 din 1 aprilie 1999 · art. 257 · decided before the 2003 revision of the Constitution
 
@@ -111,6 +153,12 @@ The Constitutional Court found the provisions below unconstitutional in a way th
 
   Given before the 2003 revision of the Constitution (no 45-day rule) and published on 2001-07-16; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
 
+- **[Decizia nr. 255/2001](../../../jurisprudenta/ccr/2001/255/)**, Monitorul Oficial nr. 837 din 27 decembrie 2001 · art. 504 alin. (2) · decided before the 2003 revision of the Constitution
+
+  > constata ca dispoziţiile art. 504 alin. 2 din Codul de procedură penală sunt constituţionale numai în măsura în care nu limitează la ipotezele prevăzute în alin. 1 al aceluiaşi articol dreptul la repararea pagubei al persoanei împotriva căreia s-a luat o măsura preventivă, iar ulterior a fost scoasa de sub urmărire sau a fost achitată.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 2001-12-27; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
 - **[Decizia nr. 348/2001](../../../jurisprudenta/ccr/2001/348/)**, Monitorul Oficial nr. 63 din 29 ianuarie 2002 · art. 402 alin. (3) · decided before the 2003 revision of the Constitution
 
   > Admite excepţia de neconstituţionalitate a dispoziţiilor art. 402 alin. 3 din Codul de procedură penală \[…\] şi constata ca dispoziţia "numai dacă instanţa considera necesar" cuprinsă în acest text este neconstitutionala, fiind contrară art. 24 din Constituţie, referitor la dreptul la apărare.
@@ -147,6 +195,18 @@ The Constitutional Court found the provisions below unconstitutional in a way th
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2004-03-24) and ceases to have legal effect 45 days later, on 2004-05-08, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
 
+- **[Decizia nr. 482/2004](../../../jurisprudenta/ccr/2004/482/)**, Monitorul Oficial nr. 1200 din 15 decembrie 2004 · art. 362 alin. (1) lit. d) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 362 alin. 1 lit. d) din Codul de procedură penală sunt neconstituţionale în măsura în care nu permit părţii civile şi părţii civilmente responsabile să exercite calea de atac ordinară a apelului şi în ce priveşte latura penală a procesului.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2004-12-15) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 1058/2007](../../../jurisprudenta/ccr/2007/1058/)**, Monitorul Oficial nr. 810 din 28 noiembrie 2007 · art. 209 alin. (4^1) · not matched automatically to one provision of this text
+
+  > constată că dispoziţiile lit. a), b), c) şi d) ale art. 209 alin. 4^1 din Codul de procedură penală sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2007-11-28) and ceases to have legal effect 45 days later, on 2008-01-12, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it does not name the provisions as "dispozițiile art. ... din ...". The text here is unchanged; read the decision.
+
 - **[Decizia nr. 1086/2007](../../../jurisprudenta/ccr/2007/1086/)**, Monitorul Oficial nr. 866 din 18 decembrie 2007 · art. 173 alin. (1) · only some words or a sentence inside the provision
 
   > constată că prevederea "care implică audierea sau prezenţa învinuitului sau inculpatului căruia îi asigură apărarea" cuprinsă în acest text, precum şi dispoziţia "care implică audierea sau prezenţa părţii căreia îi asigură apărarea", cuprinsă în art. 173 alin. 1 din Codul de procedură penală, sunt neconstituţionale, fiind contrare art. 24 din Constituţie referitor la dreptul la apărare.
@@ -158,3 +218,21 @@ The Constitutional Court found the provisions below unconstitutional in a way th
   > constată că dispoziţiile art. 362 alin. 1 lit. a) teza a doua din Codul de procedură penală sunt neconstituţionale, fiind contrare art. 131 alin. (1) din Constituţie.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2008-03-20) and ceases to have legal effect 45 days later, on 2008-05-04, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 1470/2011](../../../jurisprudenta/ccr/2011/1470/)**, Monitorul Oficial nr. 853 din 2 decembrie 2011 · art. 320^1 · not matched automatically to one provision of this text
+
+  > constată că dispoziţiile art. 320^1 din Codul de procedură penală sunt neconstituţionale în măsura în care înlătură aplicarea legii penale mai favorabile \[…\] \[…\] constată că alineatul final al art. 320^1 din Codul de procedură penală este neconstituţional.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2011-12-02) and ceases to have legal effect 45 days later, on 2012-01-16, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it does not name the provisions as "dispozițiile art. ... din ...". The text here is unchanged; read the decision.
+
+- **[Decizia nr. 1483/2011](../../../jurisprudenta/ccr/2011/1483/)**, Monitorul Oficial nr. 853 din 2 decembrie 2011 · art. 320^1 alin. (1) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 320^1 alin. 1 din Codul de procedură penală sunt neconstituţionale în măsura în care înlătură aplicarea legii penale mai favorabile \[…\]
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2011-12-02) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 206/2013](../../../jurisprudenta/ccr/2013/206/)**, Monitorul Oficial nr. 350 din 13 iunie 2013 · art. 414^5 alin. (4) · not matched automatically to one provision of this text
+
+  > constată că "dezlegarea dată problemelor de drept judecate" prin Decizia Înaltei Curţi de Casaţie şi Justiţie - Secţiile Unite nr. 8 din 18 octombrie 2010, publicată în Monitorul Oficial al României, Partea I, nr. 416 din 14 iunie 2011, este neconstituţională, contravenind prevederilor art. 1 alin. (3), (4) şi (5), ale art. 126 alin. (3), ale art. 142 alin. (1) şi ale art. 147 alin. (1) şi (4) din Constituţie şi Deciziei Curţii Constituţionale nr. 62 din 18 ianuarie 2007, publicată în Monitorul Oficial al României, Partea I, nr. 104 din 12 februarie 2007.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2013-06-13) and ceases to have legal effect 45 days later, on 2013-07-28, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it does not name the provisions as "dispozițiile art. ... din ...". The text here is unchanged; read the decision.

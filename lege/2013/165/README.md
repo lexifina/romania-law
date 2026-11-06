@@ -76,13 +76,55 @@ Act id: `legea-165-2013` (tags `legea-165-2013/<day>`; `python tools/on.py <day>
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 210/2014](../../../jurisprudenta/ccr/2014/210/)**, Monitorul Oficial nr. 418 din 5 iunie 2014 · art. 4; art. 1 alin. (2) · provisions read together with others
 
   > constată că dispoziţiile art. 4 teza a doua raportate la cele ale art. 1 alin. (2) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, în redactarea anterioară modificării acestor prevederi prin Legea nr. 368/2013 pentru modificarea şi completarea Legii nr. 165/2013 sunt neconstituţionale.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2014-06-05) and ceases to have legal effect 45 days later, on 2014-07-20, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 269/2014](../../../jurisprudenta/ccr/2014/269/)**, Monitorul Oficial nr. 513 din 9 iulie 2014 · art. 4 · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că prevederile art. 4 teza a doua din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România sunt constituţionale în măsura în care termenele prevăzute la art. 34 alin. (1) din aceeaşi lege nu se aplică şi cauzelor în materia restituirii imobilelor preluate abuziv, aflate pe rolul instanţelor la data intrării în vigoare a legii.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2014-07-09) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 686/2014](../../../jurisprudenta/ccr/2014/686/)**, Monitorul Oficial nr. 68 din 27 ianuarie 2015 · art. 17 alin. (1) lit. a); art. 21 alin. (5) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 17 alin. (1) lit. a) şi art. 21 alin. (5) şi (8) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România sunt constituţionale în măsura în care nu se aplică deciziilor/dispoziţiilor entităţilor învestite cu soluţionarea notificărilor, emise în executarea unor hotărâri judecătoreşti prin care instanţele s-au pronunţat irevocabil/definitiv asupra calităţii de persoane îndreptăţite şi asupra întinderii dreptului de proprietate.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2015-01-27) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 44/2017](../../../jurisprudenta/ccr/2017/44/)**, Monitorul Oficial nr. 211 din 28 martie 2017 · art. 7 alin. (1); art. 11 alin. (1) · not matched automatically to one provision of this text
+
+  > constată că dispoziţiile art. 7 alin. (1) şi ale art. 11 alin. (1) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-03-28) and ceases to have legal effect 45 days later, on 2017-05-12, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: the provisions it names were not found exactly once in this text. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 395/2017](../../../jurisprudenta/ccr/2017/395/)**, Monitorul Oficial nr. 574 din 18 iulie 2017 · art. 13 alin. (1) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că prevederile art. 13 alin. (1) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România sunt constituționale în măsura în care restituirea terenurilor forestiere aparținând domeniului public al statului se realizează numai după trecerea prealabilă a acestor terenuri în domeniul privat al statului, în condițiile legii.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2017-07-18) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 671/2017](../../../jurisprudenta/ccr/2017/671/)**, Monitorul Oficial nr. 1015 din 21 decembrie 2017 · art. 21 alin. (4) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că sintagma „numai după epuizarea suprafețelor de teren agricol afectate restituirii în natură identificate la nivel local“ din cuprinsul art. 21 alin. (4) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România este constituțională în măsura în care nu se aplică în ipoteza existenței unor hotărâri judecătorești definitive/irevocabile prin care instanțele au dispus acordarea de măsuri reparatorii în echivalent bănesc.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2017-12-21) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 602/2020](../../../jurisprudenta/ccr/2020/602/)**, Monitorul Oficial nr. 923 din 9 octombrie 2020 · art. 41 alin. (1) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că prevederile art. 41 alin. (1) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, în interpretarea dată prin Decizia nr. 40 din 14 noiembrie 2016, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept sunt neconstituționale.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2020-10-09) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 189/2021](../../../jurisprudenta/ccr/2021/189/)**, Monitorul Oficial nr. 466 din 4 mai 2021 · art. 21 alin. (6) · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că prevederile art. 21 alin. (6) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, astfel cum au fost modificate prin Legea nr. 219/2020 pentru modificarea și completarea Legii nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România sunt neconstituționale.
+
+  The Court judged an earlier or a specific wording of the provision (decided 2021-03-18, published 2021-05-04); the text here follows the acts that amended it. The text here is unchanged; read the decision.
 
 - **[Decizia nr. 43/2025](../../../jurisprudenta/ccr/2025/43/)**, Monitorul Oficial nr. 606 din 27 iunie 2025 · art. 21 alin. (6) · only some words or a sentence inside the provision
 

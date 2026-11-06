@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/malovat/2025",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--malovat-39-2025",
+   "path": "local/mehedinti/malovat/2025/39",
+   "short": "HCL Malovăț nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 39/2025 privind organizarea reţelei școlare a unităţilor de învăţământ preuniversitar de stat acreditate de pe raza comunei Malovăț pentru anul şcolar 2026-2027",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/235525",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/235525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-52-2025",
+   "path": "local/mehedinti/malovat/2025/52",
+   "short": "HCL Malovăț nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 52/2025 privind stabilirea nivelurilor pentru valorile impozabile, impozitelor şi taxelor locale şi a altor taxe asimilate acestora, aplicabile începând cu anul 2026",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/245122",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/245122",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

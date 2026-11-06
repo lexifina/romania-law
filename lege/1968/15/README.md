@@ -984,7 +984,13 @@ These changes were first published credited to another law. The words are unchan
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 38/1993](../../../jurisprudenta/ccr/1993/38/)**, Monitorul Oficial nr. 176 din 26 iulie 1993 · art. 223; art. 224; art. 229; art. 289; art. 291 · decided before the 2003 revision of the Constitution
+
+  > Admite excepţiile de neconstituţionalitate \[…\]
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1993-07-26; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
 
 - **[Decizia nr. 33/1993](../../../jurisprudenta/ccr/1993/33/)**, Monitorul Oficial nr. 278 din 30 noiembrie 1993 · art. 224 · decided before the 2003 revision of the Constitution
 
@@ -1087,3 +1093,45 @@ The Constitutional Court found the provisions below unconstitutional in a way th
   > constata ca dispoziţia "cu excepţia cazului când acesta este întregime sau în parte al statului" din art. 220 alin. 4 din Codul penal este neconstitutionala.
 
   Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1999-12-21; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 573/2011](../../../jurisprudenta/ccr/2011/573/)**, Monitorul Oficial nr. 363 din 25 mai 2011 · art. 74^1 · not matched automatically to one provision of this text
+
+  > constată că dispoziţiile art. 74^1 din Codul penal sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2011-05-25) and ceases to have legal effect 45 days later, on 2011-07-09, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: the provisions it names were not found exactly once in this text. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 1092/2012](../../../jurisprudenta/ccr/2012/1092/)**, Monitorul Oficial nr. 67 din 31 ianuarie 2013 · art. 124 · constitutional only as the Court reads it (an interpretive decision)
+
+  > Constată că prevederile art. 124 din Codul penal, care constituie obiectul excepţiei de neconstituţionalitate formulate direct de Avocatul Poporului, sunt constituţionale în măsura în care nu împiedică aplicarea legii penale mai favorabile faptelor săvârşite sub imperiul legii vechi.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2013-01-31) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 78/2014](../../../jurisprudenta/ccr/2014/78/)**, Monitorul Oficial nr. 273 din 14 aprilie 2014 · art. 118^2 alin. (2) lit. a) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că prevederile art. 118^2 alin. 2 lit. a) din Codul penal din 1969 sunt constituţionale, în măsura în care permit aplicarea legii penale mai favorabile.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2014-04-14) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 356/2014](../../../jurisprudenta/ccr/2014/356/)**, Monitorul Oficial nr. 691 din 22 septembrie 2014 · art. 118^2 alin. (2) lit. a) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 118^2 alin. 2 lit. a) din Codul penal din 1969 sunt constituţionale în măsura în care confiscarea extinsă nu se aplică asupra bunurilor dobândite înainte de intrarea în vigoare a Legii nr. 63/2012 pentru modificarea şi completarea Codului penal al României şi a Legii nr. 286/2009 privind Codul penal.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2014-09-22) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 405/2016](../../../jurisprudenta/ccr/2016/405/)**, Monitorul Oficial nr. 517 din 8 iulie 2016 · art. 246 · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 246 din Codul penal din 1969 şi ale art. 297 alin. (1) din Codul penal sunt constituţionale în măsura în care prin sintagma "îndeplineşte în mod defectuos" din cuprinsul acestora se înţelege "îndeplineşte prin încălcarea legii".
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2016-07-08) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 392/2017](../../../jurisprudenta/ccr/2017/392/)**, Monitorul Oficial nr. 504 din 30 iunie 2017 · art. 248 · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 248 din Codul penal din 1969 sunt constituționale în măsura în care prin sintagma „îndeplinește în mod defectuos“ din cuprinsul acestora se înțelege „îndeplinește prin încălcarea legii“.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2017-06-30) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 518/2017](../../../jurisprudenta/ccr/2017/518/)**, Monitorul Oficial nr. 765 din 26 septembrie 2017 · art. 249 alin. (1) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 249 alin. 1 din Codul penal din 1969 și ale art. 298 din Codul penal sunt constituționale în măsura în care prin sintagma „îndeplinirea ei defectuoasă“ din cuprinsul acestora se înțelege „îndeplinirea prin încălcarea legii“.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2017-09-26) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.

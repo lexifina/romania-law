@@ -1,0 +1,272 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/eselnita/2025",
+"acts": [
+{
+"slug": "hcl-mehedinti--eselnita-97-2025",
+"path": "local/mehedinti/eselnita/2025/97",
+"kind": "local",
+"year": "2025",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 97/2025",
+"short": "HCL Eșelnița nr. 97/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/237439",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-98-2025",
+"path": "local/mehedinti/eselnita/2025/98",
+"kind": "local",
+"year": "2025",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 98/2025 privind acordarea unui mandat special reprezentantului UAT Eșelnița în Adunarea Generală ADIS Mehedinți, în vederea exprimării votului asupra proiectului de hotărâre privind atribuirea directă a activității de colectare separate și transport separate al deșeurilor municipal și similar pentru UAT Strehaia",
+"short": "HCL Eșelnița nr. 98/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/237443",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-99-2025",
+"path": "local/mehedinti/eselnita/2025/99",
+"kind": "local",
+"year": "2025",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 99/2025 privind aprobarea proiectului „Eșelnița SMART-DANUBIUS: Turism pe Apă, Cultură Vie și Tehnologie Interactivă” în vederea finanțării acestuia în cadrul programului PROGRAMUL REGIONAL SUD-VEST OLTENIA 2021-2027 Prioritatea 7-Dezvoltare teritorială sustenabilă, Obiectivul Specific 5.2-Promovarea dezvoltării integrate și incluzive în domeniul social, economic și al mediului, precum și a culturii, a patrimoniului natural, a turismului sustenabil și a securității în alte zone decât cele urbane, Ghidul solicitantului-Sprijin pentru dezvoltare integrată, apelul de proiecte nr. PR SV/Rural/1/7/5.2B/2024",
+"short": "HCL Eșelnița nr. 99/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-03",
+"latest": "2025-12-03",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/238905",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-100-2025",
+"path": "local/mehedinti/eselnita/2025/100",
+"kind": "local",
+"year": "2025",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 100/2025 privind aprobarea rectificării Bugetului de venituri și cheltuieli pentru anul 2025",
+"short": "HCL Eșelnița nr. 100/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-03",
+"latest": "2025-12-03",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/238906",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-102-2025",
+"path": "local/mehedinti/eselnita/2025/102",
+"kind": "local",
+"year": "2025",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 102/2025",
+"short": "HCL Eșelnița nr. 102/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-03",
+"latest": "2025-12-03",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/238909",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-107-2025",
+"path": "local/mehedinti/eselnita/2025/107",
+"kind": "local",
+"year": "2025",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 107/2025 privind aprobarea ieșirii Comunei Eșelnița din ASOCIAȚIA DE DEZVOLTARE INTERCOMUNITARĂ DISTRIBUȚIE GAZ ORȘOVA-CLISURA DUNĂRII",
+"short": "HCL Eșelnița nr. 107/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/244460",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-108-2025",
+"path": "local/mehedinti/eselnita/2025/108",
+"kind": "local",
+"year": "2025",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 108/2025 privind înființarea Serviciului public de gestionare a câinilor fără stăpân, în cadrul UAT Eșelnița județul Mehedinți",
+"short": "HCL Eșelnița nr. 108/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/244461",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-109-2025",
+"path": "local/mehedinti/eselnita/2025/109",
+"kind": "local",
+"year": "2025",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 109/2025 privind aprobarea rectificării Bugetului de venituri și cheltuieli pentru anul 2025",
+"short": "HCL Eșelnița nr. 109/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/244462",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-110-2025",
+"path": "local/mehedinti/eselnita/2025/110",
+"kind": "local",
+"year": "2025",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 110/2025 privind aprobarea rectificării Bugetului de venituri și cheltuieli pentru anul 2025",
+"short": "HCL Eșelnița nr. 110/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/244466",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-112-2025",
+"path": "local/mehedinti/eselnita/2025/112",
+"kind": "local",
+"year": "2025",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 112/2025 privind stabilirea nivelurilor pentru valorile impozabile, impozitelor și taxelor locale și a altor taxe asimilate acestora, aplicabile începând cu anul 2026",
+"short": "HCL Eșelnița nr. 112/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/244471",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-113-2025",
+"path": "local/mehedinti/eselnita/2025/113",
+"kind": "local",
+"year": "2025",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 113/2025 privind aprobarea demarării procedurii de licitație publică în vederea achiziționării pe SEAP a doi hidranți supraterani ce deservește Stația de apa a societății SC GOSPODĂRIE COMUNALĂ ESELNIȚA SRL din comuna Eșelnița, județul Mehedinți",
+"short": "HCL Eșelnița nr. 113/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/244481",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-114-2025",
+"path": "local/mehedinti/eselnita/2025/114",
+"kind": "local",
+"year": "2025",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 114/2025 privind aprobarea rectificării Bugetului de venituri și cheltuieli pentru anul 2025",
+"short": "HCL Eșelnița nr. 114/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/244487",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,226 @@
+{
+"country": "RO",
+"shard": "local/olt/bals/2021",
+"acts": [
+{
+"slug": "hcl-olt--bals-64-2021",
+"path": "local/olt/bals/2021/64",
+"kind": "local",
+"year": "2021",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 64/2021 modificarea art.2 din HCL nr. 116 din 10.11.2020 privind stabilirea numărului ,denumirii şi componenţei comisiilor de specialitate ale Consiliului Local al oraşului Balş",
+"short": "HCL Balș nr. 64/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-06-10",
+"latest": "2021-06-10",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#12214",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bals-68-2021",
+"path": "local/olt/bals/2021/68",
+"kind": "local",
+"year": "2021",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 68/2021 aprobarea modificării bugetului instituțiilor publice finanțate integral sau parțial din venituri proprii pe anul 2021",
+"short": "HCL Balș nr. 68/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-06-23",
+"latest": "2021-06-23",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#12219",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bals-69-2021",
+"path": "local/olt/bals/2021/69",
+"kind": "local",
+"year": "2021",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 69/2021 aprobarea Regulamentului pentru amplasarea mijloacelor de publicitate în orașul Balș",
+"short": "HCL Balș nr. 69/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-06-23",
+"latest": "2021-06-23",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#12220",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bals-115-2021",
+"path": "local/olt/bals/2021/115",
+"kind": "local",
+"year": "2021",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 115/2021 aprobarea indicatorilor tehnico economici si a documentatiei tehnico economice a obiectivului de investitii Cresterea eficientei energetice a infrastructurii de iluminat public in orasul Bals și participarea la Programul privind cresterea eficientei energetice a infrastructurii d",
+"short": "HCL Balș nr. 115/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-25",
+"latest": "2021-10-25",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#7171",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bals-118-2021",
+"path": "local/olt/bals/2021/118",
+"kind": "local",
+"year": "2021",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 118/2021 aprobarea contului de execuție a bugetului creditelor interne la data de 30.09.2021",
+"short": "HCL Balș nr. 118/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#7198",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bals-120-2021",
+"path": "local/olt/bals/2021/120",
+"kind": "local",
+"year": "2021",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 120/2021 aprobarea rectificării bugetului creditelor interne pe anul 2021",
+"short": "HCL Balș nr. 120/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#7196",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bals-122-2021",
+"path": "local/olt/bals/2021/122",
+"kind": "local",
+"year": "2021",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 122/2021 atestare modificări și completări inventar bunuri care aparțin domeniului public al UAT oraș Balș, județul Olt",
+"short": "HCL Balș nr. 122/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-06-17",
+"latest": "2021-06-17",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#12218",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bals-155-2021",
+"path": "local/olt/bals/2021/155",
+"kind": "local",
+"year": "2021",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 155/2021 propunerea privind schimbarea destinatiei corpurilor C2 și C3 de la Gradinita cu Program normal nr. 2 din cadrul Școlii Gimnaziale nr. 1 Balș",
+"short": "HCL Balș nr. 155/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#11586",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bals-156-2021",
+"path": "local/olt/bals/2021/156",
+"kind": "local",
+"year": "2021",
+"number": "156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 156/2021 modificarea organigramei și a statului de funcții al aparatului de specialitate al Primarului orașului Balș,prin transformarea unei funcții publice vacante și stabilirea salariului de bază",
+"short": "HCL Balș nr. 156/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#11590",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bals-158-2021",
+"path": "local/olt/bals/2021/158",
+"kind": "local",
+"year": "2021",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 158/2021 rect",
+"short": "HCL Balș nr. 158/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#11743",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

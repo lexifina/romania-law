@@ -65,3 +65,13 @@ Act id: `legea-171-2010` (tags `legea-171-2010/<day>`; `python tools/on.py <day>
 - Legea nr. 171/2010: the form of 2019-06-03 prints "abrogată;" / "Abrogat." for lettered points and paragraphs of arts. 3, 5, 5^1, 14, 16, 17, 19 and 39 that earlier forms leave out, and "Abrogat." for "Abrogat" in arts. 20 and 23, with no note and no amending act identified (repeal marks printed with no note): the printed text is kept, dated by the first form that shows it, and no law is credited.
 - Legea nr. 171/2010: the note of the form of 2025-01-12 reads "CODUL SILVIC din 20 decembrie 2024" with no act number; it is Legea nr. 331/2024 (Codul silvic, Monitorul Oficial nr. 7 of 9 January 2025), the act read as published, and the change to art. 19 alin. (2) is credited to it.
 - Legea nr. 171/2010: 10 changed article(s) with no note naming a law, committed as the publisher's: 2019-06-03 art-003, 2019-06-03 art-005, 2019-06-03 art-005-1, 2019-06-03 art-014, 2019-06-03 art-016, 2019-06-03 art-017, 2019-06-03 art-019, 2019-06-03 art-020, 2019-06-03 art-023, 2019-06-03 art-039.
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 197/2019](../../../jurisprudenta/ccr/2019/197/)**, Monitorul Oficial nr. 438 din 3 iunie 2019 · art. 19 alin. (13) · only part of a provision (a point, indent, note or annex, or a narrower finding)
+
+  > constată că dispozițiile art. 19 alin. (13) din Legea nr. 171/2010 privind stabilirea și sancționarea contravențiilor silvice, în forma modificată prin art. I pct. 26 din Ordonanța de urgență a Guvernului nr. 51/2016 pentru modificarea și completarea Legii nr. 171/2010 privind stabilirea și sancționarea contravențiilor silvice, sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2019-06-03) and ceases to have legal effect 45 days later, on 2019-07-18, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

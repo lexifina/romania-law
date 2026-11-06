@@ -61,3 +61,13 @@ Act id: `legea-297-2018` (tags `legea-297-2018/<day>`; `python tools/on.py <day>
 - Legea nr. 297/2018: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 19 such paragraphs across all forms, for example «(la 02-04-2022 Alineatul (3) din Articolul 4 și-a încetat ef», «* A se vedea nota de subsol corespunzătoare asteriscului de », «* Legea nr. 31/2006 privind securitizarea creanțelor, public».
 - Legea nr. 297/2018: 1 changed article(s) with no note naming a law, committed as the publisher's: 2022-04-02 art-004.
 - Legea nr. 297/2018: forms with no change after normalisation, so no version: 2022-02-16 (250929).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 748/2021](../../../jurisprudenta/ccr/2021/748/)**, Monitorul Oficial nr. 157 din 16 februarie 2022 · art. 4 alin. (3) · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că dispozițiile art. 4 alin. (3) din Legea nr. 297/2018 privind publicitatea mobiliară sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2022-02-16) and ceases to have legal effect 45 days later, on 2022-04-02, unless Parliament or the Government brings it into line with the Constitution in that time. The act changed the provision before 2022-04-02 (brought into line, amended or repealed), so the text here follows the amending act. The text here is unchanged; read the decision.

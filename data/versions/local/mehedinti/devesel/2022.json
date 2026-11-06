@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/devesel/2022",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--devesel-28-2022",
+   "path": "local/mehedinti/devesel/2022/28",
+   "short": "HCL Devesel nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 28/2022 Alegerea unui nou presedinte de sedinta",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#34856",
+   "versions": [
+    {
+     "from": "2022-09-05",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#34856",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

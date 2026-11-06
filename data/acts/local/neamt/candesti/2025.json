@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/neamt/candesti/2025",
+"acts": [
+{
+"slug": "hcl-neamt--candesti-13-2025",
+"path": "local/neamt/candesti/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cândești nr. 13/2025 Aprobarea Programului de aprovizionare a populaţiei cu produse agroalimentare raționalizate , valabil în perioada 2025-2028",
+"short": "HCL Cândești nr. 13/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-14",
+"latest": "2025-03-14",
+"portal": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#95162",
+"council": "neamt/candesti",
+"council_name": "Consiliul Local al Comunei Cândești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/neamt/urecheni/2023",
+"acts": [
+{
+"slug": "hcl-neamt--urecheni-83-2023",
+"path": "local/neamt/urecheni/2023/83",
+"kind": "local",
+"year": "2023",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 83/2023 privind stabilirea impozitelor și taxelor locale pentru anul 2024",
+"short": "HCL Urecheni nr. 83/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://emol.ro/urecheni-nt/registru-hcl/131329",
+"council": "neamt/urecheni",
+"council_name": "Consiliul Local al Comunei Urecheni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

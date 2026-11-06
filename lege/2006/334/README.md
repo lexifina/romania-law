@@ -91,7 +91,19 @@ Act id: `legea-334-2006` (tags `legea-334-2006/<day>`; `python tools/on.py <day>
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 718/2017](../../../jurisprudenta/ccr/2017/718/)**, Monitorul Oficial nr. 998 din 15 decembrie 2017 · not matched automatically to one provision of this text
+
+  > constată că Legea pentru modificarea și completarea Legii nr. 334/2006 privind finanțarea activității partidelor politice și a campaniilor electorale este neconstituțională.
+
+  A review other than an exception of unconstitutionality (partid-politic); the decision is generally binding from its publication (2017-12-15) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 432/2018](../../../jurisprudenta/ccr/2018/432/)**, Monitorul Oficial nr. 575 din 6 iulie 2018 · not matched automatically to one provision of this text
+
+  > constată că Legea pentru modificarea și completarea Legii nr. 334/2006 privind finanțarea activității partidelor politice și a campaniilor electorale este neconstituțională, în ansamblul său.
+
+  A review other than an exception of unconstitutionality (partid-politic); the decision is generally binding from its publication (2018-07-06) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
 
 - **[Decizia nr. 686/2020](../../../jurisprudenta/ccr/2020/686/)**, Monitorul Oficial nr. 1313 din 30 decembrie 2020 · art. 23 alin. (3) · only some words or a sentence inside the provision
 

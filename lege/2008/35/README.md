@@ -116,3 +116,13 @@ Act id: `legea-35-2008` (tags `legea-35-2008/<day>`; `python tools/on.py <day> l
 - Legea nr. 35/2008: articles a form leaves out are shown repealed on the day the repealing act took effect (on publication for an emergency ordinance, 3 days after for a law, unless the act sets its own day), credited to that act as its repeal note names it: art. 66, left out from the form of 29.08.2008: repealed by OUG nr. 97/2008, in force 29.08.2008 (an emergency ordinance with no day of its own, in force on publication in Monitorul Oficial nr. 630 of 29 August 2008 (Constituția art. 115 alin. (5))).
 - Legea nr. 35/2008: 8 changed article(s) with no note naming a law, committed as the publisher's: 2008-05-30 art-078, 2014-02-01 art-045, 2014-02-13 art-017, 2014-02-13 art-046, 2014-03-24 art-002, 2014-03-24 art-016, 2014-03-24 art-035, 2014-03-24 art-045.
 - Legea nr. 35/2008: forms with no change after normalisation, so no version: 2010-05-28 (119202).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 503/2010](../../../jurisprudenta/ccr/2010/503/)**, Monitorul Oficial nr. 353 din 28 mai 2010 · art. 48 alin. (17) · not matched automatically to one provision of this text
+
+  > constată că dispoziţiile art. 48 alin. (17) din Legea nr. 35/2008 pentru alegerea Camerei Deputaţilor şi a Senatului şi pentru modificarea şi completarea Legii nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale, a Legii administraţiei publice locale nr. 215/2001 şi a Legii nr. 393/2004 privind Statutul aleşilor locali sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2010-05-28) and ceases to have legal effect 45 days later, on 2010-07-12, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it names provisions of more than one act. The text here is unchanged; read the decision.

@@ -139,3 +139,13 @@ Act id: `legea-100-2016` (tags `legea-100-2016/<day>`; `python tools/on.py <day>
 - Legea nr. 100/2016: changes whose notes give an in-force day between two forms the portal holds are dated by the note, with the later form's text for those articles: 2020-01-01 (art-011; form 12.02.2020).
 - Legea nr. 100/2016: 4 changed article(s) with no note naming a law, committed as the publisher's: 2020-02-12 art-010, 2020-02-12 art-011, 2021-08-30 art-011, 2022-10-06 art-011.
 - Legea nr. 100/2016: forms with no change after normalisation, so no version: 2016-12-07 (184797), 2020-07-07 (227289).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 96/2026](../../../jurisprudenta/ccr/2026/96/)**, Monitorul Oficial nr. 600 din 23 iulie 2026 · art. 81 alin. (4) · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că dispozițiile art. 81 alin. (4) din Legea nr. 100/2016 privind concesiunile de lucrări și concesiunile de servicii sunt neconstituționale.
+
+  The provision already read "Abrogat" (or similar) in the text in force when the decision was published (2026-07-23): the Court judged it as it applied before. The text here is unchanged; read the decision.

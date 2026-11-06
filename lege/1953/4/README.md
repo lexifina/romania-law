@@ -24,10 +24,16 @@ Act id: `codul-familiei-1953` (tags `codul-familiei-1953/<day>`; `python tools/o
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 349/2001](../../../jurisprudenta/ccr/2001/349/)**, Monitorul Oficial nr. 240 din 10 aprilie 2002 · art. 54 alin. (2) · decided before the 2003 revision of the Constitution
 
   > constata ca dispoziţiile art. 54 alin. 2 din Codul familiei sunt neconstituţionale în măsura în care nu recunosc decât tatălui, iar nu şi mamei şi copilului născut în timpul căsătoriei, dreptul de a porni acţiunea în tăgăduirea paternităţii.
 
   Given before the 2003 revision of the Constitution (no 45-day rule) and published on 2002-04-10; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 697/2016](../../../jurisprudenta/ccr/2016/697/)**, Monitorul Oficial nr. 138 din 23 februarie 2017 · art. 60 alin. (1) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că prevederile art. 60 alin. 1 din Codul familiei, în redactarea anterioară modificării acestora prin Legea nr. 288/2007 pentru modificarea şi completarea Legii nr. 4/1953 - Codul familiei, sunt constituţionale în măsura în care nu privesc acţiunea în stabilirea paternităţii din afara căsătoriei introdusă de copil.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2017-02-23) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.

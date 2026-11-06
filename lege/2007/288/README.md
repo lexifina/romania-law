@@ -25,7 +25,13 @@ Act id: `legea-288-2007` (tags `legea-288-2007/<day>`; `python tools/on.py <day>
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 755/2008](../../../jurisprudenta/ccr/2008/755/)**, Monitorul Oficial nr. 537 din 16 iulie 2008 · art. II · only some words or a sentence inside the provision
+
+  > constată că sintagma "Dispozițiile prezentei legi privind acțiunea în tăgăduirea paternității, \[...\], sunt aplicabile și în cazul copiilor născuți înainte de intrarea sa în vigoare, chiar dacă cererea este în curs de judecată" este neconstituțională, e x cepție \[…\]
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2008-07-16) and ceases to have legal effect 45 days later, on 2008-08-30, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
 
 - **[Decizia nr. 1345/2008](../../../jurisprudenta/ccr/2008/1345/)**, Monitorul Oficial nr. 873 din 23 decembrie 2008 · art. II · only some words or a sentence inside the provision
 

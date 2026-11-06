@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/neamt/tupilati/2021",
+"acts": [
+{
+"slug": "hcl-neamt--tupilati-60-2021",
+"path": "local/neamt/tupilati/2021/60",
+"kind": "local",
+"year": "2021",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 60/2021 privind aprobarea delegării prin concesiune a Serviciului de iluminat public al Comunei Tupilați, Județul Neamț, a studiului de fundamentare a deciziei de delegare a Serviciului Public de Iluminat al Comunei Tupilați, Județul Neamț, a Regulamentului de Organizare și funcționare al serviciului de iluminat public, a Caietului de Sarcini, a documentației de atribuire prin procedura simplificata",
+"short": "HCL Tupilați nr. 60/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-11",
+"latest": "2021-11-11",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/42383",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

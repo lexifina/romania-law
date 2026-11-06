@@ -290,3 +290,13 @@ Act id: `legea-11-2024` (tags `legea-11-2024/<day>`; `python tools/on.py <day> l
 - Legea nr. 11/2024: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
 - Legea nr. 11/2024: the first version is the law as published in Monitorul Oficial nr. 26 of 12 January 2024 (DetaliiDocumentAfis/278110), dated 12 July 2024: its art. 276 puts it in force 6 months after publication. The portal lists no consolidated form of it, so the text as published is its only version; the act page (DetaliiDocument/278110) prints the same text.
 - Legea nr. 11/2024: its provisions take effect on more than one day, as its final provisions say; each is shown from its own day (2024-01-15: art-261; the rest on 12 July 2024), the text as published.
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 402/2024](../../../jurisprudenta/ccr/2024/402/)**, Monitorul Oficial nr. 15 din 10 ianuarie 2025 · not matched automatically to one provision of this text
+
+  > constată că Legea nr. 11/2024 privind statutul grefierilor și al altor categorii de personal care ocupă funcții de specialitate în cadrul instanțelor judecătorești, al parchetelor de pe lângă acestea și al Institutului Național de Expertize Criminalistice este neconstituțională, în ansamblul său.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2025-01-10) and ceases to have legal effect 45 days later, on 2025-02-24, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it does not name the provisions as "dispozițiile art. ... din ...". The text here is unchanged; read the decision.

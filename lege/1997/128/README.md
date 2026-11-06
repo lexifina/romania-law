@@ -168,7 +168,7 @@ Act id: `legea-128-1997` (tags `legea-128-1997/<day>`; `python tools/on.py <day>
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 30/1998](../../../jurisprudenta/ccr/1998/30/)**, Monitorul Oficial nr. 113 din 16 martie 1998 · art. 93 alin. (4) · decided before the 2003 revision of the Constitution
 
@@ -176,8 +176,26 @@ The Constitutional Court found the provisions below unconstitutional in a way th
 
   Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1998-03-16; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
 
+- **[Decizia nr. 599/2009](../../../jurisprudenta/ccr/2009/599/)**, Monitorul Oficial nr. 329 din 18 mai 2009 · art. 129 alin. (3) · not matched automatically to one provision of this text
+
+  > Admite excepţia de neconstituţionalitate a prevederilor art. 129 alin. (3) din Legea nr. 128/1997 privind Statutul personalului didactic \[…\]
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2009-05-18) and ceases to have legal effect 45 days later, on 2009-07-02, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: the provisions it names were not found exactly once in this text. The text here is unchanged; read the decision.
+
 - **[Decizia nr. 731/2009](../../../jurisprudenta/ccr/2009/731/)**, Monitorul Oficial nr. 395 din 11 iunie 2009 · art. 72 alin. (5) · unconstitutional only to the extent stated ("în măsura în care")
 
   > constată că dispoziţiile art. 72 alin. (5) din Legea nr. 128/1997 privind Statutul personalului didactic sunt neconstituţionale, în măsura în care fac trimitere la dispoziţiile art. 116^1 alin. (1) şi art. 116^2 alin. (1) din Legea învăţământului nr. 84/1995, care la rândul lor sunt neconstituţionale.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2009-06-11) and ceases to have legal effect 45 days later, on 2009-07-26, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 732/2009](../../../jurisprudenta/ccr/2009/732/)**, Monitorul Oficial nr. 398 din 11 iunie 2009 · art. 72 alin. (5) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 72 alin. (5) din Legea nr. 128/1997 privind Statutul personalului didactic sunt neconstituţionale în măsura în care fac trimitere la dispoziţiile art. 116^1 alin. (1) şi art. 116^2 alin. (1) din Legea învăţământului nr. 84/1995, care la rândul lor sunt neconstituţionale.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2009-06-11) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 1614/2010](../../../jurisprudenta/ccr/2010/1614/)**, Monitorul Oficial nr. 118 din 16 februarie 2011 · art. 123 alin. (5) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că prevederile art. 123 alin. (5) din Legea nr. 128/1997 privind Statutul personalului didactic sunt neconstituţionale în măsura în care împiedică accesul la justiţie pentru încălcări de ordin procedural.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2011-02-16) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.

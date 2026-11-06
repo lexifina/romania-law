@@ -25,7 +25,13 @@ Act id: `legea-263-2010` (tags `legea-263-2010/<day>`; `python tools/on.py <day>
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 297/2012](../../../jurisprudenta/ccr/2012/297/)**, Monitorul Oficial nr. 309 din 9 mai 2012 · art. 196 lit. j) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 1 lit. h) din Legea nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor şi art. 196 lit. j) din Legea nr. 263/2010 privind sistemul unitar de pensii publice sunt neconstituţionale în măsura în care se aplică şi consilierilor de conturi.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2012-05-09) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
 
 - **[Decizia nr. 680/2012](../../../jurisprudenta/ccr/2012/680/)**, Monitorul Oficial nr. 566 din 9 august 2012 · art. 73 alin. (1) · only some words or a sentence inside the provision
 
@@ -44,3 +50,9 @@ The Constitutional Court found the provisions below unconstitutional in a way th
   > constată că sintagma „înscrierea inițială la pensie“ din cuprinsul art. 170 alin. (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice este constituțională, în ceea ce privește beneficiarii pensiilor de invaliditate, în măsura în care se interpretează că se referă la stabilirea pensiei pentru limită de vârstă prin aplicarea, pentru prima oară, a condițiilor de vârstă legală de pensionare și stagiu complet de cotizare prevăzute de Legea nr. 263/2010.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2020-02-10) and ceases to have legal effect 45 days later, on 2020-03-26, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 670/2021](../../../jurisprudenta/ccr/2021/670/)**, Monitorul Oficial nr. 1157 din 6 decembrie 2021 · art. 170 alin. (3) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că sintagma „la înscrierea inițială la pensie“ din cuprinsul art. 170 alin. (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice este constituțională în măsura în care beneficiază de indicele de corecție prevăzut de art. 170 din Legea nr. 263/2010 și titularii pensiilor pentru limită de vârstă care au fost stabilite după 1 ianuarie 2011 și care au fost transformate din pensii anticipate parțiale stabilite anterior acestei date.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2021-12-06) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.

@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/neamt/tupilati/2024",
+"acts": [
+{
+"slug": "hcl-neamt--tupilati-21-2024",
+"path": "local/neamt/tupilati/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 21/2024 privind retragerea UAT Comuna Tupilați, judetul Neamț din Asociația „ ACASA – Centru de zi pentru persoanele de vârsta a treia-Tupilați, Neamț”",
+"short": "HCL Tupilați nr. 21/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/159300",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-22-2024",
+"path": "local/neamt/tupilati/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 22/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat după procedurile de achiziție publică pentru obiectivul de investiții „ Modernizare rețea drumuri sătești, comuna Tupilați, județul Neamț”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Tupilați nr. 22/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/159304",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-23-2024",
+"path": "local/neamt/tupilati/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 23/2024 privind declararea de uz si de interes local a investiției ”Rețea de alimentare cu apă potabilă si branșament la Complexul turistic Hanul Răzeșilor” și înregistrarea bunului in domeniul public al comunei Tupilați, județul Neamț",
+"short": "HCL Tupilați nr. 23/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/159305",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-32-2024",
+"path": "local/neamt/tupilati/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 32/2024 privind aprobarea contractării unei finanţări rambursabile interne în valoare de 3.700.000 lei",
+"short": "HCL Tupilați nr. 32/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-23",
+"latest": "2024-08-23",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/169159",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

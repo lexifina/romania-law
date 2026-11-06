@@ -69,3 +69,13 @@ These changes were first published credited to another law. The words are unchan
 - `art-020.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
 - `art-021.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
 - `art-023.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 678/2019](../../../jurisprudenta/ccr/2019/678/)**, Monitorul Oficial nr. 126 din 18 februarie 2020 · art. 6 alin. (4) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că sintagma „al exemplarelor cu potențial agresiv“ din cuprinsul dispozițiilor art. 6 alin. (4) fraza întâi din Ordonanța de urgență a Guvernului nr. 55/2002 privind regimul de deținere al câinilor periculoși sau agresivi este constituțională în măsura în care vizează câinii prevăzuți la art. 2 alin. (1) din același act normativ.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2020-02-18) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.

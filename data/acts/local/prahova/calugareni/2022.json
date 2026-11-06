@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/prahova/calugareni/2022",
+"acts": [
+{
+"slug": "hcl-prahova--calugareni-59-2022",
+"path": "local/prahova/calugareni/2022/59",
+"kind": "local",
+"year": "2022",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 59/2022 PARTICIPAREA COMUNEI IN PARTENERIAT CU CJ PRAHOVA VELO VALAHIA",
+"short": "HCL Călugăreni nr. 59/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#44331",
+"council": "prahova/calugareni",
+"council_name": "Consiliul Local al Comunei Călugăreni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/prahova/dumbrava/2023",
+"acts": [
+{
+"slug": "hcl-prahova--dumbrava-97-2023",
+"path": "local/prahova/dumbrava/2023/97",
+"kind": "local",
+"year": "2023",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 97/2023 privind stabilirea impozitelor și taxelor locale pentru anul 2024",
+"short": "HCL Dumbrava nr. 97/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/132981",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-105-2023",
+"path": "local/prahova/dumbrava/2023/105",
+"kind": "local",
+"year": "2023",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 105/2023 privind rectificarea bugetului local al comunei Dumbrava, modificarea listei de investiții și planului de achiziții pentru anul 2023",
+"short": "HCL Dumbrava nr. 105/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/134578",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-112-2023",
+"path": "local/prahova/dumbrava/2023/112",
+"kind": "local",
+"year": "2023",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 112/2023 privind rectificarea bugetului local al comunei Dumbrava și modificarea listei de investiții pentru anul 2023",
+"short": "HCL Dumbrava nr. 112/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-04",
+"latest": "2024-01-04",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/136247",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -952,7 +952,7 @@ These changes were first published credited to another law. The words are unchan
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 599/2014](../../../jurisprudenta/ccr/2014/599/)**, Monitorul Oficial nr. 886 din 5 decembrie 2014 · art. 341 alin. (5) · a rule read from the text ("soluție legislativă"), not its words
 
@@ -965,6 +965,12 @@ The Constitutional Court found the provisions below unconstitutional in a way th
   > constată că dispoziţiile art. 344 alin. (4) din Codul de procedură penală sunt neconstituţionale. \[…\] constată că soluţia legislativă cuprinsă în art. 345 alin. (1) şi în art. 346 alin. (1) din Codul de procedură penală, potrivit căreia judecătorul de cameră preliminară se pronunţă "fără participarea procurorului şi a inculpatului", este neconstituţională. \[…\] constată că dispoziţiile art. 347 alin. (3) din Codul de procedură penală raportate la cele ale art. 344 alin. (4), art. 345 alin. (1) şi art. 346 alin. (1) din acelaşi cod sunt neconstituţionale.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2014-12-05) and ceases to have legal effect 45 days later, on 2015-01-19, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 712/2014](../../../jurisprudenta/ccr/2014/712/)**, Monitorul Oficial nr. 33 din 15 ianuarie 2015 · art. 211; art. 212; art. 213; art. 214; art. 215; art. 216; art. 217 · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că prevederile art. 211-217 din Codul de procedură penală sunt neconstituţionale.
+
+  The provision already read "Abrogat" (or similar) in the text in force when the decision was published (2015-01-15): the Court judged it as it applied before. The text here is unchanged; read the decision.
 
 - **[Decizia nr. 663/2014](../../../jurisprudenta/ccr/2014/663/)**, Monitorul Oficial nr. 52 din 22 ianuarie 2015 · art. 341 alin. (10) · a rule read from the text ("soluție legislativă"), not its words
 
@@ -984,11 +990,23 @@ The Constitutional Court found the provisions below unconstitutional in a way th
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-04-21) and ceases to have legal effect 45 days later, on 2015-06-05, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
 
+- **[Decizia nr. 336/2015](../../../jurisprudenta/ccr/2015/336/)**, Monitorul Oficial nr. 342 din 19 mai 2015 · art. 235 alin. (1); art. 268 alin. (1) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 235 alin. (1) din Codul de procedură penală sunt constituţionale în măsura în care nerespectarea termenului "cu cel puţin 5 zile înainte de expirarea duratei arestării preventive" atrage incidenţa art. 268 alin. (1) din Codul de procedură penală.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2015-05-19) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
 - **[Decizia nr. 235/2015](../../../jurisprudenta/ccr/2015/235/)**, Monitorul Oficial nr. 364 din 26 mai 2015 · art. 488; art. 484 alin. (2) · a rule read from the text ("soluție legislativă"), not its words
 
   > constată că dispoziţiile art. 488 din Codul de procedură penală, precum şi soluţia legislativă cuprinsă în art. 484 alin. (2) din Codul de procedură penală, care exclude persoana vătămată, partea civilă şi partea responsabilă civilmente de la audierea în faţa instanţei de fond, sunt neconstituţionale.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-05-26) and ceases to have legal effect 45 days later, on 2015-07-10, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 361/2015](../../../jurisprudenta/ccr/2015/361/)**, Monitorul Oficial nr. 419 din 12 iunie 2015 · art. 222 · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că dispoziţiile art. 222 din Codul de procedură penală sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-06-12) and ceases to have legal effect 45 days later, on 2015-07-27, unless Parliament or the Government brings it into line with the Constitution in that time. The act changed the provision before 2015-07-27 (brought into line, amended or repealed), so the text here follows the amending act. The text here is unchanged; read the decision.
 
 - **[Decizia nr. 423/2015](../../../jurisprudenta/ccr/2015/423/)**, Monitorul Oficial nr. 538 din 20 iulie 2015 · art. 488^4 alin. (5) · a rule read from the text ("soluție legislativă"), not its words
 
@@ -1032,6 +1050,12 @@ The Constitutional Court found the provisions below unconstitutional in a way th
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-11-19) and ceases to have legal effect 45 days later, on 2016-01-03, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
 
+- **[Decizia nr. 733/2015](../../../jurisprudenta/ccr/2015/733/)**, Monitorul Oficial nr. 59 din 27 ianuarie 2016 · art. 341 alin. (6) lit. c); art. 341 alin. (7) lit. d) · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că dispoziţiile art. 341 alin. (6) lit. c) şi, prin extindere, ale art. 341 alin. (7) pct. 2 lit. d) din Codul de procedură penală sunt neconstituţionale prin împiedicarea accesului la justiţie în cazul soluţiilor de renunţare la urmărirea penală.
+
+  The Court judged an earlier or a specific wording of the provision (decided 2015-10-29, published 2016-01-27); the text here follows the acts that amended it. The text here is unchanged; read the decision.
+
 - **[Decizia nr. 126/2016](../../../jurisprudenta/ccr/2016/126/)**, Monitorul Oficial nr. 185 din 11 martie 2016 · art. 453 alin. (1) lit. f) · a rule read from the text ("soluție legislativă"), not its words
 
   > constată că soluţia legislativă cuprinsă în art. 453 alin. (1) lit. f) din Codul de procedură penală, care nu limitează cazul de revizuire la cauza în care a fost invocată excepţia de neconstituţionalitate, este neconstituţională.
@@ -1050,17 +1074,41 @@ The Constitutional Court found the provisions below unconstitutional in a way th
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2016-04-12) and ceases to have legal effect 45 days later, on 2016-05-27, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
 
+- **[Decizia nr. 44/2016](../../../jurisprudenta/ccr/2016/44/)**, Monitorul Oficial nr. 305 din 21 aprilie 2016 · art. 399 alin. (3) lit. d) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 399 alin. (3) lit. d) din Codul de procedură penală sunt constituţionale în măsura în care se referă numai la măsurile educative neprivative de libertate.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2016-04-21) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
 - **[Decizia nr. 501/2016](../../../jurisprudenta/ccr/2016/501/)**, Monitorul Oficial nr. 733 din 21 septembrie 2016 · art. 428 alin. (1); art. 426 lit. i) · provisions read together with others
 
   > constată că dispoziţiile art. 428 alin. (1) cu referire la art. 426 lit. i) din Codul de procedură penală sunt neconstituţionale.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2016-09-21) and ceases to have legal effect 45 days later, on 2016-11-05, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
 
+- **[Decizia nr. 432/2016](../../../jurisprudenta/ccr/2016/432/)**, Monitorul Oficial nr. 841 din 24 octombrie 2016 · not matched automatically to one provision of this text
+
+  > constată că dispoziţiile din Codul de procedură penală cuprinse în art. 436 alin. (2), art. 439 alin. (4^1) teza întâi şi art. 440 alin. (2) cu referire la menţiunile care decurg din obligativitatea formulării cererii de recurs prin avocat sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2016-10-24) and ceases to have legal effect 45 days later, on 2016-12-08, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it does not name the provisions as "dispozițiile art. ... din ...". The text here is unchanged; read the decision.
+
 - **[Decizia nr. 540/2016](../../../jurisprudenta/ccr/2016/540/)**, Monitorul Oficial nr. 841 din 24 octombrie 2016 · art. 434 alin. (1) · a rule read from the text ("soluție legislativă"), not its words
 
   > constată că soluţia legislativă cuprinsă în dispoziţiile art. 434 alin. (1) teza întâi din Codul de procedură penală, care exclude atacarea cu recurs în casaţie a deciziilor pronunţate de Înalta Curte de Casaţie şi Justiţie, ca instanţă de apel, este neconstituţională.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2016-10-24) and ceases to have legal effect 45 days later, on 2016-12-08, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 614/2016](../../../jurisprudenta/ccr/2016/614/)**, Monitorul Oficial nr. 962 din 28 noiembrie 2016 · art. 215^1 alin. (2) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 215^1 alin. (2) din Codul de procedură penală sunt constituţionale în măsura în care prelungirea măsurii preventive a controlului judiciar se face cu aplicarea prevederilor art. 212 alin. (1) şi alin. (3) din Codul de procedură penală.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2016-11-28) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 586/2016](../../../jurisprudenta/ccr/2016/586/)**, Monitorul Oficial nr. 1001 din 13 decembrie 2016 · art. 25 alin. (5) · only part of a provision (a point, indent, note or annex, or a narrower finding)
+
+  > constată că dispoziţiile art. 25 alin. (5) din Codul de procedură penală, cu referire la dispoziţiile art. 16 alin. (1) lit. f) din Codul de procedură penală, sunt neconstituţionale în ceea ce priveşte lăsarea ca nesoluţionată a acţiunii civile de către instanţa penală, în cazul încetării procesului penal, ca urmare a intervenirii prescripţiei răspunderii penale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2016-12-13) and ceases to have legal effect 45 days later, on 2017-01-27, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
 
 - **[Decizia nr. 625/2016](../../../jurisprudenta/ccr/2016/625/)**, Monitorul Oficial nr. 107 din 7 februarie 2017 · art. 70 · a rule read from the text ("soluție legislativă"), not its words
 
@@ -1080,6 +1128,12 @@ The Constitutional Court found the provisions below unconstitutional in a way th
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-03-03) and ceases to have legal effect 45 days later, on 2017-04-17, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
 
+- **[Decizia nr. 17/2017](../../../jurisprudenta/ccr/2017/17/)**, Monitorul Oficial nr. 261 din 13 aprilie 2017 · art. 213 alin. (2) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 213 alin. (2) din Codul de procedură penală sunt constituţionale în măsura în care soluţionarea plângerii împotriva ordonanţei procurorului prin care s-a luat măsura controlului judiciar se face cu aplicarea prevederilor art. 204 alin. (4) din Codul de procedură penală.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2017-04-13) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
 - **[Decizia nr. 90/2017](../../../jurisprudenta/ccr/2017/90/)**, Monitorul Oficial nr. 291 din 25 aprilie 2017 · art. 311 alin. (3) · a rule read from the text ("soluție legislativă"), not its words
 
   > Admite excepția de neconstituționalitate a dispozițiilor art. 311 alin. (3) din Codul de procedură penală \[…\] și constată că soluția legislativă care exclude obligația informării suspectului/inculpatului despre schimbarea încadrării juridice este neconstituțională.
@@ -1091,6 +1145,12 @@ The Constitutional Court found the provisions below unconstitutional in a way th
   > constată că soluţia legislativă cuprinsă în dispoziţiile art. 347 alin. (1) din Codul de procedură penală, în redactarea anterioară modificării prin Legea nr. 75/2016 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 82/2014 pentru modificarea şi completarea Legii nr. 135/2010 privind Codul de procedură penală, care exclude posibilitatea de a face contestaţie împotriva soluţiei prevăzute la art. 346 alin. (2), este neconstituţională.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-05-02) and ceases to have legal effect 45 days later, on 2017-06-16, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 2/2017](../../../jurisprudenta/ccr/2017/2/)**, Monitorul Oficial nr. 324 din 5 mai 2017 · art. 453 alin. (3); art. 453 alin. (4); art. 457 alin. (2) · only part of a provision (a point, indent, note or annex, or a narrower finding)
+
+  > constată că dispozițiile art. 453 alin. (3) din Codul de procedură penală sunt neconstituționale cu privire la cazul de revizuire prevăzut la alin. (1) lit. a). \[…\] constată că soluția legislativă cuprinsă în dispozițiile art. 453 alin. (4) teza întâi din Codul de procedură penală, care exclude posibilitatea revizuirii hotărârii de achitare pentru cazul prevăzut la alin. (1) lit. a), este neconstituțională. \[…\] constată că soluția legislativă cuprinsă în dispozițiile art. 457 alin. (2) din Codul de procedură penală, care exclude cazul de revizuire prevăzut la art. 453 alin. (1) lit. a), este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-05-05) and ceases to have legal effect 45 days later, on 2017-06-19, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
 
 - **[Decizia nr. 257/2017](../../../jurisprudenta/ccr/2017/257/)**, Monitorul Oficial nr. 472 din 22 iunie 2017 · art. 21 alin. (1) · only some words or a sentence inside the provision
 
@@ -1140,6 +1200,12 @@ The Constitutional Court found the provisions below unconstitutional in a way th
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2018-02-23) and ceases to have legal effect 45 days later, on 2018-04-09, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
 
+- **[Decizia nr. 22/2018](../../../jurisprudenta/ccr/2018/22/)**, Monitorul Oficial nr. 177 din 26 februarie 2018 · art. 102 alin. (3) · constitutional only as the Court reads it (an interpretive decision)
+
+  > Admite excepția de neconstituționalitate a dispozițiilor art. 102 alin. (3) din Codul de procedură penală \[…\] și constată că acestea sunt constituționale în măsura în care prin sintagma „excluderea probei“, din cuprinsul lor, se înțelege și eliminarea mijloacelor de probă din dosarul cauzei.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2018-02-26) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
 - **[Decizia nr. 79/2018](../../../jurisprudenta/ccr/2018/79/)**, Monitorul Oficial nr. 399 din 9 mai 2018 · art. 215^1 alin. (8) · only some words or a sentence inside the provision
 
   > constată că sintagma „în primă instanță“ cuprinsă în art. 215^1 alin. (8) din Codul de procedură penală este neconstituțională.
@@ -1170,17 +1236,35 @@ The Constitutional Court found the provisions below unconstitutional in a way th
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2019-06-19) and ceases to have legal effect 45 days later, on 2019-08-03, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
 
+- **[Decizia nr. 250/2019](../../../jurisprudenta/ccr/2019/250/)**, Monitorul Oficial nr. 500 din 20 iunie 2019 · art. 377 alin. (4); art. 386 alin. (1) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 377 alin. (4) teza întâi și art. 386 alin. (1) din Codul de procedură penală sunt constituționale în măsura în care instanța de judecată se pronunță cu privire la schimbarea încadrării juridice date faptei prin actul de sesizare printr-o hotărâre judecătorească care nu soluționează fondul cauzei.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2019-06-20) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
 - **[Decizia nr. 88/2019](../../../jurisprudenta/ccr/2019/88/)**, Monitorul Oficial nr. 499 din 20 iunie 2019 · art. 281 alin. (4) lit. a) · provisions read together with others
 
   > constată că dispozițiile art. 281 alin. (4) lit. a) din Codul de procedură penală raportat la art. 281 alin. (1) lit. f) din același act normativ sunt neconstituționale.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2019-06-20) and ceases to have legal effect 45 days later, on 2019-08-04, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
 
+- **[Decizia nr. 590/2019](../../../jurisprudenta/ccr/2019/590/)**, Monitorul Oficial nr. 1019 din 18 decembrie 2019 · art. 469 alin. (3) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 469 alin. (3) din Codul de procedură penală, în interpretarea dată prin Decizia nr. 13 din 3 iulie 2017, pronunțată de Înalta Curte de Casație și Justiție - Completul competent să judece recursul în interesul legii, în ceea ce privește faza procesuală de la care se reia procesul penal, sunt neconstituționale.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2019-12-18) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
 - **[Decizia nr. 535/2019](../../../jurisprudenta/ccr/2019/535/)**, Monitorul Oficial nr. 1026 din 20 decembrie 2019 · art. 589 alin. (1) lit. b) · a rule read from the text ("soluție legislativă"), not its words
 
   > constată că soluția legislativă cuprinsă în dispozițiile art. 589 alin. (1) lit. b) fraza întâi teza a doua din Codul de procedură penală, care exclude bărbatul condamnat care are un copil mai mic de un an de la posibilitatea amânării executării pedepsei închisorii sau a detențiunii pe viață, este neconstituțională.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2019-12-20) and ceases to have legal effect 45 days later, on 2020-02-03, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 55/2020](../../../jurisprudenta/ccr/2020/55/)**, Monitorul Oficial nr. 517 din 17 iunie 2020 · art. 139 alin. (3) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 139 alin. (3) teza finală din Codul de procedură penală sunt constituționale în măsura în care nu privesc înregistrările rezultate ca urmare a efectuării activităților specifice culegerii de informații care presupun restrângerea exercițiului unor drepturi sau libertăți fundamentale ale omului desfășurate cu respectarea prevederilor legale, autorizate potrivit Legii nr. 51/1991.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2020-06-17) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
 
 - **[Decizia nr. 236/2020](../../../jurisprudenta/ccr/2020/236/)**, Monitorul Oficial nr. 597 din 8 iulie 2020 · art. 118 · a rule read from the text ("soluție legislativă"), not its words
 
@@ -1206,6 +1290,18 @@ The Constitutional Court found the provisions below unconstitutional in a way th
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2021-05-12) and ceases to have legal effect 45 days later, on 2021-06-26, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
 
+- **[Decizia nr. 233/2021](../../../jurisprudenta/ccr/2021/233/)**, Monitorul Oficial nr. 508 din 17 mai 2021 · art. 400 alin. (1); art. 405 alin. (3); art. 406 alin. (1) · not matched automatically to one provision of this text
+
+  > constată că dispozițiile art. 400 alin. (1), ale art. 405 alin. (3) și ale art. 406 alin. (1) și (2) din Codul de procedură penală sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2021-05-17) and ceases to have legal effect 45 days later, on 2021-07-01, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: the provisions it names were not found exactly once in this text. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 637/2021](../../../jurisprudenta/ccr/2021/637/)**, Monitorul Oficial nr. 1155 din 6 decembrie 2021 · art. 88 alin. (2) lit. b) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 88 alin. (2) lit. b) din Codul de procedură penală sunt constituționale în măsura în care nu se referă la persoanele care s-au prevalat de dreptul de a refuza să dea declarații în calitate de martor, în temeiul art. 117 alin. (1) lit. a) și b) din Codul de procedură penală.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2021-12-06) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
 - **[Decizia nr. 175/2022](../../../jurisprudenta/ccr/2022/175/)**, Monitorul Oficial nr. 450 din 5 mai 2022 · art. 117 alin. (1) lit. a) · a rule read from the text ("soluție legislativă"), not its words
 
   > constată că soluția legislativă cuprinsă în art. 117 alin. (1) lit. a) din Codul de procedură penală, care exclude de la dreptul de a refuza să fie audiate în calitate de martor persoanele care au stabilit relații asemănătoare acelora dintre părinți și copii, în cazul în care conviețuiesc cu suspectul sau inculpatul, este neconstituțională.
@@ -1217,6 +1313,18 @@ The Constitutional Court found the provisions below unconstitutional in a way th
   > constată că dispozițiile art. 248 alin. (5) din Codul de procedură penală, precum și sintagma „ia măsuri pentru efectuarea unei expertize medico-legale psihiatrice, dacă aceasta nu a fost făcută potrivit alin. (2)“, cuprinsă în art. 248 alin. (9) din același act normativ, sunt neconstituționale.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2022-11-02) and ceases to have legal effect 45 days later, on 2022-12-17, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 490/2022](../../../jurisprudenta/ccr/2022/490/)**, Monitorul Oficial nr. 1240 din 22 decembrie 2022 · art. 482 lit. g) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 482 lit. g) din Codul de procedură penală sunt constituționale în măsura în care declarația dată de inculpat în vederea încheierii acordului de recunoaștere a vinovăției nu poate fi folosită, împotriva voinței inculpatului, ca probă în procesul penal, în scopul soluționării cauzei conform procedurii penale de drept comun.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2022-12-22) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 11/2023](../../../jurisprudenta/ccr/2023/11/)**, Monitorul Oficial nr. 503 din 8 iunie 2023 · art. 252^1 alin. (1) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 252^1 alin. (1) din Codul de procedură penală și ale art. 29 alin. (1), (3) și (4) din Legea nr. 318/2015 pentru înființarea, organizarea și funcționarea Agenției Naționale de Administrare a Bunurilor Indisponibilizate și pentru modificarea și completarea unor acte normative sunt neconstituționale în măsura în care nu prevăd judecătorul de cameră preliminară printre organele judiciare care pot dispune valorificarea bunurilor mobile sechestrate.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2023-06-08) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
 
 - **[Decizia nr. 50/2025](../../../jurisprudenta/ccr/2025/50/)**, Monitorul Oficial nr. 328 din 11 aprilie 2025 · art. 438 alin. (1) · a rule read from the text ("soluție legislativă"), not its words
 

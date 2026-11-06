@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/bertea/2025",
+ "acts": [
+  {
+   "slug": "hcl-prahova--bertea-41-2025",
+   "path": "local/prahova/bertea/2025/41",
+   "short": "HCL Bertea nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 41/2025 privind modificarea si completarea cap.VIII punctele : 4,5,6,7 din anexa aprobata prin HCL nr.44/19.12.2024",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/234878",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/234878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-45-2025",
+   "path": "local/prahova/bertea/2025/45",
+   "short": "HCL Bertea nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 45/2025 privind aprobarea executiei bugetului local pe trim.III",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/235067",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/235067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-46-2025",
+   "path": "local/prahova/bertea/2025/46",
+   "short": "HCL Bertea nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 46/2025 privind aprobarea bugetului local rectificat pentru anul 2025",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/235068",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/235068",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

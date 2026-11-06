@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/malovat/2023",
+"acts": [
+{
+"slug": "hcl-mehedinti--malovat-58-2023",
+"path": "local/mehedinti/malovat/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 58/2023",
+"short": "HCL Malovăț nr. 58/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-02",
+"latest": "2023-11-02",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/125219",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--malovat-69-2023",
+"path": "local/mehedinti/malovat/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 69/2023 privind mandatarea reprezentantului Consiliului Local al comunei Malovăț în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Salubritate Mehedinți, pentru a vota aprobarea modificării Contractului de delegare prin concesiune a serviciului public de salubrizare nr. 706/3710 din 23.10.2019 Lot 5- Zona Drobeta Turnu Severin",
+"short": "HCL Malovăț nr. 69/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/129987",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--malovat-75-2023",
+"path": "local/mehedinti/malovat/2023/75",
+"kind": "local",
+"year": "2023",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 75/2023 privind organizarea reţelei unităţilor de învăţământ preuniversitar de stat acreditate pentru anul şcolar 2024/2025",
+"short": "HCL Malovăț nr. 75/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-11",
+"latest": "2024-01-11",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/135684",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

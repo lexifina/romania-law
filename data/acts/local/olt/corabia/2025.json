@@ -3,6 +3,73 @@
 "shard": "local/olt/corabia/2025",
 "acts": [
 {
+"slug": "hcl-olt--corabia-12-2025",
+"path": "local/olt/corabia/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Corabia nr. 12/2025",
+"short": "HCL Corabia nr. 12/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/corabia-ot/registru-hcl/194609",
+"council": "olt/corabia",
+"council_name": "Consiliul Local al Orașului Corabia",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-olt--corabia-33-2025",
+"path": "local/olt/corabia/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Corabia nr. 33/2025 privind indexarea și stabilirea impozitelor și taxelor locale pentru anul 2026",
+"short": "HCL Corabia nr. 33/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://emol.ro/corabia-ot/registru-hcl/204535",
+"council": "olt/corabia",
+"council_name": "Consiliul Local al Orașului Corabia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--corabia-58-2025",
+"path": "local/olt/corabia/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Corabia nr. 58/2025 privind restricționarea traficului rutier pe bdul 1 Mai și str.Mihail Kogălniceanu",
+"short": "HCL Corabia nr. 58/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-30",
+"latest": "2025-08-30",
+"portal": "https://emol.ro/corabia-ot/registru-hcl/223037",
+"council": "olt/corabia",
+"council_name": "Consiliul Local al Orașului Corabia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-olt--corabia-68-2025",
 "path": "local/olt/corabia/2025/68",
 "kind": "local",

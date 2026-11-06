@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/gadinti/2022",
+ "acts": [
+  {
+   "slug": "hcl-neamt--gadinti-57-2022",
+   "path": "local/neamt/gadinti/2022/57",
+   "short": "HCL Gâdinți nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 57/2022 privind acordarea unui mandat special",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/79506",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/79506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-59-2022",
+   "path": "local/neamt/gadinti/2022/59",
+   "short": "HCL Gâdinți nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 59/2022 privind trecerea în domeniul public al comunei Gâdinți și declararea ca bun de utilitate publică a unei suprafețe de teren",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/79508",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/79508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-63-2022",
+   "path": "local/neamt/gadinti/2022/63",
+   "short": "HCL Gâdinți nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 63/2022 privind aprobarea rețelei școlare din comuna Gâdinți pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/82810",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/82810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-66-2022",
+   "path": "local/neamt/gadinti/2022/66",
+   "short": "HCL Gâdinți nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 66/2022 privind aprobarea scoaterii din funcțiune și casarea unor mijloace fixe aflate în patrimoniul comunei Gâdinți",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/82813",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/82813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-68-2022",
+   "path": "local/neamt/gadinti/2022/68",
+   "short": "HCL Gâdinți nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 68/2022 privind stabilirea taxei speciale de salubrizare începând cu data de 1 ianuarie 2023 pentru persoanele fizice si juridice din comuna Gâdinți, județul Neamț",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/82815",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/82815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-72-2022",
+   "path": "local/neamt/gadinti/2022/72",
+   "short": "HCL Gâdinți nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 72/2022 privind stabilirea impozitelor și taxelor locale pentru anul 2023",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/83955",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/83955",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

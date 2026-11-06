@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/neamt/urecheni/2022",
+"acts": [
+{
+"slug": "hcl-neamt--urecheni-71-2022",
+"path": "local/neamt/urecheni/2022/71",
+"kind": "local",
+"year": "2022",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 71/2022 privind stabilirea impozitelor şi taxelor locale si alte taxe asimilate acestora, precum si amenzile, aplicabile pentru anul 2023",
+"short": "HCL Urecheni nr. 71/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-25",
+"latest": "2022-11-25",
+"portal": "https://emol.ro/urecheni-nt/registru-hcl/80092",
+"council": "neamt/urecheni",
+"council_name": "Consiliul Local al Comunei Urecheni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--urecheni-83-2022",
+"path": "local/neamt/urecheni/2022/83",
+"kind": "local",
+"year": "2022",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 83/2022 privind modificarea si completarea HCL nr 71/18.11.2022 privind stabilirea taxelor si impozitelor locale pentru anul 2023",
+"short": "HCL Urecheni nr. 83/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-03",
+"latest": "2023-01-03",
+"portal": "https://emol.ro/urecheni-nt/registru-hcl/84544",
+"council": "neamt/urecheni",
+"council_name": "Consiliul Local al Comunei Urecheni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

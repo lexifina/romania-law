@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/dumbrava/2021",
+ "acts": [
+  {
+   "slug": "hcl-prahova--dumbrava-71-2021",
+   "path": "local/prahova/dumbrava/2021/71",
+   "short": "HCL Dumbrava nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 71/2021 privind modificarea organigramei și statului de functii aparatului de specialitate al primarului",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/40274",
+   "versions": [
+    {
+     "from": "2021-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/40274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-72-2021",
+   "path": "local/prahova/dumbrava/2021/72",
+   "short": "HCL Dumbrava nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 72/2021 privind delegarea gestiunii activitatii de administrare a depozitului de deseuri municipale Boldesti-Scaeni in cadrul Sistemului de Management Integrat al Deșeurilor Prahova",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/40275",
+   "versions": [
+    {
+     "from": "2021-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/40275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-73-2021",
+   "path": "local/prahova/dumbrava/2021/73",
+   "short": "HCL Dumbrava nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 73/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investitie ”Creșterea eficienței energetice a infrastructurii de iluminat public în comuna Dumbrava, județul Prahova”",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/40276",
+   "versions": [
+    {
+     "from": "2021-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/40276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-74-2021",
+   "path": "local/prahova/dumbrava/2021/74",
+   "short": "HCL Dumbrava nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 74/2021 privind aprobarea cererii de finanțare și devizului general estimativ al proiectului privind obiectivul de investiții „Modernizare infrastructură rutieră de interes local în comuna Dumbrava, județul Prahova”",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/45466",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/45466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-75-2021",
+   "path": "local/prahova/dumbrava/2021/75",
+   "short": "HCL Dumbrava nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 75/2021 privind completarea programului de achiziții publice pe anul 2021",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/45467",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/45467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-76-2021",
+   "path": "local/prahova/dumbrava/2021/76",
+   "short": "HCL Dumbrava nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 76/2021 privind rectificarea bugetului local al comunei Dumbrava pe anul 2021, completarea listei de investiții și a programului de achiziții publice",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/45470",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/45470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-77-2021",
+   "path": "local/prahova/dumbrava/2021/77",
+   "short": "HCL Dumbrava nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 77/2021 privind aprobarea contului de execuție bugetară pentru trimestrul III 2021",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/45471",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/45471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-79-2021",
+   "path": "local/prahova/dumbrava/2021/79",
+   "short": "HCL Dumbrava nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 79/2021 privind stabilirea impozitelor şi taxelor locale pentru anul 2022",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/45473",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/45473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-81-2021",
+   "path": "local/prahova/dumbrava/2021/81",
+   "short": "HCL Dumbrava nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 81/2021 privind aprobarea documentației de avizare a lucrărilor de intervenție şi a indicatorilor tehnico-economici la obiectivul de investiţie și pentru aprobarea proiectului „Creșterea eficienței energetice a infrastructurii de iluminat public în comuna Dumbrava, județ Prahova”",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/45475",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/45475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-85-2021",
+   "path": "local/prahova/dumbrava/2021/85",
+   "short": "HCL Dumbrava nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 85/2021 privind rectificarea bugetului local al comunei Dumbrava pe anul 2021, completarea listei de investiții și a programului de achiziții publice",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/45479",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/45479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-87-2021",
+   "path": "local/prahova/dumbrava/2021/87",
+   "short": "HCL Dumbrava nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 87/2021 privind modificarea art. 2 din Hotărârea Consiliului Local al Comunei Dumbrava nr. 59/2021",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/45481",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/45481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-88-2021",
+   "path": "local/prahova/dumbrava/2021/88",
+   "short": "HCL Dumbrava nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 88/2021 privind rectificarea bugetului local al comunei Dumbrava pe anul 2021",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/45508",
+   "versions": [
+    {
+     "from": "2021-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/45508",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

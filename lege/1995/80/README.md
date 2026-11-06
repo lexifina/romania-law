@@ -401,7 +401,25 @@ These changes were first published credited to another law. The words are unchan
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 90/2005](../../../jurisprudenta/ccr/2005/90/)**, Monitorul Oficial nr. 245 din 24 martie 2005 · art. 15 alin. (1) · not matched automatically to one provision of this text
+
+  > constată că dispoziţiile art. 15 alin. 1 din Legea nr. 80/1995 privind Statutul cadrelor militare contravin prevederilor art. 16 alin. (1) din Constituţie.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2005-03-24) and ceases to have legal effect 45 days later, on 2005-05-08, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: the provisions it names were not found exactly once in this text. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 384/2006](../../../jurisprudenta/ccr/2006/384/)**, Monitorul Oficial nr. 451 din 24 mai 2006 · art. 66 alin. (3) · not matched automatically to one provision of this text
+
+  > constată că dispoziţiile art. 66 alin. 3 din Legea nr. 80/1995 privind statutul cadrelor militare contravin prevederilor art. 94 lit. b) din Constituţie.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2006-05-24) and ceases to have legal effect 45 days later, on 2006-07-08, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: the provisions it names were not found exactly once in this text. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 71/2019](../../../jurisprudenta/ccr/2019/71/)**, Monitorul Oficial nr. 352 din 7 mai 2019 · art. 34; art. 35 alin. (3) · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că dispozițiile art. 34 și art. 35 alin. (3) din Legea nr. 80/1995 privind statutul cadrelor militare sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2019-05-07) and ceases to have legal effect 45 days later, on 2019-06-21, unless Parliament or the Government brings it into line with the Constitution in that time. The act changed the provision before 2019-06-21 (brought into line, amended or repealed), so the text here follows the amending act. The text here is unchanged; read the decision.
 
 - **[Decizia nr. 323/2019](../../../jurisprudenta/ccr/2019/323/)**, Monitorul Oficial nr. 595 din 19 iulie 2019 · art. 15 alin. (2) · only some words or a sentence inside the provision
 

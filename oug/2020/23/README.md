@@ -26,3 +26,13 @@ Act id: `oug-23-2020` (tags `oug-23-2020/<day>`; `python tools/on.py <day> oug-2
 - OUG nr. 23/2020: the first version is the emergency ordinance as published in Monitorul Oficial nr. 106 of 12 February 2020 (DetaliiDocumentAfis/223009), dated 12 February 2020: an emergency ordinance with no day of its own, in force on publication (Constituția art. 115 alin. (5); Legea nr. 24/2000 art. 12 alin. (2)). The portal holds no consolidated form before 7 July 2020, so the changes made up to then arrive together that day.
 - OUG nr. 23/2020: the emergency ordinance numbers its own articles in Roman numerals (I, II, ...); each is kept under its Roman title and filed by its value (art-001 for Articolul I), so the files sort in order. The articles of other acts it quotes stay in the text of the article that quotes them.
 - OUG nr. 23/2020: forms with no change after normalisation, so no version: 2020-07-07 (227262).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 221/2020](../../../jurisprudenta/ccr/2020/221/)**, Monitorul Oficial nr. 594 din 7 iulie 2020 · not matched automatically to one provision of this text
+
+  > constată că Ordonanța de urgență a Guvernului nr. 23/2020 pentru modificarea și completarea unor acte normative cu impact asupra sistemului achizițiilor publice este neconstituțională, în ansamblul său.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2020-07-07) and ceases to have legal effect 45 days later, on 2020-08-21, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it does not name the provisions as "dispozițiile art. ... din ...". The text here is unchanged; read the decision.

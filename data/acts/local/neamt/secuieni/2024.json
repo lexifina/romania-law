@@ -1,0 +1,293 @@
+{
+"country": "RO",
+"shard": "local/neamt/secuieni/2024",
+"acts": [
+{
+"slug": "hcl-neamt--secuieni-68-2024",
+"path": "local/neamt/secuieni/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 68/2024 privind participarea la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public și aprobarea începerii investiției ” Modernizarea și eficientizarea sistemului de iluminat public în Comuna Secuieni, Județul Neamț”",
+"short": "HCL Secuieni nr. 68/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/176580",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-73-2024",
+"path": "local/neamt/secuieni/2024/73",
+"kind": "local",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 73/2024 privind actualizarea și completarea bunurilor imobile care alcătuiesc domeniul privat al comunei Secuieni, județul Neamț",
+"short": "HCL Secuieni nr. 73/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/178553",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-76-2024",
+"path": "local/neamt/secuieni/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 76/2024 privind organizarea reţelei şcolare a unităţilor de învăţământ din comuna Secuieni pentru anul şcolar 2024-2025",
+"short": "HCL Secuieni nr. 76/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/178556",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-77-2024",
+"path": "local/neamt/secuieni/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 77/2024 privind aprobarea contului de execuţie al bugetului local aferent trimestrului III al anului 2024",
+"short": "HCL Secuieni nr. 77/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/178557",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-78-2024",
+"path": "local/neamt/secuieni/2024/78",
+"kind": "local",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 78/2024 privind rectificarea bugetului general consolidat pentru anul 2024",
+"short": "HCL Secuieni nr. 78/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/178558",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-79-2024",
+"path": "local/neamt/secuieni/2024/79",
+"kind": "local",
+"year": "2024",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 79/2024",
+"short": "HCL Secuieni nr. 79/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/178559",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-80-2024",
+"path": "local/neamt/secuieni/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 80/2024 privind aprobarea Strategiei anuale de achiziții publice a comunei Secuieni , județul Neamț și a programului de achiziţii publice pentru anul 2025",
+"short": "HCL Secuieni nr. 80/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/178560",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-81-2024",
+"path": "local/neamt/secuieni/2024/81",
+"kind": "local",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 81/2024 privind aprobarea acordării unor sume de bani pentru cadouri la preșcolari și elevi cu ocazia sărbătorilor de iarnă",
+"short": "HCL Secuieni nr. 81/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/178561",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-82-2024",
+"path": "local/neamt/secuieni/2024/82",
+"kind": "local",
+"year": "2024",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 82/2024 privind modificarea și completarea Hotărârii Consiliului Local nr.62 din 26.09.2024 privind anularea dobânzilor, penalităților și accesoriilor aferente obligațiilor bugetare principale restante la data de 31 august 2024 inclusiv, datorate bugetului local al Comunei Secuieni, jud.Neamț și aprobarea procedurii de acordare a acestora",
+"short": "HCL Secuieni nr. 82/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/179918",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-83-2024",
+"path": "local/neamt/secuieni/2024/83",
+"kind": "local",
+"year": "2024",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 83/2024 privind rectificarea bugetului general consolidat pentru anul 2024",
+"short": "HCL Secuieni nr. 83/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/180015",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-84-2024",
+"path": "local/neamt/secuieni/2024/84",
+"kind": "local",
+"year": "2024",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 84/2024 cu privire la stabilirea impozitelor şi taxelor locale pentru anul 2025",
+"short": "HCL Secuieni nr. 84/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/183610",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-86-2024",
+"path": "local/neamt/secuieni/2024/86",
+"kind": "local",
+"year": "2024",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 86/2024 privind aprobarea inventarierii materiei impozabile pentru anul fiscal 2025",
+"short": "HCL Secuieni nr. 86/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/183612",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-87-2024",
+"path": "local/neamt/secuieni/2024/87",
+"kind": "local",
+"year": "2024",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 87/2024 privind rectificarea bugetului general consolidat pentru anul 2024",
+"short": "HCL Secuieni nr. 87/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/183613",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

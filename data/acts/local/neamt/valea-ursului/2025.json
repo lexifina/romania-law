@@ -1,0 +1,139 @@
+{
+"country": "RO",
+"shard": "local/neamt/valea-ursului/2025",
+"acts": [
+{
+"slug": "hcl-neamt--valea-ursului-61-2025",
+"path": "local/neamt/valea-ursului/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 61/2025 privind aprobarea Regulamentului de acces, conduită și înregistrare în sediul Primăriei Comunei Valea Ursului",
+"short": "HCL Valea Ursului nr. 61/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-31",
+"latest": "2025-10-31",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/236997",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--valea-ursului-62-2025",
+"path": "local/neamt/valea-ursului/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 62/2025 privind regulamentul propriu cu măsurile metodologice, organizatorice, termenele şi circulaţia proiectelor de hotărâri ale autorităţii deliberative",
+"short": "HCL Valea Ursului nr. 62/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-31",
+"latest": "2025-10-31",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/236998",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--valea-ursului-63-2025",
+"path": "local/neamt/valea-ursului/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 63/2025",
+"short": "HCL Valea Ursului nr. 63/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-31",
+"latest": "2025-10-31",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/236999",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--valea-ursului-64-2025",
+"path": "local/neamt/valea-ursului/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 64/2025 privind rectificarea bugetului local şi modificarea listei de investiţii pe anul 2025",
+"short": "HCL Valea Ursului nr. 64/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-31",
+"latest": "2025-10-31",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/237000",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--valea-ursului-72-2025",
+"path": "local/neamt/valea-ursului/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 72/2025 privind rectificarea bugetului de venituri și cheltuieli şi modificarea listei de investiţii pe anul 2025",
+"short": "HCL Valea Ursului nr. 72/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-10",
+"latest": "2025-12-10",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/242643",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--valea-ursului-77-2025",
+"path": "local/neamt/valea-ursului/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 77/2025 privind stabilirea nivelurilor impozitelor și taxelor locale ale comunei Valea Ursului, județul Neamț, pentru anul 2026",
+"short": "HCL Valea Ursului nr. 77/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/244281",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

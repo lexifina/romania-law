@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/margineni/2024",
+ "acts": [
+  {
+   "slug": "hcl-neamt--margineni-50-2024",
+   "path": "local/neamt/margineni/2024/50",
+   "short": "HCL Mărgineni nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 50/2024",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/172857",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/172857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-51-2024",
+   "path": "local/neamt/margineni/2024/51",
+   "short": "HCL Mărgineni nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 51/2024",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/175597",
+   "versions": [
+    {
+     "from": "2024-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/175597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-52-2024",
+   "path": "local/neamt/margineni/2024/52",
+   "short": "HCL Mărgineni nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 52/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții: „Modernizare drumuri de interes local în Comuna Mărgineni, Județul Neamț”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/175598",
+   "versions": [
+    {
+     "from": "2024-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/175598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-53-2024",
+   "path": "local/neamt/margineni/2024/53",
+   "short": "HCL Mărgineni nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 53/2024 privind alegerea preşedintelui de ședinnță al Consiliului local al Comunei Mărgineni pentru un mandat de 3 luni, începând cu 11.11.2024",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/176495",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/176495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-54-2024",
+   "path": "local/neamt/margineni/2024/54",
+   "short": "HCL Mărgineni nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 54/2024 privind organizarea comisiilor de specialitate ale Consiliului local al Comunei Mărgineni pe principalele domenii de activitate",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/176496",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/176496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-55-2024",
+   "path": "local/neamt/margineni/2024/55",
+   "short": "HCL Mărgineni nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 55/2024 privind alegerea viceprimarului",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/176502",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/176502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-56-2024",
+   "path": "local/neamt/margineni/2024/56",
+   "short": "HCL Mărgineni nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 56/2024 privind aprobarea Regulamentului de organizare și funcționare a consiliului local al comunei Mărgineni",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/176503",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/176503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-57-2024",
+   "path": "local/neamt/margineni/2024/57",
+   "short": "HCL Mărgineni nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 57/2024 privind rectificarea bugetului de venituri și cheltuieli pe trimestrul al IV lea al anului 2024 al Comunei Mărgineni, Judeţul Neamţ",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/176504",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/176504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-58-2024",
+   "path": "local/neamt/margineni/2024/58",
+   "short": "HCL Mărgineni nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 58/2024",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/176505",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/176505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-59-2024",
+   "path": "local/neamt/margineni/2024/59",
+   "short": "HCL Mărgineni nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 59/2024 privind rectificarea bugetului de venituri și cheltuieli al Comunei Mărgineni , județul Neamț , pe anul 2024",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/178356",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/178356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-60-2024",
+   "path": "local/neamt/margineni/2024/60",
+   "short": "HCL Mărgineni nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 60/2024 privind acordarea unor facilități fiscale urmare achitării obligațiilor restante la data de 31.08.2024",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/178357",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/178357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-61-2024",
+   "path": "local/neamt/margineni/2024/61",
+   "short": "HCL Mărgineni nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 61/2024 privind analiza stadiului de înscriere a datelor în registrul agricol trimestrul III – 2024 și stabilirea măsurilor de eficientizare a activității de înscriere a datelor în registrul agricol",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/178358",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/178358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-62-2024",
+   "path": "local/neamt/margineni/2024/62",
+   "short": "HCL Mărgineni nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 62/2024 privind aprobarea organizării reţelei şcolare a unităţilor de învăţământ preuniversitar de stat pentru anul şcolar 2025 – 2026, pe raza Comunei Mărgineni, Judeţul Neamţ",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/178359",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/178359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-63-2024",
+   "path": "local/neamt/margineni/2024/63",
+   "short": "HCL Mărgineni nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 63/2024 privind stabilirea impozitelor şi taxelor locale aferente anului fiscal 2025",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/181204",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/181204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-64-2024",
+   "path": "local/neamt/margineni/2024/64",
+   "short": "HCL Mărgineni nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 64/2024 privind alocarea unor sume din bugetul local pentru menținerea și păstrarea obiceiurilor de Anul Nou",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/181205",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/181205",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-65-2024",
+   "path": "local/neamt/margineni/2024/65",
+   "short": "HCL Mărgineni nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 65/2024 privind alocarea unor sume din bugetul local în vederea acordării de pachete cu dulciuri pentru copii, cu ocazia Sfintelor sărbători de Crăciun",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/181206",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/181206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-66-2024",
+   "path": "local/neamt/margineni/2024/66",
+   "short": "HCL Mărgineni nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 66/2024 privind aprobarea contului de execuție bugetară pe trim. IV al anului 2024",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/181207",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/181207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-67-2024",
+   "path": "local/neamt/margineni/2024/67",
+   "short": "HCL Mărgineni nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 67/2024 privind rectificarea bugetului de venituri și cheltuieli al Comunei Mărgineni, Judeţul Neamţ, pe anul 2024, Trim.IV",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/185678",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/185678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-68-2024",
+   "path": "local/neamt/margineni/2024/68",
+   "short": "HCL Mărgineni nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 68/2024 privind suplimentarea sumei de 14.000 lei , alocată din bugetul local al Comunei Mărgineni prin H.C.L nr. 64 din 06.12.2024 pentru menținerea și păstrarea obiceiurilor de Anul Nou",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/185679",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/185679",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

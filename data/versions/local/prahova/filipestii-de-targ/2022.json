@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/filipestii-de-targ/2022",
+ "acts": [
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-58-2022",
+   "path": "local/prahova/filipestii-de-targ/2022/58",
+   "short": "HCL Filipeștii de Târg nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 58/2022",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/76748",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/76748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-72-2022",
+   "path": "local/prahova/filipestii-de-targ/2022/72",
+   "short": "HCL Filipeștii de Târg nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 72/2022 privind aprobarea menținerii Comunei Filipeștii de Târg, județul Prahova în parteneriatul Grupului de Acțiune Locală ,, Colinele Prahovei ,,",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/83376",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/83376",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

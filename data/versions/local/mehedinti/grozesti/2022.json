@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/grozesti/2022",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--grozesti-52-2022",
+   "path": "local/mehedinti/grozesti/2022/52",
+   "short": "HCL Grozești nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 52/2022 privind rectificarea bugetului local de venituri si cheltuieli",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/77800",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/77800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-53-2022",
+   "path": "local/mehedinti/grozesti/2022/53",
+   "short": "HCL Grozești nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 53/2022 privind aprobarea realizarii obiectivului de investitii “Sistem de alimentare cu apa potabila in localitatea Șușița, comuna Grozești, județul Mehedinți”",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/77801",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/77801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-55-2022",
+   "path": "local/mehedinti/grozesti/2022/55",
+   "short": "HCL Grozești nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 55/2022 privind aprobarea proiectului de investitii ,,Construire si dotare Centru Comunitar, comuna Grozesti, județul Mehedinți, în vederea finanțării acestuia în cadrul Planului Național De Redresare și Reziliență - Componenta C12 – Sănătate - Investiția 1. Dezvoltarea infrastructurii medicale prespitalicești -I1.4 Centre Comunitare Integrate, apelul de proiecte MS-0014”",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/79425",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/79425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-57-2022",
+   "path": "local/mehedinti/grozesti/2022/57",
+   "short": "HCL Grozești nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 57/2022 privind aprobarea participării la realizarea investiției “Înființare Centru Colectare deșeuri prin aport voluntar în comuna Grozești, județul Mehedinți” prevăzută în cadrul Componentei C3: MANAGEMENTUL DEȘEURILOR, SUBINVESTIȚIA I1.A. - ÎNFIINȚAREA DE CENTRE DE COLECTARE PRIN APORT VOLUNTAR din PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ în CADRUL APELULUI DE PROIECTE PNRR/ 2022/C3/S/I.1.A",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/79427",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/79427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-58-2022",
+   "path": "local/mehedinti/grozesti/2022/58",
+   "short": "HCL Grozești nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 58/2022 privind aprobarea participării la ”Programul privind dezvoltarea infrastructurii de reincarcare pentru vehicule electrice si/sau hybrid plug-in in localitati, prin instalarea de statii de reincarcare cu putere normala” în vederea realizării obiectivului de investiții ”Înființare stații de reîncărcare pentru vehicule electrice cu putere normala în comuna Grozesti, județul Mehedinți”",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/79428",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/79428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-63-2022",
+   "path": "local/mehedinti/grozesti/2022/63",
+   "short": "HCL Grozești nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 63/2022 privind tabilirea impozitelor si taxelor locale pentru anul fiscal 2023",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/82318",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/82318",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

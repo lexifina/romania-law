@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/grozesti/2020",
+"acts": [
+{
+"slug": "hcl-mehedinti--grozesti-24-2020",
+"path": "local/mehedinti/grozesti/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 24/2020 privind participarea Comunei Grozesti la „Programul privind spijinirea eficientei energetice si a gestionarii inteligente a energiei in infrastractura de iluminat public” si aprobarea indicatorilor tehnico-economici ai proiectului „Eficientizarea si modernizarea iluminatului public ,comuna Grozesti,Judetul Mehedinti",
+"short": "HCL Grozești nr. 24/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-07-01",
+"latest": "2020-07-01",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/43805",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-27-2020",
+"path": "local/mehedinti/grozesti/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 27/2020 privind aprobarea achizitionarii unor utilaje si echipamente: tractor,plug de zapada,sararita pentru material antiderapant,vidanja pentru bazine,fose,canalizari si cositoare vegetatie pentru tractor",
+"short": "HCL Grozești nr. 27/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/43808",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-28-2020",
+"path": "local/mehedinti/grozesti/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 28/2020 privind achizitionarea unor epubele (cosuri de gunoi)",
+"short": "HCL Grozești nr. 28/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/43809",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

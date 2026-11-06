@@ -142,7 +142,7 @@ Act id: `legea-273-2004` (tags `legea-273-2004/<day>`; `python tools/on.py <day>
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 369/2008](../../../jurisprudenta/ccr/2008/369/)**, Monitorul Oficial nr. 238 din 27 martie 2008 · art. 35 alin. (2) lit. i); art. 63 alin. (3) · unconstitutional only to the extent stated ("în măsura în care")
 

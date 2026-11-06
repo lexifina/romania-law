@@ -107,3 +107,13 @@ Act id: `legea-318-2015` (tags `legea-318-2015/<day>`; `python tools/on.py <day>
 - Legea nr. 318/2015: in the form of 29 December 2018 art. 49 changes only by its quotation marks; the form of 24 July 2022 prints arts. 29^15 and 37^15, which no note of that form or any other names an act for; they are left as the publisher's change, uncredited.
 - Legea nr. 318/2015: 3 changed article(s) with no note naming a law, committed as the publisher's: 2018-12-29 art-049, 2022-07-24 art-029-15, 2022-07-24 art-037-15.
 - Legea nr. 318/2015: forms with no change after normalisation, so no version: 2023-06-08 (267887).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 11/2023](../../../jurisprudenta/ccr/2023/11/)**, Monitorul Oficial nr. 503 din 8 iunie 2023 · art. 29 alin. (1) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 252^1 alin. (1) din Codul de procedură penală și ale art. 29 alin. (1), (3) și (4) din Legea nr. 318/2015 pentru înființarea, organizarea și funcționarea Agenției Naționale de Administrare a Bunurilor Indisponibilizate și pentru modificarea și completarea unor acte normative sunt neconstituționale în măsura în care nu prevăd judecătorul de cameră preliminară printre organele judiciare care pot dispune valorificarea bunurilor mobile sechestrate.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2023-06-08) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.

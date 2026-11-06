@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/prahova/berceni/2020",
+"acts": [
+{
+"slug": "hcl-prahova--berceni-98-2020",
+"path": "local/prahova/berceni/2020/98",
+"kind": "local",
+"year": "2020",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 98/2020 privind aprobarea finanțării obiectivului de investiții “Extindere RED în vederea AEE a 7 locuințe în comuna Berceni, Corlătești, str. Prelungirea Ghighiu, județul Prahova”, cu recuperarea finanțării de la SDEE Muntenia Nord-Sucursala Ploiești",
+"short": "HCL Berceni nr. 98/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-02",
+"latest": "2020-12-02",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/17947",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--berceni-104-2020",
+"path": "local/prahova/berceni/2020/104",
+"kind": "local",
+"year": "2020",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 104/2020 privind aprobarea rectificării bugetului de venituri și cheltuieli al Comunei Berceni la data de 14.12.2020",
+"short": "HCL Berceni nr. 104/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-14",
+"latest": "2020-12-14",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/17953",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--berceni-105-2020",
+"path": "local/prahova/berceni/2020/105",
+"kind": "local",
+"year": "2020",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 105/2020 privind modificarea Anexei nr. 1 la HCL nr. 83/28.10.2020 privind Lista cu investitiile care se vor derula prin bugetul local pe anul 2020",
+"short": "HCL Berceni nr. 105/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-14",
+"latest": "2020-12-14",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/17954",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--berceni-110-2020",
+"path": "local/prahova/berceni/2020/110",
+"kind": "local",
+"year": "2020",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 110/2020 privind aprobarea rectificării bugetului de venituri și cheltuieli al Comunei Berceni la data de 21.12.2020",
+"short": "HCL Berceni nr. 110/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/17965",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

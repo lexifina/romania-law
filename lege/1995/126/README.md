@@ -65,3 +65,13 @@ Act id: `legea-126-1995` (tags `legea-126-1995/<day>`; `python tools/on.py <day>
 - Legea nr. 126/1995: articles a form leaves out are shown repealed on the day the repealing act took effect (on publication for an emergency ordinance, 3 days after for a law, unless the act sets its own day), credited to that act as its repeal note names it: art. 32, left out from the form of 10.02.2011: repealed by OUG nr. 9/2011, in force 10.02.2011 (an emergency ordinance with no in-force clause of its own: in force on publication in Monitorul Oficial nr. 107 of 10 February 2011 (Constituția art. 115 alin. (5))); art. 43, left out from the form of 10.02.2011: repealed by OUG nr. 9/2011, in force 10.02.2011 (an emergency ordinance with no in-force clause of its own: in force on publication in Monitorul Oficial nr. 107 of 10 February 2011 (Constituția art. 115 alin. (5))).
 - Legea nr. 126/1995: 6 changed article(s) with no note naming a law, committed as the publisher's: 2001-07-30 art-001, 2001-07-30 art-007, 2001-07-30 art-012, 2001-07-30 art-016, 2001-07-30 art-019, 2001-07-30 art-024.
 - Legea nr. 126/1995: forms with no change after normalisation, so no version: 2024-05-08 (282159).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 83/2024](../../../jurisprudenta/ccr/2024/83/)**, Monitorul Oficial nr. 418 din 8 mai 2024 · art. 37 lit. a) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 37 lit. a) din Legea nr. 126/1995 privind regimul materiilor explozive sunt constituționale în măsura în care vizează operațiunile prevăzute de art. 346 alin. (1) și (2) din Codul penal, operațiuni având ca obiect articole pirotehnice.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2024-05-08) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.

@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/malovat/2021",
+"acts": [
+{
+"slug": "hcl-mehedinti--malovat-50-2021",
+"path": "local/mehedinti/malovat/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 50/2021 privind privind reorganizarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat acreditate pentru anul şcolar 2022 /2023",
+"short": "HCL Malovăț nr. 50/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-24",
+"latest": "2021-11-24",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/42388",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--malovat-55-2021",
+"path": "local/mehedinti/malovat/2021/55",
+"kind": "local",
+"year": "2021",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 55/2021 privind aprobarea taxelor și impozitelor locale pentru anul 2022",
+"short": "HCL Malovăț nr. 55/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-17",
+"latest": "2021-12-17",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/44431",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

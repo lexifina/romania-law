@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/tasca/2022",
+ "acts": [
+  {
+   "slug": "hcl-neamt--tasca-48-2022",
+   "path": "local/neamt/tasca/2022/48",
+   "short": "HCL Tașca nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 48/2022 privind emiterea acordului pentru ocuparea temporară a unei suprafețe de teren din domeniul public al comunei Tașca în vederea executării lucrărilor de „branșament gaze naturale presiune redusă”",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71416",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-50-2022",
+   "path": "local/neamt/tasca/2022/50",
+   "short": "HCL Tașca nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 50/2022 privind aprobarea Programului informatic de aprovizionare a populației cu produse raționalizate în caz de mobilizare sau război",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71418",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-57-2022",
+   "path": "local/neamt/tasca/2022/57",
+   "short": "HCL Tașca nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 57/2022",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71437",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-66-2022",
+   "path": "local/neamt/tasca/2022/66",
+   "short": "HCL Tașca nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 66/2022 privind aprobarea ”PLANULUI DE ANALIZĂ ȘI ACOPERIRE A RISCURILOR IDENTIFICATE LA NIVELUL COMUNEI TAȘCA”",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71471",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71471",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

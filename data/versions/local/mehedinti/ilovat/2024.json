@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/ilovat/2024",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--ilovat-39-2024",
+   "path": "local/mehedinti/ilovat/2024/39",
+   "short": "HCL Ilovăț nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 39/2024 privind la contractarea serviciului de iluminat festiv",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/217078",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/217078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ilovat-40-2024",
+   "path": "local/mehedinti/ilovat/2024/40",
+   "short": "HCL Ilovăț nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 40/2024 privind aprobarea acordării unor cadouri de Crăciun și stabilirea valorilor acestora pentru preșcolarii și elevii din cadrul Școlii Gimnaziale Ilovăț",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/217079",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/217079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ilovat-41-2024",
+   "path": "local/mehedinti/ilovat/2024/41",
+   "short": "HCL Ilovăț nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 41/2024 privind inventarierea materiei impozabile pentru anul fiscal 2025",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/217080",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/217080",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

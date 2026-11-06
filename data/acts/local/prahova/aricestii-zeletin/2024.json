@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/prahova/aricestii-zeletin/2024",
+"acts": [
+{
+"slug": "hcl-prahova--aricestii-zeletin-1-2024",
+"path": "local/prahova/aricestii-zeletin/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariceștii Zeletin nr. 1/2024 APROBAREA ORGANIZARII RETELEI SCOLARE PE ANUL SCOLAR 2024-2025",
+"short": "HCL Ariceștii Zeletin nr. 1/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-11",
+"latest": "2024-01-11",
+"portal": "https://aricestiizeletin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19382#69850",
+"council": "prahova/aricestii-zeletin",
+"council_name": "Consiliul Local al Comunei Ariceștii Zeletin",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/vrata/2026",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--vrata-10-2026",
+   "path": "local/mehedinti/vrata/2026/10",
+   "short": "HCL Vrata nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 10/2026 privind aprobarea indicatorilor tehnico-economici, precum si a descrierii sumare a investitiei, Devizului General si asigurarea cofinantarii din bugetul local pentru obiectivul de investitii “DESFIINTARE CORP C1 SI CONSTRUIRE IMOBIL NZEB P+2 IN UAT VRATA, JUDETUL MEHEDINTI, CU DESTINATIA DE LOCUINTE SOCIALE SI DE NECESITATE, AMENAJARI EXTERIOARE SI ASIGURAREA UTILITATILOR”",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/272462",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/272462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-11-2026",
+   "path": "local/mehedinti/vrata/2026/11",
+   "short": "HCL Vrata nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 11/2026 privind aprobarea, organizarea si desfasurarea unor activităţi prilejuite de sărbătorirea nedeii tradiţionale de „Rusalii” Ziua comunei Vrata, judetul Mehedinti",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/272463",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/272463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-14-2026",
+   "path": "local/mehedinti/vrata/2026/14",
+   "short": "HCL Vrata nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 14/2026 privind aprobarea bugetului de venituri și cheltuieli al Consiliului Local Vrata pe anul 2026",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/272472",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/272472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-9-2026",
+   "path": "local/mehedinti/vrata/2026/9",
+   "short": "HCL Vrata nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 9/2026",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/272461",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/272461",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

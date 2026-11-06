@@ -139,3 +139,13 @@ Act id: `legea-1-2005` (tags `legea-1-2005/<day>`; `python tools/on.py <day> leg
 - Legea nr. 1/2005: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 10 such paragraphs across all forms, for example «* A se vedea Hotărârea Guvernului nr. 430/2013 privind organ», «* Curtea Constituțională, prin Decizia nr. 913/2009, publica», «Conform art. 147 alin. (1) din CONSTITUȚIA ROMÂNIEI republic».
 - Legea nr. 1/2005: 2 changed article(s) with no note naming a law, committed as the publisher's: 2018-07-15 art-110, 2018-07-15 art-123.
 - Legea nr. 1/2005: forms with no change after normalisation, so no version: 2009-07-22 (110318), 2009-09-06 (128628).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 913/2009](../../../jurisprudenta/ccr/2009/913/)**, Monitorul Oficial nr. 506 din 22 iulie 2009 · art. 107 alin. (1) · constitutional only as the Court reads it (an interpretive decision)
+
+  > Admite excepţia de neconstituţionalitate a prevederilor art. 107 alin. (1) din Legea nr. 1/2005 privind organizarea şi funcţionarea cooperaţiei \[…\] şi constată că acestea sunt neconstituţionale în măsura în care folosinţa terenurilor se face cu titlu gratuit.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2009-07-22) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.

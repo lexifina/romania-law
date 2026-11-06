@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/prahova/batrani/2022",
+"acts": [
+{
+"slug": "hcl-prahova--batrani-46-2022",
+"path": "local/prahova/batrani/2022/46",
+"kind": "local",
+"year": "2022",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 46/2022 privind rectificarea bugetului local pe anul 2022 si a estimărilor pe anii 2023, 2024, 2025",
+"short": "HCL Bătrâni nr. 46/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/68840",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-51-2022",
+"path": "local/prahova/batrani/2022/51",
+"kind": "local",
+"year": "2022",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 51/2022 privind rectificarea bugetului local pe anul 2022 si a estimărilor pe anii 2023, 2024, 2025",
+"short": "HCL Bătrâni nr. 51/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-07",
+"latest": "2022-10-07",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/71917",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-53-2022",
+"path": "local/prahova/batrani/2022/53",
+"kind": "local",
+"year": "2022",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 53/2022 privind rectificarea bugetului local pe anul 2022 si a estimărilor pe anii 2023, 2024, 2025",
+"short": "HCL Bătrâni nr. 53/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-07",
+"latest": "2022-10-07",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/73395",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-57-2022",
+"path": "local/prahova/batrani/2022/57",
+"kind": "local",
+"year": "2022",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 57/2022 privind rectificarea bugetului local pe anul 2022 şi a estimărilor pe anii 2023, 2024, 2025",
+"short": "HCL Bătrâni nr. 57/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/81133",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-59-2022",
+"path": "local/prahova/batrani/2022/59",
+"kind": "local",
+"year": "2022",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 59/2022 privind rectificarea bugetului local pe anul 2022 si a estimărilor pe anii 2023, 2024, 2025",
+"short": "HCL Bătrâni nr. 59/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-28",
+"latest": "2022-12-28",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/83372",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-61-2022",
+"path": "local/prahova/batrani/2022/61",
+"kind": "local",
+"year": "2022",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 61/2022 privind stabilirea impozitelor şi taxelor locale pentru anul 2023 în comuna Bătrâni, judeţul Prahova",
+"short": "HCL Bătrâni nr. 61/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-15",
+"latest": "2023-03-15",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/84546",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-64-2022",
+"path": "local/prahova/batrani/2022/64",
+"kind": "local",
+"year": "2022",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 64/2022 privind rectificarea bugetului local pe anul 2022 si a estimărilor pe anii 2023, 2024, 2025",
+"short": "HCL Bătrâni nr. 64/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-15",
+"latest": "2023-03-15",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/84549",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

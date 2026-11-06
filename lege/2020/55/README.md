@@ -97,7 +97,13 @@ Act id: `legea-55-2020` (tags `legea-55-2020/<day>`; `python tools/on.py <day> l
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 457/2020](../../../jurisprudenta/ccr/2020/457/)**, Monitorul Oficial nr. 578 din 1 iulie 2020 · art. 4 alin. (3); art. 65 lit. s); art. 66 lit. a); art. 67 alin. (2) lit. b) · not matched automatically to one provision of this text
+
+  > constată că dispozițiile art. 4 alin. (3) și (4), precum și ale art. 65 lit. s) și ș), ale art. 66 lit. a), b) și c) în ceea ce privește trimiterile la art. 65 lit. s), ș) și t) și ale art. 67 alin. (2) lit. b) în ceea ce privește trimiterile la art. 65 lit. s), ș) și t) din Legea nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19 sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2020-07-01) and ceases to have legal effect 45 days later, on 2020-08-15, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it names provisions of more than one act. The text here is unchanged; read the decision.
 
 - **[Decizia nr. 392/2021](../../../jurisprudenta/ccr/2021/392/)**, Monitorul Oficial nr. 688 din 12 iulie 2021 · art. 72 alin. (2); art. 72 alin. (1) · provisions read together with others
 

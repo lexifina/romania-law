@@ -3,6 +3,21 @@
  "shard": "local/olt/corabia/2023",
  "acts": [
   {
+   "slug": "hcl-olt--corabia-10-2023",
+   "path": "local/olt/corabia/2023/10",
+   "short": "HCL Corabia nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 10/2023",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/87829",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/87829",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--corabia-112-2023",
    "path": "local/olt/corabia/2023/112",
    "short": "HCL Corabia nr. 112/2023",
@@ -28,6 +43,96 @@
      "from": "2023-11-28",
      "units": 1,
      "source_url": "https://emol.ro/corabia-ot/registru-hcl/130751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-47-2023",
+   "path": "local/olt/corabia/2023/47",
+   "short": "HCL Corabia nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 47/2023 privind aprobarea tarifelor utilizate de societatea comerciala Servicii Comunitare Corabia S.R.L",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/96583",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/96583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-53-2023",
+   "path": "local/olt/corabia/2023/53",
+   "short": "HCL Corabia nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 53/2023 privind indexarea și stabilirea impozitelor și taxelor locale pentru anul 2024",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/102315",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/102315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-54-2023",
+   "path": "local/olt/corabia/2023/54",
+   "short": "HCL Corabia nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 54/2023 privind aprobarea Politicii generale privind supravegherea video pe raza orasului Corabia",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/102316",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/102316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-72-2023",
+   "path": "local/olt/corabia/2023/72",
+   "short": "HCL Corabia nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 72/2023 privind acordarea unui mandat special reprezentantului orașului Corabia în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „OLT-ECO” în vederea exercitării votului pentru modificarea tarifelor aferente serviciilor de salubrizare de pe raza județului Olt prevăzute în Contractele de delegare nr. 6867/18.06.2018 și nr. 2542/06.12.2021, pentru modificarea Regulamentului de organizare si funcționare a Serviciului Public de salubrizare a localităților din Județul Olt, precum și pentru încheierea unor acte adiționale la contractele de delegare",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/106144",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/106144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-78-2023",
+   "path": "local/olt/corabia/2023/78",
+   "short": "HCL Corabia nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 78/2023 privind aprobarea Planului Urbanistic Zonal și Regulamentului Local de Urbanism pentru “Construire spațiu comercial P+1E și împrejmuire” în intravilanul orașului Corabia, str.Trecerea Dunării,nr.43A,jud.Olt",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/111010",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/111010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-93-2023",
+   "path": "local/olt/corabia/2023/93",
+   "short": "HCL Corabia nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 93/2023 privind aprobarea cuantumului taxei de salubrizare în orașul Corabia precum și a Regulamentului privind instituirea și administrarea taxei de salubrizare în orașul Corabia",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/116541",
+   "versions": [
+    {
+     "from": "2023-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/116541",
      "sha256": null
     }
    ]

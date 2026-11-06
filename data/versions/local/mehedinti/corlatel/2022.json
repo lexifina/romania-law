@@ -3,6 +3,231 @@
  "shard": "local/mehedinti/corlatel/2022",
  "acts": [
   {
+   "slug": "hcl-mehedinti--corlatel-10-2022",
+   "path": "local/mehedinti/corlatel/2022/10",
+   "short": "HCL Corlățel nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 10/2022 privind aprobarea Planului de Analiza si Acoperire a Riscurilor aferent Unității Administrativ Teritoriale comuna Corlățel, județul Mehedinți",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/57916",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/57916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-11-2022",
+   "path": "local/mehedinti/corlatel/2022/11",
+   "short": "HCL Corlățel nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 11/2022 privind aprobarea cererii de finanțare, a devizului general estimativ și a indicatorilor tehnico-economici pentru obiectivul de investiții „Sistem de distribuție a gazelor naturale, inclusiv a branșamentelor, precum şi a racordului la sistemul de transport al gazelor naturale în UAT – Comuna Pădina, UAT – Comuna Bălăcița, UAT – Orașul Vânju Mare, UAT – Comuna Corlățel, UAT – Comuna Vlădaia, UAT – Comuna Punghina” în vederea includerii la finanțare în cadrul Programul Național de Investiții ,,Anghel Saligny”",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/57917",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/57917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-12-2022",
+   "path": "local/mehedinti/corlatel/2022/12",
+   "short": "HCL Corlățel nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 12/2022 privind alegerea președintelui de ședință a Consiliul Local Corlățel pentru lunile mai, iunie și iulie ale anului 2022",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/62473",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/62473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-13-2022",
+   "path": "local/mehedinti/corlatel/2022/13",
+   "short": "HCL Corlățel nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 13/2022 privind alocarea sumei de 5556 lei pentru organizarea, în anul 2022, a activităților ocazionate de sărbătorirea nedeilor tradiționale de „Ispas”- ziua satului Valea Anilor, și de „Rusalii”- ziua satului Corlățel",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/62474",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/62474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-14-2022",
+   "path": "local/mehedinti/corlatel/2022/14",
+   "short": "HCL Corlățel nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 14/2022 privind modificarea Inventarului bunurilor care aparțin domeniului public al Comunei Corlățel, județul Mehedinți",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/62475",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/62475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-15-2022",
+   "path": "local/mehedinti/corlatel/2022/15",
+   "short": "HCL Corlățel nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 15/2022 privind aprobarea rectificării bugetului de venituri si cheltuieli al comunei Corlățel pe anul 2022",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/63856",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/63856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-16-2022",
+   "path": "local/mehedinti/corlatel/2022/16",
+   "short": "HCL Corlățel nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 16/2022 privind aprobarea Strategiei de dezvoltare locală a comunei Corlățel pentru perioada 2021-2027",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/65789",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/65789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-17-2022",
+   "path": "local/mehedinti/corlatel/2022/17",
+   "short": "HCL Corlățel nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 17/2022 privind aprobarea Studiul de Fezabilitate și a devizului general estimativ pentru proiectul: “Îmbunătățirea infrastructurii învățământului preșcolar prin realizarea unei grădinițe cu doua săli de grupa, Comuna Corlățel, Județul Mehedinți”",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/67822",
+   "versions": [
+    {
+     "from": "2022-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/67822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-18-2022",
+   "path": "local/mehedinti/corlatel/2022/18",
+   "short": "HCL Corlățel nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 18/2022 privind alegerea președintelui de ședință a Consiliul Local Corlățel pentru lunile august, septembrie și octombrie ale anului 2022",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/69400",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/69400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-19-2022",
+   "path": "local/mehedinti/corlatel/2022/19",
+   "short": "HCL Corlățel nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 19/2022 privind aprobarea rectificării bugetului de venituri si cheltuieli al comunei Corlățel pe anul 2022",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/69401",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/69401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-20-2022",
+   "path": "local/mehedinti/corlatel/2022/20",
+   "short": "HCL Corlățel nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 20/2022 privind aprobarea rectificării bugetului de venituri si cheltuieli al comunei Corlățel pe anul 2022",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/72775",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/72775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-21-2022",
+   "path": "local/mehedinti/corlatel/2022/21",
+   "short": "HCL Corlățel nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 21/2022 privind abrogarea Hotărârii Consiliului Local Corlățel nr.14 din 31.05.2022 privind modificarea Inventarului bunurilor care aparțin domeniului public al Comunei Corlățel, județul Mehedinți",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/77846",
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/77846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-22-2022",
+   "path": "local/mehedinti/corlatel/2022/22",
+   "short": "HCL Corlățel nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 22/2022 privind alegerea președintelui de ședință a Consiliul Local Corlățel pentru lunile noiembrie și decembrie ale anului 2022 și luna ianuarie a anului 2023",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/80511",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/80511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-23-2022",
+   "path": "local/mehedinti/corlatel/2022/23",
+   "short": "HCL Corlățel nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 23/2022 privind stabilirea impozitelor si taxelor locale pentru anul 2023",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/80512",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/80512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-24-2022",
+   "path": "local/mehedinti/corlatel/2022/24",
+   "short": "HCL Corlățel nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 24/2022 privind aprobarea rectificării bugetului de venituri si cheltuieli al comunei Corlățel pe anul 2022",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/80513",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/80513",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--corlatel-25-2022",
    "path": "local/mehedinti/corlatel/2022/25",
    "short": "HCL Corlățel nr. 25/2022",

@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/bodesti/2020",
+ "acts": [
+  {
+   "slug": "hcl-neamt--bodesti-49-2020",
+   "path": "local/neamt/bodesti/2020/49",
+   "short": "HCL Bodești nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 49/2020 privind aprobarea neasumării responsabilității organizării și derulării procedurilor de atribuirea contractelor/acordurilor- cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivel local, aferente Programului pentru Școli al României",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/16511",
+   "versions": [
+    {
+     "from": "2020-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/16511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-50-2020",
+   "path": "local/neamt/bodesti/2020/50",
+   "short": "HCL Bodești nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 50/2020 privind aprobarea prelungirii contractelor de concesiune cu numerele 2996 din 31.08.2005 și 2997 din 31.08.2005",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/16512",
+   "versions": [
+    {
+     "from": "2020-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/16512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-51-2020",
+   "path": "local/neamt/bodesti/2020/51",
+   "short": "HCL Bodești nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 51/2020 privind aprobarea indicatorilor tehnico-economici ai investițiilor pentru realizarea Sistemelor tehnice de securitate la școlile din comuna Bodești, județul Neamț",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/16513",
+   "versions": [
+    {
+     "from": "2020-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/16513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-52-2020",
+   "path": "local/neamt/bodesti/2020/52",
+   "short": "HCL Bodești nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 52/2020 privind aprobarea acordului de parteneriat între comuna Bodești și Asociația Cultural Socială Economică Christiana în vederea implementării proiectului Centru de zi pentru vârstnici, în satul Corni, comuna Bodești",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/16514",
+   "versions": [
+    {
+     "from": "2020-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/16514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-53-2020",
+   "path": "local/neamt/bodesti/2020/53",
+   "short": "HCL Bodești nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 53/2020 privind implementarea activităților aferente proiectului Centru de zi pentru persoanele defavorizate în comuna Bodești, județul Neamț",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/16515",
+   "versions": [
+    {
+     "from": "2020-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/16515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-54-2020",
+   "path": "local/neamt/bodesti/2020/54",
+   "short": "HCL Bodești nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 54/2020 privind rectificarea bugetului local aprobat pentru anul 2020",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/16516",
+   "versions": [
+    {
+     "from": "2020-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/16516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-55-2020",
+   "path": "local/neamt/bodesti/2020/55",
+   "short": "HCL Bodești nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 55/2020 privind constatarea încetării de drept, înainte de expirarea duratei normale, prin demisie, a mandatelor unor consilieri locali și vacantarea mandatelor acestora",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/16537",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/16537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-58-2020",
+   "path": "local/neamt/bodesti/2020/58",
+   "short": "HCL Bodești nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 58/2020 privind organizarea comisiilor de specialitate pe principalele domenii de activitate",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/20398",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/20398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-59-2020",
+   "path": "local/neamt/bodesti/2020/59",
+   "short": "HCL Bodești nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 59/2020 privind rectificarea bugetului local aprobat pentru anul 2020",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/20399",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/20399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-60-2020",
+   "path": "local/neamt/bodesti/2020/60",
+   "short": "HCL Bodești nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 60/2020 privind aprobarea indicatorilor tehnico-economici precum și a cheltuielilor aferente proiectului ” Achiziție de tablete școlare și alte echipamente electronice necesare desfășurării activității didactice în mediul on-line în comuna Bodești, județul Neamț”",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/20400",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/20400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-63-2020",
+   "path": "local/neamt/bodesti/2020/63",
+   "short": "HCL Bodești nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 63/2020 privind aprobarea modificării organigramei și a statului de funcții pentru aparatul de specialitate al primarului comunei Bodești",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/20403",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/20403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-64-2020",
+   "path": "local/neamt/bodesti/2020/64",
+   "short": "HCL Bodești nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 64/2020 privind rectificarea bugetului local aprobat pentru anul 2020",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/20409",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/20409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-65-2020",
+   "path": "local/neamt/bodesti/2020/65",
+   "short": "HCL Bodești nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 65/2020 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2021",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/20410",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/20410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-67-2020",
+   "path": "local/neamt/bodesti/2020/67",
+   "short": "HCL Bodești nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 67/2020 privind aprobarea Strategiei de dezvoltare economico-socială durabilă a comunei Bodești pentru perioada 2021-2027",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/20412",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/20412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-68-2020",
+   "path": "local/neamt/bodesti/2020/68",
+   "short": "HCL Bodești nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 68/2020 privind aprobarea Regulamentului de organizare și funcționare a Consiliului local al comunei Bodești",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/20413",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/20413",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

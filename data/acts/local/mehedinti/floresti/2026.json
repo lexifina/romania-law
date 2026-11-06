@@ -1,0 +1,182 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/floresti/2026",
+"acts": [
+{
+"slug": "hcl-mehedinti--floresti-7-2026",
+"path": "local/mehedinti/floresti/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 7/2026 privind alegerea Presedintelui de sedinta",
+"short": "HCL Florești nr. 7/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-16",
+"latest": "2026-04-16",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/260601",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--floresti-9-2026",
+"path": "local/mehedinti/floresti/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 9/2026 privind aprobarea bugetului de venituri si cheltuieli al comunei Floresti, Judetul Mehedinti pentru anul 2026",
+"short": "HCL Florești nr. 9/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-11",
+"latest": "2026-05-11",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/264770",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--floresti-14-2026",
+"path": "local/mehedinti/floresti/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 14/2026 privind modificarea și aprobarea organigramei si statului de funcții pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului Comunei Floresti , Județul Mehedinți",
+"short": "HCL Florești nr. 14/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-16",
+"latest": "2026-07-16",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/271370",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--floresti-15-2026",
+"path": "local/mehedinti/floresti/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 15/2026 privind alegerea Presedintelui de sedinta",
+"short": "HCL Florești nr. 15/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-23",
+"latest": "2026-07-23",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/277140",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--floresti-16-2026",
+"path": "local/mehedinti/floresti/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 16/2026 Privind aprobarea si organizarea “Zilelor comunei Floresti, judetul Mehedinti”",
+"short": "HCL Florești nr. 16/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-26",
+"latest": "2026-08-26",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/278728",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--floresti-17-2026",
+"path": "local/mehedinti/floresti/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 17/2026 privind rectificarea bugetului local al comunei Floresti pentru anul 2026",
+"short": "HCL Florești nr. 17/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-26",
+"latest": "2026-08-26",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/283490",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--floresti-20-2026",
+"path": "local/mehedinti/floresti/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 20/2026 privind alegerea Presedintelui de sedinta",
+"short": "HCL Florești nr. 20/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-21",
+"latest": "2026-10-21",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/289366",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--floresti-25-2026",
+"path": "local/mehedinti/floresti/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 25/2026 privind rectificarea bugetului local al comunei Floresti pentru anul 2026",
+"short": "HCL Florești nr. 25/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-27",
+"latest": "2026-10-27",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/294840",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

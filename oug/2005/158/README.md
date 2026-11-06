@@ -96,7 +96,7 @@ Act id: `oug-158-2005` (tags `oug-158-2005/<day>`; `python tools/on.py <day> oug
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 460/2017](../../../jurisprudenta/ccr/2017/460/)**, Monitorul Oficial nr. 809 din 12 octombrie 2017 · art. 33 · a rule read from the text ("soluție legislativă"), not its words
 

@@ -316,3 +316,13 @@ Act id: `legea-86-2006` (tags `legea-86-2006/<day>`; `python tools/on.py <day> l
 - Codul vamal (Legea nr. 86/2006): the law as published and the forms to 29 June 2013 print, after art. 288 alin. (4), the note "* Prezenta lege asigură aplicarea Regulamentului Consiliului (CEE) nr. 2.913/92 de instituire a Codului vamal comunitar ..."; it says which EU act the law implements and is not an article's text, so it is left out.
 - Codul vamal (Legea nr. 86/2006): 4 changed article(s) with no note naming a law, committed as the publisher's: 2014-02-01 art-003, 2014-02-01 art-135, 2014-02-01 art-239, 2014-02-01 art-245.
 - Codul vamal (Legea nr. 86/2006): forms with no change after normalisation, so no version: 2022-05-05 (254137).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 176/2022](../../../jurisprudenta/ccr/2022/176/)**, Monitorul Oficial nr. 451 din 5 mai 2022 · art. 270 alin. (3) · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că dispozițiile art. 270 alin. (3) din Legea nr. 86/2006 privind Codul vamal al României sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2022-05-05) and ceases to have legal effect 45 days later, on 2022-06-19, unless Parliament or the Government brings it into line with the Constitution in that time. The act changed the provision before 2022-06-19 (brought into line, amended or repealed), so the text here follows the amending act. The text here is unchanged; read the decision.

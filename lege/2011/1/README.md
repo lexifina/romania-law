@@ -1386,7 +1386,13 @@ These changes were first published credited to another law. The words are unchan
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 106/2014](../../../jurisprudenta/ccr/2014/106/)**, Monitorul Oficial nr. 238 din 3 aprilie 2014 · art. 253 alin. (1) lit. a) · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că prevederile art. 253 alin. (1) lit. a) şi b) din Legea educaţiei naţionale nr. 1/2011 sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2014-04-03) and ceases to have legal effect 45 days later, on 2014-05-18, unless Parliament or the Government brings it into line with the Constitution in that time. The act changed the provision before 2014-05-18 (brought into line, amended or repealed), so the text here follows the amending act. The text here is unchanged; read the decision.
 
 - **[Decizia nr. 669/2014](../../../jurisprudenta/ccr/2014/669/)**, Monitorul Oficial nr. 59 din 23 ianuarie 2015 · art. 18 alin. (2) · only some words or a sentence inside the provision
 
@@ -1399,6 +1405,12 @@ The Constitutional Court found the provisions below unconstitutional in a way th
   > constată că sintagma „pe bază de abonament“, cuprinsă în art. 84 alin. (3) din Legea educației naționale nr. 1/2011 este neconstituțională.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2019-11-01) and ceases to have legal effect 45 days later, on 2019-12-16, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 364/2022](../../../jurisprudenta/ccr/2022/364/)**, Monitorul Oficial nr. 831 din 24 august 2022 · art. 170 alin. (1) lit. b) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 170 alin. (1) lit. b) din Legea educației naționale nr. 1/2011 sunt constituționale, în măsura în care se referă la retragerea titlului de doctor care nu a intrat în circuitul civil și nu a produs efecte juridice.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2022-08-24) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
 
 - **[Decizia nr. 642/2024](../../../jurisprudenta/ccr/2024/642/)**, Monitorul Oficial nr. 66 din 27 ianuarie 2025 · art. 82 alin. (1) · only some words or a sentence inside the provision
 

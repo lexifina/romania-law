@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/negresti/2022",
+ "acts": [
+  {
+   "slug": "hcl-neamt--negresti-65-2022",
+   "path": "local/neamt/negresti/2022/65",
+   "short": "HCL Negrești nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 65/2022 privind aprobarea investitiei ”MODERNIZARE ILUMINAT PUBLIC STRADAL ÎN COMUNA NEGRESTI, JUDETUL NEAMT”",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/100856",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/100856",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

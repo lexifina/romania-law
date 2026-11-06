@@ -1,0 +1,205 @@
+{
+"country": "RO",
+"shard": "local/prahova/batrani/2026",
+"acts": [
+{
+"slug": "hcl-prahova--batrani-19-2026",
+"path": "local/prahova/batrani/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 19/2026 privind aprobarea bugetului local pe anul 2026 și a estimărilor pe anii 2027, 2028, 2029",
+"short": "HCL Bătrâni nr. 19/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-05",
+"latest": "2026-05-05",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/265647",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-21-2026",
+"path": "local/prahova/batrani/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 21/2026 privind utilizarea excedentului bugetar al Comunei Bătrâni din anul 2025",
+"short": "HCL Bătrâni nr. 21/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-05",
+"latest": "2026-05-05",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/265649",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-22-2026",
+"path": "local/prahova/batrani/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 22/2026 privind aprobarea situațiilor financiare anuale la data de 31.12.2025",
+"short": "HCL Bătrâni nr. 22/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/272583",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-23-2026",
+"path": "local/prahova/batrani/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 23/2026 privind aprobarea contului de execuție al bugetului local al comunei Bătrâni pe anul 2025",
+"short": "HCL Bătrâni nr. 23/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/272584",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-24-2026",
+"path": "local/prahova/batrani/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 24/2026 privind modificarea și completarea Regulamentului de organizare şi funcţionare a Consiliului Local al comunei Bătrâni, judeţul Prahova aprobat prin Hotărârea nr. 37/27.11.2025",
+"short": "HCL Bătrâni nr. 24/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/272585",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-29-2026",
+"path": "local/prahova/batrani/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 29/2026 privind aprobarea rectificării bugetului local pe anul 2026 si a estimărilor pe anii 2027, 2028, 2029",
+"short": "HCL Bătrâni nr. 29/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-17",
+"latest": "2026-08-17",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/281592",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-31-2026",
+"path": "local/prahova/batrani/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 31/2026 privind aprobarea rectificării bugetului local pe anul 2026 si a estimărilor pe anii 2027, 2028, 2029",
+"short": "HCL Bătrâni nr. 31/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/289807",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-32-2026",
+"path": "local/prahova/batrani/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 32/2026",
+"short": "HCL Bătrâni nr. 32/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/289808",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--batrani-38-2026",
+"path": "local/prahova/batrani/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 38/2026 privind aprobarea rectificării bugetului local pe anul 2026 si a estimărilor pe anii 2027, 2028, 2029",
+"short": "HCL Bătrâni nr. 38/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/295060",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

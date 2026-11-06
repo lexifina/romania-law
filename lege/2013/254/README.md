@@ -212,3 +212,19 @@ Act id: `legea-254-2013` (tags `legea-254-2013/<day>`; `python tools/on.py <day>
 - Legea nr. 254/2013: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 20 such paragraphs across all forms, for example «Lit. b) a alin. (1) al art. 110 si-a încetat efectele juridi», «Lit. b) a alin. (1) al art. 110 și-a încetat efectele juridi», «Lit. b) a alin. (1) al art. 69 și-a încetat efectele juridic».
 - Legea nr. 254/2013: 11 changed article(s) with no note naming a law, committed as the publisher's: 2015-06-02 art-053, 2015-06-02 art-061, 2015-06-02 art-068, 2015-06-02 art-110, 2015-06-02 art-132, 2015-06-02 art-133, 2016-02-09 art-069, 2016-02-09 art-110, 2017-07-21 art-110, 2019-12-23 art-110, 2019-12-23 art-128.
 - Legea nr. 254/2013: forms with no change after normalisation, so no version: 2022-06-28 (256285), 2024-05-10 (282153).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 242/2021](../../../jurisprudenta/ccr/2021/242/)**, Monitorul Oficial nr. 677 din 8 iulie 2021 · art. 55^1 · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 55^1 din Legea nr. 254/2013 privind executarea pedepselor și a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal, în interpretarea dată prin Decizia nr. 7 din 26 aprilie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept în materie penală, sunt neconstituționale.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2021-07-08) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 293/2022](../../../jurisprudenta/ccr/2022/293/)**, Monitorul Oficial nr. 635 din 28 iunie 2022 · art. 55^1 alin. (5) lit. b) · not matched automatically to one provision of this text
+
+  > constată că dispozițiile art. 55^1 alin. (5) lit. b) din Legea nr. 254/2013 privind executarea pedepselor și a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2022-06-28) and ceases to have legal effect 45 days later, on 2022-08-12, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: the provisions it names were not found exactly once in this text. The text here is unchanged; read the decision.

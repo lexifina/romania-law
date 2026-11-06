@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/jugureni/2023",
+ "acts": [
+  {
+   "slug": "hcl-prahova--jugureni-1-2023",
+   "path": "local/prahova/jugureni/2023/1",
+   "short": "HCL Jugureni nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jugureni nr. 1/2023 privind aprobarea si rectificarea bugetului local pe anul 2023",
+   "url": "https://jugureni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/40482#45920",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://jugureni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/40482#45920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--jugureni-3-2023",
+   "path": "local/prahova/jugureni/2023/3",
+   "short": "HCL Jugureni nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jugureni nr. 3/2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+   "url": "https://jugureni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/40482#63939",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://jugureni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/40482#63939",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

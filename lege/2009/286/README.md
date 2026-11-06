@@ -474,7 +474,31 @@ Act id: `codul-penal` (tags `codul-penal/<day>`; `python tools/on.py <day> codul
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 265/2014](../../../jurisprudenta/ccr/2014/265/)**, Monitorul Oficial nr. 372 din 20 mai 2014 · art. 5 · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 5 din Codul penal sunt constituţionale în măsura în care nu permit combinarea prevederilor din legi succesive în stabilirea şi aplicarea legii penale mai favorabile.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2014-05-20) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 508/2014](../../../jurisprudenta/ccr/2014/508/)**, Monitorul Oficial nr. 843 din 19 noiembrie 2014 · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că acestea sunt constituţionale în măsura în care se aplică tuturor inculpaţilor trimişi în judecată înaintea datei intrării în vigoare a Legii nr. 286/2009 privind Codul penal şi pentru care la acea dată momentul citirii actului de sesizare fusese depăşit.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2014-11-19) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 11/2015](../../../jurisprudenta/ccr/2015/11/)**, Monitorul Oficial nr. 102 din 9 februarie 2015 · art. 112^1 alin. (2) lit. a) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 112^1 alin. (2) lit. a) din Codul penal sunt constituţionale în măsura în care confiscarea extinsă nu se aplică asupra bunurilor dobândite înainte de intrarea în vigoare a Legii nr. 63/2012 pentru modificarea şi completarea Codului penal al României şi a Legii nr. 286/2009 privind Codul penal.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2015-02-09) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 405/2016](../../../jurisprudenta/ccr/2016/405/)**, Monitorul Oficial nr. 517 din 8 iulie 2016 · art. 297 alin. (1) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 246 din Codul penal din 1969 şi ale art. 297 alin. (1) din Codul penal sunt constituţionale în măsura în care prin sintagma "îndeplineşte în mod defectuos" din cuprinsul acestora se înţelege "îndeplineşte prin încălcarea legii".
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2016-07-08) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
 
 - **[Decizia nr. 224/2017](../../../jurisprudenta/ccr/2017/224/)**, Monitorul Oficial nr. 427 din 9 iunie 2017 · art. 335 alin. (1) · a rule read from the text ("soluție legislativă"), not its words
 
@@ -487,6 +511,12 @@ The Constitutional Court found the provisions below unconstitutional in a way th
   > constată că sintagma „și împotriva aceluiași subiect pasiv“ din cuprinsul dispozițiilor art. 35 alin. (1) din Codul penal este neconstituțională.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-07-17) and ceases to have legal effect 45 days later, on 2017-08-31, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 518/2017](../../../jurisprudenta/ccr/2017/518/)**, Monitorul Oficial nr. 765 din 26 septembrie 2017 · art. 298 · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 249 alin. 1 din Codul penal din 1969 și ale art. 298 din Codul penal sunt constituționale în măsura în care prin sintagma „îndeplinirea ei defectuoasă“ din cuprinsul acestora se înțelege „îndeplinirea prin încălcarea legii“.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2017-09-26) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
 
 - **[Decizia nr. 297/2018](../../../jurisprudenta/ccr/2018/297/)**, Monitorul Oficial nr. 518 din 25 iunie 2018 · art. 155 alin. (1) · a rule read from the text ("soluție legislativă"), not its words
 
@@ -511,6 +541,18 @@ The Constitutional Court found the provisions below unconstitutional in a way th
   > constată că dispozițiile art. 137 alin. (3) teza a doua, cu referire la sintagma „cifra de afaceri“, din Codul penal sunt neconstituționale.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2021-12-07) and ceases to have legal effect 45 days later, on 2022-01-21, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 358/2022](../../../jurisprudenta/ccr/2022/358/)**, Monitorul Oficial nr. 565 din 9 iunie 2022 · art. 155 alin. (1) · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că dispozițiile art. 155 alin. (1) din Codul penal sunt neconstituționale.
+
+  The Court judged an earlier or a specific wording of the provision (decided 2022-05-26, published 2022-06-09); the text here follows the acts that amended it. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 222/2023](../../../jurisprudenta/ccr/2023/222/)**, Monitorul Oficial nr. 441 din 22 mai 2023 · art. 159 alin. (3) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că soluția legislativă cuprinsă în art. 159 alin. (3) teza finală din Codul penal, care privește sintagma „și dacă are loc până la citirea actului de sesizare a instanței“, este constituțională numai în măsura în care nu se aplică în ipoteza schimbării încadrării juridice a faptei, ulterior citirii actului de sesizare a instanței, într-o infracțiune pentru care legea a prevăzut în mod expres că este posibilă împăcarea.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2023-05-22) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
 
 - **[Decizia nr. 221/2023](../../../jurisprudenta/ccr/2023/221/)**, Monitorul Oficial nr. 505 din 9 iunie 2023 · art. 378 alin. (1) lit. c) · a rule read from the text ("soluție legislativă"), not its words
 

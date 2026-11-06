@@ -49,7 +49,7 @@ Act id: `legea-2-2013` (tags `legea-2-2013/<day>`; `python tools/on.py <day> leg
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 369/2017](../../../jurisprudenta/ccr/2017/369/)**, Monitorul Oficial nr. 582 din 20 iulie 2017 · art. XVIII alin. (2) · only some words or a sentence inside the provision
 

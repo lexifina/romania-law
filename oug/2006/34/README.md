@@ -401,7 +401,13 @@ These changes were first published credited to another law. The words are unchan
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 569/2008](../../../jurisprudenta/ccr/2008/569/)**, Monitorul Oficial nr. 537 din 16 iulie 2008 · art. 281 alin. (1) · constitutional only as the Court reads it (an interpretive decision)
+
+  > Admite excepţia de neconstituţionalitate a prevederilor art. 281 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii şi constată că textul este neconstituţional în măsura în care nu permite ca plângerea să fie adresată şi direct instanţei de judecată competente.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2008-07-16) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
 
 - **[Decizia nr. 750/2015](../../../jurisprudenta/ccr/2015/750/)**, Monitorul Oficial nr. 18 din 11 ianuarie 2016 · art. 271^1 alin. (5) · unconstitutional only to the extent stated ("în măsura în care")
 

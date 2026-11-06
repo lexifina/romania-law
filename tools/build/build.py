@@ -330,6 +330,11 @@ NOTE_KINDS = {
     'in-part': 'unconstitutional only to the extent stated ("în măsura în care")',
     'solutie-legislativa': 'a rule read from the text ("soluție legislativă"), not its words',
     'read-together': 'provisions read together with others',
+    # 2026-11-06: every finding not applied to the text is noted (the user's ruling "Note on the act only")
+    'interpretive': 'constitutional only as the Court reads it (an interpretive decision)',
+    'part-of-provision': 'only part of a provision (a point, indent, note or annex, or a narrower finding)',
+    'changed-before-ceasing': 'the provision was amended or repealed before the decision could take effect on it',
+    'not-matched': 'not matched automatically to one provision of this text',
 }
 
 
@@ -361,8 +366,10 @@ def court_notes_section(where: str, notes: list[dict]) -> list[str]:
     rows = ['', '## Constitutional Court findings not applied to this text', '',
             'The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as '
             'struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read '
-            'together with others, or a decision given before the 2003 revision of the Constitution. The text here is '
-            'unchanged; read the decision. `data/court-notes.csv` lists every such finding.']
+            'together with others, a provision amended or repealed before the decision took effect on it, a finding '
+            'not matched automatically to one provision here, or a decision given before the 2003 revision of the '
+            'Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such '
+            'finding.']
     for n in sorted(notes, key=lambda n: (n['mo_date'], n['decision'])):
         y, mth, d = n['mo_date'].split('-')
         head = (f'- **[{n["label"]}]({up}{n["decision_folder"]}/)**, Monitorul Oficial nr. {n["mo_number"]} din '

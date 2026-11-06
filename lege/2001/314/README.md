@@ -27,3 +27,13 @@ Act id: `legea-314-2001` (tags `legea-314-2001/<day>`; `python tools/on.py <day>
 - Legea nr. 314/2001: the web service gives the day 1997-11-28 for this law (its id 29176 is this law and the base page); no text of the law supports it (it has no day of its own, so it is in force on publication, 26 June 2001, Constituția of 1991 art. 78), so the dating is kept.
 - Legea nr. 314/2001: the form of 20 October 2024 prints art. 7 as "Încetare efecte juridice." with no note and no act named (wording changed with no note and no amending act identified): the printed text is kept, dated by that form, and no law is credited.
 - Legea nr. 314/2001: 1 changed article(s) with no note naming a law, committed as the publisher's: 2024-10-20 art-007.
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 338/2024](../../../jurisprudenta/ccr/2024/338/)**, Monitorul Oficial nr. 895 din 5 septembrie 2024 · art. 7 · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că dispozițiile art. 7 din Legea nr. 314/2001 pentru reglementarea situației unor societăți comerciale sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2024-09-05) and ceases to have legal effect 45 days later, on 2024-10-20, unless Parliament or the Government brings it into line with the Constitution in that time. The act changed the provision before 2024-10-20 (brought into line, amended or repealed), so the text here follows the amending act. The text here is unchanged; read the decision.

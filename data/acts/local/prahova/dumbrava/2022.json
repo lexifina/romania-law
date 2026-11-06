@@ -1,0 +1,204 @@
+{
+"country": "RO",
+"shard": "local/prahova/dumbrava/2022",
+"acts": [
+{
+"slug": "hcl-prahova--dumbrava-73-2022",
+"path": "local/prahova/dumbrava/2022/73",
+"kind": "local",
+"year": "2022",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 73/2022 privind stabilirea impozitelor şi taxelor locale pentru anul 2023",
+"short": "HCL Dumbrava nr. 73/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-18",
+"latest": "2022-11-18",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/79159",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-75-2022",
+"path": "local/prahova/dumbrava/2022/75",
+"kind": "local",
+"year": "2022",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 75/2022 privind trecerea unor suprafețe de terenuri în proprietatea publică a statului și administrarea Companiei Naționale de Administrare a Infrastructurii Rutiere SA",
+"short": "HCL Dumbrava nr. 75/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-18",
+"latest": "2022-11-18",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/79161",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-78-2022",
+"path": "local/prahova/dumbrava/2022/78",
+"kind": "local",
+"year": "2022",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 78/2022 privind aprobarea raportului privind activitatea asistenților personali ai persoanelor cu handicap grav în semestrul I 2022",
+"short": "HCL Dumbrava nr. 78/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-18",
+"latest": "2022-11-18",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/79164",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-83-2022",
+"path": "local/prahova/dumbrava/2022/83",
+"kind": "local",
+"year": "2022",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 83/2022 privind ajustarea și modificarea tarifelor de prestare a serviciilor de salubritate la nivelul comunei Dumbrava și acordarea unor mandate speciale",
+"short": "HCL Dumbrava nr. 83/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/82266",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-85-2022",
+"path": "local/prahova/dumbrava/2022/85",
+"kind": "local",
+"year": "2022",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 85/2022 privind rectificarea bugetului local al comunei Dumbrava, modificarea listei de investitii și planului de achiziții pe anul 2022",
+"short": "HCL Dumbrava nr. 85/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/82268",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-86-2022",
+"path": "local/prahova/dumbrava/2022/86",
+"kind": "local",
+"year": "2022",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 86/2022 privind aprobarea organigramei și statului de funcții aparatului de specialitate al primarului",
+"short": "HCL Dumbrava nr. 86/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/82269",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-87-2022",
+"path": "local/prahova/dumbrava/2022/87",
+"kind": "local",
+"year": "2022",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 87/2022 privind rectificarea bugetului local al comunei Dumbrava, modificarea listei de investitii și planului de achiziții pe anul 2022",
+"short": "HCL Dumbrava nr. 87/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-06",
+"latest": "2023-01-06",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/84904",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-88-2022",
+"path": "local/prahova/dumbrava/2022/88",
+"kind": "local",
+"year": "2022",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 88/2022 privind analiza stadiului de înscriere a datelor în registrul agricol pentru anul 2022 și stabilirea măsurilor pentru eficientizarea activității de înscriere a datelor în registrul agricol pentru anul 2023",
+"short": "HCL Dumbrava nr. 88/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-06",
+"latest": "2023-01-06",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/84905",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-92-2022",
+"path": "local/prahova/dumbrava/2022/92",
+"kind": "local",
+"year": "2022",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 92/2022 privind modificarea anexei nr. 1 la Hotărârea Consiliul Local al Comunei Dumbrava nr. 73/2022 privind stabilirea impozitelor şi taxelor locale pentru anul 2023",
+"short": "HCL Dumbrava nr. 92/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-06",
+"latest": "2023-01-06",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/84909",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

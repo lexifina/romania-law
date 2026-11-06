@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/floresti/2024",
+ "acts": [
+  {
+   "slug": "hcl-prahova--floresti-78-2024",
+   "path": "local/prahova/floresti/2024/78",
+   "short": "HCL Florești nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 78/2024 privind stabilirea impozitelor si taxelor locale pentru anul 2025",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/183402",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/183402",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

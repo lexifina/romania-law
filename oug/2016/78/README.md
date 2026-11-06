@@ -45,10 +45,16 @@ Act id: `oug-78-2016` (tags `oug-78-2016/<day>`; `python tools/on.py <day> oug-7
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 384/2020](../../../jurisprudenta/ccr/2020/384/)**, Monitorul Oficial nr. 657 din 24 iulie 2020 · art. 5 alin. (4) · only some words or a sentence inside the provision
 
   > constată că sintagma „în cazul exercitării necorespunzătoare a atribuțiilor specifice funcției“, din cuprinsul dispozițiilor art. 5 alin. (4) din Ordonanța de urgență a Guvernului nr. 78/2016 pentru organizarea și funcționarea Direcției de Investigare a Infracțiunilor de Criminalitate Organizată și Terorism, precum și pentru modificarea și completarea unor acte normative, este neconstituțională.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2020-07-24) and ceases to have legal effect 45 days later, on 2020-09-07, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 49/2026](../../../jurisprudenta/ccr/2026/49/)**, Monitorul Oficial nr. 484 din 11 iunie 2026 · art. 6 alin. (2) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 6 alin. (2) din Ordonanța de urgență a Guvernului nr. 78/2016 pentru organizarea și funcționarea Direcției de Investigare a Infracțiunilor de Criminalitate Organizată și Terorism, precum și pentru modificarea și completarea unor acte normative sunt constituționale în măsura în care retragerea avizului conform al procurorului-șef al Direcției de investigare a Infracțiunilor de Criminalitate Organizată și Terorism se realizează cu aplicarea, în mod corespunzător, a dispozițiilor art. 6 din Legea nr. 364/2004 privind organizarea și funcționarea poliției judiciare.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2026-06-11) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.

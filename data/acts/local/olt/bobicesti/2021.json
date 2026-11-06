@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/olt/bobicesti/2021",
+"acts": [
+{
+"slug": "hcl-olt--bobicesti-53-2021",
+"path": "local/olt/bobicesti/2021/53",
+"kind": "local",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 53/2021 Rectificare bugetului de venituri și cheltuieli pe anul 2021",
+"short": "HCL Bobicești nr. 53/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-27",
+"latest": "2021-12-27",
+"portal": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#11465",
+"council": "olt/bobicesti",
+"council_name": "Consiliul Local al Comunei Bobicești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -23,6 +23,28 @@
 "flags": {
 "text_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-prahova--adunati-57-2020",
+"path": "local/prahova/adunati/2020/57",
+"kind": "local",
+"year": "2020",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adunați nr. 57/2020 PRIVIND STABILIREA IMPOZITELOR ŞI TAXELOR LOCALE PENTRU ANUL FISCAL 2021",
+"short": "HCL Adunați nr. 57/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-30",
+"latest": "2020-12-30",
+"portal": "https://comunaadunati.ro/hotarari-arhiva/",
+"council": "prahova/adunati",
+"council_name": "Consiliul Local al Comunei Adunați",
+"flags": {
+"text_pending": "review"
+}
 }
 ]
 }

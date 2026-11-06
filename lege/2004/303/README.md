@@ -370,10 +370,40 @@ These changes were first published credited to another law. The words are unchan
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 433/2004](../../../jurisprudenta/ccr/2004/433/)**, Monitorul Oficial nr. 1267 din 29 decembrie 2004 · art. 50 alin. (2) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 50 alin. (2) din Legea nr. 303/2004 privind statutul magistraţilor sunt neconstituţionale în măsura în care din conţinutul lor se înţelege că magistratul nu poate ataca în justiţie o hotărâre prin care Consiliul Superior al Magistraturii îi refuză exercitarea unui drept dobândit.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2004-12-29) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 419/2005](../../../jurisprudenta/ccr/2005/419/)**, Monitorul Oficial nr. 653 din 22 iulie 2005 · art. 82; art. 64 · not matched automatically to one provision of this text
+
+  > Constată că dispoziţiile din Legea privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente, declarate neconstituţionale prin Decizia Curţii Constituţionale nr. 375 din 6 iulie 2005, publicată în Monitorul Oficial al României, Partea I, nr. 591 din 8 iulie 2005, au fost puse de acord cu decizia Curţii prin textele adoptate în şedinţa comună a Camerelor Parlamentului din 13 iulie 2005.
+
+  A review other than an exception of unconstitutionality (alta); the decision is generally binding from its publication (2005-07-22) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 436/2014](../../../jurisprudenta/ccr/2014/436/)**, Monitorul Oficial nr. 523 din 14 iulie 2014 · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că sintagma "nu au fost niciodată sancţionaţi disciplinar" este constituţională în măsura în care dispune numai cu privire la abaterile disciplinare săvârşite după intrarea în vigoare a Legii nr. 303/2004.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2014-07-14) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
 
 - **[Decizia nr. 588/2017](../../../jurisprudenta/ccr/2017/588/)**, Monitorul Oficial nr. 835 din 20 octombrie 2017 · art. 58 alin. (1) · a rule read from the text ("soluție legislativă"), not its words
 
   > Admite excepția de neconstituționalitate a dispozițiilor art. 58 alin. (1) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor \[…\] și constată că soluția legislativă care nu precizează condițiile încetării detașării judecătorilor sau procurorilor este neconstituțională.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-10-20) and ceases to have legal effect 45 days later, on 2017-12-04, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 363/2022](../../../jurisprudenta/ccr/2022/363/)**, Monitorul Oficial nr. 731 din 20 iulie 2022 · art. 100 · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 100 din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor sunt constituționale numai în măsura în care sancțiunea disciplinară a excluderii din magistratură nu are efect permanent.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2022-07-20) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 203/2025](../../../jurisprudenta/ccr/2025/203/)**, Monitorul Oficial nr. 611 din 30 iunie 2025 · art. 49 alin. (11) · not matched automatically to one provision of this text
+
+  > constată că trimiterea din cuprinsul dispozițiilor art. 49 alin. (11) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor la art. 48 alin. (10) din același act normativ este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2025-06-30) and ceases to have legal effect 45 days later, on 2025-08-14, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it does not name the provisions as "dispozițiile art. ... din ...". The text here is unchanged; read the decision.

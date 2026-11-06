@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/neamt/tasca/2022",
+"acts": [
+{
+"slug": "hcl-neamt--tasca-48-2022",
+"path": "local/neamt/tasca/2022/48",
+"kind": "local",
+"year": "2022",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 48/2022 privind emiterea acordului pentru ocuparea temporară a unei suprafețe de teren din domeniul public al comunei Tașca în vederea executării lucrărilor de „branșament gaze naturale presiune redusă”",
+"short": "HCL Tașca nr. 48/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-05-26",
+"latest": "2022-05-26",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/71416",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tasca-50-2022",
+"path": "local/neamt/tasca/2022/50",
+"kind": "local",
+"year": "2022",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 50/2022 privind aprobarea Programului informatic de aprovizionare a populației cu produse raționalizate în caz de mobilizare sau război",
+"short": "HCL Tașca nr. 50/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-05-26",
+"latest": "2022-05-26",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/71418",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tasca-57-2022",
+"path": "local/neamt/tasca/2022/57",
+"kind": "local",
+"year": "2022",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 57/2022",
+"short": "HCL Tașca nr. 57/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-06-30",
+"latest": "2022-06-30",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/71437",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tasca-66-2022",
+"path": "local/neamt/tasca/2022/66",
+"kind": "local",
+"year": "2022",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 66/2022 privind aprobarea ”PLANULUI DE ANALIZĂ ȘI ACOPERIRE A RISCURILOR IDENTIFICATE LA NIVELUL COMUNEI TAȘCA”",
+"short": "HCL Tașca nr. 66/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-07-13",
+"latest": "2022-07-13",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/71471",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

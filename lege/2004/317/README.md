@@ -29,7 +29,7 @@ Act id: `legea-317-2004` (tags `legea-317-2004/<day>`; `python tools/on.py <day>
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 397/2014](../../../jurisprudenta/ccr/2014/397/)**, Monitorul Oficial nr. 529 din 16 iulie 2014 · art. 47 alin. (1) lit. b) · only some words or a sentence inside the provision
 
@@ -37,11 +37,29 @@ The Constitutional Court found the provisions below unconstitutional in a way th
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2014-07-16) and ceases to have legal effect 45 days later, on 2014-08-30, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
 
+- **[Decizia nr. 774/2015](../../../jurisprudenta/ccr/2015/774/)**, Monitorul Oficial nr. 8 din 6 ianuarie 2016 · art. 52 alin. (1) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 52 alin. (1) din Legea nr. 317/2004 privind Consiliul Superior al Magistraturii sunt constituţionale numai în măsura în care permit atacarea separată a hotărârii prin care se dispune suspendarea din funcţie a magistratului, până la soluţionarea definitivă a acţiunii disciplinare.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2016-01-06) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 374/2016](../../../jurisprudenta/ccr/2016/374/)**, Monitorul Oficial nr. 504 din 5 iulie 2016 · art. 54 alin. (1) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 54 alin. (1) teza întâi din Legea nr. 317/2004 sunt constituționale în măsura în care persoana aleasă pentru ocuparea unui loc vacant își exercită calitatea de membru al Consiliului Superior al Magistraturii pentru restul de mandat rămas până la expirarea termenului de 6 ani.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2016-07-05) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
 - **[Decizia nr. 381/2018](../../../jurisprudenta/ccr/2018/381/)**, Monitorul Oficial nr. 634 din 20 iulie 2018 · art. 51 alin. (3) · unconstitutional only to the extent stated ("în măsura în care")
 
   > constată că dispozițiile art. 51 alin. (3) din Legea nr. 317/2004 privind Consiliul Superior al Magistraturii sunt constituționale doar în măsura în care se interpretează că „recursul“ prevăzut de acestea este o cale devolutivă de atac împotriva hotărârilor secțiilor Consiliului Superior al Magistraturii, pronunțate în materie disciplinară.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2018-07-20) and ceases to have legal effect 45 days later, on 2018-09-03, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 217/2024](../../../jurisprudenta/ccr/2024/217/)**, Monitorul Oficial nr. 520 din 4 iunie 2024 · art. 67 alin. (3^1) lit. a) · not matched automatically to one provision of this text
+
+  > constată că dispozițiile art. 67 alin. (3^1) lit. a)-c) din Legea nr. 317/2004 privind Consiliul Superior al Magistraturii sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2024-06-04) and ceases to have legal effect 45 days later, on 2024-07-19, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: the provisions it names were not found exactly once in this text. The text here is unchanged; read the decision.
 
 - **[Decizia nr. 315/2026](../../../jurisprudenta/ccr/2026/315/)**, Monitorul Oficial nr. 464 din 2 iunie 2026 · art. 70 alin. (2) · only some words or a sentence inside the provision
 

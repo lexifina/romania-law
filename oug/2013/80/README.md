@@ -74,3 +74,19 @@ Act id: `oug-80-2013` (tags `oug-80-2013/<day>`; `python tools/on.py <day> oug-8
 - OUG nr. 80/2013: the forms 2014-10-19 art-040 and 2017-07-24 art-049 print "administrativ-teritoriale" as "administrativ teritoriale" and "ART. 46" as "Articolul 46", portal typesetting. This is not an amendment: the printed text is kept and no law is credited (as for the other portal typesetting in this record).
 - OUG nr. 80/2013: 6 changed article(s) with no note naming a law, committed as the publisher's: 2014-10-19 art-027, 2014-10-19 art-040, 2014-10-19 art-041, 2017-07-24 art-049, 2017-07-24 art-052, 2017-07-24 art-053.
 - OUG nr. 80/2013: forms with no change after normalisation, so no version: 2015-07-27 (170191), 2025-07-16 (298787).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 387/2015](../../../jurisprudenta/ccr/2015/387/)**, Monitorul Oficial nr. 555 din 27 iulie 2015 · art. 29 alin. (1) lit. i) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 29 alin. (1) lit. i) din Ordonanţa de urgenţă a Guvernului nr. 80/2013 privind taxele judiciare de timbru sunt constituţionale în măsura în care sunt scutite de la plata taxei judiciare de timbru acţiunile şi cererile referitoare la despăgubirile civile pentru prejudiciile materiale şi morale decurgând dintr-o cauză penală în condiţiile în care fapta cauzatoare de prejudiciu, la momentul săvârşirii acesteia, era prevăzută ca infracţiune.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2015-07-27) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 669/2024](../../../jurisprudenta/ccr/2024/669/)**, Monitorul Oficial nr. 669 din 16 iulie 2025 · art. 44 alin. (3) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 44 alin. (3) din Ordonanța de urgență a Guvernului nr. 80/2013 privind taxele judiciare de timbru sunt constituționale în măsura în care instanța judecătorească pronunță hotărârea de acordare a ajutorului public judiciar cu aplicarea principiului disponibilității.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2025-07-16) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.

@@ -51,7 +51,7 @@ Act id: `legea-15-1994` (tags `legea-15-1994/<day>`; `python tools/on.py <day> l
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 101/1995](../../../jurisprudenta/ccr/1995/101/)**, Monitorul Oficial nr. 9 din 17 ianuarie 1996 · art. 34 · decided before the 2003 revision of the Constitution
 

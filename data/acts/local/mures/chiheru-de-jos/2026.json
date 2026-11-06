@@ -1,0 +1,270 @@
+{
+"country": "RO",
+"shard": "local/mures/chiheru-de-jos/2026",
+"acts": [
+{
+"slug": "hcl-mures--chiheru-de-jos-3-2026",
+"path": "local/mures/chiheru-de-jos/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 3/2026 privind aprobarea utilizării excedentului anual rezultat la închiderea exercițiului bugetar 2025",
+"short": "HCL Chiheru de Jos nr. 3/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-10",
+"latest": "2026-06-10",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/273270",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-4-2026",
+"path": "local/mures/chiheru-de-jos/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 4/2026 privind aprobarea indicatorilor tehnico-economici ai obiectului de investiții „RENOVARE INTREGATA ȘCOALA LOCALITATEA URISIU DE SUS, COMUNA CHIHERU DE JOS, JUDEȚUL MUREȘ” inclus la finanțare în Programul național de investiții „Școli sigure și sănătoase”",
+"short": "HCL Chiheru de Jos nr. 4/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-10",
+"latest": "2026-06-10",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/273271",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-6-2026",
+"path": "local/mures/chiheru-de-jos/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 6/2026 privind modificarea HCL nr. 4/12.01.2026 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții „RENOVARE INTEGRATĂ ȘCOALA LOCALITATEA URISIU DE SUS, COMUNA CHIHERU DE JOS, JUDEȚUL MUREȘ”, inclus la finanțare în PROGRAMUL NAȚIONAL DE INVESTIȚII „ȘCOLI SIGURE ȘI SĂNĂTOASE”",
+"short": "HCL Chiheru de Jos nr. 6/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/273286",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-11-2026",
+"path": "local/mures/chiheru-de-jos/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 11/2026 privind însușirea documentației tehnice cadastrale de înscriere în evidențele de cadastru și carte funciară a unor imobile-terenuri cu destinația-drumuri de exploatare situate în extravilanul comunei Chiheru de Jos și înscrierea lor în proprietatea comunei Chiheru de Jos, domeniul public",
+"short": "HCL Chiheru de Jos nr. 11/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-02",
+"latest": "2026-07-02",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/277356",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-12-2026",
+"path": "local/mures/chiheru-de-jos/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 12/2026 privind avizarea încheierii unui act adițional la contractul de delegare a gestiunii activităților de sortare a deșeurilor reciclabile, compostare a biodeșeurilor și transfer a deșeurilor prin exploatarea SSCT Cristești, STZ 5-Târnăveni, STZ 6-Bălăușeri și STZ 7-Râciu din județul Mureș din județul Mureș",
+"short": "HCL Chiheru de Jos nr. 12/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-02",
+"latest": "2026-07-02",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/277360",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-13-2026",
+"path": "local/mures/chiheru-de-jos/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 13/2026 privind aprobarea contului de execuție al bugetului de venituri și cheltuieli al UAT Chiheru de Jos pentru trimestrul IV anul 2025",
+"short": "HCL Chiheru de Jos nr. 13/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-02",
+"latest": "2026-07-02",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/277362",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-15-2026",
+"path": "local/mures/chiheru-de-jos/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 15/2026 privind aprobarea noilor tarifelor pentru apa potabilă distribuită în comuna Chiheru de Jos, județul Mureș, începând cu data de 1 aprilie 2026",
+"short": "HCL Chiheru de Jos nr. 15/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-02",
+"latest": "2026-07-02",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/277368",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-16-2026",
+"path": "local/mures/chiheru-de-jos/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 16/2026 privind aprobarea actualizării PLANULUI DE ANALIZĂ ȘI ACOPERIRE A RISCURILOR -2026",
+"short": "HCL Chiheru de Jos nr. 16/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-02",
+"latest": "2026-07-02",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/277369",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-18-2026",
+"path": "local/mures/chiheru-de-jos/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 18/2026 privind aprobarea demarării procedurii de actualizare a amenajamentului pastoral al comunei Chiheru de Jos. județul Mureș",
+"short": "HCL Chiheru de Jos nr. 18/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-02",
+"latest": "2026-07-02",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/277390",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-19-2026",
+"path": "local/mures/chiheru-de-jos/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 19/2026 privind interzicerea desfășurării activităților de jocuri de noroc pe raza comunei Chiheru de Jos, județul Mureș",
+"short": "HCL Chiheru de Jos nr. 19/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-02",
+"latest": "2026-07-02",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/277391",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-21-2026",
+"path": "local/mures/chiheru-de-jos/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 21/2026 privind aprobarea Calendarului manifestărilor cultural-artistice, sportive, sociale și educative care se vor desfășura în comuna Chiheru de Jos, anul 2026",
+"short": "HCL Chiheru de Jos nr. 21/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-02",
+"latest": "2026-07-02",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/277397",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-22-2026",
+"path": "local/mures/chiheru-de-jos/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 22/2026 privind aprobarea bugetului local al comunei Chiheru de Jos pe anul 2026",
+"short": "HCL Chiheru de Jos nr. 22/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-02",
+"latest": "2026-07-02",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/277398",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

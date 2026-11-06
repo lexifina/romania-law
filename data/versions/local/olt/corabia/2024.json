@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--corabia-41-2024",
+   "path": "local/olt/corabia/2024/41",
+   "short": "HCL Corabia nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 41/2024 privind indexarea și stabilirea impozitelor și taxelor locale pentru anul 2025",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/154876",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/154876",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--corabia-98-2024",
    "path": "local/olt/corabia/2024/98",
    "short": "HCL Corabia nr. 98/2024",

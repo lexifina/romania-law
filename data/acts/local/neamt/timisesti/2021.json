@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/neamt/timisesti/2021",
+"acts": [
+{
+"slug": "hcl-neamt--timisesti-62-2021",
+"path": "local/neamt/timisesti/2021/62",
+"kind": "local",
+"year": "2021",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 62/2021 privind aprobarea Regulamentului pentru înregistrarea, evidența și radierea vehiculelor pentru care există obligativitatea înregistrării, de pe raza administrativ-teritorială Comuna Timișești",
+"short": "HCL Timișești nr. 62/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/39178",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

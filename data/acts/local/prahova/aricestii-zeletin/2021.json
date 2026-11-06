@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/prahova/aricestii-zeletin/2021",
+"acts": [
+{
+"slug": "hcl-prahova--aricestii-zeletin-46-2021",
+"path": "local/prahova/aricestii-zeletin/2021/46",
+"kind": "local",
+"year": "2021",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariceștii Zeletin nr. 46/2021 APROBA ORGANIGRAMA SVSU",
+"short": "HCL Ariceștii Zeletin nr. 46/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-09-16",
+"latest": "2021-09-16",
+"portal": "https://aricestiizeletin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19382#3997",
+"council": "prahova/aricestii-zeletin",
+"council_name": "Consiliul Local al Comunei Ariceștii Zeletin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--aricestii-zeletin-47-2021",
+"path": "local/prahova/aricestii-zeletin/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariceștii Zeletin nr. 47/2021 APROBA RECTIFICAREA BUGETULUI LOCAL",
+"short": "HCL Ariceștii Zeletin nr. 47/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-09-16",
+"latest": "2021-09-16",
+"portal": "https://aricestiizeletin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19382#4016",
+"council": "prahova/aricestii-zeletin",
+"council_name": "Consiliul Local al Comunei Ariceștii Zeletin",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

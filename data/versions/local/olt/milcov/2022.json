@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/olt/milcov/2022",
+ "acts": [
+  {
+   "slug": "hcl-olt--milcov-46-2022",
+   "path": "local/olt/milcov/2022/46",
+   "short": "HCL Milcov nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 46/2022 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, la nivelul comunei Milcov, județul Olt pentru anul 2023",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/83363",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/83363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-47-2022",
+   "path": "local/olt/milcov/2022/47",
+   "short": "HCL Milcov nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 47/2022 privind aprobarea inventarului terenurilor disponibile, la nivelul anului 2023, aparținând domeniului privat al comunei Milcov, care pot fi atribuite în baza Legii nr.15/2003, privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/83364",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/83364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-49-2022",
+   "path": "local/olt/milcov/2022/49",
+   "short": "HCL Milcov nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 49/2022 privind actualizarea și completarea programului anual al achizițiilor publice inițial al comunei Milcov, pe anul 2022",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/83366",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/83366",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

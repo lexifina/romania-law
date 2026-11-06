@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/neamt/savinesti/2021",
+"acts": [
+{
+"slug": "hcl-neamt--savinesti-35-2021",
+"path": "local/neamt/savinesti/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 35/2021 Aprobarea rectificarii numarul 2 a bugetului local de venituri si cheltuieli pe anul 2021",
+"short": "HCL Săvinești nr. 35/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-07-23",
+"latest": "2021-07-23",
+"portal": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#8952",
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

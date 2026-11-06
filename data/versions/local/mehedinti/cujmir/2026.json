@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/cujmir/2026",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--cujmir-21-2026",
+   "path": "local/mehedinti/cujmir/2026/21",
+   "short": "HCL Cujmir nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 21/2026 privind aprobarea Regulamentului privind autorizarea, amplasarea și funcționarea activităților de jocuri de noroc pe raza comunei Cujmir",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/279418",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/279418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--cujmir-23-2026",
+   "path": "local/mehedinti/cujmir/2026/23",
+   "short": "HCL Cujmir nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 23/2026 privind înregistrarea Comunei Cujmir, județul Mehedinți, în Sistemul Național Electronic de Plată (SNEP) on – line a impozitelor și taxelor locale („Ghișeul.ro”) utilizând cardul bancar, instalarea unui terminal de plată (POS) precum și stabilirea modului în care este suportat comisionul bancar",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/283165",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/283165",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

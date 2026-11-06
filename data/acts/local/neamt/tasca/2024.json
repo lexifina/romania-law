@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/neamt/tasca/2024",
+"acts": [
+{
+"slug": "hcl-neamt--tasca-134-2024",
+"path": "local/neamt/tasca/2024/134",
+"kind": "local",
+"year": "2024",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 134/2024 privind stabilirea valorilor impozabile, impozitelor și taxelor locale, alte taxe asimilate acestora, a taxelor speciale precum și amenzile aplicabile în anul 2025",
+"short": "HCL Tașca nr. 134/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-03",
+"latest": "2025-10-03",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/228625",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tasca-137-2024",
+"path": "local/neamt/tasca/2024/137",
+"kind": "local",
+"year": "2024",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 137/2024 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții „MODERNIZARE STRADA IZVORULUI ȘI STRADA IASOMIEI, SAT NEAGRA, COMUNA TAȘCA, JUDEȚUL NEAMȚ” finanțat din bugetul local",
+"short": "HCL Tașca nr. 137/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/228639",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tasca-142-2024",
+"path": "local/neamt/tasca/2024/142",
+"kind": "local",
+"year": "2024",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 142/2024 privind modificarea și completarea HCL Tașca nr. 123/30.09.2024 privind depunerea spre finanțare și aprobarea indicatorilor tehnico-economici a proiectului „PROMOVAREA TRADIȚIILOR CULTURALE ÎN COMUNA TAȘCA, JUDEȚUL NEAMȚ, MICROREGIUNEA GAL CEAHLĂU”",
+"short": "HCL Tașca nr. 142/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/228666",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tasca-143-2024",
+"path": "local/neamt/tasca/2024/143",
+"kind": "local",
+"year": "2024",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 143/2024 privind aprobarea alocării din bugetul local a unei sume pentru organizarea evenimentului „Crăciun de poveste” în anul 2024",
+"short": "HCL Tașca nr. 143/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/228667",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

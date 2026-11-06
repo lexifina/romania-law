@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/corlatel/2021",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--corlatel-23-2021",
+   "path": "local/mehedinti/corlatel/2021/23",
+   "short": "HCL Corlățel nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 23/2021 privind aprobarea Regulamentului de Organizare și Funcționare al aparatului de specialitate al Primarului comunei Corlățel",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/43113",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/43113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-24-2021",
+   "path": "local/mehedinti/corlatel/2021/24",
+   "short": "HCL Corlățel nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 24/2021 privind stabilirea impozitelor si taxelor locale pentru anul 2022",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/43114",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/43114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-25-2021",
+   "path": "local/mehedinti/corlatel/2021/25",
+   "short": "HCL Corlățel nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 25/2021 privind alocarea unei sume de 5.000 RON din bugetul consiliului local al comunei Corlățel pentru cadourile de sărbătorile de iarnă ale anului 2021 la preşcolari și şcolarii Școlii Profesionale Corlățel",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/43115",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/43115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-26-2021",
+   "path": "local/mehedinti/corlatel/2021/26",
+   "short": "HCL Corlățel nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 26/2021 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local al comunei Corlățel",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/44151",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/44151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-27-2021",
+   "path": "local/mehedinti/corlatel/2021/27",
+   "short": "HCL Corlățel nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 27/2021 privind aprobarea planului de acțiuni sau de lucrări de interes local pentru anul 2022",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/44152",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/44152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-28-2021",
+   "path": "local/mehedinti/corlatel/2021/28",
+   "short": "HCL Corlățel nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 28/2021 privind aprobarea rectificării bugetului de venituri si cheltuieli al comunei Corlățel pe anul 2021",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/44153",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/44153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-29-2021",
+   "path": "local/mehedinti/corlatel/2021/29",
+   "short": "HCL Corlățel nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 29/2021 privind aprobarea rectificării bugetului de venituri si cheltuieli al comunei Corlățel pe anul 2021",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/45262",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/45262",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

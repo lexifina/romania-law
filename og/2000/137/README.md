@@ -54,7 +54,7 @@ Act id: `og-137-2000` (tags `og-137-2000/<day>`; `python tools/on.py <day> og-13
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 818/2008](../../../jurisprudenta/ccr/2008/818/)**, Monitorul Oficial nr. 537 din 16 iulie 2008 · art. 1; art. 2 alin. (3); art. 27 alin. (1) · unconstitutional only to the extent stated ("în măsura în care")
 
@@ -85,3 +85,9 @@ The Constitutional Court found the provisions below unconstitutional in a way th
   > constată că dispoziţiile art. 20 alin. (3) din Ordonanţa Guvernului nr. 137/2000 privind prevenirea şi sancţionarea tuturor formelor de discriminare sunt neconstituţionale, în măsura în care sunt interpretate în sensul că acordă Consiliului Naţional pentru Combaterea Discriminării competenţa ca, în cadrul activităţii sale jurisdicţionale, să anuleze ori să refuze aplicarea unor acte normative cu putere de lege, considerând că sunt discriminatorii, şi să le înlocuiască cu norme create pe cale judiciară sau cu prevederi cuprinse în alte acte normative.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2008-11-18) and ceases to have legal effect 45 days later, on 2009-01-02, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 1325/2008](../../../jurisprudenta/ccr/2008/1325/)**, Monitorul Oficial nr. 872 din 23 decembrie 2008 · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile Ordonanţei Guvernului nr. 137/2000 privind prevenirea şi sancţionarea tuturor formelor de discriminare sunt neconstituţionale în măsura în care din acestea se desprinde înţelesul că instanţele judecătoreşti au competenţa să anuleze ori să refuze aplicarea unor acte normative cu putere de lege, considerând că sunt discriminatorii, şi să le înlocuiască cu norme create pe cale judiciară sau cu prevederi cuprinse în alte acte normative.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2008-12-23) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.

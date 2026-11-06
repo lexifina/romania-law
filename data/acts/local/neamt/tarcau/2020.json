@@ -1,0 +1,249 @@
+{
+"country": "RO",
+"shard": "local/neamt/tarcau/2020",
+"acts": [
+{
+"slug": "hcl-neamt--tarcau-91-2020",
+"path": "local/neamt/tarcau/2020/91",
+"kind": "local",
+"year": "2020",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 91/2020 privind rectificarea bugetului local al comunei Tarcău pentru anul 2020",
+"short": "HCL Tarcău nr. 91/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26615",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-94-2020",
+"path": "local/neamt/tarcau/2020/94",
+"kind": "local",
+"year": "2020",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 94/2020 privind îndreptarea unor erori materiale în delimitarea intravilanului şi extravilanului comunei Tarcău",
+"short": "HCL Tarcău nr. 94/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26618",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-95-2020",
+"path": "local/neamt/tarcau/2020/95",
+"kind": "local",
+"year": "2020",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 95/2020",
+"short": "HCL Tarcău nr. 95/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26619",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-96-2020",
+"path": "local/neamt/tarcau/2020/96",
+"kind": "local",
+"year": "2020",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 96/2020 privind înregistrarea Comunei Tarcău în Sistemul Naţional Electronic de Plăţi online a taxelor şi impozitelor, utilizând cardul bancar",
+"short": "HCL Tarcău nr. 96/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26620",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-98-2020",
+"path": "local/neamt/tarcau/2020/98",
+"kind": "local",
+"year": "2020",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 98/2020 privind utilizarea, în cursul anului bugetar 2020, a excedentului bugetului local din cadrul secţiunii de dezvoltare din anii anteriori",
+"short": "HCL Tarcău nr. 98/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26632",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-99-2020",
+"path": "local/neamt/tarcau/2020/99",
+"kind": "local",
+"year": "2020",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 99/2020 privind punerea în aplicare a HCL nr. 87/18 noiembrie 2020 privind stabilirea impozitelor şi taxelor locale, precum şi a taxelor speciale, pentru anul 2021",
+"short": "HCL Tarcău nr. 99/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26633",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-100-2020",
+"path": "local/neamt/tarcau/2020/100",
+"kind": "local",
+"year": "2020",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 100/2020 privind stabilirea normativului de cheltuieli privind consumul lunar de carburanți pentru autovehicolele/autospecialele și utilajele primăriei Comunei Tarcău",
+"short": "HCL Tarcău nr. 100/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26634",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-101-2020",
+"path": "local/neamt/tarcau/2020/101",
+"kind": "local",
+"year": "2020",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 101/2020 privind rectificarea bugetului local al comunei Tarcău pentru anul 2020",
+"short": "HCL Tarcău nr. 101/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26635",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-105-2020",
+"path": "local/neamt/tarcau/2020/105",
+"kind": "local",
+"year": "2020",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 105/2020 privind completarea inventarului terenurilor din domeniul public al comunei Tarcău, cu un teren în suprafaţă de 545 mp, situat în satul Cazaci – punctul Lunca Lăcătuşului, teren aferent amplasamentului piciorului mal stâng al punţii pietonale",
+"short": "HCL Tarcău nr. 105/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26639",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-106-2020",
+"path": "local/neamt/tarcau/2020/106",
+"kind": "local",
+"year": "2020",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 106/2020 privind trecerea din domeniul privat al comunei Tarcău în domeniul public al comunei Tarcău, a unui teren în suprafaţă de 440 mp, situat în satul Cazaci – punctul Lunca Lăcătuşului, teren aferent amplasamentului piciorului mal drept al punţii pietonale",
+"short": "HCL Tarcău nr. 106/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26640",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-107-2020",
+"path": "local/neamt/tarcau/2020/107",
+"kind": "local",
+"year": "2020",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 107/2020 privind completarea inventarului terenurilor din domeniul public al comunei Tarcău, cu un teren în suprafaţă de 250 mp, situat în satul Brateş – punctul Gura Bobeicii, în vederea amenajării unei parcări publice",
+"short": "HCL Tarcău nr. 107/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26641",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

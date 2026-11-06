@@ -61,3 +61,13 @@ Act id: `legea-16-2007` (tags `legea-16-2007/<day>`; `python tools/on.py <day> l
 - Legea nr. 16/2007: the first version is the law as published in Monitorul Oficial nr. 43 of 19 January 2007 (DetaliiDocumentAfis/78722), dated 20 March 2007: its art. 46 alin. (1) puts it in force 60 days after publication. The portal lists no consolidated form of it, so the text as published is its only version.
 - Legea nr. 16/2007: the signature block after the last article (the signatories, the place, the date and the number) is not part of an article and is left out, as in every act of this record.
 - Legea nr. 16/2007: the web service gives the in-force day 2007-01-22 for this law (its id 78722); that is 3 days after its publication on 19 January 2007; its art. 46 alin. (1) puts it in force 60 days after publication, which the record reads as 20 March 2007, publication plus 60 days. The dating by the law's own text is kept, as for Legea nr. 314/2001.
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 1150/2008](../../../jurisprudenta/ccr/2008/1150/)**, Monitorul Oficial nr. 832 din 10 decembrie 2008 · not matched automatically to one provision of this text
+
+  > constată că Legea nr. 16/2007 privind organizarea şi exercitarea profesiei de geodez, publicată în Monitorul Oficial al României, Partea I, nr. 43 din 19 ianuarie 2007, este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2008-12-10) and ceases to have legal effect 45 days later, on 2009-01-24, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it does not name the provisions as "dispozițiile art. ... din ...". The text here is unchanged; read the decision.

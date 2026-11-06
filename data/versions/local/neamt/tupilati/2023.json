@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/tupilati/2023",
+ "acts": [
+  {
+   "slug": "hcl-neamt--tupilati-49-2023",
+   "path": "local/neamt/tupilati/2023/49",
+   "short": "HCL Tupilați nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 49/2023 privind aprobarea Protocolului de colaborare - proiect ”HUB DE SERVICII MMSS – SII MMSS”, Cod MySmis 130963",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159245",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-52-2023",
+   "path": "local/neamt/tupilati/2023/52",
+   "short": "HCL Tupilați nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 52/2023 privind modificarea HCL Tupilați nr. 42/2023 privind însușirea și aprobarea indicatorilor tehnico - economici și a Studiul de Fezabilitate pentru obiectivul de investiții: „ÎNFIINȚARE REȚEA DE APĂ ȘI CANALIZARE ÎN COMUNA TUPILAȚI, JUDEŢUL NEAMȚ”",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159252",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-55-2023",
+   "path": "local/neamt/tupilati/2023/55",
+   "short": "HCL Tupilați nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 55/2023 privind reorganizarea aparatului de specialitate al primarului comunei Tupilați, aprobarea organigramei si statului de funcții",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159255",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-57-2023",
+   "path": "local/neamt/tupilati/2023/57",
+   "short": "HCL Tupilați nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 57/2023 privind implementarea proiectului „Modernizarea drumurilor de interes agricol din comuna Tupilați, județul Neamț”",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159257",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-59-2023",
+   "path": "local/neamt/tupilati/2023/59",
+   "short": "HCL Tupilați nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 59/2023 privind stabilirea impozitelor și taxelor locale pentru anul 2024",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159259",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159259",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

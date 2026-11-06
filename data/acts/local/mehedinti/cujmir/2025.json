@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/cujmir/2025",
+"acts": [
+{
+"slug": "hcl-mehedinti--cujmir-37-2025",
+"path": "local/mehedinti/cujmir/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 37/2025 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 2026-2027",
+"short": "HCL Cujmir nr. 37/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-23",
+"latest": "2026-10-23",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/245321",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-38-2025",
+"path": "local/mehedinti/cujmir/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 38/2025 privind stabilirea nivelurilor impozitelor și taxelor locale pentru anul 2026",
+"short": "HCL Cujmir nr. 38/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-23",
+"latest": "2026-10-23",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/245322",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

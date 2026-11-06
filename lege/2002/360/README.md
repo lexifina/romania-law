@@ -508,13 +508,37 @@ These changes were first published credited to another law. The words are unchan
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 392/2014](../../../jurisprudenta/ccr/2014/392/)**, Monitorul Oficial nr. 667 din 11 septembrie 2014 · art. 59 alin. (2); art. 60 alin. (1); art. 62 alin. (3) · not matched automatically to one provision of this text
+
+  > constată că prevederile art. 59 alin. (2), art. 60 alin. (1) şi ale art. 62 alin. (3) din Legea nr. 360/2002 privind Statutul poliţistului sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2014-09-11) and ceases to have legal effect 45 days later, on 2014-10-26, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: the provisions it names were not found exactly once in this text. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 244/2016](../../../jurisprudenta/ccr/2016/244/)**, Monitorul Oficial nr. 469 din 23 iunie 2016 · art. 78 alin. (1) · not matched automatically to one provision of this text
+
+  > constată că dispoziţiile art. 78 alin. (1) din Legea nr. 360/2002 privind Statutul poliţistului sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2016-06-23) and ceases to have legal effect 45 days later, on 2016-08-07, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: the provisions it names were not found exactly once in this text. The text here is unchanged; read the decision.
 
 - **[Decizia nr. 258/2017](../../../jurisprudenta/ccr/2017/258/)**, Monitorul Oficial nr. 574 din 18 iulie 2017 · art. 22 alin. (8) · only some words or a sentence inside the provision
 
   > constată că sintagma „precum și în situații temeinic justificate, menționate în actele administrative emise în acest scop“, cuprinsă în art. 22 alin. (8) teza întâi din Legea nr. 360/2002 privind Statutul polițistului, în redactarea anterioară intrării în vigoare a Ordonanței de urgență a Guvernului nr. 21/2016 pentru modificarea și completarea Legii nr. 360/2002 privind Statutul polițistului, este neconstituțională.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-07-18) and ceases to have legal effect 45 days later, on 2017-09-01, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 653/2017](../../../jurisprudenta/ccr/2017/653/)**, Monitorul Oficial nr. 1002 din 18 decembrie 2017 · art. 59 alin. (7) · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că dispozițiile art. 59 alin. (7) din Legea nr. 360/2002, în redactarea anterioară intrării în vigoare a Legii nr. 81/2015 pentru modificarea și completarea Legii nr. 360/2002 privind Statutul polițistului, precum și pentru modificarea art. 7 alin. (2) din Legea nr. 364/2004 privind organizarea și funcționarea poliției judiciare sunt neconstituționale.
+
+  The Court judged an earlier or a specific wording of the provision (decided 2017-10-17, published 2017-12-18); the text here follows the acts that amended it. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 833/2020](../../../jurisprudenta/ccr/2020/833/)**, Monitorul Oficial nr. 114 din 3 februarie 2021 · art. 58^1 · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că dispozițiile art. 58^1 din Legea nr. 360/2002 privind Statutul polițistului sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2021-02-03) and ceases to have legal effect 45 days later, on 2021-03-20, unless Parliament or the Government brings it into line with the Constitution in that time. The act changed the provision before 2021-03-20 (brought into line, amended or repealed), so the text here follows the amending act. The text here is unchanged; read the decision.
 
 - **[Decizia nr. 298/2021](../../../jurisprudenta/ccr/2021/298/)**, Monitorul Oficial nr. 669 din 7 iulie 2021 · art. 21 alin. (5) · a rule read from the text ("soluție legislativă"), not its words
 

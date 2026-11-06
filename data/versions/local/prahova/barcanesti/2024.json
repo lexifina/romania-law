@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/barcanesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-prahova--barcanesti-72-2024",
+   "path": "local/prahova/barcanesti/2024/72",
+   "short": "HCL Bărcănești nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 72/2024 privind aprobarea Metodologiei de autorizare a agenților economici care își desfășoară activitatea pe raza comunei Bărcănești , județul Prahova potrivit clasificării CAEN clasa 561 – Restaurante, clasa 563 – Baruri și alte activități de servire a băuturilor, clasa 932 – Alte activități recreative și distractive, precum și aprobarea programului de funcționare a agenților economici",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/181970",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/181970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-81-2024",
+   "path": "local/prahova/barcanesti/2024/81",
+   "short": "HCL Bărcănești nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 81/2024 privind aprobarea rectificării bugetului local al comunei Bărcănești, a bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii, pe anul 2024",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/181979",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/181979",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

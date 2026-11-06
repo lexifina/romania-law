@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/sisesti/2023",
+"acts": [
+{
+"slug": "hcl-mehedinti--sisesti-1-2023",
+"path": "local/mehedinti/sisesti/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 1/2023 privind adoptare buget",
+"short": "HCL Șișești nr. 1/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-03",
+"latest": "2023-05-03",
+"portal": "https://emol.ro/sisesti-mh/registru-hcl/103095",
+"council": "mehedinti/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

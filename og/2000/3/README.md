@@ -49,7 +49,7 @@ Act id: `og-3-2000` (tags `og-3-2000/<day>`; `python tools/on.py <day> og-3-2000
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 333/2002](../../../jurisprudenta/ccr/2002/333/)**, Monitorul Oficial nr. 95 din 17 februarie 2003 · art. 13; art. 14; art. 15; art. 16; art. 17; art. 18; art. 19; art. 20; art. 21; art. 22; art. 23; art. 24; art. 25; art. 26; art. 27; art. 28; art. 29; art. 30; art. 31; art. 32 · decided before the 2003 revision of the Constitution
 

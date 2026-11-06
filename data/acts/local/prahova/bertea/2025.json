@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/prahova/bertea/2025",
+"acts": [
+{
+"slug": "hcl-prahova--bertea-41-2025",
+"path": "local/prahova/bertea/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 41/2025 privind modificarea si completarea cap.VIII punctele : 4,5,6,7 din anexa aprobata prin HCL nr.44/19.12.2024",
+"short": "HCL Bertea nr. 41/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/234878",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--bertea-45-2025",
+"path": "local/prahova/bertea/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 45/2025 privind aprobarea executiei bugetului local pe trim.III",
+"short": "HCL Bertea nr. 45/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/235067",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--bertea-46-2025",
+"path": "local/prahova/bertea/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 46/2025 privind aprobarea bugetului local rectificat pentru anul 2025",
+"short": "HCL Bertea nr. 46/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/235068",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

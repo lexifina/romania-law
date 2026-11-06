@@ -26,7 +26,7 @@ Act id: `legea-85-2006` (tags `legea-85-2006/<day>`; `python tools/on.py <day> l
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 1137/2007](../../../jurisprudenta/ccr/2007/1137/)**, Monitorul Oficial nr. 31 din 15 ianuarie 2008 · art. 7 · unconstitutional only to the extent stated ("în măsura în care")
 
@@ -39,3 +39,9 @@ The Constitutional Court found the provisions below unconstitutional in a way th
   > constată că prevederile art. 86 alin. (6) teza întâi din Legea nr. 85/2006 privind procedura insolvenţei sunt neconstituţionale.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-04-28) and ceases to have legal effect 45 days later, on 2015-06-12, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 308/2016](../../../jurisprudenta/ccr/2016/308/)**, Monitorul Oficial nr. 585 din 2 august 2016 · art. 21 alin. (3) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluţia legislativă prevăzută la art. 21 alin. (3), care stabileşte că termenul de 3 zile pentru înregistrarea contestaţiei curge de la data depunerii raportului prevăzut la alin. (1), este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2016-08-02) and ceases to have legal effect 45 days later, on 2016-09-16, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

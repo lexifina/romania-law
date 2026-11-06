@@ -1909,7 +1909,19 @@ These changes were first published credited to another law. The words are unchan
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 462/2014](../../../jurisprudenta/ccr/2014/462/)**, Monitorul Oficial nr. 775 din 24 octombrie 2014 · not matched automatically to one provision of this text
+
+  > constată că dispoziţiile din Codul de procedură civilă cuprinse în art. 13 alin. (2) teza a doua, art. 83 alin. (3), precum şi în art. 486 alin. (3) cu referire la menţiunile care decurg din obligativitatea formulării şi susţinerii cererii de recurs prin avocat sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2014-10-24) and ceases to have legal effect 45 days later, on 2014-12-08, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it does not name the provisions as "dispozițiile art. ... din ...". The text here is unchanged; read the decision.
+
+- **[Decizia nr. 558/2014](../../../jurisprudenta/ccr/2014/558/)**, Monitorul Oficial nr. 897 din 10 decembrie 2014 · art. 142 alin. (1); art. 145 alin. (1) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 142 alin. (1) teza întâi şi ale art. 145 alin. (1) teza întâi din Codul de procedură civilă sunt constituţionale în măsura în care motivul de bănuială legitimă nu se raportează la calitatea de judecător la curtea de apel a uneia dintre părţi.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2014-12-10) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
 
 - **[Decizia nr. 485/2015](../../../jurisprudenta/ccr/2015/485/)**, Monitorul Oficial nr. 539 din 20 iulie 2015 · art. 13 alin. (2); art. 84 alin. (2); art. 486 alin. (3) · provisions read together with others
 
@@ -1923,11 +1935,29 @@ The Constitutional Court found the provisions below unconstitutional in a way th
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2016-02-01) and ceases to have legal effect 45 days later, on 2016-03-17, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
 
+- **[Decizia nr. 895/2015](../../../jurisprudenta/ccr/2015/895/)**, Monitorul Oficial nr. 84 din 4 februarie 2016 · art. 666 · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că dispoziţiile art. 666 din Codul de procedură civilă sunt neconstituţionale.
+
+  The Court judged an earlier or a specific wording of the provision (decided 2015-12-17, published 2016-02-04); the text here follows the acts that amended it. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 169/2016](../../../jurisprudenta/ccr/2016/169/)**, Monitorul Oficial nr. 353 din 9 mai 2016 · art. 142 alin. (1); art. 145 alin. (1) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 142 alin. (1) teza întâi şi ale art. 145 alin. (1) teza întâi din Codul de procedură civilă sunt constituţionale în măsura în care motivul de bănuială legitimă nu se raportează la calitatea de parte a curţii de apel în raza căreia funcţionează instanţa învestită cu judecarea litigiului.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2016-05-09) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
 - **[Decizia nr. 290/2018](../../../jurisprudenta/ccr/2018/290/)**, Monitorul Oficial nr. 638 din 23 iulie 2018 · art. 127 alin. (1); art. 127 alin. (2) · only some words or a sentence inside the provision
 
   > constată că sintagma „de competența instanței la care își desfășoară activitatea“ din cuprinsul art. 127 alin. (1) din Codul de procedură civilă, precum și sintagma „care își desfășoară activitatea la instanța competentă să judece cauza“ din cuprinsul art. 127 alin. (2) din Codul de procedură civilă sunt neconstituționale.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2018-07-23) and ceases to have legal effect 45 days later, on 2018-09-06, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 874/2018](../../../jurisprudenta/ccr/2018/874/)**, Monitorul Oficial nr. 2 din 3 ianuarie 2019 · art. 27 · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 27 din Codul de procedură civilă, în interpretarea dată prin Decizia nr. 52 din 18 iunie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, sunt neconstituționale.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2019-01-03) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
 
 - **[Decizia nr. 832/2021](../../../jurisprudenta/ccr/2021/832/)**, Monitorul Oficial nr. 430 din 3 mai 2022 · art. 323 alin. (1) · only some words or a sentence inside the provision
 
@@ -1940,3 +1970,9 @@ The Constitutional Court found the provisions below unconstitutional in a way th
   > constată că sintagma „literal“ din cuprinsul art. 321 alin. (7) din Codul de procedură civilă, astfel cum acesta a fost modificat prin art. I pct. 33 din Legea nr. 310/2018 pentru modificarea și completarea Legii nr. 134/2010 privind Codul de procedură civilă, precum și pentru modificarea și completarea altor acte normative, este neconstituțională.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2022-07-06) and ceases to have legal effect 45 days later, on 2022-08-20, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 479/2024](../../../jurisprudenta/ccr/2024/479/)**, Monitorul Oficial nr. 122 din 11 februarie 2025 · art. 493 alin. (5); art. 509 alin. (1) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că sintagma „care nu este supusă niciunei căi de atac“ din cuprinsul dispozițiilor art. 493 alin. (5) din Codul de procedură civilă este constituțională în măsura în care nu exclude exercitarea căii de atac a revizuirii întemeiate pe dispozițiile art. 509 alin. (1) pct. 11 din Codul de procedură civilă.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2025-02-11) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.

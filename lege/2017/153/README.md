@@ -67,10 +67,22 @@ Act id: `legea-153-2017` (tags `legea-153-2017/<day>`; `python tools/on.py <day>
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 413/2021](../../../jurisprudenta/ccr/2021/413/)**, Monitorul Oficial nr. 687 din 12 iulie 2021 · only some words or a sentence inside the provision
 
   > constată că sintagma „alte instituții de spectacole sau concerte“ cuprinsă la pct. I din capitolul I din anexa nr. III la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice este neconstituțională.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2021-07-12) and ceases to have legal effect 45 days later, on 2021-08-26, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 294/2022](../../../jurisprudenta/ccr/2022/294/)**, Monitorul Oficial nr. 616 din 23 iunie 2022 · only part of a provision (a point, indent, note or annex, or a narrower finding)
+
+  > constată că dispozițiile art. 14 alin. (5) din anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2022-06-23) and ceases to have legal effect 45 days later, on 2022-08-07, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 836/2026](../../../jurisprudenta/ccr/2026/836/)**, Monitorul Oficial nr. 830 din 30 septembrie 2026 · art. 11 alin. (4) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 11 alin. (4) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice sunt neconstituționale în măsura în care sintagma „nivelul veniturilor salariale“ cuprinsă în acestea se referă și la sporul pentru persoanele cu handicap, prevăzut de art. 22 din Legea-cadru nr. 153/2017.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2026-09-30) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.

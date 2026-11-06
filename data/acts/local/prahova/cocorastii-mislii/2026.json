@@ -1,0 +1,139 @@
+{
+"country": "RO",
+"shard": "local/prahova/cocorastii-mislii/2026",
+"acts": [
+{
+"slug": "hcl-prahova--cocorastii-mislii-82-2026",
+"path": "local/prahova/cocorastii-mislii/2026/82",
+"kind": "local",
+"year": "2026",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Mislii nr. 82/2026 privind rectificarea bugetului local al comunei Cocorăștii Mislii, pentru anul 2026",
+"short": "HCL Cocorăștii Mislii nr. 82/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/cocorastiimislii-ph/registru-hcl/287334",
+"council": "prahova/cocorastii-mislii",
+"council_name": "Consiliul Local al Comunei Cocorăștii Mislii",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--cocorastii-mislii-83-2026",
+"path": "local/prahova/cocorastii-mislii/2026/83",
+"kind": "local",
+"year": "2026",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Mislii nr. 83/2026 privind aprobarea participării Comunei Cocorăștii Mislii la proiectul ”CASTER-PH – Capacități de stocare energie regenerabilă în județul Prahova”",
+"short": "HCL Cocorăștii Mislii nr. 83/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://emol.ro/cocorastiimislii-ph/registru-hcl/289076",
+"council": "prahova/cocorastii-mislii",
+"council_name": "Consiliul Local al Comunei Cocorăștii Mislii",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--cocorastii-mislii-86-2026",
+"path": "local/prahova/cocorastii-mislii/2026/86",
+"kind": "local",
+"year": "2026",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Mislii nr. 86/2026",
+"short": "HCL Cocorăștii Mislii nr. 86/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://emol.ro/cocorastiimislii-ph/registru-hcl/292278",
+"council": "prahova/cocorastii-mislii",
+"council_name": "Consiliul Local al Comunei Cocorăștii Mislii",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--cocorastii-mislii-88-2026",
+"path": "local/prahova/cocorastii-mislii/2026/88",
+"kind": "local",
+"year": "2026",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Mislii nr. 88/2026 privind rectificarea bugetului local al Comunei Cocorăștii Mislii pe anul 2026",
+"short": "HCL Cocorăștii Mislii nr. 88/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-16",
+"latest": "2026-10-16",
+"portal": "https://emol.ro/cocorastiimislii-ph/registru-hcl/293415",
+"council": "prahova/cocorastii-mislii",
+"council_name": "Consiliul Local al Comunei Cocorăștii Mislii",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--cocorastii-mislii-91-2026",
+"path": "local/prahova/cocorastii-mislii/2026/91",
+"kind": "local",
+"year": "2026",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Mislii nr. 91/2026 privind însușirea inventarului și atestarea apartenenței la domeniul privat al Comunei Cocorăștii Mislii a unor imobile",
+"short": "HCL Cocorăștii Mislii nr. 91/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/cocorastiimislii-ph/registru-hcl/296927",
+"council": "prahova/cocorastii-mislii",
+"council_name": "Consiliul Local al Comunei Cocorăștii Mislii",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--cocorastii-mislii-92-2026",
+"path": "local/prahova/cocorastii-mislii/2026/92",
+"kind": "local",
+"year": "2026",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Mislii nr. 92/2026 privind trecerea din domeniul public în domeniul privat al Comunei Cocorăștii Mislii, Județul Prahova, a imobilului cu nr. cadastral 22607",
+"short": "HCL Cocorăștii Mislii nr. 92/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/cocorastiimislii-ph/registru-hcl/296928",
+"council": "prahova/cocorastii-mislii",
+"council_name": "Consiliul Local al Comunei Cocorăștii Mislii",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/olari/2022",
+ "acts": [
+  {
+   "slug": "hcl-prahova--olari-28-2022",
+   "path": "local/prahova/olari/2022/28",
+   "short": "HCL Olari nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 28/2022 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de investiții, a indicatorilor tehnico-economici şi a devizului general pentru obiectivul de investiții ”Construire, reconstruire şi modernizare drumuri locale comuna Olari, judetul Prahova”, aprobat pentru finanțare prin Programul național de investiții Anghel Saligny",
+   "url": "https://emol.ro/olari-ph/registru-hcl/93761",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/93761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-29-2022",
+   "path": "local/prahova/olari/2022/29",
+   "short": "HCL Olari nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 29/2022 privind aprobarea cheltuielilor finantate de la bugetul local,conform devizului general, aferente obiectivului de investitii”Construire, reconstruire si modernizare drumuri locale comuna Olari, judetul Prahova”",
+   "url": "https://emol.ro/olari-ph/registru-hcl/93762",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/93762",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -64,10 +64,16 @@ Act id: `oug-24-2008` (tags `oug-24-2008/<day>`; `python tools/on.py <day> oug-2
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 672/2012](../../../jurisprudenta/ccr/2012/672/)**, Monitorul Oficial nr. 559 din 8 august 2012 · art. 2 lit. b) · only some words or a sentence inside the provision
 
   > constată că sintagmele "indiferent sub ce formă" şi "relatări verbale consemnate de lucrătorii Securităţii" din cuprinsul art. 2 lit. b) teza întâi din Ordonanţa de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii sunt neconstituţionale.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2012-08-08) and ceases to have legal effect 45 days later, on 2012-09-22, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 107/2014](../../../jurisprudenta/ccr/2014/107/)**, Monitorul Oficial nr. 318 din 30 aprilie 2014 · art. 10 alin. (1) · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că prevederile art. 10 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii sunt neconstituţionale.
+
+  The Court judged an earlier or a specific wording of the provision (decided 2014-02-27, published 2014-04-30); the text here follows the acts that amended it. The text here is unchanged; read the decision.

@@ -315,7 +315,7 @@ Act id: `codul-muncii` (tags `codul-muncii/<day>`; `python tools/on.py <day> cod
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 279/2015](../../../jurisprudenta/ccr/2015/279/)**, Monitorul Oficial nr. 431 din 17 iunie 2015 · art. 52 alin. (1) lit. b) · only some words or a sentence inside the provision
 
@@ -328,6 +328,12 @@ The Constitutional Court found the provisions below unconstitutional in a way th
   > constată că dispozițiile art. 56 alin. (1) lit. c) teza a doua, prima ipoteză din Legea nr. 53/2003 - Codul muncii sunt neconstituționale.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2018-02-05) and ceases to have legal effect 45 days later, on 2018-03-22, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 387/2018](../../../jurisprudenta/ccr/2018/387/)**, Monitorul Oficial nr. 642 din 24 iulie 2018 · art. 56 alin. (1) lit. c) · constitutional only as the Court reads it (an interpretive decision)
+
+  > Admite excepția de neconstituționalitate a dispozițiilor art. 56 alin. (1) lit. c) teza întâi din Legea nr. 53/2003 - Codul muncii \[…\] și constată că acestea sunt constituționale în măsura în care sintagma „condiții de vârstă standard“ nu exclude posibilitatea femeii de a solicita continuarea executării contractului individual de muncă, în condiții identice cu bărbatul, respectiv până la împlinirea vârstei de 65 de ani.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2018-07-24) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
 
 - **[Decizia nr. 202/2025](../../../jurisprudenta/ccr/2025/202/)**, Monitorul Oficial nr. 887 din 29 septembrie 2025 · art. 56 alin. (1) lit. c) · only some words or a sentence inside the provision
 

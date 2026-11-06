@@ -66,3 +66,19 @@ Act id: `legea-176-2010` (tags `legea-176-2010/<day>`; `python tools/on.py <day>
 - Legea nr. 176/2010: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 5 such paragraphs across all forms, for example «Conform art. 147 alin. (1) din CONSTITUȚIA ROMÂNIEI republic», «Prin DECIZIA CURȚII CONSTITUȚIONALE nr. 418 din 3 iulie 2014», «În concluzie, începând cu data de 30 iulie 2014, dispozițiil».
 - Legea nr. 176/2010: 8 changed article(s) with no note naming a law, committed as the publisher's: 2013-05-03 art-033, 2013-05-03 art-035, 2014-07-30 art-026, 2014-07-30 art-033, 2018-06-10 art-033, 2018-06-10 art-035, 2019-03-24 art-033, 2019-03-24 art-035.
 - Legea nr. 176/2010: forms with no change after normalisation, so no version: 2014-08-13 (160640), 2025-06-12 (298573), 2025-07-27 (300182).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 418/2014](../../../jurisprudenta/ccr/2014/418/)**, Monitorul Oficial nr. 563 din 30 iulie 2014 · art. 25 alin. (2) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că prevederile art. 25 alin. (2) teza a doua din Legea nr. 176/2010 privind integritatea în exercitarea funcţiilor şi demnităţilor publice, pentru modificarea şi completarea Legii nr. 144/2007 privind înfiinţarea, organizarea şi funcţionarea Agenţiei Naţionale de Integritate, precum şi pentru modificarea şi completarea altor acte normative sunt constituţionale în măsura în care sintagma "aceeaşi funcţie" se referă la toate funcţiile eligibile prevăzute de art. 1 din aceeaşi lege.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2014-07-30) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 297/2025](../../../jurisprudenta/ccr/2025/297/)**, Monitorul Oficial nr. 543 din 12 iunie 2025 · art. 6 alin. (1) lit. d); art. 12 alin. (6) · not matched automatically to one provision of this text
+
+  > constată că dispozițiile art. 6 alin. (1) lit. d) și art. 12 alin. (6) din Legea nr. 176/2010 privind integritatea în exercitarea funcțiilor și demnităților publice, pentru modificarea și completarea Legii nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate, precum și pentru modificarea și completarea altor acte normative sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2025-06-12) and ceases to have legal effect 45 days later, on 2025-07-27, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it names provisions of more than one act. The text here is unchanged; read the decision.

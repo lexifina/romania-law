@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/neamt/gadinti/2022",
+"acts": [
+{
+"slug": "hcl-neamt--gadinti-57-2022",
+"path": "local/neamt/gadinti/2022/57",
+"kind": "local",
+"year": "2022",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 57/2022 privind acordarea unui mandat special",
+"short": "HCL Gâdinți nr. 57/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-16",
+"latest": "2022-11-16",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/79506",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--gadinti-59-2022",
+"path": "local/neamt/gadinti/2022/59",
+"kind": "local",
+"year": "2022",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 59/2022 privind trecerea în domeniul public al comunei Gâdinți și declararea ca bun de utilitate publică a unei suprafețe de teren",
+"short": "HCL Gâdinți nr. 59/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-16",
+"latest": "2022-11-16",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/79508",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--gadinti-63-2022",
+"path": "local/neamt/gadinti/2022/63",
+"kind": "local",
+"year": "2022",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 63/2022 privind aprobarea rețelei școlare din comuna Gâdinți pentru anul școlar 2023-2024",
+"short": "HCL Gâdinți nr. 63/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/82810",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--gadinti-66-2022",
+"path": "local/neamt/gadinti/2022/66",
+"kind": "local",
+"year": "2022",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 66/2022 privind aprobarea scoaterii din funcțiune și casarea unor mijloace fixe aflate în patrimoniul comunei Gâdinți",
+"short": "HCL Gâdinți nr. 66/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/82813",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--gadinti-68-2022",
+"path": "local/neamt/gadinti/2022/68",
+"kind": "local",
+"year": "2022",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 68/2022 privind stabilirea taxei speciale de salubrizare începând cu data de 1 ianuarie 2023 pentru persoanele fizice si juridice din comuna Gâdinți, județul Neamț",
+"short": "HCL Gâdinți nr. 68/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/82815",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--gadinti-72-2022",
+"path": "local/neamt/gadinti/2022/72",
+"kind": "local",
+"year": "2022",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 72/2022 privind stabilirea impozitelor și taxelor locale pentru anul 2023",
+"short": "HCL Gâdinți nr. 72/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-30",
+"latest": "2022-12-30",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/83955",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

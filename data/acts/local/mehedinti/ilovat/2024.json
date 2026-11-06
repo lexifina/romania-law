@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/ilovat/2024",
+"acts": [
+{
+"slug": "hcl-mehedinti--ilovat-39-2024",
+"path": "local/mehedinti/ilovat/2024/39",
+"kind": "local",
+"year": "2024",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 39/2024 privind la contractarea serviciului de iluminat festiv",
+"short": "HCL Ilovăț nr. 39/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-07-16",
+"latest": "2025-07-16",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/217078",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--ilovat-40-2024",
+"path": "local/mehedinti/ilovat/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 40/2024 privind aprobarea acordării unor cadouri de Crăciun și stabilirea valorilor acestora pentru preșcolarii și elevii din cadrul Școlii Gimnaziale Ilovăț",
+"short": "HCL Ilovăț nr. 40/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-07-16",
+"latest": "2025-07-16",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/217079",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--ilovat-41-2024",
+"path": "local/mehedinti/ilovat/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 41/2024 privind inventarierea materiei impozabile pentru anul fiscal 2025",
+"short": "HCL Ilovăț nr. 41/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-07-16",
+"latest": "2025-07-16",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/217080",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

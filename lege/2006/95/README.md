@@ -4219,7 +4219,37 @@ These changes were first published credited to another law. The words are unchan
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 1394/2010](../../../jurisprudenta/ccr/2010/1394/)**, Monitorul Oficial nr. 863 din 23 decembrie 2010 · art. 257 alin. (2) lit. f) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 257 alin. (2) lit. f) teza finală din Legea nr. 95/2006 sunt neconstituţionale în măsura în care se interpretează că valoarea contribuţiei minime la fondul de asigurări sociale de sănătate, datorată de persoanele care realizează venituri din cedarea folosinţei bunurilor, venituri din dividende şi dobânzi, venituri din drepturi de proprietate intelectuală realizate în mod individual şi/sau într-o formă de asociere şi alte venituri care se supun impozitului pe venit, nu poate fi mai mică decât cuantumul unui salariu de bază minim brut pe ţară, lunar.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2010-12-23) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 335/2011](../../../jurisprudenta/ccr/2011/335/)**, Monitorul Oficial nr. 355 din 23 mai 2011 · art. 257 alin. (2) lit. f) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 257 alin. (2) lit. f) teza finală din Legea nr. 95/2006 privind reforma în domeniul sănătăţii, aşa cum au fost modificate de art. I pct. 4 din Ordonanţa de urgenţă a Guvernului nr. 107/2010 pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, sunt neconstituţionale în măsura în care se interpretează că valoarea contribuţiei minime la fondul de asigurări sociale de sănătate, datorată de persoanele care realizează venituri din cedarea folosinţei bunurilor, venituri din dividende şi dobânzi, venituri din drepturi de proprietate intelectuală realizate în mod individual şi/sau într-o formă de asociere şi alte venituri care se supun impozitului pe venit, nu poate fi mai mică decât cuantumul unui salariu de bază minim brut pe ţară, lunar.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2011-05-23) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 223/2012](../../../jurisprudenta/ccr/2012/223/)**, Monitorul Oficial nr. 256 din 18 aprilie 2012 · art. 259 alin. (2) · constitutional only as the Court reads it (an interpretive decision)
+
+  > Constată că dispoziţiile art. 259 alin. (2) din Legea nr. 95/2006 privind reforma în domeniul sănătăţii, care au format obiectul excepţiei de neconstituţionalitate \[…\]
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2012-04-18) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 224/2012](../../../jurisprudenta/ccr/2012/224/)**, Monitorul Oficial nr. 256 din 18 aprilie 2012 · art. 259 alin. (2) · constitutional only as the Court reads it (an interpretive decision)
+
+  > Constată că dispoziţiile art. 259 alin. (2) din Legea nr. 95/2006 privind reforma în domeniul sănătăţii, care au format obiectul excepţiei de neconstituţionalitate \[…\]
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2012-04-18) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 164/2013](../../../jurisprudenta/ccr/2013/164/)**, Monitorul Oficial nr. 296 din 23 mai 2013 · art. 257 alin. (2) lit. e) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 257 alin. (2) lit. e) din Legea nr. 95/2006 privind reforma în domeniul sănătăţii, în redactarea de la intrarea în vigoare a acestora şi până la modificările ce le-au fost aduse prin Ordonanţa de urgenţă a Guvernului nr. 93/2008 pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, sunt neconstituţionale în măsura în care obligă persoanele ce datorează contribuţia de asigurări sociale de sănătate asupra veniturilor din pensii la plata acestei contribuţii cumulat cu cea datorată asupra veniturilor obţinute din cedarea folosinţei bunurilor, din dividende şi dobânzi, din drepturi de proprietate intelectuală realizate în mod individual şi/sau într-o formă de asociere şi altor venituri care se supun impozitului pe venit.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2013-05-23) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
 
 - **[Decizia nr. 498/2018](../../../jurisprudenta/ccr/2018/498/)**, Monitorul Oficial nr. 650 din 26 iulie 2018 · art. 30 alin. (2); art. 280 alin. (2) · only some words or a sentence inside the provision
 

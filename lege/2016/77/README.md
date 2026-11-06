@@ -30,10 +30,16 @@ Act id: `legea-77-2016` (tags `legea-77-2016/<day>`; `python tools/on.py <day> l
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 623/2016](../../../jurisprudenta/ccr/2016/623/)**, Monitorul Oficial nr. 53 din 18 ianuarie 2017 · art. 11 · only some words or a sentence inside the provision
 
   > constată că sintagma "precum şi din devalorizarea bunurilor imobile" din art. 11 teza întâi din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligaţiilor asumate prin credite este neconstituţională.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-01-18) and ceases to have legal effect 45 days later, on 2017-03-04, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 432/2021](../../../jurisprudenta/ccr/2021/432/)**, Monitorul Oficial nr. 905 din 21 septembrie 2021 · art. 8 alin. (5) · not matched automatically to one provision of this text
+
+  > constată că dispozițiile art. 8 alin. (5) tezele a doua și a treia din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2021-09-21) and ceases to have legal effect 45 days later, on 2021-11-05, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: the provisions it names were not found exactly once in this text. The text here is unchanged; read the decision.

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/magurele/2024",
+ "acts": [
+  {
+   "slug": "hcl-prahova--magurele-65-2024",
+   "path": "local/prahova/magurele/2024/65",
+   "short": "HCL Măgurele nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 65/2024 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat de la nivelul comunei Măgurele, județul Prahova pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/182605",
+   "versions": [
+    {
+     "from": "2024-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/182605",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

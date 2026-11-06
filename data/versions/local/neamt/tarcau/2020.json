@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/tarcau/2020",
+ "acts": [
+  {
+   "slug": "hcl-neamt--tarcau-100-2020",
+   "path": "local/neamt/tarcau/2020/100",
+   "short": "HCL Tarcău nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 100/2020 privind stabilirea normativului de cheltuieli privind consumul lunar de carburanți pentru autovehicolele/autospecialele și utilajele primăriei Comunei Tarcău",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/26634",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-101-2020",
+   "path": "local/neamt/tarcau/2020/101",
+   "short": "HCL Tarcău nr. 101/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 101/2020 privind rectificarea bugetului local al comunei Tarcău pentru anul 2020",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/26635",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-105-2020",
+   "path": "local/neamt/tarcau/2020/105",
+   "short": "HCL Tarcău nr. 105/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 105/2020 privind completarea inventarului terenurilor din domeniul public al comunei Tarcău, cu un teren în suprafaţă de 545 mp, situat în satul Cazaci – punctul Lunca Lăcătuşului, teren aferent amplasamentului piciorului mal stâng al punţii pietonale",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/26639",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-106-2020",
+   "path": "local/neamt/tarcau/2020/106",
+   "short": "HCL Tarcău nr. 106/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 106/2020 privind trecerea din domeniul privat al comunei Tarcău în domeniul public al comunei Tarcău, a unui teren în suprafaţă de 440 mp, situat în satul Cazaci – punctul Lunca Lăcătuşului, teren aferent amplasamentului piciorului mal drept al punţii pietonale",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/26640",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-107-2020",
+   "path": "local/neamt/tarcau/2020/107",
+   "short": "HCL Tarcău nr. 107/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 107/2020 privind completarea inventarului terenurilor din domeniul public al comunei Tarcău, cu un teren în suprafaţă de 250 mp, situat în satul Brateş – punctul Gura Bobeicii, în vederea amenajării unei parcări publice",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/26641",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-91-2020",
+   "path": "local/neamt/tarcau/2020/91",
+   "short": "HCL Tarcău nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 91/2020 privind rectificarea bugetului local al comunei Tarcău pentru anul 2020",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/26615",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-94-2020",
+   "path": "local/neamt/tarcau/2020/94",
+   "short": "HCL Tarcău nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 94/2020 privind îndreptarea unor erori materiale în delimitarea intravilanului şi extravilanului comunei Tarcău",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/26618",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-95-2020",
+   "path": "local/neamt/tarcau/2020/95",
+   "short": "HCL Tarcău nr. 95/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 95/2020",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/26619",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-96-2020",
+   "path": "local/neamt/tarcau/2020/96",
+   "short": "HCL Tarcău nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 96/2020 privind înregistrarea Comunei Tarcău în Sistemul Naţional Electronic de Plăţi online a taxelor şi impozitelor, utilizând cardul bancar",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/26620",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-98-2020",
+   "path": "local/neamt/tarcau/2020/98",
+   "short": "HCL Tarcău nr. 98/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 98/2020 privind utilizarea, în cursul anului bugetar 2020, a excedentului bugetului local din cadrul secţiunii de dezvoltare din anii anteriori",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/26632",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-99-2020",
+   "path": "local/neamt/tarcau/2020/99",
+   "short": "HCL Tarcău nr. 99/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 99/2020 privind punerea în aplicare a HCL nr. 87/18 noiembrie 2020 privind stabilirea impozitelor şi taxelor locale, precum şi a taxelor speciale, pentru anul 2021",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/26633",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26633",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -101,3 +101,13 @@ Act id: `oug-66-2011` (tags `oug-66-2011/<day>`; `python tools/on.py <day> oug-6
 - OUG nr. 66/2011: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 12 such paragraphs across all forms, for example «Art. 66 și-a încetat efectele juridice ca urmare a declarări».
 - OUG nr. 66/2011: 10 changed article(s) with no note naming a law, committed as the publisher's: 2012-09-01 art-016, 2012-09-01 art-040, 2012-11-30 art-016, 2012-11-30 art-040, 2013-07-05 art-008, 2013-07-05 art-016, 2013-07-05 art-040, 2014-06-28 art-021, 2014-06-28 art-050, 2014-08-26 art-008.
 - OUG nr. 66/2011: forms with no change after normalisation, so no version: 2021-07-09 (243591), 2021-08-23 (247072).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 320/2021](../../../jurisprudenta/ccr/2021/320/)**, Monitorul Oficial nr. 678 din 9 iulie 2021 · art. 8 alin. (2) lit. a) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că prevederile art. 8 alin. (2) lit. a) din Ordonanța de urgență a Guvernului nr. 66/2011 privind prevenirea, constatarea și sancționarea neregulilor apărute în obținerea și utilizarea fondurilor europene și/sau a fondurilor publice naționale aferente acestora sunt constituționale în măsura în care autoritatea cu competențe în gestionarea fondurilor europene suspendă pentru beneficiarii privați plata/rambursarea tuturor sumelor solicitate de către aceștia, aferente contractului/deciziei/ordinului/acordului de finanțare a cărui/cărei aplicare a fost suspendată și pentru care a fost formulată sesizarea.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2021-07-09) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.

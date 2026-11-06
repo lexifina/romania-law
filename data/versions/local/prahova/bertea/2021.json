@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/bertea/2021",
+ "acts": [
+  {
+   "slug": "hcl-prahova--bertea-62-2021",
+   "path": "local/prahova/bertea/2021/62",
+   "short": "HCL Bertea nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 62/2021 privind indreptarea erorii materiale din Hotararea Consiliului Local nr. 23/2020 pentru punerea la dispozitia proiectului \" Proiectul Regional de dezvoltare a infrastructurii de apa si apa uzata din judetul Prahova, in perioada 2014-2020” a terenurilor pentru realizarea obiectivului",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/49875",
+   "versions": [
+    {
+     "from": "2021-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/49875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-63-2021",
+   "path": "local/prahova/bertea/2021/63",
+   "short": "HCL Bertea nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 63/2021 privind exprimarea intentiei de delegare a serviciului de canalizare al comunei Bertea, catre SC Hidro Prahova SA la finalizarea investitiei “Proiect regional de dezvoltare a infrastructurii de apa si apa uzata din Judetul Prahova in perioada 2014-2020”",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/49876",
+   "versions": [
+    {
+     "from": "2021-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/49876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-65-2021",
+   "path": "local/prahova/bertea/2021/65",
+   "short": "HCL Bertea nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 65/2021 privind solicitarea includerii unei suprafete de 168,11 ha pasune impadurita din proprietatea privată a comunei Bertea, in fondul forestier national si aprobarea intocmirii amenajamentului silvic",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/49878",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/49878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-66-2021",
+   "path": "local/prahova/bertea/2021/66",
+   "short": "HCL Bertea nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 66/2021 privind aprobarea incheierii unui contract de servicii silvice intre Comuna Bertea si Ocolul Silvic Slanic",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/49879",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/49879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-67-2021",
+   "path": "local/prahova/bertea/2021/67",
+   "short": "HCL Bertea nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 67/2021 privind nominalizarea operatorilor economici din reteaua comerciala a comunei Bertea, judetul Prahova, care vor distribui produse rationalizate catre populatie in caz de mobilizare sau razboi",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/49880",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/49880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-68-2021",
+   "path": "local/prahova/bertea/2021/68",
+   "short": "HCL Bertea nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 68/2021 privind aprobarea Bugetului Local Centralizat, de Venituri si Cheltuieli,rectificat, al comunei Bertea, pe anul 2021",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/49881",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/49881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-69-2021",
+   "path": "local/prahova/bertea/2021/69",
+   "short": "HCL Bertea nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 69/2021",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/49882",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/49882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-70-2021",
+   "path": "local/prahova/bertea/2021/70",
+   "short": "HCL Bertea nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 70/2021 privind aprobarea actualizarii indicatorilor tehnico-economici la obiectivul de investitii“Refacere podet din tuburi de beton si protectie din gabione punct Sotoiu, Comuna Bertea”",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/49883",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/49883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-71-2021",
+   "path": "local/prahova/bertea/2021/71",
+   "short": "HCL Bertea nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 71/2021 privind aprobarea actualizarii indicatorilor tehnico-economici la obiectivul de investitii“Refacere punte pietonala in lungime de 20 m, zona Motoras,Comuna Bertea”",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/49884",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/49884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-72-2021",
+   "path": "local/prahova/bertea/2021/72",
+   "short": "HCL Bertea nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 72/2021 privind aprobarea indicatorilor tehnico-economici la obiectivul de investitii “ Refacere 1 punte/ traversare pietonala in Comuna Bertea, judetul Prahova”",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/49885",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/49885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-73-2021",
+   "path": "local/prahova/bertea/2021/73",
+   "short": "HCL Bertea nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 73/2021 privind aprobarea indicatorilor tehnico-economici la obiectivul de investitii “ Aparari de mal L= 0,100 km, Comuna Bertea, judetul Prahova”",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/49886",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/49886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-74-2021",
+   "path": "local/prahova/bertea/2021/74",
+   "short": "HCL Bertea nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 74/2021 privind aprobarea bugetului și a indicatorilor tehnico-economici pentru proiectul „EDIS 3 - Educatie nonformală în sistem outdoor”",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/49887",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/49887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-75-2021",
+   "path": "local/prahova/bertea/2021/75",
+   "short": "HCL Bertea nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 75/2021 privind aprobarea indicatorilor tehnico-economici la obiectivul de investitii “ Refacere drumuri comunale L=11 km, Comuna Bertea, judetul Prahova”",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/49888",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/49888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-76-2021",
+   "path": "local/prahova/bertea/2021/76",
+   "short": "HCL Bertea nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 76/2021 privind aprobarea Bugetului Local Centralizat, de Venituri si Cheltuieli,rectificat, al comunei Bertea, pe anul 2021",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/49889",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/49889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-77-2021",
+   "path": "local/prahova/bertea/2021/77",
+   "short": "HCL Bertea nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 77/2021",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/49890",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/49890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-78-2021",
+   "path": "local/prahova/bertea/2021/78",
+   "short": "HCL Bertea nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 78/2021 privind aprobarea executiei Bugetului local centralizat de venituri si cheltuieli al comunei Bertea, pentru trimestrul IV, al anului 2021",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/49891",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/49891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-79-2021",
+   "path": "local/prahova/bertea/2021/79",
+   "short": "HCL Bertea nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 79/2021 privind stabilirea impozitelor şi taxelor locale, precum şi a taxelor speciale, pentru anul 2022",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/49892",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/49892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-80-2021",
+   "path": "local/prahova/bertea/2021/80",
+   "short": "HCL Bertea nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 80/2021 privind aprobarea Planului de Actiune Anual privind Serviciile Sociale la nivelul comunei Bertea",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/49893",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/49893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-81-2021",
+   "path": "local/prahova/bertea/2021/81",
+   "short": "HCL Bertea nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 81/2021 privind aprobarea Planului Anual al lucrarilor de interes local",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/49894",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/49894",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

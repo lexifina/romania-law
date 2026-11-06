@@ -71,7 +71,7 @@ Act id: `oug-130-2021` (tags `oug-130-2021/<day>`; `python tools/on.py <day> oug
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 650/2022](../../../jurisprudenta/ccr/2022/650/)**, Monitorul Oficial nr. 1262 din 28 decembrie 2022 · art. 157^3; art. 168 alin. (1); art. 153 alin. (1), (5) lit. f^2); art. 157^3 alin. (7^1), (1) lit. a); art. 153 alin. (1) lit. f^2); art. XXV alin. (1), (1) lit. c); art. 16; art. 18; art. 168 · provisions read together with others
 

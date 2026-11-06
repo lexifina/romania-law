@@ -16,3 +16,13 @@ Act id: `legea-161-2019` (tags `legea-161-2019/<day>`; `python tools/on.py <day>
 - Legea nr. 161/2019: the first version is the law as published in Monitorul Oficial nr. 630 of 29 July 2019 (DetaliiDocumentAfis/216674), dated 1 August 2019: it sets no day of its own, so in force 3 days after publication (Constituția art. 78). The portal holds no consolidated form before 17 December 2021, so the changes made up to then arrive together that day.
 - Legea nr. 161/2019: the law has a single article ("Articol unic"), filed as art-001.
 - Legea nr. 161/2019: forms with no change after normalisation, so no version: 2021-12-17 (248250).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 794/2021](../../../jurisprudenta/ccr/2021/794/)**, Monitorul Oficial nr. 1198 din 17 decembrie 2021 · not matched automatically to one provision of this text
+
+  > constată că Legea nr. 161/2019 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 24/2008 privind accesul la propriul dosar și deconspirarea Securității este neconstituțională, în ansamblul său.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2021-12-17) and ceases to have legal effect 45 days later, on 2022-01-31, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it does not name the provisions as "dispozițiile art. ... din ...". The text here is unchanged; read the decision.

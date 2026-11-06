@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/berceni/2022",
+ "acts": [
+  {
+   "slug": "hcl-prahova--berceni-57-2022",
+   "path": "local/prahova/berceni/2022/57",
+   "short": "HCL Berceni nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 57/2022 privind aprobare „ PUZ – EXTINDERE INTRAVILAN (S =67439 mp) – ZONĂ MIXTĂ UNITĂȚI INDUSTRIALE ȘI DEPOZITARE ȘI UNITĂȚI AGRICOLE ȘI AMENAJARE DRUM ACCES (S st=85144 mp)”",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/79554",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/79554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-59-2022",
+   "path": "local/prahova/berceni/2022/59",
+   "short": "HCL Berceni nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 59/2022 privind introducerea în domeniul privat și completarea “Inventarului bunurilor care fac parte din domeniul privat de interes local din comuna Berceni, judeţ Prahova”",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/79556",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/79556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-60-2022",
+   "path": "local/prahova/berceni/2022/60",
+   "short": "HCL Berceni nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 60/2022 privind aprobarea Regulamentului de închiriere a spațiilor din incinta Căminului Cultural Corlătești din comuna Berceni, județul Prahova, a contractului de închiriere și stabilirea taxei de închiriere a acestuia",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/79557",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/79557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-64-2022",
+   "path": "local/prahova/berceni/2022/64",
+   "short": "HCL Berceni nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 64/2022 privind aprobarea rectificării bugetului local detaliat la venituri și cheltuieli al Comunei Berceni la data de 05.07.2022",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/115074",
+   "versions": [
+    {
+     "from": "2022-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/115074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-65-2022",
+   "path": "local/prahova/berceni/2022/65",
+   "short": "HCL Berceni nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 65/2022 de modificare a Anexei nr. 1 la HCL nr. 44/12.05.2022 privind Lista cu investitiile care se vor derula prin bugetul local pe anul 2022",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/115075",
+   "versions": [
+    {
+     "from": "2022-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/115075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-66-2022",
+   "path": "local/prahova/berceni/2022/66",
+   "short": "HCL Berceni nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 66/2022 privind aprobarea rectificării bugetului de venituri și cheltuieli al Clubului Sportiv Comuna Berceni la data de 05.07.2022",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/115076",
+   "versions": [
+    {
+     "from": "2022-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/115076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-68-2022",
+   "path": "local/prahova/berceni/2022/68",
+   "short": "HCL Berceni nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 68/2022 privind asocierea Comunei Berceni cu Județul Prahova și localitățile Ploiești, Băicoi, Boldești-Scăeni, Plopeni, Ariceștii Rahtivani, Blejoi, Bucov, Bărcănești, Brazi, Păulești, Râfov, Târgșoru Vechi, Valea Călugărească și constituirea Asociației de Dezvoltare Intercomunitară “Mobilitate Prahova” pentru serviciul de transport public local",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/115114",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/115114",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

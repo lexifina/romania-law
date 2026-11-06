@@ -65,3 +65,25 @@ Act id: `legea-32-1968` (tags `legea-32-1968/<day>`; `python tools/on.py <day> l
 - Legea nr. 32/1968: the first version is the law as published in Buletinul Oficial nr. 148 of 14 November 1968 (document 201 of the official web service), dated 1 January 1969: its art. 51 puts it in force on 1 January 1969. Later acts change it, but no consolidated form of it is held, so this record holds only the text as published; no page of the act is held.
 - Legea nr. 32/1968: REPEALED. OG nr. 2/2001 repeals this law (read in the held copies of the official web service's documents and Lexifina's repeal index). The day the repeal took effect is not settled here, so no version removing its text is made: the text shown is the act as published, kept as a historical record, and is not in force.
 - Legea nr. 32/1968: AMENDMENTS NOT APPLIED. Later acts change this act (by: HG nr. 2503/None; Legea nr. 56/1970; Legea nr. 23/1971; HG nr. 413/1972; HG nr. 920/1973; Legea nr. 61/1974; HG nr. 341/1975; HG nr. 152/1975; and 211 more), but no consolidated text of it is held: the Portalul legislativ has not answered since 5 November 2026 and no complete archive capture of a consolidated form is held. This record therefore holds only the act as published, as the official web service returns it (FreeWebService, http://legislatie.just.ro/apiws/FreeWebService.svc), document 201, retrieved 2026-11-02; read the amending acts for the text in force. The consolidated versions are to be added when a source for them is available.
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 35/1993](../../../jurisprudenta/ccr/1993/35/)**, Monitorul Oficial nr. 218 din 6 septembrie 1993 · art. 35 · decided before the 2003 revision of the Constitution
+
+  > Constata ca dispoziţiile art. 35 din Legea nr. 32/1968 privind stabilirea şi sancţionarea contravenţiilor sunt neconstituţionale şi, în consecinţa abrogate, urmând ca în cazul amenzii contravenţionale aplicate unei persoane juridice, plângerea acesteia să se rezolve potrivit regulilor stabilite de Legea nr. 32/1968 pentru persoanele fizice.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1993-09-06. The decision was open to appeal (recurs) when given; a decision on appeal may have changed it. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 482/1997](../../../jurisprudenta/ccr/1997/482/)**, Monitorul Oficial nr. 143 din 8 aprilie 1998 · art. 15 · decided before the 2003 revision of the Constitution
+
+  > constata ca art. 15 din Legea nr. 32/1968 este abrogat potrivit art. 150 alin. (1) din Constituţie.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1998-04-08; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 90/1999](../../../jurisprudenta/ccr/1999/90/)**, Monitorul Oficial nr. 489 din 11 octombrie 1999 · art. 12 · decided before the 2003 revision of the Constitution
+
+  > constata ca sunt neconstituţionale dispoziţiile alin. 1 şi ale alin. 2 teza întâi ale art. 12 din Legea nr. 32/1968 privind stabilirea şi sancţionarea contravenţiilor.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1999-10-11; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.

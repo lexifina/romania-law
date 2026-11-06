@@ -46,3 +46,13 @@ Act id: `legea-17-2014` (tags `legea-17-2014/<day>`; `python tools/on.py <day> l
 - Legea nr. 17/2014: articles already shown repealed that a later form prints again as "Abrogat" are typesetting, committed as the publisher's: 13.10.2020 art-023, 13.10.2020 art-024, 13.10.2020 art-025, 13.10.2020 art-026, 13.10.2020 art-027.
 - Legea nr. 17/2014: 2 changed article(s) with no note naming a law, committed as the publisher's: 2017-06-11 art-005, 2020-10-13 art-022.
 - Legea nr. 17/2014: forms with no change after normalisation, so no version: 2015-02-09 (165647).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 755/2014](../../../jurisprudenta/ccr/2014/755/)**, Monitorul Oficial nr. 101 din 9 februarie 2015 · art. 20 alin. (1) · not matched automatically to one provision of this text
+
+  > constată că prevederile art. 20 alin. (1) din Legea nr. 17/2014 privind unele măsuri de reglementare a vânzării-cumpărării terenurilor agricole situate în extravilan şi de modificare a Legii nr. 268/2001 privind privatizarea societăţilor comerciale ce deţin în administrare terenuri proprietate publică şi privată a statului cu destinaţie agricolă şi înfiinţarea Agenţiei Domeniilor Statului referitoare la exceptarea de la aplicarea Legii nr. 17/2014 a antecontractelor autentificate la notariat anterior intrării în vigoare a acesteia sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-02-09) and ceases to have legal effect 45 days later, on 2015-03-26, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it names provisions of more than one act. The text here is unchanged; read the decision.

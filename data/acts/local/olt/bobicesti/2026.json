@@ -1,0 +1,182 @@
+{
+"country": "RO",
+"shard": "local/olt/bobicesti/2026",
+"acts": [
+{
+"slug": "hcl-olt--bobicesti-12-2026",
+"path": "local/olt/bobicesti/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 12/2026 Proiect de hotărâre referitor la: aprobarea bugetului local pe anul 2026 și a estimărilor pentru anii 2027 -2029 și al Serviciului public de gospodărire comunală Bobicești",
+"short": "HCL Bobicești nr. 12/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#121854",
+"council": "olt/bobicesti",
+"council_name": "Consiliul Local al Comunei Bobicești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bobicesti-13-2026",
+"path": "local/olt/bobicesti/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 13/2026 Proiect de hotărâre aprobarea STRATEGIEI ANUALE DE ACHIZITIE PUBLICA și aprobarea Programului anual al achiziţiilor publice, pentru anul 202",
+"short": "HCL Bobicești nr. 13/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#121856",
+"council": "olt/bobicesti",
+"council_name": "Consiliul Local al Comunei Bobicești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bobicesti-14-2026",
+"path": "local/olt/bobicesti/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 14/2026 Proiect de hotărâre privind Încheierea contului de execuție bugetară trim I 2026",
+"short": "HCL Bobicești nr. 14/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#121857",
+"council": "olt/bobicesti",
+"council_name": "Consiliul Local al Comunei Bobicești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bobicesti-16-2026",
+"path": "local/olt/bobicesti/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 16/2026 Proiect de hotărâre privind aprobarea Strategiei de dezvoltare a serviciilor sociale acordate la nivelul comunei Bobicești pentru perioada 2026 -2031",
+"short": "HCL Bobicești nr. 16/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#121860",
+"council": "olt/bobicesti",
+"council_name": "Consiliul Local al Comunei Bobicești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bobicesti-17-2026",
+"path": "local/olt/bobicesti/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 17/2026 Proiect de hotărâre privind aprobarea PLAN DE DEZVOLTARE A SERVICIILOR SOCIALE COMUNA BOBICEȘTI, JUDETUL OLT",
+"short": "HCL Bobicești nr. 17/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#121861",
+"council": "olt/bobicesti",
+"council_name": "Consiliul Local al Comunei Bobicești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bobicesti-19-2026",
+"path": "local/olt/bobicesti/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 19/2026 Proiect de hotărâre privind însușirea Acordului de cooperare privind organizarea și exercitarea activităţii serviciului administrativ",
+"short": "HCL Bobicești nr. 19/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#121855",
+"council": "olt/bobicesti",
+"council_name": "Consiliul Local al Comunei Bobicești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bobicesti-23-2026",
+"path": "local/olt/bobicesti/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 23/2026 Proiect de hotarâre privind aprobarea PLANULUI de masuri in situatii de seceta si caniculă",
+"short": "HCL Bobicești nr. 23/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-26",
+"latest": "2026-06-26",
+"portal": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#124968",
+"council": "olt/bobicesti",
+"council_name": "Consiliul Local al Comunei Bobicești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bobicesti-29-2026",
+"path": "local/olt/bobicesti/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 29/2026 aprobarea indicatorilor tehnici ”Amenajare loc joacă în sat Chintești și sat Comănești, comuna Bobicești, județul Olt",
+"short": "HCL Bobicești nr. 29/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#129017",
+"council": "olt/bobicesti",
+"council_name": "Consiliul Local al Comunei Bobicești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -66,3 +66,13 @@ Act id: `legea-460-2003` (tags `legea-460-2003/<day>`; `python tools/on.py <day>
 - Legea nr. 460/2003: the web service gives the in-force day 2003-12-28 for this law (its id 48001); its art. 48 puts it in force 30 days after publication in Monitorul Oficial nr. 836 of 25 November 2003, which the record reads as 25 December 2003, publication plus 30 days, as in the other acts of this record. The dating by the law's own text is kept, as for Legea nr. 314/2001.
 - Legea nr. 460/2003: the form of 17 June 2024 prints "reglmentărilor" for "reglementărilor" in art. 47, under no note; that is the publisher's misprint, credited to no law.
 - Legea nr. 460/2003: 1 changed article(s) with no note naming a law, committed as the publisher's: 2024-06-17 art-047.
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 151/2016](../../../jurisprudenta/ccr/2016/151/)**, Monitorul Oficial nr. 308 din 21 aprilie 2016 · art. 6 · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că sintagmele "care au titlul de doctor în ştiinţe" şi "până la vârsta de 65 de ani, femeile, şi de 70 de ani, bărbaţii", cuprinse în textul art. 6 din Legea nr. 460/2003 privind exercitarea profesiunilor de biochimist, biolog şi chimist, înfiinţarea, organizarea şi funcţionarea Ordinului Biochimiştilor, Biologilor şi Chimiştilor în sistemul sanitar din România, sunt constituţionale în măsura în care se aplică doar biochimiştilor, biologilor şi chimiştilor din sistemul sanitar care solicită continuarea activităţii profesionale în unităţile sanitare publice.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2016-04-21) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.

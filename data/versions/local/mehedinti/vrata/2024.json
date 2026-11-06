@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/vrata/2024",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--vrata-43-2024",
+   "path": "local/mehedinti/vrata/2024/43",
+   "short": "HCL Vrata nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 43/2024 privind acordarea unor facilități fiscale prin procedura de anulare a dobânzilor, penalitățile și toate accesoriile aferente obligațiilor bugetare principale, restante la data de 31 august 2024 de către contribuabilii de pe raza administrativ teritorială a Comunei Vrata",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/198666",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/198666",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

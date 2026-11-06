@@ -242,3 +242,13 @@ Act id: `legea-62-2011` (tags `legea-62-2011/<day>`; `python tools/on.py <day> l
 - Legea nr. 62/2011: the base text's signature block (the Presidents of the Chambers, place, date and number) printed after the adoption formula is not article text, as in the other acts of this record.
 - Legea nr. 62/2011: 29 changed article(s) with no note naming a law, committed as the publisher's: 2013-07-27 art-001, 2013-07-27 art-017, 2013-07-27 art-022, 2013-07-27 art-145, 2017-03-29 art-004, 2017-03-29 art-202, 2017-11-16 art-072, 2017-11-16 art-218, 2019-11-06 art-052, 2019-11-06 art-053, 2019-11-06 art-059, 2019-11-06 art-073, 2019-11-06 art-074, 2019-11-06 art-077, 2019-11-06 art-079, 2019-11-06 art-124, 2019-11-06 art-143, 2019-11-06 art-145, 2019-11-06 art-165, 2019-11-06 art-168, 2019-11-06 art-169, 2019-11-06 art-171, 2019-11-06 art-175, 2019-11-06 art-177, 2019-11-06 art-178, 2019-11-06 art-179, 2019-11-06 art-220, 2019-11-06 art-221, 2019-11-06 art-224.
 - Legea nr. 62/2011: forms with no change after normalisation, so no version: 2021-12-03 (248133).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 730/2021](../../../jurisprudenta/ccr/2021/730/)**, Monitorul Oficial nr. 1153 din 3 decembrie 2021 · art. 142 alin. (2) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 142 alin. (2) din Legea dialogului social nr. 62/2011, în interpretarea dată prin Decizia nr. 17 din 13 iunie 2016, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, sunt neconstituționale.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2021-12-03) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.

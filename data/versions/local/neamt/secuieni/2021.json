@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/secuieni/2021",
+ "acts": [
+  {
+   "slug": "hcl-neamt--secuieni-102-2021",
+   "path": "local/neamt/secuieni/2021/102",
+   "short": "HCL Secuieni nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 102/2021 privind rectificarea bugetului general consolidat pentru anul 2021",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/45463",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/45463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-103-2021",
+   "path": "local/neamt/secuieni/2021/103",
+   "short": "HCL Secuieni nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 103/2021 privind modificarea și completarea Hotărârii Consiliului Local nr.6 din 29.01.2019 privind stabilirea salariilor de bază pentru funcția de primar și viceprimar, funcțiile publice locale, precum şi pentru personalul contractual din cadrul aparatului de specialitate al primarului comunei Secuieni, județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/45464",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/45464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-104-2021",
+   "path": "local/neamt/secuieni/2021/104",
+   "short": "HCL Secuieni nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 104/2021 privind aprobarea criteriilor , procedurilor și atribuțiilor specifice aferente funcției de administrator public al comunei Secuieni, județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/45465",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/45465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-85-2021",
+   "path": "local/neamt/secuieni/2021/85",
+   "short": "HCL Secuieni nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 85/2021 privind aprobarea Strategiei de Dezvoltare Locală a comunei Secuieni, județul Neamț pentru perioada 2021-2027",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/39669",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/39669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-87-2021",
+   "path": "local/neamt/secuieni/2021/87",
+   "short": "HCL Secuieni nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 87/2021 privind aprobarea contului de execuţie al bugetului local pentru trimestrul III , al anului 2021",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/39671",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/39671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-90-2021",
+   "path": "local/neamt/secuieni/2021/90",
+   "short": "HCL Secuieni nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 90/2021 privind aprobarea Programului de Aprovizionare a populaţiei cu produse agroalimentare raţionalizate a comunei Secuieni, valabil în perioada 2021 - 2024",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/42568",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/42568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-91-2021",
+   "path": "local/neamt/secuieni/2021/91",
+   "short": "HCL Secuieni nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 91/2021 privind rectificarea bugetului general consolidat pentru anul 2021",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/42569",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/42569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-92-2021",
+   "path": "local/neamt/secuieni/2021/92",
+   "short": "HCL Secuieni nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 92/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/42570",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/42570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-93-2021",
+   "path": "local/neamt/secuieni/2021/93",
+   "short": "HCL Secuieni nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 93/2021 cu privire la stabilirea impozitelor şi taxelor locale pentru anul 2022",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/44127",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/44127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-94-2021",
+   "path": "local/neamt/secuieni/2021/94",
+   "short": "HCL Secuieni nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 94/2021 privind aprobarea inventarierii materiei impozabile pentru anul fiscal 2022",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/44128",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/44128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-95-2021",
+   "path": "local/neamt/secuieni/2021/95",
+   "short": "HCL Secuieni nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 95/2021 privind aprobarea organigramei şi a statului de funcţii pentru aparatul de specialitate al Primarului comunei Secuieni județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/44129",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/44129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-96-2021",
+   "path": "local/neamt/secuieni/2021/96",
+   "short": "HCL Secuieni nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 96/2021 privind aprobarea acordării unor sume de bani pentru cadouri la preșcolari și elevi cu ocazia sărbătorilor de iarnă",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/44130",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/44130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-97-2021",
+   "path": "local/neamt/secuieni/2021/97",
+   "short": "HCL Secuieni nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 97/2021 privind organizarea reţelei şcolare a unităţilor de învăţământ din comuna Secuieni pentru anul şcolar 2022-2023",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/44131",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/44131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-98-2021",
+   "path": "local/neamt/secuieni/2021/98",
+   "short": "HCL Secuieni nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 98/2021 privind aprobarea contului de execuţie al bugetului local, pentru trimestrul IV , al anului 2021",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/44132",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/44132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-99-2021",
+   "path": "local/neamt/secuieni/2021/99",
+   "short": "HCL Secuieni nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 99/2021 privind rectificarea bugetului general consolidat pentru anul 2021",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/44133",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/44133",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

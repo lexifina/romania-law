@@ -1,0 +1,162 @@
+{
+"country": "RO",
+"shard": "local/prahova/brazi/2025",
+"acts": [
+{
+"slug": "hcl-prahova--brazi-50-2025",
+"path": "local/prahova/brazi/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 50/2025 privind aprobarea Planului Urbanistic Zonal “Introducere teren în intravilan (s=12908 mp) pentru zonă mixtă servicii și unitӑți industriale/depozitare, dotări complementare (suprafața studiată =14518 mp)”, judeţul Prahova, comuna Târgșoru Vechi, sat Târgșoru Vechi, NC 20840 (tarla T31, parcela A163/102), NC 25075 (tarla T31, parcela A163/101), comuna Brazi –DN1A (NC 29433) si a Regulamentului Local de Urbanism aferent acestuia",
+"short": "HCL Brazi nr. 50/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/232098",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--brazi-52-2025",
+"path": "local/prahova/brazi/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 52/2025",
+"short": "HCL Brazi nr. 52/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/232100",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--brazi-58-2025",
+"path": "local/prahova/brazi/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 58/2025",
+"short": "HCL Brazi nr. 58/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-21",
+"latest": "2025-11-21",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/236226",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--brazi-59-2025",
+"path": "local/prahova/brazi/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 59/2025 privind rectificarea bugetului local al comunei Brazi, județul Prahova pe anul 2025",
+"short": "HCL Brazi nr. 59/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-21",
+"latest": "2025-11-21",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/236227",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--brazi-61-2025",
+"path": "local/prahova/brazi/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 61/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026",
+"short": "HCL Brazi nr. 61/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-05",
+"latest": "2026-01-05",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/244642",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--brazi-63-2025",
+"path": "local/prahova/brazi/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 63/2025 privind stabilirea tarifului pentru serviciile de canalizare prestate pe raza comunei Brazi, județul Prahova",
+"short": "HCL Brazi nr. 63/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-05",
+"latest": "2026-01-05",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/244644",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--brazi-64-2025",
+"path": "local/prahova/brazi/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 64/2025 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat la nivelul comunei Brazi, județul Prahova, pentru anul școlar 2026 – 2027",
+"short": "HCL Brazi nr. 64/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-05",
+"latest": "2026-01-05",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/244645",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

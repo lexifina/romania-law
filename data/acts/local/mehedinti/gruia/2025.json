@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/gruia/2025",
+"acts": [
+{
+"slug": "hcl-mehedinti--gruia-55-2025",
+"path": "local/mehedinti/gruia/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gruia nr. 55/2025 privind aprobarea Regulamentului privind eliberarea acordului de funcționare și a autorizației de funcționare pentru desfășurarea activităților comerciale și a serviciilor de piață în comuna Gruia",
+"short": "HCL Gruia nr. 55/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/gruia-mh/registru-hcl/237368",
+"council": "mehedinti/gruia",
+"council_name": "Consiliul Local al Comunei Gruia",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

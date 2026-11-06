@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/isverna/2020",
+"acts": [
+{
+"slug": "hcl-mehedinti--isverna-26-2020",
+"path": "local/mehedinti/isverna/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Isverna nr. 26/2020 privind alegerea presedintelui de sedinta",
+"short": "HCL Isverna nr. 26/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-06",
+"latest": "2020-11-06",
+"portal": "https://emol.ro/isverna-mh/registru-hcl/15266",
+"council": "mehedinti/isverna",
+"council_name": "Consiliul Local al Comunei Isverna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--isverna-29-2020",
+"path": "local/mehedinti/isverna/2020/29",
+"kind": "local",
+"year": "2020",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Isverna nr. 29/2020 privind aprobare implementare proiect „ imbunatatirea accesului la procesul de invatare in mediul online „",
+"short": "HCL Isverna nr. 29/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-06",
+"latest": "2020-11-06",
+"portal": "https://emol.ro/isverna-mh/registru-hcl/15269",
+"council": "mehedinti/isverna",
+"council_name": "Consiliul Local al Comunei Isverna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--isverna-31-2020",
+"path": "local/mehedinti/isverna/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Isverna nr. 31/2020 privind rectificare buget local",
+"short": "HCL Isverna nr. 31/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-10",
+"latest": "2020-12-10",
+"portal": "https://emol.ro/isverna-mh/registru-hcl/15271",
+"council": "mehedinti/isverna",
+"council_name": "Consiliul Local al Comunei Isverna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--isverna-32-2020",
+"path": "local/mehedinti/isverna/2020/32",
+"kind": "local",
+"year": "2020",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Isverna nr. 32/2020 privind stabilire impozite si taxe locale, precum si taxe speciale, pe anul 2021",
+"short": "HCL Isverna nr. 32/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-10",
+"latest": "2020-12-10",
+"portal": "https://emol.ro/isverna-mh/registru-hcl/15272",
+"council": "mehedinti/isverna",
+"council_name": "Consiliul Local al Comunei Isverna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--isverna-33-2020",
+"path": "local/mehedinti/isverna/2020/33",
+"kind": "local",
+"year": "2020",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Isverna nr. 33/2020 privind rectificare buget local",
+"short": "HCL Isverna nr. 33/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://emol.ro/isverna-mh/registru-hcl/15292",
+"council": "mehedinti/isverna",
+"council_name": "Consiliul Local al Comunei Isverna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--isverna-34-2020",
+"path": "local/mehedinti/isverna/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Isverna nr. 34/2020 privind instituire taxa de salubrizare si aprobarea Regulamentului privind implementarea, determinarea cuantumului, incasarea si administrarea taxei de salubrizare pentru utilizatorii serviciului de salubrizarea",
+"short": "HCL Isverna nr. 34/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://emol.ro/isverna-mh/registru-hcl/15293",
+"council": "mehedinti/isverna",
+"council_name": "Consiliul Local al Comunei Isverna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--isverna-35-2020",
+"path": "local/mehedinti/isverna/2020/35",
+"kind": "local",
+"year": "2020",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Isverna nr. 35/2020 privind aprobarea incredintarii directe a contractului de servicii de salubrizare",
+"short": "HCL Isverna nr. 35/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://emol.ro/isverna-mh/registru-hcl/15294",
+"council": "mehedinti/isverna",
+"council_name": "Consiliul Local al Comunei Isverna",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

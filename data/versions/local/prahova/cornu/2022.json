@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/cornu/2022",
+ "acts": [
+  {
+   "slug": "hcl-prahova--cornu-103-2022",
+   "path": "local/prahova/cornu/2022/103",
+   "short": "HCL Cornu nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 103/2022 privind atestarea inventarului unor bunuri care aparţin domeniului public al comunei Cornu, județul Prahova",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/84710",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/84710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-106-2022",
+   "path": "local/prahova/cornu/2022/106",
+   "short": "HCL Cornu nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 106/2022 privind participarea Comunei Cornu în parteneriat cu Județul Prahova și unități administrativ-teritoriale din cadrul județelor Prahova, Buzău și Vrancea la implementarea proiectului ”VELO Valahia” din Investiția I.4.”Implementarea a 3.000 km trasee cicloturistice la nivel național finanțat din PNRR, Componenta 11 – Turism și cultură",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/84713",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/84713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-95-2022",
+   "path": "local/prahova/cornu/2022/95",
+   "short": "HCL Cornu nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 95/2022 privind indexarea nivelurilor impozitului pe mijloacele de transport cu masa totală maximă autorizată mai mare sau egală cu 12 tone pentru anul 2023 la nivelul comunei Cornu",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/84702",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/84702",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

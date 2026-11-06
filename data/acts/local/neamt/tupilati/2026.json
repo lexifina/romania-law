@@ -1,0 +1,205 @@
+{
+"country": "RO",
+"shard": "local/neamt/tupilati/2026",
+"acts": [
+{
+"slug": "hcl-neamt--tupilati-20-2026",
+"path": "local/neamt/tupilati/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 20/2026 privind aprobarea Documentaţiei cadastrale de dezmembrare a imobilului-teren pășune extravilan, în suprafață de 20.150 m.p. cu nr. cadastral 51073, aparţinând domeniului privat al comunei Tupilaţi",
+"short": "HCL Tupilați nr. 20/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/277833",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-21-2026",
+"path": "local/neamt/tupilati/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 21/2026 privind completarea HCL Tupilati nr. 61/2026 privind obiectivul de investiții “Inființare sistem de distribuție gaze naturale, în comuna Tupilați, judetul Neamț”",
+"short": "HCL Tupilați nr. 21/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/277834",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-22-2026",
+"path": "local/neamt/tupilati/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 22/2026 privind aprobarea rectificării bugetului local al Comunei Tupilați pe anul 2026",
+"short": "HCL Tupilați nr. 22/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/277838",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-23-2026",
+"path": "local/neamt/tupilati/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 23/2026",
+"short": "HCL Tupilați nr. 23/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/277839",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-24-2026",
+"path": "local/neamt/tupilati/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 24/2026 privind actualizarea inventarului bunurilor care aparțin domeniului public al comunei al comunei Tupilaţi, judetul Neamt, urmare realizării obiectivul de investiţii: „Modernizarea drumurilor de interes agricol din comuna Tupilați, județul Neamț”",
+"short": "HCL Tupilați nr. 24/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/277840",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-25-2026",
+"path": "local/neamt/tupilati/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 25/2026 privind aprobarea unor măsuri privind desfăşurarea activităţii culturale „Sărbătoarea Sânzienelor 2026” în comuna Tupilați, județul Neamț",
+"short": "HCL Tupilați nr. 25/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/277841",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-29-2026",
+"path": "local/neamt/tupilati/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 29/2026 privind aprobarea actualizării tarifelor pentru serviciile de gestionare a câinilor fără stăpân",
+"short": "HCL Tupilați nr. 29/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-27",
+"latest": "2026-10-27",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/294925",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-30-2026",
+"path": "local/neamt/tupilati/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 30/2026 privind revocarea HCL Tupilati nr. 24 din 16 iunie 2026 privind actualizarea inventarului bunurilor care aparțin domeniului public al comunei al comunei Tupilaţi, judetul Neamt, urmare realizării obiectivul de investiţii: „Modernizarea drumurilor de interes agricol din comuna Tupilați, județul Neamț”",
+"short": "HCL Tupilați nr. 30/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-27",
+"latest": "2026-10-27",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/294926",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-36-2026",
+"path": "local/neamt/tupilati/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 36/2026 privind aprobarea finalizării și închiderii proiectului „ÎNFIINȚARE REȚEA DE APĂ ȘI CANALIZARE ÎN COMUNA TUPILAȚI, JUDEŢUL NEAMȚ”, cod proiect C1I200122000128, finanțat în cadrul Planului Național de Redresare și Reziliență prin apelul nr. PNRR/2022/C1/I2, precum și asigurarea sustenabilității investiției",
+"short": "HCL Tupilați nr. 36/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-27",
+"latest": "2026-10-27",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/294937",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

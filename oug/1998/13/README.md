@@ -22,13 +22,19 @@ Act id: `oug-13-1998` (tags `oug-13-1998/<day>`; `python tools/on.py <day> oug-1
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 234/1999](../../../jurisprudenta/ccr/1999/234/)**, Monitorul Oficial nr. 149 din 11 aprilie 2000 · decided before the 2003 revision of the Constitution
 
   > Constata ca dispoziţiile Ordonanţei de urgenta a Guvernului nr. 13/1998 sunt neconstituţionale în ceea ce priveşte restituirea către comunitatea maghiara din România a imobilului situat în Bd Revoluţiei 1989 nr. 8 din Timişoara, imobil aflat în proprietatea Societăţii Comerciale "TIM PRESS" - S.A. din Timişoara şi care este prevăzut la poziţia 11 din anexa care face parte din ordonanţa.
 
   Given before the 2003 revision of the Constitution (no 45-day rule) and published on 2000-04-11; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 923/2009](../../../jurisprudenta/ccr/2009/923/)**, Monitorul Oficial nr. 520 din 29 iulie 2009 · not matched automatically to one provision of this text
+
+  > Admite, în parte, excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 13/1998 privind restituirea unor bunuri imobile care au aparţinut comunităţilor cetăţenilor aparţinând minorităţilor naţionale din România \[…\] şi constată că prevederile referitoare la imobilul situat în Timişoara, str. Vlad de la Marina nr. 1, judeţul Timiş, aflat în proprietatea autorului excepţiei, prevăzut la poziţia 8 din anexa care face parte din ordonanţa de urgenţă, sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2009-07-29) and ceases to have legal effect 45 days later, on 2009-09-12, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it does not name the provisions as "dispozițiile art. ... din ...". The text here is unchanged; read the decision.
 
 - **[Decizia nr. 570/2012](../../../jurisprudenta/ccr/2012/570/)**, Monitorul Oficial nr. 404 din 18 iunie 2012 · unconstitutional only to the extent stated ("în măsura în care")
 

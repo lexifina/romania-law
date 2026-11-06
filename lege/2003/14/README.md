@@ -130,3 +130,13 @@ These changes were first published credited to another law. The words are unchan
 - `art-055.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
 - `art-056.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
 - `art-057.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 75/2015](../../../jurisprudenta/ccr/2015/75/)**, Monitorul Oficial nr. 265 din 21 aprilie 2015 · art. 19 alin. (3) · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că dispoziţiile art. 19 alin. (3) din Legea partidelor politice nr. 14/2003 sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-04-21) and ceases to have legal effect 45 days later, on 2015-06-05, unless Parliament or the Government brings it into line with the Constitution in that time. The act changed the provision before 2015-06-05 (brought into line, amended or repealed), so the text here follows the amending act. The text here is unchanged; read the decision.

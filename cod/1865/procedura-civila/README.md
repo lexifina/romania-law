@@ -2007,7 +2007,7 @@ These changes were first published credited to another law. The words are unchan
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 1/1995](../../../jurisprudenta/ccr/1995/1/)**, Monitorul Oficial nr. 66 din 11 aprilie 1995 · art. 45 alin. (1) · decided before the 2003 revision of the Constitution
 
@@ -2033,8 +2033,26 @@ The Constitutional Court found the provisions below unconstitutional in a way th
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2004-06-10) and ceases to have legal effect 45 days later, on 2004-07-25, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
 
+- **[Decizia nr. 737/2008](../../../jurisprudenta/ccr/2008/737/)**, Monitorul Oficial nr. 562 din 25 iulie 2008 · art. 302 · only part of a provision (a point, indent, note or annex, or a narrower finding)
+
+  > constată că dispoziţiile art. 302 din Codul de procedură civilă sunt neconstituţionale în partea care prevede "sub sancţiunea nulităţii".
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2008-07-25) and ceases to have legal effect 45 days later, on 2008-09-08, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
 - **[Decizia nr. 303/2009](../../../jurisprudenta/ccr/2009/303/)**, Monitorul Oficial nr. 239 din 10 aprilie 2009 · art. 288 alin. (2) · only some words or a sentence inside the provision
 
   > constată că dispoziţiile art. 288 alin. 2 teza finală, "sub sancţiunea nulităţii", din Codul de procedură civilă sunt neconstituţionale.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2009-04-10) and ceases to have legal effect 45 days later, on 2009-05-25, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 233/2011](../../../jurisprudenta/ccr/2011/233/)**, Monitorul Oficial nr. 340 din 17 mai 2011 · art. 322 · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 322 pct. 9 din Codul de procedură civilă sunt neconstituţionale în măsura în care nu permit revizuirea unei hotărâri judecătoreşti prin care, fără a se evoca fondul, s-au produs încălcări ale unor drepturi şi libertăţi fundamentale, încălcări constatate de Curtea Europeană a Drepturilor Omului.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2011-05-17) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 967/2012](../../../jurisprudenta/ccr/2012/967/)**, Monitorul Oficial nr. 853 din 18 decembrie 2012 · art. 1; art. 299 alin. (1^1) · only part of a provision (a point, indent, note or annex, or a narrower finding)
+
+  > constată că prevederile art. 1 pct. 1^1 şi art. 299 alin. 1^1 din Codul de procedură civilă sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2012-12-18) and ceases to have legal effect 45 days later, on 2013-02-01, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

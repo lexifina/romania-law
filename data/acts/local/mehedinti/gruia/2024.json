@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/gruia/2024",
+"acts": [
+{
+"slug": "hcl-mehedinti--gruia-42-2024",
+"path": "local/mehedinti/gruia/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gruia nr. 42/2024 privind aprobarea modificarii prețului pentru serviciile de furnizare apă neconformă de către Serviciul de Alimentare cu Apa al comunei Gruia cu personalitate juridica aflat in subordinea Consiliului Local Gruia",
+"short": "HCL Gruia nr. 42/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-06",
+"latest": "2024-11-06",
+"portal": "https://emol.ro/gruia-mh/registru-hcl/171906",
+"council": "mehedinti/gruia",
+"council_name": "Consiliul Local al Comunei Gruia",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

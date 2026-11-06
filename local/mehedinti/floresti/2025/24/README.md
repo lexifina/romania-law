@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Florești nr. 24/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții ”INFIINTARE RETEA DE CANALIZARE IN LOCALITATEA ZEGUJANI SI EXTINDERE RETEA DE CANALIZARE IN SATELE LIVEZI SI GARDOAIA, COMUNA FLORESTI, JUDETUL MEHEDINTI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny” în conformitate cu Legea nr. 141 din 25 iulie 2025 privind unele masuri fiscal-bugetare
+
+HCL Florești nr. 24/2025 · 1 versions, from 2025-11-11 (latest in force: 2025-11-11) · <https://emol.ro/floresti-mh/registru-hcl/228088>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-mehedinti--floresti-24-2025` (tags `hcl-mehedinti--floresti-24-2025/<day>`; `python tools/on.py <day> hcl-mehedinti--floresti-24-2025`).
+
+## Decisions made by hand
+
+- HCL Florești nr. 24/2025: listed from Consiliul Local al Comunei Florești (emol.ro); metadata only for now: no document of it is held.
+- HCL Florești nr. 24/2025: dated from 11 November 2025, the day the council's register gives it as published (adopted 1 October 2025).
+- HCL Florești nr. 24/2025: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

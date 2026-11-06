@@ -38,3 +38,13 @@ Act id: `oug-159-1999` (tags `oug-159-1999/<day>`; `python tools/on.py <day> oug
 These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
 
 - `art-005.md`, in force from 2006-06-30: Legea nr. 252/2006 (first published as no law named).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 691/2007](../../../jurisprudenta/ccr/2007/691/)**, Monitorul Oficial nr. 668 din 1 octombrie 2007 · art. 4 alin. (3) · constitutional only as the Court reads it (an interpretive decision)
+
+  > Admite excepţia de neconstituţionalitate a dispoziţiilor art. 4 alin. (3) din Ordonanţa de urgenţă a Guvernului nr. 159/1999 privind înfiinţarea Companiei Naţionale "Loteria Română" - S.A. \[…\] şi constată că prevederile textului de lege sunt neconstituţionale în măsura în care se aplică bunurilor aflate în administrarea Regiei Autonome "Loteria Naţională" care sunt proprietatea persoanelor fizice sau juridice sau proprietatea comunelor, oraşelor, municipiilor şi judeţelor.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2007-10-01) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.

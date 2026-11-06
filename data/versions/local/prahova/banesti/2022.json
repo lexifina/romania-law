@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/banesti/2022",
+ "acts": [
+  {
+   "slug": "hcl-prahova--banesti-91-2022",
+   "path": "local/prahova/banesti/2022/91",
+   "short": "HCL Bănești nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 91/2022 privind aprobarea ajustării tarifelor pentru colectarea și transportul deșeurilor, pentru utilizatorii casnici și non-casnici, aferente contractului nr.888A din 05.06.2018 de delegare prin concesiune a gestiunii activității de colectare și transport a deșeurilor municipale în Zona 7- Câmpina, modificat prin acte adiționale",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/82665",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/82665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-97-2022",
+   "path": "local/prahova/banesti/2022/97",
+   "short": "HCL Bănești nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 97/2022 privind stabilirea impozitelor şi taxelor locale în comuna Bănești, pentru anul 2023",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/84327",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/84327",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

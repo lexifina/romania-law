@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/prahova/brazi/2023",
+"acts": [
+{
+"slug": "hcl-prahova--brazi-66-2023",
+"path": "local/prahova/brazi/2023/66",
+"kind": "local",
+"year": "2023",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 66/2023 privind aprobarea Regulamentului local de implicare și consultare a publicului în elaborarea sau revizuirea documentaţiilor de urbanism şi amenajarea teritoriului la nivelul Comunei Brazi, județul Prahova",
+"short": "HCL Brazi nr. 66/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-02",
+"latest": "2023-11-02",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/127658",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--brazi-70-2023",
+"path": "local/prahova/brazi/2023/70",
+"kind": "local",
+"year": "2023",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 70/2023 privind rectificarea bugetului local al comunei Brazi, județul Prahova pe anul 2023",
+"short": "HCL Brazi nr. 70/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-02",
+"latest": "2023-11-02",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/127662",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--brazi-76-2023",
+"path": "local/prahova/brazi/2023/76",
+"kind": "local",
+"year": "2023",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 76/2023 privind rectificarea bugetului local al comunei Brazi, județul Prahova pe anul 2023",
+"short": "HCL Brazi nr. 76/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/131829",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--brazi-77-2023",
+"path": "local/prahova/brazi/2023/77",
+"kind": "local",
+"year": "2023",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 77/2023 privind stabilirea impozitelor și taxelor locale pentru anul 2024",
+"short": "HCL Brazi nr. 77/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-29",
+"latest": "2023-12-29",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/134845",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

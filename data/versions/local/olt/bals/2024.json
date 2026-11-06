@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/olt/bals/2024",
+ "acts": [
+  {
+   "slug": "hcl-olt--bals-146-2024",
+   "path": "local/olt/bals/2024/146",
+   "short": "HCL Balș nr. 146/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 146/2024 Aprobarea rectificării bugetului local de venituri și cheltuieli al orașului Balș, a listei de investiții si virari de credite între capitole bugetare pe anul 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#84459",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#84459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-147-2024",
+   "path": "local/olt/bals/2024/147",
+   "short": "HCL Balș nr. 147/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 147/2024 Aprobarea virărilor de credite între capitole bugetare în cadrul bugetului creditelor interne și modificarea listei de investiții pentru anul 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#84435",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#84435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-148-2024",
+   "path": "local/olt/bals/2024/148",
+   "short": "HCL Balș nr. 148/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 148/2024 Alocarea sumei de 20.000 lei aprobată în bugetul local al orașului Balș pe anul 2024 cultelor religioase din orașul Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#84443",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#84443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-152-2024",
+   "path": "local/olt/bals/2024/152",
+   "short": "HCL Balș nr. 152/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 152/2024 Constituirea unei comisii de analiză pentru acordarea facilităților fiscale la impozitul pe clădiri și terenuri,stabilite prin Procedura privind Schema locală de ajutor de minimis",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#84442",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#84442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-160-2024",
+   "path": "local/olt/bals/2024/160",
+   "short": "HCL Balș nr. 160/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 160/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-169-2024",
+   "path": "local/olt/bals/2024/169",
+   "short": "HCL Balș nr. 169/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 169/2024 Aprobarea rectificării bugetului local de venituri și cheltuieli al orașului Balș și a listei de investiții pe anul 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#86632",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#86632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-171-2024",
+   "path": "local/olt/bals/2024/171",
+   "short": "HCL Balș nr. 171/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 171/2024 Aprobarea rectificării bugetului local de venituri și cheltuieli al orașului Balș și a listei de investiții pe anul 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#86633",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#86633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-172-2024",
+   "path": "local/olt/bals/2024/172",
+   "short": "HCL Balș nr. 172/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 172/2024 Anularea accesoriilor aferente obligaţiilor bugetare principale , restante la data de 31 august 2024 inclusiv, datorate bugetului local al Orasului Bals, pentru persoanele fizice si juridice, precum si anularea în procent de 25% respectiv 50% din obligatiile principale restante la data de 31.08.2024 inclusiv, datorate bugetului local al Orasului Bals, pentru persoanele fizice , conform Ordonanței de urgență a Guvernului nr. 107/2024 si Ordonanței de urgență a Guvernului nr.112/2024 pentru reglementarea unor măsuri fiscal - bugetare în domeniul gestionării creanţelor bugetare şi a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#86635",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#86635",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

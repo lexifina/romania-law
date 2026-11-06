@@ -1,0 +1,183 @@
+{
+"country": "RO",
+"shard": "local/olt/bals/2024",
+"acts": [
+{
+"slug": "hcl-olt--bals-146-2024",
+"path": "local/olt/bals/2024/146",
+"kind": "local",
+"year": "2024",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 146/2024 Aprobarea rectificării bugetului local de venituri și cheltuieli al orașului Balș, a listei de investiții si virari de credite între capitole bugetare pe anul 2024",
+"short": "HCL Balș nr. 146/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-26",
+"latest": "2024-09-26",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#84459",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bals-147-2024",
+"path": "local/olt/bals/2024/147",
+"kind": "local",
+"year": "2024",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 147/2024 Aprobarea virărilor de credite între capitole bugetare în cadrul bugetului creditelor interne și modificarea listei de investiții pentru anul 2024",
+"short": "HCL Balș nr. 147/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-26",
+"latest": "2024-09-26",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#84435",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bals-148-2024",
+"path": "local/olt/bals/2024/148",
+"kind": "local",
+"year": "2024",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 148/2024 Alocarea sumei de 20.000 lei aprobată în bugetul local al orașului Balș pe anul 2024 cultelor religioase din orașul Balș",
+"short": "HCL Balș nr. 148/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-26",
+"latest": "2024-09-26",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#84443",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bals-152-2024",
+"path": "local/olt/bals/2024/152",
+"kind": "local",
+"year": "2024",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 152/2024 Constituirea unei comisii de analiză pentru acordarea facilităților fiscale la impozitul pe clădiri și terenuri,stabilite prin Procedura privind Schema locală de ajutor de minimis",
+"short": "HCL Balș nr. 152/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-26",
+"latest": "2024-09-26",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#84442",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bals-160-2024",
+"path": "local/olt/bals/2024/160",
+"kind": "local",
+"year": "2024",
+"number": "160",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 160/2024",
+"short": "HCL Balș nr. 160/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-26",
+"latest": "2024-09-26",
+"portal": null,
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-olt--bals-169-2024",
+"path": "local/olt/bals/2024/169",
+"kind": "local",
+"year": "2024",
+"number": "169",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 169/2024 Aprobarea rectificării bugetului local de venituri și cheltuieli al orașului Balș și a listei de investiții pe anul 2024",
+"short": "HCL Balș nr. 169/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-17",
+"latest": "2024-10-17",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#86632",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bals-171-2024",
+"path": "local/olt/bals/2024/171",
+"kind": "local",
+"year": "2024",
+"number": "171",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 171/2024 Aprobarea rectificării bugetului local de venituri și cheltuieli al orașului Balș și a listei de investiții pe anul 2024",
+"short": "HCL Balș nr. 171/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-23",
+"latest": "2024-10-23",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#86633",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bals-172-2024",
+"path": "local/olt/bals/2024/172",
+"kind": "local",
+"year": "2024",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 172/2024 Anularea accesoriilor aferente obligaţiilor bugetare principale , restante la data de 31 august 2024 inclusiv, datorate bugetului local al Orasului Bals, pentru persoanele fizice si juridice, precum si anularea în procent de 25% respectiv 50% din obligatiile principale restante la data de 31.08.2024 inclusiv, datorate bugetului local al Orasului Bals, pentru persoanele fizice , conform Ordonanței de urgență a Guvernului nr. 107/2024 si Ordonanței de urgență a Guvernului nr.112/2024 pentru reglementarea unor măsuri fiscal - bugetare în domeniul gestionării creanţelor bugetare şi a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum şi pentru modificarea şi completarea unor acte normative",
+"short": "HCL Balș nr. 172/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-23",
+"latest": "2024-10-23",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#86635",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

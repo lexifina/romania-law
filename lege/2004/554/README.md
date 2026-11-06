@@ -120,7 +120,19 @@ These changes were first published credited to another law. The words are unchan
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 660/2007](../../../jurisprudenta/ccr/2007/660/)**, Monitorul Oficial nr. 525 din 2 august 2007 · art. 9 · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 9 din Legea contenciosului administrativ nr. 554/2004 sunt neconstituţionale în măsura în care permit ca acţiunea introdusă la instanţa de contencios administrativ să aibă ca obiect principal constatarea neconstituţionalităţii unei ordonanţe sau a unei dispoziţii dintr-o ordonanţă.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2007-08-02) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 797/2007](../../../jurisprudenta/ccr/2007/797/)**, Monitorul Oficial nr. 707 din 19 octombrie 2007 · art. 7 alin. (7) · constitutional only as the Court reads it (an interpretive decision)
+
+  > Admite excepţia de neconstituţionalitate a dispoziţiilor art. 7 alin. (7) din Legea contenciosului administrativ nr. 554/2004 \[…\] şi constată că textul de lege este neconstituţional în măsura în care termenul de 6 luni de la data emiterii actului se aplică plângerii prealabile \[…\]
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2007-10-19) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
 
 - **[Decizia nr. 1609/2010](../../../jurisprudenta/ccr/2010/1609/)**, Monitorul Oficial nr. 70 din 27 ianuarie 2011 · art. 21 alin. (2) · only some words or a sentence inside the provision
 
@@ -134,6 +146,18 @@ The Constitutional Court found the provisions below unconstitutional in a way th
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2011-05-09) and ceases to have legal effect 45 days later, on 2011-06-23, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
 
+- **[Decizia nr. 1039/2012](../../../jurisprudenta/ccr/2012/1039/)**, Monitorul Oficial nr. 61 din 29 ianuarie 2013 · art. 21 alin. (2) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că: - Legea nr. 299/2011 pentru abrogarea alin. (2) al art. 21 din Legea contenciosului administrativ nr. 554/2004, în ansamblul său, este neconstituţională; - prevederile art. 21 alin. (2) teza întâi din Legea contenciosului administrativ nr. 554/2004 sunt neconstituţionale în măsura în care se interpretează în sensul că nu pot face obiectul revizuirii hotărârile definitive şi irevocabile pronunţate de instanţele de recurs, cu încălcarea principiului priorităţii dreptului Uniunii Europene, atunci când nu evocă fondul cauzei.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2013-01-29) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 459/2014](../../../jurisprudenta/ccr/2014/459/)**, Monitorul Oficial nr. 712 din 30 septembrie 2014 · art. 8 alin. (1); art. 2 alin. (1) lit. c) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 8 alin. (1) raportate la art. 2 alin. (1) lit. c) teza întâi din Legea contenciosului administrativ nr. 554/2004 sunt constituţionale în măsura în care se interpretează în sensul că decretele Preşedintelui privind numirea judecătorilor la Curtea Constituţională sunt excluse din sfera controlului judecătoresc sub aspectul verificării îndeplinirii condiţiei "înaltei competenţe profesionale".
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2014-09-30) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
 - **[Decizia nr. 898/2015](../../../jurisprudenta/ccr/2015/898/)**, Monitorul Oficial nr. 148 din 26 februarie 2016 · art. 24 alin. (3) · a rule read from the text ("soluție legislativă"), not its words
 
   > constată că soluţia legislativă potrivit căreia încheierea prevăzută de art. 24 alin. (3) din Legea nr. 554/2004 este "definitivă" este neconstituţională.
@@ -145,3 +169,9 @@ The Constitutional Court found the provisions below unconstitutional in a way th
   > constată că sintagma „are semnificația concilierii în cazul litigiilor comerciale, dispozițiile Codului de procedură civilă fiind aplicabile în mod corespunzător“ din cuprinsul dispozițiilor art. 7 alin. (6) și dispozițiile art. 11 alin. (1) lit. e) din Legea contenciosului administrativ nr. 554/2004, în redactarea anterioară modificării prin Legea nr. 212/2018, precum și sintagma „data încheierii procesului-verbal de conciliere“ din art. 11 alin. (2) din Legea contenciosului administrativ nr. 554/2004 sunt neconstituționale.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2020-03-11) and ceases to have legal effect 45 days later, on 2020-04-25, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 208/2025](../../../jurisprudenta/ccr/2025/208/)**, Monitorul Oficial nr. 649 din 10 iulie 2025 · art. 23 · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 23 din Legea contenciosului administrativ nr. 554/2004, în interpretarea dată prin Decizia nr. 10 din 11 mai 2015, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, sunt neconstituționale.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2025-07-10) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.

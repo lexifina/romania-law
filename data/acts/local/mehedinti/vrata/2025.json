@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/vrata/2025",
+"acts": [
+{
+"slug": "hcl-mehedinti--vrata-28-2025",
+"path": "local/mehedinti/vrata/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vrata nr. 28/2025 privind actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții \"REABILITARE DRUMURI COMUNA VRATA, JUDETUL MEHEDINTI \", aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny” precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Vrata nr. 28/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/vrata-mh/registru-hcl/253032",
+"council": "mehedinti/vrata",
+"council_name": "Consiliul Local al Comunei Vrata",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--vrata-31-2025",
+"path": "local/mehedinti/vrata/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vrata nr. 31/2025 privind aprobarea documentatiei tehnico-economice – faza PT si a indicatorilor tehnico-economici pentru obiectivul de investiții: „INFIINTARE CAPACITATE DE PRODUCERE A ENERGIEI ELECTRICE PRODUSA DIN SURSE REGENERABILE PENTRU AUTOCONSUM IN CADRUL UAT VRATA, JUDETUL MEHEDINTI”",
+"short": "HCL Vrata nr. 31/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/vrata-mh/registru-hcl/253034",
+"council": "mehedinti/vrata",
+"council_name": "Consiliul Local al Comunei Vrata",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--vrata-35-2025",
+"path": "local/mehedinti/vrata/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vrata nr. 35/2025 privind alocarea sumei de 30.000 lei din bugetul Consiliului Local al comunei Vrata, in vederea achiziționării de pachete cu dulciuri și acordarea acestora sub formă de cadouri de Craciun pentru preșcolarii și elevii Școlii Gimnaziale Vrata",
+"short": "HCL Vrata nr. 35/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/vrata-mh/registru-hcl/253038",
+"council": "mehedinti/vrata",
+"council_name": "Consiliul Local al Comunei Vrata",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--vrata-36-2025",
+"path": "local/mehedinti/vrata/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vrata nr. 36/2025 privind analizarea si respingerea cererilor de ajustare / modificare a tarifelor de colectare separata și transport separat al deșeurilor reziduale, a tarifului de colectare si transport separat al deșeurilor reciclabile de hârtie, metal, plastic și sticlă formulată de către SC ECOSAL DROBETA SRL și tariful de depozitare formulată de SC BRANTNER SERVICII ECOLOGICE SRL și transmisă de către ADIS Mehedinți",
+"short": "HCL Vrata nr. 36/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/vrata-mh/registru-hcl/253039",
+"council": "mehedinti/vrata",
+"council_name": "Consiliul Local al Comunei Vrata",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--vrata-41-2025",
+"path": "local/mehedinti/vrata/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vrata nr. 41/2025 privind stabilirea impozitelor şi taxelor locale pentru anul 2026",
+"short": "HCL Vrata nr. 41/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/vrata-mh/registru-hcl/253046",
+"council": "mehedinti/vrata",
+"council_name": "Consiliul Local al Comunei Vrata",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

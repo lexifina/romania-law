@@ -85,7 +85,7 @@ Act id: `legea-10-2001` (tags `legea-10-2001/<day>`; `python tools/on.py <day> l
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 98/2002](../../../jurisprudenta/ccr/2002/98/)**, Monitorul Oficial nr. 301 din 8 mai 2002 · art. 46 alin. (3) · decided before the 2003 revision of the Constitution
 
@@ -98,3 +98,9 @@ The Constitutional Court found the provisions below unconstitutional in a way th
   > constată că, prin abrogarea sintagmei "imobilele preluate cu titlu valabil" din cuprinsul art. 29 alin. (1) din Legea nr. 10/2001, acesta încalcă dispoziţiile art. 15 alin. (2) şi art. 16 alin. (1) din Constituţie.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2008-07-24) and ceases to have legal effect 45 days later, on 2008-09-07, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 841/2015](../../../jurisprudenta/ccr/2015/841/)**, Monitorul Oficial nr. 110 din 12 februarie 2016 · art. 5 alin. (1) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că prevederile art. 5 alin. (1) din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989 sunt constituţionale în măsura în care nu permit restituirea în natură sau acordarea de măsuri reparatorii prin echivalent persoanelor care intră sub incidenţa acordurilor încheiate de România cu alte state privind reglementarea problemelor financiare în suspensie enumerate în anexa nr. 1 a Legii nr. 10/2001.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2016-02-12) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.

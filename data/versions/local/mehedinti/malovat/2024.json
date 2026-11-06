@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/malovat/2024",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--malovat-53-2024",
+   "path": "local/mehedinti/malovat/2024/53",
+   "short": "HCL Malovăț nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 53/2024 privind organizarea reţelei unităţilor de învăţământ preuniversitar de stat acreditate pentru anul şcolar 2025/2026",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/179458",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/179458",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

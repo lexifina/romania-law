@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/olt/milcov/2025",
+ "acts": [
+  {
+   "slug": "hcl-olt--milcov-41-2025",
+   "path": "local/olt/milcov/2025/41",
+   "short": "HCL Milcov nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 41/2025 privind aprobarea rețelei școlare din comuna Milcov, județul Olt, pentru anul 2026-2027",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/244155",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/244155",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

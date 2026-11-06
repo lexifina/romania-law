@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/eselnita/2024",
+"acts": [
+{
+"slug": "hcl-mehedinti--eselnita-92-2024",
+"path": "local/mehedinti/eselnita/2024/92",
+"kind": "local",
+"year": "2024",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 92/2024 privind aprobarea participării Comunei Eselnița în cadrul Programului privind creșterea eficienței energetice a infrastructurii de iluminat public, precum și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul „Modernizare și eficientizarea sistemului de iluminat public în comuna Eșelnița, județul Mehedinți”",
+"short": "HCL Eșelnița nr. 92/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-25",
+"latest": "2024-11-25",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/177269",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-104-2024",
+"path": "local/mehedinti/eselnita/2024/104",
+"kind": "local",
+"year": "2024",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 104/2024",
+"short": "HCL Eșelnița nr. 104/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/183766",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/prahova/filipestii-de-targ/2023",
+"acts": [
+{
+"slug": "hcl-prahova--filipestii-de-targ-78-2023",
+"path": "local/prahova/filipestii-de-targ/2023/78",
+"kind": "local",
+"year": "2023",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 78/2023 privind mandatarea reprezentanților legali ai comunei Filipeștii de Târg ( consilierii locali) în Adunarea Generală a Acționarilor la SC APĂ FILIPEȘTII DE TÂRG S.R.L",
+"short": "HCL Filipeștii de Târg nr. 78/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/filipestiidetarg-ph/registru-hcl/130825",
+"council": "prahova/filipestii-de-targ",
+"council_name": "Consiliul Local al Comunei Filipeștii de Târg",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

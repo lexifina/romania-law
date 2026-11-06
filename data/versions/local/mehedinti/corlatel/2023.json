@@ -196,6 +196,51 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-31-2023",
+   "path": "local/mehedinti/corlatel/2023/31",
+   "short": "HCL Corlățel nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 31/2023 privind alocarea unei sume de bani din bugetul consiliului local al comunei Corlățel pentru cadourile de sărbătorile de iarnă ale anului 2023 la preșcolarii și școlarii Școlii Profesionale Corlățel",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/132754",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/132754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-32-2023",
+   "path": "local/mehedinti/corlatel/2023/32",
+   "short": "HCL Corlățel nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 32/2023 privind aprobarea rectificării bugetului de venituri si cheltuieli al comunei Corlățel pe anul 2023",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/132755",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/132755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-33-2023",
+   "path": "local/mehedinti/corlatel/2023/33",
+   "short": "HCL Corlățel nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 33/2023 privind aprobarea rectificării bugetului de venituri si cheltuieli al comunei Corlățel pe anul 2023",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/134300",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/134300",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

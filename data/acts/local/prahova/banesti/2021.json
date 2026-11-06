@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/prahova/banesti/2021",
+"acts": [
+{
+"slug": "hcl-prahova--banesti-92-2021",
+"path": "local/prahova/banesti/2021/92",
+"kind": "local",
+"year": "2021",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 92/2021 privind aprobarea tarifelor pentru colectarea și transportul deșeurilor,pentru utilizatorii casnici și non-casnici, aferente contractului nr.888A din 05.06.2018 de delegare prin concesiune a gestiunii activității de colectare și transport a deșeurilor municipale în Zona 7- Câmpina, modificat prin acte adiționale",
+"short": "HCL Bănești nr. 92/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/43927",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-94-2021",
+"path": "local/prahova/banesti/2021/94",
+"kind": "local",
+"year": "2021",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 94/2021 privind stabilirea impozitelor şi taxelor locale în comuna Bănești, pentru anul 2022",
+"short": "HCL Bănești nr. 94/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/45963",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

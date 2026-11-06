@@ -48,10 +48,16 @@ Act id: `decret-lege-118-1990` (tags `decret-lege-118-1990/<day>`; `python tools
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 55/2000](../../../jurisprudenta/ccr/2000/55/)**, Monitorul Oficial nr. 366 din 7 august 2000 · art. 13 alin. (1) · decided before the 2003 revision of the Constitution
 
   > constata ca dispoziţiile art. 13 alin. (1) şi (2) din Decretul-lege nr. 118/1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum şi celor deportate în străinătate ori constituite în prizonieri, republicat, sunt neconstituţionale.
 
   Given before the 2003 revision of the Constitution (no 45-day rule) and published on 2000-08-07; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 148/2001](../../../jurisprudenta/ccr/2001/148/)**, Monitorul Oficial nr. 592 din 20 septembrie 2001 · decided before the 2003 revision of the Constitution
+
+  > constata ca sunt neconstituţionale dispoziţiile art. 8 alin. (3) din "Decretul-lege nr. 118/1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum şi celor deportate în străinătate ori constituite în prizonieri", republicat, cu modificările ulterioare, dispoziţii prin care se prevăd termene pentru depunerea cererilor privind stabilirea drepturilor titularilor.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 2001-09-20; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.

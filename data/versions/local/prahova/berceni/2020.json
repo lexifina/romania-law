@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/berceni/2020",
+ "acts": [
+  {
+   "slug": "hcl-prahova--berceni-104-2020",
+   "path": "local/prahova/berceni/2020/104",
+   "short": "HCL Berceni nr. 104/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 104/2020 privind aprobarea rectificării bugetului de venituri și cheltuieli al Comunei Berceni la data de 14.12.2020",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/17953",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/17953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-105-2020",
+   "path": "local/prahova/berceni/2020/105",
+   "short": "HCL Berceni nr. 105/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 105/2020 privind modificarea Anexei nr. 1 la HCL nr. 83/28.10.2020 privind Lista cu investitiile care se vor derula prin bugetul local pe anul 2020",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/17954",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/17954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-110-2020",
+   "path": "local/prahova/berceni/2020/110",
+   "short": "HCL Berceni nr. 110/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 110/2020 privind aprobarea rectificării bugetului de venituri și cheltuieli al Comunei Berceni la data de 21.12.2020",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/17965",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/17965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-98-2020",
+   "path": "local/prahova/berceni/2020/98",
+   "short": "HCL Berceni nr. 98/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 98/2020 privind aprobarea finanțării obiectivului de investiții “Extindere RED în vederea AEE a 7 locuințe în comuna Berceni, Corlătești, str. Prelungirea Ghighiu, județul Prahova”, cu recuperarea finanțării de la SDEE Muntenia Nord-Sucursala Ploiești",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/17947",
+   "versions": [
+    {
+     "from": "2020-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/17947",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

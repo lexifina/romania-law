@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/mures/ibanesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-mures--ibanesti-69-2025",
+   "path": "local/mures/ibanesti/2025/69",
+   "short": "HCL Ibănești nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 69/2025 privind privind avizarea încheierii unui act adițional la Contractul nr. 2472/05.05.2025 privind delegarea gestiunii activităților de tratare mecano-biologică a deșeurilor reziduale, inclusiv transportul deșeurilor stabilizate biologic și al deșeurilor reziduale care nu mai pot fi valorificate la DDN Sânpaul și al deșeurilor reziduale valorificabile energetic la instalațiile de valorificare energetică, prin exploatarea Stației de Tratare Mecanică și Biologică Sânpaul din Județul Mureș",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/238202",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/238202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-70-2025",
+   "path": "local/mures/ibanesti/2025/70",
+   "short": "HCL Ibănești nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 70/2025 privind avizarea încheierii unui act adiţional la contractul nr. 2564/23.05.2024 de delegare a gestiunii activităţilor de colectare şi transport a deşeurilor municipale şi a altor fluxuri de deşeuri, și operarea stației de transfer Reghin, componente ale serviciului de salubrizare al Județului Mureș din cadrul Sistemului de Management Integrat al Deșeurilor Municipale Solide din Județul Mureș (SMIDS Mureș) – zona 4 Reghin",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/238203",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/238203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-73-2025",
+   "path": "local/mures/ibanesti/2025/73",
+   "short": "HCL Ibănești nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 73/2025 privind aprobarea Strategiei anuale a achiziţiilor publice și a planului de achiziții la nivelul Comunei Ibăneşti, la nivelul Serviciului public de alimentare cu apă și canalizare – Comuna Ibănești și a Școlii Gimnaziale Ibănești pentru anul 2026",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/241194",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/241194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-81-2025",
+   "path": "local/mures/ibanesti/2025/81",
+   "short": "HCL Ibănești nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 81/2025 privind aprobarea taxelor de salubrizare distincte începând cu anul 2026, stabilite în conformitate cu prevederile Ordinului ANRSC nr. 640/2022 privind aprobarea Normelor metodologice de stabilire, ajustare sau modificare a tarifelor pentru activităţile de salubrizare, precum şi de calculare a tarifelor/taxelor distincte pentru gestionarea deşeurilor şi a taxelor de salubrizare, cu modificările și completările ulterioare, aferente Comunei Ibănești",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/241202",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/241202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-82-2025",
+   "path": "local/mures/ibanesti/2025/82",
+   "short": "HCL Ibănești nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 82/2025 privind stabilirea impozitelor şi taxelor locale aplicabile în comuna Ibăneşti începând cu anul 2026, precum şi a unor tarife",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/245359",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/245359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-83-2025",
+   "path": "local/mures/ibanesti/2025/83",
+   "short": "HCL Ibănești nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 83/2025 privind fixarea unei taxe pentru transport material lemnos pe drumurile comunale, drumurile forestiere transmise comunei Ibănești prin HG Nr.745/2023, HG Nr.554/2024 și HG Nr.1086/2024 sau alte categorii de drumuri aflate în proprietatea sau administrarea comunei Ibănești",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/245360",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/245360",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

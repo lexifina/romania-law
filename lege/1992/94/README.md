@@ -93,7 +93,7 @@ Act id: `legea-94-1992` (tags `legea-94-1992/<day>`; `python tools/on.py <day> l
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 64/1994](../../../jurisprudenta/ccr/1994/64/)**, Monitorul Oficial nr. 177 din 12 iulie 1994 · art. 1 alin. (1) · decided before the 2003 revision of the Constitution
 
@@ -112,3 +112,9 @@ The Constitutional Court found the provisions below unconstitutional in a way th
   > constata ca prevederile art. 19 lit. d) din Legea nr. 94/1992 privind organizarea şi funcţionarea Curţii de Conturi sunt neconstituţionale.
 
   Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1999-06-07; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 463/2003](../../../jurisprudenta/ccr/2003/463/)**, Monitorul Oficial nr. 43 din 19 ianuarie 2004 · art. 19 lit. c) · not matched automatically to one provision of this text
+
+  > constată că prevederile art. 19 lit. c) din Legea nr. 94/1992 privind organizarea şi funcţionarea Curţii de Conturi, republicată, modificată şi completată prin Legea nr. 77/2002 sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2004-01-19) and ceases to have legal effect 45 days later, on 2004-03-04, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it names provisions of more than one act. The text here is unchanged; read the decision.

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/calugareni/2023",
+ "acts": [
+  {
+   "slug": "hcl-prahova--calugareni-64-2023",
+   "path": "local/prahova/calugareni/2023/64",
+   "short": "HCL Călugăreni nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 64/2023 VALIDARE DISPOZITIE NR.198/29.11.2023",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#69582",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#69582",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

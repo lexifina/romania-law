@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/prahova/filipestii-de-targ/2025",
+"acts": [
+{
+"slug": "hcl-prahova--filipestii-de-targ-48-2025",
+"path": "local/prahova/filipestii-de-targ/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 48/2025 privind aprobarea rectificării bugetului de venituri si cheltuieli pentru anul 2025 al SC APA FILIPEȘTII DE TÂRG SRL",
+"short": "HCL Filipeștii de Târg nr. 48/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/filipestiidetarg-ph/registru-hcl/230449",
+"council": "prahova/filipestii-de-targ",
+"council_name": "Consiliul Local al Comunei Filipeștii de Târg",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-targ-63-2025",
+"path": "local/prahova/filipestii-de-targ/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 63/2025 privind stabilirea impozitelor și taxelor locale precum și a taxelor speciale aplicabile în anul fiscal 2026 în comuna Filipeștii de Târg, județul Prahova",
+"short": "HCL Filipeștii de Târg nr. 63/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-05",
+"latest": "2026-01-05",
+"portal": "https://emol.ro/filipestiidetarg-ph/registru-hcl/243330",
+"council": "prahova/filipestii-de-targ",
+"council_name": "Consiliul Local al Comunei Filipeștii de Târg",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

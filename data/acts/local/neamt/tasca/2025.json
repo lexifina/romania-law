@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/neamt/tasca/2025",
+"acts": [
+{
+"slug": "hcl-neamt--tasca-129-2025",
+"path": "local/neamt/tasca/2025/129",
+"kind": "local",
+"year": "2025",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 129/2025 privind aprobarea actualizării indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Înființare rețea de apă uzată în comuna Tașca, județul Neamț” aprobat pentru finanțare prin Programul Național de Dezvoltare Locală precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Tașca nr. 129/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/272224",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tasca-130-2025",
+"path": "local/neamt/tasca/2025/130",
+"kind": "local",
+"year": "2025",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 130/2025 privind aprobarea actualizării indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții „MODERNIZARE STRADA IZVORULUI ȘI STRADA IASOMIEI, SAT NEAGRA, COMUNA TAȘCA, JUDEȚUL NEAMȚ” finanțat din bugetul local",
+"short": "HCL Tașca nr. 130/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/272227",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tasca-141-2025",
+"path": "local/neamt/tasca/2025/141",
+"kind": "local",
+"year": "2025",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 141/2025 privind stabilirea nivelurilor pentru valorile impozabile, impozitelor și taxelor locale și a altor taxe asimilate acestora, aplicabile începând cu anul 2026",
+"short": "HCL Tașca nr. 141/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-04",
+"latest": "2026-06-04",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/272422",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

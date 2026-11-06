@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/prahova/calugareni/2024",
+"acts": [
+{
+"slug": "hcl-prahova--calugareni-48-2024",
+"path": "local/prahova/calugareni/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 48/2024 APROBAREA EXECUTIEI BUGETARE LA 30.09.2024",
+"short": "HCL Călugăreni nr. 48/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#87041",
+"council": "prahova/calugareni",
+"council_name": "Consiliul Local al Comunei Călugăreni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--calugareni-50-2024",
+"path": "local/prahova/calugareni/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 50/2024 APROBARE PLAN ANUAL DE ACTIUNE SERVICII SOCIALE",
+"short": "HCL Călugăreni nr. 50/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#87043",
+"council": "prahova/calugareni",
+"council_name": "Consiliul Local al Comunei Călugăreni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--calugareni-51-2024",
+"path": "local/prahova/calugareni/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 51/2024 APROBARE PLAN ANUAL DE LUCRARI VMI",
+"short": "HCL Călugăreni nr. 51/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#87044",
+"council": "prahova/calugareni",
+"council_name": "Consiliul Local al Comunei Călugăreni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--calugareni-52-2024",
+"path": "local/prahova/calugareni/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 52/2024 ALEGEREA PRESEDINTELUI DE SEDINTA IAN-MARTIE 2025",
+"short": "HCL Călugăreni nr. 52/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#87046",
+"council": "prahova/calugareni",
+"council_name": "Consiliul Local al Comunei Călugăreni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

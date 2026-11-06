@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/filipestii-de-padure/2026",
+ "acts": [
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-54-2026",
+   "path": "local/prahova/filipestii-de-padure/2026/54",
+   "short": "HCL Filipeștii de Pădure nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 54/2026 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/283404",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/283404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-55-2026",
+   "path": "local/prahova/filipestii-de-padure/2026/55",
+   "short": "HCL Filipeștii de Pădure nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 55/2026 privind aprobarea Regulamentului de stabilire a criteriilor și a procedurii de acordare și retragere a titlului de „Cetățean de Onoare al Comunei Filipeștii de Pădure”",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/288139",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/288139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-57-2026",
+   "path": "local/prahova/filipestii-de-padure/2026/57",
+   "short": "HCL Filipeștii de Pădure nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 57/2026 aprobarea participării UAT comuna Filipestii de Padure la proiectul ”CASTER-PH 2 – Capacități de stocare energie regenerabilă în județul Prahova”",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/288985",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/288985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-60-2026",
+   "path": "local/prahova/filipestii-de-padure/2026/60",
+   "short": "HCL Filipeștii de Pădure nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 60/2026 privind infiintarea obiectivului de investitii “Amenajare curte interioară, grupuri sanitare, lucrări conexe și sistem de detecție la imobilul Grădinița-Cresa, Comuna Filipestii de Padure ”",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293118",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-61-2026",
+   "path": "local/prahova/filipestii-de-padure/2026/61",
+   "short": "HCL Filipeștii de Pădure nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 61/2026 privind infiintarea obiectivului de investitii “Amenajare șanțuri și rigole, strada Gării sat Filipeștii de Pădure Comuna Filipestii de Padure”",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293119",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-63-2026",
+   "path": "local/prahova/filipestii-de-padure/2026/63",
+   "short": "HCL Filipeștii de Pădure nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 63/2026 privind infiintarea obiectivului de investitii „Achiziție echipamente intretinere domeniu public”",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293121",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-64-2026",
+   "path": "local/prahova/filipestii-de-padure/2026/64",
+   "short": "HCL Filipeștii de Pădure nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 64/2026 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investitii „ AMENAJARE SI IMPREJMUIRE ZONA VERDE BLOCURI COMUNA FILIPESTII DE PADURE ”",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293122",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-65-2026",
+   "path": "local/prahova/filipestii-de-padure/2026/65",
+   "short": "HCL Filipeștii de Pădure nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 65/2026 pentru modificarea HCL nr. 14/25.02.2026 pentru modificarea HCL nr. 43/27.10.2025 privind aprobarea Proiectului tehnic și a indicatorilor tehnico-economici, pentru obiectivul de investiţii ”Creșterea eficienței energiei electrice și gestionarea inteligentă a energiei în clădirile publice - Grădinița din comuna Filipeștii de Pădure”",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293123",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-66-2026",
+   "path": "local/prahova/filipestii-de-padure/2026/66",
+   "short": "HCL Filipeștii de Pădure nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 66/2026 privind aprobarea contractului de servicii cu SC INTERMEZZO ACADEMY SRL pentru activitati de pictura, desen si coregrafie dansuri populare in Comuna Filipestii de Padure",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293124",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-67-2026",
+   "path": "local/prahova/filipestii-de-padure/2026/67",
+   "short": "HCL Filipeștii de Pădure nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 67/2026",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293125",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-68-2026",
+   "path": "local/prahova/filipestii-de-padure/2026/68",
+   "short": "HCL Filipeștii de Pădure nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 68/2026 privind aprobarea Acordului de parteneriat in vederea impaduririi unei suprafete de 500 mp in Comuna Filipestii de Padure",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293126",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-69-2026",
+   "path": "local/prahova/filipestii-de-padure/2026/69",
+   "short": "HCL Filipeștii de Pădure nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 69/2026 privind aprobarea inițierii procedurii de elaborare/actualizare a Planului Urbanistic General și a Regulamentului Local de Urbanism aferent comunei Filipeștii de Pădure, județul Prahova",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293127",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-71-2026",
+   "path": "local/prahova/filipestii-de-padure/2026/71",
+   "short": "HCL Filipeștii de Pădure nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 71/2026 pentru modificarea HCL nr. 57/22.12.2025 privind aprobarea indicatorilor tehnico-economici și a devizului general - faza Proiect Tehnic pentru obiectivul de investiții ”Înlocuire conductă apă potabilă și bazin de clorinare, reabilitare puț apă, achiziție pompe Comuna Filipeștii de Pădure (SF, DALI, PT și execuție) - obiectiv multianual”",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293129",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-73-2026",
+   "path": "local/prahova/filipestii-de-padure/2026/73",
+   "short": "HCL Filipeștii de Pădure nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 73/2026 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2026",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293131",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/293131",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

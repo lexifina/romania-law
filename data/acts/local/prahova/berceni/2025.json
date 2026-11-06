@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/prahova/berceni/2025",
+"acts": [
+{
+"slug": "hcl-prahova--berceni-136-2025",
+"path": "local/prahova/berceni/2025/136",
+"kind": "local",
+"year": "2025",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 136/2025 privind aprobarea STRATEGIEI LOCALE DE DEZVOLTARE DURABILĂ A COMUNEI BERCENI 2025-2035",
+"short": "HCL Berceni nr. 136/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/245330",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--berceni-142-2025",
+"path": "local/prahova/berceni/2025/142",
+"kind": "local",
+"year": "2025",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 142/2025 pentru modificarea HCL 50/30.04.2025 privind stabilirea impozitelor şi taxelor locale, precum si a taxelor speciale ale Comunei Berceni pentru anul 2026",
+"short": "HCL Berceni nr. 142/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/245336",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

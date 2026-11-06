@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/neamt/gadinti/2024",
+"acts": [
+{
+"slug": "hcl-neamt--gadinti-60-2024",
+"path": "local/neamt/gadinti/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 60/2024 privind aprobarea rețelei școlare din comuna Gâdinți pentru anul școlar 2025-2026",
+"short": "HCL Gâdinți nr. 60/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/179688",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--gadinti-67-2024",
+"path": "local/neamt/gadinti/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 67/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+"short": "HCL Gâdinți nr. 67/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/181658",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

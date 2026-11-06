@@ -77,7 +77,13 @@ Act id: `og-2-2001` (tags `og-2-2001/<day>`; `python tools/on.py <day> og-2-2001
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 228/2007](../../../jurisprudenta/ccr/2007/228/)**, Monitorul Oficial nr. 283 din 27 aprilie 2007 · art. 12 alin. (1) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 12 alin. (1) din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor sunt neconstituţionale în măsura în care prin sintagma "nu se mai sancţionează" prevăzută în text se înţelege doar aplicarea sancţiunii contravenţionale, nu şi executarea acesteia.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2007-04-27) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
 
 - **[Decizia nr. 1354/2008](../../../jurisprudenta/ccr/2008/1354/)**, Monitorul Oficial nr. 887 din 29 decembrie 2008 · art. 9 · only some words or a sentence inside the provision
 

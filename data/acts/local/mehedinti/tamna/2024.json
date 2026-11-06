@@ -1,0 +1,204 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/tamna/2024",
+"acts": [
+{
+"slug": "hcl-mehedinti--tamna-12-2024",
+"path": "local/mehedinti/tamna/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 12/2024 privind aprobarea executiei bugetare pe anul 2023",
+"short": "HCL Tâmna nr. 12/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-27",
+"latest": "2024-05-27",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/157027",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-13-2024",
+"path": "local/mehedinti/tamna/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 13/2024 privind actualizarea devizului general dupa licitatie pentru obiectivul de investiții \" ASFALTARE DRUMURI ȘI ULIȚE SĂTEȘTI ÎN COMUNA TÂMNA, JUDEȚUL MEHEDINȚI\",",
+"short": "HCL Tâmna nr. 13/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-27",
+"latest": "2024-05-27",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/157028",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-14-2024",
+"path": "local/mehedinti/tamna/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 14/2024 privind aprobarea planului de acţiuni şi lucrări de interes local ce vor fi efectuate în anul 2024 de către persoanele apte de muncă beneficiare venitul minim de incluziune sociala potrivit Legii nr.196/2016 privind venitul minim de incluziune , cu modificările şi completările ulterioare",
+"short": "HCL Tâmna nr. 14/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-07-02",
+"latest": "2024-07-02",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/160644",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-17-2024",
+"path": "local/mehedinti/tamna/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 17/2024 privind actualizarea devizului general al obiectivului de investitii ,,CRESTEREA EFICIENTEI ENERGETICE A CLADIRII PRIMARIEI TAMNA,, dupa licitatie",
+"short": "HCL Tâmna nr. 17/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-07-02",
+"latest": "2024-07-02",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/160647",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-18-2024",
+"path": "local/mehedinti/tamna/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 18/2024 privind aprobarea realizarii investitiei-,,Foraj suplimentar de alimentare cu apa in satul Plopi, comuna Tamna Judetul Mehedinti,,",
+"short": "HCL Tâmna nr. 18/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-07-30",
+"latest": "2024-07-30",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/163665",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-23-2024",
+"path": "local/mehedinti/tamna/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 23/2024 privind aprobarea indicatorilor tehnico-economici si a devizului general la obiectivul de investitii cresterea eficientei energetice a infrastructurii de iluminat public in Comuna Tamna",
+"short": "HCL Tâmna nr. 23/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/177384",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-26-2024",
+"path": "local/mehedinti/tamna/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 26/2024 privind rectificarea bugetului local al comunei Tamna pe anul 2024 -R 2",
+"short": "HCL Tâmna nr. 26/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-13",
+"latest": "2024-12-13",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/182003",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-30-2024",
+"path": "local/mehedinti/tamna/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 30/2024 privind stabilirea impozitelor si taxelor locale pentru anul 2025, pe raza comunei Tamna judetul Mehedinti",
+"short": "HCL Tâmna nr. 30/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-27",
+"latest": "2024-12-27",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/185057",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-31-2024",
+"path": "local/mehedinti/tamna/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 31/2024 privind Eficientizare Energetica a Infrastructurii de iluminat public in comuna Tamna, judetul Mehedinti",
+"short": "HCL Tâmna nr. 31/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-27",
+"latest": "2024-12-27",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/185058",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

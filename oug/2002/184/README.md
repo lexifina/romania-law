@@ -34,7 +34,7 @@ Act id: `oug-184-2002` (tags `oug-184-2002/<day>`; `python tools/on.py <day> oug
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 355/2020](../../../jurisprudenta/ccr/2020/355/)**, Monitorul Oficial nr. 1084 din 16 noiembrie 2020 · art. II alin. (4) · unconstitutional only to the extent stated ("în măsura în care")
 

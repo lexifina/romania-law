@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/eselnita/2022",
+"acts": [
+{
+"slug": "hcl-mehedinti--eselnita-137-2022",
+"path": "local/mehedinti/eselnita/2022/137",
+"kind": "local",
+"year": "2022",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 137/2022 privind aprobarea demarării procedurii de licitație publică în SEAP în vederea executării lucrării de EXTINDERE ILUMINAT PUBLIC pe strada Duzilor-sat vechi, strada cimitirului nou-str. Narciselor în comuna Eșelnița, județul Mehedinți",
+"short": "HCL Eșelnița nr. 137/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/82857",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-142-2022",
+"path": "local/mehedinti/eselnita/2022/142",
+"kind": "local",
+"year": "2022",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 142/2022 privind participarea Comunei Eșelnița la implementarea proiectului „Traseu Eurovelo 6 Mehedinți-Dolj-Olt” din Investiția I.4 ”Implementarea a 3000 km de trasee cicloturistice” finanțat din PNRR, Componența 11-Turism și cultură",
+"short": "HCL Eșelnița nr. 142/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-25",
+"latest": "2023-01-25",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/86654",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-148-2022",
+"path": "local/mehedinti/eselnita/2022/148",
+"kind": "local",
+"year": "2022",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 148/2022",
+"short": "HCL Eșelnița nr. 148/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/90863",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

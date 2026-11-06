@@ -205,3 +205,49 @@ Act id: `legea-10-1972` (tags `legea-10-1972/<day>`; `python tools/on.py <day> l
 - Legea nr. 10/1972: the first version is the law as published in Buletinul Oficial nr. 140 of 1 December 1972 (document 295 of the official web service), dated 1 December 1972: it sets no day of its own, so in force on publication, the day the official record gives. Later acts change it, but no consolidated form of it is held, so this record holds only the text as published; no page of the act is held.
 - Legea nr. 10/1972: REPEALED. OG nr. 4/2013; Legea nr. 53/2003; OUG nr. 65/2005; OUG nr. 53/2017; OUG nr. 36/2021; OUG nr. 117/2021 repeal this law (read in the held copies of the official web service's documents and Lexifina's repeal index). The day the repeal took effect is not settled here, so no version removing its text is made: the text shown is the act as published, kept as a historical record, and is not in force.
 - Legea nr. 10/1972: AMENDMENTS NOT APPLIED. Later acts change this act (by: Legea nr. 108/1999; Legea nr. 168/1999; Legea nr. 108/1999; Legea nr. 147/1990 (the Chamber of Deputies' act sheet); Legea nr. 6/1992 (the Chamber of Deputies' act sheet); Legea nr. 53/2003 (the Chamber of Deputies' act sheet); Legea nr. 104/1992 (the Chamber of Deputies' act sheet); Legea nr. 255/2013 (the Chamber of Deputies' act sheet)), but no consolidated text of it is held: the Portalul legislativ has not answered since 5 November 2026 and no complete archive capture of a consolidated form is held. This record therefore holds only the act as published, as the official web service returns it (FreeWebService, http://legislatie.just.ro/apiws/FreeWebService.svc), document 295, retrieved 2026-11-02; read the amending acts for the text in force. The consolidated versions are to be added when a source for them is available.
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 59/1994](../../../jurisprudenta/ccr/1994/59/)**, Monitorul Oficial nr. 259 din 15 septembrie 1994 · art. 175 alin. (1) lit. b) · decided before the 2003 revision of the Constitution
+
+  > constata ca prevederile art. 175 alin. 1 lit. b) din Codul muncii sunt neconstituţionale.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1994-09-15. The decision was open to appeal (recurs) when given; a decision on appeal may have changed it. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 66/1995](../../../jurisprudenta/ccr/1995/66/)**, Monitorul Oficial nr. 210 din 13 septembrie 1995 · art. 175 alin. (1) lit. c) · decided before the 2003 revision of the Constitution
+
+  > constata ca prevederile art. 175 alin. (1) lit. c) din Codul muncii sunt neconstituţionale.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1995-09-13. The decision was open to appeal (recurs) when given; a decision on appeal may have changed it. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 90/1995](../../../jurisprudenta/ccr/1995/90/)**, Monitorul Oficial nr. 272 din 23 noiembrie 1995 · art. 175 alin. (1) lit. a) · decided before the 2003 revision of the Constitution
+
+  > constata ca prevederile art. 175 alin. (1) lit. a) din Codul muncii sunt neconstituţionale.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1995-11-23. The decision was open to appeal (recurs) when given; a decision on appeal may have changed it. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 3/1998](../../../jurisprudenta/ccr/1998/3/)**, Monitorul Oficial nr. 113 din 16 martie 1998 · art. 175 alin. (1) lit. d) · decided before the 2003 revision of the Constitution
+
+  > constata ca dispoziţiile art. 175 alin. (1) lit. d) din Codul muncii sunt neconstituţionale.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1998-03-16; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 160/1999](../../../jurisprudenta/ccr/1999/160/)**, Monitorul Oficial nr. 610 din 14 decembrie 1999 · art. 136 alin. (1) · decided before the 2003 revision of the Constitution
+
+  > constata ca sunt contrare Constituţiei şi, în consecinţa, nu mai sunt în vigoare, potrivit art. 150 alin. (1) din Constituţie, dispoziţiile tezei finale a art. 136 alin. (1) din Codul muncii, conform cărora despăgubirea cuvenită salariatului reincadrat în funcţia avută, ca urmare a anulării desfacerii contractului de muncă, este "calculată pe baza salariului sau mediu realizat în ultimele 3 luni anterioare desfacerii contractului de muncă".
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1999-12-14; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 193/2001](../../../jurisprudenta/ccr/2001/193/)**, Monitorul Oficial nr. 441 din 6 august 2001 · art. 136 alin. (2) · decided before the 2003 revision of the Constitution
+
+  > constata ca dispoziţiile art. 136 alin. (2) din Codul muncii nu mai sunt în vigoare întrucât sunt contrare prevederilor art. 16 alin. (1), ale art. 38 alin. (1) şi ale art. 134 alin. (1) din Constituţie.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 2001-08-06; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 253/2001](../../../jurisprudenta/ccr/2001/253/)**, Monitorul Oficial nr. 837 din 27 decembrie 2001 · art. 69 · decided before the 2003 revision of the Constitution
+
+  > constata ca, în măsura în care prevederea legală se interpretează în sensul că transferul în interesul serviciului s-ar putea efectua fără acordul persoanei încadrate, dispoziţiile art. 69 din Codul muncii nu mai sunt în vigoare potrivit art. 150 alin. (1) din Constituţie.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 2001-12-27; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.

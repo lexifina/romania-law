@@ -30,7 +30,7 @@ The tables, files and sources behind this repository. The [README](README.md) ha
 | File | What |
 | --- | --- |
 | `data/decisions.csv`, `data/rulings-by-provision.json` | every court decision here, and the decisions on each article |
-| `data/court-notes.csv` | Constitutional Court findings noted on an act but not applied to its text (only some words, a reading, or a decision before the 2003 revision) |
+| `data/court-notes.csv` | Constitutional Court findings noted on an act but not applied to its text (only some words, a reading, a provision amended or repealed before the finding took effect, a finding not matched to one provision, or a decision before the 2003 revision) |
 | `data/echr-romania.csv` | ECHR judgments and decisions against Romania transmitted for execution, with HUDOC and HUDOC-EXEC links |
 
 ## Practical tables

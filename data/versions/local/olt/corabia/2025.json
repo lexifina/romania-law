@@ -3,6 +3,51 @@
  "shard": "local/olt/corabia/2025",
  "acts": [
   {
+   "slug": "hcl-olt--corabia-12-2025",
+   "path": "local/olt/corabia/2025/12",
+   "short": "HCL Corabia nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 12/2025",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/194609",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/194609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-33-2025",
+   "path": "local/olt/corabia/2025/33",
+   "short": "HCL Corabia nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 33/2025 privind indexarea și stabilirea impozitelor și taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/204535",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/204535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-58-2025",
+   "path": "local/olt/corabia/2025/58",
+   "short": "HCL Corabia nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 58/2025 privind restricționarea traficului rutier pe bdul 1 Mai și str.Mihail Kogălniceanu",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/223037",
+   "versions": [
+    {
+     "from": "2025-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/223037",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--corabia-68-2025",
    "path": "local/olt/corabia/2025/68",
    "short": "HCL Corabia nr. 68/2025",

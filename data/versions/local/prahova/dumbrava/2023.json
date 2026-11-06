@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/dumbrava/2023",
+ "acts": [
+  {
+   "slug": "hcl-prahova--dumbrava-105-2023",
+   "path": "local/prahova/dumbrava/2023/105",
+   "short": "HCL Dumbrava nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 105/2023 privind rectificarea bugetului local al comunei Dumbrava, modificarea listei de investiții și planului de achiziții pentru anul 2023",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/134578",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/134578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-112-2023",
+   "path": "local/prahova/dumbrava/2023/112",
+   "short": "HCL Dumbrava nr. 112/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 112/2023 privind rectificarea bugetului local al comunei Dumbrava și modificarea listei de investiții pentru anul 2023",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/136247",
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/136247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-97-2023",
+   "path": "local/prahova/dumbrava/2023/97",
+   "short": "HCL Dumbrava nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 97/2023 privind stabilirea impozitelor și taxelor locale pentru anul 2024",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/132981",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/132981",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/banesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-prahova--banesti-79-2025",
+   "path": "local/prahova/banesti/2025/79",
+   "short": "HCL Bănești nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 79/2025 privind oganizarea reţelei şcolare a unităţilor de învăţământ din comuna Bănești, în anul şcolar 2026-2027",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/243770",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/243770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-87-2025",
+   "path": "local/prahova/banesti/2025/87",
+   "short": "HCL Bănești nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 87/2025 privind stabilirea impozitelor şi taxelor locale în comuna Bănești, pentru anul 2026",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/244298",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/244298",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

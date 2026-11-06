@@ -99,3 +99,13 @@ Act id: `legea-47-1992` (tags `legea-47-1992/<day>`; `python tools/on.py <day> l
 - Legea nr. 47/1992: the portal's notes that a provision went back to its earlier wording, or was removed, because the emergency ordinance that changed it was rejected by a law are read as notes naming that law, which is credited with the change (such notes are printed from the form of 23.06.2013).
 - Legea nr. 47/1992: articles a form leaves out are shown repealed on the day the repealing act took effect (on publication for an emergency ordinance, 3 days after for a law, unless the act sets its own day), credited to that act as its repeal note names it: art. 70, left out from the form of 01.01.2010: repealed by Legea nr. 330/2009, in force 01.01.2010 (its art. 47: in force on 1 January 2010 (save arts. 49-52, which art. 48 is not)).
 - Legea nr. 47/1992: 1 changed article(s) with no note naming a law, committed as the publisher's: 2018-03-19 art-063.
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 163/2013](../../../jurisprudenta/ccr/2013/163/)**, Monitorul Oficial nr. 190 din 4 aprilie 2013 · art. 71 alin. (2) · constitutional only as the Court reads it (an interpretive decision)
+
+  > Constată că dispoziţiile art. 71 alin. (2) teza întâi din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, care fac obiectul excepţiei de neconstituţionalitate ridicate direct de Avocatul Poporului, sunt constituţionale în măsura în care se aplică judecătorilor Curţii Constituţionale care au exercitat această funcţie, indiferent de data pensionării.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2013-04-04) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.

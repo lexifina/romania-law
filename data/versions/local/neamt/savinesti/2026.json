@@ -1,0 +1,456 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/savinesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-neamt--savinesti-17-2026",
+   "path": "local/neamt/savinesti/2026/17",
+   "short": "HCL Săvinești nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 17/2026 privind aprobarea raportului contabil de execuţie bugetară încheiat la trimestrul I al anului 2026",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#121568",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#121568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-18-2026",
+   "path": "local/neamt/savinesti/2026/18",
+   "short": "HCL Săvinești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 18/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-19-2026",
+   "path": "local/neamt/savinesti/2026/19",
+   "short": "HCL Săvinești nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 19/2026 privind utilizarea excedentului bugetar aferent anilor anteriori",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#121572",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#121572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-22-2026",
+   "path": "local/neamt/savinesti/2026/22",
+   "short": "HCL Săvinești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 22/2026 privind aprobarea acordării unor pachete de 1 Iunie, Ziua Internațională a Copilului și de Moș Crăciun și stabilirea valorii acestora",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#122910",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#122910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-23-2026",
+   "path": "local/neamt/savinesti/2026/23",
+   "short": "HCL Săvinești nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 23/2026 privind stabilirea consumului maxim lunar de carburanți pentru autovehiculele din dotarea Primăriei comunei Săvinești",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#122911",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#122911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-24-2026",
+   "path": "local/neamt/savinesti/2026/24",
+   "short": "HCL Săvinești nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 24/2026 Privind aprobarea achiziționării de servicii de cadastru și topografie, în vederea executării de măsurători topografice si întocmirii documentațiilor în vederea depunerii documentelor de intabulare/actualizare CF/dezmembrare/alipire imobile din domeniul public și privat al comunei Săvinești",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#122913",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#122913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-25-2026",
+   "path": "local/neamt/savinesti/2026/25",
+   "short": "HCL Săvinești nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 25/2026 privind încheierea unor contracte de consultanţă, asistenţă şi reprezentare juridică pentru anul 2026",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#122914",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#122914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-26-2026",
+   "path": "local/neamt/savinesti/2026/26",
+   "short": "HCL Săvinești nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 26/2026 privind organizarea celei de-a doua ediții a Festivalului ”Rural Arts Fest” (15-16 august 2026) în comuna Săvinești, județul Neamț",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#122917",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#122917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-27-2026",
+   "path": "local/neamt/savinesti/2026/27",
+   "short": "HCL Săvinești nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 27/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-28-2026",
+   "path": "local/neamt/savinesti/2026/28",
+   "short": "HCL Săvinești nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 28/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-29-2026",
+   "path": "local/neamt/savinesti/2026/29",
+   "short": "HCL Săvinești nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 29/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-30-2026",
+   "path": "local/neamt/savinesti/2026/30",
+   "short": "HCL Săvinești nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 30/2026 privind aprobarea rectificării nr. 1 a bugetului local de venituri și cheltuieli și lista obiectivelor de investiții pe anul 2026",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#124200",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#124200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-31-2026",
+   "path": "local/neamt/savinesti/2026/31",
+   "short": "HCL Săvinești nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 31/2026 privind indexarea cu rata inflației de 7.3% a impozitelor şi taxelor locale pentru anul fiscal 2027",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#124202",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#124202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-32-2026",
+   "path": "local/neamt/savinesti/2026/32",
+   "short": "HCL Săvinești nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 32/2026 privind aprobarea realizării lucrării de investiție pentru obiectivul „Modernizare strada Bistriței I, strada Bistriței II, strada Bistriței III, strada Ciocârliei, strada Turnului și strada Primăverii, în lungime totală de 768 metri liniari, în comuna Săvinești, județul Neamț”",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#124203",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#124203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-33-2026",
+   "path": "local/neamt/savinesti/2026/33",
+   "short": "HCL Săvinești nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 33/2026 privind aprobarea realizării lucrării de investiție „Covor asfaltic și reparații traversare conducte apă/canal, pentru străzile Bistriței și Grădinarilor, lungime totală de 2592 metri liniari, în comuna Săvinești, județul Neamț”",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#124204",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#124204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-34-2026",
+   "path": "local/neamt/savinesti/2026/34",
+   "short": "HCL Săvinești nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 34/2026 privind aprobarea realizării lucrării de investiție pentru obiectivul „Amenajare trotuare pe strada Chimiei, lungime totală 1057 metri liniari, în comuna Săvinești, județul Neamț”",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#124205",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#124205",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-35-2026",
+   "path": "local/neamt/savinesti/2026/35",
+   "short": "HCL Săvinești nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 35/2026 privind aprobarea raportului contabil de execuţie bugetară încheiat la trimestrul II al anului 2026",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#127155",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#127155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-36-2026",
+   "path": "local/neamt/savinesti/2026/36",
+   "short": "HCL Săvinești nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 36/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-37-2026",
+   "path": "local/neamt/savinesti/2026/37",
+   "short": "HCL Săvinești nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 37/2026 Privind darea în folosință pe durata lucrărilor aferente investiției ,,Racordarea la SEN a instalației de stocare energie electrică ISE Dumbrava 1, comuna Săvinești, jud. Neamț – Obiectul LES 110kV pentru racordarea la Stația 220/110kV și amenajare drum de acces”, a suprafeței de 579,2 m2 teren situat în sat Dumbrava Deal, str. Transformatorului, comuna Săvinești, județul Neamț;",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#127157",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#127157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-38-2026",
+   "path": "local/neamt/savinesti/2026/38",
+   "short": "HCL Săvinești nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 38/2026 privind aprobarea preluării din domeniul public al Județului Neamț în domeniul public al Comunei Săvinești a unui număr de 49 de stâlpi din beton, în vederea realizării obiectivului de investiții de interes public local „Extindere rețea iluminat public în sat Săvinești, str. Gh. Caranfil și Pasarela peste DN 15, comuna Săvinești, județul Neamț”",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#127725",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#127725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-39-2026",
+   "path": "local/neamt/savinesti/2026/39",
+   "short": "HCL Săvinești nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 39/2026 Privind aprobarea rectificării nr. 2 a bugetului local de venituri și cheltuieli și lista obiectivelor de investiții pe anul 2026",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#127726",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#127726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-40-2026",
+   "path": "local/neamt/savinesti/2026/40",
+   "short": "HCL Săvinești nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 40/2026 Privind alegerea preşedintelui de ședinţă",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#128491",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#128491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-41-2026",
+   "path": "local/neamt/savinesti/2026/41",
+   "short": "HCL Săvinești nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 41/2026 privind mandatarea reprezentantului U.A.T Săvinești să voteze în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară ,,AQUA NEAMȚ”, în numele și pe seama Consiliului Local Săvinești",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#128494",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#128494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-42-2026",
+   "path": "local/neamt/savinesti/2026/42",
+   "short": "HCL Săvinești nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 42/2026 privind acordarea unui mandat special pentru modificarea Contractului nr. 1/320/4069/01.09.2022 prin act adițional nr. 12 în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „URBTRANS”",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#129612",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#129612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-43-2026",
+   "path": "local/neamt/savinesti/2026/43",
+   "short": "HCL Săvinești nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 43/2026 privind acordarea unui mandat special pentru modificarea Contractului nr. 1/320/4069/01.09.2022 prin act adițional nr. 13 în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „URBTRANS”",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#129613",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#129613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-44-2026",
+   "path": "local/neamt/savinesti/2026/44",
+   "short": "HCL Săvinești nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 44/2026 privind neasumarea responsabilităţilor organizării şi derulării procedurilor de atribuire a contractelor acordurilor-cadru pentru achiziţionarea produselor aferente Programului pentru școli al României și al contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative pentru o perioadă de trei ani școlari, respectiv 2026-2027, 2027-2028, 2028-2029",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#129616",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#129616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-45-2026",
+   "path": "local/neamt/savinesti/2026/45",
+   "short": "HCL Săvinești nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 45/2026 privind acordarea unui mandat special pentru modificarea Contractului nr. 1/320/4069/01.09.2022 prin act adițional nr. 14 în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „URBTRANS”",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#129617",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#129617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-46-2026",
+   "path": "local/neamt/savinesti/2026/46",
+   "short": "HCL Săvinești nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 46/2026 privind aprobarea rectificării nr. 3 a bugetului local de venituri și cheltuieli și lista obiectivelor de investiții pe anul 2026",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#129621",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#129621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-48-2026",
+   "path": "local/neamt/savinesti/2026/48",
+   "short": "HCL Săvinești nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 48/2026 privind aprobarea raportului contabil de execuţie bugetară încheiat la trimestrul III al anului 2026",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#132628",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#132628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-49-2026",
+   "path": "local/neamt/savinesti/2026/49",
+   "short": "HCL Săvinești nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 49/2026 privind acordarea unui mandat special pentru modificarea Contractului nr. 1/320/4069/01.09.2022 prin act adițional nr. 15 în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „URBTRANS”",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#132631",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#132631",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

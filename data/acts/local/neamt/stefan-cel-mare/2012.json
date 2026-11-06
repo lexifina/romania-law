@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/neamt/stefan-cel-mare/2012",
+"acts": [
+{
+"slug": "hcl-neamt--stefan-cel-mare-14-2012",
+"path": "local/neamt/stefan-cel-mare/2012/14",
+"kind": "local",
+"year": "2012",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 14/2012 Privind modificari ale Hotararii Consiliului Local numarul 54 din29.11.2011 privind stabilirea impozitelor si taxelor locale pentru anul 2012",
+"short": "HCL Ștefan cel Mare nr. 14/2012",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2012-02-29",
+"latest": "2012-02-29",
+"portal": "https://www.primariastefancelmare.ro/monitor-local/arhiva-hcl-stefan-cel-mare-2011-2019.html",
+"council": "neamt/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

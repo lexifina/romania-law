@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/banesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-prahova--banesti-55-2024",
+   "path": "local/prahova/banesti/2024/55",
+   "short": "HCL Bănești nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 55/2024 privind alegerea viceprimarului comunei Băneşti, județul Prahova",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/176844",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/176844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-58-2024",
+   "path": "local/prahova/banesti/2024/58",
+   "short": "HCL Bănești nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 58/2024 privind aprobarea rectificării bugetului local al comunei Bănești și a listei de investiții pe anul 2024",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/177952",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/177952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-66-2024",
+   "path": "local/prahova/banesti/2024/66",
+   "short": "HCL Bănești nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 66/2024 privind aprobarea Regulamentului de ordine publică privind protecţia mediului şi a proprietăţii publice şi private în comuna Băneşti",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/182209",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/182209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-67-2024",
+   "path": "local/prahova/banesti/2024/67",
+   "short": "HCL Bănești nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 67/2024 privind stabilirea impozitelor şi taxelor locale în comuna Bănești, pentru anul 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/182210",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/182210",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

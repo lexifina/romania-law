@@ -3,6 +3,216 @@
  "shard": "local/mehedinti/vanju-mare/2022",
  "acts": [
   {
+   "slug": "hcl-mehedinti--vanju-mare-1-2022",
+   "path": "local/mehedinti/vanju-mare/2022/1",
+   "short": "HCL Vânju Mare nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 1/2022 privind acoperirea definitivă a deficitului secţiunii de dezvoltare , rezultat la finele anului 2021, din excedentul bugetului local",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/46472",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/46472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-10-2022",
+   "path": "local/mehedinti/vanju-mare/2022/10",
+   "short": "HCL Vânju Mare nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 10/2022 privind aprobarea programului anual de achizitii publice pentru anul 2022",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/52451",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/52451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-11-2022",
+   "path": "local/mehedinti/vanju-mare/2022/11",
+   "short": "HCL Vânju Mare nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 11/2022 privind atestarea apartenenţei la domeniul privat a unui imobil - teren în suprafaţă totală de 5563mp(5503mp şi 60mp)",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/52452",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/52452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-13-2022",
+   "path": "local/mehedinti/vanju-mare/2022/13",
+   "short": "HCL Vânju Mare nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 13/2022 privind mandatarea reprezentantului în Adunarea Generală a Asociaţiei pentru Managementul Serviciilor de Apă şi Canalizare Mehedinţi",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/52454",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/52454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-14-2022",
+   "path": "local/mehedinti/vanju-mare/2022/14",
+   "short": "HCL Vânju Mare nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 14/2022 privind mandatarea reprezentantului Consiliului Local în AGOA de la SC Secom SA să voteze punctele înscrise pe ordinea de zi",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/52455",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/52455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-16-2022",
+   "path": "local/mehedinti/vanju-mare/2022/16",
+   "short": "HCL Vânju Mare nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 16/2022 privind aprobarea Regulamentului de vânzare a locuinţelor construite din fondurile statului aflate în domeniul privat al oraşului Vânju Mare",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/55909",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/55909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-19-2022",
+   "path": "local/mehedinti/vanju-mare/2022/19",
+   "short": "HCL Vânju Mare nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 19/2022 privind aprobarea cererii de finanţare şi a devizului general estimativ în vederea includerii la finanţare a obiectivului de investiţie \"Sistem de distribuţie a gazelor naturale, inclusiv a branşamentelor, precum şi a racordului la sistemul de transport al gazelor naturale în UAT Comuna Pădina, UAT - Comuna Bălăciţa, UAT Oraşul Vânju Mare, UAT Comuna -Corlăţel, UAT Comuna Vlădaia, UAT Comuna Punghina\"",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/57811",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/57811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-2-2022",
+   "path": "local/mehedinti/vanju-mare/2022/2",
+   "short": "HCL Vânju Mare nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 2/2022 privind aprobarea planului de lucrări de interes local estimat a se efectua cu personalul beneficiar de venit minim garantat conform Lg.416/2001 cu modificarile si completările ulterioare, în anul 2022 pe raza oraşului Vânju Mare",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/49600",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/49600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-20-2022",
+   "path": "local/mehedinti/vanju-mare/2022/20",
+   "short": "HCL Vânju Mare nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 20/2022 privind indexarea nivelului impozitelor si taxelor locale pentru anul 2023 cu rata inflaţiei",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/58978",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/58978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-23-2022",
+   "path": "local/mehedinti/vanju-mare/2022/23",
+   "short": "HCL Vânju Mare nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 23/2022 privind aprobarea D.A.L.I şi indicatorii tehnico-economici la obiectivul de investiţii \"Reabilitare, modernizare şi dotare aşezământ cultural oraş Vânju Mare, judeţul Mehedinţi\"",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/58981",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/58981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-3-2022",
+   "path": "local/mehedinti/vanju-mare/2022/3",
+   "short": "HCL Vânju Mare nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 3/2022 privind organizare a retelei scolare pe raza orasului Vânju Mare pentru anul scolar 2022/2023",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/49601",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/49601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-35-2022",
+   "path": "local/mehedinti/vanju-mare/2022/35",
+   "short": "HCL Vânju Mare nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 35/2022 privind actualizarea Programului anual de achizitii publice al Orasului Vanju Mare pentru anul 2022",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/67386",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/67386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-38-2022",
+   "path": "local/mehedinti/vanju-mare/2022/38",
+   "short": "HCL Vânju Mare nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 38/2022 privind aprobarea investitiei \"Infiintare sistem de alimentare cu apa in satele Orevita Mare si Traian, oras Vanju Mare, judetul Mehedinti\"",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/67389",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/67389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-4-2022",
+   "path": "local/mehedinti/vanju-mare/2022/4",
+   "short": "HCL Vânju Mare nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 4/2022 privind aprobarea organigramei şi ştatului de funcţii UAT Vânju Mare",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/49602",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/49602",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--vanju-mare-40-2022",
    "path": "local/mehedinti/vanju-mare/2022/40",
    "short": "HCL Vânju Mare nr. 40/2022",
@@ -43,6 +253,21 @@
      "from": "2022-12-08",
      "units": 1,
      "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/74315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-6-2022",
+   "path": "local/mehedinti/vanju-mare/2022/6",
+   "short": "HCL Vânju Mare nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 6/2022 privind plata sumei de 2049,38 mii lei",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/49604",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/49604",
      "sha256": null
     }
    ]
@@ -108,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--vanju-mare-7-2022",
+   "path": "local/mehedinti/vanju-mare/2022/7",
+   "short": "HCL Vânju Mare nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 7/2022 privind plata sumei de 448,35 mii lei",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/51170",
+   "versions": [
+    {
+     "from": "2022-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/51170",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--vanju-mare-73-2022",
    "path": "local/mehedinti/vanju-mare/2022/73",
    "short": "HCL Vânju Mare nr. 73/2022",
@@ -163,6 +403,36 @@
      "from": "2023-01-10",
      "units": 1,
      "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/83982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-8-2022",
+   "path": "local/mehedinti/vanju-mare/2022/8",
+   "short": "HCL Vânju Mare nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 8/2022 privind aprobarea bugetului local şi programul de investiţii pe anul 2022",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/52449",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/52449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-9-2022",
+   "path": "local/mehedinti/vanju-mare/2022/9",
+   "short": "HCL Vânju Mare nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 9/2022 privind aprobarea bugetului activitatilor finantate integral din venituri proprii şi subvenţii pe anul 2022",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/52450",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/52450",
      "sha256": null
     }
    ]

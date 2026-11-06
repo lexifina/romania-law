@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/dubova/2021",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--dubova-101-2021",
+   "path": "local/mehedinti/dubova/2021/101",
+   "short": "HCL Dubova nr. 101/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 101/2021 privind apobarea bugetului local de venituri și cheltuieli rectificat pe anul 2021 al comunei Dubova, județul Mehedinți",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/41275",
+   "versions": [
+    {
+     "from": "2021-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/41275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-102-2021",
+   "path": "local/mehedinti/dubova/2021/102",
+   "short": "HCL Dubova nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 102/2021 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2021",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/43071",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/43071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-103-2021",
+   "path": "local/mehedinti/dubova/2021/103",
+   "short": "HCL Dubova nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 103/2021 privind aprobarea planului de măsuri pentru combaterea efectelor negative generate de căderile masive de zăpadă și alte fenomene meteorologice periculoase, specifice sezonului de iarnă 2021 – 2022",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/43072",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/43072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-104-2021",
+   "path": "local/mehedinti/dubova/2021/104",
+   "short": "HCL Dubova nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 104/2021 privind aprobarea contractarii unui servicu extern pentru instruirea asistentilor sociali",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/43073",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/43073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-105-2021",
+   "path": "local/mehedinti/dubova/2021/105",
+   "short": "HCL Dubova nr. 105/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 105/2021 privind organizarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat acreditate pentru anul şcolar 2022 /2023",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/43074",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/43074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-108-2021",
+   "path": "local/mehedinti/dubova/2021/108",
+   "short": "HCL Dubova nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 108/2021 privind stabilirea impozitelor si taxelor locale, precum si a taxelor speciale, pentru anul 2022",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/43077",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/43077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-111-2021",
+   "path": "local/mehedinti/dubova/2021/111",
+   "short": "HCL Dubova nr. 111/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 111/2021 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2021",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/43537",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/43537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-113-2021",
+   "path": "local/mehedinti/dubova/2021/113",
+   "short": "HCL Dubova nr. 113/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 113/2021",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/43539",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/43539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-114-2021",
+   "path": "local/mehedinti/dubova/2021/114",
+   "short": "HCL Dubova nr. 114/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 114/2021 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2021",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/43950",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/43950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-115-2021",
+   "path": "local/mehedinti/dubova/2021/115",
+   "short": "HCL Dubova nr. 115/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 115/2021 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2021",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/45304",
+   "versions": [
+    {
+     "from": "2021-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/45304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-118-2021",
+   "path": "local/mehedinti/dubova/2021/118",
+   "short": "HCL Dubova nr. 118/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 118/2021 privind aprobarea reparatiei Bisericii Ortodoxe din Comuna Dubova",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/45307",
+   "versions": [
+    {
+     "from": "2021-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/45307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-51-2021",
+   "path": "local/mehedinti/dubova/2021/51",
+   "short": "HCL Dubova nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 51/2021 privind aprobarea oraruli și programului de funcționare al II BARBU M. LUCIAN-CORNEL",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/25449",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/25449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-52-2021",
+   "path": "local/mehedinti/dubova/2021/52",
+   "short": "HCL Dubova nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 52/2021",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/25450",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/25450",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

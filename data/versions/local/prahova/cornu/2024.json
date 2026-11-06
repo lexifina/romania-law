@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/cornu/2024",
+ "acts": [
+  {
+   "slug": "hcl-prahova--cornu-91-2024",
+   "path": "local/prahova/cornu/2024/91",
+   "short": "HCL Cornu nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 91/2024 privind aprobarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat de la nivelul comunei Cornu pe anul şcolar 2025-2026",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/180776",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/180776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-92-2024",
+   "path": "local/prahova/cornu/2024/92",
+   "short": "HCL Cornu nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 92/2024 privind modificarea și completarea Hotărârii Consiliului Local nr.70 din 4 octombrie 2024 privind anularea unor obligatii fiscale locale, principale si accesorii la nivelul comunei Cornu",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/180777",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/180777",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

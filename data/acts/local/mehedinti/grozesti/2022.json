@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/grozesti/2022",
+"acts": [
+{
+"slug": "hcl-mehedinti--grozesti-52-2022",
+"path": "local/mehedinti/grozesti/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 52/2022 privind rectificarea bugetului local de venituri si cheltuieli",
+"short": "HCL Grozești nr. 52/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-23",
+"latest": "2022-11-23",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/77800",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-53-2022",
+"path": "local/mehedinti/grozesti/2022/53",
+"kind": "local",
+"year": "2022",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 53/2022 privind aprobarea realizarii obiectivului de investitii “Sistem de alimentare cu apa potabila in localitatea Șușița, comuna Grozești, județul Mehedinți”",
+"short": "HCL Grozești nr. 53/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-23",
+"latest": "2022-11-23",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/77801",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-55-2022",
+"path": "local/mehedinti/grozesti/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 55/2022 privind aprobarea proiectului de investitii ,,Construire si dotare Centru Comunitar, comuna Grozesti, județul Mehedinți, în vederea finanțării acestuia în cadrul Planului Național De Redresare și Reziliență - Componenta C12 – Sănătate - Investiția 1. Dezvoltarea infrastructurii medicale prespitalicești -I1.4 Centre Comunitare Integrate, apelul de proiecte MS-0014”",
+"short": "HCL Grozești nr. 55/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-28",
+"latest": "2022-11-28",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/79425",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-57-2022",
+"path": "local/mehedinti/grozesti/2022/57",
+"kind": "local",
+"year": "2022",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 57/2022 privind aprobarea participării la realizarea investiției “Înființare Centru Colectare deșeuri prin aport voluntar în comuna Grozești, județul Mehedinți” prevăzută în cadrul Componentei C3: MANAGEMENTUL DEȘEURILOR, SUBINVESTIȚIA I1.A. - ÎNFIINȚAREA DE CENTRE DE COLECTARE PRIN APORT VOLUNTAR din PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ în CADRUL APELULUI DE PROIECTE PNRR/ 2022/C3/S/I.1.A",
+"short": "HCL Grozești nr. 57/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-28",
+"latest": "2022-11-28",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/79427",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-58-2022",
+"path": "local/mehedinti/grozesti/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 58/2022 privind aprobarea participării la ”Programul privind dezvoltarea infrastructurii de reincarcare pentru vehicule electrice si/sau hybrid plug-in in localitati, prin instalarea de statii de reincarcare cu putere normala” în vederea realizării obiectivului de investiții ”Înființare stații de reîncărcare pentru vehicule electrice cu putere normala în comuna Grozesti, județul Mehedinți”",
+"short": "HCL Grozești nr. 58/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-28",
+"latest": "2022-11-28",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/79428",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-63-2022",
+"path": "local/mehedinti/grozesti/2022/63",
+"kind": "local",
+"year": "2022",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 63/2022 privind tabilirea impozitelor si taxelor locale pentru anul fiscal 2023",
+"short": "HCL Grozești nr. 63/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-05",
+"latest": "2023-09-05",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/82318",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

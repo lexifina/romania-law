@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/prahova/floresti/2025",
+"acts": [
+{
+"slug": "hcl-prahova--floresti-116-2025",
+"path": "local/prahova/floresti/2025/116",
+"kind": "local",
+"year": "2025",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 116/2025 privind stabilirea impozitelor si taxelor locale pentru anul 2026",
+"short": "HCL Florești nr. 116/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/244537",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

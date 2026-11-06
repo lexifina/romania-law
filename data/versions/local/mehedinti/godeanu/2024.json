@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/godeanu/2024",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--godeanu-33-2024",
+   "path": "local/mehedinti/godeanu/2024/33",
+   "short": "HCL Godeanu nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 33/2024 privind aprobarea demarării procedurii de întocmire a tuturor documentațiilor necesare realizării obiectivului de investiții, „Cloptnita în satul Siroca, comuna Godeanu, județul Mehedinți”",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/188497",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/188497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-34-2024",
+   "path": "local/mehedinti/godeanu/2024/34",
+   "short": "HCL Godeanu nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 34/2024 privind aprobarea demarării procedurii de întocmire a tuturor documentațiilor necesare realizării obiectivului de investiții „ÎNFIINȚARE PIAȚA AGROALIMENTARĂ” în comuna Godeanu, județul Mehedinți",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/188498",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/188498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-37-2024",
+   "path": "local/mehedinti/godeanu/2024/37",
+   "short": "HCL Godeanu nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 37/2024 privind demararea procedurii de întocmire a tuturor documentațiilor necesare realizării obiectivului de investiții „Programul privind creșterea eficienței energetice a clădirii locale Primăriei, sat Godeanu, comuna Godeanu, județul Mehedinți”",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/190239",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/190239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-38-2024",
+   "path": "local/mehedinti/godeanu/2024/38",
+   "short": "HCL Godeanu nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 38/2024 privind organizarea Festivalului-Concurs Național de muzică populară pentru copii și tineri „FLORILE MUNTELUI”, ediția I, 2024",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/190240",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/190240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-47-2024",
+   "path": "local/mehedinti/godeanu/2024/47",
+   "short": "HCL Godeanu nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 47/2024 privind participarea Comunei Godeanu la „Programul privind creșterea eficienței energetice a infrastructurii de iluminat public” și aprobarea indicatorilor tehnico-economici ai proiectului „MODERNIZAREA SISTEMULUI DE ILUMINAT PUBLIC ÎN COMUNA GODEANU, JUDEȚUL MEHEDINȚI”",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/190382",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/190382",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

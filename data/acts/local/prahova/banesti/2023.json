@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/prahova/banesti/2023",
+"acts": [
+{
+"slug": "hcl-prahova--banesti-91-2023",
+"path": "local/prahova/banesti/2023/91",
+"kind": "local",
+"year": "2023",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 91/2023 privind stabilirea impozitelor și taxelor locale în comuna Bănești, pentru anul 2024",
+"short": "HCL Bănești nr. 91/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-08",
+"latest": "2024-01-08",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/135611",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

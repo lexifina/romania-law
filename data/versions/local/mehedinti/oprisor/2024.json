@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/oprisor/2024",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--oprisor-22-2024",
+   "path": "local/mehedinti/oprisor/2024/22",
+   "short": "HCL Oprișor nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oprișor nr. 22/2024 Privind aprobarea Documentatiei deAvizare a Lucrarilor de Interventie (DALI),a Devizului General si a Indicatorilor tehnico-economici aferenti obiectivului de investitie „CRESTEREA EFICIENTEI ENERGETICE A INFRASTRUCTURII DE ILUMINAT PUBLIC IN U.A.T OPRIȘOR JUDETUL MEHEDINTI”",
+   "url": "https://emol.ro/oprisor-mh/registru-hcl/177543",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/oprisor-mh/registru-hcl/177543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--oprisor-23-2024",
+   "path": "local/mehedinti/oprisor/2024/23",
+   "short": "HCL Oprișor nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oprișor nr. 23/2024 privind alegerea comisiilor de specialitate ale Consliliului local Oprisor pe domenii de specialitate",
+   "url": "https://emol.ro/oprisor-mh/registru-hcl/182414",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/oprisor-mh/registru-hcl/182414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--oprisor-25-2024",
+   "path": "local/mehedinti/oprisor/2024/25",
+   "short": "HCL Oprișor nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oprișor nr. 25/2024 privind aprobarea impozitelor si taxelor locale penrtu anul 2025",
+   "url": "https://emol.ro/oprisor-mh/registru-hcl/182598",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/oprisor-mh/registru-hcl/182598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--oprisor-27-2024",
+   "path": "local/mehedinti/oprisor/2024/27",
+   "short": "HCL Oprișor nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oprișor nr. 27/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/oprisor-mh/registru-hcl/182600",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/oprisor-mh/registru-hcl/182600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--oprisor-28-2024",
+   "path": "local/mehedinti/oprisor/2024/28",
+   "short": "HCL Oprișor nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oprișor nr. 28/2024 privind reorganizarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat acreditate pentru anul şcolar 2025 /2026",
+   "url": "https://emol.ro/oprisor-mh/registru-hcl/182601",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/oprisor-mh/registru-hcl/182601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--oprisor-29-2024",
+   "path": "local/mehedinti/oprisor/2024/29",
+   "short": "HCL Oprișor nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oprișor nr. 29/2024 privind aprobarea regulamentului de organizare si functionare a consiliului local Oprisor ales la data de 09.iunie 2024",
+   "url": "https://emol.ro/oprisor-mh/registru-hcl/182602",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/oprisor-mh/registru-hcl/182602",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

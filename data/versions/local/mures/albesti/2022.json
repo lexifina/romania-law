@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/mures/albesti/2022",
+ "acts": [
+  {
+   "slug": "hcl-mures--albesti-73-2022",
+   "path": "local/mures/albesti/2022/73",
+   "short": "HCL Albești nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 73/2022 privind aprobarea Strategiei de tarifare conform rezultatelor Analizei Cost-Beneficiu pentru Proiectul regional de dezvoltare a infrastructurii de apă potabilă si apă uzată din județul Mureș, în perioada 2014-2020, Zona LUDUȘ-GREBENISU DE CÂMPIE. UAT Luduș, UAT Sânger, UAT Tăureni, UAT Zau de Câmpie, UAT Grebenișu de Câmpie, UAT Șăulia, UAT Miheșu de Câmpie",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/81074",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/81074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-74-2022",
+   "path": "local/mures/albesti/2022/74",
+   "short": "HCL Albești nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 74/2022 privind aprobarea aderării unei unităţi administrativ teritoriale la Asociaţia de Dezvoltare Intercomunitară „AQUA INVEST MUREŞ”",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/81075",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/81075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-75-2022",
+   "path": "local/mures/albesti/2022/75",
+   "short": "HCL Albești nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 75/2022 privind aprobarea PUZ( Plan Urbanistic Zonal) si Regulamentul aferent- pentru lucrarea \"REALIZAREA UNEI CENTRALE FOTOVOLTAICE IN COMUNA ALBESTI",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/83610",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/83610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-77-2022",
+   "path": "local/mures/albesti/2022/77",
+   "short": "HCL Albești nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 77/2022 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici/ indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiții „REABILITARE SI MODERNIZARE STRAZI INTERIOARE IN LOCALITATILE TOPA, BOIU SI DRUM COMUNAL DC51,COMUNA ALBESTI, JUDETUL MURES”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/83612",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/83612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-78-2022",
+   "path": "local/mures/albesti/2022/78",
+   "short": "HCL Albești nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 78/2022 privind preluarea unor imobile în domeniul public al comunei Albești și înscrierea provizorie a acestora în cartea funciară",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/83613",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/83613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-79-2022",
+   "path": "local/mures/albesti/2022/79",
+   "short": "HCL Albești nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 79/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/83614",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/83614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-85-2022",
+   "path": "local/mures/albesti/2022/85",
+   "short": "HCL Albești nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 85/2022 privind stabilirea impozitelor şi taxelor locale pentru anul fiscal 2023",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/83620",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/83620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-86-2022",
+   "path": "local/mures/albesti/2022/86",
+   "short": "HCL Albești nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 86/2022",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/83621",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/83621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-87-2022",
+   "path": "local/mures/albesti/2022/87",
+   "short": "HCL Albești nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 87/2022 privind aderarea comunei Albești la Asociația Comunelor din România",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/83622",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/83622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-88-2022",
+   "path": "local/mures/albesti/2022/88",
+   "short": "HCL Albești nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 88/2022 privind aprobarea marcării de trasee turistice pentru drumeție și cicloturism de pe raza Comunei Albești, în cadrul proiectului ”Trasee Turistice în Colinele Transilvaniei”",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/83623",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/83623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-89-2022",
+   "path": "local/mures/albesti/2022/89",
+   "short": "HCL Albești nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 89/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/84560",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/84560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-90-2022",
+   "path": "local/mures/albesti/2022/90",
+   "short": "HCL Albești nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 90/2022 pentru modificarea Anexei nr.1 la Hotărârea Consiliului Local nr.85/2022 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2023",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/84562",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/84562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-91-2022",
+   "path": "local/mures/albesti/2022/91",
+   "short": "HCL Albești nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 91/2022 privind aprobarea modificării Regulamentului de instituire și administrare a taxei de salubrizare pentru utilizatorii serviciului de salubrizare în județul Mureș, cu aplicabilitate din data de 01.01.2023, în comuna Albești",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/84564",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/84564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-92-2022",
+   "path": "local/mures/albesti/2022/92",
+   "short": "HCL Albești nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 92/2022 privind aprobarea nivelului taxei de salubrizare pentru anul 2023 în comuna Albești",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/84566",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/84566",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

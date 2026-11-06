@@ -20,3 +20,13 @@ Act id: `legea-192-2023` (tags `legea-192-2023/<day>`; `python tools/on.py <day>
 - Legea nr. 192/2023: the law numbers its own articles in Roman numerals (I, II, ...); each is kept under its Roman title and filed by its value (art-001 for Articolul I), so the files sort in order. The articles of other acts it quotes stay in the text of the article that quotes them.
 - Legea nr. 192/2023: in the form of 26 January 2024 arts. I and II prints "Încetat efectele juridice." in place of its text, with no note: the printed text is kept, dated by that form, and no law is credited.
 - Legea nr. 192/2023: 2 changed article(s) with no note naming a law, committed as the publisher's: 2024-01-26 art-001, 2024-01-26 art-002.
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 678/2023](../../../jurisprudenta/ccr/2023/678/)**, Monitorul Oficial nr. 1119 din 12 decembrie 2023 · art. II · not matched automatically to one provision of this text
+
+  > constată că dispozițiile art. II din Legea nr. 192/2023 pentru abrogarea capitolului XI din Legea nr. 96/2006 privind Statutul deputaților și al senatorilor sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2023-12-12) and ceases to have legal effect 45 days later, on 2024-01-26, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it names provisions of more than one act. The text here is unchanged; read the decision.

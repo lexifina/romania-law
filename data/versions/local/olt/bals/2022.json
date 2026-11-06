@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/olt/bals/2022",
+ "acts": [
+  {
+   "slug": "hcl-olt--bals-18-2022",
+   "path": "local/olt/bals/2022/18",
+   "short": "HCL Balș nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 18/2022 aprobarea Statului de funcții și a numărului de posturi pe anul 2021, cu modificările solicitate în raportul de specialitate, a organigramei și a structurii organizatorice pentru Spitalul Orășenesc Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#14873",
+   "versions": [
+    {
+     "from": "2022-02-07",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#14873",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

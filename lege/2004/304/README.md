@@ -194,7 +194,25 @@ Act id: `legea-304-2004` (tags `legea-304-2004/<day>`; `python tools/on.py <day>
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 345/2006](../../../jurisprudenta/ccr/2006/345/)**, Monitorul Oficial nr. 415 din 15 mai 2006 · art. 64 alin. (3) · not matched automatically to one provision of this text
+
+  > constată că dispoziţia cuprinsă în fraza a doua a art. 64 alin. (3) din Legea nr. 304/2004 privind organizarea judiciară, prin care se prevede că "Măsura infirmării este supusă controlului instanţei competente să judece cauza în fond, la cererea procurorului care a adoptat soluţia", este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2006-05-15) and ceases to have legal effect 45 days later, on 2006-06-29, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it does not name the provisions as "dispozițiile art. ... din ...". The text here is unchanged; read the decision.
+
+- **[Decizia nr. 321/2017](../../../jurisprudenta/ccr/2017/321/)**, Monitorul Oficial nr. 580 din 20 iulie 2017 · art. 21; art. 24 · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 21 și art. 24 din Legea nr. 304/2004 privind organizarea judiciară raportate la cele ale art. 29 alin. (5) teza a doua din Legea nr. 47/1992 privind organizarea și funcționarea Curții Constituționale sunt constituționale în măsura în care nu exclud posibilitatea formulării recursului împotriva hotărârii judecătorești de respingere a cererii de sesizare a Curții Constituționale pronunțate de ultima instanță în ierarhia instanțelor judecătorești.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2017-07-20) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 547/2020](../../../jurisprudenta/ccr/2020/547/)**, Monitorul Oficial nr. 753 din 19 august 2020 · art. 88^1 alin. (6); art. 88^8 alin. (1) lit. d) · not matched automatically to one provision of this text
+
+  > constată că dispozițiile art. 88^1 alin. (6) și ale art. 88^8 alin. (1) lit. d) din Legea nr. 304/2004 privind organizarea judiciară sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2020-08-19) and ceases to have legal effect 45 days later, on 2020-10-03, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: the provisions it names were not found exactly once in this text. The text here is unchanged; read the decision.
 
 - **[Decizia nr. 619/2023](../../../jurisprudenta/ccr/2023/619/)**, Monitorul Oficial nr. 71 din 26 ianuarie 2024 · art. 87 alin. (8) · only some words or a sentence inside the provision
 

@@ -153,3 +153,25 @@ These changes were first published credited to another law. The words are unchan
 - `art-036.md`, in force from 2016-12-10: Legea nr. 246/2016 (first published as no law named).
 - `art-035.md`, in force from 2018-01-26: Legea nr. 45/2018 (first published as no law named).
 - `art-004.md`, in force from 2022-05-19: Legea nr. 137/2022 (first published as no law named).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 602/2008](../../../jurisprudenta/ccr/2008/602/)**, Monitorul Oficial nr. 533 din 15 iulie 2008 · art. 31 alin. (3) · not matched automatically to one provision of this text
+
+  > constată că prevederile art. 31 alin. (3), (4), (7), (8) şi (9) din Legea nr. 1/2000 pentru reconstituirea dreptului de proprietate asupra terenurilor agricole şi celor forestiere, solicitate potrivit prevederilor Legii fondului funciar nr. 18/1991 şi ale Legii nr. 169/1997, sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2008-07-15) and ceases to have legal effect 45 days later, on 2008-08-29, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it names provisions of more than one act. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 605/2009](../../../jurisprudenta/ccr/2009/605/)**, Monitorul Oficial nr. 415 din 17 iunie 2009 · art. 24 alin. (1^2) · not matched automatically to one provision of this text
+
+  > Admite excepţia de neconstituţionalitate a dispoziţiilor art. 24 alin. (1^2), (1^4) şi (3) din Legea nr. 1/2000 pentru reconstituirea dreptului de proprietate asupra terenurilor agricole şi celor forestiere, solicitate potrivit prevederilor Legii fondului funciar nr. 18/1991 şi ale Legii nr. 169/1997 \[…\] şi constată că acestea sunt neconstituţionale în ceea ce priveşte dreptul foştilor proprietari de a opta pentru atribuirea unei suprafeţe echivalente din fondul forestier proprietate de stat.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2009-06-17) and ceases to have legal effect 45 days later, on 2009-08-01, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it names provisions of more than one act. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 652/2009](../../../jurisprudenta/ccr/2009/652/)**, Monitorul Oficial nr. 415 din 17 iunie 2009 · art. 24 alin. (1^2) · not matched automatically to one provision of this text
+
+  > Admite excepţia de neconstituţionalitate a dispoziţiilor art. 24 alin. (1^2), (1^4) şi (3) din Legea nr. 1/2000 pentru reconstituirea dreptului de proprietate asupra terenurilor agricole şi celor forestiere, solicitate potrivit prevederilor Legii fondului funciar nr. 18/1991 şi ale Legii nr. 169/1997 \[…\] şi constată că acestea sunt neconstituţionale în ceea ce priveşte dreptul foştilor proprietari de a opta pentru atribuirea unei suprafeţe echivalente din fondul forestier proprietate de stat.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2009-06-17) and ceases to have legal effect 45 days later, on 2009-08-01, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it names provisions of more than one act. The text here is unchanged; read the decision.

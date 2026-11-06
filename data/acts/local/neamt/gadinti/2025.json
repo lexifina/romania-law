@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/neamt/gadinti/2025",
+"acts": [
+{
+"slug": "hcl-neamt--gadinti-91-2025",
+"path": "local/neamt/gadinti/2025/91",
+"kind": "local",
+"year": "2025",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 91/2025 privind stabilirea taxei speciale de salubrizare începând cu data de 1 ianuarie 2026 pentru persoanele fizice si juridice din comuna Gâdinți, județul Neamț",
+"short": "HCL Gâdinți nr. 91/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/241868",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--gadinti-96-2025",
+"path": "local/neamt/gadinti/2025/96",
+"kind": "local",
+"year": "2025",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 96/2025 privind stabilirea nivelurilor impozitelor și taxelor locale pentru anul 2026",
+"short": "HCL Gâdinți nr. 96/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-16",
+"latest": "2026-01-16",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/243433",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

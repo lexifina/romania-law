@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/malovat/2021",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--malovat-50-2021",
+   "path": "local/mehedinti/malovat/2021/50",
+   "short": "HCL Malovăț nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 50/2021 privind privind reorganizarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat acreditate pentru anul şcolar 2022 /2023",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/42388",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/42388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-55-2021",
+   "path": "local/mehedinti/malovat/2021/55",
+   "short": "HCL Malovăț nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 55/2021 privind aprobarea taxelor și impozitelor locale pentru anul 2022",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/44431",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/44431",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

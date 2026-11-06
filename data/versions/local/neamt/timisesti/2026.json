@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/timisesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-neamt--timisesti-72-2026",
+   "path": "local/neamt/timisesti/2026/72",
+   "short": "HCL Timișești nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 72/2026 privind aprobarea valorii finale, a indicatorilor tehnico-economici actualizați și a Devizului general actualizat pentru obiectivul de investiție „Dezvoltarea sistemului de management local prin implementarea unor infrastructuri inteligente la nivelul Comunei Timișești, județul Neamț”",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/284249",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/284249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-73-2026",
+   "path": "local/neamt/timisesti/2026/73",
+   "short": "HCL Timișești nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 73/2026 privind aprobarea valorii finale, a indicatorilor tehnico-economici actualizați și a Devizului general actualizat pentru obiectivul de investiție „Reabilitare integrată a blocurilor de locuințe A, B, C 4 din comuna Timișești, județul Neamț”",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/284250",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/284250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-75-2026",
+   "path": "local/neamt/timisesti/2026/75",
+   "short": "HCL Timișești nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 75/2026 privind aprobarea valorii finale, a indicatorilor tehnico-economici actualizați și a Devizului general actualizat pentru obiectivul de investiții „Amenajare 6 (șase) stații de autobuz (călători) existente pe raza comunei Timișești, județul Neamț”",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/289312",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/289312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-78-2026",
+   "path": "local/neamt/timisesti/2026/78",
+   "short": "HCL Timișești nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 78/2026 privind rectificarea prevederilor bugetului local al comunei Timișești, județul Neamț pe anul 2026",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/289315",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/289315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-79-2026",
+   "path": "local/neamt/timisesti/2026/79",
+   "short": "HCL Timișești nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 79/2026 privind trecerea din domeniul privat în domeniul public a terenului în suprafață de 100 m.p. situat în intravilan sat Plăieșu, comuna Timișești, județul Neamț",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/289316",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/289316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-80-2026",
+   "path": "local/neamt/timisesti/2026/80",
+   "short": "HCL Timișești nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 80/2026 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor - cadru pentru achiziționarea produselor aferente programului și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derulararea măsurilor educative la nivelul comunei Timișești, pentru o perioadă de 3 ani școlari, respectiv 2026-2027, 2027-2028 și 2028-2029",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/289317",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/289317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-82-2026",
+   "path": "local/neamt/timisesti/2026/82",
+   "short": "HCL Timișești nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 82/2026 privind aprobarea proiectului, a documentației tehnico-economice – faza Studiu de Fezabilitate și a indicatorilor tehnico-economici ai proiectului „Realizarea unei capacitati de stocare a energiei electrice (baterii) pentru Comuna Timisesti, Judetul Neamt ”",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/289319",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/289319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-83-2026",
+   "path": "local/neamt/timisesti/2026/83",
+   "short": "HCL Timișești nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 83/2026 privind aprobarea valorii finale a investiției aferente obiectivului de investiții „Înființare distribuție gaze naturale și racorduri în comuna Timișești, cu satele Timișești, Dumbrava, Plăieșu, Preutești și Zvorănești, județul Neamț”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/296119",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/296119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-87-2026",
+   "path": "local/neamt/timisesti/2026/87",
+   "short": "HCL Timișești nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 87/2026 privind aprobarea scoaterii din funcțiune și casării de mijloace fixe și obiecte de inventar aflate în gestiunea Primăriei Comunei Timișești",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/297847",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/297847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-88-2026",
+   "path": "local/neamt/timisesti/2026/88",
+   "short": "HCL Timișești nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 88/2026 pentru modificarea inventarului bunurilor care apartin domeniului privat al comunei Timișești, județul Neamț",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/297848",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/297848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-89-2026",
+   "path": "local/neamt/timisesti/2026/89",
+   "short": "HCL Timișești nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 89/2026 privind trecerea din domeniul privat în domeniul public a sistemului de iluminat public local care aparține comunei Timișești, județul Neamț",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/297849",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/297849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-91-2026",
+   "path": "local/neamt/timisesti/2026/91",
+   "short": "HCL Timișești nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 91/2026 privind aprobarea transmiterii unui bun imobil-teren din domeniul public al comunei Timișești în domeniul public al Județului Neamț",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/297851",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/297851",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

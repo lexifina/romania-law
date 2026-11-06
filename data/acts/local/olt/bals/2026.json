@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/olt/bals/2026",
+"acts": [
+{
+"slug": "hcl-olt--bals-82-2026",
+"path": "local/olt/bals/2026/82",
+"kind": "local",
+"year": "2026",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 82/2026 Aprobarea organigramei și statului de funcții ale societății Parc Industrial Balș S.R.L",
+"short": "HCL Balș nr. 82/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-25",
+"latest": "2026-06-25",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#125649",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bals-85-2026",
+"path": "local/olt/bals/2026/85",
+"kind": "local",
+"year": "2026",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 85/2026 Aprobarea proiectului „O copilărie fără bariere pentru copiii cu dizabilități din Balș”, cod MySMIS 2021+ 350837, a cheltuielilor aferente proiectului și a contribuției proprii necesare implementării acestuia",
+"short": "HCL Balș nr. 85/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-25",
+"latest": "2026-06-25",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#125647",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

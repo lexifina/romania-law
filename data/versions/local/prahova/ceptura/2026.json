@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/ceptura/2026",
+ "acts": [
+  {
+   "slug": "hcl-prahova--ceptura-1-2026",
+   "path": "local/prahova/ceptura/2026/1",
+   "short": "HCL Ceptura nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ceptura nr. 1/2026 privind aprobarea acoperirii definitive a deficitului sectiunii de dezvoltare a bugetului local aferent anului 2025 din excedentul anilor anteriori si aprobarea utilizarii excedentului bugetar pentru acoperirea golurilor temporare de casa la sectiunea de functionare si de dezvoltare si pentru finantarea unor obiective de investitii",
+   "url": "https://emol.ro/ceptura-ph/registru-hcl/248399",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ceptura-ph/registru-hcl/248399",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

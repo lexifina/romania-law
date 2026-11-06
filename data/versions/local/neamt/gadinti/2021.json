@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/gadinti/2021",
+ "acts": [
+  {
+   "slug": "hcl-neamt--gadinti-67-2021",
+   "path": "local/neamt/gadinti/2021/67",
+   "short": "HCL Gâdinți nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 67/2021 privind stabilirea impozitelor și taxelor locale pentru anul 2022",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/41590",
+   "versions": [
+    {
+     "from": "2021-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/41590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-68-2021",
+   "path": "local/neamt/gadinti/2021/68",
+   "short": "HCL Gâdinți nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 68/2021 privind instituirea taxei speciale de salubrizare incepand cu data de 1 ianuarie 2022 pentru persoanele fizice si juridice comuna Gadinti, județul Neamț",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/41591",
+   "versions": [
+    {
+     "from": "2021-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/41591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-69-2021",
+   "path": "local/neamt/gadinti/2021/69",
+   "short": "HCL Gâdinți nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 69/2021 privind aprobarea cuantumului și a numărului estimativ de burse școlare ce se vor acorda elevilor din învățământul preuniversitar din cadrul Școlii Gimnaziale, comuna Gâdinti, județul Neamț, pentru anul școlar 2021- 2022",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/41592",
+   "versions": [
+    {
+     "from": "2021-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/41592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-71-2021",
+   "path": "local/neamt/gadinti/2021/71",
+   "short": "HCL Gâdinți nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 71/2021 privind aprobarea Programului de aprovizionare a populației cu produse agroalimentare raționalizate, valabil în perioada 2021 - 2024",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/41594",
+   "versions": [
+    {
+     "from": "2021-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/41594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-72-2021",
+   "path": "local/neamt/gadinti/2021/72",
+   "short": "HCL Gâdinți nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 72/2021 privind aprobarea rețelei școlare din comuna Gâdinți pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/44073",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/44073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-78-2021",
+   "path": "local/neamt/gadinti/2021/78",
+   "short": "HCL Gâdinți nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 78/2021 privind aprobarea „Planului anual de acţiuni sau de lucrări de interes local” pe baza căruia beneficiarii de ajutor social vor efectua orele de muncă prevăzute de Legea 416/2001 privind venitul minim garantat",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/44079",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/44079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-79-2021",
+   "path": "local/neamt/gadinti/2021/79",
+   "short": "HCL Gâdinți nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 79/2021 privind aprobarea scoaterii din funcțiune și casarea unor mijloace fixe aflate în patrimoniul comunei Gâdinți",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/44080",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/44080",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

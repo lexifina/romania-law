@@ -334,10 +334,34 @@ These changes were first published credited to another law. The words are unchan
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 737/2020](../../../jurisprudenta/ccr/2020/737/)**, Monitorul Oficial nr. 1189 din 7 decembrie 2020 · art. 79 alin. (5) · not matched automatically to one provision of this text
+
+  > constată că prevederile art. 79 alin. (5) din Legea nr. 188/1999 privind Statutul funcționarilor publici sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2020-12-07) and ceases to have legal effect 45 days later, on 2021-01-21, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: the provisions it names were not found exactly once in this text. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 112/2021](../../../jurisprudenta/ccr/2021/112/)**, Monitorul Oficial nr. 353 din 7 aprilie 2021 · art. 98 alin. (1) lit. d) · constitutional only as the Court reads it (an interpretive decision)
+
+  > Admite excepția de neconstituționalitate a prevederilor art. 98 alin. (1) lit. d) din Legea nr. 188/1999 privind Statutul funcționarilor publici, în redactarea anterioară modificării prin art. I pct. 24 din Legea nr. 156/2018 pentru modificarea și completarea Legii nr. 188/1999 privind Statutul funcționarilor publici, ale art. 98 alin. (1) lit. d) din Legea nr. 188/1999, astfel cum au fost modificate prin art. I pct. 24 din Legea nr. 156/2018, și ale art. 517 alin. (1) lit. d) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ \[…\] și constată că acestea sunt constituționale în măsura în care sintagma „condiții de vârstă standard“ nu exclude posibilitatea femeii de a solicita continuarea exercitării raportului de serviciu, în condiții identice cu bărbatul, respectiv până la împlinirea vârstei de 65 de ani.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2021-04-07) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 790/2021](../../../jurisprudenta/ccr/2021/790/)**, Monitorul Oficial nr. 164 din 18 februarie 2022 · art. 34 alin. (2) · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că dispozițiile art. 34 alin. (2) din Legea nr. 188/1999 privind Statutul funcționarilor publici, în redactarea anterioară modificărilor aduse prin Legea nr. 156/2018 pentru modificarea și completarea Legii nr. 188/1999 privind Statutul funcționarilor publici, sunt neconstituționale.
+
+  The Court judged an earlier or a specific wording of the provision (decided 2021-11-23, published 2022-02-18); the text here follows the acts that amended it. The text here is unchanged; read the decision.
 
 - **[Decizia nr. 131/2025](../../../jurisprudenta/ccr/2025/131/)**, Monitorul Oficial nr. 641 din 8 iulie 2025 · art. 54 lit. h) · only some words or a sentence inside the provision
 
   > constată că sintagma „care ar face-o incompatibilă cu exercitarea funcției publice“ din cuprinsul prevederilor art. 54 lit. h) teza finală din Legea nr. 188/1999 privind Statutul funcționarilor publici este neconstituțională.
 
   Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2025-07-08) and ceases to have legal effect 45 days later, on 2025-08-22, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 366/2025](../../../jurisprudenta/ccr/2025/366/)**, Monitorul Oficial nr. 1049 din 13 noiembrie 2025 · art. 65 alin. (2) lit. c) · not matched automatically to one provision of this text
+
+  > constată că termenul „calendaristici“ din cuprinsul art. 65 alin. (2) lit. c) din Legea nr. 188/1999 privind Statutul funcționarilor publici, în redactarea anterioară modificării prin art. I pct. 14 din Legea nr. 156/2018 pentru modificarea și completarea Legii nr. 188/1999 privind Statutul funcționarilor publici, este neconstituțional.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2025-11-13) and ceases to have legal effect 45 days later, on 2025-12-28, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it does not name the provisions as "dispozițiile art. ... din ...". The text here is unchanged; read the decision.

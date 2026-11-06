@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/carbunesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-prahova--carbunesti-13-2026",
+   "path": "local/prahova/carbunesti/2026/13",
+   "short": "HCL Cărbunești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 13/2026 HCL privind instalare sistem de supraveghere video in comuna Carbunesti ,judetul Prahova",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#126497",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#126497",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

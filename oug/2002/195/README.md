@@ -784,3 +784,19 @@ These changes were first published credited to another law. The words are unchan
 - `art-011-2.md`, in force from 2026-03-27: OUG nr. 7/2026 (first published as no law named).
 - `art-104.md`, in force from 2026-03-27: OUG nr. 7/2026 (first published as no law named).
 - `art-113.md`, in force from 2026-03-27: OUG nr. 7/2026 (first published as no law named).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 347/2007](../../../jurisprudenta/ccr/2007/347/)**, Monitorul Oficial nr. 307 din 9 mai 2007 · art. 118 alin. (1) · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că dispoziţiile art. 118 alin. (1), (2), şi (5) din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice sunt neconstituţionale.
+
+  The Court judged an earlier or a specific wording of the provision (decided 2007-04-03, published 2007-05-09); the text here follows the acts that amended it. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 220/2023](../../../jurisprudenta/ccr/2023/220/)**, Monitorul Oficial nr. 540 din 16 iunie 2023 · art. 101 alin. (1) · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că dispozițiile art. 101 alin. (1) pct. 8 din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, în forma anterioară modificării prin articolul unic pct. 2 din Legea nr. 252/2019 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, sunt neconstituționale.
+
+  The Court judged an earlier or a specific wording of the provision (decided 2023-04-20, published 2023-06-16); the text here follows the acts that amended it. The text here is unchanged; read the decision.

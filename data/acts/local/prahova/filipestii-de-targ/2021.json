@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/prahova/filipestii-de-targ/2021",
+"acts": [
+{
+"slug": "hcl-prahova--filipestii-de-targ-68-2021",
+"path": "local/prahova/filipestii-de-targ/2021/68",
+"kind": "local",
+"year": "2021",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 68/2021 privind aprobarea Programului achiziţiilor publice pentru anul 2022",
+"short": "HCL Filipeștii de Târg nr. 68/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-24",
+"latest": "2021-11-24",
+"portal": "https://emol.ro/filipestiidetarg-ph/registru-hcl/42363",
+"council": "prahova/filipestii-de-targ",
+"council_name": "Consiliul Local al Comunei Filipeștii de Târg",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-targ-71-2021",
+"path": "local/prahova/filipestii-de-targ/2021/71",
+"kind": "local",
+"year": "2021",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 71/2021",
+"short": "HCL Filipeștii de Târg nr. 71/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-20",
+"latest": "2021-12-20",
+"portal": "https://emol.ro/filipestiidetarg-ph/registru-hcl/44722",
+"council": "prahova/filipestii-de-targ",
+"council_name": "Consiliul Local al Comunei Filipeștii de Târg",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

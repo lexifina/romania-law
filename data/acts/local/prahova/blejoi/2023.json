@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/prahova/blejoi/2023",
+"acts": [
+{
+"slug": "hcl-prahova--blejoi-83-2023",
+"path": "local/prahova/blejoi/2023/83",
+"kind": "local",
+"year": "2023",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 83/2023 privind aprobarea organigramei și statului de funcții ale aparatului de specialitate al primarului comunei Blejoi",
+"short": "HCL Blejoi nr. 83/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/135200",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-84-2023",
+"path": "local/prahova/blejoi/2023/84",
+"kind": "local",
+"year": "2023",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 84/2023 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al Primarului Comunei Blejoi",
+"short": "HCL Blejoi nr. 84/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/135201",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-86-2023",
+"path": "local/prahova/blejoi/2023/86",
+"kind": "local",
+"year": "2023",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 86/2023 privind stabilirea impozitelor si taxelor locale pentru anul fiscal 2024",
+"short": "HCL Blejoi nr. 86/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/135203",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

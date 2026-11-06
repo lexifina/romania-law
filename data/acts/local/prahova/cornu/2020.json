@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/prahova/cornu/2020",
+"acts": [
+{
+"slug": "hcl-prahova--cornu-77-2020",
+"path": "local/prahova/cornu/2020/77",
+"kind": "local",
+"year": "2020",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 77/2020 privind aprobarea proiectului ”Echipamente din domeniul tehnologiei informației-IT mobile, respectiv tablete pentru uz școlar cu acces la internet, precum și a altor echipamente/dispozitive electronice necesare desfășurării activității didactice în mediul on-line pentru Școala Gimnazială Profesor Cristea Stănescu din comuna Cornu”, a indicatorilor tehnico-economici pentru această investiție precum și a cheltuielilor aferente proiectului",
+"short": "HCL Cornu nr. 77/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/11756",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--cornu-78-2020",
+"path": "local/prahova/cornu/2020/78",
+"kind": "local",
+"year": "2020",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 78/2020 privind aprobarea PUZ ”EXTINDERE INTRAVILAN ( S= 6213,73 MP), RIDICARE RESTRICȚIE DE CONSTRUIRE ȘI SCHIMBARE DESTINAȚIE TEREN INTRAVILAN ( S= 4560,75 MP ) DIN ZONĂ PENTRU LOCUINȚE DE TIP RURAL ÎN ZONĂ INSTITUȚII ȘI SERVICII PENTRU AMPLASARE COMPLEX TURISTIC ȘI AMENAJARE DRUM ACCES ( SST= 12564,94 MP)”",
+"short": "HCL Cornu nr. 78/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/11757",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--cornu-80-2020",
+"path": "local/prahova/cornu/2020/80",
+"kind": "local",
+"year": "2020",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 80/2020 privind anularea creanţelor fiscale mai mici de 40 lei aflate în sold la data de 31 decembrie 2020",
+"short": "HCL Cornu nr. 80/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-16",
+"latest": "2020-12-16",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/13015",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--cornu-87-2020",
+"path": "local/prahova/cornu/2020/87",
+"kind": "local",
+"year": "2020",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 87/2020",
+"short": "HCL Cornu nr. 87/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-16",
+"latest": "2020-12-16",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/13022",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--cornu-90-2020",
+"path": "local/prahova/cornu/2020/90",
+"kind": "local",
+"year": "2020",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 90/2020 privind modificarea cuantumului burselor şcolare aferente anului şcolar 2020-2021",
+"short": "HCL Cornu nr. 90/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-28",
+"latest": "2020-12-28",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/13349",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

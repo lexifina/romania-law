@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/tamna/2025",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--tamna-48-2025",
+   "path": "local/mehedinti/tamna/2025/48",
+   "short": "HCL Tâmna nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 48/2025 privind aprobarea apartenentei la domeniul public al comunei Tamna Judetul Mehedinti a unui teren in suprafata de 9579 mp intavilan-extravilan necesar realizariii obiectivului de investiţii ,,INFIINTARE PARC FOTOVOLTAIC PENTRU AUTOCONSUM IN COMUNA TAMNA SAT IZVORALU JUDETUL MEHEDINTI,,si declararea acestuia ca fiind de uz si interes public",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/229745",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/229745",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

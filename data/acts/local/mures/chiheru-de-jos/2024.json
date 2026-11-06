@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/mures/chiheru-de-jos/2024",
+"acts": [
+{
+"slug": "hcl-mures--chiheru-de-jos-56-2024",
+"path": "local/mures/chiheru-de-jos/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 56/2024 privind aprobarea aderării comunei Chiheru de Jos, în calitate de membru la „Asociația Zona Mureșului Superior”",
+"short": "HCL Chiheru de Jos nr. 56/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247174",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-57-2024",
+"path": "local/mures/chiheru-de-jos/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 57/2024 privind avizarea încheierii unui act adițional la contractul de delegare a gestiunii activităților de sortare a deșeurilor reciclabile, compostare a biodeșeurilor și transfer a deșeurilor prin exploatarea Stației de Sortare, Compostare și Transfer Cristești din județul Mureș",
+"short": "HCL Chiheru de Jos nr. 57/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247178",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-58-2024",
+"path": "local/mures/chiheru-de-jos/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 58/2024",
+"short": "HCL Chiheru de Jos nr. 58/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247190",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-63-2024",
+"path": "local/mures/chiheru-de-jos/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 63/2024 privind aprobarea taxelor de salubrizare distincte începând cu anul 2025, stabilite în conformitate cu prevederile Ordinului ANRSC nr. 640/2022 privind aprobarea Normelor metodologice de stabilire, ajustare sau modificare a tarifelor pentru activitățile de salubrizare, precum și de calculare a tarifelor/taxelor distincte pentru gestionarea deșeurilor și a taxelor de salubrizare, cu modificările și completările ulterioare",
+"short": "HCL Chiheru de Jos nr. 63/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-19",
+"latest": "2026-01-19",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247199",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-64-2024",
+"path": "local/mures/chiheru-de-jos/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 64/2024 privind stabilirea unei taxe speciale pentru utilizarea drumurilor forestiere și comunale, aflate în administrarea comunei de către societăți comerciale care desfășoară activități de exploatare și transport material lemnos",
+"short": "HCL Chiheru de Jos nr. 64/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-19",
+"latest": "2026-01-19",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247200",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

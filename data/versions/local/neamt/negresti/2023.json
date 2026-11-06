@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/negresti/2023",
+ "acts": [
+  {
+   "slug": "hcl-neamt--negresti-52-2023",
+   "path": "local/neamt/negresti/2023/52",
+   "short": "HCL Negrești nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 52/2023 privind rectificarea bugetului local al comunei Negresti pe anul 2023",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/124228",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/124228",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

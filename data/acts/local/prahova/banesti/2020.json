@@ -1,0 +1,249 @@
+{
+"country": "RO",
+"shard": "local/prahova/banesti/2020",
+"acts": [
+{
+"slug": "hcl-prahova--banesti-55-2020",
+"path": "local/prahova/banesti/2020/55",
+"kind": "local",
+"year": "2020",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 55/2020 privind aprobarea rectificării bugetului local al comunei Bănești și a listei de investiții pe anul 2020",
+"short": "HCL Bănești nr. 55/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/17151",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-57-2020",
+"path": "local/prahova/banesti/2020/57",
+"kind": "local",
+"year": "2020",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 57/2020 privind organizarea comisiilor de specialitate ale Consiliului Local al comunei Bănești",
+"short": "HCL Bănești nr. 57/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-12",
+"latest": "2020-11-12",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/17174",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-59-2020",
+"path": "local/prahova/banesti/2020/59",
+"kind": "local",
+"year": "2020",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 59/2020 privind scutirea de la plata taxei lunare pe cladiri, în anul 2020 pentru activitațile întrerupte total pe perioada stării de urgentă și/sau alertă",
+"short": "HCL Bănești nr. 59/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/17202",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-61-2020",
+"path": "local/prahova/banesti/2020/61",
+"kind": "local",
+"year": "2020",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 61/2020 privind aprobarea contului de execuţie a bugetului local al comunei Băneşti şi a instituțiilor publice finanțate integral sau parțial din venituri proprii la data de 30.09.2020 și raportarea facilităților fiscale și a bonificațiilor acordate până la data de 30.09.2020",
+"short": "HCL Bănești nr. 61/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/17204",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-62-2020",
+"path": "local/prahova/banesti/2020/62",
+"kind": "local",
+"year": "2020",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 62/2020 privind validarea Dispoziției nr.128/23.09.2020 privind rectificarea bugetului local al comunei Bănești pe anul 2020",
+"short": "HCL Bănești nr. 62/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/17205",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-64-2020",
+"path": "local/prahova/banesti/2020/64",
+"kind": "local",
+"year": "2020",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 64/2020 privind aprobarea rectificării bugetului local al comunei Bănești și a listei de investiții pe anul 2020",
+"short": "HCL Bănești nr. 64/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/17207",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-65-2020",
+"path": "local/prahova/banesti/2020/65",
+"kind": "local",
+"year": "2020",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 65/2020",
+"short": "HCL Bănești nr. 65/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/17208",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--banesti-66-2020",
+"path": "local/prahova/banesti/2020/66",
+"kind": "local",
+"year": "2020",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 66/2020 privind aprobarea proiectului cu tema „Sprijinirea elevilor din comuna Bănești, județul Prahova în procesul educațional” și a cheltuielilor legate de acesta",
+"short": "HCL Bănești nr. 66/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/17209",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-67-2020",
+"path": "local/prahova/banesti/2020/67",
+"kind": "local",
+"year": "2020",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 67/2020 privind aprobarea modificărilor și completărilor „Inventarului bunurilor care aparţin domeniului public al comunei Băneşti”",
+"short": "HCL Bănești nr. 67/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/17210",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-73-2020",
+"path": "local/prahova/banesti/2020/73",
+"kind": "local",
+"year": "2020",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 73/2020 privind aprobarea rectificării bugetului local al comunei Bănești și a listei de investiții pe anul 2020",
+"short": "HCL Bănești nr. 73/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/17220",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-74-2020",
+"path": "local/prahova/banesti/2020/74",
+"kind": "local",
+"year": "2020",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 74/2020 privind stabilirea impozitelor şi taxelor locale în comuna Bănești, pentru anul 2021",
+"short": "HCL Bănești nr. 74/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/17221",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

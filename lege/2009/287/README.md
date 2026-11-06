@@ -2692,7 +2692,13 @@ Act id: `codul-civil` (tags `codul-civil/<day>`; `python tools/on.py <day> codul
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 534/2018](../../../jurisprudenta/ccr/2018/534/)**, Monitorul Oficial nr. 842 din 3 octombrie 2018 · art. 277 alin. (2) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispozițiile art. 277 alin. (2) și (4) din Codul civil sunt constituționale în măsura în care permit acordarea dreptului de ședere pe teritoriul statului român, în condițiile stipulate de dreptul european, soților - cetățeni ai statelor membre ale Uniunii Europene și/sau cetățeni ai statelor terțe - din căsătoriile dintre persoane de același sex, încheiate sau contractate într-un stat membru al Uniunii Europene.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2018-10-03) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
 
 - **[Decizia nr. 342/2024](../../../jurisprudenta/ccr/2024/342/)**, Monitorul Oficial nr. 1000 din 7 octombrie 2024 · art. 1391 alin. (1) · unconstitutional only to the extent stated ("în măsura în care")
 

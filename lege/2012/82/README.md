@@ -41,3 +41,13 @@ Act id: `legea-82-2012` (tags `legea-82-2012/<day>`; `python tools/on.py <day> l
 - Legea nr. 82/2012: the republication of 25 March 2014 (156706) is credited, for the changes no note explains, to Legea nr. 255/2013, under whose art. 107 alin. (3) it was republished, as its own note says.
 - Legea nr. 82/2012: the signature block after the last article (the signatories, the place, the date and the number) is not part of an article and is left out, as in every act of this record.
 - Legea nr. 82/2012: each provision takes effect on its own day: the first version holds the law without those provisions; a version on 16 September 2012 adds art. 12 alin. (3) and art. 16 alin. (3)-(8), and a version on 18 December 2012 art. 21 alin. (1) lit. a) and e), each credited to the law.
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 440/2014](../../../jurisprudenta/ccr/2014/440/)**, Monitorul Oficial nr. 653 din 4 septembrie 2014 · not matched automatically to one provision of this text
+
+  > constată că dispoziţiile Legii nr. 82/2012 privind reţinerea datelor generate sau prelucrate de furnizorii de reţele publice de comunicaţii electronice şi de furnizorii de servicii de comunicaţii electronice destinate publicului, precum şi pentru modificarea şi completarea Legii nr. 506/2004 privind prelucrarea datelor cu caracter personal şi protecţia vieţii private în sectorul comunicaţiilor electronice sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2014-09-04) and ceases to have legal effect 45 days later, on 2014-10-19, unless Parliament or the Government brings it into line with the Constitution in that time. Not applied to this text automatically: it does not name the provisions as "dispozițiile art. ... din ...". The text here is unchanged; read the decision.

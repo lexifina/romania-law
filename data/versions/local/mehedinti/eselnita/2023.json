@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/eselnita/2023",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--eselnita-158-2023",
+   "path": "local/mehedinti/eselnita/2023/158",
+   "short": "HCL Eșelnița nr. 158/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 158/2023 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici aferenți obiectului de investiții „Instalare capacitate de producere a energiei din surse solare pentru autoconsumul comunei Eșelnița” finanțat prin Fondul pentru modernizare în România Programul-cheie 1: Surse regenerabile de energie și stocarea energiei Sprijinirea investițiilor în noi capacități de producere a energiei electric produsă din surse regenerabile pentru autoconsum",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/137345",
+   "versions": [
+    {
+     "from": "2024-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/137345",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

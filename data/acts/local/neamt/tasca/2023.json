@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/neamt/tasca/2023",
+"acts": [
+{
+"slug": "hcl-neamt--tasca-118-2023",
+"path": "local/neamt/tasca/2023/118",
+"kind": "local",
+"year": "2023",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 118/2023 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pentru anul 2024",
+"short": "HCL Tașca nr. 118/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-28",
+"latest": "2023-11-28",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/169434",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tasca-130-2023",
+"path": "local/neamt/tasca/2023/130",
+"kind": "local",
+"year": "2023",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 130/2023 privind aprobarea indicatorilor tehnico-economici actualizați pentru realizarea obiectivului de investiții ''Înființare rețea de apă uzată în comuna Tașca, județul Neamț'' și asigurarea finanțării de la bugetul local pentru categoriile de cheltuieli, care nu se finanțează de la bugetul de stat prin Programul Național de Dezvoltare Locală",
+"short": "HCL Tașca nr. 130/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/169533",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

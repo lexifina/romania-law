@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/olt/bals/2025",
+ "acts": [
+  {
+   "slug": "hcl-olt--bals-1-2025",
+   "path": "local/olt/bals/2025/1",
+   "short": "HCL Balș nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 1/2025 Aprobarea acoperirii definitive din excedentul anilor precedenți a deficitului pe anul 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#91989",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#91989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-2-2025",
+   "path": "local/olt/bals/2025/2",
+   "short": "HCL Balș nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 2/2025 Utilizarea excedentului anual în anul 2025,rezultat la încheierea exercițiului bugetar al anului 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#91991",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#91991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-209-2025",
+   "path": "local/olt/bals/2025/209",
+   "short": "HCL Balș nr. 209/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 209/2025 Aprobarea proiectului ,,REABILITARE, EXTINDERE P+2 ȘI DOTARE CORP C1, AMBULATORIU BALȘ, JUDEȚUL OLT,, Cod SMIS 354158 și a cheltuielilor legate de proiect",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#113187",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24f8GkwcDEQdhnVZf3PI0Ab.bCrJoXDQu4Va02dcOvNqkUquOtATDgy/4284",
+     "sha256": "f8f078006989c76a9becdacdb64dca3759f026341483b9c010edf481e5260a76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-213-2025",
+   "path": "local/olt/bals/2025/213",
+   "short": "HCL Balș nr. 213/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 213/2025 Aprobarea rețelei școlare a unităților de de învațământ de stat și particular cu personalitate juridică și a structurilor subordonate la nivelul unității administrativ-teritoriale orașul Balș,județul Olt,pentru anul școlar 2026-2027",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#109698",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24bRm2Gq73WkGJOm9r2dDm8eImp6yHNrv9aaZbtkz4dyH4BGgKWfRXC/4284",
+     "sha256": "7ae6bb5d5fde3ebf3f04b0e73add84bf94f7e722efabd83366fb151c6f51cec7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-214-2025",
+   "path": "local/olt/bals/2025/214",
+   "short": "HCL Balș nr. 214/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 214/2025 Atestarea inventarului bunurilor care alcătuiesc domeniul privat al orașului Balș, județul Olt",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#113184",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24Wj5YTz9WCzaJJ0Xcxy7lzeG96S59TkgGRpa2XGvChTx2trb//zCAm/4284",
+     "sha256": "91f09141375ccba5cf92d90b7ce3f858dfc4c21c76d6c68825197f9bfa7a9483"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-217-2025",
+   "path": "local/olt/bals/2025/217",
+   "short": "HCL Balș nr. 217/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 217/2025 Aprobarea perioadei de finalizare a proiectului „ Reabilitare termică pentru îmbunătățirea eficienței energetice la Spitalul Orășenesc Balș , județul Olt” și a cheltuielilor legate de acesta în vederea funcționalității sale",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#113197",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24vSDaxdKMr/OFdX4kzauOx.0Ui20leJUJp/u5ic6pm0TFfcQIcTXwC/4284",
+     "sha256": "fc30b2956eba97a4dba380b198970c68097741afe0f6f3de50b1398e9029ad0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-219-2025",
+   "path": "local/olt/bals/2025/219",
+   "short": "HCL Balș nr. 219/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 219/2025 Aprobarea contribuției din bugetul local a sumei de 24.291,34 lei pentru implementarea proiectului ,, Sistem eHealth integrat și interoperabil în cadrul Spitalului Orășenesc Balș,,",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#113199",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24u/pyW7IA6jD.DLXrfzfbt.UOVxoAK6z0u6XXjrX.7XhhbgYGUN2ye/4284",
+     "sha256": "1d251514bbf59bb0bccea35145ad1409914f4b27579a2953fcc75f3efdc7d9d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-220-2025",
+   "path": "local/olt/bals/2025/220",
+   "short": "HCL Balș nr. 220/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 220/2025 Rectificarea bugetului local, virări de credite și rectificarea listei de investiții pe anul 2025",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#113207",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24.vgqBup3vgV0H91055ShwebfO8ADfBiT8uYHtgV.AxIYxkCCIwEIi/4284",
+     "sha256": "f85497779d46e84bf637bc6774a8e5c0633508bd4d2236dec09419cab3e5de9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-221-2025",
+   "path": "local/olt/bals/2025/221",
+   "short": "HCL Balș nr. 221/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 221/2025 Aprobarea rectificării bugetului instituțiilor publice finanțate integral sau parțial din venituri proprii și a listei de investiții pe anul 2025",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#113208",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24MyL9GRzO2wZstY1LlKljquFQLl/Q8SmlbVNzUyNkn1Hz0TjGEDehO/4284",
+     "sha256": "719edbb898134710f9269506cd8cfa5cb3afd6eba4c0cdf0a83ce4d1d2a5f277"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-222-2025",
+   "path": "local/olt/bals/2025/222",
+   "short": "HCL Balș nr. 222/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 222/2025 Virari de credite intre capitole de buget în cadrul bugetului creditelor interne si rectificarea listei de investitii pe anul 2025",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#113209",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24SMqbHx8gDDfMQLMFAs6Bmu6z7Su1HzsXkI8fNJBfChG/X5yQLpFWe/4284",
+     "sha256": "6abe50c613a2931074dc0a91bd4b33fdea2a0f6f49f2e2a3ad570820448f510f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-96-2025",
+   "path": "local/olt/bals/2025/96",
+   "short": "HCL Balș nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 96/2025 Aprobarea rectificării bugetului local de venituri și cheltuieli al orașului Balș, virari credite intre capitole bugetare si rectificarea listei de investitii pe anul 2025",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#102646",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#102646",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

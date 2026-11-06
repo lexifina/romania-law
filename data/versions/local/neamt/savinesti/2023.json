@@ -1,0 +1,906 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/savinesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-neamt--savinesti-18-2023",
+   "path": "local/neamt/savinesti/2023/18",
+   "short": "HCL Săvinești nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 18/2023 incheiere Protocol cu MMSS proiect HUB",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#41612",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#41612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-21-2023",
+   "path": "local/neamt/savinesti/2023/21",
+   "short": "HCL Săvinești nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 21/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-22-2023",
+   "path": "local/neamt/savinesti/2023/22",
+   "short": "HCL Săvinești nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 22/2023 privind aprobarea aderarii Comunei Săvinești , judetul Neamț , prin Consiliul Local al Comunei Săvinești la parteneriatul LEADER reprezentat de Asociatia Drumurile Bistritei in scopul implementarii Strategiei de Dezvoltare Locala cu finantare prin PNS 2023 – 2027",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#44354",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#44354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-23-2023",
+   "path": "local/neamt/savinesti/2023/23",
+   "short": "HCL Săvinești nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 23/2023 privind aprobarea acordării unor pachete de 1 iunie ziua internațională a copilului/ Moș Crăciun și stabilirea valorii acestora",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#44355",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#44355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-24-2023",
+   "path": "local/neamt/savinesti/2023/24",
+   "short": "HCL Săvinești nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 24/2023 Privind acordul de principiu cu privire la amplasarea unei Bariere -control",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#44356",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#44356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-25-2023",
+   "path": "local/neamt/savinesti/2023/25",
+   "short": "HCL Săvinești nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 25/2023 Privind aprobarea schimbării destinației imobilului Scoală primara cu clasele I-IV Savinesti, situat in comuna Savinesti, strada Bistritei",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#44357",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#44357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-26-2023",
+   "path": "local/neamt/savinesti/2023/26",
+   "short": "HCL Săvinești nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 26/2023 Privind aprobarea Planului de actiuni si lucrari ce vor fi efectuate in anul 2023 de catre persoanele apte de munca, beneficiare de ajutor social potrivit Legii nr.416/2001 privind venitul minim garantat",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#44358",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#44358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-27-2023",
+   "path": "local/neamt/savinesti/2023/27",
+   "short": "HCL Săvinești nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 27/2023 privind participarea în cadrul Planului Național de Redresare și Reziliență (PNRR)/Componenta C15 - Educație, aprobarea proiectului „Dotarea cu mobilier, materiale didactice și echipamente digitale a unității de învățământ - Școala Gimnazială „I. Gervescu”, com. Săvinești, județul Neamț” și a cheltuielilor aferente acestui proiect",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#44359",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#44359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-28-2023",
+   "path": "local/neamt/savinesti/2023/28",
+   "short": "HCL Săvinești nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 28/2023 Privind aprobarea rectificării nr. 1 a bugetului local de venituri si cheltuieli pe anul 2023",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#44360",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#44360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-31-2023",
+   "path": "local/neamt/savinesti/2023/31",
+   "short": "HCL Săvinești nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 31/2023 Privind modificarea componenței membrilor comisiilor de specialitate din cadrul Consiliului Local Savinesti pe principalele domenii de activitate",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#47009",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#47009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-32-2023",
+   "path": "local/neamt/savinesti/2023/32",
+   "short": "HCL Săvinești nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 32/2023 Privind denumirea unor străzi din comuna Savinesti",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#47010",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#47010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-33-2023",
+   "path": "local/neamt/savinesti/2023/33",
+   "short": "HCL Săvinești nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 33/2023 Privind actualizarea unor poziții din anexele la HCL nr.37/14.07.2009 privind lista inventar a bunurilor ce apartin domeniului public al comunei Savinesti",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#47011",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#47011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-34-2023",
+   "path": "local/neamt/savinesti/2023/34",
+   "short": "HCL Săvinești nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 34/2023 Privind trecerea din domeniul public al comunei Săvinești în domeniul privat al comunei Savinesti a terenului în suprafată de 182 mp identificat cu nr. Cadastral 53020",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#47012",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#47012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-35-2023",
+   "path": "local/neamt/savinesti/2023/35",
+   "short": "HCL Săvinești nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 35/2023 privind modificarea si completarea(ACTUALIZAREA ) inventarului domeniului public si privat al comunei Săvinești , judetul Neamt",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#47014",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#47014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-36-2023",
+   "path": "local/neamt/savinesti/2023/36",
+   "short": "HCL Săvinești nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 36/2023 privind aprobarea raportului contabil de execuţie bugetară încheiat la trimestrul I al anului 2023",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#47015",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#47015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-37-2023",
+   "path": "local/neamt/savinesti/2023/37",
+   "short": "HCL Săvinești nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 37/2023 Privind aprobarea rectificării nr. 2 a bugetului local de venituri si cheltuieli pe anul 2023",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#47016",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#47016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-38-2023",
+   "path": "local/neamt/savinesti/2023/38",
+   "short": "HCL Săvinești nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 38/2023 Privind alegerea preşedintelui de şedinţă",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#50623",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#50623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-39-2023",
+   "path": "local/neamt/savinesti/2023/39",
+   "short": "HCL Săvinești nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 39/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-40-2023",
+   "path": "local/neamt/savinesti/2023/40",
+   "short": "HCL Săvinești nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 40/2023 privind modificarea și actualizarea Actelor Statutare ale Asociației de dezvoltare Intercomunitara AQUA NEAMT",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#50626",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#50626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-41-2023",
+   "path": "local/neamt/savinesti/2023/41",
+   "short": "HCL Săvinești nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 41/2023 privind stabilirea conditiilor de acces pe drumurile publice a mijloacelor de transport apartinând SC GHEOMAR SRL, având ca drept scop înlesnirea accesului la obiectivul de lucru “Lucrări pentru decolmatare, regularizare și reprofilare albie minoră prin exploatarea de agregate minerale în perimetrul PIATRA-ȘOIMULUI- PERIMETRUL3, RÂUL BISTRIȚA, MAL DREPT, COMUNA PIATRA ȘOIMULUI,JUDEȚUL NEAMȚ”",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#50627",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#50627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-43-2023",
+   "path": "local/neamt/savinesti/2023/43",
+   "short": "HCL Săvinești nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 43/2023 privind realizarea lucrarii de investitii Amenajare parcare BLOC ANL , strada G-ral Bunis, comuna Savinesti, judetul Neamt",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#50631",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#50631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-44-2023",
+   "path": "local/neamt/savinesti/2023/44",
+   "short": "HCL Săvinești nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 44/2023 realizarea lucrarii de investitii Îmbracaminte bituminoasa uțoară pe străzile Chimiei III, Bistriței, Preot Hârțescu",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#50632",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#50632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-45-2023",
+   "path": "local/neamt/savinesti/2023/45",
+   "short": "HCL Săvinești nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 45/2023 privind scăderea din evidența analitică pe plătitor a creanțelor fiscale datorate Bugetului local al comunei Săvinesti , de către persoanele juridice radiate de la Oficiul Registrului Comerțului",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#50633",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#50633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-46-2023",
+   "path": "local/neamt/savinesti/2023/46",
+   "short": "HCL Săvinești nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 46/2023 aprobarea Planului de analiză și acoperirea riscurilor teritoriale din comuna Savinesti, judetul Neamt",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#50634",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#50634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-48-2023",
+   "path": "local/neamt/savinesti/2023/48",
+   "short": "HCL Săvinești nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 48/2023 privind modificarea organigramei si Statului de funcții din cadrul aparatului de specialitate al Primarului comunei Savinesti",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#50638",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#50638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-49-2023",
+   "path": "local/neamt/savinesti/2023/49",
+   "short": "HCL Săvinești nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 49/2023 mandatare Primar votare AGA URBTRANS",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#50640",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#50640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-50-2023",
+   "path": "local/neamt/savinesti/2023/50",
+   "short": "HCL Săvinești nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 50/2023 Privind darea în administrare a bunului imobil parohial constituit de Capela Cimitirului de către Parohia” Sf Înviere” Săvinești Sat către U.A.T Săvinești, județul Neamț",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#52662",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#52662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-51-2023",
+   "path": "local/neamt/savinesti/2023/51",
+   "short": "HCL Săvinești nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 51/2023 Privind darea în administrare a bunului imobil parohial constituit de Capela Cimitirului de către Parohia” Sf Înviere” Săvinești Sat către U.A.T Săvinești, județul Neamț",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#52663",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#52663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-52-2023",
+   "path": "local/neamt/savinesti/2023/52",
+   "short": "HCL Săvinești nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 52/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-53-2023",
+   "path": "local/neamt/savinesti/2023/53",
+   "short": "HCL Săvinești nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 53/2023 privind aprobarea raportului contabil de execuţie bugetară încheiat la trimestrul II al anului 2023",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#54869",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#54869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-54-2023",
+   "path": "local/neamt/savinesti/2023/54",
+   "short": "HCL Săvinești nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 54/2023 Privind aprobarea rectificării nr. 3 a bugetului local de venituri si cheltuieli pe anul 2023",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#54870",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#54870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-55-2023",
+   "path": "local/neamt/savinesti/2023/55",
+   "short": "HCL Săvinești nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 55/2023 privind modificarea şi completarea Statutului Asociaţiei de Dezvoltare Intercomunitară ”AQUA NEAMŢ”",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#54871",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#54871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-56-2023",
+   "path": "local/neamt/savinesti/2023/56",
+   "short": "HCL Săvinești nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 56/2023 Privind aprobarea rectificării nr. 4 a bugetului local de venituri si cheltuieli pe anul 2023",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#54872",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#54872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-57-2023",
+   "path": "local/neamt/savinesti/2023/57",
+   "short": "HCL Săvinești nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 57/2023 Pentru aprobarea Regulamentului privind normele de gospodărire, întreținere, curățenie și estetică în comuna Savinesti",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#54873",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#54873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-61-2023",
+   "path": "local/neamt/savinesti/2023/61",
+   "short": "HCL Săvinești nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 61/2023 privind aprobarea valorii investiilor aferente UAT Săvinești si participarea Consiliului Local Săvinești la cofinantarea pentru “Proiectul regional de dezvoltarea a infrastructurii de apa si apa uzata din judetul Neamt, in perioada 2014-2020",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#59471",
+   "versions": [
+    {
+     "from": "2023-08-04",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#59471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-62-2023",
+   "path": "local/neamt/savinesti/2023/62",
+   "short": "HCL Săvinești nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 62/2023 privind aprobarea valorii investiilor aferente UAT Săvinești si participarea Consiliului Local Săvinești la cofinantarea pentru “Proiectul regional de dezvoltarea a infrastructurii de apa si apa uzata din judetul Neamt, in perioada 2014-2020",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#59472",
+   "versions": [
+    {
+     "from": "2023-08-04",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#59472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-63-2023",
+   "path": "local/neamt/savinesti/2023/63",
+   "short": "HCL Săvinești nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 63/2023 Privind alegerea preşedintelui de şedinţă",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#59481",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#59481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-64-2023",
+   "path": "local/neamt/savinesti/2023/64",
+   "short": "HCL Săvinești nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 64/2023 Privind aprobarea înființării Serviciului de iluminat public stradal fără personalitate juridică și a delegarii gestiunii prin concesiune a Serviciului de iluminat public al Comunei Savinești, Județul Neamț, a Studiului de fundamentare a deciziei de delegare a Serviciului Public de Iluminat al Comunei Savinești, Județul Neamț, a Regulamentului de Organizare și funcționare al serviciului de iluminat public, a Caietului de Sarcini, a documentatiei de atribuire prin procedura simplificata",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#59483",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#59483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-65-2023",
+   "path": "local/neamt/savinesti/2023/65",
+   "short": "HCL Săvinești nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 65/2023 Privind neasumarea responsabilităţilor organizării şi derulării procedurilor de atribuire a contractelor acordurilor-cadru pentru achiziţionarea produselor aferente Programului pentru scoli al României si al contractelor/acordurilor cadru de prestare a serviciilor pentru derularea masurilor educative la nivelul comunei Savinesti",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#59484",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#59484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-66-2023",
+   "path": "local/neamt/savinesti/2023/66",
+   "short": "HCL Săvinești nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 66/2023 Privind aprobarea rectificării nr. 5 a bugetului local de venituri si cheltuieli pe anul 2023",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#59485",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#59485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-67-2023",
+   "path": "local/neamt/savinesti/2023/67",
+   "short": "HCL Săvinești nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 67/2023 Privind completarea listei de inventar a bunurilor ce apartin domeniului privat al comunei Savinesti",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#59486",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#59486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-68-2023",
+   "path": "local/neamt/savinesti/2023/68",
+   "short": "HCL Săvinești nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 68/2023 privind darea în folosinţă pe durata existenţei capacităţilor energetice către SC DELGAZ GRID S.RL, a suprafetei de 8 mp, teren din domeniul public in vederea realizării obiectivului “ Extindere rețea electrică în vederea alimentării cu energie electrică a beneficiarului Timotei Popa, comuna Săvineşti , judeţul Neamţ;",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#59487",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#59487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-69-2023",
+   "path": "local/neamt/savinesti/2023/69",
+   "short": "HCL Săvinești nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 69/2023 Privind prelungirea termenului de dare în folosintă gratuită a spatiului în suprafată de 131,64 mp situat în incinta Centrului Social Polivalent către Inspectoratul de Poliţie al judeţului Neamţ",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#59490",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#59490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-70-2023",
+   "path": "local/neamt/savinesti/2023/70",
+   "short": "HCL Săvinești nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 70/2023 privind modificarea organigramei şi a statului de funcţii al aparatului de specialitate al primarului comunei Săvinești, județul Neamț",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#59493",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#59493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-71-2023",
+   "path": "local/neamt/savinesti/2023/71",
+   "short": "HCL Săvinești nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 71/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-75-2023",
+   "path": "local/neamt/savinesti/2023/75",
+   "short": "HCL Săvinești nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 75/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-76-2023",
+   "path": "local/neamt/savinesti/2023/76",
+   "short": "HCL Săvinești nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 76/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-77-2023",
+   "path": "local/neamt/savinesti/2023/77",
+   "short": "HCL Săvinești nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 77/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-78-2023",
+   "path": "local/neamt/savinesti/2023/78",
+   "short": "HCL Săvinești nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 78/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-79-2023",
+   "path": "local/neamt/savinesti/2023/79",
+   "short": "HCL Săvinești nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 79/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-80-2023",
+   "path": "local/neamt/savinesti/2023/80",
+   "short": "HCL Săvinești nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 80/2023 Privind alegerea preşedintelui de şedinţă",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#66456",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#66456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-81-2023",
+   "path": "local/neamt/savinesti/2023/81",
+   "short": "HCL Săvinești nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 81/2023 Privind aprobarea rectificării nr. 7 a bugetului local de venituri si cheltuieli pe anul 2023",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#66457",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#66457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-82-2023",
+   "path": "local/neamt/savinesti/2023/82",
+   "short": "HCL Săvinești nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 82/2023 indexare taxe si impozite anul 2024",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#66458",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#66458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-83-2023",
+   "path": "local/neamt/savinesti/2023/83",
+   "short": "HCL Săvinești nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 83/2023 privind retragerea comunei Gâdinți din cadrul Asociației de Dezvoltare Intercomunitară Aqua Neamț și modificarea Statutului Asociaţiei de Dezvoltare Intercomunitară ”AQUA NEAMŢ”",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#66459",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#66459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-84-2023",
+   "path": "local/neamt/savinesti/2023/84",
+   "short": "HCL Săvinești nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 84/2023 privind aprobarea proiectului, a Documentației de avizare a lucrărilor de intervenții și a indicatorilor tehnico-economici aferenți obiectivului de investiții „Reabilitare moderată unitate pentru învățământ – Grădinița de copii cu program prelungit si Anexa, SĂVINEŞTI”",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#66460",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#66460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-85-2023",
+   "path": "local/neamt/savinesti/2023/85",
+   "short": "HCL Săvinești nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 85/2023 privind aprobarea proiectului, a Documentației de avizare a lucrărilor de intervenții și a indicatorilor tehnico-economici aferenți obiectivului de investiții „Reabilitare moderată unitate pentru învățământ – Școala Dumbrava Vale, SĂVINEȘTI” în cadrul Programului privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#66461",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#66461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-86-2023",
+   "path": "local/neamt/savinesti/2023/86",
+   "short": "HCL Săvinești nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 86/2023 rectificarea nr 8 a bugetului local de venituri si cheltuieli",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#66463",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#66463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-87-2023",
+   "path": "local/neamt/savinesti/2023/87",
+   "short": "HCL Săvinești nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 87/2023 rețeaua școlara 2024-2025",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#66466",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#66466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-88-2023",
+   "path": "local/neamt/savinesti/2023/88",
+   "short": "HCL Săvinești nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 88/2023 privind aprobarea raportului contabil de execuţie bugetară încheiat la trimestrul IV al anului 2023",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#66467",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#66467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--savinesti-89-2023",
+   "path": "local/neamt/savinesti/2023/89",
+   "short": "HCL Săvinești nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 89/2023 privind inventarierea materiei impozabile pentru anul 2023 la nivelul comunei Săvineşti, judeţul Neamţ",
+   "url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#66469",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#66469",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/olt/bals/2023",
+ "acts": [
+  {
+   "slug": "hcl-olt--bals-209-2023",
+   "path": "local/olt/bals/2023/209",
+   "short": "HCL Balș nr. 209/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 209/2023 aprobarea participării UAT Oraș Balș ,județul Olt la la Parteneriatul LEADER cu denumirea ”ASOCIATIA GRUPUL DE ACTIUNE LOCALA CAMPIA ROMANATILOR”, CIF 32351093",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#64050",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24kC9R9yR3ASemROMb.EXqHee4qbhPvGeHR/LW9eAUEmNt0S3nVdU82/4284",
+     "sha256": "53625e9790beb6079fcb81f4dbbcbfc2f409663974d1ccb85f4afe64e60b1350"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-210-2023",
+   "path": "local/olt/bals/2023/210",
+   "short": "HCL Balș nr. 210/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 210/2023 aprobarea devizului general și a indicatorilor tehnico-economici aferenți obiectivului de investiții ,,Extindere Spital Orășenesc Balș- Compartiment Primiri Urgențe,, din Orașul Balș,Județul Olt",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#65360",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24CbyDDPkq1lJHUWVOG3SrsOXGgUIZHEmRwgoX.gISrCmfk8WdVQuB2/4284",
+     "sha256": "42c1cd1c69316bf60083514f564260bbb43a0051033a0ea973e2add55fe799ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-211-2023",
+   "path": "local/olt/bals/2023/211",
+   "short": "HCL Balș nr. 211/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 211/2023 la aprobarea rectificării bugetului local de venituri și cheltuieli al orașului Balș și a listei de investiții pe anul 2023",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#65937",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24qHOAUHiH4RGtoYT/onMkW.x5kjilmO4UFD3CRQqxkcN8ZAL8kgpJG/4284",
+     "sha256": "db976cc0a489329c68efcd913dedcfc9b76f91cd2bbca47825a9993e75042677"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-212-2023",
+   "path": "local/olt/bals/2023/212",
+   "short": "HCL Balș nr. 212/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 212/2023 aprobarea rectificarii bugetului instituțiilor publice finanțate integral sau parțial din venituri proprii și a listei de investiții pe anul 2023",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#65939",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24iD0zHspNV/T6pJvRLL7Bi.O3ISrXisq3s2u/1fLk2RRMZTQgomre./4284",
+     "sha256": "e3b9cbaf5fa49da7a5fa75beb1d1b637e24c763c417037c59d61d05d36227047"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-213-2023",
+   "path": "local/olt/bals/2023/213",
+   "short": "HCL Balș nr. 213/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 213/2023 aprobarea rectificării bugetului creditelor interne și a listei de investiții pe anul 2023",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#65938",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24PBdIxk1DOJb1fDjD.xm7JOGhv0tAQKvgbFsmu25BgqRy4TycWV/qe/4284",
+     "sha256": "90e8c158d46993aafbe3e8cf2e650102a01f4edf848adb2dde8e0e4511334e10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-214-2023",
+   "path": "local/olt/bals/2023/214",
+   "short": "HCL Balș nr. 214/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 214/2023 Revocare HCL înființare Direcție de Asistenta Sociala",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#66425",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24ZEOnOuoEt.Wn24yYZ21WVOSVif304ePHYLCq.flRhXLB9YG8gr66K/4284",
+     "sha256": "602700389e134d5ebba8fae2a30e71cdd45c92cb82582c5ebf6300385c48069b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-215-2023",
+   "path": "local/olt/bals/2023/215",
+   "short": "HCL Balș nr. 215/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 215/2023 Revocare Hcl rectificare buget local",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#66426",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24lBdKDBddLYCZhvKnT93bFu/n83w7p7XCvis73jaML/.eMyktA57lO/4284",
+     "sha256": "7a6918b2470057758e0da3d55eca770353ec2bbfbf09319c0515c7e27a855959"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-216-2023",
+   "path": "local/olt/bals/2023/216",
+   "short": "HCL Balș nr. 216/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 216/2023 Revocare Hcl GAL Câmpia Romanatilor",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#66427",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24tsuVuB0rUSRTLN1d8zhbAeHxaQ5T3b87gvYlPLZ/LaroVfYLcDdH6/4284",
+     "sha256": "38b04d7e7ad4d20214c867361cac43e07295009f7983138c68a0db7ecaa9bfdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-217-2023",
+   "path": "local/olt/bals/2023/217",
+   "short": "HCL Balș nr. 217/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 217/2023 Revocare Hcl extindere Spital orășenesc Bals",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#66428",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24u3xC0Z6fU4c27drDhXVkq.nIbBeUDUWKgsXnv52TFI6do8vmiV4JG/4284",
+     "sha256": "7d2b7205e323d704bcc62f2211f21c84c6a7beb62a4b61ffea00a04eaf8a1a04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-220-2023",
+   "path": "local/olt/bals/2023/220",
+   "short": "HCL Balș nr. 220/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 220/2023 aprobarea participării UAT Oraș Balș ,județul Olt la la Parteneriatul LEADER cu denumirea ”ASOCIATIA GRUPUL DE ACTIUNE LOCALA CAMPIA ROMANATILOR”, CIF 32351093",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#66071",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24Cx6.F1jHIHIovhmEDwWba.T1FnEAz1ELPYX/vM1qehaNCr0AMJmaK/4284",
+     "sha256": "96f3215856701b1de17893f5aebdc5798af1736cf04b430a2fd9c5bf3755dbc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-221-2023",
+   "path": "local/olt/bals/2023/221",
+   "short": "HCL Balș nr. 221/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 221/2023 Aprobare deviz general extindere spital Bals",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#66437",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%241TNTSNZtyLk2Kcl6A5A8VeMLQbW/x2l1Jmr8DqrYT7pPmaqZFO9dS/4284",
+     "sha256": "45e3eee7a6e9d2dfa86967e7a0ab404d5e0ec8b660121b598193d29879edeb85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-222-2023",
+   "path": "local/olt/bals/2023/222",
+   "short": "HCL Balș nr. 222/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 222/2023 Aprobare cont execuție buget local trimestrul IV",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#66431",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24cr5BqQB7vNTomlncdnEIfO0ti1cyiFAw4mYQjyuUFw/hE1zji2ipO/4284",
+     "sha256": "1d9f4722d8e45aec88832c4cab73b8dd3d5827648d3a021b5098bd36d09155d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-223-2023",
+   "path": "local/olt/bals/2023/223",
+   "short": "HCL Balș nr. 223/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 223/2023 Aprobare cont execuție buget instituții publice trimestrul IV",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#66432",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24.TdMDMpTubXMMG8LbYuvYOM/NArhB3BoksC73Xa41iOdvWvv96QmC/4284",
+     "sha256": "21b97261c6c7047aa308dcf6c897200d9707c54af4048b7848615c2b367d386c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-224-2023",
+   "path": "local/olt/bals/2023/224",
+   "short": "HCL Balș nr. 224/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 224/2023 Aprobare cont execuție buget credite interne",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#66433",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24WSHjnAu8Y1XcwOSyHajY8.YDJtB0IUbwQfo72r9rA4MY0RcuOATkS/4284",
+     "sha256": "b82ce8663890fe07558f8f9518edfb7454bfa3d9c7ec83965f13aa75c69f1d0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-225-2023",
+   "path": "local/olt/bals/2023/225",
+   "short": "HCL Balș nr. 225/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 225/2023 Aprobare cont de execuție buget fonduri externe nerambursabile",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#66434",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24SL4nGReu6qNkaH/oZDnG0ukXnXFAfBnGqW74igpNh8bnQiRhz897i/4284",
+     "sha256": "9ea4b0c30b8a2e43b3aed710513fc6044294dd17dd2dd9e9ae138e73de3d33f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-226-2023",
+   "path": "local/olt/bals/2023/226",
+   "short": "HCL Balș nr. 226/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 226/2023 suportarea din bugetul propriu al Orașului Balș a cheltuielilor nedecontate din proiectele implementate din fonduri externe,prin Programul Operațional Competitivitate 2014-2020",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#66438",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24s5if0pdLh1qoozgD5FrzxuTFB0U0Q2RstZU0PduYnb5XM/JJ0iy7u/4284",
+     "sha256": "331088f8fd5bccce26d1af054b1ecf5811bdd99185815267f24fa0b26f8bea99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-227-2023",
+   "path": "local/olt/bals/2023/227",
+   "short": "HCL Balș nr. 227/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 227/2023 Prelungire PUG Bals",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#66436",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24XyEf8ZdGH/8SaHk7T7Lmz.c7yEZ1/0ppVvFexzi2HAn4g.9XThchK/4284",
+     "sha256": "9c0873bfc37a9d42c5fd8ace1cf59c2ef056dadec71640d18b82e6733d47f508"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-230-2023",
+   "path": "local/olt/bals/2023/230",
+   "short": "HCL Balș nr. 230/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 230/2023 Aprobare protocol colaborare câini fără stăpâni comuna Baldovinesti",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#66429",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24HMk3cs0rGBKcfNrbftGXR.IQnfhQQCo65xjod62E6A1Si1uOedfU./4284",
+     "sha256": "7e28c94a0887b81a225ca3026ea9429112022f3bac7bcc1307f895b82eeaf44e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-231-2023",
+   "path": "local/olt/bals/2023/231",
+   "short": "HCL Balș nr. 231/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 231/2023 Stabilirea salarii baza funcționari publici",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#66430",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%249vn6kvut8/231Qe6ZEQGr.IEnHBR0d1icQBLEswFbaKVvoPdcr4dS/4284",
+     "sha256": "71a0c859fa38ef4f53834d6214f40ce0570ee5a11883fefa3095f4104a638210"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-232-2023",
+   "path": "local/olt/bals/2023/232",
+   "short": "HCL Balș nr. 232/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 232/2023 Aprobarea atribuirie autorizație taxi nr.60 și nr. 61",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#66424",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%248v5C0BKgd8uS9oU7xHDPDeIZJGbvJOsxgTxGt.t3etjw2Eu4qifVC/4284",
+     "sha256": "4f99307e492fbd6e4a1d93ef14252a69aef90f7f4f620421e57e3a72d10d73e2"
+    }
+   ]
+  }
+ ]
+}

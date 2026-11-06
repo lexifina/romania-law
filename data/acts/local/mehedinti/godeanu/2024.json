@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/godeanu/2024",
+"acts": [
+{
+"slug": "hcl-mehedinti--godeanu-33-2024",
+"path": "local/mehedinti/godeanu/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 33/2024 privind aprobarea demarării procedurii de întocmire a tuturor documentațiilor necesare realizării obiectivului de investiții, „Cloptnita în satul Siroca, comuna Godeanu, județul Mehedinți”",
+"short": "HCL Godeanu nr. 33/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/godeanu-mh/registru-hcl/188497",
+"council": "mehedinti/godeanu",
+"council_name": "Consiliul Local al Comunei Godeanu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--godeanu-34-2024",
+"path": "local/mehedinti/godeanu/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 34/2024 privind aprobarea demarării procedurii de întocmire a tuturor documentațiilor necesare realizării obiectivului de investiții „ÎNFIINȚARE PIAȚA AGROALIMENTARĂ” în comuna Godeanu, județul Mehedinți",
+"short": "HCL Godeanu nr. 34/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/godeanu-mh/registru-hcl/188498",
+"council": "mehedinti/godeanu",
+"council_name": "Consiliul Local al Comunei Godeanu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--godeanu-37-2024",
+"path": "local/mehedinti/godeanu/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 37/2024 privind demararea procedurii de întocmire a tuturor documentațiilor necesare realizării obiectivului de investiții „Programul privind creșterea eficienței energetice a clădirii locale Primăriei, sat Godeanu, comuna Godeanu, județul Mehedinți”",
+"short": "HCL Godeanu nr. 37/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-03",
+"latest": "2025-02-03",
+"portal": "https://emol.ro/godeanu-mh/registru-hcl/190239",
+"council": "mehedinti/godeanu",
+"council_name": "Consiliul Local al Comunei Godeanu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--godeanu-38-2024",
+"path": "local/mehedinti/godeanu/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 38/2024 privind organizarea Festivalului-Concurs Național de muzică populară pentru copii și tineri „FLORILE MUNTELUI”, ediția I, 2024",
+"short": "HCL Godeanu nr. 38/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-03",
+"latest": "2025-02-03",
+"portal": "https://emol.ro/godeanu-mh/registru-hcl/190240",
+"council": "mehedinti/godeanu",
+"council_name": "Consiliul Local al Comunei Godeanu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--godeanu-47-2024",
+"path": "local/mehedinti/godeanu/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 47/2024 privind participarea Comunei Godeanu la „Programul privind creșterea eficienței energetice a infrastructurii de iluminat public” și aprobarea indicatorilor tehnico-economici ai proiectului „MODERNIZAREA SISTEMULUI DE ILUMINAT PUBLIC ÎN COMUNA GODEANU, JUDEȚUL MEHEDINȚI”",
+"short": "HCL Godeanu nr. 47/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-03",
+"latest": "2025-02-03",
+"portal": "https://emol.ro/godeanu-mh/registru-hcl/190382",
+"council": "mehedinti/godeanu",
+"council_name": "Consiliul Local al Comunei Godeanu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

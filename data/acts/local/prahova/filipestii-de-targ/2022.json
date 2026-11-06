@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/prahova/filipestii-de-targ/2022",
+"acts": [
+{
+"slug": "hcl-prahova--filipestii-de-targ-58-2022",
+"path": "local/prahova/filipestii-de-targ/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 58/2022",
+"short": "HCL Filipeștii de Târg nr. 58/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-26",
+"latest": "2022-10-26",
+"portal": "https://emol.ro/filipestiidetarg-ph/registru-hcl/76748",
+"council": "prahova/filipestii-de-targ",
+"council_name": "Consiliul Local al Comunei Filipeștii de Târg",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-targ-72-2022",
+"path": "local/prahova/filipestii-de-targ/2022/72",
+"kind": "local",
+"year": "2022",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 72/2022 privind aprobarea menținerii Comunei Filipeștii de Târg, județul Prahova în parteneriatul Grupului de Acțiune Locală ,, Colinele Prahovei ,,",
+"short": "HCL Filipeștii de Târg nr. 72/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-28",
+"latest": "2022-12-28",
+"portal": "https://emol.ro/filipestiidetarg-ph/registru-hcl/83376",
+"council": "prahova/filipestii-de-targ",
+"council_name": "Consiliul Local al Comunei Filipeștii de Târg",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

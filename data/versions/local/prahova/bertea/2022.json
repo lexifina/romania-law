@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/bertea/2022",
+ "acts": [
+  {
+   "slug": "hcl-prahova--bertea-42-2022",
+   "path": "local/prahova/bertea/2022/42",
+   "short": "HCL Bertea nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 42/2022",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/72366",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/72366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-44-2022",
+   "path": "local/prahova/bertea/2022/44",
+   "short": "HCL Bertea nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 44/2022 privind modificarea Hotararii Consiliului Local nr. 40/28.11.2013",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/72368",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/72368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-45-2022",
+   "path": "local/prahova/bertea/2022/45",
+   "short": "HCL Bertea nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 45/2022 privind aprobarea bugetului local rectificat pentru anul 2022",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/79072",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/79072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-49-2022",
+   "path": "local/prahova/bertea/2022/49",
+   "short": "HCL Bertea nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 49/2022 privind privind aprobarea executiei bugetului local la trim.III, anul 2022",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/79560",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/79560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-50-2022",
+   "path": "local/prahova/bertea/2022/50",
+   "short": "HCL Bertea nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 50/2022 privind .acordarea unui mandat special reprezentantului legal pentru a vota in Adunarea Generala a A.D.I Managementul Apei Prahova",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/79561",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/79561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-51-2022",
+   "path": "local/prahova/bertea/2022/51",
+   "short": "HCL Bertea nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 51/2022 privind .acordarea unui mandat special reprezentantului legal al comunei Bertea pentru a vota in Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară „Parteneriatul pentru Managementul Deşeurilor Prahova”",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/79562",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/79562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-52-2022",
+   "path": "local/prahova/bertea/2022/52",
+   "short": "HCL Bertea nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 52/2022 privind .alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/79611",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/79611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-53-2022",
+   "path": "local/prahova/bertea/2022/53",
+   "short": "HCL Bertea nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 53/2022 privind aprobarea Devizului general actualizat aferent proiectului,,Înființare rețea inteligentă de distribuţie gaze naturale în județul Prahova - comunele : Cocorăştii Mislii, Vîlcăneşti, Cosminele, Dumbrăveşti, Vărbilău, Aluniş, Ştefeşti, Bertea şi oraşul Slănic”",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/79612",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/79612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-54-2022",
+   "path": "local/prahova/bertea/2022/54",
+   "short": "HCL Bertea nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 54/2022 privind aprobarea bugetului local de venituri si cheltuieli rectificat pentru anul 2022",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/81817",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/81817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-55-2022",
+   "path": "local/prahova/bertea/2022/55",
+   "short": "HCL Bertea nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 55/2022 privind acordarea unui mandat special reprezentantului legal pentru a vota in Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara \"Parteneriatul pentru Managementul Apei Prahova\"",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/81818",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/81818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-56-2022",
+   "path": "local/prahova/bertea/2022/56",
+   "short": "HCL Bertea nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 56/2022 privind participarea Comunei Bertea, alături de Judetul Prahova și alte unitați administrative din cadrul județului la implementarea proiectului ” VELO Valahia” din Investiția I.4 ”Implementarea a 3.000 km de trasee cicloturistice la nivel național” finanțat din PNRR, Componenta 11 – Turism și cultură",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/81991",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/81991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-57-2022",
+   "path": "local/prahova/bertea/2022/57",
+   "short": "HCL Bertea nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 57/2022 privind aprobarea executiei bugetului local la trim.IV , anul 2022",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/85324",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/85324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-58-2022",
+   "path": "local/prahova/bertea/2022/58",
+   "short": "HCL Bertea nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 58/2022 privind aprobarea impozitelor si taxelor locale pentru anul fiscal 2023",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/85325",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/85325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-59-2022",
+   "path": "local/prahova/bertea/2022/59",
+   "short": "HCL Bertea nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 59/2022 privind aprobarea Planului de actiune privind serviciile sociale pentru anul 2023",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/85326",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/85326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-60-2022",
+   "path": "local/prahova/bertea/2022/60",
+   "short": "HCL Bertea nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 60/2022 privind aprobarea Planului anual de actiune al lucrarilor de interes local",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/85327",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/85327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-61-2022",
+   "path": "local/prahova/bertea/2022/61",
+   "short": "HCL Bertea nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 61/2022 privind privind aprobarea încheierii unui protocol de colaborare în vederea implementării proiectului ”HUB de servicii MMSS-SII MMSS”, cod MySmis 130963",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/85328",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/85328",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

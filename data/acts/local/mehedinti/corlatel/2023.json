@@ -287,6 +287,72 @@
 "flags": {
 "text_pending": "source"
 }
+},
+{
+"slug": "hcl-mehedinti--corlatel-31-2023",
+"path": "local/mehedinti/corlatel/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 31/2023 privind alocarea unei sume de bani din bugetul consiliului local al comunei Corlățel pentru cadourile de sărbătorile de iarnă ale anului 2023 la preșcolarii și școlarii Școlii Profesionale Corlățel",
+"short": "HCL Corlățel nr. 31/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/corlatel-mh/registru-hcl/132754",
+"council": "mehedinti/corlatel",
+"council_name": "Consiliul Local al Comunei Corlățel",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--corlatel-32-2023",
+"path": "local/mehedinti/corlatel/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 32/2023 privind aprobarea rectificării bugetului de venituri si cheltuieli al comunei Corlățel pe anul 2023",
+"short": "HCL Corlățel nr. 32/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/corlatel-mh/registru-hcl/132755",
+"council": "mehedinti/corlatel",
+"council_name": "Consiliul Local al Comunei Corlățel",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--corlatel-33-2023",
+"path": "local/mehedinti/corlatel/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 33/2023 privind aprobarea rectificării bugetului de venituri si cheltuieli al comunei Corlățel pe anul 2023",
+"short": "HCL Corlățel nr. 33/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://emol.ro/corlatel-mh/registru-hcl/134300",
+"council": "mehedinti/corlatel",
+"council_name": "Consiliul Local al Comunei Corlățel",
+"flags": {
+"text_pending": "source"
+}
 }
 ]
 }

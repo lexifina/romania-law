@@ -1,0 +1,139 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/isverna/2021",
+"acts": [
+{
+"slug": "hcl-mehedinti--isverna-1-2021",
+"path": "local/mehedinti/isverna/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Isverna nr. 1/2021 privind organizarea/reorganizarea retelei scolare a unitatilor de invatamint preuniversitar pe raza UAT ISVERNA pentru anul scolar 2021/2022",
+"short": "HCL Isverna nr. 1/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/isverna-mh/registru-hcl/20744",
+"council": "mehedinti/isverna",
+"council_name": "Consiliul Local al Comunei Isverna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--isverna-4-2021",
+"path": "local/mehedinti/isverna/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Isverna nr. 4/2021 Proiect de hotarire privind aprobarea renuntarii la orice cale de atac impotriva Sentintei Civile nr.5/11.01.2021",
+"short": "HCL Isverna nr. 4/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-04",
+"latest": "2021-02-04",
+"portal": "https://emol.ro/isverna-mh/registru-hcl/20979",
+"council": "mehedinti/isverna",
+"council_name": "Consiliul Local al Comunei Isverna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--isverna-5-2021",
+"path": "local/mehedinti/isverna/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Isverna nr. 5/2021",
+"short": "HCL Isverna nr. 5/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-04",
+"latest": "2021-02-04",
+"portal": "https://emol.ro/isverna-mh/registru-hcl/20980",
+"council": "mehedinti/isverna",
+"council_name": "Consiliul Local al Comunei Isverna",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--isverna-7-2021",
+"path": "local/mehedinti/isverna/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Isverna nr. 7/2021 privind instrumentarea proiectului „ Implementarea de masuri integrate pentru combaterea excluziunii sociale si reducerea gradului de saracie in comuna Isverna „",
+"short": "HCL Isverna nr. 7/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-04",
+"latest": "2021-02-04",
+"portal": "https://emol.ro/isverna-mh/registru-hcl/20982",
+"council": "mehedinti/isverna",
+"council_name": "Consiliul Local al Comunei Isverna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--isverna-8-2021",
+"path": "local/mehedinti/isverna/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Isverna nr. 8/2021 privind aprobare plan de acitiuni și lucrări de interes local care vor fi efectuate cu beneficiarii Legii nr.416/2001 privind venitul minim garantat, pe anul 2021",
+"short": "HCL Isverna nr. 8/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/isverna-mh/registru-hcl/20983",
+"council": "mehedinti/isverna",
+"council_name": "Consiliul Local al Comunei Isverna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--isverna-9-2021",
+"path": "local/mehedinti/isverna/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Isverna nr. 9/2021 privind analiza stadiului de înscriere a datelor în registrul agricol pe semestrul II/2020 și stabilirea măsurilor pentru eficientizarea acestei activități",
+"short": "HCL Isverna nr. 9/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/isverna-mh/registru-hcl/20984",
+"council": "mehedinti/isverna",
+"council_name": "Consiliul Local al Comunei Isverna",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

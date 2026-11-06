@@ -713,3 +713,25 @@ Act id: `codul-administrativ` (tags `codul-administrativ/<day>`; `python tools/o
 - Codul administrativ: notes dated before their form while every other note on the same amending law in that form gives the form's date (a slip on the portal); the change takes the form's date: art-529 (2022-10-22, form 2022-11-11).
 - Codul administrativ: 10 changed article(s) with no note naming a law, committed as the publisher's: 2019-09-12 art-171, 2019-09-12 art-383, 2020-04-08 art-046, 2020-04-08 art-173, 2020-05-12 art-383, 2021-12-29 art-510, 2021-12-29 art-571, 2023-04-06 art-091-1, 2023-05-15 art-510, 2026-02-25 art-398.
 - Codul administrativ: forms with no change after normalisation, so no version: 2020-01-09 (221496), 2021-01-01 (234870), 2021-04-07 (240486), 2021-05-22 (242561), 2021-12-18 (249393), 2022-12-09 (262028), 2024-03-18 (279849), 2024-06-25 (284280), 2024-12-31 (292657), 2025-07-28 (300038).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 393/2018](../../../jurisprudenta/ccr/2018/393/)**, Monitorul Oficial nr. 579 din 9 iulie 2018 · not matched automatically to one provision of this text
+
+  > constată că dispozițiile art. 1 lit. e) teza întâi din Hotărârea Parlamentului României nr. 20/2018 privind constituirea Comisiei speciale comune a Camerei Deputaților și Senatului pentru elaborarea Codului administrativ sunt neconstituționale.
+
+  A review other than an exception of unconstitutionality (hotarare-parlament); the decision is generally binding from its publication (2018-07-09) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 112/2021](../../../jurisprudenta/ccr/2021/112/)**, Monitorul Oficial nr. 353 din 7 aprilie 2021 · art. 517 alin. (1) lit. d) · constitutional only as the Court reads it (an interpretive decision)
+
+  > Admite excepția de neconstituționalitate a prevederilor art. 98 alin. (1) lit. d) din Legea nr. 188/1999 privind Statutul funcționarilor publici, în redactarea anterioară modificării prin art. I pct. 24 din Legea nr. 156/2018 pentru modificarea și completarea Legii nr. 188/1999 privind Statutul funcționarilor publici, ale art. 98 alin. (1) lit. d) din Legea nr. 188/1999, astfel cum au fost modificate prin art. I pct. 24 din Legea nr. 156/2018, și ale art. 517 alin. (1) lit. d) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ \[…\] și constată că acestea sunt constituționale în măsura în care sintagma „condiții de vârstă standard“ nu exclude posibilitatea femeii de a solicita continuarea exercitării raportului de serviciu, în condiții identice cu bărbatul, respectiv până la împlinirea vârstei de 65 de ani.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2021-04-07) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 206/2025](../../../jurisprudenta/ccr/2025/206/)**, Monitorul Oficial nr. 867 din 22 septembrie 2025 · art. 494 alin. (9) · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că dispozițiile art. 494 alin. (9) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ sunt neconstituționale.
+
+  The provision already read "Abrogat" (or similar) in the text in force when the decision was published (2025-09-22): the Court judged it as it applied before. The text here is unchanged; read the decision.

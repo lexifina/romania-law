@@ -3,6 +3,28 @@
 "shard": "local/olt/bobicesti/2023",
 "acts": [
 {
+"slug": "hcl-olt--bobicesti-15-2023",
+"path": "local/olt/bobicesti/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 15/2023 aprobarea studiului de fezabilitate docmentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici indicatorilor tehnico-economici /indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiții ”MODERNIZAREA INFRASTRUCTURII RUTIERE DE INTERES LOCAL ÎN COMUNA BOBICEȘTI JUDEȚUL OLT”, aprobat pentru finanțare prin Programul național de investiții ”Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Bobicești nr. 15/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-28",
+"latest": "2023-02-28",
+"portal": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#44452",
+"council": "olt/bobicesti",
+"council_name": "Consiliul Local al Comunei Bobicești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-olt--bobicesti-70-2023",
 "path": "local/olt/bobicesti/2023/70",
 "kind": "local",

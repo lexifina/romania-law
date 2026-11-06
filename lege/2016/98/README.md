@@ -267,3 +267,13 @@ Act id: `legea-98-2016` (tags `legea-98-2016/<day>`; `python tools/on.py <day> l
 - Legea nr. 98/2016: changes whose notes give an in-force day between two forms the portal holds are dated by the note, with the later form's text for those articles: 2020-01-01 (art-007; form 12.02.2020).
 - Legea nr. 98/2016: 19 changed article(s) with no note naming a law, committed as the publisher's: 2016-06-06 art-167, 2016-06-06 art-187, 2016-06-06 art-237, 2016-11-22 art-104, 2016-11-22 art-167, 2016-11-22 art-237, 2017-05-05 art-070, 2018-06-04 art-167, 2018-06-04 art-182, 2018-06-04 art-225, 2018-06-04 art-237, 2020-02-12 art-007, 2020-02-12 art-019, 2021-08-30 art-007, 2021-08-30 art-019, 2022-10-06 art-007, 2022-10-06 art-019, 2024-11-17 art-007, 2024-11-17 art-019.
 - Legea nr. 98/2016: forms with no change after normalisation, so no version: 2016-06-09 (179156), 2016-08-12 (180903), 2020-07-07 (227263).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 738/2018](../../../jurisprudenta/ccr/2018/738/)**, Monitorul Oficial nr. 260 din 4 aprilie 2019 · art. 167 alin. (4) · the provision was amended or repealed before the decision could take effect on it
+
+  > constată că dispozițiile art. 167 alin. (4) din Legea nr. 98/2016 privind achizițiile publice sunt neconstituționale.
+
+  The provision already read "Abrogat" (or similar) in the text in force when the decision was published (2019-04-04): the Court judged it as it applied before. The text here is unchanged; read the decision.

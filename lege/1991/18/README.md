@@ -155,13 +155,25 @@ Act id: `legea-18-1991` (tags `legea-18-1991/<day>`; `python tools/on.py <day> l
 
 ## Constitutional Court findings not applied to this text
 
-The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, a provision amended or repealed before the decision took effect on it, a finding not matched automatically to one provision here, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
 
 - **[Decizia nr. 342/1997](../../../jurisprudenta/ccr/1997/342/)**, Monitorul Oficial nr. 333 din 27 noiembrie 1997 · art. 47 alin. (1); art. 2; art. 3 · decided before the 2003 revision of the Constitution
 
   > constata ca dispoziţiile art. 47 alin. 1, 2 şi 3 din Legea fondului funciar nr. 18/1991 sunt abrogate potrivit art. 150 alin. (1) din Constituţie.
 
   Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1997-11-27; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 13/2015](../../../jurisprudenta/ccr/2015/13/)**, Monitorul Oficial nr. 175 din 13 martie 2015 · art. 78 alin. (1^1) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că prevederile art. 78 alin. (1^1) şi (1^3) din Legea fondului funciar nr. 18/1991 sunt constituţionale în măsura în care schimbarea categoriei de folosinţă a pajiştilor în Registrul agricol se realizează de la data intrării în vigoare a Ordonanţei de urgenţă a Guvernului nr. 34/2013 privind organizarea, administrarea şi exploatarea pajiştilor permanente şi pentru modificarea şi completarea Legii fondului funciar nr. 18/1991.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2015-03-13) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
+
+- **[Decizia nr. 748/2015](../../../jurisprudenta/ccr/2015/748/)**, Monitorul Oficial nr. 71 din 1 februarie 2016 · art. 35 alin. (1) · constitutional only as the Court reads it (an interpretive decision)
+
+  > constată că dispoziţiile art. 35 alin. (1) din Legea fondului funciar nr. 18/1991 sunt constituţionale în măsura în care nu condiţionează dobândirea dreptului de proprietate publică prin expropriere, de înscrierea acesteia în cartea funciară.
+
+  The Court admitted the exception and found the provision constitutional only as it reads it in the decision (or unconstitutional only in the reading it names); the words stay. The decision is generally binding from its publication (2016-02-01) (Constituția art. 147 alin. (4)). The text here is unchanged; read the decision.
 
 - **[Decizia nr. 355/2022](../../../jurisprudenta/ccr/2022/355/)**, Monitorul Oficial nr. 728 din 20 iulie 2022 · art. 52 alin. (1) · only some words or a sentence inside the provision
 

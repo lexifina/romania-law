@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/olt/milcov/2021",
+ "acts": [
+  {
+   "slug": "hcl-olt--milcov-50-2021",
+   "path": "local/olt/milcov/2021/50",
+   "short": "HCL Milcov nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 50/2021 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, la nivelul comunei Milcov, județul Olt pentru anul 2022",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/45268",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/45268",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

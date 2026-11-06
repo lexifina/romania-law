@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/cujmir/2025",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--cujmir-37-2025",
+   "path": "local/mehedinti/cujmir/2025/37",
+   "short": "HCL Cujmir nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 37/2025 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/245321",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/245321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--cujmir-38-2025",
+   "path": "local/mehedinti/cujmir/2025/38",
+   "short": "HCL Cujmir nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 38/2025 privind stabilirea nivelurilor impozitelor și taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/245322",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/245322",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}
