@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--timisesti-85-2025",
+   "path": "local/neamt/timisesti/2025/85",
+   "short": "HCL Timișești nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 85/2025 privind aprobarea acordării unor facilități fiscale persoanelor cu handicap",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/239271",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/239271",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--timisesti-86-2025",
    "path": "local/neamt/timisesti/2025/86",
    "short": "HCL Timișești nr. 86/2025",
@@ -183,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--timisesti-90-2025",
+   "path": "local/neamt/timisesti/2025/90",
+   "short": "HCL Timișești nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 90/2025",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/244321",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/244321",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--timisesti-91-2025",
    "path": "local/neamt/timisesti/2025/91",
    "short": "HCL Timișești nr. 91/2025",
@@ -238,6 +268,21 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/timisesti-nt/registru-hcl/244324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-95-2025",
+   "path": "local/neamt/timisesti/2025/95",
+   "short": "HCL Timișești nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 95/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/244326",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/244326",
      "sha256": null
     }
    ]

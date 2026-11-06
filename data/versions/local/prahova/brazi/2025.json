@@ -3,6 +3,21 @@
  "shard": "local/prahova/brazi/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--brazi-49-2025",
+   "path": "local/prahova/brazi/2025/49",
+   "short": "HCL Brazi nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 49/2025",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/227421",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/227421",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--brazi-50-2025",
    "path": "local/prahova/brazi/2025/50",
    "short": "HCL Brazi nr. 50/2025",
@@ -18,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--brazi-51-2025",
+   "path": "local/prahova/brazi/2025/51",
+   "short": "HCL Brazi nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 51/2025",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/232099",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/232099",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--brazi-52-2025",
    "path": "local/prahova/brazi/2025/52",
    "short": "HCL Brazi nr. 52/2025",
@@ -28,6 +58,81 @@
      "from": "2025-11-07",
      "units": 1,
      "source_url": "https://emol.ro/brazi-ph/registru-hcl/232100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-53-2025",
+   "path": "local/prahova/brazi/2025/53",
+   "short": "HCL Brazi nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 53/2025 privind analiza stadiului de înscriere a datelor în Registrul agricol în trimestrul III anul 2025 și stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/232101",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/232101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-54-2025",
+   "path": "local/prahova/brazi/2025/54",
+   "short": "HCL Brazi nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 54/2025 privind alegerea președintelui de ședintă pentru perioada noiembrie - decembrie 2025",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/232102",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/232102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-55-2025",
+   "path": "local/prahova/brazi/2025/55",
+   "short": "HCL Brazi nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 55/2025 privind aprobarea organigramei și statului de funcții pentru personalul din aparatul de specialitate al primarului comunei Brazi, județul Prahova",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/232103",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/232103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-56-2025",
+   "path": "local/prahova/brazi/2025/56",
+   "short": "HCL Brazi nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 56/2025 privind mandatarea reprezentantului comunei Brazi, județul Prahova în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Mobilitate Prahova” să voteze și să semneze pentru retragerea Comunei Bucov din cadrul Asociației și pentru modificarea și actualizarea Statutului asociației",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/232104",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/232104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-57-2025",
+   "path": "local/prahova/brazi/2025/57",
+   "short": "HCL Brazi nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 57/2025 privind aprobarea prelungirii Contractului de închiriere nr. 9747 din 14.06.2010 având ca obiect terenul în suprafață de 162 mp intravilan, aparținând domeniului public al comunei Brazi, județul Prahova",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/236225",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/236225",
      "sha256": null
     }
    ]
@@ -63,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--brazi-60-2025",
+   "path": "local/prahova/brazi/2025/60",
+   "short": "HCL Brazi nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 60/2025",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/236228",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/236228",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--brazi-61-2025",
    "path": "local/prahova/brazi/2025/61",
    "short": "HCL Brazi nr. 61/2025",
@@ -73,6 +193,21 @@
      "from": "2026-01-05",
      "units": 1,
      "source_url": "https://emol.ro/brazi-ph/registru-hcl/244642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-62-2025",
+   "path": "local/prahova/brazi/2025/62",
+   "short": "HCL Brazi nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 62/2025 privind aprobarea concesionării prin licitaţie publică deschisă, a unui teren în suprafață de 12.310 mp situat in intravilanul/extravilanul comunei Brazi, sat Brazii de Sus, judetul Prahova, nr. cadastral 24349., inscris in cartea funciara nr 24349 comuna Brazi,, proprietate publică a comunei Brazi, județul Prahova",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/244643",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/244643",
      "sha256": null
     }
    ]
@@ -103,6 +238,66 @@
      "from": "2026-01-05",
      "units": 1,
      "source_url": "https://emol.ro/brazi-ph/registru-hcl/244645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-65-2025",
+   "path": "local/prahova/brazi/2025/65",
+   "short": "HCL Brazi nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 65/2025 privind aprobarea prelungirii unor contracte de locațiune pentru spații locative ce aparțin domeniului privat al comunei Brazi, județul Prahova",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/244646",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/244646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-66-2025",
+   "path": "local/prahova/brazi/2025/66",
+   "short": "HCL Brazi nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 66/2025 privind stabilirea numărului de asistenți personali care pot fi încadrați în cadrul Primăriei Brazi, județul Prahova în anul 2026",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/244647",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/244647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-67-2025",
+   "path": "local/prahova/brazi/2025/67",
+   "short": "HCL Brazi nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 67/2025 privind alegerea președintelui de ședintă pentru perioada ianuarie - februarie 2026",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/244648",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/244648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-68-2025",
+   "path": "local/prahova/brazi/2025/68",
+   "short": "HCL Brazi nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 68/2025 privind rectificarea bugetului local al comunei Brazi, județul Prahova pe anul 2025",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/244649",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/244649",
      "sha256": null
     }
    ]

@@ -3,6 +3,21 @@
  "shard": "local/prahova/dumbrava/2020",
  "acts": [
   {
+   "slug": "hcl-prahova--dumbrava-35-2020",
+   "path": "local/prahova/dumbrava/2020/35",
+   "short": "HCL Dumbrava nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 35/2020 privind la stabilierea cuantumului indemnizatiei pentru participarea la sedintele consiliului local",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/13802",
+   "versions": [
+    {
+     "from": "2020-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/13802",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--dumbrava-36-2020",
    "path": "local/prahova/dumbrava/2020/36",
    "short": "HCL Dumbrava nr. 36/2020",
@@ -108,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--dumbrava-43-2020",
+   "path": "local/prahova/dumbrava/2020/43",
+   "short": "HCL Dumbrava nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 43/2020 desemnarea unor consilieri in consiliul de administratie a scolilor",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/13810",
+   "versions": [
+    {
+     "from": "2020-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/13810",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--dumbrava-44-2020",
    "path": "local/prahova/dumbrava/2020/44",
    "short": "HCL Dumbrava nr. 44/2020",
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--dumbrava-47-2020",
+   "path": "local/prahova/dumbrava/2020/47",
+   "short": "HCL Dumbrava nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 47/2020",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/13814",
+   "versions": [
+    {
+     "from": "2020-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/13814",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--dumbrava-48-2020",
    "path": "local/prahova/dumbrava/2020/48",
    "short": "HCL Dumbrava nr. 48/2020",
@@ -193,6 +238,21 @@
      "from": "2020-12-11",
      "units": 1,
      "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/13910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-51-2020",
+   "path": "local/prahova/dumbrava/2020/51",
+   "short": "HCL Dumbrava nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 51/2020 privind alocarea unor sume, din bugetul local al comunei Dumbrava ca sprijin financiar pentru Parohia Ciupelnita si Parohia Zanoaga",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/13911",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/13911",
      "sha256": null
     }
    ]

@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbravesti-91-2022",
+"path": "local/prahova/dumbravesti/2022/91",
+"kind": "local",
+"year": "2022",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 91/2022 privind aprobarea acordarii unui sprijin financiar de la bugetul local al Comunei Dumbravesti pentru Biserica Malaestii de Sus - Parohia Cotofenesti",
+"short": "HCL Dumbrăvești nr. 91/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-29",
+"latest": "2022-12-29",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/81566",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbravesti-92-2022",
 "path": "local/prahova/dumbravesti/2022/92",
 "kind": "local",
@@ -176,6 +198,28 @@
 "council_name": "Consiliul Local al Comunei Dumbrăvești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-93-2022",
+"path": "local/prahova/dumbravesti/2022/93",
+"kind": "local",
+"year": "2022",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 93/2022 privind aprobarea acordarii unui sprijin financiar de la bugetul local al Comunei Dumbravesti pentru Biserica Adormirea Maicii Domnului - Parohia Plopeni Sat",
+"short": "HCL Dumbrăvești nr. 93/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-03",
+"latest": "2023-01-03",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/82630",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -286,6 +330,29 @@
 "council_name": "Consiliul Local al Comunei Dumbrăvești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-99-2022",
+"path": "local/prahova/dumbravesti/2022/99",
+"kind": "local",
+"year": "2022",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 99/2022",
+"short": "HCL Dumbrăvești nr. 99/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-13",
+"latest": "2023-01-13",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/84516",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

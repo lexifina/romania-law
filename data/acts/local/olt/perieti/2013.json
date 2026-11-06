@@ -1,0 +1,182 @@
+{
+"country": "RO",
+"shard": "local/olt/perieti/2013",
+"acts": [
+{
+"slug": "hcl-olt--perieti-32-2013",
+"path": "local/olt/perieti/2013/32",
+"kind": "local",
+"year": "2013",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perieți nr. 32/2013",
+"short": "HCL Perieți nr. 32/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-10-31",
+"latest": "2013-10-31",
+"portal": "https://perietiolt.ro/documente-categorie/hotararile-consilului-local/",
+"council": "olt/perieti",
+"council_name": "Consiliul Local al Comunei Perieți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--perieti-33-2013",
+"path": "local/olt/perieti/2013/33",
+"kind": "local",
+"year": "2013",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perieți nr. 33/2013",
+"short": "HCL Perieți nr. 33/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-10-31",
+"latest": "2013-10-31",
+"portal": "https://perietiolt.ro/documente-categorie/hotararile-consilului-local/",
+"council": "olt/perieti",
+"council_name": "Consiliul Local al Comunei Perieți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--perieti-34-2013",
+"path": "local/olt/perieti/2013/34",
+"kind": "local",
+"year": "2013",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perieți nr. 34/2013",
+"short": "HCL Perieți nr. 34/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-11-21",
+"latest": "2013-11-21",
+"portal": "https://perietiolt.ro/documente-categorie/hotararile-consilului-local/",
+"council": "olt/perieti",
+"council_name": "Consiliul Local al Comunei Perieți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--perieti-35-2013",
+"path": "local/olt/perieti/2013/35",
+"kind": "local",
+"year": "2013",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perieți nr. 35/2013",
+"short": "HCL Perieți nr. 35/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-13",
+"latest": "2013-12-13",
+"portal": "https://perietiolt.ro/documente-categorie/hotararile-consilului-local/",
+"council": "olt/perieti",
+"council_name": "Consiliul Local al Comunei Perieți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--perieti-36-2013",
+"path": "local/olt/perieti/2013/36",
+"kind": "local",
+"year": "2013",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perieți nr. 36/2013",
+"short": "HCL Perieți nr. 36/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-23",
+"latest": "2013-12-23",
+"portal": "https://perietiolt.ro/documente-categorie/hotararile-consilului-local/",
+"council": "olt/perieti",
+"council_name": "Consiliul Local al Comunei Perieți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--perieti-37-2013",
+"path": "local/olt/perieti/2013/37",
+"kind": "local",
+"year": "2013",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perieți nr. 37/2013",
+"short": "HCL Perieți nr. 37/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-23",
+"latest": "2013-12-23",
+"portal": "https://perietiolt.ro/documente-categorie/hotararile-consilului-local/",
+"council": "olt/perieti",
+"council_name": "Consiliul Local al Comunei Perieți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--perieti-38-2013",
+"path": "local/olt/perieti/2013/38",
+"kind": "local",
+"year": "2013",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perieți nr. 38/2013",
+"short": "HCL Perieți nr. 38/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-23",
+"latest": "2013-12-23",
+"portal": "https://perietiolt.ro/documente-categorie/hotararile-consilului-local/",
+"council": "olt/perieti",
+"council_name": "Consiliul Local al Comunei Perieți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--perieti-39-2013",
+"path": "local/olt/perieti/2013/39",
+"kind": "local",
+"year": "2013",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perieți nr. 39/2013",
+"short": "HCL Perieți nr. 39/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-23",
+"latest": "2013-12-23",
+"portal": "https://perietiolt.ro/documente-categorie/hotararile-consilului-local/",
+"council": "olt/perieti",
+"council_name": "Consiliul Local al Comunei Perieți",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

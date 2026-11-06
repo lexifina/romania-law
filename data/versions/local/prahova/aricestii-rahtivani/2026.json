@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/aricestii-rahtivani/2026",
+ "acts": [
+  {
+   "slug": "hcl-prahova--aricestii-rahtivani-151-2026",
+   "path": "local/prahova/aricestii-rahtivani/2026/151",
+   "short": "HCL Ariceștii Rahtivani nr. 151/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariceștii Rahtivani nr. 151/2026 privind aprobarea finalizării și închiderii proiectului „CONSTRUIRE CENTRU DE COLECTARE CU APORT VOLUNTAR ȘI DEPOZITARE TEMPORARĂ DEȘEURI ÎN COMUNA ARICEȘTII RAHTIVANI, JUDEȚUL PRAHOVA”, cod proiect C3I1A0122000176, finanțat în cadrul Planului Național de Redresare și Reziliență prin apelul nr. PNRR/2022/C3/S/I.1.A, precum și asigurarea sustenabilității investiției Văzând: - Referatul de aprobare",
+   "url": "https://comunaaricestiirahtivani.ro/hotarari/hcl-nr-151-2026/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://comunaaricestiirahtivani.ro/wp-content/uploads/HCL-nr.-151-din-30.10.2026.pdf",
+     "sha256": "bda18c6fc1d8319152da7e8a286512b22806f1001b6e3155822085e2e6384f9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--aricestii-rahtivani-152-2026",
+   "path": "local/prahova/aricestii-rahtivani/2026/152",
+   "short": "HCL Ariceștii Rahtivani nr. 152/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariceștii Rahtivani nr. 152/2026 privind aprobarea Componentei integrale a Planului de selecție, în cadrul procedurii de selecție și numire a administratorilor Societății SERVICIUL PUBLIC DE ALIMENTARE CU APĂ ARICEȘTII RAHTIVANI S.R.L",
+   "url": "https://comunaaricestiirahtivani.ro/hotarari/hcl-nr-152-2026/",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://comunaaricestiirahtivani.ro/wp-content/uploads/HCL-nr.-152-din-06.11.2026.pdf",
+     "sha256": "1850e00e45d218227ee0ffafb967a645103d953b82a112173538d6d186ccf81e"
+    }
+   ]
+  }
+ ]
+}

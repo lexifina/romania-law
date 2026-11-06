@@ -48,6 +48,36 @@
    ]
   },
   {
+   "slug": "hcl-olt--bobicesti-5-2024",
+   "path": "local/olt/bobicesti/2024/5",
+   "short": "HCL Bobicești nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 5/2024 Alegere presedinte sedinta",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#70578",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#70578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-8-2024",
+   "path": "local/olt/bobicesti/2024/8",
+   "short": "HCL Bobicești nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 8/2024 decontarea contravalorii cheltuielilor de transport pentru funcționarii publici și personalul contractual",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#70584",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#70584",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bobicesti-9-2024",
    "path": "local/olt/bobicesti/2024/9",
    "short": "HCL Bobicești nr. 9/2024",

@@ -3,6 +3,72 @@
 "shard": "local/prahova/filipestii-de-padure/2025",
 "acts": [
 {
+"slug": "hcl-prahova--filipestii-de-padure-39-2025",
+"path": "local/prahova/filipestii-de-padure/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 39/2025 privind RECTIFICAREA BUGETULUI DE VENITURI SI CHELTUIELI PE ANUL 2025",
+"short": "HCL Filipeștii de Pădure nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-21",
+"latest": "2025-10-21",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/230253",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-40-2025",
+"path": "local/prahova/filipestii-de-padure/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 40/2025 privind desemnarea reprezentanților Consiliului local al Comunei Filipestii de Padure în consiliile de administrație ale unităților de învățământ preuniversitar cu personalitate juridică, pentru anul scolar 2025-2026",
+"short": "HCL Filipeștii de Pădure nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-21",
+"latest": "2025-10-21",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/230254",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-41-2025",
+"path": "local/prahova/filipestii-de-padure/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 41/2025 privind desemnarea reprezentanților Consiliului local al Comunei Filipestii de Padure în comisiile de evaluare și asigurarea calității ale unităților de învățământ de pe raza comunei, pentru anul scolar 2025-2026",
+"short": "HCL Filipeștii de Pădure nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-21",
+"latest": "2025-10-21",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/230255",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--filipestii-de-padure-42-2025",
 "path": "local/prahova/filipestii-de-padure/2025/42",
 "kind": "local",
@@ -70,6 +136,28 @@
 }
 },
 {
+"slug": "hcl-prahova--filipestii-de-padure-45-2025",
+"path": "local/prahova/filipestii-de-padure/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 45/2025 privind aprobarea închirierii prin licitaţie publică a unor imobile apartinand domeniului public al Comunei Filipestii de Padure",
+"short": "HCL Filipeștii de Pădure nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-04",
+"latest": "2025-12-04",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/238371",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--filipestii-de-padure-46-2025",
 "path": "local/prahova/filipestii-de-padure/2025/46",
 "kind": "local",
@@ -111,6 +199,50 @@
 "council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-48-2025",
+"path": "local/prahova/filipestii-de-padure/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 48/2025 privind acordarea unui ajutor de urgenta",
+"short": "HCL Filipeștii de Pădure nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-04",
+"latest": "2025-12-04",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/238374",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-49-2025",
+"path": "local/prahova/filipestii-de-padure/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 49/2025 privind acordarea unui ajutor de urgenta pentru refacerea locuintei afecatata in urma unui incendiu",
+"short": "HCL Filipeștii de Pădure nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-04",
+"latest": "2025-12-04",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/238375",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

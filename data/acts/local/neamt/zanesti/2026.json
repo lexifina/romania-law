@@ -1,0 +1,250 @@
+{
+"country": "RO",
+"shard": "local/neamt/zanesti/2026",
+"acts": [
+{
+"slug": "hcl-neamt--zanesti-60-2026",
+"path": "local/neamt/zanesti/2026/60",
+"kind": "local",
+"year": "2026",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zănești nr. 60/2026 privind desemnarea unui reprezentant al CL si un membru supleant in comisiile de evaluare a probei de interviu a concursului pt ocuparea functiilor vacante de dir si dir adj",
+"short": "HCL Zănești nr. 60/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-15",
+"latest": "2026-09-15",
+"portal": "https://www.comunazanesti.ro/hotarari-ale-consiliului-local-2026/",
+"council": "neamt/zanesti",
+"council_name": "Consiliul Local al Comunei Zănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--zanesti-61-2026",
+"path": "local/neamt/zanesti/2026/61",
+"kind": "local",
+"year": "2026",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zănești nr. 61/2026 privind transmiterea in folosinta gratuita catre DELGAZ GRID SA a sup de 278 mp teren",
+"short": "HCL Zănești nr. 61/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-15",
+"latest": "2026-09-15",
+"portal": "https://www.comunazanesti.ro/hotarari-ale-consiliului-local-2026/",
+"council": "neamt/zanesti",
+"council_name": "Consiliul Local al Comunei Zănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--zanesti-63-2026",
+"path": "local/neamt/zanesti/2026/63",
+"kind": "local",
+"year": "2026",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zănești nr. 63/2026 privind aprobarea nesumarii responsabilitatii a organizarii si derularea procedurilor de atribuire a achizitiilor Programului pentru Scoli",
+"short": "HCL Zănești nr. 63/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://www.comunazanesti.ro/hotarari-ale-consiliului-local-2026/",
+"council": "neamt/zanesti",
+"council_name": "Consiliul Local al Comunei Zănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--zanesti-64-2026",
+"path": "local/neamt/zanesti/2026/64",
+"kind": "local",
+"year": "2026",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zănești nr. 64/2026",
+"short": "HCL Zănești nr. 64/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": null,
+"council": "neamt/zanesti",
+"council_name": "Consiliul Local al Comunei Zănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--zanesti-65-2026",
+"path": "local/neamt/zanesti/2026/65",
+"kind": "local",
+"year": "2026",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zănești nr. 65/2026 privind rectificarea nr 3 a Bugetului de Venituri si Cheltuielipentru anul 2026",
+"short": "HCL Zănești nr. 65/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://www.comunazanesti.ro/hotarari-ale-consiliului-local-2026/",
+"council": "neamt/zanesti",
+"council_name": "Consiliul Local al Comunei Zănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--zanesti-66-2026",
+"path": "local/neamt/zanesti/2026/66",
+"kind": "local",
+"year": "2026",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zănești nr. 66/2026 privind aprobarea constituirii Comunei Zanesti ca parte civila, in dosarul penal nr 1054 12 p 2025",
+"short": "HCL Zănești nr. 66/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://www.comunazanesti.ro/hotarari-ale-consiliului-local-2026/",
+"council": "neamt/zanesti",
+"council_name": "Consiliul Local al Comunei Zănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--zanesti-67-2026",
+"path": "local/neamt/zanesti/2026/67",
+"kind": "local",
+"year": "2026",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zănești nr. 67/2026",
+"short": "HCL Zănești nr. 67/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": null,
+"council": "neamt/zanesti",
+"council_name": "Consiliul Local al Comunei Zănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--zanesti-68-2026",
+"path": "local/neamt/zanesti/2026/68",
+"kind": "local",
+"year": "2026",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zănești nr. 68/2026 privind aprobarea executiei bugetare SF si SD pe trim III 2026",
+"short": "HCL Zănești nr. 68/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://www.comunazanesti.ro/hotarari-ale-consiliului-local-2026/",
+"council": "neamt/zanesti",
+"council_name": "Consiliul Local al Comunei Zănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--zanesti-69-2026",
+"path": "local/neamt/zanesti/2026/69",
+"kind": "local",
+"year": "2026",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zănești nr. 69/2026 privind aprobarea documentatiei tehnice si a ind econ pt ob de invest EXTINDERE RETEA DISTRIBUTIE APA POTABILA STR BISERICII, SAT ZANESTI",
+"short": "HCL Zănești nr. 69/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://www.comunazanesti.ro/hotarari-ale-consiliului-local-2026/",
+"council": "neamt/zanesti",
+"council_name": "Consiliul Local al Comunei Zănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--zanesti-71-2026",
+"path": "local/neamt/zanesti/2026/71",
+"kind": "local",
+"year": "2026",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zănești nr. 71/2026 privind rectificarea nr 4 a Bugetului de Venituri si Cheltuieli",
+"short": "HCL Zănești nr. 71/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://www.comunazanesti.ro/hotarari-ale-consiliului-local-2026/",
+"council": "neamt/zanesti",
+"council_name": "Consiliul Local al Comunei Zănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--zanesti-72-2026",
+"path": "local/neamt/zanesti/2026/72",
+"kind": "local",
+"year": "2026",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zănești nr. 72/2026 privind actualizarea Organigramei, a Statului de Functii si a numarului de personal pt Aparatul de specialitate al Primarului",
+"short": "HCL Zănești nr. 72/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://www.comunazanesti.ro/hotarari-ale-consiliului-local-2026/",
+"council": "neamt/zanesti",
+"council_name": "Consiliul Local al Comunei Zănești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

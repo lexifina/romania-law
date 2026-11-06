@@ -25,6 +25,50 @@
 }
 },
 {
+"slug": "hcl-neamt--savinesti-19-2023",
+"path": "local/neamt/savinesti/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 19/2023 privind acordarea unui sprijin financiar pentru Parohiile din comuna Săvineşti",
+"short": "HCL Săvinești nr. 19/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#41613",
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--savinesti-20-2023",
+"path": "local/neamt/savinesti/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 20/2023 Privind alegerea preşedintelui de şedinţă",
+"short": "HCL Săvinești nr. 20/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-27",
+"latest": "2023-02-27",
+"portal": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#44352",
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--savinesti-21-2023",
 "path": "local/neamt/savinesti/2023/21",
 "kind": "local",
@@ -199,6 +243,28 @@
 "council_name": "Consiliul Local al Comunei Săvinești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--savinesti-29-2023",
+"path": "local/neamt/savinesti/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 29/2023 privind acordarea unui sprijin financiar pentru Parohiile din comuna Săvineşti",
+"short": "HCL Săvinești nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-27",
+"latest": "2023-02-27",
+"portal": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#44361",
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -445,6 +511,29 @@
 }
 },
 {
+"slug": "hcl-neamt--savinesti-42-2023",
+"path": "local/neamt/savinesti/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 42/2023",
+"short": "HCL Săvinești nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": null,
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--savinesti-43-2023",
 "path": "local/neamt/savinesti/2023/43",
 "kind": "local",
@@ -530,6 +619,29 @@
 "council_name": "Consiliul Local al Comunei Săvinești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--savinesti-47-2023",
+"path": "local/neamt/savinesti/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 47/2023",
+"short": "HCL Săvinești nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": null,
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -751,6 +863,72 @@
 "council_name": "Consiliul Local al Comunei Săvinești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--savinesti-58-2023",
+"path": "local/neamt/savinesti/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 58/2023 privind vanzarea prin licitatie publica, in conditiile legii, a unui imobil teren in suprafata de 252 mp, apartinand domeniului privat, situat in comuna Savinesti, avand numar cadastral 53306",
+"short": "HCL Săvinești nr. 58/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-25",
+"latest": "2023-07-25",
+"portal": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#54874",
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--savinesti-59-2023",
+"path": "local/neamt/savinesti/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 59/2023 privind vanzarea prin licitatie publica, in conditiile legii, a unui imobil teren in suprafata de 4581 mp,încadrat în categoria neproductiv ( 2160 mp intravilan si 2421 mp extravilan ) apartinand domeniului privat, situat in comuna Savinesti, , avand numar cadastral 53399",
+"short": "HCL Săvinești nr. 59/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-25",
+"latest": "2023-07-25",
+"portal": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#54875",
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--savinesti-60-2023",
+"path": "local/neamt/savinesti/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 60/2023 privind vanzarea prin licitatie publica, in conditiile legii, a unui imobil teren in suprafata de 182 mp, apartinand domeniului privat, situat in comuna Savinesti, , avand numar cadastral 53 597",
+"short": "HCL Săvinești nr. 60/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-25",
+"latest": "2023-07-25",
+"portal": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#54876",
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -993,6 +1171,75 @@
 "council_name": "Consiliul Local al Comunei Săvinești",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--savinesti-72-2023",
+"path": "local/neamt/savinesti/2023/72",
+"kind": "local",
+"year": "2023",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 72/2023",
+"short": "HCL Săvinești nr. 72/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": null,
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--savinesti-73-2023",
+"path": "local/neamt/savinesti/2023/73",
+"kind": "local",
+"year": "2023",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 73/2023",
+"short": "HCL Săvinești nr. 73/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": null,
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--savinesti-74-2023",
+"path": "local/neamt/savinesti/2023/74",
+"kind": "local",
+"year": "2023",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 74/2023",
+"short": "HCL Săvinești nr. 74/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": null,
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

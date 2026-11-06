@@ -25,6 +25,94 @@
 }
 },
 {
+"slug": "hcl-neamt--secuieni-69-2024",
+"path": "local/neamt/secuieni/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 69/2024 privind alegerea președintelui de ședință",
+"short": "HCL Secuieni nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/178549",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-70-2024",
+"path": "local/neamt/secuieni/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 70/2024 privind organizarea comisiilor de specialitate pe principalele domenii de activitate",
+"short": "HCL Secuieni nr. 70/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/178550",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-71-2024",
+"path": "local/neamt/secuieni/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 71/2024 privind alegerea comisiei de numărare și consemnare a rezultatului voturilor",
+"short": "HCL Secuieni nr. 71/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/178551",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-72-2024",
+"path": "local/neamt/secuieni/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 72/2024 privind alegerea viceprimarului comunei Secuieni, județul Neamț",
+"short": "HCL Secuieni nr. 72/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/178552",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--secuieni-73-2024",
 "path": "local/neamt/secuieni/2024/73",
 "kind": "local",
@@ -44,6 +132,50 @@
 "council_name": "Consiliul Local al Comunei Secuieni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-74-2024",
+"path": "local/neamt/secuieni/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 74/2024 privind desemnarea reprezentantului Consiliului local în Consiliul de administraţie al Școlii Gimnaziale Comuna Secuieni, județul Neamț",
+"short": "HCL Secuieni nr. 74/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/178554",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-75-2024",
+"path": "local/neamt/secuieni/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 75/2024 privind desemnarea reprezentantului Consiliului local în Comisia de Evaluare și Asigurare a Calității a Școlii Gimnaziale Comuna Secuieni, județul Neamț",
+"short": "HCL Secuieni nr. 75/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/178555",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -243,6 +375,28 @@
 "council_name": "Consiliul Local al Comunei Secuieni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-85-2024",
+"path": "local/neamt/secuieni/2024/85",
+"kind": "local",
+"year": "2024",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 85/2024 privind reorganizarea aparatului de specialitate al Primarului comunei Secuieni județul Neamț aprobarea organigramei şi a statului de funcţii",
+"short": "HCL Secuieni nr. 85/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/183611",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

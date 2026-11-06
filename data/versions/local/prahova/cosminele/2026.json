@@ -3,6 +3,51 @@
  "shard": "local/prahova/cosminele/2026",
  "acts": [
   {
+   "slug": "hcl-prahova--cosminele-46-2026",
+   "path": "local/prahova/cosminele/2026/46",
+   "short": "HCL Cosminele nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cosminele nr. 46/2026 privind decontarea navetei cadrelor didactice care își desfășoară activitatea în unităţile de învățământ pe raza comunei Cosminele, judeţul Prahova, pe luna IUNIE 2026",
+   "url": "https://comunacosminele.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://comunacosminele.ro/wp-content/uploads/2026/08/hcl-46-2026.pdf",
+     "sha256": "7cd4732021b98faca042fb9ba3c7a3a2dc78b9a47b6ada76295995d2171f3a90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cosminele-47-2026",
+   "path": "local/prahova/cosminele/2026/47",
+   "short": "HCL Cosminele nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cosminele nr. 47/2026 privind alegerea președintelui de ședință pentru ședințele Consilului local al comunei Cosminele din lunile august- octombrie 2026",
+   "url": "https://comunacosminele.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://comunacosminele.ro/wp-content/uploads/2026/08/hcl-47-2026.pdf",
+     "sha256": "b973aa1fef2a04ed8d7f7d299d7bc21d8093cb96358d907d3935950544d7a194"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cosminele-48-2026",
+   "path": "local/prahova/cosminele/2026/48",
+   "short": "HCL Cosminele nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cosminele nr. 48/2026 privind rectificarea bugetului local al comunei Cosminele pe anul 2026",
+   "url": "https://comunacosminele.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://comunacosminele.ro/wp-content/uploads/2026/08/hcl-48-2026.pdf",
+     "sha256": "ea9c9c05935774c78e48440779f05f34e6c19d7ff70d2f723aef0f1990fccb76"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--cosminele-49-2026",
    "path": "local/prahova/cosminele/2026/49",
    "short": "HCL Cosminele nr. 49/2026",
@@ -14,6 +59,21 @@
      "units": 1,
      "source_url": "https://comunacosminele.ro/wp-content/uploads/2026/09/hcl-49-2026.pdf",
      "sha256": "696bab0aa9728ff6570a8dd8279e255c34cab9b558a0be54f84033ed4c9bfa20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cosminele-50-2026",
+   "path": "local/prahova/cosminele/2026/50",
+   "short": "HCL Cosminele nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cosminele nr. 50/2026 privind însușirea raportului asupra activității desfășurate de asistenții personali ai persoanelor cu handicap grav în semestrul I al anului 2026",
+   "url": "https://comunacosminele.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://comunacosminele.ro/wp-content/uploads/2026/09/hcl-50-2026.pdf",
+     "sha256": "ea78ae5e461cd8e2fa961c79b2dda7da157c9802726f2992132b6979f472a1b9"
     }
    ]
   },
@@ -33,6 +93,81 @@
    ]
   },
   {
+   "slug": "hcl-prahova--cosminele-53-2026",
+   "path": "local/prahova/cosminele/2026/53",
+   "short": "HCL Cosminele nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cosminele nr. 53/2026 privind aprobarea documentației tehnico-economice și a devizului general pentru obiectivul de investiții „Construire stație de pompare apă în sat Poiana Trestiei, comuna Cosminele, județul Prahova”",
+   "url": "https://comunacosminele.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://comunacosminele.ro/wp-content/uploads/2026/09/hcl-53-2026.pdf",
+     "sha256": "010f27b98b67f29b5254d0472e33ea59e7618617d22cdf216811a59343a1bc61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cosminele-55-2026",
+   "path": "local/prahova/cosminele/2026/55",
+   "short": "HCL Cosminele nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cosminele nr. 55/2026 privind desemnarea reprezentantului Consiliului Local în Consiliul de Administrație al Școlii Gimnaziale, Comuna Cosminele",
+   "url": "https://comunacosminele.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://comunacosminele.ro/wp-content/uploads/2026/09/hcl-55-2026.pdf",
+     "sha256": "a028579d18ebc95b750661245125fa630ae30c3e1df3d187e215def0f298c2a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cosminele-56-2026",
+   "path": "local/prahova/cosminele/2026/56",
+   "short": "HCL Cosminele nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cosminele nr. 56/2026 privind aprobarea susținerii financiare a Asociației ACS Viitorul 2018 Cosminele, în anul competițional 2026-2027",
+   "url": "https://comunacosminele.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://comunacosminele.ro/wp-content/uploads/2026/10/hcl-56-2026.pdf",
+     "sha256": "89fd46f302500236d444c3896b457f41bf5eff0104acb16f565fd545c9f4ba3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cosminele-59-2026",
+   "path": "local/prahova/cosminele/2026/59",
+   "short": "HCL Cosminele nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cosminele nr. 59/2026 privind decontarea navetei cadrelor didactice care își desfășoară activitatea în unităţile de învățământ pe raza comunei Cosminele, judeţul Prahova, pe luna SEPTEMBRIE 2026",
+   "url": "https://comunacosminele.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://comunacosminele.ro/wp-content/uploads/2026/11/hcl-59-2026.pdf",
+     "sha256": "c7f0febd758fd735701319b4535f0717d4ef913914815a296bc80d3b4d13a382"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cosminele-60-2026",
+   "path": "local/prahova/cosminele/2026/60",
+   "short": "HCL Cosminele nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cosminele nr. 60/2026",
+   "url": "https://comunacosminele.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://comunacosminele.ro/wp-content/uploads/2026/11/hcl-60-2026.pdf",
+     "sha256": "ee417c16fe470620e1d199be555bb1a681ac29180185a12e9f9bda05b5d243b1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--cosminele-61-2026",
    "path": "local/prahova/cosminele/2026/61",
    "short": "HCL Cosminele nr. 61/2026",
@@ -44,6 +179,36 @@
      "units": 1,
      "source_url": "https://comunacosminele.ro/wp-content/uploads/2026/11/hcl-61-2026.pdf",
      "sha256": "de0b877432ed4907edbfa013802bcaccd07573cfbfa3cb549219ec1cf43bcbac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cosminele-62-2026",
+   "path": "local/prahova/cosminele/2026/62",
+   "short": "HCL Cosminele nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cosminele nr. 62/2026",
+   "url": "https://comunacosminele.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://comunacosminele.ro/wp-content/uploads/2026/11/hcl-62-2026.pdf",
+     "sha256": "a575c8babbd35d7948a54ff2de1ac41cfb2fa20b1b81f83b6ba214b77098c1f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cosminele-63-2026",
+   "path": "local/prahova/cosminele/2026/63",
+   "short": "HCL Cosminele nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cosminele nr. 63/2026",
+   "url": "https://comunacosminele.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://comunacosminele.ro/wp-content/uploads/2026/11/hcl-63-2026.pdf",
+     "sha256": "b061750c2bda7287e8c66cd303e4df4bcc28bf35d4a9c5d1875b43188a7ebc9b"
     }
    ]
   }

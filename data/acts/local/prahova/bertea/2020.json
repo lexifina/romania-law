@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-prahova--bertea-38-2020",
+"path": "local/prahova/bertea/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 38/2020 privind alegerea preşedintelui de şedinţă care va conduce şedinţele Consiliului Local al Comunei Bertea în luna septembrie,octombrie, noiembrie anul 2020",
+"short": "HCL Bertea nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-16",
+"latest": "2020-09-16",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/17432",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--bertea-39-2020",
 "path": "local/prahova/bertea/2020/39",
 "kind": "local",
@@ -132,6 +154,116 @@
 "council_name": "Consiliul Local al Comunei Bertea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--bertea-44-2020",
+"path": "local/prahova/bertea/2020/44",
+"kind": "local",
+"year": "2020",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 44/2020 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Bertea, Judeţul Prahova",
+"short": "HCL Bertea nr. 44/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-19",
+"latest": "2020-11-19",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/17446",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--bertea-45-2020",
+"path": "local/prahova/bertea/2020/45",
+"kind": "local",
+"year": "2020",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 45/2020 privind stabilirea numărului şi organizarea comisiilor de specialitate ale Consiliului Local Bertea pe principalele domenii de activitate",
+"short": "HCL Bertea nr. 45/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-19",
+"latest": "2020-11-19",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/17447",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--bertea-46-2020",
+"path": "local/prahova/bertea/2020/46",
+"kind": "local",
+"year": "2020",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 46/2020 privind alegerea viceprimarului comunei Bertea, Judeţul Prahova",
+"short": "HCL Bertea nr. 46/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-19",
+"latest": "2020-11-19",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/17448",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--bertea-47-2020",
+"path": "local/prahova/bertea/2020/47",
+"kind": "local",
+"year": "2020",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 47/2020 privind desemnarea reprezentantilor Consiliului Local al Comunei Bertea în Consiliul de Administratie al Scolii Gimnaziale Bertea",
+"short": "HCL Bertea nr. 47/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-19",
+"latest": "2020-11-19",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/17449",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--bertea-48-2020",
+"path": "local/prahova/bertea/2020/48",
+"kind": "local",
+"year": "2020",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 48/2020 privind revocarea Hotararii Consiliului Local nr.34/29.07.2016 cu privire la desemnarea imputernicitului reprezentant legal al comunei Bertea în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară „Parteneriatul pentru Managementul Deşeurilor Prahova”",
+"short": "HCL Bertea nr. 48/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-19",
+"latest": "2020-11-19",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/17450",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

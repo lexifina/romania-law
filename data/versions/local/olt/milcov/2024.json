@@ -3,6 +3,171 @@
  "shard": "local/olt/milcov/2024",
  "acts": [
   {
+   "slug": "hcl-olt--milcov-28-2024",
+   "path": "local/olt/milcov/2024/28",
+   "short": "HCL Milcov nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 28/2024 privind aprobarea contului de execuţie a bugetului comunei Milcov la finele trimestrului II - 2024",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/164209",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/164209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-29-2024",
+   "path": "local/olt/milcov/2024/29",
+   "short": "HCL Milcov nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 29/2024 Privind modificarea și completarea Hotărârii Consiliului Local Milcov nr. 16 din 29.03.2024 privind aprobarea actualizării indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții ,,Înfiinţare sistem canalizare, comuna Milcov, sat Milcovu din Deal şi Milcovu din Vale, judeţul Olt”, precum și a sumei reprezentând cofinanțarea aferentă categotiilor de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului de investiții",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/164210",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/164210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-30-2024",
+   "path": "local/olt/milcov/2024/30",
+   "short": "HCL Milcov nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 30/2024 privind alegerea președintelui de ședință a Consiliului Local Milcov, pentru perioada August - Septembrie 2024",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/164211",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/164211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-31-2024",
+   "path": "local/olt/milcov/2024/31",
+   "short": "HCL Milcov nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 31/2024",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/164212",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/164212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-32-2024",
+   "path": "local/olt/milcov/2024/32",
+   "short": "HCL Milcov nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 32/2024 privind modificarea și completarea Hotărârii Consiliului Local Milcov nr. 01 din 30.01.2024 privind aprobarea rețelei școlare din comuna Milcov, județul Olt, pentru anul 2024-2025",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/167782",
+   "versions": [
+    {
+     "from": "2024-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/167782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-33-2024",
+   "path": "local/olt/milcov/2024/33",
+   "short": "HCL Milcov nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 33/2024 privind constituirea Comisiei de evaluare a ofertelor depuse în cadrul procedurii de atribuire a contractului privind concesiunea serviciului de utilitate publică de distribuție gaze naturale la nivelul comunei Milcov, județul Olt, în cadrul proiectului “Înființare sistem inteligent de distribuție gaze naturale în satele Ulmi, Milcovu din Deal, Milcovu din Vale și Stejaru, aparținătoare Comunei Milcov, Județul Olt”",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/167783",
+   "versions": [
+    {
+     "from": "2024-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/167783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-34-2024",
+   "path": "local/olt/milcov/2024/34",
+   "short": "HCL Milcov nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 34/2024 privind aprobarea Studiului de Fundamentare a deciziei de înființare a sistemului de distribuție a gazelor naturale și de concesionare a serviciului de utilitate publică de distribuție a gazelor naturale în comuna Milcov, județul Olt",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/167784",
+   "versions": [
+    {
+     "from": "2024-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/167784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-35-2024",
+   "path": "local/olt/milcov/2024/35",
+   "short": "HCL Milcov nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 35/2024 privind rectificarea bugetului local de venituri și cheltuieli la trimestrul III 2024, al comunei Milcov",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/167785",
+   "versions": [
+    {
+     "from": "2024-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/167785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-36-2024",
+   "path": "local/olt/milcov/2024/36",
+   "short": "HCL Milcov nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 36/2024 privind alegerea președintelui de ședință a Consiliului Local Milcov, pentru perioada Noiembrie 2024 - Ianuarie 2025",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/178481",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/178481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-37-2024",
+   "path": "local/olt/milcov/2024/37",
+   "short": "HCL Milcov nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 37/2024 privind constituirea comisiilor de specialitate ale Consiliului Local al comunei Milcov, județul Olt, pentru mandatul 2024 - 2025",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/178482",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/178482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-38-2024",
+   "path": "local/olt/milcov/2024/38",
+   "short": "HCL Milcov nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 38/2024 privind implementarea proiectului ”ACHIZITIE UTILAJ SI ECHIPAMENT PENTRU DOTAREA UNUI COMPARTIMENT DIN CADRUL PRIMARIEI COMUNEI MILCOV, JUDETUL OLT”",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/178483",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/178483",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--milcov-39-2024",
    "path": "local/olt/milcov/2024/39",
    "short": "HCL Milcov nr. 39/2024",
@@ -13,6 +178,126 @@
      "from": "2025-01-14",
      "units": 1,
      "source_url": "https://emol.ro/milcov-ot/registru-hcl/183963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-40-2024",
+   "path": "local/olt/milcov/2024/40",
+   "short": "HCL Milcov nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 40/2024 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, la nivelul comunei Milcov, județul Olt pentru anul 2025",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/183964",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/183964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-41-2024",
+   "path": "local/olt/milcov/2024/41",
+   "short": "HCL Milcov nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 41/2024 privind aprobarea dispoziției nr. 178 din 04.12.2024 privind rectificarea bugetului local al comunei Milcov, la trimestrul IV, anul 2024",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/183965",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/183965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-42-2024",
+   "path": "local/olt/milcov/2024/42",
+   "short": "HCL Milcov nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 42/2024 privind rectificarea bugetului local al comunei Milcov, la trimestrul IV, anul 2024",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/183966",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/183966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-43-2024",
+   "path": "local/olt/milcov/2024/43",
+   "short": "HCL Milcov nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 43/2024 privind aprobarea execuţiei bugetului local pe cele două secţiuni pentru trimestrul III al anului 2024",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/183967",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/183967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-44-2024",
+   "path": "local/olt/milcov/2024/44",
+   "short": "HCL Milcov nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 44/2024 privind aprobarea execuţiei bugetului local pe cele două secţiuni pentru trimestrul IV al anului 2024",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/183968",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/183968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-45-2024",
+   "path": "local/olt/milcov/2024/45",
+   "short": "HCL Milcov nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 45/2024 privind aprobarea valorii de investiţie a proiectului „Modernizarea infrastructurii rutiere locale în comuna Milcov, județul Olt” și obținerii Scrisorii de garanție de la FNGCIMM SA IFN, în vederea garantării obligațiilor de plata a avansului",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/183969",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/183969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-46-2024",
+   "path": "local/olt/milcov/2024/46",
+   "short": "HCL Milcov nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 46/2024",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/183970",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/183970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-47-2024",
+   "path": "local/olt/milcov/2024/47",
+   "short": "HCL Milcov nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 47/2024 privind aprobarea susţinerii financiare a ,,ASOCIATIEI SPORTIVE MILCOV 2020” pentru activitatea sportivă desfăşurată de către echipa de fotbal, în anul competiţional 2024-2025",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/183971",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/183971",
      "sha256": null
     }
    ]

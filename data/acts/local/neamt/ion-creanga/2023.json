@@ -47,6 +47,29 @@
 }
 },
 {
+"slug": "hcl-neamt--ion-creanga-139-2023",
+"path": "local/neamt/ion-creanga/2023/139",
+"kind": "local",
+"year": "2023",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 139/2023",
+"short": "HCL Ion Creangă nr. 139/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-28",
+"latest": "2023-11-28",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/129571",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--ion-creanga-140-2023",
 "path": "local/neamt/ion-creanga/2023/140",
 "kind": "local",
@@ -154,6 +177,28 @@
 "council_name": "Consiliul Local al Comunei Ion Creangă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--ion-creanga-145-2023",
+"path": "local/neamt/ion-creanga/2023/145",
+"kind": "local",
+"year": "2023",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 145/2023 privind aprobarea acordarii unei locuinte construite in Ion Creanga de catre Agentia Nationala pentru locuinte , destinate tinerilor si familiilor in varsta de pana la 35 ani",
+"short": "HCL Ion Creangă nr. 145/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-28",
+"latest": "2023-11-28",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/129577",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

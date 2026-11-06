@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/ghindaoani/2026",
+ "acts": [
+  {
+   "slug": "hcl-neamt--ghindaoani-1-2026",
+   "path": "local/neamt/ghindaoani/2026/1",
+   "short": "HCL Ghindăoani nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindăoani nr. 1/2026 privind validarea Dispozitiei primarului nr. 1 din 08.01.2026 privind acoperirea definitiva a deficitului sectiunii de dezvoltare de la sfarsitul exercitiului bugetar al anului 2025 , in suma de 358 .222,37 lei, din excedentul bugetar al anilor precedenti de la nivelul Comunei Ghindaoani - vizualizeaza",
+   "url": "http://www.comunaghindaoani.ro/monitor-local/hotararile-consiliului-local-ghindaoani.html",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "http://www.comunaghindaoani.ro/images/upload_2026/hcl2026/hcl_ghindaoani_ian2026_1.pdf",
+     "sha256": "63ea1bdbc5b2806941c53323c84618805448f322ee0adaf3ee5635e722bf920b"
+    }
+   ]
+  }
+ ]
+}

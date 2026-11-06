@@ -3,6 +3,51 @@
  "shard": "local/neamt/valea-ursului/2025",
  "acts": [
   {
+   "slug": "hcl-neamt--valea-ursului-58-2025",
+   "path": "local/neamt/valea-ursului/2025/58",
+   "short": "HCL Valea Ursului nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 58/2025 privind atribuirea dreptului de folosință gratuită a unui teren atribuit în baza Legii nr.15/2003, privind sprijinul acordat tinerilor pentru construirea unei locuințe",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/228460",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/228460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--valea-ursului-59-2025",
+   "path": "local/neamt/valea-ursului/2025/59",
+   "short": "HCL Valea Ursului nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 59/2025 privind aprobarea neasumării responsabilităților organizării procedurilor de atribuire a contractului/acordului - cadru pentru achiziția produselor aferente programului și a contractului/acordului – cadru de prestare a serviciilor pentru derularea măsurilor educative la nivelul comunei Valea Ursului pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/228461",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/228461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--valea-ursului-60-2025",
+   "path": "local/neamt/valea-ursului/2025/60",
+   "short": "HCL Valea Ursului nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 60/2025 privind reluarea procedurii concesionării, prin licitație publică, a unui spațiu cu destinația de cabinet medical aflat în incinta Dispensarului Uman Valea Ursului, CF 51125, domeniul public al comunei Valea Ursului, județul Neamț",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/229598",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/229598",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--valea-ursului-61-2025",
    "path": "local/neamt/valea-ursului/2025/61",
    "short": "HCL Valea Ursului nr. 61/2025",
@@ -63,6 +108,111 @@
    ]
   },
   {
+   "slug": "hcl-neamt--valea-ursului-65-2025",
+   "path": "local/neamt/valea-ursului/2025/65",
+   "short": "HCL Valea Ursului nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 65/2025 privind analiza stadiului de înscriere a datelor în Registrul Agricol pe trim.III anul 2025",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/237001",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/237001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--valea-ursului-66-2025",
+   "path": "local/neamt/valea-ursului/2025/66",
+   "short": "HCL Valea Ursului nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 66/2025 privind aprobarea rețelei școlare din comuna Valea Ursului, județul Neamț pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/238154",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/238154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--valea-ursului-67-2025",
+   "path": "local/neamt/valea-ursului/2025/67",
+   "short": "HCL Valea Ursului nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 67/2025 privind aprobarea unei documentații de atribuire și acordarea unui mandat special",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/238155",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/238155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--valea-ursului-68-2025",
+   "path": "local/neamt/valea-ursului/2025/68",
+   "short": "HCL Valea Ursului nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 68/2025 privind aprobarea contractului de concesiune pentru spațiul în suprafață de 100 mp cu destinația de cabinet medical, situat în incinta Dispensarului Uman Valea Ursului, CF 51125, domeniul public al Comunei Valea Ursului, județul Neamț",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/238156",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/238156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--valea-ursului-69-2025",
+   "path": "local/neamt/valea-ursului/2025/69",
+   "short": "HCL Valea Ursului nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 69/2025 privind modificarea art.1 din HCL nr.58 din 30.09.2025 privind atribuirea dreptului de folosință gratuită a unui teren atribuit în baza Legii nr.15/2003, privind sprijinul acordat tinerilor pentru construirea unei locuințe",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/238157",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/238157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--valea-ursului-70-2025",
+   "path": "local/neamt/valea-ursului/2025/70",
+   "short": "HCL Valea Ursului nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 70/2025 privind alegerea președintelui de ședință pentru lunile: decembrie anul 2025 și ianuarie, februarie anul 2026",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/238158",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/238158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--valea-ursului-71-2025",
+   "path": "local/neamt/valea-ursului/2025/71",
+   "short": "HCL Valea Ursului nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 71/2025 privind aprobarea devizul general și a indicatorilor tehnico-economici pentru obiectivul de investiții : \"Construirea camerei tehnice a puțurilor forate din satul Chilii și satul Valea Ursului, comuna Valea Ursului, județul Neamț\" și revocarea HCL nr.53 din 2.09.2025",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/239130",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/239130",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--valea-ursului-72-2025",
    "path": "local/neamt/valea-ursului/2025/72",
    "short": "HCL Valea Ursului nr. 72/2025",
@@ -73,6 +223,66 @@
      "from": "2025-12-10",
      "units": 1,
      "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/242643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--valea-ursului-73-2025",
+   "path": "local/neamt/valea-ursului/2025/73",
+   "short": "HCL Valea Ursului nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 73/2025 privind actualizarea inventarului bunurilor imobile aparţinând domeniului privat al comunei Valea Ursului, prin actualizarea suprafeței de teren aferent C.P.A.D.M",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/242644",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/242644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--valea-ursului-74-2025",
+   "path": "local/neamt/valea-ursului/2025/74",
+   "short": "HCL Valea Ursului nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 74/2025 privind aprobarea conturilor de execuţie ale bugetului local, ale bugetelor instituţiilor şi activităţilor finanţate integral sau parţial din venituri proprii la data de 30 septembrie 2025",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/242645",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/242645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--valea-ursului-75-2025",
+   "path": "local/neamt/valea-ursului/2025/75",
+   "short": "HCL Valea Ursului nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 75/2025 privind privind utilizarea sumei de 560.960,05 lei din excedentul bugetar al instituţiilor publice finanţate din venituri proprii şi subvenţii rezultat la sfârşitul exerciţiului financiar 2024, ca sursă de finanţare a bugetului local pe anul 2025",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/242646",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/242646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--valea-ursului-76-2025",
+   "path": "local/neamt/valea-ursului/2025/76",
+   "short": "HCL Valea Ursului nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 76/2025 privind organizarea și finanțarea unor manifestari culturale, cu ocazia Sărbătorilor de iarnă în anul 2025, în comuna Valea Ursului, județul Neamț",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/242848",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/242848",
      "sha256": null
     }
    ]

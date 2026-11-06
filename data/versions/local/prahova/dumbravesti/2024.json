@@ -3,6 +3,66 @@
  "shard": "local/prahova/dumbravesti/2024",
  "acts": [
   {
+   "slug": "hcl-prahova--dumbravesti-72-2024",
+   "path": "local/prahova/dumbravesti/2024/72",
+   "short": "HCL Dumbrăvești nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 72/2024",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/176904",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/176904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-73-2024",
+   "path": "local/prahova/dumbravesti/2024/73",
+   "short": "HCL Dumbrăvești nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 73/2024",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/176905",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/176905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-74-2024",
+   "path": "local/prahova/dumbravesti/2024/74",
+   "short": "HCL Dumbrăvești nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 74/2024",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/176906",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/176906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-75-2024",
+   "path": "local/prahova/dumbravesti/2024/75",
+   "short": "HCL Dumbrăvești nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 75/2024 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/178186",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/178186",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--dumbravesti-76-2024",
    "path": "local/prahova/dumbravesti/2024/76",
    "short": "HCL Dumbrăvești nr. 76/2024",
@@ -63,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--dumbravesti-80-2024",
+   "path": "local/prahova/dumbravesti/2024/80",
+   "short": "HCL Dumbrăvești nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 80/2024 privind alegerea preşedintelui de şedinţă pentru perioada decembrie 2024 - februarie 2025",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/178191",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/178191",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--dumbravesti-81-2024",
    "path": "local/prahova/dumbravesti/2024/81",
    "short": "HCL Dumbrăvești nr. 81/2024",
@@ -108,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--dumbravesti-84-2024",
+   "path": "local/prahova/dumbravesti/2024/84",
+   "short": "HCL Dumbrăvești nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 84/2024",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/181883",
+   "versions": [
+    {
+     "from": "2024-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/181883",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--dumbravesti-85-2024",
    "path": "local/prahova/dumbravesti/2024/85",
    "short": "HCL Dumbrăvești nr. 85/2024",
@@ -133,6 +223,21 @@
      "from": "2024-12-23",
      "units": 1,
      "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/183870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-87-2024",
+   "path": "local/prahova/dumbravesti/2024/87",
+   "short": "HCL Dumbrăvești nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 87/2024 privind desemnarea reprezentantului Comunei Dumbrăvesti și al Consiliului Local al comunei Dumbrăvești în Adunarea Generala a Asociației de Dezvoltare Intercomunitară Valea Slănicului",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/183871",
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/183871",
      "sha256": null
     }
    ]
@@ -178,6 +283,21 @@
      "from": "2024-12-23",
      "units": 1,
      "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/183874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-91-2024",
+   "path": "local/prahova/dumbravesti/2024/91",
+   "short": "HCL Dumbrăvești nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 91/2024",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/183875",
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/183875",
      "sha256": null
     }
    ]

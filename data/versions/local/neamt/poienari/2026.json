@@ -3,6 +3,246 @@
  "shard": "local/neamt/poienari/2026",
  "acts": [
   {
+   "slug": "hcl-neamt--poienari-24-2026",
+   "path": "local/neamt/poienari/2026/24",
+   "short": "HCL Poienari nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 24/2026 privind alegerea președintelui și a potențialului președinte de ședință pentru lunile: iulie, august și septembrie 2026",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/275429",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/275429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-25-2026",
+   "path": "local/neamt/poienari/2026/25",
+   "short": "HCL Poienari nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 25/2026 privind aprobarea documentației tehnico-economice și a devizelor generale aferente obiectivului de investiții „Alimentare cu energie electrică, stație pompare și clorinare în localitatea Săcăleni, comuna Poienari, județul Neamț”",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/275430",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/275430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-26-2026",
+   "path": "local/neamt/poienari/2026/26",
+   "short": "HCL Poienari nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 26/2026 privind aprobarea ocupării definitive a suprafeței de 4,18 mp teren aparținând domeniului public al comunei Poienari, județul Neamț",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/275431",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/275431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-27-2026",
+   "path": "local/neamt/poienari/2026/27",
+   "short": "HCL Poienari nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 27/2026 privind aprobarea destinației volumului de masă lemnoasă pentru exploatare în anul 2026, din afara fondului forestier, de pe terenurile aparținând domeniului public al Comunei Poienari",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/281416",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/281416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-28-2026",
+   "path": "local/neamt/poienari/2026/28",
+   "short": "HCL Poienari nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 28/2026 privind completarea Hotărârii Consiliului Local nr. 23 din 25.06.2026 privind aprobarea rectificării bugetului local al comunei Poienari, județul Neamț, pe anul 2026",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/281417",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/281417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-29-2026",
+   "path": "local/neamt/poienari/2026/29",
+   "short": "HCL Poienari nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 29/2026 privind aprobarea contului de execuţie al bugetului local de venituri și cheltuieli al comunei Poienari, județul Neamț, pe trimestrul II al anului 2026",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/281418",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/281418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-30-2026",
+   "path": "local/neamt/poienari/2026/30",
+   "short": "HCL Poienari nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 30/2026 privind aprobarea inventarierii parțiale a bunurilor aparținând patrimoniul comunei Poienari, județul Neamț- rețea iluminat stradal",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/281419",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/281419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-31-2026",
+   "path": "local/neamt/poienari/2026/31",
+   "short": "HCL Poienari nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 31/2026 privind aprobarea documentatiei tehnico-economice – faza Proiect Tehnic si a devizului general pentru Proiectul „Modernizarea sistemului de iluminat public stradal, în comuna Poienari - județul Neamț”",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/281420",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/281420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-32-2026",
+   "path": "local/neamt/poienari/2026/32",
+   "short": "HCL Poienari nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 32/2026 privind aprobarea Planului pentru asigurarea resurselor umane, materiale şi financiare necesare gestionării situaţiilor de urgenţă de pe teritoriul administrativ al comunei Poienari, județul Neamț, pe anul 2026",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/283144",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/283144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-33-2026",
+   "path": "local/neamt/poienari/2026/33",
+   "short": "HCL Poienari nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 33/2026 privind aprobarea achiziționării serviciilor juridice de consultanță, asistență și reprezentare pentru apărarea intereselor Comunei Poienari, județul Neamț",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/283145",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/283145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-34-2026",
+   "path": "local/neamt/poienari/2026/34",
+   "short": "HCL Poienari nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 34/2026 privind alegerea președintelui și a potențialului președinte de ședință pentru lunile: octombrie, noiembrie și decembrie 2026",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/287866",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/287866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-35-2026",
+   "path": "local/neamt/poienari/2026/35",
+   "short": "HCL Poienari nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 35/2026 privind aprobarea neasumării responsabilităţii organizării și derulării procedurilor de atribuire a contractelor/acordurilor- cadru pentru achiziţia produselor aferente programului şi a contractelor/acordurilor- cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru şcoli al României pentru o perioada de trei ani 2026-2027, 2027-2028 și 2028-2029, la nivelul comunei Poienari, judeţul Neamț",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/287867",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/287867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-36-2026",
+   "path": "local/neamt/poienari/2026/36",
+   "short": "HCL Poienari nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 36/2026 privind modificarea și completarea Regulamentului de organizare și funcționare al Centrului de consiliere și sprijin pentru părinți și copii „Sfântul Apostol Andrei” aprobat prin Hotărârea Consiliului Local al Comunei Poienari nr. 35 din 15.07.2025",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/287868",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/287868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-37-2026",
+   "path": "local/neamt/poienari/2026/37",
+   "short": "HCL Poienari nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 37/2026 privind desemnarea reprezentantului Consiliului Local al comunei Poienari în Consiliul de Administraţie al Şcolii Gimnaziale Poienari, județul Neamț",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/287869",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/287869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-38-2026",
+   "path": "local/neamt/poienari/2026/38",
+   "short": "HCL Poienari nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 38/2026 privind desemnarea reprezentantului consiliului local în Comisia de evaluare a probei de interviu, din cadrul Concursului pentru ocuparea funcțiilor de director/director adjunct din unitățile de învățământ preuniversitar de stat din Comuna Poienari, Județul Neamț",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/287870",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/287870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-39-2026",
+   "path": "local/neamt/poienari/2026/39",
+   "short": "HCL Poienari nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 39/2026 privind aprobarea rectificării bugetului local al comunei Poienari, județul Neamț, pe anul 2026",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/294909",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/294909",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--poienari-40-2026",
    "path": "local/neamt/poienari/2026/40",
    "short": "HCL Poienari nr. 40/2026",
@@ -13,6 +253,51 @@
      "from": "2026-11-03",
      "units": 1,
      "source_url": "https://emol.ro/poienari-nt/registru-hcl/294910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-41-2026",
+   "path": "local/neamt/poienari/2026/41",
+   "short": "HCL Poienari nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 41/2026 privind analiza stadiului de înscriere a datelor în Registrul agricol pentru trimestrul III al anului 2026 şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/294911",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/294911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-42-2026",
+   "path": "local/neamt/poienari/2026/42",
+   "short": "HCL Poienari nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 42/2026 privind aprobarea contractării și garantării unui credit bancar, în valoare de 3.929.277,95 lei, în vederea realizării obiectivului „EXTINDERE REȚEA DE ALIMENTARE CU APĂ ȘI CANALIZARE ÎN COMUNA POIENARI, JUDEȚUL NEAMȚ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/294912",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/294912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-43-2026",
+   "path": "local/neamt/poienari/2026/43",
+   "short": "HCL Poienari nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 43/2026 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții „INVESTIȚIE ÎN NOI CAPACITĂȚI DE PRODUCERE ȘI STOCARE A ENERGIEI ELECTRICE DIN SURSE REGENERABILE DE ENERGIE SOLARĂ CAPACITATE < 1 MW PENTRU COMUNA POIENARI”, propus la finanțare prin Fondul pentru modernizare - Program cheie 1: Surse regenerabile de energie și stocarea energiei; Sprijinirea investițiilor în dezvoltarea de noi capacități de stocare a energiei electrice produsă din surse regenerabile de energie pentru entități publice",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/294913",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/294913",
      "sha256": null
     }
    ]

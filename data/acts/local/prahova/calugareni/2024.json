@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-prahova--calugareni-49-2024",
+"path": "local/prahova/calugareni/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 49/2024 APROBARE NR DE ASISTENTI PERSONALI SI NR. DE INDEMNIZATII 2025",
+"short": "HCL Călugăreni nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#87042",
+"council": "prahova/calugareni",
+"council_name": "Consiliul Local al Comunei Călugăreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--calugareni-50-2024",
 "path": "local/prahova/calugareni/2024/50",
 "kind": "local",

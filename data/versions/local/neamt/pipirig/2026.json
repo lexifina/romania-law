@@ -1,0 +1,426 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/pipirig/2026",
+ "acts": [
+  {
+   "slug": "hcl-neamt--pipirig-100-2026",
+   "path": "local/neamt/pipirig/2026/100",
+   "short": "HCL Pipirig nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 100/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/11/Hotararea-nr.-100-din-27-octombrie-2026.pdf",
+     "sha256": "a9bcd53db58950b9e76642c3fdb0478e13ebf5e593233c25f2a63a9fc05a65cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-101-2026",
+   "path": "local/neamt/pipirig/2026/101",
+   "short": "HCL Pipirig nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 101/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/11/Hotararea-nr.-101-din-27-octombrie-2026.pdf",
+     "sha256": "6dca40d005e4da3150c88c3db749cb20d35ecf6157372a81717583b8d0b823ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-102-2026",
+   "path": "local/neamt/pipirig/2026/102",
+   "short": "HCL Pipirig nr. 102/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 102/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/11/Hotararea-nr.-102-din-27-octombrie-2026.pdf",
+     "sha256": "b6c3e29f88eec74f09133db242423f8ccd0933842bca15201c08dffd1c162b14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-103-2026",
+   "path": "local/neamt/pipirig/2026/103",
+   "short": "HCL Pipirig nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 103/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/11/Hotararea-nr.-103-din-27-octombrie-2026.pdf",
+     "sha256": "0593e160f570f305b6c63a243afe78371153fe173db641611daca7682951c75f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-104-2026",
+   "path": "local/neamt/pipirig/2026/104",
+   "short": "HCL Pipirig nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 104/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/11/Hotararea-nr.-104-din-27-octombrie-2026.pdf",
+     "sha256": "72d05b4bf889b43f8ed81454064b59cb22cdb6433cfc924d1e95d56cf7511d02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-105-2026",
+   "path": "local/neamt/pipirig/2026/105",
+   "short": "HCL Pipirig nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 105/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/11/Hotararea-nr.-105-din-27-octombrie-2026.pdf",
+     "sha256": "394d3942d4db247338c0a5cd70a105a33743620b9200251f7437c8ad83c7db0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-74-2026",
+   "path": "local/neamt/pipirig/2026/74",
+   "short": "HCL Pipirig nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 74/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/08/Hotararea-nr.-74-din-18-august-2026.pdf",
+     "sha256": "d13ee00eeae697f2291778b8e949916f80f651bc87d63ba873ac098b51694403"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-75-2026",
+   "path": "local/neamt/pipirig/2026/75",
+   "short": "HCL Pipirig nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 75/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/08/Hotararea-nr.-75-din-18-august-2026.pdf",
+     "sha256": "5fb2f3a25c580bf5b28064aaa3de1082fe89855744475931d308c49dfaa43485"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-76-2026",
+   "path": "local/neamt/pipirig/2026/76",
+   "short": "HCL Pipirig nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 76/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/08/Hotararea-nr.-76-din-18-august-2026.pdf",
+     "sha256": "b62f9bd2eed96f8d6f7e2419da8c5731183e775fb2cf4c748fbb691c677e62bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-77-2026",
+   "path": "local/neamt/pipirig/2026/77",
+   "short": "HCL Pipirig nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 77/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/08/Hotararea-nr.-77-din-18-august-2026.pdf",
+     "sha256": "0d82f54845a8577fd1793a4cb766778d6cef06f5828dc95fccf38102a64b64c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-79-2026",
+   "path": "local/neamt/pipirig/2026/79",
+   "short": "HCL Pipirig nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 79/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/08/Hotararea-nr.-79-din-18-august-2026.pdf",
+     "sha256": "5d34066f4bc9438d867a7c1d408954888c1fb687e9037a850dcd61c105a29c4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-82-2026",
+   "path": "local/neamt/pipirig/2026/82",
+   "short": "HCL Pipirig nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 82/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/08/HCL-82.pdf",
+     "sha256": "0a618582ca643708f9065a79f7dac58d4d8f381008f7fd3989a2e4aa10feaa51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-83-2026",
+   "path": "local/neamt/pipirig/2026/83",
+   "short": "HCL Pipirig nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 83/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/10/Hotararea-nr.-83-din-17-septembrie-2026.pdf",
+     "sha256": "fa54fecf83ef6da0b5e0b8ad5e504193cc85835b8c82ec7b6af80a3146df9ee4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-84-2026",
+   "path": "local/neamt/pipirig/2026/84",
+   "short": "HCL Pipirig nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 84/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/10/Hotararea-nr.-84-din-17-septembrie-2026.pdf",
+     "sha256": "2ede8ccfb013fa435365b7d8efa3bb0389d79340d05c4221d937e681b21f9088"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-85-2026",
+   "path": "local/neamt/pipirig/2026/85",
+   "short": "HCL Pipirig nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 85/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/10/Hotararea-nr.-85-din-17-septembrie-2026.pdf",
+     "sha256": "abc4a2a9c20744fd726b4bd433665b7773c02f5318e24ece33f373cec3b7c3a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-86-2026",
+   "path": "local/neamt/pipirig/2026/86",
+   "short": "HCL Pipirig nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 86/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/10/Hotararea-nr.-86-din-17-septembrie-2026.pdf",
+     "sha256": "c42100855e97a086f1148921abe4ed61dfe8bb8be32a15344dccb333d5594668"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-87-2026",
+   "path": "local/neamt/pipirig/2026/87",
+   "short": "HCL Pipirig nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 87/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/10/Hotararea-nr.-87-din-17-septembrie-2026.pdf",
+     "sha256": "4c0c8fabbbf1e89157b1a9efc834b05399f4efc859afc26891d77b81685bc134"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-88-2026",
+   "path": "local/neamt/pipirig/2026/88",
+   "short": "HCL Pipirig nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 88/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/10/Hotararea-nr.-88-din-17-septembrie-2026.pdf",
+     "sha256": "081f63853d030fb55dd7962a1425f90a0ecb19e172cc4177a2880c7ecdb71785"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-89-2026",
+   "path": "local/neamt/pipirig/2026/89",
+   "short": "HCL Pipirig nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 89/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/10/Hotararea-nr.-89-din-17-septembrie-2026.pdf",
+     "sha256": "76ca41023ed06ca77e5acc4e98e6a593a974fcf4ad2a9e670159e680296e1615"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-90-2026",
+   "path": "local/neamt/pipirig/2026/90",
+   "short": "HCL Pipirig nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 90/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/10/Hotararea-nr.-90-din-25-septembrie-2026.pdf",
+     "sha256": "b55c5894026a24d3eee5e3ba68a4ae7896975631941136c275470189691bf436"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-91-2026",
+   "path": "local/neamt/pipirig/2026/91",
+   "short": "HCL Pipirig nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 91/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/10/Hotararea-nr.-91-din-25-septembrie-2026.pdf",
+     "sha256": "cb66489d7406fbeeb8419c787def4cbfe056165fef96bf9aa402b56ee1259457"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-93-2026",
+   "path": "local/neamt/pipirig/2026/93",
+   "short": "HCL Pipirig nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 93/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/11/Hotararea-nr.-93-din-27-octombrie-2026.pdf",
+     "sha256": "d223948833fa5af07ad405c4cb6f17dcfef2d34d84b938bd4a5f786ceac96731"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-94-2026",
+   "path": "local/neamt/pipirig/2026/94",
+   "short": "HCL Pipirig nr. 94/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 94/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/11/Hotararea-nr.-94-din-27-octombrie-2026.pdf",
+     "sha256": "a5b59f2497ea39e3e6bfaa8f740e3ef0c90c5111972c8c7ee25c1b0e5705a573"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-95-2026",
+   "path": "local/neamt/pipirig/2026/95",
+   "short": "HCL Pipirig nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 95/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/11/Hotararea-nr.-95-din-27-octombrie-2026.pdf",
+     "sha256": "eabe13c747c8ec47cfc73b6738c1eff75aaa750f381ba5fd607594c00145bbc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-96-2026",
+   "path": "local/neamt/pipirig/2026/96",
+   "short": "HCL Pipirig nr. 96/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 96/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/11/Hotararea-nr.-96-din-27-octombrie-2026.pdf",
+     "sha256": "2212cc63e27438dfa0f4babd8ed2310d4f4360037e17c17eb3d81fd66e89243f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-97-2026",
+   "path": "local/neamt/pipirig/2026/97",
+   "short": "HCL Pipirig nr. 97/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 97/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/11/Hotararea-nr.-97-din-27-octombrie-2026.pdf",
+     "sha256": "4a3709ed9631fa5c0bb2a15e1283d43ba6bde66f8aef83feb02f1e784fe92fbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-98-2026",
+   "path": "local/neamt/pipirig/2026/98",
+   "short": "HCL Pipirig nr. 98/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 98/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/11/Hotararea-nr.-98-din-27-octombrie-2026.pdf",
+     "sha256": "f3f3ad780bff9ebdc14253bf2f390b91a2ca5ab94b3e2a5be1c4d3e0b3a33e9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--pipirig-99-2026",
+   "path": "local/neamt/pipirig/2026/99",
+   "short": "HCL Pipirig nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pipirig nr. 99/2026",
+   "url": "https://www.pipirig.ro/hotarari-ale-consiliului-local-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://www.pipirig.ro/wp-content/uploads/2026/11/Hotararea-nr.-99-din-27-octombrie-2026.pdf",
+     "sha256": "e9014b84b19ef9564a606ac17c038a8ce8ae5763fa49ec047c4822969d378c26"
+    }
+   ]
+  }
+ ]
+}

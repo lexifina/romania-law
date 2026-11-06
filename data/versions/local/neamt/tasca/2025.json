@@ -3,6 +3,111 @@
  "shard": "local/neamt/tasca/2025",
  "acts": [
   {
+   "slug": "hcl-neamt--tasca-122-2025",
+   "path": "local/neamt/tasca/2025/122",
+   "short": "HCL Tașca nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 122/2025 privind rectificarea bugetului de venituri și cheltuieli al comunei Tașca și modificarea Listei de investiții pentru anul 2025",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/272211",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/272211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-123-2025",
+   "path": "local/neamt/tasca/2025/123",
+   "short": "HCL Tașca nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 123/2025 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Tașca pentru luna decembrie 2025",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/272218",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/272218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-124-2025",
+   "path": "local/neamt/tasca/2025/124",
+   "short": "HCL Tașca nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 124/2025 privind aprobarea vânzării prin licitație publică a unui imobil-teren, în suprafață de 1305 mp, identificat cu NC 51838, proprietate privată a comunei Tașca și a Documentației de atribuire aferentă acestuia",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/272219",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/272219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-125-2025",
+   "path": "local/neamt/tasca/2025/125",
+   "short": "HCL Tașca nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 125/2025 privind aprobarea organigramei și statului de funcții al aparatului de specialitate al primarului comunei Tașca, al instituțiilor și serviciilor publice din subordinea Consiliului Local, cu încadrarea în numărul maxim de posturi aprobat și în fondurile bugetare anuale aprobate",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/272220",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/272220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-126-2025",
+   "path": "local/neamt/tasca/2025/126",
+   "short": "HCL Tașca nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 126/2025 privind actualizarea grilei de salarizare aferentă funcțiilor din cadrul aparatului de specialitate al Primarului Comunei Tașca și din cadrul instituțiilor și serviciilor publice din subordinea Consiliului Local Tașca",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/272221",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/272221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-127-2025",
+   "path": "local/neamt/tasca/2025/127",
+   "short": "HCL Tașca nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 127/2025 privind numirea unui administrator provizoriu la SC Termo Serv Com Tașca SRL",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/272222",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/272222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-128-2025",
+   "path": "local/neamt/tasca/2025/128",
+   "short": "HCL Tașca nr. 128/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 128/2025 privind aprobarea unei documentații de atribuire și acordarea unui mandat special",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/272223",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/272223",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--tasca-129-2025",
    "path": "local/neamt/tasca/2025/129",
    "short": "HCL Tașca nr. 129/2025",
@@ -28,6 +133,156 @@
      "from": "2026-06-03",
      "units": 1,
      "source_url": "https://emol.ro/tasca-nt/registru-hcl/272227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-131-2025",
+   "path": "local/neamt/tasca/2025/131",
+   "short": "HCL Tașca nr. 131/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 131/2025 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Tașca pentru luna ianuarie 2026",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/272263",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/272263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-132-2025",
+   "path": "local/neamt/tasca/2025/132",
+   "short": "HCL Tașca nr. 132/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 132/2025 privind aprobarea structurii rețelei școlare a unităților de învățământ preuniversitar de stat la nivelul comunei Tașca, județul Neamț pe anul 2026-2027",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/272264",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/272264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-133-2025",
+   "path": "local/neamt/tasca/2025/133",
+   "short": "HCL Tașca nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 133/2025 privind scoaterea din funcțiune și casarea unor bunuri, mijloace fixe și obiecte de inventar din patrimoniul comunei Tașca",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/272375",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/272375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-134-2025",
+   "path": "local/neamt/tasca/2025/134",
+   "short": "HCL Tașca nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 134/2025 privind aprobarea Statutului Comunei Tașca, județul Neamț",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/272380",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/272380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-135-2025",
+   "path": "local/neamt/tasca/2025/135",
+   "short": "HCL Tașca nr. 135/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 135/2025 privind valorificarea prin vânzarea directă a cantității de masă lemnoasă constituite în pășunea comunei Tașca, județul Neam",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/272389",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/272389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-136-2025",
+   "path": "local/neamt/tasca/2025/136",
+   "short": "HCL Tașca nr. 136/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 136/2025 privind valorificarea prin licitație publică deschisă cu preselecție și strigare a unei cantități de masă lemnoasă, constituite din pășunile Primăriei Tașca",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/272414",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/272414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-137-2025",
+   "path": "local/neamt/tasca/2025/137",
+   "short": "HCL Tașca nr. 137/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 137/2025 privind acordarea unui mandat special reprezentantului Comunei Tașca, Județul Neamț să voteze în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „PROTECȚIA ANIMALELOR NEAMȚ”",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/272416",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/272416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-138-2025",
+   "path": "local/neamt/tasca/2025/138",
+   "short": "HCL Tașca nr. 138/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 138/2025 privind aprobarea închirierii unui Acord de asocierea cu UAT Comuna Ceahlău, în vederea susținerii financiare a beneficiarilor internați în cadrul Unității Medico-Sociale Ceahlău în anul 2026",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/272418",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/272418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-139-2025",
+   "path": "local/neamt/tasca/2025/139",
+   "short": "HCL Tașca nr. 139/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 139/2025",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/272420",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/272420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-140-2025",
+   "path": "local/neamt/tasca/2025/140",
+   "short": "HCL Tașca nr. 140/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 140/2025 privind încheierea unui acord de parteneriat, în vederea înființării unui cabinet de radiologie dentară",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/272421",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/272421",
      "sha256": null
     }
    ]

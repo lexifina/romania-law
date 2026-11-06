@@ -3,6 +3,21 @@
  "shard": "local/prahova/barcanesti/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--barcanesti-100-2025",
+   "path": "local/prahova/barcanesti/2025/100",
+   "short": "HCL Bărcănești nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 100/2025 pentru aprobarea listei beneficiarilor din comuna Bărcănești care au obținut rezultate deosebite la competițiile artistice județene, naționale sau internaționale în anul 2025, precum și cuantumul premiilor acordate de la bugetul local",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/239601",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/239601",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--barcanesti-101-2025",
    "path": "local/prahova/barcanesti/2025/101",
    "short": "HCL Bărcănești nr. 101/2025",
@@ -28,6 +43,21 @@
      "from": "2025-12-31",
      "units": 1,
      "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/244693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-103-2025",
+   "path": "local/prahova/barcanesti/2025/103",
+   "short": "HCL Bărcănești nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 103/2025 privind aprobarea vânzarii prin licitație publică a unui volum de 58,32 m.c.masă lemnoasă , specia Plop alb , sortiment lemn foc,din afara fondului forestier național",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/244694",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/244694",
      "sha256": null
     }
    ]
@@ -138,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--barcanesti-111-2025",
+   "path": "local/prahova/barcanesti/2025/111",
+   "short": "HCL Bărcănești nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 111/2025 privind mandatarea reprezentantului comunei Bărcănești , județul Prahova în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Mobilitate Prahova” să voteze retragerea comunei Berceni din cadrul Asociației",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/244702",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/244702",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--barcanesti-112-2025",
    "path": "local/prahova/barcanesti/2025/112",
    "short": "HCL Bărcănești nr. 112/2025",
@@ -148,6 +193,36 @@
      "from": "2025-12-31",
      "units": 1,
      "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/244703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-113-2025",
+   "path": "local/prahova/barcanesti/2025/113",
+   "short": "HCL Bărcănești nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 113/2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/244704",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/244704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-114-2025",
+   "path": "local/prahova/barcanesti/2025/114",
+   "short": "HCL Bărcănești nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 114/2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/244705",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/244705",
      "sha256": null
     }
    ]
@@ -193,6 +268,21 @@
      "from": "2025-12-11",
      "units": 1,
      "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/238292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-98-2025",
+   "path": "local/prahova/barcanesti/2025/98",
+   "short": "HCL Bărcănești nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 98/2025 privind aprobarea numărului total de asistenţi personali ai persoanelor cu handicap grav pentru anul 2026",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/239599",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/239599",
      "sha256": null
     }
    ]

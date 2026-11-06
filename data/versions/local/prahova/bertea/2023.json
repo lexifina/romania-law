@@ -33,6 +33,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--bertea-47-2023",
+   "path": "local/prahova/bertea/2023/47",
+   "short": "HCL Bertea nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 47/2023 privind desemnarea reprezentantului Consiliului Local al Comunei Bertea în Consiliul de Administratie al Scolii Gimnaziale Bertea",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/128501",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/128501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-48-2023",
+   "path": "local/prahova/bertea/2023/48",
+   "short": "HCL Bertea nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 48/2023",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/128502",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/128502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-49-2023",
+   "path": "local/prahova/bertea/2023/49",
+   "short": "HCL Bertea nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 49/2023 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/133930",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/133930",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--bertea-50-2023",
    "path": "local/prahova/bertea/2023/50",
    "short": "HCL Bertea nr. 50/2023",
@@ -108,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--bertea-55-2023",
+   "path": "local/prahova/bertea/2023/55",
+   "short": "HCL Bertea nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 55/2023 privind aprobarea inchirierii spatiului cu destinatie de farmacie din cadrul Dispensarului Medical Bertea",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/133966",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/133966",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--bertea-56-2023",
    "path": "local/prahova/bertea/2023/56",
    "short": "HCL Bertea nr. 56/2023",
@@ -178,6 +238,21 @@
      "from": "2024-02-27",
      "units": 1,
      "source_url": "https://emol.ro/bertea-ph/registru-hcl/144791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-61-2023",
+   "path": "local/prahova/bertea/2023/61",
+   "short": "HCL Bertea nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 61/2023",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/144792",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/144792",
      "sha256": null
     }
    ]

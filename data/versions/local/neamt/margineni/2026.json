@@ -153,6 +153,51 @@
    ]
   },
   {
+   "slug": "hcl-neamt--margineni-66-2026",
+   "path": "local/neamt/margineni/2026/66",
+   "short": "HCL Mărgineni nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 66/2026",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/293038",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/293038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-67-2026",
+   "path": "local/neamt/margineni/2026/67",
+   "short": "HCL Mărgineni nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 67/2026",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/293039",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/293039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-68-2026",
+   "path": "local/neamt/margineni/2026/68",
+   "short": "HCL Mărgineni nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 68/2026 privind aprobarea de sprijin financiar, de la bugetul local al Comunei Mărgineni, județul Neamț pentru pentru unităţile de cult aparţinând cultelor religioase recunoscute din România",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/293040",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/293040",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--margineni-69-2026",
    "path": "local/neamt/margineni/2026/69",
    "short": "HCL Mărgineni nr. 69/2026",

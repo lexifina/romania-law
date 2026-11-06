@@ -3,6 +3,273 @@
 "shard": "local/prahova/banesti/2022",
 "acts": [
 {
+"slug": "hcl-prahova--banesti-79-2022",
+"path": "local/prahova/banesti/2022/79",
+"kind": "local",
+"year": "2022",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 79/2022 privind aprobarea anulării obligaţiilor fiscale, aparținând unei persoane juridice, radiată din Registrul Comerţului de pe lângă Tribunalul Prahova și scăderea societății radiate din evidența fiscală",
+"short": "HCL Bănești nr. 79/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/77447",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-80-2022",
+"path": "local/prahova/banesti/2022/80",
+"kind": "local",
+"year": "2022",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 80/2022 privind aprobarea rectificării bugetului local al comunei Bănești și a listei de investiții pe anul 2022",
+"short": "HCL Bănești nr. 80/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/77448",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-81-2022",
+"path": "local/prahova/banesti/2022/81",
+"kind": "local",
+"year": "2022",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 81/2022 privind aprobarea efectuării operaţiunilor notariale de alipire a trei imobile aparţinând domeniului privat al comunei Băneşti, situate în sat Bănești, judeţul Prahova, Nr.cad./C.F.26204, Nr.cad./C.F.22633, Nr.cad./C.F.22635",
+"short": "HCL Bănești nr. 81/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/77449",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-82-2022",
+"path": "local/prahova/banesti/2022/82",
+"kind": "local",
+"year": "2022",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 82/2022 privind aprobarea efectuării operaţiunilor notariale de alipire a două imobile aparţinând domeniului privat al comunei Băneşti, situate în sat Bănești, judeţul Prahova, Nr.cad./C.F.22570 și Nr.cad./C.F.26203",
+"short": "HCL Bănești nr. 82/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/77450",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-83-2022",
+"path": "local/prahova/banesti/2022/83",
+"kind": "local",
+"year": "2022",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 83/2022 privind alegerea Preşedintelui de şedinţă pentru ședințele din luna noiembrie 2022",
+"short": "HCL Bănești nr. 83/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-14",
+"latest": "2022-11-14",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/79409",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-84-2022",
+"path": "local/prahova/banesti/2022/84",
+"kind": "local",
+"year": "2022",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 84/2022 privind aprobarea participării comunei Bănești în cadrul Programului Operaţional Infrastructură Mare ( POIM) 2014-2020 - Axa Prioritară 11: Măsuri de îmbunătățire a eficienței energetice și stimularea utilizării energiei regenerabile, Obiectivul Specific 11.2: Utilizarea energiei din surse regenerabile la nivelul autorităților publice locale, cu proiectul ”Producție de energie din surse regenerabile pentru clădirile publice ale Comunei Bănești, Județul Prahova”",
+"short": "HCL Bănești nr. 84/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-14",
+"latest": "2022-11-14",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/79410",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-85-2022",
+"path": "local/prahova/banesti/2022/85",
+"kind": "local",
+"year": "2022",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 85/2022",
+"short": "HCL Bănești nr. 85/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-28",
+"latest": "2022-11-28",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/81010",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--banesti-86-2022",
+"path": "local/prahova/banesti/2022/86",
+"kind": "local",
+"year": "2022",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 86/2022 privind aprobarea contului de execuţie a bugetului local al comunei Băneşti, al instituțiilor publice finanțate integral sau parțial din venituri proprii și al bugetului creditelor interne la data de 30.09.2022, precum și raportarea facilităților fiscale și a bonificațiilor acordate până la data de 30.09.2022",
+"short": "HCL Bănești nr. 86/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-28",
+"latest": "2022-11-28",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/81011",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-87-2022",
+"path": "local/prahova/banesti/2022/87",
+"kind": "local",
+"year": "2022",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 87/2022",
+"short": "HCL Bănești nr. 87/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-28",
+"latest": "2022-11-28",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/81012",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--banesti-88-2022",
+"path": "local/prahova/banesti/2022/88",
+"kind": "local",
+"year": "2022",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 88/2022",
+"short": "HCL Bănești nr. 88/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-28",
+"latest": "2022-11-28",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/81013",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--banesti-89-2022",
+"path": "local/prahova/banesti/2022/89",
+"kind": "local",
+"year": "2022",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 89/2022 privind Privind alegerea Preşedintelui de şedinţă pentru ședințele din luna decembrie 2022",
+"short": "HCL Bănești nr. 89/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-14",
+"latest": "2022-12-14",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/82663",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-90-2022",
+"path": "local/prahova/banesti/2022/90",
+"kind": "local",
+"year": "2022",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 90/2022 privind aprobarea Actului adițional la Contractul de închiriere nr. 2.357/11.05.2015 încheiat între Comuna Bănești și Asociația Crescătorilor de Animale ”Dumbrava”",
+"short": "HCL Bănești nr. 90/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-14",
+"latest": "2022-12-14",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/82664",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--banesti-91-2022",
 "path": "local/prahova/banesti/2022/91",
 "kind": "local",
@@ -25,6 +292,117 @@
 }
 },
 {
+"slug": "hcl-prahova--banesti-92-2022",
+"path": "local/prahova/banesti/2022/92",
+"kind": "local",
+"year": "2022",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 92/2022 privind aprobarea implementării proiectului „Dotarea Primăriei Comunei Bănești cu un Utilaj Mobil pentru Situații de Urgență”",
+"short": "HCL Bănești nr. 92/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-14",
+"latest": "2022-12-14",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/82666",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-93-2022",
+"path": "local/prahova/banesti/2022/93",
+"kind": "local",
+"year": "2022",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 93/2022",
+"short": "HCL Bănești nr. 93/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-14",
+"latest": "2022-12-14",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/82667",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--banesti-94-2022",
+"path": "local/prahova/banesti/2022/94",
+"kind": "local",
+"year": "2022",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 94/2022 privind aprobarea rectificării bugetului local al comunei Bănești și a listei de investiții pe anul 2022",
+"short": "HCL Bănești nr. 94/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-14",
+"latest": "2022-12-14",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/82668",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-95-2022",
+"path": "local/prahova/banesti/2022/95",
+"kind": "local",
+"year": "2022",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 95/2022 privind aprobarea prelungirii prin act adițional a Contractului de închiriere nr.10154/13.01.2009, încheiat între COMUNA BĂNEȘTI și INSPECTORATUL JUDEŢEAN DE POLIŢIE PRAHOVA",
+"short": "HCL Bănești nr. 95/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/84325",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-96-2022",
+"path": "local/prahova/banesti/2022/96",
+"kind": "local",
+"year": "2022",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 96/2022 privind mentinerea calitatii de membru partener al Comunei Bănești, Judetul Prahova în Asociația Grupul de Acțiune Locală ,,Colinele Prahovei”",
+"short": "HCL Bănești nr. 96/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/84326",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--banesti-97-2022",
 "path": "local/prahova/banesti/2022/97",
 "kind": "local",
@@ -44,6 +422,28 @@
 "council_name": "Consiliul Local al Comunei Bănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-98-2022",
+"path": "local/prahova/banesti/2022/98",
+"kind": "local",
+"year": "2022",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 98/2022 pentru validarea Dispoziției nr.177/21.12.2022 privind rectificarea bugetului local al comunei Bănești și a listei deinvestiții pe anul 2022",
+"short": "HCL Bănești nr. 98/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/84328",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

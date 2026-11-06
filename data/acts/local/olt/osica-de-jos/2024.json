@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/olt/osica-de-jos/2024",
+"acts": [
+{
+"slug": "hcl-olt--osica-de-jos-30-2024",
+"path": "local/olt/osica-de-jos/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Osica de Jos nr. 30/2024 privind admiterea listei de candidafi pentru funcfia de CONSILIER LOCAL in cadrul Consiliului Local al Comunei Osica de Jos, judeful Olt, depusa de PARTIDUL SOCIAL DEMOCRAT la alegerile locale din data de 9 iunie 2024 Biroul Electoral de Circumscriptie Comunala nr. 67 Osica de Jos, Avand in vedere prevederile: - art. 27 alin.(1) lit.b), art.46 - art.56 din Legea nr. 115/2015, pentru alegerea autor",
+"short": "HCL Osica de Jos nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-24",
+"latest": "2024-04-24",
+"portal": "https://www.poj.ro/index.php/diverse/monitorul-oficial-local/alte-documente/alegeri-locale-2024",
+"council": "olt/osica-de-jos",
+"council_name": "Consiliul Local al Comunei Osica de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

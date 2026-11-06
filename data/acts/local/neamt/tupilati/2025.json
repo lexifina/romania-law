@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-neamt--tupilati-52-2025",
+"path": "local/neamt/tupilati/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 52/2025 privind aprobarea suplimentarii numărului de indemnizaţii lunare ale persoanelor cu handicap cu asistent personal",
+"short": "HCL Tupilați nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/246466",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--tupilati-53-2025",
 "path": "local/neamt/tupilati/2025/53",
 "kind": "local",
@@ -88,6 +110,50 @@
 "council_name": "Consiliul Local al Comunei Tupilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-54-2025",
+"path": "local/neamt/tupilati/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 54/2025 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Tupilați nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/246468",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-55-2025",
+"path": "local/neamt/tupilati/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 55/2025 privind aprobarea rectificării bugetului local al Comunei Tupilați pe anul 2025",
+"short": "HCL Tupilați nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/246469",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -180,6 +246,29 @@
 }
 },
 {
+"slug": "hcl-neamt--tupilati-60-2025",
+"path": "local/neamt/tupilati/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 60/2025",
+"short": "HCL Tupilați nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/246474",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--tupilati-61-2025",
 "path": "local/neamt/tupilati/2025/61",
 "kind": "local",
@@ -224,6 +313,28 @@
 }
 },
 {
+"slug": "hcl-neamt--tupilati-63-2025",
+"path": "local/neamt/tupilati/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 63/2025 privind organizarea rețelei școlare a unităţii de învăţământ preuniversitar de stat din Comuna Tupilați, județul Neamț, pentru anul școlar 2026-2027",
+"short": "HCL Tupilați nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/246485",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--tupilati-64-2025",
 "path": "local/neamt/tupilati/2025/64",
 "kind": "local",
@@ -265,6 +376,50 @@
 "council_name": "Consiliul Local al Comunei Tupilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-66-2025",
+"path": "local/neamt/tupilati/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 66/2025 privind atribuirea in folosință gratuita de teren pentru construirea unei locuințe proprietate personală numitului Corugă Constantin-Claudiu din comuna Tupilați, județul Neamț",
+"short": "HCL Tupilați nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/246488",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-67-2025",
+"path": "local/neamt/tupilati/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 67/2025 privind aprobarea rectificării bugetului local al Comunei Tupilați pe anul 2025",
+"short": "HCL Tupilați nr. 67/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/246489",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

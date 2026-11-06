@@ -3,6 +3,28 @@
 "shard": "local/prahova/blejoi/2020",
 "acts": [
 {
+"slug": "hcl-prahova--blejoi-74-2020",
+"path": "local/prahova/blejoi/2020/74",
+"kind": "local",
+"year": "2020",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 74/2020 privind aprobarea indemnizatiei de sedinta pentru membrii Consiliului Local al comunei Blejoi",
+"short": "HCL Blejoi nr. 74/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-19",
+"latest": "2020-11-19",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/14152",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--blejoi-75-2020",
 "path": "local/prahova/blejoi/2020/75",
 "kind": "local",
@@ -22,6 +44,52 @@
 "council_name": "Consiliul Local al Comunei Blejoi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-76-2020",
+"path": "local/prahova/blejoi/2020/76",
+"kind": "local",
+"year": "2020",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 76/2020",
+"short": "HCL Blejoi nr. 76/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/14154",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-77-2020",
+"path": "local/prahova/blejoi/2020/77",
+"kind": "local",
+"year": "2020",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 77/2020",
+"short": "HCL Blejoi nr. 77/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/14155",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -179,6 +247,51 @@
 }
 },
 {
+"slug": "hcl-prahova--blejoi-85-2020",
+"path": "local/prahova/blejoi/2020/85",
+"kind": "local",
+"year": "2020",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 85/2020 privind acordarea unui sprijin financiar Parohiei Blejoi",
+"short": "HCL Blejoi nr. 85/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/14295",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-86-2020",
+"path": "local/prahova/blejoi/2020/86",
+"kind": "local",
+"year": "2020",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 86/2020",
+"short": "HCL Blejoi nr. 86/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/14296",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--blejoi-87-2020",
 "path": "local/prahova/blejoi/2020/87",
 "kind": "local",
@@ -198,6 +311,29 @@
 "council_name": "Consiliul Local al Comunei Blejoi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-88-2020",
+"path": "local/prahova/blejoi/2020/88",
+"kind": "local",
+"year": "2020",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 88/2020",
+"short": "HCL Blejoi nr. 88/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/14298",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

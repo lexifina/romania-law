@@ -3,6 +3,118 @@
 "shard": "local/neamt/tupilati/2023",
 "acts": [
 {
+"slug": "hcl-neamt--tupilati-44-2023",
+"path": "local/neamt/tupilati/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 44/2023",
+"short": "HCL Tupilați nr. 44/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/159219",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-45-2023",
+"path": "local/neamt/tupilati/2023/45",
+"kind": "local",
+"year": "2023",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 45/2023 privind actualizarea traseului microbuzului de transport școlar pentru elevii Școlii Gimnaziale, comuna Tupilați, județul Neamț în anul școlar 2023/2024",
+"short": "HCL Tupilați nr. 45/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/159220",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-46-2023",
+"path": "local/neamt/tupilati/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 46/2023",
+"short": "HCL Tupilați nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/159221",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-47-2023",
+"path": "local/neamt/tupilati/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 47/2023 privind aprobarea scoaterea definitivă din circuitul agricol a suprafeței de 1,8 m.p. teren pășune tarla ”Scărișoara” in vederea implementării proiectului: „ÎNFIINȚARE REȚEA DE APĂ ȘI CANALIZARE ÎN COMUNA TUPILAȚI, JUDEŢUL NEAMȚ”",
+"short": "HCL Tupilați nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/159222",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-48-2023",
+"path": "local/neamt/tupilati/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 48/2023 privind înregistrarea unor bunuri in domeniul public al comunei Tupilați, județul Neamț",
+"short": "HCL Tupilați nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/159244",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--tupilati-49-2023",
 "path": "local/neamt/tupilati/2023/49",
 "kind": "local",
@@ -22,6 +134,51 @@
 "council_name": "Consiliul Local al Comunei Tupilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-50-2023",
+"path": "local/neamt/tupilati/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 50/2023",
+"short": "HCL Tupilați nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/159246",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-51-2023",
+"path": "local/neamt/tupilati/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 51/2023 privind alegerea președintelui de ședință",
+"short": "HCL Tupilați nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/159247",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +204,50 @@
 }
 },
 {
+"slug": "hcl-neamt--tupilati-53-2023",
+"path": "local/neamt/tupilati/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 53/2023 privind aprobarea rectificării bugetului local al Comunei Tupilați pentru anul 2023",
+"short": "HCL Tupilați nr. 53/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/159253",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-54-2023",
+"path": "local/neamt/tupilati/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 54/2023 privind externalizarea serviciului de pază a bunurilor publice și ale cetățenilor comunei Tupilați, județul Neamț",
+"short": "HCL Tupilați nr. 54/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/159254",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--tupilati-55-2023",
 "path": "local/neamt/tupilati/2023/55",
 "kind": "local",
@@ -66,6 +267,28 @@
 "council_name": "Consiliul Local al Comunei Tupilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-56-2023",
+"path": "local/neamt/tupilati/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 56/2023 privind aprobarea documentației tehnico-economice a proiectului „Modernizarea drumurilor de interes agricol din comuna Tupilați, județul Neamț”",
+"short": "HCL Tupilați nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/159256",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +314,28 @@
 }
 },
 {
+"slug": "hcl-neamt--tupilati-58-2023",
+"path": "local/neamt/tupilati/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 58/2023 privind aprobarea rectificării bugetului local al Comunei Tupilați pentru anul 2023",
+"short": "HCL Tupilați nr. 58/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/159258",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--tupilati-59-2023",
 "path": "local/neamt/tupilati/2023/59",
 "kind": "local",
@@ -110,6 +355,95 @@
 "council_name": "Consiliul Local al Comunei Tupilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-60-2023",
+"path": "local/neamt/tupilati/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 60/2023 privind acordarea unui mandat special",
+"short": "HCL Tupilați nr. 60/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/159260",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-61-2023",
+"path": "local/neamt/tupilati/2023/61",
+"kind": "local",
+"year": "2023",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 61/2023 privind acordarea unui mandat special",
+"short": "HCL Tupilați nr. 61/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/159261",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-62-2023",
+"path": "local/neamt/tupilati/2023/62",
+"kind": "local",
+"year": "2023",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 62/2023 privind acordarea unui mandat special reprezentantului legal al Comunei Tupilați în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Protecția Animalelor Neamț”",
+"short": "HCL Tupilați nr. 62/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/159262",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-63-2023",
+"path": "local/neamt/tupilati/2023/63",
+"kind": "local",
+"year": "2023",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 63/2023",
+"short": "HCL Tupilați nr. 63/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/159263",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

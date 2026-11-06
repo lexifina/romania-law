@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/ceptura/2025",
+ "acts": [
+  {
+   "slug": "hcl-prahova--ceptura-1-2025",
+   "path": "local/prahova/ceptura/2025/1",
+   "short": "HCL Ceptura nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ceptura nr. 1/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/ceptura-ph/registru-hcl/241341",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ceptura-ph/registru-hcl/241341",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

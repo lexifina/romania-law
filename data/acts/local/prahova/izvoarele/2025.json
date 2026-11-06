@@ -3,6 +3,140 @@
 "shard": "local/prahova/izvoarele/2025",
 "acts": [
 {
+"slug": "hcl-prahova--izvoarele-14-2025",
+"path": "local/prahova/izvoarele/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoarele nr. 14/2025",
+"short": "HCL Izvoarele nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-17",
+"latest": "2025-03-17",
+"portal": null,
+"council": "prahova/izvoarele",
+"council_name": "Consiliul Local al Comunei Izvoarele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--izvoarele-16-2025",
+"path": "local/prahova/izvoarele/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoarele nr. 16/2025 pentru finantarea programului national Masa Calda",
+"short": "HCL Izvoarele nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-17",
+"latest": "2025-03-17",
+"portal": "http://izvoarele-ph.ro/index.php/consiliul-local/hotarari-cl/151-hotarari-consiliu-local-2025",
+"council": "prahova/izvoarele",
+"council_name": "Consiliul Local al Comunei Izvoarele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--izvoarele-38-2025",
+"path": "local/prahova/izvoarele/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoarele nr. 38/2025 privind atestarea apartenenței la domeniul privat al comunei Izvoarele a terenului cu suprafață de 2855 mp, T 11, Parcela 394, Sat Homorâciu, Comuna Izvoarele",
+"short": "HCL Izvoarele nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-13",
+"latest": "2025-10-13",
+"portal": "http://izvoarele-ph.ro/index.php/consiliul-local/hotarari-cl/151-hotarari-consiliu-local-2025",
+"council": "prahova/izvoarele",
+"council_name": "Consiliul Local al Comunei Izvoarele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--izvoarele-40-2025",
+"path": "local/prahova/izvoarele/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoarele nr. 40/2025 privind modificarea organigramei și a statului de funcții",
+"short": "HCL Izvoarele nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "http://izvoarele-ph.ro/index.php/consiliul-local/hotarari-cl/151-hotarari-consiliu-local-2025",
+"council": "prahova/izvoarele",
+"council_name": "Consiliul Local al Comunei Izvoarele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--izvoarele-41-2025",
+"path": "local/prahova/izvoarele/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoarele nr. 41/2025 privind rectificarea bugetului local al Comunei Izvoarele, județul Prahova",
+"short": "HCL Izvoarele nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "http://izvoarele-ph.ro/index.php/consiliul-local/hotarari-cl/151-hotarari-consiliu-local-2025",
+"council": "prahova/izvoarele",
+"council_name": "Consiliul Local al Comunei Izvoarele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--izvoarele-42-2025",
+"path": "local/prahova/izvoarele/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoarele nr. 42/2025",
+"short": "HCL Izvoarele nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": null,
+"council": "prahova/izvoarele",
+"council_name": "Consiliul Local al Comunei Izvoarele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--izvoarele-44-2025",
 "path": "local/prahova/izvoarele/2025/44",
 "kind": "local",
@@ -22,6 +156,72 @@
 "council_name": "Consiliul Local al Comunei Izvoarele",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-prahova--izvoarele-45-2025",
+"path": "local/prahova/izvoarele/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoarele nr. 45/2025 privind rectificarea bugetului local al Comunei Izvoarele, județul Prahova",
+"short": "HCL Izvoarele nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "http://izvoarele-ph.ro/index.php/consiliul-local/hotarari-cl/151-hotarari-consiliu-local-2025",
+"council": "prahova/izvoarele",
+"council_name": "Consiliul Local al Comunei Izvoarele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--izvoarele-46-2025",
+"path": "local/prahova/izvoarele/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoarele nr. 46/2025 privind modificarea și completarea anexei 2 a HCL Nr.41/28.10.2025",
+"short": "HCL Izvoarele nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "http://izvoarele-ph.ro/index.php/consiliul-local/hotarari-cl/151-hotarari-consiliu-local-2025",
+"council": "prahova/izvoarele",
+"council_name": "Consiliul Local al Comunei Izvoarele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--izvoarele-50-2025",
+"path": "local/prahova/izvoarele/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoarele nr. 50/2025 privind modificarea și completarea anexei 2 a Hotărârii Consiliul Local Nr.41/28.10.2025",
+"short": "HCL Izvoarele nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-20",
+"latest": "2025-11-20",
+"portal": "http://izvoarele-ph.ro/index.php/consiliul-local/hotarari-cl/151-hotarari-consiliu-local-2025",
+"council": "prahova/izvoarele",
+"council_name": "Consiliul Local al Comunei Izvoarele",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

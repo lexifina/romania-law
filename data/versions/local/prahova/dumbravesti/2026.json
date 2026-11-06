@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--dumbravesti-75-2026",
+   "path": "local/prahova/dumbravesti/2026/75",
+   "short": "HCL Dumbrăvești nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 75/2026 privind modificarea Hotărârii Consiliului local al Comunei Dumbrăvești nr. 49 din 28.05.2026",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/285755",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/285755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-76-2026",
+   "path": "local/prahova/dumbravesti/2026/76",
+   "short": "HCL Dumbrăvești nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 76/2026 privind aprobarea Contractului de delegare a gestiunii Serviciului comunitar de utilitate publică - Transport public local de persoane prin curse regulate pe raza comunei Dumbrăvești",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/286522",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/286522",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--dumbravesti-77-2026",
    "path": "local/prahova/dumbravesti/2026/77",
    "short": "HCL Dumbrăvești nr. 77/2026",
@@ -78,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--dumbravesti-80-2026",
+   "path": "local/prahova/dumbravesti/2026/80",
+   "short": "HCL Dumbrăvești nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 80/2026 privind aprobarea implementării proiectului „ACHIZIȚIE AUTOVEHICUL” și a indicatorilor tehnico-economici aferenți proiectului",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/287508",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/287508",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--dumbravesti-81-2026",
    "path": "local/prahova/dumbravesti/2026/81",
    "short": "HCL Dumbrăvești nr. 81/2026",
@@ -88,6 +133,96 @@
      "from": "2026-10-05",
      "units": 1,
      "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/288984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-82-2026",
+   "path": "local/prahova/dumbravesti/2026/82",
+   "short": "HCL Dumbrăvești nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 82/2026",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/290699",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/290699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-83-2026",
+   "path": "local/prahova/dumbravesti/2026/83",
+   "short": "HCL Dumbrăvești nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 83/2026",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/290700",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/290700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-84-2026",
+   "path": "local/prahova/dumbravesti/2026/84",
+   "short": "HCL Dumbrăvești nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 84/2026",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/290701",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/290701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-85-2026",
+   "path": "local/prahova/dumbravesti/2026/85",
+   "short": "HCL Dumbrăvești nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 85/2026 privind aprobarea finalizării proiectului „Rețele canalizare în satele Plopeni, Găvănel, Dumbrăvești, Mălăeștii de Jos, comuna Dumbrăvești, județul Prahova”, cod proiect C1I100I22000028, finanțat în cadrul programului Planul Național de Redresare și Reziliență prin apelul nr PNRR/2022/C1/I1, precum și asigurarea sustenabilității investiției",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/290702",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/290702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-86-2026",
+   "path": "local/prahova/dumbravesti/2026/86",
+   "short": "HCL Dumbrăvești nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 86/2026 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții „Renovare integrată Grădinița cu program normal, comuna Dumbrăvești”, inclus la finanțare în Programul național de investiții \"Școli sigure și sănătoase\"",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/290703",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/290703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-87-2026",
+   "path": "local/prahova/dumbravesti/2026/87",
+   "short": "HCL Dumbrăvești nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 87/2026 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții „Renovare integrată Școala Gimnazială, Sat Plopeni, comuna Dumbrăvești”, inclus la finanțare în Programul național de investiții \"Școli sigure și sănătoase\"",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/290704",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/290704",
      "sha256": null
     }
    ]
@@ -133,6 +268,36 @@
      "from": "2026-11-06",
      "units": 1,
      "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/296053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-91-2026",
+   "path": "local/prahova/dumbravesti/2026/91",
+   "short": "HCL Dumbrăvești nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 91/2026",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/296054",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/296054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-92-2026",
+   "path": "local/prahova/dumbravesti/2026/92",
+   "short": "HCL Dumbrăvești nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 92/2026",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/296055",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/296055",
      "sha256": null
     }
    ]

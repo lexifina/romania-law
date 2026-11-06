@@ -113,6 +113,138 @@
 }
 },
 {
+"slug": "hcl-neamt--margineni-44-2020",
+"path": "local/neamt/margineni/2020/44",
+"kind": "local",
+"year": "2020",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 44/2020 privind alegerea președintelui de ședință pentru luna Octombrie 2020",
+"short": "HCL Mărgineni nr. 44/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-22",
+"latest": "2020-10-22",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/39007",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--margineni-45-2020",
+"path": "local/neamt/margineni/2020/45",
+"kind": "local",
+"year": "2020",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 45/2020 privind aprobarea obiectivului de investiții și implementării proiectului cu tema: Achiziția de echipamente din domeniul tehnologiei-IT mobile, respectiv tablete, echipamente și dipozitive necesare activității didactice pentru elevii, și cadrele didactice din învățământul preuniversitar, Comuna Mărgineni, Județul Neamț”",
+"short": "HCL Mărgineni nr. 45/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-22",
+"latest": "2020-10-22",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/39008",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--margineni-46-2020",
+"path": "local/neamt/margineni/2020/46",
+"kind": "local",
+"year": "2020",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 46/2020 privind aprobarea înființării Unității de Implementare a Proiectului (UIP) ” Achiziția de echipamente din domeniul tehnologiei-IT mobile, respectiv tablete, echipamente și dispozitive necesare activității didactice pentru elevii și cadrele didactice din învățământul preuniversitar, Comuna Mărgineni, Județul Neamț”",
+"short": "HCL Mărgineni nr. 46/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-22",
+"latest": "2020-10-22",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/39009",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--margineni-48-2020",
+"path": "local/neamt/margineni/2020/48",
+"kind": "local",
+"year": "2020",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 48/2020 privind alegerea președintelui de ședință pentru lunile Noiembrie și Decembrie 2020",
+"short": "HCL Mărgineni nr. 48/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-12",
+"latest": "2020-11-12",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/27563",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--margineni-49-2020",
+"path": "local/neamt/margineni/2020/49",
+"kind": "local",
+"year": "2020",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 49/2020 privind alegerea viceprimarului",
+"short": "HCL Mărgineni nr. 49/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-12",
+"latest": "2020-11-12",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/27564",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--margineni-50-2020",
+"path": "local/neamt/margineni/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 50/2020 privind organizarea comisiilor de specialitate ale Consiliului local al Comunei Mărgineni pe principalele domenii de activitate",
+"short": "HCL Mărgineni nr. 50/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-12",
+"latest": "2020-11-12",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/27565",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--margineni-51-2020",
 "path": "local/neamt/margineni/2020/51",
 "kind": "local",
@@ -132,6 +264,50 @@
 "council_name": "Consiliul Local al Comunei Mărgineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--margineni-52-2020",
+"path": "local/neamt/margineni/2020/52",
+"kind": "local",
+"year": "2020",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 52/2020 privind alocarea unor sume din bugetul local în vederea acordării de pachete cu dulciuri pentru copii, cu ocazia Sfintelor sărbători de Crăciun și Anul Nou",
+"short": "HCL Mărgineni nr. 52/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/28012",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--margineni-53-2020",
+"path": "local/neamt/margineni/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 53/2020 privind respingerea solicitării, anulării unor obligații de plată accesorii",
+"short": "HCL Mărgineni nr. 53/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/28013",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +333,29 @@
 }
 },
 {
+"slug": "hcl-neamt--margineni-55-2020",
+"path": "local/neamt/margineni/2020/55",
+"kind": "local",
+"year": "2020",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 55/2020",
+"short": "HCL Mărgineni nr. 55/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/28015",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--margineni-56-2020",
 "path": "local/neamt/margineni/2020/56",
 "kind": "local",
@@ -176,6 +375,73 @@
 "council_name": "Consiliul Local al Comunei Mărgineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--margineni-57-2020",
+"path": "local/neamt/margineni/2020/57",
+"kind": "local",
+"year": "2020",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 57/2020 privind aprobarea stabilirii taxei de salubritate la nivelul Comunei Mărgineni, pentru persoanele fizice și juridice, pe anul 2021",
+"short": "HCL Mărgineni nr. 57/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/28017",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--margineni-58-2020",
+"path": "local/neamt/margineni/2020/58",
+"kind": "local",
+"year": "2020",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 58/2020",
+"short": "HCL Mărgineni nr. 58/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/28018",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--margineni-59-2020",
+"path": "local/neamt/margineni/2020/59",
+"kind": "local",
+"year": "2020",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 59/2020 privind alegerea președintelui de ședință pentru lunile Ianuarie, Februarie și Martie 2021",
+"short": "HCL Mărgineni nr. 59/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/28019",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

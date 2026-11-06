@@ -3,6 +3,36 @@
  "shard": "local/neamt/secuieni/2022",
  "acts": [
   {
+   "slug": "hcl-neamt--secuieni-76-2022",
+   "path": "local/neamt/secuieni/2022/76",
+   "short": "HCL Secuieni nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 76/2022",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/78586",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/78586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-77-2022",
+   "path": "local/neamt/secuieni/2022/77",
+   "short": "HCL Secuieni nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 77/2022 privind dezmembrarea unei suprafețe de teren situate în intravilanul satului Secuieni aflat în domeniul public al comunei Secuieni, județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/78587",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/78587",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--secuieni-78-2022",
    "path": "local/neamt/secuieni/2022/78",
    "short": "HCL Secuieni nr. 78/2022",
@@ -63,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--secuieni-82-2022",
+   "path": "local/neamt/secuieni/2022/82",
+   "short": "HCL Secuieni nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 82/2022 privind rezilierea contractului de concesiune nr.3181 din 25.06.2013, privind închirierea suprafețelor de pajiști aflate în domeniul privat al comunei Secuieni, județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/81850",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/81850",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--secuieni-83-2022",
    "path": "local/neamt/secuieni/2022/83",
    "short": "HCL Secuieni nr. 83/2022",
@@ -88,6 +133,21 @@
      "from": "2022-11-29",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-nt/registru-hcl/81852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-85-2022",
+   "path": "local/neamt/secuieni/2022/85",
+   "short": "HCL Secuieni nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 85/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/83688",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/83688",
      "sha256": null
     }
    ]

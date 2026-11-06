@@ -3,6 +3,201 @@
  "shard": "local/prahova/magurele/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--magurele-28-2025",
+   "path": "local/prahova/magurele/2025/28",
+   "short": "HCL Măgurele nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 28/2025 privind utilizarea excedentului bugetului local rezultat la 31.12.2024 pentru efectuarea unor cheltuieli bugetare în cursul anului 2025",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/219902",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/219902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-29-2025",
+   "path": "local/prahova/magurele/2025/29",
+   "short": "HCL Măgurele nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 29/2025 privind alegerea președintelui de ședință și a potențialului președinte de ședință pentru lunile septembrie-noiembrie 2025",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/228855",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/228855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-30-2025",
+   "path": "local/prahova/magurele/2025/30",
+   "short": "HCL Măgurele nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 30/2025 privind desemnarea reprezentantilor Consiliului Local al comunei Măgurele în cadrul Consiliului de administrație al Școlii Gimnaziale comuna Măgurele pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/228856",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/228856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-31-2025",
+   "path": "local/prahova/magurele/2025/31",
+   "short": "HCL Măgurele nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 31/2025 privind desemnarea reprezentantului Consiliului Local al comunei Măgurele în Comisia de evaluare și asigurarea calității din Școala Gimnazială comuna Măgurele",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/228857",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/228857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-32-2025",
+   "path": "local/prahova/magurele/2025/32",
+   "short": "HCL Măgurele nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 32/2025 privind modificarea Anexei Hotărârii Consiliului local Măgurele nr.17 din 24.03.2021 referitoare la aprobarea încheierii unui acord de parteneriat pentru realizarea obiectivului de investiții „Variantă ocolitoare Vălenii de Munte”",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/228858",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/228858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-33-2025",
+   "path": "local/prahova/magurele/2025/33",
+   "short": "HCL Măgurele nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 33/2025 privind rectificarea bugetului local al comunei Măgurele pe anul 2025",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/233484",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/233484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-34-2025",
+   "path": "local/prahova/magurele/2025/34",
+   "short": "HCL Măgurele nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 34/2025 privind încheierea contului de execuție bugetară la data de 30.06.2025",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/233485",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/233485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-35-2025",
+   "path": "local/prahova/magurele/2025/35",
+   "short": "HCL Măgurele nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 35/2025 privind aprobarea drepturilor bănești aferente personalului didactic care solicită cheltuieli pentru deplasarea din localitatea de reședință la locul de muncă și de la locul de muncă în localitatea de reședință pentru luna septembrie 2025",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/233486",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/233486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-36-2025",
+   "path": "local/prahova/magurele/2025/36",
+   "short": "HCL Măgurele nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 36/2025 privind utilizarea excedentului bugetului local rezultat la 31.12.2024 pentru efectuarea unor cheltuieli bugetare în cursul anului 2025",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/233487",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/233487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-37-2025",
+   "path": "local/prahova/magurele/2025/37",
+   "short": "HCL Măgurele nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 37/2025",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/233488",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/233488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-38-2025",
+   "path": "local/prahova/magurele/2025/38",
+   "short": "HCL Măgurele nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 38/2025 privind aprobarea atribuirii în folosinţă şi încheierea unui contract de comodat pentru spaţiul în care va funcţiona sediul social al Asociației \" Club Sportiv Voința 2000 Măgurele Prahova \"",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/234492",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/234492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-39-2025",
+   "path": "local/prahova/magurele/2025/39",
+   "short": "HCL Măgurele nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 39/2025 privind alegerea președintelui de ședință și a potențialului președinte de ședință pentru lunile decembrie 2025-februarie 2026",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/242031",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/242031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-40-2025",
+   "path": "local/prahova/magurele/2025/40",
+   "short": "HCL Măgurele nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 40/2025 privind aprobarea modificării și completării organigramei și a ștatului de funcții al aparatului de specialitate al primarului comunei Măgurele",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/242032",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/242032",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magurele-41-2025",
    "path": "local/prahova/magurele/2025/41",
    "short": "HCL Măgurele nr. 41/2025",
@@ -13,6 +208,96 @@
      "from": "2025-12-16",
      "units": 1,
      "source_url": "https://emol.ro/magurele-ph/registru-hcl/242033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-42-2025",
+   "path": "local/prahova/magurele/2025/42",
+   "short": "HCL Măgurele nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 42/2025 privind aprobarea drepturilor bănești aferente personalului didactic care solicită cheltuieli pentru deplasarea din localitatea de reședință la locul de muncă și de la locul de muncă în localitatea de reședință pentru luna noiembrie 2025",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/242034",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/242034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-43-2025",
+   "path": "local/prahova/magurele/2025/43",
+   "short": "HCL Măgurele nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 43/2025 privind aprobarea Planului de măsuri necesare pentru interzicerea abandonării, aruncării necontrolate a deşeurilor sau gestionării neconforme cu ierarhia deşeurilor, pe raza comunei Măgurele, județul Prahova",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/242035",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/242035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-44-2025",
+   "path": "local/prahova/magurele/2025/44",
+   "short": "HCL Măgurele nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 44/2025 privind rectificarea bugetului local al comunei Măgurele pe anul 2025",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/242036",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/242036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-45-2025",
+   "path": "local/prahova/magurele/2025/45",
+   "short": "HCL Măgurele nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 45/2025 privind aprobarea Regulamentului de organizare și funcționare al Sălii de Sport școlare din comuna Măgurele, Județul Prahova",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/242037",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/242037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-46-2025",
+   "path": "local/prahova/magurele/2025/46",
+   "short": "HCL Măgurele nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 46/2025 privind încheierea contului de execuție bugetară la data de 30.09.2025",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/242038",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/242038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-47-2025",
+   "path": "local/prahova/magurele/2025/47",
+   "short": "HCL Măgurele nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 47/2025 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2026",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/244301",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/244301",
      "sha256": null
     }
    ]

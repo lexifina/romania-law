@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/gura-vadului/2024",
+ "acts": [
+  {
+   "slug": "hcl-prahova--gura-vadului-3-2024",
+   "path": "local/prahova/gura-vadului/2024/3",
+   "short": "HCL Gura Vadului nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Vadului nr. 3/2024",
+   "url": "https://www.comunaguravadului.ro/wp-content/uploads/2024/04/alrgeri-locale-2024-15-57-16-04-24-hot-3-b.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://www.comunaguravadului.ro/wp-content/uploads/2024/04/alrgeri-locale-2024-15-57-16-04-24-hot-3-b.pdf",
+     "sha256": "8a122b73781ab504170346cf0105138f6e0e6d931d8ff2bcf525495428c4f4a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--gura-vadului-4-2024",
+   "path": "local/prahova/gura-vadului/2024/4",
+   "short": "HCL Gura Vadului nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Vadului nr. 4/2024",
+   "url": "https://www.comunaguravadului.ro/wp-content/uploads/2024/04/alrgeri-locale-2024-06-59-22-05-24-hot-4-2.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://www.comunaguravadului.ro/wp-content/uploads/2024/04/alrgeri-locale-2024-06-59-22-05-24-hot-4-2.pdf",
+     "sha256": "c7e802a8336867ab9a5424c6a9bb7e80e0c033705fab095d829b8cbafe9792d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--gura-vadului-6-2024",
+   "path": "local/prahova/gura-vadului/2024/6",
+   "short": "HCL Gura Vadului nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Vadului nr. 6/2024",
+   "url": "https://www.comunaguravadului.ro/wp-content/uploads/2024/04/alegeri-2024-06-32-42-06-24-hot-8-2.pdf",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://www.comunaguravadului.ro/wp-content/uploads/2024/04/alegeri-2024-06-32-42-06-24-hot-8-2.pdf",
+     "sha256": "5c462f84275888e7647a0a6b96171e61bf7648430238f4b92168d5f23f8eec09"
+    }
+   ]
+  }
+ ]
+}

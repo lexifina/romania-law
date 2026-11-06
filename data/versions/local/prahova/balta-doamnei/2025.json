@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--balta-doamnei-35-2025",
+   "path": "local/prahova/balta-doamnei/2025/35",
+   "short": "HCL Balta Doamnei nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 35/2025 privind aprobarea acordării unui sprijin financiar de la bugetul local al comunei Balta Doamnei, județul Prahova, Parohiei Lacul Turcului, satul Lacu Turcului, Comuna Balta Doamnei",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233216",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233216",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--balta-doamnei-36-2025",
    "path": "local/prahova/balta-doamnei/2025/36",
    "short": "HCL Balta Doamnei nr. 36/2025",
@@ -138,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--balta-doamnei-44-2025",
+   "path": "local/prahova/balta-doamnei/2025/44",
+   "short": "HCL Balta Doamnei nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 44/2025 privind aprobarea rezilierii contractului de închiriere încheiat cu SC IMPEX SRL privind suprafața de 111.700 mp teren, situată în extravilanul comunei, tarla 38, parcela HB 366",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/244071",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/244071",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--balta-doamnei-45-2025",
    "path": "local/prahova/balta-doamnei/2025/45",
    "short": "HCL Balta Doamnei nr. 45/2025",
@@ -193,6 +223,21 @@
      "from": "2026-01-05",
      "units": 1,
      "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/245428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-49-2025",
+   "path": "local/prahova/balta-doamnei/2025/49",
+   "short": "HCL Balta Doamnei nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 49/2025 privind aprobarea inventarierii în domeniul privat a terenului situat în comuna Balta Doamnei, satul Balta Doamnei, limitrof râului Ialomița, tarlaua 41- Np 412 și a construcțiilor aflate pe acesta",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/245429",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/245429",
      "sha256": null
     }
    ]

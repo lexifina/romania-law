@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--blejoi-69-2021",
+   "path": "local/prahova/blejoi/2021/69",
+   "short": "HCL Blejoi nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 69/2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/56334",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/56334",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--blejoi-70-2021",
    "path": "local/prahova/blejoi/2021/70",
    "short": "HCL Blejoi nr. 70/2021",
@@ -88,6 +103,21 @@
      "from": "2022-04-07",
      "units": 1,
      "source_url": "https://emol.ro/blejoi-ph/registru-hcl/56359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-74-2021",
+   "path": "local/prahova/blejoi/2021/74",
+   "short": "HCL Blejoi nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 74/2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/56360",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/56360",
      "sha256": null
     }
    ]
@@ -223,6 +253,21 @@
      "from": "2022-04-07",
      "units": 1,
      "source_url": "https://emol.ro/blejoi-ph/registru-hcl/56409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-84-2021",
+   "path": "local/prahova/blejoi/2021/84",
+   "short": "HCL Blejoi nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 84/2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/56410",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/56410",
      "sha256": null
     }
    ]

@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Tupilați nr. 31/2024 privind aprobarea Documentaţiei cadastrale de dezmembrare a imobilului-teren extravilan situat in Tarla ”Inat III”, UAT Tupilati în suprafață de 31278 m.p. avand număr cadastral 52562
+
+HCL Tupilați nr. 31/2024 · 1 versions, from 2024-08-02 (latest in force: 2024-08-02) · <https://emol.ro/tupilati-nt/registru-hcl/169158>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-neamt--tupilati-31-2024` (tags `hcl-neamt--tupilati-31-2024/<day>`; `python tools/on.py <day> hcl-neamt--tupilati-31-2024`).
+
+## Decisions made by hand
+
+- HCL Tupilați nr. 31/2024: listed from Consiliul Local al Comunei Tupilați (emol.ro); an individual decision: metadata only.
+- HCL Tupilați nr. 31/2024: dated from 2 August 2024, the day it was adopted (the register gives no later day of publication).
+- HCL Tupilați nr. 31/2024: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

@@ -3,6 +3,126 @@
  "shard": "local/neamt/urecheni/2023",
  "acts": [
   {
+   "slug": "hcl-neamt--urecheni-75-2023",
+   "path": "local/neamt/urecheni/2023/75",
+   "short": "HCL Urecheni nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 75/2023 privind rectificarea bugetului local al comunei Urecheni pe anul 2023",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/128319",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/128319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-76-2023",
+   "path": "local/neamt/urecheni/2023/76",
+   "short": "HCL Urecheni nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 76/2023 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Urecheni începând cu 01 noiembrie 2023, în conformitate cu Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilităţii financiare a României pe termen lung",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/128320",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/128320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-77-2023",
+   "path": "local/neamt/urecheni/2023/77",
+   "short": "HCL Urecheni nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 77/2023 privind alegerea preşedintelui de şedinţa pentru luna Decembrie 2023",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/131323",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/131323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-78-2023",
+   "path": "local/neamt/urecheni/2023/78",
+   "short": "HCL Urecheni nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 78/2023 privind rectificarea bugetului local al comunei Urecheni pe anul 2023",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/131324",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/131324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-79-2023",
+   "path": "local/neamt/urecheni/2023/79",
+   "short": "HCL Urecheni nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 79/2023 privind aprobarea contului executiei bugetului local al comunei URECHENI pe trimestrul IV, 2023",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/131325",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/131325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-80-2023",
+   "path": "local/neamt/urecheni/2023/80",
+   "short": "HCL Urecheni nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 80/2023 privind aprobarea inventarierii masei impozabile pentru anul fiscal 2024",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/131326",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/131326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-81-2023",
+   "path": "local/neamt/urecheni/2023/81",
+   "short": "HCL Urecheni nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 81/2023 privind alocarea unei sume de bani pentru achiziționarea unor dulciuri, fructe,sucuri naturale si alte produse specifice Sarbatorilor de iarna elevilor Școlii Gimnaziale Urecheni",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/131327",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/131327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-82-2023",
+   "path": "local/neamt/urecheni/2023/82",
+   "short": "HCL Urecheni nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 82/2023 privind stabilirea consumului lunar de combustibil pentru autoturismele, masinile si utilajele apartinand Primariei Urecheni",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/131328",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/131328",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--urecheni-83-2023",
    "path": "local/neamt/urecheni/2023/83",
    "short": "HCL Urecheni nr. 83/2023",
@@ -13,6 +133,171 @@
      "from": "2023-11-29",
      "units": 1,
      "source_url": "https://emol.ro/urecheni-nt/registru-hcl/131329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-84-2023",
+   "path": "local/neamt/urecheni/2023/84",
+   "short": "HCL Urecheni nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 84/2023 privind retragerea comunei Gâdinți din cadrul Asociației de Dezvoltare Intercomunitară Aqua Neamț și modificarea Statutului Asociaţiei de Dezvoltare Intercomunitară ”AQUA NEAMŢ”",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/132249",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/132249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-85-2023",
+   "path": "local/neamt/urecheni/2023/85",
+   "short": "HCL Urecheni nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 85/2023 privind acordarea unui mandat special reprezentantului legal al Comunei Urecheni in Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara “ PROTECTIA ANIMALELOR NEAMT”",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/132250",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/132250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-86-2023",
+   "path": "local/neamt/urecheni/2023/86",
+   "short": "HCL Urecheni nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 86/2023 privind actualizarea statului de funcţii a aparatului de specialitate al primarului comunei Urecheni, județul Neamț",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/132251",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/132251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-87-2023",
+   "path": "local/neamt/urecheni/2023/87",
+   "short": "HCL Urecheni nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 87/2023 privind aprobarea încheierii unui contract de comodat pentru utilizarea unui spatiu cu destinatie cabinet medical individual din incinta Dispensarului uman Urecheni",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/132252",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/132252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-88-2023",
+   "path": "local/neamt/urecheni/2023/88",
+   "short": "HCL Urecheni nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 88/2023 privind alegerea preşedintelui de şedinţa pentru luna Ianuarie 2024",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/132253",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/132253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-89-2023",
+   "path": "local/neamt/urecheni/2023/89",
+   "short": "HCL Urecheni nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 89/2023 privind acordarea unui mandat special reprezentantului Comunei Urecheni în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „ECONEAMȚ”",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/134315",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/134315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-90-2023",
+   "path": "local/neamt/urecheni/2023/90",
+   "short": "HCL Urecheni nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 90/2023 privind acordarea unui mandat special reprezentantului Comunei Urecheni în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „ECONEAMȚ”",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/134316",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/134316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-91-2023",
+   "path": "local/neamt/urecheni/2023/91",
+   "short": "HCL Urecheni nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 91/2023 privind rectificarea bugetului local al comunei Urecheni pe anul 2023",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/134317",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/134317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-92-2023",
+   "path": "local/neamt/urecheni/2023/92",
+   "short": "HCL Urecheni nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 92/2023 privind organizarea retelei scolare pe teritoriul comunei Urecheni in anul scolar 2024-2025",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/135923",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/135923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-93-2023",
+   "path": "local/neamt/urecheni/2023/93",
+   "short": "HCL Urecheni nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 93/2023 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului sectiunii de dezvoltare, pentru anul 2023",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/135924",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/135924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-94-2023",
+   "path": "local/neamt/urecheni/2023/94",
+   "short": "HCL Urecheni nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 94/2023 privind aprobarea indexarii cu 5% a salariilor functionarilor publici si personalului contractual din aparatul de specialitate al primarului comunei Urecheni, judetul Neamt, incepand cu 01.01.2024",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/135925",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/135925",
      "sha256": null
     }
    ]

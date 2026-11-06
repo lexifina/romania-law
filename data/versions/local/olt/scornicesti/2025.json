@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/olt/scornicesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-olt--scornicesti-87-2025",
+   "path": "local/olt/scornicesti/2025/87",
+   "short": "HCL Scornicești nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Scornicești nr. 87/2025",
+   "url": "https://www.primariascornicesti.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://www.primariascornicesti.ro/wp-content/uploads/2026/09/HCL-87.24.12.2025.pdf",
+     "sha256": "27b543eb1614ddd8544454eb729e2e4dbc214705d21c5a23570d7ffa03e85aba"
+    }
+   ]
+  }
+ ]
+}

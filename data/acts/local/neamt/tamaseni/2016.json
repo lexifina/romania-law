@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/neamt/tamaseni/2016",
+"acts": [
+{
+"slug": "hcl-neamt--tamaseni-1-2016",
+"path": "local/neamt/tamaseni/2016/1",
+"kind": "local",
+"year": "2016",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tămășeni nr. 1/2016 privind alegerea preqedintelui de gedinfi Consiliul Local al comunei Tdmdgeni, judetul Neam! intrunit in qedinff, ordinard in data de 31 ianuarie 2016 VizAnd propunera lacutd de cetre consilierii locali privind alegerea pregedintelui de gedinld,aprobatd prin votul deschis al majoritilii consilierilor locali in func{ie AvAnd in vedere prevederile art.35 alin-1, art.4l, art. 45 alin.1 $i art.l l5 al",
+"short": "HCL Tămășeni nr. 1/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-01-31",
+"latest": "2016-01-31",
+"portal": "http://www.comunatamaseni.ro/monitor-local/arhiva-hcl-tamaseni-2016.html",
+"council": "neamt/tamaseni",
+"council_name": "Consiliul Local al Comunei Tămășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tamaseni-5-2016",
+"path": "local/neamt/tamaseni/2016/5",
+"kind": "local",
+"year": "2016",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tămășeni nr. 5/2016 Privind aprobarea indicatorilor tehnico-economici actualiza{i pentru obiectivul de investifii ,,RETEA STRADALA, COMUNA TAMA$ENI, JUDETUL NEAMT\" Consiliul Local al comunei T[mdseni intrunit in sedintd de indati, in data de 3l ianuarie 2016 ora 14.00 AvAnd in vedere: - prevederile art.46 alh.3 din Legea nr 27312006 - privind finanlele publice locale. - prevederile HG nr. 2812008 privind aprobarea st",
+"short": "HCL Tămășeni nr. 5/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-01-31",
+"latest": "2016-01-31",
+"portal": "http://www.comunatamaseni.ro/monitor-local/arhiva-hcl-tamaseni-2016.html",
+"council": "neamt/tamaseni",
+"council_name": "Consiliul Local al Comunei Tămășeni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

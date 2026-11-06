@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--gadinti-62-2022",
+   "path": "local/neamt/gadinti/2022/62",
+   "short": "HCL Gâdinți nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 62/2022 privind aprobarea normativelor proprii de cheltuieli pentru consumul de carburant",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/79511",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/79511",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--gadinti-63-2022",
    "path": "local/neamt/gadinti/2022/63",
    "short": "HCL Gâdinți nr. 63/2022",
@@ -133,6 +148,36 @@
      "from": "2022-12-22",
      "units": 1,
      "source_url": "https://emol.ro/gadinti-nt/registru-hcl/82810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-64-2022",
+   "path": "local/neamt/gadinti/2022/64",
+   "short": "HCL Gâdinți nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 64/2022 privind aprobarea execuției bugetare pentru trimestrul IV al anului 2022",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/82811",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/82811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-65-2022",
+   "path": "local/neamt/gadinti/2022/65",
+   "short": "HCL Gâdinți nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 65/2022 privind aprobarea rectificării bugetului local pe anul 2022",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/82812",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/82812",
      "sha256": null
     }
    ]
@@ -153,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--gadinti-67-2022",
+   "path": "local/neamt/gadinti/2022/67",
+   "short": "HCL Gâdinți nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 67/2022 privind aprobarea scoaterii din evidența contabilă a obiectivului ”Înființare rețea de distribuție gaze naturale, în comuna Gâdinți, județul Neamț”",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/82814",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/82814",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--gadinti-68-2022",
    "path": "local/neamt/gadinti/2022/68",
    "short": "HCL Gâdinți nr. 68/2022",
@@ -168,6 +228,51 @@
    ]
   },
   {
+   "slug": "hcl-neamt--gadinti-69-2022",
+   "path": "local/neamt/gadinti/2022/69",
+   "short": "HCL Gâdinți nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 69/2022",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/82816",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/82816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-70-2022",
+   "path": "local/neamt/gadinti/2022/70",
+   "short": "HCL Gâdinți nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 70/2022 privind aprobarea Planului anual de acţiuni sau de lucrări de interes local pe baza căruia beneficiarii de ajutor social vor efectua orele de muncă prevăzute de Legea nr. 416/2001 privind venitul minim garantat",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/82817",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/82817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-71-2022",
+   "path": "local/neamt/gadinti/2022/71",
+   "short": "HCL Gâdinți nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 71/2022 privind aprobarea rectificării bugetului local pe anul 2022",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/83954",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/83954",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--gadinti-72-2022",
    "path": "local/neamt/gadinti/2022/72",
    "short": "HCL Gâdinți nr. 72/2022",
@@ -178,6 +283,21 @@
      "from": "2022-12-30",
      "units": 1,
      "source_url": "https://emol.ro/gadinti-nt/registru-hcl/83955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-73-2022",
+   "path": "local/neamt/gadinti/2022/73",
+   "short": "HCL Gâdinți nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 73/2022 privind aprobarea Statutului comunei Gâdinți , județul Neamț",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/83956",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/83956",
      "sha256": null
     }
    ]

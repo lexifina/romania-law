@@ -18,6 +18,51 @@
    ]
   },
   {
+   "slug": "hcl-olt--bals-10-2025",
+   "path": "local/olt/bals/2025/10",
+   "short": "HCL Balș nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 10/2025 Alegerea președintelui de ședință al Consiliului Local al Orașului Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94059",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-15-2025",
+   "path": "local/olt/bals/2025/15",
+   "short": "HCL Balș nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 15/2025 Aprobarea contributiei din bugetul local pentru implementarea proiectului “Experienta Reala, Succes Real: Un Proiect de Practica pentru elevi” ID Mysmis 316937 și a cheltuielilor legate de proiect",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94331",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-18-2025",
+   "path": "local/olt/bals/2025/18",
+   "short": "HCL Balș nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 18/2025 Atestarea inventarului bunurilor care alcătuiesc domeniul privat al orașului Balș, județul Olt",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94330",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94330",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bals-2-2025",
    "path": "local/olt/bals/2025/2",
    "short": "HCL Balș nr. 2/2025",
@@ -44,6 +89,21 @@
      "units": 1,
      "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24f8GkwcDEQdhnVZf3PI0Ab.bCrJoXDQu4Va02dcOvNqkUquOtATDgy/4284",
      "sha256": "f8f078006989c76a9becdacdb64dca3759f026341483b9c010edf481e5260a76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-21-2025",
+   "path": "local/olt/bals/2025/21",
+   "short": "HCL Balș nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 21/2025 Reorganizarea Serviciului Public Comunitar de Evidența Persoanelor din subordinea Consiliului Local al Orașului Balș,aprobarea organigramei,statului de funcții și Regulamentul de organizare și funcționare a Serviciului Public Comunitar de Evidența Persoanelor Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#93902",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#93902",
+     "sha256": null
     }
    ]
   },
@@ -108,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--bals-22-2025",
+   "path": "local/olt/bals/2025/22",
+   "short": "HCL Balș nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 22/2025 Reorganizarea aparatului de specialitate al primarului Orașului Balș și a serviciilor publice din subordinea Consiliului Local Balș, aprobarea organigramei, statului de funcții, numărului de personal, Regulamentului de organizare și funcționare",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94323",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94323",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bals-220-2025",
    "path": "local/olt/bals/2025/220",
    "short": "HCL Balș nr. 220/2025",
@@ -149,6 +224,501 @@
      "units": 1,
      "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24SMqbHx8gDDfMQLMFAs6Bmu6z7Su1HzsXkI8fNJBfChG/X5yQLpFWe/4284",
      "sha256": "6abe50c613a2931074dc0a91bd4b33fdea2a0f6f49f2e2a3ad570820448f510f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-23-2025",
+   "path": "local/olt/bals/2025/23",
+   "short": "HCL Balș nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 23/2025 Aprobarea încheierii unui contract de tranzacție în vederea soluționării dosarului de faliment nr.4630/104/2011,aflat pe rolul Tribunalului Olt",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94334",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-24-2025",
+   "path": "local/olt/bals/2025/24",
+   "short": "HCL Balș nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 24/2025 Aprobarea componenței Grupului de Inițiativă Locală (GIL),a Grupului de Lucru Local (GLL), a Regulamentului de Organizare și Funcționare al Grupului de Lucru Local (GLL) la nivelul orașului Balș pentru perioada 2024 - 2025",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94337",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-25-2025",
+   "path": "local/olt/bals/2025/25",
+   "short": "HCL Balș nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 25/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-26-2025",
+   "path": "local/olt/bals/2025/26",
+   "short": "HCL Balș nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 26/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-27-2025",
+   "path": "local/olt/bals/2025/27",
+   "short": "HCL Balș nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 27/2025 ROF CL 2024-2028",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94031",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-29-2025",
+   "path": "local/olt/bals/2025/29",
+   "short": "HCL Balș nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 29/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-3-2025",
+   "path": "local/olt/bals/2025/3",
+   "short": "HCL Balș nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 3/2025 Aprobarea Acordului de parteneriat între Primăria Orașului Balș și Fundația Centrul Creștin Impact Oltenia Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94047",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-31-2025",
+   "path": "local/olt/bals/2025/31",
+   "short": "HCL Balș nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 31/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-32-2025",
+   "path": "local/olt/bals/2025/32",
+   "short": "HCL Balș nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 32/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-33-2025",
+   "path": "local/olt/bals/2025/33",
+   "short": "HCL Balș nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 33/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-38-2025",
+   "path": "local/olt/bals/2025/38",
+   "short": "HCL Balș nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 38/2025 Aprobarea și transpunerea în format GIS a Planului de mobilitate urbană durabilă a orașului Balș 2025-2035",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#96793",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#96793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-39-2025",
+   "path": "local/olt/bals/2025/39",
+   "short": "HCL Balș nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 39/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-4-2025",
+   "path": "local/olt/bals/2025/4",
+   "short": "HCL Balș nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 4/2025 Aprobarea Planului de dezvoltare a serviciilor sociale la nivelul orașului Balș,pentru perioada 2025-2029",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94036",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-40-2025",
+   "path": "local/olt/bals/2025/40",
+   "short": "HCL Balș nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 40/2025 Încetarea contractului de concesiune nr.7589/17.02.1999 încheiat între Consiliul Local Balș și SC Lămîița SRL Balș, modificarea și prelungirea pe o perioadă de 12 ani și 6 luni prin act adițional a contractului de concesiune nr.2/19.05.2000 încheiat între Consiliul Local Balș și SC Lămîița SRL Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#96801",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#96801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-41-2025",
+   "path": "local/olt/bals/2025/41",
+   "short": "HCL Balș nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 41/2025 Modificarea organigramei și a statului de funcții ale aparatului de specialitate al Primarului Orașului Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#96799",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#96799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-42-2025",
+   "path": "local/olt/bals/2025/42",
+   "short": "HCL Balș nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 42/2025 Modificarea organigramei și a statului de funcții ale Cabinetelor medicale școlare din cadrul Primăriei Orașului Balș prin desființarea postului vacant de mediator sanitar",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#96792",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#96792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-43-2025",
+   "path": "local/olt/bals/2025/43",
+   "short": "HCL Balș nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 43/2025 Modificarea organigramei și a statului de funcții ale Direcției de Asistență Socială Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#96790",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#96790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-44-2025",
+   "path": "local/olt/bals/2025/44",
+   "short": "HCL Balș nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 44/2025 Aprobarea procedurii privind modalitatea de intervenție a echipei mobile constituite la nivelul orașului Balș pentru intervenția de urgență în cazurile de violență domestică și stabilirea componenței echipei mobile",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#96787",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#96787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-45-2025",
+   "path": "local/olt/bals/2025/45",
+   "short": "HCL Balș nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 45/2025 Aprobarea constituirii Consiliului Comunitar Consultativ la nivelul orașului Balș,județul Olt și a Regulamentului de organizare și funcționare",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#96788",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#96788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-46-2025",
+   "path": "local/olt/bals/2025/46",
+   "short": "HCL Balș nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 46/2025 Înființarea societății comerciale PARC INDUSTRIAL BALȘ S.R.L",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#96802",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#96802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-47-2025",
+   "path": "local/olt/bals/2025/47",
+   "short": "HCL Balș nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 47/2025 Aprobarea Statului de funcții și a numărului de posturi pe anul 2025 ( anexa nr.1), cu modificările solicitate în raportul de specialitate, a organigramei ( anexa nr.2) și a structurii organizatorice ( anexa nr.3) pentru Spitalul Orășenesc Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#96804",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#96804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-5-2025",
+   "path": "local/olt/bals/2025/5",
+   "short": "HCL Balș nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 5/2025 Aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială,la nivelul orașului Balș,județul Olt, pentru anul 2025",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94037",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-50-2025",
+   "path": "local/olt/bals/2025/50",
+   "short": "HCL Balș nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 50/2025 Aprobarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții : ,,SISTEM DE SUPRAVEGHERE VIDEO ÎN ORAȘUL BALȘ, JUD.OLT,, în cadrul proiectului Asigurare de siteme TIC în orașul Balș,jud.Olt- Componenta: Sisteme de transport inteligente ITS, aprobat prin Contractul de finanțare nr.744/04.01.2023, în cadrul Planului Național de Redresare și Reziliență Componenta 10 – Fondul Local, I.1.2 – Asigurarea infrastructurii pentru transportul verde – ITS/alte infrastructuri TIC (sisteme inteligente de management urban/local) Titlu apel: PNRR/2022/C10/I1.2, Runda 1",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#97526",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#97526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-51-2025",
+   "path": "local/olt/bals/2025/51",
+   "short": "HCL Balș nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 51/2025 Actualizarea documentației tehnico-economice faza-DALI și a indicatorilor tehnico-economici în vederea realizării investiției ,,REABILITARE ȘI MODERNIZARE GRĂDINIȚA ION CREANGĂ ,,",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#97527",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#97527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-52-2025",
+   "path": "local/olt/bals/2025/52",
+   "short": "HCL Balș nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 52/2025 Aprobarea proiectului ,, ,,REABILITARE ȘI MODERNIZARE GRĂDINIȚA ION CREANGĂ ,, și a cheltuielilor legate de acesta",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#97528",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#97528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-6-2025",
+   "path": "local/olt/bals/2025/6",
+   "short": "HCL Balș nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 6/2025 Aprobarea Planului de acţiuni sau de lucrări de interes local pe anul 2025,pentru beneficiarii de venit minim de incluziune,conform Legii nr.196/2016 privind venitul minim de incluziune,cu modificările și completările ulterioare",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94038",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-64-2025",
+   "path": "local/olt/bals/2025/64",
+   "short": "HCL Balș nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 64/2025 Aprobarea atribuirii autorizației taxi nr. 70 pentru realizarea serviciului de transport persoane in regim de taxi, în orașul Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#98341",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#98341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-65-2025",
+   "path": "local/olt/bals/2025/65",
+   "short": "HCL Balș nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 65/2025 Revocarea Hotărârii Consiliului Local Balș nr.41/27.03.2025 privind modificarea organigramei și a statului de funcții ale aparatului de specialitate al Primarului Orașului Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#98350",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#98350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-68-2025",
+   "path": "local/olt/bals/2025/68",
+   "short": "HCL Balș nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 68/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-69-2025",
+   "path": "local/olt/bals/2025/69",
+   "short": "HCL Balș nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 69/2025 Alegerea președintelui de ședință al Consiliului Local al Orașului Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#98340",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#98340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-7-2025",
+   "path": "local/olt/bals/2025/7",
+   "short": "HCL Balș nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 7/2025 Stabilirea numărului de posturi de asistenți personali ai persoanelor cu handicap grav, la nivelul Primăriei orașului Balș,pentru anul 2025",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94039",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-75-2025",
+   "path": "local/olt/bals/2025/75",
+   "short": "HCL Balș nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 75/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-9-2025",
+   "path": "local/olt/bals/2025/9",
+   "short": "HCL Balș nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 9/2025 Modificarea organigramei și a statului de funcții la Cabinetele medicale școlare din cadrul Primăriei Orașului Balș prin transformarea unui post",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94051",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94051",
+     "sha256": null
     }
    ]
   },

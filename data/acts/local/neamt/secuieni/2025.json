@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-neamt--secuieni-115-2025",
+"path": "local/neamt/secuieni/2025/115",
+"kind": "local",
+"year": "2025",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 115/2025 privind însușirea și aprobarea documentației cadastrale de alipire a două suprafețe de teren situate în intravilanul comunei Secuieni ,satul Secuieni str. Tineretului, aparținând domeniului privat al comunei Secuieni, județul Neamț",
+"short": "HCL Secuieni nr. 115/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-22",
+"latest": "2026-05-22",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/237960",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--secuieni-116-2025",
 "path": "local/neamt/secuieni/2025/116",
 "kind": "local",
@@ -290,6 +312,28 @@
 }
 },
 {
+"slug": "hcl-neamt--secuieni-124-2025",
+"path": "local/neamt/secuieni/2025/124",
+"kind": "local",
+"year": "2025",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 124/2025 privind vânzarea prin licitație publică a unui volum de masa lemnoasă- pe picior din domeniul public al comunei Secuieni, județul Neamț , în afara fondului forestier",
+"short": "HCL Secuieni nr. 124/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-22",
+"latest": "2026-05-22",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/244124",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--secuieni-125-2025",
 "path": "local/neamt/secuieni/2025/125",
 "kind": "local",
@@ -309,6 +353,51 @@
 "council_name": "Consiliul Local al Comunei Secuieni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-126-2025",
+"path": "local/neamt/secuieni/2025/126",
+"kind": "local",
+"year": "2025",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 126/2025 privind scăderea a cinci persoane de la plata taxei de salubrizare la familia Sturzu Petrișor",
+"short": "HCL Secuieni nr. 126/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-22",
+"latest": "2026-05-22",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/244126",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-127-2025",
+"path": "local/neamt/secuieni/2025/127",
+"kind": "local",
+"year": "2025",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 127/2025",
+"short": "HCL Secuieni nr. 127/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-22",
+"latest": "2026-05-22",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/244127",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

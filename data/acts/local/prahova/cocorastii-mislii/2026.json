@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-prahova--cocorastii-mislii-84-2026",
+"path": "local/prahova/cocorastii-mislii/2026/84",
+"kind": "local",
+"year": "2026",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Mislii nr. 84/2026 privind decontarea cheltuielilor de transport pentru cadrele didactice care își desfășoară activitatea în comuna Cocorăștii Mislii pentru luna August 2026",
+"short": "HCL Cocorăștii Mislii nr. 84/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://emol.ro/cocorastiimislii-ph/registru-hcl/292276",
+"council": "prahova/cocorastii-mislii",
+"council_name": "Consiliul Local al Comunei Cocorăștii Mislii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--cocorastii-mislii-85-2026",
+"path": "local/prahova/cocorastii-mislii/2026/85",
+"kind": "local",
+"year": "2026",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Mislii nr. 85/2026 privind desemnarea reprezentanților Consiliului Local al Comunei Cocorăștii Mislii în comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor vacante de director și director adjunct din unitățile de învățământ preuniversitar de stat, sesiunea august-decembrie 2026",
+"short": "HCL Cocorăștii Mislii nr. 85/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://emol.ro/cocorastiimislii-ph/registru-hcl/292277",
+"council": "prahova/cocorastii-mislii",
+"council_name": "Consiliul Local al Comunei Cocorăștii Mislii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--cocorastii-mislii-86-2026",
 "path": "local/prahova/cocorastii-mislii/2026/86",
 "kind": "local",
@@ -70,6 +114,28 @@
 }
 },
 {
+"slug": "hcl-prahova--cocorastii-mislii-87-2026",
+"path": "local/prahova/cocorastii-mislii/2026/87",
+"kind": "local",
+"year": "2026",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Mislii nr. 87/2026 privind numirea în funcție a doi administratori neexecutivi profil general în consiliul de administrașie al societății SC APACOC MISLII SRL și reluarea procedurii de selecție și nominalizare pentru postul de administrator neexecutiv profil auditor",
+"short": "HCL Cocorăștii Mislii nr. 87/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/cocorastiimislii-ph/registru-hcl/293414",
+"council": "prahova/cocorastii-mislii",
+"council_name": "Consiliul Local al Comunei Cocorăștii Mislii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--cocorastii-mislii-88-2026",
 "path": "local/prahova/cocorastii-mislii/2026/88",
 "kind": "local",
@@ -89,6 +155,51 @@
 "council_name": "Consiliul Local al Comunei Cocorăștii Mislii",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--cocorastii-mislii-89-2026",
+"path": "local/prahova/cocorastii-mislii/2026/89",
+"kind": "local",
+"year": "2026",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Mislii nr. 89/2026 privind decontarea cheltuielilor de transport pentru cadrele didactice care își desfășoară activitatea în comuna Cocorăștii Mislii pentru luna Septembrie 2026",
+"short": "HCL Cocorăștii Mislii nr. 89/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/cocorastiimislii-ph/registru-hcl/296925",
+"council": "prahova/cocorastii-mislii",
+"council_name": "Consiliul Local al Comunei Cocorăștii Mislii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--cocorastii-mislii-90-2026",
+"path": "local/prahova/cocorastii-mislii/2026/90",
+"kind": "local",
+"year": "2026",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Mislii nr. 90/2026",
+"short": "HCL Cocorăștii Mislii nr. 90/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/cocorastiimislii-ph/registru-hcl/296926",
+"council": "prahova/cocorastii-mislii",
+"council_name": "Consiliul Local al Comunei Cocorăștii Mislii",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -133,6 +244,73 @@
 "council_name": "Consiliul Local al Comunei Cocorăștii Mislii",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--cocorastii-mislii-93-2026",
+"path": "local/prahova/cocorastii-mislii/2026/93",
+"kind": "local",
+"year": "2026",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Mislii nr. 93/2026",
+"short": "HCL Cocorăștii Mislii nr. 93/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/cocorastiimislii-ph/registru-hcl/296929",
+"council": "prahova/cocorastii-mislii",
+"council_name": "Consiliul Local al Comunei Cocorăștii Mislii",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--cocorastii-mislii-94-2026",
+"path": "local/prahova/cocorastii-mislii/2026/94",
+"kind": "local",
+"year": "2026",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Mislii nr. 94/2026 privind unui mandat special reprezentantului Comunei Cocorăștii Mislii în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Parteneriatul pentru Managementul Deșeurilor - Prahova”, în vederea votării ajustării tarifelor aferente contractului nr. 1884/15.04.2025 depus de operatorul Bin Go Solutions S.R.L",
+"short": "HCL Cocorăștii Mislii nr. 94/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/cocorastiimislii-ph/registru-hcl/296930",
+"council": "prahova/cocorastii-mislii",
+"council_name": "Consiliul Local al Comunei Cocorăștii Mislii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--cocorastii-mislii-95-2026",
+"path": "local/prahova/cocorastii-mislii/2026/95",
+"kind": "local",
+"year": "2026",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Mislii nr. 95/2026 privind alegerea președintelui de ședință",
+"short": "HCL Cocorăștii Mislii nr. 95/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/cocorastiimislii-ph/registru-hcl/296931",
+"council": "prahova/cocorastii-mislii",
+"council_name": "Consiliul Local al Comunei Cocorăștii Mislii",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

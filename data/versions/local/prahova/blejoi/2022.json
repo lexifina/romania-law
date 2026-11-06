@@ -286,6 +286,21 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-99-2022",
+   "path": "local/prahova/blejoi/2022/99",
+   "short": "HCL Blejoi nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 99/2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/84754",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/84754",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

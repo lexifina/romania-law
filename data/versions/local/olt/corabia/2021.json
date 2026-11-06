@@ -1,0 +1,1041 @@
+{
+ "country": "RO",
+ "shard": "local/olt/corabia/2021",
+ "acts": [
+  {
+   "slug": "hcl-olt--corabia-1-2021",
+   "path": "local/olt/corabia/2021/1",
+   "short": "HCL Corabia nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 1/2021 privind Ref. la acoperirea definitivă a deficitului bugetar la secțiunea de dezvoltare a bugetului local al orașului Corabia pe anul 2020",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43688",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-10-2021",
+   "path": "local/olt/corabia/2021/10",
+   "short": "HCL Corabia nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 10/2021 privind aprobarea Regulamentului de organizare și funcționare al Consiliul Local Corabia",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43720",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-11-2021",
+   "path": "local/olt/corabia/2021/11",
+   "short": "HCL Corabia nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 11/2021 privind indexarea și stabilirea impozitelor și taxelor locale pentru anul 2022",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43724",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-12-2021",
+   "path": "local/olt/corabia/2021/12",
+   "short": "HCL Corabia nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 12/2021 privind încheierea exercițiului bugetar pe trimestrul I al anului 2021",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43725",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-13-2021",
+   "path": "local/olt/corabia/2021/13",
+   "short": "HCL Corabia nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 13/2021 privind utilizarea excedentului bugetar la data de 31.12.2020",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43726",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-14-2021",
+   "path": "local/olt/corabia/2021/14",
+   "short": "HCL Corabia nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 14/2021 privind aprobarea bugetului local al orașului Corabia pe anul 2021",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43727",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-15-2021",
+   "path": "local/olt/corabia/2021/15",
+   "short": "HCL Corabia nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 15/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43740",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-16-2021",
+   "path": "local/olt/corabia/2021/16",
+   "short": "HCL Corabia nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 16/2021 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al Primarului orașului Corabia",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43741",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-17-2021",
+   "path": "local/olt/corabia/2021/17",
+   "short": "HCL Corabia nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 17/2021 privind aprobarea Statutului orașului Corabia",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43742",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-18-2021",
+   "path": "local/olt/corabia/2021/18",
+   "short": "HCL Corabia nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 18/2021 privind acordare burse școlare",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43743",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-19-2021",
+   "path": "local/olt/corabia/2021/19",
+   "short": "HCL Corabia nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 19/2021 privind aprobare cotizație către Asociație Grupul Local Prietenii Pescarilor Olteni",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43744",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-2-2021",
+   "path": "local/olt/corabia/2021/2",
+   "short": "HCL Corabia nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 2/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43694",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-20-2021",
+   "path": "local/olt/corabia/2021/20",
+   "short": "HCL Corabia nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 20/2021",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43745",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-21-2021",
+   "path": "local/olt/corabia/2021/21",
+   "short": "HCL Corabia nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 21/2021 privind aprobare cotizație către Asociația de Dezvoltare Intercomunitară Olt-ECO pe anul 2021",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43746",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-22-2021",
+   "path": "local/olt/corabia/2021/22",
+   "short": "HCL Corabia nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 22/2021 privind modificare stat de funcții la Spitalul orășenesc Corabia",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43747",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-23-2021",
+   "path": "local/olt/corabia/2021/23",
+   "short": "HCL Corabia nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 23/2021 privind încheierea exercițiului bugetar pe anul 2020",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43748",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-24-2021",
+   "path": "local/olt/corabia/2021/24",
+   "short": "HCL Corabia nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 24/2021 privind modificarea HCL nr. 57/11.06.2018 privind contractarea unei finanțări rambursabile interne în valoare de 8.731.000 lei, în vederea refinanțării împrumutului contractat de la BCR (10/26.06.2006), precum și în vederea asigurării finanțării investițiilor publice de interes local",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43749",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-25-2021",
+   "path": "local/olt/corabia/2021/25",
+   "short": "HCL Corabia nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 25/2021",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43750",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-26-2021",
+   "path": "local/olt/corabia/2021/26",
+   "short": "HCL Corabia nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 26/2021 privind acceptarea UAT Vulpeni, Cezieni și Grădinari în cadrul Asociației de Dezvoltare Intercomunitară de Utilități Publice pentru Serviciul de Apă și Canalizare „OLTUL”",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43751",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-27-2021",
+   "path": "local/olt/corabia/2021/27",
+   "short": "HCL Corabia nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 27/2021 privind aprobarea Regulamentului privind alocarea locurilor de acostare din Portul Turistic Corabia",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43752",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-28-2021",
+   "path": "local/olt/corabia/2021/28",
+   "short": "HCL Corabia nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 28/2021",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43753",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-29-2021",
+   "path": "local/olt/corabia/2021/29",
+   "short": "HCL Corabia nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 29/2021",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43754",
+   "versions": [
+    {
+     "from": "2021-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-3-2021",
+   "path": "local/olt/corabia/2021/3",
+   "short": "HCL Corabia nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 3/2021 privind aprobarea plan anual de acțiuni și lucrări de interes local pentru anul 2021",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43695",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-30-2021",
+   "path": "local/olt/corabia/2021/30",
+   "short": "HCL Corabia nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 30/2021 privind modificarea componenței Comisiei de amenajarea teritorului și urbanism, protecția mediului și turism a Consiliului Local Corabia",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43755",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-31-2021",
+   "path": "local/olt/corabia/2021/31",
+   "short": "HCL Corabia nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 31/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43763",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-32-2021",
+   "path": "local/olt/corabia/2021/32",
+   "short": "HCL Corabia nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 32/2021 privind stabilirea componenței comisiei de analiza a solicitărilor de locuințe din orașul Corabia",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43764",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-33-2021",
+   "path": "local/olt/corabia/2021/33",
+   "short": "HCL Corabia nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 33/2021 privind plata,diferența cheltuielilor beneficiari din Centrul Medico-Social Corabia",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43765",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-34-2021",
+   "path": "local/olt/corabia/2021/34",
+   "short": "HCL Corabia nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 34/2021 privind stabilire reprezentanți în Consiliul de Administrație al Liceului Tehnologic „Danubius” Corabia în anul școlar 2021/2022",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43766",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-35-2021",
+   "path": "local/olt/corabia/2021/35",
+   "short": "HCL Corabia nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 35/2021 privind stabilire reprezentanți în Consiliul de Administrație al Școlii Gimnaziale „Mihai Eminescu” Corabia în anul școlar 2021/2022",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43767",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-36-2021",
+   "path": "local/olt/corabia/2021/36",
+   "short": "HCL Corabia nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 36/2021 privind încheierea exercițiului bugetar pe trimestrul II al anului 2021",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43768",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-37-2021",
+   "path": "local/olt/corabia/2021/37",
+   "short": "HCL Corabia nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 37/2021 privind aprobare depunere proiect ” Creșterea activității zonei pescărești prin îmbunătățirea aspectului spațiilor publice din orașul Corabia”",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43769",
+   "versions": [
+    {
+     "from": "2021-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-38-2021",
+   "path": "local/olt/corabia/2021/38",
+   "short": "HCL Corabia nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 38/2021 privind solicitare transmitere pe durată determinată drept de administrare și depunere proiect reabilitare și modernizare trotuare aferente DN 54 și DN 54A",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43770",
+   "versions": [
+    {
+     "from": "2021-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-39-2021",
+   "path": "local/olt/corabia/2021/39",
+   "short": "HCL Corabia nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 39/2021 privind aprobare taxe și tarife utilizate în activitatea de administrare a cimitirelor umane proprietate publică a orașului Corabia",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43771",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-4-2021",
+   "path": "local/olt/corabia/2021/4",
+   "short": "HCL Corabia nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 4/2021 privind modificarea organigramei și stat de funcții la Spitalul orășenesc Corabia",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43696",
+   "versions": [
+    {
+     "from": "2021-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-40-2021",
+   "path": "local/olt/corabia/2021/40",
+   "short": "HCL Corabia nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 40/2021 privind aprobarea inventarului bunurilor care aparțin domeniului privat al orașului Corabia",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43772",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-41-2021",
+   "path": "local/olt/corabia/2021/41",
+   "short": "HCL Corabia nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 41/2021 privind aprobare act adițional la contractul de concesiune a serviciului de distribuție a gazelor naturale în localitatea Corabia nr. 322/30.11.2011",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43773",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-42-2021",
+   "path": "local/olt/corabia/2021/42",
+   "short": "HCL Corabia nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 42/2021 privind aprobare rectificare buget local pe anul 2021",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43774",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-43-2021",
+   "path": "local/olt/corabia/2021/43",
+   "short": "HCL Corabia nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 43/2021 privind stabilire reprezentanți în Consiliul de Administrație și respectiv în Comisia pentru evaluarea și asigurarea calității la Liceul Teoretic „A.I.Cuza” Corabia în anul școlar 2021/2022",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43775",
+   "versions": [
+    {
+     "from": "2021-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-44-2021",
+   "path": "local/olt/corabia/2021/44",
+   "short": "HCL Corabia nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 44/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43776",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-45-2021",
+   "path": "local/olt/corabia/2021/45",
+   "short": "HCL Corabia nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 45/2021 privind stabilire reprezentant în Comisia pentru Evaluarea și Asigurarea Calității și înlocuire reprezentant în Consiliul de Administrație la Liceul Tehnologic „ Danubius” Corabia în anul școlar 2021/2022",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43777",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-46-2021",
+   "path": "local/olt/corabia/2021/46",
+   "short": "HCL Corabia nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 46/2021",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43778",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-47-2021",
+   "path": "local/olt/corabia/2021/47",
+   "short": "HCL Corabia nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 47/2021 privind aprobare rectificare buget",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43779",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-48-2021",
+   "path": "local/olt/corabia/2021/48",
+   "short": "HCL Corabia nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 48/2021 privind încheiere imobil str. Cezar Bolliac, nr.25",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43780",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-49-2021",
+   "path": "local/olt/corabia/2021/49",
+   "short": "HCL Corabia nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 49/2021 privind închiriere teren în suprafață de 8000mp",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43781",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-5-2021",
+   "path": "local/olt/corabia/2021/5",
+   "short": "HCL Corabia nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 5/2021 privind aprobare contract de comodat",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43697",
+   "versions": [
+    {
+     "from": "2021-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-50-2021",
+   "path": "local/olt/corabia/2021/50",
+   "short": "HCL Corabia nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 50/2021 privind modificare stat de funcții la Spitalul orășenesc Corabia",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43782",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-51-2021",
+   "path": "local/olt/corabia/2021/51",
+   "short": "HCL Corabia nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 51/2021 privind modificarea și completarea Hotărârii nr.66/30.05.2019 a Consiliului Local Corabia",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43783",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-52-2021",
+   "path": "local/olt/corabia/2021/52",
+   "short": "HCL Corabia nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 52/2021 privind achiziția serviciului de elaborare a documentației tehnice în vederea realizării proiectului ”Varianta ocolitoare a orașului Corabia, județul Olt” și împuternicire depunere proiect în cadrul Programului Național de Investiții ”Anghel Saligny„",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43784",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-53-2021",
+   "path": "local/olt/corabia/2021/53",
+   "short": "HCL Corabia nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 53/2021 privind achiziția documentației de avizare lucrări de intervenție și împuternicire depunere proiect ”Reabilitare DC 124, oraș Corabia, județul Olt”",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43785",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-54-2021",
+   "path": "local/olt/corabia/2021/54",
+   "short": "HCL Corabia nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 54/2021 privind achiziție documentație tehnică și desfiinare clădire magazie cu regim de înălțime partener din orașul Corabia, str.Mercur, nr.1",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43786",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-55-2021",
+   "path": "local/olt/corabia/2021/55",
+   "short": "HCL Corabia nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 55/2021 privind achiziția documentației tehnice și împuternicire depunere proiect Modernizare drumuri de exploatare, oraș Corabia, județul Olt",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43787",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-56-2021",
+   "path": "local/olt/corabia/2021/56",
+   "short": "HCL Corabia nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 56/2021 privind achiziția documentației de avizare lucrări de intervenție și împuternicire depunere proiect Modernizare străzi în orașul Corabia, județul Olt",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43788",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-57-2021",
+   "path": "local/olt/corabia/2021/57",
+   "short": "HCL Corabia nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 57/2021 privind achiziția serviciului de elaborare a documentației tehnice în vederea realizării proiectului „Îmbunătățirea infrastructurii de fluide medicale la Spitalul orășenesc Corabia” și împuternicire depunere proiect",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43789",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-58-2021",
+   "path": "local/olt/corabia/2021/58",
+   "short": "HCL Corabia nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 58/2021 privind sancționare disciplinară consilier local",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43790",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-59-2021",
+   "path": "local/olt/corabia/2021/59",
+   "short": "HCL Corabia nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 59/2021 privind aprobarea cererii de finanțare și devizului general estimativ al obiectivului de investiții ”Modernizare străzi etapa I în orașul Corabia, județul Olt”",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43791",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-6-2021",
+   "path": "local/olt/corabia/2021/6",
+   "short": "HCL Corabia nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 6/2021 privind organizarea rețelei școlare a unităților de învățământ preuniversitar din orașul Corabia în anul școlar 2021-2022",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43698",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-60-2021",
+   "path": "local/olt/corabia/2021/60",
+   "short": "HCL Corabia nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 60/2021 privind aprobarea cererii de finanțare și devizului general estimativ al obiectivului de investiții ”Modernizare străzi în orașul Corabia, județul Olt”",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43792",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-61-2021",
+   "path": "local/olt/corabia/2021/61",
+   "short": "HCL Corabia nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 61/2021 privind aprobarea Regulamentului de acordare a unui premiu financiar cuplurilor din orașul Corabia care au împlinit 50 de ani de căsătorie neîntreruptă",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43793",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-62-2021",
+   "path": "local/olt/corabia/2021/62",
+   "short": "HCL Corabia nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 62/2021 privind acceptarea UAT priseaca și Oporelu în cadrul Asociației de Dezvoltare Intercomunitară de Utilități Publice pentru Serviciul de Apă și Canalizare „Oltul”",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43794",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-63-2021",
+   "path": "local/olt/corabia/2021/63",
+   "short": "HCL Corabia nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 63/2021 privind modificare stat de funcții la Spitalul orășenesc Corabia",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43795",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-64-2021",
+   "path": "local/olt/corabia/2021/64",
+   "short": "HCL Corabia nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 64/2021 privind încheierea exercițiului bugetar pe trimestrul III al anului 2021",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43796",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-65-2021",
+   "path": "local/olt/corabia/2021/65",
+   "short": "HCL Corabia nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 65/2021 privind aprobare rectificare buget",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43797",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-66-2021",
+   "path": "local/olt/corabia/2021/66",
+   "short": "HCL Corabia nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 66/2021 privind instituirea unor măsuri fiscale",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43798",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-67-2021",
+   "path": "local/olt/corabia/2021/67",
+   "short": "HCL Corabia nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 67/2021 privind modificarea HCL nr. 57/11.06.2018 privind contractarea unei finanțări rambursabile interne în valoare de 8.731.000 lei, în vederea refinanțării împrumutului contractat de la BCR (10/26.06.2006), precum și în vederea asigurării finanțării investițiilor publice de interes local",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43799",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-68-2021",
+   "path": "local/olt/corabia/2021/68",
+   "short": "HCL Corabia nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 68/2021 privind aprobarea cererii de finanțare și devizului general estimativ al obiectivului de investiții ”Varianta ocolitoare a orașului Corabia, județul Olt”",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43800",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-69-2021",
+   "path": "local/olt/corabia/2021/69",
+   "short": "HCL Corabia nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 69/2021 privind desemnarea reprezentantului Consiliului Local Corabia în comisia de evaluare a probei de interviu a concursului pentru ocuparea funcției vacante de director sau director adjunct la unitățile de învățământ preuniversitar din orașul Corabia",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43801",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-7-2021",
+   "path": "local/olt/corabia/2021/7",
+   "short": "HCL Corabia nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 7/2021 privind prelungire cu 5 ani a contractelor de concesiune încheiate în anul 2011 pentru pășunile proprietate privată a orașului Corabia",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43699",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-8-2021",
+   "path": "local/olt/corabia/2021/8",
+   "short": "HCL Corabia nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 8/2021 privind aprobare calendar manifestări cultural-artistice pe anul 2021",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43700",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-9-2021",
+   "path": "local/olt/corabia/2021/9",
+   "short": "HCL Corabia nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 9/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/43719",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/43719",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Orașului Corabia nr. 1/2021 privind Ref. la acoperirea definitivă a deficitului bugetar la secțiunea de dezvoltare a bugetului local al orașului Corabia pe anul 2020
+
+HCL Corabia nr. 1/2021 · 1 versions, from 2021-01-07 (latest in force: 2021-01-07) · <https://emol.ro/corabia-ot/registru-hcl/43688>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-olt--corabia-1-2021` (tags `hcl-olt--corabia-1-2021/<day>`; `python tools/on.py <day> hcl-olt--corabia-1-2021`).
+
+## Decisions made by hand
+
+- HCL Corabia nr. 1/2021: listed from Consiliul Local al Orașului Corabia (emol.ro); an individual decision: metadata only.
+- HCL Corabia nr. 1/2021: dated from 7 January 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Corabia nr. 1/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

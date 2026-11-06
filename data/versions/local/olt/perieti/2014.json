@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/olt/perieti/2014",
+ "acts": [
+  {
+   "slug": "hcl-olt--perieti-24-2014",
+   "path": "local/olt/perieti/2014/24",
+   "short": "HCL Perieți nr. 24/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Perieți nr. 24/2014",
+   "url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.24-din-30.10.2014.pdf",
+   "versions": [
+    {
+     "from": "2014-10-30",
+     "units": 1,
+     "source_url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.24-din-30.10.2014.pdf",
+     "sha256": "7f60da92cae0ed02f9d179df443251cb25fe805ba0f027e55f233499f55a1941"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--perieti-25-2014",
+   "path": "local/olt/perieti/2014/25",
+   "short": "HCL Perieți nr. 25/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Perieți nr. 25/2014",
+   "url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.25-din-30.10.2014.pdf",
+   "versions": [
+    {
+     "from": "2014-10-30",
+     "units": 1,
+     "source_url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.25-din-30.10.2014.pdf",
+     "sha256": "789a671d84ab8f1113f5ab7ddcd84773b40771ef4be1b7ab494aaf963ad3b57f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--perieti-26-2014",
+   "path": "local/olt/perieti/2014/26",
+   "short": "HCL Perieți nr. 26/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Perieți nr. 26/2014",
+   "url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.26-din-30.10.2014.pdf",
+   "versions": [
+    {
+     "from": "2014-10-30",
+     "units": 1,
+     "source_url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.26-din-30.10.2014.pdf",
+     "sha256": "8fd0576f468a39654b7cf909182cd273e9fda56d631341379459537717f55617"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--perieti-27-2014",
+   "path": "local/olt/perieti/2014/27",
+   "short": "HCL Perieți nr. 27/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Perieți nr. 27/2014",
+   "url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.27-din-30.10.2014.pdf",
+   "versions": [
+    {
+     "from": "2014-10-30",
+     "units": 1,
+     "source_url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.27-din-30.10.2014.pdf",
+     "sha256": "925c8e2dcaf051ef4b979f5037230126608c1c750434df78a6092ae7fa6f8579"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--perieti-28-2014",
+   "path": "local/olt/perieti/2014/28",
+   "short": "HCL Perieți nr. 28/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Perieți nr. 28/2014",
+   "url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.28-din-21.11.2014.pdf",
+   "versions": [
+    {
+     "from": "2014-11-21",
+     "units": 1,
+     "source_url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.28-din-21.11.2014.pdf",
+     "sha256": "01df15f0754e35ca55ba22a05c2967e8b45dfafdfd3acf55cbadfcf3181d33eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--perieti-29-2014",
+   "path": "local/olt/perieti/2014/29",
+   "short": "HCL Perieți nr. 29/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Perieți nr. 29/2014",
+   "url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.29-din-15.12.2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-15",
+     "units": 1,
+     "source_url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.29-din-15.12.2014.pdf",
+     "sha256": "cd20470360a4c331a74d766c2be240e3bb7667fe21b4f30c6166598a32c45b57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--perieti-30-2014",
+   "path": "local/olt/perieti/2014/30",
+   "short": "HCL Perieți nr. 30/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Perieți nr. 30/2014",
+   "url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.30-din-15.12.2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-15",
+     "units": 1,
+     "source_url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.30-din-15.12.2014.pdf",
+     "sha256": "d0564cf603206de2db916a1d75cb5de3c31e93dc6bd6c93a09ad4b3d18fcacb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--perieti-31-2014",
+   "path": "local/olt/perieti/2014/31",
+   "short": "HCL Perieți nr. 31/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Perieți nr. 31/2014",
+   "url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.31-din-15.12.2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-15",
+     "units": 1,
+     "source_url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.31-din-15.12.2014.pdf",
+     "sha256": "59feaa4ce087e44cdf4319892b7537e64bc688933bb45bc4fb7b44ccca7ce961"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--perieti-32-2014",
+   "path": "local/olt/perieti/2014/32",
+   "short": "HCL Perieți nr. 32/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Perieți nr. 32/2014",
+   "url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.32-din-30.12.2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-30",
+     "units": 1,
+     "source_url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.32-din-30.12.2014.pdf",
+     "sha256": "71206dba4e3e37a506276dd39cdbbd2605284148e113931bfc1a201d445fe4f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--perieti-33-2014",
+   "path": "local/olt/perieti/2014/33",
+   "short": "HCL Perieți nr. 33/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Perieți nr. 33/2014",
+   "url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.33-din-30.12.2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-30",
+     "units": 1,
+     "source_url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.33-din-30.12.2014.pdf",
+     "sha256": "72cf21f3ea1dca6453555cc3c7f427ca9e8b336bd9321c7ba0f5d5c773e95a4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--perieti-34-2014",
+   "path": "local/olt/perieti/2014/34",
+   "short": "HCL Perieți nr. 34/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Perieți nr. 34/2014",
+   "url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.34-din-30.12.2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-30",
+     "units": 1,
+     "source_url": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.34-din-30.12.2014.pdf",
+     "sha256": "8923907a518acfdc46c6c294ac009d0834f87cb8d1c2a0dc57029e54dafbec3d"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,51 @@
  "shard": "local/prahova/albesti-paleologu/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--albesti-paleologu-30-2025",
+   "path": "local/prahova/albesti-paleologu/2025/30",
+   "short": "HCL Albești-Paleologu nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești-Paleologu nr. 30/2025 privind aprobarea rectificării bugetului local pentru anul 2025 și estimări 2026-2028)",
+   "url": "http://www.primariaalbestipaleologu.ro/index.php/consiliul-local/hcl",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "http://www.primariaalbestipaleologu.ro/images/HCL/2025/30_HCL_Albesti-Paleologu_2025.pdf",
+     "sha256": "55cf021f113c4ad26d1e893896956186048a89eb7cc7c6c812d37d4f1434ef8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--albesti-paleologu-33-2025",
+   "path": "local/prahova/albesti-paleologu/2025/33",
+   "short": "HCL Albești-Paleologu nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești-Paleologu nr. 33/2025 privind aprobarea rectificării bugetului local pentru anul 2025 și estimări 2026-2028)",
+   "url": "http://www.primariaalbestipaleologu.ro/index.php/consiliul-local/hcl",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 1,
+     "source_url": "http://www.primariaalbestipaleologu.ro/images/HCL/2025/Hotararea_nr_33.2025.pdf",
+     "sha256": "ca481f815cc55fa08d36fe7d26a761cf192b6e3181b48cf56b441149dad95bbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--albesti-paleologu-35-2025",
+   "path": "local/prahova/albesti-paleologu/2025/35",
+   "short": "HCL Albești-Paleologu nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești-Paleologu nr. 35/2025 privind aprobarea contractării și garantării unei finanțări rambursabile interne în valoare de 6.500.000 lei)",
+   "url": "http://www.primariaalbestipaleologu.ro/index.php/consiliul-local/hcl",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "http://www.primariaalbestipaleologu.ro/images/HCL/2025/HCL_35_APROBARE_CONTRACTARE.pdf",
+     "sha256": "e863c4aa8c7defd060373f8496ac286fb349b8b1a4092f906db8ddcd253c46f7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--albesti-paleologu-36-2025",
    "path": "local/prahova/albesti-paleologu/2025/36",
    "short": "HCL Albești-Paleologu nr. 36/2025",
@@ -14,6 +59,36 @@
      "units": 1,
      "source_url": "http://www.primariaalbestipaleologu.ro/images/HCL/2025/HCL_36__APROBARE_NORME.pdf",
      "sha256": "6313b4a11400a694f48d6db1434a60dfd362acffa327d3b8eb95aacb98896d84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--albesti-paleologu-40-2025",
+   "path": "local/prahova/albesti-paleologu/2025/40",
+   "short": "HCL Albești-Paleologu nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești-Paleologu nr. 40/2025 privind aprobarea rectificării bugetului local pentru anul 2025 și estimări 2026-2028)",
+   "url": "http://www.primariaalbestipaleologu.ro/index.php/consiliul-local/hcl",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "http://www.primariaalbestipaleologu.ro/images/HCL/2025/HCL_40_2.pdf",
+     "sha256": "c1364bae01b51468867e6b565190615bfd006f50ea3969ded74168b2074aea96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--albesti-paleologu-41-2025",
+   "path": "local/prahova/albesti-paleologu/2025/41",
+   "short": "HCL Albești-Paleologu nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești-Paleologu nr. 41/2025 cu privire la aprobarea Planului Anual de Achiziții pe anul 2026, Strategia Anuală de Achiziții la nivelul comunei Albești-Paleologu, județul Prahova)",
+   "url": "http://www.primariaalbestipaleologu.ro/index.php/consiliul-local/hcl",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "http://www.primariaalbestipaleologu.ro/images/HCL/2025/HCL_41.pdf",
+     "sha256": "98527cafabc2ef7610768882ebbeaa859010fbf3b8009ff0bf05531ed078babf"
     }
    ]
   }

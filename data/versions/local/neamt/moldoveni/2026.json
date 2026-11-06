@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/moldoveni/2026",
+ "acts": [
+  {
+   "slug": "hcl-neamt--moldoveni-46-2026",
+   "path": "local/neamt/moldoveni/2026/46",
+   "short": "HCL Moldoveni nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moldoveni nr. 46/2026 privind aprobarea contului de execuției al bugetului local și bugetul instituției publice finanțat din venituri proprii pentru trimestrul II 2026",
+   "url": "https://emol.ro/moldoveni-nt/registru-hcl/286051",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/moldoveni-nt/registru-hcl/286051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--moldoveni-47-2026",
+   "path": "local/neamt/moldoveni/2026/47",
+   "short": "HCL Moldoveni nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moldoveni nr. 47/2026 pentru aprobarea Raportului privind pregătirea Școlii Gimnaziale, Comuna Moldoveni pentru anul școlar 2026 - 2027",
+   "url": "https://emol.ro/moldoveni-nt/registru-hcl/286052",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/moldoveni-nt/registru-hcl/286052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--moldoveni-48-2026",
+   "path": "local/neamt/moldoveni/2026/48",
+   "short": "HCL Moldoveni nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moldoveni nr. 48/2026 privind aprobarea procedurii de executare silită a creanțelor fiscale restante datorate Bugetului local al Comunei Moldoveni, prin aplicarea sechestrului asupra bunurilor mobile sau imobile aflate în proprietatea sau coproprietatea contribuabilului precum și procedura de evaluare și valorificare a acestora",
+   "url": "https://emol.ro/moldoveni-nt/registru-hcl/286053",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/moldoveni-nt/registru-hcl/286053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--moldoveni-49-2026",
+   "path": "local/neamt/moldoveni/2026/49",
+   "short": "HCL Moldoveni nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moldoveni nr. 49/2026 privind neasumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor – cadru pentru achiziţionarea produselor aferente Programului şi a contractelor /acordurilor – cadru de prestare a serviciilor pentru derularea măsurilor educative la nivelul UAT Comuna Moldoveni, judeţul Neamţ",
+   "url": "https://emol.ro/moldoveni-nt/registru-hcl/286365",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/moldoveni-nt/registru-hcl/286365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--moldoveni-50-2026",
+   "path": "local/neamt/moldoveni/2026/50",
+   "short": "HCL Moldoveni nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moldoveni nr. 50/2026 privind desemnarea reprezentantului Consiliului local al comunei Moldoveni in Consiliul de Administratie al Scolii Gimnaziale, Comuna Moldoveni și în Comisia pentru prevenirea şi combaterea violenţei, a faptelor de corupţie şi discriminării în mediul şcolar şi promovarea interculturalităţii, pentru anul scolar 2026-2027",
+   "url": "https://emol.ro/moldoveni-nt/registru-hcl/287302",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/moldoveni-nt/registru-hcl/287302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--moldoveni-51-2026",
+   "path": "local/neamt/moldoveni/2026/51",
+   "short": "HCL Moldoveni nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moldoveni nr. 51/2026 privind desemnarea în componenţa Comisiei pentru evaluareaşi asigurarea calităţii educaţiei furnizate în unităţile de învăţământ preuniversitar din comuna Moldoveni, judeţul Neamţ, pentru anul de învăţământ 2026 – 2027",
+   "url": "https://emol.ro/moldoveni-nt/registru-hcl/287303",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/moldoveni-nt/registru-hcl/287303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--moldoveni-52-2026",
+   "path": "local/neamt/moldoveni/2026/52",
+   "short": "HCL Moldoveni nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moldoveni nr. 52/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/moldoveni-nt/registru-hcl/287304",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/moldoveni-nt/registru-hcl/287304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--moldoveni-53-2026",
+   "path": "local/neamt/moldoveni/2026/53",
+   "short": "HCL Moldoveni nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moldoveni nr. 53/2026 privind actualizarea devizului general pentru obiectivul de investiții ,,CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA EFICIENTA A ENERGIEI PENTRU OBIECTIVUL DE INVESTITII SEDIUL PRIMARIEI DIN COMUNA MOLDOVENI, JUDETUL NEAMT’’, SMIS 347205",
+   "url": "https://emol.ro/moldoveni-nt/registru-hcl/287305",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/moldoveni-nt/registru-hcl/287305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--moldoveni-54-2026",
+   "path": "local/neamt/moldoveni/2026/54",
+   "short": "HCL Moldoveni nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moldoveni nr. 54/2026 privind desemnarea reprezentantului în comisia de evaluare a probei de interviu pentru concursul de ocupare a funcției de director a Școlii Gimnaziale Moldoveni",
+   "url": "https://emol.ro/moldoveni-nt/registru-hcl/287306",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/moldoveni-nt/registru-hcl/287306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--moldoveni-55-2026",
+   "path": "local/neamt/moldoveni/2026/55",
+   "short": "HCL Moldoveni nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moldoveni nr. 55/2026 privind aprobarea rutelor, statiilor și intervalul orar de transport al microbuzului școlar în anul școlar 2026-2027",
+   "url": "https://emol.ro/moldoveni-nt/registru-hcl/287307",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/moldoveni-nt/registru-hcl/287307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--moldoveni-56-2026",
+   "path": "local/neamt/moldoveni/2026/56",
+   "short": "HCL Moldoveni nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moldoveni nr. 56/2026 privind aprobarea proiectului, a documentației tehnico-economice – faza Studiu de Fezabilitate și a indicatorilortehnico-economici ai proiectului „Sprijinirea investițiilor în dezvoltarea de noi capacități de stocare a energiei electrice produsă din surse regenerabile de energie in Comuna Moldoveni, judetul Neamt”",
+   "url": "https://emol.ro/moldoveni-nt/registru-hcl/288412",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/moldoveni-nt/registru-hcl/288412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--moldoveni-57-2026",
+   "path": "local/neamt/moldoveni/2026/57",
+   "short": "HCL Moldoveni nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moldoveni nr. 57/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/moldoveni-nt/registru-hcl/297043",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/moldoveni-nt/registru-hcl/297043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--moldoveni-58-2026",
+   "path": "local/neamt/moldoveni/2026/58",
+   "short": "HCL Moldoveni nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moldoveni nr. 58/2026",
+   "url": "https://emol.ro/moldoveni-nt/registru-hcl/297044",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/moldoveni-nt/registru-hcl/297044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--moldoveni-59-2026",
+   "path": "local/neamt/moldoveni/2026/59",
+   "short": "HCL Moldoveni nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moldoveni nr. 59/2026",
+   "url": "https://emol.ro/moldoveni-nt/registru-hcl/297045",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/moldoveni-nt/registru-hcl/297045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--moldoveni-60-2026",
+   "path": "local/neamt/moldoveni/2026/60",
+   "short": "HCL Moldoveni nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moldoveni nr. 60/2026 privind actualizarea rutelor, statiilor și intervalul orar de transport al microbuzului școlar în anul școlar 2026-2027",
+   "url": "https://emol.ro/moldoveni-nt/registru-hcl/297046",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/moldoveni-nt/registru-hcl/297046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--moldoveni-61-2026",
+   "path": "local/neamt/moldoveni/2026/61",
+   "short": "HCL Moldoveni nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moldoveni nr. 61/2026",
+   "url": "https://emol.ro/moldoveni-nt/registru-hcl/297047",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/moldoveni-nt/registru-hcl/297047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--moldoveni-62-2026",
+   "path": "local/neamt/moldoveni/2026/62",
+   "short": "HCL Moldoveni nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moldoveni nr. 62/2026 privind aprobarea Regulamentului local de implicare a publicului în elaborarea sau revizuirea documentațiilor de urbanism și amenajare a teritoriului",
+   "url": "https://emol.ro/moldoveni-nt/registru-hcl/297048",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/moldoveni-nt/registru-hcl/297048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--moldoveni-63-2026",
+   "path": "local/neamt/moldoveni/2026/63",
+   "short": "HCL Moldoveni nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moldoveni nr. 63/2026 privind aprobarea Planului operativ de acţiune pentru combaterea poleiului şi a deszăpezirii drumurilor publice din comuna Moldoveni",
+   "url": "https://emol.ro/moldoveni-nt/registru-hcl/297049",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/moldoveni-nt/registru-hcl/297049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--moldoveni-64-2026",
+   "path": "local/neamt/moldoveni/2026/64",
+   "short": "HCL Moldoveni nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moldoveni nr. 64/2026 pentru aprobarea Raportului privind starea și calitatea învățământului – Anul școlar 2025 - 2026",
+   "url": "https://emol.ro/moldoveni-nt/registru-hcl/297050",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/moldoveni-nt/registru-hcl/297050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--moldoveni-65-2026",
+   "path": "local/neamt/moldoveni/2026/65",
+   "short": "HCL Moldoveni nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moldoveni nr. 65/2026 privind aprobarea obiectivului de investiții „Construire împrejmuire cimitir Moldoveni, județul Neamț”, a indicatorilor tehnico-economici și a finanțării acestuia din bugetul local",
+   "url": "https://emol.ro/moldoveni-nt/registru-hcl/297051",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/moldoveni-nt/registru-hcl/297051",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

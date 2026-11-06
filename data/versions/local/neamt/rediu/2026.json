@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/rediu/2026",
+ "acts": [
+  {
+   "slug": "hcl-neamt--rediu-10-2026",
+   "path": "local/neamt/rediu/2026/10",
+   "short": "HCL Rediu nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 10/2026",
+   "url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://rediu.ro/wp-content/uploads/2026/04/PHCL-nr.10-din-23.03.2026-modificare-H.C.L.nr_.72-din-08.12.2025-organizare-licitatiei-inchiriere-spatiu-administrativ.pdf",
+     "sha256": "026dfb03d3155a245a19682eb0165904251d94501ae1d855c22cc19687450d46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--rediu-11-2026",
+   "path": "local/neamt/rediu/2026/11",
+   "short": "HCL Rediu nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 11/2026",
+   "url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://rediu.ro/wp-content/uploads/2026/04/PHCL-nr.11-din-23.03.2026-aprobare-Plan-Actiuni-Comunitare.pdf",
+     "sha256": "80ba984b3bab5fed51cb0feb16b975230b68b1d958c311a0ed9ac7db327309b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--rediu-13-2026",
+   "path": "local/neamt/rediu/2026/13",
+   "short": "HCL Rediu nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 13/2026",
+   "url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+     "sha256": "8f573691fea3998ef75bae4a3b6e8e8f397930840031deb394d055ee6413f602"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--rediu-14-2026",
+   "path": "local/neamt/rediu/2026/14",
+   "short": "HCL Rediu nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 14/2026",
+   "url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://rediu.ro/wp-content/uploads/2026/04/PHCL-nr.14-din-23.03.2026-aprobare-emitere-Acord-acces-mijloace-transport-exploatare-agregate-minerale-CROMSORT.pdf",
+     "sha256": "32ea0f23bea07b1b07400afd5c503a345b1d1e457f9759456e2e441f42961213"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--rediu-15-2026",
+   "path": "local/neamt/rediu/2026/15",
+   "short": "HCL Rediu nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 15/2026",
+   "url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://rediu.ro/wp-content/uploads/2026/06/HCLnr.15-din-30.04.2026-aprobare-buge-local-2026.pdf",
+     "sha256": "4815c8ae6bac2eddf3b7aaeecd94b27364dbbff9df4a8e4eeb8d7fa966986eef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--rediu-16-2026",
+   "path": "local/neamt/rediu/2026/16",
+   "short": "HCL Rediu nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 16/2026",
+   "url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://rediu.ro/wp-content/uploads/2026/06/HCLnr.16-din-30.04.2026-aprobare-ocupare-teren-necesar-lucrarilor-alimentare-cu-apa-si-canalizare.pdf",
+     "sha256": "c9edf284f112ab9a8cb0a2438f6a2efb36e8fe25efd431e981b1fa5f9b2a871d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--rediu-17-2026",
+   "path": "local/neamt/rediu/2026/17",
+   "short": "HCL Rediu nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 17/2026",
+   "url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://rediu.ro/wp-content/uploads/2026/06/HCLnr.17-din-25.05.2026-modif-si-complet-H.C.L.nr_.01-din-29.01.2026.pdf",
+     "sha256": "32c6c84de25d3e93d20ef49cd10d43dbdc5f87736482beed4acc490ce8359c8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--rediu-18-2026",
+   "path": "local/neamt/rediu/2026/18",
+   "short": "HCL Rediu nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 18/2026",
+   "url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+     "sha256": "f159ef2b5d09bb16d54d6d7886d237385b296436069582b0c62063b71161c091"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--rediu-19-2026",
+   "path": "local/neamt/rediu/2026/19",
+   "short": "HCL Rediu nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 19/2026",
+   "url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://rediu.ro/wp-content/uploads/2026/06/HCLnr.19-din-25.05.2026-participare-program-Sisteme-alimentare-cu-apa-si-canalizare.pdf",
+     "sha256": "db5e690f91c75d54c3f5a4b65ba0f0ee7a4850f8a8486625fc76a323452b8a84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--rediu-2-2026",
+   "path": "local/neamt/rediu/2026/2",
+   "short": "HCL Rediu nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 2/2026",
+   "url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://rediu.ro/wp-content/uploads/2026/04/PHCL-nr.02-din-11.02.2026-1.pdf",
+     "sha256": "15dd8dc19eb2f2cd7b7d761fc4822b1d65cd68e01234113f31a76b14f605c5bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--rediu-20-2026",
+   "path": "local/neamt/rediu/2026/20",
+   "short": "HCL Rediu nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 20/2026",
+   "url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://rediu.ro/wp-content/uploads/2026/06/HCLnr.20-din-25.05.2026-aprobare-rectificare-buget-local-2026.pdf",
+     "sha256": "46fffb8759102dc238fb6bd6f12f19708c000db427487318c671350884aa1dd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--rediu-21-2026",
+   "path": "local/neamt/rediu/2026/21",
+   "short": "HCL Rediu nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 21/2026",
+   "url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+     "sha256": "fb398b54401b684ed7ff36b8028ae84da2c986fbd564895e9f7b39836a339576"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--rediu-22-2026",
+   "path": "local/neamt/rediu/2026/22",
+   "short": "HCL Rediu nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 22/2026",
+   "url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+     "sha256": "24e9ba71601988f377b7c180832a9fad5d39970872d38cdbf5bc875bec1f0294"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--rediu-3-2026",
+   "path": "local/neamt/rediu/2026/3",
+   "short": "HCL Rediu nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 3/2026",
+   "url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://rediu.ro/wp-content/uploads/2026/04/PHCL-nr.03-din-11.02.2026-1.pdf",
+     "sha256": "d3c989b8519f75ce85a391fc3f7b9224ca4c6012af077d1d8e083c53019c1fd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--rediu-4-2026",
+   "path": "local/neamt/rediu/2026/4",
+   "short": "HCL Rediu nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 4/2026",
+   "url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://rediu.ro/wp-content/uploads/2026/04/PHCL-nr.04-din-23.03.2026-alegerea-Presedintelui-de-sedinta.pdf",
+     "sha256": "70f8f90a6cf6fe401f6a717dd2778394d8f973a09e039a24339aa4327e187801"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--rediu-5-2026",
+   "path": "local/neamt/rediu/2026/5",
+   "short": "HCL Rediu nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 5/2026",
+   "url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://rediu.ro/wp-content/uploads/2026/04/PHCL-nr.05-din-23.03.2026-aprobare-P.A.A.R-2026.pdf",
+     "sha256": "1b67a84fd73a40b3bc87069a0313cae1fa77ba88fcfbcc4baa5ccedc0d6f7951"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--rediu-6-2026",
+   "path": "local/neamt/rediu/2026/6",
+   "short": "HCL Rediu nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 6/2026",
+   "url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+     "sha256": "ab979418ed5db7db1df448df0628e8503dab6352f653617764911c65eb285cd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--rediu-7-2026",
+   "path": "local/neamt/rediu/2026/7",
+   "short": "HCL Rediu nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 7/2026",
+   "url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://rediu.ro/wp-content/uploads/2026/04/PHCL-nr.07-din-23.03.2026-aprobare-DTE-actualizata-Extindere-retea-apa.pdf",
+     "sha256": "c8f768fa04de1da4f390f7e4c5b226d4ae8b92684e62724b9db4847067106313"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--rediu-8-2026",
+   "path": "local/neamt/rediu/2026/8",
+   "short": "HCL Rediu nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 8/2026",
+   "url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://rediu.ro/wp-content/uploads/2026/04/PHCL-nr.08-din-23.03.2026-mandat-special-modificarea-Contractului-de-Delegare-ECO-Neamt.pdf",
+     "sha256": "6efc640f83d75ab46380a8e9a0dd2de5747f5ef090e6c56741494d6fc6a0ea5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--rediu-9-2026",
+   "path": "local/neamt/rediu/2026/9",
+   "short": "HCL Rediu nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 9/2026",
+   "url": "https://rediu.ro/index.php/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://rediu.ro/wp-content/uploads/2026/04/PHCL-nr.09-din-23.03.2026-modificare-H.C.L.nr_.79-din-29.12.2026-prelucrare-masa-lemnoasa-2026.pdf",
+     "sha256": "2082a95be5d7a51bea6fe20b578f03f9a7f233ae6832fc426673123bf4bf82e7"
+    }
+   ]
+  }
+ ]
+}

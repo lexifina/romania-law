@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--bertea-64-2021",
+   "path": "local/prahova/bertea/2021/64",
+   "short": "HCL Bertea nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 64/2021 privind actualizarea contractelor de inchiriere a suprafetelor de teren din domeniul public si privat al comunei Bertea",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/49877",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/49877",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--bertea-65-2021",
    "path": "local/prahova/bertea/2021/65",
    "short": "HCL Bertea nr. 65/2021",

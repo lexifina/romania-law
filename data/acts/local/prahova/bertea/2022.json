@@ -26,6 +26,28 @@
 }
 },
 {
+"slug": "hcl-prahova--bertea-43-2022",
+"path": "local/prahova/bertea/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 43/2022 privind insusirea rapoartelor de evaluarein vederea vanzarii a suprafetelor de teren ce au facut obiectul Legii nr.15/2003",
+"short": "HCL Bertea nr. 43/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-28",
+"latest": "2022-10-28",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/72367",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--bertea-44-2022",
 "path": "local/prahova/bertea/2022/44",
 "kind": "local",
@@ -67,6 +89,72 @@
 "council_name": "Consiliul Local al Comunei Bertea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--bertea-46-2022",
+"path": "local/prahova/bertea/2022/46",
+"kind": "local",
+"year": "2022",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 46/2022 privind desemnarea reprezentantului Consiliului local Bertea in consiliul de administratie al Scolii Gimnaziale Bertea",
+"short": "HCL Bertea nr. 46/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-11",
+"latest": "2022-11-11",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/79073",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--bertea-47-2022",
+"path": "local/prahova/bertea/2022/47",
+"kind": "local",
+"year": "2022",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 47/2022 privind insusirea raportului de evaluare si stabilirea pretului de vanzare directa la imobilului cu numarul cadastral 20 406- lot.C.1-U2",
+"short": "HCL Bertea nr. 47/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-11",
+"latest": "2022-11-11",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/79074",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--bertea-48-2022",
+"path": "local/prahova/bertea/2022/48",
+"kind": "local",
+"year": "2022",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 48/2022 privind insusirea rapoartelor de evaluare si stabilirea pretului de vanzare a imobilelor din domeniul privat cu umatoarele numere cadastrale : 20776, 20 774, 20 775, 20 772, 20 768, 20 773, 20 771,20 769",
+"short": "HCL Bertea nr. 48/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-11",
+"latest": "2022-11-11",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/79075",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

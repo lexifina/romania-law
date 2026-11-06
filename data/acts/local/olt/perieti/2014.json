@@ -1,0 +1,248 @@
+{
+"country": "RO",
+"shard": "local/olt/perieti/2014",
+"acts": [
+{
+"slug": "hcl-olt--perieti-24-2014",
+"path": "local/olt/perieti/2014/24",
+"kind": "local",
+"year": "2014",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perieți nr. 24/2014",
+"short": "HCL Perieți nr. 24/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-10-30",
+"latest": "2014-10-30",
+"portal": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.24-din-30.10.2014.pdf",
+"council": "olt/perieti",
+"council_name": "Consiliul Local al Comunei Perieți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--perieti-25-2014",
+"path": "local/olt/perieti/2014/25",
+"kind": "local",
+"year": "2014",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perieți nr. 25/2014",
+"short": "HCL Perieți nr. 25/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-10-30",
+"latest": "2014-10-30",
+"portal": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.25-din-30.10.2014.pdf",
+"council": "olt/perieti",
+"council_name": "Consiliul Local al Comunei Perieți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--perieti-26-2014",
+"path": "local/olt/perieti/2014/26",
+"kind": "local",
+"year": "2014",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perieți nr. 26/2014",
+"short": "HCL Perieți nr. 26/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-10-30",
+"latest": "2014-10-30",
+"portal": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.26-din-30.10.2014.pdf",
+"council": "olt/perieti",
+"council_name": "Consiliul Local al Comunei Perieți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--perieti-27-2014",
+"path": "local/olt/perieti/2014/27",
+"kind": "local",
+"year": "2014",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perieți nr. 27/2014",
+"short": "HCL Perieți nr. 27/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-10-30",
+"latest": "2014-10-30",
+"portal": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.27-din-30.10.2014.pdf",
+"council": "olt/perieti",
+"council_name": "Consiliul Local al Comunei Perieți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--perieti-28-2014",
+"path": "local/olt/perieti/2014/28",
+"kind": "local",
+"year": "2014",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perieți nr. 28/2014",
+"short": "HCL Perieți nr. 28/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-11-21",
+"latest": "2014-11-21",
+"portal": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.28-din-21.11.2014.pdf",
+"council": "olt/perieti",
+"council_name": "Consiliul Local al Comunei Perieți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--perieti-29-2014",
+"path": "local/olt/perieti/2014/29",
+"kind": "local",
+"year": "2014",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perieți nr. 29/2014",
+"short": "HCL Perieți nr. 29/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-12-15",
+"latest": "2014-12-15",
+"portal": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.29-din-15.12.2014.pdf",
+"council": "olt/perieti",
+"council_name": "Consiliul Local al Comunei Perieți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--perieti-30-2014",
+"path": "local/olt/perieti/2014/30",
+"kind": "local",
+"year": "2014",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perieți nr. 30/2014",
+"short": "HCL Perieți nr. 30/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-12-15",
+"latest": "2014-12-15",
+"portal": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.30-din-15.12.2014.pdf",
+"council": "olt/perieti",
+"council_name": "Consiliul Local al Comunei Perieți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--perieti-31-2014",
+"path": "local/olt/perieti/2014/31",
+"kind": "local",
+"year": "2014",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perieți nr. 31/2014",
+"short": "HCL Perieți nr. 31/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-12-15",
+"latest": "2014-12-15",
+"portal": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.31-din-15.12.2014.pdf",
+"council": "olt/perieti",
+"council_name": "Consiliul Local al Comunei Perieți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--perieti-32-2014",
+"path": "local/olt/perieti/2014/32",
+"kind": "local",
+"year": "2014",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perieți nr. 32/2014",
+"short": "HCL Perieți nr. 32/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-12-30",
+"latest": "2014-12-30",
+"portal": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.32-din-30.12.2014.pdf",
+"council": "olt/perieti",
+"council_name": "Consiliul Local al Comunei Perieți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--perieti-33-2014",
+"path": "local/olt/perieti/2014/33",
+"kind": "local",
+"year": "2014",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perieți nr. 33/2014",
+"short": "HCL Perieți nr. 33/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-12-30",
+"latest": "2014-12-30",
+"portal": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.33-din-30.12.2014.pdf",
+"council": "olt/perieti",
+"council_name": "Consiliul Local al Comunei Perieți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--perieti-34-2014",
+"path": "local/olt/perieti/2014/34",
+"kind": "local",
+"year": "2014",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perieți nr. 34/2014",
+"short": "HCL Perieți nr. 34/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-12-30",
+"latest": "2014-12-30",
+"portal": "https://perietiolt.ro/wp-content/uploads/2021/08/Hotararea-nr.34-din-30.12.2014.pdf",
+"council": "olt/perieti",
+"council_name": "Consiliul Local al Comunei Perieți",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

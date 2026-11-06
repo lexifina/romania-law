@@ -3,6 +3,160 @@
 "shard": "local/prahova/banesti/2024",
 "acts": [
 {
+"slug": "hcl-prahova--banesti-48-2024",
+"path": "local/prahova/banesti/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 48/2024 privind aprobarea rectificării bugetului local al comunei Bănești și a listei de investiții pe anul 2024 și estimări pentru anii 2025-2027",
+"short": "HCL Bănești nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-05",
+"latest": "2024-09-05",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/167077",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-49-2024",
+"path": "local/prahova/banesti/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 49/2024 privind aprobarea actualizării devizului general și a devizelor generale defalcate pe cheltuieli eligibile și neeligibile aferente obiectivului de investiții „REABILITARE ENERGETICĂ INSTITUȚII DE ÎNVAȚĂMÂNT ÎN COMUNA BĂNEȘTI, JUDEȚUL PRAHOVA – CLĂDIRE ȘCOALĂ I-IV URLETA” C10-13-331",
+"short": "HCL Bănești nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-05",
+"latest": "2024-09-05",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/167078",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-50-2024",
+"path": "local/prahova/banesti/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 50/2024 privind alegerea preşedintelui de şedinţă pentru ședințele lunii septembrie 2024",
+"short": "HCL Bănești nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-03",
+"latest": "2024-10-03",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/170439",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-51-2024",
+"path": "local/prahova/banesti/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 51/2024 privind aprobarea actualizării devizului general și a devizelor generale defalcate pe cheltuieli eligibile și neeligibile aferente obiectivului de investiții „REABILITARE ENERGETICĂ INSTITUȚII DE ÎNVAȚĂMÂNT ÎN COMUNA BĂNEȘTI, JUDEȚUL PRAHOVA – CLĂDIRE ȘCOALĂ VECHE, SAT BĂNEȘTI”",
+"short": "HCL Bănești nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-03",
+"latest": "2024-10-03",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/170440",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-52-2024",
+"path": "local/prahova/banesti/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 52/2024 privind aprobarea rectificării bugetului local al comunei Bănești și a listei de investiții pe anul 2024",
+"short": "HCL Bănești nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-03",
+"latest": "2024-10-03",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/170441",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-53-2024",
+"path": "local/prahova/banesti/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 53/2024 privind alegerea Preşedintelui de şedinţă pentru ședințele lunii noiembrie 2024",
+"short": "HCL Bănești nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-15",
+"latest": "2024-11-15",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/175423",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-54-2024",
+"path": "local/prahova/banesti/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 54/2024 privind organizarea comisiilor de specialitate ale Consiliului Local al comunei Bănești, județul Prahova",
+"short": "HCL Bănești nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-15",
+"latest": "2024-11-15",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/175424",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--banesti-55-2024",
 "path": "local/prahova/banesti/2024/55",
 "kind": "local",
@@ -25,6 +179,52 @@
 }
 },
 {
+"slug": "hcl-prahova--banesti-56-2024",
+"path": "local/prahova/banesti/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 56/2024",
+"short": "HCL Bănești nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/177950",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--banesti-57-2024",
+"path": "local/prahova/banesti/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 57/2024",
+"short": "HCL Bănești nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/177951",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--banesti-58-2024",
 "path": "local/prahova/banesti/2024/58",
 "kind": "local",
@@ -44,6 +244,162 @@
 "council_name": "Consiliul Local al Comunei Bănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-59-2024",
+"path": "local/prahova/banesti/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 59/2024 privind alegerea Preşedintelui de şedinţă pentru ședințele lunii decembrie 2024",
+"short": "HCL Bănești nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/182202",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-60-2024",
+"path": "local/prahova/banesti/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 60/2024 privind oganizarea reţelei şcolare a unităţilor de învăţământ din comuna Bănești, în anul şcolar 2025-2026",
+"short": "HCL Bănești nr. 60/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/182203",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-61-2024",
+"path": "local/prahova/banesti/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 61/2024 privind aprobarea contului de execuţie a bugetului local al comunei Băneşti, al instituțiilor publice finanțate integral sau parțial din venituri proprii la data de 30.09.2024, precum și raportarea facilităților fiscale și a bonificațiilor acordate până la data de 30.09.2024",
+"short": "HCL Bănești nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/182204",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-62-2024",
+"path": "local/prahova/banesti/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 62/2024",
+"short": "HCL Bănești nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/182205",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--banesti-63-2024",
+"path": "local/prahova/banesti/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 63/2024 privind aprobarea rectificării bugetului local al comunei Bănești și a listei de investiții pe anul 2024",
+"short": "HCL Bănești nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/182206",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-64-2024",
+"path": "local/prahova/banesti/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 64/2024",
+"short": "HCL Bănești nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/182207",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--banesti-65-2024",
+"path": "local/prahova/banesti/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 65/2024 privind privind aprobarea prelungirii prin act adițional a Contractului de închiriere nr. 10.154/13.01.2009 încheiat între Comuna Bănești și Inspectoratul Județean de Poliție Prahova",
+"short": "HCL Bănești nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/182208",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

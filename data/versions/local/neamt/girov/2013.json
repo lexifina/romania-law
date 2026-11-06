@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/girov/2013",
+ "acts": [
+  {
+   "slug": "hcl-neamt--girov-3-2013",
+   "path": "local/neamt/girov/2013/3",
+   "short": "HCL Girov nr. 3/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Girov nr. 3/2013 privind aprobarea locurilor pentru organizarea si desfasurarea adunarilor publice Consiliul Local al comunei Girov, judetul Neamt",
+   "url": "https://www.girov.ro/monitor-local/arhiva-hcl-girov-2013.html",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://www.girov.ro/images/stories/arhiva/hcl2013/hcl_girov_feb2013_3.pdf",
+     "sha256": "a26ecc5c0cd04fdfffaf2afb4e9eb2d9f95116d0bc12dddf865e3b0653824544"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--girov-4-2013",
+   "path": "local/neamt/girov/2013/4",
+   "short": "HCL Girov nr. 4/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Girov nr. 4/2013 privind aprobarea unor loturi de casa pentru tinerii de pana ia 35 ani Consiliul Local al comunei Girov, judetul Neamt",
+   "url": "https://www.girov.ro/monitor-local/arhiva-hcl-girov-2013.html",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://www.girov.ro/images/stories/arhiva/hcl2013/hcl_girov_feb2013_4.pdf",
+     "sha256": "6a19b363cdc244a27ec54683e6f1992ca41942a04731648a163556886567c1cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--girov-8-2013",
+   "path": "local/neamt/girov/2013/8",
+   "short": "HCL Girov nr. 8/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Girov nr. 8/2013 privind aprobarea scoaterii la licitatie in vederea concesionarii a unor suprafete de teren situate in domeniul privat al comunei Girov Consiliul Local al comunei Girov, judetul Neamt",
+   "url": "https://www.girov.ro/monitor-local/arhiva-hcl-girov-2013.html",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://www.girov.ro/images/stories/arhiva/hcl2013/hcl_girov_feb2013_8.pdf",
+     "sha256": "c05b683d3086909545fa74e1f3c14b5d9067073569081e5f4c7b2f26a3583832"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--girov-9-2013",
+   "path": "local/neamt/girov/2013/9",
+   "short": "HCL Girov nr. 9/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Girov nr. 9/2013 privind aprobarea introducerii in intravilan a unor suprafete de teren in vederea construirii locuintelor proprietate personala Consiliul Local al comunei Girov, judetul Neamt. Y azand cererile cetatenilor care au in vedere in principal construirea de locuinte prin introducerea in intravilan a unor suprafete de teren' Avand in vedere dispozitiile Legii nr. 50/1991-cadastrele intocmite si Avizele p",
+   "url": "https://www.girov.ro/monitor-local/arhiva-hcl-girov-2013.html",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://www.girov.ro/images/stories/arhiva/hcl2013/hcl_girov_feb2013_9.pdf",
+     "sha256": "c39138f74bdb2f3dcd9cb32ba49fe746c81ffd3e3df423b29a456cf4ae1cb7ca"
+    }
+   ]
+  }
+ ]
+}

@@ -315,6 +315,29 @@
 }
 },
 {
+"slug": "hcl-prahova--blejoi-99-2022",
+"path": "local/prahova/blejoi/2022/99",
+"kind": "local",
+"year": "2022",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 99/2022",
+"short": "HCL Blejoi nr. 99/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-03",
+"latest": "2023-01-03",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/84754",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--blejoi-100-2022",
 "path": "local/prahova/blejoi/2022/100",
 "kind": "local",

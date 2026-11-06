@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/tarcau/2022",
+ "acts": [
+  {
+   "slug": "hcl-neamt--tarcau-67-2022",
+   "path": "local/neamt/tarcau/2022/67",
+   "short": "HCL Tarcău nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 67/2022 privind alegerea preşedintelui de şedinţă a Consiliului local al comunei Tarcău, pentru perioada octombrie – decembrie 2022",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/74183",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/74183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-68-2022",
+   "path": "local/neamt/tarcau/2022/68",
+   "short": "HCL Tarcău nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 68/2022 privind punerea la dispoziţia APASERV SA Piatra Neamţ a terenului necesar implementării investiţiei CL 8 - Extinderea sistemului de apă și de canalizare în aglomerările: Bicaz, Bicazu Ardelean, Pangăraţi, Dămuc, Tarcau şi Taşca în cadrul “Proiectul regional de dezvoltare a infrastructurii de apă şi apă uzată din judeţul Neamţ, în perioada 2014-2020”, finanţat prin POIM 2014-2020",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/74184",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/74184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-69-2022",
+   "path": "local/neamt/tarcau/2022/69",
+   "short": "HCL Tarcău nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 69/2022 privind aprobarea valorii investiţilor APASERV SA Piatra Neamţ, aferente Comunei Tarcău, şi participarea Comunei Tarcău la cofinanţarea investiţiei CL 8 - Extinderea sistemului de apă și de canalizare în aglomerările: Bicaz, Bicazu Ardelean, Pangăraţi, Dămuc, Tarcau şi Taşca în cadrul “Proiectului regional de dezvoltare a infrastructurii de apă şi apă uzată din judeţul Neamţ, în perioada 2014-2020”, finanţat prin POIM 2014-2020",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/74185",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/74185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-70-2022",
+   "path": "local/neamt/tarcau/2022/70",
+   "short": "HCL Tarcău nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 70/2022 pentru modificarea Hotărârii Consiliului Local nr. 19/31 martie 2022 privind aprobarea exploatării cantității de 162,71 mc masă lemnoasă pe picior, provenind de pe terenuri cu vegetaţie forestieră proprietatea comunei Tarcău, în vederea susţinerii unor unităţi de cult, precum și a unor persoane vulnerabile sau aflate în dificultate, de pe raza comunei Tarcău",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/74186",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/74186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-71-2022",
+   "path": "local/neamt/tarcau/2022/71",
+   "short": "HCL Tarcău nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 71/2022 privind aprobarea depunerii proiectului ”Asigurarea infrastructurii TIC (sisteme inteligente de management local) la nivelul comunei Tarcău”, în cadrul apelului de proiecte cu titlul PNRR/2022/C10/I.1.2-Fondul local I.1.2 - Asigurarea infrastructurii pentru transportul verde – ITS/alte infrastructuri TIC (sisteme inteligente de management urban/local)",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/75260",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/75260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-72-2022",
+   "path": "local/neamt/tarcau/2022/72",
+   "short": "HCL Tarcău nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 72/2022 privind modificarea şi completarea Actului Constitutiv şi a Statutului Asociaţiei de Dezvoltare Intercomunitară ”AQUA NEAMŢ”, ca urmare a retragerii comunei Poiana Teiului din cadrul Asociației",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/77923",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/77923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-73-2022",
+   "path": "local/neamt/tarcau/2022/73",
+   "short": "HCL Tarcău nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 73/2022",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/77924",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/77924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-74-2022",
+   "path": "local/neamt/tarcau/2022/74",
+   "short": "HCL Tarcău nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 74/2022",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/77925",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/77925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-75-2022",
+   "path": "local/neamt/tarcau/2022/75",
+   "short": "HCL Tarcău nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 75/2022 privind acordarea unor mandate speciale reprezentantului comunei Tarcău în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară „ECONEAMŢ”",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/77926",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/77926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-76-2022",
+   "path": "local/neamt/tarcau/2022/76",
+   "short": "HCL Tarcău nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 76/2022 privind aprobarea rectificării bugetului local al comunei Tarcău pentru anul 2022",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/77927",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/77927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-77-2022",
+   "path": "local/neamt/tarcau/2022/77",
+   "short": "HCL Tarcău nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 77/2022 privind publicarea listelor contribuabililor persoane juridice care nu au obligații restante",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/77928",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/77928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-78-2022",
+   "path": "local/neamt/tarcau/2022/78",
+   "short": "HCL Tarcău nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 78/2022",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/77929",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/77929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-79-2022",
+   "path": "local/neamt/tarcau/2022/79",
+   "short": "HCL Tarcău nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 79/2022 privind acceptarea unei donații cu sarcini",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/81728",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/81728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-80-2022",
+   "path": "local/neamt/tarcau/2022/80",
+   "short": "HCL Tarcău nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 80/2022 privind aprobarea rectificarii bugetului local al comunei Tarcău pentru anul 2022",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/82509",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/82509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-81-2022",
+   "path": "local/neamt/tarcau/2022/81",
+   "short": "HCL Tarcău nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 81/2022 privind stabilirea normativului de cheltuieli privind consumul lunar de carburanți pentru autovehicolele/autospecialele și utilajele primăriei Comunei Tarcău, precum și pentru autovehiculele personale, utilizate în interesul serviciului",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/82510",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/82510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-82-2022",
+   "path": "local/neamt/tarcau/2022/82",
+   "short": "HCL Tarcău nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 82/2022 privind stabilirea componenţei nominale a comisiilor de specialitate ale Consiliului Local al Comunei Tarcău",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/82511",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/82511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-83-2022",
+   "path": "local/neamt/tarcau/2022/83",
+   "short": "HCL Tarcău nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 83/2022 privind stabilirea impozitelor şi taxelor locale, precum şi a taxelor speciale, pentru anul 2023",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/84177",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/84177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-84-2022",
+   "path": "local/neamt/tarcau/2022/84",
+   "short": "HCL Tarcău nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 84/2022 privind aprobarea rectificarii bugetului local al comunei Tarcău pentru anul 2022",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/84178",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/84178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-85-2022",
+   "path": "local/neamt/tarcau/2022/85",
+   "short": "HCL Tarcău nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 85/2022 privind aprobarea reţelei şcolare a unităţilor de învăţământ de stat care se organizează în comuna Tarcău în anul şcolar 2023 - 2024",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/84179",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/84179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-86-2022",
+   "path": "local/neamt/tarcau/2022/86",
+   "short": "HCL Tarcău nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 86/2022 privind alegerea preşedintelui de şedinţă a Consiliului local al comunei Tarcău, pentru perioada ianuarie - martie 2023",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/84180",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/84180",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

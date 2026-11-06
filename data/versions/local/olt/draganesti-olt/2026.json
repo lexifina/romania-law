@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/olt/draganesti-olt/2026",
+ "acts": [
+  {
+   "slug": "hcl-olt--draganesti-olt-31-2026",
+   "path": "local/olt/draganesti-olt/2026/31",
+   "short": "HCL Drăgănești-Olt nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 31/2026",
+   "url": "https://draganesti-olt.ro/wp-content/uploads/2026/09/HCL-nr.31-din-17.04.2026-Organigrama.pdf",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/wp-content/uploads/2026/09/HCL-nr.31-din-17.04.2026-Organigrama.pdf",
+     "sha256": "58d3bc785ebebca54e84637a4c5405ed16945599c7d99aabcd4b3e3aa3a62e6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-62-2026",
+   "path": "local/olt/draganesti-olt/2026/62",
+   "short": "HCL Drăgănești-Olt nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 62/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8eb600ba9a9bd1c8066f13ddb140adf053cfb14a6da7ed9e65c05e2b576818c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-87-2026",
+   "path": "local/olt/draganesti-olt/2026/87",
+   "short": "HCL Drăgănești-Olt nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 87/2026",
+   "url": "https://draganesti-olt.ro/wp-content/uploads/2026/10/HCL-nr.-87-din-06.10.2026-PUZ-constr-spatiu-comerc-Lidl.pdf",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/wp-content/uploads/2026/10/HCL-nr.-87-din-06.10.2026-PUZ-constr-spatiu-comerc-Lidl.pdf",
+     "sha256": "d7fe0eb67df3dc65c27801dae7ca5be3b836fa78e12a97f4c6a14d4aa1c79a15"
+    }
+   ]
+  }
+ ]
+}

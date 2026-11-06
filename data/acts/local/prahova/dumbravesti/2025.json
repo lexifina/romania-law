@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbravesti-69-2025",
+"path": "local/prahova/dumbravesti/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 69/2025 privind alegerea preşedintelui de şedinţă pentru perioada decembrie 2025 - februarie 2026",
+"short": "HCL Dumbrăvești nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-10",
+"latest": "2025-12-10",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/237711",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbravesti-70-2025",
 "path": "local/prahova/dumbravesti/2025/70",
 "kind": "local",
@@ -220,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Dumbrăvești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-74-2025",
+"path": "local/prahova/dumbravesti/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 74/2025 privind modificarea componenței Comisiei pentru învățământ, sănătate, cultură și religie, protecție socială, activități sportive și de agrement stabilită prin Hotărârea Consiliului local al Comunei Dumbrăvești nr. 66 din 11.11.2024",
+"short": "HCL Dumbrăvești nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/242179",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

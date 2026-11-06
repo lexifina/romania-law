@@ -3,6 +3,66 @@
  "shard": "local/neamt/petricani/2026",
  "acts": [
   {
+   "slug": "hcl-neamt--petricani-38-2026",
+   "path": "local/neamt/petricani/2026/38",
+   "short": "HCL Petricani nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Petricani nr. 38/2026",
+   "url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-38-din-26.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-38-din-26.06.2026.pdf",
+     "sha256": "2b21e9d0c0b53eb1fd64fa90d9f0ac579d708028d52da33acddc90f7bcd4143a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--petricani-39-2026",
+   "path": "local/neamt/petricani/2026/39",
+   "short": "HCL Petricani nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Petricani nr. 39/2026 privind achiziționarea serviciilor de cadastru și topografie necesare avizării ridicărilor topografice aferente proiectului ,, DEZVOLTARE REȚEA INTELIGENTĂ DE DISTRIBUȚIE A GAZELOR NATURALE ÎN COMUNELE AGAPIA, GRUMĂZEȘTI ȘI PETRICANI, JUDEȚUL NEAMȚ’’ Consiliul local al comunei Petricani, judetul Neamt, întrunit în ședință ordinară în data de 26.06.2026",
+   "url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-39-din-26.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-39-din-26.06.2026.pdf",
+     "sha256": "4f55b960a44bea9c2e3f7ff79964c2037f980af31ebd21912f6f107048d551a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--petricani-40-2026",
+   "path": "local/neamt/petricani/2026/40",
+   "short": "HCL Petricani nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Petricani nr. 40/2026 privind aprobarea investiției ,,Modernizarea gardului aferent Școlii Profesionale Petricani, sat. Petricani, comuna Petricani, județul Neamț” Consiliul local al comunei Petricani, întrunit în ședință ordinară în data de 26.06.2026",
+   "url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-40-din-26.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-40-din-26.06.2026.pdf",
+     "sha256": "673075fb0eddc5eeb4591e90b1730dc3c032079c114b3834c0759f1f531c1fc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--petricani-41-2026",
+   "path": "local/neamt/petricani/2026/41",
+   "short": "HCL Petricani nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Petricani nr. 41/2026 privind modificarea denumirii obiectivului de investitii ,, Amenajarea și dotare loc de joacă pentru copii” cuprins în HCL nr. 28/30.04.2026, în ,, Construire, amenajare, dotare și împrejmuire cu gard a unui loc de joacă pentru copii în satul Petricani, comuna Petricani, județul Neamț” Consiliul local al comunei Petricani, întrunit în ședință ordinară în data de 26.06.2026",
+   "url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-41-din-26.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-41-din-26.06.2026.pdf",
+     "sha256": "a7048e6c55d7baf585277b945d3c9baf965c365014221362a06521e49caeda83"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--petricani-42-2026",
    "path": "local/neamt/petricani/2026/42",
    "short": "HCL Petricani nr. 42/2026",
@@ -14,6 +74,186 @@
      "units": 1,
      "source_url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-42-din-26.06.2026.pdf",
      "sha256": "8d66818f1fc87ba658f29288d522afcda974daa7f99717eda7962b5fb739f5ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--petricani-43-2026",
+   "path": "local/neamt/petricani/2026/43",
+   "short": "HCL Petricani nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Petricani nr. 43/2026 privind aprobarea Studiului de fezabilitate actualizat și a indicatorilor tehnico economici aferenți obiectivului de investiții ,, DEZVOLTARE REȚEA INTELIGENTĂ DE DISTRIBUȚIE A GAZELOR NATURALE ÎN COMUNELE AGAPIA, GRUMĂZEȘTI ȘI PETRICANI, JUDEȚUL NEAMȚ’’ Consiliul local al comunei Petricani, Județul Neamț întrunit în ședință ordinară în data de 13.07.2026; Având în vedere: -referatul de aprobare n",
+   "url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-43-din-13.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-43-din-13.07.2026.pdf",
+     "sha256": "cb4ed873a3f0304dfc6a14cbc73a667e84d9840c78b3e633fd2b557f1139363f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--petricani-44-2026",
+   "path": "local/neamt/petricani/2026/44",
+   "short": "HCL Petricani nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Petricani nr. 44/2026 privind aprobarea realizării Proiectului Tehnic pentru obiectivul de investiții ,, Construire spațiu de adăpostire și întreținere utilaje, sat Petricani, comuna Petricani, județul Neamț” Consiliul local al comunei Petricani, întrunit în ședință ordinară în data de 13.07.2026",
+   "url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-44-din-13.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-44-din-13.07.2026.pdf",
+     "sha256": "3d4b9175cb9b4f233886b1c94b8623b1e8c9c30fff1132b98d81717b36ed3f67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--petricani-45-2026",
+   "path": "local/neamt/petricani/2026/45",
+   "short": "HCL Petricani nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Petricani nr. 45/2026",
+   "url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-45-din-24.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-45-din-24.07.2026.pdf",
+     "sha256": "a582340a6872f712b3539754a991481462e486e5a3d4c83c4155651b1fab1583"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--petricani-47-2026",
+   "path": "local/neamt/petricani/2026/47",
+   "short": "HCL Petricani nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Petricani nr. 47/2026 privind aprobarea achiziției serviciilor unei firme de specialitate pentru întocmirea expertizei tehnice la cerința fundamentală A1 - ,, Rezistență mecanică și stabilitate ”, aferentă obiectivului de investiții ,,Reabilitare structurală, extindere, modernizare și eficientizare energetică a Școlii Primare nr.2, sat. Petricani, comuna Petricani, județul Neamț” Consiliul local al comunei Petricani, j",
+   "url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-47-din-24.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-47-din-24.06.2026.pdf",
+     "sha256": "eea674eb4e89bf733dc76416ce03e7eba6b4ab9054c758912f48c20db225afbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--petricani-50-2026",
+   "path": "local/neamt/petricani/2026/50",
+   "short": "HCL Petricani nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Petricani nr. 50/2026 privind aprobarea Studiului de Fundamentare a deciziei de concesionare a serviciului de utilitate publică de distribuție a gazelor naturale pentru Unitățile Administrativ-Teritoriale constituite în Asociația de Dezvoltare Intercomunitară „Valea Netezului” din județul Neamț, pentru obiectivul de investitii „Dezvoltare rețea inteligentă de distribuție a gazelor naturale în comunele Agapia, Grumăzeșt",
+   "url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-50-din-24.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-50-din-24.07.2026.pdf",
+     "sha256": "6b3c9d357e4374f7449cc1012999f052494ef150bb01ceae4ddd96c4669ff0c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--petricani-51-2026",
+   "path": "local/neamt/petricani/2026/51",
+   "short": "HCL Petricani nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Petricani nr. 51/2026 privind aprobarea achiziției serviciilor unei firme de specialitate în vederea ignifugării șarpantei de la Școala nr. 1 Târpești Consiliul local al comunei Petricani, judetul Neamț",
+   "url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-51-din-19.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-51-din-19.08.2026.pdf",
+     "sha256": "3797fae8d8a593a22869c8bd2bafe80751f1f167891b0c3331fab2ab018a9d00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--petricani-52-2026",
+   "path": "local/neamt/petricani/2026/52",
+   "short": "HCL Petricani nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Petricani nr. 52/2026 privind aprobarea achiziției serviciilor unei firme de specialitate în vederea realizării unui certificat de performanță energetică la Școala Nr. 1Târpești Consiliul local al comunei Petricani, judetul Neamț",
+   "url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-52-din-19.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-52-din-19.08.2026.pdf",
+     "sha256": "cc78a96350bb0fe818b8066715a2c8b6143a269fee757b645938f20f85314aff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--petricani-53-2026",
+   "path": "local/neamt/petricani/2026/53",
+   "short": "HCL Petricani nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Petricani nr. 53/2026 privind însușirea raportului privind activitatea asistenților personali ai persoanelor cu handicap grav pe semestrul I al anului 2026 Consiliul Local al comunei Petricani, județul Neamț: Având în vedere: -referatul de aprobare al primarului comunei Petricani in calitatea sa de inițiator Nr. 5346/2026. -raportul de specialitate al compartimentului de resort Nr. 5345/2026. -avizele favorabile ale Co",
+   "url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-53-din-28.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-53-din-28.08.2026.pdf",
+     "sha256": "a28b2a2e2e8b6b7b31d9632ecd72683c62500b1517eeb5dbb7865bcfedbcb6f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--petricani-55-2026",
+   "path": "local/neamt/petricani/2026/55",
+   "short": "HCL Petricani nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Petricani nr. 55/2026 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziția produselor aferente programului și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivelul comunei Petricani pentru anii școlari 2026-2027, 2027-2028 și 2028-2029 Consiliul local al comunei Petricani, întrunit",
+   "url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-55-din-08.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-55-din-08.09.2026.pdf",
+     "sha256": "833ae4f581f333044d5bf207e51e4fa699428c2093f4d419f9575520d990df81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--petricani-56-2026",
+   "path": "local/neamt/petricani/2026/56",
+   "short": "HCL Petricani nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Petricani nr. 56/2026 privind aprobarea achiziției serviciilor unei firme de specialitate în vederea realizării unui audit energetic la Școala Nr. 2 Petricani Consiliul local al comunei Petricani, judetul Neamț",
+   "url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-56-din-14.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-56-din-14.09.2026.pdf",
+     "sha256": "1ffadae655569e79f60a6f0394115aa09325570004f34c84fc1e2de3e53b2e03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--petricani-58-2026",
+   "path": "local/neamt/petricani/2026/58",
+   "short": "HCL Petricani nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Petricani nr. 58/2026 privind aprobarea realizării obiectivului de investiții ,,Reabilitarea și modernizarea terenului de sport aferent bazei sportive model tip 2, din satul Petricani, comuna Petricani, județul Neamț” Consiliul local al comunei Petricani, judetul Neamț",
+   "url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-58-din-21.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-58-din-21.09.2026.pdf",
+     "sha256": "68953bdf9c7924985f8a4cb60a294f6c245c1e1232a95848bf876d2398848d9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--petricani-61-2026",
+   "path": "local/neamt/petricani/2026/61",
+   "short": "HCL Petricani nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Petricani nr. 61/2026 privind aprobarea achiziției serviciilor de proiectare în vederea realizării obiectivului de investiții ,,Reabilitarea și modernizarea terenului de sport aferent bazei sportive model tip 2, din satul Petricani, comuna Petricani, județul Neamț” Consiliul local al comunei Petricani, întrunit în ședință extraordinară în data de 23.09.2026",
+   "url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-61-din-23.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://www.comunapetricani.ro/wp-content/uploads/2026/06/HCL-Nr.-61-din-23.09.2026.pdf",
+     "sha256": "9f6bafb0789d6e5265c25a8611cce32b004ea7639c50e1bf83110c87eb4298ad"
     }
    ]
   }

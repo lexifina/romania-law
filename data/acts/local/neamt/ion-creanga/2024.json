@@ -26,6 +26,28 @@
 }
 },
 {
+"slug": "hcl-neamt--ion-creanga-77-2024",
+"path": "local/neamt/ion-creanga/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 77/2024 privind desemnarea reprezentanților Consiliului Local al Comunei Ion Creangă în Consiliul de administrație al Școlii Gimnaziale Comuna Ion Creangă, jud. Neamț",
+"short": "HCL Ion Creangă nr. 77/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/170403",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--ion-creanga-78-2024",
 "path": "local/neamt/ion-creanga/2024/78",
 "kind": "local",
@@ -111,6 +133,28 @@
 "council_name": "Consiliul Local al Comunei Ion Creangă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--ion-creanga-82-2024",
+"path": "local/neamt/ion-creanga/2024/82",
+"kind": "local",
+"year": "2024",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 82/2024 privind modificarea si completarea HCL nr. 77 din 19.09.2024 desemnarea reprezentanților CL",
+"short": "HCL Ion Creangă nr. 82/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-28",
+"latest": "2024-10-28",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/173305",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -265,6 +309,29 @@
 "council_name": "Consiliul Local al Comunei Ion Creangă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--ion-creanga-90-2024",
+"path": "local/neamt/ion-creanga/2024/90",
+"kind": "local",
+"year": "2024",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 90/2024",
+"short": "HCL Ion Creangă nr. 90/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-06",
+"latest": "2024-12-06",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/179783",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-prahova--floresti-38-2020",
+"path": "local/prahova/floresti/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 38/2020 privind desemnarea reprezentanţilor Consiliului Local al comunei Floresti în Consiliul de Administraţie al Şcolii Gimnaziale,Comuna Floresti",
+"short": "HCL Florești nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-17",
+"latest": "2020-09-17",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/9108",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--floresti-39-2020",
 "path": "local/prahova/floresti/2020/39",
 "kind": "local",
@@ -176,6 +198,29 @@
 "council_name": "Consiliul Local al Comunei Florești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--floresti-40-2020",
+"path": "local/prahova/floresti/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 40/2020",
+"short": "HCL Florești nr. 40/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-17",
+"latest": "2020-09-17",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/9110",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

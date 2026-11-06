@@ -3,6 +3,186 @@
  "shard": "local/prahova/banesti/2021",
  "acts": [
   {
+   "slug": "hcl-prahova--banesti-80-2021",
+   "path": "local/prahova/banesti/2021/80",
+   "short": "HCL Bănești nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 80/2021",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/40993",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/40993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-81-2021",
+   "path": "local/prahova/banesti/2021/81",
+   "short": "HCL Bănești nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 81/2021",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/40994",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/40994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-82-2021",
+   "path": "local/prahova/banesti/2021/82",
+   "short": "HCL Bănești nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 82/2021 privind desemnarea unui reprezentant al Consiliului Local al comunei Băneşti care să facă parte din Comisia de evaluare a probei de interviu pentru ocuparea funcţiilor de director şi director adjunct din unităţile de învăţământ preuniversitar de stat, constituită la nivelul Inspectoratului Școlar Județean Prahova",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/40995",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/40995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-83-2021",
+   "path": "local/prahova/banesti/2021/83",
+   "short": "HCL Bănești nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 83/2021 privind alegerea Preşedintelui de şedinţă pentru ședințele din luna noiembrie 2021",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/43918",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/43918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-84-2021",
+   "path": "local/prahova/banesti/2021/84",
+   "short": "HCL Bănești nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 84/2021 privind aprobarea contului de execuţie a bugetului local al comunei Băneşti şi a instituțiilor publice finanțate integral sau parțial din venituri proprii la data de 30.09.2021 și raportarea facilităților fiscale și a bonificațiilor acordate până la data de 30.09.2021",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/43919",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/43919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-85-2021",
+   "path": "local/prahova/banesti/2021/85",
+   "short": "HCL Bănești nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 85/2021 privind aprobarea schimbării destinației spațiului de depozitare aferent Cabinetului stomatologic în spațiu de birouri pentru mansarda construcției C4, număr cadastral 21617",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/43920",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/43920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-86-2021",
+   "path": "local/prahova/banesti/2021/86",
+   "short": "HCL Bănești nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 86/2021 privind aprobarea rectificării bugetului local , aprobarea bugetului creditelor interne al Comunei Bănești și a listei de investiții pe anul 2021",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/43921",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/43921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-87-2021",
+   "path": "local/prahova/banesti/2021/87",
+   "short": "HCL Bănești nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 87/2021",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/43922",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/43922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-88-2021",
+   "path": "local/prahova/banesti/2021/88",
+   "short": "HCL Bănești nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 88/2021 privind aprobarea închirierii prin licitaţie publică a spațiului în suprafată de 70 mp, cu destinatia birouri, situat la mansarda constructiei C4-Cabinet Stomatologic, nr.cadastral 21617, în comuna Banesti, sat Urleta, strada Principală, nr.119",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/43923",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/43923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-89-2021",
+   "path": "local/prahova/banesti/2021/89",
+   "short": "HCL Bănești nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 89/2021 privind înființarea unei societăți comerciale, având ca obiect principal de activitate ”Captarea, tratarea si distribuția apei - cod CAEN 3600”, de drept public și de interes local, având ca acționar unic Comuna Bănești, subordonată Consiliului local al Comunei Bănești",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/43924",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/43924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-90-2021",
+   "path": "local/prahova/banesti/2021/90",
+   "short": "HCL Bănești nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 90/2021 privind implementarea proiectului „Dezvoltarea infrastructurii sociale prin susținerea desfășurării activității ansamblului folcloric al Comunei Bănești”",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/43925",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/43925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-91-2021",
+   "path": "local/prahova/banesti/2021/91",
+   "short": "HCL Bănești nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 91/2021 privind aprobarea schimbării destinației imobilului clădire C1 (P+E), număr cadastral 22824 ”Fost Post de Control Poliție” în spațiu de birouri",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/43926",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/43926",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--banesti-92-2021",
    "path": "local/prahova/banesti/2021/92",
    "short": "HCL Bănești nr. 92/2021",
@@ -18,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--banesti-93-2021",
+   "path": "local/prahova/banesti/2021/93",
+   "short": "HCL Bănești nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 93/2021 privind alegerea Preşedintelui de şedinţă pentru ședințele din luna decembrie 2021",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/45962",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/45962",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--banesti-94-2021",
    "path": "local/prahova/banesti/2021/94",
    "short": "HCL Bănești nr. 94/2021",
@@ -28,6 +223,81 @@
      "from": "2021-12-22",
      "units": 1,
      "source_url": "https://emol.ro/banesti-ph/registru-hcl/45963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-95-2021",
+   "path": "local/prahova/banesti/2021/95",
+   "short": "HCL Bănești nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 95/2021 privind aprobarea efectuării operaţiunilor notariale de dezmembrare a terenului în suprafaţă măsurată de 1119 mp, ( 1120 mp. din acte), identificat prin nr.cadastral 22824",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/45964",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/45964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-96-2021",
+   "path": "local/prahova/banesti/2021/96",
+   "short": "HCL Bănești nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 96/2021 privind aprobarea rectificării bugetului local al comunei Bănești și a listei de investiții pe anul 2021",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/45965",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/45965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-97-2021",
+   "path": "local/prahova/banesti/2021/97",
+   "short": "HCL Bănești nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 97/2021 privind aprobarea prelungirii prin act adițional a Contractului de închiriere nr.10154/13.01.2009, încheiat între COMUNA BĂNEȘTI și INSPECTORATUL JUDEŢEAN DE POLIŢIE PRAHOVA",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/45966",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/45966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-98-2021",
+   "path": "local/prahova/banesti/2021/98",
+   "short": "HCL Bănești nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 98/2021 privind aprobarea modificării si completarii art. 39 din Anexa la H.CL. nr. 48/29.06.2021 privind Regulamentul de acordare a finantarilor din bugetul local al Comunei Banesti, pentru activitati sportive organizate in baza Legii nr. 69/2000 a educatiei fizice si sportului",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/45967",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/45967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-99-2021",
+   "path": "local/prahova/banesti/2021/99",
+   "short": "HCL Bănești nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 99/2021",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/45968",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/45968",
      "sha256": null
     }
    ]

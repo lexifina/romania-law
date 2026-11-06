@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--tasca-62-2020",
+   "path": "local/neamt/tasca/2020/62",
+   "short": "HCL Tașca nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 62/2020 privind modificarea și completarea HCL Tașca nr. 26/12.03.2020 privind aprobarea închirierii, prin licitație publică, a trupului de pășune din punctul ,,SMIDA”, aflat în domeniul public al comunei Tașca, județul Neamț",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/9204",
+   "versions": [
+    {
+     "from": "2020-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/9204",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--tasca-63-2020",
    "path": "local/neamt/tasca/2020/63",
    "short": "HCL Tașca nr. 63/2020",
@@ -28,6 +43,21 @@
      "from": "2020-07-17",
      "units": 1,
      "source_url": "https://emol.ro/tasca-nt/registru-hcl/9205",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-64-2020",
+   "path": "local/neamt/tasca/2020/64",
+   "short": "HCL Tașca nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 64/2020 privind însuşirea raportului de evaluare și aprobarea vânzării fără licitație publică a terenului aparținând domeniului privat al comunei Tașca, în suprafață de 22.664 mp, aferent construcțiilor proprietate personală, situat în zona industrială, sat Tașca, comuna Tașca, județul Neamț, prin exercitarea dreptului de preempțiune de către SC TC COMPIL IMPEX SRL",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/9206",
+   "versions": [
+    {
+     "from": "2020-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/9206",
      "sha256": null
     }
    ]
@@ -63,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--tasca-68-2020",
+   "path": "local/neamt/tasca/2020/68",
+   "short": "HCL Tașca nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 68/2020 privind modificarea HCL Tașca nr.29/29.04.2020 privind desemnarea reprezentanților împuterniciți ai Consiliului Local, pentru constatarea și aplicarea contravențiilor prevăzute în Legea energiei electrice și a gazelor naturale nr.123/2012",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/9218",
+   "versions": [
+    {
+     "from": "2020-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/9218",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--tasca-69-2020",
    "path": "local/neamt/tasca/2020/69",
    "short": "HCL Tașca nr. 69/2020",
@@ -88,6 +133,21 @@
      "from": "2020-08-13",
      "units": 1,
      "source_url": "https://emol.ro/tasca-nt/registru-hcl/9220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-71-2020",
+   "path": "local/neamt/tasca/2020/71",
+   "short": "HCL Tașca nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 71/2020",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/9221",
+   "versions": [
+    {
+     "from": "2020-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/9221",
      "sha256": null
     }
    ]
@@ -163,6 +223,36 @@
      "from": "2020-09-15",
      "units": 1,
      "source_url": "https://emol.ro/tasca-nt/registru-hcl/20017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-78-2020",
+   "path": "local/neamt/tasca/2020/78",
+   "short": "HCL Tașca nr. 78/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 78/2020 privind implementarea proiectului ” Dotarea unităților de învățământ preuniversitar de stat cu echipamente de protecție medicală de tip măști de protecție medicală, dezinfectanță, precum și alte echipamente de acest tip, necesare pentru a preveni răspândirea coronavirusului SARS-Cov-2 în Comuna Tașca, județul Neamț”",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/20212",
+   "versions": [
+    {
+     "from": "2020-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/20212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-79-2020",
+   "path": "local/neamt/tasca/2020/79",
+   "short": "HCL Tașca nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 79/2020 privind la aprobarea obiectivului de investiții și implementării proiectului cu tema ” Achiziția de echipamente din domeniul tehnologiei-it mobile, respectiv tablete, echipamente și dispozitive necesare activității didactice pentru elevii și cadrele didactice din învățământul preuniversitar, Comuna Tașca, Juețul Neamț ”",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/20213",
+   "versions": [
+    {
+     "from": "2020-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/20213",
      "sha256": null
     }
    ]

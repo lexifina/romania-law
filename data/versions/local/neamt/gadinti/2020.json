@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--gadinti-35-2020",
+   "path": "local/neamt/gadinti/2020/35",
+   "short": "HCL Gâdinți nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 35/2020 privind aprobarea modificării temei de proiectare în timpul execuției lucrărilor de construcție a obiectivului de investiții “ÎNFIINȚARE SISTEM DE ALIMENTARE CU APĂ, ÎN SAT GÂDINȚI, COMUNA GÂDINȚI, JUDEȚUL NEAMȚ ȘI ÎNFIINȚARE REȚEA CANALIZARE MENAJERĂ, ÎN SAT GÂDINȚI, COMUNA GÂDINȚI, JUDEȚUL NEAMȚ”",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/8807",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/8807",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--gadinti-36-2020",
    "path": "local/neamt/gadinti/2020/36",
    "short": "HCL Gâdinți nr. 36/2020",
@@ -63,6 +78,36 @@
    ]
   },
   {
+   "slug": "hcl-neamt--gadinti-38-2020",
+   "path": "local/neamt/gadinti/2020/38",
+   "short": "HCL Gâdinți nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 38/2020 privind alegerea presedintelui de sedinta pentru lunile: noiembrie, decembrie 2020 şi ianuarie 2021",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/11770",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/11770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-39-2020",
+   "path": "local/neamt/gadinti/2020/39",
+   "short": "HCL Gâdinți nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 39/2020 privind alegerea viceprimarului comunei Gâdinţi",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/11771",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/11771",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--gadinti-40-2020",
    "path": "local/neamt/gadinti/2020/40",
    "short": "HCL Gâdinți nr. 40/2020",
@@ -88,6 +133,21 @@
      "from": "2020-11-27",
      "units": 1,
      "source_url": "https://emol.ro/gadinti-nt/registru-hcl/11773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-42-2020",
+   "path": "local/neamt/gadinti/2020/42",
+   "short": "HCL Gâdinți nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 42/2020 privind stabilirea indemnizaţie lunare pentru consilierii locali în mandatul 2020 - 2024",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/11774",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/11774",
      "sha256": null
     }
    ]
@@ -163,6 +223,36 @@
      "from": "2020-12-10",
      "units": 1,
      "source_url": "https://emol.ro/gadinti-nt/registru-hcl/12252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-48-2020",
+   "path": "local/neamt/gadinti/2020/48",
+   "short": "HCL Gâdinți nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 48/2020 privind desemnarea reprezentantului Consiliului local al comunei Gâdinţi în Consiliul de administraţie al Şcolii gimnaziale Gâdinţi",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/12253",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/12253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-49-2020",
+   "path": "local/neamt/gadinti/2020/49",
+   "short": "HCL Gâdinți nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 49/2020 privind aprobarea funcţiilor publice, a organigramei şi a statului de funcţii",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/12254",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/12254",
      "sha256": null
     }
    ]

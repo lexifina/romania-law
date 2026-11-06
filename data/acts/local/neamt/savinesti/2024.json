@@ -289,6 +289,28 @@
 }
 },
 {
+"slug": "hcl-neamt--savinesti-31-2024",
+"path": "local/neamt/savinesti/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 31/2024 privind aprobarea actului aditional la contractual de concesiune nr.6943/15.10.2009- concesionar Pârjoleanu Estera Gabi",
+"short": "HCL Săvinești nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-29",
+"latest": "2024-07-29",
+"portal": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#80091",
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--savinesti-32-2024",
 "path": "local/neamt/savinesti/2024/32",
 "kind": "local",
@@ -622,6 +644,28 @@
 }
 },
 {
+"slug": "hcl-neamt--savinesti-47-2024",
+"path": "local/neamt/savinesti/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 47/2024 Privind alegerea preşedintelui de şedinţă",
+"short": "HCL Săvinești nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#86235",
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--savinesti-48-2024",
 "path": "local/neamt/savinesti/2024/48",
 "kind": "local",
@@ -666,6 +710,50 @@
 }
 },
 {
+"slug": "hcl-neamt--savinesti-50-2024",
+"path": "local/neamt/savinesti/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 50/2024 Privind desemnarea reprezentanților Consiliului Local al comunei Săvinești, în cadrul Consiliului de administrație al Școlii Gimnaziale ,,I. Gervescu”, de pe teritoriul administrativ al comunei Săvinești, pentru anul școlar 2024-2025",
+"short": "HCL Săvinești nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#86240",
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--savinesti-51-2024",
+"path": "local/neamt/savinesti/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 51/2024 Privind alegerea viceprimarului comunei Savineşti, judeţul Neamţ",
+"short": "HCL Săvinești nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#86255",
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--savinesti-52-2024",
 "path": "local/neamt/savinesti/2024/52",
 "kind": "local",
@@ -707,6 +795,28 @@
 "council_name": "Consiliul Local al Comunei Săvinești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--savinesti-54-2024",
+"path": "local/neamt/savinesti/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 54/2024 Privind acordarea unui sprijin financiar pentru Parohiile din comuna Săvineşti",
+"short": "HCL Săvinești nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-15",
+"latest": "2024-11-15",
+"portal": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#86809",
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

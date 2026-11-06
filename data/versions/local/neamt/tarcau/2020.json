@@ -33,6 +33,51 @@
    ]
   },
   {
+   "slug": "hcl-neamt--tarcau-102-2020",
+   "path": "local/neamt/tarcau/2020/102",
+   "short": "HCL Tarcău nr. 102/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 102/2020",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/26636",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-103-2020",
+   "path": "local/neamt/tarcau/2020/103",
+   "short": "HCL Tarcău nr. 103/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 103/2020",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/26637",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-104-2020",
+   "path": "local/neamt/tarcau/2020/104",
+   "short": "HCL Tarcău nr. 104/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 104/2020 privind aprobarea reţelei şcolare a unităţilor de învăţământ de stat care se organizează în comuna Tarcău în anul şcolar 2021 - 2022",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/26638",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26638",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--tarcau-105-2020",
    "path": "local/neamt/tarcau/2020/105",
    "short": "HCL Tarcău nr. 105/2020",
@@ -78,6 +123,51 @@
    ]
   },
   {
+   "slug": "hcl-neamt--tarcau-108-2020",
+   "path": "local/neamt/tarcau/2020/108",
+   "short": "HCL Tarcău nr. 108/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 108/2020 privind aprobarea vânzării unui teren în suprafaţă de 625 mp, situat în satul Brateş, inventariat în domeniul privat al Comunei Tarcău, aferent contractului ce concesiune nr. 1930/2002",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/26642",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-109-2020",
+   "path": "local/neamt/tarcau/2020/109",
+   "short": "HCL Tarcău nr. 109/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 109/2020 privind modificarea de la 1 ianuarie 2021 a sistemului de facturare a serviciilor de salubritate, de la operatorul delegat către Comuna Tarcău, prin trecerea de la facturarea pe număr de persoane la facturarea pe cantitate de deşeuri colectate",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/26643",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-110-2020",
+   "path": "local/neamt/tarcau/2020/110",
+   "short": "HCL Tarcău nr. 110/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 110/2020 privind alegerea preşedintelui de şedinţă al consiliului local Tarcău pentru perioada ianuarie - martie 2021",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/26644",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26644",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--tarcau-91-2020",
    "path": "local/neamt/tarcau/2020/91",
    "short": "HCL Tarcău nr. 91/2020",
@@ -88,6 +178,36 @@
      "from": "2020-11-27",
      "units": 1,
      "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-92-2020",
+   "path": "local/neamt/tarcau/2020/92",
+   "short": "HCL Tarcău nr. 92/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 92/2020 privind modificarea statutului de funcții al aparatului de specialitate al primarului comunei Tarcău, în urma promovării în clasă, respectiv în grad profesional, a unor funcționari publici de execuție",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/26616",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-93-2020",
+   "path": "local/neamt/tarcau/2020/93",
+   "short": "HCL Tarcău nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 93/2020",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/26617",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26617",
      "sha256": null
     }
    ]
@@ -133,6 +253,21 @@
      "from": "2020-11-27",
      "units": 1,
      "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-97-2020",
+   "path": "local/neamt/tarcau/2020/97",
+   "short": "HCL Tarcău nr. 97/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 97/2020 privind alegerea viceprimarului comunei Tarcău",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/26621",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/26621",
      "sha256": null
     }
    ]

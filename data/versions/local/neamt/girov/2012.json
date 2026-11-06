@@ -16,6 +16,81 @@
      "sha256": "82610d8aaff3e61e44cb77f6dc9e600b05864c9e9c58e5635af8c9dc168bdc94"
     }
    ]
+  },
+  {
+   "slug": "hcl-neamt--girov-3-2012",
+   "path": "local/neamt/girov/2012/3",
+   "short": "HCL Girov nr. 3/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Girov nr. 3/2012 Privind aprobarea balastarii drumului comunal Turturesti - Gura vaii Consiliul Local al comunei Girov, judetul Neamt Avind in vedere adresa nr.340 / 10.01.2012 si expunerea de motive nr.345 I 10.0f.20f2 prin care un numar de sase consilieri initiaza prezentul proiect de hotarare",
+   "url": "https://www.girov.ro/monitor-local/arhiva-hcl-girov-2012.html",
+   "versions": [
+    {
+     "from": "2012-01-16",
+     "units": 1,
+     "source_url": "http://www.girov.ro/images/stories/arhiva/hcl2012/hclgirov_ian2012_3.pdf",
+     "sha256": "9f8812a4e3f6a26f0d43afb2a3680b6fbabb56d6966d870a60f2cb71939ae530"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--girov-4-2012",
+   "path": "local/neamt/girov/2012/4",
+   "short": "HCL Girov nr. 4/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Girov nr. 4/2012 privind blocarea accesului pe DC Caciulesti - Fabrica Consiliul local al comunei Girov, judetul Neamt; Vazand expunerea de motive inregistrata cu nr.346 din 10.01.2012 Avand in vedere dispozitiile Legii nr.2l5l200l privind Administratia Publica Locala",
+   "url": "https://www.girov.ro/monitor-local/arhiva-hcl-girov-2012.html",
+   "versions": [
+    {
+     "from": "2012-01-16",
+     "units": 1,
+     "source_url": "http://www.girov.ro/images/stories/arhiva/hcl2012/hclgirov_ian2012_4.pdf",
+     "sha256": "aee52f5489a3a85bb58d49e07fbc8b78559b98868c6304d2e97cf23c1b7ef8c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--girov-5-2012",
+   "path": "local/neamt/girov/2012/5",
+   "short": "HCL Girov nr. 5/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Girov nr. 5/2012 privind acordarea unei sume de bani parohiei Doina-Botesti ca ajutor pentru reconstituirea casei parohiale arse in incendiul din 31.12.201I Consiliul local al comunei Girov, judetul Neamt; Vazand expunerea de motive inregistratacurc.34T din 10.01.2012 Luand act de rapoartele de avizare ale comisiilor pe domenii de activitate si de referatul de specialitate",
+   "url": "https://www.girov.ro/monitor-local/arhiva-hcl-girov-2012.html",
+   "versions": [
+    {
+     "from": "2012-01-16",
+     "units": 1,
+     "source_url": "http://www.girov.ro/images/stories/arhiva/hcl2012/hclgirov_ian2012_5.pdf",
+     "sha256": "2567dcef29749bfc0b8cd9691642ba6dae3530f080796f8f36b17d336027e365"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--girov-6-2012",
+   "path": "local/neamt/girov/2012/6",
+   "short": "HCL Girov nr. 6/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Girov nr. 6/2012 Privind atribuirea de denumire a Scolii Girov conform Ordinului M.E.C.T.S ru.6564 /2011",
+   "url": "https://www.girov.ro/monitor-local/arhiva-hcl-girov-2012.html",
+   "versions": [
+    {
+     "from": "2012-01-16",
+     "units": 1,
+     "source_url": "http://www.girov.ro/images/stories/arhiva/hcl2012/hclgirov_ian2012_6.pdf",
+     "sha256": "e4f15833c0c1dd7cdb4c048463f92ce4b5228dc88df44ddbf3b2b25494892b5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--girov-9-2012",
+   "path": "local/neamt/girov/2012/9",
+   "short": "HCL Girov nr. 9/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Girov nr. 9/2012 privind aprobarea ocuparii temporare a terenurilor apartinand domeniului public sau privat al comunei pentru executarea lucrarilor de reparatii capitale LEA 220KW Dumbrava - Stejaru Consiliul Local al comunei Girov, judetul Neamt",
+   "url": "https://www.girov.ro/monitor-local/arhiva-hcl-girov-2012.html",
+   "versions": [
+    {
+     "from": "2012-03-02",
+     "units": 1,
+     "source_url": "http://www.girov.ro/images/stories/arhiva/hcl2012/hclgirov_feb2012_9.pdf",
+     "sha256": "fd79fc67983363febb72315707be7b60c401549e3bcb012420ab6382042867f1"
+    }
+   ]
   }
  ]
 }

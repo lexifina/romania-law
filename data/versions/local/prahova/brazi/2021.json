@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--brazi-50-2021",
+   "path": "local/prahova/brazi/2021/50",
+   "short": "HCL Brazi nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 50/2021 privind alegerea presedintelui de sedinta pentru perioada noiembrie – decembrie 2021",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/48213",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/48213",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--brazi-51-2021",
    "path": "local/prahova/brazi/2021/51",
    "short": "HCL Brazi nr. 51/2021",
@@ -43,6 +58,21 @@
      "from": "2021-10-28",
      "units": 1,
      "source_url": "https://emol.ro/brazi-ph/registru-hcl/48214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-52-2021",
+   "path": "local/prahova/brazi/2021/52",
+   "short": "HCL Brazi nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 52/2021 privind desemnarea unui reprezentant al Consiliului Local al comunei Brazi ca membru in comisia de evaluare a probei de interviu la concursul pentru ocuparea functiilor de director si director adjunct la Scoala Gimnaziala Comuna Brazi, judetul Prahova, unitate de invatamant cu personalitate juridica",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/48215",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/48215",
      "sha256": null
     }
    ]
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--brazi-60-2021",
+   "path": "local/prahova/brazi/2021/60",
+   "short": "HCL Brazi nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 60/2021 privind alegerea presedintelui de sedinta pentru perioada ianuarie - februarie 2022",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/48232",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/48232",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--brazi-61-2021",
    "path": "local/prahova/brazi/2021/61",
    "short": "HCL Brazi nr. 61/2021",
@@ -168,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--brazi-62-2021",
+   "path": "local/prahova/brazi/2021/62",
+   "short": "HCL Brazi nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 62/2021",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/48234",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/48234",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--brazi-63-2021",
    "path": "local/prahova/brazi/2021/63",
    "short": "HCL Brazi nr. 63/2021",
@@ -178,6 +238,21 @@
      "from": "2021-12-29",
      "units": 1,
      "source_url": "https://emol.ro/brazi-ph/registru-hcl/48235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-64-2021",
+   "path": "local/prahova/brazi/2021/64",
+   "short": "HCL Brazi nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 64/2021",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/48236",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/48236",
      "sha256": null
     }
    ]

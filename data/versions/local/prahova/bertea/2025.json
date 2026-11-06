@@ -3,6 +3,66 @@
  "shard": "local/prahova/bertea/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--bertea-37-2025",
+   "path": "local/prahova/bertea/2025/37",
+   "short": "HCL Bertea nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 37/2025 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/234874",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/234874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-38-2025",
+   "path": "local/prahova/bertea/2025/38",
+   "short": "HCL Bertea nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 38/2025 privind aprobarea Regulamentului pentru acordarea unor premii in bani cetățenilor comunei Bertea",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/234875",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/234875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-39-2025",
+   "path": "local/prahova/bertea/2025/39",
+   "short": "HCL Bertea nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 39/2025 privind atribuirea in folosință gratuita a suprafeței de mp teren pentru construire locuinta proprietate personala in conformitate cu prevederile Legii nr. 15./2023",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/234876",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/234876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-40-2025",
+   "path": "local/prahova/bertea/2025/40",
+   "short": "HCL Bertea nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 40/2025",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/234877",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/234877",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--bertea-41-2025",
    "path": "local/prahova/bertea/2025/41",
    "short": "HCL Bertea nr. 41/2025",
@@ -13,6 +73,51 @@
      "from": "2025-11-10",
      "units": 1,
      "source_url": "https://emol.ro/bertea-ph/registru-hcl/234878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-42-2025",
+   "path": "local/prahova/bertea/2025/42",
+   "short": "HCL Bertea nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 42/2025 privind desemnarea reprezentantului Consiliului Local Bertea in consiliul de administratie al Scolii Gimnaziale Bertea",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/234888",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/234888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-43-2025",
+   "path": "local/prahova/bertea/2025/43",
+   "short": "HCL Bertea nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 43/2025 privind aprobarea Comitetului local consultativ la nivelul comunei Bertea",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/234889",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/234889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-44-2025",
+   "path": "local/prahova/bertea/2025/44",
+   "short": "HCL Bertea nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 44/2025 privind actualizarea echipei mobile pentru interventia de urgenta in cazurile de violenta domestica",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/234890",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/234890",
      "sha256": null
     }
    ]
@@ -43,6 +148,156 @@
      "from": "2025-11-11",
      "units": 1,
      "source_url": "https://emol.ro/bertea-ph/registru-hcl/235068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-47-2025",
+   "path": "local/prahova/bertea/2025/47",
+   "short": "HCL Bertea nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 47/2025 privind aprobarea Metodologiei de evaluare a nevoilor comunitatii in vederea organizarii serviciilor sociale pentru persoane varstnice din comuna Bertea",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/235069",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/235069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-48-2025",
+   "path": "local/prahova/bertea/2025/48",
+   "short": "HCL Bertea nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 48/2025 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/238823",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/238823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-49-2025",
+   "path": "local/prahova/bertea/2025/49",
+   "short": "HCL Bertea nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 49/2025 privind aprobarea procedurilor pentru achizitia obiectivului de investitii ”Sisteme de stocare pentru Centrala Electrica Fotovoltaica de autoconsum”",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/238824",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/238824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-50-2025",
+   "path": "local/prahova/bertea/2025/50",
+   "short": "HCL Bertea nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 50/2025 privind aprobarea executiei bugetului local la trim.IV, anul 2025",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/247781",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/247781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-51-2025",
+   "path": "local/prahova/bertea/2025/51",
+   "short": "HCL Bertea nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 51/2025 privind validarea dispozitiei nr.113/15.12.2025a Primarului comunei Bertea pentru aprobarea bugetului local rectificat pentru anul 2025",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/247782",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/247782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-52-2025",
+   "path": "local/prahova/bertea/2025/52",
+   "short": "HCL Bertea nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 52/2025 privind stabilirea impozitelor si taxelorlocale pentru anul fiscal 2026",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/247783",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/247783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-53-2025",
+   "path": "local/prahova/bertea/2025/53",
+   "short": "HCL Bertea nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 53/2025 privind aprobarea Planului anual al lucrarilor de interes local",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/247784",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/247784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-54-2025",
+   "path": "local/prahova/bertea/2025/54",
+   "short": "HCL Bertea nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 54/2025 privind aprobarea Programului de actiuni comunitare pentru anul 2026",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/247785",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/247785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-55-2025",
+   "path": "local/prahova/bertea/2025/55",
+   "short": "HCL Bertea nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 55/2025 privind aprobarea Planului de Actiune Anual privind Serviciile Sociale la nivelul comunei Bertea",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/247786",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/247786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-56-2025",
+   "path": "local/prahova/bertea/2025/56",
+   "short": "HCL Bertea nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 56/2025 privind aprobarea retelei scolare pentru anul scolar 2026-2027",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/247787",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/247787",
      "sha256": null
     }
    ]

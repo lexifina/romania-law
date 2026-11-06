@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/prahova/alunis/2024",
+"acts": [
+{
+"slug": "hcl-prahova--alunis-1-2024",
+"path": "local/prahova/alunis/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 1/2024",
+"short": "HCL Aluniș nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-24",
+"latest": "2024-04-24",
+"portal": "https://www.primariaalunis.ro/wp-content/uploads/2020/07/Hotararea_nr.1_24.04.2024.pdf",
+"council": "prahova/alunis",
+"council_name": "Consiliul Local al Comunei Aluniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--alunis-2-2024",
+"path": "local/prahova/alunis/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 2/2024",
+"short": "HCL Aluniș nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-24",
+"latest": "2024-04-24",
+"portal": "https://www.primariaalunis.ro/wp-content/uploads/2020/07/Hotararea_nr.2_24.04.2024.pdf",
+"council": "prahova/alunis",
+"council_name": "Consiliul Local al Comunei Aluniș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

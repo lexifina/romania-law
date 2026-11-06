@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-prahova--brazi-50-2021",
+"path": "local/prahova/brazi/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 50/2021 privind alegerea presedintelui de sedinta pentru perioada noiembrie – decembrie 2021",
+"short": "HCL Brazi nr. 50/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/48213",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--brazi-51-2021",
 "path": "local/prahova/brazi/2021/51",
 "kind": "local",
@@ -67,6 +89,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--brazi-52-2021",
+"path": "local/prahova/brazi/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 52/2021 privind desemnarea unui reprezentant al Consiliului Local al comunei Brazi ca membru in comisia de evaluare a probei de interviu la concursul pentru ocuparea functiilor de director si director adjunct la Scoala Gimnaziala Comuna Brazi, judetul Prahova, unitate de invatamant cu personalitate juridica",
+"short": "HCL Brazi nr. 52/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/48215",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -225,6 +269,28 @@
 }
 },
 {
+"slug": "hcl-prahova--brazi-60-2021",
+"path": "local/prahova/brazi/2021/60",
+"kind": "local",
+"year": "2021",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 60/2021 privind alegerea presedintelui de sedinta pentru perioada ianuarie - februarie 2022",
+"short": "HCL Brazi nr. 60/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/48232",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--brazi-61-2021",
 "path": "local/prahova/brazi/2021/61",
 "kind": "local",
@@ -247,6 +313,29 @@
 }
 },
 {
+"slug": "hcl-prahova--brazi-62-2021",
+"path": "local/prahova/brazi/2021/62",
+"kind": "local",
+"year": "2021",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 62/2021",
+"short": "HCL Brazi nr. 62/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/48234",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--brazi-63-2021",
 "path": "local/prahova/brazi/2021/63",
 "kind": "local",
@@ -266,6 +355,29 @@
 "council_name": "Consiliul Local al Comunei Brazi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--brazi-64-2021",
+"path": "local/prahova/brazi/2021/64",
+"kind": "local",
+"year": "2021",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 64/2021",
+"short": "HCL Brazi nr. 64/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/48236",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

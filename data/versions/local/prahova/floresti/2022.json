@@ -93,6 +93,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--floresti-78-2022",
+   "path": "local/prahova/floresti/2022/78",
+   "short": "HCL Florești nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 78/2022 privind acordarea unui sprijin financiar Comunitatii Cultului Penticostal Biserica lui Dumnezeu Apostolica,Cultul Crestin Penticostal ,Biserica Floresti,Judetul Prahova",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/79234",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/79234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-79-2022",
+   "path": "local/prahova/floresti/2022/79",
+   "short": "HCL Florești nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 79/2022 privind acordarea unui sprijin financiar Parohiei Floresti",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/79235",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/79235",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--floresti-80-2022",
    "path": "local/prahova/floresti/2022/80",
    "short": "HCL Florești nr. 80/2022",
@@ -138,6 +168,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--floresti-83-2022",
+   "path": "local/prahova/floresti/2022/83",
+   "short": "HCL Florești nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 83/2022 privind desemnarea reprezentanţilor Consiliului Local al comunei Floresti în Comisia pentru prevenirea si combaterea violentei in mediul scolar a Şcolii Gimnaziale,Comuna Floresti, in anul scolar 2022-2023",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/80452",
+   "versions": [
+    {
+     "from": "2022-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/80452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-84-2022",
+   "path": "local/prahova/floresti/2022/84",
+   "short": "HCL Florești nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 84/2022 privind desemnarea reprezentanţilor Consiliului Local al comunei Floresti în cadrul Grupului de actiune antibullying al Şcolii Gimnaziale,Comuna Floresti, in anul scolar 2022-2023",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/80453",
+   "versions": [
+    {
+     "from": "2022-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/80453",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--floresti-85-2022",
    "path": "local/prahova/floresti/2022/85",
    "short": "HCL Florești nr. 85/2022",
@@ -153,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--floresti-86-2022",
+   "path": "local/prahova/floresti/2022/86",
+   "short": "HCL Florești nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 86/2022",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/83207",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/83207",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--floresti-87-2022",
    "path": "local/prahova/floresti/2022/87",
    "short": "HCL Florești nr. 87/2022",
@@ -163,6 +238,36 @@
      "from": "2022-12-15",
      "units": 1,
      "source_url": "https://emol.ro/floresti-ph/registru-hcl/83208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-88-2022",
+   "path": "local/prahova/floresti/2022/88",
+   "short": "HCL Florești nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 88/2022 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investitii „Executie extindere retea de canalizare in Comuna Floresti,sat Novacesti,Judetul Prahova-Etapa I”",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/83209",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/83209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-89-2022",
+   "path": "local/prahova/floresti/2022/89",
+   "short": "HCL Florești nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 89/2022 privind privind rectificarea bugetului local al comunei Floresti pe anul 2022",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/83210",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/83210",
      "sha256": null
     }
    ]

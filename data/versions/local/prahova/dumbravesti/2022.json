@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--dumbravesti-91-2022",
+   "path": "local/prahova/dumbravesti/2022/91",
+   "short": "HCL Dumbrăvești nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 91/2022 privind aprobarea acordarii unui sprijin financiar de la bugetul local al Comunei Dumbravesti pentru Biserica Malaestii de Sus - Parohia Cotofenesti",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/81566",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/81566",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--dumbravesti-92-2022",
    "path": "local/prahova/dumbravesti/2022/92",
    "short": "HCL Dumbrăvești nr. 92/2022",
@@ -178,6 +193,21 @@
      "from": "2022-12-29",
      "units": 1,
      "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/81567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-93-2022",
+   "path": "local/prahova/dumbravesti/2022/93",
+   "short": "HCL Dumbrăvești nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 93/2022 privind aprobarea acordarii unui sprijin financiar de la bugetul local al Comunei Dumbravesti pentru Biserica Adormirea Maicii Domnului - Parohia Plopeni Sat",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/82630",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/82630",
      "sha256": null
     }
    ]
@@ -253,6 +283,21 @@
      "from": "2023-01-13",
      "units": 1,
      "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/84515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-99-2022",
+   "path": "local/prahova/dumbravesti/2022/99",
+   "short": "HCL Dumbrăvești nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 99/2022",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/84516",
+   "versions": [
+    {
+     "from": "2023-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/84516",
      "sha256": null
     }
    ]

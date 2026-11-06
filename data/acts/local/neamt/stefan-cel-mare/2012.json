@@ -23,6 +23,29 @@
 "flags": {
 "text_pending": "review"
 }
+},
+{
+"slug": "hcl-neamt--stefan-cel-mare-15-2012",
+"path": "local/neamt/stefan-cel-mare/2012/15",
+"kind": "local",
+"year": "2012",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 15/2012",
+"short": "HCL Ștefan cel Mare nr. 15/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-02-29",
+"latest": "2012-02-29",
+"portal": null,
+"council": "neamt/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
 }
 ]
 }

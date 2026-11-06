@@ -3,6 +3,29 @@
 "shard": "local/prahova/dumbrava/2025",
 "acts": [
 {
+"slug": "hcl-prahova--dumbrava-84-2025",
+"path": "local/prahova/dumbrava/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 84/2025",
+"short": "HCL Dumbrava nr. 84/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/253179",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-85-2025",
 "path": "local/prahova/dumbrava/2025/85",
 "kind": "local",
@@ -44,6 +67,28 @@
 "council_name": "Consiliul Local al Comunei Dumbrava",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-87-2025",
+"path": "local/prahova/dumbrava/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 87/2025 privind alegerea președintelui de ședință",
+"short": "HCL Dumbrava nr. 87/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/268055",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +136,28 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-90-2025",
+"path": "local/prahova/dumbrava/2025/90",
+"kind": "local",
+"year": "2025",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 90/2025 privind prelungirea perioadei de grație aferente împrumutului contractat de UAT Dumbrava și împuternicirea Primarului pentru semnarea actelor adiționale",
+"short": "HCL Dumbrava nr. 90/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/268058",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-91-2025",
 "path": "local/prahova/dumbrava/2025/91",
 "kind": "local",
@@ -132,6 +199,50 @@
 "council_name": "Consiliul Local al Comunei Dumbrava",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-93-2025",
+"path": "local/prahova/dumbrava/2025/93",
+"kind": "local",
+"year": "2025",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 93/2025 privind aplicarea prevederilor art. 80 alin. (1) lit. h) din Regulamentul de organizare și funcționare al Consiliului Local al Comunei Dumbrava",
+"short": "HCL Dumbrava nr. 93/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/268061",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-94-2025",
+"path": "local/prahova/dumbrava/2025/94",
+"kind": "local",
+"year": "2025",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 94/2025 privind organizarea rețelei școlare locale pentru anul școlar 2026 - 2027",
+"short": "HCL Dumbrava nr. 94/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/268063",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -223,6 +334,28 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-99-2025",
+"path": "local/prahova/dumbrava/2025/99",
+"kind": "local",
+"year": "2025",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 99/2025 privind modificarea și completarea Hotărârii Consiliului Local al Comunei Dumbrava nr. 82/2024 privind aprobarea contractării și garantării unei finanțării rambursabile interne în valoare de 5.500.000 lei",
+"short": "HCL Dumbrava nr. 99/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/268068",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-100-2025",
 "path": "local/prahova/dumbrava/2025/100",
 "kind": "local",
@@ -245,6 +378,28 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-101-2025",
+"path": "local/prahova/dumbrava/2025/101",
+"kind": "local",
+"year": "2025",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 101/2025 privind aprobarea rectificării bugetului local al comunei Dumbrava pe anul 2025, listei de investiții si programul de achiziții publice",
+"short": "HCL Dumbrava nr. 101/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/268183",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-102-2025",
 "path": "local/prahova/dumbrava/2025/102",
 "kind": "local",
@@ -264,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Dumbrava",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-103-2025",
+"path": "local/prahova/dumbrava/2025/103",
+"kind": "local",
+"year": "2025",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 103/2025 privind acceptarea de către Consiliul Local al Comunei Dumbrava, jud.Prahova a sumelor stabilite cu titlu de despăgubire pentru terenurile aflate în proprietatea privată a Comunei Dumbrava, jud. Prahova , apartinând comunei și afectate de construcția lucrării de utilitate publică Autostrada Ploiesti -Buzau",
+"short": "HCL Dumbrava nr. 103/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/268185",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

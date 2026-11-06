@@ -3,6 +3,72 @@
 "shard": "local/prahova/albesti-paleologu/2025",
 "acts": [
 {
+"slug": "hcl-prahova--albesti-paleologu-30-2025",
+"path": "local/prahova/albesti-paleologu/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești-Paleologu nr. 30/2025 privind aprobarea rectificării bugetului local pentru anul 2025 și estimări 2026-2028)",
+"short": "HCL Albești-Paleologu nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "http://www.primariaalbestipaleologu.ro/index.php/consiliul-local/hcl",
+"council": "prahova/albesti-paleologu",
+"council_name": "Consiliul Local al Comunei Albești-Paleologu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--albesti-paleologu-33-2025",
+"path": "local/prahova/albesti-paleologu/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești-Paleologu nr. 33/2025 privind aprobarea rectificării bugetului local pentru anul 2025 și estimări 2026-2028)",
+"short": "HCL Albești-Paleologu nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "http://www.primariaalbestipaleologu.ro/index.php/consiliul-local/hcl",
+"council": "prahova/albesti-paleologu",
+"council_name": "Consiliul Local al Comunei Albești-Paleologu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--albesti-paleologu-35-2025",
+"path": "local/prahova/albesti-paleologu/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești-Paleologu nr. 35/2025 privind aprobarea contractării și garantării unei finanțări rambursabile interne în valoare de 6.500.000 lei)",
+"short": "HCL Albești-Paleologu nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-03",
+"latest": "2025-12-03",
+"portal": "http://www.primariaalbestipaleologu.ro/index.php/consiliul-local/hcl",
+"council": "prahova/albesti-paleologu",
+"council_name": "Consiliul Local al Comunei Albești-Paleologu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--albesti-paleologu-36-2025",
 "path": "local/prahova/albesti-paleologu/2025/36",
 "kind": "local",
@@ -22,6 +88,50 @@
 "council_name": "Consiliul Local al Comunei Albești-Paleologu",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-prahova--albesti-paleologu-40-2025",
+"path": "local/prahova/albesti-paleologu/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești-Paleologu nr. 40/2025 privind aprobarea rectificării bugetului local pentru anul 2025 și estimări 2026-2028)",
+"short": "HCL Albești-Paleologu nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "http://www.primariaalbestipaleologu.ro/index.php/consiliul-local/hcl",
+"council": "prahova/albesti-paleologu",
+"council_name": "Consiliul Local al Comunei Albești-Paleologu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--albesti-paleologu-41-2025",
+"path": "local/prahova/albesti-paleologu/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești-Paleologu nr. 41/2025 cu privire la aprobarea Planului Anual de Achiziții pe anul 2026, Strategia Anuală de Achiziții la nivelul comunei Albești-Paleologu, județul Prahova)",
+"short": "HCL Albești-Paleologu nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "http://www.primariaalbestipaleologu.ro/index.php/consiliul-local/hcl",
+"council": "prahova/albesti-paleologu",
+"council_name": "Consiliul Local al Comunei Albești-Paleologu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

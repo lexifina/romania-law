@@ -3,6 +3,96 @@
  "shard": "local/neamt/timisesti/2024",
  "acts": [
   {
+   "slug": "hcl-neamt--timisesti-100-2024",
+   "path": "local/neamt/timisesti/2024/100",
+   "short": "HCL Timișești nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 100/2024 privind organizarea comisiilor de specialitate pe principalele domenii de activitate",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/176206",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/176206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-101-2024",
+   "path": "local/neamt/timisesti/2024/101",
+   "short": "HCL Timișești nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 101/2024 privind alegerea viceprimarului comunei Timișești",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/176452",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/176452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-102-2024",
+   "path": "local/neamt/timisesti/2024/102",
+   "short": "HCL Timișești nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 102/2024 privind desemnarea reprezentantului Consiliului local al comunei Timisesti in Comisia pentru evaluarea si asigurarea calitatii educatiei în unitatile de invatamint preuniversitar de stat din comuna Timisesti",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/176453",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/176453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-103-2024",
+   "path": "local/neamt/timisesti/2024/103",
+   "short": "HCL Timișești nr. 103/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 103/2024 privind vânzarea fără licitație publică a unui teren în suprafață de 1000 m.p., situat în sat Plăieșu, comuna Timișești, județul Neamț către RĂUȚU CONSTANTIN-ANDREI",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/176454",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/176454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-104-2024",
+   "path": "local/neamt/timisesti/2024/104",
+   "short": "HCL Timișești nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 104/2024",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/176455",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/176455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-105-2024",
+   "path": "local/neamt/timisesti/2024/105",
+   "short": "HCL Timișești nr. 105/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 105/2024 privind aprobarea raportului de evaluare și vânzarea prin licitație publică a bunului imobil în suprafață de 1.000 m.p. teren, aflat în proprietatea privată a comunei Timisesti",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/176456",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/176456",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--timisesti-106-2024",
    "path": "local/neamt/timisesti/2024/106",
    "short": "HCL Timișești nr. 106/2024",
@@ -43,6 +133,21 @@
      "from": "2024-11-18",
      "units": 1,
      "source_url": "https://emol.ro/timisesti-nt/registru-hcl/176459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-109-2024",
+   "path": "local/neamt/timisesti/2024/109",
+   "short": "HCL Timișești nr. 109/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 109/2024 privind aprobarea Rapoartelor de evaluare nr. 20.1 și nr.20.2 din data de 6.11.2024 și acordarea constructorului de bună-credinţă a dreptului de preempţiune la cumpărarea terenurilor aferente construcţiilor",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/176460",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/176460",
      "sha256": null
     }
    ]
@@ -163,6 +268,36 @@
      "from": "2024-12-19",
      "units": 1,
      "source_url": "https://emol.ro/timisesti-nt/registru-hcl/183395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-118-2024",
+   "path": "local/neamt/timisesti/2024/118",
+   "short": "HCL Timișești nr. 118/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 118/2024 privind încetarea contractului de concesiune nr. 3325 din 5.06.2024",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/183396",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/183396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-99-2024",
+   "path": "local/neamt/timisesti/2024/99",
+   "short": "HCL Timișești nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 99/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/176205",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/176205",
      "sha256": null
     }
    ]

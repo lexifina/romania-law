@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-prahova--blejoi-41-2026",
+"path": "local/prahova/blejoi/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 41/2026 privind acordarea unui sprijin financiar Parohiei Ploieștiori",
+"short": "HCL Blejoi nr. 41/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-26",
+"latest": "2026-08-26",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/277588",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--blejoi-42-2026",
 "path": "local/prahova/blejoi/2026/42",
 "kind": "local",
@@ -133,6 +155,51 @@
 "council_name": "Consiliul Local al Comunei Blejoi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-45-2026",
+"path": "local/prahova/blejoi/2026/45",
+"kind": "local",
+"year": "2026",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 45/2026",
+"short": "HCL Blejoi nr. 45/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-26",
+"latest": "2026-08-26",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/282810",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-46-2026",
+"path": "local/prahova/blejoi/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 46/2026 privind acordarea unui sprijin financiar Parohiei Blejoi",
+"short": "HCL Blejoi nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-26",
+"latest": "2026-08-26",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/282811",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -333,6 +400,28 @@
 "council_name": "Consiliul Local al Comunei Blejoi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-56-2026",
+"path": "local/prahova/blejoi/2026/56",
+"kind": "local",
+"year": "2026",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 56/2026 privind aprobarea proiectului „Achizitie autoutilitara pentru Compartiment Gospodarire Comunala - Comuna Blejoi, judetul Prahova\", finantat din Fondul European Agricol pentru Dezvoltare Rurala (FEADR) prin Planul Strategic PS PAC 2023- 2027 – Interventia DR36 LEADER – „Dezvoltarea locala plasata sub responsabilitatea comunitatii” – SDL Asociația ”Grupul de Acțiune Locală Valea Teleajenului”",
+"short": "HCL Blejoi nr. 56/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/288241",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

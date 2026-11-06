@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--batrani-20-2026",
+   "path": "local/prahova/batrani/2026/20",
+   "short": "HCL Bătrâni nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 20/2026 privind aprobarea solicitării unei Scrisori de garanție de la FNGCIMM SA IFN a proiectului intitulat ,,Asfaltare străzi lăturalnice în comuna Bătrâni, județul Prahova”,in valoare de 1.962.234,03 lei",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/265648",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/265648",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--batrani-21-2026",
    "path": "local/prahova/batrani/2026/21",
    "short": "HCL Bătrâni nr. 21/2026",
@@ -78,6 +93,66 @@
    ]
   },
   {
+   "slug": "hcl-prahova--batrani-25-2026",
+   "path": "local/prahova/batrani/2026/25",
+   "short": "HCL Bătrâni nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 25/2026 privind modificarea organigramei şi ştatului de funcţii pentru Primăria comunei Bătrâni, judeţul Prahova",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/276639",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/276639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-26-2026",
+   "path": "local/prahova/batrani/2026/26",
+   "short": "HCL Bătrâni nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 26/2026 privind aprobarea înființării a trei posturi, pentru Echipa ECI, din proiectul „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”, Cod PIDS/586/P04/339395, în afara organigramei Comunei Bătrâni, județul Prahova",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/276640",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/276640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-27-2026",
+   "path": "local/prahova/batrani/2026/27",
+   "short": "HCL Bătrâni nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 27/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/281590",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/281590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-28-2026",
+   "path": "local/prahova/batrani/2026/28",
+   "short": "HCL Bătrâni nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 28/2026 privind modificarea Hotărârii Consiliului Local nr.26 din 30.06.2026 privind aprobarea înființării a trei posturi, pentru Echipa ECI, din proiectul „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”, Cod PIDS/586/P04/339395, în afara organigramei Comunei Bătrâni, județul Prahova",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/281591",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/281591",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--batrani-29-2026",
    "path": "local/prahova/batrani/2026/29",
    "short": "HCL Bătrâni nr. 29/2026",
@@ -88,6 +163,21 @@
      "from": "2026-08-17",
      "units": 1,
      "source_url": "https://emol.ro/batrani-ph/registru-hcl/281592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-30-2026",
+   "path": "local/prahova/batrani/2026/30",
+   "short": "HCL Bătrâni nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 30/2026 privind desemnarea reprezentanților Consiliului Local al comunei Bătrâni în Consiliul de Administrație al Școlii Gimnaziale, comuna Bătrâni și Comisia pentru Evaluarea și Asigurarea Calității Educației",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/286079",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/286079",
      "sha256": null
     }
    ]
@@ -118,6 +208,81 @@
      "from": "2026-09-28",
      "units": 1,
      "source_url": "https://emol.ro/batrani-ph/registru-hcl/289808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-33-2026",
+   "path": "local/prahova/batrani/2026/33",
+   "short": "HCL Bătrâni nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 33/2026 privind includerea la domeniul public al comunei Bătrâni județul Prahova,a terenului intravilan situat în tarla 30/1 parcela Cc 5/1 și declararea acestuia ca bun de uz și de interes public",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/295055",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/295055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-34-2026",
+   "path": "local/prahova/batrani/2026/34",
+   "short": "HCL Bătrâni nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 34/2026 privind aprobarea indicatorilor tehnico-economici pentru proiectul „Dezvoltarea de noi capacități de stocare a energiei electrice produsă din surse regenerabile pentru clădirile publice ale UAT Bătrâni, județul Prahova”, precum și a cheltuielilor legate de proiect, în vederea depunerii cererii de finanțare prin Fondul pentru Modernizare",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/295056",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/295056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-35-2026",
+   "path": "local/prahova/batrani/2026/35",
+   "short": "HCL Bătrâni nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 35/2026",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/295057",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/295057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-36-2026",
+   "path": "local/prahova/batrani/2026/36",
+   "short": "HCL Bătrâni nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 36/2026",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/295058",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/295058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-37-2026",
+   "path": "local/prahova/batrani/2026/37",
+   "short": "HCL Bătrâni nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 37/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/295059",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/295059",
      "sha256": null
     }
    ]

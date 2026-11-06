@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/prahova/gura-vadului/2024",
+"acts": [
+{
+"slug": "hcl-prahova--gura-vadului-3-2024",
+"path": "local/prahova/gura-vadului/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Vadului nr. 3/2024",
+"short": "HCL Gura Vadului nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://www.comunaguravadului.ro/wp-content/uploads/2024/04/alrgeri-locale-2024-15-57-16-04-24-hot-3-b.pdf",
+"council": "prahova/gura-vadului",
+"council_name": "Consiliul Local al Comunei Gura Vadului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--gura-vadului-4-2024",
+"path": "local/prahova/gura-vadului/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Vadului nr. 4/2024",
+"short": "HCL Gura Vadului nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://www.comunaguravadului.ro/wp-content/uploads/2024/04/alrgeri-locale-2024-06-59-22-05-24-hot-4-2.pdf",
+"council": "prahova/gura-vadului",
+"council_name": "Consiliul Local al Comunei Gura Vadului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--gura-vadului-6-2024",
+"path": "local/prahova/gura-vadului/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Vadului nr. 6/2024",
+"short": "HCL Gura Vadului nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-07",
+"latest": "2024-05-07",
+"portal": "https://www.comunaguravadului.ro/wp-content/uploads/2024/04/alegeri-2024-06-32-42-06-24-hot-8-2.pdf",
+"council": "prahova/gura-vadului",
+"council_name": "Consiliul Local al Comunei Gura Vadului",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

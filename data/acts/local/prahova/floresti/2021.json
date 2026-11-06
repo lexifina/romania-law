@@ -48,6 +48,29 @@
 }
 },
 {
+"slug": "hcl-prahova--floresti-68-2021",
+"path": "local/prahova/floresti/2021/68",
+"kind": "local",
+"year": "2021",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 68/2021",
+"short": "HCL Florești nr. 68/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-09",
+"latest": "2021-12-09",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/43928",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--floresti-69-2021",
 "path": "local/prahova/floresti/2021/69",
 "kind": "local",
@@ -89,6 +112,72 @@
 "council_name": "Consiliul Local al Comunei Florești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--floresti-71-2021",
+"path": "local/prahova/floresti/2021/71",
+"kind": "local",
+"year": "2021",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 71/2021 privind acordarea unui sprijin financiar Parohiei Calinesti",
+"short": "HCL Florești nr. 71/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-09",
+"latest": "2021-12-09",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/43931",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--floresti-72-2021",
+"path": "local/prahova/floresti/2021/72",
+"kind": "local",
+"year": "2021",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 72/2021 privind inchirierea unei locuinte",
+"short": "HCL Florești nr. 72/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-09",
+"latest": "2021-12-09",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/43932",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--floresti-73-2021",
+"path": "local/prahova/floresti/2021/73",
+"kind": "local",
+"year": "2021",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 73/2021 privind inchirierea unei locuinte",
+"short": "HCL Florești nr. 73/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-09",
+"latest": "2021-12-09",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/43933",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -244,6 +333,29 @@
 "council_name": "Consiliul Local al Comunei Florești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--floresti-81-2021",
+"path": "local/prahova/floresti/2021/81",
+"kind": "local",
+"year": "2021",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 81/2021",
+"short": "HCL Florești nr. 81/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-09",
+"latest": "2021-12-09",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/43941",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

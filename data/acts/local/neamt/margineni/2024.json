@@ -422,6 +422,29 @@
 "flags": {
 "text_pending": "source"
 }
+},
+{
+"slug": "hcl-neamt--margineni-69-2024",
+"path": "local/neamt/margineni/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 69/2024",
+"short": "HCL Mărgineni nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-13",
+"latest": "2024-12-13",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/185680",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
 }
 ]
 }

@@ -3,6 +3,248 @@
 "shard": "local/olt/milcov/2022",
 "acts": [
 {
+"slug": "hcl-olt--milcov-35-2022",
+"path": "local/olt/milcov/2022/35",
+"kind": "local",
+"year": "2022",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 35/2022 privind rectificarea bugetului local al comunei Milcov trim. III al anului 2022",
+"short": "HCL Milcov nr. 35/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/73132",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--milcov-36-2022",
+"path": "local/olt/milcov/2022/36",
+"kind": "local",
+"year": "2022",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 36/2022 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general al obiectivului de investiții ,,Înfiinţare sistem canalizare, comuna Milcov, sat Milcovu din Deal şi Milcovu din Vale, judeţul Olt”",
+"short": "HCL Milcov nr. 36/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-31",
+"latest": "2022-08-31",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/73133",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--milcov-37-2022",
+"path": "local/olt/milcov/2022/37",
+"kind": "local",
+"year": "2022",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 37/2022 privind aprobarea categoriilor de cheltuieli finanțate de la bugetul local pentru obiectivul de investiții “Înfiinţare sistem canalizare, comuna Milcov, sat Milcovu din Deal şi Milcovu din Vale, judeţul Olt”",
+"short": "HCL Milcov nr. 37/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-31",
+"latest": "2022-08-31",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/73134",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--milcov-38-2022",
+"path": "local/olt/milcov/2022/38",
+"kind": "local",
+"year": "2022",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 38/2022 privind aprobarea rectificării bugetului propriu al comunei Milcov la trim. III și trim. IV al anului 2022",
+"short": "HCL Milcov nr. 38/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-12",
+"latest": "2022-10-12",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/74488",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--milcov-39-2022",
+"path": "local/olt/milcov/2022/39",
+"kind": "local",
+"year": "2022",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 39/2022 privind modificarea organigramei și a ștatului de funcții ale aparatului de specialitate al primarului comunei Milcov",
+"short": "HCL Milcov nr. 39/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/74489",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--milcov-40-2022",
+"path": "local/olt/milcov/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 40/2022 privind aprobarea contului de execuţie a bugetului comunei Milcov la finele trimestrului III - 2022",
+"short": "HCL Milcov nr. 40/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/78989",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--milcov-41-2022",
+"path": "local/olt/milcov/2022/41",
+"kind": "local",
+"year": "2022",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 41/2022 privind aprobarea rectificării bugetului propriu al comunei Milcov la trim. IV al anului 2022",
+"short": "HCL Milcov nr. 41/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/78990",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--milcov-42-2022",
+"path": "local/olt/milcov/2022/42",
+"kind": "local",
+"year": "2022",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 42/2022 privind aprobarea susţinerii financiare a ,,ASOCIATIEI SPORTIVE MILCOV 2020” pentru activitatea sportivă desfăşurată de către echipa de fotbal, în anul competiţional 2022-2023",
+"short": "HCL Milcov nr. 42/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-15",
+"latest": "2022-11-15",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/78991",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--milcov-43-2022",
+"path": "local/olt/milcov/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 43/2022 privind alegerea președintelui de ședință a Consiliului Local Milcov, pentru perioada noiembrie 2022 - ianuarie 2023",
+"short": "HCL Milcov nr. 43/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-21",
+"latest": "2022-11-21",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/81539",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--milcov-44-2022",
+"path": "local/olt/milcov/2022/44",
+"kind": "local",
+"year": "2022",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 44/2022 privind aprobarea rectificării bugetului propriu al comunei Milcov la trim. IV al anului 2022",
+"short": "HCL Milcov nr. 44/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-08",
+"latest": "2022-12-08",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/81540",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--milcov-45-2022",
+"path": "local/olt/milcov/2022/45",
+"kind": "local",
+"year": "2022",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 45/2022 privind aprobarea utilizării sumei de 6000 lei, din bugetul propriu al comunei Milcov pe anul 2022, sumă necesară achiziționării și acordării de cadouri pentru copii preșcolari și elevilor Școlii Gimnaziale cu clasele I-VIII din comuna Milcov, cu ocazia Sărbătorilor de Crăciun",
+"short": "HCL Milcov nr. 45/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-21",
+"latest": "2022-11-21",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/81541",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-olt--milcov-46-2022",
 "path": "local/olt/milcov/2022/46",
 "kind": "local",
@@ -47,6 +289,28 @@
 }
 },
 {
+"slug": "hcl-olt--milcov-48-2022",
+"path": "local/olt/milcov/2022/48",
+"kind": "local",
+"year": "2022",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 48/2022 privind luare act de Sentința nr. 251/2022 pronunțată de Tribunalul Olt în dosarul nr. 1502/104/2021, rămasă definitivă prin Decizia nr. 575/2022 pronunțată de Curtea de Apel Craiova",
+"short": "HCL Milcov nr. 48/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/83365",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-olt--milcov-49-2022",
 "path": "local/olt/milcov/2022/49",
 "kind": "local",
@@ -66,6 +330,116 @@
 "council_name": "Consiliul Local al Comunei Milcov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--milcov-50-2022",
+"path": "local/olt/milcov/2022/50",
+"kind": "local",
+"year": "2022",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 50/2022 privind modificarea cotizației lunare pentru organizarea și exercitarea funcției de audit public intern",
+"short": "HCL Milcov nr. 50/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/83367",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--milcov-51-2022",
+"path": "local/olt/milcov/2022/51",
+"kind": "local",
+"year": "2022",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 51/2022 privind aprobarea execuţiei bugetului local pe cele două secţiuni pentru trimestrul IV al anului 2022",
+"short": "HCL Milcov nr. 51/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/83368",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--milcov-52-2022",
+"path": "local/olt/milcov/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 52/2022 privind validarea dispoziției primarului nr. 98 din 09.12.2022, privind aprobarea rectificării bugetului local al comunei Milcov, pe venituri și cheltuieli, la trim. IV al anului 2022",
+"short": "HCL Milcov nr. 52/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-28",
+"latest": "2022-12-28",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/83369",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--milcov-53-2022",
+"path": "local/olt/milcov/2022/53",
+"kind": "local",
+"year": "2022",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 53/2022 privind aprobarea planului de acțiuni și lucrări de interes local, pentru anul 2023, în vederea efectuării orelor de muncă prevăzute de Legea nr, 416/2001 cu modificările și completările ulterioare",
+"short": "HCL Milcov nr. 53/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/83370",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--milcov-54-2022",
+"path": "local/olt/milcov/2022/54",
+"kind": "local",
+"year": "2022",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 54/2022 privind aprobarea rectificării bugetului propriu al comunei Milcov la trim. IV al anului 2022",
+"short": "HCL Milcov nr. 54/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-28",
+"latest": "2022-12-28",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/83371",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -3,6 +3,21 @@
  "shard": "local/prahova/filipestii-de-padure/2021",
  "acts": [
   {
+   "slug": "hcl-prahova--filipestii-de-padure-102-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/102",
+   "short": "HCL Filipeștii de Pădure nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 102/2021 privind aprobarea decontarii contravalorii transportului cadrelor didactice pentru lunile septembrie si octombrie 2021",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/42888",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/42888",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--filipestii-de-padure-103-2021",
    "path": "local/prahova/filipestii-de-padure/2021/103",
    "short": "HCL Filipeștii de Pădure nr. 103/2021",
@@ -93,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--filipestii-de-padure-109-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/109",
+   "short": "HCL Filipeștii de Pădure nr. 109/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 109/2021 privind prelungirea duratei contractelor de închiriere pentru terenuri și clădiri ce apațin domeniului public pentru anul 2022",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/45104",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/45104",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--filipestii-de-padure-110-2021",
    "path": "local/prahova/filipestii-de-padure/2021/110",
    "short": "HCL Filipeștii de Pădure nr. 110/2021",
@@ -148,6 +178,21 @@
      "from": "2021-12-22",
      "units": 1,
      "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/45108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-114-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/114",
+   "short": "HCL Filipeștii de Pădure nr. 114/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 114/2021 privind aprobarea decontarii contravalorii transportului cadrelor didactice pentru lunile noiembrie 2021",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/45109",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/45109",
      "sha256": null
     }
    ]

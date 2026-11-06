@@ -3,6 +3,28 @@
 "shard": "local/neamt/poienari/2025",
 "acts": [
 {
+"slug": "hcl-neamt--poienari-44-2025",
+"path": "local/neamt/poienari/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienari nr. 44/2025 privind aprobarea rectificării bugetului local al comunei Poienari, județul Neamț, pe anul 2025",
+"short": "HCL Poienari nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-04",
+"latest": "2025-11-04",
+"portal": "https://emol.ro/poienari-nt/registru-hcl/233784",
+"council": "neamt/poienari",
+"council_name": "Consiliul Local al Comunei Poienari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--poienari-45-2025",
 "path": "local/neamt/poienari/2025/45",
 "kind": "local",
@@ -47,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-neamt--poienari-47-2025",
+"path": "local/neamt/poienari/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienari nr. 47/2025 privind desemnarea reprezentantului Consiliului Local al comunei Poienari în Consiliul de Administrație al Școlii gimnaziale Poienari, județul Neamț",
+"short": "HCL Poienari nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-04",
+"latest": "2025-11-04",
+"portal": "https://emol.ro/poienari-nt/registru-hcl/233798",
+"council": "neamt/poienari",
+"council_name": "Consiliul Local al Comunei Poienari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--poienari-48-2025",
 "path": "local/neamt/poienari/2025/48",
 "kind": "local",
@@ -66,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Poienari",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--poienari-49-2025",
+"path": "local/neamt/poienari/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienari nr. 49/2025 privind aprobarea rectificării bugetului local al comunei Poienari, județul Neamț, pe anul 2025",
+"short": "HCL Poienari nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-04",
+"latest": "2025-11-04",
+"portal": "https://emol.ro/poienari-nt/registru-hcl/233800",
+"council": "neamt/poienari",
+"council_name": "Consiliul Local al Comunei Poienari",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-neamt--poienari-52-2025",
+"path": "local/neamt/poienari/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienari nr. 52/2025 privind stabilirea impozitelor și taxelor locale ale comunei Poienari, județul Neamț pentru anul 2026",
+"short": "HCL Poienari nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-03",
+"latest": "2025-12-03",
+"portal": "https://emol.ro/poienari-nt/registru-hcl/237919",
+"council": "neamt/poienari",
+"council_name": "Consiliul Local al Comunei Poienari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--poienari-53-2025",
 "path": "local/neamt/poienari/2025/53",
 "kind": "local",
@@ -135,6 +223,50 @@
 }
 },
 {
+"slug": "hcl-neamt--poienari-54-2025",
+"path": "local/neamt/poienari/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienari nr. 54/2025 privind aprobarea organizării reţelei şcolare a unităților de învăţământ preuniversitar de pe raza comunei Poienari, județul Neamț, pentru anul şcolar 2026- 2027",
+"short": "HCL Poienari nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-03",
+"latest": "2025-12-03",
+"portal": "https://emol.ro/poienari-nt/registru-hcl/237921",
+"council": "neamt/poienari",
+"council_name": "Consiliul Local al Comunei Poienari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--poienari-55-2025",
+"path": "local/neamt/poienari/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienari nr. 55/2025 privind aprobarea unei documentații de atribuire și acordarea unui mandat special",
+"short": "HCL Poienari nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-03",
+"latest": "2025-12-03",
+"portal": "https://emol.ro/poienari-nt/registru-hcl/237922",
+"council": "neamt/poienari",
+"council_name": "Consiliul Local al Comunei Poienari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--poienari-56-2025",
 "path": "local/neamt/poienari/2025/56",
 "kind": "local",
@@ -154,6 +286,138 @@
 "council_name": "Consiliul Local al Comunei Poienari",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--poienari-57-2025",
+"path": "local/neamt/poienari/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienari nr. 57/2025 privind aprobarea Devizului general actualizat pentru Proiectul „Modernizarea sistemului de iluminat public stradal, în comuna Poienari - județul Neamț”",
+"short": "HCL Poienari nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-03",
+"latest": "2025-12-03",
+"portal": "https://emol.ro/poienari-nt/registru-hcl/237924",
+"council": "neamt/poienari",
+"council_name": "Consiliul Local al Comunei Poienari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--poienari-58-2025",
+"path": "local/neamt/poienari/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienari nr. 58/2025 privind alegerea președintelui de ședință pentru lunile ianuarie, februarie și martie 2026",
+"short": "HCL Poienari nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/poienari-nt/registru-hcl/241528",
+"council": "neamt/poienari",
+"council_name": "Consiliul Local al Comunei Poienari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--poienari-59-2025",
+"path": "local/neamt/poienari/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienari nr. 59/2025 privind acordarea unui mandat special reprezentantului legal al Comunei Poienari în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Protecția Animalelor Neamț”",
+"short": "HCL Poienari nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/poienari-nt/registru-hcl/241529",
+"council": "neamt/poienari",
+"council_name": "Consiliul Local al Comunei Poienari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--poienari-60-2025",
+"path": "local/neamt/poienari/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienari nr. 60/2025 privind aprobarea rectificării bugetului local al comunei Poienari, județul Neamț, pe anul 2025",
+"short": "HCL Poienari nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/poienari-nt/registru-hcl/241530",
+"council": "neamt/poienari",
+"council_name": "Consiliul Local al Comunei Poienari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--poienari-61-2025",
+"path": "local/neamt/poienari/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienari nr. 61/2025 privind aprobarea utilizării unor sume din bugetul rectificat de venituri și cheltuieli pe anul 2025 al comunei Poienari, județul Neamț",
+"short": "HCL Poienari nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/poienari-nt/registru-hcl/241531",
+"council": "neamt/poienari",
+"council_name": "Consiliul Local al Comunei Poienari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--poienari-62-2025",
+"path": "local/neamt/poienari/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienari nr. 62/2025 privind aprobarea contractării și garantării unui credit bancar în valoare de 2 000 000 lei, în vederea realizării obiectivului „EXTINDERE REȚEA DE ALIMENTARE CU APĂ ȘI CANALIZARE ÎN COMUNA POIENARI, JUDEȚUL NEAMȚ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+"short": "HCL Poienari nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/poienari-nt/registru-hcl/241532",
+"council": "neamt/poienari",
+"council_name": "Consiliul Local al Comunei Poienari",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

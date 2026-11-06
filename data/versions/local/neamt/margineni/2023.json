@@ -3,6 +3,21 @@
  "shard": "local/neamt/margineni/2023",
  "acts": [
   {
+   "slug": "hcl-neamt--margineni-59-2023",
+   "path": "local/neamt/margineni/2023/59",
+   "short": "HCL Mărgineni nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 59/2023 privind acordarea unui mandat special pentru modificarea tarifelor conexe la serviciile de apă și canalizare, respectiv pentru actualizarea listei cu bunurile de retur preluate de către Compania Județeană Apa Serv S.A",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/128672",
+   "versions": [
+    {
+     "from": "2023-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/128672",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--margineni-60-2023",
    "path": "local/neamt/margineni/2023/60",
    "short": "HCL Mărgineni nr. 60/2023",
@@ -183,6 +198,36 @@
    ]
   },
   {
+   "slug": "hcl-neamt--margineni-72-2023",
+   "path": "local/neamt/margineni/2023/72",
+   "short": "HCL Mărgineni nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 72/2023 privind acordarea unui mandat special special reprezentantului legal al Comunei Mărgineni în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Protecția Animalelor Neamț”",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/136905",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/136905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-73-2023",
+   "path": "local/neamt/margineni/2023/73",
+   "short": "HCL Mărgineni nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 73/2023 privind retragerea comunei Gâdinți din cadrul Asociației de Dezvoltare Intercomunitară AQUA NEAMȚ și modificarea Statutului Asociaţiei de Dezvoltare Intercomunitară ”AQUA NEAMŢ”",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/136906",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/136906",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--margineni-74-2023",
    "path": "local/neamt/margineni/2023/74",
    "short": "HCL Mărgineni nr. 74/2023",
@@ -238,6 +283,21 @@
      "from": "2023-12-15",
      "units": 1,
      "source_url": "https://emol.ro/margineni-nt/registru-hcl/136910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-78-2023",
+   "path": "local/neamt/margineni/2023/78",
+   "short": "HCL Mărgineni nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 78/2023 privind alegerea preşedintelui de şedinţă pentru lunile Ianuarie, Februarie și Martie 2024",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/136911",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/136911",
      "sha256": null
     }
    ]

@@ -135,6 +135,50 @@
 }
 },
 {
+"slug": "hcl-prahova--magureni-14-2026",
+"path": "local/prahova/magureni/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 14/2026 privind aprobarea închirierii prin lictație publică a clădirii situate în centrul satului Măgureni, str. primăriei, nr. 980",
+"short": "HCL Măgureni nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-12",
+"latest": "2026-08-12",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/282709",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magureni-15-2026",
+"path": "local/prahova/magureni/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 15/2026 privind aprobarea închirieii prin licitatie publică a terenului în suprafață de 83 mp din Comuna Măgureni, str. Primăriei, nr. 980",
+"short": "HCL Măgureni nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-12",
+"latest": "2026-08-12",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/282710",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--magureni-16-2026",
 "path": "local/prahova/magureni/2026/16",
 "kind": "local",
@@ -154,6 +198,28 @@
 "council_name": "Consiliul Local al Comunei Măgureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magureni-17-2026",
+"path": "local/prahova/magureni/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 17/2026 privind alegerea președintelui de ședință pentru lunile August, Septembrie, Octombrie 2026",
+"short": "HCL Măgureni nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-12",
+"latest": "2026-08-12",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/282712",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

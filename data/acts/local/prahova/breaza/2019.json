@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/prahova/breaza/2019",
+"acts": [
+{
+"slug": "hcl-prahova--breaza-135-2019",
+"path": "local/prahova/breaza/2019/135",
+"kind": "local",
+"year": "2019",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Breaza nr. 135/2019 privind aprobarea contractului de delegare prin concesiune a gestiunii activitatii de deszapezire din cadrul serviciului de salubrizare al orasului Breaza, judet Prahova",
+"short": "HCL Breaza nr. 135/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-11-08",
+"latest": "2019-11-08",
+"portal": "https://primariabreaza.ro/hotarari-2/",
+"council": "prahova/breaza",
+"council_name": "Consiliul Local al Orașului Breaza",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

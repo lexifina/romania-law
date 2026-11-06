@@ -291,6 +291,29 @@
 }
 },
 {
+"slug": "hcl-neamt--ion-creanga-147-2022",
+"path": "local/neamt/ion-creanga/2022/147",
+"kind": "local",
+"year": "2022",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 147/2022",
+"short": "HCL Ion Creangă nr. 147/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-14",
+"latest": "2022-12-14",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/82712",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--ion-creanga-148-2022",
 "path": "local/neamt/ion-creanga/2022/148",
 "kind": "local",
@@ -310,6 +333,73 @@
 "council_name": "Consiliul Local al Comunei Ion Creangă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--ion-creanga-149-2022",
+"path": "local/neamt/ion-creanga/2022/149",
+"kind": "local",
+"year": "2022",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 149/2022",
+"short": "HCL Ion Creangă nr. 149/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-28",
+"latest": "2022-12-28",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/84558",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--ion-creanga-150-2022",
+"path": "local/neamt/ion-creanga/2022/150",
+"kind": "local",
+"year": "2022",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 150/2022 privind încetarea contractului de închiriere locuință ANL, acordat familiei d-lui Neagu Robert-Iulian, Construit în Ion Creangă, destinate tinerilor si familiilor in varsta de până la 35 ani",
+"short": "HCL Ion Creangă nr. 150/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-28",
+"latest": "2022-12-28",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/84559",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--ion-creanga-151-2022",
+"path": "local/neamt/ion-creanga/2022/151",
+"kind": "local",
+"year": "2022",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 151/2022 privind aprobarea încetării contractului de închiriere nr 10.123 din 14.06.2021 încheiat cu farmacia aruncus SRL",
+"short": "HCL Ion Creangă nr. 151/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-28",
+"latest": "2022-12-28",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/84561",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/prahova/breaza/2016",
+"acts": [
+{
+"slug": "hcl-prahova--breaza-9-2016",
+"path": "local/prahova/breaza/2016/9",
+"kind": "local",
+"year": "2016",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Breaza nr. 9/2016 pentru modificarea HCL nr. 9/2016 privind aprobarea conditiilor de repartizare, inchiriere, exploatare si administrarea a spatiilor cu destinatia de locuinta aflate in proprietatea privata a orasului Breaza",
+"short": "HCL Breaza nr. 9/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-01-28",
+"latest": "2016-01-28",
+"portal": "https://primariabreaza.ro/hotarari-2/",
+"council": "prahova/breaza",
+"council_name": "Consiliul Local al Orașului Breaza",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

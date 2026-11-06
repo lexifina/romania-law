@@ -69,6 +69,29 @@
 }
 },
 {
+"slug": "hcl-neamt--margineni-55-2022",
+"path": "local/neamt/margineni/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 55/2022",
+"short": "HCL Mărgineni nr. 55/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-13",
+"latest": "2022-10-13",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/79726",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--margineni-56-2022",
 "path": "local/neamt/margineni/2022/56",
 "kind": "local",
@@ -352,6 +375,28 @@
 "council_name": "Consiliul Local al Comunei Mărgineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--margineni-69-2022",
+"path": "local/neamt/margineni/2022/69",
+"kind": "local",
+"year": "2022",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 69/2022 privind alegerea preşedintelui de şedinţă pentru lunile Ianuarie, Februarie și Martie 2023",
+"short": "HCL Mărgineni nr. 69/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/85595",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

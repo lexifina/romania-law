@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--margineni-80-2025",
+   "path": "local/neamt/margineni/2025/80",
+   "short": "HCL Mărgineni nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 80/2025 privind constituirea Consiliului Comunitar Consultativ al Comunei Mărgineni, județul Neamț și aprobarea Regulamentului de organizare și funcționare a Consiliului Comunitar Consultativ a1 comunei Mărgineni, județul Neamț",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/237304",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/237304",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--margineni-81-2025",
    "path": "local/neamt/margineni/2025/81",
    "short": "HCL Mărgineni nr. 81/2025",
@@ -63,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--margineni-83-2025",
+   "path": "local/neamt/margineni/2025/83",
+   "short": "HCL Mărgineni nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 83/2025 privind aprobarea închirierii pe bază de licitație a suprafeței de 8,71 ha din domeniul public al Comunei Mărgineni, Județul Neamț",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/237307",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/237307",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--margineni-84-2025",
    "path": "local/neamt/margineni/2025/84",
    "short": "HCL Mărgineni nr. 84/2025",
@@ -73,6 +103,21 @@
      "from": "2025-10-24",
      "units": 1,
      "source_url": "https://emol.ro/margineni-nt/registru-hcl/237308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-85-2025",
+   "path": "local/neamt/margineni/2025/85",
+   "short": "HCL Mărgineni nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 85/2025",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/237309",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/237309",
      "sha256": null
     }
    ]
@@ -153,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--margineni-91-2025",
+   "path": "local/neamt/margineni/2025/91",
+   "short": "HCL Mărgineni nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 91/2025 privind revocarea HCL 83/24.10.2025 privind aprobarea închirierii pe bază de licitație a suprafeței de 8,71 ha din domeniul public al Comunei Mărgineni, județul Neamț",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/242387",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/242387",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--margineni-92-2025",
    "path": "local/neamt/margineni/2025/92",
    "short": "HCL Mărgineni nr. 92/2025",
@@ -193,6 +253,21 @@
      "from": "2025-12-19",
      "units": 1,
      "source_url": "https://emol.ro/margineni-nt/registru-hcl/248028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-95-2025",
+   "path": "local/neamt/margineni/2025/95",
+   "short": "HCL Mărgineni nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 95/2025",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/248029",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/248029",
      "sha256": null
     }
    ]

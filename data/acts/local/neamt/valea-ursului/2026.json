@@ -3,6 +3,72 @@
 "shard": "local/neamt/valea-ursului/2026",
 "acts": [
 {
+"slug": "hcl-neamt--valea-ursului-34-2026",
+"path": "local/neamt/valea-ursului/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 34/2026 privind abrogarea Hotărârii Consiliului Local nr. 12 din 30.03.2026 privind însușirea rezultatelor inventarierii patrimoniului comunei Valea Ursului la data de 31.12.2025 și a Hotărârilor Consiliului Local nr. 29 din 26.06.2026 și nr. 32 din 03.07.2026 de modificare a acesteia",
+"short": "HCL Valea Ursului nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-10",
+"latest": "2026-08-10",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/281466",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--valea-ursului-35-2026",
+"path": "local/neamt/valea-ursului/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 35/2026 privind analiza stadiului de înscriere a datelor în Registrul Agricol în trimestrul II al anului 2026",
+"short": "HCL Valea Ursului nr. 35/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-10",
+"latest": "2026-08-10",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/281467",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--valea-ursului-36-2026",
+"path": "local/neamt/valea-ursului/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 36/2026 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al comunei Valea Ursului, începând cu data de 01.08.2026",
+"short": "HCL Valea Ursului nr. 36/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-10",
+"latest": "2026-08-10",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/281468",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--valea-ursului-37-2026",
 "path": "local/neamt/valea-ursului/2026/37",
 "kind": "local",
@@ -22,6 +88,50 @@
 "council_name": "Consiliul Local al Comunei Valea Ursului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--valea-ursului-38-2026",
+"path": "local/neamt/valea-ursului/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 38/2026 privind aprobarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții Modernizare drumuri de interes local în comuna Valea Ursului, județul Neamț",
+"short": "HCL Valea Ursului nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-10",
+"latest": "2026-08-10",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/281470",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--valea-ursului-39-2026",
+"path": "local/neamt/valea-ursului/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 39/2026 privind alegerea președintelui de ședință pentru lunile: septembrie, octombrie și noiembrie, anul 2026",
+"short": "HCL Valea Ursului nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-08",
+"latest": "2026-09-08",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/285881",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-neamt--valea-ursului-41-2026",
+"path": "local/neamt/valea-ursului/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 41/2026 privind aprobarea raportului de activitatea al asistenţilor personali ai persoanelor cu handicap grav pentru semestrul I al anului 2026",
+"short": "HCL Valea Ursului nr. 41/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/285883",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--valea-ursului-42-2026",
 "path": "local/neamt/valea-ursului/2026/42",
 "kind": "local",
@@ -69,6 +201,182 @@
 }
 },
 {
+"slug": "hcl-neamt--valea-ursului-43-2026",
+"path": "local/neamt/valea-ursului/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 43/2026 privind desemnarea reprezentanților consiliului local în consiliul de administrație al Liceului Tehnologic, comuna Valea Ursului, județul Neamț, pentru anul școlar 2026-2027",
+"short": "HCL Valea Ursului nr. 43/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-18",
+"latest": "2026-09-18",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/286415",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--valea-ursului-44-2026",
+"path": "local/neamt/valea-ursului/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 44/2026 privind aprobarea neasumării responsabilităţii organizării și derulării procedurilor de atribuire a contractelor/acordurilor- cadru pentru achiziţia produselor aferente programului şi a contractelor/acordurilor- cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru şcoli al României pentru o perioada de trei ani 2026-2027, 2027-2028 și 2028-2029, la nivelul comunei Valea Ursului judeţul Neamț, pentru anul școlar 2026- 2027",
+"short": "HCL Valea Ursului nr. 44/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-18",
+"latest": "2026-09-18",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/286416",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--valea-ursului-45-2026",
+"path": "local/neamt/valea-ursului/2026/45",
+"kind": "local",
+"year": "2026",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 45/2026 privind aprobarea unor măsuri pentru implementarea Programului național ″ Masă sănătoasă″, de acordare a unui suport alimentar elevilor Liceului Tehnologic, comuna Valea Ursului , în anul școlar 2026-2027",
+"short": "HCL Valea Ursului nr. 45/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-21",
+"latest": "2026-09-21",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/287448",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--valea-ursului-46-2026",
+"path": "local/neamt/valea-ursului/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 46/2026 privind aprobarea Planului de dezvoltare a serviciilor sociale aferent Comunei Valea Ursului, judeţul Neamţ",
+"short": "HCL Valea Ursului nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/289984",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--valea-ursului-47-2026",
+"path": "local/neamt/valea-ursului/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 47/2026 privind desemnarea reprezentanților Consiliului local al comunei Valea Ursului, județul Neamț, în comisia de evaluare a probei de interviu pentru concursul de ocuparea a funcțiilor de director și director adjunct din unitățile de învățămant preuniversitar de stat",
+"short": "HCL Valea Ursului nr. 47/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/289985",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--valea-ursului-48-2026",
+"path": "local/neamt/valea-ursului/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 48/2026 privind depunerea si implementarea proiectului „CAPACITATI DE PRODUCERE ENERGIE DIN SURSE REGENERABILE DE ENERGIE, PENTRU CONSUM PROPRIU, ÎN COMUNA VALEA URSULUI, JUDETUL NEAMT”",
+"short": "HCL Valea Ursului nr. 48/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/289986",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--valea-ursului-49-2026",
+"path": "local/neamt/valea-ursului/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 49/2026 privind actualizarea poziției aferente imobilului „Dispensar Uman”, aflat în proprietatea privată a comunei Valea Ursului, în inventarul bunurilor care alcătuiesc domeniul privat al comunei",
+"short": "HCL Valea Ursului nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/296758",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--valea-ursului-50-2026",
+"path": "local/neamt/valea-ursului/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 50/2026 privind analiza stadiului de înscriere a datelor în Registrul Agricol în trimestrul III al anului 2026",
+"short": "HCL Valea Ursului nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/296759",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--valea-ursului-51-2026",
 "path": "local/neamt/valea-ursului/2026/51",
 "kind": "local",
@@ -88,6 +396,50 @@
 "council_name": "Consiliul Local al Comunei Valea Ursului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--valea-ursului-52-2026",
+"path": "local/neamt/valea-ursului/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 52/2026 privind scoaterea din evidențele fiscale ale Primariei Valea Ursului, a unor sume reprezentând amenzi contravenționale, ale debitorilor decedați",
+"short": "HCL Valea Ursului nr. 52/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/296761",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--valea-ursului-53-2026",
+"path": "local/neamt/valea-ursului/2026/53",
+"kind": "local",
+"year": "2026",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 53/2026 privind aprobarea Devizului general și a Proiectului Tehnic, precum și a indicatorilor tehnico-economici pentru implementarea obiectivului „Modernizarea sistemului de iluminat public în Comuna Valea Ursului, Județul Neamț” ce se implementează prin „Programul privind creșterea eficienței energetice a infrastructurii de iluminat public”",
+"short": "HCL Valea Ursului nr. 53/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/valeaursului-nt/registru-hcl/296762",
+"council": "neamt/valea-ursului",
+"council_name": "Consiliul Local al Comunei Valea Ursului",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

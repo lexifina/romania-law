@@ -3,6 +3,94 @@
 "shard": "local/prahova/breaza/2020",
 "acts": [
 {
+"slug": "hcl-prahova--breaza-29-2020",
+"path": "local/prahova/breaza/2020/29",
+"kind": "local",
+"year": "2020",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Breaza nr. 29/2020 privind aprobarea inchirierii prin licitatie publica a unui teren in suprafata de 94.940 m.p., proprietate privata a orasului Breaza",
+"short": "HCL Breaza nr. 29/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://primariabreaza.ro/hotarari-2/",
+"council": "prahova/breaza",
+"council_name": "Consiliul Local al Orașului Breaza",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--breaza-35-2020",
+"path": "local/prahova/breaza/2020/35",
+"kind": "local",
+"year": "2020",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Breaza nr. 35/2020",
+"short": "HCL Breaza nr. 35/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://primariabreaza.ro/hotarari-2/",
+"council": "prahova/breaza",
+"council_name": "Consiliul Local al Orașului Breaza",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--breaza-50-2020",
+"path": "local/prahova/breaza/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Breaza nr. 50/2020",
+"short": "HCL Breaza nr. 50/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://primariabreaza.ro/hotarari-2/",
+"council": "prahova/breaza",
+"council_name": "Consiliul Local al Orașului Breaza",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--breaza-55-2020",
+"path": "local/prahova/breaza/2020/55",
+"kind": "local",
+"year": "2020",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Breaza nr. 55/2020 privind acordul Consiliului Local Breaza pentru demararea procedurilor necesare in vederea achizitionarii unor imobile",
+"short": "HCL Breaza nr. 55/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-24",
+"latest": "2020-06-24",
+"portal": "https://primariabreaza.ro/hotarari-2/",
+"council": "prahova/breaza",
+"council_name": "Consiliul Local al Orașului Breaza",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--breaza-56-2020",
 "path": "local/prahova/breaza/2020/56",
 "kind": "local",
@@ -22,6 +110,28 @@
 "council_name": "Consiliul Local al Orașului Breaza",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--breaza-63-2020",
+"path": "local/prahova/breaza/2020/63",
+"kind": "local",
+"year": "2020",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Breaza nr. 63/2020 privind acordarea unor facilitati fiscale la plata impozitelor locale pentru anul 2020 pentru acele activitati economice care au fost intrerupte pe perioada starii de urgenta",
+"short": "HCL Breaza nr. 63/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-23",
+"latest": "2020-07-23",
+"portal": "https://primariabreaza.ro/hotarari-2/",
+"council": "prahova/breaza",
+"council_name": "Consiliul Local al Orașului Breaza",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -3,6 +3,36 @@
  "shard": "local/neamt/secuieni/2021",
  "acts": [
   {
+   "slug": "hcl-neamt--secuieni-100-2021",
+   "path": "local/neamt/secuieni/2021/100",
+   "short": "HCL Secuieni nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 100/2021 privind atribuirea în folosință gratuită a suprafeţei de 500 mp teren din domeniul privat al comunei Secuieni,județul Neamț în vederea construirii unei locuințe proprietate personală pentru tineri",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/44134",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/44134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-101-2021",
+   "path": "local/neamt/secuieni/2021/101",
+   "short": "HCL Secuieni nr. 101/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 101/2021",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/44135",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/44135",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--secuieni-102-2021",
    "path": "local/neamt/secuieni/2021/102",
    "short": "HCL Secuieni nr. 102/2021",
@@ -63,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--secuieni-86-2021",
+   "path": "local/neamt/secuieni/2021/86",
+   "short": "HCL Secuieni nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 86/2021 privind aprobarea alocării unui sprijin financiar pentru Parohia Ortodoxă Prăjești din comuna Secuieni, județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/39670",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/39670",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--secuieni-87-2021",
    "path": "local/neamt/secuieni/2021/87",
    "short": "HCL Secuieni nr. 87/2021",
@@ -73,6 +118,36 @@
      "from": "2021-10-28",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-nt/registru-hcl/39671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-88-2021",
+   "path": "local/neamt/secuieni/2021/88",
+   "short": "HCL Secuieni nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 88/2021 privind desemnarea reprezentantului Consiliului local în comisia de evaluare a probei de interviu a concursului de ocupare a funcției de director al Școlii Gimnaziale Comuna Secuieni, județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/40025",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/40025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-89-2021",
+   "path": "local/neamt/secuieni/2021/89",
+   "short": "HCL Secuieni nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 89/2021",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/40026",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/40026",
      "sha256": null
     }
    ]

@@ -1,0 +1,1206 @@
+{
+ "country": "RO",
+ "shard": "local/olt/draganesti-olt/2020",
+ "acts": [
+  {
+   "slug": "hcl-olt--draganesti-olt-100-2020",
+   "path": "local/olt/draganesti-olt/2020/100",
+   "short": "HCL Drăgănești-Olt nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 100/2020 pentru mandatul 2020-2024",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/12/hotararea-nr-100-din-07.12.2020-aprobarea-Regulamentului-de-Organizare-si-Functionare-al-Consiliului-Local-al-orasului-Draganesti-Olt-pentru-mandatul-2020-2024.pdf",
+     "sha256": "324302178dfa8ced6d95dcd3ec3196a3f4e725d4bf443d0540cd6724856fd1a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-101-2020",
+   "path": "local/olt/draganesti-olt/2020/101",
+   "short": "HCL Drăgănești-Olt nr. 101/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 101/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/12/hotararea-nr-101-din-07.12.2020-desemnarea-unui-membru-titular-si-a-unui-membru-supleant-in-cadrul-Comisiei-de-evaluare-a-ofertelor-procedurii-de-concesionare-supraf.-teren-1250mp.pdf",
+     "sha256": "301c8ed9121c2d82ba7b381dfe90f085a43394871414a8439477eff4fa461a5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-103-2020",
+   "path": "local/olt/draganesti-olt/2020/103",
+   "short": "HCL Drăgănești-Olt nr. 103/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 103/2020 pentru activitatea de Maturatul, spalatul, stropirea si intretinerea cailor publice",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/12/hotararea-nr-103-din-07.12.2020-stabilirea-modalitatii-de-gestiune-pentru-activitatea-de-Maturatul-spalatul-stropirea-si-intretinerea-cailor-publice.pdf",
+     "sha256": "adb880930f02bd876d1a0acf0682df861938739ecd88e31d39ef7394e1b87423"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-104-2020",
+   "path": "local/olt/draganesti-olt/2020/104",
+   "short": "HCL Drăgănești-Olt nr. 104/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 104/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/12/hotararea-nr-104-din-14.12.2020-prelungirea-duratei-contractului-de-concesiune-nr-34220-din-15.12.2015-pt-suprafata-de-teren-intravilan-de-48-mp.pdf",
+     "sha256": "10d78159bb81f1e3ad4ac117ca82715aef620a2b3c7a2036fdbe7b4979dce220"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-105-2020",
+   "path": "local/olt/draganesti-olt/2020/105",
+   "short": "HCL Drăgănești-Olt nr. 105/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 105/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/12/hotararea-nr-105-din-14.12.2020-aprobarea-alocarii-unei-sume-de-bani-din-bugetul-local-in-vederea-acordarii-unor-daruri-cu-ocazia-sarbatorilor-de-iarna-2020-2021.pdf",
+     "sha256": "4c078a4edd5cf968998b8d8f94ffa0e0f46acf93f080a0dcb58114ebaa694479"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-106-2020",
+   "path": "local/olt/draganesti-olt/2020/106",
+   "short": "HCL Drăgănești-Olt nr. 106/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 106/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/wp-content/uploads/2021/02/HCL-nr.106-din-23.12.2020-ref-la-aprobarea-rectific%C4%83rii-bugetului-de-venituri-%C5%9Fi-cheltuieli_Redacted.pdf",
+     "sha256": "a34033fbdbb4d241ac8fa0fe9fd6d61f756506b9d7aae06ff2a8c2d91d3c5a4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-107-2020",
+   "path": "local/olt/draganesti-olt/2020/107",
+   "short": "HCL Drăgănești-Olt nr. 107/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 107/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/wp-content/uploads/2021/02/HCL-nr.107-din-23.12.2020-ref-la-aprobarea-contului-de-execu%C5%A3ie-al-bugetului-local-al-ora%C5%9Fului-Dr%C4%83g%C4%83ne%C5%9Fti-Olt_Redacted.pdf",
+     "sha256": "bb5c582e24eb7543ee2b246062df9421853b14bd986bed352a8db38c9e9cde31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-108-2020",
+   "path": "local/olt/draganesti-olt/2020/108",
+   "short": "HCL Drăgănești-Olt nr. 108/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 108/2020 pentru anul 2021",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/wp-content/uploads/2021/02/HCL-nr.108-din-23.12.2020-ref-la-stabilirea-impozitelor-%C5%9Fi-taxelor-locale-pentru-anul-2021_Redacted.pdf",
+     "sha256": "47dbd93bc400b193413fa36f27604fb0f28839e8f93638a2577300b8b0476985"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-11-2020",
+   "path": "local/olt/draganesti-olt/2020/11",
+   "short": "HCL Drăgănești-Olt nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 11/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/04/hotararea-nr-11-din-28.02.2020-aprobarea-inchirierii-prin-atribuire-directa-a-suprafetelor-de-pajiste-domeniu-privat-al-orasului.pdf",
+     "sha256": "81ec1d17146882b43ad60a93d004408b08bf7a9f2a6799d5d9cf154fe7225a24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-110-2020",
+   "path": "local/olt/draganesti-olt/2020/110",
+   "short": "HCL Drăgănești-Olt nr. 110/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 110/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/wp-content/uploads/2021/02/HCLNR110-Copy_Redacted.pdf",
+     "sha256": "62813387124412f504ec61f3fb9548efc9b7894dc5b506ba944fb3ab8dfa5711"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-111-2020",
+   "path": "local/olt/draganesti-olt/2020/111",
+   "short": "HCL Drăgănești-Olt nr. 111/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 111/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/wp-content/uploads/2021/02/HCL-nr.111-din-23.12.2020-ref-la-actualizarea-componen%C5%A3ei-Comisiei-de-aplicare-a-prevederilor-Legii-nr.-152003_Redacted.pdf",
+     "sha256": "63e5b13cb9c7e68eff00eec972087799a9e44d9bb2407ffb45f7c71857d63760"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-112-2020",
+   "path": "local/olt/draganesti-olt/2020/112",
+   "short": "HCL Drăgănești-Olt nr. 112/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 112/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/wp-content/uploads/2021/02/HCL-nr.112-din-23.12.2020-ref-la-desemnarea-reprezentan%C5%A3ilor-Consiliului-local-Dr%C4%83g%C4%83ne%C5%9Fti-Olt-%C3%AEn-comisia-de-verificare-%C8%99i-acordare-a-punctajelor-ob%C5%A3inute-de-solicitan%C5%A3ii-locuin%C5%A3elor-A.N.L._Redacted.pdf",
+     "sha256": "d5b7ca96825a32d4bdd275b3514adb99bdec2bb953689de1e481a348a5dd84e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-113-2020",
+   "path": "local/olt/draganesti-olt/2020/113",
+   "short": "HCL Drăgănești-Olt nr. 113/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 113/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/wp-content/uploads/2021/02/HCL-nr.113-din-23.12.2020-ref-la-aprobarea-Planului-de-ac%C5%A3iuni-%C5%9Fi-lucr%C4%83ri-de-interes-local-ce-urmeaz%C4%83-a-fi-efectuate-de-beneficiarii-de-ajutor-social-aferent-anului-2021_Redacted.pdf",
+     "sha256": "9bd070bbb95f1006dee1211a4d007110fb148497c6e09b9f663fd8a52680a196"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-12-2020",
+   "path": "local/olt/draganesti-olt/2020/12",
+   "short": "HCL Drăgănești-Olt nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 12/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/04/hotararea-nr-12-din-28.02.2020-aprobarea-puz-construire-spalatorie-auto-si-imprejmuire-in-strada-n.titulescu-nr.358a-beneficiar-sc-albert-si-geo-srl.pdf",
+     "sha256": "688b8268a69f12a65b6876d06d547f7b2430a5f3631ec0f036c9872fd4ee3c7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-17-2020",
+   "path": "local/olt/draganesti-olt/2020/17",
+   "short": "HCL Drăgănești-Olt nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 17/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/04/hotararea-nr-17-din-20.03.2020-desemnare-presedinte-sedinta-extraordinara-de-indata-a-CL-din-data-de-20.03.2020.pdf",
+     "sha256": "aca7efcb64d4172dca8916c2099bf2b8f0cc74784b38586101444f98e36f12d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-21-2020",
+   "path": "local/olt/draganesti-olt/2020/21",
+   "short": "HCL Drăgănești-Olt nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 21/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/04/hotararea-nr-21-din-31.03.2020-aprobarea-regulamentului-serviciului-de-salubrizare.pdf",
+     "sha256": "6cddcdf60e6ed9e62dfcf7906ae9822967bf12375221c1e6abaac6a136add775"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-22-2020",
+   "path": "local/olt/draganesti-olt/2020/22",
+   "short": "HCL Drăgănești-Olt nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 22/2020 pentru activitatea - maturatul,spalatul, stropirea si intretinerea cailor publice",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/04/hotararea-nr-22-din-31.03.2020-stabilirea-modalitatii-de-gestiune-pentru-activitatea-maturatulspalatul-stropirea-si-intretinerea-cailor-publice.pdf",
+     "sha256": "d90d8cbd113e99cdd5e803a8a70be81d193a62578795e886d3902d9a6f33e9a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-23-2020",
+   "path": "local/olt/draganesti-olt/2020/23",
+   "short": "HCL Drăgănești-Olt nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 23/2020 pentru activitatea de dezinsectie, dezinfectie si deratizare",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/04/hotararea-nr-23-din-31.03.2020-stabilirea-modalitatii-de-gestiune-pentru-activitatea-de-dezinsectie-dezinfectie-si-deratizare.pdf",
+     "sha256": "4cd5510c4bb1911223d8270a1fd169691715c1c9d1a9027fddfeac793eb11566"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-24-2020",
+   "path": "local/olt/draganesti-olt/2020/24",
+   "short": "HCL Drăgănești-Olt nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 24/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/04/hotararea-nr-24-din-31.03.2020-aprobarea-regulamentului-serviciului-de-iluminat-public.pdf",
+     "sha256": "b8ef516297e4996c88ead1a8a17b48411e5b27fae7bd3bd76a3060559bd9ffdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-25-2020",
+   "path": "local/olt/draganesti-olt/2020/25",
+   "short": "HCL Drăgănești-Olt nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 25/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/04/hotararea-nr-25-din-31.03.2020-stabilirea-modalitatii-de-gestiune-a-serviciului-de-iluminat-public.pdf",
+     "sha256": "731bc0cc5b16c1de2f51b745a6fffabbcf2eb76139ea5c46483872a0012f473f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-26-2020",
+   "path": "local/olt/draganesti-olt/2020/26",
+   "short": "HCL Drăgănești-Olt nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 26/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/04/hotararea-nr-26-din-31.03.2020-aprobarea-regulamentului-de-organizare-si-functionare-al-serviciului-public-comunitar-local-de-evidenta-a-persoanelor.pdf",
+     "sha256": "fb8fe2b2c52247a3123aca9ae03ce6aab4dac6972d533a98fe15aa6aef2abc8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-27-2020",
+   "path": "local/olt/draganesti-olt/2020/27",
+   "short": "HCL Drăgănești-Olt nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 27/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/04/hotararea-nr-27-din-31.03.2020-desemnare-unui-membru-titular-si-a-unui-membru-supleant-in-cadrul-comisiei-de-evaluare-a-ofertelor-aferente-procedurii.pdf",
+     "sha256": "03b610edc04364e779f6d25478595113cf8c19aaa9eb19b85599236f2ba96910"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-28-2020",
+   "path": "local/olt/draganesti-olt/2020/28",
+   "short": "HCL Drăgănești-Olt nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 28/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/05/hotararea-nr-28-din-30.04.2020-stabilirea-procedurii-de-desfasurare-a-sedintelor-CL-in-situatii-exceptionale.pdf",
+     "sha256": "64c2f84fce94976f68ca1f5bd9c8fef22467ca4f38dffb97e90f34db23c5de8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-29-2020",
+   "path": "local/olt/draganesti-olt/2020/29",
+   "short": "HCL Drăgănești-Olt nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 29/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/05/hotararea-nr-29-din-30.04.2020-aprobarea-executiei-bugetare-pt-trim.I-2020.pdf",
+     "sha256": "f1a2b6c8fd51518b858c36bfb0d356e7ad730529de726e5155394317b26ec578"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-3-2020",
+   "path": "local/olt/draganesti-olt/2020/3",
+   "short": "HCL Drăgănești-Olt nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 3/2020 pentru anul școlar 2020-2021",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/04/hotararea-nr-3-din-31.01.2020-mentinerea-retelei-scolare-a-orasului-pentru-anul-scolar-2020-2021.pdf",
+     "sha256": "0f23c37e6d2e55f128e4e6d57fb1638cdfc265728cc1d1cfa6e3e2ec347a7880"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-30-2020",
+   "path": "local/olt/draganesti-olt/2020/30",
+   "short": "HCL Drăgănești-Olt nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 30/2020 pentru anul 2021",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/05/hotararea-nr-30-din-30.04.2020-indexarea-impozitelor-si-taxelor-locale-pentru-anul-2021.pdf",
+     "sha256": "68b930464cf98fcd40a31ce47f378ba3f3f1dff26975c8fc4ca71a5f57863f67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-31-2020",
+   "path": "local/olt/draganesti-olt/2020/31",
+   "short": "HCL Drăgănești-Olt nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 31/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/05/hotararea-nr-31-din-30.04.2020-participarea-UAT-Draganesti-la-majorarea-capitalului-social-al-SC-Compania-de-Apa-Olt-SA-prin-aport-in-numerar.pdf",
+     "sha256": "14f22bce9777ff1ea77f517abbe853012ede86827cf88450f0c4777d86e1c0be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-32-2020",
+   "path": "local/olt/draganesti-olt/2020/32",
+   "short": "HCL Drăgănești-Olt nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 32/2020 privind aprobarea ROF a cimitirelor umane",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/05/hotararea-nr-32-din-30.04.2020-modificarea-HCL-nr-99-din-29.08.2019-privind-aprobarea-ROF-a-cimitirelor-umane.pdf",
+     "sha256": "559901b63d42eb05e6b6fd814d4ce16e6f18ac6165dcadf59e8a7d3455f0f731"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-33-2020",
+   "path": "local/olt/draganesti-olt/2020/33",
+   "short": "HCL Drăgănești-Olt nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 33/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/05/hotararea-nr-33-din-30.04.2020-aprobarea-criteriilor-actualizate-de-acces-la-locuinta-si-a-criteriilor-de-ierarhizare-stabilite-prin-punctaj.pdf",
+     "sha256": "48bc53baf7ffe8f7f819543ba143253ee20572b7b0ec613af27c876cbd938547"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-34-2020",
+   "path": "local/olt/draganesti-olt/2020/34",
+   "short": "HCL Drăgănești-Olt nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 34/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/05/hotararea-nr-34-din-30.04.2020-prelungirea-duratei-contractelor-de-inchiriere-a-terenurilor-din-dom.-public-si-privat-al-orasului.pdf",
+     "sha256": "7520363afcf0750055d911c7cd58d8053c6c10d1e32af8b458630ea6f9bc6517"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-36-2020",
+   "path": "local/olt/draganesti-olt/2020/36",
+   "short": "HCL Drăgănești-Olt nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 36/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/05/hotararea-nr-36-din-30.04.2020-aprobarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2020-al-SC-URBAN-ACTIV-SERV-SRL.pdf",
+     "sha256": "eca4adef8a0cfef287ff3db9990c9940652a2ce664d7a9026a064cf5ce7b92f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-37-2020",
+   "path": "local/olt/draganesti-olt/2020/37",
+   "short": "HCL Drăgănești-Olt nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 37/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/05/hotararea-nr-37-din-30.04.2020-aprobarea-organigramei-si-a-statului-de-functii-pt-SC-URBAN-ACTIV-SERV-SRL.pdf",
+     "sha256": "8a98044be35c52f13981ce05dbad0de4e2e136bff5bf9944c88ab9c0b178ec27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-38-2020",
+   "path": "local/olt/draganesti-olt/2020/38",
+   "short": "HCL Drăgănești-Olt nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 38/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/05/hotararea-nr-38-din-30.04.2020-aprobarea-tarifelor-aferente-prestarii-activitatii-de-maturat-spalat-stropit-si-intretinere-cai-publice.pdf",
+     "sha256": "7a7b59956a247e119c7c8eb3060f5fc803bf2a78d05e3a5b028e32b0c0187c5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-39-2020",
+   "path": "local/olt/draganesti-olt/2020/39",
+   "short": "HCL Drăgănești-Olt nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 39/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/05/hotararea-nr-39-din-30.04.2020-aprobarea-tarifelor-aferente-prestarii-Serviciului-de-iluminat-public.pdf",
+     "sha256": "e421cde0eab5f07c8259210d0df34a7681a977e677f527f10ab41a437d3d1329"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-4-2020",
+   "path": "local/olt/draganesti-olt/2020/4",
+   "short": "HCL Drăgănești-Olt nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 4/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/04/hotararea-nr-4-din-31.01.2020-aprobarea-programului-manifestarilor-cultural-artistice-ce-se-vor-desfasura-in-cursul-anului-2020-la-nivelul-orasului.pdf",
+     "sha256": "2b881ac1d06c8296e2243ab5472f1bb7af154cea1bbd588f4bea5eecaf4c30da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-40-2020",
+   "path": "local/olt/draganesti-olt/2020/40",
+   "short": "HCL Drăgănești-Olt nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 40/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/05/hotararea-nr-40-din-30.04.2020-insusirea-raportului-de-evaluare-a-terenului-in-supraf-de-1250-mp-situat-in-t-46-p-19.pdf",
+     "sha256": "dcd281d5fa53974b98eaf54a3247ac05c948ea6a6767462ef4ca6b6a8cd5ae50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-42-2020",
+   "path": "local/olt/draganesti-olt/2020/42",
+   "short": "HCL Drăgănești-Olt nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 42/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/06/hotararea-nr-42-din-28.05.2020-modificarea-HCL-nr-83-din-21.11.2013-ref.-la-concecionarea-prin-licitatie-publica-suprafata-de-teren-28-mp.pdf",
+     "sha256": "36c3c3f8b0fdda8c2a98ec7238a4d0c46a89c60ab91763e77598ae2bf9db4508"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-44-2020",
+   "path": "local/olt/draganesti-olt/2020/44",
+   "short": "HCL Drăgănești-Olt nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 44/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/06/hotararea-nr-44-din-28.05.2020-atribuirea-de-loturi-in-folosinta-gratuita-in-suprafata-de-300-mp-unor-solicitanti-care-indeplinesc-criteriile-impuse.pdf",
+     "sha256": "52b0b772d0b707c4d4f27c11aa2f54027e383c895ab6fa56d7adaa03de2a3627"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-45-2020",
+   "path": "local/olt/draganesti-olt/2020/45",
+   "short": "HCL Drăgănești-Olt nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 45/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/06/hotararea-nr-45-din-28.05.2020-aprobarea-Regulamentului-de-organizare-si-functionare-al-Directiei-de-asistenta-sociala-Draganesti-Olt.pdf",
+     "sha256": "ce3104ffaa11fb7b504558e782b6663be676c19ad80ac3086c32c7fcd06ce348"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-46-2020",
+   "path": "local/olt/draganesti-olt/2020/46",
+   "short": "HCL Drăgănești-Olt nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 46/2020 pentru perioada 2020-2025",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/06/hotararea-nr-46-din-28.05.2020-aprobarea-Strategiei-de-dezvoltare-a-serviciilor-sociale-la-nivelul-orasului-pentru-perioada-2020-2025.pdf",
+     "sha256": "31df680ad5266e3bec5d69a0c1d476b5986dd0e8ffca768d0045cf104d58cf9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-47-2020",
+   "path": "local/olt/draganesti-olt/2020/47",
+   "short": "HCL Drăgănești-Olt nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 47/2020 pentru implementarea Strategiei de dezvoltare a serviciilor sociale la nivelul orasului pe anul 2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/06/hotararea-nr-47-din-28.05.2020-aprobarea-Planului-anual-de-actiune-pentru-implementarea-Strategiei-de-dezvoltare-a-serviciilor-sociale-la-nivelul-orasului-pe-anul-2020.pdf",
+     "sha256": "e4f07eca398c78d8c31699248525f0613c0aede525da3e17933b9ca3ba8f5bc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-49-2020",
+   "path": "local/olt/draganesti-olt/2020/49",
+   "short": "HCL Drăgănești-Olt nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 49/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/06/hotararea-nr-49-din-28.05.2020-aprobarea-cooperarii-cu-Asociatia-de-audit-CDS-Slatina.pdf",
+     "sha256": "ec1f609af63e8739b86031e8c975242433b3f66d514981c85e735eb04c89e17c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-5-2020",
+   "path": "local/olt/draganesti-olt/2020/5",
+   "short": "HCL Drăgănești-Olt nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 5/2020 pentru servicii de apă și apă uzată furnizată de operatorul regional SC Compania de apă Olt SA, pentru perioada 2020-2024",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/04/hotararea-nr-5-din-31.01.2020-aprobarea-strategiei-de-tarifare-pentru-servicii-de-apa-si-apa-uzata-furnizata-de-operatorul-regional-sc-compania-de-apa-olt-sa-pentru-perioada-2020-2024.pdf",
+     "sha256": "28c92dc51d2e4101d242f67c8f9d76448fb41a2d60b8afa6928901818ee90bdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-50-2020",
+   "path": "local/olt/draganesti-olt/2020/50",
+   "short": "HCL Drăgănești-Olt nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 50/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/06/hotararea-nr-50-din-28.05.2020-aprobarea-utilizarii-unei-sume-de-bani-din-Fondul-de-intretinere-inlocuire-si-dezvoltare-de-catre-Compania-de-Apa-Olt.pdf",
+     "sha256": "d5bf4907b6d4ed6f8ca65baf332551743f3e17b4ea1f23219d47bcd6abd6c6b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-56-2020",
+   "path": "local/olt/draganesti-olt/2020/56",
+   "short": "HCL Drăgănești-Olt nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 56/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/08/hotararea-nr-56-din-29.06.2020-trecerea-din-domeniul-public-in-domeniul-privat-a-retelei-termice-aferente-fostei-CT-1.pdf",
+     "sha256": "622c80bfcbbbaa004773c87b75a00964e5816f61590e715a56679d5f630a4b6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-57-2020",
+   "path": "local/olt/draganesti-olt/2020/57",
+   "short": "HCL Drăgănești-Olt nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 57/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+     "sha256": "5591e68cc6546baac898299bf64ff2a452cd21ff8035a66bdec313dca1550f56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-58-2020",
+   "path": "local/olt/draganesti-olt/2020/58",
+   "short": "HCL Drăgănești-Olt nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 58/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/08/hotararea-nr-58-din-29.06.2020-aprobarea-Regulamentului-de-Organizare-si-Functionare-al-aparatului-de-specialitate-al-Primarului-Orasului-Draganesti-Olt.pdf",
+     "sha256": "808fa12386ade387d336073c58b657b231aa1e288b582d76707dec898d2eca55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-59-2020",
+   "path": "local/olt/draganesti-olt/2020/59",
+   "short": "HCL Drăgănești-Olt nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 59/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/08/hotararea-nr-59-din-29.06.2020-aprobarea-listei-solicitantilor-care-au-acces-la-locuinte-construite-din-fonduri-ale-Agentiei-Nationale-pentru-Locuinte.pdf",
+     "sha256": "fb6543f91b3ca8e44373cc4013f7ece1eb697e25ec6fd80fae6b8ef2fb802eab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-60-2020",
+   "path": "local/olt/draganesti-olt/2020/60",
+   "short": "HCL Drăgănești-Olt nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 60/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+     "sha256": "b724f4b7ce91c6624bcd1435bd0b9fbe373eecbfd9c09a802a6cde8cdf7c4330"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-61-2020",
+   "path": "local/olt/draganesti-olt/2020/61",
+   "short": "HCL Drăgănești-Olt nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 61/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/08/hotararea-nr-61-din-29.06.2020-repartizarea-unei-locuinte-ANL-ramasa-vacanta-dnei-Nitu-Amalasuntha.pdf",
+     "sha256": "4c42918ada3002cc244963a0760099f71171154d87f32acdb6ccec72a84723e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-62-2020",
+   "path": "local/olt/draganesti-olt/2020/62",
+   "short": "HCL Drăgănești-Olt nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 62/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+     "sha256": "3d9aa15bd750e01a01d0347e37874f31d9cfab1a44718d709f6ad426b45646ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-63-2020",
+   "path": "local/olt/draganesti-olt/2020/63",
+   "short": "HCL Drăgănești-Olt nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 63/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+     "sha256": "01c68370a8582c6db072ddb9b0b0a99eb351b7a2ce6a6ac15d255149d972c476"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-65-2020",
+   "path": "local/olt/draganesti-olt/2020/65",
+   "short": "HCL Drăgănești-Olt nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 65/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/08/hotararea-nr-65-din-30.07.2020-desemnarea-presedintelui-de-sedinta-ordinara-a-CL-din-data-de-30.07.2020.pdf",
+     "sha256": "9657eff7e51e6881a9985c6ac4062e6e416959c689f8e9a696252a7814105eae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-66-2020",
+   "path": "local/olt/draganesti-olt/2020/66",
+   "short": "HCL Drăgănești-Olt nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 66/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/08/hotararea-nr-66-din-30.07.2020-aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-pe-anul-2020.pdf",
+     "sha256": "8bb45ba9147f84f26b8f811dcc947c586010a7a73daf98b51624afb0d8a57c1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-67-2020",
+   "path": "local/olt/draganesti-olt/2020/67",
+   "short": "HCL Drăgănești-Olt nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 67/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/08/hotararea-nr-67-din-30.07.2020-aprobarea-executiei-bugetare-pt-trimestrul-II-2020.pdf",
+     "sha256": "d5e6b3f28b97c643175eedb0017d97252857d6265710e0e4c8a8ed57e618f3a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-68-2020",
+   "path": "local/olt/draganesti-olt/2020/68",
+   "short": "HCL Drăgănești-Olt nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 68/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/08/hotararea-nr-68-din-30.07.2020-aprobarea-anularii-accesoriilor-in-cazul-obligatiilor-bugetare-restante-la-31-martie-2020.pdf",
+     "sha256": "48e88e088039dca8c3f9e27c0c3aa99707ea303bc3adda888af329d17fd7f183"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-69-2020",
+   "path": "local/olt/draganesti-olt/2020/69",
+   "short": "HCL Drăgănești-Olt nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 69/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/08/hotararea-nr-69-din-30.07.2020-modificarea-HCL-nr-34-din-25.06.2015-ref.la-aprobarea-concesionarii-prin-licitatie-publica-a-suprafetei-de-teren-extravilan-de-1250mp.pdf",
+     "sha256": "b27b2d0355ed78d24fe149bba48404de8e4a7499128542a2f2a7aa599696ee6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-70-2020",
+   "path": "local/olt/draganesti-olt/2020/70",
+   "short": "HCL Drăgănești-Olt nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 70/2020 privind aprobarea ROF a cimitirelor umane aflate sub autoritatea CL",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/08/hotararea-nr-70-din-30.07.2020-modificarea-si-completarea-HCL-nr-99-din-29.08.2019-privind-aprobarea-ROF-a-cimitirelor-umane-aflate-sub-autoritatea-CL.pdf",
+     "sha256": "b7907793f349b64662629dcd874e0ad68184bc3d6d1986ed2470ecdc98864275"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-71-2020",
+   "path": "local/olt/draganesti-olt/2020/71",
+   "short": "HCL Drăgănești-Olt nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 71/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/08/hotararea-nr-71-din-30.07.2020-atribuirea-de-loturi-in-folosinta-gratuita-in-suprafata-de-300mp-solicitantilor-care-indeplinesc-criteriile.pdf",
+     "sha256": "2ce872ca71bc237d89be6286c0fffa6f8779a9a9a584f72f8dbf23d88a4fc8ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-73-2020",
+   "path": "local/olt/draganesti-olt/2020/73",
+   "short": "HCL Drăgănești-Olt nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 73/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/10/hotararea-nr-73-din-31.08.2020-aprobarea-unui-schimb-de-locuinte-de-tip-ANL-intre-titularii-contractelor-de-inchiriere-nr-3-din-14.04.2016-si-nr-80-din-08.12.2016.pdf",
+     "sha256": "7587ed164366d07271227890782a480f873ff8cb5c511a95fc05fcacc758249b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-74-2020",
+   "path": "local/olt/draganesti-olt/2020/74",
+   "short": "HCL Drăgănești-Olt nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 74/2020 privind aprobarea ROF a Serviciului public de Salubrizare a localitatilor din judetul Olt",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/10/hotararea-nr-74-din-31.08.2020-modificarea-si-completarea-HCL-nr-40-din-28.04.2016-privind-aprobarea-ROF-a-Serviciului-public-de-Salubrizare-a-localitatilor-din-judetul-Olt.pdf",
+     "sha256": "192165d7d8b5e1ee2a27063a7b76b5e227c3583f7f5a5ce877f2abbdc754bf07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-75-2020",
+   "path": "local/olt/draganesti-olt/2020/75",
+   "short": "HCL Drăgănești-Olt nr. 75/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 75/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/10/hotararea-nr-75-din-31.08.2020-aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-al-Orasului-Draganesti-Olt-pe-anul-2020.pdf",
+     "sha256": "cd1484e09c21f578c1e2164d78d8c12c4d2f8f986e9bd0d332bc9a966be7a1d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-76-2020",
+   "path": "local/olt/draganesti-olt/2020/76",
+   "short": "HCL Drăgănești-Olt nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 76/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/10/hotararea-nr-76-din-17.09.2020-desemnarea-presedintelui-sedintelor-de-CL-al-Orasului-Draganesti-Olt-din-luna-septembrie-2020.pdf",
+     "sha256": "9451d0732185dc3cda065843c1c08afc5d15e2b2c1e01f36d12ff7206b21581d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-79-2020",
+   "path": "local/olt/draganesti-olt/2020/79",
+   "short": "HCL Drăgănești-Olt nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 79/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/10/hotararea-nr-79-din-30.09.2020-aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-al-orasului-Draganesti-Olt.pdf",
+     "sha256": "858a4e8a47632f5f05d9ade7eb0ad9ae701eccce675b8fcdcc0e1fc73232ec8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-8-2020",
+   "path": "local/olt/draganesti-olt/2020/8",
+   "short": "HCL Drăgănești-Olt nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 8/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-02-04",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/04/hotararea-nr-10-din-26.02.2020-modificarea-si-completarea-hcl-nr-8-din-04.02.2020-ref-la-modernizarea-sistemului-de-iluminat-public-din-oras.pdf",
+     "sha256": "939c1a92bb2453fe993097358d1fd4fc8fc573e220fa71a0b3be0b303612b393"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-80-2020",
+   "path": "local/olt/draganesti-olt/2020/80",
+   "short": "HCL Drăgănești-Olt nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 80/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+     "sha256": "abd0ff41cfe4304b9ddcbf53b520e6b644f94658242b9756ee08856fe77ecbaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-81-2020",
+   "path": "local/olt/draganesti-olt/2020/81",
+   "short": "HCL Drăgănești-Olt nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 81/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+     "sha256": "b4c8169944a3a6b96a8c298cd9eda11cc8533fe69ce82e821a64b5e5564f5cfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-82-2020",
+   "path": "local/olt/draganesti-olt/2020/82",
+   "short": "HCL Drăgănești-Olt nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 82/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/12/hotararea-nr-82-din-04.11.2020-alegerea-presedintelui-sedintelor-de-Consiliu-Local-al-orasului-Draganesti-Olt-organizate-in-luna-noiembrie-2020.pdf",
+     "sha256": "f036efcc00fb7c18bc9fcd3fcaff10ade392d1ad2fdeb5c8e437ea32fbbc6f05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-83-2020",
+   "path": "local/olt/draganesti-olt/2020/83",
+   "short": "HCL Drăgănești-Olt nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 83/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/12/hotararea-nr-83-din-04.11.2020-alegerea-viceprimarului-orasului-Draganesti-Olt.pdf",
+     "sha256": "ef0b6d1f68837907d172d9050edf48d74f0349471180d5ee3cd3cab7bdb5f2ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-84-2020",
+   "path": "local/olt/draganesti-olt/2020/84",
+   "short": "HCL Drăgănești-Olt nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 84/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/12/hotararea-nr-84-din-04.11.2020-organizarea-comisiilor-de-specialitate-ale-Consiliului-Local-al-orasului-Draganesti-Olt-pe-principalele-domenii-de-activitate.pdf",
+     "sha256": "44fac0e84861f42fb3b4039e13113771f8d9d063b322600e6e4977a3a77ff32f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-88-2020",
+   "path": "local/olt/draganesti-olt/2020/88",
+   "short": "HCL Drăgănești-Olt nr. 88/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 88/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/12/hotararea-nr-88-din-12.11.2020-desemnare-presedinte-sedinta-extraordinara-de-Consiliu-Local-din-data-de-12.11.2020.pdf",
+     "sha256": "54110b2bfd1015efd89fc99a1942c922a4fdd9e93e424f090087cb165ff1dc96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-89-2020",
+   "path": "local/olt/draganesti-olt/2020/89",
+   "short": "HCL Drăgănești-Olt nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 89/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/12/hotararea-nr-89-din-12.11.2020-aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-al-orasului-Draganesti-Olt-pe-anul-2020.pdf",
+     "sha256": "b251772d666440dbf7b0b9db09f36ac3bed13a9e8aafedf50b6302569f4b2522"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-9-2020",
+   "path": "local/olt/draganesti-olt/2020/9",
+   "short": "HCL Drăgănești-Olt nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 9/2020 pentru anul 2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/04/hotararea-nr-9-din-20.02.2020-aprobarea-bugetului-de-venituri-si-cheltuieli-al-orasului-pentru-anul-2020.pdf",
+     "sha256": "9c398ec1adcc71ef9b6e511530da1fbf4731af0364b2f15d3e8fa577afbd4ac2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-93-2020",
+   "path": "local/olt/draganesti-olt/2020/93",
+   "short": "HCL Drăgănești-Olt nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 93/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/12/hotararea-nr-93-din-12.11.2020-transformarea-unor-functii-de-natura-contractuala-din-cadrul-aparatului-de-specialitate-al-primarului-si-modificarea-statului-de-personal.pdf",
+     "sha256": "61548b681a92e9d739c8c0aacce45a69bd1e0bc10dbbd0e798a5a7dac0fea3f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-94-2020",
+   "path": "local/olt/draganesti-olt/2020/94",
+   "short": "HCL Drăgănești-Olt nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 94/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+     "sha256": "cc167afa0889df7c454d0ac421638f3704ed7c34d5f8ea06905f6b8010598df3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-95-2020",
+   "path": "local/olt/draganesti-olt/2020/95",
+   "short": "HCL Drăgănești-Olt nr. 95/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 95/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/12/hotararea-nr-95-din-12.11.2020-desemnarea-a-3-consilieri-locali-in-Consiliul-de-administratie-al-Lic.-Tehnologic.pdf",
+     "sha256": "d5eb104fae6d127f3b432599ca50ae52f8b5825bc52c88cffccc86dd617aac97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-96-2020",
+   "path": "local/olt/draganesti-olt/2020/96",
+   "short": "HCL Drăgănești-Olt nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 96/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/12/hotararea-nr-96-din-12.11.2020-desemnarea-unui-consilier-local-in-Consiliul-de-administratie-al-Gradinitei-cu-program-normal-Dumbrava-minunata.pdf",
+     "sha256": "a9f6b248bc90e9a08099eac3aee288a31048779fd198aa3e9a1469355774c4ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-97-2020",
+   "path": "local/olt/draganesti-olt/2020/97",
+   "short": "HCL Drăgănești-Olt nr. 97/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 97/2020 pentru evaluarea si asigurarea calitatii educatiei din cadrul Lic.Teo",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+     "sha256": "a49f06ea68fed10e8f034579f7666b2593ccd38901f968f19ee9fe9e22546e2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-98-2020",
+   "path": "local/olt/draganesti-olt/2020/98",
+   "short": "HCL Drăgănești-Olt nr. 98/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 98/2020",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/12/hotararea-nr-98-din-12.11.2020-desemnarea-unui-consilier-local-in-Comisia-pt-evaluarea-si-asigurarea-calitatii-educatiei-din-cadrul-Lic.Teh_.-Drg-Olt.pdf",
+     "sha256": "2df24548adb6b01d828c32f0f48722ea47de39c7676481d7c5eca4bf38ae4213"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-99-2020",
+   "path": "local/olt/draganesti-olt/2020/99",
+   "short": "HCL Drăgănești-Olt nr. 99/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 99/2020 pentru evaluarea si asigurarea calitatii educatiei din cadrul Gradinitei cu program normal Dumbrava minunata",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/12/hotararea-nr-99-din-12.11.2020-desemnarea-unui-consilier-local-in-comisia-pentru-evaluarea-si-asigurarea-calitatii-educatiei-din-cadrul-Gradinitei-cu-program-normal-Dumbrava-minunata.pdf",
+     "sha256": "b219d4e5c11801a97efaa94da082c44c6a9ebb73bcf87061d3293f434829f0a4"
+    }
+   ]
+  }
+ ]
+}

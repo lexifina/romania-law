@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/zanesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-neamt--zanesti-60-2026",
+   "path": "local/neamt/zanesti/2026/60",
+   "short": "HCL Zănești nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zănești nr. 60/2026 privind desemnarea unui reprezentant al CL si un membru supleant in comisiile de evaluare a probei de interviu a concursului pt ocuparea functiilor vacante de dir si dir adj",
+   "url": "https://www.comunazanesti.ro/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://www.comunazanesti.ro/wp-content/uploads/Hcl-nr-60-din-15.09.2026-privind-desemnarea-unui-reprezentant-al-CL-si-un-membru-supleant-in-comisiile-de-evaluare-a-probei-de-interviu-a-concursului-pt-ocuparea-functiilor-vacante-de-dir-si-dir-adj-.pdf",
+     "sha256": "0fd8b8bb2a9b968eb190916973d9aaa0be973bcca229007f5d954c1b2819fdef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--zanesti-61-2026",
+   "path": "local/neamt/zanesti/2026/61",
+   "short": "HCL Zănești nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zănești nr. 61/2026 privind transmiterea in folosinta gratuita catre DELGAZ GRID SA a sup de 278 mp teren",
+   "url": "https://www.comunazanesti.ro/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://www.comunazanesti.ro/wp-content/uploads/Hcl-nr-61-din-15.09.2026-privind-transmiterea-in-folosinta-gratuita-catre-DELGAZ-GRID-SA-a-sup-de-278-mp-teren.pdf",
+     "sha256": "9c8a68f6323a14560101701c45da323411a7c8a004ee9b207828c0705af3b7fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--zanesti-63-2026",
+   "path": "local/neamt/zanesti/2026/63",
+   "short": "HCL Zănești nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zănești nr. 63/2026 privind aprobarea nesumarii responsabilitatii a organizarii si derularea procedurilor de atribuire a achizitiilor Programului pentru Scoli",
+   "url": "https://www.comunazanesti.ro/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.comunazanesti.ro/wp-content/uploads/Hcl-nr-63-din-25.09.2026-privind-aprobarea-nesumarii-responsabilitatii-a-organizarii-si-derularea-procedurilor-de-atribuire-a-achizitiilor-Programului-pentru-Scoli.pdf",
+     "sha256": "50ccf8f31d51f062988d71540efc006cbd15efe3f941556ce27f66d0310871c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--zanesti-64-2026",
+   "path": "local/neamt/zanesti/2026/64",
+   "short": "HCL Zănești nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zănești nr. 64/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9eb053ef39aa6c1ffb47b39b3378bf67d795de07fb5ad4fc3c63c3fa32786b8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--zanesti-65-2026",
+   "path": "local/neamt/zanesti/2026/65",
+   "short": "HCL Zănești nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zănești nr. 65/2026 privind rectificarea nr 3 a Bugetului de Venituri si Cheltuielipentru anul 2026",
+   "url": "https://www.comunazanesti.ro/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.comunazanesti.ro/wp-content/uploads/Hcl-nr-65-din-25.09.2026-privind-rectificarea-nr-3-a-Bugetului-de-Venituri-si-Cheltuielipentru-anul-2026.pdf",
+     "sha256": "36c2fc7390fe6b84bb4d8212b63a4b11a0f6934e28706ed2c1113568f7940709"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--zanesti-66-2026",
+   "path": "local/neamt/zanesti/2026/66",
+   "short": "HCL Zănești nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zănești nr. 66/2026 privind aprobarea constituirii Comunei Zanesti ca parte civila, in dosarul penal nr 1054 12 p 2025",
+   "url": "https://www.comunazanesti.ro/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.comunazanesti.ro/wp-content/uploads/Hcl-nr-66-din-25.09.2026-privind-aprobarea-constituirii-Comunei-Zanesti-ca-parte-civila-in-dosarul-penal-nr-1054-12-p-2025.pdf",
+     "sha256": "11b0dc41fced7f4fde477cf5a7c327dfa4eb46d20fb6961f14ae2b6e70e49c01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--zanesti-67-2026",
+   "path": "local/neamt/zanesti/2026/67",
+   "short": "HCL Zănești nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zănești nr. 67/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cb252c3004013d53a3edf09a286a893a79d482c55c242a0cb8a7f1ca0a4ec826"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--zanesti-68-2026",
+   "path": "local/neamt/zanesti/2026/68",
+   "short": "HCL Zănești nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zănești nr. 68/2026 privind aprobarea executiei bugetare SF si SD pe trim III 2026",
+   "url": "https://www.comunazanesti.ro/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://www.comunazanesti.ro/wp-content/uploads/Hcl-nr-68-din-29.10.2026-privind-aprobarea-executiei-bugetare-SF-si-SD-pe-trim-III-2026.pdf",
+     "sha256": "7f22c8f581b347dbfcd3e1f90a2b6452b958fabee584b960b886a807fb92656f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--zanesti-69-2026",
+   "path": "local/neamt/zanesti/2026/69",
+   "short": "HCL Zănești nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zănești nr. 69/2026 privind aprobarea documentatiei tehnice si a ind econ pt ob de invest EXTINDERE RETEA DISTRIBUTIE APA POTABILA STR BISERICII, SAT ZANESTI",
+   "url": "https://www.comunazanesti.ro/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://www.comunazanesti.ro/wp-content/uploads/Hcl-nr-69-din-29.10.2026-privind-aprobarea-documentatiei-tehnice-si-a-ind-econ-pt-ob-de-invest-EXTINDERE-RETEA-DISTRIBUTIE-APA-POTABILA-STR-BISERICII-SAT-ZANESTI.pdf",
+     "sha256": "335429ecd80fd99fa1f3c975aef5e270dee3c1e8c724e31b876b354f87105d41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--zanesti-71-2026",
+   "path": "local/neamt/zanesti/2026/71",
+   "short": "HCL Zănești nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zănești nr. 71/2026 privind rectificarea nr 4 a Bugetului de Venituri si Cheltuieli",
+   "url": "https://www.comunazanesti.ro/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://www.comunazanesti.ro/wp-content/uploads/Hcl-nr-71-din-29.10.2026-privind-rectificarea-nr-4-a-Bugetului-de-Venituri-si-Cheltuieli.pdf",
+     "sha256": "65a83fd07f60ac0e5af3f16a0a6df31e6b81f2128fc14434aad33ba8117f3709"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--zanesti-72-2026",
+   "path": "local/neamt/zanesti/2026/72",
+   "short": "HCL Zănești nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zănești nr. 72/2026 privind actualizarea Organigramei, a Statului de Functii si a numarului de personal pt Aparatul de specialitate al Primarului",
+   "url": "https://www.comunazanesti.ro/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://www.comunazanesti.ro/wp-content/uploads/Hcl-nr-72-din-29.10.2026-privind-actualizarea-Organigramei-a-Statului-de-Functii-si-a-numarului-de-personal-pt-Aparatul-de-specialitate-al-Primarului.pdf",
+     "sha256": "1c18e2dcaf2d0ccf27379af29edd6851263c103d629bff41ce4de622438002c2"
+    }
+   ]
+  }
+ ]
+}

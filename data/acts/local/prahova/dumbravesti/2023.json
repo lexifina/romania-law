@@ -268,6 +268,28 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbravesti-80-2023",
+"path": "local/prahova/dumbravesti/2023/80",
+"kind": "local",
+"year": "2023",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 80/2023 privind aprobarea acordării unui sprijin financiar de la bugetul local al Comunei Dumbravesti pentru Biserica Parohiala cu hramul Sfinții Arhangheli și Biserica Filiei Sfarleanca cu hramul Sfânta Cuvioasă Parascheva , Parohia Dumbrăvești",
+"short": "HCL Dumbrăvești nr. 80/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/132009",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbravesti-81-2023",
 "path": "local/prahova/dumbravesti/2023/81",
 "kind": "local",
@@ -398,6 +420,29 @@
 "council_name": "Consiliul Local al Comunei Dumbrăvești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-87-2023",
+"path": "local/prahova/dumbravesti/2023/87",
+"kind": "local",
+"year": "2023",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 87/2023",
+"short": "HCL Dumbrăvești nr. 87/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-22",
+"latest": "2023-12-22",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/135077",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

@@ -33,6 +33,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--berceni-107-2021",
+   "path": "local/prahova/berceni/2021/107",
+   "short": "HCL Berceni nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 107/2021 privind acordarea burselor elevilor din învățământul preuniversitar de stat în anul școlar 2021-2022, semestrul I",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54882",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-108-2021",
+   "path": "local/prahova/berceni/2021/108",
+   "short": "HCL Berceni nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 108/2021 privind aprobare dosare în vederea atribuirii unui lot în suprafatã de max. 500 mp pentru beneficiari ai Legii 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personalã",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54883",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-109-2021",
+   "path": "local/prahova/berceni/2021/109",
+   "short": "HCL Berceni nr. 109/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 109/2021 privind rezilierea a 3 contracte de atribuire loturi de casă pentru beneficiari ai Legii 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personalã și retragerea dreptului de folosință asupra terenurilor atribuite",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54884",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54884",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--berceni-110-2021",
    "path": "local/prahova/berceni/2021/110",
    "short": "HCL Berceni nr. 110/2021",
@@ -223,6 +268,36 @@
      "from": "2021-12-29",
      "units": 1,
      "source_url": "https://emol.ro/berceni-ph/registru-hcl/54904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-123-2021",
+   "path": "local/prahova/berceni/2021/123",
+   "short": "HCL Berceni nr. 123/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 123/2021 privind aprobarea numărului de indemnizații lunare pentru persoanele cu handicap grav și a numărului de posturi de asistenți personali care să asigure supravegherea, asistența și îngrijirea persoanelor încadrate în gradul de invaliditate grav de pe raza comunei Berceni pe anul 2022",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54905",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-124-2021",
+   "path": "local/prahova/berceni/2021/124",
+   "short": "HCL Berceni nr. 124/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 124/2021 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Berceni pentru şedinţele din lunile ianuarie, februarie, martie 2022",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54906",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54906",
      "sha256": null
     }
    ]

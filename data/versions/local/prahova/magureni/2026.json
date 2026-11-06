@@ -63,6 +63,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--magureni-14-2026",
+   "path": "local/prahova/magureni/2026/14",
+   "short": "HCL Măgureni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 14/2026 privind aprobarea închirierii prin lictație publică a clădirii situate în centrul satului Măgureni, str. primăriei, nr. 980",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/282709",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/282709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-15-2026",
+   "path": "local/prahova/magureni/2026/15",
+   "short": "HCL Măgureni nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 15/2026 privind aprobarea închirieii prin licitatie publică a terenului în suprafață de 83 mp din Comuna Măgureni, str. Primăriei, nr. 980",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/282710",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/282710",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-16-2026",
    "path": "local/prahova/magureni/2026/16",
    "short": "HCL Măgureni nr. 16/2026",
@@ -73,6 +103,21 @@
      "from": "2026-08-12",
      "units": 1,
      "source_url": "https://emol.ro/magureni-ph/registru-hcl/282711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-17-2026",
+   "path": "local/prahova/magureni/2026/17",
+   "short": "HCL Măgureni nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 17/2026 privind alegerea președintelui de ședință pentru lunile August, Septembrie, Octombrie 2026",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/282712",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/282712",
      "sha256": null
     }
    ]

@@ -3,6 +3,21 @@
  "shard": "local/neamt/ion-creanga/2021",
  "acts": [
   {
+   "slug": "hcl-neamt--ion-creanga-145-2021",
+   "path": "local/neamt/ion-creanga/2021/145",
+   "short": "HCL Ion Creangă nr. 145/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 145/2021",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/40020",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/40020",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--ion-creanga-146-2021",
    "path": "local/neamt/ion-creanga/2021/146",
    "short": "HCL Ion Creangă nr. 146/2021",
@@ -48,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--ion-creanga-149-2021",
+   "path": "local/neamt/ion-creanga/2021/149",
+   "short": "HCL Ion Creangă nr. 149/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 149/2021 pentru desemnarea reprezentantului Consiliului Local Ion Creangă în comisa de evaluare a probei de interviu pentru ocuparea funcțiilor de director și director adjunct al Școlii Gimnaziale comuna Ion Creangă",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/40024",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/40024",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--ion-creanga-150-2021",
    "path": "local/neamt/ion-creanga/2021/150",
    "short": "HCL Ion Creangă nr. 150/2021",
@@ -58,6 +88,21 @@
      "from": "2021-11-26",
      "units": 1,
      "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/43461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-151-2021",
+   "path": "local/neamt/ion-creanga/2021/151",
+   "short": "HCL Ion Creangă nr. 151/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 151/2021",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/43462",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/43462",
      "sha256": null
     }
    ]
@@ -208,6 +253,21 @@
      "from": "2021-12-28",
      "units": 1,
      "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/45875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-162-2021",
+   "path": "local/neamt/ion-creanga/2021/162",
+   "short": "HCL Ion Creangă nr. 162/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 162/2021 privind aprobarea contractului de închiriere, a spațiului cu destinația de Cabinet Medical Stomatologic, din clădirea Centru Medical, aparținând UAT Comuna Ion Creangă",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/45876",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/45876",
      "sha256": null
     }
    ]

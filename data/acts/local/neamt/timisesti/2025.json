@@ -179,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-neamt--timisesti-85-2025",
+"path": "local/neamt/timisesti/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 85/2025 privind aprobarea acordării unor facilități fiscale persoanelor cu handicap",
+"short": "HCL Timișești nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-05",
+"latest": "2025-12-05",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/239271",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--timisesti-86-2025",
 "path": "local/neamt/timisesti/2025/86",
 "kind": "local",
@@ -268,6 +290,29 @@
 }
 },
 {
+"slug": "hcl-neamt--timisesti-90-2025",
+"path": "local/neamt/timisesti/2025/90",
+"kind": "local",
+"year": "2025",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 90/2025",
+"short": "HCL Timișești nr. 90/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/244321",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--timisesti-91-2025",
 "path": "local/neamt/timisesti/2025/91",
 "kind": "local",
@@ -353,6 +398,28 @@
 "council_name": "Consiliul Local al Comunei Timișești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-95-2025",
+"path": "local/neamt/timisesti/2025/95",
+"kind": "local",
+"year": "2025",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 95/2025 privind alegerea președintelui de ședință",
+"short": "HCL Timișești nr. 95/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/244326",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,21 @@
  "shard": "local/prahova/brazi/2026",
  "acts": [
   {
+   "slug": "hcl-prahova--brazi-49-2026",
+   "path": "local/prahova/brazi/2026/49",
+   "short": "HCL Brazi nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 49/2026",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/282861",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/282861",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--brazi-50-2026",
    "path": "local/prahova/brazi/2026/50",
    "short": "HCL Brazi nr. 50/2026",
@@ -13,6 +28,51 @@
      "from": "2026-08-11",
      "units": 1,
      "source_url": "https://emol.ro/brazi-ph/registru-hcl/282862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-51-2026",
+   "path": "local/prahova/brazi/2026/51",
+   "short": "HCL Brazi nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 51/2026 privind aprobarea modificării organigramei și a statului de funcții pentru personalul din cadrul Clubului Sportiv Brazi, organizat în subordinea Consiliului Local Brazi",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/284583",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/284583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-52-2026",
+   "path": "local/prahova/brazi/2026/52",
+   "short": "HCL Brazi nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 52/2026 privind aprobarea organigramei și statului de funcții pentru personalul din aparatul de specialitate al primarului comunei Brazi, județul Prahova",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/284584",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/284584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-53-2026",
+   "path": "local/prahova/brazi/2026/53",
+   "short": "HCL Brazi nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 53/2026 privind alegerea președintelui de ședintă pentru perioada septembrie - octombrie 2026",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/284585",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/284585",
      "sha256": null
     }
    ]
@@ -43,6 +103,201 @@
      "from": "2026-09-24",
      "units": 1,
      "source_url": "https://emol.ro/brazi-ph/registru-hcl/288881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-56-2026",
+   "path": "local/prahova/brazi/2026/56",
+   "short": "HCL Brazi nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 56/2026 privind desemnarea reprezentanților Consiliului Local al comunei Brazi în Comisia de evaluare a probei de interviu la concursul pentru ocuparea funcțiilor de director/director adjunct la Școala Gimnazială ”Învățător Miu Stana” Comuna Brazi, județul Prahova, unitate de învățământ cu personalitate juridică",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/288882",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/288882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-57-2026",
+   "path": "local/prahova/brazi/2026/57",
+   "short": "HCL Brazi nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 57/2026 privind acordarea unui mandat special reprezentantului comunei Brazi, județul Prahova în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Mobilitate Prahova” să voteze pentru retragerea comunei Fulga din cadrul Asociației",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/288883",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/288883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-58-2026",
+   "path": "local/prahova/brazi/2026/58",
+   "short": "HCL Brazi nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 58/2026",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/288884",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/288884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-59-2026",
+   "path": "local/prahova/brazi/2026/59",
+   "short": "HCL Brazi nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 59/2026 privind privind aprobarea încheierii unui Protocol între Administrația Națională «Apele Române», prin Administrația Bazinală de Apă Buzău - Ialomița și UAT Comuna Brazi, pentru utilizarea terenului aflat în albia minoră a râului Prahova, pe raza localității Stejaru, comuna Brazi, județul Prahova, necesar pentru realizarea obiectivului de investiții ”Punere ȋn siguranțӑ a podului peste râul Prahova ȋn satul Stejaru, comuna Brazi, județul Prahova”",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/288885",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/288885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-60-2026",
+   "path": "local/prahova/brazi/2026/60",
+   "short": "HCL Brazi nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 60/2026 privind desemnarea reprezentanților Consiliului Local al comunei Brazi în Consiliul de Administrație al Școlii Gimnaziale ”Învățător Miu Stana” Comuna Brazi, județul Prahova, în anul școlar 2026 – 2027",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/288886",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/288886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-61-2026",
+   "path": "local/prahova/brazi/2026/61",
+   "short": "HCL Brazi nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 61/2026 privind desemnarea reprezentantului Consiliului Local al comunei Brazi în Comisia de evaluare și asigurare a calității, constituită la nivelul Școlii Gimnaziale ”Învățător Miu Stana” Comuna Brazi, județul Prahova, în anul școlar 2026-2027",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/288887",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/288887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-62-2026",
+   "path": "local/prahova/brazi/2026/62",
+   "short": "HCL Brazi nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 62/2026",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/288888",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/288888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-63-2026",
+   "path": "local/prahova/brazi/2026/63",
+   "short": "HCL Brazi nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 63/2026 privind atestarea apartenenței la domeniul privat al comunei Brazi a unor terenuri situate în comuna Brazi, județul Prahova",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/295270",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/295270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-64-2026",
+   "path": "local/prahova/brazi/2026/64",
+   "short": "HCL Brazi nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 64/2026 privind analiza stadiului de înscriere a datelor în Registrul agricol în trimestrul III anul 2026 și stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/295271",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/295271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-65-2026",
+   "path": "local/prahova/brazi/2026/65",
+   "short": "HCL Brazi nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 65/2026 privind acordarea unui mandat special reprezentantului Comunei Brazi în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Parteneriatul pentru Managementul Deșeurilor – Prahova”, în vederea exprimării votului cu privire la aprobarea aderării Orașului Mizil la Asociație",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/295272",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/295272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-66-2026",
+   "path": "local/prahova/brazi/2026/66",
+   "short": "HCL Brazi nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 66/2026 privind alegerea președintelui de ședintă pentru perioada noiembrie - decembrie 2026",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/295273",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/295273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-67-2026",
+   "path": "local/prahova/brazi/2026/67",
+   "short": "HCL Brazi nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 67/2026 privind acordarea unui mandat special reprezentantului comunei Brazi, județul Prahova în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Mobilitate Prahova” să voteze pentru retragerea Orașului Boldești-Scăeni din cadrul Asociației",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/295274",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/295274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-68-2026",
+   "path": "local/prahova/brazi/2026/68",
+   "short": "HCL Brazi nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 68/2026 privind acordarea unui mandat special reprezentantului Comunei Brazi, pentru a vota în cadrul Adunării Generale a Asociatiei de Dezvoltare Intercomunitara \"Parteneriatul pentru Managementul Deseurilor- Prahova\", ajustarea tarifelor aferente contractului nr.1884/15.04.2025 cu indicele prețurilor de consum total pentru perioada aprilie 2025-iulie 2026",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/295275",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/295275",
      "sha256": null
     }
    ]

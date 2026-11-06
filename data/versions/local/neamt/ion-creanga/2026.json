@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--ion-creanga-51-2026",
+   "path": "local/neamt/ion-creanga/2026/51",
+   "short": "HCL Ion Creangă nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 51/2026",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/288052",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/288052",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--ion-creanga-52-2026",
    "path": "local/neamt/ion-creanga/2026/52",
    "short": "HCL Ion Creangă nr. 52/2026",
@@ -43,6 +58,21 @@
      "from": "2026-09-22",
      "units": 1,
      "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/288053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-53-2026",
+   "path": "local/neamt/ion-creanga/2026/53",
+   "short": "HCL Ion Creangă nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 53/2026",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/288125",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/288125",
      "sha256": null
     }
    ]
@@ -78,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--ion-creanga-56-2026",
+   "path": "local/neamt/ion-creanga/2026/56",
+   "short": "HCL Ion Creangă nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 56/2026 privind privind desemnarea reprezentanților CL in CA Scoala Gimnaziala Comuna Ion Creanga",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/288128",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/288128",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--ion-creanga-57-2026",
    "path": "local/neamt/ion-creanga/2026/57",
    "short": "HCL Ion Creangă nr. 57/2026",
@@ -88,6 +133,21 @@
      "from": "2026-09-24",
      "units": 1,
      "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/288129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-58-2026",
+   "path": "local/neamt/ion-creanga/2026/58",
+   "short": "HCL Ion Creangă nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 58/2026 privind desemnarea reprezentantilor CL in comisia de evaluare interviu director scoala",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/288130",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/288130",
      "sha256": null
     }
    ]
@@ -163,6 +223,21 @@
      "from": "2026-10-19",
      "units": 1,
      "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/293209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-64-2026",
+   "path": "local/neamt/ion-creanga/2026/64",
+   "short": "HCL Ion Creangă nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 64/2026 privind incetare locuinta",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/293210",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/293210",
      "sha256": null
     }
    ]

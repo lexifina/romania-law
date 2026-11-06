@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/floresti/2026",
+ "acts": [
+  {
+   "slug": "hcl-prahova--floresti-100-2026",
+   "path": "local/prahova/floresti/2026/100",
+   "short": "HCL Florești nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 100/2026",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/293637",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/293637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-101-2026",
+   "path": "local/prahova/floresti/2026/101",
+   "short": "HCL Florești nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 101/2026 privind modificarea Hotărârii Consiliului Local Florești nr. 68/17.09.2026 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „CONSOLIDARE SI REABILITARE BLOC B6, JUDETUL PRAHOVA, UAT FLORESTI, LOC. FLORESTI, NR. 278I”, în vederea finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat – Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/293638",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/293638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-102-2026",
+   "path": "local/prahova/floresti/2026/102",
+   "short": "HCL Florești nr. 102/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 102/2026",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/293639",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/293639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-103-2026",
+   "path": "local/prahova/floresti/2026/103",
+   "short": "HCL Florești nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 103/2026 privind modificarea Hotărârii Consiliului Local Florești nr. 71/17.09.2026 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „CONSOLIDARE SI REABILITARE BLOC C2 - CF 26480, JUDETUL PRAHOVA, UAT FLORESTI, LOC. FLORESTI, NR 278J”, în vederea finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat – Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/294378",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/294378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-104-2026",
+   "path": "local/prahova/floresti/2026/104",
+   "short": "HCL Florești nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 104/2026",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/294379",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/294379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-105-2026",
+   "path": "local/prahova/floresti/2026/105",
+   "short": "HCL Florești nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 105/2026 privind modificarea Hotărârii Consiliului Local Florești nr. 70/17.09.2026 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „CONSOLIDARE SI REABILITARE BLOC C1 - CF 28696, JUDETUL PRAHOVA, UAT FLORESTI, LOC. FLORESTI, NR 278J”, în vederea finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat – Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/294380",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/294380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-106-2026",
+   "path": "local/prahova/floresti/2026/106",
+   "short": "HCL Florești nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 106/2026",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/294381",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/294381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-87-2026",
+   "path": "local/prahova/floresti/2026/87",
+   "short": "HCL Florești nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 87/2026",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/291211",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/291211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-88-2026",
+   "path": "local/prahova/floresti/2026/88",
+   "short": "HCL Florești nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 88/2026 privind modificarea Hotărârii Consiliului Local Florești nr. 62/17.09.2026 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „CONSOLIDARE SI REABILITARE BLOC A1, JUDETUL PRAHOVA, UAT FLORESTI, LOC. FLORESTI, NR. 278A”, în vederea finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat – Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/292623",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/292623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-89-2026",
+   "path": "local/prahova/floresti/2026/89",
+   "short": "HCL Florești nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 89/2026",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/292624",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/292624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-90-2026",
+   "path": "local/prahova/floresti/2026/90",
+   "short": "HCL Florești nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 90/2026 privind modificarea Hotararii Consiliului Local Floresti nr.64/17.09.2026 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „CONSOLIDARE SI REABILITARE BLOC B1, JUDETUL PRAHOVA, UAT FLORESTI, LOC. FLORESTI, NR. 278C”, în vederea finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat – Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/292625",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/292625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-91-2026",
+   "path": "local/prahova/floresti/2026/91",
+   "short": "HCL Florești nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 91/2026",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/292626",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/292626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-92-2026",
+   "path": "local/prahova/floresti/2026/92",
+   "short": "HCL Florești nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 92/2026 privind modificarea Hotărârii Consiliului Local Florești nr. 63/17.09.2026 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „CONSOLIDARE SI REABILITARE BLOC A2, JUDETUL PRAHOVA, UAT FLORESTI, LOC. FLORESTI, NR. 278B”, în vederea finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat – Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/292627",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/292627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-93-2026",
+   "path": "local/prahova/floresti/2026/93",
+   "short": "HCL Florești nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 93/2026",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/292628",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/292628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-94-2026",
+   "path": "local/prahova/floresti/2026/94",
+   "short": "HCL Florești nr. 94/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 94/2026 privind modificarea Hotararii Consiliului Local Floresti nr.69/17.09.2026 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „CONSOLIDARE SI REABILITARE BLOC B7, JUDETUL PRAHOVA, UAT FLORESTI, LOC. FLORESTI, NR. 278H”, în vederea finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat – Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/292629",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/292629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-95-2026",
+   "path": "local/prahova/floresti/2026/95",
+   "short": "HCL Florești nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 95/2026",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/292630",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/292630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-96-2026",
+   "path": "local/prahova/floresti/2026/96",
+   "short": "HCL Florești nr. 96/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 96/2026",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/292631",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/292631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-97-2026",
+   "path": "local/prahova/floresti/2026/97",
+   "short": "HCL Florești nr. 97/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 97/2026 privind modificarea Hotararii Consiliului Local Floresti nr.65/17.09.2026 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „CONSOLIDARE SI REABILITARE BLOC B2, JUDETUL PRAHOVA, UAT FLORESTI, LOC. FLORESTI, NR. 278D”, în vederea finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat – Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/293634",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/293634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-98-2026",
+   "path": "local/prahova/floresti/2026/98",
+   "short": "HCL Florești nr. 98/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 98/2026",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/293635",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/293635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-99-2026",
+   "path": "local/prahova/floresti/2026/99",
+   "short": "HCL Florești nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 99/2026 privind modificarea Hotararii Consiliului Local Floresti nr.73/17.09.2026 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „CONSOLIDARE SI REABILITARE BLOC B5, JUDETUL PRAHOVA, UAT FLORESTI, LOC. FLORESTI, NR. 278G”, în vederea finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat – Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/293636",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/293636",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

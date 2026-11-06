@@ -25,6 +25,73 @@
 }
 },
 {
+"slug": "hcl-prahova--batrani-44-2023",
+"path": "local/prahova/batrani/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 44/2023",
+"short": "HCL Bătrâni nr. 44/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-14",
+"latest": "2023-11-14",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/127966",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--batrani-45-2023",
+"path": "local/prahova/batrani/2023/45",
+"kind": "local",
+"year": "2023",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 45/2023 privind aprobarea devizului general actualizat pentru obiectivul de investiții \"MODERNIZARE ŞI ASFALTARE DRUMURI DE INTERES LOCAL ÎN COMUNA BĂTRÂNI, JUDEŢUL PRAHOVA\", aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Bătrâni nr. 45/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-14",
+"latest": "2023-11-14",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/127967",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-46-2023",
+"path": "local/prahova/batrani/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 46/2023 privind aprobarea devizului general pentru obiectivul de investiții \"Distribuție alimentare cu apă si inființare rețea de canalizare si stație de epurare in comuna Bătrani,județul Prahova''",
+"short": "HCL Bătrâni nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-14",
+"latest": "2023-11-14",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/127968",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--batrani-47-2023",
 "path": "local/prahova/batrani/2023/47",
 "kind": "local",
@@ -44,6 +111,28 @@
 "council_name": "Consiliul Local al Comunei Bătrâni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-48-2023",
+"path": "local/prahova/batrani/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 48/2023 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții \"MODERNIZARE ŞI ASFALTARE DRUMURI DE INTERES LOCAL ÎN COMUNA BĂTRÂNI, JUDEŢUL PRAHOVA\", aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Bătrâni nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-15",
+"latest": "2023-11-15",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/128588",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -69,6 +158,50 @@
 }
 },
 {
+"slug": "hcl-prahova--batrani-50-2023",
+"path": "local/prahova/batrani/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 50/2023 privind aprobarea depunerii și implementării proiectului cu titlul ,,Eficientizarea consumului de energie electrica la UAT Comuna Bătrâni,județul Prahova, prin instalarea de panouri solare fotovoltaice\"",
+"short": "HCL Bătrâni nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/131648",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-51-2023",
+"path": "local/prahova/batrani/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 51/2023 privind aprobarea Studiului de Fezabilitate aferent obiectivului de investiții cu titlul ,,Eficientizarea consumului de energie electrică la UAT Comuna Bătrâni,județul Prahova, prin instalarea de panouri solare fotovoltaice\"",
+"short": "HCL Bătrâni nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/131649",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--batrani-52-2023",
 "path": "local/prahova/batrani/2023/52",
 "kind": "local",
@@ -88,6 +221,28 @@
 "council_name": "Consiliul Local al Comunei Bătrâni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-53-2023",
+"path": "local/prahova/batrani/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 53/2023 privind aprobarea Regulamentului local cadru de implicare și consultare a publicului în eleborarea și revizuirea documentațiilor de urbanism și amenajarea teritoriului",
+"short": "HCL Bătrâni nr. 53/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-29",
+"latest": "2023-12-29",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/134301",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +268,50 @@
 }
 },
 {
+"slug": "hcl-prahova--batrani-55-2023",
+"path": "local/prahova/batrani/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 55/2023 privind modificarea organigramei şi ştatului de funcţii pentru Primăria comunei Bătrâni, judeţul Prahova",
+"short": "HCL Bătrâni nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-29",
+"latest": "2023-12-29",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/134303",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-56-2023",
+"path": "local/prahova/batrani/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 56/2023 privind aprobarea acordării ”Cadourilor de Crăciun pentru copii cu vârsta cuprinsă între 0-14 ani” din comuna Bătrâni, județul Prahova din donații si sponsorizari",
+"short": "HCL Bătrâni nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-29",
+"latest": "2023-12-29",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/134304",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--batrani-57-2023",
 "path": "local/prahova/batrani/2023/57",
 "kind": "local",
@@ -135,6 +334,28 @@
 }
 },
 {
+"slug": "hcl-prahova--batrani-58-2023",
+"path": "local/prahova/batrani/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 58/2023 privind alegerea președintelui de ședință",
+"short": "HCL Bătrâni nr. 58/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-29",
+"latest": "2023-12-29",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/134306",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--batrani-59-2023",
 "path": "local/prahova/batrani/2023/59",
 "kind": "local",
@@ -154,6 +375,72 @@
 "council_name": "Consiliul Local al Comunei Bătrâni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-60-2023",
+"path": "local/prahova/batrani/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 60/2023 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investitii:,,Asfaltare străzi lăturalnice în comuna Bătrâni,județul Prahova”",
+"short": "HCL Bătrâni nr. 60/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-05",
+"latest": "2024-01-05",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/135312",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-61-2023",
+"path": "local/prahova/batrani/2023/61",
+"kind": "local",
+"year": "2023",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 61/2023 privind aprobarea implementării proiectului ,,Asfaltare străzi lăturalnice în comuna Bătrâni,județul Prahova” care se va depune in cadrul Planului Strategic (PS) 2023-2027-intervenția DR-28-Crearea /modernizarea infrastructurii rutiere de bază din spațiul rural",
+"short": "HCL Bătrâni nr. 61/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-05",
+"latest": "2024-01-05",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/135313",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-62-2023",
+"path": "local/prahova/batrani/2023/62",
+"kind": "local",
+"year": "2023",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 62/2023 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investitii:,,Asfaltare străzi lăturalnice în comuna Bătrâni,județul Prahova”",
+"short": "HCL Bătrâni nr. 62/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-09",
+"latest": "2024-01-09",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/135858",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

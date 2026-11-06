@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/berceni/2026",
+ "acts": [
+  {
+   "slug": "hcl-prahova--berceni-100-2026",
+   "path": "local/prahova/berceni/2026/100",
+   "short": "HCL Berceni nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 100/2026 privind aprobare dosare în vederea atribuirii unui lot în suprafatã de max. 500 mp pentru beneficiari ai Legii 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personalã",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/294596",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/294596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-101-2026",
+   "path": "local/prahova/berceni/2026/101",
+   "short": "HCL Berceni nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 101/2026 privind majorarea cu 500% a impozitului pe clădiri și a impozitului pe teren pentru imobilul neîngrijit situat în comuna Berceni, sat Moara Nouă, str. Primăverii, nr. 70, proprietatea ROMATERMIT CONSTRUCT S.R.L",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/294597",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/294597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-102-2026",
+   "path": "local/prahova/berceni/2026/102",
+   "short": "HCL Berceni nr. 102/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 102/2026",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/294598",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/294598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-103-2026",
+   "path": "local/prahova/berceni/2026/103",
+   "short": "HCL Berceni nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 103/2026",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/294599",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/294599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-104-2026",
+   "path": "local/prahova/berceni/2026/104",
+   "short": "HCL Berceni nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 104/2026 privind aprobarea Studiului de oportunitate pentru fundamentarea și stabilirea soluției optime de gestiune a activității de operare a Centrului de colectare prin aport voluntar a deșeurilor din comuna Berceni, a Regulamentului de funcționare și a documentației de atribuire",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/294600",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/294600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-105-2026",
+   "path": "local/prahova/berceni/2026/105",
+   "short": "HCL Berceni nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 105/2026",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/294601",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/294601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-106-2026",
+   "path": "local/prahova/berceni/2026/106",
+   "short": "HCL Berceni nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 106/2026 privind aprobarea proiectului „DENT-MOBIL BERCENI – Acces la servicii stomatologice pentru copii”, cod SMIS 367196, și a cheltuielilor legate de proiect, în vederea finanțării prin Programul Sănătate 2021–2027",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/295912",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/295912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-107-2026",
+   "path": "local/prahova/berceni/2026/107",
+   "short": "HCL Berceni nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 107/2026 privind aprobarea finalizării și închiderii proiectului „CENTRU DE COLECTARE SELECTIVĂ A DEȘEURILOR PRIN APORT VOLUNTAR ÎN COMUNA BERCENI JUDEȚUL PRAHOVA”, cod proiect C3I1A0122000319, finanțat în cadrul Planului Național de Redresare și Reziliență prin apelul nr. PNRR/2022/C3/S/I.1.A, precum și asigurarea sustenabilității investiției",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/295913",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/295913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-108-2026",
+   "path": "local/prahova/berceni/2026/108",
+   "short": "HCL Berceni nr. 108/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 108/2026 privind modificarea Structurii organizatorice (Organigrama) și a Statului de funcții al aparatului de specialitate al primarului comunei Berceni și a instituțiilor din subordinea Consiliului Local Berceni",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/295914",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/295914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-89-2026",
+   "path": "local/prahova/berceni/2026/89",
+   "short": "HCL Berceni nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 89/2026 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Berceni pentru şedinţa din data de 26 septembrie 2026",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/289664",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/289664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-90-2026",
+   "path": "local/prahova/berceni/2026/90",
+   "short": "HCL Berceni nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 90/2026 privind aprobarea rectificării bugetului local detaliat la venituri și cheltuieli al Comunei Berceni la data de 26.09.2026",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/289665",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/289665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-91-2026",
+   "path": "local/prahova/berceni/2026/91",
+   "short": "HCL Berceni nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 91/2026 de modificare a Anexei nr. 1 la HCL nr. 78/08.09.2026 privind Lista cu investitiile care se vor derula prin bugetul local pe anul 2026",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/289666",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/289666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-92-2026",
+   "path": "local/prahova/berceni/2026/92",
+   "short": "HCL Berceni nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 92/2026 privind aprobarea proiectului „Parc Industrial Berceni”, a documentației tehnico-economice și a principalilor indicatori tehnico-economici, a devizului general, a cheltuielilor și a surselor de finanțare necesare implementării și asigurării caracterului durabil al proiectului, aprobarea solicitării acordării titlului de parc industrial, precum și aprobarea acordului de principiu privind facilitățile prevăzute la art. 20 alin. (1) din Legea nr. 186/2013",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/289667",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/289667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-93-2026",
+   "path": "local/prahova/berceni/2026/93",
+   "short": "HCL Berceni nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 93/2026",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/289900",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/289900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-94-2026",
+   "path": "local/prahova/berceni/2026/94",
+   "short": "HCL Berceni nr. 94/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 94/2026 privind aprobarea constituirii dreptului de superficie asupra terenurilor aparținând domeniului privat al UAT Comuna Berceni cu nr. cadastrale 22404, 22407, 28785, aprobarea documentației de atribuire și organizarea procedurii de licitație publică deschisă în vederea producerii de energie /realizare parc fotovoltaic/statie stocare energie regenerabilă/centrală producere energie cu gaz",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/290069",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/290069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-95-2026",
+   "path": "local/prahova/berceni/2026/95",
+   "short": "HCL Berceni nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 95/2026",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/290070",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/290070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-96-2026",
+   "path": "local/prahova/berceni/2026/96",
+   "short": "HCL Berceni nr. 96/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 96/2026",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/290071",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/290071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-97-2026",
+   "path": "local/prahova/berceni/2026/97",
+   "short": "HCL Berceni nr. 97/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 97/2026 privind acordarea dreptului de utilizare a drumurilor de exploatare DE 61, DE 86, DE 365, DE 351 şi strada Dorobanţilor care deservesc terenurile cu nr. cadastrale 24434, 24439, 24437, 24438 şi 24435 în vederea realizării traseului de cabluri subterane pentru perioada de construire şi exploatare a obiectivului de investiţii “Centrală electrică fotovoltaică, baterii de stocare BESS, staţie de transformare, drumuri interioare, împrejmuire şi racord la SEN”",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/290072",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/290072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-98-2026",
+   "path": "local/prahova/berceni/2026/98",
+   "short": "HCL Berceni nr. 98/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 98/2026 de modificare a HCL nr. 52/30.04.2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/290073",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/290073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-99-2026",
+   "path": "local/prahova/berceni/2026/99",
+   "short": "HCL Berceni nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 99/2026 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Berceni pentru şedinţele din lunile octombrie, noiembrie, decembrie 2026",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/294595",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/294595",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

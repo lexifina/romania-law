@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/olt/perieti/2024",
+ "acts": [
+  {
+   "slug": "hcl-olt--perieti-17-2024",
+   "path": "local/olt/perieti/2024/17",
+   "short": "HCL Perieți nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Perieți nr. 17/2024",
+   "url": "https://perietiolt.ro/documente-categorie/hotararile-consilului-local/",
+   "versions": [
+    {
+     "from": "2024-06-08",
+     "units": 1,
+     "source_url": "https://perietiolt.ro/wp-content/uploads/2024/06/Hotararea-17-Din-8-Iunie-2024.pdf",
+     "sha256": "89450b849ff27aab4caa614d75f0b6569fc0bb4c18ac958adfaafd1822e74bd4"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,21 @@
  "shard": "local/prahova/brazi/2023",
  "acts": [
   {
+   "slug": "hcl-prahova--brazi-65-2023",
+   "path": "local/prahova/brazi/2023/65",
+   "short": "HCL Brazi nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 65/2023",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/127657",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/127657",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--brazi-66-2023",
    "path": "local/prahova/brazi/2023/66",
    "short": "HCL Brazi nr. 66/2023",
@@ -18,6 +33,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--brazi-67-2023",
+   "path": "local/prahova/brazi/2023/67",
+   "short": "HCL Brazi nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 67/2023 privind analiza stadiului de înscriere a datelor în Registrul agricol în trimestrul III anul 2023 și stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/127659",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/127659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-68-2023",
+   "path": "local/prahova/brazi/2023/68",
+   "short": "HCL Brazi nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 68/2023",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/127660",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/127660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-69-2023",
+   "path": "local/prahova/brazi/2023/69",
+   "short": "HCL Brazi nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 69/2023 privind alegerea președintelui de ședintă pentru perioada noiembrie - decembrie 2023",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/127661",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/127661",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--brazi-70-2023",
    "path": "local/prahova/brazi/2023/70",
    "short": "HCL Brazi nr. 70/2023",
@@ -28,6 +88,81 @@
      "from": "2023-11-02",
      "units": 1,
      "source_url": "https://emol.ro/brazi-ph/registru-hcl/127662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-71-2023",
+   "path": "local/prahova/brazi/2023/71",
+   "short": "HCL Brazi nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 71/2023 privind stabilirea salariilor de bază lunare pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului comunei Brazi, județul Prahova, începând cu luna noiembrie 2023",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/129050",
+   "versions": [
+    {
+     "from": "2023-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/129050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-72-2023",
+   "path": "local/prahova/brazi/2023/72",
+   "short": "HCL Brazi nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 72/2023 privind stabilirea salariilor de bază lunare pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului comunei Brazi, județul Prahova, incepand cu data de 1 ianuarie 2024",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/129051",
+   "versions": [
+    {
+     "from": "2023-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/129051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-73-2023",
+   "path": "local/prahova/brazi/2023/73",
+   "short": "HCL Brazi nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 73/2023",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/131826",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/131826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-74-2023",
+   "path": "local/prahova/brazi/2023/74",
+   "short": "HCL Brazi nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 74/2023 privind aprobarea prelungirii unor contracte de închiriere a locuințelor sociale aflate în domeniul public al comunei Brazi, județul Prahova",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/131827",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/131827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-75-2023",
+   "path": "local/prahova/brazi/2023/75",
+   "short": "HCL Brazi nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 75/2023",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/131828",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/131828",
      "sha256": null
     }
    ]
@@ -58,6 +193,111 @@
      "from": "2023-12-29",
      "units": 1,
      "source_url": "https://emol.ro/brazi-ph/registru-hcl/134845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-78-2023",
+   "path": "local/prahova/brazi/2023/78",
+   "short": "HCL Brazi nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 78/2023 privind stabilirea numărului de asistenți personali care pot fi încadrați în cadrul Primăriei Brazi, județul Prahova în anul 2024",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/134846",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/134846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-79-2023",
+   "path": "local/prahova/brazi/2023/79",
+   "short": "HCL Brazi nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 79/2023 privind desemnarea reprezentantului Consiliului Local al comunei Brazi în Comisia de evaluare și asigurare a calității, constituită la nivelul Școlii Gimnaziale Comuna Brazi, județul Prahova",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/134847",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/134847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-80-2023",
+   "path": "local/prahova/brazi/2023/80",
+   "short": "HCL Brazi nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 80/2023 privind desemnarea reprezentanților Consiliului Local al comunei Brazi în Consiliul de Administrație al Școlii Gimnaziale Comuna Brazi, județul Prahova, unitate de învățământ cu personalitate juridică",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/134848",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/134848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-81-2023",
+   "path": "local/prahova/brazi/2023/81",
+   "short": "HCL Brazi nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 81/2023 privind aprobarea organigramei, a statului de funcții și a Regulamentului de organizare și funcționare pentru personalul din aparatul de specialitate al primarului comunei Brazi, județul Prahova",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/134849",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/134849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-82-2023",
+   "path": "local/prahova/brazi/2023/82",
+   "short": "HCL Brazi nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 82/2023 privind rectificarea bugetului local al comunei Brazi, județul Prahova pe anul 2023",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/134850",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/134850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-83-2023",
+   "path": "local/prahova/brazi/2023/83",
+   "short": "HCL Brazi nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 83/2023",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/134851",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/134851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-84-2023",
+   "path": "local/prahova/brazi/2023/84",
+   "short": "HCL Brazi nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 84/2023 privind alegerea președintelui de ședintă pentru perioada ianuarie - februarie 2024",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/134852",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/134852",
      "sha256": null
     }
    ]

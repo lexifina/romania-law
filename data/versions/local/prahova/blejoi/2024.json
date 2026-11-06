@@ -3,6 +3,36 @@
  "shard": "local/prahova/blejoi/2024",
  "acts": [
   {
+   "slug": "hcl-prahova--blejoi-69-2024",
+   "path": "local/prahova/blejoi/2024/69",
+   "short": "HCL Blejoi nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 69/2024 privind aprobarea indemnizației de ședință pentru membrii Consiliului Local al comunei Blejoi",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/180524",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/180524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-70-2024",
+   "path": "local/prahova/blejoi/2024/70",
+   "short": "HCL Blejoi nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 70/2024 privind aprobarea contului de execuție a bugetului local al comunei Blejoi și a contului de execuție a bugetelor ordonatorilor terțiari de credite pe trimestrul III al anului 2024",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/180525",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/180525",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--blejoi-71-2024",
    "path": "local/prahova/blejoi/2024/71",
    "short": "HCL Blejoi nr. 71/2024",
@@ -33,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--blejoi-73-2024",
+   "path": "local/prahova/blejoi/2024/73",
+   "short": "HCL Blejoi nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 73/2024 privind scoaterea construcției „Dispensar veterinar” de pe lista imobilelor propuse pentru a fi clasate ca monumente istorice",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/180528",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/180528",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--blejoi-74-2024",
    "path": "local/prahova/blejoi/2024/74",
    "short": "HCL Blejoi nr. 74/2024",
@@ -43,6 +88,51 @@
      "from": "2025-01-10",
      "units": 1,
      "source_url": "https://emol.ro/blejoi-ph/registru-hcl/180529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-75-2024",
+   "path": "local/prahova/blejoi/2024/75",
+   "short": "HCL Blejoi nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 75/2024 privind desemnarea reprezentanților Consiliului Local al Comunei Blejoi în consiliile de administrație ale unităților de învățământ de pe raza comunei Blejoi",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/180530",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/180530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-76-2024",
+   "path": "local/prahova/blejoi/2024/76",
+   "short": "HCL Blejoi nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 76/2024 privind desemnarea reprezentanților Consiliului Local al Comunei Blejoi în comisiile pentru evaluarea și asigurarea calității la unitățile de învățământ de pe raza comunei Blejoi",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/180531",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/180531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-77-2024",
+   "path": "local/prahova/blejoi/2024/77",
+   "short": "HCL Blejoi nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 77/2024 privind desemnarea reprezentanților Consiliului Local al Comunei Blejoi în comisiile pentru prevenirea și eliminarea violenței, a faptelor de corupție și a discriminării în mediul școlar și promovarea interculturalității și din Grupul de acțiune anti-bullying, ce se vor constitui la nivelul unităților de învățământ de pe raza comunei Blejoi",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/180532",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/180532",
      "sha256": null
     }
    ]
@@ -133,6 +223,21 @@
      "from": "2025-01-10",
      "units": 1,
      "source_url": "https://emol.ro/blejoi-ph/registru-hcl/186066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-84-2024",
+   "path": "local/prahova/blejoi/2024/84",
+   "short": "HCL Blejoi nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 84/2024",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/186067",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/186067",
      "sha256": null
     }
    ]

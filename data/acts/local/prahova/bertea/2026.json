@@ -1,0 +1,272 @@
+{
+"country": "RO",
+"shard": "local/prahova/bertea/2026",
+"acts": [
+{
+"slug": "hcl-prahova--bertea-1-2026",
+"path": "local/prahova/bertea/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 1/2026 privind reintregirea excedentului anului precedent",
+"short": "HCL Bertea nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/257267",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--bertea-2-2026",
+"path": "local/prahova/bertea/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 2/2026 privind preluarea fără plată de la Instituția Prefectului - județul Prahova a autoturismului marca Dacia Logan, înmatriculat sub nr. MAI 30666, cu nr. de identificare UU1LSDABH36536067, anul fabricației 2006",
+"short": "HCL Bertea nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/257268",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--bertea-3-2026",
+"path": "local/prahova/bertea/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 3/2026",
+"short": "HCL Bertea nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-28",
+"latest": "2026-04-28",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/264821",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--bertea-4-2026",
+"path": "local/prahova/bertea/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 4/2026 privind neasumarea responsabilitatii organizarii si derularii procedurilor de atribuire a contractelo/acordurilor -cadru pentru achizitia produselor si a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea masurilor la nivel local",
+"short": "HCL Bertea nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-28",
+"latest": "2026-04-28",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/264822",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--bertea-5-2026",
+"path": "local/prahova/bertea/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 5/2026 privindscoaterea din functiune in vederea casarii /valorificarii a unor mijloace fixe, cu durata normala de utilizare consumata sau neconsumata, a caror functiune nu se mai justifica, din inventarul Comunei Bertea",
+"short": "HCL Bertea nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-28",
+"latest": "2026-04-28",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/264823",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--bertea-6-2026",
+"path": "local/prahova/bertea/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 6/2026 privind aprobarea Planului anual de dezvoltare a serviciilor destinate prevenirii separarii copilului de familie",
+"short": "HCL Bertea nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-28",
+"latest": "2026-04-28",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/264824",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--bertea-7-2026",
+"path": "local/prahova/bertea/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 7/2026 privind aprobarea Planului de dezvoltare a serviciilor sociale precum si a Manualului de proceduri in vederea depunerii documentatiei de acreditare a primariei ca si furnizor de servicii sociale",
+"short": "HCL Bertea nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-28",
+"latest": "2026-04-28",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/264825",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--bertea-8-2026",
+"path": "local/prahova/bertea/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 8/2026 privind utilizarea excedentului anului precedent",
+"short": "HCL Bertea nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-28",
+"latest": "2026-04-28",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/264826",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--bertea-9-2026",
+"path": "local/prahova/bertea/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 9/2026 privind alegerea presedintelui de sedinta",
+"short": "HCL Bertea nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-09",
+"latest": "2026-07-09",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/278036",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--bertea-10-2026",
+"path": "local/prahova/bertea/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 10/2026",
+"short": "HCL Bertea nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-09",
+"latest": "2026-07-09",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/278037",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--bertea-11-2026",
+"path": "local/prahova/bertea/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 11/2026 privind privind actualizarea Consiliului local comunitar consultativ",
+"short": "HCL Bertea nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-09",
+"latest": "2026-07-09",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/278038",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--bertea-12-2026",
+"path": "local/prahova/bertea/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 12/2026 privind indreptarea erorii materiale din anexa nr.1 la HCL nr. 9 din 27.02.2025 privind aprobarea înființării instituției publice de interes local denumită „Club Sportiv Bertea ”, structură sportivă cu personalitate juridică de drept public organizată în subordinea Consiliului local Bertea",
+"short": "HCL Bertea nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-09",
+"latest": "2026-07-09",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/278039",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}
