@@ -1,0 +1,16 @@
+# Ordonanța Guvernului nr. 26/1993 privind tariful vamal de import al României
+
+OG nr. 26/1993 · 2 versions, from 1993-08-31 (latest in force: 2007-07-27) · <https://legislatie.just.ro/Public/DetaliiDocument/3096>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+
+Act id: `og-26-1993` (tags `og-26-1993/<day>`; `python tools/on.py <day> og-26-1993`).
+
+## Decisions made by hand
+
+- OG nr. 26/1993: added from the official web service of the Portalul legislativ (FreeWebService): the act as published (document 3096, retrieved 2026-11-02).
+- OG nr. 26/1993: added by Lexifina's automatic pass with the default rules, and no rule or ruling made for this act alone was applied. It was published only because every automatic check that applies to an act known from the official web service alone passed: two parses identical, issuer, number and in-force day confirmed by the service, and no act changing it found by the full-text search.
+- OG nr. 26/1993: the first version is the ordinance as published in Monitorul Oficial nr. 213 of 31 August 1993 (document 3096 of the official web service), dated 31 August 1993: an ordinance with no day of its own, published before 29 October 2003, so in force on publication (the rule then in force, as for laws: Constituția of 1991, art. 78). Later acts change it, but no consolidated form of it is held, so this record holds only the text as published; no page of the act is held.
+- OG nr. 26/1993: repealed in full by Legea nr. 241/2007 after its newest form, read from the repealing act (Ordonanta Guvernului nr. 26/1993 privind tariful vamal de import al Romaniei, publicata in Monitorul Oficial al Romaniei); the last version, of 27 July 2007, removes every article.
+- OG nr. 26/1993: AMENDMENTS NOT APPLIED. Later acts change this act (by: LEGE nr. 112 din 3 mai 2005 pentru aprobarea Ordonanței Guvernului nr. 9/2005 privind creșterile salariale ce se vor aco; HOTĂRÂRE nr. 452 din 4 iunie 2020 În temeiul art. 108 din Constituția României, republicată , și al art. 292 alin. (7) l; HOTĂRÂRE nr. 1.570 din 18 decembrie 2002 privind aprobarea mecanismului de acordare a sprijinului financiar de la bugetu; LEGEA nr. 421 din 28 decembrie 2023 Parlamentul României adoptă prezenta lege.; HOTĂRÂRE nr. 482 din 18 aprilie 2003 pentru aprobarea Strategiei managementului integrat al frontierei de stat în perioa; HOTĂRÎREA nr. 101 din 18 martie 1993 privind unele măsuri pentru asigurarea importului de pesticide necesare tratarii se; DECRET nr. 1.729 din 29 decembrie 2023 În temeiul prevederilor art. 77 alin. (1) și ale art. 100 alin. (1) din Constituț; HOTĂRÂRE nr. 45 din 23 martie 2005 pentru aprobarea Normelor privind asigurarea pentru risc profesional; and 78 more), but no consolidated text of it is held: the Portalul legislativ has not answered since 5 November 2026 and no complete archive capture of a consolidated form is held. This record therefore holds only the act as published, as the official web service returns it (FreeWebService, http://legislatie.just.ro/apiws/FreeWebService.svc), document 3096, retrieved 2026-11-02; read the amending acts for the text in force. The consolidated versions are to be added when a source for them is available.

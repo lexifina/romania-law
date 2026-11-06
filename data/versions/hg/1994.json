@@ -45,6 +45,21 @@
    ]
   },
   {
+   "slug": "hg-1-1994",
+   "path": "hg/1994/1",
+   "short": "HG nr. 1/1994",
+   "title": "Hotărârea Guvernului nr. 1/1994 pentru stabilirea nivelului alocaţiilor pe hectar care se acordă producătorilor agricoli în anul 1994 potrivit art. 3 alin. (2) şi (3) din Legea nr. 83/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3770",
+   "versions": [
+    {
+     "from": "1994-02-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3770",
+     "sha256": "63373059b09d4577af52066982fc5fd66532f6bd45e69aead3786947a10de7a9"
+    }
+   ]
+  },
+  {
    "slug": "hg-10-1994",
    "path": "hg/1994/10",
    "short": "HG nr. 10/1994",
@@ -176,6 +191,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4441",
      "sha256": "af886f44ff29a27e81b46dcfefefec04b70f99b05eacdb79a608bf8b5b57951b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-11-1994",
+   "path": "hg/1994/11",
+   "short": "HG nr. 11/1994",
+   "title": "Hotărârea Guvernului nr. 11/1994 privind aprobarea realizării obiectivului de investiţii \"Pod pe DN 1 km 36 + 465 peste râul Ialomiţa, la Ţigăneşti\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92882",
+   "versions": [
+    {
+     "from": "1994-02-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92882",
+     "sha256": "c82f168b785b81bff904c3d444728b8da0b00b1ffb633bdf2298f6685589b381"
     }
    ]
   },
@@ -326,6 +356,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4488",
      "sha256": "04e681566419bd590bb45d12b721b5db27f1bc2903e3d568bb8eacfd03847719"
+    }
+   ]
+  },
+  {
+   "slug": "hg-12-1994",
+   "path": "hg/1994/12",
+   "short": "HG nr. 12/1994",
+   "title": "Hotărârea Guvernului nr. 12/1994 privind aprobarea realizării obiectivului de investiţii \"Pod pe DN 71 km 82 + 525 peste râul Ialomiţa, la Pietroşiţa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92883",
+   "versions": [
+    {
+     "from": "1994-02-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92883",
+     "sha256": "8b24229738643c0f7d3ba47d08bb6b7f2ddc2003103e38fc8866d5e1c855f1b1"
     }
    ]
   },
@@ -1421,6 +1466,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92816",
      "sha256": "4e1979ac680c5c6750476d7aad5bae8afb419428db19825eb7a3d976f1dace26"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2-1994",
+   "path": "hg/1994/2",
+   "short": "HG nr. 2/1994",
+   "title": "Hotărârea Guvernului nr. 2/1994 cu privire la efectuarea unui plasament financiar din disponibilităţile contului de trezorerie al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3785",
+   "versions": [
+    {
+     "from": "1994-02-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3785",
+     "sha256": "f15b3b5e99bfd5e44084a9d837160b38d144500ef83ae0b36ee643cab94b2c73"
     }
    ]
   },
