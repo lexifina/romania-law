@@ -90,19 +90,19 @@
   "official_url": "the act's page at its official source, to check by hand"
  },
  "totals": {
-  "acts": 193163,
+  "acts": 199241,
   "by_status": {
-   "current": 125279,
+   "current": 131165,
    "pending-change": 15454,
-   "stale": 2039,
-   "unverified": 48076,
+   "stale": 2153,
+   "unverified": 48154,
    "source-unavailable": 2315
   },
-  "verified_7d": 138144,
-  "verified_30d": 138178,
-  "pct_verified_7d": 71.5,
-  "pct_verified_30d": 71.5,
-  "pct_current": 64.9,
+  "verified_7d": 144024,
+  "verified_30d": 144064,
+  "pct_verified_7d": 72.3,
+  "pct_verified_30d": 72.3,
+  "pct_current": 65.8,
   "newest_verified": "2026-11-06",
   "oldest_verified": "2018-07-23"
  },
@@ -142,19 +142,19 @@
    "oldest_verified": "2026-11-05"
   },
   "local": {
-   "acts": 70796,
+   "acts": 76796,
    "by_status": {
-    "current": 67206,
+    "current": 73092,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 114,
     "unverified": 1275,
     "source-unavailable": 2315
    },
-   "verified_7d": 67173,
-   "verified_30d": 67206,
-   "pct_verified_7d": 94.9,
-   "pct_verified_30d": 94.9,
-   "pct_current": 94.9,
+   "verified_7d": 73053,
+   "verified_30d": 73092,
+   "pct_verified_7d": 95.1,
+   "pct_verified_30d": 95.2,
+   "pct_current": 95.2,
    "newest_verified": "2026-11-06",
    "oldest_verified": "2023-03-20"
   },
@@ -176,12 +176,12 @@
    "oldest_verified": "2018-07-23"
   },
   "orders": {
-   "acts": 39958,
+   "acts": 40036,
    "by_status": {
     "current": 248,
     "pending-change": 43,
     "stale": 0,
-    "unverified": 39667,
+    "unverified": 39745,
     "source-unavailable": 0
    },
    "verified_7d": 248,
@@ -501,19 +501,19 @@
    "oldest_verified": "2021-12-06"
   },
   "local": {
-   "acts": 70796,
+   "acts": 76796,
    "by_status": {
-    "current": 67206,
+    "current": 73092,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 114,
     "unverified": 1275,
     "source-unavailable": 2315
    },
-   "verified_7d": 67173,
-   "verified_30d": 67206,
-   "pct_verified_7d": 94.9,
-   "pct_verified_30d": 94.9,
-   "pct_current": 94.9,
+   "verified_7d": 73053,
+   "verified_30d": 73092,
+   "pct_verified_7d": 95.1,
+   "pct_verified_30d": 95.2,
+   "pct_current": 95.2,
    "newest_verified": "2026-11-06",
    "oldest_verified": "2023-03-20"
   },
@@ -603,12 +603,12 @@
    "oldest_verified": "2022-05-23"
   },
   "ordin": {
-   "acts": 30767,
+   "acts": 30845,
    "by_status": {
     "current": 246,
     "pending-change": 6,
     "stale": 0,
-    "unverified": 30515,
+    "unverified": 30593,
     "source-unavailable": 0
    },
    "verified_7d": 246,
@@ -753,7 +753,7 @@
     "regulament",
     "tratat"
    ],
-   "acts": 100508,
+   "acts": 100586,
    "last_successful_check": "2026-11-05",
    "unavailable_since": "2026-11-05",
    "sites": null,
@@ -795,13 +795,13 @@
    "kinds": [
     "local"
    ],
-   "acts": 69521,
+   "acts": 75521,
    "last_successful_check": "2026-11-06",
    "unavailable_since": null,
-   "sites": 99,
+   "sites": 102,
    "sites_unavailable": 5,
-   "pct_verified_7d": 96.6,
-   "pct_verified_30d": 96.7
+   "pct_verified_7d": 96.7,
+   "pct_verified_30d": 96.8
   },
   {
    "source": "Court decisions (Portalul legislativ)",
@@ -818,5 +818,5 @@
   }
  ],
  "index": "data/freshness/index.json",
- "shards": 1553
+ "shards": 1626
 }
