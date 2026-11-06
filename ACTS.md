@@ -18280,7 +18280,7 @@
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
 | Government decisions (HG) | 41954 | [`data/acts/hg/`](data/acts/hg/) |
-| Ministerial and authority orders (ordine) | 31009 | [`data/acts/ordin/`](data/acts/ordin/) |
+| Ministerial and authority orders (ordine) | 31010 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 839 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 685 | [`data/acts/regulament/`](data/acts/regulament/) |
 | Instructions (instrucțiuni) | 245 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |

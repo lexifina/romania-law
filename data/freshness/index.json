@@ -2022,8 +2022,8 @@
    "file": "data/freshness/hg/1996.csv",
    "count": 1262,
    "by_status": {
-    "current": 1072,
-    "pending-change": 188,
+    "current": 1071,
+    "pending-change": 189,
     "stale": 1,
     "unverified": 1,
     "source-unavailable": 0

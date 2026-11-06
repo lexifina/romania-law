@@ -92,8 +92,8 @@
  "totals": {
   "acts": 208405,
   "by_status": {
-   "current": 140165,
-   "pending-change": 15454,
+   "current": 140164,
+   "pending-change": 15455,
    "stale": 2153,
    "unverified": 48318,
    "source-unavailable": 2315
@@ -161,8 +161,8 @@
   "national": {
    "acts": 60129,
    "by_status": {
-    "current": 41414,
-    "pending-change": 13025,
+    "current": 41413,
+    "pending-change": 13026,
     "stale": 2039,
     "unverified": 3651,
     "source-unavailable": 0
@@ -401,8 +401,8 @@
   "hg": {
    "acts": 41916,
    "by_status": {
-    "current": 35175,
-    "pending-change": 5735,
+    "current": 35174,
+    "pending-change": 5736,
     "stale": 443,
     "unverified": 563,
     "source-unavailable": 0
@@ -755,7 +755,7 @@
    ],
    "acts": 100747,
    "last_successful_check": "2026-11-06",
-   "unavailable_since": "2026-11-06",
+   "unavailable_since": null,
    "sites": null,
    "sites_unavailable": null,
    "pct_verified_7d": 54.5,

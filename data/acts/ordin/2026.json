@@ -3511,6 +3511,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anre-50-2026",
+"path": "ordin/anre/2026/50",
+"kind": "ordin",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 50/2026 privind aprobarea Procedurii de constituire a Registrului național al comunităților de energie, în vederea înregistrării comunităților de energie legal constituite",
+"short": "Ordin anre nr. 50/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://anre.ro/wp-content/uploads/2026/07/Ord-50-2026.pdf",
+"issuer": "anre",
+"joint": []
+},
+{
 "slug": "ordin-anre-51-2026",
 "path": "ordin/anre/2026/51",
 "kind": "ordin",

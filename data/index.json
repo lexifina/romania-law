@@ -14015,12 +14015,12 @@
   {
    "shard": "ordin/2026",
    "kind": "ordin",
-   "count": 849,
+   "count": 850,
    "acts": "data/acts/ordin/2026.json",
    "list": "data/acts/ordin/2026.md",
    "versions": "data/versions/ordin/2026.json",
    "laws": "data/laws/ordin/2026.csv",
-   "laws_count": 849,
+   "laws_count": 850,
    "sources": "data/sources/ordin/2026.csv"
   },
   {
