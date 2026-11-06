@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcj-cluj-11-2023",
+   "path": "local/judet/cluj/2023/11",
+   "short": "HCJ Cluj nr. 11/2023",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 11/2023",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/62/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/page/62/",
+     "sha256": "002c39615fb354c9b00f5dee08229dfed3caeae2834ab233eade07767d09fb46"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-117-2023",
    "path": "local/judet/cluj/2023/117",
    "short": "HCJ Cluj nr. 117/2023",
@@ -89,6 +104,21 @@
      "units": 1,
      "source_url": "https://cjcluj.ro/hotarare-cjc/2023/06",
      "sha256": "216043093d2f504c619ca0040c87c1a06241addae2d4ea33de9a6ba3ff768d8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-132-2023",
+   "path": "local/judet/cluj/2023/132",
+   "short": "HCJ Cluj nr. 132/2023",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 132/2023",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/54/",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2023/08/b8974b07-132_3_modif-hcjc-233_2022_pret-mediu-produse-2023.pdf",
+     "sha256": "5ad21271ce9ce498ee476ad2ced437de214127c7a5456c2754bf69de170d7e2a"
     }
    ]
   },
@@ -194,6 +224,21 @@
      "units": 1,
      "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2023/08/144664f5-142_13_modif-hcjc-99_2023_org-stat-de-fct-sp.-recuperare.pdf",
      "sha256": "9e2f571a897d976d75e27f21f71026ce6d291019dde059d41ae2d8fe21cce4da"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-15-2023",
+   "path": "local/judet/cluj/2023/15",
+   "short": "HCJ Cluj nr. 15/2023",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 15/2023 privind aprobarea Bugetului de venituri și cheltuieli pe anul 2023 al societății Compania de Apă Someș S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/62/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2023/02/d32ebf35-15_15_bvc-compania-de-apa.pdf",
+     "sha256": "018a8d3fc711cf3db24c8c8f16ba4d118e58b6fbe7ad574fc8081b46f92c67f0"
     }
    ]
   },
@@ -783,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcj-cluj-218-2023",
+   "path": "local/judet/cluj/2023/218",
+   "short": "HCJ Cluj nr. 218/2023",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 218/2023 pentru stabilirea prețurilor medii la principalele produse agricole pe baza cărora vor fi stabilite veniturile din arendă în anul 2024",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/48/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2023/12/5deb6056-218_1_preturi-medii-produse-agricole-2024.pdf",
+     "sha256": "dc9dc34878501b5017550242e74f44fe27b3a98261f1303e26a8f862d0ceb454"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-22-2023",
    "path": "local/judet/cluj/2023/22",
    "short": "HCJ Cluj nr. 22/2023",
@@ -1143,6 +1203,21 @@
    ]
   },
   {
+   "slug": "hcj-cluj-5-2023",
+   "path": "local/judet/cluj/2023/5",
+   "short": "HCJ Cluj nr. 5/2023",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 5/2023 privind încetarea Contractului de finanțare nr. 4852 din 06.11.2019 aferent Proiectului ”Reabilitarea, modernizarea și echiparea Școlii Gimnaziale Speciale Huedin”, SMIS 121031",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/62/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2023/02/77c27813-5_5_incetare-contract-de-finantare-scoala-huedin.pdf",
+     "sha256": "ca5c5562d03e46bd694bc0ff7783aa81830c11a7ab7366030b2273425d7fa717"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-53-2023",
    "path": "local/judet/cluj/2023/53",
    "short": "HCJ Cluj nr. 53/2023",
@@ -1199,6 +1274,21 @@
      "units": 1,
      "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2023/04/9afbaa9c-59_1_aprobare-cont-de-executie-la-31.12.2022.pdf",
      "sha256": "e1c792548226e51ce5cf6de333372834f79d64961ea705f115b7bdc465b5e9a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-6-2023",
+   "path": "local/judet/cluj/2023/6",
+   "short": "HCJ Cluj nr. 6/2023",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 6/2023 privind încetarea Contractului de finanțare nr. 3382/2018 aferent Proiectului \"Modernizarea și reabilitarea Traseului județean 3 format din sectoare de drum DJ 161H, DJ 150, DJ 161A și DJ 151C, parte a Traseului Regional Transilvania de Nord”",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/62/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2023/02/64205a9f-6_6_incetare-contract-finantare-modernizare-traseu-t3.pdf",
+     "sha256": "c57932b7872e276ce421d887811aad90ae4f9a1ecb95322a2ffc661a76e9a0e9"
     }
    ]
   },
@@ -1364,6 +1454,66 @@
      "units": 1,
      "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2023/05/74bd4ae9-80_3_componente-infrastructura-comp-de-apa-somes.pdf",
      "sha256": "562bd29dda820af3f9c2c7176a6df54595ee616a71e641751a3df1f9d3072a49"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-84-2023",
+   "path": "local/judet/cluj/2023/84",
+   "short": "HCJ Cluj nr. 84/2023",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 84/2023",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/57/",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2023/05/38f63133-84_7_situatii-financiare-2022-aeroportul-ra.pdf",
+     "sha256": "40876a155d42ddd6950472b40dc559b038f4f5b08afffd68d401f050535d29ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-85-2023",
+   "path": "local/judet/cluj/2023/85",
+   "short": "HCJ Cluj nr. 85/2023",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 85/2023 privind aprobarea situațiilor financiare la data de 31.12.2022 ale societății Univers T S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/57/",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2023/05/47ab3d26-85_8_situatii-financiare-2022-univers-t-sa.pdf",
+     "sha256": "8b2015d0ddf1a1c089345ba25d6d9ff0fc621f0daa46991e8b4ca68aa113dc83"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-86-2023",
+   "path": "local/judet/cluj/2023/86",
+   "short": "HCJ Cluj nr. 86/2023",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 86/2023 privind aprobarea Situațiilor financiare la data de 31.12.2022 ale societății Pază și Protecție Cluj S.R.L",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/57/",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2023/05/9999f0e2-86_9_situatii-financiare-2022-paza-si-protectie-srl.pdf",
+     "sha256": "c27c1c75cfc2da653aa5480a61d0d706f71d584b62b50dd69f81e2f3a8e78f38"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-87-2023",
+   "path": "local/judet/cluj/2023/87",
+   "short": "HCJ Cluj nr. 87/2023",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 87/2023 privind evaluarea administratorilor de la unele întreprinderi publice aflate sub autoritatea Consiliului Județean Cluj pe anul 2022",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/57/",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2023/05/d74c5d0d-87_10_evaluarea-administratorilor-pe-anul-2022.pdf",
+     "sha256": "3260418a43c8846866431bdac7d4084bfc3ca9e73c7462213fb67e1f9aa9172f"
     }
    ]
   },

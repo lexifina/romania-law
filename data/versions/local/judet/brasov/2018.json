@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/judet/brasov/2018",
+ "acts": [
+  {
+   "slug": "hcj-brasov-114-2018",
+   "path": "local/judet/brasov/2018/114",
+   "short": "HCJ Brașov nr. 114/2018",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 114/2018",
+   "url": "https://site.judbrasov.ro/upload/hotarari/5507.pdf",
+   "versions": [
+    {
+     "from": "2018-04-16",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/5507.pdf",
+     "sha256": "a5d99b1991b569e01538ba6dca31a79319a1307c495517aa797391504d177df7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-117-2018",
+   "path": "local/judet/brasov/2018/117",
+   "short": "HCJ Brașov nr. 117/2018",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 117/2018 privind aprobarea participării Județului Brașov la evenimentul \"Primăvara Românească la Bruxelles”",
+   "url": "https://site.judbrasov.ro/upload/hotarari/5510.pdf",
+   "versions": [
+    {
+     "from": "2018-04-16",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/5510.pdf",
+     "sha256": "f5b5541b8fa5285299aeea93ed424085a7097878762daa602465e4839a4afb27"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-125-2018",
+   "path": "local/judet/brasov/2018/125",
+   "short": "HCJ Brașov nr. 125/2018",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 125/2018",
+   "url": "https://site.judbrasov.ro/upload/hotarari/5518.pdf",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/5518.pdf",
+     "sha256": "ee976d870bd644ecba54686c98d1363c212f97b34061460e453c93726d65746b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-140-2018",
+   "path": "local/judet/brasov/2018/140",
+   "short": "HCJ Brașov nr. 140/2018",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 140/2018 privind aprobarea continuării serviciilor juridice de asistență și reprezentare a Spitalului Clinic de Obstetrică Ginecologie „Dr",
+   "url": "https://site.judbrasov.ro/upload/hotarari/5533.pdf",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/5533.pdf",
+     "sha256": "03030110dbf71db166fa2085717f4c08bf378bdb1c6fbb7a1ec8e4db61b5a9c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-201-2018",
+   "path": "local/judet/brasov/2018/201",
+   "short": "HCJ Brașov nr. 201/2018",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 201/2018 privind aprobarea utilizării excedentului bugetului local al județului Brașov, rezultat la încheierea exercițiului bugetar aferent anului 2017",
+   "url": "https://site.judbrasov.ro/upload/hotarari/5594.pdf",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/5594.pdf",
+     "sha256": "a0349742d3d01b3a494fbfe16883fe99b1ac8223a1273638700c6e8a96388bb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-216-2018",
+   "path": "local/judet/brasov/2018/216",
+   "short": "HCJ Brașov nr. 216/2018",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 216/2018",
+   "url": "https://site.judbrasov.ro/upload/hotarari/5610.pdf",
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/5610.pdf",
+     "sha256": "33656adfdc475dbcb999d00f1e9c495c7b01cbc7e35891c83317b51a8ac77e0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-221-2018",
+   "path": "local/judet/brasov/2018/221",
+   "short": "HCJ Brașov nr. 221/2018",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 221/2018 privind declararea de utilitate publică a obiectivului de interes județean „Modernizare și reabilitare drum județean DJ 102G, Victoria-Viștișoara, km 0+900- 9+900”",
+   "url": "https://site.judbrasov.ro/upload/hotarari/5615.pdf",
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/5615.pdf",
+     "sha256": "2d80062e1e25a70a841f4487380a0a64647aa969eb53e18d619acf4349d72d7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-222-2018",
+   "path": "local/judet/brasov/2018/222",
+   "short": "HCJ Brașov nr. 222/2018",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 222/2018 privind neexercitarea dreptului de preemțiune de către Județul Brașov pentru achiziționarea unei parți din imobilul monument istoric clasat în grupa A, situat în municipiul Brașov, str",
+   "url": "https://site.judbrasov.ro/upload/hotarari/5616.pdf",
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/5616.pdf",
+     "sha256": "6b1242b03316313e4b9f3ab57d73bccf60e1d9e1a5c42861428a05e1af3affbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-232-2018",
+   "path": "local/judet/brasov/2018/232",
+   "short": "HCJ Brașov nr. 232/2018",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 232/2018 privind desemnarea unui reprezentant al Consiliului Județean Brașov, în Consiliul de Administrație al Casei Județene de Asigurări de Sănătate Brașov",
+   "url": "https://site.judbrasov.ro/upload/hotarari/5626.pdf",
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/5626.pdf",
+     "sha256": "f0dde3de624869dfe5f32add724afcab2e3915025373416964e905ba000e1bfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-274-2018",
+   "path": "local/judet/brasov/2018/274",
+   "short": "HCJ Brașov nr. 274/2018",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 274/2018",
+   "url": "https://site.judbrasov.ro/upload/hotarari/5667.pdf",
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/5667.pdf",
+     "sha256": "847947a8464aa8eb4096f2dfc31a9f2c5ee9d4b38ea5a22bc1132d43b40a336e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-330-2018",
+   "path": "local/judet/brasov/2018/330",
+   "short": "HCJ Brașov nr. 330/2018",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 330/2018 privind aprobarea transmiterii fără plată a unui mijloc de transport — autobuz turistic, din patrimoniul Județului Brașov în patrimoniul Municipiului Brașov",
+   "url": "https://site.judbrasov.ro/upload/hotarari/5724.pdf",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/5724.pdf",
+     "sha256": "c0b238c880a8e748831200dc0986723669062d199016200b06d349c73c743e31"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-342-2018",
+   "path": "local/judet/brasov/2018/342",
+   "short": "HCJ Brașov nr. 342/2018",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 342/2018 privind aprobarea utilizării excedentului bugetului local al județului Brașov, rezultat la încheierea exercițiului bugetar aferent anului 2017",
+   "url": "https://site.judbrasov.ro/upload/hotarari/5735.pdf",
+   "versions": [
+    {
+     "from": "2018-10-30",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/5735.pdf",
+     "sha256": "c906ea5ea588320eabad98cfd524504b187b56d3e4fb0c9ca96e79b432124a59"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-414-2018",
+   "path": "local/judet/brasov/2018/414",
+   "short": "HCJ Brașov nr. 414/2018",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 414/2018",
+   "url": "https://site.judbrasov.ro/upload/hotarari/5808.pdf",
+   "versions": [
+    {
+     "from": "2018-11-28",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/5808.pdf",
+     "sha256": "0501232ee8d7d0df18a3adb2eb2650117d2cf1dfb026bdba3bef47b833442001"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-42-2018",
+   "path": "local/judet/brasov/2018/42",
+   "short": "HCJ Brașov nr. 42/2018",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 42/2018 privind aprobarea participării Județului Brașov, cu stand expozițional propriu la Târgul de Turism al României, organizat la Centrul Expozițional Romexpo, București, în perioada 22-25 februarie 2018",
+   "url": "https://site.judbrasov.ro/upload/hotarari/5434.pdf",
+   "versions": [
+    {
+     "from": "2018-01-30",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/5434.pdf",
+     "sha256": "d11891f362b9dd423aa9cf78c2819f940219c4d8da645dd3d598b456ca5398ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-455-2018",
+   "path": "local/judet/brasov/2018/455",
+   "short": "HCJ Brașov nr. 455/2018",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 455/2018",
+   "url": "https://site.judbrasov.ro/upload/hotarari/5849.pdf",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/5849.pdf",
+     "sha256": "4821ed580e2a12a8f7c279ce04bc0f1a6f2121f26bb3de87ae98572a0e8e4a56"
+    }
+   ]
+  }
+ ]
+}

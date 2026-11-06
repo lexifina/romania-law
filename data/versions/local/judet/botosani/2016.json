@@ -1143,6 +1143,21 @@
    ]
   },
   {
+   "slug": "hcj-botosani-24-2016",
+   "path": "local/judet/botosani/2016/24",
+   "short": "HCJ Botoșani nr. 24/2016",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 24/2016 pentru modificarea Hotărârii nr. 78 din 27.07.2012 privind desemnarea unor reprezentanți ai Consiliului Județean Botoșani în Consiliile consultative ale Unităților de Asistență Medico-Socială Mihăileni, Sulița și Suharău",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h024_25.02.2016.pdf",
+     "sha256": "663b1d8de58a677f15f12b54f36b0bbed093d73579a55d55caec6a98b6c2b186"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-25-2016",
    "path": "local/judet/botosani/2016/25",
    "short": "HCJ Botoșani nr. 25/2016",
@@ -1589,6 +1604,21 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h059_26.05.2016.pdf",
      "sha256": "35a64546659eb8aaf6aedae77bc7980267b91494c5c62b93cf1e04d465247201"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-6-2016",
+   "path": "local/judet/botosani/2016/6",
+   "short": "HCJ Botoșani nr. 6/2016",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 6/2016 privind modificarea componenței Autorității Teritoriale de Ordine Publică Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-04-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h046_21.04.2016.pdf",
+     "sha256": "42190c011ff034a7012f4d216ff59c6f1f553924390d7d7736f68428406ef9a0"
     }
    ]
   },

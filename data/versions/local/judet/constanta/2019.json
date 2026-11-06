@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/judet/constanta/2019",
+ "acts": [
+  {
+   "slug": "hcj-constanta-1109-2019",
+   "path": "local/judet/constanta/2019/1109",
+   "short": "HCJ Constanța nr. 1109/2019",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1109/2019",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2019-08-19",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2019-1109.pdf",
+     "sha256": "571114e0d96a445357c7686d637e5411353010036705a51d117bd2a0c2aebf46"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-1140-2019",
+   "path": "local/judet/constanta/2019/1140",
+   "short": "HCJ Constanța nr. 1140/2019",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1140/2019",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2019-10-23",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2019_Decizia_1140.pdf",
+     "sha256": "52e7354011e3df2af50a9639c6ab8b19e3ad9dbf4322fbceeab3918a20b5d31a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-1316-2019",
+   "path": "local/judet/constanta/2019/1316",
+   "short": "HCJ Constanța nr. 1316/2019",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1316/2019",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2019-10-03",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2019-1316.pdf",
+     "sha256": "39d01eb1513fa4016f1fc4e806c83f2bff7827f992bfea57eba667879c8ffece"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-1367-2019",
+   "path": "local/judet/constanta/2019/1367",
+   "short": "HCJ Constanța nr. 1367/2019",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1367/2019",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2019-11-25",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2019_Decizia_1367.pdf",
+     "sha256": "45c5a812f135d3f76e5af0311b15e05eb44f808ce1912c6427b0ce1e254fd07a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-1590-2019",
+   "path": "local/judet/constanta/2019/1590",
+   "short": "HCJ Constanța nr. 1590/2019",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1590/2019",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2019-11-05",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2019-1590.pdf",
+     "sha256": "435a98d5f2eb039d6caff6805aa0c66c0bc7a479cc7c519840497598af7c9a1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-1740-2019",
+   "path": "local/judet/constanta/2019/1740",
+   "short": "HCJ Constanța nr. 1740/2019",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1740/2019",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2019-11-26",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2019-1740.pdf",
+     "sha256": "3ab29b72edbe1d62fae1198e22b5f1d2b963acf4fdb716ad17c41e0c1e6cd945"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-1798-2019",
+   "path": "local/judet/constanta/2019/1798",
+   "short": "HCJ Constanța nr. 1798/2019",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1798/2019",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2019-12-02",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2019-1798.pdf",
+     "sha256": "57ed6a4a6d97ac3056cd265b1179fe09da1b1b45c20097c06d64abae1377964e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-289-2019",
+   "path": "local/judet/constanta/2019/289",
+   "short": "HCJ Constanța nr. 289/2019",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 289/2019",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2019-02-26",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2019-289.pdf",
+     "sha256": "657050416286711e7593fa9b10a91bb0b3059f6ada30a70140061ced9949214e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-879-2019",
+   "path": "local/judet/constanta/2019/879",
+   "short": "HCJ Constanța nr. 879/2019",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 879/2019",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2019-06-04",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2019-879.pdf",
+     "sha256": "0a89ea5d48ba83d1e3e58f3ac728f08a3fce8c6528f7d6f8b629cd147d52d0f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-981-2019",
+   "path": "local/judet/constanta/2019/981",
+   "short": "HCJ Constanța nr. 981/2019",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 981/2019",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2019-09-23",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2019_Decizia_981.pdf",
+     "sha256": "4236934145ba81e79052d523a691ea653ede8e770be0523c73663a5cb47149f9"
+    }
+   ]
+  }
+ ]
+}

@@ -663,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcj-botosani-167-2008",
+   "path": "local/judet/botosani/2008/167",
+   "short": "HCJ Botoșani nr. 167/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 167/2008 privind rectificarea bugetului propriu al Județului Botoșani, al bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii, precum și modificarea listei de investiții pe anul 2026",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H167_20260805.pdf",
+     "sha256": "47876ec191d1d91c0ea58ae4d9d436572ed399f51e078179770e59e536d36d55"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-19-2008",
    "path": "local/judet/botosani/2008/19",
    "short": "HCJ Botoșani nr. 19/2008",

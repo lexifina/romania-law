@@ -1173,6 +1173,21 @@
    ]
   },
   {
+   "slug": "hcj-botosani-55-2010",
+   "path": "local/judet/botosani/2010/55",
+   "short": "HCJ Botoșani nr. 55/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 55/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h045_30.03.2010.pdf",
+     "sha256": "3be560e698724185d598d5b18cd4f8aa48037e835552b9fa8d8321dfe18e0f89"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-58-2010",
    "path": "local/judet/botosani/2010/58",
    "short": "HCJ Botoșani nr. 58/2010",

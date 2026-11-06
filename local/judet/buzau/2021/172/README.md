@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Județean Buzău nr. 172/2021 privind majorarea sumelor defalcate din taxa pe valoarea adăugată destinate finanțării cheltuielilor cu drumurile județene pe anul 2021 Consiliul județean Buzău; Având în vedere:  referatul Președintelui Consiliului Județean Buzău de inițiere a proiectului de hotărâre, înregistrat la nr. 14271/14.09.2021;  raportul Direcției economice a Consiliului Județean Buzău, înregistrat la nr. 14272/14.09
+
+HCJ Buzău nr. 172/2021 · 1 versions, from 2021-09-23 (latest in force: 2021-09-23) · <http://cjbuzau.ro/hotarari-cj-2021/>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcj-buzau-172-2021` (tags `hcj-buzau-172-2021/<day>`; `python tools/on.py <day> hcj-buzau-172-2021`).
+
+## Decisions made by hand
+
+- HCJ Buzău nr. 172/2021: listed from Consiliul Județean Buzău (cjbuzau.ro); an individual decision: metadata only.
+- HCJ Buzău nr. 172/2021: dated from 23 September 2021, the day it was adopted (the register gives no later day of publication).
+- HCJ Buzău nr. 172/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

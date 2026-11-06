@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/arad/2023",
+ "acts": [
+  {
+   "slug": "hcj-arad-315-2023",
+   "path": "local/judet/arad/2023/315",
+   "short": "HCJ Arad nr. 315/2023",
+   "title": "Hotărârea Consiliului Județean Arad nr. 315/2023",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-172-din-27-04-2023-privind-avizarea-tarifelor-pentru-concesionarea-si-inchirierea-unor-bunuri-de-catre-regia-autonoma-administratia-zonei-libere-curtici-arad/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/files/hotarari.nsf-xsp-.ibmmodres-domino-OpenAttachment-hotarari.nsf-CF92B50B073FAC0DC225899500369913-alte_atasamente-Raport.pdf",
+     "sha256": "6c4d8db9c1655af5e009f626ac478ed846e13d749e27b5b70dd38e7d89cf7762"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-421-2023",
+   "path": "local/judet/arad/2023/421",
+   "short": "HCJ Arad nr. 421/2023",
+   "title": "Hotărârea Consiliului Județean Arad nr. 421/2023",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-495-din-28-12-2023-privind-avizarea-tarifelor-pentru-concesionarea-si-inchirierea-unor-bunuri-de-catre-regia-autonoma-administratia-zonei-libere-curtici-arad/",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/files/hotarari.nsf-xsp-.ibmmodres-domino-OpenAttachment-hotarari.nsf-1C4EE4F9D889DD38C2258A8D002C732E-alte_atasamente-Raport.pdf",
+     "sha256": "7981d07577965e3a9fb50afbfca57bfec67051d30e44f480f74961bfdefe4756"
+    }
+   ]
+  }
+ ]
+}

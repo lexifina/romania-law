@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcj-covasna-104-2025",
+   "path": "local/judet/covasna/2025/104",
+   "short": "HCJ Covasna nr. 104/2025",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 104/2025 pentru modificarea Contractului de administrare nr. 149/04.07.2018, încheiat între Județul Covasna prin Consiliul Județean Covasna și Muzeul Național Secuiesc – Székely Nemzeti Múzeum",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-104-112-aprilie-2025.html",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2025/04/ro/104_2025.pdf",
+     "sha256": "78c4580c507f7c7caedb2164a8f0b40d6db1d553f5d582098a38172f9835f8f8"
+    }
+   ]
+  },
+  {
    "slug": "hcj-covasna-112-2025",
    "path": "local/judet/covasna/2025/112",
    "short": "HCJ Covasna nr. 112/2025",
@@ -228,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcj-covasna-160-2025",
+   "path": "local/judet/covasna/2025/160",
+   "short": "HCJ Covasna nr. 160/2025",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 160/2025 pentru modificarea Contractului de administrare nr. 192/22.11.2003, încheiat între Consiliul Județean Covasna și Școala Specială Sfântu Gheorghe",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-145-179-iulie-2025.html",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2025/07/ro/160_2025.pdf",
+     "sha256": "6f718441cfc2a44ffcdc0e1dc6432b1da402646dbfa4ee266341d6b22cf8161c"
+    }
+   ]
+  },
+  {
    "slug": "hcj-covasna-166-2025",
    "path": "local/judet/covasna/2025/166",
    "short": "HCJ Covasna nr. 166/2025",
@@ -239,6 +269,21 @@
      "units": 1,
      "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2025/07/ro/166_2025.pdf",
      "sha256": "520bd6b70d95faeaf402176b53b004fdecc43814d78a8282c9b4dba25ca4d61b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-17-2025",
+   "path": "local/judet/covasna/2025/17",
+   "short": "HCJ Covasna nr. 17/2025",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 17/2025 privind aprobarea Contractului - model care va fi încheiat între Județul Covasna prin Covasna și unitățile administrativ - teritoriale din județul Covasna prin consiliile locale care participă la cofinanțarea serviciilor sociale acordate în cadrul Direcției Generale de Asistență Socială și Protecția Copilului Covasna, pe anul 2025",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-1-17-ianuarie-2025.html",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2025/01/ro/17_2025.pdf",
+     "sha256": "60f73bb5aa9476fae4136a6a1cd7882dafbfdb2a669488eafc9de75bae97e7da"
     }
    ]
   },
@@ -423,6 +468,51 @@
    ]
   },
   {
+   "slug": "hcj-covasna-235-2025",
+   "path": "local/judet/covasna/2025/235",
+   "short": "HCJ Covasna nr. 235/2025",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 235/2025",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-219-282-noiembrie-2025.html",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2025/11/ro/235_2025.pdf",
+     "sha256": "6af9399c2c508f4e561cd27f3025c39ead7604f05999a0ecb1145532713ae24a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-236-2025",
+   "path": "local/judet/covasna/2025/236",
+   "short": "HCJ Covasna nr. 236/2025",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 236/2025",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-219-282-noiembrie-2025.html",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2025/11/ro/236_2025.pdf",
+     "sha256": "e35ef7a5ea685dc288caf67440484d01d9480aca4dd04726ef84fafee3521e14"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-238-2025",
+   "path": "local/judet/covasna/2025/238",
+   "short": "HCJ Covasna nr. 238/2025",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 238/2025 privind aprobarea modificării Contractului-cadru de delegare a gestiunii serviciilor publice de transport persoane în aria teritorială de competență a județului Covasna nr. 752/2023, încheiat între județul Covasna prin Consiliul Județean Covasna și comuna Sita Buzăului pentru LOTUL 9",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-219-282-noiembrie-2025.html",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2025/11/ro/238_2025.pdf",
+     "sha256": "3b55f34efbd38215ece4d05fc499fcb8f1d401f3967486814e68ff3486082b74"
+    }
+   ]
+  },
+  {
    "slug": "hcj-covasna-291-2025",
    "path": "local/judet/covasna/2025/291",
    "short": "HCJ Covasna nr. 291/2025",
@@ -494,6 +584,81 @@
      "units": 1,
      "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/06_alte_documente/2025/01_de_minimis/hotarare_acordare_ajutor_de_mini.pdf",
      "sha256": "1b05e4600bc518c3c05f1c52bc67bb93b59dec711e2ec5fba73dff04c4c4f615"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-69-2025",
+   "path": "local/judet/covasna/2025/69",
+   "short": "HCJ Covasna nr. 69/2025",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 69/2025",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-18-72-februarie-2025.html",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2025/02/ro/69_2025.pdf",
+     "sha256": "cf8906c146aab12e236da737886caaf7d4a583d75ac8bf17f7f633d76cf193c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-73-2025",
+   "path": "local/judet/covasna/2025/73",
+   "short": "HCJ Covasna nr. 73/2025",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 73/2025 privind aprobarea „Programului județean pentru reabilitarea și modernizarea imobilelor cu destinație de cabinete medicale din mediul rural, respectiv a spitalelor din mediul urban” , în perioada 2025-2028",
+   "url": "https://www.cjcv.ro/hu/palyazati-felhivas-videki-orvosi-rendelok-illetve-a-varosi-korhazak-helyreallitasanak-es-korszerusitesenek-vissza-nem-teritendo-tamogatasara-a-2025-2028-idoszakra.html",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/palyazatok/2025/03_PJDL/03_orvosi%20rendelok/hotarare_cabinete_medicale.doc",
+     "sha256": "3f7f626f6a0f62912a2c7b967b0a8e32584fe49bf5c1f624101b3fc9be6c068d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-81-2025",
+   "path": "local/judet/covasna/2025/81",
+   "short": "HCJ Covasna nr. 81/2025",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 81/2025 privind aprobarea „Programului județean pentru reabilitarea și modernizarea imobilelor cu destinație de cabinete medicale de stomatologie din mediul rural” în perioada 2025-2028",
+   "url": "https://www.cjcv.ro/hu/palyazati-felhivas-videki-fogorvosi-rendeloknek-helyet-ado-epuletek-felujitasanak-korszerusitesenek-vissza-nem-teritendo-tamogatasara-a-2025-2028-idoszakra.html",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/palyazatok/2025/03_PJDL/04_fogorvosi_rendelok/hotarare_cabinete_de_stomatologi.doc",
+     "sha256": "72b06cce282c42ab15ab14848ab86fdf0f9fe7fc6b9b382afe37aa976f83f218"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-82-2025",
+   "path": "local/judet/covasna/2025/82",
+   "short": "HCJ Covasna nr. 82/2025",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 82/2025 privind aprobarea „Programului județean pentru reabilitarea și modernizarea bazelor sportive din mediul rural”, în perioada 2025-2028",
+   "url": "https://www.cjcv.ro/hu/palyazati-felhivas-falusi-sportletesitmenyek-helyreallitasanak-es-modernizalasanak-vissza-nem-teritendo-tamogatasara-a-2025-2028-idoszakra.html",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/palyazatok/2025/03_PJDL/01_sportpalyak/hotarare_baze.doc",
+     "sha256": "8121287cbd08f7559014dfa4563654d80200d31e70c836fafb8d8920603a7fa7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-84-2025",
+   "path": "local/judet/covasna/2025/84",
+   "short": "HCJ Covasna nr. 84/2025",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 84/2025 cu privire la aprobarea „Programului județean pentru reabilitarea, modernizarea clădirilor în care funcționează spații expoziționale sau biblioteci, din mediul rural”, în perioada 2025-2028",
+   "url": "https://www.cjcv.ro/hu/palyazati-felhivas-videki-kiallito-tereknek-vagy-konyvtaraknak-helyet-ado-epuletek-helyreallitasat-es-korszerusiteset-vissza-nem-teritendo-tamogatasara-a-2025-2028-idoszakra.html",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/palyazatok/2025/03_PJDL/02_konyvtarak/hotarare_biblioteci.doc",
+     "sha256": "dafbb06b7c1b12d749830308a86081ca8d0db317a5c76210ace5b74cd063f0ec"
     }
    ]
   },

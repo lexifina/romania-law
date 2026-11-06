@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcj-buzau-108-2025",
+   "path": "local/judet/buzau/2025/108",
+   "short": "HCJ Buzău nr. 108/2025",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 108/2025 privind modificarea componenței Consiliului Director al Fundației „Communitas Buzău”",
+   "url": "https://cjbuzau.ro/hotarari-cj-2025/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/05/H-108.pdf",
+     "sha256": "d8362b71394d08c5761022f2fdd6c458a7e3c5acb2bc2e437bf5d8886b735190"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-109-2025",
    "path": "local/judet/buzau/2025/109",
    "short": "HCJ Buzău nr. 109/2025",
@@ -404,6 +419,21 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/06/Hotararea-nr.128-din-2025.pdf",
      "sha256": "76a1634a504ca48cf94cd073148cc319ae4b3b5fd67c250db62ae75793745d0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-129-2025",
+   "path": "local/judet/buzau/2025/129",
+   "short": "HCJ Buzău nr. 129/2025",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 129/2025 privind aprobarea unor modificări ale Statutului Asociaţiei de Dezvoltare Intercomunitară Sud-Est pentru Situații de Urgență, la care județul Buzău este membru asociat",
+   "url": "https://cjbuzau.ro/hotarari-cj-2025/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/06/Hotararea-nr.129-din-2025.pdf",
+     "sha256": "b30e2dfeb2e0090f6d5c32c80872984e95f6a867f5e99c0a2764ee148acebc04"
     }
    ]
   },
@@ -753,6 +783,21 @@
    ]
   },
   {
+   "slug": "hcj-buzau-151-2025",
+   "path": "local/judet/buzau/2025/151",
+   "short": "HCJ Buzău nr. 151/2025",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 151/2025 pentru aprobarea retragerii Județului Buzău din calitatea de membru asociat la Asociația Sportivă „Fotbal Club Buzău”",
+   "url": "https://cjbuzau.ro/hotarari-cj-2025/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/06/Hotararea-nr.151-din-2025.pdf",
+     "sha256": "b43b06d55480a3b2b517a50cb6ade007e905d7fb9ee75111a1f3181d7122bef2"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-152-2025",
    "path": "local/judet/buzau/2025/152",
    "short": "HCJ Buzău nr. 152/2025",
@@ -914,6 +959,21 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/07/Hotararea-nr.162-din-2025.pdf",
      "sha256": "da2d10f0cd71aee63e28df24bd536c6e165432aea23cdb4a9a487d2edd471ba5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-164-2025",
+   "path": "local/judet/buzau/2025/164",
+   "short": "HCJ Buzău nr. 164/2025",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 164/2025 pentru modificarea dării în administrarea Consiliului Local al comunei Poșta Câlnău a unei suprafețe de teren din drumul județean DJ 220, situată în intravilanul comunei Poșta Câlnău, în aprobarea delegării temporare a dării în administrare conform art. 22 2 din Ordonanța Guvernului nr. 43/1997",
+   "url": "https://cjbuzau.ro/hotarari-cj-2025/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/07/Hotararea-nr.164-din-2025.pdf",
+     "sha256": "4b61e9ba1f9388e604d578ba2a3a2142f433636496f64e0a0649957abb40db11"
     }
    ]
   },
@@ -1244,6 +1304,21 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/09/Hotararea-nr.188-din-2025.pdf",
      "sha256": "20d573f941359fe9e474ed819d64ada67fc4f81e5b368bb50903e29a4e236318"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-189-2025",
+   "path": "local/judet/buzau/2025/189",
+   "short": "HCJ Buzău nr. 189/2025",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 189/2025 privind aprobarea cofinanțării de către",
+   "url": "https://cjbuzau.ro/hotarari-cj-2025/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/09/Hotararea-nr.189-din-2025.pdf",
+     "sha256": "4a813eef2390e5ceda17691b44be8f4a27f62939984d3ca347b545fbf7169b8a"
     }
    ]
   },
@@ -2223,6 +2298,21 @@
    ]
   },
   {
+   "slug": "hcj-buzau-3-2025",
+   "path": "local/judet/buzau/2025/3",
+   "short": "HCJ Buzău nr. 3/2025",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 3/2025 pentru aprobarea finanțării parțiale a activității cluburilor sportive de drept public și privat înființate pe raza Unității Administrativ-Teritoriale Județul Buzău până la aprobarea bugetului propriu al județului Buzău 2025",
+   "url": "https://cjbuzau.ro/hotarari-cj-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/01/Hotararea-nr.3-din-2025.pdf",
+     "sha256": "f918ca9aa0a20d38fbc5e97d0142f204e871ba209fe30bb4139731ca2d0513e8"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-30-2025",
    "path": "local/judet/buzau/2025/30",
    "short": "HCJ Buzău nr. 30/2025",
@@ -2249,6 +2339,21 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/03/Hotararea-nr.31-din-2025.pdf",
      "sha256": "aa91b72b3d4804497280efca2e86732057f14780aff0ff26550d08ee02538ebb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-33-2025",
+   "path": "local/judet/buzau/2025/33",
+   "short": "HCJ Buzău nr. 33/2025",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 33/2025 pentru aprobarea participării Direcției Generale de Asistență Socială și Protecția Copilului Buzău ca partener în cadrul proiectului „Rețeaua APP – Suport pentru o viață independentă în comunitate pentru persoanele cu dizabilități”, având ca lider de parteneriat Autoritatea Națională pentru Protecția Drepturilor Persoanelor cu Dizabilități",
+   "url": "https://cjbuzau.ro/hotarari-cj-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/03/Hotararea-nr.33-din-2025.pdf",
+     "sha256": "73bd91ac8361f90304e301b49be3d08d47db5631af0cb7539c999509c17a17ac"
     }
    ]
   },
@@ -3018,6 +3123,21 @@
    ]
   },
   {
+   "slug": "hcj-buzau-81-2025",
+   "path": "local/judet/buzau/2025/81",
+   "short": "HCJ Buzău nr. 81/2025",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 81/2025 pentru stabilirea unui mandat special reprezentantului Județului Buzău în Adunarea Generală a Acționarilor la Societatea „Compania de Apă” SA Buzău pentru ședința ordinară din data de 16.04.2025",
+   "url": "https://cjbuzau.ro/hotarari-cj-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/03/Hotararea-nr-81-din-2025.pdf",
+     "sha256": "88eb99ea338365326c46b8c737876572a2f7f5f09460ee17772d61eb2e41efed"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-82-2025",
    "path": "local/judet/buzau/2025/82",
    "short": "HCJ Buzău nr. 82/2025",
@@ -3119,6 +3239,21 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/05/H-89.pdf",
      "sha256": "a547763ece8e0c71f4d26a670fcde2b8a16f58b938845eb514fbb3dc2dc6e605"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-9-2025",
+   "path": "local/judet/buzau/2025/9",
+   "short": "HCJ Buzău nr. 9/2025",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 9/2025 privind stabilirea capacității de rezidență beneficiari la Căminul pentru persoane vârstnice Smeeni și Căminul pentru persoane vârstnice „Alecu Bagdad” Rm",
+   "url": "https://cjbuzau.ro/hotarari-cj-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/01/Hotararea-nr.9-din-2025.pdf",
+     "sha256": "4c62aeab5c0668df29026d8aab2fa4a08010b0bbbd07343b7c9cfe0ccdcfabec"
     }
    ]
   },

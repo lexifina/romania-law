@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/judet/arad/2016",
+"acts": [
+{
+"slug": "hcj-arad-23-2016",
+"path": "local/judet/arad/2016/23",
+"kind": "local",
+"year": "2016",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Arad nr. 23/2016",
+"short": "HCJ Arad nr. 23/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-01-27",
+"latest": "2016-01-27",
+"portal": "https://www.cjarad.ro/hotarari/hotararea-nr-23-din-27-01-2016-privind-repartizarea-pe-unitati-administrativ-teritoriale-din-judetul-arad-a-sumelor-defalcate-din-taxa-pe-valoarea-adaugata-destinate-finantarii-cheltuielilor-pri/",
+"council": "judet/arad",
+"council_name": "Consiliul Județean Arad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-arad-24-2016",
+"path": "local/judet/arad/2016/24",
+"kind": "local",
+"year": "2016",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Arad nr. 24/2016",
+"short": "HCJ Arad nr. 24/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-01-27",
+"latest": "2016-01-27",
+"portal": "https://www.cjarad.ro/hotarari/hotararea-nr-24-din-27-01-2016-privind-repartizarea-pe-unitati-administrativ-teritoriale-din-judetul-arad-a-cotei-de-20-din-sumele-defalcate-din-taxa-pe-valoarea-adaugata-pentru-echilibrarea-bug/",
+"council": "judet/arad",
+"council_name": "Consiliul Județean Arad",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

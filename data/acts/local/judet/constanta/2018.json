@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/judet/constanta/2018",
+"acts": [
+{
+"slug": "hcj-constanta-1637-2018",
+"path": "local/judet/constanta/2018/1637",
+"kind": "local",
+"year": "2018",
+"number": "1637",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Constanța nr. 1637/2018",
+"short": "HCJ Constanța nr. 1637/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-11-02",
+"latest": "2018-11-02",
+"portal": "https://www.cjc.ro/sectiune.php?s=206",
+"council": "judet/constanta",
+"council_name": "Consiliul Județean Constanța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-constanta-1718-2018",
+"path": "local/judet/constanta/2018/1718",
+"kind": "local",
+"year": "2018",
+"number": "1718",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Constanța nr. 1718/2018",
+"short": "HCJ Constanța nr. 1718/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-11-14",
+"latest": "2018-11-14",
+"portal": "https://www.cjc.ro/sectiune.php?s=206",
+"council": "judet/constanta",
+"council_name": "Consiliul Județean Constanța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-constanta-1894-2018",
+"path": "local/judet/constanta/2018/1894",
+"kind": "local",
+"year": "2018",
+"number": "1894",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Constanța nr. 1894/2018",
+"short": "HCJ Constanța nr. 1894/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-12-05",
+"latest": "2018-12-05",
+"portal": "https://www.cjc.ro/sectiune.php?s=206",
+"council": "judet/constanta",
+"council_name": "Consiliul Județean Constanța",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

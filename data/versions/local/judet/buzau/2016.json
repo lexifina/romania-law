@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/buzau/2016",
+ "acts": [
+  {
+   "slug": "hcj-buzau-79-2016",
+   "path": "local/judet/buzau/2016/79",
+   "short": "HCJ Buzău nr. 79/2016",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 79/2016 pentru personalul contractual din cadrul Centrului Județean de Cultură și Artă Buzău – funcții specifice familiei ocupaționale „Administrație” * Modificată prin Hotărârea nr.79/2019 * Abrogată prin Hotărârea nr.300 din 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2018/",
+   "versions": [
+    {
+     "from": "2016-04-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/04/Hot%C4%83r%C3%A2rea-nr.79.pdf",
+     "sha256": "c6d4769abfd2916992f341bf8d17b6dd8e659ad6988bf9a0c05c3996558d14fc"
+    }
+   ]
+  }
+ ]
+}

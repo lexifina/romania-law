@@ -3,6 +3,28 @@
 "shard": "local/judet/cluj/2026",
 "acts": [
 {
+"slug": "hcj-cluj-3-2026",
+"path": "local/judet/cluj/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 3/2026",
+"short": "HCJ Cluj nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-25",
+"latest": "2026-05-25",
+"portal": "https://cjcluj.ro/hotarare-cjc/2026/04",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-cluj-6-2026",
 "path": "local/judet/cluj/2026/6",
 "kind": "local",
@@ -168,6 +190,28 @@
 "reason": null,
 "title": "Hotărârea Consiliului Județean Cluj nr. 25/2026 privind solicitarea de trecere a unor imobile din domeniul public al Comunei Recea-Cristur în domeniul public al Județului Cluj",
 "short": "HCJ Cluj nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://cjcluj.ro/hotarare-cjc/2026/02",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-cluj-26-2026",
+"path": "local/judet/cluj/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 26/2026 privind solicitarea de delegare a dreptului de administrare asupra tronsonului din drumul comunal DC 43: DN 16-Limită UAT Căianu",
+"short": "HCJ Cluj nr. 26/2026",
 "code": null,
 "status": "metadata only (individual decision)",
 "versions": 1,

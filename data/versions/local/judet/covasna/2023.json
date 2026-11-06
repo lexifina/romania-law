@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcj-covasna-14-2023",
+   "path": "local/judet/covasna/2023/14",
+   "short": "HCJ Covasna nr. 14/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 14/2023 privind stabilirea salariilor de bază aferente funcțiilor publice și contractuale din cadrul familiei ocupaționale „Administrație”, utilizate în cadrul aparatului de specialitate al Consiliului Județean Covasna și în cadrul instituțiilor și serviciilor publice din subordinea Consiliului Județean Covasna",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-1-16-ianuarie-2023.html",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/01/ro/14_2023.pdf",
+     "sha256": "c1e7c3e1725e9f833d298bcf06471717f335a6aacefb3b0f7ee1d542fed99c8e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-covasna-142-2023",
    "path": "local/judet/covasna/2023/142",
    "short": "HCJ Covasna nr. 142/2023",
@@ -194,6 +209,21 @@
      "units": 1,
      "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/09/ro/153_2023.pdf",
      "sha256": "8ad6d0f3ab3e7c90235b66af3d43972f32e4f30fc566adf9cdc8a37807d6630c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-1576-2023",
+   "path": "local/judet/covasna/2023/1576",
+   "short": "HCJ Covasna nr. 1576/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 1576/2023 privind intenția de a institui ajutorul de minimis individual sub forma majorării capitalului social prin aport în natură pentru societatea Drumuri și Poduri Covasna S.A",
+   "url": "https://www.cjcv.ro/ro/alte-documente-monitorul-oficial-local.html",
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/06_alte_documente/2023/03_de_minimis/Adresa_Prefectura.pdf",
+     "sha256": "d38ab481156de566b8dd63ed7607ac8b9dc822dd528c8878cea3b8e64452e10a"
     }
    ]
   },
@@ -314,6 +344,36 @@
      "units": 1,
      "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/11/ro/200_2023.pdf",
      "sha256": "789500cc485d35fa95f066e5ec2911957a815b348182f5e622caf06999730d72"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-29-2023",
+   "path": "local/judet/covasna/2023/29",
+   "short": "HCJ Covasna nr. 29/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 29/2023 privind aprobarea încheierii unui protocol între Județul Covasna și Administrația Națională ,,Apele Române’’ prin Administrația Bazinală de Apă Olt în vederea utilizării unui teren",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-17-29-februarie-2023.html",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/02/ro/29_2023.pdf",
+     "sha256": "5b0f9565ad35e40adc8491d09f55f96ae7e18917dde9291f4c55da3bab756983"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-34-2023",
+   "path": "local/judet/covasna/2023/34",
+   "short": "HCJ Covasna nr. 34/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 34/2023 privind aprobarea încetării Contractului de comodat nr. 162/28.05.2021, încheiat între Intercomunitară Agrosic Közösségek Közti Társulás, prin acordul de voință al părților",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-30-50-martie-2023.html",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/03/ro/34_2023.pdf",
+     "sha256": "52d2503172899e095c7af0662973123bddcf2bd01811cda6e56a2f4ca006d613"
     }
    ]
   },

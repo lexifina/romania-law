@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/judet/arad/2020",
+"acts": [
+{
+"slug": "hcj-arad-38-2020",
+"path": "local/judet/arad/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Arad nr. 38/2020",
+"short": "HCJ Arad nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://www.cjarad.ro/hotarari/hotararea-nr-425-din-23-12-2020-pentru-modificarea-art-1-al-hotararii-consiliului-judetean-arad-nr-38-31-01-2020-privind-aprobarea-utilizarii-excedentului-bugetar-al-anilor-precedenti-pentru-f/",
+"council": "judet/arad",
+"council_name": "Consiliul Județean Arad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-arad-53-2020",
+"path": "local/judet/arad/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Arad nr. 53/2020",
+"short": "HCJ Arad nr. 53/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://www.cjarad.ro/hotarari/hotararea-nr-296-din-30-09-2020-privind-majorarea-patrimoniului-public-al-judetului-arad-cu-terenul-intravilan-in-suprafata-de-4-910-mp-inscris-in-c-f-nr-313378-tarnova/",
+"council": "judet/arad",
+"council_name": "Consiliul Județean Arad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-arad-77-2020",
+"path": "local/judet/arad/2020/77",
+"kind": "local",
+"year": "2020",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Arad nr. 77/2020",
+"short": "HCJ Arad nr. 77/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://www.cjarad.ro/hotarari/hotararea-nr-297-din-30-09-2020-privind-majorarea-patrimoniului-public-al-judetului-arad-cu-terenurile-intravilane-in-suprafata-de-5-028-mp-respectiv-5-303-mp-inscrise-in-c-f-nr-305116-sebis/",
+"council": "judet/arad",
+"council_name": "Consiliul Județean Arad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-arad-308-2020",
+"path": "local/judet/arad/2020/308",
+"kind": "local",
+"year": "2020",
+"number": "308",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Arad nr. 308/2020",
+"short": "HCJ Arad nr. 308/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-30",
+"latest": "2020-09-30",
+"portal": "https://www.cjarad.ro/hotarari/hotararea-nr-256-din-27-08-2021-privind-aprobarea-indicatorilor-tehnico-economici-ai-obiectivului-de-investitie-statie-de-epurare-c-r-r-n-petris/",
+"council": "judet/arad",
+"council_name": "Consiliul Județean Arad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-arad-501-2020",
+"path": "local/judet/arad/2020/501",
+"kind": "local",
+"year": "2020",
+"number": "501",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Arad nr. 501/2020",
+"short": "HCJ Arad nr. 501/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://www.cjarad.ro/hotarari/hotararea-nr-418-din-18-12-2020-privind-aprobarea-trecerii-din-proprietatea-privata-a-judetului-arad-in-proprietatea-privata-a-municipiului-arad-a-unor-terenuri/",
+"council": "judet/arad",
+"council_name": "Consiliul Județean Arad",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

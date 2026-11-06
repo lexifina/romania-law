@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/judet/brasov/2010",
+"acts": [
+{
+"slug": "hcj-brasov-90-2010",
+"path": "local/judet/brasov/2010/90",
+"kind": "local",
+"year": "2010",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 90/2010 privind aprobarea bugetului județului Brașov pe anul 2010",
+"short": "HCJ Brașov nr. 90/2010",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2010-03-13",
+"latest": "2010-03-13",
+"portal": "https://site.judbrasov.ro/upload/files/HCJ_90_13_03_2010.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-449-2010",
+"path": "local/judet/brasov/2010/449",
+"kind": "local",
+"year": "2010",
+"number": "449",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 449/2010 privind aprobarea plății sumei de 37.800 lei, reprezentând contravaloarea abonamentelor de parcare de tip universal pentru autoturismele proprietate a consilierilor județeni",
+"short": "HCJ Brașov nr. 449/2010",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2010-12-21",
+"latest": "2010-12-21",
+"portal": "https://site.judbrasov.ro/upload/hotarari/1589.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

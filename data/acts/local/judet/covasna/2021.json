@@ -3,6 +3,28 @@
 "shard": "local/judet/covasna/2021",
 "acts": [
 {
+"slug": "hcj-covasna-27-2021",
+"path": "local/judet/covasna/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 27/2021 cu privire la aprobarea execuției bugetelor pe trimestrul IV 2020",
+"short": "HCJ Covasna nr. 27/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://www.cjcv.ro/ro/hotarari-nr-1-27-ianuarie-2021.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-covasna-33-2021",
 "path": "local/judet/covasna/2021/33",
 "kind": "local",
@@ -113,6 +135,28 @@
 }
 },
 {
+"slug": "hcj-covasna-98-2021",
+"path": "local/judet/covasna/2021/98",
+"kind": "local",
+"year": "2021",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 98/2021 privind finanțarea nerambursabilă din fonduri publice a sprijinului financiar acordat unităților de cult din bugetul județului Covasna pe anul 2021, conform Legii nr",
+"short": "HCJ Covasna nr. 98/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-17",
+"latest": "2021-06-17",
+"portal": "https://www.cjcv.ro/ro/hotarari-nr-94-112-iunie-2021.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-covasna-99-2021",
 "path": "local/judet/covasna/2021/99",
 "kind": "local",
@@ -201,6 +245,28 @@
 }
 },
 {
+"slug": "hcj-covasna-135-2021",
+"path": "local/judet/covasna/2021/135",
+"kind": "local",
+"year": "2021",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 135/2021",
+"short": "HCJ Covasna nr. 135/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-18",
+"latest": "2021-08-18",
+"portal": "https://www.cjcv.ro/ro/hotarari-nr-128-142-august-2021.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-covasna-137-2021",
 "path": "local/judet/covasna/2021/137",
 "kind": "local",
@@ -267,6 +333,29 @@
 }
 },
 {
+"slug": "hcj-covasna-154-2021",
+"path": "local/judet/covasna/2021/154",
+"kind": "local",
+"year": "2021",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 154/2021",
+"short": "HCJ Covasna nr. 154/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-04",
+"latest": "2021-10-04",
+"portal": "https://www.cjcv.ro/ro/hotarari-nr-154-179-octombrie-2021.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-covasna-155-2021",
 "path": "local/judet/covasna/2021/155",
 "kind": "local",
@@ -276,6 +365,28 @@
 "reason": null,
 "title": "Hotărârea Consiliului Județean Covasna nr. 155/2021",
 "short": "HCJ Covasna nr. 155/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-04",
+"latest": "2021-10-04",
+"portal": "https://www.cjcv.ro/ro/hotarari-nr-154-179-octombrie-2021.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-covasna-160-2021",
+"path": "local/judet/covasna/2021/160",
+"kind": "local",
+"year": "2021",
+"number": "160",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 160/2021",
+"short": "HCJ Covasna nr. 160/2021",
 "code": null,
 "status": "metadata only (individual decision)",
 "versions": 1,

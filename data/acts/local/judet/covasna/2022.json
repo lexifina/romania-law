@@ -69,6 +69,29 @@
 }
 },
 {
+"slug": "hcj-covasna-25-2022",
+"path": "local/judet/covasna/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 25/2022",
+"short": "HCJ Covasna nr. 25/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": "https://www.cjcv.ro/ro/hotarari-nr-21-42-februarie-2022.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-covasna-58-2022",
 "path": "local/judet/covasna/2022/58",
 "kind": "local",
@@ -435,6 +458,28 @@
 "versions": 1,
 "from": "2022-12-15",
 "latest": "2022-12-15",
+"portal": "https://www.cjcv.ro/ro/hotarari-nr-196-216-decembrie-2022.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-covasna-215-2022",
+"path": "local/judet/covasna/2022/215",
+"kind": "local",
+"year": "2022",
+"number": "215",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 215/2022",
+"short": "HCJ Covasna nr. 215/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
 "portal": "https://www.cjcv.ro/ro/hotarari-nr-196-216-decembrie-2022.html",
 "council": "judet/covasna",
 "council_name": "Consiliul Județean Covasna",

@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcj-buzau-101-2024",
+   "path": "local/judet/buzau/2024/101",
+   "short": "HCJ Buzău nr. 101/2024",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 101/2024 privind aprobarea coorganizării de către",
+   "url": "https://cjbuzau.ro/hotarari-cj-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2024/04/Hotararea-nr.101-din-2024.pdf",
+     "sha256": "2ffb58e11c2fb2f12a03e26f4b0005717f8d8b128c50d9923dfc889183fd78bc"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-103-2024",
    "path": "local/judet/buzau/2024/103",
    "short": "HCJ Buzău nr. 103/2024",
@@ -464,6 +479,21 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2024/05/Hotararea-nr.131-din-2024.pdf",
      "sha256": "97f0ad7ea7557f6de6a07315ed9ee81ba056869257a018dca96837d9b4119b71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-132-2024",
+   "path": "local/judet/buzau/2024/132",
+   "short": "HCJ Buzău nr. 132/2024",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 132/2024 pentru revocarea/validarea unui membru de drept al Autorității Teritoriale de Ordine Publică a Județului Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2024/",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2024/05/Hotararea-nr.132-din-2024.pdf",
+     "sha256": "ff95fb2149f23e5aa1421a26af3a1ca5fe72ca8b8dc0ad160e965f51fd8d3deb"
     }
    ]
   },
@@ -933,6 +963,21 @@
    ]
   },
   {
+   "slug": "hcj-buzau-166-2024",
+   "path": "local/judet/buzau/2024/166",
+   "short": "HCJ Buzău nr. 166/2024",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 166/2024 pentru rectificarea a IV-a a bugetului de venituri și cheltuieli pe anul 2024 al Spitalului Județean de Urgență Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2024/",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2024/07/Hotararea-nr.166-din-2024.pdf",
+     "sha256": "e6e85295fb7791deefcacb0cbdc30290745ea5312127025667228526d526133b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-167-2024",
    "path": "local/judet/buzau/2024/167",
    "short": "HCJ Buzău nr. 167/2024",
@@ -1364,6 +1409,21 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2024/01/Hotararea-nr.2-din-2024.pdf",
      "sha256": "9821f787c881474913eed5bc7afea8de312c0512703662e4e51b43896ebfbe67"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-20-2024",
+   "path": "local/judet/buzau/2024/20",
+   "short": "HCJ Buzău nr. 20/2024",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 20/2024 privind aprobarea utilizării în anul 2024 a excedentului anual al bugetului propriu al județului Buzău rezultat la încheierea exercițiului bugetar la 31 decembrie 2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2024/",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2024/02/Hotararea-nr.20-din-2024.pdf",
+     "sha256": "1a17249ea32d190b2c25ca1f31e07bd019fdc686a46f98a59936f4c308914fda"
     }
    ]
   },
@@ -2883,6 +2943,21 @@
    ]
   },
   {
+   "slug": "hcj-buzau-31-2024",
+   "path": "local/judet/buzau/2024/31",
+   "short": "HCJ Buzău nr. 31/2024",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 31/2024 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2024 al Muzeului Județean Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2024/",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2024/02/Hotararea-nr.31-din-2024.pdf",
+     "sha256": "9d43d7d87de96625f63ce7c69c4e1623d0b363d2e1348104289fd8dc6733aa2c"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-32-2024",
    "path": "local/judet/buzau/2024/32",
    "short": "HCJ Buzău nr. 32/2024",
@@ -2954,6 +3029,21 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2024/02/Hotararea-nr.39-din-2024.pdf",
      "sha256": "a769d95f4e421a07d94fc549ac688e1d89b2e554692655662298dfd72714f04d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-4-2024",
+   "path": "local/judet/buzau/2024/4",
+   "short": "HCJ Buzău nr. 4/2024",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 4/2024 pentru anul şcolar 2024 – 2025",
+   "url": "https://cjbuzau.ro/hotarari-cj-2024/",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2024/01/Hotararea-nr.4-din-2024.pdf",
+     "sha256": "665f0af8e4ad91a5cf566accfab40f609e36b7a580f633d836f330e605ba6fc4"
     }
    ]
   },

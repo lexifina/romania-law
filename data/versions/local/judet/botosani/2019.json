@@ -1053,6 +1053,21 @@
    ]
   },
   {
+   "slug": "hcj-botosani-35-2019",
+   "path": "local/judet/botosani/2019/35",
+   "short": "HCJ Botoșani nr. 35/2019",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 35/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H039_23042019.pdf",
+     "sha256": "9bc4cf056299e6f01c431943927add3bcdd96f873beebfbacca6b6443b178116"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-39-2019",
    "path": "local/judet/botosani/2019/39",
    "short": "HCJ Botoșani nr. 39/2019",

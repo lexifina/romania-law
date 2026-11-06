@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/judet/brasov/2013",
+ "acts": [
+  {
+   "slug": "hcj-brasov-165-2013",
+   "path": "local/judet/brasov/2013/165",
+   "short": "HCJ Brașov nr. 165/2013",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 165/2013 privind schimbarea destinației sumelor de echilibrare repartizate comunei Beclean de",
+   "url": "https://site.judbrasov.ro/upload/hotarari/2902.pdf",
+   "versions": [
+    {
+     "from": "2013-03-28",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/2902.pdf",
+     "sha256": "29e998e233cb8b95e2e2259d8d793d978a39221ec8fb55119dfc228ba929eff5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-237-2013",
+   "path": "local/judet/brasov/2013/237",
+   "short": "HCJ Brașov nr. 237/2013",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 237/2013 privind modificarea bugetului de venituri și cheltuieli al Muzeului „Casa Mureșenilor” cu suma de 27,55 mii lei",
+   "url": "https://site.judbrasov.ro/upload/hotarari/2972.pdf",
+   "versions": [
+    {
+     "from": "2013-05-23",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/2972.pdf",
+     "sha256": "91e30eb7ab408fa70a2ef39e5a2e41ce4a7d56752c57058fd3922814ab027989"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-289-2013",
+   "path": "local/judet/brasov/2013/289",
+   "short": "HCJ Brașov nr. 289/2013",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 289/2013 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Județean Brașov din data de 20.06.2013",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3023.pdf",
+   "versions": [
+    {
+     "from": "2013-06-20",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3023.pdf",
+     "sha256": "7dd647603b1c1d031a4072a00b0fd4427544852a57c05df48e1390f30104ee72"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-388-2013",
+   "path": "local/judet/brasov/2013/388",
+   "short": "HCJ Brașov nr. 388/2013",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 388/2013 privind aprobarea modificării listei de investiții, din cadrul bugetului de venituri și cheltuieli, pe anul 2013, la Cap.66.02 — Sănătate, poziția C „Alte cheltuieli de investiții”",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3122.pdf",
+   "versions": [
+    {
+     "from": "2013-08-19",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3122.pdf",
+     "sha256": "9a678a7a897567b6ca3ddab108d3f467dd2102ddac378870c87dbab77ada2085"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-395-2013",
+   "path": "local/judet/brasov/2013/395",
+   "short": "HCJ Brașov nr. 395/2013",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 395/2013 privind aprobarea cooperării Județului Brașov cu Uniunea Junilor din Scheii Brașovului și Brașovul Vechi și finanțarea cu suma de 3.500 lei, pentru derularea acțiunii „Jocul Junilor Dorobanți de la crucea dreptății”",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3129.pdf",
+   "versions": [
+    {
+     "from": "2013-08-19",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3129.pdf",
+     "sha256": "0dc0dd5245150374230b8c0cba342da0f42894b01814fab88e78db2afa0ee38e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-540-2013",
+   "path": "local/judet/brasov/2013/540",
+   "short": "HCJ Brașov nr. 540/2013",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 540/2013 privind schimbarea destinației sumelor de echilibrare repartizate comunei Recea de",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3272.pdf",
+   "versions": [
+    {
+     "from": "2013-10-25",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3272.pdf",
+     "sha256": "c83bb61552d05170952d0c618407da440a772c282dc8a09697d80fa0b5a8c3cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-559-2013",
+   "path": "local/judet/brasov/2013/559",
+   "short": "HCJ Brașov nr. 559/2013",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 559/2013 privind modificarea bugetului local de venituri și cheltuieli al Județului Brașov cu suma de 94,55 mii lei",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3292.pdf",
+   "versions": [
+    {
+     "from": "2013-12-09",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3292.pdf",
+     "sha256": "57fa6498bff6f0f13e29065aab4d01a9a26e5f8ce16d6c409b55dfecaad09eb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-571-2013",
+   "path": "local/judet/brasov/2013/571",
+   "short": "HCJ Brașov nr. 571/2013",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 571/2013 privind aprobarea asocierii Județului Brașov cu Compania Națională de Căi Ferate CFR SA — CNCF CFR SA, Municipiul Brașov și Comuna Feldioara în vederea realizării obiectivului de investiții ,, Terminal intermodal de marfă Brașov - Feldioara”",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3304.pdf",
+   "versions": [
+    {
+     "from": "2013-12-09",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3304.pdf",
+     "sha256": "2881a5a21ffa53d11fd1ac12919d2d04de22ceae0a059271af7b3fc7cee6227e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-590-2013",
+   "path": "local/judet/brasov/2013/590",
+   "short": "HCJ Brașov nr. 590/2013",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 590/2013 privind aprobarea cooperării Județului Brașov cu Asociația Turistică Ghizii României și finanțarea cu suma de 15.000 lei, în vederea implementării proiectului „Un pas greșit, o șovăire și rămâi o amintire”",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3323.pdf",
+   "versions": [
+    {
+     "from": "2013-12-09",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3323.pdf",
+     "sha256": "110b752ffb483859de93627914a470fd71cf190d0afa6fdb25ec39b3ccd3f08f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-624-2013",
+   "path": "local/judet/brasov/2013/624",
+   "short": "HCJ Brașov nr. 624/2013",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 624/2013 privind majorarea bugetului local de venituri și cheltuieli al Județului Brașov și corespunzător, majorarea bugetului de venituri și cheltuieli al Direcției Generale de Asistență Socială și Protecția Copilului, cu suma de 27, 80 mii lei",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3357.pdf",
+   "versions": [
+    {
+     "from": "2013-12-09",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3357.pdf",
+     "sha256": "4be35dabb6583d09f10fbd61a79b5866fb97bb664639556486efb07863b4a376"
+    }
+   ]
+  }
+ ]
+}

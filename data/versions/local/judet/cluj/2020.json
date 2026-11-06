@@ -438,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcj-cluj-18-2020",
+   "path": "local/judet/cluj/2020/18",
+   "short": "HCJ Cluj nr. 18/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 18/2020 privind aprobarea Regulamentului de organizare și funcționare a Direcției Județene de Evidență a Persoanelor Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/111/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/18_6_APROBARE-ROF-DJEP-FINAL.pdf",
+     "sha256": "0fac86ce084a5d37dc4c5e76290f588dc66ec397740a89cf2a312f66efb5ae2e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-184-2020",
    "path": "local/judet/cluj/2020/184",
    "short": "HCJ Cluj nr. 184/2020",
@@ -479,6 +494,21 @@
      "units": 1,
      "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/195_8_aprobare-exec-bug-oct-2020.pdf",
      "sha256": "a48a929e12cab24ca66dc00104de2b9b0492ea95d0a9dc82b8e0706082455bc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-20-2020",
+   "path": "local/judet/cluj/2020/20",
+   "short": "HCJ Cluj nr. 20/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 20/2020 privind aprobarea Bugetului de venituri și cheltuieli pe anul 2020 al societății Univers T S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/111/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/20_8_aprobare-BVC-Univers-T-2020.pdf",
+     "sha256": "85d6e00addb037bfed6bdedf4a5be4cae12cfa77206a3091e57dc5c84a07024c"
     }
    ]
   },
@@ -543,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcj-cluj-21-2020",
+   "path": "local/judet/cluj/2020/21",
+   "short": "HCJ Cluj nr. 21/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 21/2020 privind aprobarea Bugetului de venituri și cheltuieli pe anul 2020 al societății Pază și Protecție Cluj S.R.L",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/111/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/21_9_aprob-buget-PAZA-2020.pdf",
+     "sha256": "836e42f3fe0e3add56baca6e9a8defa6b73831063a4553d77daa5184e0a7165d"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-214-2020",
    "path": "local/judet/cluj/2020/214",
    "short": "HCJ Cluj nr. 214/2020",
@@ -584,6 +629,21 @@
      "units": 1,
      "source_url": "https://cjcluj.ro/hotarare-cjc/2020/11",
      "sha256": "b29ab4e03254a2f984b56f8337a2ffa9dae42341015e5439de1b713965c16324"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-22-2020",
+   "path": "local/judet/cluj/2020/22",
+   "short": "HCJ Cluj nr. 22/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 22/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/111/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/page/111/",
+     "sha256": "da86d1e865b14733818304b02c5fd2f00290c8b7e9d96a4469c653b0cdc58399"
     }
    ]
   },
@@ -753,6 +813,81 @@
    ]
   },
   {
+   "slug": "hcj-cluj-25-2020",
+   "path": "local/judet/cluj/2020/25",
+   "short": "HCJ Cluj nr. 25/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 25/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/111/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/25_13_modif-HCJ-204-2017-indicatori-Samus-2020.pdf",
+     "sha256": "e1b09f1e8978cc1d4c0529ec1f485848fa570a98c178b724507f2d553bd85bb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-29-2020",
+   "path": "local/judet/cluj/2020/29",
+   "short": "HCJ Cluj nr. 29/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 29/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/110/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/29_17_modif-HCJ-34-2018-indicatori-KOZMUTZA-februarie-2020.pdf",
+     "sha256": "9797e898862e0aa948477bdde02bcd29308c3845adf326e36a49a870cac808cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-33-2020",
+   "path": "local/judet/cluj/2020/33",
+   "short": "HCJ Cluj nr. 33/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 33/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/110/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/33_21_modif-HCJ-213-2017-indicatori-CRDEII-FINAL.pdf",
+     "sha256": "bade1aa5c44275961cbb5046e408ea369f90080162fc6e1e67ee6e9f81bb82bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-34-2020",
+   "path": "local/judet/cluj/2020/34",
+   "short": "HCJ Cluj nr. 34/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 34/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/110/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/34_22_modif-HCJ-214-2017-cheltuieli-CRDEII-FINAL.pdf",
+     "sha256": "185fcc0a9cfe724a1d0829d20d6ca513000e12de7ce7f81c1b181c44df640260"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-37-2020",
+   "path": "local/judet/cluj/2020/37",
+   "short": "HCJ Cluj nr. 37/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 37/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/110/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/37_25_modif-181-2017-indicatori-Spital-copii.pdf",
+     "sha256": "fe0dec4ffbbde347c1ee5bb11bd3ff9ef5b90f6da22bf0aec945124c613b45a1"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-39-2020",
    "path": "local/judet/cluj/2020/39",
    "short": "HCJ Cluj nr. 39/2020",
@@ -914,6 +1049,36 @@
      "units": 1,
      "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/7_7_aprobare-cofinantare-PNDL-aparat-laser-robotizat-2020.pdf",
      "sha256": "810c2df1519987415a07fc49dd98df7fb3f9a95ccde3ce35f2857c5497af8d91"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-70-2020",
+   "path": "local/judet/cluj/2020/70",
+   "short": "HCJ Cluj nr. 70/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 70/2020 pentru completarea Hotărârii Consiliului Județean Cluj nr. 133/2012 privind actualizarea componenței nominale a Comisiei Tehnice de Amenajare a Teritoriului și Urbanism a Județului Cluj și a regulamentului de organizare și funcționare al acesteia, cu modificările și completările ulterioare",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/108/",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/70_5F_modif-HCJ-133-2012-comisie.pdf",
+     "sha256": "10eb267234c11e4c6271c8d1af3681f704ee801411bdecef08d21413e38903ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-80-2020",
+   "path": "local/judet/cluj/2020/80",
+   "short": "HCJ Cluj nr. 80/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 80/2020 privind modificarea Hotărârii Consiliului Județean Cluj nr. 252/2018 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiții din cadrul Proiectului ”Extindere, reabilitare, modernizare și dotare Ambulatoriu Spitalului Clinic de Boli Infecțioase”",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/107/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/80_5_modif-HCJ-252-2018-indicatori-Infectioase.pdf",
+     "sha256": "b38cf46ae5d068b9374f4fce1f7faea7561c3748f28063fc7a62e434c85fa197"
     }
    ]
   },

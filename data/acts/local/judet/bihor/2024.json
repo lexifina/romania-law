@@ -404,6 +404,28 @@
 }
 },
 {
+"slug": "hcj-bihor-28-2024",
+"path": "local/judet/bihor/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 28/2024 PRIVIND APROBAREA BUGETULUI JUDEȚULUI BIHOR ȘI A INSTITUȚIILOR SUBORDONATE PE ANUL 2024 – RECTIFICAT",
+"short": "HCJ Bihor nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2024/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-bihor-29-2024",
 "path": "local/judet/bihor/2024/29",
 "kind": "local",
@@ -6743,6 +6765,28 @@
 "flags": {
 "metadata_only": "individual",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-bihor-553-2024",
+"path": "local/judet/bihor/2024/553",
+"kind": "local",
+"year": "2024",
+"number": "553",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 553/2024",
+"short": "HCJ Bihor nr. 553/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-04",
+"latest": "2024-11-04",
+"portal": "https://www.cjbihor.ro/monitorul-oficial-local/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

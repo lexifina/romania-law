@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/brasov/2011",
+ "acts": [
+  {
+   "slug": "hcj-brasov-149-2011",
+   "path": "local/judet/brasov/2011/149",
+   "short": "HCJ Brașov nr. 149/2011",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 149/2011 privind aprobarea bugetului local al județului Brașov pe anul 2011",
+   "url": "https://site.judbrasov.ro/upload/files/a_Buget_02_CJBv_2011_HCJ_149.pdf",
+   "versions": [
+    {
+     "from": "2011-02-19",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/files/a_Buget_02_CJBv_2011_HCJ_149.pdf",
+     "sha256": "d902e8e9e6058fbb75882d649877ef32c97dd51f6b339e0da24d27431c0ad6eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-150-2011",
+   "path": "local/judet/brasov/2011/150",
+   "short": "HCJ Brașov nr. 150/2011",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 150/2011 privind aprobarea bugetului local al județului Brașov pe anul 2011, secțiunea de funcționare",
+   "url": "https://site.judbrasov.ro/upload/files/c_Buget_02_CJBv_2011_HCJ_150fct.pdf",
+   "versions": [
+    {
+     "from": "2011-02-19",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/files/c_Buget_02_CJBv_2011_HCJ_150fct.pdf",
+     "sha256": "bea6ee25eba91b98c1f760968a305942cf2cac050c534e5948531ac7329c1c36"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-151-2011",
+   "path": "local/judet/brasov/2011/151",
+   "short": "HCJ Brașov nr. 151/2011",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 151/2011 privind aprobarea bugetului local al județului Brașov pe anul 2011, secțiunea de dezvoltare",
+   "url": "https://site.judbrasov.ro/upload/files/e_Buget_02_CJBv_2011_HCJ_151dzv.pdf",
+   "versions": [
+    {
+     "from": "2011-02-19",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/files/e_Buget_02_CJBv_2011_HCJ_151dzv.pdf",
+     "sha256": "9d8d46640ba188fa3188fcbf6093289c0ebb2364e345482474a9c88963ce1d2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-154-2011",
+   "path": "local/judet/brasov/2011/154",
+   "short": "HCJ Brașov nr. 154/2011",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 154/2011 privind aprobarea bugetului creditelor externe și interne pe anul 2011",
+   "url": "https://site.judbrasov.ro/upload/files/g_Buget_06_07_CJBv_2011_HCJ_154.pdf",
+   "versions": [
+    {
+     "from": "2011-02-19",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/files/g_Buget_06_07_CJBv_2011_HCJ_154.pdf",
+     "sha256": "96974273503cae02946cfb2e9239f6c57bc959263dc6ee3e605d6113832ec009"
+    }
+   ]
+  }
+ ]
+}

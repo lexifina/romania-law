@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/cluj/2010",
+ "acts": [
+  {
+   "slug": "hcj-cluj-189-2010",
+   "path": "local/judet/cluj/2010/189",
+   "short": "HCJ Cluj nr. 189/2010",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 189/2010 pentru stabilirea unor măsuri privind delegarea gestiunii activităților de colectare, transport și transfer deșeuri în cadrul Proiectului ”Sistem de Management Integrat al Deșeurilor în Județul Cluj”",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-49-17-aprilie-2019-pentru-stabilirea-unor-masuri-privind-delegarea-gestiunii-activitatilor-de-colectare-transport-si-transfer-deseuri-in-cadrul-proiectului-sistem-de-management-inte/",
+   "versions": [
+    {
+     "from": "2010-07-14",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/49_1_masuri-colectare-deseuri.doc",
+     "sha256": "50d9c4de9e37cc4ca8314298e1dab93fd990c7382650d0d3dec29f924b90e8d8"
+    }
+   ]
+  }
+ ]
+}

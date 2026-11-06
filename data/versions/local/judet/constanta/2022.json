@@ -18,6 +18,141 @@
    ]
   },
   {
+   "slug": "hcj-constanta-1089-2022",
+   "path": "local/judet/constanta/2022/1089",
+   "short": "HCJ Constanța nr. 1089/2022",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1089/2022",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2025_Sentinta_1089.pdf",
+     "sha256": "5d23347866cec9309adb975fd4616c0bb6eeec716da8d22e6b2e125de3b2c614"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-1123-2022",
+   "path": "local/judet/constanta/2022/1123",
+   "short": "HCJ Constanța nr. 1123/2022",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1123/2022",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2025_Sentinta_1123.pdf",
+     "sha256": "2dcd12c6359437f9d7c181053ffc6846099395163f499cf72dfb2de8fdfff53d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-1290-2022",
+   "path": "local/judet/constanta/2022/1290",
+   "short": "HCJ Constanța nr. 1290/2022",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1290/2022",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2022_Decizia_1290.pdf",
+     "sha256": "d5f60107bb4d3ffffc9e0b729f0a4d007ce149e04a50668c75c392acdef30c66"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-13-2022",
+   "path": "local/judet/constanta/2022/13",
+   "short": "HCJ Constanța nr. 13/2022",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 13/2022",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2022-01-11",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2022_Sentinta_13.pdf",
+     "sha256": "5bbf47a909d493cdea449c9107f4c4972f28d8fb8a8a131dc60f936376dbf597"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-132-2022",
+   "path": "local/judet/constanta/2022/132",
+   "short": "HCJ Constanța nr. 132/2022",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 132/2022",
+   "url": "https://www.cjc.ro/sectiune.php?s=71",
+   "versions": [
+    {
+     "from": "2022-01-18",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/9-Curte_Conturi/2022_Raport_Curte_conturi_132_18.01.2022_TSC.pdf",
+     "sha256": "c3435cfd259abac535ec3f94bd1045426a6fd06c6d5ae7be4fa1593a06fbe5c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-1455-2022",
+   "path": "local/judet/constanta/2022/1455",
+   "short": "HCJ Constanța nr. 1455/2022",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1455/2022",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2022_Sentinta_1455.pdf",
+     "sha256": "860beab9650e4e7f44d1b1d178f15e5c4c3ab0aeb37284b727988683282fbeb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-1467-2022",
+   "path": "local/judet/constanta/2022/1467",
+   "short": "HCJ Constanța nr. 1467/2022",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1467/2022",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2025_Sentinta_1467.pdf",
+     "sha256": "33b25f98a4be37ab3bf61ddbde68354aec7c3935d8660a698099190c2e7fb17b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-1576-2022",
+   "path": "local/judet/constanta/2022/1576",
+   "short": "HCJ Constanța nr. 1576/2022",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1576/2022",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2025_Sentinta_1576.pdf",
+     "sha256": "77257df9313ecf9c05c1a99c7d15f5c03f52f85cc648a2718427abdade44eb02"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-1582-2022",
+   "path": "local/judet/constanta/2022/1582",
+   "short": "HCJ Constanța nr. 1582/2022",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1582/2022",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2025_Sentinta_1582.pdf",
+     "sha256": "b1bda5837123fa71d04290dbc00378b8c6b64646c6cd333d2cf504480ba18edf"
+    }
+   ]
+  },
+  {
    "slug": "hcj-constanta-174-2022",
    "path": "local/judet/constanta/2022/174",
    "short": "HCJ Constanța nr. 174/2022",
@@ -29,6 +164,51 @@
      "units": 1,
      "source_url": "https://www.cjc.ro/dyn_doc/anunturi/achizitii/licitatii/2024/34_Servicii_SPF_infrastructura_spitaliceasca/07_HCJ_174_27.07.2022.pdf",
      "sha256": "1491cd3fce214d0acbb33343024b507bd15a8f94b883f85b90ce8eb0ece3d3ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-594-2022",
+   "path": "local/judet/constanta/2022/594",
+   "short": "HCJ Constanța nr. 594/2022",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 594/2022",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2022_Sentinta_594.pdf",
+     "sha256": "b7ecab93162bc83e3e3a2a9afbd7f7efe0319f1645fadd52ab221b8b1186047a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-784-2022",
+   "path": "local/judet/constanta/2022/784",
+   "short": "HCJ Constanța nr. 784/2022",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 784/2022",
+   "url": "https://www.cjc.ro/sectiune.php?s=273",
+   "versions": [
+    {
+     "from": "2022-06-16",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/anunturi/achizitii/licitatii/2024/34_Servicii_SPF_infrastructura_spitaliceasca/08_HG_784_16.06.2022.pdf",
+     "sha256": "c568e80da40b64e13a182bc9c57c149226cfdd7b10e873695f4a3d311003d909"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-960-2022",
+   "path": "local/judet/constanta/2022/960",
+   "short": "HCJ Constanța nr. 960/2022",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 960/2022",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2022_Decizia_960.pdf",
+     "sha256": "f7585571460b7c57ade679636113f4f194593bb8e6d46c39afc5cae872a711cc"
     }
    ]
   }

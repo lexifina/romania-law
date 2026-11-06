@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/arad/2019",
+ "acts": [
+  {
+   "slug": "hcj-arad-5-2019",
+   "path": "local/judet/arad/2019/5",
+   "short": "HCJ Arad nr. 5/2019",
+   "title": "Hotărârea Consiliului Județean Arad nr. 5/2019",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-5-din-30-01-2019-privind-aprobarea-organigramei-si-a-statului-de-functii-pentru-aparatul-de-specialitate-al-consiliului-judetean-arad/",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/files/hotarari.nsf-xsp-.ibmmodres-domino-OpenAttachment-hotarari.nsf-97123B5E188EA2DBC2258456003CBB3F-anexa-anexa%201.pdf",
+     "sha256": "2b005b860e9b5aef7e3afd381c7a45c3d11e57e3c4b33ad550717b3b27ede61b"
+    }
+   ]
+  }
+ ]
+}

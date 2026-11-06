@@ -4323,6 +4323,28 @@
 }
 },
 {
+"slug": "hcj-braila-199-2020",
+"path": "local/judet/braila/2020/199",
+"kind": "local",
+"year": "2020",
+"number": "199",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brăila nr. 199/2020 pentru Situații de Urgenta “Dunarea”, a Navei de pasageri “Ovidiu 1”, aflata in domeniul privat al județului Braila și administrarea Consiliului Județean Braila, pentru desfasurarea acțiunilor specifice adiacente exercițiului multinational BLONDE AVALANCHE 20",
+"short": "HCJ Brăila nr. 199/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-24",
+"latest": "2020-08-24",
+"portal": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2020-II-000199FE?OpenDocument",
+"council": "judet/braila",
+"council_name": "Consiliul Județean Brăila",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-braila-200-2020",
 "path": "local/judet/braila/2020/200",
 "kind": "local",

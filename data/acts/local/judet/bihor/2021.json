@@ -313,6 +313,28 @@
 }
 },
 {
+"slug": "hcj-bihor-62-2021",
+"path": "local/judet/bihor/2021/62",
+"kind": "local",
+"year": "2021",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 62/2021 PRIVIND CONSTATAREA ÎNCETĂRII ȘI VACANTAREA UNUI MANDAT DE CONSILIER JUDEȚEAN",
+"short": "HCJ Bihor nr. 62/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-30",
+"latest": "2021-03-30",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2021/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-bihor-70-2021",
 "path": "local/judet/bihor/2021/70",
 "kind": "local",

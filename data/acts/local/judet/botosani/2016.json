@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcj-botosani-6-2016",
+"path": "local/judet/botosani/2016/6",
+"kind": "local",
+"year": "2016",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 6/2016 privind modificarea componenței Autorității Teritoriale de Ordine Publică Botoșani",
+"short": "HCJ Botoșani nr. 6/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-04-21",
+"latest": "2016-04-21",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-botosani-8-2016",
 "path": "local/judet/botosani/2016/8",
 "kind": "local",
@@ -257,6 +279,28 @@
 "reason": null,
 "title": "Hotărârea Consiliului Județean Botoșani nr. 23/2016 privind modificarea componenţei Comisiei pentru Protecţia Copilului Botoşani",
 "short": "HCJ Botoșani nr. 23/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-02-25",
+"latest": "2016-02-25",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-botosani-24-2016",
+"path": "local/judet/botosani/2016/24",
+"kind": "local",
+"year": "2016",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 24/2016 pentru modificarea Hotărârii nr. 78 din 27.07.2012 privind desemnarea unor reprezentanți ai Consiliului Județean Botoșani în Consiliile consultative ale Unităților de Asistență Medico-Socială Mihăileni, Sulița și Suharău",
+"short": "HCJ Botoșani nr. 24/2016",
 "code": null,
 "status": "metadata only (individual decision)",
 "versions": 1,

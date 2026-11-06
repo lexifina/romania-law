@@ -1606,6 +1606,66 @@
      "sha256": "453d55c1040ad497f70381c3f611ef30dd40ec1e82db49ea22f080d278b12dc2"
     }
    ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-96-2017",
+   "path": "local/hunedoara/vulcan/2017/96",
+   "short": "HCL Vulcan nr. 96/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 96/2017 privind modificarea Hotărârii Consiliului Local numărul 76/2017 pentru aprobarea cofinanțarii de la bugetul local în sumă de 258,881,99 lei (inclusiv TVA) pentru obiectivul de investiții: ”Modernizare străzi și alei pietonale în zona Liceu - Centru Vechi, municipiul Vulcan, județul Hunedoara” CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive a Primarului Municipiului Vulcan înr",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/49780C24ADF9C829C22581D7004A0633/$FILE/HCL%2096.doc",
+     "sha256": "09d3e03dcad8fd25f0d2c44403d73794770f0ceeef067b2d2f1d606767a0d609"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-97-2017",
+   "path": "local/hunedoara/vulcan/2017/97",
+   "short": "HCL Vulcan nr. 97/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 97/2017",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/7498ED7C5CB23F34C22581D7004A063C/$FILE/HCL%2097.doc",
+     "sha256": "59891dc21b5a331241238d254f8fddc11200d514db0ecf722a4b76fc11f7b1bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-98-2017",
+   "path": "local/hunedoara/vulcan/2017/98",
+   "short": "HCL Vulcan nr. 98/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 98/2017 privind rectificarea bugetului local pe anul 2017 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând raportul primarului municipiului Vulcan înregistrat sub nr. 108/9612/20.10.2017 prin care se propune rectificarea bugetului local pe anul 2017 aprobat prin Hotărârea Consiliului Local nr. 22 / 2017 și prin HCL nr. 32/2017, HCL nr.40/2017, Dispoziția nr. 746/2017, Dispoziția nr. 788/2017, Hotărârea C",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-10-26",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/B1E4B3D9662FFA69C22581D7004A064A/$FILE/HCL%2098.doc",
+     "sha256": "7922ee98f4ec7c232c0132747568781b70648d14faeb9ce68ab24e3e33f8be25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-99-2017",
+   "path": "local/hunedoara/vulcan/2017/99",
+   "short": "HCL Vulcan nr. 99/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 99/2017 privind aprobarea execuției bugetare aferentă trim. III al exercițiului bugetar 2017 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând raportul primarului municipiului Vulcan înregistrat sub nr. 109/9612/2017 prin care se propune aprobarea execuției bugetare aferente trim III al exercițiului bugetar pe anul 2017; Văzând Proiectul de hotărâre nr. 109/9613/2017, raportul Direcției economice din cadr",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-10-26",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/6EB4C0169D2E240DC22581D7004A065A/$FILE/HCL%2099.doc",
+     "sha256": "feb37bfeeed5d4043f539dbf4ffc183b4f5d32fb872ccba32aafcdbb4a5380e4"
+    }
+   ]
   }
  ]
 }

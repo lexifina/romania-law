@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/arad/2013",
+ "acts": [
+  {
+   "slug": "hcj-arad-268-2013",
+   "path": "local/judet/arad/2013/268",
+   "short": "HCJ Arad nr. 268/2013",
+   "title": "Hotărârea Consiliului Județean Arad nr. 268/2013",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-268-din-31-10-2013-privind-aprobarea-documentatiei-l-5515-2013-reglementare-retele-electrice-cu-dtac-modernizare-dj-709e-km-38869200-rampa-pod-raul-mures-san/",
+   "versions": [
+    {
+     "from": "2013-10-31",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/files/hotarari.nsf-xsp-.ibmmodres-domino-OpenAttachment-hotarari.nsf-A7B542E6936B442AC2258456003CB4BC-anexa-268_3110_anexa.pdf",
+     "sha256": "2f86971293db039ba044ba061ea487b1515804cb20a54a098a8ba2e837ea05f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-29-2013",
+   "path": "local/judet/arad/2013/29",
+   "short": "HCJ Arad nr. 29/2013",
+   "title": "Hotărârea Consiliului Județean Arad nr. 29/2013",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-29-din-25-02-2013-privind-aprobarea-organigramei-si-a-statului-de-functii-pentru-spitalul-de-psihiatrie-mocrea-pe-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-02-25",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/files/hotarari.nsf-xsp-.ibmmodres-domino-OpenAttachment-hotarari.nsf-E37DFBA774EBB8C8C2258456003CB3CC-anexa-029_2502_anexa%201.xls",
+     "sha256": "9fce65b445e1a753c52cadef0ae822e1c9f3e2018264dc52f6d7cd5f074def6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-38-2013",
+   "path": "local/judet/arad/2013/38",
+   "short": "HCJ Arad nr. 38/2013",
+   "title": "Hotărârea Consiliului Județean Arad nr. 38/2013",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-38-din-21-03-2013-privind-modificarea-anexei-la-hotararea-consiliului-judetean-nr-277din-22-10-2010-privind-contractarea-de-catre-consiliul-judetean-arad-a-unei-finantari-rambursab/",
+   "versions": [
+    {
+     "from": "2013-03-21",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/files/hotarari.nsf-xsp-.ibmmodres-domino-OpenAttachment-hotarari.nsf-038F933B66321683C2258456003CB3D9-anexa-anexa.xls",
+     "sha256": "022ea3685583e6b16971a6810eb04a24b2c805f87105637e7fe261750ca1b8c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-5-2013",
+   "path": "local/judet/arad/2013/5",
+   "short": "HCJ Arad nr. 5/2013",
+   "title": "Hotărârea Consiliului Județean Arad nr. 5/2013",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-5-din-28-01-2013-privind-aprobarea-organigramei-si-a-statului-de-functii-pentru-directia-generala-de-asistenta-sociala-si-protectia-copilului-arad-pe-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-01-28",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/files/hotarari.nsf-xsp-.ibmmodres-domino-OpenAttachment-hotarari.nsf-5C7006849F5245B3C2258456003CB3BF-anexa-anexa%202.xls",
+     "sha256": "619e31177cad3e8c6131d7d58b487aae44951388a8ba642c4f72ead886a4dbab"
+    }
+   ]
+  }
+ ]
+}

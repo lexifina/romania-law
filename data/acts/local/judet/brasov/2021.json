@@ -1,0 +1,118 @@
+{
+"country": "RO",
+"shard": "local/judet/brasov/2021",
+"acts": [
+{
+"slug": "hcj-brasov-305-2021",
+"path": "local/judet/brasov/2021/305",
+"kind": "local",
+"year": "2021",
+"number": "305",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 305/2021 privind neexercitarea dreptului de preemțiune de către Județul Brașov pentru apartamentul nr.4 din imobilul monument istoric, situat în municipiul Brașov, str.George Barițiu, nr.4, județul Brașov, înscris în CF nr.143542 -C1-US Brașov, nr. cadastral 143542 -C1-US",
+"short": "HCJ Brașov nr. 305/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://site.judbrasov.ro/upload/hotarari/7146.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-306-2021",
+"path": "local/judet/brasov/2021/306",
+"kind": "local",
+"year": "2021",
+"number": "306",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 306/2021",
+"short": "HCJ Brașov nr. 306/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://site.judbrasov.ro/upload/hotarari/7147.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-brasov-307-2021",
+"path": "local/judet/brasov/2021/307",
+"kind": "local",
+"year": "2021",
+"number": "307",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 307/2021",
+"short": "HCJ Brașov nr. 307/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://site.judbrasov.ro/upload/hotarari/7148.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-brasov-310-2021",
+"path": "local/judet/brasov/2021/310",
+"kind": "local",
+"year": "2021",
+"number": "310",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 310/2021 privind declararea de uz și de interes public județean al imobilului (teren+clădire) în suprafață de 900 mp, situat în localitatea Tărlungeni, str",
+"short": "HCJ Brașov nr. 310/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://site.judbrasov.ro/upload/hotarari/7151.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-311-2021",
+"path": "local/judet/brasov/2021/311",
+"kind": "local",
+"year": "2021",
+"number": "311",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 311/2021 privind solicitarea trecerii din domeniul public al U.A.T",
+"short": "HCJ Brașov nr. 311/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://site.judbrasov.ro/upload/hotarari/7152.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

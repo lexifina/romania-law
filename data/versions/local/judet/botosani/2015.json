@@ -888,6 +888,21 @@
    ]
   },
   {
+   "slug": "hcj-botosani-2-2015",
+   "path": "local/judet/botosani/2015/2",
+   "short": "HCJ Botoșani nr. 2/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 2/2015 pentru aprobarea „Propunerilor de încadrare a drumurilor județene pe niveluri de viabilitate în perioada de iarnă 2015 — 2016” și a „Planului operativ de acțiune privind prevenirea și combaterea înzăpezirii drumurilor județene în perioada de iarnă 2015 — 2016”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-09-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h112_28.09.2015.pdf",
+     "sha256": "b9babb3939fba8be91e12076dfe783b30798b5980f4672c38d43a1168fed8145"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-20-2015",
    "path": "local/judet/botosani/2015/20",
    "short": "HCJ Botoșani nr. 20/2015",
@@ -944,6 +959,21 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h023_26.02.2015.pdf",
      "sha256": "992485d6cc5451ecb0c3a1d05524c766cd7840a8e8b8cb9764fdc367cc7664bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-25-2015",
+   "path": "local/judet/botosani/2015/25",
+   "short": "HCJ Botoșani nr. 25/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 25/2015 privind actualizarea monografiei economico-militară a județului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h075_25.06.2015.pdf",
+     "sha256": "dc4b237dd1283ddccfc0144d5c476ae568ec555cfac172f9037ece2a94491b88"
     }
    ]
   },

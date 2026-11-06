@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcj-constanta-161-2026",
+   "path": "local/judet/constanta/2026/161",
+   "short": "HCJ Constanța nr. 161/2026",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 161/2026 nr. 161 din 15.06.2026 privind aprobarea contractării unui împrumut în valoare de 150.000.000 lei, în conformitate cu prevederile articolului unic din Ordonanța de urgență a Guvernului nr. 36/2026",
+   "url": "https://www.cjc.ro/sectiune.php?s=286",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2026/161.pdf",
+     "sha256": "003132ea836cb9b0adf49b8650bfe12eee577fdc091ea0ab092cec365a61b61e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-constanta-167-2026",
    "path": "local/judet/constanta/2026/167",
    "short": "HCJ Constanța nr. 167/2026",
@@ -44,6 +59,66 @@
      "units": 1,
      "source_url": "https://www.cjc.ro/dyn_doc/anunturi/PMCA/07_HCJ_19_din_05.02.2026_cu_Raport.pdf",
      "sha256": "43a1a4eae3036637e69d7a0ba5df9b861f5d1d355ba1fed4181e94e202ec1f58"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-452-2026",
+   "path": "local/judet/constanta/2026/452",
+   "short": "HCJ Constanța nr. 452/2026",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 452/2026",
+   "url": "https://www.cjc.ro/sectiune.php?s=49",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/anunturi/exproprieri/E1-2026/Decizie_452.pdf",
+     "sha256": "bb5698d14ea78f4fd1d4149dfe339e5a94b725ea292375d17a857b60dd3afd12"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-453-2026",
+   "path": "local/judet/constanta/2026/453",
+   "short": "HCJ Constanța nr. 453/2026",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 453/2026",
+   "url": "https://www.cjc.ro/sectiune.php?s=49",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/anunturi/exproprieri/E2-2026/Decizie_453.pdf",
+     "sha256": "ad557ccbfe32087475b5de455923927b050f89c912071eef1d5740524240bdb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-454-2026",
+   "path": "local/judet/constanta/2026/454",
+   "short": "HCJ Constanța nr. 454/2026",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 454/2026",
+   "url": "https://www.cjc.ro/sectiune.php?s=49",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/anunturi/exproprieri/E2-2026/Decizie_454.pdf",
+     "sha256": "8eb188d73aa1344d63ce35987c47aa219680b79680bb4148b5b0306f038f35a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-459-2026",
+   "path": "local/judet/constanta/2026/459",
+   "short": "HCJ Constanța nr. 459/2026",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 459/2026",
+   "url": "https://www.cjc.ro/sectiune.php?s=49",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/anunturi/exproprieri/E2-2026/Decizie_459.pdf",
+     "sha256": "df332f36a4ff2267fd47c3b95dcc6b17f63b5fbe0210a980ee931e23a70fbb35"
     }
    ]
   },

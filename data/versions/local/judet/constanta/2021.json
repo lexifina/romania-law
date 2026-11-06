@@ -3,6 +3,21 @@
  "shard": "local/judet/constanta/2021",
  "acts": [
   {
+   "slug": "hcj-constanta-202-2021",
+   "path": "local/judet/constanta/2021/202",
+   "short": "HCJ Constanța nr. 202/2021",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 202/2021",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2021_Sentinta_202.pdf",
+     "sha256": "e8a53559865724ff77d0ed85edd0a942f4731718196d18d7372036457a44f518"
+    }
+   ]
+  },
+  {
    "slug": "hcj-constanta-30-2021",
    "path": "local/judet/constanta/2021/30",
    "short": "HCJ Constanța nr. 30/2021",
@@ -14,6 +29,51 @@
      "units": 1,
      "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2021/30.pdf",
      "sha256": "53447e88ac030c5a5300e610ab7d90649fdfb02f563869492ed9fafb2a875fa1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-553-2021",
+   "path": "local/judet/constanta/2021/553",
+   "short": "HCJ Constanța nr. 553/2021",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 553/2021",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2021-05-05",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2021_Decizia_553.pdf",
+     "sha256": "d902e1dc92012cae2529080787c7a1ffa0e61afb6eec28ebc6833a9488eaa705"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-603-2021",
+   "path": "local/judet/constanta/2021/603",
+   "short": "HCJ Constanța nr. 603/2021",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 603/2021",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2021-03-19",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2021_Decizia_603.pdf",
+     "sha256": "d7be25c7eb1bd40dd8201447fa84ff5d7647dc75f8c5f791976f482283cb862f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-965-2021",
+   "path": "local/judet/constanta/2021/965",
+   "short": "HCJ Constanța nr. 965/2021",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 965/2021 pentru lipsa dovezii calitatii de reprezentant in semnarea caii de atac",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2021_Sentinta_965.pdf",
+     "sha256": "34bd669cc09429ee9c9db4e836f8f9521eda5b736743f64a948cef8ddd2b6067"
     }
    ]
   }

@@ -487,6 +487,29 @@
 }
 },
 {
+"slug": "hcj-botosani-35-2019",
+"path": "local/judet/botosani/2019/35",
+"kind": "local",
+"year": "2019",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 35/2019",
+"short": "HCJ Botoșani nr. 35/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-23",
+"latest": "2019-04-23",
+"portal": null,
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-botosani-39-2019",
 "path": "local/judet/botosani/2019/39",
 "kind": "local",

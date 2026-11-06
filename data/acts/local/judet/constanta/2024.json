@@ -70,6 +70,28 @@
 }
 },
 {
+"slug": "hcj-constanta-1073-2024",
+"path": "local/judet/constanta/2024/1073",
+"kind": "local",
+"year": "2024",
+"number": "1073",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Constanța nr. 1073/2024",
+"short": "HCJ Constanța nr. 1073/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-02",
+"latest": "2024-08-02",
+"portal": "https://www.cjc.ro/sectiune.php?s=206",
+"council": "judet/constanta",
+"council_name": "Consiliul Județean Constanța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-constanta-1098-2024",
 "path": "local/judet/constanta/2024/1098",
 "kind": "local",

@@ -3284,6 +3284,28 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcj-botosani-595-2017",
+"path": "local/judet/botosani/2017/595",
+"kind": "local",
+"year": "2017",
+"number": "595",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 595/2017 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții \"REGIUNEA NORD - EST - AXA RUTIERĂ STRATEGICĂ 2: BOTOȘANI-IAȘI\"",
+"short": "HCJ Botoșani nr. 595/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-07-07",
+"latest": "2017-07-07",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

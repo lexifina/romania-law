@@ -1,0 +1,118 @@
+{
+"country": "RO",
+"shard": "local/judet/brasov/2020",
+"acts": [
+{
+"slug": "hcj-brasov-21-2020",
+"path": "local/judet/brasov/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 21/2020",
+"short": "HCJ Brașov nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-23",
+"latest": "2020-01-23",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6424.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-brasov-136-2020",
+"path": "local/judet/brasov/2020/136",
+"kind": "local",
+"year": "2020",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 136/2020 privind aprobarea măsurilor de urgență vizând activitatea Spitalului Clinic de Pneumoftiziologie Brasov, a Unității de Asistență Medico Socială de Pneumoftiziologie Sânpetru și a Direcției Generale de Asistență Socială și Protecția Copilului Brașov în vederea prevenirii răspândirii COVID-19",
+"short": "HCJ Brașov nr. 136/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-24",
+"latest": "2020-03-24",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6539.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-159-2020",
+"path": "local/judet/brasov/2020/159",
+"kind": "local",
+"year": "2020",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 159/2020 privind neexercitarea dreptului de preemțiune asupra apartamentului nr. 7 din imobilul —monument istoric, situat în municipiul Brașov, str",
+"short": "HCJ Brașov nr. 159/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-23",
+"latest": "2020-04-23",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6562.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-166-2020",
+"path": "local/judet/brasov/2020/166",
+"kind": "local",
+"year": "2020",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 166/2020",
+"short": "HCJ Brașov nr. 166/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-23",
+"latest": "2020-04-23",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6569.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-brasov-263-2020",
+"path": "local/judet/brasov/2020/263",
+"kind": "local",
+"year": "2020",
+"number": "263",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 263/2020 privind înființarea unei linii de gardă la domiciliu, în specialitatea anestezie terapie intensivă, pe perioada nominalizări prin ordin de ministru a Spitalului Clinic de Obstetrică-Ginecologie “Dr",
+"short": "HCJ Brașov nr. 263/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-31",
+"latest": "2020-07-31",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6665.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

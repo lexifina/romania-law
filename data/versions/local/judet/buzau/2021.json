@@ -3,6 +3,21 @@
  "shard": "local/judet/buzau/2021",
  "acts": [
   {
+   "slug": "hcj-buzau-1-2021",
+   "path": "local/judet/buzau/2021/1",
+   "short": "HCJ Buzău nr. 1/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 1/2021 pentru anul 2021 şi a documentaţiei de atribuire a contractelor de delegare a gestiunii pentru cinci trasee de transport judeţean de persoane prin curse regulate",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-01-18",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/01/Hot%C4%83r%C3%A2rea-nr.1-din-2021.pdf",
+     "sha256": "3088f66556e7de91539c0665b6804327767b8f4933dae01e3b8592cd7bdc9021"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-10-2021",
    "path": "local/judet/buzau/2021/10",
    "short": "HCJ Buzău nr. 10/2021",
@@ -108,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcj-buzau-108-2021",
+   "path": "local/judet/buzau/2021/108",
+   "short": "HCJ Buzău nr. 108/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 108/2021 privind aprobarea cooperării între Județul Buzău din România și Municipiul Chișinău din Republica Moldova, respectiv între Județul Buzău din România și Sectorul Botanica al Municipiului Chișinău din Republica Moldova",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-06-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/06/Hot%C4%83r%C3%A2rea-nr.108-din-2021-1.pdf",
+     "sha256": "f77b6507c82346463659dcd280bacf91cb1a6002da6220f2758bef7b69db823c"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-109-2021",
    "path": "local/judet/buzau/2021/109",
    "short": "HCJ Buzău nr. 109/2021",
@@ -149,6 +179,81 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/07/H110.pdf",
      "sha256": "0c9410ab74c4843d279a62016688783f2b05940271027962ceff5fd64ad5992f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-112-2021",
+   "path": "local/judet/buzau/2021/112",
+   "short": "HCJ Buzău nr. 112/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 112/2021 pentru aprobarea rectificării a II-a a bugetului propriu al județului Buzău pe anul 2021",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/06/Hot%C4%83r%C3%A2rea-nr.112-din-2021.pdf",
+     "sha256": "4afa2b29c0e1c4d7b07a48c20af719f4f8917b421040cdb179e70460997748c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-114-2021",
+   "path": "local/judet/buzau/2021/114",
+   "short": "HCJ Buzău nr. 114/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 114/2021 pentru aprobarea rectificării a II-a a bugetului de venituri și cheltuieli pe anul 2021 al Spitalului Județean de Urgență Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/06/Hot%C4%83r%C3%A2rea-nr.114-din-2021.pdf",
+     "sha256": "aae545b9ac9657cf284878aa455e5e093f33c991149fe71b76b4bc823e5bce77"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-115-2021",
+   "path": "local/judet/buzau/2021/115",
+   "short": "HCJ Buzău nr. 115/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 115/2021 pentru aprobarea rectificării I a bugetului de venituri și cheltuieli pe anul 2021 al Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/06/Hot%C4%83r%C3%A2rea-nr.115-din-2021.pdf",
+     "sha256": "3a749871fe0f2383df2fdb9e77f1c806c6ce1ecaf9bc1a41d9ea024a9941c6f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-117-2021",
+   "path": "local/judet/buzau/2021/117",
+   "short": "HCJ Buzău nr. 117/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 117/2021 privind condițiile de proiectare și amplasare a construcțiilor, instalațiilor și a mijloacelor de publicitate în zona drumurilor de interes județean * Art.2 și anexa nr.2 se abrogă prin Hotărârea nr.143 din 2025",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/07/Hot%C4%83r%C3%A2rea-nr.117-din-2021.pdf",
+     "sha256": "d10643010c494b9e10eb1dd3bf5b06d929745c4f6a9babee28ae18bece346829"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-118-2021",
+   "path": "local/judet/buzau/2021/118",
+   "short": "HCJ Buzău nr. 118/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 118/2021 privind aprobarea Planului Județean de Gestionare a Deșeurilor în Județul Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/07/Hot%C4%83r%C3%A2rea-nr.118-din-2021.pdf",
+     "sha256": "db223602d94a9516c27b7f59d3a3820e352c52971801d68fde54ebec6b65eda1"
     }
    ]
   },
@@ -198,6 +303,126 @@
    ]
   },
   {
+   "slug": "hcj-buzau-121-2021",
+   "path": "local/judet/buzau/2021/121",
+   "short": "HCJ Buzău nr. 121/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 121/2021 pentru implementarea proiectului „Ambulanța Socială Smeeni”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/06/Hot%C4%83r%C3%A2rea-nr.121-din-2021.pdf",
+     "sha256": "dd5690a0f3ad03338dd591d8e1df459fba4254c5789a5bfef71bf54cf13dbb45"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-122-2021",
+   "path": "local/judet/buzau/2021/122",
+   "short": "HCJ Buzău nr. 122/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 122/2021 privind utilizarea terenurilor din domeniul public al apelor administrat de Administrația Națională „Apele Române”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/06/Hot%C4%83r%C3%A2rea-nr.122-din-2021.pdf",
+     "sha256": "04e4d7e997d2b4b54567b4cb5b2a970c6a8b63bdaa7d7e20dd73a46a9434bc63"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-123-2021",
+   "path": "local/judet/buzau/2021/123",
+   "short": "HCJ Buzău nr. 123/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 123/2021 privind aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară „Sărata-Monteoru” Buzău la care județul Buzău este membru asociat",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/06/Hot%C4%83r%C3%A2rea-nr.123-din-2021.pdf",
+     "sha256": "3929ba989fe286c37981fd1d64ab761e02faf53f1cc378fbcffe0ad0db22e327"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-125-2021",
+   "path": "local/judet/buzau/2021/125",
+   "short": "HCJ Buzău nr. 125/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 125/2021 pentru aparatul de specialitate al Consiliului judeţean Buzău – formă actualizată *Modificată prin Hotărârea nr.223/2020 , Hotărârea nr.5/2021 * Modificată prin Hotărârea nr. 42/2021 * Modificată prin Hotărârea nr.100/2021 , Hotărârea nr.125/2021 * Anexa nr. 1 se modifică potrivit prevederilor art.1 din Hotărârea nr.182/2021 * Modificată prin Hotărârea nr.215/2021 * Abrog",
+   "url": "http://cjbuzau.ro/hotarari-cj-2020/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/06/Hot%C4%83r%C3%A2rea-nr.125-din-2021.pdf",
+     "sha256": "23fde66772d70a50e02f2aef74571c37a4432b71a6ab9f710bdeecdc53cde72e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-126-2021",
+   "path": "local/judet/buzau/2021/126",
+   "short": "HCJ Buzău nr. 126/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 126/2021 pentru aprobarea organigramei, statului de funcții și Regulamentului de organizare și funcționare ale Teatrului „George Ciprian” Buzău în formă actualizată",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/06/Hot%C4%83r%C3%A2rea-nr.126-din-2021.pdf",
+     "sha256": "87e6399c282cd7a7bd0f1ec03641a1cc43e429b4e9902bfdaefdc6e86f8b11c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-127-2021",
+   "path": "local/judet/buzau/2021/127",
+   "short": "HCJ Buzău nr. 127/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 127/2021 privind numărul de personal, organigrama şi statul de funcţii ale Spitalului Judeţean de Urgenţă Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/06/Hot%C4%83r%C3%A2rea-nr.127-din-2021.pdf",
+     "sha256": "cd5909adb7f0c28489f36a79ca5bfbfa675671c5ee5bae447177dec590c5a1ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-128-2021",
+   "path": "local/judet/buzau/2021/128",
+   "short": "HCJ Buzău nr. 128/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 128/2021 privind modificarea unor anexe la Monografia economico-militară a județului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/06/Hot%C4%83r%C3%A2rea-nr.128-din-2021.pdf",
+     "sha256": "af4841ee4b0a2665ded66fa3ba052fd5062decd3e14b111e83a239c5e8921bda"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-129-2021",
+   "path": "local/judet/buzau/2021/129",
+   "short": "HCJ Buzău nr. 129/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 129/2021 pentru rectificarea I a bugetului de venituri și cheltuieli pe anul 2021 al Societății „Domenii Prest Serv” SRL Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/06/Hot%C4%83r%C3%A2rea-nr.129-din-2021.pdf",
+     "sha256": "e6a12d22c1a1937a01d94979f57d754c269af0c0086b543c642d580aff4cd3c9"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-13-2021",
    "path": "local/judet/buzau/2021/13",
    "short": "HCJ Buzău nr. 13/2021",
@@ -213,6 +438,141 @@
    ]
   },
   {
+   "slug": "hcj-buzau-130-2021",
+   "path": "local/judet/buzau/2021/130",
+   "short": "HCJ Buzău nr. 130/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 130/2021 privind aprobarea primirii comunei Cătina, în calitate de membru asociat, în cadrul Asociației de Dezvoltare Intercomunitară „Buzău 2008”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/06/Hot%C4%83r%C3%A2rea-nr.130-din-2021.pdf",
+     "sha256": "27fb5e4bc33375158c22fad6cfe3029f76f0bcaac3e0dddcf6392833bd60738f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-131-2021",
+   "path": "local/judet/buzau/2021/131",
+   "short": "HCJ Buzău nr. 131/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 131/2021 pentru Dezvoltare Regională Sud-Est încheiat în vederea realizării documentației tehnico-economice aferente investiției „Stimularea mobilităţii la nivel regional prin modernizarea infrastructurii rutiere de transport pe tronsonul Vintilă Vodă – Plaiul Nucului, judeţul Buzău”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/06/Hot%C4%83r%C3%A2rea-nr.131-din-2021.pdf",
+     "sha256": "5c1b0112002f7e81aa28cb13f623b13f20b4cca86553ccee221b33470680dd34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-132-2021",
+   "path": "local/judet/buzau/2021/132",
+   "short": "HCJ Buzău nr. 132/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 132/2021 privind execuția bugetului propriu al județului Buzău pe trimestrul II 2021 pe cele două secțiuni",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/07/Hot%C4%83r%C3%A2rea-nr.132-din-2021.pdf",
+     "sha256": "350a964bddf529c6655bef755fffba2c62edc94847242dc18ff22820565acaa0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-133-2021",
+   "path": "local/judet/buzau/2021/133",
+   "short": "HCJ Buzău nr. 133/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 133/2021 privind aprobarea utilizării în anul 2021 a excedentului anual al bugetului propriu al județului Buzău rezultat la încheierea exercițiului bugetar la 31 decembrie 2020 – formă actualizată 4",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/07/Hot%C4%83r%C3%A2rea-nr.133-din-2021.pdf",
+     "sha256": "f9d5addc29ffd6945b3b16f398314cb4afbb8d2eff65addf00f32b09af8c3472"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-134-2021",
+   "path": "local/judet/buzau/2021/134",
+   "short": "HCJ Buzău nr. 134/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 134/2021 pentru aprobarea rectificării a III-a a bugetului propriu al județului Buzău pe anul 2021",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/07/Hot%C4%83r%C3%A2rea-nr.134-din-2021.pdf",
+     "sha256": "21ad5c09f5ab3de09ccc8da61368c56131fa10dd5eb5870af57a5572afc6a710"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-136-2021",
+   "path": "local/judet/buzau/2021/136",
+   "short": "HCJ Buzău nr. 136/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 136/2021 pentru organizarea și desfășurarea ediției a IX-a a proiectului „Măgura-Art”, iulie 2021",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/07/Hot%C4%83r%C3%A2rea-nr.136-din-2021.pdf",
+     "sha256": "5007ac1065593d709adc9a458c3e0a25f552f89046c99334ce1e6138ba3ad9db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-137-2021",
+   "path": "local/judet/buzau/2021/137",
+   "short": "HCJ Buzău nr. 137/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 137/2021 pentru sărbătorirea a 105 ani de la înființarea Diviziei 2 Infanterie „Getica”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/07/Hot%C4%83r%C3%A2rea-nr.137-din-2021.pdf",
+     "sha256": "4b0f498a27dd650a002e4866f513fbb4a3e9679171b1698109f9f9aa0fb40541"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-138-2021",
+   "path": "local/judet/buzau/2021/138",
+   "short": "HCJ Buzău nr. 138/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 138/2021 pentru aprobarea încetării, prin acordul părților, a Contractului de finanțare nr. SE 9371/2020 încheiat între Direcția Generală de Asistență Socială și Protecția Copilului Buzău și Ministerul Fondurilor Europene având ca obiect proiectul „Viață nouă în comunitate”, POCU 2014-2020",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/07/Hot%C4%83r%C3%A2rea-nr.138-din-2021.pdf",
+     "sha256": "ba6fdfc3b4a704da750057dc4a9ee0c4034700e911f4879d7479998a2be169d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-139-2021",
+   "path": "local/judet/buzau/2021/139",
+   "short": "HCJ Buzău nr. 139/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 139/2021 pentru aprobarea rectificării I a bugetului de venituri și cheltuieli pe anul 2021 al Teatrului „George Ciprian” Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-06-08",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/06/Hot%C4%83r%C3%A2rea-nr.113-din-2021.pdf",
+     "sha256": "d1293afad44d5953a50e03afc68fbd6042beb9681df481b1031fac4ccdfa1b16"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-14-2021",
    "path": "local/judet/buzau/2021/14",
    "short": "HCJ Buzău nr. 14/2021",
@@ -224,6 +584,66 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/01/H-14.pdf",
      "sha256": "24cb180efe9f6d44e3362bb78f08954b36e9b732caedde3953044e8221478183"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-140-2021",
+   "path": "local/judet/buzau/2021/140",
+   "short": "HCJ Buzău nr. 140/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 140/2021 pentru numirea Directorului adjunct la Centrul Județean de Cultură și Artă Buzău Consiliul județean Buzău, Având în vedere: - referatul Presedintelui Consiliului județean Buzău de inițiere a proiectului de hotărâre, înregistrat la nr. 10988/08.07.2021; - raportul Serviciului resurse umane și management unități sanitare, înregistrat la nr.10989/08.07.2021; - raportul comisiei de concurs de recrutar",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/07/Hot%C4%83r%C3%A2rea-nr.140-din-2021.pdf",
+     "sha256": "d9298dce0b90a48299b1c3b37a12414ccaee22755031b1dc54c7a7bf52e298f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-141-2021",
+   "path": "local/judet/buzau/2021/141",
+   "short": "HCJ Buzău nr. 141/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 141/2021 pentru Spitalul Judeţean de Urgenţă Buzău * Modificată prin Hotărârea nr.162/2019 , Hotărârea nr.187/2019 , Hotărârea nr.211/2019 Hotărârea nr.239/2019 * Modificată prin Hotărârea nr. 11/2020 , Hotărârea nr.46 din 2020 , Hotărârea nr. 62/2020 , Hotărârea nr. 73/2020 , Hotărârea nr. 94/2020 , Hotărârea nr.112/2020, Hotărârea nr.127/2020 Hotărârea nr.145/2020 , Hotărârea nr. 176/2020 , Hotărârea nr",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/07/Hot%C4%83r%C3%A2rea-nr.141-din-2021.pdf",
+     "sha256": "4dc662754cd1732a5fce965c80ed9413a33611c678f6c0e347bace4fa5e104ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-142-2021",
+   "path": "local/judet/buzau/2021/142",
+   "short": "HCJ Buzău nr. 142/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 142/2021 pentru aprobarea participării Județului Buzău în calitate de asociat – membru fondator la constituirea Asociației de Dezvoltare Intercomunitară „Investiții Teritoriale Integrate Ținutul Buzăului, Prahovei și Vrancei”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/07/Hot%C4%83r%C3%A2rea-nr.142-din-2021.pdf",
+     "sha256": "dd5651a94c1f209f829879d4309c6c39c606f2011ac2df902d4d4d36d5c88bc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-143-2021",
+   "path": "local/judet/buzau/2021/143",
+   "short": "HCJ Buzău nr. 143/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 143/2021 privind aprobarea Studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții „Construire bloc de locuințe de serviciu” – municipiul Buzău, B-dul Gării, nr. 8",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/07/Hot%C4%83r%C3%A2rea-nr.143-din-2021.pdf",
+     "sha256": "f6bd3312207dfd3549b93be70be9694f8ced2eb26e2224f31b0d83890734b35a"
     }
    ]
   },
@@ -273,6 +693,21 @@
    ]
   },
   {
+   "slug": "hcj-buzau-148-2021",
+   "path": "local/judet/buzau/2021/148",
+   "short": "HCJ Buzău nr. 148/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 148/2021 pentru aprobarea atribuirii licențelor de traseu operatorului de transport SC TRANS EXPRES SRL, pe traseele cod 030 Buzău Autogara Marghiloman – Robeasca, cod 031 Buzău Autogara Marghiloman – Săgeata, cod 032 Buzău Autogara Marghiloman - Găvănești",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-08-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/08/Hot%C4%83r%C3%A2rea-nr.148-din-2021.pdf",
+     "sha256": "677d0c226506e809b5728ee9309b18e2bc6e8695e054ff73be9fa5d2c36f47d9"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-15-2021",
    "path": "local/judet/buzau/2021/15",
    "short": "HCJ Buzău nr. 15/2021",
@@ -284,6 +719,126 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/01/H-15.pdf",
      "sha256": "e2638311eaf89ca8ae62455ceab3110a4c2f0b1b363b2f45bbf157b47beaf8b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-150-2021",
+   "path": "local/judet/buzau/2021/150",
+   "short": "HCJ Buzău nr. 150/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 150/2021 privind utilizarea terenurilor din domeniul public al apelor administrat de Administrația Națională „Apele Române”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-08-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/08/Hot%C4%83r%C3%A2rea-nr.150-din-2021.pdf",
+     "sha256": "171a6f1b632a2bc548d3e087e1645ccbdf0d85fd79151309da118417211c584a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-151-2021",
+   "path": "local/judet/buzau/2021/151",
+   "short": "HCJ Buzău nr. 151/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 151/2021 privind aprobarea utilizării în anul 2021 a excedentului anual al bugetului propriu al județului Buzău rezultat la încheierea exercițiului bugetar la 31 decembrie 2020 – formă actualizată 5",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/08/Hot%C4%83r%C3%A2rea-nr.151-din-2021.pdf",
+     "sha256": "4ec961a909dfbd04fc47a1eb665163d98715fe56495002c44ef793cc913bd9da"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-152-2021",
+   "path": "local/judet/buzau/2021/152",
+   "short": "HCJ Buzău nr. 152/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 152/2021 pentru aprobarea rectificării a IV-a a bugetului propriu al județului Buzău pe anul 2021 ",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/08/H-152.pdf",
+     "sha256": "07094adb506d494fd8a2fb389410c8725480ea3610bae88f6b3a8eba027e8db5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-153-2021",
+   "path": "local/judet/buzau/2021/153",
+   "short": "HCJ Buzău nr. 153/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 153/2021 pentru Deficienți de Vedere Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/08/Hot%C4%83r%C3%A2rea-nr.153-din-2021.pdf",
+     "sha256": "55853930663de9ec38da01d361be5eec6b282a47747526cb59e989a6e1536e87"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-155-2021",
+   "path": "local/judet/buzau/2021/155",
+   "short": "HCJ Buzău nr. 155/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 155/2021 pentru rectificarea I a bugetului de venituri și cheltuieli pe anul 2021 al Centrului Județean de Cultură și Artă Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/08/Hot%C4%83r%C3%A2rea-nr.155-din-2021.pdf",
+     "sha256": "e2d0e2919e4e159103e9bf298b57a1e7f199d45d4ec648e3f42bcac4e1e69429"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-156-2021",
+   "path": "local/judet/buzau/2021/156",
+   "short": "HCJ Buzău nr. 156/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 156/2021 pentru rectificarea I a bugetului de venituri și cheltuieli pe anul 2021 al Bibliotecii Județene „V. Voiculescu” Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/08/Hot%C4%83r%C3%A2rea-nr.156-din-2021.pdf",
+     "sha256": "1bb4d47cdc22397dabb64426128b7e3aacd7615bab3a29ab72bb192924161cc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-158-2021",
+   "path": "local/judet/buzau/2021/158",
+   "short": "HCJ Buzău nr. 158/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 158/2021 pentru obiectivul de investiţii „Modernizare DJ 204M, km 0+000-10+000, Mînzălești – Jgheab – Bisoca, județul Buzău”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/08/Hot%C4%83r%C3%A2rea-nr.158-din-2021.pdf",
+     "sha256": "fdf19924e47c5c6ed59783c11badaa25c128805753ce852a38677192d753260a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-159-2021",
+   "path": "local/judet/buzau/2021/159",
+   "short": "HCJ Buzău nr. 159/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 159/2021 pentru obiectivul de investiţii „Modernizare DJ 102F, km 8+800-33+200, Scorțoasa – Cănești – Chiliile – Mînzălești, județul Buzău”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/08/Hot%C4%83r%C3%A2rea-nr.159-din-2021.pdf",
+     "sha256": "3279d9f0efee11b8de9c5eda7db2171321efe704f2286d18848a64b78aaa248a"
     }
    ]
   },
@@ -303,6 +858,111 @@
    ]
   },
   {
+   "slug": "hcj-buzau-160-2021",
+   "path": "local/judet/buzau/2021/160",
+   "short": "HCJ Buzău nr. 160/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 160/2021 pentru obiectivul de investiţii „Consolidare terasamente și refacere DJ 220, km. 88+950-92+853, comuna Sărulești, județul Buzău * Abrogată prin Hotărârea nr 65 din 2025",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/08/Hot%C4%83r%C3%A2rea-nr.160-din-2021.pdf",
+     "sha256": "a4157c0ef6a373c7157bcdc3e0c6651fa224a8285a7dc9a6302a7d1d6acbdf7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-161-2021",
+   "path": "local/judet/buzau/2021/161",
+   "short": "HCJ Buzău nr. 161/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 161/2021 pentru aprobarea Programului anual al finanţărilor nerambursabile de la bugetul propriu al judeţului Buzău pentru anul 2021 * Modificată prin Hotărârea nr.245/2021",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/08/Hot%C4%83r%C3%A2rea-nr.161-din-2021.pdf",
+     "sha256": "a5a557d83a9e9f0fbe0e263aa4a36b4a9210b727d986dbc237c7ee6193473542"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-162-2021",
+   "path": "local/judet/buzau/2021/162",
+   "short": "HCJ Buzău nr. 162/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 162/2021 pentru aprobarea participării Consiliului Județean Buzău ca partener al Asociației „FORUM ART” Buzău în organizarea unor acțiuni de promovare a Taberei de Sculptură Măgura",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/08/Hot%C4%83r%C3%A2rea-nr.162-din-2021.pdf",
+     "sha256": "ece8ac596edb469605cc908876c89eab3408a00e90a33224430d3ab4ff46ba91"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-163-2021",
+   "path": "local/judet/buzau/2021/163",
+   "short": "HCJ Buzău nr. 163/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 163/2021 pentru aprobarea participării Consiliului Județean Buzău ca partener al Asociației „Bulevardul Culturii” în organizarea și desfășurarea festivalului „Buzău Internațional Arts Festival”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/08/Hot%C4%83r%C3%A2rea-nr.163-din-2021.pdf",
+     "sha256": "23e0e8a566b4653c4ca5a8a26ad60112121ecad4c78ac866555e9c4d0f767b08"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-164-2021",
+   "path": "local/judet/buzau/2021/164",
+   "short": "HCJ Buzău nr. 164/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 164/2021 pentru aprobarea unor manifestări culturale și acțiuni în cadrul Acordului de cooperare între Municipiul Chișinău din Republica Moldova și Județul Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/08/Hot%C4%83r%C3%A2rea-nr.164-din-2021.pdf",
+     "sha256": "0562827dc2212317e456c7edba0a67a3e56b191ecc540fd660b499e2c5dafa2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-165-2021",
+   "path": "local/judet/buzau/2021/165",
+   "short": "HCJ Buzău nr. 165/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 165/2021 pentru Achiziții Publice în implementarea proiectului „Sprijin pentru ANAP în vederea înființării Unităților de Achiziții Publice Centralizate (UCA) la nivel local”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/08/Hot%C4%83r%C3%A2rea-nr.165-din-2021.pdf",
+     "sha256": "6de66a20b83226e2e7694b0e8f9ae30567a9416e91a01d12988af7be2ce3e0f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-167-2021",
+   "path": "local/judet/buzau/2021/167",
+   "short": "HCJ Buzău nr. 167/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 167/2021 pentru completarea unor acte normative cu incidenţă în protecţia animalelor, precum şi pentru stabilirea unor măsuri organizatorice",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/08/Hot%C4%83r%C3%A2rea-nr.167-din-2021.pdf",
+     "sha256": "ea82f36d72020666fd14c80626aac14b4fc064c116fd797e16b99046a1bd646d"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-168-2021",
    "path": "local/judet/buzau/2021/168",
    "short": "HCJ Buzău nr. 168/2021",
@@ -314,6 +974,21 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/08/Hot%C4%83r%C3%A2rea-nr.168-din-2021.pdf",
      "sha256": "e8cc3980292ef6e7a370ecc26d45bb0a807af7e11a477a1854eb90909d28c6a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-169-2021",
+   "path": "local/judet/buzau/2021/169",
+   "short": "HCJ Buzău nr. 169/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 169/2021 pentru aprobarea modificării nivelului unor posturi din statul de funcții al Muzeului Județean Buzău Consiliul județean Buzău, Având în vedere: - referatul Președintelui Consiliului județean Buzău de inițiere a proiectului de hotărâre, înregistrat la nr. 13131/19.08.2021; - raportul Serviciului resurse umane și management unități sanitare, înregistrat la nr. 13132/19.08.2021; - avizul de legalitat",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/08/Hot%C4%83r%C3%A2rea-nr.169-din-2021.pdf",
+     "sha256": "b58ec02a0abc74bb2489999f919ae45866451cf3dbe41c0ce1b3974150f41ad7"
     }
    ]
   },
@@ -333,6 +1008,141 @@
    ]
   },
   {
+   "slug": "hcj-buzau-170-2021",
+   "path": "local/judet/buzau/2021/170",
+   "short": "HCJ Buzău nr. 170/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 170/2021 pentru Spitalul Judeţean de Urgenţă Buzău * Modificată prin Hotărârea nr.162/2019 , Hotărârea nr.187/2019 , Hotărârea nr.211/2019 Hotărârea nr.239/2019 * Modificată prin Hotărârea nr. 11/2020 , Hotărârea nr.46 din 2020 , Hotărârea nr. 62/2020 , Hotărârea nr. 73/2020 , Hotărârea nr. 94/2020 , Hotărârea nr.112/2020, Hotărârea nr.127/2020 Hotărârea nr.145/2020 , Hotărârea nr. 176/2020 , Hotărârea nr",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/08/Hot%C4%83r%C3%A2rea-nr.170-din-2021.pdf",
+     "sha256": "0850e71544a0a8a20b09266a44b1025a1ea31ac28ed77523925924a3f0ff5f5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-171-2021",
+   "path": "local/judet/buzau/2021/171",
+   "short": "HCJ Buzău nr. 171/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 171/2021 privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice, coordonat de Administrația Fondului pentru Mediu, aprobarea documentației tehnico-economice faza DALI-formă revizuită 2, a indicatorilor tehnico-economici actualizați și a bugetului pro",
+   "url": "http://cjbuzau.ro/hotarari-cj-2020/",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/09/Hot%C4%83r%C3%A2rea-nr.171-din-2021.pdf",
+     "sha256": "6603cdbc0dc59a8749693971edb3ea46a77975b131a2d89fdef5d62424ce4c0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-172-2021",
+   "path": "local/judet/buzau/2021/172",
+   "short": "HCJ Buzău nr. 172/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 172/2021 privind majorarea sumelor defalcate din taxa pe valoarea adăugată destinate finanțării cheltuielilor cu drumurile județene pe anul 2021 Consiliul județean Buzău; Având în vedere:  referatul Președintelui Consiliului Județean Buzău de inițiere a proiectului de hotărâre, înregistrat la nr. 14271/14.09.2021;  raportul Direcției economice a Consiliului Județean Buzău, înregistrat la nr. 14272/14.09",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/09/Hot%C4%83r%C3%A2rea-nr.172-din-2021.pdf",
+     "sha256": "c5a56e9894a5262ec61d60b64a3d16f133216456fa4fb2de6187163001b5e4df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-173-2021",
+   "path": "local/judet/buzau/2021/173",
+   "short": "HCJ Buzău nr. 173/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 173/2021 pentru aprobarea rectificării a V-a a bugetului propriu al județului Buzău pe anul 2021",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/09/Hot%C4%83r%C3%A2rea-nr.173-din-2021.pdf",
+     "sha256": "daa9a4c320d0971c8cfa85944dad6f8853e1a5fd4a3aa484f38a276561e397f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-175-2021",
+   "path": "local/judet/buzau/2021/175",
+   "short": "HCJ Buzău nr. 175/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 175/2021 pentru rectificarea a II-a a bugetului de venituri și cheltuieli pe anul 2021 al Centrului Județean de Cultură și Artă Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/09/Hot%C4%83r%C3%A2rea-nr.175-din-2021.pdf",
+     "sha256": "ecd993700334c14e56462d3c9e657a88b2dbeb89d8e5002f1894bc6f58bc8268"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-176-2021",
+   "path": "local/judet/buzau/2021/176",
+   "short": "HCJ Buzău nr. 176/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 176/2021 pentru rectificarea a III-a a bugetului de venituri și cheltuieli pe anul 2021 al Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/09/Hot%C4%83r%C3%A2rea-nr.176-din-2021.pdf",
+     "sha256": "0705173ef7476a1225a85f967e98597ba24b885720915f186da3c9c48ff4c72b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-177-2021",
+   "path": "local/judet/buzau/2021/177",
+   "short": "HCJ Buzău nr. 177/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 177/2021 privind aprobarea documentației faza DALI revizuit și a indicatorilor tehnico-economici ai obiectivului de investiții „Modernizare DJ 204C, km 60+000-84+500, Limita Județ Vrancea – Bisoca – Sărulești – Vintilă Vodă, județul Buzău” cuprins în Programul Național de Dezvoltare Locală",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/09/Hot%C4%83r%C3%A2rea-nr.177-din-2021.pdf",
+     "sha256": "1c27579110fffbf9a7d6f444e51cf3c3f7eb5094517cce4dcc45adad3700b932"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-178-2021",
+   "path": "local/judet/buzau/2021/178",
+   "short": "HCJ Buzău nr. 178/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 178/2021 pentru Situații de Urgență „Neron Lupașcu” Buzău a unui mijloc fix",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/09/Hot%C4%83r%C3%A2rea-nr.178-din-2021.pdf",
+     "sha256": "fa199d2bb2852acda43af8ed7c19daa72ee8f395c5c699339fd975f505707741"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-179-2021",
+   "path": "local/judet/buzau/2021/179",
+   "short": "HCJ Buzău nr. 179/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 179/2021 privind aprobarea participării în anul 2021 a Muzeului Județean Buzău în cadrul Programului de stimulare a înnoirii Parcului auto național Consiliului Județean Buzău, Având în vedere: - referatul Președintelui Consiliului Județean Buzău de inițiere a proiectului de hotărâre, înregistrat sub nr. 14324/15.09.2021; - raportul Direcției Economice înregistrat sub nr. 14325/15.09.2021; - avizul de legal",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/09/Hot%C4%83r%C3%A2rea-nr.179-din-2021.pdf",
+     "sha256": "5139d53b69cf2f37a78a64b2d7b7a36525b7a8b6d34339966761aa594a209882"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-180-2021",
    "path": "local/judet/buzau/2021/180",
    "short": "HCJ Buzău nr. 180/2021",
@@ -348,6 +1158,126 @@
    ]
   },
   {
+   "slug": "hcj-buzau-181-2021",
+   "path": "local/judet/buzau/2021/181",
+   "short": "HCJ Buzău nr. 181/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 181/2021 pentru recuperarea și reabilitarea copilului cu tulburări de comportament nr. 5 Beceni din structura Direcției Generale de Asistență Socială și Protecția Copilului Buzău * Modificată prin Hotărârea nr.218/2021",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/09/Hot%C4%83r%C3%A2rea-nr.181-din-2021.pdf",
+     "sha256": "ca637f8976a0c809ba7fcc0ba7a039272852c17e9d8ed6c8a9e7085e0fa0d36d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-182-2021",
+   "path": "local/judet/buzau/2021/182",
+   "short": "HCJ Buzău nr. 182/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 182/2021 privind Complexul de servicii comunitare nr. 2 Buzău și Centrul pentru integrare și terapie ocupațională Râmnicu Sărat * Modificată prin Hotărârea nr.8/2021 * Anexele 5.11, 5.12, 5.16, 5.17, 5.19 și 5.21 se modifică potrivit prevederilor art. 1 din Hotărârea nr.182/2021 * Modificată prin Hotărârea nr.220/2021 * Încetat aplicabilitatea prin Hotărârea nr.29 din 2022 *",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/09/Hot%C4%83r%C3%A2rea-nr.182-din-2021.pdf",
+     "sha256": "4f7212e57737c152a68c1f5b3dc0650abaa73b8f2593309f8d5a784e8fc301e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-184-2021",
+   "path": "local/judet/buzau/2021/184",
+   "short": "HCJ Buzău nr. 184/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 184/2021 pentru Spitalul Judeţean de Urgenţă Buzău * Modificată prin Hotărârea nr.162/2019 , Hotărârea nr.187/2019 , Hotărârea nr.211/2019 Hotărârea nr.239/2019 * Modificată prin Hotărârea nr. 11/2020 , Hotărârea nr.46 din 2020 , Hotărârea nr. 62/2020 , Hotărârea nr. 73/2020 , Hotărârea nr. 94/2020 , Hotărârea nr.112/2020, Hotărârea nr.127/2020 Hotărârea nr.145/2020 , Hotărârea nr. 176/2020 , Hotărârea nr",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/09/Hot%C4%83r%C3%A2rea-nr.184-din-2021.pdf",
+     "sha256": "aefd5f9e5f9291b4272a368c625b2986e3200891c3e15a146faf95f3aabc3eeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-185-2021",
+   "path": "local/judet/buzau/2021/185",
+   "short": "HCJ Buzău nr. 185/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 185/2021 pentru aprobarea modificării numărului de personal, organigramei și statului de funcții la Centrul Județean de Cultură și Artă Buzău Consiliul județean Buzău, Având în vedere: - referatul Președintelui Consiliului Județean Buzău de inițiere a proiectului de hotărâre, înregistrat la nr. 14243/14.09.2021; - raportul Serviciului resurse umane și management unități sanitare, înregistrat la nr. 14244/1",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/09/Hot%C4%83r%C3%A2rea-nr.185-din-2021.pdf",
+     "sha256": "c739537226db2ec3385cff80d12a292369cfd9c303954204264331d805fad511"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-186-2021",
+   "path": "local/judet/buzau/2021/186",
+   "short": "HCJ Buzău nr. 186/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 186/2021 pentru aprobarea modificării nivelului unui post din statul de funcții al Teatrului „George Ciprian” Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/09/Hot%C4%83r%C3%A2rea-nr.186-din-2021.pdf",
+     "sha256": "725df2fb4bd328fcd98dbb5f0284f3894f440e26708354c82db5ffa08ec67a5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-187-2021",
+   "path": "local/judet/buzau/2021/187",
+   "short": "HCJ Buzău nr. 187/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 187/2021 privind aprobarea documentației faza DALI revizuit și a indicatorilor tehnico-economici ai obiectivului de investiții „Reabilitare drum județean DJ 203L, intre km. 29+400-50+000, Cozieni-Bozioru-Brăiești, județul Buzău” cuprins în Programul Național de Dezvoltare Locală",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/09/Hot%C4%83r%C3%A2rea-nr.187-din-2021.pdf",
+     "sha256": "1a28c74ca39a9583f5b0b2f0cfbf2de02bb61606d5cc5e0a57f825c804f26f2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-188-2021",
+   "path": "local/judet/buzau/2021/188",
+   "short": "HCJ Buzău nr. 188/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 188/2021 pentru aprobarea rectificării a VI-a a bugetului propriu al județului Buzău pe anul 2021",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/10/Hot%C4%83r%C3%A2rea-nr.188-din-2021.pdf",
+     "sha256": "919c5583a06dc5ae672ea34acaf99454e5c5d62a2c004e09fbedff1c4423c44c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-189-2021",
+   "path": "local/judet/buzau/2021/189",
+   "short": "HCJ Buzău nr. 189/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 189/2021 pentru rectificarea a III-a a bugetului de venituri și cheltuieli pe anul 2021 al Spitalului Județean de Urgență Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/10/Hot%C4%83r%C3%A2rea-nr.189-din-2021.pdf",
+     "sha256": "4dfc70b0a32fe391bf1ba89e1b7398ee97499c92793ebc9b7674606aa7be68c1"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-19-2021",
    "path": "local/judet/buzau/2021/19",
    "short": "HCJ Buzău nr. 19/2021",
@@ -359,6 +1289,141 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/01/H-19.pdf",
      "sha256": "bb1f9e7407f424ce7ed0678885fd6c4bd0d8945d3ff24fd811513366777d3c95"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-190-2021",
+   "path": "local/judet/buzau/2021/190",
+   "short": "HCJ Buzău nr. 190/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 190/2021 pentru rectificarea a II-a a bugetului de venituri și cheltuieli pe anul 2021 al Teatrului „George Ciprian” Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/10/Hot%C4%83r%C3%A2rea-nr.190-din-2021.pdf",
+     "sha256": "7b3db3b4c82349094cdf2663084c42b52dd9e07a8fe4e5ec5c1bb7d198c282be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-192-2021",
+   "path": "local/judet/buzau/2021/192",
+   "short": "HCJ Buzău nr. 192/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 192/2021 pentru obiectivul de investiţii „Modernizare DJ 220, km. 58+000-70+000, Murgești-Pardoși-Buda, județul Buzău” prin Programul național de investiții „Anghel Saligny”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/10/Hot%C4%83r%C3%A2rea-nr.192-din-2021.pdf",
+     "sha256": "2e8778384835b2a0f35311ba2f290862d59524735833f26ef0289b65f6261850"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-193-2021",
+   "path": "local/judet/buzau/2021/193",
+   "short": "HCJ Buzău nr. 193/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 193/2021 pentru obiectivul de investiţii „Modernizare DJ 203A, km. 0+000-10+000, Podu Muncii – Câmpulungeanca – Mărgăritești, județul Buzău” prin Programul național de investiții „Anghel Saligny” * Modificată prin Hotărârea nr.48 din 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/10/Hot%C4%83r%C3%A2rea-nr.193-din-2021.pdf",
+     "sha256": "203fb2513c2465b4b95a0fe3a81359ee6a0ef8fb0871a929237eac42a4b9d177"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-194-2021",
+   "path": "local/judet/buzau/2021/194",
+   "short": "HCJ Buzău nr. 194/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 194/2021 pentru obiectivul de investiţii „Modernizare DJ 204M, km. 0+000-10+000, Mînzălești – Jgheab – Bisoca, județul Buzău” prin Programul național de investiții „Anghel Saligny”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/10/Hot%C4%83r%C3%A2rea-nr.194-din-2021.pdf",
+     "sha256": "f1a57f3de186fd7751edaf41fcb1c9ddf85bf760240923dbb2e69a64dbc34781"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-195-2021",
+   "path": "local/judet/buzau/2021/195",
+   "short": "HCJ Buzău nr. 195/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 195/2021 pentru obiectivul de investiţii „Modernizare DJ 215A, km. 0+000 – 7+000, Izvorul Dulce – Blăjani, Județul Buzău” prin Programul naţional de investiţii „Anghel Saligny” * Modificată prin Hotărârea nr.48 din 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/10/Hot%C4%83r%C3%A2rea-nr.195-din-2021.pdf",
+     "sha256": "9e8b55176e6c12bf0566862bb08c47505495ebfb05866270d2d18872505b3f2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-196-2021",
+   "path": "local/judet/buzau/2021/196",
+   "short": "HCJ Buzău nr. 196/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 196/2021 pentru obiectivul de investiţii „Modernizare DJ 203K km. 116+300-127+600, Nemertea- Lunca Priporului (DN10), UAT comuna Gura Teghii și Oraș Nehoiu, Județul Buzău” prin Programul naţional de investiţii „Anghel Saligny” * Modificată prin Hotărârea nr.48 din 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/10/Hot%C4%83r%C3%A2rea-nr.196-din-2021.pdf",
+     "sha256": "6a0bf07dbcfda165111ce5af12d9079c61eefbcb4a91ad4142948f0e67b49dc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-197-2021",
+   "path": "local/judet/buzau/2021/197",
+   "short": "HCJ Buzău nr. 197/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 197/2021 pentru obiectivul de investiţii „Modernizare drum judeţean DJ 102F, km. 8+800-20+080 Scorțoasa-Cănești” prin Programul naţional de investiţii „Anghel Saligny”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/10/Hot%C4%83r%C3%A2rea-nr.197-din-2021.pdf",
+     "sha256": "e5f82804754f3b07da18a9f6c4931793c9c4a991f780d767eac802e630eba9b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-198-2021",
+   "path": "local/judet/buzau/2021/198",
+   "short": "HCJ Buzău nr. 198/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 198/2021 pentru obiectivul de investiţii „Modernizare drumuri judeţene pentru acces Vulcanii Noroioși DJ102F km 0+000-8+800 si DJ 220A, km. 0+000-5+800, Sătuc-Policiori-Vulcanii Noroioși, județul Buzău” prin Programul național de investiții „Anghel Saligny” * Modificată prin Hotărârea nr.48 din 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/10/Hot%C4%83r%C3%A2rea-nr.198-din-2021.pdf",
+     "sha256": "4d4f9d56e8ae4411399c841ec5af31afc02425b13308f81f12c8131698c4b5b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-199-2021",
+   "path": "local/judet/buzau/2021/199",
+   "short": "HCJ Buzău nr. 199/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 199/2021 pentru obiectivul de investiţii „Modernizare drum județean DJ 203I km. 0+100-10+000 DN 2B- Cilibia-Caragele, județul Buzău” prin Programul național de investiții „Anghel Saligny” * Modificată prin Hotărârea nr.48 din 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/10/Hot%C4%83r%C3%A2rea-nr.199-din-2021.pdf",
+     "sha256": "b56ae76fd3bde96d4e2fbc42844cf2a61f0369518ab4cc3b634bf97ae6049ccf"
     }
    ]
   },
@@ -389,6 +1454,36 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/01/H-20.pdf",
      "sha256": "f4920f3b7b4579224bef292178802140a5a2e1a255a63d9875161ecf50d2baa1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-200-2021",
+   "path": "local/judet/buzau/2021/200",
+   "short": "HCJ Buzău nr. 200/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 200/2021 privind aprobarea promovării proiectului „Consolidarea infrastructurii medicale de la nivelul Spitalului Județean de Urgență Buzău, în contextul pandemiei cauzate de COVID-19” propus în cadrul Programul Operațional Infrastructură Mare 2014-2020, Axa Prioritară 9 Protejarea sănătății populației în contextul pandemiei cauzate de COVID-19, Obiectivul Specific 9.1 Creșterea capacității de gestionare a",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/10/Hot%C4%83r%C3%A2rea-nr.200-din-2021.pdf",
+     "sha256": "b0e467e3082641dade0ba4888d010605c12491b871ef27764745da0c90e6fef8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-201-2021",
+   "path": "local/judet/buzau/2021/201",
+   "short": "HCJ Buzău nr. 201/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 201/2021 pentru rectificarea I a bugetului de venituri și cheltuieli pe anul 2021 al Muzeului Județean Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-08-12",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/08/Hot%C4%83r%C3%A2rea-nr.154-din-2021.pdf",
+     "sha256": "589378056d37bc4ea61f08fad983510aa4825600c155f26a441c471a3987d608"
     }
    ]
   },
@@ -768,6 +1863,36 @@
    ]
   },
   {
+   "slug": "hcj-buzau-228-2021",
+   "path": "local/judet/buzau/2021/228",
+   "short": "HCJ Buzău nr. 228/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 228/2021 privind aprobarea alocării unei sume de la bugetul propriu al județului Buzău aferentă desfășurării unor activități dedicate Zilei Naționale a României și Sărbătorilor de iarnă",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.228-din-2021.pdf",
+     "sha256": "b92f6633af938660cc3cfa666c9fbfe66e97affead01802846eaf16856604869"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-229-2021",
+   "path": "local/judet/buzau/2021/229",
+   "short": "HCJ Buzău nr. 229/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 229/2021 privind execuția bugetului propriu al județului Buzău pe trimestrul IV 2021 pe cele două secțiuni",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.229-din-2021.pdf",
+     "sha256": "58268764679759ae5bf452bf6fc740a2a0389daf6b16c4687479211933dd5232"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-23-2021",
    "path": "local/judet/buzau/2021/23",
    "short": "HCJ Buzău nr. 23/2021",
@@ -783,6 +1908,231 @@
    ]
   },
   {
+   "slug": "hcj-buzau-230-2021",
+   "path": "local/judet/buzau/2021/230",
+   "short": "HCJ Buzău nr. 230/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 230/2021 privind repartizarea pe comune, orașe și municipii a sumei de 1.747 mii lei pe anul 2021 din impozitul pe venit încasat suplimentar corespunzător cotei de 6% reprezentând fondul constituit la dispoziția Consiliului Județean Consiliul județean Buzău; Având în vedere: − referatul Președintelui Consiliului Județean Buzău de inițiere a proiectului de hotărâre, înregistrat la nr.19311/10.12.2021; − rap",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.230-din-2021.pdf",
+     "sha256": "f1b4d07900001ce680158d21d2308055c955b47a84dae6d32ddd259623bda77e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-231-2021",
+   "path": "local/judet/buzau/2021/231",
+   "short": "HCJ Buzău nr. 231/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 231/2021 pentru aprobarea rectificării a VIII-a a bugetului propriu al județului Buzău pe anul 2021",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.231-din-2021.pdf",
+     "sha256": "5d4f9ed649b9d8732c8a2945b3efb914e736239cf2c11bb5d8e30ae7262d872b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-235-2021",
+   "path": "local/judet/buzau/2021/235",
+   "short": "HCJ Buzău nr. 235/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 235/2021 pentru rectificarea a III-a a bugetului de venituri și cheltuieli pe anul 2021 al Muzeului Județean Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.235-din-2021.pdf",
+     "sha256": "b9669f6c58cf7a4fcb5a32c4dd332175dea4fdc65e4c51712985ccfa60b0a566"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-237-2021",
+   "path": "local/judet/buzau/2021/237",
+   "short": "HCJ Buzău nr. 237/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 237/2021 pentru rectificarea a VI-a a bugetului de venituri și cheltuieli pe anul 2021 al Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.237-din-2021.pdf",
+     "sha256": "707cb1a3c9313e7e68182d47cea64c10175fec6c3f887b716593ebd72b3f3246"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-238-2021",
+   "path": "local/judet/buzau/2021/238",
+   "short": "HCJ Buzău nr. 238/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 238/2021 pentru anul 2022 * Notă de îndreptare eroare materială",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.238-din-2021-1.pdf",
+     "sha256": "8951d3f2fbee7ec586a62c5d4d9ca15c02f3a94f867a1dd83198d5230165738e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-239-2021",
+   "path": "local/judet/buzau/2021/239",
+   "short": "HCJ Buzău nr. 239/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 239/2021 pentru anul 2021 * Abrogată prin Hotărârea nr.239/2021",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.239-din-2021.pdf",
+     "sha256": "9a2b2aa5de5976dc422b585f61824f06056c1030677790c26dac532a87373309"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-240-2021",
+   "path": "local/judet/buzau/2021/240",
+   "short": "HCJ Buzău nr. 240/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 240/2021 pentru aprobarea formei inițiale a Programului Anual de Achiziții Publice al Consiliului Județean Buzău pentru anul 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.240-din-2021.pdf",
+     "sha256": "807112506c2963351763c916e6c3a79bece764e55e5afca1f3355debbbd06041"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-241-2021",
+   "path": "local/judet/buzau/2021/241",
+   "short": "HCJ Buzău nr. 241/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 241/2021 pentru anul 2022 * Anexa se modifică conform prevederilor art.1 din Hotărârea nr.4 din 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.241-din-2021.pdf",
+     "sha256": "f8e965553d9be49bfd1bcc1d179a256a85298e69518c24d88ee8ce86647a36b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-242-2021",
+   "path": "local/judet/buzau/2021/242",
+   "short": "HCJ Buzău nr. 242/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 242/2021 pentru persoanele adulte asistate în Centrul de asistență medico-socială Pogoanele, unitate de asistență socială din structura Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.242-din-2021.pdf",
+     "sha256": "251fd0e4d03f0329c1d80568fdfd60b0bbcfc8b330aa29aa5f5b7c450a963c33"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-244-2021",
+   "path": "local/judet/buzau/2021/244",
+   "short": "HCJ Buzău nr. 244/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 244/2021 privind aprobarea documentației tehnice și a indicatorilor tehnico-economici ai obiectivului de investiții „Stimularea mobilității la nivel regional prin modernizarea infrastructurii rutiere de transport pe tronsonul Vintilă Vodă – Plaiul Nucului, județul Buzău” - forma actualizată",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.244-din-2021.pdf",
+     "sha256": "d61f913b31c9ca90bde829271e68f901ea2c2c96123176a09a12782a828edf44"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-245-2021",
+   "path": "local/judet/buzau/2021/245",
+   "short": "HCJ Buzău nr. 245/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 245/2021 pentru finanțarea în anul 2021 a activității cluburilor sportive de drept public înființate pe raza Unității Administrativ-Teritoriale – Județul Buzău în cadrul Programului sportiv de utilitate publică „Promovarea sportului de performanță”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.245-din-2021.pdf",
+     "sha256": "eaa2b6c182b068371709df56a0285304330d5f4c65cc88aec92e0127d1a8fbd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-246-2021",
+   "path": "local/judet/buzau/2021/246",
+   "short": "HCJ Buzău nr. 246/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 246/2021 pentru performanțe sportiv deosebite",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.246-din-2021.pdf",
+     "sha256": "35b73a0ffefc08b149c3aabcda7709609ac9f209cb70b71627bc8051816e52b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-247-2021",
+   "path": "local/judet/buzau/2021/247",
+   "short": "HCJ Buzău nr. 247/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 247/2021 pentru rectificarea a IV-a a bugetului de venituri și cheltuieli pe anul 2021 al Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-10-05",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/10/Hot%C4%83r%C3%A2rea-nr.191-din-2021.pdf",
+     "sha256": "f94419ca6fde7cc6cdbc7c3b7001ca3ff1ca1a48282c30fed684330e6711ff7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-248-2021",
+   "path": "local/judet/buzau/2021/248",
+   "short": "HCJ Buzău nr. 248/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 248/2021 pentru aprobarea participării Consiliului Județean Buzău în proiectul „Viituri curate! Nu viituri murdare” în parteneriat cu asociația „Centrul de Artă” Aluniș, comuna Colți",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.248-din-2021.pdf",
+     "sha256": "165faa5641a7410f56f9dd6deed6a2cfb4139d67dd86233bfabfc1c18485a372"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-249-2021",
+   "path": "local/judet/buzau/2021/249",
+   "short": "HCJ Buzău nr. 249/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 249/2021 privind aprobarea solicitării Consiliului Județean Buzău de trecere din proprietatea privată a comunei Poșta Câlnău în proprietatea privată a Județului Buzău a unor terenuri situate în comuna Poșta Câlnău, județul Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.249-din-2021.pdf",
+     "sha256": "06ed9f8ef8194e0ad29e3ee365d333127b5e84a0d335673a03b2a5095852efab"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-25-2021",
    "path": "local/judet/buzau/2021/25",
    "short": "HCJ Buzău nr. 25/2021",
@@ -794,6 +2144,81 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/02/H-25.pdf",
      "sha256": "4943f6b12b7e90b667bdbd2005aceb9056839b60f645b0dab48676a4c7f293fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-250-2021",
+   "path": "local/judet/buzau/2021/250",
+   "short": "HCJ Buzău nr. 250/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 250/2021",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/04/Hot%C4%83r%C3%A2rea-nr.250-din-2021-REPUBLICAT%C4%82.pdf",
+     "sha256": "deef1ffcc510f4db2b08bbf58fecb6a3638913eed9d1371dbea8d23572bb3bd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-252-2021",
+   "path": "local/judet/buzau/2021/252",
+   "short": "HCJ Buzău nr. 252/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 252/2021 pentru aparatul de specialitate al Consiliului judeţean Buzău – formă actualizată * Modificată prin Hotărârea nr.28 din 2022 ; Hotărârea nr. 68 din 2022 ; Hotărârea nr.111 din 2022 ; Hotărârea nr. 218 din 2022 ; Hotărârea nr.249 din 2022 * Anexa nr.2 este modificată prin Hotărârea nr.152 din 2022 * Abrogată prin Hotărârea nr.295 din 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.252-din-2021.pdf",
+     "sha256": "01e83d829994e65f1353a7200eecd38bea01785c765a1123580a155352f4573d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-253-2021",
+   "path": "local/judet/buzau/2021/253",
+   "short": "HCJ Buzău nr. 253/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 253/2021 pentru Muzeul judeţean Buzău – formă actualizată * Modificată prin Hotărârea nr.154 din 2022 ; Hotărârea nr. 225 din 2022 ; Hotărârea nr.303 din 2022 , Hotărârea nr.194 din 2023 * Abrogată prin Hotărârea nr.276 din 2023 * Modificată prin Hotărârea nr.19 din 2024 * Abrogată prin Hotărârea nr.52 din 2024",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.253-din-2021.pdf",
+     "sha256": "4c408a7c666e3e4ba9fdec2f8e266d4e79afdc570ce64dd65eed669387135e11"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-254-2021",
+   "path": "local/judet/buzau/2021/254",
+   "short": "HCJ Buzău nr. 254/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 254/2021 pentru Teatrul „George Ciprian” Buzău – formă actualizată * Modificată prin Hotărârea nr.252 din 2022 ; Hotărârea nr.27 din 2023 ; Hotărârea nr.310 din 2023 ; Hotărârea nr.88 din 2024",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.254-din-2021.pdf",
+     "sha256": "d63d9d08d0d2d9db71186eeb242b8e0534ecd2d6f375e1ce527657523c0d4855"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-255-2021",
+   "path": "local/judet/buzau/2021/255",
+   "short": "HCJ Buzău nr. 255/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 255/2021 pentru Centrul Judeţean de Cultur",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.255-din-2021.pdf",
+     "sha256": "d21c9423a274911309f7f76f97bd20821c3168ee132b89737614b636ef0bb670"
     }
    ]
   },
@@ -828,6 +2253,36 @@
    ]
   },
   {
+   "slug": "hcj-buzau-258-2021",
+   "path": "local/judet/buzau/2021/258",
+   "short": "HCJ Buzău nr. 258/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 258/2021 pentru ședințele ordinară, respectiv extraordinară din data de 20 decembrie 2021",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.258-din-2021.pdf",
+     "sha256": "79fcb65b9ff84ebbe4cb29617a1fe7d13717992ed5934e075b215d913fc1a4b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-259-2021",
+   "path": "local/judet/buzau/2021/259",
+   "short": "HCJ Buzău nr. 259/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 259/2021 pentru aprobarea rectificării a IX-a a bugetului propriu al județului Buzău pe anul 2021",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.259-din-2021.pdf",
+     "sha256": "9d5f2959261dfe88914e6e2c76505fac0b1f5fddbfc0f3d4c4789901f8c72ea6"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-26-2021",
    "path": "local/judet/buzau/2021/26",
    "short": "HCJ Buzău nr. 26/2021",
@@ -839,6 +2294,51 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/02/H-26.pdf",
      "sha256": "e6295955e5da8bce1d8cd433e31a4b06d07085fa113372c2713c31b4f42db7b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-260-2021",
+   "path": "local/judet/buzau/2021/260",
+   "short": "HCJ Buzău nr. 260/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 260/2021 pentru aprobarea bugetului de venituri și cheltuieli al județului Buzău pe anul 2021 din credit intern",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.260-din-2021.pdf",
+     "sha256": "f4671ca1e4d091520230b34819d3565b8adb4eade84dc3340ed400fdd9bd1305"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-261-2021",
+   "path": "local/judet/buzau/2021/261",
+   "short": "HCJ Buzău nr. 261/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 261/2021 pentru rectificarea a IV-a a bugetului de venituri și cheltuieli pe anul 2021 al Teatrului „George Ciprian” Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.261-din-2021.pdf",
+     "sha256": "7b8f11b83ec096e3f68d291288c5e06bbd8286721bdb215a3f1c68dc15a3dc88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-263-2021",
+   "path": "local/judet/buzau/2021/263",
+   "short": "HCJ Buzău nr. 263/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 263/2021 pentru unele unităţi de cult religios recunoscute în România",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.263-din-2021.pdf",
+     "sha256": "5a23d5e3551cf2f2b95463c04ff94cf5bb9f640652541dafa6de4a2c054c4b4e"
     }
    ]
   },
@@ -858,6 +2358,36 @@
    ]
   },
   {
+   "slug": "hcj-buzau-29-2021",
+   "path": "local/judet/buzau/2021/29",
+   "short": "HCJ Buzău nr. 29/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 29/2021 pentru aprobarea bugetului de venituri și cheltuieli din fonduri externe nerambursabile (sursa D) pe anul 2021 al Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/02/Hot%C4%83r%C3%A2rea-nr-29-din-2021.pdf",
+     "sha256": "b03206cd761a2b149f96f72f1553eea28df4abd7312cc6ae6c89cfb88dc6b497"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-295-2021",
+   "path": "local/judet/buzau/2021/295",
+   "short": "HCJ Buzău nr. 295/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 295/2021 pentru rectificarea a III-a a bugetului de venituri și cheltuieli pe anul 2021 al Teatrului „George Ciprian” Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/12/Hot%C4%83r%C3%A2rea-nr.234-din-2021.pdf",
+     "sha256": "5aa08062ef59651c19cb621f575753b4bd1d0ee22532b166f9557ec64cbb9ed6"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-3-2021",
    "path": "local/judet/buzau/2021/3",
    "short": "HCJ Buzău nr. 3/2021",
@@ -869,6 +2399,141 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/01/H-3.pdf",
      "sha256": "146a374be0bf79e3b9fbd48f78ced7e31b035c3dfa8220614b5e3501d30ef5d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-31-2021",
+   "path": "local/judet/buzau/2021/31",
+   "short": "HCJ Buzău nr. 31/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 31/2021 pentru persoanele adulte asistate în Centrul de asistență medico-socială Pogoanele din structura Direcției Generale de Asistență Socială și Protecția Copilului Buzău pentru anul 2021",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/02/Hot%C4%83r%C3%A2rea-nr.31-din-2021.pdf",
+     "sha256": "5b543c67a58101ca5bfb30e67619bad8943b0b9e17bb93e8279c3e25007e44d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-32-2021",
+   "path": "local/judet/buzau/2021/32",
+   "short": "HCJ Buzău nr. 32/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 32/2021 privind aprobarea valorificării masei lemnoase pe picior, de pe aliniamentele amplasate în zona drumurilor județene DJ 216 (km 0+000-7+900, DN 22-Lunca Măcrina), DJ 203H(km 10+000-25+500, Topliceni –Buda-Alexandru Odobescu) și DJ 203P (km 0+000-2+800, Rubla -Râmnicelu)",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/02/Hot%C4%83r%C3%A2rea-nr-32-din-2021.pdf",
+     "sha256": "3837c95299927e1d35f11b7819da3e72a8973a123a9436be4015f5cc5397bf5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-33-2021",
+   "path": "local/judet/buzau/2021/33",
+   "short": "HCJ Buzău nr. 33/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 33/2021 privind aprobarea promovării de către Direcția Generală de Asistență Socială și Protecția Copilului Buzău a proiectului „ÎMPREUNĂ – Suport comunitar pentru persoanele adulte cu dizabilități” în cadrul programului „Dezvoltare locală, reducerea sărăciei și creșterea incluziunii romilor – Apelul nr. 4 – Dezvoltare locală” * Abrogată prin Hotărârea nr.33/2021",
+   "url": "http://cjbuzau.ro/hotarari-cj-2020/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/02/Hot%C4%83r%C3%A2rea-nr.33-din-2021.pdf",
+     "sha256": "841abc775b0b7c7946ef453b8047263e7cc602ebc310be67b126f3c4b779c4e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-34-2021",
+   "path": "local/judet/buzau/2021/34",
+   "short": "HCJ Buzău nr. 34/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 34/2021 pentru proiectul ”Un pas spre comunitate” promovat de Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Buzău prin Programul de Interes Național 2018 * Abrogată prin Hotărârea nr.34/2021",
+   "url": "http://cjbuzau.ro/hotarari-cj-2020/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/02/Hot%C4%83r%C3%A2rea-nr.34-din-2021.pdf",
+     "sha256": "6bc905c52dcc8477e4733887fded708bc3b22643abbebbd6ec76b6eec2200d1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-35-2021",
+   "path": "local/judet/buzau/2021/35",
+   "short": "HCJ Buzău nr. 35/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 35/2021 pentru aprobarea modificării bugetului proiectului „Dotarea Ambulatoriului de Specialitate Integrat Spitalului Județean de Urgență Buzău”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/02/Hot%C4%83r%C3%A2rea-nr.35-din-2021.pdf",
+     "sha256": "7de165da5ae6f92d74fb49bbd80d79a0be6f9e0b40fc9989ab3eaed85901b515"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-36-2021",
+   "path": "local/judet/buzau/2021/36",
+   "short": "HCJ Buzău nr. 36/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 36/2021",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/02/Hot%C4%83r%C3%A2rea-nr-36-din-2021.pdf",
+     "sha256": "328fa768e324972019331879edd25ee06d560c512681e9d54f845688a7a0716f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-37-2021",
+   "path": "local/judet/buzau/2021/37",
+   "short": "HCJ Buzău nr. 37/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 37/2021 pentru modificarea și actualizarea Regulamentului de Organizare și Funcționare a Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/02/Hot%C4%83r%C3%A2rea-nr.37-din-2021.pdf",
+     "sha256": "0e55ba2b257a294aa293079e096cccab65b6d7cfa5e022f3791af9c9764180ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-38-2021",
+   "path": "local/judet/buzau/2021/38",
+   "short": "HCJ Buzău nr. 38/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 38/2021 privind numărul de personal şi nivelul unor posturi din statul de funcţii al Spitalului Judeţean de Urgenţă Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/02/Hot%C4%83r%C3%A2rea-nr.38-din-2021.pdf",
+     "sha256": "969e5725e24030978b9dda0590ca719387ffa5db65cb511cf62fc39f1333dd07"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-39-2021",
+   "path": "local/judet/buzau/2021/39",
+   "short": "HCJ Buzău nr. 39/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 39/2021 pentru aprobarea modificării nivelului unor posturi din statul de funcții al Centrului Județean de Cultură și Artă Buzău Consiliul județean Buzău, Având în vedere: - referatul Presedintelui Consiliului județean Buzău de initiere a proiectului de hotarare, înregistrat la nr. 3009/17.02.2021; - raportul Serviciului resurse umane și management unități sanitare, înregistrat la nr.3010/17.02.2021; - av",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/02/Hot%C4%83r%C3%A2rea-nr.39-din-2021.pdf",
+     "sha256": "62c0ec3e86f44c203826bec0f16057356da9a03e27b3a5c8a85ae797a8b9fc86"
     }
    ]
   },
@@ -888,6 +2553,66 @@
    ]
   },
   {
+   "slug": "hcj-buzau-40-2021",
+   "path": "local/judet/buzau/2021/40",
+   "short": "HCJ Buzău nr. 40/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 40/2021 pentru finanţarea cheltuielilor cu drumurile judeţene în anul 2021 şi estimări pentru anii 2022-2024",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/03/Hot%C4%83r%C3%A2rea-nr.-40.pdf",
+     "sha256": "57109fffe19a99cf860a2f83a376581b968fa3ea14875901036e987515ca3544"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-41-2021",
+   "path": "local/judet/buzau/2021/41",
+   "short": "HCJ Buzău nr. 41/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 41/2021 privind aprobarea indicatorilor tehnico-economici ai unor obiective de investiții publice ale Județului Buzău cuprinse în Programul Național de Dezvoltare Locală – formă actualizată",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/03/Hot%C4%83r%C3%A2rea-nr.-41.pdf",
+     "sha256": "3057eee04d68dc35ce6ed57df6b0586f76307870fbcad7dfe7de6b2806ffd893"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-42-2021",
+   "path": "local/judet/buzau/2021/42",
+   "short": "HCJ Buzău nr. 42/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 42/2021 pentru aparatul de specialitate al Consiliului judeţean Buzău – formă actualizată *Modificată prin Hotărârea nr.223/2020 , Hotărârea nr.5/2021 * Modificată prin Hotărârea nr. 42/2021 * Modificată prin Hotărârea nr.100/2021 , Hotărârea nr.125/2021 * Anexa nr. 1 se modifică potrivit prevederilor art.1 din Hotărârea nr.182/2021 * Modificată prin Hotărârea nr.215/2021 * Abrog",
+   "url": "http://cjbuzau.ro/hotarari-cj-2020/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/03/Hot%C4%83r%C3%A2rea-nr.-42.pdf",
+     "sha256": "f809af2b6416af77884713ac262575ed4ba0637214810d2895da4d31fed1a779"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-43-2021",
+   "path": "local/judet/buzau/2021/43",
+   "short": "HCJ Buzău nr. 43/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 43/2021 pentru Spitalul Judeţean de Urgenţă Buzău * Modificată prin Hotărârea nr.162/2019 , Hotărârea nr.187/2019 , Hotărârea nr.211/2019 Hotărârea nr.239/2019 * Modificată prin Hotărârea nr. 11/2020 , Hotărârea nr.46 din 2020 , Hotărârea nr. 62/2020 , Hotărârea nr. 73/2020 , Hotărârea nr. 94/2020 , Hotărârea nr.112/2020, Hotărârea nr.127/2020 Hotărârea nr.145/2020 , Hotărârea nr. 176/2020 , Hotărârea nr",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/03/Hot%C4%83r%C3%A2rea-nr.-43.pdf",
+     "sha256": "467c04c0db36ce48bfdf5c8f255dfd4f6b723e6a62a780776522b2b1c84c9cf8"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-44-2021",
    "path": "local/judet/buzau/2021/44",
    "short": "HCJ Buzău nr. 44/2021",
@@ -899,6 +2624,66 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/06/H-44.pdf",
      "sha256": "538a0dfeed6070ba4da168ad6bf7e87bcc82f5bd76d5188b157c07d2a4c79459"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-45-2021",
+   "path": "local/judet/buzau/2021/45",
+   "short": "HCJ Buzău nr. 45/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 45/2021 pentru persoane vârstnice „Alecu Bagdad” Rm. Sărat",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/03/Hot%C4%83r%C3%A2rea-nr.-45.pdf",
+     "sha256": "c6614b3197fd8d52bc3b687e481028370679cdd1d2f1386b6ca74db292310223"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-46-2021",
+   "path": "local/judet/buzau/2021/46",
+   "short": "HCJ Buzău nr. 46/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 46/2021 privind aprobarea modificării și actualizării Statutului Asociației de Dezvoltare Intercomunitară „Ținutul Buzăului” la care Județul Buzău este membru asociat",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/03/Hot%C4%83r%C3%A2rea-nr.-46.pdf",
+     "sha256": "6544a2d9ce2084aea7483406128430eb22d0e9ca92d144be0eb240aad16e63b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-47-2021",
+   "path": "local/judet/buzau/2021/47",
+   "short": "HCJ Buzău nr. 47/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 47/2021 privind aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară „PROGAZ BUZĂU 2020”, la care județul Buzău este membru asociat",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/03/Hot%C4%83r%C3%A2rea-nr.-47.pdf",
+     "sha256": "fcc328b843db54f02d3e78899c17f23c958a70627b700d264465b01e575096e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-49-2021",
+   "path": "local/judet/buzau/2021/49",
+   "short": "HCJ Buzău nr. 49/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 49/2021 privind aprobarea Parteneriatului de dezvoltare locală între",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/03/Hot%C4%83r%C3%A2rea-nr.-49.pdf",
+     "sha256": "4af0021042d4b034f3dd050ceeaf030d03aacee53d1f64212e065bbe40e510c4"
     }
    ]
   },
@@ -918,6 +2703,51 @@
    ]
   },
   {
+   "slug": "hcj-buzau-50-2021",
+   "path": "local/judet/buzau/2021/50",
+   "short": "HCJ Buzău nr. 50/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 50/2021 pentru ședințele ordinară, respectiv extraordinară din data de 30 martie 2021",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/03/Hot%C4%83r%C3%A2rea-nr.-50.pdf",
+     "sha256": "6696b0410432c5c56f4c8bb8304a107caaa728e5396c01d67e0c03358b5f6761"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-51-2021",
+   "path": "local/judet/buzau/2021/51",
+   "short": "HCJ Buzău nr. 51/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 51/2021 pentru administrație publică locală, juridică, apărarea ordinii publice, respectarea drepturilor și a libertății cetățenilor a Consiliului Judeţean Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2020/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/03/Hot%C4%83r%C3%A2rea-nr.-51.pdf",
+     "sha256": "50f153d7d3c8b9240e033158031f8e7a2400e09a108388a3f4162498dcb0e386"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-52-2021",
+   "path": "local/judet/buzau/2021/52",
+   "short": "HCJ Buzău nr. 52/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 52/2021",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/03/Hot%C4%83r%C3%A2rea-nr.-52.pdf",
+     "sha256": "0d5296c7f50df532027cc16ae96efee115f5a911314e5ff5802b4ce28f7ceb61"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-53-2021",
    "path": "local/judet/buzau/2021/53",
    "short": "HCJ Buzău nr. 53/2021",
@@ -933,6 +2763,81 @@
    ]
   },
   {
+   "slug": "hcj-buzau-54-2021",
+   "path": "local/judet/buzau/2021/54",
+   "short": "HCJ Buzău nr. 54/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 54/2021 pentru realizarea unor Investiții Teritoriale Integrate (ITI)",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-04-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/04/Hot%C4%83r%C3%A2rea-nr.54-din-2021.pdf",
+     "sha256": "d9229eaf0c89b0a46697dbd28184b49aa644f5316a91bf3564628cac253de2f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-56-2021",
+   "path": "local/judet/buzau/2021/56",
+   "short": "HCJ Buzău nr. 56/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 56/2021 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Direcției Județene de Evidență a Persoanelor Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/04/Hot%C4%83r%C3%A2rea-nr.56-din-2021.pdf",
+     "sha256": "bb9486cbc2c1cd692398d41432494f92995b81c866ba7a2329063f87531bad59"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-57-2021",
+   "path": "local/judet/buzau/2021/57",
+   "short": "HCJ Buzău nr. 57/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 57/2021 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Centrului Școlar de Educație Incluzivă Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/04/Hot%C4%83r%C3%A2rea-nr.57-din-2021.pdf",
+     "sha256": "391ee2fa201d7cbc6ae2fd9c64ef10d108ae8248864c677008ee31acbfece55b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-58-2021",
+   "path": "local/judet/buzau/2021/58",
+   "short": "HCJ Buzău nr. 58/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 58/2021 pentru Copii cu Deficienţe Auditive Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/04/Hot%C4%83r%C3%A2rea-nr.58-din-2021.pdf",
+     "sha256": "6e15c5f204210365255352748436779fd19a8a8f3c06bf90004e921a1e96569f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-59-2021",
+   "path": "local/judet/buzau/2021/59",
+   "short": "HCJ Buzău nr. 59/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 59/2021 pentru Deficienţi de Vedere Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/04/Hot%C4%83r%C3%A2rea-nr.59-din-2021.pdf",
+     "sha256": "844568717a7c3c323ad4976815ca45f21967d493a653553dd3f50ed4c332ab1d"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-6-2021",
    "path": "local/judet/buzau/2021/6",
    "short": "HCJ Buzău nr. 6/2021",
@@ -944,6 +2849,111 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/01/H-6.pdf",
      "sha256": "6f6b4563d2bd35a6b21aef438a5a5e29332f0955b10d5222849048470d3ffcf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-61-2021",
+   "path": "local/judet/buzau/2021/61",
+   "short": "HCJ Buzău nr. 61/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 61/2021 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Centrului Școlar de Educație Incluzivă Rm",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/04/Hot%C4%83r%C3%A2rea-nr.61-din-2021.pdf",
+     "sha256": "01225bc5410b1b513c2e22298abb75a714cab2c2bed0d4beef0539fd3641b382"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-62-2021",
+   "path": "local/judet/buzau/2021/62",
+   "short": "HCJ Buzău nr. 62/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 62/2021 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Spitalului Județean de Urgență Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/04/Hot%C4%83r%C3%A2rea-nr.62-din-2021.pdf",
+     "sha256": "02924bec12039ea1a183d54ad77c97a502d9644fdfbe4cc2eb778d8a4cda6602"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-63-2021",
+   "path": "local/judet/buzau/2021/63",
+   "short": "HCJ Buzău nr. 63/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 63/2021 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Bibliotecii Județene „V. Voiculescu” Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/04/Hot%C4%83r%C3%A2rea-nr.63-din-2021.pdf",
+     "sha256": "6c44a2c71745ca61e3d20dbc507e01670fa287511fda5b4eb9948df9de791a22"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-64-2021",
+   "path": "local/judet/buzau/2021/64",
+   "short": "HCJ Buzău nr. 64/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 64/2021 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Muzeului Județean Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/04/Hot%C4%83r%C3%A2rea-nr.64-din-2021.pdf",
+     "sha256": "97016b1c9e28abb61fd779f0bc5c958e366dd23387f43bd7f107c82d52aab064"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-65-2021",
+   "path": "local/judet/buzau/2021/65",
+   "short": "HCJ Buzău nr. 65/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 65/2021 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Teatrului „George Ciprian” Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/04/Hot%C4%83r%C3%A2rea-nr.65-din-2021.pdf",
+     "sha256": "c3ea7476e765fed86a4386dc5dd9c809676c7aaec72f2d5747f3286b31af6a4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-66-2021",
+   "path": "local/judet/buzau/2021/66",
+   "short": "HCJ Buzău nr. 66/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 66/2021 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Centrului Județean de Cultură și Artă Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/04/Hot%C4%83r%C3%A2rea-nr.66-din-2021.pdf",
+     "sha256": "6103db65e162b0fd52a6653a07f705a4268cb612a1e1e8e3529745969447fd21"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-67-2021",
+   "path": "local/judet/buzau/2021/67",
+   "short": "HCJ Buzău nr. 67/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 67/2021 pentru anul 2021 al Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/04/Hot%C4%83r%C3%A2rea-nr.67-din-2021.pdf",
+     "sha256": "2e146652067b520bec8af2b6056ffc4f156b25e01b99263d7dac7aaffaee43a1"
     }
    ]
   },
@@ -1248,6 +3258,36 @@
    ]
   },
   {
+   "slug": "hcj-buzau-88-2021",
+   "path": "local/judet/buzau/2021/88",
+   "short": "HCJ Buzău nr. 88/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 88/2021 pentru aprobarea situațiilor financiare anuale, a contului de profit și pierdere, repartizării profitului realizat în exercițiul financiar 2020 precum și aprobarea bugetului de venituri și cheltuieli al Societății „Domenii Prest Serv” SRL Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/04/Hot%C4%83r%C3%A2rea-nr.88-din-2021.pdf",
+     "sha256": "3393fe6bafa95260bef191694a05e3275d138407f45201034b1937110548fd75"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-89-2021",
+   "path": "local/judet/buzau/2021/89",
+   "short": "HCJ Buzău nr. 89/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 89/2021",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/04/Hot%C4%83r%C3%AErea-nr.89-din-2021.pdf",
+     "sha256": "6f59b0a3f5df45d5479733c3ac76d01739d325495ef08c30d0246f93a477b458"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-9-2021",
    "path": "local/judet/buzau/2021/9",
    "short": "HCJ Buzău nr. 9/2021",
@@ -1259,6 +3299,21 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/01/H-9.pdf",
      "sha256": "3122376aa6867901692a884a802c577da87abd3673c6edde4c841848500bb522"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-90-2021",
+   "path": "local/judet/buzau/2021/90",
+   "short": "HCJ Buzău nr. 90/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 90/2021 pentru aprobarea aderării Județului Buzău ca membru asociat la Asociația Sportivă ”Fotbal Club Buzău”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-05-11",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/05/Hot%C4%83r%C3%A2rea-nr.90-din-2021.pdf",
+     "sha256": "954cd5b41772284f773cd298ffda76f8ee89ac34d8667c6101ce28d47260600f"
     }
    ]
   },

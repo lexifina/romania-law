@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/constanta/2015",
+"acts": [
+{
+"slug": "hcj-constanta-4-2015",
+"path": "local/judet/constanta/2015/4",
+"kind": "local",
+"year": "2015",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Constanța nr. 4/2015 privind modul de ducere la indeplinire a masurilor dispuse prin decizia nr.4/09.01.2015",
+"short": "HCJ Constanța nr. 4/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-01-09",
+"latest": "2015-01-09",
+"portal": "https://www.cjc.ro/sectiune.php?s=71",
+"council": "judet/constanta",
+"council_name": "Consiliul Județean Constanța",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

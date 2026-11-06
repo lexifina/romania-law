@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/judet/arad/2015",
+"acts": [
+{
+"slug": "hcj-arad-3-2015",
+"path": "local/judet/arad/2015/3",
+"kind": "local",
+"year": "2015",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Arad nr. 3/2015",
+"short": "HCJ Arad nr. 3/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-01-30",
+"latest": "2015-01-30",
+"portal": "https://www.cjarad.ro/hotarari/hotararea-nr-3-din-30-01-2015-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-al-regiei-autonome-administratia-zonei-libere-curtici-arad-pe-anul-2015/",
+"council": "judet/arad",
+"council_name": "Consiliul Județean Arad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-arad-232-2015",
+"path": "local/judet/arad/2015/232",
+"kind": "local",
+"year": "2015",
+"number": "232",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Arad nr. 232/2015",
+"short": "HCJ Arad nr. 232/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-10-30",
+"latest": "2015-10-30",
+"portal": "https://www.cjarad.ro/hotarari/hotararea-nr-232-din-30-10-2015-pentru-modificarea-anexei-la-hotararea-consiliului-judetean-arad-nr-195-21-08-2015-privind-acordarea-unor-sume-din-bugetul-propriu-al-judetului-arad-unitatilor-a/",
+"council": "judet/arad",
+"council_name": "Consiliul Județean Arad",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1730,6 +1730,28 @@
 }
 },
 {
+"slug": "hcj-botosani-119-2026",
+"path": "local/judet/botosani/2026/119",
+"kind": "local",
+"year": "2026",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 119/2026 privind aprobarea unor modificări în Programul obiectivelor de investiții, în Lista cuprinzând poziția globală „Alte cheltuieli de investiții”, în Programul obiectivelor de investiții finanțate din excedentul bugetului local, precum și în Raportul privind rezultatele etichetării cheltuielil",
+"short": "HCJ Botoșani nr. 119/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-botosani-120-2026",
 "path": "local/judet/botosani/2026/120",
 "kind": "local",
@@ -2380,6 +2402,28 @@
 "reason": null,
 "title": "Hotărârea Consiliului Județean Botoșani nr. 160/2026 privind aprobarea documentației tehnico-economice (faza S.F.) și a indicatorilor tehnico-economici pentru obiectivul de investiții „Extinderea capacității de depozitare a deșeurilor la CIMD Stăuceni, Județul Botoșani, lucrări de investiție pentru construirea Celulei nr. 2 de depozitare”",
 "short": "HCJ Botoșani nr. 160/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-28",
+"latest": "2026-07-28",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-botosani-162-2026",
+"path": "local/judet/botosani/2026/162",
+"kind": "local",
+"year": "2026",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 162/2026 privind rectificarea bugetului propriu al Județului Botoșani, al bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii, precum și modificarea listei de investiții pe anul 2026",
+"short": "HCJ Botoșani nr. 162/2026",
 "code": null,
 "status": "metadata only (individual decision)",
 "versions": 1,

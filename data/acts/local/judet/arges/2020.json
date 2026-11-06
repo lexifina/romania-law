@@ -3,6 +3,28 @@
 "shard": "local/judet/arges/2020",
 "acts": [
 {
+"slug": "hcj-arges-8-2020",
+"path": "local/judet/arges/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Argeș nr. 8/2020 privind susținerea cheltuielilor materiale ocazionate de funcționarea Compartimentului de audit public intern și a cheltuielilor pentru celelalte compartimente de specialitate din cadrul Asociației de dezvoltare intercomunitară Consorțiul Zonal Topoloveni Consiliul local al Comunei Rătesti , județul Argeș, având în vedere: - Raportul compartimentului Dezvoltare Locala cu nr. 8 / 08.02.2020. CĂ Ref",
+"short": "HCJ Argeș nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-02",
+"latest": "2020-03-02",
+"portal": "https://www.cjarges.ro/documents/238517/1055071/Hotarare+nr+8+din+02.03.2020.pdf/35ee93d1-77d5-4531-acdb-06c2efbeaaf8",
+"council": "judet/arges",
+"council_name": "Consiliul Județean Argeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-arges-229-2020",
 "path": "local/judet/arges/2020/229",
 "kind": "local",

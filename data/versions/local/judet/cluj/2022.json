@@ -93,6 +93,51 @@
    ]
   },
   {
+   "slug": "hcj-cluj-111-2022",
+   "path": "local/judet/cluj/2022/111",
+   "short": "HCJ Cluj nr. 111/2022",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 111/2022 privind însușirea unor documentații cadastrale pentru drumul județean DJ 161D, situat pe raza administrativ-teritorială a Comunei Unguraș",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/72/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/06/fc7ac8ae-111_1_documentatie-cadastrala-dj-unguras.pdf",
+     "sha256": "e2e25a9baa79dc93dfd075405a76c3ded7a63d9785555ca913ef11235b3f572b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-113-2022",
+   "path": "local/judet/cluj/2022/113",
+   "short": "HCJ Cluj nr. 113/2022",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 113/2022",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/72/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/07/07cc501d-113_1_modificare-hcj12-2021.pdf",
+     "sha256": "ecdaab7ec852202acbd24a417c27d59fe51c639d787846b2e1e61d0e99dd3c86"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-115-2022",
+   "path": "local/judet/cluj/2022/115",
+   "short": "HCJ Cluj nr. 115/2022",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 115/2022",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/72/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/page/72/",
+     "sha256": "5b8ff30eb9268c3afd5cc5c07226850368398cafaf14f6bed71db7d7755f0fff"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-117-2022",
    "path": "local/judet/cluj/2022/117",
    "short": "HCJ Cluj nr. 117/2022",
@@ -453,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcj-cluj-166-2022",
+   "path": "local/judet/cluj/2022/166",
+   "short": "HCJ Cluj nr. 166/2022",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 166/2022 privind exercitarea calității de autoritate publică tutelară la societățile TETAROM S.A și Centrul Agro Transilvania S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/68/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/09/0f5d9944-166_4_numiri-tetarom-catcj.pdf",
+     "sha256": "d037b0d6d5c626b0d49f677fe65fc55865d1bb612aeec393fb912898cbee72ea"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-169-2022",
    "path": "local/judet/cluj/2022/169",
    "short": "HCJ Cluj nr. 169/2022",
@@ -573,6 +633,21 @@
    ]
   },
   {
+   "slug": "hcj-cluj-189-2022",
+   "path": "local/judet/cluj/2022/189",
+   "short": "HCJ Cluj nr. 189/2022",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 189/2022 privind aprobarea indicatorilor de performanță financiari și nefinanciari pentru administratorii societății Univers T S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/67/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/11/06b59fcb-189_4_aprobare-indicatori-de-performanta-univers-t.pdf",
+     "sha256": "3fbeaf17adbfd7628fbda3e6bc972f126359956882dc8713563f24f04ca4bd14"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-19-2022",
    "path": "local/judet/cluj/2022/19",
    "short": "HCJ Cluj nr. 19/2022",
@@ -584,6 +659,51 @@
      "units": 1,
      "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/02/19_2_aprobare-masuri-Paza-si-Protectie.pdf",
      "sha256": "b3fcae8ae629c6838f573d51c36f1c34923344f21bf98397b832568e2d04d0eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-190-2022",
+   "path": "local/judet/cluj/2022/190",
+   "short": "HCJ Cluj nr. 190/2022",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 190/2022",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/67/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/11/6015735e-190_5_modif-h-cjc-41_2017_stat-de-fct-sp.-borsa.pdf",
+     "sha256": "2337c2bf7355113f997b22783756cd2f0aa6039df560c057ee64f188d2ca1387"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-193-2022",
+   "path": "local/judet/cluj/2022/193",
+   "short": "HCJ Cluj nr. 193/2022",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 193/2022",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/66/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/page/66/",
+     "sha256": "ad87ac576983feafd64a751129c1c7fe106b31e79786bbfc5e1e173e4c04bb70"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-195-2022",
+   "path": "local/judet/cluj/2022/195",
+   "short": "HCJ Cluj nr. 195/2022",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 195/2022 privind aprobarea Bugetului de venituri și cheltuieli pe anul 2022, rectificat, al societății Univers T S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/66/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/11/e8349a32-195_10_bvc-rectificat-2022-univers-t.pdf",
+     "sha256": "25e9008008904a1e922a50cb88ae7adfdc192a71e97f3085ab3e0a5fb84af667"
     }
    ]
   },
@@ -914,6 +1034,21 @@
      "units": 1,
      "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/12/c03f52a5-231_2_alocare-sume-fond-rezerva-capusu-mare-si-catina-copy.pdf",
      "sha256": "05b70e37387e3e0ef37ef1587952dccd67b28038fff9979542b1a51464551076"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-234-2022",
+   "path": "local/judet/cluj/2022/234",
+   "short": "HCJ Cluj nr. 234/2022",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 234/2022",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/64/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/12/b1f67088-234_2_modif-hcjc-78_2017_aprobare-org-si-stat-de-fct-sp-cl-de-urg-copii.pdf",
+     "sha256": "fccf3842af5049c3256bec6263b586dcc925faa4c65414bec793bd5cfba37412"
     }
    ]
   },
@@ -1409,6 +1544,21 @@
      "units": 1,
      "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/05/79_23B_SUPLIMENTARE-modificare-HCJ-165_2018.pdf",
      "sha256": "6b27ef09a72bcf446ec2ac84540a27dbc24def5532f33d96a64e6eceb5be5d2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-87-2022",
+   "path": "local/judet/cluj/2022/87",
+   "short": "HCJ Cluj nr. 87/2022",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 87/2022",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/74/",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/page/74/",
+     "sha256": "fac9d02e9fd378ad972f04b86dd087eb204b9bbff7b2a3670a2fde62244ac67a"
     }
    ]
   },

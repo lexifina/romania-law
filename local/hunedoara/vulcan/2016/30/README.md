@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Municipiului Vulcan nr. 30/2016 privind aprobarea Acordului încheiat între U.A.T - Municipiul Vulcan și Spitalul municipal Vulcan pentru realizarea obiectivului de investiție: „Reabilitare termică a Spitalului municipal Vulcan” CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Având în vedere Expunerea de motive înregistrată sub nr. 29/8612/29.02.2016 întocmită de Primarul Municipiului Vulcan , dl
+
+HCL Vulcan nr. 30/2016 · 1 versions, from 2016-03-03 (latest in force: 2016-03-03) · <https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2016-0000249e?OpenDocument>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-hunedoara--vulcan-30-2016` (tags `hcl-hunedoara--vulcan-30-2016/<day>`; `python tools/on.py <day> hcl-hunedoara--vulcan-30-2016`).
+
+## Decisions made by hand
+
+- HCL Vulcan nr. 30/2016: listed from Consiliul Local al Municipiului Vulcan (www.e-vulcan.ro); an individual decision: metadata only.
+- HCL Vulcan nr. 30/2016: dated from 3 March 2016, the day it was adopted (the register gives no later day of publication).
+- HCL Vulcan nr. 30/2016: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/arad/2016",
+ "acts": [
+  {
+   "slug": "hcj-arad-23-2016",
+   "path": "local/judet/arad/2016/23",
+   "short": "HCJ Arad nr. 23/2016",
+   "title": "Hotărârea Consiliului Județean Arad nr. 23/2016",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-23-din-27-01-2016-privind-repartizarea-pe-unitati-administrativ-teritoriale-din-judetul-arad-a-sumelor-defalcate-din-taxa-pe-valoarea-adaugata-destinate-finantarii-cheltuielilor-pri/",
+   "versions": [
+    {
+     "from": "2016-01-27",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/files/hotarari.nsf-xsp-.ibmmodres-domino-OpenAttachment-hotarari.nsf-68F771D926546DA5C2258456003CB744-anexa-Anexa%2023.pdf",
+     "sha256": "85286e9e96fe81caefc3170f92ee380718d51a089be6095b3b1bdd91abd7710b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-24-2016",
+   "path": "local/judet/arad/2016/24",
+   "short": "HCJ Arad nr. 24/2016",
+   "title": "Hotărârea Consiliului Județean Arad nr. 24/2016",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-24-din-27-01-2016-privind-repartizarea-pe-unitati-administrativ-teritoriale-din-judetul-arad-a-cotei-de-20-din-sumele-defalcate-din-taxa-pe-valoarea-adaugata-pentru-echilibrarea-bug/",
+   "versions": [
+    {
+     "from": "2016-01-27",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/files/hotarari.nsf-xsp-.ibmmodres-domino-OpenAttachment-hotarari.nsf-5B2FAE538B44AB3CC2258456003CB742-anexa-Anexa%2024.pdf",
+     "sha256": "2ffeb3521a2c682fd71b483f5c999a697ead6407849ff778c22b20b258a1041f"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/judet/arad/2024",
+ "acts": [
+  {
+   "slug": "hcj-arad-321-2024",
+   "path": "local/judet/arad/2024/321",
+   "short": "HCJ Arad nr. 321/2024",
+   "title": "Hotărârea Consiliului Județean Arad nr. 321/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Județean Arad din data de 31.10.2024",
+   "url": "https://www.cjarad.ro/hotarari/0-proiect-de-hotarare-privind-aprobarea-ordinii-de-zi-a-sedintei-ordinare-a-consiliului-judetean-arad-din-data-de-31-10-2024/",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2024/10/Hotarare.pdf",
+     "sha256": "731ab8439fee3414edbc98f7a85fbe731316f11deff8e01b98dfb606079e1219"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-341-2024",
+   "path": "local/judet/arad/2024/341",
+   "short": "HCJ Arad nr. 341/2024",
+   "title": "Hotărârea Consiliului Județean Arad nr. 341/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Județean Arad din data de 18.11.2024",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-341-din-18-11-2024-privind-aprobarea-ordinii-de-zi-a-sedintei-ordinare-a-consiliului-judetean-arad-din-data-de-18-11-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2024/11/Hotarare.pdf",
+     "sha256": "068f3e381d01a3973d5a805cb47ec9e48066481246461bbbad6c9f4bc9a223d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-363-2024",
+   "path": "local/judet/arad/2024/363",
+   "short": "HCJ Arad nr. 363/2024",
+   "title": "Hotărârea Consiliului Județean Arad nr. 363/2024 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Județean Arad din data de 06.12.2024",
+   "url": "https://www.cjarad.ro/hotarari/hotarare-privind-aprobarea-ordinii-de-zi-a-sedintei-extraordinare-a-consiliului-judetean-arad-din-data-de-06-12-2024/",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2024/12/Hotarare.pdf",
+     "sha256": "f2551f595612ea609f187ee13af2ae25099085c797fa87294dcf71a5d79b4e0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-518-2024",
+   "path": "local/judet/arad/2024/518",
+   "short": "HCJ Arad nr. 518/2024",
+   "title": "Hotărârea Consiliului Județean Arad nr. 518/2024",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-295-din-26-09-2024-privind-avizarea-tarifelor-pentru-anul-2025-pentru-concesionarea-si-inchirierea-unor-bunuri-de-catre-regia-autonoma-administratia-zonei-libere-curtici-ar/",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/files-hot-2024/hotarari.nsf-xsp-.ibmmodres-domino-OpenAttachment-hotarari.nsf-DDC92EDB09F5A2D3C2258B9D00255C2F-alte_atasamente-Raport.pdf",
+     "sha256": "52055a6d73e910a493703458d54d3a74226fe5f229bce3ce3f8c901636152b47"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-566-2024",
+   "path": "local/judet/arad/2024/566",
+   "short": "HCJ Arad nr. 566/2024",
+   "title": "Hotărârea Consiliului Județean Arad nr. 566/2024",
+   "url": "https://www.cjarad.ro/hotarari/9-proiect-de-hotarare-privind-acordarea-unui-mandat-special-reprezentantului-unitatii-administrativ-teritoriale-judetul-arad-in-adunarea-generala-a-asociatiei-de-dezvoltare-intercomunitara-apa-canali/",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2024/12/Raport-5.pdf",
+     "sha256": "33c5bb0a7cef322419e562c6a5f548ebb29b01c70eece5259a425b2963ffac1c"
+    }
+   ]
+  }
+ ]
+}

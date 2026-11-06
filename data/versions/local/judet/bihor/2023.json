@@ -1263,6 +1263,21 @@
    ]
   },
   {
+   "slug": "hcj-bihor-189-2023",
+   "path": "local/judet/bihor/2023/189",
+   "short": "HCJ Bihor nr. 189/2023",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 189/2023 Privind aprobarea indicatorilor tehnico-economici actualizați, aprobarea declanșării procedurii de expropriere suplimentara si însușirea raportului de evaluare, pentru lucrarea de utilitate publica: „Dezvoltare și modernizarea infrastructurii aeroportuare la Aeroportul Oradea”",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2023/07/h-189-din-13.07.2023_Redacted-1.pdf",
+     "sha256": "8c00d71055114387942432b9aa2df881c7c572cc33f20219720fc9857f80910f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-bihor-19-2023",
    "path": "local/judet/bihor/2023/19",
    "short": "HCJ Bihor nr. 19/2023",

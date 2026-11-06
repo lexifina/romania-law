@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/judet/brasov/2009",
+"acts": [
+{
+"slug": "hcj-brasov-148-2009",
+"path": "local/judet/brasov/2009/148",
+"kind": "local",
+"year": "2009",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 148/2009",
+"short": "HCJ Brașov nr. 148/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-07-01",
+"latest": "2009-07-01",
+"portal": "https://site.judbrasov.ro/upload/hotarari/1014.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-brasov-202-2009",
+"path": "local/judet/brasov/2009/202",
+"kind": "local",
+"year": "2009",
+"number": "202",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 202/2009 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Județean Brașov din data de 23 septembrie 2009",
+"short": "HCJ Brașov nr. 202/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-09-23",
+"latest": "2009-09-23",
+"portal": "https://site.judbrasov.ro/upload/hotarari/1068.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-204-2009",
+"path": "local/judet/brasov/2009/204",
+"kind": "local",
+"year": "2009",
+"number": "204",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 204/2009 privind aprobarea constituirii unei comisii speciale de analiză și verificare a aspectelor descrise în Interpelarea formulată de un grup de consilieri județeni",
+"short": "HCJ Brașov nr. 204/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-09-23",
+"latest": "2009-09-23",
+"portal": "https://site.judbrasov.ro/upload/hotarari/1070.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/brasov/2012",
+ "acts": [
+  {
+   "slug": "hcj-brasov-120-2012",
+   "path": "local/judet/brasov/2012/120",
+   "short": "HCJ Brașov nr. 120/2012",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 120/2012",
+   "url": "https://site.judbrasov.ro/upload/hotarari/2296.pdf",
+   "versions": [
+    {
+     "from": "2012-03-09",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/2296.pdf",
+     "sha256": "62f2c1bd40a0946c8fa47fac087b36af6824df1f4f03a4352f2340099a57df04"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-275-2012",
+   "path": "local/judet/brasov/2012/275",
+   "short": "HCJ Brașov nr. 275/2012",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 275/2012 privind aprobarea decontării cheltuielilor de transport ale elevilor spre școală și spre localitatea de domiciliu pe anul 2012, de către unitățile de învățământ special și special integrat, aflate sub autoritatea Consiliului Județean Brașov",
+   "url": "https://site.judbrasov.ro/upload/hotarari/2451.pdf",
+   "versions": [
+    {
+     "from": "2012-05-22",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/2451.pdf",
+     "sha256": "b80170df82b317a5c3c9cb41d52a2d16f0ed2e96a63ba4b76e7e9fc376e62afc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-69-2012",
+   "path": "local/judet/brasov/2012/69",
+   "short": "HCJ Brașov nr. 69/2012",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 69/2012 privind aprobarea cooperării Județului Brașov cu Asociația Foștilor Deținuți Politici din România și finanțarea cu suma de 6.000 lei pentru organizarea unui eveniment comemorativ menit să asigure pentru un număr de 48 de persoane, supraviețuitori și urmași ai celor decedați, o deplasare la penitenciarele de la Gherla și Aiud",
+   "url": "https://site.judbrasov.ro/upload/hotarari/2536.pdf",
+   "versions": [
+    {
+     "from": "2012-09-11",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/2536.pdf",
+     "sha256": "38c274001365a24ac1891a3fb692cd3aa6ff0b8baf2f5bca2fb5e91fae7c33fa"
+    }
+   ]
+  }
+ ]
+}

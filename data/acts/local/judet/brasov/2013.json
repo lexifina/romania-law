@@ -1,0 +1,226 @@
+{
+"country": "RO",
+"shard": "local/judet/brasov/2013",
+"acts": [
+{
+"slug": "hcj-brasov-165-2013",
+"path": "local/judet/brasov/2013/165",
+"kind": "local",
+"year": "2013",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 165/2013 privind schimbarea destinației sumelor de echilibrare repartizate comunei Beclean de",
+"short": "HCJ Brașov nr. 165/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-28",
+"latest": "2013-03-28",
+"portal": "https://site.judbrasov.ro/upload/hotarari/2902.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-237-2013",
+"path": "local/judet/brasov/2013/237",
+"kind": "local",
+"year": "2013",
+"number": "237",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 237/2013 privind modificarea bugetului de venituri și cheltuieli al Muzeului „Casa Mureșenilor” cu suma de 27,55 mii lei",
+"short": "HCJ Brașov nr. 237/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-05-23",
+"latest": "2013-05-23",
+"portal": "https://site.judbrasov.ro/upload/hotarari/2972.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-289-2013",
+"path": "local/judet/brasov/2013/289",
+"kind": "local",
+"year": "2013",
+"number": "289",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 289/2013 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Județean Brașov din data de 20.06.2013",
+"short": "HCJ Brașov nr. 289/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-06-20",
+"latest": "2013-06-20",
+"portal": "https://site.judbrasov.ro/upload/hotarari/3023.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-388-2013",
+"path": "local/judet/brasov/2013/388",
+"kind": "local",
+"year": "2013",
+"number": "388",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 388/2013 privind aprobarea modificării listei de investiții, din cadrul bugetului de venituri și cheltuieli, pe anul 2013, la Cap.66.02 — Sănătate, poziția C „Alte cheltuieli de investiții”",
+"short": "HCJ Brașov nr. 388/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-08-19",
+"latest": "2013-08-19",
+"portal": "https://site.judbrasov.ro/upload/hotarari/3122.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-395-2013",
+"path": "local/judet/brasov/2013/395",
+"kind": "local",
+"year": "2013",
+"number": "395",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 395/2013 privind aprobarea cooperării Județului Brașov cu Uniunea Junilor din Scheii Brașovului și Brașovul Vechi și finanțarea cu suma de 3.500 lei, pentru derularea acțiunii „Jocul Junilor Dorobanți de la crucea dreptății”",
+"short": "HCJ Brașov nr. 395/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-08-19",
+"latest": "2013-08-19",
+"portal": "https://site.judbrasov.ro/upload/hotarari/3129.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-540-2013",
+"path": "local/judet/brasov/2013/540",
+"kind": "local",
+"year": "2013",
+"number": "540",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 540/2013 privind schimbarea destinației sumelor de echilibrare repartizate comunei Recea de",
+"short": "HCJ Brașov nr. 540/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-10-25",
+"latest": "2013-10-25",
+"portal": "https://site.judbrasov.ro/upload/hotarari/3272.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-559-2013",
+"path": "local/judet/brasov/2013/559",
+"kind": "local",
+"year": "2013",
+"number": "559",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 559/2013 privind modificarea bugetului local de venituri și cheltuieli al Județului Brașov cu suma de 94,55 mii lei",
+"short": "HCJ Brașov nr. 559/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-09",
+"latest": "2013-12-09",
+"portal": "https://site.judbrasov.ro/upload/hotarari/3292.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-571-2013",
+"path": "local/judet/brasov/2013/571",
+"kind": "local",
+"year": "2013",
+"number": "571",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 571/2013 privind aprobarea asocierii Județului Brașov cu Compania Națională de Căi Ferate CFR SA — CNCF CFR SA, Municipiul Brașov și Comuna Feldioara în vederea realizării obiectivului de investiții ,, Terminal intermodal de marfă Brașov - Feldioara”",
+"short": "HCJ Brașov nr. 571/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-09",
+"latest": "2013-12-09",
+"portal": "https://site.judbrasov.ro/upload/hotarari/3304.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-590-2013",
+"path": "local/judet/brasov/2013/590",
+"kind": "local",
+"year": "2013",
+"number": "590",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 590/2013 privind aprobarea cooperării Județului Brașov cu Asociația Turistică Ghizii României și finanțarea cu suma de 15.000 lei, în vederea implementării proiectului „Un pas greșit, o șovăire și rămâi o amintire”",
+"short": "HCJ Brașov nr. 590/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-09",
+"latest": "2013-12-09",
+"portal": "https://site.judbrasov.ro/upload/hotarari/3323.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-624-2013",
+"path": "local/judet/brasov/2013/624",
+"kind": "local",
+"year": "2013",
+"number": "624",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 624/2013 privind majorarea bugetului local de venituri și cheltuieli al Județului Brașov și corespunzător, majorarea bugetului de venituri și cheltuieli al Direcției Generale de Asistență Socială și Protecția Copilului, cu suma de 27, 80 mii lei",
+"short": "HCJ Brașov nr. 624/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-09",
+"latest": "2013-12-09",
+"portal": "https://site.judbrasov.ro/upload/hotarari/3357.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

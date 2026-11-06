@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/constanta/2017",
+ "acts": [
+  {
+   "slug": "hcj-constanta-1779-2017",
+   "path": "local/judet/constanta/2017/1779",
+   "short": "HCJ Constanța nr. 1779/2017",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1779/2017",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2017-10-26",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2017-1779.pdf",
+     "sha256": "b41bae20319c30c891622dcac346bf234b5532f2649cc9601a37485fbe5b826d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-1953-2017",
+   "path": "local/judet/constanta/2017/1953",
+   "short": "HCJ Constanța nr. 1953/2017",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1953/2017",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2017-11-14",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2017-1953.pdf",
+     "sha256": "1d4cf68d5f8cdcb83536cc7f46d2bb5b04afd5737889c467933308964baea82b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-340-2017",
+   "path": "local/judet/constanta/2017/340",
+   "short": "HCJ Constanța nr. 340/2017",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 340/2017",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2017-01-20",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2017-340.pdf",
+     "sha256": "55102ca120474a98c0056b0b53ab283669bc70fb5566cc817a47fa022f536a72"
+    }
+   ]
+  }
+ ]
+}

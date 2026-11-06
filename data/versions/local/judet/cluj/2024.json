@@ -18,6 +18,66 @@
    ]
   },
   {
+   "slug": "hcj-cluj-102-2024",
+   "path": "local/judet/cluj/2024/102",
+   "short": "HCJ Cluj nr. 102/2024",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 102/2024 privind aprobarea Organigramei, Statului de funcții și a Regulamentului de organizare și Funcționare pentru Serviciul Public Județean Salvamont-Salvaspeo Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/40/",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2024/05/29baab60-102_19_aprobare-org-stat-de-fct-rof-salvamont.pdf",
+     "sha256": "ec2bec73d3b70089d763181b0b1c6197657d09ec5aa4ffed226ac9173832803d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-103-2024",
+   "path": "local/judet/cluj/2024/103",
+   "short": "HCJ Cluj nr. 103/2024",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 103/2024 privind probarea Organigramei, Statului de funcții și a Regulamentului de organizare și funcționare pentru Direcția Județeană de Evidență a Persoanelor Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/40/",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2024/05/10df3aa9-103_20_aprobare-org-stat-de-fct-rof-djep.pdf",
+     "sha256": "2c911037f5833167f38e2234790802da927847fbb6b4d6a50d8e8f7066f2d06a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-104-2024",
+   "path": "local/judet/cluj/2024/104",
+   "short": "HCJ Cluj nr. 104/2024",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 104/2024 privind aprobarea Organigramei, a Statului de funcții și a Regulamentului de organizare și funcționare pentru societatea Pază și Protecție Cluj S.R.L",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/40/",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2024/05/f2f02026-104_21_aprobare-org-stat-de-fct-rof-paza-si-protectie.pdf",
+     "sha256": "d915846b31f6454e8efe956f21fcef1c7787e24947a7c7da9849b49e1613455a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-105-2024",
+   "path": "local/judet/cluj/2024/105",
+   "short": "HCJ Cluj nr. 105/2024",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 105/2024 privind aprobarea Organigramei, a Statului de funcții și a Regulamentului de organizare și funcționare pentru societatea UNIVERS T S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/40/",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2024/05/ab69221a-105_22_aprobare-org-stat-de-fct-rof-univers-t.pdf",
+     "sha256": "450c59bac6f7189bf4f079bbe332e86291010234adc3ad73c586f155846596af"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-107-2024",
    "path": "local/judet/cluj/2024/107",
    "short": "HCJ Cluj nr. 107/2024",
@@ -783,6 +843,96 @@
    ]
   },
   {
+   "slug": "hcj-cluj-217-2024",
+   "path": "local/judet/cluj/2024/217",
+   "short": "HCJ Cluj nr. 217/2024",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 217/2024 privind aprobarea măsurilor pentru asistența juridică a funcționarilor publici din aparatul de specialitate al Consiliului Județean Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/32/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2024/12/d656b745-217_3_aprobare-masuri-asistenta-juridica-functionari-pub-aparat-cjc.pdf",
+     "sha256": "b0ac7e50dbfd0a976fb4d9bee684ce7e06ab3ac72e9208e6329fc7082d6b556c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-225-2024",
+   "path": "local/judet/cluj/2024/225",
+   "short": "HCJ Cluj nr. 225/2024",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 225/2024",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/32/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2024/12/49e89cdb-225_13_concesionare-fantanele-3.pdf",
+     "sha256": "807263a64c7c1e9cfec3196907d6a2e4d7a0472d4a8a9110055feb83d39946b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-226-2024",
+   "path": "local/judet/cluj/2024/226",
+   "short": "HCJ Cluj nr. 226/2024",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 226/2024",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/32/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2024/12/0327ea85-226_14_concesionare-horea-40.pdf",
+     "sha256": "ab4a2199fd1e89991821bc6e9dd23c477cf67472b1e35fb7eb4fa861799e0240"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-227-2024",
+   "path": "local/judet/cluj/2024/227",
+   "short": "HCJ Cluj nr. 227/2024",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 227/2024",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/31/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/page/31/",
+     "sha256": "2fa8c5f375824a1194e02a314314b96257a3973f110c12e13bfc11a5d50e91ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-228-2024",
+   "path": "local/judet/cluj/2024/228",
+   "short": "HCJ Cluj nr. 228/2024",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 228/2024",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/31/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2024/12/809baac1-228_16_modificare-hcj-217-2021-comisie-selectie-administratori.pdf",
+     "sha256": "9277d13b4bbc9717486b9a0c873ceda1027bcb008c7d9644dfe824e612c5bf08"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-229-2024",
+   "path": "local/judet/cluj/2024/229",
+   "short": "HCJ Cluj nr. 229/2024",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 229/2024 privind desemnarea reprezentanților Județului Cluj în adunarea generală a acționarilor la societățile la care acesta este acționar",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/31/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2024/11/008b60f0-229_2024_versiune-consolidata_hcj_190_2025.pdf",
+     "sha256": "7f37c1e817f76f0a3e7dc38c13545d97d8c5b8b9d2fe39a1c84fe6c6251318a9"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-23-2024",
    "path": "local/judet/cluj/2024/23",
    "short": "HCJ Cluj nr. 23/2024",
@@ -794,6 +944,21 @@
      "units": 1,
      "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2024/02/e0b98df4-23_9_bvc-univers-t.pdf",
      "sha256": "1ed061a3da34a75f50d81e1911317ddd55de4f8b0c11b50261c854249dae3528"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-234-2024",
+   "path": "local/judet/cluj/2024/234",
+   "short": "HCJ Cluj nr. 234/2024",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 234/2024",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/31/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2024/12/9e54b1d8-234_22_modif-hcj-170-2020-regulament-cjc.pdf",
+     "sha256": "8fc65cd6150d5057256808ebaf2b1a840eacd627bd7c916fbd16b63c87ff2a51"
     }
    ]
   },
@@ -989,6 +1154,21 @@
      "units": 1,
      "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2024/12/16250dc0-255_17a_suplimentare-rectificare-buget.pdf",
      "sha256": "d4c5889e9fa5e5d9ae480f9f9e89966bfc432e38e1132d40f251c43d09994163"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-257-2024",
+   "path": "local/judet/cluj/2024/257",
+   "short": "HCJ Cluj nr. 257/2024",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 257/2024 pentru stabilirea prețurilor medii la principalele produse agricole pe baza cărora vor fi stabilite veniturile din arendă în anul 2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/29/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2024/12/de74b782-257_1_pret-mediu-produse-agricole-2025.pdf",
+     "sha256": "f35afceb6a4081e867dfb35a10a46dcde0340529c73a3d329c041b1f321d36da"
     }
    ]
   },
@@ -1248,6 +1428,21 @@
    ]
   },
   {
+   "slug": "hcj-cluj-45-2024",
+   "path": "local/judet/cluj/2024/45",
+   "short": "HCJ Cluj nr. 45/2024",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 45/2024 privind alocarea unor sume din fondul de rezervă al bugetului local al Județului Cluj în anul 2024",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/44/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2024/04/70700819-45_10_fond-rezerva.pdf",
+     "sha256": "0ab27bd2e3af3f8bef4c923bac8c5f40ee4f7beeb9adad915901df1400bf24a5"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-54-2024",
    "path": "local/judet/cluj/2024/54",
    "short": "HCJ Cluj nr. 54/2024",
@@ -1439,6 +1634,81 @@
      "units": 1,
      "source_url": null,
      "sha256": "dcd83cc3d9fe00e597323d876105e3b7fb15d55477416d07952c5d57be8bfc31"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-86-2024",
+   "path": "local/judet/cluj/2024/86",
+   "short": "HCJ Cluj nr. 86/2024",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 86/2024",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/41/",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/page/41/",
+     "sha256": "9b83eea4b38ab3be6d75e38eef82871eb5135a0824e7220d92feaee62156c7ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-87-2024",
+   "path": "local/judet/cluj/2024/87",
+   "short": "HCJ Cluj nr. 87/2024",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 87/2024 privind aprobarea situațiilor financiare la data de 31.12.2023 ale societății Pază și Protecție Cluj S.R.L",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/41/",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2024/05/494197da-87_4_situatii-financiare-paza-si-protectie.pdf",
+     "sha256": "f7d36d4c2487ddaff313beffd826cb07bb97615ac963e50b423d53a5797d85b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-92-2024",
+   "path": "local/judet/cluj/2024/92",
+   "short": "HCJ Cluj nr. 92/2024",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 92/2024",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/40/",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/page/40/",
+     "sha256": "8a68ecbc529af76815ea37f82dbcb613e266d2b8ac2545df88a7bf5e68a3028f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-93-2024",
+   "path": "local/judet/cluj/2024/93",
+   "short": "HCJ Cluj nr. 93/2024",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 93/2024",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/40/",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/page/40/",
+     "sha256": "06874b23461761c8007619916343b921a30975865c93e6b4f6500f85a08414b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-94-2024",
+   "path": "local/judet/cluj/2024/94",
+   "short": "HCJ Cluj nr. 94/2024",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 94/2024",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/40/",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/page/40/",
+     "sha256": "6fa9f6afa4256d6fb406bd7792e69bee740843e9b6a1114c52e4e97752dc1141"
     }
    ]
   }

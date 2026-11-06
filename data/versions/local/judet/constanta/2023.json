@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/judet/constanta/2023",
+ "acts": [
+  {
+   "slug": "hcj-constanta-1196-2023",
+   "path": "local/judet/constanta/2023/1196",
+   "short": "HCJ Constanța nr. 1196/2023",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1196/2023",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2023-10-10",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2025_Sentinta_1196.pdf",
+     "sha256": "405efba284f73d9e4c6d6f57ea5474a13391fd30396488a28fc162d4e394e331"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-1503-2023",
+   "path": "local/judet/constanta/2023/1503",
+   "short": "HCJ Constanța nr. 1503/2023",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1503/2023",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2025_Sentinta_1503.pdf",
+     "sha256": "7b7903dc103fde3f5ea2edbdd57400abe6c52dedbf6fa4c10f9d68a8b75c4e79"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-197-2023",
+   "path": "local/judet/constanta/2023/197",
+   "short": "HCJ Constanța nr. 197/2023",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 197/2023",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2023_Sentinta_197.pdf",
+     "sha256": "25f49fd90b9b1e8c6dd5ba63e6b4dd70bfeb9f5329b8ee59a6935d7e49bafea9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-2979-2023",
+   "path": "local/judet/constanta/2023/2979",
+   "short": "HCJ Constanța nr. 2979/2023",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 2979/2023",
+   "url": "https://www.cjc.ro/sectiune.php?s=71",
+   "versions": [
+    {
+     "from": "2023-01-13",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/9-Curte_Conturi/2023_Adresa_2979-2023.pdf",
+     "sha256": "da372de891109cbc8172bd7d7dfc38e5ce487e682895e6df0f02c73d8dc26953"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-490-2023",
+   "path": "local/judet/constanta/2023/490",
+   "short": "HCJ Constanța nr. 490/2023",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 490/2023",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2023_Decizia_490.pdf",
+     "sha256": "01eef240bd6736dc484d86649e7982f860aa88aee371a7d7ce5e0314b1e12cbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-620-2023",
+   "path": "local/judet/constanta/2023/620",
+   "short": "HCJ Constanța nr. 620/2023",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 620/2023",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2025_Sentinta_620.pdf",
+     "sha256": "c631a201cd3400c3e821f6ff5c7fa520d4e39cfb3a35eef983b30de9cf4998cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-695-2023",
+   "path": "local/judet/constanta/2023/695",
+   "short": "HCJ Constanța nr. 695/2023",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 695/2023",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2025_Sentinta_695.pdf",
+     "sha256": "2421e4b564cd6c84756425b516fe2798407c99e44770126d3bf9404a7d1e272f"
+    }
+   ]
+  }
+ ]
+}

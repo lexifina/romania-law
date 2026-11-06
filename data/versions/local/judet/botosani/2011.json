@@ -1308,6 +1308,21 @@
    ]
   },
   {
+   "slug": "hcj-botosani-7-2011",
+   "path": "local/judet/botosani/2011/7",
+   "short": "HCJ Botoșani nr. 7/2011",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 7/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-01-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h092_31.08.2011.pdf",
+     "sha256": "e72b88c58bd91f665f1210da6d442b449a3552a9e9715d5b1eb85b438c8c3529"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-74-2011",
    "path": "local/judet/botosani/2011/74",
    "short": "HCJ Botoșani nr. 74/2011",

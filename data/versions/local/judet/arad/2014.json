@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/arad/2014",
+ "acts": [
+  {
+   "slug": "hcj-arad-112-2014",
+   "path": "local/judet/arad/2014/112",
+   "short": "HCJ Arad nr. 112/2014",
+   "title": "Hotărârea Consiliului Județean Arad nr. 112/2014",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-112-din-25-04-2014-privind-aprobarea-valorii-estimate-de-28-235-44050-lei-tva-inclus-si-a-documentatiilor-de-atribuire-aferente-contractelor-de-lucrari-inchidere-depozite/",
+   "versions": [
+    {
+     "from": "2014-04-25",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/files/hotarari.nsf-xsp-.ibmmodres-domino-OpenAttachment-hotarari.nsf-1722279E738D6CE7C2258456003CB557-anexa-112.rar",
+     "sha256": "9fbfd05adece968b723308895ff8c47ff7178932f23f53b4194acd2c8a51b61d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-190-2014",
+   "path": "local/judet/arad/2014/190",
+   "short": "HCJ Arad nr. 190/2014",
+   "title": "Hotărârea Consiliului Județean Arad nr. 190/2014",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-190-din-27-08-2014-privind-modificarea-statului-de-functii-pentru-spitalul-de-psihiatrie-mocrea/",
+   "versions": [
+    {
+     "from": "2014-08-27",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/files/hotarari.nsf-xsp-.ibmmodres-domino-OpenAttachment-hotarari.nsf-6746EAFF864DE8B0C2258456003CB5A8-anexa-190_2708_anexa.xls",
+     "sha256": "afe5bf9ed4ed3e8926e0195ec871b853e9803d1d7f08319a554d02de6257fa46"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-4-2014",
+   "path": "local/judet/arad/2014/4",
+   "short": "HCJ Arad nr. 4/2014",
+   "title": "Hotărârea Consiliului Județean Arad nr. 4/2014",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-4-din-30-01-2014-privind-eliberarea-licentelor-de-traseu-pentru-efectuarea-serviciului-de-transport-public-judetean-de-persoane-prin-curse-regulate-speciale-unor-operatori-de-trans/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/files/hotarari.nsf-xsp-.ibmmodres-domino-OpenAttachment-hotarari.nsf-7E643D607742BB52C2258456003CB4EA-anexa-Anexa.doc",
+     "sha256": "a9b81cdf5b49925d6256998dab98dd888b209f7757297dbf0d996a39b148b8b6"
+    }
+   ]
+  }
+ ]
+}

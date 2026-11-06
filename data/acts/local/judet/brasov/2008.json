@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/judet/brasov/2008",
+"acts": [
+{
+"slug": "hcj-brasov-49-2008",
+"path": "local/judet/brasov/2008/49",
+"kind": "local",
+"year": "2008",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 49/2008 privind participarea județului Brașov la proiectul „EUROPE DIRECT”",
+"short": "HCJ Brașov nr. 49/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-03-05",
+"latest": "2008-03-05",
+"portal": "https://site.judbrasov.ro/upload/hotarari/63.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-98-2008",
+"path": "local/judet/brasov/2008/98",
+"kind": "local",
+"year": "2008",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 98/2008 privind aprobarea suplimentării bugetului Județului Brașov cu suma de 500 mii le alocată din fondul de rezervă bugetară la dispoziția Guvernului",
+"short": "HCJ Brașov nr. 98/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-05-31",
+"latest": "2008-05-31",
+"portal": "https://site.judbrasov.ro/upload/hotarari/647.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-132-2008",
+"path": "local/judet/brasov/2008/132",
+"kind": "local",
+"year": "2008",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 132/2008 privind aprobarea cooperării Județului Brașov cu Alianța Franceză Brașov și finanțarea cu suma de 25.000 lei, pentru realizarea proiectului „Festival de teatru pentru tineri „EuroArt” 2008”",
+"short": "HCJ Brașov nr. 132/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-05-31",
+"latest": "2008-05-31",
+"portal": "https://site.judbrasov.ro/upload/hotarari/621.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-145-2008",
+"path": "local/judet/brasov/2008/145",
+"kind": "local",
+"year": "2008",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 145/2008 privind includerea în domeniul public al județului Brașov a unui spațiu cu destinația de centrală termică pe lemne, amplasat în incinta imobilului situat în municipiul Brașov, str",
+"short": "HCJ Brașov nr. 145/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-12-16",
+"latest": "2008-12-16",
+"portal": "https://site.judbrasov.ro/upload/hotarari/816.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-167-2008",
+"path": "local/judet/brasov/2008/167",
+"kind": "local",
+"year": "2008",
+"number": "167",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 167/2008 privind aprobarea modificării traseului Brașov-Apața, prin modificarea capului de traseu Augustin, în cadrul Programului județean de transport de persoane, valabil pentru perioada 01.07.2008-30.06.2011",
+"short": "HCJ Brașov nr. 167/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-12-16",
+"latest": "2008-12-16",
+"portal": "https://site.judbrasov.ro/upload/hotarari/838.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

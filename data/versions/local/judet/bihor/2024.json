@@ -2703,6 +2703,21 @@
    ]
   },
   {
+   "slug": "hcj-bihor-28-2024",
+   "path": "local/judet/bihor/2024/28",
+   "short": "HCJ Bihor nr. 28/2024",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 28/2024 PRIVIND APROBAREA BUGETULUI JUDEȚULUI BIHOR ȘI A INSTITUȚIILOR SUBORDONATE PE ANUL 2024 – RECTIFICAT",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2024/03/h-28-din-29.02.2024_Redacted.pdf",
+     "sha256": "12d258ef2b74179f247e8a311b877d91ff01857399bc4c9978cfeeaf841dcf24"
+    }
+   ]
+  },
+  {
    "slug": "hcj-bihor-280-2024",
    "path": "local/judet/bihor/2024/280",
    "short": "HCJ Bihor nr. 280/2024",
@@ -3959,6 +3974,21 @@
      "units": 1,
      "source_url": "https://www.cjbihor.ro/wp-content/uploads/2024/04/h-55-din-27.03.2024_Redacted.pdf",
      "sha256": "19fe6822e1c5fb0f3078e9bd366f5e0c520d4fd2ce382359570d3416d079e459"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-553-2024",
+   "path": "local/judet/bihor/2024/553",
+   "short": "HCJ Bihor nr. 553/2024",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 553/2024",
+   "url": "https://www.cjbihor.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/Decizia-nr-553CC-2024.pdf",
+     "sha256": "a84ba29ea00f9b55673b8d3b904157bdd1bb63dd5bb4b59366e805ad1cc186f6"
     }
    ]
   },

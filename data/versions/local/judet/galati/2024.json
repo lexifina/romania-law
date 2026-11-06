@@ -3,6 +3,426 @@
  "shard": "local/judet/galati/2024",
  "acts": [
   {
+   "slug": "hcj-galati-1-2024",
+   "path": "local/judet/galati/2024/1",
+   "short": "HCJ Galați nr. 1/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 1/2024 privind aprobarea proiectului și a cheltuielilor legate de proiect pentru realizarea obiectivului „Eficientizare energetică a clădirii serviciului de ambulanță Tecuci, județul Galați” ………. 2 2",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2024-01-15",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/04/Hotararea-nr.-1-din-27.02.2024.pdf",
+     "sha256": "2fe1ea2e606e63f7f235addb6b49e7261d2cebf9af9e13d363d7a8e4bdc4bb89"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-10-2024",
+   "path": "local/judet/galati/2024/10",
+   "short": "HCJ Galați nr. 10/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 10/2024",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/04/Hotararea-nr.-10-din-27.02.2024.pdf",
+     "sha256": "3091998e8c8b233ae5683f6cd3136b611dff12433e9ed7a632650e87a22f15f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-11-2024",
+   "path": "local/judet/galati/2024/11",
+   "short": "HCJ Galați nr. 11/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 11/2024",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/04/Hotararea-nr.-11-din-27.02.2024.pdf",
+     "sha256": "006f77b359c269d91402cd1ee72bbf95b3e5f81ae72eb6dd58897723b3407ad3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-12-2024",
+   "path": "local/judet/galati/2024/12",
+   "short": "HCJ Galați nr. 12/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 12/2024",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/04/Hotararea-nr.-12-din-27.02.2024.pdf",
+     "sha256": "88556b821a7a9f1165d067f5f9e6a64fb93fd6aa6e2d1e36e15451d460794976"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-13-2024",
+   "path": "local/judet/galati/2024/13",
+   "short": "HCJ Galați nr. 13/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 13/2024",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/04/Hotararea-nr.-13-din-27.02.2024.pdf",
+     "sha256": "5a58e656633d0dab4d38ce30609aba28f3a41ed2826bcf57231b6a79d5215aa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-14-2024",
+   "path": "local/judet/galati/2024/14",
+   "short": "HCJ Galați nr. 14/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 14/2024",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/04/Hotararea-nr.-14-din-27.02.2024.pdf",
+     "sha256": "fb9f58f32ce99bcc6ab4bb557be1a08b0568dcb376eafd9f90e64052b858e547"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-15-2024",
+   "path": "local/judet/galati/2024/15",
+   "short": "HCJ Galați nr. 15/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 15/2024",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/04/Hotararea-nr.-15-din-27.02.2024.pdf",
+     "sha256": "5432543db954581ea55f4cb437fa9be9f8a2b5d869ef655f7dd7255699f6ee81"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-16-2024",
+   "path": "local/judet/galati/2024/16",
+   "short": "HCJ Galați nr. 16/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 16/2024",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/04/Hotararea-nr.-16-din-27.02.2024.pdf",
+     "sha256": "dbea87ce19d0b964ddb1ca9f11bffb68154760f82fd8c5e1d88891cb50e2adb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-17-2024",
+   "path": "local/judet/galati/2024/17",
+   "short": "HCJ Galați nr. 17/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 17/2024",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/04/Hotararea-nr.-17-din-27.02.2024.pdf",
+     "sha256": "fe4ac9b2055df211dbadfe3aa96aff894ec9f4d11f151975b64c8817f7dd66fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-18-2024",
+   "path": "local/judet/galati/2024/18",
+   "short": "HCJ Galați nr. 18/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 18/2024",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/04/Hotararea-nr.-18-din-27.02.2024.pdf",
+     "sha256": "9a79c7cea844141c66552942ed81778a07b765d0a22980c69cf296f3bc2ac169"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-2-2024",
+   "path": "local/judet/galati/2024/2",
+   "short": "HCJ Galați nr. 2/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 2/2024 pentru realizarea obiectivului „Reabilitare termică și modernizare energetică a instalațiilor aferente Spitalului Clinic Județean de Urgență „Sf",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2024-01-15",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/04/Hotararea-nr.-2-din-27.02.2024.pdf",
+     "sha256": "faaed0bed183f332183994b5f3fb0752238a9fd7a9649cebd10c1b2137ea0510"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-21-2024",
+   "path": "local/judet/galati/2024/21",
+   "short": "HCJ Galați nr. 21/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 21/2024",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/12/Hotararea21-051124.pdf",
+     "sha256": "d4fcb03de25f36a9ca2960931e455b4c5feb5792007e9b6e8b5c8fee0e6b8cfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-23-2024",
+   "path": "local/judet/galati/2024/23",
+   "short": "HCJ Galați nr. 23/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 23/2024 pentru buget – finanțe, strategii, studii și prognoză economico – socială și al Comisiei de specialitate nr. 6 de analiză privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură ale Consiliului Județean Galați; Având în vedere prevederile Hotărârii Consiliului Județean Galați nr. 133/27.04.2023 privind aprobarea model",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-42/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/01/hot23-290124.pdf",
+     "sha256": "f4a7dce349578a233f8c48a5439b68082937137d3c3cde60b46b6a4bd979dd87"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-24-2024",
+   "path": "local/judet/galati/2024/24",
+   "short": "HCJ Galați nr. 24/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 24/2024 pentru buget – finanțe, strategii, studii și prognoză economico – socială și al Comisiei de specialitate nr. 6 de analiză privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură ale Consiliului Județean Galați; Având în vedere prevederile art. 879 alin (2) și (5), art. 880 alin. (1), din Legea nr. 287/2009 privind Cod",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-43/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/01/hot24-290124.pdf",
+     "sha256": "eb1d6a889f7feaebfe662add04560877abc96f9768b432c6d4957e8d80838829"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-26-2024",
+   "path": "local/judet/galati/2024/26",
+   "short": "HCJ Galați nr. 26/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 26/2024 privind aprobarea proiectului „Creșterea eficienței energetice pentru Spitalul Orășenesc Târgu Bujor” și a cheltuielilor legate de acesta, cu modificările și completările ulterioare …click aici",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-45/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/01/hot26-290124.pdf",
+     "sha256": "8564901223f1416b24514eb24e374100cfb77e4e7baea3a1b59133cc15880d53"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-27-2024",
+   "path": "local/judet/galati/2024/27",
+   "short": "HCJ Galați nr. 27/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 27/2024 privind aprobarea proiectului și a cheltuielilor legate de proiect pentru realizarea obiectivului „Extindere, reabilitare, modernizare și dotare Ambulatoriu Integrat de Specialitate al Spitalului Orășenesc Târgu Bujor”, cu modificările și completările ulterioare …click aici",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-46/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/01/hot27-290124.pdf",
+     "sha256": "79ef7fe44a8242fcf365bcbf05551892ba67b3c686c8db9e21a7e45f01fe858b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-28-2024",
+   "path": "local/judet/galati/2024/28",
+   "short": "HCJ Galați nr. 28/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 28/2024 privind aprobarea proiectului „Baza de agrement cu specific pescăresc Zătun 2” și a cheltuielilor legate de acesta, cu modificările și completările ulterioare …click aici",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-47/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/01/hot28-290124.pdf",
+     "sha256": "633ce8b9e893813fcb35b878924727612fc1f742cb34b3f58aa3c4602e12d18b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-29-2024",
+   "path": "local/judet/galati/2024/29",
+   "short": "HCJ Galați nr. 29/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 29/2024 pentru buget - finanțe, strategii, studii și prognoză economico-socială, al Comisiei de specialitate nr. 2 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană și al Comisiei de specialitate nr. 4 pentru asistență și protecție socială, învățământ, sănătate, cultură, activități științifice, sportive și de agrement din cadrul Consiliului Județe",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-48/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/01/hot29-290124.pdf",
+     "sha256": "0d3542ff2979e9d588b5f0aeb6f5b21e64ee38bc727a70fc34483739ccd128a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-3-2024",
+   "path": "local/judet/galati/2024/3",
+   "short": "HCJ Galați nr. 3/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 3/2024 privind stabilirea arondării comunelor din judeţul Galaţi la serviciile publice comunitare locale de evidenţă a persoanelor care funcţionează în judeţul Galaţi, cu modificările ulterioare …click aici",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-4/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/01/hot3-290124.pdf",
+     "sha256": "78a15f6542da2ae2039ba935d558d9e521767d874f662f999353b56cd95270f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-30-2024",
+   "path": "local/judet/galati/2024/30",
+   "short": "HCJ Galați nr. 30/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 30/2024 privind aprobarea parteneriatului dintre Judeţul Galaţi, prin",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-49/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/01/hot30-290124.pdf",
+     "sha256": "c1ea05419022ff3ec8739549eae223941228e02aceed96ec63c3257900800ec0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-31-2024",
+   "path": "local/judet/galati/2024/31",
+   "short": "HCJ Galați nr. 31/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 31/2024 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană din cadrul Consiliului Județean Galați; Având în vedere Ghidul Solicitantului aferent Programului INTERREG VI-A NEXT România - Republica Moldova, Prioritatea 2 - Dezvoltarea socială transfrontalieră, Obiectivul specific - 2.1 Îmbunătățirea accesului egal la servicii incluzive și de calitate",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-50/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/01/hot31-290124.pdf",
+     "sha256": "cf78079ba00234a8f53696d639b3892886881a068e0377a4da83aad86b60443d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-32-2024",
+   "path": "local/judet/galati/2024/32",
+   "short": "HCJ Galați nr. 32/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 32/2024 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană din cadrul Consiliului Județean Galați; Având în vedere Ghidul Solicitantului aferent Programului INTERREG NEXT România - Republica Moldova, Prioritatea 1 – Comunități verzi, Obiectivul specific – 1.2 Îmbunătățirea protecției și conservării biodiversității naturii și a infrastructurii ecolo",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-5-2/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/01/hot32-290124.pdf",
+     "sha256": "b51424046707a83dc10e07e00f32338b9a40c90f802066f3194234a228bbf09c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-33-2024",
+   "path": "local/judet/galati/2024/33",
+   "short": "HCJ Galați nr. 33/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 33/2024 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană din cadrul Consiliului Județean Galați; Având în vedere Ghidul Solicitantului aferent Programului INTERREG NEXT România - Republica Moldova, Prioritatea 1 – Comunități verzi, Obiectivul specific – 1.1 Promovarea adaptării la schimbările climatice și a prevenirii riscurilor de dezastre și a",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-5-3/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/01/hot33-290124.pdf",
+     "sha256": "72411b33726cf176e15e07a69bf48b130fdae0ee841fefa76032dfe54be5c54f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-34-2024",
+   "path": "local/judet/galati/2024/34",
+   "short": "HCJ Galați nr. 34/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 34/2024 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană din cadrul Consiliului Județean Galați; Având în vedere Ghidul Solicitantului aferent Programului INTERREG NEXT România - Republica Moldova, Prioritatea 1 – Comunități verzi, Obiectivul specific – 1.1 Promovarea adaptării la schimbările climatice și a prevenirii riscurilor de dezastre și a",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-5-4/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/01/hot34-290124.pdf",
+     "sha256": "d809749d1103271946096ee533e6d5b734310fe86da7a4f197cfafd932575690"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-35-2024",
+   "path": "local/judet/galati/2024/35",
+   "short": "HCJ Galați nr. 35/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 35/2024 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană din cadrul Consiliului Județean Galați; Având în vedere Ghidul Solicitantului aferent Programului INTERREG VI-A NEXT România - Republica Moldova, Proiecte cu valoare mică, Prioritatea 3 – Cooperare transfrontalieră, Obiectivul specific - 3.1 Consolidarea unei administrații publice eficiente",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-5-5/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/01/hot35-290124.pdf",
+     "sha256": "908c8354867b3ea3dabfed17097b5a7074d8e95b9121f184209f639668176e13"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-37-2024",
+   "path": "local/judet/galati/2024/37",
+   "short": "HCJ Galați nr. 37/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 37/2024 pentru obiectivul de investiții “CONSOLIDARE ȘI REFACERE SISTEM RUTIER ÎN URMA SURPĂRII/RUPERII TERASAMENTULUI DJ 251 C KM 18+805 STÂNGA ȘI DJ251 G KM 5+850 DREAPTA” …click aici",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-5-7/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/01/hot37-290124.pdf",
+     "sha256": "165316ef03dc9b4025e15b462d22fb7556c971916ba8ea3c802a9597ebeee4dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-38-2024",
+   "path": "local/judet/galati/2024/38",
+   "short": "HCJ Galați nr. 38/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 38/2024 privind realizarea obiectivului de investiţii: „Drumuri de acces TMB Galați și Depozit Valea Mărului pentru proiectul “Sistem de management integrat al deșeurilor în județul Galați” …click aici",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-5-8/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/01/hot38-290124.pdf",
+     "sha256": "271c39f3999e202d3e15de6f6ad654240f968589e7c46752c10e91f61a2668a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-39-2024",
+   "path": "local/judet/galati/2024/39",
+   "short": "HCJ Galați nr. 39/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 39/2024 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană și al Comisiei de specialitate nr. 6 de analiză privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură, ale Consiliului Județean Galați; Având în vedere Hotărârea Guvernului nr. 907/2016 privind etapele de ela",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-5-9/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/01/hot39-290124.pdf",
+     "sha256": "caf5c7cd849346e74d890a84a5d6b0b45a83d1d4b801dc72e9241925a9e91a01"
+    }
+   ]
+  },
+  {
    "slug": "hcj-galati-4-2024",
    "path": "local/judet/galati/2024/4",
    "short": "HCJ Galați nr. 4/2024",
@@ -14,6 +434,126 @@
      "units": 1,
      "source_url": "https://cjgalati.ro/wp-content/uploads/2024/04/Hotararea-nr.-4-din-27.02.2024.pdf",
      "sha256": "861479921edf67f44b0e5ac516d6ea64f1d723d6a6cc559a6f7231a308c9629a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-40-2024",
+   "path": "local/judet/galati/2024/40",
+   "short": "HCJ Galați nr. 40/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 40/2024 pentru elevii care nu beneficiază de existența serviciilor de transport public în satul, comuna, orașul sau municipiul de reședință …click aici",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-51/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/01/hot40-290124.pdf",
+     "sha256": "27c1c2568970d5708b80da23dad54869a2c94105ce8c3781e7c130e1b3df674d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-41-2024",
+   "path": "local/judet/galati/2024/41",
+   "short": "HCJ Galați nr. 41/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 41/2024 pentru anul şcolar 2024-2025 …click aici",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-52/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/01/hot41-290124.pdf",
+     "sha256": "5ac7d02d1fe8df6d29d4a4114039d0736cecc2bc0138ff250a0a4f45a4bad784"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-42-2024",
+   "path": "local/judet/galati/2024/42",
+   "short": "HCJ Galați nr. 42/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 42/2024 pentru delegarea gestiunii activităților de sortare a deșeurilor de hârtie, carton, metal, plastic şi sticlă colectate separat din deşeurile municipale în staţia de sortare Valea Mărului, inclusiv transportul reziduurilor rezultate din sortare la depozitul de deşeuri sau la instalaţia de tratare mecano-biologică respectiv eliminarea, prin depozitare, a deşeurilor reziduale, a deşeurilor stradale",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-53/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/01/hot42a-290124.pdf",
+     "sha256": "a20977f772e8a43c7d2873020a01457c5f25666eeb5260d7e74c2722c3ec00c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-5-2024",
+   "path": "local/judet/galati/2024/5",
+   "short": "HCJ Galați nr. 5/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 5/2024 pentru Spitalul Clinic de Boli Infecţioase „Sf",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/04/Hotararea-nr.-5-din-27.02.2024.pdf",
+     "sha256": "54f3714b7975e4fbbe3d8b74fa9ac7f080379f312a829952aa3c44c222609c5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-6-2024",
+   "path": "local/judet/galati/2024/6",
+   "short": "HCJ Galați nr. 6/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 6/2024 pentru anul 2024 privind serviciile sociale administrate şi finanţate din bugetul Consiliului Judeţean Galaţi …click aici",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/04/Hotararea-nr.-6-din-27.02.2024.pdf",
+     "sha256": "97ae3b3beb0a80792b786b20b9c671df9b96c4b320e874a7dc29cb67e2826b94"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-7-2024",
+   "path": "local/judet/galati/2024/7",
+   "short": "HCJ Galați nr. 7/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 7/2024",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/04/Hotararea-nr.-7-din-27.02.2024.pdf",
+     "sha256": "9c6c232790a1d6060d4e90de73fb14282e9957ea6e0a14525ff8e0f7823a720a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-8-2024",
+   "path": "local/judet/galati/2024/8",
+   "short": "HCJ Galați nr. 8/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 8/2024",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/04/Hotararea-nr.-8-din-27.02.2024.pdf",
+     "sha256": "492a4061a113cfebc433f8c62f0fb6bddcca01d7691e768fd92265dd90c9f763"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-9-2024",
+   "path": "local/judet/galati/2024/9",
+   "short": "HCJ Galați nr. 9/2024",
+   "title": "Hotărârea Consiliului Județean Galați nr. 9/2024",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2024/04/Hotararea-nr.-9-din-27.02.2024.pdf",
+     "sha256": "c0de65931664e6a447f4d99be9f53fdd2bc95734f2741dac97a65277be19dfc2"
     }
    ]
   }

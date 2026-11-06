@@ -213,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcj-botosani-119-2026",
+   "path": "local/judet/botosani/2026/119",
+   "short": "HCJ Botoșani nr. 119/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 119/2026 privind aprobarea unor modificări în Programul obiectivelor de investiții, în Lista cuprinzând poziția globală „Alte cheltuieli de investiții”, în Programul obiectivelor de investiții finanțate din excedentul bugetului local, precum și în Raportul privind rezultatele etichetării cheltuielil",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H119_20260528.pdf",
+     "sha256": "4c9cb3b55dc9f0fc68bc4da355c0186de66ebd9497fec23599605acc3ca3e4e7"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-12-2026",
    "path": "local/judet/botosani/2026/12",
    "short": "HCJ Botoșani nr. 12/2026",
@@ -719,6 +734,21 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/H160_20260728.pdf",
      "sha256": "33717580af51e5cf8965dce1461f99bc5a3e1478d8a30672722ffaba88b5ed00"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-162-2026",
+   "path": "local/judet/botosani/2026/162",
+   "short": "HCJ Botoșani nr. 162/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 162/2026 privind rectificarea bugetului propriu al Județului Botoșani, al bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii, precum și modificarea listei de investiții pe anul 2026",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H162_20260728.pdf",
+     "sha256": "2ba5d0eadb26ba197703c6528d85fb6c232c67e7fab96b5d4ce6dc644dadeb01"
     }
    ]
   },

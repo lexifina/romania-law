@@ -228,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcj-covasna-215-2022",
+   "path": "local/judet/covasna/2022/215",
+   "short": "HCJ Covasna nr. 215/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 215/2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-196-216-decembrie-2022.html",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/12/ro/215_2022.pdf",
+     "sha256": "1df3787f939601d496f621293a9b1401e5e6d3a5c948d15e75beb0d4bf0366be"
+    }
+   ]
+  },
+  {
    "slug": "hcj-covasna-216-2022",
    "path": "local/judet/covasna/2022/216",
    "short": "HCJ Covasna nr. 216/2022",
@@ -239,6 +254,21 @@
      "units": 1,
      "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/12/ro/216_2022.pdf",
      "sha256": "89d5f3c584796286ad65598a306f97a1e9ba682a90e021480ed6437f9ce7771f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-25-2022",
+   "path": "local/judet/covasna/2022/25",
+   "short": "HCJ Covasna nr. 25/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 25/2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-21-42-februarie-2022.html",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/02/ro/25_2022.pdf",
+     "sha256": "5f9d9109649eda4137a0f3cc96146da4285fbdb5a333ee5a355e1f8350a08c42"
     }
    ]
   },

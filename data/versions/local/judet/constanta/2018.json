@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/constanta/2018",
+ "acts": [
+  {
+   "slug": "hcj-constanta-1637-2018",
+   "path": "local/judet/constanta/2018/1637",
+   "short": "HCJ Constanța nr. 1637/2018",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1637/2018",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2018-11-02",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2018-1637.pdf",
+     "sha256": "115df005246be4a177c604fad7ac5b58b4b457509e309c6447aa0d8916921a19"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-1718-2018",
+   "path": "local/judet/constanta/2018/1718",
+   "short": "HCJ Constanța nr. 1718/2018",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1718/2018",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2018-11-14",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2018-1718.pdf",
+     "sha256": "edcb5aed1dca96969d0027bd11af5fb7ab14452280bcb06aec14bf79c38a7cc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-1894-2018",
+   "path": "local/judet/constanta/2018/1894",
+   "short": "HCJ Constanța nr. 1894/2018",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1894/2018",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2018-1894.pdf",
+     "sha256": "4ee9b34fece1962149e45e37cfe96eabe834f33e873192399283fb5b390b6cdc"
+    }
+   ]
+  }
+ ]
+}

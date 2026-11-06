@@ -3,6 +3,96 @@
  "shard": "local/judet/arad/2026",
  "acts": [
   {
+   "slug": "hcj-arad-118-2026",
+   "path": "local/judet/arad/2026/118",
+   "short": "HCJ Arad nr. 118/2026",
+   "title": "Hotărârea Consiliului Județean Arad nr. 118/2026",
+   "url": "https://www.cjarad.ro/hotarari/2s-proiect-de-hotarare-pentru-modificarea-anexei-nr-2-la-hotararea-consiliului-judetean-arad-nr-118-08-04-2026-privind-repartizarea-pe-unitati-administrativ-teritoriale-din-judetul-arad-a-sumelor-de/",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2026/09/Raport-17.pdf",
+     "sha256": "653cb96114621dfd1bb1b62b9545b17ff6a7660008783cde0445a09c79cd7062"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-119-2026",
+   "path": "local/judet/arad/2026/119",
+   "short": "HCJ Arad nr. 119/2026",
+   "title": "Hotărârea Consiliului Județean Arad nr. 119/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Județean Arad din data de 30.04.2026",
+   "url": "https://www.cjarad.ro/hotarari/0-hotararea-nr-119-din-30-04-2026-privind-aprobarea-ordinii-de-zi-a-sedintei-ordinare-a-consiliului-judetean-arad-din-data-de-30-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2026/05/Hotarare.pdf",
+     "sha256": "df39f97bc04349c842e907c1ba24ab8575955fb3a5b8f4769d1c9f65225f35e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-136-2026",
+   "path": "local/judet/arad/2026/136",
+   "short": "HCJ Arad nr. 136/2026",
+   "title": "Hotărârea Consiliului Județean Arad nr. 136/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Județean Arad din data de 28.05.2026",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-136-din-28-05-2026-privind-aprobarea-ordinii-de-zi-a-sedintei-ordinare-a-consiliului-judetean-arad-din-data-de-28-05-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2026/06/Hotarare.pdf",
+     "sha256": "baa994ecf1ac63239280ea3fb101422e5d05775408f8b69793c543959ce3c934"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-176-2026",
+   "path": "local/judet/arad/2026/176",
+   "short": "HCJ Arad nr. 176/2026",
+   "title": "Hotărârea Consiliului Județean Arad nr. 176/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Județean Arad din data de 30.06.2026",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-176-din-30-06-2026-privind-aprobarea-ordinii-de-zi-a-sedintei-ordinare-a-consiliului-judetean-arad-din-data-de-28-05-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2026/07/Hotarare.pdf",
+     "sha256": "c84f5d8db7f5815a357597c6639a40f9f418e7265058b5d6f8cc06aa65a1a85b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-228-2026",
+   "path": "local/judet/arad/2026/228",
+   "short": "HCJ Arad nr. 228/2026",
+   "title": "Hotărârea Consiliului Județean Arad nr. 228/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Județean Arad din data de 13.08.2026",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-228-din-13-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2026/08/Hotarare.pdf",
+     "sha256": "77d1466193f6ef60042921c2d4f76f37a2b220cc4f611bdfa7b283af2445fe14"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-257-2026",
+   "path": "local/judet/arad/2026/257",
+   "short": "HCJ Arad nr. 257/2026",
+   "title": "Hotărârea Consiliului Județean Arad nr. 257/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Județean Arad din data de 10.09.2026",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-257-din-10-09-2026-privind-aprobarea-ordinii-de-zi-a-sedintei-ordinare-a-consiliului-judetean-arad-din-data-de-10-09-2026/",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2026/09/Hotarare.pdf",
+     "sha256": "47093bc11d462e96def022e0f67be6b9e2350df913aadaa72aa50fd9fcd3674d"
+    }
+   ]
+  },
+  {
    "slug": "hcj-arad-338-2026",
    "path": "local/judet/arad/2026/338",
    "short": "HCJ Arad nr. 338/2026",
@@ -14,6 +104,51 @@
      "units": 1,
      "source_url": "https://www.cjarad.ro/wp-content/uploads/2026/11/Hotarare.pdf",
      "sha256": "4902a9c6288998d6f258ced1493e20ced2b1fa63a62a9eba8b2a4e1de0ef6e73"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-55-2026",
+   "path": "local/judet/arad/2026/55",
+   "short": "HCJ Arad nr. 55/2026",
+   "title": "Hotărârea Consiliului Județean Arad nr. 55/2026",
+   "url": "https://www.cjarad.ro/hotarari/14-proiect-de-hotarare-pentru-modificarea-anexei-la-hotararea-consiliului-judetean-arad-nr-55-19-02-2026-privind-declararea-unui-bun-achizitionat-in-cadrul-proiectului-bloc-operator-in/",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2026/03/Raport-7.pdf",
+     "sha256": "55138cf5b28a41a4dac6d91b71cec52efd932048799965ad53f253e6039bc831"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-60-2026",
+   "path": "local/judet/arad/2026/60",
+   "short": "HCJ Arad nr. 60/2026",
+   "title": "Hotărârea Consiliului Județean Arad nr. 60/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Județean Arad din data de 12.03.2026",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-60-din-12-03-2026-privind-aprobarea-ordinii-de-zi-a-sedintei-ordinare-a-consiliului-judetean-arad-din-data-de-12-03-2026/",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2026/03/Hotarare.pdf",
+     "sha256": "4ffb441e9a07123c5aabff956166e10c9cddbabc7fbc35e4cc7a3e5358c9a6bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-99-2026",
+   "path": "local/judet/arad/2026/99",
+   "short": "HCJ Arad nr. 99/2026",
+   "title": "Hotărârea Consiliului Județean Arad nr. 99/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Județean Arad din data de 08.04.2026",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-99-din-08-04-2026-privind-aprobarea-ordinii-de-zi-a-sedintei-ordinare-a-consiliului-judetean-arad-din-data-de-08-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2026/04/Hotarare.pdf",
+     "sha256": "e44fe48ba09d6444adb330fccdc72d5010f28fe0eb4ea3f0968739d252efe79c"
     }
    ]
   }

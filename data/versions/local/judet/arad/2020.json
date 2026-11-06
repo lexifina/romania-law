@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/judet/arad/2020",
+ "acts": [
+  {
+   "slug": "hcj-arad-308-2020",
+   "path": "local/judet/arad/2020/308",
+   "short": "HCJ Arad nr. 308/2020",
+   "title": "Hotărârea Consiliului Județean Arad nr. 308/2020",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-256-din-27-08-2021-privind-aprobarea-indicatorilor-tehnico-economici-ai-obiectivului-de-investitie-statie-de-epurare-c-r-r-n-petris/",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/files/hotarari.nsf-xsp-.ibmmodres-domino-OpenAttachment-hotarari.nsf-00395DB2B4A0A2EAC22587360028AEAD-alte_atasamente-Raport.pdf",
+     "sha256": "2ce3ecabc46191d803a9eef7636281bf05322c8eadf18984697a4f452bf2560d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-38-2020",
+   "path": "local/judet/arad/2020/38",
+   "short": "HCJ Arad nr. 38/2020",
+   "title": "Hotărârea Consiliului Județean Arad nr. 38/2020",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-425-din-23-12-2020-pentru-modificarea-art-1-al-hotararii-consiliului-judetean-arad-nr-38-31-01-2020-privind-aprobarea-utilizarii-excedentului-bugetar-al-anilor-precedenti-pentru-f/",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/files/hotarari.nsf-xsp-.ibmmodres-domino-OpenAttachment-hotarari.nsf-30F87380267ED62BC2258646004E7BB9-alte_atasamente-Raport.pdf",
+     "sha256": "4ed97e007b8cdeac4800f8793bfea709e0d1cef40eb00fda69e5992215c749b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-501-2020",
+   "path": "local/judet/arad/2020/501",
+   "short": "HCJ Arad nr. 501/2020",
+   "title": "Hotărârea Consiliului Județean Arad nr. 501/2020",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-418-din-18-12-2020-privind-aprobarea-trecerii-din-proprietatea-privata-a-judetului-arad-in-proprietatea-privata-a-municipiului-arad-a-unor-terenuri/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/files/hotarari.nsf-xsp-.ibmmodres-domino-OpenAttachment-hotarari.nsf-6293A9FCD71B48F9C225864100322C46-alte_atasamente-Raport.pdf",
+     "sha256": "a61d309616bd1f1a364055340001ce0ddb355bd71cd1e37e26cbfbb183bc6b53"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-53-2020",
+   "path": "local/judet/arad/2020/53",
+   "short": "HCJ Arad nr. 53/2020",
+   "title": "Hotărârea Consiliului Județean Arad nr. 53/2020",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-296-din-30-09-2020-privind-majorarea-patrimoniului-public-al-judetului-arad-cu-terenul-intravilan-in-suprafata-de-4-910-mp-inscris-in-c-f-nr-313378-tarnova/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/files/hotarari.nsf-xsp-.ibmmodres-domino-OpenAttachment-hotarari.nsf-A0173262536E2959C22585ED002C3E99-alte_atasamente-Raport.pdf",
+     "sha256": "f59d28f52c2eb52420fad304e13f0f20865e656496f6196b40c2466344844566"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-77-2020",
+   "path": "local/judet/arad/2020/77",
+   "short": "HCJ Arad nr. 77/2020",
+   "title": "Hotărârea Consiliului Județean Arad nr. 77/2020",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-297-din-30-09-2020-privind-majorarea-patrimoniului-public-al-judetului-arad-cu-terenurile-intravilane-in-suprafata-de-5-028-mp-respectiv-5-303-mp-inscrise-in-c-f-nr-305116-sebis/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/files/hotarari.nsf-xsp-.ibmmodres-domino-OpenAttachment-hotarari.nsf-B97137FEEA77A3F9C22585ED002D9344-alte_atasamente-Raport.pdf",
+     "sha256": "fa714155013595d111616dee7e6132fcfe2fd65366e8a5772f06ab140cc29aa3"
+    }
+   ]
+  }
+ ]
+}

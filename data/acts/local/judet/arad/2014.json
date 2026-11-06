@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/judet/arad/2014",
+"acts": [
+{
+"slug": "hcj-arad-4-2014",
+"path": "local/judet/arad/2014/4",
+"kind": "local",
+"year": "2014",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Arad nr. 4/2014",
+"short": "HCJ Arad nr. 4/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-01-30",
+"latest": "2014-01-30",
+"portal": "https://www.cjarad.ro/hotarari/hotararea-nr-4-din-30-01-2014-privind-eliberarea-licentelor-de-traseu-pentru-efectuarea-serviciului-de-transport-public-judetean-de-persoane-prin-curse-regulate-speciale-unor-operatori-de-trans/",
+"council": "judet/arad",
+"council_name": "Consiliul Județean Arad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-arad-112-2014",
+"path": "local/judet/arad/2014/112",
+"kind": "local",
+"year": "2014",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Arad nr. 112/2014",
+"short": "HCJ Arad nr. 112/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-04-25",
+"latest": "2014-04-25",
+"portal": "https://www.cjarad.ro/hotarari/hotararea-nr-112-din-25-04-2014-privind-aprobarea-valorii-estimate-de-28-235-44050-lei-tva-inclus-si-a-documentatiilor-de-atribuire-aferente-contractelor-de-lucrari-inchidere-depozite/",
+"council": "judet/arad",
+"council_name": "Consiliul Județean Arad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-arad-190-2014",
+"path": "local/judet/arad/2014/190",
+"kind": "local",
+"year": "2014",
+"number": "190",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Arad nr. 190/2014",
+"short": "HCJ Arad nr. 190/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-08-27",
+"latest": "2014-08-27",
+"portal": "https://www.cjarad.ro/hotarari/hotararea-nr-190-din-27-08-2014-privind-modificarea-statului-de-functii-pentru-spitalul-de-psihiatrie-mocrea/",
+"council": "judet/arad",
+"council_name": "Consiliul Județean Arad",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

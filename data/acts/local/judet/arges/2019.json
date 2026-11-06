@@ -3,6 +3,117 @@
 "shard": "local/judet/arges/2019",
 "acts": [
 {
+"slug": "hcj-arges-11-2019",
+"path": "local/judet/arges/2019/11",
+"kind": "local",
+"year": "2019",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Argeș nr. 11/2019 Privind aprobarea incheierii unui contract de asistenta juridical pentru consultanta, redactare acte și reprezentare in instanța, in dosar nr.411/216/2017, pentru apararea intereselor UAT Malureni,Județ Argeș Consiliul Local al comunei Malureni, intrunit in ședința de indata din data de 05.02.2019, convocat prin dispoziția primarului nr.85/05.02.2019; Avand in vedere: - prevederile art.1, alin.(2)",
+"short": "HCJ Argeș nr. 11/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-02-05",
+"latest": "2019-02-05",
+"portal": "https://www.cjarges.ro/documents/151263/776897/Hotarare_nr_11_din_05.02.2019.pdf/2b663ce1-b087-4f56-81be-90ec6e9114c8",
+"council": "judet/arges",
+"council_name": "Consiliul Județean Argeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-arges-18-2019",
+"path": "local/judet/arges/2019/18",
+"kind": "local",
+"year": "2019",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Argeș nr. 18/2019 privind trecerea in domeniul public al comunei Malureni a unui imobil- Cladire — Centru Multifuncțional de Servicii Sociale din comuna Malureni,sat Pauleasca, județul Argeș și Amenajare curte - Centru Multifuncțional de Servicii Sociale din comuna Malureni,sat Pauleasca, județul Argeș Consiliul Local Malureni, intrunit in ședința ordinara din data de 27.02.2015, convocat prin dispoziția primarului",
+"short": "HCJ Argeș nr. 18/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-02-27",
+"latest": "2019-02-27",
+"portal": "https://www.cjarges.ro/documents/151263/776897/Hotarare_nr_18_din_27.02.2019.pdf/4f5d5c76-7e51-44f5-90c0-c9a8db4839f3",
+"council": "judet/arges",
+"council_name": "Consiliul Județean Argeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-arges-19-2019",
+"path": "local/judet/arges/2019/19",
+"kind": "local",
+"year": "2019",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Argeș nr. 19/2019 Privind aprobarea procesului - verbal al ședinței ordinare a Consiliului Local Malureni din data de 27.02.2019 Consiliul Local Malureni, județul Argeș, intrunit in ședința ordinara din data de 27.03.2019, prin Dispoziția Primarului nr.205/25.03.2019; Avand in vedere: - procesul verbal al ședinței ordinare a Consiliului Local al Comunei Malureni din data de 27.02.2019; - avizul comisiei de speciali",
+"short": "HCJ Argeș nr. 19/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-03-27",
+"latest": "2019-03-27",
+"portal": "https://www.cjarges.ro/documents/151263/776897/Hotarare_nr_19_din_27.03.2019.pdf/3f9c3ce0-fbe7-4b2f-b88c-151d5ce84ce1",
+"council": "judet/arges",
+"council_name": "Consiliul Județean Argeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-arges-21-2019",
+"path": "local/judet/arges/2019/21",
+"kind": "local",
+"year": "2019",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Argeș nr. 21/2019 Privind stabilirea unor amplasamente pentru depozitarea deșeurilor provenite din construcții și demolari precum și a depozitarii deșeurilor biodegradabile provenite din gospodariile cetatenilor din comuna Malureni Consiliul Local Malureni, județul Argeș, intrunit in ședința ordinara din data de 27.03.2019, prin Dispoziția Primarului nr.205/25.03.2019; Avand in vedere prevederile: - art.59, alin(1)",
+"short": "HCJ Argeș nr. 21/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-03-27",
+"latest": "2019-03-27",
+"portal": "https://www.cjarges.ro/documents/151263/776897/Hotarare_nr_21_din_27.03.2019.pdf/7ee9d14e-9937-4cc4-ba64-952b21fada1d",
+"council": "judet/arges",
+"council_name": "Consiliul Județean Argeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-arges-22-2019",
+"path": "local/judet/arges/2019/22",
+"kind": "local",
+"year": "2019",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Argeș nr. 22/2019",
+"short": "HCJ Argeș nr. 22/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-03-27",
+"latest": "2019-03-27",
+"portal": "https://www.cjarges.ro/documents/151263/776897/Hotarare_nr_22_din_27.03.2019.pdf/e460859a-c326-4865-bba7-12236b238d65",
+"council": "judet/arges",
+"council_name": "Consiliul Județean Argeș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-arges-170-2019",
 "path": "local/judet/arges/2019/170",
 "kind": "local",

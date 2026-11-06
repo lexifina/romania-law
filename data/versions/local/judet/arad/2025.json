@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/judet/arad/2025",
+ "acts": [
+  {
+   "slug": "hcj-arad-133-2025",
+   "path": "local/judet/arad/2025/133",
+   "short": "HCJ Arad nr. 133/2025",
+   "title": "Hotărârea Consiliului Județean Arad nr. 133/2025 privind aprobarea ordinii de zi a ședinței extraordinare, convocată de îndată, a Consiliului Județean Arad din data de 01.04.2025",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-133-din-01-04-2025-privind-aprobarea-ordinii-de-zi-a-sedintei-extraordinare-convocata-de-indata-a-consiliului-judetean-arad-din-data-de-01-04-2025/",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2025/04/Hotarare.pdf",
+     "sha256": "9717ed4dbe9d2384c6ca18d600c8a2cae3c70ad2f1a992740332c237c1aca263"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-153-2025",
+   "path": "local/judet/arad/2025/153",
+   "short": "HCJ Arad nr. 153/2025",
+   "title": "Hotărârea Consiliului Județean Arad nr. 153/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Județean Arad din data de 30.04.2025",
+   "url": "https://www.cjarad.ro/hotarari/0-proiect-de-hotarare-privind-aprobarea-ordinii-de-zi-a-sedintei-ordinare-a-consiliului-judetean-arad-din-data-de-30-04-2025/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2025/05/Hotarare.pdf",
+     "sha256": "d88444dcb6c5d14691e72ee2717b822ea82a74e864b16e6e52287478366e7d42"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-176-2025",
+   "path": "local/judet/arad/2025/176",
+   "short": "HCJ Arad nr. 176/2025",
+   "title": "Hotărârea Consiliului Județean Arad nr. 176/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Județean Arad din data de 29.05.2025",
+   "url": "https://www.cjarad.ro/hotarari/0-proiect-de-hotarare-privind-aprobarea-ordinii-de-zi-a-sedintei-ordinare-a-consiliului-judetean-arad-din-data-de-29-05-2025/",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2025/06/Hotarare.pdf",
+     "sha256": "af430673a0c27432b3cd539ce0190c1ae33015d45c56d79c13309bef968cbaac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-22-2025",
+   "path": "local/judet/arad/2025/22",
+   "short": "HCJ Arad nr. 22/2025",
+   "title": "Hotărârea Consiliului Județean Arad nr. 22/2025 privind stabilirea categoriilor de indicatori de performanță suplimentari raportați la specificul S.C",
+   "url": "https://www.cjarad.ro/hotarari/11-proiect-de-hotarare-privind-stabilirea-categoriilor-de-indicatori-de-performanta-suplimentari-raportati-la-specificul-s-c-aeroportul-arad-s-a-si-pentru-acordarea-unui-mandat-special-reprezentant/",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2026/01/Hotarare-22.pdf",
+     "sha256": "3aa00263afa11a00847d40b8b6ca860baa3ffa339da9991769f0dfc0dba00227"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-257-2025",
+   "path": "local/judet/arad/2025/257",
+   "short": "HCJ Arad nr. 257/2025",
+   "title": "Hotărârea Consiliului Județean Arad nr. 257/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Județean Arad din data de 01.08.2025",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-257-01-08-2025-privind-aprobarea-ordinii-de-zi-a-sedintei-ordinare-a-consiliului-judetean-arad-din-data-de-01-08-2025/",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2025/08/Hotarare.pdf",
+     "sha256": "6d7552316e05e59852b7def8b3caa83a8ec404d4bb5c6b8d186081156a0bc26b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-290-2025",
+   "path": "local/judet/arad/2025/290",
+   "short": "HCJ Arad nr. 290/2025",
+   "title": "Hotărârea Consiliului Județean Arad nr. 290/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Județean Arad din data de 28.08.2025",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-290-din-28-08-2025-privind-aprobarea-ordinii-de-zi-a-sedintei-ordinare-a-consiliului-judetean-arad-din-data-de-28-08-2025/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2025/09/Hotarare.pdf",
+     "sha256": "28af0f621a1a4f4e6ed50f394d87b0dfd1e3d3c65d95bfb557b28257096a55a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-370-2025",
+   "path": "local/judet/arad/2025/370",
+   "short": "HCJ Arad nr. 370/2025",
+   "title": "Hotărârea Consiliului Județean Arad nr. 370/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Județean Arad din data de 06.10.2025",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-370-din-06-10-2025-privind-aprobarea-ordinii-de-zi-a-sedintei-ordinare-a-consiliului-judetean-arad-din-data-de-06-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2025/10/Hotarare.pdf",
+     "sha256": "722dd9f0ca4783c9ea0b43ea4635eec14954906fe774a57cdbeecca71dda5064"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-407-2025",
+   "path": "local/judet/arad/2025/407",
+   "short": "HCJ Arad nr. 407/2025",
+   "title": "Hotărârea Consiliului Județean Arad nr. 407/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Județean Arad din data de 04.11.2025",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-407-din-04-11-2025-privind-aprobarea-ordinii-de-zi-a-sedintei-ordinare-a-consiliului-judetean-arad-din-data-de-04-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2025/11/Hotarare.pdf",
+     "sha256": "5030a517f70d93aadf9b6d97ff9040b771b7c968ed35c6ec0521efd919eb04e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-416-2025",
+   "path": "local/judet/arad/2025/416",
+   "short": "HCJ Arad nr. 416/2025",
+   "title": "Hotărârea Consiliului Județean Arad nr. 416/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Județean Arad din data de 27.11.2025",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-416-din-27-11-2025-privind-aprobarea-ordinii-de-zi-a-sedintei-ordinare-a-consiliului-judetean-arad-din-data-de-27-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2025/12/Hotarare.pdf",
+     "sha256": "d873a9ed58ae9ce033cd226d14b99c33b0d0af9499861ab1936abff3ea5ccf93"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-444-2025",
+   "path": "local/judet/arad/2025/444",
+   "short": "HCJ Arad nr. 444/2025",
+   "title": "Hotărârea Consiliului Județean Arad nr. 444/2025 privind mandatarea Asociației de Dezvoltare Intercomunitară de Transport Public Arad pentru exercitarea dreptului de a delega gestiunea Serviciului de transport public local de călători pentru perioada 2026-2031 către S.C",
+   "url": "https://www.cjarad.ro/hotarari/4-proiect-de-hotarare-privind-mandatarea-asociatiei-de-dezvoltare-intercomunitara-de-transport-public-arad-pentru-exercitarea-dreptului-de-a-delega-gestiunea-serviciului-de-transport-public-local-de/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2025/12/Hotararea.pdf",
+     "sha256": "253a2eeed18b101e5e527813013d22dccf410e31b780d91618c6cbf96ab79fe8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-447-2025",
+   "path": "local/judet/arad/2025/447",
+   "short": "HCJ Arad nr. 447/2025",
+   "title": "Hotărârea Consiliului Județean Arad nr. 447/2025",
+   "url": "https://www.cjarad.ro/hotarari/13-proiect-de-hotarare-pentru-modificarea-anexei-la-hotararea-consiliului-judetean-arad-nr-447-16-12-2025-privind-declararea-unui-bun-achizitionat-in-cadrul-proiectului-development-of/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2026/03/Raport-8.pdf",
+     "sha256": "4d271726035f1b9656123e26ae79cb46f3b9195c858628ffcfbfa65de19c60cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-6-2025",
+   "path": "local/judet/arad/2025/6",
+   "short": "HCJ Arad nr. 6/2025",
+   "title": "Hotărârea Consiliului Județean Arad nr. 6/2025 privind aprobarea conținutului Procesului-verbal al ședinței ordinare a Consiliului Județean Arad din data de 16 decembrie 2025",
+   "url": "https://www.cjarad.ro/hotarari/1-proiect-de-hotarare-privind-aprobarea-continutului-procesului-verbal-al-sedintei-ordinare-a-consiliului-judetean-arad-din-data-de-16-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2026/01/Hotarare-6.pdf",
+     "sha256": "5044b156bb17e47bc838a23ed6eb0e2da5183317fce4be1361a0b3d9749568f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-604-2025",
+   "path": "local/judet/arad/2025/604",
+   "short": "HCJ Arad nr. 604/2025",
+   "title": "Hotărârea Consiliului Județean Arad nr. 604/2025",
+   "url": "https://www.cjarad.ro/hotarari/15-proiect-de-hotarare-privind-aprobarea-situatiilor-financiare-anuale-ale-regiei-autonome-administratia-zonei-libere-curtici-arad-pe-anul-2024-si-distribuirea-profitului-net-realiz/",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2025/05/Raport-D.-Economica-3.pdf",
+     "sha256": "bdc47783bd1c22d3591b4a53a542e8163b2f4d8a043185a23d96d6e0cd73a957"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-7-2025",
+   "path": "local/judet/arad/2025/7",
+   "short": "HCJ Arad nr. 7/2025",
+   "title": "Hotărârea Consiliului Județean Arad nr. 7/2025 privind aprobarea conținutului Procesului-verbal al ședinței ordinare a Consiliului Județean Arad din data de 23 decembrie 2025",
+   "url": "https://www.cjarad.ro/hotarari/2-proiect-de-hotarare-privind-aprobarea-continutului-procesului-verbal-al-sedintei-ordinare-a-consiliului-judetean-arad-din-data-de-23-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2026/01/Hotarare-7.pdf",
+     "sha256": "9a43809ba87bcad732dbc47e5d59f903d7c22b1de8cb1cc1a546e06e0d7d3e95"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-83-2025",
+   "path": "local/judet/arad/2025/83",
+   "short": "HCJ Arad nr. 83/2025",
+   "title": "Hotărârea Consiliului Județean Arad nr. 83/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Județean Arad din data de 18.03.2025",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-83-din-18-03-2025-privind-aprobarea-ordinii-de-zi-a-sedintei-ordinare-a-consiliului-judetean-arad-din-data-de-18-03-2025/",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2025/03/Hotarare.pdf",
+     "sha256": "b672688cc62410a6b5f44b28f404ff3bb615764ac6ca493ab5d206f837ed819b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-arad-9-2025",
+   "path": "local/judet/arad/2025/9",
+   "short": "HCJ Arad nr. 9/2025",
+   "title": "Hotărârea Consiliului Județean Arad nr. 9/2025",
+   "url": "https://www.cjarad.ro/hotarari/9-proiect-de-hotarare-privind-acordarea-unui-mandat-special-reprezentantului-unitatii-administrativ-teritoriale-judetul-arad-in-adunarea-generala-ordinara-a-actionarilor-la-s-c-aeroportul-arad-s-a/",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/wp-content/uploads/2025/07/Raport-29.pdf",
+     "sha256": "aecf9a6fa78e77cf4bec8e7400f52f759e23ee03244aa3a1fc9831bf42d0abd6"
+    }
+   ]
+  }
+ ]
+}

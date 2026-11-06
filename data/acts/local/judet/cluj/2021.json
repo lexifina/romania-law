@@ -202,6 +202,28 @@
 }
 },
 {
+"slug": "hcj-cluj-29-2021",
+"path": "local/judet/cluj/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 29/2021 privind stabilirea regimului juridic și includerea în domeniul public al Județului Cluj a drumului județean DJ 103Z: Sălicea (DJ107R) – Micești – Tureni (DJ103G)",
+"short": "HCJ Cluj nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://cjcluj.ro/hotarare-cjc/page/94/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-cluj-30-2021",
 "path": "local/judet/cluj/2021/30",
 "kind": "local",
@@ -489,6 +511,28 @@
 }
 },
 {
+"slug": "hcj-cluj-51-2021",
+"path": "local/judet/cluj/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 51/2021",
+"short": "HCJ Cluj nr. 51/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://cjcluj.ro/hotarare-cjc/page/93/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-cluj-52-2021",
 "path": "local/judet/cluj/2021/52",
 "kind": "local",
@@ -728,6 +772,117 @@
 "council_name": "Consiliul Județean Cluj",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-cluj-73-2021",
+"path": "local/judet/cluj/2021/73",
+"kind": "local",
+"year": "2021",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 73/2021",
+"short": "HCJ Cluj nr. 73/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://cjcluj.ro/hotarare-cjc/page/91/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-cluj-75-2021",
+"path": "local/judet/cluj/2021/75",
+"kind": "local",
+"year": "2021",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 75/2021 privind predarea unui obiectiv de investiții Inspectoratului pentru Situații de Urgență \"Avram Iancu\" al Județului Cluj",
+"short": "HCJ Cluj nr. 75/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://cjcluj.ro/hotarare-cjc/page/91/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-cluj-76-2021",
+"path": "local/judet/cluj/2021/76",
+"kind": "local",
+"year": "2021",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 76/2021 privind aprobarea situațiilor financiare la data de 31.12.2020 ale societății Univers T S.A",
+"short": "HCJ Cluj nr. 76/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://cjcluj.ro/hotarare-cjc/page/91/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-cluj-77-2021",
+"path": "local/judet/cluj/2021/77",
+"kind": "local",
+"year": "2021",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 77/2021 privind aprobarea situațiilor financiare la data de 31.12.2020 ale societății Pază și Protecție Cluj S.R.L",
+"short": "HCJ Cluj nr. 77/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://cjcluj.ro/hotarare-cjc/page/91/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-cluj-78-2021",
+"path": "local/judet/cluj/2021/78",
+"kind": "local",
+"year": "2021",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 78/2021",
+"short": "HCJ Cluj nr. 78/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://cjcluj.ro/hotarare-cjc/page/91/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1635,6 +1790,204 @@
 "flags": {
 "metadata_only": "individual",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-cluj-162-2021",
+"path": "local/judet/cluj/2021/162",
+"kind": "local",
+"year": "2021",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 162/2021",
+"short": "HCJ Cluj nr. 162/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://cjcluj.ro/hotarare-cjc/page/85/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-cluj-163-2021",
+"path": "local/judet/cluj/2021/163",
+"kind": "local",
+"year": "2021",
+"number": "163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 163/2021 privind aprobarea unor măsuri referitoare la concesionarea spațiilor medicale în care se desfășoară activitate medicală și activitate medicală conexă",
+"short": "HCJ Cluj nr. 163/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://cjcluj.ro/hotarare-cjc/page/85/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-cluj-166-2021",
+"path": "local/judet/cluj/2021/166",
+"kind": "local",
+"year": "2021",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 166/2021",
+"short": "HCJ Cluj nr. 166/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://cjcluj.ro/hotarare-cjc/page/85/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-cluj-170-2021",
+"path": "local/judet/cluj/2021/170",
+"kind": "local",
+"year": "2021",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 170/2021 privind aprobarea execuției bugetului general propriu al Județului Cluj la 30 septembrie 2021",
+"short": "HCJ Cluj nr. 170/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://cjcluj.ro/hotarare-cjc/page/85/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-cluj-171-2021",
+"path": "local/judet/cluj/2021/171",
+"kind": "local",
+"year": "2021",
+"number": "171",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 171/2021 privind rectificarea bugetului general propriu al Județului Cluj pe anul 2021",
+"short": "HCJ Cluj nr. 171/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://cjcluj.ro/hotarare-cjc/page/85/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-cluj-174-2021",
+"path": "local/judet/cluj/2021/174",
+"kind": "local",
+"year": "2021",
+"number": "174",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 174/2021 privind solicitarea de trecere a imobilului cu număr cadastral 51752 Budureasa din domeniul public al Județului Bihor în domeniul public al Județului Cluj",
+"short": "HCJ Cluj nr. 174/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://cjcluj.ro/hotarare-cjc/page/85/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-cluj-179-2021",
+"path": "local/judet/cluj/2021/179",
+"kind": "local",
+"year": "2021",
+"number": "179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 179/2021",
+"short": "HCJ Cluj nr. 179/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://cjcluj.ro/hotarare-cjc/page/84/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-cluj-180-2021",
+"path": "local/judet/cluj/2021/180",
+"kind": "local",
+"year": "2021",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 180/2021",
+"short": "HCJ Cluj nr. 180/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://cjcluj.ro/hotarare-cjc/page/84/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-cluj-181-2021",
+"path": "local/judet/cluj/2021/181",
+"kind": "local",
+"year": "2021",
+"number": "181",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 181/2021 pentru aprobarea modificării și completării Contractelor de delegare prin concesiune a gestiunii activităților de colectare și transport a deșeurilor în Județul Cluj – lotul 2 și lotul 3 înregistrate sub nr. 775/02.12.2020 și respectiv nr. 776/02.12.2020, și pentru mandatarea Asociației de Dezvoltare Intercomunitară Eco Metropolitan Cluj în vederea încheierii contractelor cu organizațiile care implementează obligațiile privind răspunderea extinsă a producătorului (OIREP) în scopul îndeplinirii obiectivelor stabilite prin Legea nr. 249/2015 privind modalitatea de gestionare a ambalajelor și a deșeurilor de ambalaje",
+"short": "HCJ Cluj nr. 181/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://cjcluj.ro/hotarare-cjc/page/84/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

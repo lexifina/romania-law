@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/judet/arad/2023",
+"acts": [
+{
+"slug": "hcj-arad-315-2023",
+"path": "local/judet/arad/2023/315",
+"kind": "local",
+"year": "2023",
+"number": "315",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Arad nr. 315/2023",
+"short": "HCJ Arad nr. 315/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://www.cjarad.ro/hotarari/hotararea-nr-172-din-27-04-2023-privind-avizarea-tarifelor-pentru-concesionarea-si-inchirierea-unor-bunuri-de-catre-regia-autonoma-administratia-zonei-libere-curtici-arad/",
+"council": "judet/arad",
+"council_name": "Consiliul Județean Arad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-arad-421-2023",
+"path": "local/judet/arad/2023/421",
+"kind": "local",
+"year": "2023",
+"number": "421",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Arad nr. 421/2023",
+"short": "HCJ Arad nr. 421/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://www.cjarad.ro/hotarari/hotararea-nr-495-din-28-12-2023-privind-avizarea-tarifelor-pentru-concesionarea-si-inchirierea-unor-bunuri-de-catre-regia-autonoma-administratia-zonei-libere-curtici-arad/",
+"council": "judet/arad",
+"council_name": "Consiliul Județean Arad",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

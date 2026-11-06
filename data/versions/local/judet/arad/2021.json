@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/arad/2021",
+ "acts": [
+  {
+   "slug": "hcj-arad-108-2021",
+   "path": "local/judet/arad/2021/108",
+   "short": "HCJ Arad nr. 108/2021",
+   "title": "Hotărârea Consiliului Județean Arad nr. 108/2021",
+   "url": "https://www.cjarad.ro/hotarari/hotararea-nr-165-din-27-05-2021-pentru-modificarea-art-1-al-hotararii-consiliului-judetean-arad-nr-108-12-04-2021-privind-aprobarea-utilizarii-excedentului-bugetar-al-anilor-precedenti-pentru/",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://www.cjarad.ro/files/hotarari.nsf-xsp-.ibmmodres-domino-OpenAttachment-hotarari.nsf-F62D1233F0287988C22586DC002F3F9C-alte_atasamente-Raport.pdf",
+     "sha256": "e51d8544dc8baa789975640dd05fcfc7213a3f02ea18d92d03b1fca3c3b02517"
+    }
+   ]
+  }
+ ]
+}

@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcj-covasna-26-2026",
+"path": "local/judet/covasna/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 26/2026 privind utilizarea excedentului anilor precedenți al bugetului local pentru acoperirea temporară a golurilor de casă a secțiunii de funcționare a bugetului local în anul 2026",
+"short": "HCJ Covasna nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://www.cjcv.ro/ro/hotarari-nr-1-26-ianuarie-2026.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-covasna-31-2026",
 "path": "local/judet/covasna/2026/31",
 "kind": "local",
@@ -62,6 +84,50 @@
 "from": "2026-02-12",
 "latest": "2026-02-12",
 "portal": "https://www.cjcv.ro/ro/hotarari-nr-27-33-februarie-2026.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-covasna-33-2026",
+"path": "local/judet/covasna/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 33/2026 cu privire la repartizarea pe unități administrativ-teritoriale a cotei de 20% din sumele defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale și din cota de 14% din impozitul pe venit, în conformitate cu prevederile art. 33 alin. (3) lit. b) din Legea nr. 273/2006, în vederea elaborării proiectelor de buget pe anul 2026 și a estimărilor pentru anii 2027-2029",
+"short": "HCJ Covasna nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://www.cjcv.ro/ro/hotarari-nr-27-33-februarie-2026.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-covasna-38-2026",
+"path": "local/judet/covasna/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 38/2026 pentru completarea Contractului de administrare nr. 3/22.01.2013 încheiat între județul Covasna prin Consiliul Județean Covasna și Căminul pentru Persoane Vârstnice Hăghig",
+"short": "HCJ Covasna nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-26",
+"latest": "2026-03-26",
+"portal": "https://www.cjcv.ro/ro/hotarari-nr-34-48-martie-2026.html",
 "council": "judet/covasna",
 "council_name": "Consiliul Județean Covasna",
 "flags": {
@@ -436,6 +502,28 @@
 "from": "2026-07-23",
 "latest": "2026-07-23",
 "portal": "https://www.cjcv.ro/ro/hotarari-nr-127-159-iulie-2026.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-covasna-524-2026",
+"path": "local/judet/covasna/2026/524",
+"kind": "local",
+"year": "2026",
+"number": "524",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 524/2026",
+"short": "HCJ Covasna nr. 524/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-17",
+"latest": "2026-09-17",
+"portal": "https://www.cjcv.ro/ro/alte-documente-monitorul-oficial-local.html",
 "council": "judet/covasna",
 "council_name": "Consiliul Județean Covasna",
 "flags": {

@@ -3,6 +3,28 @@
 "shard": "local/judet/covasna/2020",
 "acts": [
 {
+"slug": "hcj-covasna-2-2020",
+"path": "local/judet/covasna/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 2/2020",
+"short": "HCJ Covasna nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-23",
+"latest": "2020-01-23",
+"portal": "https://www.cjcv.ro/ro/hotarari-nr-1-20-ianuarie-2020.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-covasna-12-2020",
 "path": "local/judet/covasna/2020/12",
 "kind": "local",
@@ -12,6 +34,28 @@
 "reason": null,
 "title": "Hotărârea Consiliului Județean Covasna nr. 12/2020",
 "short": "HCJ Covasna nr. 12/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-23",
+"latest": "2020-01-23",
+"portal": "https://www.cjcv.ro/ro/hotarari-nr-1-20-ianuarie-2020.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-covasna-20-2020",
+"path": "local/judet/covasna/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 20/2020 privind aprobarea Contractului -model- care va fi încheiat între Județul Covasna prin",
+"short": "HCJ Covasna nr. 20/2020",
 "code": null,
 "status": "metadata only (individual decision)",
 "versions": 1,
@@ -172,6 +216,28 @@
 "from": "2020-02-13",
 "latest": "2020-02-13",
 "portal": "https://www.cjcv.ro/ro/hotarari-nr-21-42-februarie-2020.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-covasna-46-2020",
+"path": "local/judet/covasna/2020/46",
+"kind": "local",
+"year": "2020",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 46/2020 privind completarea Contractului de administrare nr. 263/09.11.2007 încheiat între Județul Covasna și Școala Populară de Arte și Meserii",
+"short": "HCJ Covasna nr. 46/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-02",
+"latest": "2020-04-02",
+"portal": "https://www.cjcv.ro/ro/hotarari-nr-43-70-aprilie-2020.html",
 "council": "judet/covasna",
 "council_name": "Consiliul Județean Covasna",
 "flags": {
@@ -371,6 +437,28 @@
 "from": "2020-11-12",
 "latest": "2020-11-12",
 "portal": "https://www.cjcv.ro/ro/hotarari-nr-148-159-noiembrie-2020.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-covasna-160-2020",
+"path": "local/judet/covasna/2020/160",
+"kind": "local",
+"year": "2020",
+"number": "160",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 160/2020",
+"short": "HCJ Covasna nr. 160/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-03",
+"latest": "2020-12-03",
+"portal": "https://www.cjcv.ro/ro/hotarari-nr-160-182-decembrie-2020.html",
 "council": "judet/covasna",
 "council_name": "Consiliul Județean Covasna",
 "flags": {

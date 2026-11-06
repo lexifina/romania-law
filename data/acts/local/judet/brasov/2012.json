@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/judet/brasov/2012",
+"acts": [
+{
+"slug": "hcj-brasov-69-2012",
+"path": "local/judet/brasov/2012/69",
+"kind": "local",
+"year": "2012",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 69/2012 privind aprobarea cooperării Județului Brașov cu Asociația Foștilor Deținuți Politici din România și finanțarea cu suma de 6.000 lei pentru organizarea unui eveniment comemorativ menit să asigure pentru un număr de 48 de persoane, supraviețuitori și urmași ai celor decedați, o deplasare la penitenciarele de la Gherla și Aiud",
+"short": "HCJ Brașov nr. 69/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-09-11",
+"latest": "2012-09-11",
+"portal": "https://site.judbrasov.ro/upload/hotarari/2536.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-120-2012",
+"path": "local/judet/brasov/2012/120",
+"kind": "local",
+"year": "2012",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 120/2012",
+"short": "HCJ Brașov nr. 120/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-03-09",
+"latest": "2012-03-09",
+"portal": "https://site.judbrasov.ro/upload/hotarari/2296.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-brasov-275-2012",
+"path": "local/judet/brasov/2012/275",
+"kind": "local",
+"year": "2012",
+"number": "275",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 275/2012 privind aprobarea decontării cheltuielilor de transport ale elevilor spre școală și spre localitatea de domiciliu pe anul 2012, de către unitățile de învățământ special și special integrat, aflate sub autoritatea Consiliului Județean Brașov",
+"short": "HCJ Brașov nr. 275/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-05-22",
+"latest": "2012-05-22",
+"portal": "https://site.judbrasov.ro/upload/hotarari/2451.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

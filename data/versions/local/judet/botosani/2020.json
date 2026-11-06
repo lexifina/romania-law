@@ -738,6 +738,21 @@
    ]
   },
   {
+   "slug": "hcj-botosani-38-2020",
+   "path": "local/judet/botosani/2020/38",
+   "short": "HCJ Botoșani nr. 38/2020",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 38/2020 privind aprobarea Protocolului de parteneriat între",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H038_20200227.pdf",
+     "sha256": "ea141c0150692f9c0dbb79e7faa4ee8ddcc438348e80e3be58779d650118e77d"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-39-2020",
    "path": "local/judet/botosani/2020/39",
    "short": "HCJ Botoșani nr. 39/2020",

@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/judet/arad/2013",
+"acts": [
+{
+"slug": "hcj-arad-5-2013",
+"path": "local/judet/arad/2013/5",
+"kind": "local",
+"year": "2013",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Arad nr. 5/2013",
+"short": "HCJ Arad nr. 5/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-01-28",
+"latest": "2013-01-28",
+"portal": "https://www.cjarad.ro/hotarari/hotararea-nr-5-din-28-01-2013-privind-aprobarea-organigramei-si-a-statului-de-functii-pentru-directia-generala-de-asistenta-sociala-si-protectia-copilului-arad-pe-anul-2013/",
+"council": "judet/arad",
+"council_name": "Consiliul Județean Arad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-arad-29-2013",
+"path": "local/judet/arad/2013/29",
+"kind": "local",
+"year": "2013",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Arad nr. 29/2013",
+"short": "HCJ Arad nr. 29/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-02-25",
+"latest": "2013-02-25",
+"portal": "https://www.cjarad.ro/hotarari/hotararea-nr-29-din-25-02-2013-privind-aprobarea-organigramei-si-a-statului-de-functii-pentru-spitalul-de-psihiatrie-mocrea-pe-anul-2013/",
+"council": "judet/arad",
+"council_name": "Consiliul Județean Arad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-arad-38-2013",
+"path": "local/judet/arad/2013/38",
+"kind": "local",
+"year": "2013",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Arad nr. 38/2013",
+"short": "HCJ Arad nr. 38/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-21",
+"latest": "2013-03-21",
+"portal": "https://www.cjarad.ro/hotarari/hotararea-nr-38-din-21-03-2013-privind-modificarea-anexei-la-hotararea-consiliului-judetean-nr-277din-22-10-2010-privind-contractarea-de-catre-consiliul-judetean-arad-a-unei-finantari-rambursab/",
+"council": "judet/arad",
+"council_name": "Consiliul Județean Arad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-arad-268-2013",
+"path": "local/judet/arad/2013/268",
+"kind": "local",
+"year": "2013",
+"number": "268",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Arad nr. 268/2013",
+"short": "HCJ Arad nr. 268/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-10-31",
+"latest": "2013-10-31",
+"portal": "https://www.cjarad.ro/hotarari/hotararea-nr-268-din-31-10-2013-privind-aprobarea-documentatiei-l-5515-2013-reglementare-retele-electrice-cu-dtac-modernizare-dj-709e-km-38869200-rampa-pod-raul-mures-san/",
+"council": "judet/arad",
+"council_name": "Consiliul Județean Arad",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}
