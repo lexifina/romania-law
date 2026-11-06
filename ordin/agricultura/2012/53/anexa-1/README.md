@@ -1,4 +1,4 @@
-# Anexa nr. 1: LISTA gradatorilor autorizați Nr. crt. Numele Prenumele CNP 1 Alexandru Simona 2850902100180 2 Anchidin Constantin 1730918040051 3 Andrei Mirela 2771009170314 4 Andrei Valentina-Ștefania 2761227511665
+# Anexa nr. 1: LISTA gradatorilor autorizați Nr. crt. Numele Prenumele CNP 1 Alexandru Simona [CNP omis] 2 Anchidin Constantin [CNP omis] 3 Andrei Mirela [CNP omis] 4 Andrei Valentina-Ștefania [CNP omis]
 
 Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
 
