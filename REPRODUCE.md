@@ -18436,21 +18436,21 @@ Every word of law in this repository comes from these sources and, for the acts 
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 189467 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 203368 | |
+| 189767 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 203668 | |
 
-The build made 209712 commits:
+The build made 210012 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 189542 | first version of an act |
+| 189842 | first version of an act |
 | 13945 | one law on its in-force day |
 | 3682 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `viitor`: laws not yet in force on 2026-11-06.
 - 229 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 190595 laws in the record.
-- 421611 tags.
+- 190895 laws in the record.
+- 422211 tags.
 
 ## Dates
 
@@ -18462,7 +18462,7 @@ When a law gives no date of its own, the default rule applies: Constitu»õia Rom√
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `6dfa43deac5c9ed265963b35a5ac0c86c08f2a2aa735788249943a7d2945b0da` (2934914751 bytes).
+- Corpus: sha256 `9cb9164b308d887e6ef8051a3722bd2ffc82e095b11ddc2be5a78807d03d234f` (2937084300 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `b60ec7f5fea45f139772b124aa5be0472503fd79`, `check.py` `34526b6ce31ecf076b78e7067a22aec49194ac74`, `on.py` `267f054872f375839ad33c914e6c0d5faf27656b`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -18474,7 +18474,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (711991 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (712631 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -178572,106 +178572,406 @@ Model use at data-build time:
 - Recomandarea Avocatul Poporului nr. 20/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 20/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 20/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 20/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 20/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 20/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 20/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului din 2020-10-13: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 200/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 200/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 200/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului din 2020-10-13: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2025-06-13: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 201/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 201/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 201/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 202/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 202/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 202/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2025-10-08: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 203/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 203/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 203/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 204/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 204/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 204/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2025-10-21: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 205/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 205/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 205/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2025-10-25: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2025-10-21: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului din 2020-11-03: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 206/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 206/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 206/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului din 2020-11-03: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 207/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 207/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 207/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 208/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 208/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 208/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 209/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 209/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 209/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 21/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 21/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 21/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 21/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 21/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 21/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 21/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 210/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 210/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 210/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2025-09-18: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 211/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 211/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 211/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2020-11-25: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2025-10-27: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 212/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 212/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 212/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 213/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 213/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 213/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 214/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 214/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 214/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2025-10-29: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 215/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 215/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 215/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2025-10-08: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 216/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 216/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 217/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 217/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 218/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 218/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 219/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 219/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului din 2020-01-29: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2022-03-07: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 22/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 22/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 22/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 22/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 22/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 22/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 22/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 220/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 220/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 221/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 221/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 222/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 222/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 223/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 223/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 224/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 224/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 225/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 225/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 226/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 226/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 227/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 227/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 228/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 228/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 229/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 229/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului din 2021-02-16: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 23/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 23/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 23/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 23/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 23/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 23/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 23/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 230/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 230/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 231/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 231/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 232/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 232/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 233/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 233/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 234/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 234/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 235/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 235/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 236/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 236/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 237/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 237/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 238/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 238/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 239/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2026-02-04: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 24/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 24/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 24/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 24/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 24/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 24/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 24/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 240/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 241/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 242/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 243/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 244/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 245/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2025-12-05: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 246/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 247/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 248/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 249/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului din 2020-01-23: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2026-01-29: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 25/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 25/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 25/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 25/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 25/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 25/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 25/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2026-01-29: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 250/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 251/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 252/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 253/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 254/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 255/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 256/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 257/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 258/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 259/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 26/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 26/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 26/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 26/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 26/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 26/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 26/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 27/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 27/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 27/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 27/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 27/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 27/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 27/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 28/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 28/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 28/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 28/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 28/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 28/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 28/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 29/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 29/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 29/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 29/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 29/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 29/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 29/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 3/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 3/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 3/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 3/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 3/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 3/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 3/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 30/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 30/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 30/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 30/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 30/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 30/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 30/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 31/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 31/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 31/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 31/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 31/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 31/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 31/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului din 2020-01-23: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 32/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 32/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 32/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 32/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 32/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 32/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 32/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 33/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 33/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 33/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 33/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 33/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 33/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 33/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2026-02-09: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 34/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 34/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 34/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 34/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 34/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 34/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 34/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2026-02-09: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 35/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 35/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 35/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 35/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 35/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 35/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 35/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 36/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 36/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 36/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 36/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 36/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 36/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 36/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2022-04-04: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 37/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 37/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 37/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 37/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 37/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 37/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 37/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 38/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 38/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 38/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 38/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 38/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 38/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 38/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 39/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 39/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 39/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 39/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 39/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 39/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 39/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 4/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 4/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 4/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 4/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 4/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 4/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 4/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 40/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 40/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 40/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 40/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 40/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 40/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 40/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului din 2021-03-08: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2023-02-01: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2025-04-01: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 41/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 41/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 41/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 41/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 41/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 41/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 41/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 42/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 42/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 42/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 42/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 42/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 42/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 42/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2026-02-10: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 43/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 43/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 43/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 43/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 43/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 43/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 43/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2023-01-27: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 44/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 44/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 44/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 44/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 44/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 44/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 44/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 45/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 45/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 45/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 45/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 45/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 45/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 45/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 46/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 46/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 46/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 46/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 46/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 46/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 46/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 47/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 47/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 47/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 47/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 47/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 47/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 47/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 48/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 48/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 48/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 48/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 48/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 48/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 48/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului din 2020-02-18: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului din 2021-04-01: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 49/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 49/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 49/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 49/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 49/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 49/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 49/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului din 2023-01-20: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 5/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 5/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 5/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 5/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 5/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 5/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 5/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului din 2020-01-28: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 50/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 50/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 50/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 50/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 50/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 50/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 50/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului din 2021-03-30: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 51/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 51/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 51/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 51/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 51/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 51/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 51/2026: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului din 2021-04-06: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 52/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 52/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 52/2022: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 52/2023: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 52/2024: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Recomandarea Avocatul Poporului nr. 52/2025: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 53/2020: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului nr. 53/2021: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Recomandarea Avocatul Poporului din 2020-03-20: built by Lexifina's ombudsman source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.

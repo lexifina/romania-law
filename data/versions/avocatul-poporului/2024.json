@@ -1876,6 +1876,546 @@
      "sha256": "731db5fc76924ef7a8377b66d17129f6ea13ebda7459f8deae5d62575a6d8c3a"
     }
    ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-20-2024",
+   "path": "avocatul-poporului/recomandare/2024/20",
+   "short": "Recomandarea Avocatul Poporului nr. 20/2024",
+   "title": "Către inspectorul general al Poliției Române",
+   "url": "https://avp.ro/wp-content/uploads/2024/01/Recomandarea20_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-14",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/01/Recomandarea20_2024.pdf",
+     "sha256": "6616a3c0b6f73d8c80e06a9a8cea9090553c7c222fc5a401689516d3fc5a14b4"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-21-2024",
+   "path": "avocatul-poporului/recomandare/2024/21",
+   "short": "Recomandarea Avocatul Poporului nr. 21/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 21 din 2024-01-17",
+   "url": "https://avp.ro/wp-content/uploads/2024/01/Recomandarea21_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-17",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/01/Recomandarea21_2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-22-2024",
+   "path": "avocatul-poporului/recomandare/2024/22",
+   "short": "Recomandarea Avocatul Poporului nr. 22/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 22 din 2024-01-22",
+   "url": "https://avp.ro/wp-content/uploads/2024/01/Rec-22-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/01/Rec-22-2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-23-2024",
+   "path": "avocatul-poporului/recomandare/2024/23",
+   "short": "Recomandarea Avocatul Poporului nr. 23/2024",
+   "title": "Către primarul comunei Drăgușeni, județul Suceava",
+   "url": "https://avp.ro/wp-content/uploads/2024/01/Rec-23-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/01/Rec-23-2024.pdf",
+     "sha256": "4f4bcf9b28c7977157fa4776e752d20f1ee972dcf8701bd38bf8fbdac727afbd"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-24-2024",
+   "path": "avocatul-poporului/recomandare/2024/24",
+   "short": "Recomandarea Avocatul Poporului nr. 24/2024",
+   "title": "Către primarul municipiului Suceava, județul Suceava",
+   "url": "https://avp.ro/wp-content/uploads/2024/01/Recomandarea24_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/01/Recomandarea24_2024.pdf",
+     "sha256": "259f8a01622f2655d4c9c999229d3c961c193e04d450df712d40f3fc90e7fa3c"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-25-2024",
+   "path": "avocatul-poporului/recomandare/2024/25",
+   "short": "Recomandarea Avocatul Poporului nr. 25/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 25 din 2024-01-26",
+   "url": "https://avp.ro/wp-content/uploads/2024/01/Recomandarea-25_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/01/Recomandarea-25_2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-26-2024",
+   "path": "avocatul-poporului/recomandare/2024/26",
+   "short": "Recomandarea Avocatul Poporului nr. 26/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 26 din 2024-01-30",
+   "url": "https://avp.ro/wp-content/uploads/2024/01/Recomandarea-26_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/01/Recomandarea-26_2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-27-2024",
+   "path": "avocatul-poporului/recomandare/2024/27",
+   "short": "Recomandarea Avocatul Poporului nr. 27/2024",
+   "title": "Către primarul comunei Ungureni, județul Botoșani",
+   "url": "https://avp.ro/wp-content/uploads/2024/01/Recomandarea-27_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/01/Recomandarea-27_2024.pdf",
+     "sha256": "a19367150364f706470287e0f1d584a9f3900de464a2997e62a76a608dd967b5"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-28-2024",
+   "path": "avocatul-poporului/recomandare/2024/28",
+   "short": "Recomandarea Avocatul Poporului nr. 28/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 28 din 2024-01-29",
+   "url": "https://avp.ro/wp-content/uploads/2024/01/Recomandarea-28_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/01/Recomandarea-28_2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-29-2024",
+   "path": "avocatul-poporului/recomandare/2024/29",
+   "short": "Recomandarea Avocatul Poporului nr. 29/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 29 din 2024-01-31",
+   "url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea-29_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea-29_2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-3-2024",
+   "path": "avocatul-poporului/recomandare/2024/3",
+   "short": "Recomandarea Avocatul Poporului nr. 3/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 3 din 2024-01-05",
+   "url": "https://avp.ro/wp-content/uploads/2024/01/Rec-3-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/01/Rec-3-2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-30-2024",
+   "path": "avocatul-poporului/recomandare/2024/30",
+   "short": "Recomandarea Avocatul Poporului nr. 30/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 30 din 2024-01-25",
+   "url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea30_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea30_2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-31-2024",
+   "path": "avocatul-poporului/recomandare/2024/31",
+   "short": "Recomandarea Avocatul Poporului nr. 31/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 31 din 2024-01-29",
+   "url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea31_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea31_2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-32-2024",
+   "path": "avocatul-poporului/recomandare/2024/32",
+   "short": "Recomandarea Avocatul Poporului nr. 32/2024",
+   "title": "Către primarul orașului Ocna Sibiului, județul Sibiu",
+   "url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea32_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea32_2024.pdf",
+     "sha256": "32d19fa19987627e5727c3817cec543558ff167579060cee7973ff8a7e7da13a"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-33-2024",
+   "path": "avocatul-poporului/recomandare/2024/33",
+   "short": "Recomandarea Avocatul Poporului nr. 33/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 33 din 2024-01-26",
+   "url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea33_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea33_2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-34-2024",
+   "path": "avocatul-poporului/recomandare/2024/34",
+   "short": "Recomandarea Avocatul Poporului nr. 34/2024",
+   "title": "Către inspectorul șef al Inspectoratului de Poliție al Județului Ilfov",
+   "url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea34_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea34_2024.pdf",
+     "sha256": "61833c76b676c6bcd015055496fabdbef2541fe4879e64313d3d0638291a9399"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-35-2024",
+   "path": "avocatul-poporului/recomandare/2024/35",
+   "short": "Recomandarea Avocatul Poporului nr. 35/2024",
+   "title": "Către directorul Penitenciarului Rahova",
+   "url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea35_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea35_2024.pdf",
+     "sha256": "0a52f56e90e59c1f7646211d02a09e2e90adef423e734e8b944d17965bf43b87"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-36-2024",
+   "path": "avocatul-poporului/recomandare/2024/36",
+   "short": "Recomandarea Avocatul Poporului nr. 36/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 36 din 2024-02-07",
+   "url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea36_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea36_2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-37-2024",
+   "path": "avocatul-poporului/recomandare/2024/37",
+   "short": "Recomandarea Avocatul Poporului nr. 37/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 37 din 2024-02-13",
+   "url": "https://avp.ro/wp-content/uploads/2024/02/Rec-37-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/02/Rec-37-2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-38-2024",
+   "path": "avocatul-poporului/recomandare/2024/38",
+   "short": "Recomandarea Avocatul Poporului nr. 38/2024",
+   "title": "Către directorul Administrației Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2024/02/Rec-38-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/02/Rec-38-2024.pdf",
+     "sha256": "d0141dc1333e065b3dfec12b667ec0d186df090ba6f364864c3966c90028d9b5"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-39-2024",
+   "path": "avocatul-poporului/recomandare/2024/39",
+   "short": "Recomandarea Avocatul Poporului nr. 39/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 39 din 2024-02-07",
+   "url": "https://avp.ro/wp-content/uploads/2024/02/Rec-39-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/02/Rec-39-2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-4-2024",
+   "path": "avocatul-poporului/recomandare/2024/4",
+   "short": "Recomandarea Avocatul Poporului nr. 4/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 4 din 2024-01-05",
+   "url": "https://avp.ro/wp-content/uploads/2024/01/Rec-4-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/01/Rec-4-2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-40-2024",
+   "path": "avocatul-poporului/recomandare/2024/40",
+   "short": "Recomandarea Avocatul Poporului nr. 40/2024",
+   "title": "Către primarul comunei Adunații-Copăceni, județul Giurgiu",
+   "url": "https://avp.ro/wp-content/uploads/2024/02/Rec-40-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/02/Rec-40-2024.pdf",
+     "sha256": "4ce50369141cb97bd06c7c29bb8011f3cac1050ecd9b32fdb71879e7e3adb8d6"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-41-2024",
+   "path": "avocatul-poporului/recomandare/2024/41",
+   "short": "Recomandarea Avocatul Poporului nr. 41/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 41 din 2024-02-13",
+   "url": "https://avp.ro/wp-content/uploads/2024/02/Rec-41-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/02/Rec-41-2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-42-2024",
+   "path": "avocatul-poporului/recomandare/2024/42",
+   "short": "Recomandarea Avocatul Poporului nr. 42/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 42 din 2024-02-01",
+   "url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea-42-2.pdf",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea-42-2.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-43-2024",
+   "path": "avocatul-poporului/recomandare/2024/43",
+   "short": "Recomandarea Avocatul Poporului nr. 43/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 43 din 2024-02-20",
+   "url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea-43-2.pdf",
+   "versions": [
+    {
+     "from": "2024-02-20",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea-43-2.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-44-2024",
+   "path": "avocatul-poporului/recomandare/2024/44",
+   "short": "Recomandarea Avocatul Poporului nr. 44/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 44 din 2024-01-10",
+   "url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea44_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea44_2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-45-2024",
+   "path": "avocatul-poporului/recomandare/2024/45",
+   "short": "Recomandarea Avocatul Poporului nr. 45/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 45 din 2024-02-29",
+   "url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea-45_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea-45_2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-46-2024",
+   "path": "avocatul-poporului/recomandare/2024/46",
+   "short": "Recomandarea Avocatul Poporului nr. 46/2024",
+   "title": "Către primarul comunei Ciolănești, județul Teleorman",
+   "url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea-46_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea-46_2024.pdf",
+     "sha256": "accdd1055f971923dd7d862db5d7bee98188710325a593a0818af94634ed8c76"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-47-2024",
+   "path": "avocatul-poporului/recomandare/2024/47",
+   "short": "Recomandarea Avocatul Poporului nr. 47/2024",
+   "title": "Către Primarul orașului Râșnov, județul Brașov",
+   "url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea-47_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/02/Recomandarea-47_2024.pdf",
+     "sha256": "c959a95c0cc5149cd450fdf7bbae3f403235b7e7eede70c598bf4a2c4f4ec412"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-48-2024",
+   "path": "avocatul-poporului/recomandare/2024/48",
+   "short": "Recomandarea Avocatul Poporului nr. 48/2024",
+   "title": "Către primarul comunei Câmpuri, județul Vrancea",
+   "url": "https://avp.ro/wp-content/uploads/2024/03/Recomandarea-48_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/03/Recomandarea-48_2024.pdf",
+     "sha256": "1e4674d0d5e4d0875a9e92833657aeb74dfa76c42f6aba7f299179258c85a88f"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-49-2024",
+   "path": "avocatul-poporului/recomandare/2024/49",
+   "short": "Recomandarea Avocatul Poporului nr. 49/2024",
+   "title": "Către primarul comunei Turț, județul Satu Mare",
+   "url": "https://avp.ro/wp-content/uploads/2024/03/Recomandarea-49_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/03/Recomandarea-49_2024.pdf",
+     "sha256": "19a4832d47b72e364679e57d9de209031d2c8d8ace598af05b7707e8ff7f25a3"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-5-2024",
+   "path": "avocatul-poporului/recomandare/2024/5",
+   "short": "Recomandarea Avocatul Poporului nr. 5/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 5 din 2024-01-05",
+   "url": "https://avp.ro/wp-content/uploads/2024/01/Rec-5-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/01/Rec-5-2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-50-2024",
+   "path": "avocatul-poporului/recomandare/2024/50",
+   "short": "Recomandarea Avocatul Poporului nr. 50/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 50 din 2024-03-01",
+   "url": "https://avp.ro/wp-content/uploads/2024/03/Recomandarea-50_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/03/Recomandarea-50_2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-51-2024",
+   "path": "avocatul-poporului/recomandare/2024/51",
+   "short": "Recomandarea Avocatul Poporului nr. 51/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 51 din 2024-01-18",
+   "url": "https://avp.ro/wp-content/uploads/2024/03/Recomandarea-51_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/03/Recomandarea-51_2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-52-2024",
+   "path": "avocatul-poporului/recomandare/2024/52",
+   "short": "Recomandarea Avocatul Poporului nr. 52/2024",
+   "title": "Recomandarea Avocatului Poporului nr. 52 din 2024-03-04",
+   "url": "https://avp.ro/wp-content/uploads/2024/03/Recomandarea-52_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2024/03/Recomandarea-52_2024.pdf",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

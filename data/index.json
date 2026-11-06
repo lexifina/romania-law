@@ -309,12 +309,12 @@
   {
    "shard": "avocatul-poporului/2020",
    "kind": "avocatul-poporului",
-   "count": 290,
+   "count": 291,
    "acts": "data/acts/avocatul-poporului/2020.json",
    "list": "data/acts/avocatul-poporului/2020.md",
    "versions": "data/versions/avocatul-poporului/2020.json",
    "laws": "data/laws/avocatul-poporului/2020.csv",
-   "laws_count": 290,
+   "laws_count": 291,
    "sources": "data/sources/avocatul-poporului/2020.csv"
   },
   {
@@ -331,56 +331,56 @@
   {
    "shard": "avocatul-poporului/2022",
    "kind": "avocatul-poporului",
-   "count": 107,
+   "count": 144,
    "acts": "data/acts/avocatul-poporului/2022.json",
    "list": "data/acts/avocatul-poporului/2022.md",
    "versions": "data/versions/avocatul-poporului/2022.json",
    "laws": "data/laws/avocatul-poporului/2022.csv",
-   "laws_count": 107,
+   "laws_count": 144,
    "sources": "data/sources/avocatul-poporului/2022.csv"
   },
   {
    "shard": "avocatul-poporului/2023",
    "kind": "avocatul-poporului",
-   "count": 129,
+   "count": 168,
    "acts": "data/acts/avocatul-poporului/2023.json",
    "list": "data/acts/avocatul-poporului/2023.md",
    "versions": "data/versions/avocatul-poporului/2023.json",
    "laws": "data/laws/avocatul-poporului/2023.csv",
-   "laws_count": 129,
+   "laws_count": 168,
    "sources": "data/sources/avocatul-poporului/2023.csv"
   },
   {
    "shard": "avocatul-poporului/2024",
    "kind": "avocatul-poporului",
-   "count": 125,
+   "count": 161,
    "acts": "data/acts/avocatul-poporului/2024.json",
    "list": "data/acts/avocatul-poporului/2024.md",
    "versions": "data/versions/avocatul-poporului/2024.json",
    "laws": "data/laws/avocatul-poporului/2024.csv",
-   "laws_count": 125,
+   "laws_count": 161,
    "sources": "data/sources/avocatul-poporului/2024.csv"
   },
   {
    "shard": "avocatul-poporului/2025",
    "kind": "avocatul-poporului",
-   "count": 136,
+   "count": 243,
    "acts": "data/acts/avocatul-poporului/2025.json",
    "list": "data/acts/avocatul-poporului/2025.md",
    "versions": "data/versions/avocatul-poporului/2025.json",
    "laws": "data/laws/avocatul-poporului/2025.csv",
-   "laws_count": 136,
+   "laws_count": 243,
    "sources": "data/sources/avocatul-poporului/2025.csv"
   },
   {
    "shard": "avocatul-poporului/2026",
    "kind": "avocatul-poporului",
-   "count": 125,
+   "count": 205,
    "acts": "data/acts/avocatul-poporului/2026.json",
    "list": "data/acts/avocatul-poporului/2026.md",
    "versions": "data/versions/avocatul-poporului/2026.json",
    "laws": "data/laws/avocatul-poporului/2026.csv",
-   "laws_count": 125,
+   "laws_count": 205,
    "sources": "data/sources/avocatul-poporului/2026.csv"
   },
   {

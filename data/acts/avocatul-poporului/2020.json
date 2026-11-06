@@ -1016,6 +1016,26 @@
 }
 },
 {
+"slug": "avocatul-poporului-recomandare-212-2-2020",
+"path": "avocatul-poporului/recomandare/2020/212-2",
+"kind": "avocatul-poporului",
+"year": "2020",
+"number": "212-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Recomandarea Avocatului Poporului din 2020-11-25",
+"short": "Recomandarea Avocatul Poporului din 2020-11-25",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2020-11-25",
+"latest": "2020-11-25",
+"portal": "https://avp.ro/wp-content/uploads/2022/02/Recomandare-212-2020-directia-de-asistenta-sociala-piatra-neamt.pdf",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "avocatul-poporului-recomandare-22-2-2020",
 "path": "avocatul-poporului/recomandare/2020/22-2",
 "kind": "avocatul-poporului",
