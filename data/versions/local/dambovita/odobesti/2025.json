@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/odobesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--odobesti-100-2025",
+   "path": "local/dambovita/odobesti/2025/100",
+   "short": "HCL Odobești nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 100/2025 privind aprobarea depunerii solicitării de finanțare a proiectului ,,Construire si dotare camin cultural in comuna Odobesti, judetul Dâmbovita” si inscrierea in Planul Anual de Achizitii Publice pentru anul 2025",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/235753",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/235753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-101-2025",
+   "path": "local/dambovita/odobesti/2025/101",
+   "short": "HCL Odobești nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 101/2025 privind aprobarea depunerii solicitării de finanțare a proiectului ,,Construire si dotare gradiniță in comuna Odobesti, judetul Dâmbovita” si inscrierea în Planul Anual de Achizitii Publice pentru anul 2025",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/235758",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/235758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-102-2025",
+   "path": "local/dambovita/odobesti/2025/102",
+   "short": "HCL Odobești nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 102/2025 privind aprobarea depunerii solicitării de finanțare a proiectului ,,Inființare si dotare centru social rezidențial in comuna Odobesti, judetul Dâmbovita” si inscrierea în Planul Anual de Achizitii Publice pentru anul 2025",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/235759",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/235759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-103-2025",
+   "path": "local/dambovita/odobesti/2025/103",
+   "short": "HCL Odobești nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 103/2025 privind infiintarea a doua posturi in afara organigramei Primariei Odobesti in cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale - facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate” Cod PIDS/586/PO4/339395,finanțat din Fondul Social European Plus,prin Programul Incluziune Si Demnitate Sociala 2021-2027",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/235760",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/235760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-105-2025",
+   "path": "local/dambovita/odobesti/2025/105",
+   "short": "HCL Odobești nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 105/2025 privind aprobarea contului de executie al bugetului local de venituri si cheltuieli al comunei Odobesti la data de 30.09.2025",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/240558",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/240558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-106-2025",
+   "path": "local/dambovita/odobesti/2025/106",
+   "short": "HCL Odobești nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 106/2025 privind aprobarea rectificării bugetului local al comunei Odobești pe anul 2025",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/240564",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/240564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-107-2025",
+   "path": "local/dambovita/odobesti/2025/107",
+   "short": "HCL Odobești nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 107/2025",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/240565",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/240565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-108-2025",
+   "path": "local/dambovita/odobesti/2025/108",
+   "short": "HCL Odobești nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 108/2025 privind alocarea de fonduri pentru organizarea de activitati cultural-artistice, sportive si acordarea de cadouri copiilor din invatamantul preuniversitar de stat din comuna Odobesti,cu ocazia Sarbatorilor de de iarna",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/240566",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/240566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-109-2025",
+   "path": "local/dambovita/odobesti/2025/109",
+   "short": "HCL Odobești nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 109/2025 privind stabilirea impozitelor si taxelor locale pentru anul fiscal 2026",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/246423",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/246423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-110-2025",
+   "path": "local/dambovita/odobesti/2025/110",
+   "short": "HCL Odobești nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 110/2025 privind aprobarea structurii retelei scolare cu unitatile de invatamant preuniversitar stat pentru anul scolar 2026-2027 la nivelul comunei Odobesti,judetul Dambovita",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/246424",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/246424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-111-2025",
+   "path": "local/dambovita/odobesti/2025/111",
+   "short": "HCL Odobești nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 111/2025 privind aprobarea rectificării bugetului local al comunei Odobești pe anul 2025",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/246425",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/246425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-112-2025",
+   "path": "local/dambovita/odobesti/2025/112",
+   "short": "HCL Odobești nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 112/2025 privind stabilirea și aprobarea taxei de salubrizare pentru utilizatorii casnici, în cuantumul stabilit pentru anul 2025",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/246433",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/246433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-113-2025",
+   "path": "local/dambovita/odobesti/2025/113",
+   "short": "HCL Odobești nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 113/2025 privind aprobarea Metodologiei de instituire și colectare a taxei de salubrizare de la utilizatorii casnici",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/246434",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/246434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-114-2025",
+   "path": "local/dambovita/odobesti/2025/114",
+   "short": "HCL Odobești nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 114/2025 privind aprobarea cuantumului taxei de salubrizare pentru utilizatorii noncasnici, pentru anul 2026,in cuantumul stabilit pentru anul 2025",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/246437",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/246437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-115-2025",
+   "path": "local/dambovita/odobesti/2025/115",
+   "short": "HCL Odobești nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 115/2025 privind aprobarea Metodologiei de instituire și colectare a taxei de salubrizare de la utilizatorii noncasnici",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/246438",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/246438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-116-2025",
+   "path": "local/dambovita/odobesti/2025/116",
+   "short": "HCL Odobești nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 116/2025 privind stabilirea si aprobarea cotizatiei/contributiei comunei Odobesti catre Asociatia de Dezvoltare Intercomunitara ,,Management Integrat al Deseurilor in judeţul Dâmboviţa”, pentru anul 2026",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/246439",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/246439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-98-2025",
+   "path": "local/dambovita/odobesti/2025/98",
+   "short": "HCL Odobești nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 98/2025 privind implementarea proiectului „Dotarea Serviciului Voluntar pentru Situații de Urgență al Comunei Odobești, județul Dâmbovița” si aprobarea indicatorilor tehnico - economici",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/235750",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/235750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-99-2025",
+   "path": "local/dambovita/odobesti/2025/99",
+   "short": "HCL Odobești nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 99/2025 privind aprobarea rectificării bugetului local al comunei Odobești pe anul 2025",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/235751",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/235751",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,250 @@
+{
+"country": "RO",
+"shard": "local/covasna/aita-mare/2023",
+"acts": [
+{
+"slug": "hcl-covasna--aita-mare-78-2023",
+"path": "local/covasna/aita-mare/2023/78",
+"kind": "local",
+"year": "2023",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 78/2023 privind indexarea impozitelor pe mijloacele de transport prevăzute la art.470 alin.(5) și (6) din Legea nr.227/2015 - Codul fiscal",
+"short": "HCL Aita Mare nr. 78/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-05",
+"latest": "2023-12-05",
+"portal": "https://emol.ro/aitamare-cv/registru-hcl/130676",
+"council": "covasna/aita-mare",
+"council_name": "Consiliul Local al Comunei Aita Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--aita-mare-79-2023",
+"path": "local/covasna/aita-mare/2023/79",
+"kind": "local",
+"year": "2023",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 79/2023 privind aprobarea modificării și completării Statutului Asociației de Dezvoltare Intercomunitară ”Sistem Integrat de Management al Deșeurilor în județul Covasna”",
+"short": "HCL Aita Mare nr. 79/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-05",
+"latest": "2023-12-05",
+"portal": "https://emol.ro/aitamare-cv/registru-hcl/130677",
+"council": "covasna/aita-mare",
+"council_name": "Consiliul Local al Comunei Aita Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--aita-mare-80-2023",
+"path": "local/covasna/aita-mare/2023/80",
+"kind": "local",
+"year": "2023",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 80/2023",
+"short": "HCL Aita Mare nr. 80/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-05",
+"latest": "2023-12-05",
+"portal": "https://emol.ro/aitamare-cv/registru-hcl/130678",
+"council": "covasna/aita-mare",
+"council_name": "Consiliul Local al Comunei Aita Mare",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--aita-mare-81-2023",
+"path": "local/covasna/aita-mare/2023/81",
+"kind": "local",
+"year": "2023",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 81/2023",
+"short": "HCL Aita Mare nr. 81/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-05",
+"latest": "2023-12-05",
+"portal": "https://emol.ro/aitamare-cv/registru-hcl/130679",
+"council": "covasna/aita-mare",
+"council_name": "Consiliul Local al Comunei Aita Mare",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--aita-mare-82-2023",
+"path": "local/covasna/aita-mare/2023/82",
+"kind": "local",
+"year": "2023",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 82/2023 privind aprobarea Regulamentului de organizare și funcționare a spațiilor de joacă pe domeniul public al comunei Aita Mare",
+"short": "HCL Aita Mare nr. 82/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-05",
+"latest": "2023-12-05",
+"portal": "https://emol.ro/aitamare-cv/registru-hcl/130680",
+"council": "covasna/aita-mare",
+"council_name": "Consiliul Local al Comunei Aita Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--aita-mare-83-2023",
+"path": "local/covasna/aita-mare/2023/83",
+"kind": "local",
+"year": "2023",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 83/2023 privind acordarea unui mandat special reprezentantului Comunei Aita Mare în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”Sistem Integrat de Management al Deșeurilor în județul Covasna”",
+"short": "HCL Aita Mare nr. 83/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-05",
+"latest": "2023-12-05",
+"portal": "https://emol.ro/aitamare-cv/registru-hcl/130681",
+"council": "covasna/aita-mare",
+"council_name": "Consiliul Local al Comunei Aita Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--aita-mare-87-2023",
+"path": "local/covasna/aita-mare/2023/87",
+"kind": "local",
+"year": "2023",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 87/2023 privind rectificarea bugetului local al comunei Aita Mare pe anul 2023",
+"short": "HCL Aita Mare nr. 87/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-05",
+"latest": "2023-12-05",
+"portal": "https://emol.ro/aitamare-cv/registru-hcl/130685",
+"council": "covasna/aita-mare",
+"council_name": "Consiliul Local al Comunei Aita Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--aita-mare-89-2023",
+"path": "local/covasna/aita-mare/2023/89",
+"kind": "local",
+"year": "2023",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 89/2023 privind stabilirea impozitelor și taxelor locale pe anul 2024",
+"short": "HCL Aita Mare nr. 89/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://emol.ro/aitamare-cv/registru-hcl/134836",
+"council": "covasna/aita-mare",
+"council_name": "Consiliul Local al Comunei Aita Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--aita-mare-90-2023",
+"path": "local/covasna/aita-mare/2023/90",
+"kind": "local",
+"year": "2023",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 90/2023 privind acordarea unui mandat special reprezentantului Comunei Aita Mare în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”AQUACOV”",
+"short": "HCL Aita Mare nr. 90/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://emol.ro/aitamare-cv/registru-hcl/134837",
+"council": "covasna/aita-mare",
+"council_name": "Consiliul Local al Comunei Aita Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--aita-mare-91-2023",
+"path": "local/covasna/aita-mare/2023/91",
+"kind": "local",
+"year": "2023",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 91/2023 privind aprobarea modificării și completării Statutului Asociației de Dezvoltare Intercomunitară de utilități publice pentru serviciile de salubrizare a localităților ”ECO SEPSI”",
+"short": "HCL Aita Mare nr. 91/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://emol.ro/aitamare-cv/registru-hcl/134838",
+"council": "covasna/aita-mare",
+"council_name": "Consiliul Local al Comunei Aita Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--aita-mare-97-2023",
+"path": "local/covasna/aita-mare/2023/97",
+"kind": "local",
+"year": "2023",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 97/2023 privind rectificarea bugetului local al comunei Aita Mare pe anul 2023",
+"short": "HCL Aita Mare nr. 97/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://emol.ro/aitamare-cv/registru-hcl/134844",
+"council": "covasna/aita-mare",
+"council_name": "Consiliul Local al Comunei Aita Mare",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -91,6 +91,126 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-17-2025",
+   "path": "local/dambovita/fieni/2025/17",
+   "short": "HCL Fieni nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 17/2025 privind privind modificarea HCL nr. 143 din 16.12.2021 privind aprobarea documentației tehnico-economice și a principalilor indicatori tehnico-economici ai investiției „Înființare centru de zi pentru persoane vârstnice în orașul Fieni, județul Dâmbovița (POR 2014–2020)”",
+   "url": "https://emol.ro/fieni-db/registru-hcl/192888",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/192888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-18-2025",
+   "path": "local/dambovita/fieni/2025/18",
+   "short": "HCL Fieni nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 18/2025 privind aprobarea proiectului „Înființare centru de zi pentru persoane vârstnice în orașul Fieni, Județul Dâmbovița (POR 2014 - 2020) - ETAPA II”, cod SMIS 332258 și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/fieni-db/registru-hcl/192889",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/192889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-20-2025",
+   "path": "local/dambovita/fieni/2025/20",
+   "short": "HCL Fieni nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 20/2025 privind aprobarea cuantumului taxei de salubrizare pentru utilizatorii noncasnici, pentru anul 2025, în cuantumul stabilit pentru anul 2024",
+   "url": "https://emol.ro/fieni-db/registru-hcl/194396",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/194396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-57-2025",
+   "path": "local/dambovita/fieni/2025/57",
+   "short": "HCL Fieni nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 57/2025 privind aprobarea rectificării bugetului local pe anul 2025",
+   "url": "https://emol.ro/fieni-db/registru-hcl/209460",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/209460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-59-2025",
+   "path": "local/dambovita/fieni/2025/59",
+   "short": "HCL Fieni nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 59/2025 privind aprobarea completarii Registrului Agricol pentru perioada 2025-2029, doar in format electronic",
+   "url": "https://emol.ro/fieni-db/registru-hcl/209462",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/209462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-79-2025",
+   "path": "local/dambovita/fieni/2025/79",
+   "short": "HCL Fieni nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 79/2025 privind aprobarea inițierii demersurilor de actualizare a PLANULUI GENERAL SI REGULAMENT LOCAL DE URBANISM AFERENT ”",
+   "url": "https://emol.ro/fieni-db/registru-hcl/218508",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/218508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-89-2025",
+   "path": "local/dambovita/fieni/2025/89",
+   "short": "HCL Fieni nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 89/2025 privind aprobarea Proiectului ,, Sistem de Management Integrat al Deseurilor din Judetul Dambovita - Obiectiv - Instalatie de Tratare Deseuri , Colectare Separat si Centru de Aport Voluntar Sotanga",
+   "url": "https://emol.ro/fieni-db/registru-hcl/223079",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/223079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-9-2025",
+   "path": "local/dambovita/fieni/2025/9",
+   "short": "HCL Fieni nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 9/2025",
+   "url": "https://emol.ro/fieni-db/registru-hcl/189041",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/189041",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

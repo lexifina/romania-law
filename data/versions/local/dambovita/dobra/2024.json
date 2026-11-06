@@ -1,0 +1,876 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/dobra/2024",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--dobra-1-2024",
+   "path": "local/dambovita/dobra/2024/1",
+   "short": "HCL Dobra nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 1/2024 RECTIFICA BVC",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#67644",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#67644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-10-2024",
+   "path": "local/dambovita/dobra/2024/10",
+   "short": "HCL Dobra nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 10/2024 APROBA ACTUALIZARE PUG",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#69344",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#69344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-11-2024",
+   "path": "local/dambovita/dobra/2024/11",
+   "short": "HCL Dobra nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 11/2024 CONSTITUIE DREPT FOLOSINTA",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#69345",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#69345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-12-2024",
+   "path": "local/dambovita/dobra/2024/12",
+   "short": "HCL Dobra nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 12/2024 PREDARE TEREN CNI",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#69346",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#69346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-13-2024",
+   "path": "local/dambovita/dobra/2024/13",
+   "short": "HCL Dobra nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 13/2024 APROBA AJUTOARE URGENTA",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#69347",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#69347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-14-2024",
+   "path": "local/dambovita/dobra/2024/14",
+   "short": "HCL Dobra nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 14/2024 APROBA BCV 2024",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#70293",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#70293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-15-2024",
+   "path": "local/dambovita/dobra/2024/15",
+   "short": "HCL Dobra nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 15/2024 APROBA SUME ECHIPE FOTBAL",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#73998",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#73998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-16-2024",
+   "path": "local/dambovita/dobra/2024/16",
+   "short": "HCL Dobra nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 16/2024 APROBA SF PUNTE PIETONALA",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#73999",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#73999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-17-2024",
+   "path": "local/dambovita/dobra/2024/17",
+   "short": "HCL Dobra nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 17/2024 APROBA RECTIFICARE BVC",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#74000",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#74000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-18-2024",
+   "path": "local/dambovita/dobra/2024/18",
+   "short": "HCL Dobra nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 18/2024 APROBA PROGRAM BIBLIOTECA",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#74001",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#74001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-19-2024",
+   "path": "local/dambovita/dobra/2024/19",
+   "short": "HCL Dobra nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 19/2024 APROBA MODIFICARE ORGANIGRAMA",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#74002",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#74002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-2-2024",
+   "path": "local/dambovita/dobra/2024/2",
+   "short": "HCL Dobra nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 2/2024 ACORDA SPRIJIN PAROHIE MARCESTI",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#67645",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#67645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-20-2024",
+   "path": "local/dambovita/dobra/2024/20",
+   "short": "HCL Dobra nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 20/2024 MODIFICA HCL",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#76634",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#76634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-21-2024",
+   "path": "local/dambovita/dobra/2024/21",
+   "short": "HCL Dobra nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 21/2024 MODIFICA HCL",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#76635",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#76635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-22-2024",
+   "path": "local/dambovita/dobra/2024/22",
+   "short": "HCL Dobra nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 22/2024 RECTIFICA BVC",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#76636",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#76636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-23-2024",
+   "path": "local/dambovita/dobra/2024/23",
+   "short": "HCL Dobra nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 23/2024 ACORDA PREMII IMPLINIRE VARSTA DE 100 ANI",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#76637",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#76637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-24-2024",
+   "path": "local/dambovita/dobra/2024/24",
+   "short": "HCL Dobra nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 24/2024 INREGISTRARE GHISEUL.RO",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80875",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-25-2024",
+   "path": "local/dambovita/dobra/2024/25",
+   "short": "HCL Dobra nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 25/2024 RECTIFICA BVC",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80876",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-26-2024",
+   "path": "local/dambovita/dobra/2024/26",
+   "short": "HCL Dobra nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 26/2024 ACORD UTILIZARE TEREN",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80878",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-27-2024",
+   "path": "local/dambovita/dobra/2024/27",
+   "short": "HCL Dobra nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 27/2024 INCLUDERE IN INVENTAR",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80880",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-29-2024",
+   "path": "local/dambovita/dobra/2024/29",
+   "short": "HCL Dobra nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 29/2024 INCETARE MANDAT",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80883",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-3-2024",
+   "path": "local/dambovita/dobra/2024/3",
+   "short": "HCL Dobra nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 3/2024 ACORDA SPRIJIN PAROHIE DOBRA",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#67648",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#67648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-30-2024",
+   "path": "local/dambovita/dobra/2024/30",
+   "short": "HCL Dobra nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 30/2024 APROBA PRELUNGIRE CONTRACT",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80884",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-31-2024",
+   "path": "local/dambovita/dobra/2024/31",
+   "short": "HCL Dobra nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 31/2024 RECTIFICA BVC",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80885",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-32-2024",
+   "path": "local/dambovita/dobra/2024/32",
+   "short": "HCL Dobra nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 32/2024 APROBA REORGANIZARE",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80887",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-33-2024",
+   "path": "local/dambovita/dobra/2024/33",
+   "short": "HCL Dobra nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 33/2024 INCLUDERE BUN",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80888",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-34-2024",
+   "path": "local/dambovita/dobra/2024/34",
+   "short": "HCL Dobra nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 34/2024 INCLUDERE BUN",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80889",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-36-2024",
+   "path": "local/dambovita/dobra/2024/36",
+   "short": "HCL Dobra nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 36/2024 TRANSMITERE BUN",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80893",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-37-2024",
+   "path": "local/dambovita/dobra/2024/37",
+   "short": "HCL Dobra nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 37/2024 APROBA PROIECT TEHNIC",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80894",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-38-2024",
+   "path": "local/dambovita/dobra/2024/38",
+   "short": "HCL Dobra nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 38/2024 ALEGE VICEPRIMAR",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80895",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-39-2024",
+   "path": "local/dambovita/dobra/2024/39",
+   "short": "HCL Dobra nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 39/2024 RECTIFICA BVC",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88066",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-4-2024",
+   "path": "local/dambovita/dobra/2024/4",
+   "short": "HCL Dobra nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 4/2024 RECTIFICA BVC",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#67649",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#67649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-40-2024",
+   "path": "local/dambovita/dobra/2024/40",
+   "short": "HCL Dobra nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 40/2024 ACORTDA AJUTOR URGENTA",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88067",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-41-2024",
+   "path": "local/dambovita/dobra/2024/41",
+   "short": "HCL Dobra nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 41/2024 ACORDA AJUTOR URGENTA",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88068",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-42-2024",
+   "path": "local/dambovita/dobra/2024/42",
+   "short": "HCL Dobra nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 42/2024 ACORDA SPRIJIN PAROHIE DOBRA",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88069",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-43-2024",
+   "path": "local/dambovita/dobra/2024/43",
+   "short": "HCL Dobra nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 43/2024 ACORDA SPRIJIN PAROHIE MARCESTI",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88070",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-44-2024",
+   "path": "local/dambovita/dobra/2024/44",
+   "short": "HCL Dobra nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 44/2024 APROBA DEVIZ PUNTE",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88072",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-45-2024",
+   "path": "local/dambovita/dobra/2024/45",
+   "short": "HCL Dobra nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 45/2024 APROBA CONTURI EXECUTIE",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88073",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-46-2024",
+   "path": "local/dambovita/dobra/2024/46",
+   "short": "HCL Dobra nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 46/2024 APROBA SUSTINERE ECHIPE FOTBAL",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88074",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-47-2024",
+   "path": "local/dambovita/dobra/2024/47",
+   "short": "HCL Dobra nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 47/2024 RECTIFICA BVC",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88075",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-48-2024",
+   "path": "local/dambovita/dobra/2024/48",
+   "short": "HCL Dobra nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 48/2024 ORGANIZARE COMISII",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88076",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-49-2024",
+   "path": "local/dambovita/dobra/2024/49",
+   "short": "HCL Dobra nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 49/2024 MANDATARE PRIMAR ADI",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88077",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-5-2024",
+   "path": "local/dambovita/dobra/2024/5",
+   "short": "HCL Dobra nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 5/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-50-2024",
+   "path": "local/dambovita/dobra/2024/50",
+   "short": "HCL Dobra nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 50/2024 RECTIFICA BVC",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88078",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-51-2024",
+   "path": "local/dambovita/dobra/2024/51",
+   "short": "HCL Dobra nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 51/2024 MANDATARE PRIMAR ADI",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88079",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-53-2024",
+   "path": "local/dambovita/dobra/2024/53",
+   "short": "HCL Dobra nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 53/2024 ALEGE VICEPRIMAR",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88081",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-54-2024",
+   "path": "local/dambovita/dobra/2024/54",
+   "short": "HCL Dobra nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 54/2024 STABILESTE TAXE SI IMPOZITE",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88082",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-55-2024",
+   "path": "local/dambovita/dobra/2024/55",
+   "short": "HCL Dobra nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 55/2024 ACORD UTILIZARE DRUM",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88083",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-56-2024",
+   "path": "local/dambovita/dobra/2024/56",
+   "short": "HCL Dobra nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 56/2024 ACORD ORGANIZARE SANTIER",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88084",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-57-2024",
+   "path": "local/dambovita/dobra/2024/57",
+   "short": "HCL Dobra nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 57/2024 APROBA RETEA SCOLARA",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88085",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-58-2024",
+   "path": "local/dambovita/dobra/2024/58",
+   "short": "HCL Dobra nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 58/2024 RECTIFICA BVC",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88087",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-59-2024",
+   "path": "local/dambovita/dobra/2024/59",
+   "short": "HCL Dobra nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 59/2024 APROBA DOCUMENTATIE REABILITARE SCOALA DOBRA",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88088",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-6-2024",
+   "path": "local/dambovita/dobra/2024/6",
+   "short": "HCL Dobra nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 6/2024 APROBA METODOLOGIE",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#67651",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#67651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-60-2024",
+   "path": "local/dambovita/dobra/2024/60",
+   "short": "HCL Dobra nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 60/2024 APROBA DEVIZ STRAZI",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88089",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-61-2024",
+   "path": "local/dambovita/dobra/2024/61",
+   "short": "HCL Dobra nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 61/2024 APROBA DEVIZ LOCURI JOACA",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88090",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-7-2024",
+   "path": "local/dambovita/dobra/2024/7",
+   "short": "HCL Dobra nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 7/2024 APROBA TAXA SALUBRIZARE UTILIZATORI NONCASNICI",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#67652",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#67652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-8-2024",
+   "path": "local/dambovita/dobra/2024/8",
+   "short": "HCL Dobra nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 8/2024 APROBA TAXA SALUBRIZARE POPULATIE",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#67653",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#67653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--dobra-9-2024",
+   "path": "local/dambovita/dobra/2024/9",
+   "short": "HCL Dobra nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobra nr. 9/2024 APROBA RETEA SCOLARA",
+   "url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#67654",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#67654",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

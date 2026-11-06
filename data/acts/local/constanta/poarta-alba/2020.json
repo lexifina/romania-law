@@ -1,0 +1,228 @@
+{
+"country": "RO",
+"shard": "local/constanta/poarta-alba/2020",
+"acts": [
+{
+"slug": "hcl-constanta--poarta-alba-54-2020",
+"path": "local/constanta/poarta-alba/2020/54",
+"kind": "local",
+"year": "2020",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 54/2020 privind aprobarea actualizării inventarului bunurilor care alcătuiesc domeniul privat al comunei Poarta Albă, județul Constanța",
+"short": "HCL Poarta Albă nr. 54/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/3980",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-56-2020",
+"path": "local/constanta/poarta-alba/2020/56",
+"kind": "local",
+"year": "2020",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 56/2020 privind aprobarea solicitării de renunțare la terenul extravilan în suprafață de 1555 mp. situat în Np 738, lot 15, adjudecat prin licitație publică conform proces - verbal nr. 141/09.01.2014",
+"short": "HCL Poarta Albă nr. 56/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/3982",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-58-2020",
+"path": "local/constanta/poarta-alba/2020/58",
+"kind": "local",
+"year": "2020",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 58/2020 privind aprobarea dezmembrării terenului extravilan – domeniul privat al comunei Poarta Albă, în suprafață de 11.100 mp. situat în localitatea Poarta Albă, Parcela N 795/4, cu nr. Cadastral 103865, în 2 (două) loturi distincte",
+"short": "HCL Poarta Albă nr. 58/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/3984",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-59-2020",
+"path": "local/constanta/poarta-alba/2020/59",
+"kind": "local",
+"year": "2020",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 59/2020 privind aprobarea dezmembrării terenului intravilan – domeniul privat al comunei Poarta Albă, în suprafață de 31.305 mp. situat în localitatea Nazarcea, str.Calea Ovidiu, nr. 1J, lot 4, cu nr. Cadastral 103806, în 4 (patru) loturi distincte",
+"short": "HCL Poarta Albă nr. 59/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/3985",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-60-2020",
+"path": "local/constanta/poarta-alba/2020/60",
+"kind": "local",
+"year": "2020",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 60/2020 privind aprobarea taxelor și impozitelor locale pentru anul 2021",
+"short": "HCL Poarta Albă nr. 60/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/3986",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-62-2020",
+"path": "local/constanta/poarta-alba/2020/62",
+"kind": "local",
+"year": "2020",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 62/2020",
+"short": "HCL Poarta Albă nr. 62/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/3988",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-65-2020",
+"path": "local/constanta/poarta-alba/2020/65",
+"kind": "local",
+"year": "2020",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 65/2020 privind aprobarea rectificării bugetului de venituri şi cheltuieli al comunei Poarta Albă, judeţul Constanţa pentru anul 2020 – luna IUNIE",
+"short": "HCL Poarta Albă nr. 65/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/5849",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-67-2020",
+"path": "local/constanta/poarta-alba/2020/67",
+"kind": "local",
+"year": "2020",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 67/2020",
+"short": "HCL Poarta Albă nr. 67/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/5851",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-70-2020",
+"path": "local/constanta/poarta-alba/2020/70",
+"kind": "local",
+"year": "2020",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 70/2020 privind aprobarea îndreptării erorii materiale din HCL nr. 11/30.01.2020",
+"short": "HCL Poarta Albă nr. 70/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/5854",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-72-2020",
+"path": "local/constanta/poarta-alba/2020/72",
+"kind": "local",
+"year": "2020",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 72/2020 privind aprobarea solicitării prelungirii scrisorii de garanție din partea Fondului Național de Garantare a Creditelor pentru Întreprinderi Mici și Mijlocii – SA pentru proiectul integrat finanțat prin Submăsura 7.2 – Investiții în crearea și modernizarea infrastructurii de bază la scară mică al comunei Poarta Albă",
+"short": "HCL Poarta Albă nr. 72/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/5856",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

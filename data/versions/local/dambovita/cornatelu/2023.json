@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/cornatelu/2023",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--cornatelu-62-2023",
+   "path": "local/dambovita/cornatelu/2023/62",
+   "short": "HCL Cornățelu nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 62/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/127062",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/127062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-68-2023",
+   "path": "local/dambovita/cornatelu/2023/68",
+   "short": "HCL Cornățelu nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 68/2023 privind unele măsuri în domeniul gestionării deșeurilor pe raza administrativ teritorială a comunei Cornățelu, județul Dâmbovița",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/130990",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/130990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-69-2023",
+   "path": "local/dambovita/cornatelu/2023/69",
+   "short": "HCL Cornățelu nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 69/2023 privind validarea Dispoziției primarului nr. 164/16.11.2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/130991",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/130991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-70-2023",
+   "path": "local/dambovita/cornatelu/2023/70",
+   "short": "HCL Cornățelu nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 70/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/130992",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/130992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-71-2023",
+   "path": "local/dambovita/cornatelu/2023/71",
+   "short": "HCL Cornățelu nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 71/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/132268",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/132268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-72-2023",
+   "path": "local/dambovita/cornatelu/2023/72",
+   "short": "HCL Cornățelu nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 72/2023 privind stabilirea impozitelor și taxelor locale pentru anul 2024 prin indexarea nivelurilor impozitelor și taxelor locale cu cota de 13,8%, reprezentând indicele de inflație, aplicat față de nivelurile stabilite pentru anul fiscal 2023",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/135488",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/135488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-73-2023",
+   "path": "local/dambovita/cornatelu/2023/73",
+   "short": "HCL Cornățelu nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 73/2023 privind aprobarea cotizației comunei Cornățelu datorată Asociației de Dezvoltare Intercomunitară „Management Integrat al Deșeurilor în județul Dâmbovița”, pentru anul 2024",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/135489",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/135489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-74-2023",
+   "path": "local/dambovita/cornatelu/2023/74",
+   "short": "HCL Cornățelu nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 74/2023 privind aprobarea cuantumului taxei de habitat cu destinație specială de salubrizare pentru anul 2024",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/135490",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/135490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-75-2023",
+   "path": "local/dambovita/cornatelu/2023/75",
+   "short": "HCL Cornățelu nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 75/2023 privind aprobarea structurii rețelei școlare ale unităților de învățământ preuniversitar de la nivelul comunei Cornățelu, pentru anul de învățământ 2024-2025",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/135491",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/135491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-76-2023",
+   "path": "local/dambovita/cornatelu/2023/76",
+   "short": "HCL Cornățelu nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 76/2023 privind aprobarea Programului Anual al Achizițiilor Publice pentru anul 2024",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/135492",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/135492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-79-2023",
+   "path": "local/dambovita/cornatelu/2023/79",
+   "short": "HCL Cornățelu nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 79/2023 privind aprobarea cotizației comunei Cornățelu datorată Asociației de Dezvoltare Intercomunitară Apă Dâmbovița, pentru anul 2024",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/135495",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/135495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-80-2023",
+   "path": "local/dambovita/cornatelu/2023/80",
+   "short": "HCL Cornățelu nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 80/2023 privind validarea Dispoziției primarului nr. 175/19.12.2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/135496",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/135496",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

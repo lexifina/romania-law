@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/constanta/vulturu/2021",
+"acts": [
+{
+"slug": "hcl-constanta--vulturu-41-2021",
+"path": "local/constanta/vulturu/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 41/2021 privind actualizarea indicatorilor tehnico-economici aferenti documentaţiei de avizare a lucrărilor de intervenţii pentru obiectivul de investitie „ASFALTARE STRĂZI ÎN COMUNA VULTURU, JUDETUL CONSTANTA”",
+"short": "HCL Vulturu nr. 41/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-09-21",
+"latest": "2021-09-21",
+"portal": "https://emol.ro/vulturu-ct/registru-hcl/43281",
+"council": "constanta/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

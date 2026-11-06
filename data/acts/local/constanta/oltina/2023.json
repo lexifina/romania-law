@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/constanta/oltina/2023",
+"acts": [
+{
+"slug": "hcl-constanta--oltina-69-2023",
+"path": "local/constanta/oltina/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oltina nr. 69/2023 privind stabilirea unei suprafețe de teren in vederea depozitării temporare a deșeurilor inerte provenite din activitățile de construcții si demolări de pe raza comunei Oltina, Județul Constanta",
+"short": "HCL Oltina nr. 69/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/oltina-ct/registru-hcl/137472",
+"council": "constanta/oltina",
+"council_name": "Consiliul Local al Comunei Oltina",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--oltina-70-2023",
+"path": "local/constanta/oltina/2023/70",
+"kind": "local",
+"year": "2023",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oltina nr. 70/2023 privind aprobarea măsurilor necesare pentru interzicerea abandonării, aruncării necontrolate a deșeurilor sau gestionării neconforme cu ierarhia deșeurilor",
+"short": "HCL Oltina nr. 70/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/oltina-ct/registru-hcl/137473",
+"council": "constanta/oltina",
+"council_name": "Consiliul Local al Comunei Oltina",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--oltina-71-2023",
+"path": "local/constanta/oltina/2023/71",
+"kind": "local",
+"year": "2023",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oltina nr. 71/2023 privind indexarea nivelurilor impozitului pe mijloacele de transport cu masa totala maxima autorizata mai mare sau egala cu 12 tone pentru anul 2024",
+"short": "HCL Oltina nr. 71/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/oltina-ct/registru-hcl/137474",
+"council": "constanta/oltina",
+"council_name": "Consiliul Local al Comunei Oltina",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

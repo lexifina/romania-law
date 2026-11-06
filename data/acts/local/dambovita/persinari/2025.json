@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/dambovita/persinari/2025",
+"acts": [
+{
+"slug": "hcl-dambovita--persinari-57-2025",
+"path": "local/dambovita/persinari/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perșinari nr. 57/2025 aprobarea cotelor, valorilor impozabile, nivelurilor impozitelor și taxelor locale, taxelor speciale și a amenzilor pentru anul 2026",
+"short": "HCL Perșinari nr. 57/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://persinari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3641#112892",
+"council": "dambovita/persinari",
+"council_name": "Consiliul Local al Comunei Perșinari",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

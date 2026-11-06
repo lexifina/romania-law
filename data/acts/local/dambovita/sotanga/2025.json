@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/dambovita/sotanga/2025",
+"acts": [
+{
+"slug": "hcl-dambovita--sotanga-159-2025",
+"path": "local/dambovita/sotanga/2025/159",
+"kind": "local",
+"year": "2025",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 159/2025 privind stabilirea și aprobarea taxei de salubrizare pentru utilizatorii casnici de pe raza comunei Șotânga pentru anul 2026 și a Metodologiei de instituire și colectare a taxei de salubrizare",
+"short": "HCL Șotânga nr. 159/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/242313",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-160-2025",
+"path": "local/dambovita/sotanga/2025/160",
+"kind": "local",
+"year": "2025",
+"number": "160",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 160/2025 privind aprobarea cuantumului taxei de salubrizare și metodologiei de instituire și colectare a taxei de salubrizare pentru utilizatorii noncasnici",
+"short": "HCL Șotânga nr. 160/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/242314",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-162-2025",
+"path": "local/dambovita/sotanga/2025/162",
+"kind": "local",
+"year": "2025",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 162/2025 privind rectificarea bugetului local pe luna decembrie anul 2025",
+"short": "HCL Șotânga nr. 162/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/242316",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-169-2025",
+"path": "local/dambovita/sotanga/2025/169",
+"kind": "local",
+"year": "2025",
+"number": "169",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 169/2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, aplicabile în anul 2026",
+"short": "HCL Șotânga nr. 169/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/244167",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

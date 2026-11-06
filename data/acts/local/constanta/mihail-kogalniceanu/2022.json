@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/constanta/mihail-kogalniceanu/2022",
+"acts": [
+{
+"slug": "hcl-constanta--mihail-kogalniceanu-150-2022",
+"path": "local/constanta/mihail-kogalniceanu/2022/150",
+"kind": "local",
+"year": "2022",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 150/2022 privind aprobarea cheltuielilor aferente organizării Târgului de Crăciun și a Tradițiilor de Anul Nou în comuna Mihail Kogălniceanu",
+"short": "HCL Mihail Kogălniceanu nr. 150/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-10",
+"latest": "2023-01-10",
+"portal": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/85571",
+"council": "constanta/mihail-kogalniceanu",
+"council_name": "Consiliul Local al Comunei Mihail Kogălniceanu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--mihail-kogalniceanu-153-2022",
+"path": "local/constanta/mihail-kogalniceanu/2022/153",
+"kind": "local",
+"year": "2022",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 153/2022 privind aprobarea documentației de urbanism ”Plan Urbanistic Zonal” în vederea realizării obiectivului de investiții: ”SCHIMBARE DESTINAȚIE TEREN ÎN COMPLEX DEPOZITE PRODUSE FĂRĂ TOXICITATE” în Comuna mihail Kogălniceanu, județul Constanța",
+"short": "HCL Mihail Kogălniceanu nr. 153/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-10",
+"latest": "2023-01-10",
+"portal": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/85574",
+"council": "constanta/mihail-kogalniceanu",
+"council_name": "Consiliul Local al Comunei Mihail Kogălniceanu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--mihail-kogalniceanu-159-2022",
+"path": "local/constanta/mihail-kogalniceanu/2022/159",
+"kind": "local",
+"year": "2022",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 159/2022 privind organizarea și desfășurarea sărbătorii „Botezul cailor„-2023",
+"short": "HCL Mihail Kogălniceanu nr. 159/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/85587",
+"council": "constanta/mihail-kogalniceanu",
+"council_name": "Consiliul Local al Comunei Mihail Kogălniceanu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--mihail-kogalniceanu-161-2022",
+"path": "local/constanta/mihail-kogalniceanu/2022/161",
+"kind": "local",
+"year": "2022",
+"number": "161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 161/2022",
+"short": "HCL Mihail Kogălniceanu nr. 161/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/85589",
+"council": "constanta/mihail-kogalniceanu",
+"council_name": "Consiliul Local al Comunei Mihail Kogălniceanu",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

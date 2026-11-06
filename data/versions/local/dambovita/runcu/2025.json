@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/runcu/2025",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--runcu-23-2025",
+   "path": "local/dambovita/runcu/2025/23",
+   "short": "HCL Runcu nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 23/2025 privind cheltuirea unor sume pentru operatiuni topo-cadastrale",
+   "url": "https://emol.ro/runcu-db/registru-hcl/212440",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/212440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-24-2025",
+   "path": "local/dambovita/runcu/2025/24",
+   "short": "HCL Runcu nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 24/2025 privind aprobare PUZ pentru lucrare Extindere activitati Sc Cvorum Trans SRL prin construire pensiune in comuna Runcu, sat Brebu, judet Dambovita",
+   "url": "https://emol.ro/runcu-db/registru-hcl/212441",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/212441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-28-2025",
+   "path": "local/dambovita/runcu/2025/28",
+   "short": "HCL Runcu nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 28/2025 privind efectuarea de lucrări de reparații la obiective de interes public",
+   "url": "https://emol.ro/runcu-db/registru-hcl/212445",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/212445",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

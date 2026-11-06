@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Zagon nr. 73/2024 privind aprobarea depunerii proiectului, a cheltuielilor legate de proiect cu titlul „Viitorul inteligent: Digitalizarea serviciilor publice pentru comunități conectate” în cadrul apelului de proiecte ”Comunități digitale pentru o regiune inteligentă - soluții digitale” din cadrul Programului Regiunea Centru și încheierea unui acord de parteneriat între UAT Comuna Zagon și UAT Comuna Zăbala, UAT Comuna Brateș și UAT orașul Covasna
+
+HCL Zagon nr. 73/2024 · 1 versions, from 2025-05-14 (latest in force: 2025-05-14) · <https://emol.ro/zagon-cv/registru-hcl/207346>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-covasna--zagon-73-2024` (tags `hcl-covasna--zagon-73-2024/<day>`; `python tools/on.py <day> hcl-covasna--zagon-73-2024`).
+
+## Decisions made by hand
+
+- HCL Zagon nr. 73/2024: listed from Consiliul Local al Comunei Zagon (emol.ro); metadata only for now: no document of it is held.
+- HCL Zagon nr. 73/2024: dated from 14 May 2025, the day the council's register gives it as published (adopted 8 November 2024).
+- HCL Zagon nr. 73/2024: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

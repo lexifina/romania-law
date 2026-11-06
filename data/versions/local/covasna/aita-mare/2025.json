@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/aita-mare/2025",
+ "acts": [
+  {
+   "slug": "hcl-covasna--aita-mare-63-2025",
+   "path": "local/covasna/aita-mare/2025/63",
+   "short": "HCL Aita Mare nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 63/2025 privind rectificarea bugetului local al comunei Aita Mare pe anul 2025 și pentru modificarea anexei nr.2 la Hotărârea Consiliului local Aita Mare nr.13/2025 privind aprobarea bugetului local general și pe secțiuni al comunei Aita Mare pe anul 2025",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/231243",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/231243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-68-2025",
+   "path": "local/covasna/aita-mare/2025/68",
+   "short": "HCL Aita Mare nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 68/2025 privind indexarea impozitelor pe mijloacele de transport prevăzute la art.470 alin.(5) și (6) din Legea nr.227/2015 - Codul fiscal",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/236923",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/236923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-74-2025",
+   "path": "local/covasna/aita-mare/2025/74",
+   "short": "HCL Aita Mare nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 74/2025 privind acordarea unui mandat special reprezentantului Comunei Aita Mare în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”Sistem Integrat de Management al Deșeurilor în județul Covasna” în vederea aprobării tarifelor pentru activitățile de salubrizare, propuse de operatorul de salubrizare societatea ECO BIHOR S.R.L",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/236929",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/236929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-75-2025",
+   "path": "local/covasna/aita-mare/2025/75",
+   "short": "HCL Aita Mare nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 75/2025",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/236930",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/236930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-76-2025",
+   "path": "local/covasna/aita-mare/2025/76",
+   "short": "HCL Aita Mare nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 76/2025 privind rectificarea bugetului local al comunei Aita Mare pe anul 2025 și pentru modificarea anexei nr.2 la Hotărârea Consiliului local Aita Mare nr.13/2025 privind aprobarea bugetului local general și pe secțiuni al comunei Aita Mare pe anul 2025",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/236931",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/236931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-77-2025",
+   "path": "local/covasna/aita-mare/2025/77",
+   "short": "HCL Aita Mare nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 77/2025 privind stabilirea impozitelor și taxelor locale pe anul 2026",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/243625",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/243625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-78-2025",
+   "path": "local/covasna/aita-mare/2025/78",
+   "short": "HCL Aita Mare nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 78/2025 privind aprobarea rețelei școlare a comunei Aita Mare pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/243626",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/243626",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

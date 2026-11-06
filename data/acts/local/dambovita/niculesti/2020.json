@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/dambovita/niculesti/2020",
+"acts": [
+{
+"slug": "hcl-dambovita--niculesti-1-2020",
+"path": "local/dambovita/niculesti/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Niculești nr. 1/2020",
+"short": "HCL Niculești nr. 1/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-13",
+"latest": "2020-08-13",
+"portal": "https://emol.ro/niculesti-db/registru-hcl/8205",
+"council": "dambovita/niculesti",
+"council_name": "Consiliul Local al Comunei Niculești",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--niculesti-2-2020",
+"path": "local/dambovita/niculesti/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Niculești nr. 2/2020 privind asocierea unității administrativ-teritoriale Comuna Niculești,prin Consiliul Local Niculești cu Județul Dâmbovița, prin Consiliul Județean Dâmbovița, pentru realizarea în comuna investiției ,, Modernizare infrastructuri rutieră în sat Niculești, comuna Niculești” Etapa 1",
+"short": "HCL Niculești nr. 2/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-13",
+"latest": "2020-08-13",
+"portal": "https://emol.ro/niculesti-db/registru-hcl/8206",
+"council": "dambovita/niculesti",
+"council_name": "Consiliul Local al Comunei Niculești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

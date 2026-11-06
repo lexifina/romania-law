@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/constanta/mihail-kogalniceanu/2021",
+"acts": [
+{
+"slug": "hcl-constanta--mihail-kogalniceanu-147-2021",
+"path": "local/constanta/mihail-kogalniceanu/2021/147",
+"kind": "local",
+"year": "2021",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 147/2021 privind organizarea și desfășurarea sărbătorii „Botezul cailor„-2022",
+"short": "HCL Mihail Kogălniceanu nr. 147/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/46048",
+"council": "constanta/mihail-kogalniceanu",
+"council_name": "Consiliul Local al Comunei Mihail Kogălniceanu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--mihail-kogalniceanu-160-2021",
+"path": "local/constanta/mihail-kogalniceanu/2021/160",
+"kind": "local",
+"year": "2021",
+"number": "160",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 160/2021 privind completarea Hotărârii nr.119/29.10.2021 privind alocarea sumei de 30.000 lei din bugetul local al comunei Mihail Kogălniceanu în vederea organizării sărbătorilor de iarnă din anul 2021",
+"short": "HCL Mihail Kogălniceanu nr. 160/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-23",
+"latest": "2021-12-23",
+"portal": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/47752",
+"council": "constanta/mihail-kogalniceanu",
+"council_name": "Consiliul Local al Comunei Mihail Kogălniceanu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

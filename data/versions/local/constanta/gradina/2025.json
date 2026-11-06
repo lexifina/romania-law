@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/gradina/2025",
+ "acts": [
+  {
+   "slug": "hcl-constanta--gradina-65-2025",
+   "path": "local/constanta/gradina/2025/65",
+   "short": "HCL Grădina nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 65/2025",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/237231",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/237231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-68-2025",
+   "path": "local/constanta/gradina/2025/68",
+   "short": "HCL Grădina nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 68/2025",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/242832",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/242832",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

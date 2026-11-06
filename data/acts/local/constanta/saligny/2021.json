@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/constanta/saligny/2021",
+"acts": [
+{
+"slug": "hcl-constanta--saligny-98-2021",
+"path": "local/constanta/saligny/2021/98",
+"kind": "local",
+"year": "2021",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 98/2021 privind aprobarea Programului de aprovizionare cu produse agroalimentare și industriale ce urmează a fi distribuite raționalizat populației comunei Saligny, în caz de mobilizare sau război",
+"short": "HCL Saligny nr. 98/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/52075",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

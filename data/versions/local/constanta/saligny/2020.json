@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/saligny/2020",
+ "acts": [
+  {
+   "slug": "hcl-constanta--saligny-54-2020",
+   "path": "local/constanta/saligny/2020/54",
+   "short": "HCL Saligny nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 54/2020 privind rectificarea bugetului local de venituri și cheltuieli pe luna august 2020",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/10790",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/10790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-55-2020",
+   "path": "local/constanta/saligny/2020/55",
+   "short": "HCL Saligny nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 55/2020 privind darea în folosință gratuită a unei suprafețe de 3624 situată în localitatea Făclia din domeniul public al comunei, în vederea realizării proiectului ”Proiectului regional de dezvoltare a infrastructuii de apă și apă uzată în aria de operare a SC RAJA SA Constanța în perioada 2014-2020",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/10791",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/10791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-56-2020",
+   "path": "local/constanta/saligny/2020/56",
+   "short": "HCL Saligny nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 56/2020 privind rectificarea bugetului local de venituri și cheltuieli și a listei de investiții pe luna septembrie 2020",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/10793",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/10793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-57-2020",
+   "path": "local/constanta/saligny/2020/57",
+   "short": "HCL Saligny nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 57/2020 privind rectificarea bugetului local de venituri și cheltuieli și a listei de investiții pe luna septembrie 2020",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/10798",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/10798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-59-2020",
+   "path": "local/constanta/saligny/2020/59",
+   "short": "HCL Saligny nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 59/2020 privind rectificarea bugetului local de venituri și cheltuieli și a listei de investiții pe luna octombrie 2020",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/10800",
+   "versions": [
+    {
+     "from": "2020-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/10800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-63-2020",
+   "path": "local/constanta/saligny/2020/63",
+   "short": "HCL Saligny nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 63/2020 privind rectificarea bugetului local de venituri și cheltuieli și a listei de investiții pe luna decembrie 2020",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/24971",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/24971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-64-2020",
+   "path": "local/constanta/saligny/2020/64",
+   "short": "HCL Saligny nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 64/2020 privind rectificarea bugetului local de venituri și cheltuieli pe luna decembrie 2020",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/24975",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/24975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-67-2020",
+   "path": "local/constanta/saligny/2020/67",
+   "short": "HCL Saligny nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 67/2020 privind aprobarea indicatorilor aferenți execuției bugetului local pentru Trimestrul III 2020",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/24978",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/24978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-68-2020",
+   "path": "local/constanta/saligny/2020/68",
+   "short": "HCL Saligny nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 68/2020 privind stabilirea cuantumului burselor pentru anul școlar 2020-2021pentru elevii din învățământul preuniversitar de stat",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/24979",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/24979",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

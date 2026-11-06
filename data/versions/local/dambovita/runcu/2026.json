@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/runcu/2026",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--runcu-39-2026",
+   "path": "local/dambovita/runcu/2026/39",
+   "short": "HCL Runcu nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 39/2026 privind aprobarea implementării proiectului ''Modernizare prin asfaltare drumuri de interes local în comuna Runcu, județul Dâmbovița, etapa a IA-a''",
+   "url": "https://emol.ro/runcu-db/registru-hcl/279414",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/279414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-40-2026",
+   "path": "local/dambovita/runcu/2026/40",
+   "short": "HCL Runcu nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 40/2026 privind aprobarea contului de execuție al bugetului local al comunei Runcu, județ Dâmbovița, pe secțiunile funcționare și dezvoltare la 31 martie 2026",
+   "url": "https://emol.ro/runcu-db/registru-hcl/290084",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/290084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-41-2026",
+   "path": "local/dambovita/runcu/2026/41",
+   "short": "HCL Runcu nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 41/2026 privind aprobarea modului de întocmire a Registrului Agricol la nivelul comunei Runcu, județ Dâmbovița",
+   "url": "https://emol.ro/runcu-db/registru-hcl/290085",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/290085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-44-2026",
+   "path": "local/dambovita/runcu/2026/44",
+   "short": "HCL Runcu nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 44/2026",
+   "url": "https://emol.ro/runcu-db/registru-hcl/290088",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/290088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-45-2026",
+   "path": "local/dambovita/runcu/2026/45",
+   "short": "HCL Runcu nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 45/2026 privind aprobarea procedurii de scutire de la plata majorărilor de întârziere pentru obligațiile fiscale restante datorate bugetului local al comunei Runcu, județ Dâmbovița",
+   "url": "https://emol.ro/runcu-db/registru-hcl/290089",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/290089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-46-2026",
+   "path": "local/dambovita/runcu/2026/46",
+   "short": "HCL Runcu nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 46/2026 privind aprobarea efectuării de lucrări constând în reparații curente la Sala de Sport din comuna Runcu, județ Dâmbovița",
+   "url": "https://emol.ro/runcu-db/registru-hcl/290091",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/290091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-47-2026",
+   "path": "local/dambovita/runcu/2026/47",
+   "short": "HCL Runcu nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 47/2026 privind rectificarea bugetului de venituri și cheltuieli al comunei Runcu pe anul 2026",
+   "url": "https://emol.ro/runcu-db/registru-hcl/290092",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/290092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-49-2026",
+   "path": "local/dambovita/runcu/2026/49",
+   "short": "HCL Runcu nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 49/2026 privind rectificarea Bugetului de venituri și cheltuieli al comunei Runcu pe anul 2026",
+   "url": "https://emol.ro/runcu-db/registru-hcl/290094",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/290094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-53-2026",
+   "path": "local/dambovita/runcu/2026/53",
+   "short": "HCL Runcu nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 53/2026 privind rectificarea bugetului de venituri și cheltuieli al comunei Runcu pe anul 2026",
+   "url": "https://emol.ro/runcu-db/registru-hcl/290107",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/290107",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

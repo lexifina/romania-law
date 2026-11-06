@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/constanta/topraisar/2024",
+"acts": [
+{
+"slug": "hcl-constanta--topraisar-42-2024",
+"path": "local/constanta/topraisar/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 42/2024 privind aprobarea execuției bugetului local al comunei pe secțiunea de funcționare și secțiunea de dezvoltare, la trimestrul III anul 2024",
+"short": "HCL Topraisar nr. 42/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/topraisar-ct/registru-hcl/172306",
+"council": "constanta/topraisar",
+"council_name": "Consiliul Local al Comunei Topraisar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--topraisar-56-2024",
+"path": "local/constanta/topraisar/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 56/2024 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2025",
+"short": "HCL Topraisar nr. 56/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-30",
+"latest": "2024-12-30",
+"portal": "https://emol.ro/topraisar-ct/registru-hcl/181640",
+"council": "constanta/topraisar",
+"council_name": "Consiliul Local al Comunei Topraisar",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

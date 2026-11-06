@@ -3,6 +3,21 @@
  "shard": "local/dambovita/gaesti/2024",
  "acts": [
   {
+   "slug": "hcl-dambovita--gaesti-109-2024",
+   "path": "local/dambovita/gaesti/2024/109",
+   "short": "HCL Găești nr. 109/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 109/2024 privind rectificarea bugetului local pe trimestrul III al anului 2024",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/170007",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/170007",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--gaesti-128-2024",
    "path": "local/dambovita/gaesti/2024/128",
    "short": "HCL Găești nr. 128/2024",
@@ -43,6 +58,246 @@
      "from": "2024-11-27",
      "units": 1,
      "source_url": "https://emol.ro/gaesti-db/registru-hcl/179264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-16-2024",
+   "path": "local/dambovita/gaesti/2024/16",
+   "short": "HCL Găești nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 16/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/142038",
+   "versions": [
+    {
+     "from": "2024-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/142038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-18-2024",
+   "path": "local/dambovita/gaesti/2024/18",
+   "short": "HCL Găești nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 18/2024 privind aprobarea documentației tehnico-economice a obiectivului de investiții ,, Canalizare pluviala străzi Cartier Sportului oraș Găești,,",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/142040",
+   "versions": [
+    {
+     "from": "2024-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/142040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-19-2024",
+   "path": "local/dambovita/gaesti/2024/19",
+   "short": "HCL Găești nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 19/2024 privind aprobarea documentației tehnico-economice a obiectivului de investiții ,,Amenajare trotuare si parcare Cartier Sportului oraș Găești,,",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/142041",
+   "versions": [
+    {
+     "from": "2024-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/142041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-23-2024",
+   "path": "local/dambovita/gaesti/2024/23",
+   "short": "HCL Găești nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 23/2024 privind aprobarea criteriilor de acordare a ajutoarelor de urgență cât și a regulamentului de acordare a ajutoarelor de urgenta familiilor și persoanelor singure care se află în situații de necesitate sau deosebite",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/145451",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/145451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-26-2024",
+   "path": "local/dambovita/gaesti/2024/26",
+   "short": "HCL Găești nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 26/2024 privind trecerea din domeniul public în domeniul privat al localității a unor bunuri aflate în administrarea Spitalului Orășenesc Găești ,în vederea casării și demolării, precum eliminarea acestor poziții din inventarul bunurilor aparținând domeniului public al orașului",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/145454",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/145454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-27-2024",
+   "path": "local/dambovita/gaesti/2024/27",
+   "short": "HCL Găești nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 27/2024 privind modificarea Hotărârii Consiliului Local Găești nr.43/2023 privind aprobarea documentaţiei tehnico-economice a obiectivului de investiții, ,Reabilitare Spital Orășenesc Găești, județul Dâmbovița’’ pentru finanțare în cadrul i Programului National de Redresare si Reziliența ,Componenta C10-Fondul local",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/146049",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/146049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-41-2024",
+   "path": "local/dambovita/gaesti/2024/41",
+   "short": "HCL Găești nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 41/2024 privind modificarea Hotărârii Consiliului Local Găești nr. 95/2018 de modificare a Hotărârii Consiliului Local Găești nr.103/27.11.2015 privind aprobarea acordării de pachete cu alimente de bază cu ocazia sărbătorilor de Crăciun și Paște unor categorii de persoane",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/149841",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/149841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-45-2024",
+   "path": "local/dambovita/gaesti/2024/45",
+   "short": "HCL Găești nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 45/2024 privind stabilirea impozitelor si taxelor locale ,precum si a taxelor speciale pe anul 2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/153617",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/153617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-6-2024",
+   "path": "local/dambovita/gaesti/2024/6",
+   "short": "HCL Găești nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 6/2024 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap in anul 2024",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/139192",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/139192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-61-2024",
+   "path": "local/dambovita/gaesti/2024/61",
+   "short": "HCL Găești nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 61/2024 privind rectificarea bugetului local pe trimestrul II al anului 2024",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/153633",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/153633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-63-2024",
+   "path": "local/dambovita/gaesti/2024/63",
+   "short": "HCL Găești nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 63/2024 privind aprobarea indicatorilor tehnico-economici ai proiectului ,, Proiectare si construire teren minifotbal , strada Republicii",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/153635",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/153635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-66-2024",
+   "path": "local/dambovita/gaesti/2024/66",
+   "short": "HCL Găești nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 66/2024 privind aprobarea indicatorilor tehnico-economici pentru obiectivul ,, Extindere clădire Creșă oraș Găești,,",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/156349",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/156349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-69-2024",
+   "path": "local/dambovita/gaesti/2024/69",
+   "short": "HCL Găești nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 69/2024 privind rectificarea bugetului local pe trimestrul II al anului 2024",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/156352",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/156352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-80-2024",
+   "path": "local/dambovita/gaesti/2024/80",
+   "short": "HCL Găești nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 80/2024 privind aprobarea indicatorilor tehnico-economici și a devizului general actualizat după încheierea contractului de execuție pentru obiectivul de investiții ,, Reabilitare și modernizare străzi în orașul Găești ,, , aprobat pentru finanțare prin Programul național de investiții ,, Anghel Saligny,, , precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/160245",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/160245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-89-2024",
+   "path": "local/dambovita/gaesti/2024/89",
+   "short": "HCL Găești nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 89/2024 privind rectificarea bugetului local pe trimestrul III al anului 2024",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/162222",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/162222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-90-2024",
+   "path": "local/dambovita/gaesti/2024/90",
+   "short": "HCL Găești nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 90/2024 privind rectificarea bugetului local pe trimestrul III al anului 2024",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/166045",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/166045",
      "sha256": null
     }
    ]

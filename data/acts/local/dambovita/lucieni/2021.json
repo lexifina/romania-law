@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/dambovita/lucieni/2021",
+"acts": [
+{
+"slug": "hcl-dambovita--lucieni-44-2021",
+"path": "local/dambovita/lucieni/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 44/2021",
+"short": "HCL Lucieni nr. 44/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-08-11",
+"latest": "2021-08-11",
+"portal": null,
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-45-2021",
+"path": "local/dambovita/lucieni/2021/45",
+"kind": "local",
+"year": "2021",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 45/2021 privind rectificarea bugetului pe anul 2021",
+"short": "HCL Lucieni nr. 45/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-08-11",
+"latest": "2021-08-11",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#1075",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-46-2021",
+"path": "local/dambovita/lucieni/2021/46",
+"kind": "local",
+"year": "2021",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 46/2021 privind aprobarea Strategiei de dezvoltare locală economico-socială durabilă a comunei Lucieni, județul Dâmbovița 2021-2027",
+"short": "HCL Lucieni nr. 46/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-09-14",
+"latest": "2021-09-14",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#2871",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-52-2021",
+"path": "local/dambovita/lucieni/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 52/2021 privind aprobarea scutirii de majorări și penalități de întârziere pentru persoanele fizice care achită integral debitele datorate către bugetul local până la data de 31.12.2021",
+"short": "HCL Lucieni nr. 52/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#6182",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-64-2021",
+"path": "local/dambovita/lucieni/2021/64",
+"kind": "local",
+"year": "2021",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 64/2021 privind aprobarea taxelor și impozitelor locale în sarcina contribuabililor pentru anul fiscal 2022",
+"short": "HCL Lucieni nr. 64/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-23",
+"latest": "2021-11-23",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#7521",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

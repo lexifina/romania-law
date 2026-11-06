@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/constanta/poarta-alba/2022",
+"acts": [
+{
+"slug": "hcl-constanta--poarta-alba-143-2022",
+"path": "local/constanta/poarta-alba/2022/143",
+"kind": "local",
+"year": "2022",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 143/2022 privind aprobarea rectificării bugetului de venituri și cheltuieli pentru anul 2022-luna noiembrie",
+"short": "HCL Poarta Albă nr. 143/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/89364",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-149-2022",
+"path": "local/constanta/poarta-alba/2022/149",
+"kind": "local",
+"year": "2022",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 149/2022 privind aprobarea folosirii unor drumuri de exploatare aflate în proprietatea comunei Poarta Albă, în vederea dezvoltării Parcului Fotovoltaic, de către PNE RO SUNRISE 4SRL",
+"short": "HCL Poarta Albă nr. 149/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/89370",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-152-2022",
+"path": "local/constanta/poarta-alba/2022/152",
+"kind": "local",
+"year": "2022",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 152/2022 privind aprobarea modificării tarifului de depozitare la activitățile specifice de salubrizare",
+"short": "HCL Poarta Albă nr. 152/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/89373",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-153-2022",
+"path": "local/constanta/poarta-alba/2022/153",
+"kind": "local",
+"year": "2022",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 153/2022 privind aprobarea documentației tehnico-economice-faza Proiect Tehnic și detalii de execuție și a principalilor indicatori tehnico-economici pentru obiectivul de investiții ”Înființare distribuție gaze naturale în comuna Poarta Albă, județul Constanța”",
+"short": "HCL Poarta Albă nr. 153/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/89374",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

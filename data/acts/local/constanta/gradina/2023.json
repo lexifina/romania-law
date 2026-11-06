@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/constanta/gradina/2023",
+"acts": [
+{
+"slug": "hcl-constanta--gradina-45-2023",
+"path": "local/constanta/gradina/2023/45",
+"kind": "local",
+"year": "2023",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 45/2023 privind atestarea apartenenței unor imobile - teren intravilan - pășune PS1 și PS2 în domeniul privat al comunei Grădina, județul Constanța",
+"short": "HCL Grădina nr. 45/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/122129",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--gradina-46-2023",
+"path": "local/constanta/gradina/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 46/2023 privind completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Grădina, județul Constanța",
+"short": "HCL Grădina nr. 46/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/122130",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--gradina-47-2023",
+"path": "local/constanta/gradina/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 47/2023 privind actualizarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Grădina, județul Constanța",
+"short": "HCL Grădina nr. 47/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/122131",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--gradina-56-2023",
+"path": "local/constanta/gradina/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 56/2023",
+"short": "HCL Grădina nr. 56/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-28",
+"latest": "2023-11-28",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/131563",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

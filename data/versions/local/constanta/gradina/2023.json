@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/gradina/2023",
+ "acts": [
+  {
+   "slug": "hcl-constanta--gradina-45-2023",
+   "path": "local/constanta/gradina/2023/45",
+   "short": "HCL Grădina nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 45/2023 privind atestarea apartenenței unor imobile - teren intravilan - pășune PS1 și PS2 în domeniul privat al comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/122129",
+   "versions": [
+    {
+     "from": "2023-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/122129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-46-2023",
+   "path": "local/constanta/gradina/2023/46",
+   "short": "HCL Grădina nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 46/2023 privind completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/122130",
+   "versions": [
+    {
+     "from": "2023-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/122130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-47-2023",
+   "path": "local/constanta/gradina/2023/47",
+   "short": "HCL Grădina nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 47/2023 privind actualizarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/122131",
+   "versions": [
+    {
+     "from": "2023-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/122131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-56-2023",
+   "path": "local/constanta/gradina/2023/56",
+   "short": "HCL Grădina nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 56/2023",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/131563",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/131563",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

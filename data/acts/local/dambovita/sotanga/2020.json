@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/dambovita/sotanga/2020",
+"acts": [
+{
+"slug": "hcl-dambovita--sotanga-114-2020",
+"path": "local/dambovita/sotanga/2020/114",
+"kind": "local",
+"year": "2020",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 114/2020 privind rectificarea bugetului local al comunei Șotânga pe anul 2020",
+"short": "HCL Șotânga nr. 114/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-15",
+"latest": "2020-12-15",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/12910",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-115-2020",
+"path": "local/dambovita/sotanga/2020/115",
+"kind": "local",
+"year": "2020",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 115/2020 privind aprobarea contului de executie a bugetului local pe anul 2020",
+"short": "HCL Șotânga nr. 115/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-15",
+"latest": "2020-12-15",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/12911",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-116-2020",
+"path": "local/dambovita/sotanga/2020/116",
+"kind": "local",
+"year": "2020",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 116/2020 privind modificarea și completarea Programului anual al achizițiilor publice aferente anului 2020",
+"short": "HCL Șotânga nr. 116/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-15",
+"latest": "2020-12-15",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/12912",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-118-2020",
+"path": "local/dambovita/sotanga/2020/118",
+"kind": "local",
+"year": "2020",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 118/2020 privind aprobarea normativelor proprii de cheltuieli cu privire la consumul lunar de carburanți și a limitelor maxime de cheltuieli lunare pentru abonamentele si convorbirile telefonice, furnizare de echipamente electronice si terminale, servicii de alertare a populatiei prin SMS aferente anului 2021",
+"short": "HCL Șotânga nr. 118/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-15",
+"latest": "2020-12-15",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/12914",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-119-2020",
+"path": "local/dambovita/sotanga/2020/119",
+"kind": "local",
+"year": "2020",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 119/2020",
+"short": "HCL Șotânga nr. 119/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-15",
+"latest": "2020-12-15",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/12915",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

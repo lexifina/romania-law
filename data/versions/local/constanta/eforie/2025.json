@@ -3,6 +3,681 @@
  "shard": "local/constanta/eforie/2025",
  "acts": [
   {
+   "slug": "hcl-constanta--eforie-1-2025",
+   "path": "local/constanta/eforie/2025/1",
+   "short": "HCL Eforie nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 1/2025 privind utilizarea excedentului bugetar al anilor precedenţi",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186969",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-113-2025",
+   "path": "local/constanta/eforie/2025/113",
+   "short": "HCL Eforie nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 113/2025 privind modificarea si completarea Regulamentului privind administrarea cimitirelor din Orasul Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/201189",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/201189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-118-2025",
+   "path": "local/constanta/eforie/2025/118",
+   "short": "HCL Eforie nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 118/2025",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/208509",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/208509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-120-2025",
+   "path": "local/constanta/eforie/2025/120",
+   "short": "HCL Eforie nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 120/2025",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/208511",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/208511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-136-2025",
+   "path": "local/constanta/eforie/2025/136",
+   "short": "HCL Eforie nr. 136/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 136/2025 privind actualizarea anexei 2.2.c si a devizului general la HCL Eforie nr. 286 / 30.09.2024, cu modificările și completările ulterioare și aprobarea devizului general actualizat pentru obiectivul de investiții ” REABILITARE DRUMURI PUBLICE ÎN INTERIORUL LOCALITATII EFORIE NORD”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/208527",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/208527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-137-2025",
+   "path": "local/constanta/eforie/2025/137",
+   "short": "HCL Eforie nr. 137/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 137/2025 privind actualizarea Anexei nr. 1 la HCL Eforie nr. 287 / 30.09.2024 și aprobarea devizului general actualizat pentru obiectivul de investiții ” REABILITARE DRUMURI PUBLICE ÎN INTERIORUL ORAȘULUI EFORIE ”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/208528",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/208528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-142-2025",
+   "path": "local/constanta/eforie/2025/142",
+   "short": "HCL Eforie nr. 142/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 142/2025",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/209239",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/209239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-151-2025",
+   "path": "local/constanta/eforie/2025/151",
+   "short": "HCL Eforie nr. 151/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 151/2025 privind acordarea unui mandat special reprezentantului orașului Eforie în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară „Dobrogea”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/211350",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/211350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-171-2025",
+   "path": "local/constanta/eforie/2025/171",
+   "short": "HCL Eforie nr. 171/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 171/2025 privind aprobarea aderării Orașului Eforie, Județul Constanța la ASOCIAȚIA de DEZVOLTARE DURABILĂ a JUDEȚULUI CONSTANȚA",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/211370",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/211370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-174-2025",
+   "path": "local/constanta/eforie/2025/174",
+   "short": "HCL Eforie nr. 174/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 174/2025 privind actualizarea Regulamentului de instituire și administrare a taxei de salubrizare pentru utilizatorii serviciului de salubrizare pe de raza UAT Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/211373",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/211373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-175-2025",
+   "path": "local/constanta/eforie/2025/175",
+   "short": "HCL Eforie nr. 175/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 175/2025 privind actualizarea anexei 2.2.c si a devizului general la HCL Eforie nr. .136/ 30.04.2025, cu modificările și completarile ulterioare si aprobarea devizului general actualizat pentru obiectivul de investiții ” REABILITARE DRUMURI PUBLICE ÎN INTERIORUL LOCALITATII EFORIE NORD”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/213896",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/213896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-176-2025",
+   "path": "local/constanta/eforie/2025/176",
+   "short": "HCL Eforie nr. 176/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 176/2025",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/213897",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/213897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-177-2025",
+   "path": "local/constanta/eforie/2025/177",
+   "short": "HCL Eforie nr. 177/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 177/2025 privind aprobarea Statutului orașului Eforie, jud. Constanța",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/216444",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/216444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-18-2025",
+   "path": "local/constanta/eforie/2025/18",
+   "short": "HCL Eforie nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 18/2025 privind actualizarea Regulamentului de aplicare al taxei speciale “TAXA DE PROMOVARE TURISTICĂ”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/190012",
+   "versions": [
+    {
+     "from": "2025-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/190012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-2-2025",
+   "path": "local/constanta/eforie/2025/2",
+   "short": "HCL Eforie nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 2/2025 privind modificarea Regulamentului privind administrarea cimitirelor din Orasul Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186970",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-212-2025",
+   "path": "local/constanta/eforie/2025/212",
+   "short": "HCL Eforie nr. 212/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 212/2025 privind modificarea statului de funcții al aparatului de specialitate a primarului oraș Eforie aprobat prin HCL nr 285 / 30.09.2024, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/216479",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/216479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-217-2025",
+   "path": "local/constanta/eforie/2025/217",
+   "short": "HCL Eforie nr. 217/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 217/2025",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/216484",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/216484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-218-2025",
+   "path": "local/constanta/eforie/2025/218",
+   "short": "HCL Eforie nr. 218/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 218/2025",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/216485",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/216485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-219-2025",
+   "path": "local/constanta/eforie/2025/219",
+   "short": "HCL Eforie nr. 219/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 219/2025",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/216885",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/216885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-220-2025",
+   "path": "local/constanta/eforie/2025/220",
+   "short": "HCL Eforie nr. 220/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 220/2025",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/218857",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/218857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-221-2025",
+   "path": "local/constanta/eforie/2025/221",
+   "short": "HCL Eforie nr. 221/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 221/2025 privind aprobarea indicatorilor tehnico-economici si a Studiului de oportunitate pentru proiectul „Dezvoltarea sistemului de transport public ecologic”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/218858",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/218858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-222-2025",
+   "path": "local/constanta/eforie/2025/222",
+   "short": "HCL Eforie nr. 222/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 222/2025 privind actualizarea anexei 2.2.c si a devizului general la HCL Eforie nr. 175 / 26.06.2025, cu modificările și completarile ulterioare si aprobarea devizului general actualizat pentru obiectivul de investiții ” REABILITARE DRUMURI PUBLICE ÎN INTERIORUL LOCALITATII EFORIE NORD”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/218859",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/218859",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-223-2025",
+   "path": "local/constanta/eforie/2025/223",
+   "short": "HCL Eforie nr. 223/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 223/2025 privind aprobarea contractării unui împrumut în valoare de 10 000 000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/218860",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/218860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-252-2025",
+   "path": "local/constanta/eforie/2025/252",
+   "short": "HCL Eforie nr. 252/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 252/2025 privind aprobarea contului de execuție al bugetului orașului Eforie pentru trimestrul I al anului 2025",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/220431",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/220431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-253-2025",
+   "path": "local/constanta/eforie/2025/253",
+   "short": "HCL Eforie nr. 253/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 253/2025 privind aprobarea contului de execuție al bugetului orașului Eforie pentru trimestrul II al anului 2025",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/220432",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/220432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-254-2025",
+   "path": "local/constanta/eforie/2025/254",
+   "short": "HCL Eforie nr. 254/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 254/2025",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/221551",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/221551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-255-2025",
+   "path": "local/constanta/eforie/2025/255",
+   "short": "HCL Eforie nr. 255/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 255/2025 privind aderarea Orașului Eforie în cadrul Consorțiului regional pentru învățământ dual preuniversitar și universitar Tehno-Dobrogea",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/221552",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/221552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-256-2025",
+   "path": "local/constanta/eforie/2025/256",
+   "short": "HCL Eforie nr. 256/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 256/2025 privind asocierea UAT Orașul Eforie, prin Consiliul local al Orașului Eforie, în calitate de membru fondator (asociat), cu UAT Orașul Techirghiol, prin Consiliul local al Orașului Techirghiol, județul Constanța, în vederea constituirii Asociației de Dezvoltare Intracomunitară cu denumirea: „ASOCIAȚIA de DEZVOLTARE INTERCOMUNITARĂ TRASPORT PUBLIC EFORIE – TECHIRGHIOL”, persoană juridică de drept privat și de utilitate publică, pentru a presta în comun serviciul de transport public local pe raza de competență a Unității Administrativ - Teritoriale Orașul Eforie și a Unității Administrativ - Teritoriale Orașul Techirghiol",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/224052",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/224052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-257-2025",
+   "path": "local/constanta/eforie/2025/257",
+   "short": "HCL Eforie nr. 257/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 257/2025",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/224053",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/224053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-278-2025",
+   "path": "local/constanta/eforie/2025/278",
+   "short": "HCL Eforie nr. 278/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 278/2025 privind actualizarea Regulamentului de instituire și administrare a taxei de salubrizare pentru utilizatorii serviciului de salubrizare pe de raza UAT Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/224074",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/224074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-281-2025",
+   "path": "local/constanta/eforie/2025/281",
+   "short": "HCL Eforie nr. 281/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 281/2025 privind modificarea statului de funcții al aparatului de specialitate a primarului oraș Eforie aprobat prin HCL nr 285 / 30.09.2024, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/224077",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/224077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-289-2025",
+   "path": "local/constanta/eforie/2025/289",
+   "short": "HCL Eforie nr. 289/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 289/2025",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/226727",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/226727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-290-2025",
+   "path": "local/constanta/eforie/2025/290",
+   "short": "HCL Eforie nr. 290/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 290/2025 privind actualizarea Anexei nr. 1 și Anexei nr. 2 la HCL Eforie nr. 137 / 30.04.2025 și aprobarea devizului general actualizat pentru obiectivul de investiții ” REABILITARE DRUMURI PUBLICE ÎN INTERIORUL ORAȘULUI EFORIE ”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/226728",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/226728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-291-2025",
+   "path": "local/constanta/eforie/2025/291",
+   "short": "HCL Eforie nr. 291/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 291/2025",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/226729",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/226729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-308-2025",
+   "path": "local/constanta/eforie/2025/308",
+   "short": "HCL Eforie nr. 308/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 308/2025 privind actualizarea Documentației tehnico-economice faza SF și DTAC, a indicatorilor tehnico-economici și a proiectului cu titlul „TRANSFORMAREA VERDE ÎN ACȚIUNE” inclusiv a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/229316",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/229316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-309-2025",
+   "path": "local/constanta/eforie/2025/309",
+   "short": "HCL Eforie nr. 309/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 309/2025",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/230350",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/230350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-310-2025",
+   "path": "local/constanta/eforie/2025/310",
+   "short": "HCL Eforie nr. 310/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 310/2025 privind modificarea Anexei nr. 1 și Anexei nr. 2 la HCL Eforie nr. 290 / 25.09.2025 și aprobarea devizului general actualizat pentru obiectivul de investiții ”REABILITARE DRUMURI PUBLICE ÎN INTERIORUL ORAȘULUI EFORIE ”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/230351",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/230351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-311-2025",
+   "path": "local/constanta/eforie/2025/311",
+   "short": "HCL Eforie nr. 311/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 311/2025 privind aprobarea actualizării indicatorilor tehnico-economici si a Studiului de oportunitate pentru proiectul „Dezvoltarea sistemului de transport public ecologic”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/230352",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/230352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-320-2025",
+   "path": "local/constanta/eforie/2025/320",
+   "short": "HCL Eforie nr. 320/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 320/2025 privind aprobarea contului de execuție al bugetului orașului Eforie pentru trimestrul III al anului 2025",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/235049",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/235049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-326-2025",
+   "path": "local/constanta/eforie/2025/326",
+   "short": "HCL Eforie nr. 326/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 326/2025",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/235055",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/235055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-331-2025",
+   "path": "local/constanta/eforie/2025/331",
+   "short": "HCL Eforie nr. 331/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 331/2025",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/235060",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/235060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-332-2025",
+   "path": "local/constanta/eforie/2025/332",
+   "short": "HCL Eforie nr. 332/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 332/2025 privind aprobarea Regulamentului de organizare și funcționare a Serviciului de Salvare Acvatică și a posturilor de prim ajutor pe plajele din UAT Orașul Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/239218",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/239218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-35-2025",
+   "path": "local/constanta/eforie/2025/35",
+   "short": "HCL Eforie nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 35/2025 privind aprobarea actualizării documentului strategic ”Strategia de Dezvoltare Urbană a Orașului Eforie 2022-2027” sub denumirea de: ”Strategia de Dezvoltare Urbană a Orașului Eforie 2022-2027 – revizia 1”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/193625",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/193625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-36-2025",
+   "path": "local/constanta/eforie/2025/36",
+   "short": "HCL Eforie nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 36/2025 privind aprobarea documentatiei tehnico-economice, faza SF, a principalilor indicatori tehnico-economici pentru proiect cu titlul: “Pasaj rutier denivelat în zona sensului giratoriu de pe DN 39, km 12+300”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/193626",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/193626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-37-2025",
+   "path": "local/constanta/eforie/2025/37",
+   "short": "HCL Eforie nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 37/2025 privind aprobarea proiectului cu titlul „DEZVOLTAREA SISTEMULUI DE TRANSPORT PUBLIC ECOLOGIC” și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/193627",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/193627",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--eforie-377-2025",
    "path": "local/constanta/eforie/2025/377",
    "short": "HCL Eforie nr. 377/2025",
@@ -33,6 +708,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--eforie-39-2025",
+   "path": "local/constanta/eforie/2025/39",
+   "short": "HCL Eforie nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 39/2025 privind aprobarea unui protocol de colaborare între Orașul Eforie și Administrația Bazinală de Apă Dobrogea-Litoral",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/193629",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/193629",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--eforie-401-2025",
    "path": "local/constanta/eforie/2025/401",
    "short": "HCL Eforie nr. 401/2025",
@@ -43,6 +733,81 @@
      "from": "2026-01-13",
      "units": 1,
      "source_url": "https://emol.ro/eforie-ct/registru-hcl/244749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-72-2025",
+   "path": "local/constanta/eforie/2025/72",
+   "short": "HCL Eforie nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 72/2025 privind aprobarea inventarului centralizat al bunurilor care alcatuiesc domeniul privat al orașului Eforie la data de 31.12.2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/194577",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/194577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-75-2025",
+   "path": "local/constanta/eforie/2025/75",
+   "short": "HCL Eforie nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 75/2025 privind aprobarea Documentației tehnico-economice faza SF și DTAC, a indicatorilor tehnico-economici și a proiectului cu titlul „TRANSFORMAREA VERDE ÎN ACȚIUNE” inclusiv a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/194580",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/194580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-76-2025",
+   "path": "local/constanta/eforie/2025/76",
+   "short": "HCL Eforie nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 76/2025 privind aprobarea bugetului de venituri şi cheltuieli al oraşului Eforie pentru exercițiul financiar 2025",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/200472",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/200472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-77-2025",
+   "path": "local/constanta/eforie/2025/77",
+   "short": "HCL Eforie nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 77/2025 privind aprobarea planului urbanistic zonal: ,,PUZ DE REGLEMENTARE ZONĂ TURISTICĂ – STR. MEDUZEI, EFORIE NORD”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/201153",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/201153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-8-2025",
+   "path": "local/constanta/eforie/2025/8",
+   "short": "HCL Eforie nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 8/2025",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/190002",
+   "versions": [
+    {
+     "from": "2025-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/190002",
      "sha256": null
     }
    ]

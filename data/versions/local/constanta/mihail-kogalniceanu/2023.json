@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/mihail-kogalniceanu/2023",
+ "acts": [
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-181-2023",
+   "path": "local/constanta/mihail-kogalniceanu/2023/181",
+   "short": "HCL Mihail Kogălniceanu nr. 181/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 181/2023 privind aprobarea modificării CONTRACTUL DE DELEGARE DE GESTIUNE A SERVICIULUI PUBLIC DE SALUBRIZARE ÎN COMUNA MIHAIL KOGĂLNICEANU NR.14623/01.10.2021 prin act adițional",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/133720",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/133720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-182-2023",
+   "path": "local/constanta/mihail-kogalniceanu/2023/182",
+   "short": "HCL Mihail Kogălniceanu nr. 182/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 182/2023",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/133721",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/133721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-185-2023",
+   "path": "local/constanta/mihail-kogalniceanu/2023/185",
+   "short": "HCL Mihail Kogălniceanu nr. 185/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 185/2023 privind aprobarea depunerii și implementării proiectului cu titlul „Sistem fotovoltaic pentru consum propriu de energie, comuna Mihail Kogălniceanu, județul Constanța”",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/134917",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/134917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-193-2023",
+   "path": "local/constanta/mihail-kogalniceanu/2023/193",
+   "short": "HCL Mihail Kogălniceanu nr. 193/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 193/2023 privind aprobarea alocării sumelor necesare din bugetul local al comunei, în vederea organizării sărbătorii tradiționale „Botezul cailor” în luna ianuarie 2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/137621",
+   "versions": [
+    {
+     "from": "2024-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/137621",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

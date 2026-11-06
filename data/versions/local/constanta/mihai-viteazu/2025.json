@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/mihai-viteazu/2025",
+ "acts": [
+  {
+   "slug": "hcl-constanta--mihai-viteazu-78-2025",
+   "path": "local/constanta/mihai-viteazu/2025/78",
+   "short": "HCL Mihai Viteazu nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 78/2025 privind aprobarea modificării și completării hotărârii consiliului local nr.26/29.04.2025 privind aprobarea impozitelor şi taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/242984",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/242984",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

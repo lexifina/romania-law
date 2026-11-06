@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/constanta/pantelimon/2022",
+"acts": [
+{
+"slug": "hcl-constanta--pantelimon-120-2022",
+"path": "local/constanta/pantelimon/2022/120",
+"kind": "local",
+"year": "2022",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 120/2022 privind aprobarea acordării burselor scolare elevilor Școlii Gimnaziale nr. 1 Pantelimon, pentru anul scolar 2022-2023",
+"short": "HCL Pantelimon nr. 120/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-15",
+"latest": "2022-11-15",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/78012",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pantelimon-121-2022",
+"path": "local/constanta/pantelimon/2022/121",
+"kind": "local",
+"year": "2022",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 121/2022 privind aprobarea realizarii proiectului “Realizare pista de biciclete in comuna Pantelimon, judetul Constanta” prin “Programul de realizare a pistelor pentru biciclete”",
+"short": "HCL Pantelimon nr. 121/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-15",
+"latest": "2022-11-15",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/78013",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pantelimon-122-2022",
+"path": "local/constanta/pantelimon/2022/122",
+"kind": "local",
+"year": "2022",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 122/2022 privind alegerea președintelui de ședință pentru sedinta ordinara de indata din data de 31.10.2022",
+"short": "HCL Pantelimon nr. 122/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-15",
+"latest": "2022-11-15",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/78014",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pantelimon-125-2022",
+"path": "local/constanta/pantelimon/2022/125",
+"kind": "local",
+"year": "2022",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 125/2022 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Asfaltare drum comunal DC75 comuna Pantelimon, judetul Constanta”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Pantelimon nr. 125/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-08",
+"latest": "2022-12-08",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/81947",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

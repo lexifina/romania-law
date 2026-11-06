@@ -1,0 +1,226 @@
+{
+"country": "RO",
+"shard": "local/constanta/ostrov/2025",
+"acts": [
+{
+"slug": "hcl-constanta--ostrov-61-2025",
+"path": "local/constanta/ostrov/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 61/2025 privind utilizarea excedentului bugetar rezultat la încheierea exerciţiului bugetar pentru anul 2024, ca sursă de finanţare a cheltuielilor secţiunii de dezvoltare, pentru lucrari de investitii propuse a se realiza in anul 2025 conform Listei de investitii",
+"short": "HCL Ostrov nr. 61/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-14",
+"latest": "2025-10-14",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/229374",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-64-2025",
+"path": "local/constanta/ostrov/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 64/2025 privind aprobarea rectificarii bugetului local si a Listei de investitii ale comunei Ostrov, judetul Constanta, în trim. al IV-lea al anului 2025",
+"short": "HCL Ostrov nr. 64/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-16",
+"latest": "2025-10-16",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/230011",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-65-2025",
+"path": "local/constanta/ostrov/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 65/2025 privind aprobarea rectificarii bugetului local si a Listei de investitii ale comunei Ostrov, judetul Constanta, în trim. al IV-lea al anului 2025",
+"short": "HCL Ostrov nr. 65/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-03",
+"latest": "2025-11-03",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/231345",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-70-2025",
+"path": "local/constanta/ostrov/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 70/2025 privind rectificarea bugetului local al comunei Ostrov in trim IV al anului 2025",
+"short": "HCL Ostrov nr. 70/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-04",
+"latest": "2025-12-04",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/238194",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-71-2025",
+"path": "local/constanta/ostrov/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 71/2025 privind aprobarea contului de executie a bugetului local al comunei Ostrov, pe cele doua sectiuni de functionare si dezvoltare aferente trimestrului al III-lea, al anului 2025",
+"short": "HCL Ostrov nr. 71/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-04",
+"latest": "2025-12-04",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/238195",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-73-2025",
+"path": "local/constanta/ostrov/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 73/2025 privind aprobarea procedurilor pentru investiţia „Sisteme de stocare pentru CEF autoconsum”",
+"short": "HCL Ostrov nr. 73/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-05",
+"latest": "2026-01-05",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/241082",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-74-2025",
+"path": "local/constanta/ostrov/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 74/2025 privind revocarea Hotărârii Consiliului local Ostrov nr. 36/30.05.2025 privind atestarea apartenenței la domeniul privat al comunei Ostrov precum și inventarirea în domeniul privat al comunei Ostrov unui bun imobil-teren în suprafață de 2700 mp, în vederea intabulării/înscrierii cu caracter definitiv a dreptului de proprietate în evidențele de cadastru și carte funciară",
+"short": "HCL Ostrov nr. 74/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-05",
+"latest": "2026-01-05",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/241083",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-75-2025",
+"path": "local/constanta/ostrov/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 75/2025 privind revocarea Hotărârii Consiliului local Ostrov nr. 44/30.06.2025 privind atestarea apartenenței la domeniul privat al comunei Ostrov precum și inventarirea în domeniul privat al comunei Ostrov unor bunuri imobil-terenuri, în vederea intabulării/înscrierii cu caracter definitiv a dreptului de proprietate în evidențele de cadastru și carte funciară",
+"short": "HCL Ostrov nr. 75/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-05",
+"latest": "2026-01-05",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/241084",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-76-2025",
+"path": "local/constanta/ostrov/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 76/2025 privind aprobarea rectificarii bugetului local si a Listei de investitii ale comunei Ostrov, judetul Constanta, în trim. al IV-lea al anului 2025",
+"short": "HCL Ostrov nr. 76/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-05",
+"latest": "2026-01-05",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/241085",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-77-2025",
+"path": "local/constanta/ostrov/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 77/2025 privind utilizarea excedentului bugetar rezultat la încheierea exerciţiului bugetar pentru anul 2024, ca sursă de finanţare a cheltuielilor secţiunii de dezvoltare, pentru lucrari de investitii propuse a se realiza in anul 2025 conform Listei de investitii",
+"short": "HCL Ostrov nr. 77/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-05",
+"latest": "2026-01-05",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/241086",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/constanta/pestera/2022",
+"acts": [
+{
+"slug": "hcl-constanta--pestera-84-2022",
+"path": "local/constanta/pestera/2022/84",
+"kind": "local",
+"year": "2022",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 84/2022 privind APROBAREA BURSELOR ȘCOLARE CE SE ATRIBUIE ELEVILOR DE LA ȘCOALA GIMNAZIALĂ NR.1 PEȘTERA ÎN ANUL SCOLAR 2022- 2023",
+"short": "HCL Peștera nr. 84/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/85262",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pestera-85-2022",
+"path": "local/constanta/pestera/2022/85",
+"kind": "local",
+"year": "2022",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 85/2022 privind aprobarea STUDIULUI DE FEZABILITATE și a indicatorilor tehnico-economici pentru obiectivul de investitie “ÎNLOCUIRE ȚEAVĂ APĂ POTABILĂ ÎN SAT IVRINEZU MARE, COMUNA PEȘTERA, JUD.CONSTANȚA”",
+"short": "HCL Peștera nr. 85/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/85263",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pestera-92-2022",
+"path": "local/constanta/pestera/2022/92",
+"kind": "local",
+"year": "2022",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 92/2022 privind ÎNSUȘIREA RAPOARTELOR DE EVALUARE A PROPRIETĂȚII IMOBILIARE TIP TERENURI IN VEDEREA ATESTĂRII LA PATRIMONIUL PRIVAT/PUBLIC AL COMUNEI PEȘTERA, JUDEȚUL CONSTANTA",
+"short": "HCL Peștera nr. 92/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/85275",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pestera-96-2022",
+"path": "local/constanta/pestera/2022/96",
+"kind": "local",
+"year": "2022",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 96/2022 privind ORGANIZAREA RETELEI SCOLARE PENTRU ANUL SCOLAR 2023 –2024 PE RAZA COMUNEI PESTERA , JUDEȚUL CONSTANȚA",
+"short": "HCL Peștera nr. 96/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-23",
+"latest": "2022-12-23",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/85330",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pestera-98-2022",
+"path": "local/constanta/pestera/2022/98",
+"kind": "local",
+"year": "2022",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 98/2022 privind aprobarea gestiunii delegate a serviciului de salubrizare al comunei Pestera, jud. Constanţa si a documentatiei de atribuire a Contractului de prestari servicii salubrizare",
+"short": "HCL Peștera nr. 98/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-23",
+"latest": "2022-12-23",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/85332",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pestera-102-2022",
+"path": "local/constanta/pestera/2022/102",
+"kind": "local",
+"year": "2022",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 102/2022 privind aprobarea Delegarii Serviciului de Salubrizare al Comunei Pestera pentru activitati de colectare separata si transport separat al deseurilor menajere si al deseurilor similare provenind din activitati comerciale din industrie si instituții, inclusive fractii colectate separate precum si a documentației de atribuire",
+"short": "HCL Peștera nr. 102/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-29",
+"latest": "2022-12-29",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/85394",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

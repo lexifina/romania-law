@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/dambovita/niculesti/2025",
+"acts": [
+{
+"slug": "hcl-dambovita--niculesti-1-2025",
+"path": "local/dambovita/niculesti/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Niculești nr. 1/2025 Privind stabilirea si aprobarea taxei de salubrizare pentru utilizatorii casnici",
+"short": "HCL Niculești nr. 1/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-28",
+"latest": "2025-01-28",
+"portal": "https://emol.ro/niculesti-db/registru-hcl/189730",
+"council": "dambovita/niculesti",
+"council_name": "Consiliul Local al Comunei Niculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--niculesti-2-2025",
+"path": "local/dambovita/niculesti/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Niculești nr. 2/2025 Privind aprobarea cuantumului taxei de salubrizare pentru utilizatorii noncasnici, pentru anul 2025, în cuantumul stabilit pentru anul 2024",
+"short": "HCL Niculești nr. 2/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-28",
+"latest": "2025-01-28",
+"portal": "https://emol.ro/niculesti-db/registru-hcl/189731",
+"council": "dambovita/niculesti",
+"council_name": "Consiliul Local al Comunei Niculești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

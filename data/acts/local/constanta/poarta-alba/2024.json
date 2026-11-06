@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/constanta/poarta-alba/2024",
+"acts": [
+{
+"slug": "hcl-constanta--poarta-alba-137-2024",
+"path": "local/constanta/poarta-alba/2024/137",
+"kind": "local",
+"year": "2024",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 137/2024 privind aprobarea și modificarea tarifului de depozitare la activitățile specifice de salubrizare și închirierea unui act adițional la contractul de prestări servicii de salubrizare privind eliminarea deșeurilor reziduale, cu excepția deșeurilor periculoase și a celor cu regim special",
+"short": "HCL Poarta Albă nr. 137/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/182283",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-142-2024",
+"path": "local/constanta/poarta-alba/2024/142",
+"kind": "local",
+"year": "2024",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 142/2024 privind aprobarea modalității gestiunii delegate a unor activități componente ale serviciului public de salubrizare a localităților, respectiv activitățile de sortare, compostare, tratare mecano-biologică și eliminare prin depozitare a deșeurilor municipale din aria administrativ-teritorială a Comunei Poarta Albă",
+"short": "HCL Poarta Albă nr. 142/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/182305",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

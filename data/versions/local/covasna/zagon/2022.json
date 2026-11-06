@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/zagon/2022",
+ "acts": [
+  {
+   "slug": "hcl-covasna--zagon-80-2022",
+   "path": "local/covasna/zagon/2022/80",
+   "short": "HCL Zagon nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 80/2022 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Modernizare străzi în localității: Zagon și Păpăuți în comuna Zagon, județul Covasna, lot 1”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezetând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/87377",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/87377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-81-2022",
+   "path": "local/covasna/zagon/2022/81",
+   "short": "HCL Zagon nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 81/2022 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Extinderea sistemului de canalizare și modernizarea/reabilitarea stației de epurare sat Zagon, comuna Zagon, județul Covasna”, precum și a sumei reprezetând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/87378",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/87378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-82-2022",
+   "path": "local/covasna/zagon/2022/82",
+   "short": "HCL Zagon nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 82/2022 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Extindere sistemul de apă și modernizarea stației de tratarea apei, sat Zagon, comuna Zagon”, precum și a sumei reprezetând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/87379",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/87379",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

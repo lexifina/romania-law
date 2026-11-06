@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/dambovita/ciocanesti/2022",
+"acts": [
+{
+"slug": "hcl-dambovita--ciocanesti-33-2022",
+"path": "local/dambovita/ciocanesti/2022/33",
+"kind": "local",
+"year": "2022",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 33/2022 privind participarea la apelul de proiecte din Planul Național de Redresare și Reziliență (PNRR)/2022/C10-Fondul Local pentru depunerea proiectului „ASIGURAREA DE SISTEME TIC ÎN COMUNA CIOCĂNEȘTI, JUDEȚUL DÂMBOVIȚA”",
+"short": "HCL Ciocănești nr. 33/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/85936",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-36-2022",
+"path": "local/dambovita/ciocanesti/2022/36",
+"kind": "local",
+"year": "2022",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 36/2022 privind aprobarea Planului de pază al comunei Ciocănești, județul Dâmbovița",
+"short": "HCL Ciocănești nr. 36/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/85939",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

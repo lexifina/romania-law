@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/pestera/2021",
+ "acts": [
+  {
+   "slug": "hcl-constanta--pestera-13-2021",
+   "path": "local/constanta/pestera/2021/13",
+   "short": "HCL Peștera nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 13/2021 privind modificarea și completarea anexei la HCL nr. 18/28.03.2013 privind atribuirea denumirii de străzi în comuna Peștera, județul Constanța",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/32505",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/32505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-14-2021",
+   "path": "local/constanta/pestera/2021/14",
+   "short": "HCL Peștera nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 14/2021 privind aprobarea Actului Adițional nr. 1 la Documentul de Poziție, avizarea Documentației de atribuire a contractului de delegare, prin concesiune, a gestiunii serviciului de salubrizare aferent Proiectului „Sistem de Management Integrat al Deșeurilor în Județul Constanța” și acordarea unor mandate",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/32506",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/32506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-15-2021",
+   "path": "local/constanta/pestera/2021/15",
+   "short": "HCL Peștera nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 15/2021 privind rectificarea bugetului de venituri și cheltuieli al comunei Peștera pe anul 2021",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/32522",
+   "versions": [
+    {
+     "from": "2021-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/32522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-18-2021",
+   "path": "local/constanta/pestera/2021/18",
+   "short": "HCL Peștera nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 18/2021 privind însușirea rapoartelor de evaluare a priorității imobiliare tip terenuri din domneniul privat al comunei Peștera, județul Constanța",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/32544",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/32544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-23-2021",
+   "path": "local/constanta/pestera/2021/23",
+   "short": "HCL Peștera nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 23/2021 privind rectificarea bugetului de venituri și cheltuieli al comunei Peștera pe anul 2021",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/32564",
+   "versions": [
+    {
+     "from": "2021-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/32564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-4-2021",
+   "path": "local/constanta/pestera/2021/4",
+   "short": "HCL Peștera nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 4/2021 privind rectificarea bugetului de venituri și cheltuieli al comunei Peștera, pe anul 2021",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/32491",
+   "versions": [
+    {
+     "from": "2021-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/32491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-7-2021",
+   "path": "local/constanta/pestera/2021/7",
+   "short": "HCL Peștera nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 7/2021 privind însușirea rapoartelor de evaluare a priorității imobiliare tip terenuri din domeniul privat al comunei Peștera, județul Constanța",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/32499",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/32499",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

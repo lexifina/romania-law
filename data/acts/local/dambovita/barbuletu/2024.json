@@ -1,0 +1,227 @@
+{
+"country": "RO",
+"shard": "local/dambovita/barbuletu/2024",
+"acts": [
+{
+"slug": "hcl-dambovita--barbuletu-61-2024",
+"path": "local/dambovita/barbuletu/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 61/2024 privind aprobarea Rețelei școlare de pe raza comunei Bărbulețu, judeţul Dâmbovița pentru anul școlar 2025-2026",
+"short": "HCL Bărbulețu nr. 61/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/180806",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-63-2024",
+"path": "local/dambovita/barbuletu/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 63/2024",
+"short": "HCL Bărbulețu nr. 63/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/180808",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-65-2024",
+"path": "local/dambovita/barbuletu/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 65/2024 privind implementarea si aprobarea indicatorilor tehnico economici ai proiectului „ACHIZIȚIE UTILAJ PENTRU COMUNA BĂRBULEȚU, JUDEȚUL DÂMBOVIȚA”",
+"short": "HCL Bărbulețu nr. 65/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/180810",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-66-2024",
+"path": "local/dambovita/barbuletu/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 66/2024 privind aprobarea indicatorilor tehnico-economici si a devizului general aferent obiectivului de investiții «DOTARE COMUNA BĂRBULEȚU, JUDEȚUL DÂMBOVIȚA, CU MOBILIER URBAN SMART ȘI SISTEME DE SUPRAVEGHERE VIDEO» după finalizarea procedurilor de achiziție publică",
+"short": "HCL Bărbulețu nr. 66/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/180811",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-68-2024",
+"path": "local/dambovita/barbuletu/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 68/2024 privind stabilirea impozitelor, taxelor locale și taxelor speciale aplicabile în anul 2025",
+"short": "HCL Bărbulețu nr. 68/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/187314",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-69-2024",
+"path": "local/dambovita/barbuletu/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 69/2024 privind aprobarea execuţiei bugetare pentru trimestrul al IV-lea al anului 2024",
+"short": "HCL Bărbulețu nr. 69/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/187315",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-70-2024",
+"path": "local/dambovita/barbuletu/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 70/2024 privind acordarea scutirii de la plata taxei de salubrizare pentru gospodăriile amplasate în zone inaccesibile utilajelor mecanizate de colectare a deșeurilor menajere pentru anul 2025",
+"short": "HCL Bărbulețu nr. 70/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/187316",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-71-2024",
+"path": "local/dambovita/barbuletu/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 71/2024 privind aprobarea implementării proiectului ”Modernizare drumuri de interes local în comuna Bărbulețu, județul Dâmbovița”",
+"short": "HCL Bărbulețu nr. 71/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/187317",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-72-2024",
+"path": "local/dambovita/barbuletu/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 72/2024 privind aprobarea indicatorilor tehnico-economici si a devizului general aferent obiectivului de investiții «Reabilitare moderată a Căminului Cultural din satul Gura Bărbulețului, comuna Bărbulețu, județul Dâmbovița», după finalizarea procedurilor de achiziție publică",
+"short": "HCL Bărbulețu nr. 72/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/187318",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-73-2024",
+"path": "local/dambovita/barbuletu/2024/73",
+"kind": "local",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 73/2024 privind rectificarea bugetului local al comunei Bărbulețu în trimestrul al IV-lea al anului 2024",
+"short": "HCL Bărbulețu nr. 73/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/187336",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/zabala/2025",
+ "acts": [
+  {
+   "slug": "hcl-covasna--zabala-49-2025",
+   "path": "local/covasna/zabala/2025/49",
+   "short": "HCL Zăbala nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 49/2025 privind aprobarea rectificării bugetului local al Comunei Zăbala pe anul 2025 pe total, pe secțiunea de dezvoltare",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/243214",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/243214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-55-2025",
+   "path": "local/covasna/zabala/2025/55",
+   "short": "HCL Zăbala nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 55/2025 privind implementarea proiectului „Înființarea unei capacități de producție a energiei electrice din sursă solară în comuna Zăbala, din județul Covasna”",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/243220",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/243220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-65-2025",
+   "path": "local/covasna/zabala/2025/65",
+   "short": "HCL Zăbala nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 65/2025 privind revizuirea zonării fiscale a UAT comuna Zăbala",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/243230",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/243230",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

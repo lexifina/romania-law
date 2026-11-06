@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/dambovita/ciocanesti/2024",
+"acts": [
+{
+"slug": "hcl-dambovita--ciocanesti-29-2024",
+"path": "local/dambovita/ciocanesti/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 29/2024 privind aprobarea Studiului de Fezabilitate și a Devizului general al obiectivului de investiție ''Modernizare sistem rutier - Amenajare Cartier Tineri Căsătoriți în comuna Ciocănești, județul Dâmbovița'', precum și a indicatorilor tehnico-economici",
+"short": "HCL Ciocănești nr. 29/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/182065",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-30-2024",
+"path": "local/dambovita/ciocanesti/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 30/2024 privind punerea la dispoziția Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată în județul Dâmbovița, perioada 2014-2020 a terenurilor necesare pentru construirea obiectivului de investiție ''Reabilitare conductă de aducțiune principală''",
+"short": "HCL Ciocănești nr. 30/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/182063",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-32-2024",
+"path": "local/dambovita/ciocanesti/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 32/2024 privind indexarea impozitelor și taxele locale, precum și taxele speciale aplicabile în anul fiscal 2025, ținând cont de rata inflației de 10,4%",
+"short": "HCL Ciocănești nr. 32/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/182067",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

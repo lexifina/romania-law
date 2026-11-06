@@ -1,0 +1,226 @@
+{
+"country": "RO",
+"shard": "local/dambovita/barbuletu/2025",
+"acts": [
+{
+"slug": "hcl-dambovita--barbuletu-37-2025",
+"path": "local/dambovita/barbuletu/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 37/2025 privind aprobarea principalilor indicatori tehnico-economici ai obiectivului de investiţie ”Modernizare infrastructura rutieră locală din comuna Bărbulețu, Județul Dâmbovița”, actualizați după modificarea cotei TVA conform pct.42 din Legea nr.141/2025 privind unele măsuri fiscal-bugetare",
+"short": "HCL Bărbulețu nr. 37/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-08",
+"latest": "2025-09-08",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/224108",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-38-2025",
+"path": "local/dambovita/barbuletu/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 38/2025 privind aprobarea principalilor indicatori tehnico-economici ai obiectivului de investiţie ”Modernizare străzi locale, șanțuri și podețe în Comuna Bărbulețu, Județul Dâmbovița”, actualizați după modificarea cotei TVA conform pct.42 din Legea nr.141/2025 privind unele măsuri fiscal-bugetare",
+"short": "HCL Bărbulețu nr. 38/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-08",
+"latest": "2025-09-08",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/224112",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-39-2025",
+"path": "local/dambovita/barbuletu/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 39/2025 privind aprobarea proiectului \"SISTEM DE MANAGEMENT INTEGRAT AL DEȘEURILOR DIN JUDEȚUL DÂMBOVIȚA – OBIECTIV – INSTALAȚIE DE TRATARE DEȘEURI COLECTATE SEPARAT ȘI CENTRU DE APORT VOLUNTAR ȘOTÂNGA\"",
+"short": "HCL Bărbulețu nr. 39/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-08",
+"latest": "2025-09-08",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/224113",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-41-2025",
+"path": "local/dambovita/barbuletu/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 41/2025 privind rectificarea bugetului local al comunei Bărbulețu în trimestrul al III-lea al anului 2025",
+"short": "HCL Bărbulețu nr. 41/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-03",
+"latest": "2025-10-03",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/228542",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-43-2025",
+"path": "local/dambovita/barbuletu/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 43/2025 privind aprobarea execuţiei bugetului local al comunei Bărbulețu pe trimestrul al III-lea al anului 2025",
+"short": "HCL Bărbulețu nr. 43/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-04",
+"latest": "2025-11-04",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/233971",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-44-2025",
+"path": "local/dambovita/barbuletu/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 44/2025 privind rectificarea bugetului local al comunei Bărbulețu în trimestrul al IV-lea al anului 2025",
+"short": "HCL Bărbulețu nr. 44/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-04",
+"latest": "2025-11-04",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/233977",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-48-2025",
+"path": "local/dambovita/barbuletu/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 48/2025 privind aprobarea contractării unui împrumut în valoare de 700.000 lei, în conformitate cu prevederile art.1 din Ordonanța de urgență a Guvernului nr.25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului",
+"short": "HCL Bărbulețu nr. 48/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/245163",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-52-2025",
+"path": "local/dambovita/barbuletu/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 52/2025 privind aprobarea execuţiei bugetului local al comunei Bărbulețu pe trimestrul al IV-lea al anului 2025",
+"short": "HCL Bărbulețu nr. 52/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/247350",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-55-2025",
+"path": "local/dambovita/barbuletu/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 55/2025 privind stabilirea impozitelor, taxelor locale și taxelor speciale aplicabile în anul 2026",
+"short": "HCL Bărbulețu nr. 55/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/247355",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-56-2025",
+"path": "local/dambovita/barbuletu/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 56/2025 privind rectificarea bugetului local al comunei Bărbulețu în trimestrul al IV-lea al anului 2025",
+"short": "HCL Bărbulețu nr. 56/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/247363",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

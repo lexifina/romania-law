@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/ciocanesti/2022",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--ciocanesti-33-2022",
+   "path": "local/dambovita/ciocanesti/2022/33",
+   "short": "HCL Ciocănești nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 33/2022 privind participarea la apelul de proiecte din Planul Național de Redresare și Reziliență (PNRR)/2022/C10-Fondul Local pentru depunerea proiectului „ASIGURAREA DE SISTEME TIC ÎN COMUNA CIOCĂNEȘTI, JUDEȚUL DÂMBOVIȚA”",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/85936",
+   "versions": [
+    {
+     "from": "2023-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/85936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-36-2022",
+   "path": "local/dambovita/ciocanesti/2022/36",
+   "short": "HCL Ciocănești nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 36/2022 privind aprobarea Planului de pază al comunei Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/85939",
+   "versions": [
+    {
+     "from": "2023-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/85939",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

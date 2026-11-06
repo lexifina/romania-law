@@ -1,0 +1,271 @@
+{
+"country": "RO",
+"shard": "local/dambovita/niculesti/2021",
+"acts": [
+{
+"slug": "hcl-dambovita--niculesti-21-2021",
+"path": "local/dambovita/niculesti/2021/21",
+"kind": "local",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Niculești nr. 21/2021 privind aprobarea execuţiei bugetare pe trimestrul I al anului 202 a bugetului local și a bugetului instituţiilor publice finanţate din venituri proprii și subvenţii de la bugetul local",
+"short": "HCL Niculești nr. 21/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-13",
+"latest": "2021-04-13",
+"portal": "https://emol.ro/niculesti-db/registru-hcl/31772",
+"council": "dambovita/niculesti",
+"council_name": "Consiliul Local al Comunei Niculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--niculesti-22-2021",
+"path": "local/dambovita/niculesti/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Niculești nr. 22/2021 privind aprobarea bugetului local și a bugetul de venituri proprii și subvenții de la bugetul local pe anul 2021 și estimări pe anii 2022-2024 și a listei de investiții pe anul 2021",
+"short": "HCL Niculești nr. 22/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-13",
+"latest": "2021-04-13",
+"portal": "https://emol.ro/niculesti-db/registru-hcl/31773",
+"council": "dambovita/niculesti",
+"council_name": "Consiliul Local al Comunei Niculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--niculesti-23-2021",
+"path": "local/dambovita/niculesti/2021/23",
+"kind": "local",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Niculești nr. 23/2021 privind trecerea din domeniul public al comunei Niculesti, în domeniul privat al comunei Niculesti, a unor suprafeţe de păşune",
+"short": "HCL Niculești nr. 23/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-13",
+"latest": "2021-04-13",
+"portal": "https://emol.ro/niculesti-db/registru-hcl/31774",
+"council": "dambovita/niculesti",
+"council_name": "Consiliul Local al Comunei Niculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--niculesti-27-2021",
+"path": "local/dambovita/niculesti/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Niculești nr. 27/2021",
+"short": "HCL Niculești nr. 27/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/niculesti-db/registru-hcl/31786",
+"council": "dambovita/niculesti",
+"council_name": "Consiliul Local al Comunei Niculești",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--niculesti-28-2021",
+"path": "local/dambovita/niculesti/2021/28",
+"kind": "local",
+"year": "2021",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Niculești nr. 28/2021 privind aprobarea și indexarea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2022",
+"short": "HCL Niculești nr. 28/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/niculesti-db/registru-hcl/31787",
+"council": "dambovita/niculesti",
+"council_name": "Consiliul Local al Comunei Niculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--niculesti-29-2021",
+"path": "local/dambovita/niculesti/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Niculești nr. 29/2021 privind aprobarea bugetului creditelor interne pe anul 2021",
+"short": "HCL Niculești nr. 29/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/niculesti-db/registru-hcl/31788",
+"council": "dambovita/niculesti",
+"council_name": "Consiliul Local al Comunei Niculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--niculesti-31-2021",
+"path": "local/dambovita/niculesti/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Niculești nr. 31/2021 privind aprobarea valorii investițiilor aferente UAT Comuna Niculesti și participarea Consiliului Local la cofinanțarea „Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată în județul Damboviţa, în perioada 2014 – 2020",
+"short": "HCL Niculești nr. 31/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/niculesti-db/registru-hcl/31790",
+"council": "dambovita/niculesti",
+"council_name": "Consiliul Local al Comunei Niculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--niculesti-32-2021",
+"path": "local/dambovita/niculesti/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Niculești nr. 32/2021 privind aprobarea SUDIULUI DE FEZABILITATE pentru ”Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată în județul Dâmbovița , în perioada 2014 - 2020” precum și a indicatorilor tehnico-economici ai proiectului",
+"short": "HCL Niculești nr. 32/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/niculesti-db/registru-hcl/31791",
+"council": "dambovita/niculesti",
+"council_name": "Consiliul Local al Comunei Niculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--niculesti-33-2021",
+"path": "local/dambovita/niculesti/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Niculești nr. 33/2021 privind aprobarea Planului anual de evoluție a tarifelor conform rezultatelor Analizei Cost-Beneficiu pentru ”Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată în județul Dambovita, în perioada 2014 - 2020",
+"short": "HCL Niculești nr. 33/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/niculesti-db/registru-hcl/31792",
+"council": "dambovita/niculesti",
+"council_name": "Consiliul Local al Comunei Niculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--niculesti-35-2021",
+"path": "local/dambovita/niculesti/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Niculești nr. 35/2021 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii „EXTINDERE SEDIU PRIMARIE CU P+1E”",
+"short": "HCL Niculești nr. 35/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-06-11",
+"latest": "2021-06-11",
+"portal": "https://emol.ro/niculesti-db/registru-hcl/31798",
+"council": "dambovita/niculesti",
+"council_name": "Consiliul Local al Comunei Niculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--niculesti-37-2021",
+"path": "local/dambovita/niculesti/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Niculești nr. 37/2021 privind aprobarea documentaţiei,, P.U.Z SURSE DE APĂ, REZERVOARE, STATII DE CLORINARE, STATII DE POMPARE, ADUCTIUNI PENTRU BUTIMANU, NICULESTI, DOBRA,BUCSANI, BĂLENI, FINTA",
+"short": "HCL Niculești nr. 37/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-06-24",
+"latest": "2021-06-24",
+"portal": "https://emol.ro/niculesti-db/registru-hcl/31811",
+"council": "dambovita/niculesti",
+"council_name": "Consiliul Local al Comunei Niculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--niculesti-39-2021",
+"path": "local/dambovita/niculesti/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Niculești nr. 39/2021 privind aprobarea inițierii demersurilor de actualizare a Planului Urbanistic General al comunei Niculesti și a Regulamentului local de urbanism aferent Planului Urbanistic General",
+"short": "HCL Niculești nr. 39/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-06-24",
+"latest": "2021-06-24",
+"portal": "https://emol.ro/niculesti-db/registru-hcl/31813",
+"council": "dambovita/niculesti",
+"council_name": "Consiliul Local al Comunei Niculești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/dambovita/sotanga/2024",
+"acts": [
+{
+"slug": "hcl-dambovita--sotanga-179-2024",
+"path": "local/dambovita/sotanga/2024/179",
+"kind": "local",
+"year": "2024",
+"number": "179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 179/2024 privind menținerea cuantumului taxei de salubrizare pentru utilizatorii noncasnici aprobată prin Hotărârea Adunării Generale a ADI ,,Management Integrat al Deșeurilor în județul Dâmbovița” nr. 452/20.12.2024",
+"short": "HCL Șotânga nr. 179/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/185018",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -3,6 +3,36 @@
  "shard": "local/constanta/negru-voda/2023",
  "acts": [
   {
+   "slug": "hcl-constanta--negru-voda-1-2023",
+   "path": "local/constanta/negru-voda/2023/1",
+   "short": "HCL Negru Vodă nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 1/2023 privind aprobarea acoperirii definitive a deficitului de 870.635,25 lei aferent secțiunii dezvoltare înregistrat în execuția bugetară a anului 2022, din excedentul bugetului local al orașului Negru Vodă",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/85279",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/85279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-10-2023",
+   "path": "local/constanta/negru-voda/2023/10",
+   "short": "HCL Negru Vodă nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 10/2023 privind însușirea raportului de evaluare a terenului în suprafață de 242 mp, situat în oraș Negru Vodă, str. Plopilor, nr.5A, județ Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87778",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87778",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--negru-voda-100-2023",
    "path": "local/constanta/negru-voda/2023/100",
    "short": "HCL Negru Vodă nr. 100/2023",
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--negru-voda-11-2023",
+   "path": "local/constanta/negru-voda/2023/11",
+   "short": "HCL Negru Vodă nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 11/2023 privind însușirea raportului de evaluare a terenului în suprafață de 568 mp, situat în oraș Negru Vodă, Șos. Mangaliei, nr.48B, județ Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87779",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87779",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--negru-voda-110-2023",
    "path": "local/constanta/negru-voda/2023/110",
    "short": "HCL Negru Vodă nr. 110/2023",
@@ -193,6 +238,846 @@
      "from": "2024-01-08",
      "units": 1,
      "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/134043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-12-2023",
+   "path": "local/constanta/negru-voda/2023/12",
+   "short": "HCL Negru Vodă nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 12/2023 privind însușirea raportului de evaluare a terenului în suprafață de 451 mp, situat în oraș Negru Vodă, Str. Morii, nr.1A, județ Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87780",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-13-2023",
+   "path": "local/constanta/negru-voda/2023/13",
+   "short": "HCL Negru Vodă nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 13/2023 privind însușirea raportului de evaluare a terenului în suprafață de 325 mp, situat în oraș Negru Vodă, Zonă Vamă, Restaurant, județ Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87781",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-14-2023",
+   "path": "local/constanta/negru-voda/2023/14",
+   "short": "HCL Negru Vodă nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 14/2023 privind însușirea raportului de evaluare a terenului în suprafață de 604 mp, situat în oraș Negru Vodă, Șos.Mangaliei, nr.48A, județ Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87782",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-15-2023",
+   "path": "local/constanta/negru-voda/2023/15",
+   "short": "HCL Negru Vodă nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 15/2023 privind însușirea raportului de evaluare a terenului în suprafață de 722 mp, situat în oraș Negru Vodă, Str.Meșteșugarilor, nr.18, județ Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87783",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-16-2023",
+   "path": "local/constanta/negru-voda/2023/16",
+   "short": "HCL Negru Vodă nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 16/2023 privind însușirea raportului de evaluare a terenului în suprafață de 732 mp, situat în oraș Negru Vodă, teren aferent bloc IAS, județ Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87784",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-17-2023",
+   "path": "local/constanta/negru-voda/2023/17",
+   "short": "HCL Negru Vodă nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 17/2023 privind însușirea raportului de evaluare a terenului în suprafață de 2889 mp, situat în oraș Negru Vodă, Șos.Constanței, teren aferent bloc 1-3, județ Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87785",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-18-2023",
+   "path": "local/constanta/negru-voda/2023/18",
+   "short": "HCL Negru Vodă nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 18/2023 privind însușirea raportului de evaluare a terenului în suprafață de 871 mp, situat în oraș Negru Vodă, teren aferent bloc S2, județ Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87786",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-19-2023",
+   "path": "local/constanta/negru-voda/2023/19",
+   "short": "HCL Negru Vodă nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 19/2023 privind însușirea raportului de evaluare a terenului în suprafață de 943 mp, situat în oraș Negru Vodă, teren aferent bloc S1, județ Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87787",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-20-2023",
+   "path": "local/constanta/negru-voda/2023/20",
+   "short": "HCL Negru Vodă nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 20/2023 privind însușirea raportului de evaluare a terenului în suprafață de 747 mp, situat în oraș Negru Vodă, str.Sălciilor, lot propus, județ Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87788",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-21-2023",
+   "path": "local/constanta/negru-voda/2023/21",
+   "short": "HCL Negru Vodă nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 21/2023 privind însușirea raportului de evaluare a terenului în suprafață de 1339 mp, situat în oraș Negru Vodă, zonă Transgaz, lot propus, județ Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87789",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-22-2023",
+   "path": "local/constanta/negru-voda/2023/22",
+   "short": "HCL Negru Vodă nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 22/2023 privind însușirea raportului de evaluare a terenului în suprafață de 1327 mp, situat în oraș Negru Vodă, Șos.Constanței, nr.1, lot 2, județ Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87790",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-23-2023",
+   "path": "local/constanta/negru-voda/2023/23",
+   "short": "HCL Negru Vodă nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 23/2023 privind aprobarea organizării rețelei școlare pentru anul scolar 2023 - 2024 pe raza orașului Negru Vodă",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87791",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-24-2023",
+   "path": "local/constanta/negru-voda/2023/24",
+   "short": "HCL Negru Vodă nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 24/2023 privind aprobarea Planului anual de activități propuse pentru persoanele apte de muncă din cadrul familiilor beneficiare de Venit Minim Garantat conform Legii nr.416/2001",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87792",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-25-2023",
+   "path": "local/constanta/negru-voda/2023/25",
+   "short": "HCL Negru Vodă nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 25/2023 privind modificarea HCL nr.133 din 19 decembrie 2022 privind aprobarea numărului și a cuantumului lunar al burselor acordate elevilor din unitățile de învățământ preuniveristar de stat din orașul Negru Vodă",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87793",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-27-2023",
+   "path": "local/constanta/negru-voda/2023/27",
+   "short": "HCL Negru Vodă nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 27/2023 privind aprobarea Protocolului de colaborare între Ministerul Muncii și Solidarității Sociale (MMSS) și Unitatea Administrativ Teritorială Negru Vodă, județul Constanța având ca obiect asigurarea colaborării interinstituționale a MMSS cu UAT Negru Vodă în cadrul proiectului ”HUB de Servicii MMSS - SII MMSS” cod MySmis 130963",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87795",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-29-2023",
+   "path": "local/constanta/negru-voda/2023/29",
+   "short": "HCL Negru Vodă nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 29/2023 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2023",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/91027",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/91027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-3-2023",
+   "path": "local/constanta/negru-voda/2023/3",
+   "short": "HCL Negru Vodă nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 3/2023 privind aprobarea utilizării excedentului în sumă de 1.861.000 lei pentru secțiunea de dezvoltare",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87771",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-30-2023",
+   "path": "local/constanta/negru-voda/2023/30",
+   "short": "HCL Negru Vodă nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 30/2023 privind înfiinţarea Serviciului voluntar pentru situaţii de urgenţă, aprobarea organigramei şi a numărului de personal al acestuia",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/91028",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/91028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-31-2023",
+   "path": "local/constanta/negru-voda/2023/31",
+   "short": "HCL Negru Vodă nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 31/2023",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/91029",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/91029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-32-2023",
+   "path": "local/constanta/negru-voda/2023/32",
+   "short": "HCL Negru Vodă nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 32/2023",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/91030",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/91030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-33-2023",
+   "path": "local/constanta/negru-voda/2023/33",
+   "short": "HCL Negru Vodă nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 33/2023 privind participarea UAT Orașul Negru Vodă, în calitate de partener la constituirea “Consorțiului regional pentru învățământ dual preuniversitar și universitar Tehno-Dobrogea”",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/91031",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/91031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-34-2023",
+   "path": "local/constanta/negru-voda/2023/34",
+   "short": "HCL Negru Vodă nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 34/2023 privind participarea cu asumarea implicării în activitățile precizate și a eventualelor contribuții la desfășurarea acestora a UAT Oraș Negru Vodă, în calitate de partener la constituirea “Consorțiului regional pentru învățământ dual preuniversitar și universitar Tehno-Dobrogea”",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/93163",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/93163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-35-2023",
+   "path": "local/constanta/negru-voda/2023/35",
+   "short": "HCL Negru Vodă nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 35/2023 privind aprobarea Organigramei și Statului de funcții ale aparatului de specialitate al primarului orașului Negru Vodă",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/98951",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/98951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-36-2023",
+   "path": "local/constanta/negru-voda/2023/36",
+   "short": "HCL Negru Vodă nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 36/2023 privind aprobarea modificării tarifelor din contractul de servicii nr. 8310/02.09.2014 privind delegarea gestiunii prin concesiune a unei părți a serviciului de salubrizare al Orașului Negru Vodă",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/98952",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/98952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-37-2023",
+   "path": "local/constanta/negru-voda/2023/37",
+   "short": "HCL Negru Vodă nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 37/2023 privind stabilirea tarifului de facturare a activității de sortare a deșeurilor de hârtie, carton, metal, plastic și sticlă colectate din deșeurile municipale în stații de sortare, conform contractului de delegare nr.847 din 02.02.2023",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/98953",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/98953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-38-2023",
+   "path": "local/constanta/negru-voda/2023/38",
+   "short": "HCL Negru Vodă nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 38/2023 privind solicitarea către Guvernul României, a aprobării trecerii din domeniul public al statului și din administrarea Ministerul Afacerilor Interne, prin Garda de Coastă în domeniul public al orașului Negru Vodă a imobilului situat în oraș Negru Vodă, Șos.Mangaliei, nr.18A",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/98954",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/98954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-39-2023",
+   "path": "local/constanta/negru-voda/2023/39",
+   "short": "HCL Negru Vodă nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 39/2023 privind aprobarea Planului de Asigurare cu resurse financiare, materiale și umane necesare pentru gestionarea Situațiilor de Urgență în anul 2023 în Orasul Negru Vodă",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/98955",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/98955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-4-2023",
+   "path": "local/constanta/negru-voda/2023/4",
+   "short": "HCL Negru Vodă nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 4/2023 privind aprobarea bugetului local de venituri și cheltuieli pe anul 2023",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87772",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-40-2023",
+   "path": "local/constanta/negru-voda/2023/40",
+   "short": "HCL Negru Vodă nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 40/2023 privind modificarea Hotărârii nr.132 din 19 decembrie 2022 privind stabilirea coeficienților de salarizare pentru funcționarii publici și personalul contractual din aparatul de specialitate al primarului orașului Negru Vodă",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/98956",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/98956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-42-2023",
+   "path": "local/constanta/negru-voda/2023/42",
+   "short": "HCL Negru Vodă nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 42/2023 privind actualizarea indicatorilor tehnico-economici pentru realizarea investiției ”Reabilitare teren de sport și agreement de mici dimensiuni”, aferente proiectului “Îmbunătățirea infrastructurii cultural-recreative și a spațiilor publice urbane pentru populația orașului Negru Vodă”, COD SMIS 126275",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/98958",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/98958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-43-2023",
+   "path": "local/constanta/negru-voda/2023/43",
+   "short": "HCL Negru Vodă nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 43/2023 privind participarea orașului Negru Vodă la Programul privind casarea autovehiculelor uzate, program finanțat din ”Fondul de mediu”, cât și a aprobării depunerii cererii de finanțare și a cheltuielilor legate de programul pentru casarea autovehiculelor uzate din orașul Negru Vodă",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/101263",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/101263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-44-2023",
+   "path": "local/constanta/negru-voda/2023/44",
+   "short": "HCL Negru Vodă nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 44/2023 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2023",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/102240",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/102240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-46-2023",
+   "path": "local/constanta/negru-voda/2023/46",
+   "short": "HCL Negru Vodă nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 46/2023 privind organizarea evenimentului ”Ziua Familiei”",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/102242",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/102242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-47-2023",
+   "path": "local/constanta/negru-voda/2023/47",
+   "short": "HCL Negru Vodă nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 47/2023 privind modificarea și actualizarea ”Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr.16/46300/05.11.2009”",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/102243",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/102243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-5-2023",
+   "path": "local/constanta/negru-voda/2023/5",
+   "short": "HCL Negru Vodă nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 5/2023 privind însușirea raportului de evaluare a terenului în suprafață de 6009 mp, situat în oraș Negru Vodă, zonă Triunghi, lot propus, județ Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87773",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-51-2023",
+   "path": "local/constanta/negru-voda/2023/51",
+   "short": "HCL Negru Vodă nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 51/2023 privind stabilirea coeficienților de salarizare pentru funcționarii publici și personalul contractual din aparatul de specialitate al primarului orașului Negru Vodă",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/102247",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/102247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-53-2023",
+   "path": "local/constanta/negru-voda/2023/53",
+   "short": "HCL Negru Vodă nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 53/2023 privind aprobarea dezmembrării terenului intravilan cu număr cadastral 101780 aflat în domeniul privat al orașului Negru Vodă, Șos.Mangaliei, nr.46-48, județ Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/102249",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/102249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-54-2023",
+   "path": "local/constanta/negru-voda/2023/54",
+   "short": "HCL Negru Vodă nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 54/2023 privind aprobarea bugetului institutiilor publice finantate integral sau partial din venituri proprii pe anul 2023",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/108060",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/108060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-55-2023",
+   "path": "local/constanta/negru-voda/2023/55",
+   "short": "HCL Negru Vodă nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 55/2023 privind însușirea raportului de evaluare a terenului în suprafață de 217449 mp, situat în oraș Negru Vodă, fost Grăniceru, lot 1, județ Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/108061",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/108061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-58-2023",
+   "path": "local/constanta/negru-voda/2023/58",
+   "short": "HCL Negru Vodă nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 58/2023 privind aprobarea modificării Hotărârii de Consiliu Local nr. 94 din 27 septembrie 2022 privind aprobarea depunerii proiectul ” Construirea de insule ecologice digitalizate în orașul Negru Vodă, județul Constanța”",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/108064",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/108064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-59-2023",
+   "path": "local/constanta/negru-voda/2023/59",
+   "short": "HCL Negru Vodă nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 59/2023 privind aprobarea Organigramei și Statului de funcții ale aparatului de specialitate al primarului orașului Negru Vodă",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/108065",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/108065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-6-2023",
+   "path": "local/constanta/negru-voda/2023/6",
+   "short": "HCL Negru Vodă nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 6/2023 privind însușirea raportului de evaluare a terenului în suprafață de 9381 mp, situat în oraș Negru Vodă, zonă str.Triunghi, lot propus, județ Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87774",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-60-2023",
+   "path": "local/constanta/negru-voda/2023/60",
+   "short": "HCL Negru Vodă nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 60/2023 privind stabilirea situațiilor deosebite pentru care se acordă ajutoare de urgență din bugetul local",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/108066",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/108066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-61-2023",
+   "path": "local/constanta/negru-voda/2023/61",
+   "short": "HCL Negru Vodă nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 61/2023 privind aprobarea Planului de analiză şi acoperire a riscurilor pentru orașul Negru Vodă",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/108067",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/108067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-62-2023",
+   "path": "local/constanta/negru-voda/2023/62",
+   "short": "HCL Negru Vodă nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 62/2023 privind solicitarea către Guvernul României, a aprobării trecerii din domeniul public al statului și din administrarea Agenției de Plăți și Intervenție pentru Agricultură - Centrul Județean Constanța în domeniul public al orașului Negru Vodă a imobilului situat în oraș Negru Vodă, str.Gladiolelor, nr.1A, județ Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/108068",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/108068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-65-2023",
+   "path": "local/constanta/negru-voda/2023/65",
+   "short": "HCL Negru Vodă nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 65/2023 privind aprobarea aderării, susținerii și participării Orașului Negru Vodă, județ Constanța, la Noul Parteneriatul tip LEADER / DLRC al Asociației Grupul de Acţiune Locală Dobrogea Verde, care va implementa viitoarea Strategie de Dezvoltare Locală 2023 - 2027 finanțată în cadrul Planului Strategic PS 2023 - 2027",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/108567",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/108567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-66-2023",
+   "path": "local/constanta/negru-voda/2023/66",
+   "short": "HCL Negru Vodă nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 66/2023 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2023",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/109491",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/109491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-67-2023",
+   "path": "local/constanta/negru-voda/2023/67",
+   "short": "HCL Negru Vodă nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 67/2023 privind aprobarea actualizării indicatorilor tehnico-economici pentru obiectivul de investiţii ,,Modernizare drumuri în interiorul localităților sat Darabani și sat Vâlcelele – Uat Negru Vodă“ conform Dispoziției de șantier nr. 2",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/109492",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/109492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-68-2023",
+   "path": "local/constanta/negru-voda/2023/68",
+   "short": "HCL Negru Vodă nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 68/2023 privind aprobarea actualizării indicatorilor tehnico-economici pentru obiectivul de investiţii ,,Reabilitare, consolidare, modernizare, extindere și dotare Liceu în oraș Negru Vodă“ conform Dispoziților de șantier nr. 1-7",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/109493",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/109493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-69-2023",
+   "path": "local/constanta/negru-voda/2023/69",
+   "short": "HCL Negru Vodă nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 69/2023 privind aprobarea aderării orașului Negru Vodă la Asociația pentru Supravegherea și Protecția Animalelor IVETS – ASPA IVETS, stabilirea împuternicitului în Adunarea Generală a Asociației, precum si aprobarea cotizațiilor de aderare, fixă și variabilă",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/113695",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/113695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-7-2023",
+   "path": "local/constanta/negru-voda/2023/7",
+   "short": "HCL Negru Vodă nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 7/2023 privind însușirea raportului de evaluare a terenului în suprafață de 2637 mp, situat în oraș Negru Vodă, zonă Vamă, lot propus, județ Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87775",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-70-2023",
+   "path": "local/constanta/negru-voda/2023/70",
+   "short": "HCL Negru Vodă nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 70/2023",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/113696",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/113696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-71-2023",
+   "path": "local/constanta/negru-voda/2023/71",
+   "short": "HCL Negru Vodă nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 71/2023 privind actualizarea indicatorilor tehnico-economici pentru realizarea investiției „Amenajare peisagistică în oraș Negru Vodă, județul Constanța”, aferente proiectului „Îmbunătățirea serviciilor sociale și a spațiilor publice urbane pentru populația Orașului Negru Vodă”, COD SMIS 125055",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/113697",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/113697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-72-2023",
+   "path": "local/constanta/negru-voda/2023/72",
+   "short": "HCL Negru Vodă nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 72/2023 privind aprobarea rectificării listei de investiție pe anul 2023",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/113698",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/113698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-73-2023",
+   "path": "local/constanta/negru-voda/2023/73",
+   "short": "HCL Negru Vodă nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 73/2023 privind atestarea apartenenței la domeniul privat al orașului Negru Vodă, județul Constanța, a suprafeței de 4373 mp, teren intravilan situat în oraș Negru Vodă, str.Teilor, nr.73, jud.Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/113699",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/113699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-74-2023",
+   "path": "local/constanta/negru-voda/2023/74",
+   "short": "HCL Negru Vodă nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 74/2023 privind atestarea apartenenței la domeniul privat al orașului Negru Vodă, județul Constanța, a suprafeței de 325 mp, teren intravilan situat în oraș Negru Vodă, Șos.Constanței, nr.98, jud.Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/113700",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/113700",
      "sha256": null
     }
    ]
@@ -253,6 +1138,21 @@
      "from": "2023-08-22",
      "units": 1,
      "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/114555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-8-2023",
+   "path": "local/constanta/negru-voda/2023/8",
+   "short": "HCL Negru Vodă nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 8/2023 privind însușirea raportului de evaluare a terenului în suprafață de 4855 mp, situat în sat Vâlcelele, str.Principală, lot propus, județ Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87776",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87776",
      "sha256": null
     }
    ]
@@ -373,6 +1273,21 @@
      "from": "2023-10-03",
      "units": 1,
      "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/121737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--negru-voda-9-2023",
+   "path": "local/constanta/negru-voda/2023/9",
+   "short": "HCL Negru Vodă nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 9/2023 privind însușirea raportului de evaluare a terenului în suprafață de 17 mp, situat în oraș Negru Vodă, str. Recoltei, lot propus, județ Constanța",
+   "url": "https://emol.ro/negruvoda-ct/registru-hcl/87777",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negruvoda-ct/registru-hcl/87777",
      "sha256": null
     }
    ]

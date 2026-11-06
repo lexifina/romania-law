@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/sotanga/2023",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--sotanga-167-2023",
+   "path": "local/dambovita/sotanga/2023/167",
+   "short": "HCL Șotânga nr. 167/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 167/2023 privind aprobarea cuantumului taxei de habitat cu destinație specială de salubrizare pentru anul 2024",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/135181",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/135181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-172-2023",
+   "path": "local/dambovita/sotanga/2023/172",
+   "short": "HCL Șotânga nr. 172/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 172/2023 privind aprobarea structurii rețelei școlare din comuna Șotânga pentru anul de învățământ 2024-2025",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/135186",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/135186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-178-2023",
+   "path": "local/dambovita/sotanga/2023/178",
+   "short": "HCL Șotânga nr. 178/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 178/2023 privind aprobarea cotizaţiei datorată de către comuna Șotânga ca membru al Asociaţiei de Dezvoltare Intercomunitară „Management Integrat al Deșeurilor în judeţul Dâmboviţa”, pentru anul 2024",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/135192",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/135192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-183-2023",
+   "path": "local/dambovita/sotanga/2023/183",
+   "short": "HCL Șotânga nr. 183/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 183/2023 privind validarea dispoziției primarului comunei Șotânga nr. 654/18.12.2023 privind rectificarea bugetului local al comunei Șotânga pe anul 2023",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/135197",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/135197",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

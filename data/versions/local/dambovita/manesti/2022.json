@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/manesti/2022",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--manesti-109-2022",
+   "path": "local/dambovita/manesti/2022/109",
+   "short": "HCL Mănești nr. 109/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 109/2022 privind anularea creanţelor fiscale în sumă de până la 40 lei din bugetul local al comunei Măneşti, județul Dâmbovița",
+   "url": "https://emol.ro/manesti-db/registru-hcl/93331",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/93331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-110-2022",
+   "path": "local/dambovita/manesti/2022/110",
+   "short": "HCL Mănești nr. 110/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 110/2022 privind aprobarea PROCEDURII de scutire de la plata majorărilor de întârziere aferente obligaţiilor bugetare constând în impozite şi taxe locale, redevențe și chirii datorate bugetului local, de către persoanele fizice și juridice de pe raza comunei Mănești, județul Dâmbovița",
+   "url": "https://emol.ro/manesti-db/registru-hcl/93332",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/93332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-111-2022",
+   "path": "local/dambovita/manesti/2022/111",
+   "short": "HCL Mănești nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 111/2022 privind organizarea festivității ”Pomul de Crăciun 2022 ” și acordarea de cadouri preșcolarilor și elevilor din școlile și grădinițele de pe raza comunei Mănești, județul Dâmbovița",
+   "url": "https://emol.ro/manesti-db/registru-hcl/93333",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/93333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-113-2022",
+   "path": "local/dambovita/manesti/2022/113",
+   "short": "HCL Mănești nr. 113/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 113/2022 privind aprobarea cuantumului și numărului de burse școlare aferente anului şcolar 2022-2023, care se acordă elevilor din învățământul preuniversitar din comuna Mănești,județul Dâmbovița",
+   "url": "https://emol.ro/manesti-db/registru-hcl/93335",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/93335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-114-2022",
+   "path": "local/dambovita/manesti/2022/114",
+   "short": "HCL Mănești nr. 114/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 114/2022",
+   "url": "https://emol.ro/manesti-db/registru-hcl/93336",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/93336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-115-2022",
+   "path": "local/dambovita/manesti/2022/115",
+   "short": "HCL Mănești nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 115/2022 privind rectificarea bugetului general propriu al comunei Mănești pe anul 2022 prin suplimentare cu suma de 771 mii lei",
+   "url": "https://emol.ro/manesti-db/registru-hcl/93337",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/93337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-116-2022",
+   "path": "local/dambovita/manesti/2022/116",
+   "short": "HCL Mănești nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 116/2022 privind rectificarea bugetului general propriu al comunei Mănești pe anul 2022 prin suplimentare cu suma de 112,5 mii lei",
+   "url": "https://emol.ro/manesti-db/registru-hcl/93348",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/93348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-117-2022",
+   "path": "local/dambovita/manesti/2022/117",
+   "short": "HCL Mănești nr. 117/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 117/2022 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de pe raza comunei Mănești, județul Dâmbovița, pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/manesti-db/registru-hcl/93359",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/93359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-120-2022",
+   "path": "local/dambovita/manesti/2022/120",
+   "short": "HCL Mănești nr. 120/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 120/2022 privind aprobarea numărului asistenţilor personali şi încheierea contractelor individuale de muncă ale acestora în anul 2023",
+   "url": "https://emol.ro/manesti-db/registru-hcl/93362",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/93362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-122-2022",
+   "path": "local/dambovita/manesti/2022/122",
+   "short": "HCL Mănești nr. 122/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 122/2022 privind EXECUŢIA BUGETULUI LOCAL AL COMUNEI MĂNEȘTI JUDEȚUL DÂMBOVIȚA , PE CELE DOUĂ SECŢIUNI ÎN TRIM. IV 2022",
+   "url": "https://emol.ro/manesti-db/registru-hcl/93364",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/93364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-124-2022",
+   "path": "local/dambovita/manesti/2022/124",
+   "short": "HCL Mănești nr. 124/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 124/2022 privind rectificarea bugetului general propriu al comunei Mănești pe anul 2022 prin suplimentare cu suma de 885 mii lei",
+   "url": "https://emol.ro/manesti-db/registru-hcl/93366",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/93366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-125-2022",
+   "path": "local/dambovita/manesti/2022/125",
+   "short": "HCL Mănești nr. 125/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 125/2022 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici/indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiții ” Reabilitare DC 117 cu șanțuri betonate, în comuna Mănești, județul Dâmbovița”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/manesti-db/registru-hcl/93367",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/93367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-126-2022",
+   "path": "local/dambovita/manesti/2022/126",
+   "short": "HCL Mănești nr. 126/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 126/2022 privind creșterea eficienței energetice a infrastructurii de iluminat public pentru proiectul „Creșterea eficienței energetice a sistemului de iluminat public în Comuna Mănești, județul Dâmbovița”",
+   "url": "https://emol.ro/manesti-db/registru-hcl/93368",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/93368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-127-2022",
+   "path": "local/dambovita/manesti/2022/127",
+   "short": "HCL Mănești nr. 127/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 127/2022 privind rectificarea bugetului general propriu al comunei Mănești pe anul 2022 prin suplimentare cu suma de 231 mii lei",
+   "url": "https://emol.ro/manesti-db/registru-hcl/93371",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/93371",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

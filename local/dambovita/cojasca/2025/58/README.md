@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Cojasca nr. 58/2025 privind aprobarea accesării ,,ACCES LA EDUCAȚIE-Combaterea abandonului școlar în Comuna Cojasca prin conștientizare și motivare,, în cadrul Programului EDUCAȚIE și OCUPARE 2021 -2027 Prioritate: P8 Creșterea accesibilității, atractivității și calității învățământului profesional și tehnic Obiectiv specific: ESO4.6
+
+HCL Cojasca nr. 58/2025 · 1 versions, from 2025-07-27 (latest in force: 2025-07-27) · <https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#103495>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-dambovita--cojasca-58-2025` (tags `hcl-dambovita--cojasca-58-2025/<day>`; `python tools/on.py <day> hcl-dambovita--cojasca-58-2025`).
+
+## Decisions made by hand
+
+- HCL Cojasca nr. 58/2025: listed from Consiliul Local al Comunei Cojasca (cojasca.regista.ro); metadata only for now: no document of it is held.
+- HCL Cojasca nr. 58/2025: dated from 27 July 2025, the day it was adopted (the register gives no later day of publication).
+- HCL Cojasca nr. 58/2025: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

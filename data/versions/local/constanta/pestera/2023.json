@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/pestera/2023",
+ "acts": [
+  {
+   "slug": "hcl-constanta--pestera-101-2023",
+   "path": "local/constanta/pestera/2023/101",
+   "short": "HCL Peștera nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 101/2023 privind APROBAREA RECTIFICĂRII BUGETULUI DE VENITURI ȘI CHELTUIELI PE ANUL 2023 AL COMUNEI PEȘTERA, JUDEȚUL CONSTANȚA",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/135407",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/135407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-102-2023",
+   "path": "local/constanta/pestera/2023/102",
+   "short": "HCL Peștera nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 102/2023 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al Primarului Comunei PEȘTERA",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/135408",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/135408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-103-2023",
+   "path": "local/constanta/pestera/2023/103",
+   "short": "HCL Peștera nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 103/2023 privind aprobarea nivelului redeventei datorate de Serviciul Public de Alimentare cu Apa Pestera, județul Constanța",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/135409",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/135409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-93-2023",
+   "path": "local/constanta/pestera/2023/93",
+   "short": "HCL Peștera nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 93/2023 privind RECTIFICAREA BUGETULUI DE VENITURI ȘI CHELTUIELI PE ANUL 20223 AL COMUNEI PEȘTERA, JUDEȚUL CONSTANȚA",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/134254",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/134254",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

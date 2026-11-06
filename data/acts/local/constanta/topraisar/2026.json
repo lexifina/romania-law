@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/constanta/topraisar/2026",
+"acts": [
+{
+"slug": "hcl-constanta--topraisar-23-2026",
+"path": "local/constanta/topraisar/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 23/2026 privind aprobarea execuției bugetului local pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei, pe anul 2025",
+"short": "HCL Topraisar nr. 23/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-09",
+"latest": "2026-06-09",
+"portal": "https://emol.ro/topraisar-ct/registru-hcl/266832",
+"council": "constanta/topraisar",
+"council_name": "Consiliul Local al Comunei Topraisar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--topraisar-25-2026",
+"path": "local/constanta/topraisar/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 25/2026 privind aprobarea delegării serviciului pentru gestionarea câinilor fără stăpân în comuna Topraisar, jud. Constanţa şi actualizarea documentaţiei necesare pentru delegarea acestuia",
+"short": "HCL Topraisar nr. 25/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-14",
+"latest": "2026-07-14",
+"portal": "https://emol.ro/topraisar-ct/registru-hcl/275821",
+"council": "constanta/topraisar",
+"council_name": "Consiliul Local al Comunei Topraisar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--topraisar-39-2026",
+"path": "local/constanta/topraisar/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 39/2026 privind aprobarea Planului Urbanistic Zonal (P.U.Z.) \"AMENAJARE CIMITIR ORTODOX ȘI ZONĂ PENTRU ACTIVITĂȚI ECONOMICE - TOPRAISAR\"",
+"short": "HCL Topraisar nr. 39/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://emol.ro/topraisar-ct/registru-hcl/291287",
+"council": "constanta/topraisar",
+"council_name": "Consiliul Local al Comunei Topraisar",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

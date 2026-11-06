@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/dambovita/sotanga/2021",
+"acts": [
+{
+"slug": "hcl-dambovita--sotanga-154-2021",
+"path": "local/dambovita/sotanga/2021/154",
+"kind": "local",
+"year": "2021",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 154/2021 privind validarea Dispoziției primarului comunei Șotânga nr. 412 din 21.12.2021 privind rectificarea bugetului local al comunei Șotânga pe anul 2021",
+"short": "HCL Șotânga nr. 154/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/47121",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-159-2021",
+"path": "local/dambovita/sotanga/2021/159",
+"kind": "local",
+"year": "2021",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 159/2021 privind aprobarea normativelor proprii de cheltuieli cu privire la consumul lunar de carburanți și a limitelor maxime de cheltuieli lunare pentru abonamentele și convorbirile telefonice, furnizare de echipamente electronice și terminale pentru anul 2022",
+"short": "HCL Șotânga nr. 159/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/47126",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-160-2021",
+"path": "local/dambovita/sotanga/2021/160",
+"kind": "local",
+"year": "2021",
+"number": "160",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 160/2021 privind aprobarea numărului de posturi de asistent personal al persoanelor cu handicap pentru anul 2022",
+"short": "HCL Șotânga nr. 160/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/47127",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-161-2021",
+"path": "local/dambovita/sotanga/2021/161",
+"kind": "local",
+"year": "2021",
+"number": "161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 161/2021 privind aprobarea anulării creanțelor fiscale ale debitorilor aflați în stare de insolvabilitate pentru care s-a împlinit termenul de prescripție",
+"short": "HCL Șotânga nr. 161/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/47128",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-169-2021",
+"path": "local/dambovita/sotanga/2021/169",
+"kind": "local",
+"year": "2021",
+"number": "169",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 169/2021 privind modificarea și completarea HCL nr. 142/25.11.2021 privind aprobarea cuantumului taxei de habitat cu destinaţie specială de salubrizare pentru anul 2022",
+"short": "HCL Șotânga nr. 169/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/47136",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

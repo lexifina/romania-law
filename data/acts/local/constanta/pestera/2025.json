@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/constanta/pestera/2025",
+"acts": [
+{
+"slug": "hcl-constanta--pestera-111-2025",
+"path": "local/constanta/pestera/2025/111",
+"kind": "local",
+"year": "2025",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 111/2025 privind rectificarea bugetului de venituri și cheltuieli pe anul 2025 al comunei Peștera, județul Constanța",
+"short": "HCL Peștera nr. 111/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/241158",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

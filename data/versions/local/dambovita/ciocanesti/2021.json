@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/ciocanesti/2021",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--ciocanesti-12-2021",
+   "path": "local/dambovita/ciocanesti/2021/12",
+   "short": "HCL Ciocănești nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 12/2021 privind stabilirea și sancționarea unor contravenții pe raza administrativ teritorială a comunei Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/21802",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/21802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-13-2021",
+   "path": "local/dambovita/ciocanesti/2021/13",
+   "short": "HCL Ciocănești nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 13/2021 privind aprobarea Planului de analiză și acoprire a riscurilor întocmit la nivelul unității administrativ-teritoariale Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/21803",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/21803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-14-2021",
+   "path": "local/dambovita/ciocanesti/2021/14",
+   "short": "HCL Ciocănești nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 14/2021 privind aprobarea Studiului de fezabilitate pentru ''Proiectul regional de dezvolatre a infrastructurii de apă și apă uzată, în județul Dâmbovița, în perioada 2014-2020'', precum și a indicatorilor tehnico-economici ai proiectului",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/22967",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/22967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-15-2021",
+   "path": "local/dambovita/ciocanesti/2021/15",
+   "short": "HCL Ciocănești nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 15/2021 privind aprobarea Planului de evoluție a tarifelor conform rezultatelor analizei cost-beneficiu pentru ''Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată, în județul Dâmbovița, în perioada 2014-2020''",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/22968",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/22968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-16-2021",
+   "path": "local/dambovita/ciocanesti/2021/16",
+   "short": "HCL Ciocănești nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 16/2021 privind aprobarea valorii investițiilor aferente Unității Administrativ-Teritorială Ciocănești și a participării Consiliului Local al Unității Administrativ-Teritorială Ciocănești la cofinanțarea 'țProiectului regional de dezvoltare a infrastructurii de apă și apă uzată, în județul dâmbovița, în perioada 2014-2020''",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/22969",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/22969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-17-2021",
+   "path": "local/dambovita/ciocanesti/2021/17",
+   "short": "HCL Ciocănești nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 17/2021 privind aprobarea situațiilor financiare anuale asupra patrimoniului și a execuției bugetului local al Unității Administrativ-Teritoriale Ciocănești la data de 31.12.2020",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/22970",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/22970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-19-2021",
+   "path": "local/dambovita/ciocanesti/2021/19",
+   "short": "HCL Ciocănești nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 19/2021 privind indexarea impozitelor și taxele locale, precum și taxele speciale aplicabile în anul fiscal 2022, ținând cont de rata inflației de 2,6 %",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/22972",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/22972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-20-2021",
+   "path": "local/dambovita/ciocanesti/2021/20",
+   "short": "HCL Ciocănești nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 20/2021 privind aprobarea Documentației de urbanism pentru ''Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată, în județul Dâmbovița, în perioada 2014-2020''",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/22973",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/22973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-21-2021",
+   "path": "local/dambovita/ciocanesti/2021/21",
+   "short": "HCL Ciocănești nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 21/2021 privind aprobarea bugetului general centralizat al UAT Ciocănești pe anul 2021 și estimări pentru anii 2022-2024",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/22974",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/22974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-24-2021",
+   "path": "local/dambovita/ciocanesti/2021/24",
+   "short": "HCL Ciocănești nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 24/2021 privind aprobarea modificării și completării Hotărârii Consiliului Local Ciocănești nr. 12/24.04.2020 privind aprobarea asocierii cu județul Dâmbovița prin Consiliul Județean Dâmbovița pentru realizarea documentației urbanistice ''Actualizare (revizuire) Plan Urbanistic General și Regulament Local de Urbanism aferent al comunei Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/25056",
+   "versions": [
+    {
+     "from": "2021-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/25056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-25-2021",
+   "path": "local/dambovita/ciocanesti/2021/25",
+   "short": "HCL Ciocănești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 25/2021 privind aprobarea Regulamentului-cadru de concesiune a bunurilor proprietate publică/sau privată ale comunei Ciocănești, județul Dâmbvița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/25057",
+   "versions": [
+    {
+     "from": "2021-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/25057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-28-2021",
+   "path": "local/dambovita/ciocanesti/2021/28",
+   "short": "HCL Ciocănești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 28/2021 privind aprobarea tipului, numărului și a cuantumului burselor ce se vor acorda elevilor din învăţământul preuniversitar de stat la nivelul comunei Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/30346",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/30346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-30-2021",
+   "path": "local/dambovita/ciocanesti/2021/30",
+   "short": "HCL Ciocănești nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 30/2021 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local Ciocănești, judeţul Dâmboviţa",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/30350",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/30350",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

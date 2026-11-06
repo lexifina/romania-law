@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/raciu/2025",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--raciu-17-2025",
+   "path": "local/dambovita/raciu/2025/17",
+   "short": "HCL Raciu nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Raciu nr. 17/2025 rectificarea bugetului local de venituri și cheltuieli al comunei Raciu aferent anului 2025",
+   "url": "https://raciu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2930#102828",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://raciu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2930#102828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--raciu-19-2025",
+   "path": "local/dambovita/raciu/2025/19",
+   "short": "HCL Raciu nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Raciu nr. 19/2025 aprobarea Programului de acțiune comunitara destinat prevenirii si combaterii riscului de sărăcie și excluziune sociala pentru anul 2025",
+   "url": "https://raciu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2930#102825",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://raciu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2930#102825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--raciu-20-2025",
+   "path": "local/dambovita/raciu/2025/20",
+   "short": "HCL Raciu nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Raciu nr. 20/2025 aprobarea Regulamentului de acordare a ajutoarelor de urgență familiilor și persoanelor singure care se află în situații de necesitate cauzate de calamități naturale, incendii, accidente precum și pentru alte situații deosebite",
+   "url": "https://raciu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2930#102823",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://raciu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2930#102823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--raciu-4-2025",
+   "path": "local/dambovita/raciu/2025/4",
+   "short": "HCL Raciu nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Raciu nr. 4/2025 aprobarea cotizaţiei comunei Raciu datorată Asociaţiei de Dezvoltare Intercomunitară “Management Integrat al Deşeurilor în Judeţul Dâmboviţa“ pe anul 2025",
+   "url": "https://raciu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2930#93321",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://raciu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2930#93321",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

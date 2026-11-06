@@ -3,6 +3,651 @@
  "shard": "local/constanta/eforie/2023",
  "acts": [
   {
+   "slug": "hcl-constanta--eforie-1-2023",
+   "path": "local/constanta/eforie/2023/1",
+   "short": "HCL Eforie nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 1/2023 privind alegerea pentru o perioadă de 3 luni președintele de ședință al Consiliul Local al orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/86800",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/86800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-121-2023",
+   "path": "local/constanta/eforie/2023/121",
+   "short": "HCL Eforie nr. 121/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 121/2023 privind aprobarea încheierii unui Acord de parteneriat între UAT oraș Eforie și Compania Națională de Administrare a Infrastructurii Rutiere S.A (CNAIR) pentru realizarea proiectului cu titlul \"Subtraversări auto si pasaje pietonale pentru decongestionarea si fluidizarea traficului pe DN 39 (E87) - Pasaj 1” în vederea accesării de fonduri nerambursabile prin Planul Național de Redresare și Reziliență (PNRR)",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109637",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-122-2023",
+   "path": "local/constanta/eforie/2023/122",
+   "short": "HCL Eforie nr. 122/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 122/2023 privind aprobarea încheierii unui Acord de parteneriat între UAT oraș Eforie și Compania Națională de Administrare a Infrastructurii Rutiere S.A (CNAIR) pentru realizarea proiectului cu titlul \"Subtraversări auto si pasaje pietonale pentru decongestionarea si fluidizarea traficului pe DN 39 (E87) - Pasaj 2” în vederea accesării de fonduri nerambursabile prin Planul Național de Redresare și Reziliență (PNRR)",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109638",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-123-2023",
+   "path": "local/constanta/eforie/2023/123",
+   "short": "HCL Eforie nr. 123/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 123/2023 privind aprobarea aderării, susținerii și participării Orașului Eforie, județ Constanța, la Noul Parteneriatul tip LEADER / DLRC al Asociației Grupul de Acțiune Locală Dobrogea Verde, care va implementa viitoarea Strategie de Dezvoltare Locală 2023 - 2027 finanțată în cadrul Planului Strategic PS 2023 - 2027”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109639",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-124-2023",
+   "path": "local/constanta/eforie/2023/124",
+   "short": "HCL Eforie nr. 124/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 124/2023 privind aprobarea oportunității inființării Serviciului public de ridicare, transport, depozitare și eliberare a vehiculelor stationate neregulamentar pe domeniul public/privat al orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109640",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-125-2023",
+   "path": "local/constanta/eforie/2023/125",
+   "short": "HCL Eforie nr. 125/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 125/2023 privind rectificarea bugetului de venituri și cheltuieli al orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146785",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-126-2023",
+   "path": "local/constanta/eforie/2023/126",
+   "short": "HCL Eforie nr. 126/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 126/2023 privind modificarea statului de funcții al aparatului de specialitate a primarului oraș Eforie aprobat prin HCL nr 18/ 08.02.2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146786",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-14-2023",
+   "path": "local/constanta/eforie/2023/14",
+   "short": "HCL Eforie nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 14/2023 privind aprobarea repoziționării unor imobile",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/96759",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/96759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-147-2023",
+   "path": "local/constanta/eforie/2023/147",
+   "short": "HCL Eforie nr. 147/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 147/2023 privind modificarea Anexei nr. 1 la HCL Eforie nr. 142 / 29.06.2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146813",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-148-2023",
+   "path": "local/constanta/eforie/2023/148",
+   "short": "HCL Eforie nr. 148/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 148/2023 privind modificarea Anexei nr. 1 la HCL Eforie nr. 143 / 29.06.2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146814",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-151-2023",
+   "path": "local/constanta/eforie/2023/151",
+   "short": "HCL Eforie nr. 151/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 151/2023 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146818",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-152-2023",
+   "path": "local/constanta/eforie/2023/152",
+   "short": "HCL Eforie nr. 152/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 152/2023 privind aprobarea încheierii unui Acord de parteneriat între UAT oraș Eforie și Compania Națională de Administrare a Infrastructurii Rutiere S.A (CNAIR) pentru realizarea proiectului cu titlul „PASAJ RUTIER DENIVELAT în ZONA SENSULUI GIRATORIU de pe DN 39 KM 12+300 ” în vederea accesării de fonduri nerambursabile prin Planul Național de Redresare și Reziliență (PNRR)",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146819",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-153-2023",
+   "path": "local/constanta/eforie/2023/153",
+   "short": "HCL Eforie nr. 153/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 153/2023 privind aprobarea încheierii unui Acord de parteneriat între UAT oraș Eforie și Compania Națională de Administrare a Infrastructurii Rutiere S.A (CNAIR) pentru realizarea proiectului cu titlul „PASAJ RUTIER DENIVELAT în ZONA SENSULUI GIRATORIU de pe DN 39 KM 14+280 ” în vederea accesării de fonduri nerambursabile prin Planul Național de Redresare și Reziliență (PNRR)",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146820",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-154-2023",
+   "path": "local/constanta/eforie/2023/154",
+   "short": "HCL Eforie nr. 154/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 154/2023 privind aprobarea încheierii unui Acord de parteneriat între UAT oraș Eforie și Compania Națională de Administrare a Infrastructurii Rutiere S.A (CNAIR) în vederea accesării de fonduri nerambursabile prin Planul Național de Redresare și Reziliență (PNRR), pentru realizarea proiectului cu titlul: „PASAJ PIETONAL SUBTERAN DN 39 în ZONA KM 13+260 la intersecția cu str. I.GH. DUCA” „PASAJ PIETONAL SUBTERAN DN 39 în ZONA KM 13+500 la intersecția cu str. BUCOVINEI” „PASAJ PIETONAL SUBTERAN DN 39 în ZONA KM 13+800 la intersecția cu str. 23 AUGUST”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146821",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-16-2023",
+   "path": "local/constanta/eforie/2023/16",
+   "short": "HCL Eforie nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 16/2023 privind completarea bunurilor care alcatuiesc domeniul privat al orasului",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/96761",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/96761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-17-2023",
+   "path": "local/constanta/eforie/2023/17",
+   "short": "HCL Eforie nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 17/2023 privind instituirea unui drept de trecere asupra imobilului teren in suprafata de 104 mp aflat in domeniul privat al orasului identificat cu nr. de inventar ___ pentru acces",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/96762",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/96762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-170-2023",
+   "path": "local/constanta/eforie/2023/170",
+   "short": "HCL Eforie nr. 170/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 170/2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146871",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-18-2023",
+   "path": "local/constanta/eforie/2023/18",
+   "short": "HCL Eforie nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 18/2023 privind aprobarea bugetului de venituri şi cheltuieli al oraşului Eforie pentru exercițiul financiar 2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/96763",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/96763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-19-2023",
+   "path": "local/constanta/eforie/2023/19",
+   "short": "HCL Eforie nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 19/2023 privind stabilirea nivelului salariilor din administraţia locală Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/96764",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/96764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-2-2023",
+   "path": "local/constanta/eforie/2023/2",
+   "short": "HCL Eforie nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 2/2023 privind aprobarea documentației de atribuire a contractului de delegare a gestiunii, prin achiziție publică de servicii, a activităților de sortare, tratare mecano-biologică, compostare și depozitare a deșeurilor municipale din Unitatea Administrativ Teritoriala Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/86801",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/86801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-20-2023",
+   "path": "local/constanta/eforie/2023/20",
+   "short": "HCL Eforie nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 20/2023 privind aprobarea protocolului de colaborare între Ministerul Muncii și Solidarității Sociale și UAT Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/96765",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/96765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-203-2023",
+   "path": "local/constanta/eforie/2023/203",
+   "short": "HCL Eforie nr. 203/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 203/2023 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146910",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-207-2023",
+   "path": "local/constanta/eforie/2023/207",
+   "short": "HCL Eforie nr. 207/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 207/2023 privind aprobarea Procedurii privind înființarea și funcționarea Comitetului de elaborare, implementare și monitorizare a Strategiei de Dezvoltare Urbană a Orașului Eforie 2021-2027",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146940",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-208-2023",
+   "path": "local/constanta/eforie/2023/208",
+   "short": "HCL Eforie nr. 208/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 208/2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146941",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-209-2023",
+   "path": "local/constanta/eforie/2023/209",
+   "short": "HCL Eforie nr. 209/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 209/2023 privind neasumarea responsabilitatii organizarii si derularii procedurilor de atribuire a contractelor /acordurilor -cadru pentru achizitia produselor aferente programului si a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea masurilor educative aferente programului pentru scoli al Romaniei si a contractelor /acordurilor -cadru de prestare a serviciilor pentru derularea masurilor educative, la nivelul UAT oraș Eforie, Judetul Constanta",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146942",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-21-2023",
+   "path": "local/constanta/eforie/2023/21",
+   "short": "HCL Eforie nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 21/2023 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/96774",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/96774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-210-2023",
+   "path": "local/constanta/eforie/2023/210",
+   "short": "HCL Eforie nr. 210/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 210/2023 privind modificarea statului de funcții al aparatului de specialitate a primarului oraș Eforie aprobat prin HCL nr 18 / 08.02.2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146943",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-211-2023",
+   "path": "local/constanta/eforie/2023/211",
+   "short": "HCL Eforie nr. 211/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 211/2023 privind aprobarea Procedurii de acordare a înlesnirii la plată constând în scutirea de majorări de întârziere aferente obligațiilor fiscale principale scadente la data de 31.12.2022, datorate bugetului local de către persoanele fizice care au calitatea de contribuabili ai bugetului local al Orașului Eforie, județul Constanța",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146944",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-221-2023",
+   "path": "local/constanta/eforie/2023/221",
+   "short": "HCL Eforie nr. 221/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 221/2023 privind completarea bunurilor care alcatuiesc domeniul privat al orasului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146954",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-222-2023",
+   "path": "local/constanta/eforie/2023/222",
+   "short": "HCL Eforie nr. 222/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 222/2023 privind actualizarea suprafetei unor imobile care apartin domeniului public al orasului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146955",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-223-2023",
+   "path": "local/constanta/eforie/2023/223",
+   "short": "HCL Eforie nr. 223/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 223/2023 privind rectificarea bugetului de venituri și cheltuieli al orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146956",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-23-2023",
+   "path": "local/constanta/eforie/2023/23",
+   "short": "HCL Eforie nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 23/2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/96767",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/96767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-230-2023",
+   "path": "local/constanta/eforie/2023/230",
+   "short": "HCL Eforie nr. 230/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 230/2023 privind aprobare Plan Urbanistic Zonal PARC COVASNA ORAȘ EFORIE",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/147101",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/147101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-231-2023",
+   "path": "local/constanta/eforie/2023/231",
+   "short": "HCL Eforie nr. 231/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 231/2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/147102",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/147102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-232-2023",
+   "path": "local/constanta/eforie/2023/232",
+   "short": "HCL Eforie nr. 232/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 232/2023 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/147103",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/147103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-25-2023",
+   "path": "local/constanta/eforie/2023/25",
+   "short": "HCL Eforie nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 25/2023 privind aprobarea solicitării de trecere din domeniul public al UAT Județul Constanța în domeniul public al UAT oraș Eforie a unor imobile-construcții",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/96769",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/96769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-272-2023",
+   "path": "local/constanta/eforie/2023/272",
+   "short": "HCL Eforie nr. 272/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 272/2023 privind aprobarea actualizării documentațiilor aprobate prin HCL nr. 56 / 02.04.2013",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/147143",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/147143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-275-2023",
+   "path": "local/constanta/eforie/2023/275",
+   "short": "HCL Eforie nr. 275/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 275/2023 privind aprobarea contului de execuție al bugetului orașului Eforie pentru trimestrul III al anului 2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/147178",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/147178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-276-2023",
+   "path": "local/constanta/eforie/2023/276",
+   "short": "HCL Eforie nr. 276/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 276/2023 privind aprobarea, de principiu, a acordului de înfrățire și cooperare între orașul Eforie, județul Constanța, România și comuna Puhoi, raionul Ialoveni, Republica Moldova",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/147179",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/147179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-292-2023",
+   "path": "local/constanta/eforie/2023/292",
+   "short": "HCL Eforie nr. 292/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 292/2023 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/147197",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/147197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-3-2023",
+   "path": "local/constanta/eforie/2023/3",
+   "short": "HCL Eforie nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 3/2023 privind aprobarea modificării si completării ”Contractului nr. 86054/ 17.05.2019 privind delegarea gestiunii unei parti a serviciului public de salubrizare al Orasului Eforie, jud. Constanța prin Act adițional",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/86802",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/86802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-300-2023",
+   "path": "local/constanta/eforie/2023/300",
+   "short": "HCL Eforie nr. 300/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 300/2023 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/147234",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/147234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-301-2023",
+   "path": "local/constanta/eforie/2023/301",
+   "short": "HCL Eforie nr. 301/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 301/2023 privind stabilirea nivelurilor impozitelor şi taxelor locale aplicabile în oraşul Eforie pentru anul 2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/147235",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/147235",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--eforie-335-2023",
    "path": "local/constanta/eforie/2023/335",
    "short": "HCL Eforie nr. 335/2023",
@@ -43,6 +688,396 @@
      "from": "2024-03-11",
      "units": 1,
      "source_url": "https://emol.ro/eforie-ct/registru-hcl/147339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-34-2023",
+   "path": "local/constanta/eforie/2023/34",
+   "short": "HCL Eforie nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 34/2023 privind aprobarea Regulamentului pentru eliberarea atestatului de administrator de condominii",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/96779",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/96779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-35-2023",
+   "path": "local/constanta/eforie/2023/35",
+   "short": "HCL Eforie nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 35/2023 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109369",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-37-2023",
+   "path": "local/constanta/eforie/2023/37",
+   "short": "HCL Eforie nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 37/2023 Privind aprobarea Plan Urbanistic Zonal ÎN VEDEREA MODIFICĂRII REGLEMENTĂRILOR URBANISTICE APROBATE ANTERIOR PENTRU TERITORIUL DELIMITAT DE STRAZILE: la Nord - strada Oituz, la Sud – strada Ion Movilă si strada Mihai Eminescu, la Est – strada Doctor Cantacuzino si la Vest – strada Mihai Viteazu si strada Negru Vodă, localitatea Eforie Sud, Județul Constanța",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109371",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-38-2023",
+   "path": "local/constanta/eforie/2023/38",
+   "short": "HCL Eforie nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 38/2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109372",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-4-2023",
+   "path": "local/constanta/eforie/2023/4",
+   "short": "HCL Eforie nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 4/2023 privind organizarea rețelei școlare a unitatilor de învatamant preuniversitar de stat și particular din Orasul Eforie pentru anul școlar 2023–2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/96749",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/96749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-41-2023",
+   "path": "local/constanta/eforie/2023/41",
+   "short": "HCL Eforie nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 41/2023 privind aprobarea transmiterii temporare în administrarea Consiliului Județean Constanța a unor sectoare de drum situate în intravilanul UAT Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109375",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-47-2023",
+   "path": "local/constanta/eforie/2023/47",
+   "short": "HCL Eforie nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 47/2023 privind aprobare Contract - cadru pentru acoperirea costurilor nete de gestionare a deseurilor de ambalaje din deseurile municipale colectate si transportate separat, stocate temporar, sortate si incredintate in vederea valorificarii deseurilor de ambalaje la nivelul UAT Eforie care se va incheia cu Organizatiile care Implementeaza obligatiile privind Raspunderea Extinsa a Producatorului (O.I.R.E.P.)",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109381",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-5-2023",
+   "path": "local/constanta/eforie/2023/5",
+   "short": "HCL Eforie nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 5/2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/96750",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/96750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-50-2023",
+   "path": "local/constanta/eforie/2023/50",
+   "short": "HCL Eforie nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 50/2023 privind aprobarea indicatorilor financiari pentru servicii de consultanta in management de proiect aferente investitiei cu titlul - ”Înființarea sistemului de transport public de calatori cu material rulant ecologic, inclusiv infrastructura de parcare si facilitati pentru biciclisti in cadrul coridorului de mobilitate urbana creat”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109384",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-52-2023",
+   "path": "local/constanta/eforie/2023/52",
+   "short": "HCL Eforie nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 52/2023 privind aprobarea modificarii tarifelor pentru activitatile de colecatre separata, transport separat si tratare a deseurilor similare generate de catre agentii economici si/sau institutiile publice care isi desfasoara activitatea in aria de administrare a UAT Eforie in baza contractelor de delegare a serviciilor incheiate cu Iridex Group Salubrizare S.R.L",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109390",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-53-2023",
+   "path": "local/constanta/eforie/2023/53",
+   "short": "HCL Eforie nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 53/2023 privind modificarea Anexei nr. 2 la HCL nr. 48 din 30.03.2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109391",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-54-2023",
+   "path": "local/constanta/eforie/2023/54",
+   "short": "HCL Eforie nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 54/2023 privind modificarea Anexei la HCL 51 din 30.03.2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109392",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-55-2023",
+   "path": "local/constanta/eforie/2023/55",
+   "short": "HCL Eforie nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 55/2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109393",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-56-2023",
+   "path": "local/constanta/eforie/2023/56",
+   "short": "HCL Eforie nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 56/2023 privind alegerea pentru o perioadă de 3 luni președintele de ședință al Consiliul Local al orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109423",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-59-2023",
+   "path": "local/constanta/eforie/2023/59",
+   "short": "HCL Eforie nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 59/2023 privind aprobarea contului de execuție al bugetului orașului Eforie pentru trimestrul I al anului 2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109426",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-6-2023",
+   "path": "local/constanta/eforie/2023/6",
+   "short": "HCL Eforie nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 6/2023 privind aprobarea Planului de acțiuni sau lucrări de interes local, întocmit în conformitate cu prevederile art.6 art. (7) din Legea 416/2001 privind venitul minim garantat, actualizată, pentru anul 2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/96751",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/96751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-60-2023",
+   "path": "local/constanta/eforie/2023/60",
+   "short": "HCL Eforie nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 60/2023 privind aprobarea modificării și actualizării Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 16/46300/05.11.2009",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109427",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-7-2023",
+   "path": "local/constanta/eforie/2023/7",
+   "short": "HCL Eforie nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 7/2023 privind modificarea statului de funcții al aparatului de specialitate a primarului oraș Eforie aprobat prin HCL nr 26 / 31.01.2020",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/96752",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/96752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-8-2023",
+   "path": "local/constanta/eforie/2023/8",
+   "short": "HCL Eforie nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 8/2023 privind radierea unui imobil teren din domeniul privat al orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/96753",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/96753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-83-2023",
+   "path": "local/constanta/eforie/2023/83",
+   "short": "HCL Eforie nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 83/2023 privind participarea Orașului Eforie în cadrul ”Programului privind casarea autovehiculelor uzate” derulat de Ministerul Mediului, Apelor și Pădurilor prin Administrația Fondului pentru Mediu",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109450",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-84-2023",
+   "path": "local/constanta/eforie/2023/84",
+   "short": "HCL Eforie nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 84/2023 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109451",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-87-2023",
+   "path": "local/constanta/eforie/2023/87",
+   "short": "HCL Eforie nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 87/2023 privind aprobarea inițierii procedurilor pentru înființarea unei Asociații de dezvoltare intercomunitară de utilitate publică pentru serviciul de transport public local, persoană juridică de drept privat și de utilitate publică prin asocierea Unității Administrativ - Teritoriale Orașul Eforie, prin Consiliul local al Orașului Eforie, în calitate de membru fondator (asociat), cu Unitatea Administrativ - Teritorială Orașul Techirghiol, prin Consiliul local al Orașului Techirghiol, județul Constanța",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109525",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-88-2023",
+   "path": "local/constanta/eforie/2023/88",
+   "short": "HCL Eforie nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 88/2023 privind aprobarea semnarii contractului de finantare de către Orasul Eforie pentru realizarea obiectivului de investitii „Dotarea cu mobilier, materiale didactice si echipamente a UIP (inclusiv unitatile conexe) “Liceul Carmen Sylva” si „Scoala Gimnaziala nr 1, Orasul Eforie””, precum si a cheltuielilor aferente implementarii proiectului",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109526",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-89-2023",
+   "path": "local/constanta/eforie/2023/89",
+   "short": "HCL Eforie nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 89/2023 privind aprobarea contului de execuție al bugetului local al orașului Eforie pentru exercițiul financiar al anului 2022",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109527",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-90-2023",
+   "path": "local/constanta/eforie/2023/90",
+   "short": "HCL Eforie nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 90/2023 privind aprobarea privind aprobarea Regulamentului privind promovarea acțiunilor având ca obiect transformarea amenzilor contravenționale în muncă neremunerată în folosul comunității",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109528",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-91-2023",
+   "path": "local/constanta/eforie/2023/91",
+   "short": "HCL Eforie nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 91/2023 privind aprobarea procedurii de executare silită a creanțelor fiscale restante datorate Bugetului local al Orașului Eforie, prin aplicarea sechestrului asupra bunurilor mobile sau imobile aflate în proprietatea sau coproprietatea contribuabilului precum și procedura de evaluare și valorificare a acestora",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/109529",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/109529",
      "sha256": null
     }
    ]

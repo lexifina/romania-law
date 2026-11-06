@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/targusor/2026",
+ "acts": [
+  {
+   "slug": "hcl-constanta--targusor-35-2026",
+   "path": "local/constanta/targusor/2026/35",
+   "short": "HCL Târgușor nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 35/2026 privind aprobarea Regulamentului de instituire și administrare a taxei speciale de salubrizare în comuna Târgușor, județul Constanța",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/285689",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/285689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-40-2026",
+   "path": "local/constanta/targusor/2026/40",
+   "short": "HCL Târgușor nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 40/2026 pentru aprobarea bugetului local de venituri și cheltuieli, rectificat, al Consiliului Local al comunei Târgușor, județul Constanța, pe anul 2026",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/287081",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/287081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-44-2026",
+   "path": "local/constanta/targusor/2026/44",
+   "short": "HCL Târgușor nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 44/2026 privind aprobarea Contului de încheiere a exercițiului bugetar, al Unității Administrativ Teritoriale Comuna Târgușor, județul Constanța, pe trimestru III al anului 2026",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/295204",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/295204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-45-2026",
+   "path": "local/constanta/targusor/2026/45",
+   "short": "HCL Târgușor nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 45/2026 pentru aprobarea bugetului local de venituri și cheltuieli, rectificat și a listei de investiții, rectificate, ale Consiliului Local al comunei Târgușor, județul Constanța, precum și a Raportului privind rezultatele etichetării cheltuielilor bugetare, detaliat pe capitole și surse de finanțare, rectificat, pe anul 2026",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/295205",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/295205",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

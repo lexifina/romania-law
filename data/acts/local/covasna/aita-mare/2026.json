@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/covasna/aita-mare/2026",
+"acts": [
+{
+"slug": "hcl-covasna--aita-mare-44-2026",
+"path": "local/covasna/aita-mare/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 44/2026 privind aprobarea modificării și completării Statutului Asociației de Dezvoltare Intercomunitară ”Sistem Integrat de Management al Deșeurilor în județul Covasna”",
+"short": "HCL Aita Mare nr. 44/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-07",
+"latest": "2026-09-07",
+"portal": "https://emol.ro/aitamare-cv/registru-hcl/285530",
+"council": "covasna/aita-mare",
+"council_name": "Consiliul Local al Comunei Aita Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--aita-mare-53-2026",
+"path": "local/covasna/aita-mare/2026/53",
+"kind": "local",
+"year": "2026",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 53/2026 privind rectificarea bugetului local al comunei Aita Mare pe anul 2026",
+"short": "HCL Aita Mare nr. 53/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/aitamare-cv/registru-hcl/289997",
+"council": "covasna/aita-mare",
+"council_name": "Consiliul Local al Comunei Aita Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--aita-mare-61-2026",
+"path": "local/covasna/aita-mare/2026/61",
+"kind": "local",
+"year": "2026",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 61/2026 privind rectificarea bugetului local al comunei Aita Mare pe anul 2026 și pentru modificarea anexelor nr.2a și nr.2b la Hotărârea Consiliului local Aita Mare nr.22/2026 privind aprobarea bugetului local general și pe secțiuni al comunei Aita Mare pe anul 2026",
+"short": "HCL Aita Mare nr. 61/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/aitamare-cv/registru-hcl/295125",
+"council": "covasna/aita-mare",
+"council_name": "Consiliul Local al Comunei Aita Mare",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

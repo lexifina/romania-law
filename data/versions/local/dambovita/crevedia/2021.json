@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/crevedia/2021",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--crevedia-103-2021",
+   "path": "local/dambovita/crevedia/2021/103",
+   "short": "HCL Crevedia nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 103/2021 privind acordarea de cadouri copiilor și elevilor din comuna Crevedia cu ocazia ”Sărbătorilor de iarnă”",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/41871",
+   "versions": [
+    {
+     "from": "2021-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/41871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-104-2021",
+   "path": "local/dambovita/crevedia/2021/104",
+   "short": "HCL Crevedia nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 104/2021 privind aprobarea rectificării bugetului local de venituri și cheltuieli pentru anul 2021",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/41872",
+   "versions": [
+    {
+     "from": "2021-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/41872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-105-2021",
+   "path": "local/dambovita/crevedia/2021/105",
+   "short": "HCL Crevedia nr. 105/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 105/2021 privind aprobarea rectificării bugetului local de venituri și cheltuieli pentru anul 2021",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/45600",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/45600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-106-2021",
+   "path": "local/dambovita/crevedia/2021/106",
+   "short": "HCL Crevedia nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 106/2021 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pentru anul 2022, aplicabile la nivelul comunei Crevedia, județ Dâmbovița",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/45601",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/45601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-107-2021",
+   "path": "local/dambovita/crevedia/2021/107",
+   "short": "HCL Crevedia nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 107/2021 privind aprobarea structurii rețelei școlare ale unităților de învățământ preuniversitar în comuna Crevedia, județul Dâmbovița, pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/45602",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/45602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-108-2021",
+   "path": "local/dambovita/crevedia/2021/108",
+   "short": "HCL Crevedia nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 108/2021 privind aprobarea rectificării bugetului local de venituri și cheltuieli pentru anul 2021",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/46465",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/46465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-109-2021",
+   "path": "local/dambovita/crevedia/2021/109",
+   "short": "HCL Crevedia nr. 109/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 109/2021",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/46466",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/46466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-91-2021",
+   "path": "local/dambovita/crevedia/2021/91",
+   "short": "HCL Crevedia nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 91/2021 privind actualizarea indicatorilor economici pentru obiectivul de investiții ”Realizare trotuare (de la Mega Image la intrarea în Dârza), sat Mânăstirea (str. Combinatului DN1A, Piscicultorul) în comuna Crevedia județul Dâmbovița” conform Ordonanței Guvernului nr. 15/2021 privind reglementarea unor măsuri fiscal bugetare",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/39801",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/39801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-92-2021",
+   "path": "local/dambovita/crevedia/2021/92",
+   "short": "HCL Crevedia nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 92/2021 privind actualizarea indicatorilor economici pentru obiectivul de investiții ”EXTINDERE REȚEA DISTRIBUȚIE GAZE NATURALE DE PRESIUNE REDUSĂ ÎN COMUNA CREVEDIA” conform Ordonanței Guvernului nr. 15/2021 privind reglementarea unor măsuri fiscal bugetare",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/39802",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/39802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-93-2021",
+   "path": "local/dambovita/crevedia/2021/93",
+   "short": "HCL Crevedia nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 93/2021 privind aprobarea cererii de finanțare și a devizului general pentru obiectivul de investiţii ”MODERNIZARE DRUMURI COMUNALE ȘI SĂTEȘTI ÎN COMUNA CREVEDIA” pentru finanțarea acestuia în cadrul Programului Național de Investiții ”ANGHEL SALIGNY”",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/39803",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/39803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-95-2021",
+   "path": "local/dambovita/crevedia/2021/95",
+   "short": "HCL Crevedia nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 95/2021 privind aprobarea investiției - Extindere distribuție gaze comuna Crevedia pe circa 10 km",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/40622",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/40622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-96-2021",
+   "path": "local/dambovita/crevedia/2021/96",
+   "short": "HCL Crevedia nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 96/2021 privind aprobarea cererii de finanțare și a devizului general pentru obiectivul de investiţii ”EXTINDERE REȚELE DE ALIMENTARE CU APĂ ȘI CANALIZARE ÎN COMUNA CREVEDIA” pentru finanțarea acestuia în cadrul Programului Național de Investiții ”ANGHEL SALIGNY”",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/40623",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/40623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-97-2021",
+   "path": "local/dambovita/crevedia/2021/97",
+   "short": "HCL Crevedia nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 97/2021 privind aprobarea execuției bugetara pe cele două secțiuni la data de 30.09.2021",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/41865",
+   "versions": [
+    {
+     "from": "2021-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/41865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-98-2021",
+   "path": "local/dambovita/crevedia/2021/98",
+   "short": "HCL Crevedia nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 98/2021 privind aprobarea planului de măsuri al Comitetului Local pentru Situații de Urgență al comunei Crevedia pe perioada sezonului rece 2021- 2022",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/41866",
+   "versions": [
+    {
+     "from": "2021-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/41866",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

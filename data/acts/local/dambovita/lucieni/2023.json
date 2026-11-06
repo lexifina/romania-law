@@ -3,6 +3,28 @@
 "shard": "local/dambovita/lucieni/2023",
 "acts": [
 {
+"slug": "hcl-dambovita--lucieni-104-2023",
+"path": "local/dambovita/lucieni/2023/104",
+"kind": "local",
+"year": "2023",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 104/2023 privind validarea inventarului terenurilor disponibile pentru punerea în aplicare a Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, rerepublicată, cu modificările și completările ulterioare, aflate în domeniul privat al comunei Lucieni",
+"short": "HCL Lucieni nr. 104/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#65684",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-dambovita--lucieni-105-2023",
 "path": "local/dambovita/lucieni/2023/105",
 "kind": "local",

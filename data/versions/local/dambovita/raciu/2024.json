@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/raciu/2024",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--raciu-35-2024",
+   "path": "local/dambovita/raciu/2024/35",
+   "short": "HCL Raciu nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Raciu nr. 35/2024 aprobarea scăderii din evidenţele fiscale ale comunei Raciu, judeţul Dâmboviţa a debitului înregistrat eronat de la poziţia de rol nr. 2240, debitor Amuza Sima",
+   "url": "https://raciu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2930#82133",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://raciu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2930#82133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--raciu-41-2024",
+   "path": "local/dambovita/raciu/2024/41",
+   "short": "HCL Raciu nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Raciu nr. 41/2024 aprobarea procedurii de alegere a preşedintelui de şedinţă al Consiliului Local al comunei Raciu",
+   "url": "https://raciu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2930#85599",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://raciu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2930#85599",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

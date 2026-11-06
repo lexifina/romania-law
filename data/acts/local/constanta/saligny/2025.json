@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/constanta/saligny/2025",
+"acts": [
+{
+"slug": "hcl-constanta--saligny-118-2025",
+"path": "local/constanta/saligny/2025/118",
+"kind": "local",
+"year": "2025",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 118/2025 privind stabilirea modului de organizare al sistemului pentru asigurarea colectării separate şi transportul separat al deşeurilor biodegradabile generate pe raza comunei Saligny, jud. Constanţa",
+"short": "HCL Saligny nr. 118/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/242137",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--saligny-119-2025",
+"path": "local/constanta/saligny/2025/119",
+"kind": "local",
+"year": "2025",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 119/2025 privind aprobarea modificării tarifelor pentru activitatea de colectare separată și transport separat al deșeurilor reziduale din contractul de delegare a gestiunii activităților de colectare separată și transport separat al deșeurilor municipale din u.a.t. Saligny, Județul Constanța nr.1702/07.04.2025-nr. IGS 35 din 07.04.2025",
+"short": "HCL Saligny nr. 119/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/242138",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--saligny-120-2025",
+"path": "local/constanta/saligny/2025/120",
+"kind": "local",
+"year": "2025",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 120/2025 privind modificarea și completarea Regulamentului de instituire și administrare a taxei de salubrizare, precum și stabilirea taxei de salubrizare pentru utilizatorii serviciului de salubrizare",
+"short": "HCL Saligny nr. 120/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/242139",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--saligny-122-2025",
+"path": "local/constanta/saligny/2025/122",
+"kind": "local",
+"year": "2025",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 122/2025 privind modificarea și completarea HCL nr.50 din 08.04.2025 privind aprobarea și indexarea impozitelor și taxelor locale ,precum și a taxelor speciale, pe anul 2026",
+"short": "HCL Saligny nr. 122/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/242143",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

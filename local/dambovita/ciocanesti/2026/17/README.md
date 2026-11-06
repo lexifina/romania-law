@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Ciocănești nr. 17/2026 privind revocarea Hotărârii Consiliului Local al comunei Ciocănești nr. 10/14.04.2026 privind completarea inventarului bunurilor care aparțin domeniului public al comunei Ciocănești, județul Dâmbovița
+
+HCL Ciocănești nr. 17/2026 · 1 versions, from 2026-06-26 (latest in force: 2026-06-26) · <https://emol.ro/ciocanesti-db/registru-hcl/276120>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-dambovita--ciocanesti-17-2026` (tags `hcl-dambovita--ciocanesti-17-2026/<day>`; `python tools/on.py <day> hcl-dambovita--ciocanesti-17-2026`).
+
+## Decisions made by hand
+
+- HCL Ciocănești nr. 17/2026: listed from Consiliul Local al Comunei Ciocănești (emol.ro); metadata only for now: no document of it is held.
+- HCL Ciocănești nr. 17/2026: dated from 26 June 2026, the day it was adopted (the register gives no later day of publication).
+- HCL Ciocănești nr. 17/2026: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

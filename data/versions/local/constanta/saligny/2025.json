@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/saligny/2025",
+ "acts": [
+  {
+   "slug": "hcl-constanta--saligny-118-2025",
+   "path": "local/constanta/saligny/2025/118",
+   "short": "HCL Saligny nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 118/2025 privind stabilirea modului de organizare al sistemului pentru asigurarea colectării separate şi transportul separat al deşeurilor biodegradabile generate pe raza comunei Saligny, jud. Constanţa",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/242137",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/242137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-119-2025",
+   "path": "local/constanta/saligny/2025/119",
+   "short": "HCL Saligny nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 119/2025 privind aprobarea modificării tarifelor pentru activitatea de colectare separată și transport separat al deșeurilor reziduale din contractul de delegare a gestiunii activităților de colectare separată și transport separat al deșeurilor municipale din u.a.t. Saligny, Județul Constanța nr.1702/07.04.2025-nr. IGS 35 din 07.04.2025",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/242138",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/242138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-120-2025",
+   "path": "local/constanta/saligny/2025/120",
+   "short": "HCL Saligny nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 120/2025 privind modificarea și completarea Regulamentului de instituire și administrare a taxei de salubrizare, precum și stabilirea taxei de salubrizare pentru utilizatorii serviciului de salubrizare",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/242139",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/242139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-122-2025",
+   "path": "local/constanta/saligny/2025/122",
+   "short": "HCL Saligny nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 122/2025 privind modificarea și completarea HCL nr.50 din 08.04.2025 privind aprobarea și indexarea impozitelor și taxelor locale ,precum și a taxelor speciale, pe anul 2026",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/242143",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/242143",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

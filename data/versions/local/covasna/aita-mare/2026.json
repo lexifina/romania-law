@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/aita-mare/2026",
+ "acts": [
+  {
+   "slug": "hcl-covasna--aita-mare-44-2026",
+   "path": "local/covasna/aita-mare/2026/44",
+   "short": "HCL Aita Mare nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 44/2026 privind aprobarea modificării și completării Statutului Asociației de Dezvoltare Intercomunitară ”Sistem Integrat de Management al Deșeurilor în județul Covasna”",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/285530",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/285530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-53-2026",
+   "path": "local/covasna/aita-mare/2026/53",
+   "short": "HCL Aita Mare nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 53/2026 privind rectificarea bugetului local al comunei Aita Mare pe anul 2026",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/289997",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/289997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-61-2026",
+   "path": "local/covasna/aita-mare/2026/61",
+   "short": "HCL Aita Mare nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 61/2026 privind rectificarea bugetului local al comunei Aita Mare pe anul 2026 și pentru modificarea anexelor nr.2a și nr.2b la Hotărârea Consiliului local Aita Mare nr.22/2026 privind aprobarea bugetului local general și pe secțiuni al comunei Aita Mare pe anul 2026",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/295125",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/295125",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

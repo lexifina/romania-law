@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/mihail-kogalniceanu/2022",
+ "acts": [
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-150-2022",
+   "path": "local/constanta/mihail-kogalniceanu/2022/150",
+   "short": "HCL Mihail Kogălniceanu nr. 150/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 150/2022 privind aprobarea cheltuielilor aferente organizării Târgului de Crăciun și a Tradițiilor de Anul Nou în comuna Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/85571",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/85571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-153-2022",
+   "path": "local/constanta/mihail-kogalniceanu/2022/153",
+   "short": "HCL Mihail Kogălniceanu nr. 153/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 153/2022 privind aprobarea documentației de urbanism ”Plan Urbanistic Zonal” în vederea realizării obiectivului de investiții: ”SCHIMBARE DESTINAȚIE TEREN ÎN COMPLEX DEPOZITE PRODUSE FĂRĂ TOXICITATE” în Comuna mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/85574",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/85574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-159-2022",
+   "path": "local/constanta/mihail-kogalniceanu/2022/159",
+   "short": "HCL Mihail Kogălniceanu nr. 159/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 159/2022 privind organizarea și desfășurarea sărbătorii „Botezul cailor„-2023",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/85587",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/85587",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-161-2022",
+   "path": "local/constanta/mihail-kogalniceanu/2022/161",
+   "short": "HCL Mihail Kogălniceanu nr. 161/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 161/2022",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/85589",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/85589",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

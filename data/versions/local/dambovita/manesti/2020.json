@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/manesti/2020",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--manesti-53-2020",
+   "path": "local/dambovita/manesti/2020/53",
+   "short": "HCL Mănești nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 53/2020 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de pe raza comunei Mănești, județul Dâmbovița, pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/manesti-db/registru-hcl/16872",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/16872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-54-2020",
+   "path": "local/dambovita/manesti/2020/54",
+   "short": "HCL Mănești nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 54/2020 privind mandatarea specială a reprezentantului comunei Mănești în adunarea generală a asociației de dezvoltare intercomunitară ” Management integrat al deșeurilor în județul Dâmbovița”",
+   "url": "https://emol.ro/manesti-db/registru-hcl/16873",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/16873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-55-2020",
+   "path": "local/dambovita/manesti/2020/55",
+   "short": "HCL Mănești nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 55/2020",
+   "url": "https://emol.ro/manesti-db/registru-hcl/16874",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/16874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-56-2020",
+   "path": "local/dambovita/manesti/2020/56",
+   "short": "HCL Mănești nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 56/2020 privind mandatarea specială a reprezentantului comunei Mănești, județul Dâmbovița în Grupul de Acțiune Locală GAL „Valea Ialomiței”",
+   "url": "https://emol.ro/manesti-db/registru-hcl/16875",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/16875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-57-2020",
+   "path": "local/dambovita/manesti/2020/57",
+   "short": "HCL Mănești nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 57/2020 privind aprobarea numărului asistenților personali și încheierea contractelor individuale de muncă ale acestora în anul 2021",
+   "url": "https://emol.ro/manesti-db/registru-hcl/16876",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/16876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-58-2020",
+   "path": "local/dambovita/manesti/2020/58",
+   "short": "HCL Mănești nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 58/2020 privind validarea dispoziției nr. 597/2020 privind rectificarea bugetului local al comunei Mănești, județul Dâmbovița prin virare de credite și a dispoziției nr. 606/08.12.2020 privind rectificarea bugetului local prin suplimentare cu suma de 182 mii lei",
+   "url": "https://emol.ro/manesti-db/registru-hcl/16877",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/16877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-60-2020",
+   "path": "local/dambovita/manesti/2020/60",
+   "short": "HCL Mănești nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 60/2020",
+   "url": "https://emol.ro/manesti-db/registru-hcl/16879",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/16879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-61-2020",
+   "path": "local/dambovita/manesti/2020/61",
+   "short": "HCL Mănești nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 61/2020 privind aprobarea proiectului și a cheltuielilor legate de proiectul ” Achiziție de echipamente TIC ( tehnologia informației și comunicațiilor) pentru structurile educaționale din comuna Mănești, județul Dâmbovița”",
+   "url": "https://emol.ro/manesti-db/registru-hcl/16880",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/16880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-62-2020",
+   "path": "local/dambovita/manesti/2020/62",
+   "short": "HCL Mănești nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 62/2020 privind aprobarea investiției „Modernizarea ulița spre Biserică și ulița cu Bolovani” în comuna Mănești, județul Dâmbovița",
+   "url": "https://emol.ro/manesti-db/registru-hcl/16881",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/16881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-63-2020",
+   "path": "local/dambovita/manesti/2020/63",
+   "short": "HCL Mănești nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 63/2020 privind emiterea acordului de principiu pentru asocierea comunei Mănești, județul Dâmbovița prin Consiliul local Mănești, cu județul Dâmbovița, prin Consiliul județean Dâmbovița, în vederea realizării unor obiective de infrasctructură rutieră de interes județean și local",
+   "url": "https://emol.ro/manesti-db/registru-hcl/16882",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/16882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-64-2020",
+   "path": "local/dambovita/manesti/2020/64",
+   "short": "HCL Mănești nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 64/2020 privind furnizarea de acces WI-Fi gratuit în spații publice interioare sau exterioare",
+   "url": "https://emol.ro/manesti-db/registru-hcl/16883",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/16883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-65-2020",
+   "path": "local/dambovita/manesti/2020/65",
+   "short": "HCL Mănești nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 65/2020 privind aprobarea anexelor pentru stabilirea impozitelor și taxelor locale pentru anul 2021 în comuna Mănești, județul Dâmbovița",
+   "url": "https://emol.ro/manesti-db/registru-hcl/16884",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/16884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-66-2020",
+   "path": "local/dambovita/manesti/2020/66",
+   "short": "HCL Mănești nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 66/2020 privind validarea dispoziției nr. 616/14.12.2020 privind rectificarea bugetului local al comunei Mănești, județul Dâmbovița prin virare de credite de la un capitol la altul al clasificației bugetare",
+   "url": "https://emol.ro/manesti-db/registru-hcl/16885",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/16885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-67-2020",
+   "path": "local/dambovita/manesti/2020/67",
+   "short": "HCL Mănești nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 67/2020 privind rectificarea bugetului general propriu pe anul 2020 prin suplimentare cu suma de 72.000 lei",
+   "url": "https://emol.ro/manesti-db/registru-hcl/16886",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/16886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-68-2020",
+   "path": "local/dambovita/manesti/2020/68",
+   "short": "HCL Mănești nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 68/2020 privind mandatarea specială a reprezentantului comunei Mănești, județul Dâmbovița în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Civitas Târgoviște”",
+   "url": "https://emol.ro/manesti-db/registru-hcl/16887",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/16887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-69-2020",
+   "path": "local/dambovita/manesti/2020/69",
+   "short": "HCL Mănești nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 69/2020 privind aprobarea documentației tehnico-economice pentru investiția ”Construire și dotare dispensar uman în comuna Mănești, județul Dâmbovița”",
+   "url": "https://emol.ro/manesti-db/registru-hcl/16888",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/16888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-71-2020",
+   "path": "local/dambovita/manesti/2020/71",
+   "short": "HCL Mănești nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 71/2020 privind completarea și modificarea Hotărârii Consiliului Local Mănești nr. 18/30/04/2020 și Hotărârii Consiliului local Mănești nr. 65/17.12.2020 privind indexarea impozitelor și taxelor locale pentru anul 2021",
+   "url": "https://emol.ro/manesti-db/registru-hcl/16898",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/16898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-72-2020",
+   "path": "local/dambovita/manesti/2020/72",
+   "short": "HCL Mănești nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 72/2020 privind rectificarea bugetului general propriu pe anul 2020 prin suplimentare cu suma de 31.000 lei",
+   "url": "https://emol.ro/manesti-db/registru-hcl/16899",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/16899",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

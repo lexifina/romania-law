@@ -3,6 +3,21 @@
  "shard": "local/dambovita/fieni/2026",
  "acts": [
   {
+   "slug": "hcl-dambovita--fieni-1-2026",
+   "path": "local/dambovita/fieni/2026/1",
+   "short": "HCL Fieni nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 1/2026 privind aprobarea cuantumului taxei de salubrizare pentru utilizatorii noncasnici, pentru anul 2026, în cuantumul stabilit pentru anul 2025",
+   "url": "https://emol.ro/fieni-db/registru-hcl/249652",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/249652",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--fieni-105-2026",
    "path": "local/dambovita/fieni/2026/105",
    "short": "HCL Fieni nr. 105/2026",
@@ -13,6 +28,216 @@
      "from": "2026-10-21",
      "units": 1,
      "source_url": "https://emol.ro/fieni-db/registru-hcl/294318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-18-2026",
+   "path": "local/dambovita/fieni/2026/18",
+   "short": "HCL Fieni nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 18/2026 privind stabilirea și aprobarea taxei de salubrizare pentru utilizatorii casnici din oraşul Fieni in cuantumul stabilit pentru anul 2025 si aprobarea eliminarii taxei de salubrizare, incepand cu data de 01.03.2026, pentru străinașii care domiciliază în oraşul Fieni și în afara orasului, care au gospodării pe raza oraşului Fieni",
+   "url": "https://emol.ro/fieni-db/registru-hcl/257110",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/257110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-2-2026",
+   "path": "local/dambovita/fieni/2026/2",
+   "short": "HCL Fieni nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 2/2026 privind transformarea funcţiei publice de execuţie vacantă de Consilier, cls.I, grad profesional superior în funcţia publica vacantă de execuţie de Consilier, cls.I, grad profesional asistent",
+   "url": "https://emol.ro/fieni-db/registru-hcl/249653",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/249653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-21-2026",
+   "path": "local/dambovita/fieni/2026/21",
+   "short": "HCL Fieni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 21/2026",
+   "url": "https://emol.ro/fieni-db/registru-hcl/260434",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/260434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-24-2026",
+   "path": "local/dambovita/fieni/2026/24",
+   "short": "HCL Fieni nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 24/2026",
+   "url": "https://emol.ro/fieni-db/registru-hcl/260437",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/260437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-26-2026",
+   "path": "local/dambovita/fieni/2026/26",
+   "short": "HCL Fieni nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 26/2026 privind transformarea funcţiei publice de execuţie vacantă de Consilier, cls.I, grad profesional asistent, în funcţia publica vacantă de execuţie de Consilier, cls.I, grad profesional superior",
+   "url": "https://emol.ro/fieni-db/registru-hcl/260439",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/260439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-27-2026",
+   "path": "local/dambovita/fieni/2026/27",
+   "short": "HCL Fieni nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 27/2026",
+   "url": "https://emol.ro/fieni-db/registru-hcl/262771",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/262771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-3-2026",
+   "path": "local/dambovita/fieni/2026/3",
+   "short": "HCL Fieni nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 3/2026 privind includerea în domeniul privat al orașului Fieni a unor clădiri situate pe terenul din sat Costești, zona „Târg anual de toamnă”, identificat cu nr. cadastral 1188, CF 70415 Fieni",
+   "url": "https://emol.ro/fieni-db/registru-hcl/249654",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/249654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-4-2026",
+   "path": "local/dambovita/fieni/2026/4",
+   "short": "HCL Fieni nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 4/2026 privind alipirea imobilelor cu suprafațele de 921 mp (nr.cad. 71814), aflat în proprietatea BISERICA CREȘTINĂ BAPTISTĂ SPERANȚA și 468 mp (nr.cad. 72308), aflat în domeniul privat al orașului Fieni, situate în str. Aleea Teilor, nr. 5",
+   "url": "https://emol.ro/fieni-db/registru-hcl/249655",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/249655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-49-2026",
+   "path": "local/dambovita/fieni/2026/49",
+   "short": "HCL Fieni nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 49/2026 privind aprobarea documentatiei DALI/PTE, a indicatorilor tehnico-economici și a Devizului general pentru obiectivul de investiții ,,Reabilitare strada Industriilor in orasul Fieni, judetul Dambovita,,",
+   "url": "https://emol.ro/fieni-db/registru-hcl/267629",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/267629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-5-2026",
+   "path": "local/dambovita/fieni/2026/5",
+   "short": "HCL Fieni nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 5/2026 privind aprobarea retelei scolare a unitatilor de invatamant preuniversitar din Unitatea Administrativ Teritoriala - Orasul Fieni pentru anul scolar 2026 - 2027",
+   "url": "https://emol.ro/fieni-db/registru-hcl/249656",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/249656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-51-2026",
+   "path": "local/dambovita/fieni/2026/51",
+   "short": "HCL Fieni nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 51/2026 privind privind interzicerea desfăşurării jocurilor de noroc pe raza administrativ-teritoriala a orasului Fieni , cu excepția jocurilor tradiționale de tip loterie aparținând Companiei Naționale ” Loteria Română” SA și a operatorilor care gestionează doar activitatea de pariuri sportive",
+   "url": "https://emol.ro/fieni-db/registru-hcl/270996",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/270996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-60-2026",
+   "path": "local/dambovita/fieni/2026/60",
+   "short": "HCL Fieni nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 60/2026",
+   "url": "https://emol.ro/fieni-db/registru-hcl/275237",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/275237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-63-2026",
+   "path": "local/dambovita/fieni/2026/63",
+   "short": "HCL Fieni nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 63/2026",
+   "url": "https://emol.ro/fieni-db/registru-hcl/275240",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/275240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-8-2026",
+   "path": "local/dambovita/fieni/2026/8",
+   "short": "HCL Fieni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 8/2026 privind aprobarea Planului Urbanistic Zonal (PUZ) și a Regulamentului Local de Urbanism aferent pentru obiectivul „Construire spațiu comercial și funcțiuni conexe”, oraș Fieni, jud. Dâmbovița",
+   "url": "https://emol.ro/fieni-db/registru-hcl/252330",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/252330",
      "sha256": null
     }
    ]

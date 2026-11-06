@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/pantelimon/2025",
+ "acts": [
+  {
+   "slug": "hcl-constanta--pantelimon-148-2025",
+   "path": "local/constanta/pantelimon/2025/148",
+   "short": "HCL Pantelimon nr. 148/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 148/2025 privind aprobarea modificării și completării HCL nr. 48/17.04.2025 privind aprobarea indexării impozitelor și taxelor locale pentru anul 2026 cu rata inflației de 5,6 %",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/241892",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/241892",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}
