@@ -172,6 +172,7 @@ Act folder [`cod/1864/civil/`](../../../../cod/1864/civil/) · id `codul-civil-1
 | Art. 970 | [Decizia CCR nr. 1111/2010](../../../../jurisprudenta/ccr/2010/1111/) | exceptie | rejected | 2010-11-30 |
 | Art. 970 | [Decizia CCR nr. 700/2011](../../../../jurisprudenta/ccr/2011/700/) | exceptie | rejected | 2011-07-25 |
 | Art. 970 | [Decizia CCR nr. 886/2011](../../../../jurisprudenta/ccr/2011/886/) | exceptie | rejected | 2011-08-26 |
+| Art. 970 | [Decizia ÎCCJ nr. 13/2024 (HP)](../../../../jurisprudenta/iccj/hp/2024/13/) | HP | rejected | 2024-05-21 |
 | Art. 974 | [Decizia CCR nr. 1082/2008](../../../../jurisprudenta/ccr/2008/1082/) | exceptie | rejected | 2008-11-18 |
 | Art. 974 | [Decizia CCR nr. 1616/2009](../../../../jurisprudenta/ccr/2009/1616/) | exceptie | rejected | 2009-12-23 |
 | Art. 974 | [Decizia CCR nr. 1022/2010](../../../../jurisprudenta/ccr/2010/1022/) | exceptie | rejected | 2010-11-05 |
@@ -207,6 +208,7 @@ Act folder [`cod/1864/civil/`](../../../../cod/1864/civil/) · id `codul-civil-1
 | Art. 998 | [Decizia CCR nr. 466/2011](../../../../jurisprudenta/ccr/2011/466/) | exceptie | rejected | 2011-05-25 |
 | Art. 998 | [Decizia CCR nr. 1563/2011](../../../../jurisprudenta/ccr/2011/1563/) | exceptie | rejected | 2012-02-01 |
 | Art. 998 | [Decizia CCR nr. 430/2014](../../../../jurisprudenta/ccr/2014/430/) | exceptie | rejected | 2014-08-01 |
+| Art. 998 | [Decizia ÎCCJ nr. 1/2004](../../../../jurisprudenta/iccj/alte/2004/1/) | RIL | admitted | 2004-05-06 |
 | Art. 999 | [Decizia CCR nr. 44/2002](../../../../jurisprudenta/ccr/2002/44/) | exceptie | rejected | 2002-04-18 |
 | Art. 999 | [Decizia CCR nr. 894/2009](../../../../jurisprudenta/ccr/2009/894/) | exceptie | rejected | 2009-07-22 |
 | Art. 999 | [Decizia CCR nr. 1563/2011](../../../../jurisprudenta/ccr/2011/1563/) | exceptie | rejected | 2012-02-01 |

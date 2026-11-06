@@ -1822,6 +1822,7 @@ Act folder [`cod/1865/procedura-civila/`](../../../../cod/1865/procedura-civila/
 | Art. 312 | [Decizia CCR nr. 423/2011](../../../../jurisprudenta/ccr/2011/423/) | exceptie | rejected | 2011-05-20 |
 | Art. 312 | [Decizia CCR nr. 72/2012](../../../../jurisprudenta/ccr/2012/72/) | exceptie | rejected | 2012-04-06 |
 | Art. 312 | [Decizia ÎCCJ nr. XXI/2006 (Secțiile Unite)](../../../../jurisprudenta/iccj/su/2006/21/) | RIL | admitted | 2007-03-16 |
+| Art. 312 | [Decizia ÎCCJ nr. 5/2011 (RIL)](../../../../jurisprudenta/iccj/ril/2011/5/) | RIL | admitted | 2011-05-19 |
 | Art. 313 | [Decizia CCR nr. 261/2006](../../../../jurisprudenta/ccr/2006/261/) | exceptie | rejected | 2006-04-27 |
 | Art. 313 | [Decizia CCR nr. 407/2009](../../../../jurisprudenta/ccr/2009/407/) | exceptie | rejected | 2009-06-02 |
 | Art. 313 | [Decizia CCR nr. 703/2009](../../../../jurisprudenta/ccr/2009/703/) | exceptie | rejected | 2009-06-12 |
@@ -4029,6 +4030,7 @@ Act folder [`cod/1865/procedura-civila/`](../../../../cod/1865/procedura-civila/
 | Art. 374^1 | [Decizia CCR nr. 380/2011](../../../../jurisprudenta/ccr/2011/380/) | exceptie | rejected | 2011-08-12 |
 | Art. 374^1 | [Decizia CCR nr. 1041/2011](../../../../jurisprudenta/ccr/2011/1041/) | exceptie | rejected | 2011-09-27 |
 | Art. 374^1 | [Decizia ÎCCJ nr. 4/2009 (Secțiile Unite)](../../../../jurisprudenta/iccj/su/2009/4/) | RIL | admitted | 2009-06-04 |
+| Art. 374^1 | [Decizia ÎCCJ nr. 31/2009 (Secțiile Unite)](../../../../jurisprudenta/iccj/su/2009/31/) | RIL | admitted | 2010-02-18 |
 | Art. 376 | [Decizia CCR nr. 181/2000](../../../../jurisprudenta/ccr/2000/181/) | exceptie | rejected | 2000-12-11 |
 | Art. 376 | [Decizia CCR nr. 134/2002](../../../../jurisprudenta/ccr/2002/134/) | exceptie | rejected | 2002-07-01 |
 | Art. 376 | [Decizia CCR nr. 303/2002](../../../../jurisprudenta/ccr/2002/303/) | exceptie | rejected | 2002-12-11 |
