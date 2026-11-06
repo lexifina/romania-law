@@ -12794,12 +12794,12 @@
   {
    "shard": "ordin/2025",
    "kind": "ordin",
-   "count": 1086,
+   "count": 1087,
    "acts": "data/acts/ordin/2025.json",
    "list": "data/acts/ordin/2025.md",
    "versions": "data/versions/ordin/2025.json",
    "laws": "data/laws/ordin/2025.csv",
-   "laws_count": 1086,
+   "laws_count": 1087,
    "sources": "data/sources/ordin/2025.csv"
   },
   {

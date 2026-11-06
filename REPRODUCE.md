@@ -18436,21 +18436,21 @@ Every word of law in this repository comes from these sources and, for the acts 
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 191625 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 205526 | |
+| 191626 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 205527 | |
 
-The build made 211870 commits:
+The build made 211871 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 191700 | first version of an act |
+| 191701 | first version of an act |
 | 13945 | one law on its in-force day |
 | 3682 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `viitor`: laws not yet in force on 2026-11-06.
 - 229 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 192753 laws in the record.
-- 425927 tags.
+- 192754 laws in the record.
+- 425929 tags.
 
 ## Dates
 
@@ -18462,7 +18462,7 @@ When a law gives no date of its own, the default rule applies: Constitu»õia Rom√
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `3463737b924ca6ba756da415bdc0abbcfb0db7c6bba9c98f508d8e150df08c15` (2945866739 bytes).
+- Corpus: sha256 `6e527feb186e818066b70156a2b1feac2943de99c6e62ea9f2bc5ce8b32926aa` (2945881025 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `b60ec7f5fea45f139772b124aa5be0472503fd79`, `check.py` `34526b6ce31ecf076b78e7067a22aec49194ac74`, `on.py` `267f054872f375839ad33c914e6c0d5faf27656b`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -18474,7 +18474,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (718111 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (718117 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -209371,6 +209371,7 @@ Model use at data-build time:
 - Ordin anre nr. 63/2009: split by Lexifina's norms lane (ro-explore/sources/norms) with the corpus's article splitter, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 63/2015: split by Lexifina's norms lane (ro-explore/sources/norms) with the corpus's article splitter, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 63/2016: split by Lexifina's norms lane (ro-explore/sources/norms) with the corpus's article splitter, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anre nr. 63/2025: split by Lexifina's norms lane (ro-explore/sources/norms) with the corpus's article splitter, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 64/2015: split by Lexifina's norms lane (ro-explore/sources/norms) with the corpus's article splitter, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 64/2016: split by Lexifina's norms lane (ro-explore/sources/norms) with the corpus's article splitter, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 64/2024: split by Lexifina's norms lane (ro-explore/sources/norms) with the corpus's article splitter, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
