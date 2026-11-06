@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/timis/beba-veche/2024",
+"acts": [
+{
+"slug": "hcl-timis--beba-veche-7-2024",
+"path": "local/timis/beba-veche/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beba Veche nr. 7/2024",
+"short": "HCL Beba Veche nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-25",
+"latest": "2024-05-25",
+"portal": "https://primariabebaveche.ro/wp-content/uploads/2024/05/Hotararea-7-din-25.05.2024-inlocuire-membru-1.pdf",
+"council": "timis/beba-veche",
+"council_name": "Consiliul Local al Comunei Beba Veche",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--beba-veche-8-2024",
+"path": "local/timis/beba-veche/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beba Veche nr. 8/2024",
+"short": "HCL Beba Veche nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-28",
+"latest": "2024-05-28",
+"portal": "https://primariabebaveche.ro/wp-content/uploads/2024/05/Hotarare-nr.8-inlocuire-presedinte-birou.pdf",
+"council": "timis/beba-veche",
+"council_name": "Consiliul Local al Comunei Beba Veche",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

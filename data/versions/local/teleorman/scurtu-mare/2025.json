@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--scurtu-mare-32-2025",
+   "path": "local/teleorman/scurtu-mare/2025/32",
+   "short": "HCL Scurtu Mare nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 32/2025 privind desemnarea unui reprezentant al Consiliului Local al comunei Scurtu Mare, în Consiliul de administrație al Școlii Gimnaziale Scurtu Mare, în anul școlar 2025-2026",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/264101",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/264101",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--scurtu-mare-33-2025",
    "path": "local/teleorman/scurtu-mare/2025/33",
    "short": "HCL Scurtu Mare nr. 33/2025",
@@ -198,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--scurtu-mare-39-2025",
+   "path": "local/teleorman/scurtu-mare/2025/39",
+   "short": "HCL Scurtu Mare nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 39/2025 privind alegerea președintelui de ședință al Consiliului Local Scurtu Mare, pentru o perioadă de trei luni, (noiembrie- 2025 - ianuarie 2026)",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/264111",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/264111",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--scurtu-mare-40-2025",
    "path": "local/teleorman/scurtu-mare/2025/40",
    "short": "HCL Scurtu Mare nr. 40/2025",
@@ -208,6 +238,51 @@
      "from": "2026-04-21",
      "units": 1,
      "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/264113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-41-2025",
+   "path": "local/teleorman/scurtu-mare/2025/41",
+   "short": "HCL Scurtu Mare nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 41/2025 privind aprobarea rectificării bugetului de venituri și cheltuieli al comunei Scurtu Mare, pe anul 2025",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/264114",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/264114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-42-2025",
+   "path": "local/teleorman/scurtu-mare/2025/42",
+   "short": "HCL Scurtu Mare nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 42/2025 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat din Comuna Scurtu Mare, pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/264115",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/264115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-43-2025",
+   "path": "local/teleorman/scurtu-mare/2025/43",
+   "short": "HCL Scurtu Mare nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 43/2025 privind aprobarea rectificării bugetului de venituri și cheltuieli al comunei Scurtu Mare, pe anul 2025",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/264116",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/264116",
      "sha256": null
     }
    ]

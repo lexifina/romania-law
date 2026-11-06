@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--islaz-64-2023",
+   "path": "local/teleorman/islaz/2023/64",
+   "short": "HCL Islaz nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 64/2023 privind analiza stadiului de înscriere a datelor in Registrul agricol pentru trimestrul III al anului 2023 și stabilirea măsurilor pentru eficientizarea acestei activități la nivelul UAT comuna Islaz",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/127917",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/127917",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--islaz-65-2023",
    "path": "local/teleorman/islaz/2023/65",
    "short": "HCL Islaz nr. 65/2023",
@@ -28,6 +43,21 @@
      "from": "2024-03-26",
      "units": 1,
      "source_url": "https://emol.ro/islaz-tr/registru-hcl/127918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-66-2023",
+   "path": "local/teleorman/islaz/2023/66",
+   "short": "HCL Islaz nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 66/2023 privind alegerea preşedintelui de şedinţă pentru următoarele trei luni",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/127919",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/127919",
      "sha256": null
     }
    ]
@@ -63,6 +93,51 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--islaz-69-2023",
+   "path": "local/teleorman/islaz/2023/69",
+   "short": "HCL Islaz nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 69/2023 privind aprobarea tipului de suport alimentar pentru preșcolarii și elevii din cadrul Scolii Gimnaziale nr.1, Comuna Islaz, județul Teleorman",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/127935",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/127935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-70-2023",
+   "path": "local/teleorman/islaz/2023/70",
+   "short": "HCL Islaz nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 70/2023 privind rectificarea bugetului local de venituri şi cheltuieli al comunei Islaz pe anul 2023",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/132621",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/132621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-71-2023",
+   "path": "local/teleorman/islaz/2023/71",
+   "short": "HCL Islaz nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 71/2023 privind aprobarea organigramei si a statului de functii aferente aparatului de specialitate al primarului comunei Islaz, precum și ale serviciilor și instituțiilor aflate în subordinea Consiliului local al comunei Islaz",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/132622",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/132622",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--islaz-72-2023",
    "path": "local/teleorman/islaz/2023/72",
    "short": "HCL Islaz nr. 72/2023",
@@ -88,6 +163,141 @@
      "from": "2024-03-26",
      "units": 1,
      "source_url": "https://emol.ro/islaz-tr/registru-hcl/132624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-74-2023",
+   "path": "local/teleorman/islaz/2023/74",
+   "short": "HCL Islaz nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 74/2023 privind implementarea și aprobarea indicatorilor tehnico economici ai proiectului de investiții: ,,Amenajare loc de joacă în comuna Islaz, județul Teleorman”",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/132635",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/132635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-75-2023",
+   "path": "local/teleorman/islaz/2023/75",
+   "short": "HCL Islaz nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 75/2023 privind rectificarea bugetului local de venituri şi cheltuieli al comunei Islaz pe anul 2023",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/147526",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/147526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-76-2023",
+   "path": "local/teleorman/islaz/2023/76",
+   "short": "HCL Islaz nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 76/2023 privind aprobarea participării UAT comuna Islaz la “Programul-cheie 1: Surse regenerabile de energie și stocarea energiei - Sprijinirea investiţiilor în noi capacităţi de producere a energiei electrice produsă din surse regenerabile pentru autoconsum pentru entități publice” și aprobarea indicatorilor tehnico-economici ai proiectului “Noi capacitati de producere a energiei electrice din surse regenerabile pentru autoconsum la nivelul UAT Islaz”, din comuna Islaz, județul Teleorman",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/147527",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/147527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-77-2023",
+   "path": "local/teleorman/islaz/2023/77",
+   "short": "HCL Islaz nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 77/2023 privind rectificarea bugetului local de venituri şi cheltuieli al comunei Islaz pe anul 2023",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/149219",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/149219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-78-2023",
+   "path": "local/teleorman/islaz/2023/78",
+   "short": "HCL Islaz nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 78/2023 privind completarea HCL Islaz nr. 46/07.08.2023 privind stabilirea impozitelor şi taxelor locale pentru anul 2024 la nivelul comunei Islaz, judeţul Teleorman",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/149220",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/149220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-79-2023",
+   "path": "local/teleorman/islaz/2023/79",
+   "short": "HCL Islaz nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 79/2023",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/149221",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/149221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-80-2023",
+   "path": "local/teleorman/islaz/2023/80",
+   "short": "HCL Islaz nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 80/2023",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/149222",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/149222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-81-2023",
+   "path": "local/teleorman/islaz/2023/81",
+   "short": "HCL Islaz nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 81/2023 privind modificarea HCL nr. 44/10.07.2023 pentru aprobarea documentaţiei tehnico-economice pentru obiectivul de investiţii: “Amenajare trotuare pietonale aferente DJ 642 (partea de Est) - sat Islaz, comuna Islaz, judeţul Teleorman”",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/149223",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/149223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-82-2023",
+   "path": "local/teleorman/islaz/2023/82",
+   "short": "HCL Islaz nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 82/2023",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/149224",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/149224",
      "sha256": null
     }
    ]

@@ -3,6 +3,66 @@
  "shard": "local/suceava/zamostea/2023",
  "acts": [
   {
+   "slug": "hcl-suceava--zamostea-11-2023",
+   "path": "local/suceava/zamostea/2023/11",
+   "short": "HCL Zamostea nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 11/2023 privind predarea către Ministerul Dezvoltării Lucrărilor Publice și Administrației prin Compania Națională de Investiții \"C.N.I \" S.A, a amplasamentului și asigurarea condițiilor în vederea executării obiectivului de investiții \"Lucrări în primă urgență de reabilitare drumuri comunale din satele Nicani și Zamostea, comuna Zamostea, județul Suceava\"",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/105319",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/105319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--zamostea-12-2023",
+   "path": "local/suceava/zamostea/2023/12",
+   "short": "HCL Zamostea nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 12/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/105326",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/105326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--zamostea-13-2023",
+   "path": "local/suceava/zamostea/2023/13",
+   "short": "HCL Zamostea nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 13/2023 privind decontarea cheltuielilor de transport personalului didactic navetist",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/105327",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/105327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--zamostea-14-2023",
+   "path": "local/suceava/zamostea/2023/14",
+   "short": "HCL Zamostea nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 14/2023 privind aprobarea actualizării Planului de analiză și acoperire a riscurilor pentru anul 2023 al comunei Zamostea",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/105328",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/105328",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--zamostea-15-2023",
    "path": "local/suceava/zamostea/2023/15",
    "short": "HCL Zamostea nr. 15/2023",
@@ -48,6 +108,51 @@
    ]
   },
   {
+   "slug": "hcl-suceava--zamostea-18-2023",
+   "path": "local/suceava/zamostea/2023/18",
+   "short": "HCL Zamostea nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 18/2023 privind stabilirea salariilor pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Zamostea, județul Suceava pentru anul 2023",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/105332",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/105332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--zamostea-19-2023",
+   "path": "local/suceava/zamostea/2023/19",
+   "short": "HCL Zamostea nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 19/2023",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/105333",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/105333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--zamostea-20-2023",
+   "path": "local/suceava/zamostea/2023/20",
+   "short": "HCL Zamostea nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 20/2023 privind aprobarea participării Comunei Zamostea la Parteneriatul LEADER 2023-2027 cu denumirea ASOCIAȚIA „GRUPUL DE ACȚIUNE LOCALĂ CODRII BUCOVINEI”",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/121954",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/121954",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--zamostea-21-2023",
    "path": "local/suceava/zamostea/2023/21",
    "short": "HCL Zamostea nr. 21/2023",
@@ -73,6 +178,21 @@
      "from": "2023-09-26",
      "units": 1,
      "source_url": "https://emol.ro/zamostea-sv/registru-hcl/121956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--zamostea-23-2023",
+   "path": "local/suceava/zamostea/2023/23",
+   "short": "HCL Zamostea nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 23/2023 privind aprobarea indicatorulor tehnico-economici pentru obiectivul de investiție „MODERNIZARE PARC PUBLIC ÎN SAT ZAMOSTEA, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/121957",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/121957",
      "sha256": null
     }
    ]
@@ -148,6 +268,21 @@
      "from": "2023-09-28",
      "units": 1,
      "source_url": "https://emol.ro/zamostea-sv/registru-hcl/122239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--zamostea-29-2023",
+   "path": "local/suceava/zamostea/2023/29",
+   "short": "HCL Zamostea nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 29/2023 privind stabilirea unor măsuri pentru delegarea gestiunii activității de colectare și transport a deșeurilor municipale, inclusiv operarea stațiilor de transfer și a centrelor de colectare cu aport voluntar în Județul Suceava",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/122240",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/122240",
      "sha256": null
     }
    ]

@@ -3,6 +3,21 @@
  "shard": "local/suceava/stroiesti/2021",
  "acts": [
   {
+   "slug": "hcl-suceava--stroiesti-10-2021",
+   "path": "local/suceava/stroiesti/2021/10",
+   "short": "HCL Stroiești nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 10/2021 privind decontarea cheltuielilor de transport pentru cadrele didactice din unitatea de învățământ Școala Gimnazială din comuna Stroiești, județul Suceava, aferente lunilor ianuarie, februarie - 2021",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26818",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26818",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--stroiesti-11-2021",
    "path": "local/suceava/stroiesti/2021/11",
    "short": "HCL Stroiești nr. 11/2021",
@@ -43,6 +58,21 @@
      "from": "2021-02-26",
      "units": 1,
      "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-14-2021",
+   "path": "local/suceava/stroiesti/2021/14",
+   "short": "HCL Stroiești nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 14/2021",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26828",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26828",
      "sha256": null
     }
    ]

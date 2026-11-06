@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/malini/2022",
+ "acts": [
+  {
+   "slug": "hcl-suceava--malini-10-2022",
+   "path": "local/suceava/malini/2022/10",
+   "short": "HCL Mălini nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mălini nr. 10/2022 privind aprobarea modificării prin act adițional a valorii contractului de prestări servicii silvice nr. 1681 din 12.08.2008",
+   "url": "https://www.comunamalini.ro/wp-content/uploads/2022/05/hcl-10-februarie-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://www.comunamalini.ro/wp-content/uploads/2022/05/hcl-10-februarie-2022.pdf",
+     "sha256": "43d4b74acda9c786ca105268eeecab69b9e607a7afb855cafe7fbf18149d4ca1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--malini-12-2022",
+   "path": "local/suceava/malini/2022/12",
+   "short": "HCL Mălini nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mălini nr. 12/2022 privind aprobarea Planului de acțiuni și lucrări de interes local pentru anul 2022, ce vor fi desfășurate de beneficiarii de ajutor social conform Legii nr. 416/2001",
+   "url": "https://www.comunamalini.ro/wp-content/uploads/2022/05/hcl-12-martie-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://www.comunamalini.ro/wp-content/uploads/2022/05/hcl-12-martie-2022.pdf",
+     "sha256": "0fae4b161c5db14a9c12a9137a360b1dd45ad6a40d15a8b3ceee72505587c546"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--malini-5-2022",
+   "path": "local/suceava/malini/2022/5",
+   "short": "HCL Mălini nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mălini nr. 5/2022 privind aprobarea rezilierii contractului de închiriere nr. 2158 din 19.02.2018",
+   "url": "https://www.comunamalini.ro/wp-content/uploads/2022/05/hcl-5-februarie-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-02-07",
+     "units": 1,
+     "source_url": "https://www.comunamalini.ro/wp-content/uploads/2022/05/hcl-5-februarie-2022.pdf",
+     "sha256": "987c3e351bd40e417178b7c3a3688460d7a7776b8a3d2a30d46e1dc53fb66a77"
+    }
+   ]
+  }
+ ]
+}

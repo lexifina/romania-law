@@ -3,6 +3,51 @@
 "shard": "local/teleorman/trivalea-mosteni/2025",
 "acts": [
 {
+"slug": "hcl-teleorman--trivalea-mosteni-8-2025",
+"path": "local/teleorman/trivalea-mosteni/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 8/2025",
+"short": "HCL Trivalea-Moșteni nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/206585",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--trivalea-mosteni-9-2025",
+"path": "local/teleorman/trivalea-mosteni/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 9/2025 privind aprobarea Raportului privind activitatea desfasurata de asistentii personali pe anul 2024",
+"short": "HCL Trivalea-Moșteni nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/206586",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--trivalea-mosteni-10-2025",
 "path": "local/teleorman/trivalea-mosteni/2025/10",
 "kind": "local",
@@ -22,6 +67,50 @@
 "council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--trivalea-mosteni-11-2025",
+"path": "local/teleorman/trivalea-mosteni/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 11/2025 privind aprobarea casării mijloace fixe din patrimoniul comunei Trivalea-Mosteni, Județul Teleorman",
+"short": "HCL Trivalea-Moșteni nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/206596",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--trivalea-mosteni-12-2025",
+"path": "local/teleorman/trivalea-mosteni/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 12/2025 privind aprobarea valorificării fierului vechi aparținând domeniului privat al Comunei Trivalea-Moșteni",
+"short": "HCL Trivalea-Moșteni nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/206600",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +180,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--trivalea-mosteni-16-2025",
+"path": "local/teleorman/trivalea-mosteni/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 16/2025 privind alegerea unui președinte de ședință a Consiliului local al Comunei Trivalea-Moșteni pentru următoarele 3 luni",
+"short": "HCL Trivalea-Moșteni nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/206616",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--trivalea-mosteni-17-2025",
 "path": "local/teleorman/trivalea-mosteni/2025/17",
 "kind": "local",
@@ -111,6 +222,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--trivalea-mosteni-18-2025",
+"path": "local/teleorman/trivalea-mosteni/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 18/2025 privind aprobarea acordării unur ajutor de urgenta, necesar pentru acoperirea unor cheltuieli pentru reparația casei, pagube suferite în urma incendiului din data de 13 martie 2025",
+"short": "HCL Trivalea-Moșteni nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-15",
+"latest": "2025-04-15",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/206618",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -265,6 +398,51 @@
 "council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--trivalea-mosteni-27-2025",
+"path": "local/teleorman/trivalea-mosteni/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 27/2025 privind vanzarea prin licitatie publica a unui bunul mobil, BULDOEXCAVATOR CATERPILLAR 428C, apartinand comunei TRIVALEA MOSTENI, JUDEȚUL TELEORMAN",
+"short": "HCL Trivalea-Moșteni nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/236112",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--trivalea-mosteni-28-2025",
+"path": "local/teleorman/trivalea-mosteni/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 28/2025",
+"short": "HCL Trivalea-Moșteni nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/236113",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

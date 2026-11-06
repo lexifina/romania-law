@@ -3,6 +3,36 @@
  "shard": "local/teleorman/nanov/2023",
  "acts": [
   {
+   "slug": "hcl-teleorman--nanov-2-2023",
+   "path": "local/teleorman/nanov/2023/2",
+   "short": "HCL Nanov nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 2/2023 privind TEST",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/116893",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/116893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-3-2023",
+   "path": "local/teleorman/nanov/2023/3",
+   "short": "HCL Nanov nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 3/2023 privind ...test 24",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/116929",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/116929",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--nanov-4-2023",
    "path": "local/teleorman/nanov/2023/4",
    "short": "HCL Nanov nr. 4/2023",
@@ -13,6 +43,21 @@
      "from": "2024-01-26",
      "units": 1,
      "source_url": "https://emol.ro/nanov-tr/registru-hcl/127071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-5-2023",
+   "path": "local/teleorman/nanov/2023/5",
+   "short": "HCL Nanov nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 5/2023 privind TEST",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/127072",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/127072",
      "sha256": null
     }
    ]

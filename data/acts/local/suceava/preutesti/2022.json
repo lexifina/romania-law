@@ -3,6 +3,51 @@
 "shard": "local/suceava/preutesti/2022",
 "acts": [
 {
+"slug": "hcl-suceava--preutesti-76-2022",
+"path": "local/suceava/preutesti/2022/76",
+"kind": "local",
+"year": "2022",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 76/2022 privind aprobarea rectificării bugetului de venituri şi cheltuieli al Comunei Preuteşti pe anul 2022",
+"short": "HCL Preutești nr. 76/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-09",
+"latest": "2022-11-09",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/212705",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-77-2022",
+"path": "local/suceava/preutesti/2022/77",
+"kind": "local",
+"year": "2022",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 77/2022",
+"short": "HCL Preutești nr. 77/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-24",
+"latest": "2022-11-24",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/213333",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-suceava--preutesti-78-2022",
 "path": "local/suceava/preutesti/2022/78",
 "kind": "local",
@@ -22,6 +67,160 @@
 "council_name": "Consiliul Local al Comunei Preutești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-79-2022",
+"path": "local/suceava/preutesti/2022/79",
+"kind": "local",
+"year": "2022",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 79/2022 privind aprobarea Programul anual al achiziţiilor publice și a Strategiei anuale de achiziții publice pentru anul 2023",
+"short": "HCL Preutești nr. 79/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-24",
+"latest": "2022-11-24",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/213335",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-80-2022",
+"path": "local/suceava/preutesti/2022/80",
+"kind": "local",
+"year": "2022",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 80/2022 privind atribuirea unor terenuri în folosință gratuită pentru construcție locuință, conform Legii nr. 15 din 2003",
+"short": "HCL Preutești nr. 80/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-24",
+"latest": "2022-11-24",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/213336",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-81-2022",
+"path": "local/suceava/preutesti/2022/81",
+"kind": "local",
+"year": "2022",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 81/2022 privind aprobarea întocmirii raportului de evaluare în vederea vânzării prin licitație publică a unui teren",
+"short": "HCL Preutești nr. 81/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-24",
+"latest": "2022-11-24",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/213337",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-82-2022",
+"path": "local/suceava/preutesti/2022/82",
+"kind": "local",
+"year": "2022",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 82/2022 privind organizarea și desfășurarea unor manifestări cultural-artistice și comemorative în perioada 1 decembrie -31 decembrie 2022",
+"short": "HCL Preutești nr. 82/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-24",
+"latest": "2022-11-24",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/213338",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-83-2022",
+"path": "local/suceava/preutesti/2022/83",
+"kind": "local",
+"year": "2022",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 83/2022 privind aprobarea decontării navetei personalului didactic şi didactic auxiliar pentru luna octombrie 2022",
+"short": "HCL Preutești nr. 83/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-24",
+"latest": "2022-11-24",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/213339",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-84-2022",
+"path": "local/suceava/preutesti/2022/84",
+"kind": "local",
+"year": "2022",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 84/2022 privind aprobarea studiului de fundamentare a deciziei de concesionare, a demarării procedurii de concesionare și punerii la dispoziția concesionarului a terenurilor necesare pentru realizarea obiectivelor aferente „sistemului distributie a gazelor naturale în comuna Preutești, parte din proiectul: «CONSTRUIREA REȚELEI INTELIGENTE DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNELE VADU MOLDOVEI ȘI PREUTEȘTI, JUDEȚUL SUCEAVA»” pe durata concesiunii, precum și a terenurilor necesare organizării de șantier pe durata realizării investiției",
+"short": "HCL Preutești nr. 84/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-24",
+"latest": "2022-11-24",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/213340",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-85-2022",
+"path": "local/suceava/preutesti/2022/85",
+"kind": "local",
+"year": "2022",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 85/2022 privind aprobarea rectificării bugetului de venituri şi cheltuieli al Comunei Preuteşti pe anul 2022",
+"short": "HCL Preutești nr. 85/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-09",
+"latest": "2022-12-09",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/213377",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -88,6 +287,160 @@
 "council_name": "Consiliul Local al Comunei Preutești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-89-2022",
+"path": "local/suceava/preutesti/2022/89",
+"kind": "local",
+"year": "2022",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 89/2022 privind atribuirea unui teren în folosință gratuită pentru construcție locuință, conform Legii nr. 15 din 2003",
+"short": "HCL Preutești nr. 89/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/213527",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-90-2022",
+"path": "local/suceava/preutesti/2022/90",
+"kind": "local",
+"year": "2022",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 90/2022 privind aprobarea numărului de burse și cuantumul burselor pentru elevii din învățământul preuniversitar de stat din comuna Preutești, județul Suceava, anul școlar 2022 - 2023",
+"short": "HCL Preutești nr. 90/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/213528",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-91-2022",
+"path": "local/suceava/preutesti/2022/91",
+"kind": "local",
+"year": "2022",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 91/2022 privind aprobarea vânzării prin licitație publică a terenului în suprafață de 1.000 mp înscris în CF 33265 -Comuna Preutești având nr. cadastral 33265 din domeniul privat al comunei Preutești",
+"short": "HCL Preutești nr. 91/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/213529",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-92-2022",
+"path": "local/suceava/preutesti/2022/92",
+"kind": "local",
+"year": "2022",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 92/2022 privind modificarea organigramei si statului de funcţii al aparatului de specialitate al primarului comunei Preuteşti",
+"short": "HCL Preutești nr. 92/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/213530",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-93-2022",
+"path": "local/suceava/preutesti/2022/93",
+"kind": "local",
+"year": "2022",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 93/2022 privind aprobarea rectificării bugetului de venituri şi cheltuieli al Comunei Preuteşti pe anul 2022",
+"short": "HCL Preutești nr. 93/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/213531",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-94-2022",
+"path": "local/suceava/preutesti/2022/94",
+"kind": "local",
+"year": "2022",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 94/2022 privind alegerea președintelui de ședință al Consiliul Local al Comunei Preuteşti pe o perioadă de 3 luni",
+"short": "HCL Preutești nr. 94/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/213532",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-95-2022",
+"path": "local/suceava/preutesti/2022/95",
+"kind": "local",
+"year": "2022",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 95/2022 privind aprobarea organizării reţelei şcolare de învăţământ preuniversitar de stat de pe raza comunei Preuteşti, judeţul Suceava în anul şcolar 2023-2024",
+"short": "HCL Preutești nr. 95/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/213533",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

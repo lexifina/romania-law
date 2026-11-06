@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--gratia-29-2020",
+   "path": "local/teleorman/gratia/2020/29",
+   "short": "HCL Gratia nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 29/2020 privind alegerea președintelui de ședinta pentru următoarele trei luni începând cu luna August 2020",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/13531",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/13531",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--gratia-30-2020",
    "path": "local/teleorman/gratia/2020/30",
    "short": "HCL Gratia nr. 30/2020",
@@ -43,6 +58,21 @@
      "from": "2020-08-31",
      "units": 1,
      "source_url": "https://emol.ro/gratia-tr/registru-hcl/13533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-32-2020",
+   "path": "local/teleorman/gratia/2020/32",
+   "short": "HCL Gratia nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 32/2020 privind rezilierea contractului de închiriere nr. 3181 din 12.08.2020, încheiat între autoritatea locală și dna Ioniță Cristina-Valentina",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/13534",
+   "versions": [
+    {
+     "from": "2020-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/13534",
      "sha256": null
     }
    ]
@@ -78,6 +108,51 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--gratia-35-2020",
+   "path": "local/teleorman/gratia/2020/35",
+   "short": "HCL Gratia nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 35/2020 privind alegerea președintelui de ședinta pentru următoarele trei luni începând cu luna Octombrie 2020",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/13537",
+   "versions": [
+    {
+     "from": "2020-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/13537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-36-2020",
+   "path": "local/teleorman/gratia/2020/36",
+   "short": "HCL Gratia nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 36/2020 privind alegerea viceprimarului comunei GRATIA, Judeţul Teleorman",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/13538",
+   "versions": [
+    {
+     "from": "2020-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/13538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-37-2020",
+   "path": "local/teleorman/gratia/2020/37",
+   "short": "HCL Gratia nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 37/2020 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Gratia",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/13539",
+   "versions": [
+    {
+     "from": "2020-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/13539",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--gratia-38-2020",
    "path": "local/teleorman/gratia/2020/38",
    "short": "HCL Gratia nr. 38/2020",
@@ -88,6 +163,21 @@
      "from": "2020-11-03",
      "units": 1,
      "source_url": "https://emol.ro/gratia-tr/registru-hcl/13540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-39-2020",
+   "path": "local/teleorman/gratia/2020/39",
+   "short": "HCL Gratia nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 39/2020 privind organizarea comisiilor de specialitate ale Consiliului Local al comunei Gratia prin completarea acestora cu membrii consilieri supleanți",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/13544",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/13544",
      "sha256": null
     }
    ]
@@ -178,6 +268,36 @@
      "from": "2020-12-29",
      "units": 1,
      "source_url": "https://emol.ro/gratia-tr/registru-hcl/14365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-46-2020",
+   "path": "local/teleorman/gratia/2020/46",
+   "short": "HCL Gratia nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 46/2020 privind stabilirea cuantumului indemnizației lunare ce se acordă consilierilor locali pentru participarea acestora la ședintele Consiliului Local al comunei Gratia și ale comisiilor de specialitate organizate de acesta",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/14366",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/14366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-47-2020",
+   "path": "local/teleorman/gratia/2020/47",
+   "short": "HCL Gratia nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 47/2020 privind alegerea președintelui de ședinta pentru următoareletrei luni incepind cu luna Ianuarie 2021",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/14367",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/14367",
      "sha256": null
     }
    ]

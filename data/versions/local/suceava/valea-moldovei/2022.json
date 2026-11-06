@@ -3,6 +3,36 @@
  "shard": "local/suceava/valea-moldovei/2022",
  "acts": [
   {
+   "slug": "hcl-suceava--valea-moldovei-61-2022",
+   "path": "local/suceava/valea-moldovei/2022/61",
+   "short": "HCL Valea Moldovei nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 61/2022 privind stabilirea indemnizației lunare pentru membrii Consiliului Local al comunei Valea Moldovei",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/79404",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/79404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-62-2022",
+   "path": "local/suceava/valea-moldovei/2022/62",
+   "short": "HCL Valea Moldovei nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 62/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/79712",
+   "versions": [
+    {
+     "from": "2023-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/79712",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--valea-moldovei-63-2022",
    "path": "local/suceava/valea-moldovei/2022/63",
    "short": "HCL Valea Moldovei nr. 63/2022",
@@ -43,6 +73,21 @@
      "from": "2023-01-16",
      "units": 1,
      "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/85875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-66-2022",
+   "path": "local/suceava/valea-moldovei/2022/66",
+   "short": "HCL Valea Moldovei nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 66/2022 privind acordarea unui sprijin financiar unității de cult Parohia Ortodoxă Valea Moldovei",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/85876",
+   "versions": [
+    {
+     "from": "2023-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/85876",
      "sha256": null
     }
    ]

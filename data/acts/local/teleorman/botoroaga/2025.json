@@ -157,6 +157,50 @@
 }
 },
 {
+"slug": "hcl-teleorman--botoroaga-63-2025",
+"path": "local/teleorman/botoroaga/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 63/2025 privind aprobarea vânzării, prin licitație publică, a unui bun imobil, casa cu teren intravilan, situat în comuna Botoroaga, sat Călugăru, Județul Telorman, înscris în Cartea Funciară cu nr.29386",
+"short": "HCL Botoroaga nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-19",
+"latest": "2025-11-19",
+"portal": "https://emol.ro/botoroaga-tr/registru-hcl/247739",
+"council": "teleorman/botoroaga",
+"council_name": "Consiliul Local al Comunei Botoroaga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--botoroaga-64-2025",
+"path": "local/teleorman/botoroaga/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 64/2025 privind decontarea cheltuielilor aferente navetei cadrelor didactice, care își desfășoară activitatea în unitățile de învățământ, de pe raza comunei Botoroaga",
+"short": "HCL Botoroaga nr. 64/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-19",
+"latest": "2025-11-19",
+"portal": "https://emol.ro/botoroaga-tr/registru-hcl/247742",
+"council": "teleorman/botoroaga",
+"council_name": "Consiliul Local al Comunei Botoroaga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--botoroaga-65-2025",
 "path": "local/teleorman/botoroaga/2025/65",
 "kind": "local",
@@ -267,6 +311,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--botoroaga-70-2025",
+"path": "local/teleorman/botoroaga/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 70/2025 privind aprobarea scoaterii din funcțiune și valorificarea prin vânzare a unui autoturism aparținând domeniului privat al comunei Botoroaga",
+"short": "HCL Botoroaga nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-19",
+"latest": "2025-11-19",
+"portal": "https://emol.ro/botoroaga-tr/registru-hcl/247748",
+"council": "teleorman/botoroaga",
+"council_name": "Consiliul Local al Comunei Botoroaga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--botoroaga-71-2025",
 "path": "local/teleorman/botoroaga/2025/71",
 "kind": "local",
@@ -331,6 +397,51 @@
 "council_name": "Consiliul Local al Comunei Botoroaga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--botoroaga-74-2025",
+"path": "local/teleorman/botoroaga/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 74/2025 privind decontarea cheltuielilor aferente navetei cadrelor didactice, care își desfășoară activitatea în unitățile de învățământ, de pe raza comunei Botoroaga",
+"short": "HCL Botoroaga nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://emol.ro/botoroaga-tr/registru-hcl/247759",
+"council": "teleorman/botoroaga",
+"council_name": "Consiliul Local al Comunei Botoroaga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--botoroaga-75-2025",
+"path": "local/teleorman/botoroaga/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 75/2025",
+"short": "HCL Botoroaga nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://emol.ro/botoroaga-tr/registru-hcl/247764",
+"council": "teleorman/botoroaga",
+"council_name": "Consiliul Local al Comunei Botoroaga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

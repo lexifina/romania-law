@@ -91,6 +91,51 @@
 }
 },
 {
+"slug": "hcl-teleorman--poroschia-73-2022",
+"path": "local/teleorman/poroschia/2022/73",
+"kind": "local",
+"year": "2022",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 73/2022 privind însuşirea şi aprobarea documentaţiei cadastrale de dezmembrare a unui teren intravilan în suprafață totala de 508 mp aflat în domeniul privat al comunei Poroschia, situat în comuna Poroschia, str. Tineretului , nr. 71, CV 26, P1, LOT 28, identificat cu numarul cadastral 20501, înscris în cartea funciara nr. 20501",
+"short": "HCL Poroschia nr. 73/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-17",
+"latest": "2023-05-17",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/80917",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-74-2022",
+"path": "local/teleorman/poroschia/2022/74",
+"kind": "local",
+"year": "2022",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 74/2022",
+"short": "HCL Poroschia nr. 74/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-17",
+"latest": "2023-05-17",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/80918",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-teleorman--poroschia-75-2022",
 "path": "local/teleorman/poroschia/2022/75",
 "kind": "local",
@@ -113,6 +158,50 @@
 }
 },
 {
+"slug": "hcl-teleorman--poroschia-76-2022",
+"path": "local/teleorman/poroschia/2022/76",
+"kind": "local",
+"year": "2022",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 76/2022 privind aprobarea vânzării terenului în suprafața de 509 mp înscris în cartea funciara nr. 20437, având nr. cadastral 20437, situat în cv 26, parcela 2, lot 6, proprietate privată a comunei Poroschia",
+"short": "HCL Poroschia nr. 76/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/86366",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-77-2022",
+"path": "local/teleorman/poroschia/2022/77",
+"kind": "local",
+"year": "2022",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 77/2022 privind stabilirea salariilor de bază fără sporuri, pentru funcțiile publice și personalul contractual din cadrul familiei ocupaționale ”Administrație” din aparatul de specialitate al primarului comunei Poroschia, județul Teleorman,",
+"short": "HCL Poroschia nr. 77/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/86367",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--poroschia-78-2022",
 "path": "local/teleorman/poroschia/2022/78",
 "kind": "local",
@@ -132,6 +221,118 @@
 "council_name": "Consiliul Local al Comunei Poroschia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-79-2022",
+"path": "local/teleorman/poroschia/2022/79",
+"kind": "local",
+"year": "2022",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 79/2022 privind avizarea Studiului de oportunitate, a Planului tarifar și analizei gradului de suportabilitate în cadrul SMID Teleorman, Strategiei de contractare, Studiului de Fundamentare și a Documentației de Atribuire pentru ”delegarea prin concesiune a gestiunii activității de colectare și transport separat a deșeurilor municipale în județul Teleorman”, precum si mandatarea viceprimarului comunei Poroschia ca reprezentant al comunei în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ,,Managementul Deșeurilor Teleorman” să voteze pentru aprobarea Studiului de oportunitate, Planului tarifar și analizei gradului de suportabilitate în cadrul SMID Teleorman Strategiei de contractare, Studiului de Fundamentare și a Documentației de Atribuire pentru ”delegarea prin concesiune a gestiunii activității de colectare și transport separat a deșeurilor municipale în județul Teleorman”",
+"short": "HCL Poroschia nr. 79/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/86369",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-80-2022",
+"path": "local/teleorman/poroschia/2022/80",
+"kind": "local",
+"year": "2022",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 80/2022",
+"short": "HCL Poroschia nr. 80/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/86370",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-81-2022",
+"path": "local/teleorman/poroschia/2022/81",
+"kind": "local",
+"year": "2022",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 81/2022",
+"short": "HCL Poroschia nr. 81/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/86371",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-82-2022",
+"path": "local/teleorman/poroschia/2022/82",
+"kind": "local",
+"year": "2022",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 82/2022 privind decontarea cheltuielilor pentru naveta la şi de la locul de muncă a cadrelor didactice şi a personalului didactic auxiliar din învăţământul preuniversitar de stat de pe raza comunei Poroschia, judeţul Teleorman, pe lunile Octombrie, Noiembrie si Decembrie 2022",
+"short": "HCL Poroschia nr. 82/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/86372",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-83-2022",
+"path": "local/teleorman/poroschia/2022/83",
+"kind": "local",
+"year": "2022",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 83/2022 privind aprobarea contractării unei finanțări rambursabile interne in valoare de 3.000.000 lei pentru asigurarea finantarii proiectelor de investitii de interes local",
+"short": "HCL Poroschia nr. 83/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/86373",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -220,6 +421,28 @@
 "council_name": "Consiliul Local al Comunei Poroschia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-88-2022",
+"path": "local/teleorman/poroschia/2022/88",
+"kind": "local",
+"year": "2022",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 88/2022 privind aprobarea vânzării terenului în suprafața de 502 mp înscris în cartea funciara nr. 21141, având nr. cadastral 21141, situat în cv 26, parcela 2, lot 30, proprietate privată a comunei Poroschia",
+"short": "HCL Poroschia nr. 88/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/86378",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

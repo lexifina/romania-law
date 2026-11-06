@@ -288,6 +288,51 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--mavrodin-36-2021",
+   "path": "local/teleorman/mavrodin/2021/36",
+   "short": "HCL Mavrodin nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 36/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-37-2021",
+   "path": "local/teleorman/mavrodin/2021/37",
+   "short": "HCL Mavrodin nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 37/2021 aprobarea Studiului de oportunitate si rapoartul de evaluare nr. 2383 din 11.10.2021 si vanzarea prin licitatie publica a terenului intravilan in suprafata de 808 mp Amplasat in T 87 P 628 proprietatea privata a comunei,Mavrodin ,judetul Teleorman,conform HCL nr.15 din 20.02.2020 si 17/26.05.2021",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#10049",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#10049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-38-2021",
+   "path": "local/teleorman/mavrodin/2021/38",
+   "short": "HCL Mavrodin nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 38/2021 aprobarea Studiului de oportunitate si rapoartul de evaluare nr. 2384 din 11.10.2021 si vanzarea prin licitatie publica a terenului intravilan in suprafata de 1192 mp Amplasat in T 87 P 628 proprietatea privata a comunei,Mavrodin ,judetul Teleorman,conform HCL nr.15 din 20.02.2020 si 17/26.05.2021",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#10050",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#10050",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--mavrodin-4-2021",
    "path": "local/teleorman/mavrodin/2021/4",
    "short": "HCL Mavrodin nr. 4/2021",
@@ -343,6 +388,21 @@
      "from": "2021-12-23",
      "units": 1,
      "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#12717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-9-2021",
+   "path": "local/teleorman/mavrodin/2021/9",
+   "short": "HCL Mavrodin nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 9/2021 aprobarea Raportul de evaluare, Studiul de oportunitate si închirierea unui teren în suprafață de 1.817 MP , T 86, Nr.Cadstral 24439 , SITUAT ÎN INTRAVILANUL COMUNEI MAVRODIN,JUDEȚUL TELEORMAN-DOMENIUL PUBLIC pentru desfasurarea de activități comerciale",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#12722",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#12722",
      "sha256": null
     }
    ]

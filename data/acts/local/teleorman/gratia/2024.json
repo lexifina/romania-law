@@ -3,6 +3,72 @@
 "shard": "local/teleorman/gratia/2024",
 "acts": [
 {
+"slug": "hcl-teleorman--gratia-36-2024",
+"path": "local/teleorman/gratia/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 36/2024 privind alegerea președintelui de ședință pentru luna octombrie 2024",
+"short": "HCL Gratia nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/185190",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-37-2024",
+"path": "local/teleorman/gratia/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 37/2024 Privind desemnarea reprezentantului Consiliului Local Gratia în cadrul Consiliul de Administrație al Școlii Gimnaziale Gratia, pentru anul școlar 2024/2025",
+"short": "HCL Gratia nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/185191",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-38-2024",
+"path": "local/teleorman/gratia/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 38/2024 privind aprobarea bugetului centralizat rectificat al comunei Gratia pentru anul 2024",
+"short": "HCL Gratia nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/185192",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--gratia-39-2024",
 "path": "local/teleorman/gratia/2024/39",
 "kind": "local",
@@ -25,6 +91,182 @@
 }
 },
 {
+"slug": "hcl-teleorman--gratia-40-2024",
+"path": "local/teleorman/gratia/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 40/2024 privind aprobarea bugetului centralizat rectificat al comunei Gratia pentru anul 2024",
+"short": "HCL Gratia nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/185196",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-41-2024",
+"path": "local/teleorman/gratia/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 41/2024 alegerea Președintelui de ședinta al Consiliului Local al comunei Gratia pentru următoarele trei luni incepind cu luna Octombrie 2024",
+"short": "HCL Gratia nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-21",
+"latest": "2024-10-21",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/185345",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-42-2024",
+"path": "local/teleorman/gratia/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 42/2024 Privind alegerea Viceprimarului comunei Gratia, Judeţul Teleorman",
+"short": "HCL Gratia nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-21",
+"latest": "2024-10-21",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/185346",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-43-2024",
+"path": "local/teleorman/gratia/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 43/2024 privind organizarea si stabilierea componentei nominale a comisiilor de specialitate ale Consiliului local al comunei Gratia",
+"short": "HCL Gratia nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-21",
+"latest": "2024-10-21",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/185347",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-44-2024",
+"path": "local/teleorman/gratia/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 44/2024 privind completarea componentei comisiilor de specialitate ale Consiliului Local al comunei Gratia",
+"short": "HCL Gratia nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-30",
+"latest": "2024-10-30",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/185348",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-45-2024",
+"path": "local/teleorman/gratia/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 45/2024 privind aprobarea bugetului local rectificat al comunei Gratia pentru anul 2024",
+"short": "HCL Gratia nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-30",
+"latest": "2024-10-30",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/185349",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-46-2024",
+"path": "local/teleorman/gratia/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 46/2024 privind aprobarea bugetului local rectificat al comunei Gratia pentru anul 2024",
+"short": "HCL Gratia nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/185350",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-47-2024",
+"path": "local/teleorman/gratia/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 47/2024 privind privind aprobarea desfășurării activității de \"Transport rutier de persoane în cont propriu - transport școlar\" și aprobarea Regulamentului privind modul de utilizare a autovehiculelor utilizate pentru transportul școlar",
+"short": "HCL Gratia nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/185351",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--gratia-48-2024",
 "path": "local/teleorman/gratia/2024/48",
 "kind": "local",
@@ -44,6 +286,161 @@
 "council_name": "Consiliul Local al Comunei Gratia",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-49-2024",
+"path": "local/teleorman/gratia/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 49/2024 privind aprobarea documentației tehnico – economiceși a indicatorilor tehnico – economici pentru proiectul „Modernizare sistem comunal integrat de colectare și valorificare a gunoiului de grajd în comuna Gratia, județul Teleorman”",
+"short": "HCL Gratia nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/185353",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-50-2024",
+"path": "local/teleorman/gratia/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 50/2024 privind organizarea rețelei școlare a unitățior de învățământ preuniversitar de stat din comuna Gratia, judetul Teleorman, pentru anul școlar 2025-2026",
+"short": "HCL Gratia nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/185354",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-51-2024",
+"path": "local/teleorman/gratia/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 51/2024 privind aprobarea bugetului local rectificat al comunei Gratia pentru anul 2024",
+"short": "HCL Gratia nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/185355",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-52-2024",
+"path": "local/teleorman/gratia/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 52/2024 privind modificarea si completarea HCL nr..20/25.04.2024 privind indexarea impozitelor si taxelor locale pentru anul fiscal 2025, la comuna Gratia, județul Teleorman cu rata inflatiei de 10.4%",
+"short": "HCL Gratia nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/185356",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-53-2024",
+"path": "local/teleorman/gratia/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 53/2024 privind alegerea Președintelui de ședinta al Consiliului Local al comunei Gratia pentru următoarele trei luni începand cu luna ianuarie 2025",
+"short": "HCL Gratia nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/185357",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-54-2024",
+"path": "local/teleorman/gratia/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 54/2024 privind aprobarea devizul general actualizat pentru obiectivul de investiţii,, Inființare sistem distribuție gaze naturale în comuna Gratia, județul Teleorman”",
+"short": "HCL Gratia nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/185358",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-55-2024",
+"path": "local/teleorman/gratia/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 55/2024",
+"short": "HCL Gratia nr. 55/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/185359",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 }

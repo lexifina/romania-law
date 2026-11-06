@@ -3,6 +3,74 @@
 "shard": "local/teleorman/lunca/2022",
 "acts": [
 {
+"slug": "hcl-teleorman--lunca-5-2022",
+"path": "local/teleorman/lunca/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca nr. 5/2022 privind alegerea presedintelui de sedinta pentru urmatoarele 3 luni",
+"short": "HCL Lunca nr. 5/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-19",
+"latest": "2022-01-19",
+"portal": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#24774",
+"council": "teleorman/lunca",
+"council_name": "Consiliul Local al Comunei Lunca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--lunca-11-2022",
+"path": "local/teleorman/lunca/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca nr. 11/2022",
+"short": "HCL Lunca nr. 11/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": null,
+"council": "teleorman/lunca",
+"council_name": "Consiliul Local al Comunei Lunca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--lunca-18-2022",
+"path": "local/teleorman/lunca/2022/18",
+"kind": "local",
+"year": "2022",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca nr. 18/2022",
+"short": "HCL Lunca nr. 18/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-11",
+"latest": "2022-03-11",
+"portal": null,
+"council": "teleorman/lunca",
+"council_name": "Consiliul Local al Comunei Lunca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-teleorman--lunca-23-2022",
 "path": "local/teleorman/lunca/2022/23",
 "kind": "local",
@@ -22,6 +90,139 @@
 "council_name": "Consiliul Local al Comunei Lunca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--lunca-28-2022",
+"path": "local/teleorman/lunca/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca nr. 28/2022 privind alegerea presedintelui de sedinta pentru urmatoarele 3 luni",
+"short": "HCL Lunca nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-18",
+"latest": "2022-04-18",
+"portal": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#24904",
+"council": "teleorman/lunca",
+"council_name": "Consiliul Local al Comunei Lunca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--lunca-33-2022",
+"path": "local/teleorman/lunca/2022/33",
+"kind": "local",
+"year": "2022",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca nr. 33/2022 Privind aprobarea incetării contractului de mandat al administratorului SC. APA COM LUNCA SRL",
+"short": "HCL Lunca nr. 33/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-30",
+"latest": "2022-05-30",
+"portal": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#34374",
+"council": "teleorman/lunca",
+"council_name": "Consiliul Local al Comunei Lunca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--lunca-39-2022",
+"path": "local/teleorman/lunca/2022/39",
+"kind": "local",
+"year": "2022",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca nr. 39/2022 Alegerea presedintelui de sedință pe următoarele trei luni",
+"short": "HCL Lunca nr. 39/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-14",
+"latest": "2022-07-14",
+"portal": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#34394",
+"council": "teleorman/lunca",
+"council_name": "Consiliul Local al Comunei Lunca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--lunca-45-2022",
+"path": "local/teleorman/lunca/2022/45",
+"kind": "local",
+"year": "2022",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca nr. 45/2022 desemnarea a trei reprezentanti ai Consiliului local al comunei Lunca în cadrul Consiliului de administraţie al Şcolii Gimnaziale nr.1 Lunca",
+"short": "HCL Lunca nr. 45/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-16",
+"latest": "2022-09-16",
+"portal": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#34431",
+"council": "teleorman/lunca",
+"council_name": "Consiliul Local al Comunei Lunca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--lunca-47-2022",
+"path": "local/teleorman/lunca/2022/47",
+"kind": "local",
+"year": "2022",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca nr. 47/2022 schimbare membru în Consiliul de administrație al Clubului Sportiv ,,VIITORUL LUNCA,,",
+"short": "HCL Lunca nr. 47/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-16",
+"latest": "2022-09-16",
+"portal": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#34438",
+"council": "teleorman/lunca",
+"council_name": "Consiliul Local al Comunei Lunca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--lunca-49-2022",
+"path": "local/teleorman/lunca/2022/49",
+"kind": "local",
+"year": "2022",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca nr. 49/2022",
+"short": "HCL Lunca nr. 49/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-16",
+"latest": "2022-09-16",
+"portal": null,
+"council": "teleorman/lunca",
+"council_name": "Consiliul Local al Comunei Lunca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

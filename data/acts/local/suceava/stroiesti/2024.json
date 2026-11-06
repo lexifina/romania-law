@@ -3,6 +3,50 @@
 "shard": "local/suceava/stroiesti/2024",
 "acts": [
 {
+"slug": "hcl-suceava--stroiesti-66-2024",
+"path": "local/suceava/stroiesti/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 66/2024 privind alegerea Comisiei de validare și de numărare a voturilor",
+"short": "HCL Stroiești nr. 66/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-05",
+"latest": "2025-03-05",
+"portal": "https://emol.ro/stroiesti-sv/registru-hcl/195659",
+"council": "suceava/stroiesti",
+"council_name": "Consiliul Local al Comunei Stroiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--stroiesti-67-2024",
+"path": "local/suceava/stroiesti/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 67/2024 privind alegerea viceprimarului comunei Stroiești, jud. Suceava",
+"short": "HCL Stroiești nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-05",
+"latest": "2025-03-05",
+"portal": "https://emol.ro/stroiesti-sv/registru-hcl/195660",
+"council": "suceava/stroiesti",
+"council_name": "Consiliul Local al Comunei Stroiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--stroiesti-68-2024",
 "path": "local/suceava/stroiesti/2024/68",
 "kind": "local",
@@ -110,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Stroiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--stroiesti-73-2024",
+"path": "local/suceava/stroiesti/2024/73",
+"kind": "local",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 73/2024 privind acordarea unui sprijin financiar la Parohia Stroiesti II cu hramul ,, Adormirea Maicii Domnului ,, și la Biserica Adventistă de ziua a șaptea – Conferința Moldova",
+"short": "HCL Stroiești nr. 73/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-05",
+"latest": "2025-03-05",
+"portal": "https://emol.ro/stroiesti-sv/registru-hcl/195681",
+"council": "suceava/stroiesti",
+"council_name": "Consiliul Local al Comunei Stroiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -264,6 +330,50 @@
 "council_name": "Consiliul Local al Comunei Stroiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--stroiesti-81-2024",
+"path": "local/suceava/stroiesti/2024/81",
+"kind": "local",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 81/2024 privind decontarea cheltuielilor de transport pentru cadrele didactice din unitatea de învăţământ Şcoala Gimnazială din comuna Stroieşti, judeţul Suceava , aferente lunilor aprilie - decembrie 2024",
+"short": "HCL Stroiești nr. 81/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-05",
+"latest": "2025-03-05",
+"portal": "https://emol.ro/stroiesti-sv/registru-hcl/195701",
+"council": "suceava/stroiesti",
+"council_name": "Consiliul Local al Comunei Stroiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--stroiesti-82-2024",
+"path": "local/suceava/stroiesti/2024/82",
+"kind": "local",
+"year": "2024",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 82/2024 privind aprobarea și însușirea documentației de dezlipire a imobilului pășune înscris în CF 41235 aparținând domeniului privat al comunei Stroieşti, judeţul Suceava",
+"short": "HCL Stroiești nr. 82/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-05",
+"latest": "2025-03-05",
+"portal": "https://emol.ro/stroiesti-sv/registru-hcl/195702",
+"council": "suceava/stroiesti",
+"council_name": "Consiliul Local al Comunei Stroiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,21 @@
  "shard": "local/teleorman/sarbeni/2023",
  "acts": [
   {
+   "slug": "hcl-teleorman--sarbeni-32-2023",
+   "path": "local/teleorman/sarbeni/2023/32",
+   "short": "HCL Sârbeni nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 32/2023 privind alegerea președintelui de ședință pentru lunile septembrie, octombrie și noiembrie 2023",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/138881",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/138881",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--sarbeni-33-2023",
    "path": "local/teleorman/sarbeni/2023/33",
    "short": "HCL Sârbeni nr. 33/2023",
@@ -33,6 +48,66 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--sarbeni-35-2023",
+   "path": "local/teleorman/sarbeni/2023/35",
+   "short": "HCL Sârbeni nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 35/2023 privind desemnare reprezentant Consiliu Local Sârbeni, în Consiliul de Administraţie al Scolii Gimnaziale Sârbeni pentru anul scolar 2023 -2024",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/138884",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/138884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-36-2023",
+   "path": "local/teleorman/sarbeni/2023/36",
+   "short": "HCL Sârbeni nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 36/2023 privind atestarea apartenenței unui imobil – teren la domeniul privat al comunei SÂRBENI, județul Teleorman, in vederea asigurarii infrastructurii pentru transportul verde – puncte de reancărcare vehicule electrice",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/138885",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/138885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-37-2023",
+   "path": "local/teleorman/sarbeni/2023/37",
+   "short": "HCL Sârbeni nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 37/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și a contractelor/acordurilor- cadru de prestare a serviciilor pentru derularea măsurilor educative la nivelul UAT comuna SÂRBENI, pentru perioada 2023-2029",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/138886",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/138886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-38-2023",
+   "path": "local/teleorman/sarbeni/2023/38",
+   "short": "HCL Sârbeni nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 38/2023 privind aprobarea inițierii demersurilor de actualizare a Planului Urbanistic General al Comunei SARBENI, precum și a Regulamentului Local de Urbanism aferent acestuia",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/138887",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/138887",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--sarbeni-39-2023",
    "path": "local/teleorman/sarbeni/2023/39",
    "short": "HCL Sârbeni nr. 39/2023",
@@ -43,6 +118,81 @@
      "from": "2024-01-25",
      "units": 1,
      "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/138888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-40-2023",
+   "path": "local/teleorman/sarbeni/2023/40",
+   "short": "HCL Sârbeni nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 40/2023 privind aprobare Protocoale si documentatie de colaborare intre Ministerul Muncii si Solidaritatii Sociale (MMSS) si UAT comuna SARBENI, judetul Teleorman, in vederea implementarii proiectului “ HUB de servicii MMSS-SII MMSS”",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/138889",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/138889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-41-2023",
+   "path": "local/teleorman/sarbeni/2023/41",
+   "short": "HCL Sârbeni nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 41/2023 privind înfiinţarea și delegarea de gestiune prin concesiune a Serviciului public de gestionare a câinilor fară stăpân al comunei Sârbeni, județul Teleorman",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/138890",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/138890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-42-2023",
+   "path": "local/teleorman/sarbeni/2023/42",
+   "short": "HCL Sârbeni nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 42/2023 privind aprobare prelungire a termenului de valabilitate a Planului Urbanistic General si a Regulamentului Local de Urbanism, aferent al comunei Sarbeni, pana la data aprobarii noii documetatii de urbanism, dar nu mai tarziu de 31.12.2026",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/138891",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/138891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-43-2023",
+   "path": "local/teleorman/sarbeni/2023/43",
+   "short": "HCL Sârbeni nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 43/2023 privind alegere președinte de ședință pentru lunile: decembrie 2023, ianuarie si februarie 2024",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/138892",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/138892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-44-2023",
+   "path": "local/teleorman/sarbeni/2023/44",
+   "short": "HCL Sârbeni nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 44/2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei SARBENI, judeţul Teleorman, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/138902",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/138902",
      "sha256": null
     }
    ]
@@ -73,6 +223,81 @@
      "from": "2024-01-25",
      "units": 1,
      "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/138904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-47-2023",
+   "path": "local/teleorman/sarbeni/2023/47",
+   "short": "HCL Sârbeni nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 47/2023 privind decontarea contravalorii cheltuielilor de deplasare pentru transportul între localitatea în care functionarii publici si personalul contractual din cadrul Primariei Comunei Sarbeni îşi au domiciliul și localitatea unde se află locul de muncă al acestora, respectiv sediu primarie Comuna Sarbeni",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/138905",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/138905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-48-2023",
+   "path": "local/teleorman/sarbeni/2023/48",
+   "short": "HCL Sârbeni nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 48/2023",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/138906",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/138906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-49-2023",
+   "path": "local/teleorman/sarbeni/2023/49",
+   "short": "HCL Sârbeni nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 49/2023 privind aprobarea strategiei anuale de investitii/achizitii publice a comunei Sârbeni, judetul Teleorman, pentru anul 2024",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/138907",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/138907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-50-2023",
+   "path": "local/teleorman/sarbeni/2023/50",
+   "short": "HCL Sârbeni nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 50/2023 privind atestarea apartenenței unui imobil – teren la domeniul privat al comunei SÂRBENI, județul Teleorman, in vederea administrari, in conditiile legislatiei in vigoare",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/138908",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/138908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-51-2023",
+   "path": "local/teleorman/sarbeni/2023/51",
+   "short": "HCL Sârbeni nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 51/2023 privind aprobarea Protocolului de colaborare pentru realizarea proiectului „PERDELE FORESTIERE” ce se va incheia intre comuna SARBENI si organizatia non - profit, neguvernamentala „VIITORULPLUS – asociatie pentru dezvoltare durabila”",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/138909",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/138909",
      "sha256": null
     }
    ]

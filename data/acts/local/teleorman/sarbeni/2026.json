@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--sarbeni-20-2026",
+"path": "local/teleorman/sarbeni/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 20/2026 privind aprobarea concesionării, prin licitație publică, a unui bun imobil, din teren intravilan categoria de folosinta curti constructii cu suprafata de 88 mp si constructia magazin mixt, situat în COMUNA SARBENI, SAT UDENI, CVARTAL 12, PARCELA 464, JUDEȚUL TELEORMAN , identificat cu număr cadastral 20242 -teren, 20242 -C4 constructie, înscris în Cartea Funciară cu nr.20242, care aparține domeniului privat al U.A.T SARBENI, județul TELEORMAN",
+"short": "HCL Sârbeni nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-31",
+"latest": "2026-07-31",
+"portal": "https://emol.ro/sarbeni-tr/registru-hcl/281364",
+"council": "teleorman/sarbeni",
+"council_name": "Consiliul Local al Comunei Sârbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--sarbeni-21-2026",
 "path": "local/teleorman/sarbeni/2026/21",
 "kind": "local",
@@ -264,6 +286,28 @@
 "council_name": "Consiliul Local al Comunei Sârbeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--sarbeni-27-2026",
+"path": "local/teleorman/sarbeni/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 27/2026 privind prelungire închiriere, a unor parcele de teren categoria de folosinta arabil, situate pe raza comunei SARBENI, Judetul Teleorman, in suprafata totala de 64, 5728 ha",
+"short": "HCL Sârbeni nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-08",
+"latest": "2026-09-08",
+"portal": "https://emol.ro/sarbeni-tr/registru-hcl/286599",
+"council": "teleorman/sarbeni",
+"council_name": "Consiliul Local al Comunei Sârbeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

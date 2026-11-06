@@ -3,6 +3,96 @@
  "shard": "local/suceava/salcea/2025",
  "acts": [
   {
+   "slug": "hcl-suceava--salcea-1-2025",
+   "path": "local/suceava/salcea/2025/1",
+   "short": "HCL Salcea nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 1/2025 privind acordarea cu ocazia sărbătorilor pascale din anul 2025 a unui pachet cu produse alimentare.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%201%20din%2029.01.2025%20privind%20acordarea%20cu%20ocazia%20s%C4%83rb%C4%83torilor%20pascale%20din%20anul%202025%20a%20unui%20pachet%20cu%20produse%20alimentare.pdf",
+     "sha256": "d5e6d05f8d7dcd200a29e44554728bf90df2c0f18c13efdc4508fa408163cf04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-10-2025",
+   "path": "local/suceava/salcea/2025/10",
+   "short": "HCL Salcea nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 10/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Modernizare sistem scurgere ape pluviale, în orașul Salcea”.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%2010%20din%2029.01.2025%20privind%20aprobarea%20indicatorilor%20tehnico-economici%20pentru%20obiectivul%20de%20investi%C8%9Bii%20%E2%80%9DModernizare%20sistem%20scurgere%20ape%20pluviale,%20%C3%AEn%20ora%C8%99ul%20Salcea%E2%80%9D.pdf",
+     "sha256": "1f1054a8478a1c1142eb41bc693a469f552efbc0d8651a26500a7dad98d7adfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-11-2025",
+   "path": "local/suceava/salcea/2025/11",
+   "short": "HCL Salcea nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 11/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Modernizare spațiu în fața Bisericii Ortodoxe din loc. Văratec”.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%2011%20din%2029.01.2025%20privind%20aprobarea%20indicatorilor%20tehnico-economici%20pentru%20obiectivul%20de%20investi%C8%9Bii%20%E2%80%9DModernizare%20spa%C8%9Biu%20%C3%AEn%20fa%C8%9Ba%20Bisericii%20Ortodoxe%20din%20loc.%20V%C4%83ratec%E2%80%9D.pdf",
+     "sha256": "493df171052ca425bfa42ecaae7776da07fc86f87d7e8e800e8138a01f75f955"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-12-2025",
+   "path": "local/suceava/salcea/2025/12",
+   "short": "HCL Salcea nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 12/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Modernizare clădiri publice din orașul Salcea”.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%2012%20din%2029.01.2025%20privind%20aprobarea%20indicatorilor%20tehnico-economici%20pentru%20obiectivul%20de%20investi%C8%9Bii%20%E2%80%9DModernizare%20cl%C4%83diri%20publice%20din%20ora%C8%99ul%20Salcea%E2%80%9D.pdf",
+     "sha256": "52464151f2c89fac84dfe90b8be672ba2027008e154d2c3c1c32fa5adb1e7108"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-13-2025",
+   "path": "local/suceava/salcea/2025/13",
+   "short": "HCL Salcea nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 13/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Modernizare parc în satul Prelipca”.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%2013%20din%2029.01.2025%20privind%20aprobarea%20indicatorilor%20tehnico-economici%20pentru%20obiectivul%20de%20investi%C8%9Bii%20%E2%80%9DModernizare%20parc%20%C3%AEn%20satul%20Prelipca%E2%80%9D.pdf",
+     "sha256": "4caa07574d7b397d50b820b9d91d04d14228c0abea962902ed8ae8c0e9ad390e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-2-2025",
+   "path": "local/suceava/salcea/2025/2",
+   "short": "HCL Salcea nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 2/2025 privind aprobarea Planului de acțiuni și lucrări de interes local întocmit conform Legii nr. 196 din 2016 privind VMI și Legii nr. 292 din 2011 a asistenței sociale.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%202%20din%2029.01.2025%20privind%20aprobarea%20Planului%20de%20ac%C8%9Biuni%20%C8%99i%20lucr%C4%83ri%20de%20interes%20local%20%C3%AEntocmit%20conform%20Legii%20nr.%20196%20din%202016%20privind%20VMI%20%C8%99i%20Legii%20nr.%20292%20din%202011%20a%20asisten%C8%9Bei%20sociale.pdf",
+     "sha256": "3135521f15cb0ac178ea71798e3c89d5c0729b06920b83c46a252acc514d2020"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--salcea-3-2025",
    "path": "local/suceava/salcea/2025/3",
    "short": "HCL Salcea nr. 3/2025",
@@ -14,6 +104,96 @@
      "units": 1,
      "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%203%20din%2029.01.2025%20privind%20%C3%AEnfiin%C8%9Barea%20serviciului%20%C8%99i%20aprobarea%20Regulamentului%20de%20organizare%20%C8%99i%20func%C8%9Bionare%20al%20serviciului%20de%20asisten%C8%9B%C4%83%20social%C4%83%20organizat%20la%20nivelul%20Ora%C8%99ului%20Salcea.pdf",
      "sha256": "da62bd3ad6e3260973fd91688437f167319b00047b3b52a73492a8490ae2e6a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-4-2025",
+   "path": "local/suceava/salcea/2025/4",
+   "short": "HCL Salcea nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 4/2025 privind acoperirea definitivă a deficitului secțiunii de dezvoltare a bugetului consolidat al Orașului Salcea pe anul 2024.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%204%20din%2029.01.2025%20privind%20acoperirea%20definitiv%C4%83%20a%20deficitului%20sec%C8%9Biunii%20de%20dezvoltare%20a%20bugetului%20consolidat%20al%20Ora%C8%99ului%20Salcea%20pe%20anul%202024.pdf",
+     "sha256": "c73bb583a8ee3915769ac2bd0e7694c049a5af88b1bb672d9dbda9c826c83067"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-5-2025",
+   "path": "local/suceava/salcea/2025/5",
+   "short": "HCL Salcea nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 5/2025 privind aprobarea numărului de personal, a funcțiilor publice, a organigramei și a statului de funcții pentru aparatul de specialitate.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%205%20din%2029.01.2025%20privind%20aprobarea%20num%C4%83rului%20de%20personal,%20a%20func%C8%9Biilor%20publice,%20a%20organigramei%20%C8%99i%20a%20statului%20de%20func%C8%9Bii%20pentru%20aparatul%20de%20specialitate.pdf",
+     "sha256": "681a745764a30ed78c137b9ef506a2fdb26d1d01deaba5ed22e34cb2e76449c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-6-2025",
+   "path": "local/suceava/salcea/2025/6",
+   "short": "HCL Salcea nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 6/2025 privind aprobarea execuției bugetare pentru trimestrul 4 al anului 2024.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%206%20din%2029.01.2025%20privind%20aprobarea%20execu%C8%9Biei%20bugetare%20pentru%20trimestrul%204%20al%20anului%202024.pdf",
+     "sha256": "45e37cb28b525ca70658a55d46d2b65c7dd4389c62daa96851a69fefebd732a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-7-2025",
+   "path": "local/suceava/salcea/2025/7",
+   "short": "HCL Salcea nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 7/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Modernizare parc -Primăria orașului Salcea”.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%207%20din%2029.01.2025%20privind%20aprobarea%20indicatorilor%20tehnico-economici%20pentru%20obiectivul%20de%20investi%C8%9Bii%20%E2%80%9DModernizare%20parc%20-Prim%C4%83ria%20ora%C8%99ului%20Salcea%E2%80%9D.pdf",
+     "sha256": "16adab690841370f69c53c51b729f08069091e6981ec9f547a20d04df8d18c98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-8-2025",
+   "path": "local/suceava/salcea/2025/8",
+   "short": "HCL Salcea nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 8/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Modernizare terenuri de sport la unitățile de învățământ din orașul Salcea”.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%208%20din%2029.01.2025%20privind%20aprobarea%20indicatorilor%20tehnico-economici%20pentru%20obiectivul%20de%20investi%C8%9Bii%20%E2%80%9DModernizare%20terenuri%20de%20sport%20la%20unit%C4%83%C8%9Bile%20de%20%C3%AEnv%C4%83%C8%9B%C4%83m%C3%A2nt%20din%20ora%C8%99ul%20Salcea%E2%80%9D.pdf",
+     "sha256": "2bebccea737e5f10a2221300e63473167ff49c952a063c681a0c4fbfd7f5f0b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-9-2025",
+   "path": "local/suceava/salcea/2025/9",
+   "short": "HCL Salcea nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 9/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Modernizare împrejmuire la unitățile de învățământ din orașul Salcea”.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%209%20din%2029.01.2025%20privind%20aprobarea%20indicatorilor%20tehnico-economici%20pentru%20obiectivul%20de%20investi%C8%9Bii%20%E2%80%9DModernizare%20%C3%AEmprejmuire%20la%20unit%C4%83%C8%9Bile%20de%20%C3%AEnv%C4%83%C8%9B%C4%83m%C3%A2nt%20din%20ora%C8%99ul%20Salcea%E2%80%9D.pdf",
+     "sha256": "9c69db00ebc5a31ad043c322860d38d7758a316db2de34fd3ca660e28b58486a"
     }
    ]
   }

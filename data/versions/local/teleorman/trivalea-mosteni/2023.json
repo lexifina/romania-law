@@ -18,6 +18,81 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--trivalea-mosteni-10-2023",
+   "path": "local/teleorman/trivalea-mosteni/2023/10",
+   "short": "HCL Trivalea-Moșteni nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 10/2023 privind alegerea unui presedinte de sedinta a Consiliului local al Comunei Trivalea-Mosteni pentru urmatoarele 3 luni",
+   "url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/212922",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/212922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--trivalea-mosteni-11-2023",
+   "path": "local/teleorman/trivalea-mosteni/2023/11",
+   "short": "HCL Trivalea-Moșteni nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 11/2023 privind modificarea Anexei nr.1 a Hotararii nr.1 din 16.01.2023 privind aprobarea impozitelor si taxelor locale pentru anul 2023 la nivelul comunei Trivalea-Moșteni",
+   "url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/212924",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/212924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--trivalea-mosteni-12-2023",
+   "path": "local/teleorman/trivalea-mosteni/2023/12",
+   "short": "HCL Trivalea-Moșteni nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 12/2023 privind rectificarea bugetului local",
+   "url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/212927",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/212927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--trivalea-mosteni-13-2023",
+   "path": "local/teleorman/trivalea-mosteni/2023/13",
+   "short": "HCL Trivalea-Moșteni nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 13/2023 privind înființarea Serviciului de gestionare a câinilor fară stăpân al Comunei Trivalea-Mosteni, județul Teleorman",
+   "url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/212929",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/212929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--trivalea-mosteni-14-2023",
+   "path": "local/teleorman/trivalea-mosteni/2023/14",
+   "short": "HCL Trivalea-Moșteni nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 14/2023 privind aprobarea PROTOCOALELOR DE COLABORARE intre Unitatea Aministrativ Teritoriala Trivalea-Mosteni, judetul Teleorman si MINISTERUL MUNCII ȘI SOLIDARITĂȚII SOCIALE",
+   "url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/212930",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/212930",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--trivalea-mosteni-2-2023",
    "path": "local/teleorman/trivalea-mosteni/2023/2",
    "short": "HCL Trivalea-Moșteni nr. 2/2023",
@@ -63,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--trivalea-mosteni-5-2023",
+   "path": "local/teleorman/trivalea-mosteni/2023/5",
+   "short": "HCL Trivalea-Moșteni nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 5/2023 privind aprobarea Strategiei de dezvoltare locala a comunei Trivalea-Mosteni, pentru perioada 2020-2027",
+   "url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/212905",
+   "versions": [
+    {
+     "from": "2023-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/212905",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--trivalea-mosteni-6-2023",
    "path": "local/teleorman/trivalea-mosteni/2023/6",
    "short": "HCL Trivalea-Moșteni nr. 6/2023",
@@ -73,6 +163,51 @@
      "from": "2023-02-01",
      "units": 1,
      "source_url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/212907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--trivalea-mosteni-7-2023",
+   "path": "local/teleorman/trivalea-mosteni/2023/7",
+   "short": "HCL Trivalea-Moșteni nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 7/2023 privind aprobarea organigramei si a statului de functii din cadrul aparatului de specialitate al primarului comunei Trivalea-Mosteni, judetul Teleorman",
+   "url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/212917",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/212917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--trivalea-mosteni-8-2023",
+   "path": "local/teleorman/trivalea-mosteni/2023/8",
+   "short": "HCL Trivalea-Moșteni nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 8/2023 privind aprobarea Planului de analiza si acoperire a riscurilor la nivelul Comitetului local pentru situatii de urgenta al comunei Trivalea-Mosteni, Judetul Teleorman",
+   "url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/212919",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/212919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--trivalea-mosteni-9-2023",
+   "path": "local/teleorman/trivalea-mosteni/2023/9",
+   "short": "HCL Trivalea-Moșteni nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 9/2023 privind aprobarea Planului de Acțiuni și Interes Local pentru repartizarea orelor de muncă ce se vor efectua de către persoanele majore apte de muncă din familia beneficiară a Legii nr. 416/2001, pentru anul 2023",
+   "url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/212921",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/212921",
      "sha256": null
     }
    ]

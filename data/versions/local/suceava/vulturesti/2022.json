@@ -3,6 +3,156 @@
  "shard": "local/suceava/vulturesti/2022",
  "acts": [
   {
+   "slug": "hcl-suceava--vulturesti-33-2022",
+   "path": "local/suceava/vulturesti/2022/33",
+   "short": "HCL Vulturești nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 33/2022 privind participarea Comunei Vultureşti, Judeţul Suceava, la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public cu investiția ”Modernizarea sistemului de iluminat public stradal, etapa a II - a, în Comuna Vulturești, Județul Suceava”",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/69315",
+   "versions": [
+    {
+     "from": "2022-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/69315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-34-2022",
+   "path": "local/suceava/vulturesti/2022/34",
+   "short": "HCL Vulturești nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 34/2022 privind actualizarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Vultureşti, judeţul Suceava",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/73382",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/73382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-35-2022",
+   "path": "local/suceava/vulturesti/2022/35",
+   "short": "HCL Vulturești nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 35/2022",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/73383",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/73383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-36-2022",
+   "path": "local/suceava/vulturesti/2022/36",
+   "short": "HCL Vulturești nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 36/2022 privind aprobarea vânzării directe a terenului în suprafață de 500 mp, proprietate privată a comunei Vultureşti, judeţul Suceava, înscris în Cartea funciară nr. 30459 Vulturești",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/73384",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/73384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-37-2022",
+   "path": "local/suceava/vulturesti/2022/37",
+   "short": "HCL Vulturești nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 37/2022 privind aprobarea vânzării, prin licitație publică organizată în condițiile legii, a unui teren în suprafață de 3.976 mp, proprietate privată a comunei Vultureşti, judeţul Suceava, înscris în Cartea funciară nr. 35519 Vulturești",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/73385",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/73385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-38-2022",
+   "path": "local/suceava/vulturesti/2022/38",
+   "short": "HCL Vulturești nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 38/2022 privind aprobarea rectificării bugetului local al comunei Vulturești, județul Suceava, pe anul 2022",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/73386",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/73386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-39-2022",
+   "path": "local/suceava/vulturesti/2022/39",
+   "short": "HCL Vulturești nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 39/2022",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/73387",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/73387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-40-2022",
+   "path": "local/suceava/vulturesti/2022/40",
+   "short": "HCL Vulturești nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 40/2022",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/77265",
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/77265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-41-2022",
+   "path": "local/suceava/vulturesti/2022/41",
+   "short": "HCL Vulturești nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 41/2022 privind alegerea preşedintelui de şedinţă pentru perioada noiembrie 2022 - ianuarie 2023",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/77266",
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/77266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-42-2022",
+   "path": "local/suceava/vulturesti/2022/42",
+   "short": "HCL Vulturești nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 42/2022 privind analiza stadiului de înscriere a datelor în registrul agricol în trimestrul III al anului 2022 şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/77267",
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/77267",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--vulturesti-43-2022",
    "path": "local/suceava/vulturesti/2022/43",
    "short": "HCL Vulturești nr. 43/2022",
@@ -18,6 +168,81 @@
    ]
   },
   {
+   "slug": "hcl-suceava--vulturesti-44-2022",
+   "path": "local/suceava/vulturesti/2022/44",
+   "short": "HCL Vulturești nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 44/2022 privind aprobarea execuţiei bugetului local al comunei Vultureşti, judeţul Suceava, pe cele două secţiuni, corespunzătoare trimestrului III al anului 2022",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/77269",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/77269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-45-2022",
+   "path": "local/suceava/vulturesti/2022/45",
+   "short": "HCL Vulturești nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 45/2022 privind aprobarea rectificării bugetului local al comunei Vulturești, județul Suceava, pe anul 2022",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/77270",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/77270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-46-2022",
+   "path": "local/suceava/vulturesti/2022/46",
+   "short": "HCL Vulturești nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 46/2022 privind validarea unor modificări efectuate în bugetul local al comunei Vultureşti, judeţul Suceava, pe anul 2022, prin dispoziţie emisă de primar",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/82187",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/82187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-47-2022",
+   "path": "local/suceava/vulturesti/2022/47",
+   "short": "HCL Vulturești nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 47/2022 privind darea în folosință gratuită, pe termen limitat, a terenului în suprafață de 1.800 mp, proprietate privată a comunei, situat în extravilanul satului Hreațca, înscris în Cartea funciară nr. 37590 Vulturești, către Autoritatea pentru Administrarea Sistemului Național Antigrindină și de Creștere a Precipitațiilor (AASNACP), în vederea amplasării unui Punct de lansare a rachetelor antigrindină",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/82188",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/82188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-48-2022",
+   "path": "local/suceava/vulturesti/2022/48",
+   "short": "HCL Vulturești nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 48/2022 privind aprobarea rectificării bugetului local al comunei Vulturești, județul Suceava, pe anul 2022",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/82189",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/82189",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--vulturesti-49-2022",
    "path": "local/suceava/vulturesti/2022/49",
    "short": "HCL Vulturești nr. 49/2022",
@@ -28,6 +253,36 @@
      "from": "2023-01-06",
      "units": 1,
      "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/84142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-50-2022",
+   "path": "local/suceava/vulturesti/2022/50",
+   "short": "HCL Vulturești nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 50/2022 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „REABILITARE POD PESTE RÂUL ȘOMUZUL MIC ÎN SATUL GIURGEȘTI ȘI CONSTRUIRE POD PESTE RÂUL ȘOMUZUL MIC ÎN SATUL VALEA GLODULUI, COMUNA VULTUREȘTI, JUDEȚUL SUCEAVA”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/84143",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/84143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-51-2022",
+   "path": "local/suceava/vulturesti/2022/51",
+   "short": "HCL Vulturești nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 51/2022 privind aprobarea rectificării bugetului local al comunei Vulturești, județul Suceava, pe anul 2022",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/84144",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/84144",
      "sha256": null
     }
    ]

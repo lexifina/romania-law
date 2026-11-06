@@ -3,6 +3,36 @@
  "shard": "local/suceava/vulturesti/2021",
  "acts": [
   {
+   "slug": "hcl-suceava--vulturesti-23-2021",
+   "path": "local/suceava/vulturesti/2021/23",
+   "short": "HCL Vulturești nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 23/2021 privind reorganizarea Consiliului Comunitar Consultativ de la nivelul comunei Vultureşti, judeţul Suceava, şi aprobarea Regulamentului de organizare şi funcţionare",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/33958",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/33958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-24-2021",
+   "path": "local/suceava/vulturesti/2021/24",
+   "short": "HCL Vulturești nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 24/2021 privind aprobarea rectificării bugetului local al comunei Vultureşti, judeţul Suceava, pe anul 2021",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/33959",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/33959",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--vulturesti-25-2021",
    "path": "local/suceava/vulturesti/2021/25",
    "short": "HCL Vulturești nr. 25/2021",
@@ -13,6 +43,36 @@
      "from": "2021-09-29",
      "units": 1,
      "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/36438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-26-2021",
+   "path": "local/suceava/vulturesti/2021/26",
+   "short": "HCL Vulturești nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 26/2021",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/36439",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/36439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-27-2021",
+   "path": "local/suceava/vulturesti/2021/27",
+   "short": "HCL Vulturești nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 27/2021 privind aprobarea rectificării bugetului local al comunei Vultureşti, judeţul Suceava, pe anul 2021",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/36440",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/36440",
      "sha256": null
     }
    ]
@@ -33,6 +93,156 @@
    ]
   },
   {
+   "slug": "hcl-suceava--vulturesti-29-2021",
+   "path": "local/suceava/vulturesti/2021/29",
+   "short": "HCL Vulturești nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 29/2021",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/39551",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/39551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-30-2021",
+   "path": "local/suceava/vulturesti/2021/30",
+   "short": "HCL Vulturești nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 30/2021 privind aprobarea execuţiei bugetului local al comunei Vultureşti, judeţul Suceava, pe cele două secţiuni, corespunzătoare trim. III al anului 2021",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/39552",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/39552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-31-2021",
+   "path": "local/suceava/vulturesti/2021/31",
+   "short": "HCL Vulturești nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 31/2021",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/39553",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/39553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-32-2021",
+   "path": "local/suceava/vulturesti/2021/32",
+   "short": "HCL Vulturești nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 32/2021 privind aprobarea rectificării bugetului local al comunei Vultureşti, judeţul Suceava, pe anul 2021",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/39554",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/39554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-33-2021",
+   "path": "local/suceava/vulturesti/2021/33",
+   "short": "HCL Vulturești nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 33/2021 privind alegerea preşedintelui de şedinţă pentru perioada noiembrie 2021 – ianuarie 2022",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/39555",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/39555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-34-2021",
+   "path": "local/suceava/vulturesti/2021/34",
+   "short": "HCL Vulturești nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 34/2021 privind aprobarea contractării unui împrumut în valoare de 1.100.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 83/2021 pentru unele măsuri fiscal-bugetare privind acordarea unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/39556",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/39556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-35-2021",
+   "path": "local/suceava/vulturesti/2021/35",
+   "short": "HCL Vulturești nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 35/2021 privind aprobarea depunerii cererii de finanțare, a indicatorilor tehnico-economici și a devizului general estimativ pentru proiectul \"MODERNIZARE DC4 OSOI - VALEA GLODULUI - GIURGEȘTI, COMUNA VULTUREȘTI, JUDEȚUL SUCEAVA \"",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/40295",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/40295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-36-2021",
+   "path": "local/suceava/vulturesti/2021/36",
+   "short": "HCL Vulturești nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 36/2021 privind aprobarea depunerii cererii de finanțare, a indicatorilor tehnico-economici și a devizului general estimativ pentru proiectul \"REABILITARE POD PESTE RÂUL ŞOMUZUL MIC ÎN SATUL GIURGEŞTI ŞI CONSTRUIRE POD PESTE RÂUL ŞOMUZUL MIC ÎN SATUL VALEA GLODULUI, COMUNA VULTUREŞTI, JUDEŢUL SUCEAVA\"",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/40296",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/40296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-37-2021",
+   "path": "local/suceava/vulturesti/2021/37",
+   "short": "HCL Vulturești nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 37/2021 privind participarea Comunei Vultureşti, Judeţul Suceava, la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public cu investiția ”Modernizarea sistemului de iluminat public stradal în Comuna Vulturești, Județul Suceava”",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/43439",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/43439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-38-2021",
+   "path": "local/suceava/vulturesti/2021/38",
+   "short": "HCL Vulturești nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 38/2021 privind aprobarea rectificării bugetului local al comunei Vultureşti, judeţul Suceava, pe anul 2021",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/43440",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/43440",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--vulturesti-39-2021",
    "path": "local/suceava/vulturesti/2021/39",
    "short": "HCL Vulturești nr. 39/2021",
@@ -43,6 +253,51 @@
      "from": "2021-12-21",
      "units": 1,
      "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/44832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-40-2021",
+   "path": "local/suceava/vulturesti/2021/40",
+   "short": "HCL Vulturești nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 40/2021 privind aprobarea numărului şi cuantumului burselor care se vor acorda elevilor din unităţile de învăţământ preuniversitar de stat din comuna Vultureşti, judeţul Suceava, în semestrul I al anului școlar 2021 - 2022",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/44833",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/44833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-41-2021",
+   "path": "local/suceava/vulturesti/2021/41",
+   "short": "HCL Vulturești nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 41/2021 privind mandatarea primarului comunei Vultureşti, judeţul Suceava, să reprezinte interesele Consiliului Local al comunei Vultureşti în dosarul nr. 4392/86/2021 aflat pe rolul Tribunalului Suceava - Secţia de contencios administrativ şi fiscal",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/44834",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/44834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-42-2021",
+   "path": "local/suceava/vulturesti/2021/42",
+   "short": "HCL Vulturești nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 42/2021 privind aprobarea rectificării bugetului local al comunei Vultureşti, judeţul Suceava, pe anul 2021",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/44835",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/44835",
      "sha256": null
     }
    ]

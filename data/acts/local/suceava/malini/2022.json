@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/suceava/malini/2022",
+"acts": [
+{
+"slug": "hcl-suceava--malini-5-2022",
+"path": "local/suceava/malini/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mălini nr. 5/2022 privind aprobarea rezilierii contractului de închiriere nr. 2158 din 19.02.2018",
+"short": "HCL Mălini nr. 5/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-07",
+"latest": "2022-02-07",
+"portal": "https://www.comunamalini.ro/wp-content/uploads/2022/05/hcl-5-februarie-2022.pdf",
+"council": "suceava/malini",
+"council_name": "Consiliul Local al Comunei Mălini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--malini-10-2022",
+"path": "local/suceava/malini/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mălini nr. 10/2022 privind aprobarea modificării prin act adițional a valorii contractului de prestări servicii silvice nr. 1681 din 12.08.2008",
+"short": "HCL Mălini nr. 10/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-23",
+"latest": "2022-02-23",
+"portal": "https://www.comunamalini.ro/wp-content/uploads/2022/05/hcl-10-februarie-2022.pdf",
+"council": "suceava/malini",
+"council_name": "Consiliul Local al Comunei Mălini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--malini-12-2022",
+"path": "local/suceava/malini/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mălini nr. 12/2022 privind aprobarea Planului de acțiuni și lucrări de interes local pentru anul 2022, ce vor fi desfășurate de beneficiarii de ajutor social conform Legii nr. 416/2001",
+"short": "HCL Mălini nr. 12/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-21",
+"latest": "2022-03-21",
+"portal": "https://www.comunamalini.ro/wp-content/uploads/2022/05/hcl-12-martie-2022.pdf",
+"council": "suceava/malini",
+"council_name": "Consiliul Local al Comunei Mălini",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

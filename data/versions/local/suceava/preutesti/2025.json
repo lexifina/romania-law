@@ -3,6 +3,111 @@
  "shard": "local/suceava/preutesti/2025",
  "acts": [
   {
+   "slug": "hcl-suceava--preutesti-77-2025",
+   "path": "local/suceava/preutesti/2025/77",
+   "short": "HCL Preutești nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 77/2025 privind retragerea dreptului de folosință gratuită asupra unui teren pentru construcție locuință, acordat în baza Legii nr. 15 din 2003",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/234780",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/234780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-78-2025",
+   "path": "local/suceava/preutesti/2025/78",
+   "short": "HCL Preutești nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 78/2025 privind atribuirea unui teren în folosință gratuită pentru construcție locuință, conform Legii nr. 15 din 2003",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/234781",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/234781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-79-2025",
+   "path": "local/suceava/preutesti/2025/79",
+   "short": "HCL Preutești nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 79/2025 privind aprobarea rectificării bugetului de venituri şi cheltuieli al Comunei Preuteşti pe anul 2025",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/234782",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/234782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-80-2025",
+   "path": "local/suceava/preutesti/2025/80",
+   "short": "HCL Preutești nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 80/2025 privind alegerea președintelui de ședință al Consiliul Local al Comunei Preuteşti pe o perioadă de 3 luni",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/234783",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/234783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-81-2025",
+   "path": "local/suceava/preutesti/2025/81",
+   "short": "HCL Preutești nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 81/2025 privind actualizarea organigramei și statului de funcţii și aprobarea înființării a două posturi contractuale în afara organigramei pentru proiecte finanțate din fonduri europene nerambursabile și/sau prin Mecanismul de redresare și reziliență",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/234784",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/234784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-82-2025",
+   "path": "local/suceava/preutesti/2025/82",
+   "short": "HCL Preutești nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 82/2025 privind aprobarea întocmirii documentației tehnico-economice în vederea achiziționării unui microbuz școlar prin leasing financiar",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/234785",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/234785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-83-2025",
+   "path": "local/suceava/preutesti/2025/83",
+   "short": "HCL Preutești nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 83/2025 privind aprobarea și însușirea documentației de dezmembrare a imobilului teren înscris în CF 35499 aparținând domeniului privat al comunei Preutești",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/234786",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/234786",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--preutesti-84-2025",
    "path": "local/suceava/preutesti/2025/84",
    "short": "HCL Preutești nr. 84/2025",
@@ -33,6 +138,36 @@
    ]
   },
   {
+   "slug": "hcl-suceava--preutesti-86-2025",
+   "path": "local/suceava/preutesti/2025/86",
+   "short": "HCL Preutești nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 86/2025 privind aprobarea rectificării bugetului de venituri şi cheltuieli al Comunei Preuteşti pe anul 2025",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/237242",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/237242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-87-2025",
+   "path": "local/suceava/preutesti/2025/87",
+   "short": "HCL Preutești nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 87/2025 privind aprobarea decontării navetei personalului didactic şi didactic auxiliar pentru lunile septembrie -octombrie 2025",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/237243",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/237243",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--preutesti-88-2025",
    "path": "local/suceava/preutesti/2025/88",
    "short": "HCL Preutești nr. 88/2025",
@@ -48,6 +183,81 @@
    ]
   },
   {
+   "slug": "hcl-suceava--preutesti-89-2025",
+   "path": "local/suceava/preutesti/2025/89",
+   "short": "HCL Preutești nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 89/2025 privind aprobarea vânzării cu drept de preempțiune a terenului având nr. cadastral 30323 din domeniul privat al comunei Preutești",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/245556",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/245556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-90-2025",
+   "path": "local/suceava/preutesti/2025/90",
+   "short": "HCL Preutești nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 90/2025 privind aprobarea vânzării cu drept de preempțiune a terenului având nr. cadastral 32706 din domeniul privat al comunei Preutești",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/245557",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/245557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-91-2025",
+   "path": "local/suceava/preutesti/2025/91",
+   "short": "HCL Preutești nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 91/2025 privind modificarea și completarea inventarului bunurilor care aparţin domeniului privat al comunei Preutești, judeţul Suceava",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/245558",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/245558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-92-2025",
+   "path": "local/suceava/preutesti/2025/92",
+   "short": "HCL Preutești nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 92/2025 privind atestarea apartenenței la domeniul privat al comunei Preuteşti a unui imobil– teren",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/245559",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/245559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-93-2025",
+   "path": "local/suceava/preutesti/2025/93",
+   "short": "HCL Preutești nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 93/2025 privind aprobarea rectificării bugetului de venituri şi cheltuieli al Comunei Preuteşti pe anul 2025",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/245560",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/245560",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--preutesti-94-2025",
    "path": "local/suceava/preutesti/2025/94",
    "short": "HCL Preutești nr. 94/2025",
@@ -58,6 +268,21 @@
      "from": "2026-01-12",
      "units": 1,
      "source_url": "https://emol.ro/preutesti-sv/registru-hcl/245561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-95-2025",
+   "path": "local/suceava/preutesti/2025/95",
+   "short": "HCL Preutești nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 95/2025 privind aprobarea decontării navetei personalului didactic şi didactic auxiliar pentru luna noiembrie 2025",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/245562",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/245562",
      "sha256": null
     }
    ]

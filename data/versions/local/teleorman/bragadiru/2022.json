@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--bragadiru-34-2022",
+   "path": "local/teleorman/bragadiru/2022/34",
+   "short": "HCL Bragadiru nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 34/2022 privind aprobare decontare cheltuieli de transport pentru cadrele didactice care nu dispun de locuință - mai și iunie",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/81614",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/81614",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--bragadiru-35-2022",
    "path": "local/teleorman/bragadiru/2022/35",
    "short": "HCL Bragadiru nr. 35/2022",
@@ -88,6 +103,36 @@
      "from": "2022-06-30",
      "units": 1,
      "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/81616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-37-2022",
+   "path": "local/teleorman/bragadiru/2022/37",
+   "short": "HCL Bragadiru nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 37/2022 privind alegerea președintelui de ședință pentru luna iunie 2022",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/81617",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/81617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-38-2022",
+   "path": "local/teleorman/bragadiru/2022/38",
+   "short": "HCL Bragadiru nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 38/2022 privind alegerea președintelui de ședință pe o perioadă de 3 luni",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/81618",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/81618",
      "sha256": null
     }
    ]
@@ -133,6 +178,21 @@
      "from": "2022-07-29",
      "units": 1,
      "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/81621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-42-2022",
+   "path": "local/teleorman/bragadiru/2022/42",
+   "short": "HCL Bragadiru nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 42/2022",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/81622",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/81622",
      "sha256": null
     }
    ]

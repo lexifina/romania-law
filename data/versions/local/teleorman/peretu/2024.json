@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/peretu/2024",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--peretu-29-2024",
+   "path": "local/teleorman/peretu/2024/29",
+   "short": "HCL Peretu nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 29/2024 privind stabilire tarife provizorii pentru apa potabilă produsă, transportată și distribuită, pentru canalizare-epurare, respectiv a unor taxe practicate de către Serviciul Public Apă-canal comuna PERETU",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/166729",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/166729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-30-2024",
+   "path": "local/teleorman/peretu/2024/30",
+   "short": "HCL Peretu nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 30/2024 privind constituirea fondului de rezerva bugetara la dispozitia consiliului local pentru anul fiscal 2024",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/170338",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/170338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-31-2024",
+   "path": "local/teleorman/peretu/2024/31",
+   "short": "HCL Peretu nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 31/2024 privind utilizarea excedentului anului precedent bugetului local al unitații administrativ - teritoriale ca sursă de finanțare a cheltuielilor sectiunii de dezvoltare",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/170339",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/170339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-32-2024",
+   "path": "local/teleorman/peretu/2024/32",
+   "short": "HCL Peretu nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 32/2024 privind aprobarea rectificarii bugetului local centralizat pentru anul fiscal 2024",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/170340",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/170340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-33-2024",
+   "path": "local/teleorman/peretu/2024/33",
+   "short": "HCL Peretu nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 33/2024 privind aprobarea rectificării bugetului local centralizat pentru anul fiscal 2024",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/171954",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/171954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-34-2024",
+   "path": "local/teleorman/peretu/2024/34",
+   "short": "HCL Peretu nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 34/2024 privind utilizarea excedentului anului precedent bugetului local al unitații administrativ - teritoriale ca sursă de finanțare a cheltuielilor sectiunii de dezvoltare",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/171955",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/171955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-35-2024",
+   "path": "local/teleorman/peretu/2024/35",
+   "short": "HCL Peretu nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 35/2024 privind alegerea preşedintelui de şedinţă pentru şedinţele Consiliului Local al comunei Peretu din lunile noiembrie și decembrie 2024",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/175836",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/175836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-36-2024",
+   "path": "local/teleorman/peretu/2024/36",
+   "short": "HCL Peretu nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 36/2024 privind organizarea și stabilirea comisiilor de specialitate pe domenii de activitate ale Consiliului Local al comunei Peretu, județul Teleorman",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/175837",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/175837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-37-2024",
+   "path": "local/teleorman/peretu/2024/37",
+   "short": "HCL Peretu nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 37/2024 privind : aprobarea execuţiei bugetare la sfârşitul trimestrului III / 2024",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/175887",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/175887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-38-2024",
+   "path": "local/teleorman/peretu/2024/38",
+   "short": "HCL Peretu nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 38/2024 privind alegerea viceprimarului comunei Peretu, județ Teleorman",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/175888",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/175888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-39-2024",
+   "path": "local/teleorman/peretu/2024/39",
+   "short": "HCL Peretu nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 39/2024 privind aprobarea participării comunei Peretu în cadrul Programului privind creșterea eficienței energetice a infrastructurii de iluminat public, precum și aprobarea documentației tehnico-economice și a indicatorilor tehnico - economici pentru proiectul “Cresterea eficientei energetice a infrastructurii de iluminat public din comuna PERETU, judetul Teleorman”",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/180437",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/180437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-40-2024",
+   "path": "local/teleorman/peretu/2024/40",
+   "short": "HCL Peretu nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 40/2024 privind aprobarea rectificării bugetului local centralizat pentru anul fiscal 2024",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/180438",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/180438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-41-2024",
+   "path": "local/teleorman/peretu/2024/41",
+   "short": "HCL Peretu nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 41/2024 privind indexarea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2025",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/185206",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/185206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-42-2024",
+   "path": "local/teleorman/peretu/2024/42",
+   "short": "HCL Peretu nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 42/2024 privind organizarea rețelei școlare în comuna Peretu, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/185207",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/185207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-43-2024",
+   "path": "local/teleorman/peretu/2024/43",
+   "short": "HCL Peretu nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 43/2024 privind validarea Dispozitiei primarului nr. 240/2024 privind aprobarea rectificării bugetului local centralizat pentru anul fiscal 2024",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/185208",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/185208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-44-2024",
+   "path": "local/teleorman/peretu/2024/44",
+   "short": "HCL Peretu nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 44/2024 privind aprobarea execuției bugetare la sfârșitul trimestrului IV / 2024",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/185209",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/185209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-45-2024",
+   "path": "local/teleorman/peretu/2024/45",
+   "short": "HCL Peretu nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 45/2024 privind desemnarea unor reprezentanţi ai Consiliului Local Peretu pentru a face parte din Consiliul de Administraţie şi din Comisia de Evaluare a Calităţii învăţământului ale unităţilor de învăţământ preuniversitar cu personalitate juridică din comuna Peretu, judeţul Teleorman în anul şcolar 2025 – 2026",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/185210",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/185210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-46-2024",
+   "path": "local/teleorman/peretu/2024/46",
+   "short": "HCL Peretu nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 46/2024 privind alegerea preşedintelui de şedinţă pentru şedinţele Consiliului Local al comunei Peretu din lunile ianuarie, februarie și martie 2025",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/185211",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/185211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-47-2024",
+   "path": "local/teleorman/peretu/2024/47",
+   "short": "HCL Peretu nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 47/2024 privind aprobarea rectificării bugetului local centralizat pentru anul fiscal 2024",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/185212",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/185212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-48-2024",
+   "path": "local/teleorman/peretu/2024/48",
+   "short": "HCL Peretu nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 48/2024 privind aprobarea implementării proiectului de investiții ” PROGRES PRIN CREȘTEREA GRADULUI DE DIGITALIZARE A COMUNEI PERETU, JUDEȚUL TELEORMAN”",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/186743",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/186743",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

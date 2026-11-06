@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Lunca nr. 17/2024 Privind: aprobarea solicitarii prelungirii pana la data de 18.12.2024 a Scrisorii de garantie de la FNGCIMM SA IFN nr.16/07.03.2018 in suma de 2.266.776,60 lei in vederea garantarii in procent de 100% a obligatiilor de plata a avansului de 2.266.776,60 lei din fondurile nerambursabile pentru implementarea proiectului “Infiintare retea de canalizare menajera si statie de epurare in comuna Lunca,sat.Lunca,judetul Teleorman” com.Lunca, jud.Teleorman, in baza contractului de finantare nerambursabila nr. C0720AN00011733600202/18.12.2017, cu modificarile si completarile ulterioare, in favoarea Agentiei pentru Finantarea Investitiilor Rurale
+
+HCL Lunca nr. 17/2024 · 1 versions, from 2024-03-26 (latest in force: 2024-03-26) · <https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#73321>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-teleorman--lunca-17-2024` (tags `hcl-teleorman--lunca-17-2024/<day>`; `python tools/on.py <day> hcl-teleorman--lunca-17-2024`).
+
+## Decisions made by hand
+
+- HCL Lunca nr. 17/2024: listed from Consiliul Local al Comunei Lunca (luncatr.regista.ro); an individual decision: metadata only.
+- HCL Lunca nr. 17/2024: dated from 26 March 2024, the day it was adopted (the register gives no later day of publication).
+- HCL Lunca nr. 17/2024: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

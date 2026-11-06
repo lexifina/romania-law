@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--botoroaga-12-2026",
+   "path": "local/teleorman/botoroaga/2026/12",
+   "short": "HCL Botoroaga nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 12/2026 privind utilizarea unor sume din excedentul bugetului local din anii anteriori pentru finanțarea secțiunii de funcționare",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/258647",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/258647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-13-2026",
+   "path": "local/teleorman/botoroaga/2026/13",
+   "short": "HCL Botoroaga nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 13/2026",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/258650",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/258650",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--botoroaga-14-2026",
    "path": "local/teleorman/botoroaga/2026/14",
    "short": "HCL Botoroaga nr. 14/2026",
@@ -43,6 +73,51 @@
      "from": "2026-04-07",
      "units": 1,
      "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/258654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-15-2026",
+   "path": "local/teleorman/botoroaga/2026/15",
+   "short": "HCL Botoroaga nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 15/2026 privind decontarea cheltuielilor aferente navetei cadrelor didactice, care își desfășoară activitatea în unitățile de învățământ, de pe raza comunei Botoroaga",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/258655",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/258655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-16-2026",
+   "path": "local/teleorman/botoroaga/2026/16",
+   "short": "HCL Botoroaga nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 16/2026 privind revocarea Hotărârii Consiliului Local al Comunei Botoroaga nr. 49/25.09.2025, privind desemnarea a doi reprezentanți ai Consiliului Local Botoroaga în Consiliul de Administrație al Liceului Tehnologic „Andrei Șaguna”",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/258656",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/258656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-17-2026",
+   "path": "local/teleorman/botoroaga/2026/17",
+   "short": "HCL Botoroaga nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 17/2026 privind desemnarea a doi reprezentanți ai Consiliului Local Botoroaga în Consiliul de Administrației al Liceului Tehnologic „Andrei Șaguna”",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/258657",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/258657",
      "sha256": null
     }
    ]
@@ -108,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--botoroaga-25-2026",
+   "path": "local/teleorman/botoroaga/2026/25",
+   "short": "HCL Botoroaga nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 25/2026 privind decontarea cheltuielilor aferente navetei cadrelor didactice, care își desfășoară activitatea în unitățile de învățământ de pe raza comunei Botoroaga",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/262164",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/262164",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--botoroaga-26-2026",
    "path": "local/teleorman/botoroaga/2026/26",
    "short": "HCL Botoroaga nr. 26/2026",
@@ -123,6 +213,36 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--botoroaga-4-2026",
+   "path": "local/teleorman/botoroaga/2026/4",
+   "short": "HCL Botoroaga nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 4/2026 privind aprobarea programelor de acțiune comunitară destinate prevenirii și combaterii riscului de sărăcie și excluziune socială",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/258616",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/258616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-5-2026",
+   "path": "local/teleorman/botoroaga/2026/5",
+   "short": "HCL Botoroaga nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 5/2026 privind aprobarea contului anual de închidere a exercițiului bugetar și situațiilor financiare pe anul 2025",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/258617",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/258617",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--botoroaga-6-2026",
    "path": "local/teleorman/botoroaga/2026/6",
    "short": "HCL Botoroaga nr. 6/2026",
@@ -133,6 +253,51 @@
      "from": "2026-04-07",
      "units": 1,
      "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/258618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-7-2026",
+   "path": "local/teleorman/botoroaga/2026/7",
+   "short": "HCL Botoroaga nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 7/2026 privind alegerea președintelui de ședință pentru perioada februarie, martie și aprilie 2026",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/258619",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/258619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-8-2026",
+   "path": "local/teleorman/botoroaga/2026/8",
+   "short": "HCL Botoroaga nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 8/2026 privind analiza stadiului de înscriere a datelor în Registrul agricol, în trimestrul IV/2025 și stabilirea unor măsuri pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/258623",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/258623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-9-2026",
+   "path": "local/teleorman/botoroaga/2026/9",
+   "short": "HCL Botoroaga nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 9/2026 privind validarea și însușirea Dispoziției Primarului comunei Botoroaga nr. 7/12.01.2026 privind acoperirea deficitului bugetar, secțiunea de dezvoltare, sursa A, în suma de 718.781,37 lei al anului 2025, din excedentul bugetar al anului 2024",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/258632",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/258632",
      "sha256": null
     }
    ]

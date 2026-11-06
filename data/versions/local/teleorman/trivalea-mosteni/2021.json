@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--trivalea-mosteni-36-2021",
+   "path": "local/teleorman/trivalea-mosteni/2021/36",
+   "short": "HCL Trivalea-Moșteni nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 36/2021 privind desemnarea consilierilor ca reprezentanti ai Consiliului local pentru a face parte din Consiliul de administratie al Scolii Gimnaziale Trivalea-Mosteni",
+   "url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/64200",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/64200",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--trivalea-mosteni-37-2021",
    "path": "local/teleorman/trivalea-mosteni/2021/37",
    "short": "HCL Trivalea-Moșteni nr. 37/2021",
@@ -148,6 +163,36 @@
      "from": "2021-11-26",
      "units": 1,
      "source_url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/64207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--trivalea-mosteni-44-2021",
+   "path": "local/teleorman/trivalea-mosteni/2021/44",
+   "short": "HCL Trivalea-Moșteni nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 44/2021",
+   "url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/64208",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/64208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--trivalea-mosteni-45-2021",
+   "path": "local/teleorman/trivalea-mosteni/2021/45",
+   "short": "HCL Trivalea-Moșteni nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 45/2021",
+   "url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/64209",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/64209",
      "sha256": null
     }
    ]

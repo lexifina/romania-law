@@ -3,6 +3,141 @@
  "shard": "local/teleorman/radoiesti/2020",
  "acts": [
   {
+   "slug": "hcl-teleorman--radoiesti-23-2020",
+   "path": "local/teleorman/radoiesti/2020/23",
+   "short": "HCL Rădoiești nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 23/2020 privind aprobarea contului de execuție pe trim. I, anul 2020",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/10629",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/10629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-24-2020",
+   "path": "local/teleorman/radoiesti/2020/24",
+   "short": "HCL Rădoiești nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 24/2020",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/10630",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/10630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-25-2020",
+   "path": "local/teleorman/radoiesti/2020/25",
+   "short": "HCL Rădoiești nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 25/2020 privind validarea mandatului supleantului aflat pe listelele PSD și confirmat de Organizația Județeană PSD Teleorman",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/10631",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/10631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-26-2020",
+   "path": "local/teleorman/radoiesti/2020/26",
+   "short": "HCL Rădoiești nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 26/2020 privind aprobarea modificării Hotărârii Consiliului Local al comunei Rădoiești nr. 1 din 23.06.2016 privind alegera comisiei de validare a mandatelor consilierilor locali declarați aleși în noul Consiliu Local al comunei Radoiești, județul Teleorman",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/10632",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/10632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-27-2020",
+   "path": "local/teleorman/radoiesti/2020/27",
+   "short": "HCL Rădoiești nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 27/2020 privind aprobarea contului de execuție pe trim. II anul 2020",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/10633",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/10633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-28-2020",
+   "path": "local/teleorman/radoiesti/2020/28",
+   "short": "HCL Rădoiești nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 28/2020 privind alegerea președintelui de ședință pentru luna septembrie 2020",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/10634",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/10634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-29-2020",
+   "path": "local/teleorman/radoiesti/2020/29",
+   "short": "HCL Rădoiești nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 29/2020 privind rectificarea bugetului general al comunei Rădoiești pe trimestrul III anul 2020",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/10635",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/10635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-30-2020",
+   "path": "local/teleorman/radoiesti/2020/30",
+   "short": "HCL Rădoiești nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 30/2020",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/10636",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/10636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-31-2020",
+   "path": "local/teleorman/radoiesti/2020/31",
+   "short": "HCL Rădoiești nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 31/2020 privind rectificarea bugetului general al comunei Rădoiești pe trimestrul III anul 2020",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/10637",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/10637",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--radoiesti-32-2020",
    "path": "local/teleorman/radoiesti/2020/32",
    "short": "HCL Rădoiești nr. 32/2020",
@@ -28,6 +163,21 @@
      "from": "2020-11-13",
      "units": 1,
      "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/17011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-34-2020",
+   "path": "local/teleorman/radoiesti/2020/34",
+   "short": "HCL Rădoiești nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 34/2020 privind alegerea Viceprimarului Comunei Radoiesti",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/17012",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/17012",
      "sha256": null
     }
    ]
@@ -73,6 +223,21 @@
      "from": "2020-12-23",
      "units": 1,
      "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/17015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-38-2020",
+   "path": "local/teleorman/radoiesti/2020/38",
+   "short": "HCL Rădoiești nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 38/2020 privind numirea reprezentantilor Consiliului Local Radoiesti , in Consiliul de Administratie al Scolii Gimnaziale Radoiesti pentru anul scolar 2020-2021",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/17016",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/17016",
      "sha256": null
     }
    ]

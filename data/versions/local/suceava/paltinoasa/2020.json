@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/paltinoasa/2020",
+ "acts": [
+  {
+   "slug": "hcl-suceava--paltinoasa-22-2020",
+   "path": "local/suceava/paltinoasa/2020/22",
+   "short": "HCL Păltinoasa nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 22/2020",
+   "url": "https://primariapaltinoasa.ro/index.php/consiliul-local/regulament",
+   "versions": [
+    {
+     "from": "2020-04-22",
+     "units": 1,
+     "source_url": "https://primariapaltinoasa.ro/images/CL2020/Paltinoasa,%20HCL%2022%20din%2022%20aprilie%20%202020.pdf",
+     "sha256": "e4660b516f4f86871093928222fe97f6fe711d12db4bfe826cbacfd05ea0412c"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,126 @@
  "shard": "local/suceava/preutesti/2026",
  "acts": [
   {
+   "slug": "hcl-suceava--preutesti-34-2026",
+   "path": "local/suceava/preutesti/2026/34",
+   "short": "HCL Preutești nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 34/2026 privind modificarea Hotărârii Consiliului Local al comunei Preutești nr.47 din 15.05.2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente şi de calitate”",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/277314",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/277314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-35-2026",
+   "path": "local/suceava/preutesti/2026/35",
+   "short": "HCL Preutești nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 35/2026 privind aprobarea decontării navetei personalului didactic şi didactic auxiliar pentru lunile aprilie – mai 2026",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/277315",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/277315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-36-2026",
+   "path": "local/suceava/preutesti/2026/36",
+   "short": "HCL Preutești nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 36/2026 privind scoaterea din funcțiune, prin autodemolare a imobilului Școala cu clasele I-IV nr.3 Preutești aflat în domeniul public al UAT Comuna Preutești",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/277316",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/277316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-37-2026",
+   "path": "local/suceava/preutesti/2026/37",
+   "short": "HCL Preutești nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 37/2026 privind aprobarea rectificării bugetului local de venituri și cheltuieli al Comunei Preutești aferent anului 2026",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/279813",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/279813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-38-2026",
+   "path": "local/suceava/preutesti/2026/38",
+   "short": "HCL Preutești nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 38/2026 privind aprobarea achiziționării unui sistem sistem fotovoltaic 6 kW+ 5 kWh Stocare",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/279814",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/279814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-39-2026",
+   "path": "local/suceava/preutesti/2026/39",
+   "short": "HCL Preutești nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 39/2026 privind analiza stadiului de înscriere a datelor în registrul agricol, la data de 30.06.2026 precum și stabilirea unor măsuri pentru eficientizarea înscrierii datelor in registrul agricol al comunei Preutești",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/279815",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/279815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-40-2026",
+   "path": "local/suceava/preutesti/2026/40",
+   "short": "HCL Preutești nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 40/2026 privind aprobarea decontării navetei personalului didactic şi didactic auxiliar pentru luna iunie 2026",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/279816",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/279816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-41-2026",
+   "path": "local/suceava/preutesti/2026/41",
+   "short": "HCL Preutești nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 41/2026 privind alegerea președintelui de ședință al Consiliul Local al Comunei Preuteşti pe o perioadă de 3 luni",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/279817",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/279817",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--preutesti-42-2026",
    "path": "local/suceava/preutesti/2026/42",
    "short": "HCL Preutești nr. 42/2026",
@@ -18,6 +138,51 @@
    ]
   },
   {
+   "slug": "hcl-suceava--preutesti-43-2026",
+   "path": "local/suceava/preutesti/2026/43",
+   "short": "HCL Preutești nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 43/2026 privind majorarea cotizației anuale, plătită de UAT Comuna Preutești în calitate de membru al Grupului de Acțiune Locală „Valea Șomuzului”",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/287240",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/287240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-44-2026",
+   "path": "local/suceava/preutesti/2026/44",
+   "short": "HCL Preutești nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 44/2026 privind aprobarea rectificării bugetului local de venituri și cheltuieli al Comunei Preutești aferent anului 2026",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/287241",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/287241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-45-2026",
+   "path": "local/suceava/preutesti/2026/45",
+   "short": "HCL Preutești nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 45/2026",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/287242",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/287242",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--preutesti-46-2026",
    "path": "local/suceava/preutesti/2026/46",
    "short": "HCL Preutești nr. 46/2026",
@@ -28,6 +193,36 @@
      "from": "2026-10-20",
      "units": 1,
      "source_url": "https://emol.ro/preutesti-sv/registru-hcl/293201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-47-2026",
+   "path": "local/suceava/preutesti/2026/47",
+   "short": "HCL Preutești nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 47/2026 privind desemnarea a doi reprezentanți în Consiliul de administratie și a unui reprezentant în Comisia de Evaluare și Asigurare a Calității la Școala Gimnazială Preutești în anul școlar 2026-2027",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/293202",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/293202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-48-2026",
+   "path": "local/suceava/preutesti/2026/48",
+   "short": "HCL Preutești nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 48/2026 privind desemnarea reprezentantilor Consiliului Local al comunei Preutești în comisia de evaluare a probei de interviu pentru unitatea de învățământ Școala Gimnazială Preutești",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/293203",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/293203",
      "sha256": null
     }
    ]
@@ -58,6 +253,51 @@
      "from": "2026-10-22",
      "units": 1,
      "source_url": "https://emol.ro/preutesti-sv/registru-hcl/297769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-51-2026",
+   "path": "local/suceava/preutesti/2026/51",
+   "short": "HCL Preutești nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 51/2026 privind aprobarea întocmirii rapoartelor de evaluare a unor terenuri în vederea vânzării prin licitație publică",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/297770",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/297770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-52-2026",
+   "path": "local/suceava/preutesti/2026/52",
+   "short": "HCL Preutești nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 52/2026 privind aprobarea rectificării bugetului local de venituri și cheltuieli al Comunei Preutești aferent anului 2026",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/297771",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/297771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-53-2026",
+   "path": "local/suceava/preutesti/2026/53",
+   "short": "HCL Preutești nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 53/2026 privind alegerea președintelui de ședință al Consiliul Local al Comunei Preuteşti pe o perioadă de 3 luni",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/297772",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/297772",
      "sha256": null
     }
    ]

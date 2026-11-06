@@ -3,6 +3,21 @@
  "shard": "local/teleorman/dracsenei/2022",
  "acts": [
   {
+   "slug": "hcl-teleorman--dracsenei-32-2022",
+   "path": "local/teleorman/dracsenei/2022/32",
+   "short": "HCL Drăcșenei nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 32/2022 privind desemnarea a doi reprezentanţi ai Consiliului Local al comunei Drăcşenei în Consiliul de administraţie al Şcolii Gimnaziale comuna Drăcşenei pentru anul şcolar 2022 - 2023",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/71769",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/71769",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--dracsenei-33-2022",
    "path": "local/teleorman/dracsenei/2022/33",
    "short": "HCL Drăcșenei nr. 33/2022",
@@ -43,6 +58,51 @@
      "from": "2022-12-19",
      "units": 1,
      "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/75702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-36-2022",
+   "path": "local/teleorman/dracsenei/2022/36",
+   "short": "HCL Drăcșenei nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 36/2022",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/75703",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/75703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-37-2022",
+   "path": "local/teleorman/dracsenei/2022/37",
+   "short": "HCL Drăcșenei nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 37/2022 privind desemnarea reprezentantului Consiliului Local al comunei Drăcşenei în Comisia de Evaluare și Asigurare a Calității (CEAC) a Şcolii Gimnaziale comuna Drăcşenei începând cu anul școlar 2022 - 2023",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/75704",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/75704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-38-2022",
+   "path": "local/teleorman/dracsenei/2022/38",
+   "short": "HCL Drăcșenei nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 38/2022 privind alegerea preşedintelui de şedinţă pentru o perioadă de 3 luni",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/75705",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/75705",
      "sha256": null
     }
    ]
@@ -133,6 +193,36 @@
      "from": "2022-12-23",
      "units": 1,
      "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/83147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-45-2022",
+   "path": "local/teleorman/dracsenei/2022/45",
+   "short": "HCL Drăcșenei nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 45/2022",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/83148",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/83148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-46-2022",
+   "path": "local/teleorman/dracsenei/2022/46",
+   "short": "HCL Drăcșenei nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 46/2022",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/83149",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/83149",
      "sha256": null
     }
    ]

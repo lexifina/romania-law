@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--tatarastii-de-jos-25-2021",
+"path": "local/teleorman/tatarastii-de-jos/2021/25",
+"kind": "local",
+"year": "2021",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 25/2021 privind alegerea preşedintelui de şedinţă a Consiliului Local al Comunei Tătărăștii de Jos, pentru lunile: noiembrie,decembrie, aferente anului 2021",
+"short": "HCL Tătărăștii de Jos nr. 25/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-07",
+"latest": "2022-10-07",
+"portal": "https://emol.ro/tatarastiidejos-tr/registru-hcl/74915",
+"council": "teleorman/tatarastii-de-jos",
+"council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--tatarastii-de-jos-26-2021",
 "path": "local/teleorman/tatarastii-de-jos/2021/26",
 "kind": "local",
@@ -225,6 +247,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--tatarastii-de-jos-33-2021",
+"path": "local/teleorman/tatarastii-de-jos/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 33/2021 privind desemnarea unui reprezentant al consiliului local, care va face parte din Comisia de evaluare a probei de interviu, la concursul pentru ocuparea funcțiilor de director și director adjunct din unitatea de învățământ Școala Generală Tătărăștii de Jos, sesiunea 2021",
+"short": "HCL Tătărăștii de Jos nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-07",
+"latest": "2022-10-07",
+"portal": "https://emol.ro/tatarastiidejos-tr/registru-hcl/74926",
+"council": "teleorman/tatarastii-de-jos",
+"council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--tatarastii-de-jos-34-2021",
 "path": "local/teleorman/tatarastii-de-jos/2021/34",
 "kind": "local",
@@ -247,6 +291,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--tatarastii-de-jos-35-2021",
+"path": "local/teleorman/tatarastii-de-jos/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 35/2021 privind alegerea preşedintelui de şedinţă a Consiliului Local al Comunei Tătărăștii de Jos, pentru lunile: ianuarie, februarie, martie, aferente anului 2022",
+"short": "HCL Tătărăștii de Jos nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-07",
+"latest": "2022-10-07",
+"portal": "https://emol.ro/tatarastiidejos-tr/registru-hcl/74929",
+"council": "teleorman/tatarastii-de-jos",
+"council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--tatarastii-de-jos-36-2021",
 "path": "local/teleorman/tatarastii-de-jos/2021/36",
 "kind": "local",
@@ -266,6 +332,29 @@
 "council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--tatarastii-de-jos-37-2021",
+"path": "local/teleorman/tatarastii-de-jos/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 37/2021",
+"short": "HCL Tătărăștii de Jos nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-07",
+"latest": "2022-10-07",
+"portal": "https://emol.ro/tatarastiidejos-tr/registru-hcl/74931",
+"council": "teleorman/tatarastii-de-jos",
+"council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

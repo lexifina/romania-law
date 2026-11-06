@@ -3,6 +3,138 @@
 "shard": "local/teleorman/ciolanesti/2020",
 "acts": [
 {
+"slug": "hcl-teleorman--ciolanesti-9-2020",
+"path": "local/teleorman/ciolanesti/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 9/2020 privind introducerea sistem centralizt de alimentare cu apă în satul Baldovinești, com. Ciolănești",
+"short": "HCL Ciolănești nr. 9/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/ciolanesti-tr/registru-hcl/20324",
+"council": "teleorman/ciolanesti",
+"council_name": "Consiliul Local al Comunei Ciolănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--ciolanesti-10-2020",
+"path": "local/teleorman/ciolanesti/2020/10",
+"kind": "local",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 10/2020 privind rectificarea bugetului local al Com. Ciolănești pentru anul 2020",
+"short": "HCL Ciolănești nr. 10/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/ciolanesti-tr/registru-hcl/20325",
+"council": "teleorman/ciolanesti",
+"council_name": "Consiliul Local al Comunei Ciolănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--ciolanesti-11-2020",
+"path": "local/teleorman/ciolanesti/2020/11",
+"kind": "local",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 11/2020 privind modificarea Anexa nr. 1 la HCL Ciolănești nr. 25/2019 impozitele și taxele locale și a taxelor speciale pe anul 2020",
+"short": "HCL Ciolănești nr. 11/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-29",
+"latest": "2020-05-29",
+"portal": "https://emol.ro/ciolanesti-tr/registru-hcl/20326",
+"council": "teleorman/ciolanesti",
+"council_name": "Consiliul Local al Comunei Ciolănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--ciolanesti-12-2020",
+"path": "local/teleorman/ciolanesti/2020/12",
+"kind": "local",
+"year": "2020",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 12/2020 privind aprobarea constituirii fondului de rezervă bugetară la dispoziția Consiliului Local pt. Taxarea unei cheltuieli apărute în cursul exercițiului bugetar al anului 2020",
+"short": "HCL Ciolănești nr. 12/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/ciolanesti-tr/registru-hcl/20327",
+"council": "teleorman/ciolanesti",
+"council_name": "Consiliul Local al Comunei Ciolănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--ciolanesti-13-2020",
+"path": "local/teleorman/ciolanesti/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 13/2020 privind aprobarea utilizării fondului de rezervă bugetară la dispoziția consiliului local pentru finanțarea unor cheltuieli apărute în cursul exercițiului bugetar pe anul 2020",
+"short": "HCL Ciolănești nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-06",
+"latest": "2020-07-06",
+"portal": "https://emol.ro/ciolanesti-tr/registru-hcl/20330",
+"council": "teleorman/ciolanesti",
+"council_name": "Consiliul Local al Comunei Ciolănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--ciolanesti-14-2020",
+"path": "local/teleorman/ciolanesti/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 14/2020 privind alegerea președintelui de ședință pe lunile iulie, august, septembrie",
+"short": "HCL Ciolănești nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-06",
+"latest": "2020-07-06",
+"portal": "https://emol.ro/ciolanesti-tr/registru-hcl/20331",
+"council": "teleorman/ciolanesti",
+"council_name": "Consiliul Local al Comunei Ciolănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--ciolanesti-15-2020",
 "path": "local/teleorman/ciolanesti/2020/15",
 "kind": "local",
@@ -176,6 +308,28 @@
 "council_name": "Consiliul Local al Comunei Ciolănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--ciolanesti-23-2020",
+"path": "local/teleorman/ciolanesti/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 23/2020 privind desemnarea a doi reprezentanți ai Consiliului local al comunei Ciolănești în Consiliul de administrație al Școlii Gimnaziale Ciolănești",
+"short": "HCL Ciolănești nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-13",
+"latest": "2020-11-13",
+"portal": "https://emol.ro/ciolanesti-tr/registru-hcl/20427",
+"council": "teleorman/ciolanesti",
+"council_name": "Consiliul Local al Comunei Ciolănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

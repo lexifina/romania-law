@@ -3,6 +3,116 @@
 "shard": "local/teleorman/fantanele/2026",
 "acts": [
 {
+"slug": "hcl-teleorman--fantanele-1-2026",
+"path": "local/teleorman/fantanele/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 1/2026 Proiect de hotărâre privind acoperirea definitivă a deficitului secțiunii de funcționare și dezvoltare pe anul 2025 din excedentul bugetar al anilor precedenți",
+"short": "HCL Fântânele nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#116314",
+"council": "teleorman/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--fantanele-2-2026",
+"path": "local/teleorman/fantanele/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 2/2026 PH privind aprobarea Programului de acțiuni comunitare destinate prevenirii și combaterii riscului de sărăcie și excluziune socială în Comuna Fântânele,jud.Teleorman",
+"short": "HCL Fântânele nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#116321",
+"council": "teleorman/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--fantanele-3-2026",
+"path": "local/teleorman/fantanele/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 3/2026 PH privind aprobarea Tarifelor și a Regulamentului pentru închirierea spațiilor /obiectelor de inventar din incinta Căminului Cultural din Comuna Fântânele",
+"short": "HCL Fântânele nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#116324",
+"council": "teleorman/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--fantanele-4-2026",
+"path": "local/teleorman/fantanele/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 4/2026 PH privind aprobarea actualizării documentației pentru vânzarea prin licitație publică a unui bun mobil ,Tractor Ifon,aparținând comunei Fântânele, județul Teleorman",
+"short": "HCL Fântânele nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#116359",
+"council": "teleorman/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--fantanele-5-2026",
+"path": "local/teleorman/fantanele/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 5/2026 PH privind analiza stadiului de înscriere în Registrul agricol",
+"short": "HCL Fântânele nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#116360",
+"council": "teleorman/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--fantanele-6-2026",
 "path": "local/teleorman/fantanele/2026/6",
 "kind": "local",

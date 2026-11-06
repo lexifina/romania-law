@@ -3,6 +3,28 @@
 "shard": "local/suceava/veresti/2026",
 "acts": [
 {
+"slug": "hcl-suceava--veresti-23-2026",
+"path": "local/suceava/veresti/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 23/2026 privind alegerea președintelui de ședință",
+"short": "HCL Verești nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-27",
+"latest": "2026-04-27",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/268438",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--veresti-24-2026",
 "path": "local/suceava/veresti/2026/24",
 "kind": "local",
@@ -22,6 +44,28 @@
 "council_name": "Consiliul Local al Comunei Verești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--veresti-25-2026",
+"path": "local/suceava/veresti/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 25/2026 privind acordarea unor ajutoare de urgență unui număr de șase persoane din comuna Verești, județul Suceava",
+"short": "HCL Verești nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-21",
+"latest": "2026-05-21",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/269347",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +157,51 @@
 }
 },
 {
+"slug": "hcl-suceava--veresti-30-2026",
+"path": "local/suceava/veresti/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 30/2026",
+"short": "HCL Verești nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/273790",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--veresti-31-2026",
+"path": "local/suceava/veresti/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 31/2026 privind acordarea unui ajutor de urgență unei persoane din comuna Verești, județul Suceava",
+"short": "HCL Verești nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/273791",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--veresti-32-2026",
 "path": "local/suceava/veresti/2026/32",
 "kind": "local",
@@ -157,6 +246,50 @@
 }
 },
 {
+"slug": "hcl-suceava--veresti-34-2026",
+"path": "local/suceava/veresti/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 34/2026 privind acordarea unui ajutor de urgență unei persoane din comuna Verești, județul Suceava",
+"short": "HCL Verești nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-28",
+"latest": "2026-07-28",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/283809",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--veresti-35-2026",
+"path": "local/suceava/veresti/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 35/2026 privind alegerea președintelui de ședință",
+"short": "HCL Verești nr. 35/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-28",
+"latest": "2026-07-28",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/283810",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--veresti-36-2026",
 "path": "local/suceava/veresti/2026/36",
 "kind": "local",
@@ -198,6 +331,117 @@
 "council_name": "Consiliul Local al Comunei Verești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--veresti-38-2026",
+"path": "local/suceava/veresti/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 38/2026 privind acordarea unui ajutor de urgență unei persoane din comuna Verești, județul Suceava",
+"short": "HCL Verești nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-26",
+"latest": "2026-08-26",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/287540",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--veresti-39-2026",
+"path": "local/suceava/veresti/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 39/2026",
+"short": "HCL Verești nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/293482",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--veresti-40-2026",
+"path": "local/suceava/veresti/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 40/2026 privind desemnarea reprezentanților Consiliului Local Verești, ca membri în comisia de evaluare a probei de interviu pentru ocuparea funcțiilor de director și director adjunct, pentru Școala Gimnazială Verești din comuna Verești, județul Suceava",
+"short": "HCL Verești nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/293483",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--veresti-41-2026",
+"path": "local/suceava/veresti/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 41/2026 privind rectificarea bugetului local pe anul 2026",
+"short": "HCL Verești nr. 41/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/293484",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--veresti-42-2026",
+"path": "local/suceava/veresti/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 42/2026 privind acordarea unor ajutoare de urgență unui număr de două persoane din comuna Verești, județul Suceava",
+"short": "HCL Verești nr. 42/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/293485",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

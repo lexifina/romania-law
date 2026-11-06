@@ -3,6 +3,50 @@
 "shard": "local/suceava/radaseni/2020",
 "acts": [
 {
+"slug": "hcl-suceava--radaseni-35-2020",
+"path": "local/suceava/radaseni/2020/35",
+"kind": "local",
+"year": "2020",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 35/2020 privind numirea preşedintelui de şedinţă pentru ședința de consiliul local din 28 august 2020",
+"short": "HCL Rădășeni nr. 35/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-28",
+"latest": "2020-08-28",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/10453",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--radaseni-36-2020",
+"path": "local/suceava/radaseni/2020/36",
+"kind": "local",
+"year": "2020",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 36/2020 privind aprobarea solicitării prelungirii scrisorii de garanție bancară pentru proiectul ”Reabilitare, modernizare, extindere și dotare așezământ cultural, satul Lămăşeni, comuna Rădășeni, județul Suceava” până la data de 23.12.2021",
+"short": "HCL Rădășeni nr. 36/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-28",
+"latest": "2020-08-28",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/10454",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--radaseni-37-2020",
 "path": "local/suceava/radaseni/2020/37",
 "kind": "local",
@@ -22,6 +66,28 @@
 "council_name": "Consiliul Local al Comunei Rădășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--radaseni-38-2020",
+"path": "local/suceava/radaseni/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 38/2020 privind numirea preşedintelui de şedinţă pe o perioadă de 3 luni",
+"short": "HCL Rădășeni nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-28",
+"latest": "2020-08-28",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/10456",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +179,50 @@
 }
 },
 {
+"slug": "hcl-suceava--radaseni-43-2020",
+"path": "local/suceava/radaseni/2020/43",
+"kind": "local",
+"year": "2020",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 43/2020 privind aprobarea solicitării prelungirii scrisorii de garanție bancară pentru proiectul ”Înființare sistem de alimentare cu apă și rețea de apă uzată menajeră în satul Rădăşeni, comuna Rădășeni, județul Suceava” până la data de 28.01.2022",
+"short": "HCL Rădășeni nr. 43/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-05",
+"latest": "2020-10-05",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/10461",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--radaseni-44-2020",
+"path": "local/suceava/radaseni/2020/44",
+"kind": "local",
+"year": "2020",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 44/2020 privind includerea în domeniul privat al comunei Rădășeni a suprafeței de 516 mp în vederea întabulării/înscrierii cu caracter definitiv a dreptului de proprietate în evidențele de cadastru și carte funciară",
+"short": "HCL Rădășeni nr. 44/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-05",
+"latest": "2020-10-05",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/10462",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--radaseni-45-2020",
 "path": "local/suceava/radaseni/2020/45",
 "kind": "local",
@@ -135,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-suceava--radaseni-46-2020",
+"path": "local/suceava/radaseni/2020/46",
+"kind": "local",
+"year": "2020",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 46/2020 privind alegerea preşedintelui de şedinţă pentru o perioadă de 3 luni",
+"short": "HCL Rădășeni nr. 46/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-30",
+"latest": "2020-10-30",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/14362",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--radaseni-47-2020",
 "path": "local/suceava/radaseni/2020/47",
 "kind": "local",
@@ -154,6 +286,28 @@
 "council_name": "Consiliul Local al Comunei Rădășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--radaseni-48-2020",
+"path": "local/suceava/radaseni/2020/48",
+"kind": "local",
+"year": "2020",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 48/2020 privind alegerea viceprimarului comunei Rădășeni",
+"short": "HCL Rădășeni nr. 48/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-30",
+"latest": "2020-10-30",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/14364",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

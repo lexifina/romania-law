@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--sarbeni-27-2021",
+"path": "local/teleorman/sarbeni/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 27/2021 privind desemnare reprezentantii Consiliului Local Sârbeni, în Consiliul de Administraţie al Scolii Gimnaziale Sârbeni pentru anul scolar 2021 -2022",
+"short": "HCL Sârbeni nr. 27/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/sarbeni-tr/registru-hcl/46502",
+"council": "teleorman/sarbeni",
+"council_name": "Consiliul Local al Comunei Sârbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--sarbeni-28-2021",
 "path": "local/teleorman/sarbeni/2021/28",
 "kind": "local",
@@ -223,6 +245,50 @@
 }
 },
 {
+"slug": "hcl-teleorman--sarbeni-35-2021",
+"path": "local/teleorman/sarbeni/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 35/2021 privind aprobarea inchirierii suprafetei de 198, 40 ha teren arabil, proprietate privata a comunei SARBENI, judetul Teleorman",
+"short": "HCL Sârbeni nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-04",
+"latest": "2021-11-04",
+"portal": "https://emol.ro/sarbeni-tr/registru-hcl/46514",
+"council": "teleorman/sarbeni",
+"council_name": "Consiliul Local al Comunei Sârbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--sarbeni-36-2021",
+"path": "local/teleorman/sarbeni/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 36/2021 privind : desemnare reprezentant Consiliul local Sarbeni, care va face parte din comisia de evaluare a probei de interviu, din cadrul concursului pentru ocuparea functiei de Director si Director adjunct, la Scoala Gimnaziala Sarbeni, judetul Teleorman",
+"short": "HCL Sârbeni nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-04",
+"latest": "2021-11-04",
+"portal": "https://emol.ro/sarbeni-tr/registru-hcl/46515",
+"council": "teleorman/sarbeni",
+"council_name": "Consiliul Local al Comunei Sârbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--sarbeni-37-2021",
 "path": "local/teleorman/sarbeni/2021/37",
 "kind": "local",
@@ -242,6 +308,28 @@
 "council_name": "Consiliul Local al Comunei Sârbeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--sarbeni-38-2021",
+"path": "local/teleorman/sarbeni/2021/38",
+"kind": "local",
+"year": "2021",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 38/2021 privind : decontarea cheltuielilor de naveta",
+"short": "HCL Sârbeni nr. 38/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-29",
+"latest": "2021-11-29",
+"portal": "https://emol.ro/sarbeni-tr/registru-hcl/46520",
+"council": "teleorman/sarbeni",
+"council_name": "Consiliul Local al Comunei Sârbeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

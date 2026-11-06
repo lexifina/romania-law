@@ -3,6 +3,28 @@
 "shard": "local/teleorman/poroschia/2024",
 "acts": [
 {
+"slug": "hcl-teleorman--poroschia-43-2024",
+"path": "local/teleorman/poroschia/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 43/2024 privind rectificarea Bugetului local al Comunei Poroschia, Judeţul Teleorman pe anul 2024",
+"short": "HCL Poroschia nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/176322",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--poroschia-44-2024",
 "path": "local/teleorman/poroschia/2024/44",
 "kind": "local",
@@ -47,6 +69,249 @@
 }
 },
 {
+"slug": "hcl-teleorman--poroschia-46-2024",
+"path": "local/teleorman/poroschia/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 46/2024 privind participarea localitatii Poroschia la “ “ Programul-cheie 1: Surse regenerabile de energie și stocarea energiei - Sprijinirea investiţiilor în noi capacităţi de producere a energiei electrice produsă din surse regenerabile pentru autoconsum pentru entități publice”",
+"short": "HCL Poroschia nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/176325",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-47-2024",
+"path": "local/teleorman/poroschia/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 47/2024 privind atestarea inventarului bunurilor care aparțin domeniului public al comunei Poroschia, județul Teleorman",
+"short": "HCL Poroschia nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/176326",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-48-2024",
+"path": "local/teleorman/poroschia/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 48/2024 privind aprobarea propunerii de scoatere din circuitul agricol a suprafetei de 9.886 mp de teren arabil înscrisă în CF 24051 a comunei Poroschia, județul Teleorman",
+"short": "HCL Poroschia nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/176327",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-49-2024",
+"path": "local/teleorman/poroschia/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 49/2024",
+"short": "HCL Poroschia nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/176328",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-50-2024",
+"path": "local/teleorman/poroschia/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 50/2024 privind alegerea preşedintelui de şedinţă pentru lunile Noiembrie , Decembrie 2024 și Ianuarie 2025",
+"short": "HCL Poroschia nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/176882",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-51-2024",
+"path": "local/teleorman/poroschia/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 51/2024 privind aprobarea organizării comisiilor specialitate pe principalele domenii de activitate ale Consiliului Local al Comunei Poroschia, Judeţul Teleorman, pentru mandatul 2024-2028",
+"short": "HCL Poroschia nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/176883",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-52-2024",
+"path": "local/teleorman/poroschia/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 52/2024 privind alegerea viceprimarului comunei Poroschia, judetul Teleorman",
+"short": "HCL Poroschia nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/176884",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-53-2024",
+"path": "local/teleorman/poroschia/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 53/2024 privind rectificarea Bugetului local al Comunei Poroschia, Judeţul Teleorman pe anul 2024",
+"short": "HCL Poroschia nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-25",
+"latest": "2025-02-25",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/177036",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-54-2024",
+"path": "local/teleorman/poroschia/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 54/2024 privind aprobarea documentatiei si indicatorilor tehnico-economici, a contributiei financiare proprii si a cheltuielilor neeligibile pentru proiectul “Cresterea eficientei energetice a infrastructurii de iluminat public din comuna Poroschia, judetul Teleorman”",
+"short": "HCL Poroschia nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-25",
+"latest": "2025-02-25",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/177037",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-55-2024",
+"path": "local/teleorman/poroschia/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 55/2024 privind aprobarea Regulamentului de Organizare şi Funcţionare al Consiliului Local al Comunei Poroschia, Judeţul Teleorman",
+"short": "HCL Poroschia nr. 55/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/183689",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-56-2024",
+"path": "local/teleorman/poroschia/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 56/2024 privind aprobarea modului de întocmire a registrului agricol pe perioada 2025 - 2029",
+"short": "HCL Poroschia nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/183690",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--poroschia-57-2024",
 "path": "local/teleorman/poroschia/2024/57",
 "kind": "local",
@@ -66,6 +331,28 @@
 "council_name": "Consiliul Local al Comunei Poroschia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-58-2024",
+"path": "local/teleorman/poroschia/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 58/2024 privind aprobarea Studiului de Fezabilitate, a indicatorilor tehnico-economici pentru obiectivul de investiții \"Modernizare și extindere rețea de alimentare cu apă potabilă în comuna Poroschia, județul Teleorman\", aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Poroschia nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/183692",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -89,6 +376,72 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-60-2024",
+"path": "local/teleorman/poroschia/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 60/2024 privind stabilirea unei suprafețe de teren în vederea depozitării temporare a deșeurilor inerte provenite din activitățile de construcții si demolări și debarasarea fara plată de deșeuri de hârtie și carton, sticla, metal, materiale plastice, lemn, textile, ambalaje, deșeuri de baterii și acumulatori, ulei vegetal uzat și deșeuri voluminoase, inclusiv saltele și mobilă, de deșeuri periculoase pe raza comunei Poroschia, județul Teleorman",
+"short": "HCL Poroschia nr. 60/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/183694",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-61-2024",
+"path": "local/teleorman/poroschia/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 61/2024 privind aprobarea masurilor necesare pentru interzicerea abandonarii, aruncarii necontrolate a deseurilor sau gestionarii neconforme cu ierarhia deseurilor",
+"short": "HCL Poroschia nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/183695",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-62-2024",
+"path": "local/teleorman/poroschia/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 62/2024 privind rectificarea Bugetului local al Comunei Poroschia, Judeţul Teleorman pe anul 2024",
+"short": "HCL Poroschia nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/183696",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

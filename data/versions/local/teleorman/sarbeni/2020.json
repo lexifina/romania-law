@@ -286,6 +286,21 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-34-2020",
+   "path": "local/teleorman/sarbeni/2020/34",
+   "short": "HCL Sârbeni nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 34/2020 privind desemnare reprezentanții Consiliului Local Sârbeni, în Consiliul de Administrație al Școlii Gimnaziale Sârbeni pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/22429",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/22429",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

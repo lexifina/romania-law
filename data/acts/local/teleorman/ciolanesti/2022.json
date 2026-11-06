@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--ciolanesti-25-2022",
+"path": "local/teleorman/ciolanesti/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 25/2022 privind desemnarea a doi reprezentanți ai Consiliului local al comunei Ciolănești în Consiliul de admnistrație al Școlii Gimnaziale Ciolănești pentru anul școlar 2022-2023",
+"short": "HCL Ciolănești nr. 25/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-17",
+"latest": "2022-10-17",
+"portal": "https://emol.ro/ciolanesti-tr/registru-hcl/75958",
+"council": "teleorman/ciolanesti",
+"council_name": "Consiliul Local al Comunei Ciolănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--ciolanesti-26-2022",
 "path": "local/teleorman/ciolanesti/2022/26",
 "kind": "local",
@@ -66,6 +88,28 @@
 "council_name": "Consiliul Local al Comunei Ciolănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--ciolanesti-28-2022",
+"path": "local/teleorman/ciolanesti/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 28/2022 privind alegerea președintelui de ședință pentru o perioadă de 3 luni",
+"short": "HCL Ciolănești nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-26",
+"latest": "2022-10-26",
+"portal": "https://emol.ro/ciolanesti-tr/registru-hcl/113761",
+"council": "teleorman/ciolanesti",
+"council_name": "Consiliul Local al Comunei Ciolănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,51 @@
  "shard": "local/teleorman/ciolanesti/2025",
  "acts": [
   {
+   "slug": "hcl-teleorman--ciolanesti-26-2025",
+   "path": "local/teleorman/ciolanesti/2025/26",
+   "short": "HCL Ciolănești nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 26/2025 privind alegerea președintelui de ședință pe o perioadă de 3 luni",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/235065",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/235065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-27-2025",
+   "path": "local/teleorman/ciolanesti/2025/27",
+   "short": "HCL Ciolănești nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 27/2025 privind aprobarea indicatorilor tehnico-economici actualizați pentru implementarea proiectului de investiții: „Extindere rețea de canalizare în satele Ciolăneștii din Deal și Ciolăneștii din Vale din comuna Ciolănești, jud. Teleorman din fonduri alocate prin Programul național de investiții „Anghel Saligny”, aprobat prin OUG nr. 95/2021",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/235066",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/235066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-28-2025",
+   "path": "local/teleorman/ciolanesti/2025/28",
+   "short": "HCL Ciolănești nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 28/2025 privind aprobarea Regulamentului de Organizare și Funcționare a sălii de sport din comuna Ciolănești, jud. Teleorman",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/235074",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/235074",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--ciolanesti-29-2025",
    "path": "local/teleorman/ciolanesti/2025/29",
    "short": "HCL Ciolănești nr. 29/2025",
@@ -13,6 +58,21 @@
      "from": "2025-11-11",
      "units": 1,
      "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/235075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-30-2025",
+   "path": "local/teleorman/ciolanesti/2025/30",
+   "short": "HCL Ciolănești nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 30/2025 privind aprobarea închirierii sălii de sport a comunei Ciolănești și stabilirea tarifului de utilizare",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/235076",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/235076",
      "sha256": null
     }
    ]
@@ -138,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--ciolanesti-39-2025",
+   "path": "local/teleorman/ciolanesti/2025/39",
+   "short": "HCL Ciolănești nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 39/2025 privind închirierea prin licitație publică a terenului în suprafață de 2000 mp, teren identificat în tarla 21, parc. 123/1, teren extravilan amplasat în satul Baldovinești, comuna Ciolănești, județul Teleorman",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/259066",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/259066",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--ciolanesti-40-2025",
    "path": "local/teleorman/ciolanesti/2025/40",
    "short": "HCL Ciolănești nr. 40/2025",
@@ -168,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--ciolanesti-42-2025",
+   "path": "local/teleorman/ciolanesti/2025/42",
+   "short": "HCL Ciolănești nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 42/2025 privind stabilire tarife/prețuri provizorii pentru apă potabilă produsă, transportată și distribuită, pentru canalizare-epurare, respectiv a unor taxe practicate de către Serviciul Public Apă-canal comuna Ciolănești",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/258907",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/258907",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--ciolanesti-43-2025",
    "path": "local/teleorman/ciolanesti/2025/43",
    "short": "HCL Ciolănești nr. 43/2025",
@@ -178,6 +268,21 @@
      "from": "2026-03-19",
      "units": 1,
      "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/258920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-44-2025",
+   "path": "local/teleorman/ciolanesti/2025/44",
+   "short": "HCL Ciolănești nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 44/2025 privind aprobarea grilei cuprinzând salariile de bază pentru funcțiile contractuale din cadrul Serviciului Public Apă-Canal comuna Ciolănești, județul Teleorman",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/258921",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/258921",
      "sha256": null
     }
    ]

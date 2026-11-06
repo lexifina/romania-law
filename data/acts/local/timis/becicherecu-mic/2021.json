@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-timis--becicherecu-mic-102-2021",
+"path": "local/timis/becicherecu-mic/2021/102",
+"kind": "local",
+"year": "2021",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 102/2021 privind desemnarea reprezentantului Consiliului Local Becicherecu Mic în comisia de evaluare a probei de interviu pentru ocuparea funcțiilor de director și director adjunct pentru Școala Gimnazială „Dimitrie Țichindeal„, sesiunea 2021",
+"short": "HCL Becicherecu Mic nr. 102/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#7175",
+"council": "timis/becicherecu-mic",
+"council_name": "Consiliul Local al Comunei Becicherecu Mic",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-timis--becicherecu-mic-103-2021",
 "path": "local/timis/becicherecu-mic/2021/103",
 "kind": "local",
@@ -242,6 +264,28 @@
 "council_name": "Consiliul Local al Comunei Becicherecu Mic",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--becicherecu-mic-107-2021",
+"path": "local/timis/becicherecu-mic/2021/107",
+"kind": "local",
+"year": "2021",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 107/2021 privind desemnarea persoanelor responsabile cu evidenţa registrelor privind datoria publică locală",
+"short": "HCL Becicherecu Mic nr. 107/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#7180",
+"council": "timis/becicherecu-mic",
+"council_name": "Consiliul Local al Comunei Becicherecu Mic",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

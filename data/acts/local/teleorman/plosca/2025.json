@@ -3,6 +3,28 @@
 "shard": "local/teleorman/plosca/2025",
 "acts": [
 {
+"slug": "hcl-teleorman--plosca-44-2025",
+"path": "local/teleorman/plosca/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plosca nr. 44/2025 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Comunei Plosca, pentru perioada septembrie 2025 – noiembrie 2025",
+"short": "HCL Plosca nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/plosca-tr/registru-hcl/223125",
+"council": "teleorman/plosca",
+"council_name": "Consiliul Local al Comunei Plosca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--plosca-45-2025",
 "path": "local/teleorman/plosca/2025/45",
 "kind": "local",
@@ -66,6 +88,72 @@
 "council_name": "Consiliul Local al Comunei Plosca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--plosca-48-2025",
+"path": "local/teleorman/plosca/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plosca nr. 48/2025 privind desemnarea reprezentantului Consiliului Local al Comunei Plosca în Comisia pentru evaluarea şi asigurarea calităţii în unitatea de învățământ Școala Gimnazială Plosca pentru anul şcolar 2025-2026",
+"short": "HCL Plosca nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "https://emol.ro/plosca-tr/registru-hcl/231405",
+"council": "teleorman/plosca",
+"council_name": "Consiliul Local al Comunei Plosca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--plosca-49-2025",
+"path": "local/teleorman/plosca/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plosca nr. 49/2025 privind achitarea de la bugetul local al Comunei Plosca a sumelor reprezentând contravaloarea taxei de salubritate neachitate de membrii comunității locale și recuperarea acestora de la beneficiarii serviciului public",
+"short": "HCL Plosca nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "https://emol.ro/plosca-tr/registru-hcl/231406",
+"council": "teleorman/plosca",
+"council_name": "Consiliul Local al Comunei Plosca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--plosca-50-2025",
+"path": "local/teleorman/plosca/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plosca nr. 50/2025 privind aprobarea utilizării excedentului Comunei Plosca din anul 2024, pentru anul 2025",
+"short": "HCL Plosca nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "https://emol.ro/plosca-tr/registru-hcl/231407",
+"council": "teleorman/plosca",
+"council_name": "Consiliul Local al Comunei Plosca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--plosca-55-2025",
+"path": "local/teleorman/plosca/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plosca nr. 55/2025 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Comunei Plosca, pentru perioada decembrie 2025 – februarie 2026",
+"short": "HCL Plosca nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://emol.ro/plosca-tr/registru-hcl/237373",
+"council": "teleorman/plosca",
+"council_name": "Consiliul Local al Comunei Plosca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--plosca-56-2025",
 "path": "local/teleorman/plosca/2025/56",
 "kind": "local",
@@ -176,6 +286,28 @@
 "council_name": "Consiliul Local al Comunei Plosca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--plosca-57-2025",
+"path": "local/teleorman/plosca/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plosca nr. 57/2025 privind desemnarea reprezentanţilor Consiliului Local al Comuna Plosca în Consiliul de Administraţie al Școlii Gimnaziale din Comuna Plosca pentru anul şcolar 2025-2026",
+"short": "HCL Plosca nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://emol.ro/plosca-tr/registru-hcl/237375",
+"council": "teleorman/plosca",
+"council_name": "Consiliul Local al Comunei Plosca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

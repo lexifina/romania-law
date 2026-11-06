@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-teleorman--poroschia-22-2021",
+"path": "local/teleorman/poroschia/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 22/2021 privind alegerea preşedintelui de şedinţă pentru luna mai",
+"short": "HCL Poroschia nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-21",
+"latest": "2021-05-21",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/32767",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-23-2021",
+"path": "local/teleorman/poroschia/2021/23",
+"kind": "local",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 23/2021 privind aprobarea vânzării terenului în suprafața de 500 mp înscris în cartea funciara nr. 20431, având nr. cadastral 20431, situat în cv 26, parcela 2, lot 10, proprietate privată a comunei Poroschia",
+"short": "HCL Poroschia nr. 23/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-21",
+"latest": "2021-05-21",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/32765",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--poroschia-24-2021",
 "path": "local/teleorman/poroschia/2021/24",
 "kind": "local",
@@ -66,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Poroschia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-25-2021",
+"path": "local/teleorman/poroschia/2021/25",
+"kind": "local",
+"year": "2021",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 25/2021 privind decontarea cheltuielilor pentru naveta la şi de la locul de muncă a cadrelor didactice şi a personalului didactic auxiliar din învăţământul preuniversitar de stat de pe raza comunei Poroschia, judeţul Teleorman, pe lunile Ianuarie - Aprilie 2021",
+"short": "HCL Poroschia nr. 25/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-21",
+"latest": "2021-05-21",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/32762",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -155,6 +221,50 @@
 "council_name": "Consiliul Local al Comunei Poroschia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-30-2021",
+"path": "local/teleorman/poroschia/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 30/2021 privind decontarea cheltuielilor pentru naveta la şi de la locul de muncă a cadrelor didactice şi a personalului didactic auxiliar din învăţământul preuniversitar de stat de pe raza comunei Poroschia, judeţul Teleorman, pe luna Mai 2021",
+"short": "HCL Poroschia nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-18",
+"latest": "2021-06-18",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/32769",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-31-2021",
+"path": "local/teleorman/poroschia/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 31/2021 privind inițierea procedurii de concesionare a serviciului de utilitate publică de distribuție a gazelor naturale în comuna Poroschia, județul Teleorman",
+"short": "HCL Poroschia nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-18",
+"latest": "2021-06-18",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/32770",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -310,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Poroschia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-39-2021",
+"path": "local/teleorman/poroschia/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 39/2021 privind decontarea cheltuielilor pentru naveta la şi de la locul de muncă a cadrelor didactice şi a personalului didactic auxiliar din învăţământul preuniversitar de stat de pe raza comunei Poroschia, judeţul Teleorman, pe luna Iunie 2021",
+"short": "HCL Poroschia nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-21",
+"latest": "2021-07-21",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/32776",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

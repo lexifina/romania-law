@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--sarbeni-26-2022",
+"path": "local/teleorman/sarbeni/2022/26",
+"kind": "local",
+"year": "2022",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 26/2022 privind desemnare reprezentantii Consiliului Local Sârbeni, în Consiliul de Administraţie al Scolii Gimnaziale Sârbeni pentru anul scolar 2022 -2023",
+"short": "HCL Sârbeni nr. 26/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/sarbeni-tr/registru-hcl/99987",
+"council": "teleorman/sarbeni",
+"council_name": "Consiliul Local al Comunei Sârbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--sarbeni-27-2022",
 "path": "local/teleorman/sarbeni/2022/27",
 "kind": "local",
@@ -66,6 +88,51 @@
 "council_name": "Consiliul Local al Comunei Sârbeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--sarbeni-29-2022",
+"path": "local/teleorman/sarbeni/2022/29",
+"kind": "local",
+"year": "2022",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 29/2022 privind alegere președinte de ședință",
+"short": "HCL Sârbeni nr. 29/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/sarbeni-tr/registru-hcl/99990",
+"council": "teleorman/sarbeni",
+"council_name": "Consiliul Local al Comunei Sârbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--sarbeni-30-2022",
+"path": "local/teleorman/sarbeni/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 30/2022",
+"short": "HCL Sârbeni nr. 30/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/sarbeni-tr/registru-hcl/100013",
+"council": "teleorman/sarbeni",
+"council_name": "Consiliul Local al Comunei Sârbeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -202,6 +269,29 @@
 }
 },
 {
+"slug": "hcl-teleorman--sarbeni-37-2022",
+"path": "local/teleorman/sarbeni/2022/37",
+"kind": "local",
+"year": "2022",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 37/2022",
+"short": "HCL Sârbeni nr. 37/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/sarbeni-tr/registru-hcl/100047",
+"council": "teleorman/sarbeni",
+"council_name": "Consiliul Local al Comunei Sârbeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-teleorman--sarbeni-38-2022",
 "path": "local/teleorman/sarbeni/2022/38",
 "kind": "local",
@@ -287,6 +377,50 @@
 "council_name": "Consiliul Local al Comunei Sârbeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--sarbeni-42-2022",
+"path": "local/teleorman/sarbeni/2022/42",
+"kind": "local",
+"year": "2022",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 42/2022 privind decontarea contravalorii cheltuielilor de deplasare pentru transportul între localitatea în care functionarii publici si personalul contractual din cadrul Primariei Comunei Sarbeni îşi au domiciliul și localitatea unde se află locul de muncă al acestora, respectiv sediu primarie Comuna Sarbeni",
+"short": "HCL Sârbeni nr. 42/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/sarbeni-tr/registru-hcl/100054",
+"council": "teleorman/sarbeni",
+"council_name": "Consiliul Local al Comunei Sârbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--sarbeni-43-2022",
+"path": "local/teleorman/sarbeni/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 43/2022 privind unor sporuri reprezentând cadouri de Crăciun, personalului aparatului de specialitate al Primarului comunei SARBENI",
+"short": "HCL Sârbeni nr. 43/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/sarbeni-tr/registru-hcl/100055",
+"council": "teleorman/sarbeni",
+"council_name": "Consiliul Local al Comunei Sârbeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

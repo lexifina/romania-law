@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/paltinoasa/2024",
+ "acts": [
+  {
+   "slug": "hcl-suceava--paltinoasa-101-2024",
+   "path": "local/suceava/paltinoasa/2024/101",
+   "short": "HCL Păltinoasa nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 101/2024 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Păltinoasa, pe principalele domenii de activitate",
+   "url": "https://primariapaltinoasa.ro/index.php/consiliul-local/comisii",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://primariapaltinoasa.ro/images/MOL2024/Paltinoasa,%20HCL%20nr.%20101%20din%2006.11.2024.pdf",
+     "sha256": "b65cde7c2028875552d08460a265e6482378b4835037ae4c1b4b8e75e2d5be59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--paltinoasa-117-2024",
+   "path": "local/suceava/paltinoasa/2024/117",
+   "short": "HCL Păltinoasa nr. 117/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 117/2024 privind modificarea art.4 din Hotărârea nr. 101 din 06.11.2024 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Păltinoasa, pe principalele domenii de activitate",
+   "url": "https://primariapaltinoasa.ro/index.php/consiliul-local/comisii",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://primariapaltinoasa.ro/images/MOL2024/Paltinoasa,%20HCL%20nr.%20117%20din%2028.11.2024.pdf",
+     "sha256": "0e4f88f9f9d446864c1c2318605c7bc01add1cda5ca0493b538a634bd5742a3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--paltinoasa-96-2024",
+   "path": "local/suceava/paltinoasa/2024/96",
+   "short": "HCL Păltinoasa nr. 96/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 96/2024 privind aprobarea Statutului Comunei Păltinoasa, judeţul Suceava",
+   "url": "https://primariapaltinoasa.ro/index.php/monitorul-oficial-local/statutul-uat",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://primariapaltinoasa.ro/images/MOL2024/Paltinoasa,%20HCL%20nr.%2096%20din%2021.10.2024.pdf",
+     "sha256": "bd3605dbc77ca67764bbb187c85834c4444ebf00a70001d87cbb75dd75dbe898"
+    }
+   ]
+  }
+ ]
+}

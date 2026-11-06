@@ -18,6 +18,51 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--talpa-74-2021",
+   "path": "local/teleorman/talpa/2021/74",
+   "short": "HCL Talpa nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 74/2021 privind cumpărarea bunurilor imobile, situate în satul Talpa-Ogrăzile, str. Bîncii, comuna Talpa, județul Teleorman, de către Comuna Talpa",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/47108",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/47108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-75-2021",
+   "path": "local/teleorman/talpa/2021/75",
+   "short": "HCL Talpa nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 75/2021 privind desemnarea unui reprezentant al Consiliului Local al comunei Talpa pentru a participa, în calitate de membru al Comisiei de evaluare a probei de interviu, la concursul pentru ocuparea funcțiilor de director și director adjunct din unitatea de învățământ Școala Gimnazială Talpa, sesiuena 2021",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/47109",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/47109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-76-2021",
+   "path": "local/teleorman/talpa/2021/76",
+   "short": "HCL Talpa nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 76/2021 privind atribuirea directă în vederea închirierii de teren în suprafață de 919 m² către OMV Petrom SA pentru realizarea proiectului ”Lucrări de abandonare de suprafață la sonda 1766 Talpa”",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/47110",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/47110",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--talpa-77-2021",
    "path": "local/teleorman/talpa/2021/77",
    "short": "HCL Talpa nr. 77/2021",
@@ -63,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--talpa-80-2021",
+   "path": "local/teleorman/talpa/2021/80",
+   "short": "HCL Talpa nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 80/2021 privind revocarea Hotărârii Consiliului Local nr. 59 din data de 22.09.2021 referitoare la atribuirea directă în vederea închirierii de teren necesar pentru realizarea obiectivului de investiții ”Conducta de la sonda 139 Talpa la Parc 34 Talpa”",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/47114",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/47114",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--talpa-81-2021",
    "path": "local/teleorman/talpa/2021/81",
    "short": "HCL Talpa nr. 81/2021",
@@ -73,6 +133,21 @@
      "from": "2021-11-23",
      "units": 1,
      "source_url": "https://emol.ro/talpa-tr/registru-hcl/47115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-82-2021",
+   "path": "local/teleorman/talpa/2021/82",
+   "short": "HCL Talpa nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 82/2021",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/47116",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/47116",
      "sha256": null
     }
    ]
@@ -103,6 +178,21 @@
      "from": "2021-12-21",
      "units": 1,
      "source_url": "https://emol.ro/talpa-tr/registru-hcl/47170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-85-2021",
+   "path": "local/teleorman/talpa/2021/85",
+   "short": "HCL Talpa nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 85/2021 privind alegerea președintelui de ședință a Consiliului Local al Comunei Talpa, pentru lunile: ianuarie, februarie și martie, aferente anului 2022",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/47171",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/47171",
      "sha256": null
     }
    ]

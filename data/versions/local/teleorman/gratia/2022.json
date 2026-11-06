@@ -168,6 +168,36 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--gratia-51-2022",
+   "path": "local/teleorman/gratia/2022/51",
+   "short": "HCL Gratia nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 51/2022",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/92087",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/92087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-52-2022",
+   "path": "local/teleorman/gratia/2022/52",
+   "short": "HCL Gratia nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 52/2022",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/92088",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/92088",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--gratia-53-2022",
    "path": "local/teleorman/gratia/2022/53",
    "short": "HCL Gratia nr. 53/2022",

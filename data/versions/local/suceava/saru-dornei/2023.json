@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--saru-dornei-64-2023",
+   "path": "local/suceava/saru-dornei/2023/64",
+   "short": "HCL Șaru Dornei nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 64/2023 privind alegerea președintelui de ședință al Consiliului Local Șaru Dornei",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/134193",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/134193",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--saru-dornei-65-2023",
    "path": "local/suceava/saru-dornei/2023/65",
    "short": "HCL Șaru Dornei nr. 65/2023",

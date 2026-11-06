@@ -3,6 +3,50 @@
 "shard": "local/teleorman/dracsenei/2023",
 "acts": [
 {
+"slug": "hcl-teleorman--dracsenei-26-2023",
+"path": "local/teleorman/dracsenei/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 26/2023 privind stabilirea salariilor de bază ale funcţionarilor publici şi personalului contractual din aparatul de specialitate al primarului comunei Drăcşenei şi de la instituţiile şi serviciile aflate în subordinea consiliului local, încadrați conform Nomenclatorului și ierarhiei funcțiilor publice și contractuale din administrația publică locală potrivit anexei nr.VIII la Legea nr.153/2017, cu modificările si completările ulterioare",
+"short": "HCL Drăcșenei nr. 26/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-13",
+"latest": "2023-06-13",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/102853",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--dracsenei-27-2023",
+"path": "local/teleorman/dracsenei/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 27/2023 privind acordarea drepturilor cu caracter reparatoriu, în considerarea coeficienților de ierarhizare stabiliți de consiliul local anterior datei de 1 noiembrie 2022, pentru funcţionarii publici şi personalului contractual din aparatul de specialitate al primarului comunei Drăcşenei şi de la instituţiile şi serviciile aflate în subordinea consiliului local, încadrați conform Nomenclatorului și ierarhiei funcțiilor publice și contractuale din administrația publică locală potrivit anexei nr.VIII la Legea nr.153/2017, cu modificările si completările ulterioare, pentru perioada 1 noiembrie 2022 – 31 martie 2023",
+"short": "HCL Drăcșenei nr. 27/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-13",
+"latest": "2023-06-13",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/102854",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--dracsenei-28-2023",
 "path": "local/teleorman/dracsenei/2023/28",
 "kind": "local",
@@ -157,6 +201,29 @@
 }
 },
 {
+"slug": "hcl-teleorman--dracsenei-35-2023",
+"path": "local/teleorman/dracsenei/2023/35",
+"kind": "local",
+"year": "2023",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 35/2023",
+"short": "HCL Drăcșenei nr. 35/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-17",
+"latest": "2023-07-17",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/112557",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-teleorman--dracsenei-36-2023",
 "path": "local/teleorman/dracsenei/2023/36",
 "kind": "local",
@@ -176,6 +243,28 @@
 "council_name": "Consiliul Local al Comunei Drăcșenei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--dracsenei-37-2023",
+"path": "local/teleorman/dracsenei/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 37/2023 privind alegerea preşedintelui de şedinţă pentru o perioadă de 3 luni",
+"short": "HCL Drăcșenei nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-07",
+"latest": "2023-08-07",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/113405",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -268,6 +357,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--dracsenei-42-2023",
+"path": "local/teleorman/dracsenei/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 42/2023 privind aprobarea acordării din bugetul local pe anul 2023, a unui sprijin financiar Parohiei Drăcșani din Comuna Drăcșenei, județul Teleorman, la cerere",
+"short": "HCL Drăcșenei nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/120661",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--dracsenei-43-2023",
 "path": "local/teleorman/dracsenei/2023/43",
 "kind": "local",
@@ -287,6 +398,50 @@
 "council_name": "Consiliul Local al Comunei Drăcșenei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--dracsenei-44-2023",
+"path": "local/teleorman/dracsenei/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 44/2023 privind reorganizarea Comisiei de specialitate pentru programe de dezvoltare economico-socială, buget-finanţe, administrarea domeniului public şi privat, agricultură, gospodărie comunală, protecţia mediului, servicii şi comerţ, a Consiliului Local al comunei Drăcşenei",
+"short": "HCL Drăcșenei nr. 44/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/123743",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--dracsenei-45-2023",
+"path": "local/teleorman/dracsenei/2023/45",
+"kind": "local",
+"year": "2023",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 45/2023 privind desemnarea reprezentantului Consiliului Local al comunei Drăcşenei în Consiliul de administraţie al Şcolii Gimnaziale comuna Drăcşenei, pentru anul şcolar 2023 - 2024",
+"short": "HCL Drăcșenei nr. 45/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/123744",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

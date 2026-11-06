@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--tatarastii-de-jos-27-2024",
+   "path": "local/teleorman/tatarastii-de-jos/2024/27",
+   "short": "HCL Tătărăștii de Jos nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 27/2024 privind constituirea comisiilor de specialitate ale Consiliului Local al Comunei Tătărăștii de Jos, județul Teleorman",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/209546",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/209546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-28-2024",
+   "path": "local/teleorman/tatarastii-de-jos/2024/28",
+   "short": "HCL Tătărăștii de Jos nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 28/2024 privind alegerea Viceprimarului comunei Tătărăștii de Jos, județul Teleorman",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/209547",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/209547",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--tatarastii-de-jos-29-2024",
    "path": "local/teleorman/tatarastii-de-jos/2024/29",
    "short": "HCL Tătărăștii de Jos nr. 29/2024",
@@ -88,6 +118,21 @@
      "from": "2025-05-29",
      "units": 1,
      "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/209565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-34-2024",
+   "path": "local/teleorman/tatarastii-de-jos/2024/34",
+   "short": "HCL Tătărăștii de Jos nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 34/2024 privind alegerea președintelui de ședință a Consiliului Local al Comunei Tătărăști de Jos",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/209566",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/209566",
      "sha256": null
     }
    ]

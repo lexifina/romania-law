@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--poroschia-21-2026",
+   "path": "local/teleorman/poroschia/2026/21",
+   "short": "HCL Poroschia nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 21/2026 privind rectificarea Bugetului local al Comunei Poroschia, Judeţul Teleorman pe anul 2026",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/276681",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/276681",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--poroschia-22-2026",
    "path": "local/teleorman/poroschia/2026/22",
    "short": "HCL Poroschia nr. 22/2026",
@@ -73,6 +88,21 @@
      "from": "2026-07-14",
      "units": 1,
      "source_url": "https://emol.ro/poroschia-tr/registru-hcl/279898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-24-2026",
+   "path": "local/teleorman/poroschia/2026/24",
+   "short": "HCL Poroschia nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 24/2026 privind alegerea preşedintelui de şedinţă pentru lunile August, Septembrie și Octombrie 2026",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/279899",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/279899",
      "sha256": null
     }
    ]
@@ -123,6 +153,36 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--poroschia-28-2026",
+   "path": "local/teleorman/poroschia/2026/28",
+   "short": "HCL Poroschia nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 28/2026 privind desemnarea reprezentantului Consiliului Local al comunei Poroschia în Consiliul de administrație constituit în cadrul Școlii Gimnaziale Poroschia pentru anul şcolar 2026-2027",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/292033",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/292033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-29-2026",
+   "path": "local/teleorman/poroschia/2026/29",
+   "short": "HCL Poroschia nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 29/2026 privind desemnarea reprezentantului Consiliului Local al comunei Poroschia și a membrului supleant în comisia de evaluare a probei de interviu pentru concursul de ocupare a funcției de director la Școala Gimnazială Poroschia, sesiunea august-decembrie 2026",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/292034",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/292034",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--poroschia-30-2026",
    "path": "local/teleorman/poroschia/2026/30",
    "short": "HCL Poroschia nr. 30/2026",
@@ -148,6 +208,36 @@
      "from": "2026-09-28",
      "units": 1,
      "source_url": "https://emol.ro/poroschia-tr/registru-hcl/292036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-32-2026",
+   "path": "local/teleorman/poroschia/2026/32",
+   "short": "HCL Poroschia nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 32/2026 privind rectificarea Bugetului local al Comunei Poroschia, Judeţul Teleorman pe anul 2026, a Planului anual de achizitii și a programului anual de investitii al comunei Poroschia, judetul Teleorman, pe anul 2026",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/292037",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/292037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-33-2026",
+   "path": "local/teleorman/poroschia/2026/33",
+   "short": "HCL Poroschia nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 33/2026 privind alegerea preşedintelui de şedinţă pentru lunile noiembrie 2026, decembrie 2026 și ianuarie 2027",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/295750",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/295750",
      "sha256": null
     }
    ]

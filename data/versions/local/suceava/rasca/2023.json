@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--rasca-79-2023",
+   "path": "local/suceava/rasca/2023/79",
+   "short": "HCL Râșca nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 79/2023 privind alegerea președintelui de ședință pe luna decembrie 2023",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/135398",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/135398",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--rasca-80-2023",
    "path": "local/suceava/rasca/2023/80",
    "short": "HCL Râșca nr. 80/2023",
@@ -58,6 +73,66 @@
      "from": "2023-12-27",
      "units": 1,
      "source_url": "https://emol.ro/rasca-sv/registru-hcl/135399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-81-2023",
+   "path": "local/suceava/rasca/2023/81",
+   "short": "HCL Râșca nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 81/2023 privind decontarea navetei personalului didactic de la Școala Gimnazială Râșca",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/135400",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/135400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-82-2023",
+   "path": "local/suceava/rasca/2023/82",
+   "short": "HCL Râșca nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 82/2023 privind aprobarea includerii în domeniul privat a unor terenuri situate în intravilanul și extravilanul satului Râșca, comuna Râșca, județul Suceava",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/135401",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/135401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-83-2023",
+   "path": "local/suceava/rasca/2023/83",
+   "short": "HCL Râșca nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 83/2023 privind decontarea sumei de 25000 lei reprezentând contravaloarea pachetelor - cadouri pentru elevii Școlii Gimnaziale Râșca ocazionate de sărbătorile de iarnă 2023-2024",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/135402",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/135402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-84-2023",
+   "path": "local/suceava/rasca/2023/84",
+   "short": "HCL Râșca nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 84/2023",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/135403",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/135403",
      "sha256": null
     }
    ]
@@ -88,6 +163,21 @@
      "from": "2023-12-27",
      "units": 1,
      "source_url": "https://emol.ro/rasca-sv/registru-hcl/135405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-87-2023",
+   "path": "local/suceava/rasca/2023/87",
+   "short": "HCL Râșca nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 87/2023 privind alegerea președintelui de ședință pe luna ianuarie 2024",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/164568",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/164568",
      "sha256": null
     }
    ]
@@ -193,6 +283,21 @@
      "from": "2024-07-31",
      "units": 1,
      "source_url": "https://emol.ro/rasca-sv/registru-hcl/164575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-95-2023",
+   "path": "local/suceava/rasca/2023/95",
+   "short": "HCL Râșca nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 95/2023 privind aprobare decontare navetă cadrelor didactice de la Școala Gimnazială Râșca, pentru luna noiembrie 2023 în sumă de 3247",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/164576",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/164576",
      "sha256": null
     }
    ]

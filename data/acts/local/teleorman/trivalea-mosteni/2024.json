@@ -3,6 +3,28 @@
 "shard": "local/teleorman/trivalea-mosteni/2024",
 "acts": [
 {
+"slug": "hcl-teleorman--trivalea-mosteni-32-2024",
+"path": "local/teleorman/trivalea-mosteni/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 32/2024 privind închirierea imobilului din domeniul privat - „ÎNCĂPERILE NR. 8 ȘI NR. 9 CONFORM SCHIȚEI CE FACE PARTE DIN CONSTRUCȚIA DISPENSAR UMAN”, COMUNA TRIVALEA-MOSTENI, SAT BRATASANI, JUDEȚUL TELEORMAN",
+"short": "HCL Trivalea-Moșteni nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/191528",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--trivalea-mosteni-33-2024",
 "path": "local/teleorman/trivalea-mosteni/2024/33",
 "kind": "local",
@@ -22,6 +44,117 @@
 "council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--trivalea-mosteni-34-2024",
+"path": "local/teleorman/trivalea-mosteni/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 34/2024 privind desemnarea unui reprezentant al Consiliului local Trivalea-Mosteni pentru a face parte din Consiliul de administratie al Scolii Gimnaziale – comuna Trivalea -Mosteni",
+"short": "HCL Trivalea-Moșteni nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/191530",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--trivalea-mosteni-35-2024",
+"path": "local/teleorman/trivalea-mosteni/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 35/2024",
+"short": "HCL Trivalea-Moșteni nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/191531",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--trivalea-mosteni-36-2024",
+"path": "local/teleorman/trivalea-mosteni/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 36/2024 privind organizarea comisiilor de specialitate al Consiliului local al comunei Trivalea-Moșteni",
+"short": "HCL Trivalea-Moșteni nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-28",
+"latest": "2024-10-28",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/191911",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--trivalea-mosteni-37-2024",
+"path": "local/teleorman/trivalea-mosteni/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 37/2024 privind aprobarea Regulamentului de organizare și funcționare a Consiliului local al comunei Trivalea-Mosteni, județul Teleorman",
+"short": "HCL Trivalea-Moșteni nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-28",
+"latest": "2024-10-28",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/191912",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--trivalea-mosteni-38-2024",
+"path": "local/teleorman/trivalea-mosteni/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 38/2024 privind aprobarea Devizului General si a indicatorilor tehnico-economici ai proiectului „EFICIENTIZAREA SISTEMULUI DE ILUMINAT PUBLIC DIN COMUNA TRIVALEA-MOSTENI, JUDETUL TELEORMAN”",
+"short": "HCL Trivalea-Moșteni nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/191913",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +224,73 @@
 }
 },
 {
+"slug": "hcl-teleorman--trivalea-mosteni-42-2024",
+"path": "local/teleorman/trivalea-mosteni/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 42/2024",
+"short": "HCL Trivalea-Moșteni nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/191917",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--trivalea-mosteni-43-2024",
+"path": "local/teleorman/trivalea-mosteni/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 43/2024 privind desemnarea unui reprezentant al Consiliului local Trivalea-Mosteni pentru a face parte din Comisia pentru evaluarea si asigurarea calitatii din cadrul Scolii Gimnaziale – comuna Trivalea -Mosteni",
+"short": "HCL Trivalea-Moșteni nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/191918",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--trivalea-mosteni-44-2024",
+"path": "local/teleorman/trivalea-mosteni/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 44/2024 privind aprobarea modificarii nomenclatorului stradal al comunei Trivalea-Moşteni, judeţul Teleorman aprobat prin HCL nr.10/2019",
+"short": "HCL Trivalea-Moșteni nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/191920",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--trivalea-mosteni-45-2024",
 "path": "local/teleorman/trivalea-mosteni/2024/45",
 "kind": "local",
@@ -135,6 +335,50 @@
 }
 },
 {
+"slug": "hcl-teleorman--trivalea-mosteni-47-2024",
+"path": "local/teleorman/trivalea-mosteni/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 47/2024 privind stabilirea impozitelor şi taxelor locale pentru anul fiscal 2025 la nivelul comunei Trivalea-Moșteni",
+"short": "HCL Trivalea-Moșteni nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/191924",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--trivalea-mosteni-48-2024",
+"path": "local/teleorman/trivalea-mosteni/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 48/2024 privind alegerea unui presedinte de sedinta a Consiliului local al Comunei Trivalea-Mosteni pentru urmatoarele 3 luni",
+"short": "HCL Trivalea-Moșteni nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/191925",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--trivalea-mosteni-49-2024",
 "path": "local/teleorman/trivalea-mosteni/2024/49",
 "kind": "local",
@@ -154,6 +398,51 @@
 "council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--trivalea-mosteni-50-2024",
+"path": "local/teleorman/trivalea-mosteni/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 50/2024",
+"short": "HCL Trivalea-Moșteni nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/191927",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--trivalea-mosteni-51-2024",
+"path": "local/teleorman/trivalea-mosteni/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 51/2024 privind stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei TRIVALEA-MOSTENI, judeţul Teleorman, începând cu luna ianuarie 2025",
+"short": "HCL Trivalea-Moșteni nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/191928",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

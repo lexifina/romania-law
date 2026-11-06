@@ -3,6 +3,50 @@
 "shard": "local/suceava/vulturesti/2021",
 "acts": [
 {
+"slug": "hcl-suceava--vulturesti-23-2021",
+"path": "local/suceava/vulturesti/2021/23",
+"kind": "local",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 23/2021 privind reorganizarea Consiliului Comunitar Consultativ de la nivelul comunei Vultureşti, judeţul Suceava, şi aprobarea Regulamentului de organizare şi funcţionare",
+"short": "HCL Vulturești nr. 23/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-31",
+"latest": "2021-08-31",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/33958",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-24-2021",
+"path": "local/suceava/vulturesti/2021/24",
+"kind": "local",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 24/2021 privind aprobarea rectificării bugetului local al comunei Vultureşti, judeţul Suceava, pe anul 2021",
+"short": "HCL Vulturești nr. 24/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-31",
+"latest": "2021-08-31",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/33959",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--vulturesti-25-2021",
 "path": "local/suceava/vulturesti/2021/25",
 "kind": "local",
@@ -22,6 +66,51 @@
 "council_name": "Consiliul Local al Comunei Vulturești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-26-2021",
+"path": "local/suceava/vulturesti/2021/26",
+"kind": "local",
+"year": "2021",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 26/2021",
+"short": "HCL Vulturești nr. 26/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/36439",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-27-2021",
+"path": "local/suceava/vulturesti/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 27/2021 privind aprobarea rectificării bugetului local al comunei Vultureşti, judeţul Suceava, pe anul 2021",
+"short": "HCL Vulturești nr. 27/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/36440",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +136,228 @@
 }
 },
 {
+"slug": "hcl-suceava--vulturesti-29-2021",
+"path": "local/suceava/vulturesti/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 29/2021",
+"short": "HCL Vulturești nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/39551",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-30-2021",
+"path": "local/suceava/vulturesti/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 30/2021 privind aprobarea execuţiei bugetului local al comunei Vultureşti, judeţul Suceava, pe cele două secţiuni, corespunzătoare trim. III al anului 2021",
+"short": "HCL Vulturești nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/39552",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-31-2021",
+"path": "local/suceava/vulturesti/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 31/2021",
+"short": "HCL Vulturești nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/39553",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-32-2021",
+"path": "local/suceava/vulturesti/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 32/2021 privind aprobarea rectificării bugetului local al comunei Vultureşti, judeţul Suceava, pe anul 2021",
+"short": "HCL Vulturești nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/39554",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-33-2021",
+"path": "local/suceava/vulturesti/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 33/2021 privind alegerea preşedintelui de şedinţă pentru perioada noiembrie 2021 – ianuarie 2022",
+"short": "HCL Vulturești nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/39555",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-34-2021",
+"path": "local/suceava/vulturesti/2021/34",
+"kind": "local",
+"year": "2021",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 34/2021 privind aprobarea contractării unui împrumut în valoare de 1.100.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 83/2021 pentru unele măsuri fiscal-bugetare privind acordarea unor împrumuturi din Trezoreria Statului",
+"short": "HCL Vulturești nr. 34/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/39556",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-35-2021",
+"path": "local/suceava/vulturesti/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 35/2021 privind aprobarea depunerii cererii de finanțare, a indicatorilor tehnico-economici și a devizului general estimativ pentru proiectul \"MODERNIZARE DC4 OSOI - VALEA GLODULUI - GIURGEȘTI, COMUNA VULTUREȘTI, JUDEȚUL SUCEAVA \"",
+"short": "HCL Vulturești nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-04",
+"latest": "2021-11-04",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/40295",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-36-2021",
+"path": "local/suceava/vulturesti/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 36/2021 privind aprobarea depunerii cererii de finanțare, a indicatorilor tehnico-economici și a devizului general estimativ pentru proiectul \"REABILITARE POD PESTE RÂUL ŞOMUZUL MIC ÎN SATUL GIURGEŞTI ŞI CONSTRUIRE POD PESTE RÂUL ŞOMUZUL MIC ÎN SATUL VALEA GLODULUI, COMUNA VULTUREŞTI, JUDEŢUL SUCEAVA\"",
+"short": "HCL Vulturești nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-04",
+"latest": "2021-11-04",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/40296",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-37-2021",
+"path": "local/suceava/vulturesti/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 37/2021 privind participarea Comunei Vultureşti, Judeţul Suceava, la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public cu investiția ”Modernizarea sistemului de iluminat public stradal în Comuna Vulturești, Județul Suceava”",
+"short": "HCL Vulturești nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-08",
+"latest": "2021-12-08",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/43439",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-38-2021",
+"path": "local/suceava/vulturesti/2021/38",
+"kind": "local",
+"year": "2021",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 38/2021 privind aprobarea rectificării bugetului local al comunei Vultureşti, judeţul Suceava, pe anul 2021",
+"short": "HCL Vulturești nr. 38/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-08",
+"latest": "2021-12-08",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/43440",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--vulturesti-39-2021",
 "path": "local/suceava/vulturesti/2021/39",
 "kind": "local",
@@ -66,6 +377,72 @@
 "council_name": "Consiliul Local al Comunei Vulturești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-40-2021",
+"path": "local/suceava/vulturesti/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 40/2021 privind aprobarea numărului şi cuantumului burselor care se vor acorda elevilor din unităţile de învăţământ preuniversitar de stat din comuna Vultureşti, judeţul Suceava, în semestrul I al anului școlar 2021 - 2022",
+"short": "HCL Vulturești nr. 40/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/44833",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-41-2021",
+"path": "local/suceava/vulturesti/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 41/2021 privind mandatarea primarului comunei Vultureşti, judeţul Suceava, să reprezinte interesele Consiliului Local al comunei Vultureşti în dosarul nr. 4392/86/2021 aflat pe rolul Tribunalului Suceava - Secţia de contencios administrativ şi fiscal",
+"short": "HCL Vulturești nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/44834",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-42-2021",
+"path": "local/suceava/vulturesti/2021/42",
+"kind": "local",
+"year": "2021",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 42/2021 privind aprobarea rectificării bugetului local al comunei Vultureşti, judeţul Suceava, pe anul 2021",
+"short": "HCL Vulturești nr. 42/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/44835",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

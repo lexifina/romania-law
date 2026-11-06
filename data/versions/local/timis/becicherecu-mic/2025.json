@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-timis--becicherecu-mic-102-2025",
+   "path": "local/timis/becicherecu-mic/2025/102",
+   "short": "HCL Becicherecu Mic nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 102/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-103-2025",
+   "path": "local/timis/becicherecu-mic/2025/103",
+   "short": "HCL Becicherecu Mic nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 103/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--becicherecu-mic-104-2025",
    "path": "local/timis/becicherecu-mic/2025/104",
    "short": "HCL Becicherecu Mic nr. 104/2025",
@@ -43,6 +73,36 @@
      "from": "2025-09-29",
      "units": 1,
      "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#106736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-105-2025",
+   "path": "local/timis/becicherecu-mic/2025/105",
+   "short": "HCL Becicherecu Mic nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 105/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-106-2025",
+   "path": "local/timis/becicherecu-mic/2025/106",
+   "short": "HCL Becicherecu Mic nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 106/2025 privind desemnarea reprezentanților Consiliului Local Becicherecu Mic în Consiliul de Administrație al Școlii Gimnaziale ”Dimitrie Țichindeal” Becicherecu Mic pentru anul 2025 – 2026",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#106738",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#106738",
      "sha256": null
     }
    ]
@@ -88,6 +148,21 @@
      "from": "2025-09-29",
      "units": 1,
      "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#106743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-110-2025",
+   "path": "local/timis/becicherecu-mic/2025/110",
+   "short": "HCL Becicherecu Mic nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 110/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]
@@ -148,6 +223,36 @@
      "from": "2025-10-13",
      "units": 1,
      "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#107592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-115-2025",
+   "path": "local/timis/becicherecu-mic/2025/115",
+   "short": "HCL Becicherecu Mic nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 115/2025 privind evaluarea și vânzarea prin licitație publică a terenului extravilan înscris în CF 407789, nr.cad. 407789 cu suprafața de 58.000 mp",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#108550",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#108550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-116-2025",
+   "path": "local/timis/becicherecu-mic/2025/116",
+   "short": "HCL Becicherecu Mic nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 116/2025 privind evaluarea și vânzarea prin licitație publică a terenului intravilan înscris în CF 408032, nr.cad. 408032 cu suprafața de 1255 mp",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#108551",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#108551",
      "sha256": null
     }
    ]
@@ -238,6 +343,36 @@
      "from": "2025-11-19",
      "units": 1,
      "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#110079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-123-2025",
+   "path": "local/timis/becicherecu-mic/2025/123",
+   "short": "HCL Becicherecu Mic nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 123/2025 privind închirierea prin licitație publică a terenului intravilan înscris în CF 405032, nr.cad. 405032 cu suprafața de 1629 mp pe o durată de 5 ani",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#110726",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#110726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-124-2025",
+   "path": "local/timis/becicherecu-mic/2025/124",
+   "short": "HCL Becicherecu Mic nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 124/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]
@@ -468,6 +603,21 @@
    ]
   },
   {
+   "slug": "hcl-timis--becicherecu-mic-140-2025",
+   "path": "local/timis/becicherecu-mic/2025/140",
+   "short": "HCL Becicherecu Mic nr. 140/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 140/2025 privind anularea procedurii de vânzare a terenului intravilan înscris în CF 406320, nr.cad. 406320 Becicherecu Mic cu suprafața de 522 mp și repunerea părților în situația inițială",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#113118",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#113118",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--becicherecu-mic-141-2025",
    "path": "local/timis/becicherecu-mic/2025/141",
    "short": "HCL Becicherecu Mic nr. 141/2025",
@@ -588,6 +738,21 @@
    ]
   },
   {
+   "slug": "hcl-timis--becicherecu-mic-97-2025",
+   "path": "local/timis/becicherecu-mic/2025/97",
+   "short": "HCL Becicherecu Mic nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 97/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--becicherecu-mic-98-2025",
    "path": "local/timis/becicherecu-mic/2025/98",
    "short": "HCL Becicherecu Mic nr. 98/2025",
@@ -598,6 +763,21 @@
      "from": "2025-09-08",
      "units": 1,
      "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#105236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-99-2025",
+   "path": "local/timis/becicherecu-mic/2025/99",
+   "short": "HCL Becicherecu Mic nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 99/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]

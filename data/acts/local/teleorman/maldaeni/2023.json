@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/teleorman/maldaeni/2023",
+"acts": [
+{
+"slug": "hcl-teleorman--maldaeni-42-2023",
+"path": "local/teleorman/maldaeni/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măldăeni nr. 42/2023",
+"short": "HCL Măldăeni nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-23",
+"latest": "2023-12-23",
+"portal": "https://www.primariamaldaeni.ro/wp-content/uploads/2026/02/HCL-NR.42-DIN-23.12.2023.pdf",
+"council": "teleorman/maldaeni",
+"council_name": "Consiliul Local al Comunei Măldăeni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

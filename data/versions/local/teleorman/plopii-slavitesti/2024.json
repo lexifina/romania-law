@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/plopii-slavitesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--plopii-slavitesti-3-2024",
+   "path": "local/teleorman/plopii-slavitesti/2024/3",
+   "short": "HCL Plopii-Slăvitești nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plopii-Slăvitești nr. 3/2024",
+   "url": "https://www.primariaplopiislavitesti.ro/wp-content/uploads/2024/04/Hotararea-nr.3-din-27.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": "https://www.primariaplopiislavitesti.ro/wp-content/uploads/2024/04/Hotararea-nr.3-din-27.04.2024.pdf",
+     "sha256": "9672175476bfdf0042ac2828e1e2e2846005f573a2909921f8417ed7092d95ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--plopii-slavitesti-4-2024",
+   "path": "local/teleorman/plopii-slavitesti/2024/4",
+   "short": "HCL Plopii-Slăvitești nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plopii-Slăvitești nr. 4/2024",
+   "url": "https://www.primariaplopiislavitesti.ro/wp-content/uploads/2024/04/Hotararea-nr.4-din-27.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": "https://www.primariaplopiislavitesti.ro/wp-content/uploads/2024/04/Hotararea-nr.4-din-27.04.2024.pdf",
+     "sha256": "edfcfc78ff6fd30e013edfb8f8912c2229d095d8c3f5b1ce7479140f1ccd040b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--plopii-slavitesti-5-2024",
+   "path": "local/teleorman/plopii-slavitesti/2024/5",
+   "short": "HCL Plopii-Slăvitești nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plopii-Slăvitești nr. 5/2024",
+   "url": "https://www.primariaplopiislavitesti.ro/wp-content/uploads/2024/04/Hotararea-nr.5-din-27.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": "https://www.primariaplopiislavitesti.ro/wp-content/uploads/2024/04/Hotararea-nr.5-din-27.04.2024.pdf",
+     "sha256": "67c74b4b05edea22c5850f63c049d5dc78e57a6669afba240739637efaf71005"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--plopii-slavitesti-6-2024",
+   "path": "local/teleorman/plopii-slavitesti/2024/6",
+   "short": "HCL Plopii-Slăvitești nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plopii-Slăvitești nr. 6/2024",
+   "url": "https://www.primariaplopiislavitesti.ro/wp-content/uploads/2024/04/Hotararea-nr.6-din-27.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": "https://www.primariaplopiislavitesti.ro/wp-content/uploads/2024/04/Hotararea-nr.6-din-27.04.2024.pdf",
+     "sha256": "59e4de6dd1e2007f6a5754da18e0007b6034bd7adc8238c3e598c22cf5c78b3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--plopii-slavitesti-7-2024",
+   "path": "local/teleorman/plopii-slavitesti/2024/7",
+   "short": "HCL Plopii-Slăvitești nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plopii-Slăvitești nr. 7/2024",
+   "url": "https://www.primariaplopiislavitesti.ro/wp-content/uploads/2024/04/Hotararea-nr.7-din-27.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": "https://www.primariaplopiislavitesti.ro/wp-content/uploads/2024/04/Hotararea-nr.7-din-27.04.2024.pdf",
+     "sha256": "9a5feb542aa2ed8234fe83f622cae7d7e924f6eae248e0bd61fe003007064c59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--plopii-slavitesti-8-2024",
+   "path": "local/teleorman/plopii-slavitesti/2024/8",
+   "short": "HCL Plopii-Slăvitești nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plopii-Slăvitești nr. 8/2024",
+   "url": "https://www.primariaplopiislavitesti.ro/wp-content/uploads/2024/04/Hotararea-nr.8-din-27.04.2024-2.pdf",
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": "https://www.primariaplopiislavitesti.ro/wp-content/uploads/2024/04/Hotararea-nr.8-din-27.04.2024-2.pdf",
+     "sha256": "1ac98423dac03cf3d04816d8ee6accf2baa10143a2a9a752c22e16ca75d83780"
+    }
+   ]
+  }
+ ]
+}

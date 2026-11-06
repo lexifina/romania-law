@@ -3,6 +3,28 @@
 "shard": "local/suceava/saru-dornei/2024",
 "acts": [
 {
+"slug": "hcl-suceava--saru-dornei-60-2024",
+"path": "local/suceava/saru-dornei/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 60/2024 privind acordarea cu titlu gratuit, a cantităţii de 20 mc. lemn de lucru la drum auto, din pădurea proprietate a comunei Şaru Dornei, pentru Mănăstirea Piatra Tăieturii",
+"short": "HCL Șaru Dornei nr. 60/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-16",
+"latest": "2025-01-16",
+"portal": "https://emol.ro/sarudornei-sv/registru-hcl/187154",
+"council": "suceava/saru-dornei",
+"council_name": "Consiliul Local al Comunei Șaru Dornei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--saru-dornei-61-2024",
 "path": "local/suceava/saru-dornei/2024/61",
 "kind": "local",
@@ -44,6 +66,52 @@
 "council_name": "Consiliul Local al Comunei Șaru Dornei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--saru-dornei-63-2024",
+"path": "local/suceava/saru-dornei/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 63/2024",
+"short": "HCL Șaru Dornei nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-16",
+"latest": "2025-01-16",
+"portal": "https://emol.ro/sarudornei-sv/registru-hcl/187157",
+"council": "suceava/saru-dornei",
+"council_name": "Consiliul Local al Comunei Șaru Dornei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--saru-dornei-64-2024",
+"path": "local/suceava/saru-dornei/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 64/2024",
+"short": "HCL Șaru Dornei nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-16",
+"latest": "2025-01-16",
+"portal": "https://emol.ro/sarudornei-sv/registru-hcl/187158",
+"council": "suceava/saru-dornei",
+"council_name": "Consiliul Local al Comunei Șaru Dornei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -113,6 +181,28 @@
 }
 },
 {
+"slug": "hcl-suceava--saru-dornei-68-2024",
+"path": "local/suceava/saru-dornei/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 68/2024 privind alegerea președintelui de ședință al Consiliului Local Șaru Dornei",
+"short": "HCL Șaru Dornei nr. 68/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-16",
+"latest": "2025-01-16",
+"portal": "https://emol.ro/sarudornei-sv/registru-hcl/187249",
+"council": "suceava/saru-dornei",
+"council_name": "Consiliul Local al Comunei Șaru Dornei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--saru-dornei-69-2024",
 "path": "local/suceava/saru-dornei/2024/69",
 "kind": "local",
@@ -132,6 +222,28 @@
 "council_name": "Consiliul Local al Comunei Șaru Dornei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--saru-dornei-70-2024",
+"path": "local/suceava/saru-dornei/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 70/2024 privind alegerea viceprimarului Comunei Șaru Dornei, județul Suceava",
+"short": "HCL Șaru Dornei nr. 70/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-16",
+"latest": "2025-01-16",
+"portal": "https://emol.ro/sarudornei-sv/registru-hcl/187251",
+"council": "suceava/saru-dornei",
+"council_name": "Consiliul Local al Comunei Șaru Dornei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +269,28 @@
 }
 },
 {
+"slug": "hcl-suceava--saru-dornei-72-2024",
+"path": "local/suceava/saru-dornei/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 72/2024 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Șaru Dornei pentru anul 2024",
+"short": "HCL Șaru Dornei nr. 72/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-16",
+"latest": "2025-01-16",
+"portal": "https://emol.ro/sarudornei-sv/registru-hcl/187256",
+"council": "suceava/saru-dornei",
+"council_name": "Consiliul Local al Comunei Șaru Dornei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--saru-dornei-73-2024",
 "path": "local/suceava/saru-dornei/2024/73",
 "kind": "local",
@@ -176,6 +310,28 @@
 "council_name": "Consiliul Local al Comunei Șaru Dornei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--saru-dornei-74-2024",
+"path": "local/suceava/saru-dornei/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 74/2024 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Șaru Dornei pentru anul 2024",
+"short": "HCL Șaru Dornei nr. 74/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-13",
+"latest": "2025-02-13",
+"portal": "https://emol.ro/sarudornei-sv/registru-hcl/192155",
+"council": "suceava/saru-dornei",
+"council_name": "Consiliul Local al Comunei Șaru Dornei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -199,6 +355,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--saru-dornei-76-2024",
+"path": "local/suceava/saru-dornei/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 76/2024 privind desemnarea reprezentanților Consiliului Local în cadrul Consiliului de administrație al Școlii Gimnaziale Neagra Șarului, pentru anul școlar 2024-2025",
+"short": "HCL Șaru Dornei nr. 76/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-13",
+"latest": "2025-02-13",
+"portal": "https://emol.ro/sarudornei-sv/registru-hcl/192164",
+"council": "suceava/saru-dornei",
+"council_name": "Consiliul Local al Comunei Șaru Dornei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

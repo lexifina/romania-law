@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--tatarastii-de-jos-12-2026",
+   "path": "local/teleorman/tatarastii-de-jos/2026/12",
+   "short": "HCL Tătărăștii de Jos nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 12/2026",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/271787",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/271787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-13-2026",
+   "path": "local/teleorman/tatarastii-de-jos/2026/13",
+   "short": "HCL Tătărăștii de Jos nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 13/2026",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/271788",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/271788",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--tatarastii-de-jos-14-2026",
    "path": "local/teleorman/tatarastii-de-jos/2026/14",
    "short": "HCL Tătărăștii de Jos nr. 14/2026",
@@ -153,6 +183,36 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--tatarastii-de-jos-22-2026",
+   "path": "local/teleorman/tatarastii-de-jos/2026/22",
+   "short": "HCL Tătărăștii de Jos nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 22/2026",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/286892",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/286892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-23-2026",
+   "path": "local/teleorman/tatarastii-de-jos/2026/23",
+   "short": "HCL Tătărăștii de Jos nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 23/2026 privind desemnarea reprezentanților Consiliului Local al Comunei Tătărăștii de Jos, județul Teleorman în Consiliul de Administrație și Comisia pentru Evaluarea și Asigurarea Calității Educației (CEAC) din cadrul Școlii Gimnaziale Tătărăștii de Jos, pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/286893",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/286893",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--tatarastii-de-jos-24-2026",
    "path": "local/teleorman/tatarastii-de-jos/2026/24",
    "short": "HCL Tătărăștii de Jos nr. 24/2026",
@@ -163,6 +223,21 @@
      "from": "2026-10-01",
      "units": 1,
      "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/291503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-25-2026",
+   "path": "local/teleorman/tatarastii-de-jos/2026/25",
+   "short": "HCL Tătărăștii de Jos nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 25/2026 privind desemnarea reprezentanților Consiliului Local al Comunei Tătărăștii de Jos în Comisia de evaluare a probei de interviu a concursului pentru ocuparea funcției de director și director adjunct din cadrul Școlii Gimnaziale Tătărăștii de Jos, județul Teleorman",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/291507",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/291507",
      "sha256": null
     }
    ]
@@ -193,6 +268,21 @@
      "from": "2026-06-02",
      "units": 1,
      "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/271757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-8-2026",
+   "path": "local/teleorman/tatarastii-de-jos/2026/8",
+   "short": "HCL Tătărăștii de Jos nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 8/2026 privind alegerea președintelui de ședință a Consiliului Local al Comunei Tătărăștii de Jos",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/271758",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/271758",
      "sha256": null
     }
    ]

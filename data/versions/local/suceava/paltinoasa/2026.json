@@ -3,6 +3,36 @@
  "shard": "local/suceava/paltinoasa/2026",
  "acts": [
   {
+   "slug": "hcl-suceava--paltinoasa-43-2026",
+   "path": "local/suceava/paltinoasa/2026/43",
+   "short": "HCL Păltinoasa nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 43/2026 privind aprobarea Programului activităților cultural-artistice ce se vor desfășura în anul 2026 și a bugetului estimat al acestora",
+   "url": "https://primariapaltinoasa.ro/index.php/monitorul-oficial-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://primariapaltinoasa.ro/images/Mol2026/P%C4%83ltinoasa%20HCL%20nr.%2043%20din%2023.06.2026.pdf",
+     "sha256": "9787766afde04479fef68f87352c1a3102707cc481545f5825391d7aab177427"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--paltinoasa-46-2026",
+   "path": "local/suceava/paltinoasa/2026/46",
+   "short": "HCL Păltinoasa nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 46/2026 privind rectificarea bugetară a bugetului local precum și a bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pentru trimestrul III anul 2025, ca urmare a modificării veniturilor și cheltuielilor",
+   "url": "https://primariapaltinoasa.ro/index.php/monitorul-oficial-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 1,
+     "source_url": "https://primariapaltinoasa.ro/images/Mol2026/P%C4%83ltinoasa%20HCL%20nr.%2046%20din%2006.07.2026.pdf",
+     "sha256": "56c96fab1812f2322c3246f45ef3199acc5336837ea26b753794c011462a23cf"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--paltinoasa-47-2026",
    "path": "local/suceava/paltinoasa/2026/47",
    "short": "HCL Păltinoasa nr. 47/2026",
@@ -14,6 +44,216 @@
      "units": 1,
      "source_url": "https://primariapaltinoasa.ro/images/Mol2026/P%C4%83ltinoasa%20HCL%20nr.%2047%20din%2006.07.2026.pdf",
      "sha256": "bd03bd322eeff6432bdf2b1edc97ca47ad7b94f04d21cadef25b5d2c89170f5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--paltinoasa-48-2026",
+   "path": "local/suceava/paltinoasa/2026/48",
+   "short": "HCL Păltinoasa nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 48/2026 privind rectificarea bugetară a bugetului local precum și a bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pentru trimestrul III anul 2026, ca urmare a modificării veniturilor și cheltuielilor",
+   "url": "https://primariapaltinoasa.ro/index.php/monitorul-oficial-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://primariapaltinoasa.ro/images/Mol2026/P%C4%83ltinoasa%20HCL%20nr.%2048%20din%2029.07.2026.pdf",
+     "sha256": "7c828bc710172bef5afd92ee5cee95365b9d194e5af19b3ccf7ce6c70d4dcb8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--paltinoasa-49-2026",
+   "path": "local/suceava/paltinoasa/2026/49",
+   "short": "HCL Păltinoasa nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 49/2026 privind actualizarea Regulamentului de organizare și funcționare a Serviciului Social „Centrul de zi pentru copiii expuși riscului de a fi separați de familie din comuna Păltinoasa, județul Suceava”, aprobat prin HCL nr. 5/2026",
+   "url": "https://primariapaltinoasa.ro/index.php/monitorul-oficial-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://primariapaltinoasa.ro/images/Mol2026/P%C4%83ltinoasa%20HCL%20nr.%2049%20din%2029.07.2026.pdf",
+     "sha256": "92e71c5b3f00f2605bbf567d1d6e3f5bbaeeb68db9a8047d0d40dbc4e6841ee3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--paltinoasa-50-2026",
+   "path": "local/suceava/paltinoasa/2026/50",
+   "short": "HCL Păltinoasa nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 50/2026 privind aprobarea Manualului de Proceduri și a Codului etic al Serviciului social „Centrul de zi pentru copiii expuși riscului de a fi separați de familie din comuna Păltinoasa, județul Suceava”",
+   "url": "https://primariapaltinoasa.ro/index.php/monitorul-oficial-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://primariapaltinoasa.ro/images/Mol2026/P%C4%83ltinoasa%20HCL%20nr.%2050%20din%2029.07.2026.pdf",
+     "sha256": "14b66bdf121bbc158ed0e206a72a65e7ea43445ded4db27fd029ab7c645a99f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--paltinoasa-51-2026",
+   "path": "local/suceava/paltinoasa/2026/51",
+   "short": "HCL Păltinoasa nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 51/2026 privind trecerea unui bun imobil, din domeniul privat în domeniul public al Comunei Păltinoasa, județul Suceava",
+   "url": "https://primariapaltinoasa.ro/index.php/monitorul-oficial-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://primariapaltinoasa.ro/images/Mol2026/P%C4%83ltinoasa%20HCL%20nr.%2051%20din%2029.07.2026.pdf",
+     "sha256": "c0360f0403cddd7b53c9cfbc274fa77162029d2f28c1b8ba420698bf05ff0cb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--paltinoasa-52-2026",
+   "path": "local/suceava/paltinoasa/2026/52",
+   "short": "HCL Păltinoasa nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 52/2026 privind alegerea președintelui de ședință",
+   "url": "https://primariapaltinoasa.ro/index.php/monitorul-oficial-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://primariapaltinoasa.ro/images/Mol2026/P%C4%83ltinoasa%20HCL%20nr.%2052%20din%2029.07.2026.pdf",
+     "sha256": "7786571959321669fae9e80f480d8fb4cec722b5be37b03de7a4e8b83d35aeef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--paltinoasa-53-2026",
+   "path": "local/suceava/paltinoasa/2026/53",
+   "short": "HCL Păltinoasa nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 53/2026 privind însușirea și aprobarea documentației cadastrale de dezlipire a unui imobil înscris în domeniul public al comunei Păltinoasa, județul Suceava",
+   "url": "https://primariapaltinoasa.ro/index.php/monitorul-oficial-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://primariapaltinoasa.ro/images/Mol2026/P%C4%83ltinoasa%20HCL%20nr.%2053%20din%2029.07.2026.pdf",
+     "sha256": "670190dd997a8d802f6da5020db46f880fa5b421a075a0d8e4b9414097fbae88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--paltinoasa-54-2026",
+   "path": "local/suceava/paltinoasa/2026/54",
+   "short": "HCL Păltinoasa nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 54/2026 privind aprobarea documentației de atribuire aferente procedurii de vânzare prin licitație publică a unor terenuri, proprietate privată a comunei Păltinoasa, județul Suceava",
+   "url": "https://primariapaltinoasa.ro/index.php/monitorul-oficial-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://primariapaltinoasa.ro/images/Mol2026/P%C4%83ltinoasa%20HCL%20nr.%2054%20din%2029.07.2026.pdf",
+     "sha256": "c28752d7e4ca22f9403e2d1f73a62443f028f33f4b772ab81388f970d5039318"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--paltinoasa-55-2026",
+   "path": "local/suceava/paltinoasa/2026/55",
+   "short": "HCL Păltinoasa nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 55/2026 privind necesitatea și oportunitatea unor obiective de investiție în comuna Păltinoasa, județul Suceava și aprobarea indicatorilor tehnico-economici",
+   "url": "https://primariapaltinoasa.ro/index.php/monitorul-oficial-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://primariapaltinoasa.ro/images/Mol2026/P%C4%83ltinoasa%20HCL%20nr.%2055%20din%2029.07.2026.pdf",
+     "sha256": "70c372f73e8f3cfd4dc815a718e900ce540778ae26d488ad6f967b0dd842b7fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--paltinoasa-56-2026",
+   "path": "local/suceava/paltinoasa/2026/56",
+   "short": "HCL Păltinoasa nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 56/2026 privind actualizarea indicatorilor economici aferenți proiectului „ÎNFIINȚARE, AMENAJARE ȘI DOTARE CENTRU SPORTIV AFERENT INFRASTRUCTURII ȘCOLARE DIN COMUNA PĂLTINOASA, JUDEȚUL SUCEAVA”",
+   "url": "https://primariapaltinoasa.ro/index.php/monitorul-oficial-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://primariapaltinoasa.ro/images/Mol2026/P%C4%83ltinoasa%20HCL%20nr.%2056%20din%2029.07.2026.pdf",
+     "sha256": "560c0d341d125ebbe62c22e2d14730ceef13a2e73301bb30f383e9b16a73dea7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--paltinoasa-57-2026",
+   "path": "local/suceava/paltinoasa/2026/57",
+   "short": "HCL Păltinoasa nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 57/2026 privind aprobarea înființării și a Regulamentului de organizare și funcționare a Serviciului Social „CENTRUL DE SERVICII DE RECUPERARE NEUROMOTORIE AMBULATORII ÎN COMUNA PĂLTINOASA, SAT PĂLTINOASA, JUDEȚUL SUCEAVA”",
+   "url": "https://primariapaltinoasa.ro/index.php/monitorul-oficial-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://primariapaltinoasa.ro/images/Mol2026/P%C4%83ltinoasa%20HCL%20nr.%2057%20din%2029.07.2026.pdf",
+     "sha256": "e2829837c3ab0c4314544460a67c51a895a497897c96ce6348a9a8c790d24fa5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--paltinoasa-58-2026",
+   "path": "local/suceava/paltinoasa/2026/58",
+   "short": "HCL Păltinoasa nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 58/2026 privind rectificarea bugetară a bugetului local pentru trimestrul III anul 2026 ca urmare a modificării veniturilor și cheltuielilor",
+   "url": "https://primariapaltinoasa.ro/index.php/monitorul-oficial-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://primariapaltinoasa.ro/images/Mol2026/P%C4%83ltinoasa%20HCL%20nr.%2058%20din%2018.08.2026.pdf",
+     "sha256": "5077e7d1f6aa763a0dfd60c8ffba09d0a30e281558e7615834431aac3bdcac8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--paltinoasa-59-2026",
+   "path": "local/suceava/paltinoasa/2026/59",
+   "short": "HCL Păltinoasa nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 59/2026 privind aprobarea Organigramei, Statului de funcții, Manualului de Proceduri și a Codului etic al Serviciului Social „CENTRUL DE SERVICII DE RECUPERARE NEUROMOTORIE AMBULATORII ÎN COMUNA PĂLTINOASA, SAT PĂLTINOASA, JUDEȚUL SUCEAVA”",
+   "url": "https://primariapaltinoasa.ro/index.php/monitorul-oficial-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://primariapaltinoasa.ro/images/Mol2026/P%C4%83ltinoasa%20HCL%20nr.%2059%20din%2018.08.2026.pdf",
+     "sha256": "306fb26a868cc4e2f1b7eb2c81df149e99d06774f6e6b9fc72034297b590530f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--paltinoasa-60-2026",
+   "path": "local/suceava/paltinoasa/2026/60",
+   "short": "HCL Păltinoasa nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 60/2026 privind necesitatea și oportunitatea unor obiective de investiție în comuna Păltinoasa, județul Suceava și aprobarea indicatorilor tehnico-economici",
+   "url": "https://primariapaltinoasa.ro/index.php/monitorul-oficial-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://primariapaltinoasa.ro/images/Mol2026/P%C4%83ltinoasa%20HCL%20nr.%2060%20din%2018.08.2026.pdf",
+     "sha256": "a1ae935a3195d8c16a48c33b341ef3ef28a6957e5331d1cec9a31bf431d59d21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--paltinoasa-61-2026",
+   "path": "local/suceava/paltinoasa/2026/61",
+   "short": "HCL Păltinoasa nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 61/2026 privind trecerea unor bunuri imobile, din domeniul privat în domeniul public al Comunei Păltinoasa, județul Suceava",
+   "url": "https://primariapaltinoasa.ro/index.php/monitorul-oficial-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://primariapaltinoasa.ro/images/Mol2026/P%C4%83ltinoasa%20HCL%20nr.%2061%20din%2018.08.2026.pdf",
+     "sha256": "7f97c2dd6e24174c314014e6cbf4f554198850f7e514f809c60880e6fcf9a2fb"
     }
    ]
   }

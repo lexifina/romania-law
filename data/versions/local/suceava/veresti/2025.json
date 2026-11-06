@@ -63,6 +63,66 @@
    ]
   },
   {
+   "slug": "hcl-suceava--veresti-38-2025",
+   "path": "local/suceava/veresti/2025/38",
+   "short": "HCL Verești nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 38/2025 privind rectificarea bugetului local pe anul 2025 și repartizarea fondului de rezervă bugetară la dispoziția Consiliului Local pe anul 2025",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/235176",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/235176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-39-2025",
+   "path": "local/suceava/veresti/2025/39",
+   "short": "HCL Verești nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 39/2025 privind aprobarea Contului de execuție al bugetului local pentru trimestrul III, anul 2025",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/235177",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/235177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-40-2025",
+   "path": "local/suceava/veresti/2025/40",
+   "short": "HCL Verești nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 40/2025 privind acordarea unui ajutor de urgență unei persoane din comuna Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/235178",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/235178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-41-2025",
+   "path": "local/suceava/veresti/2025/41",
+   "short": "HCL Verești nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 41/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/235179",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/235179",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--veresti-42-2025",
    "path": "local/suceava/veresti/2025/42",
    "short": "HCL Verești nr. 42/2025",
@@ -73,6 +133,36 @@
      "from": "2025-10-10",
      "units": 1,
      "source_url": "https://emol.ro/veresti-sv/registru-hcl/235180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-43-2025",
+   "path": "local/suceava/veresti/2025/43",
+   "short": "HCL Verești nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 43/2025 privind acordarea unor ajutoare de urgență unui număr de două persoane din comuna Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/239805",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/239805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-44-2025",
+   "path": "local/suceava/veresti/2025/44",
+   "short": "HCL Verești nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 44/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/239806",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/239806",
      "sha256": null
     }
    ]
@@ -108,6 +198,36 @@
    ]
   },
   {
+   "slug": "hcl-suceava--veresti-47-2025",
+   "path": "local/suceava/veresti/2025/47",
+   "short": "HCL Verești nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 47/2025 privind modificarea Organigramei și a Statului de funcții ale aparatului de specialitate al primarului comunei Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/239809",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/239809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-48-2025",
+   "path": "local/suceava/veresti/2025/48",
+   "short": "HCL Verești nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 48/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/246765",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/246765",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--veresti-49-2025",
    "path": "local/suceava/veresti/2025/49",
    "short": "HCL Verești nr. 49/2025",
@@ -133,6 +253,36 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/veresti-sv/registru-hcl/246771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-51-2025",
+   "path": "local/suceava/veresti/2025/51",
+   "short": "HCL Verești nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 51/2025 privind aprobarea Rețelei școlare a unităților de învățământ preuniversitar de stat din comuna Verești pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/246772",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/246772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-52-2025",
+   "path": "local/suceava/veresti/2025/52",
+   "short": "HCL Verești nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 52/2025 privind aprobarea Contului de execuție al bugetului local pentru trimestrul IV, anul 2025",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/246773",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/246773",
      "sha256": null
     }
    ]

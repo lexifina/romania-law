@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/suceava/sadova/2015",
+"acts": [
+{
+"slug": "hcl-suceava--sadova-57-2015",
+"path": "local/suceava/sadova/2015/57",
+"kind": "local",
+"year": "2015",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 57/2015",
+"short": "HCL Sadova nr. 57/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-10-01",
+"latest": "2015-10-01",
+"portal": "https://comunasadova.ro/wp-content/uploads/2025/12/HCL-NR.-57-DIN-01.10.2015.pdf",
+"council": "suceava/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--sadova-58-2015",
+"path": "local/suceava/sadova/2015/58",
+"kind": "local",
+"year": "2015",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 58/2015",
+"short": "HCL Sadova nr. 58/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-10-01",
+"latest": "2015-10-01",
+"portal": "https://comunasadova.ro/wp-content/uploads/2025/12/HCL-NR.-58-DIN-01.10.2015.pdf",
+"council": "suceava/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

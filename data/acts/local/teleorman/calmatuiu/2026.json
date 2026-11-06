@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--calmatuiu-8-2026",
+"path": "local/teleorman/calmatuiu/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 8/2026 privind alegerea președintelui de ședință care să conducă ședințele Consiliului Local , să semneze procesul verbal de ședință și hotărârile adoptate de acesta pe următoarele trei luni",
+"short": "HCL Călmățuiu nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-11",
+"latest": "2026-03-11",
+"portal": "https://emol.ro/calmatuiu-tr/registru-hcl/257878",
+"council": "teleorman/calmatuiu",
+"council_name": "Consiliul Local al Comunei Călmățuiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--calmatuiu-9-2026",
 "path": "local/teleorman/calmatuiu/2026/9",
 "kind": "local",
@@ -159,6 +181,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--calmatuiu-13-2026",
+"path": "local/teleorman/calmatuiu/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 13/2026 privind reorganizarea aparatului de specialitate al primarului comunei Călmățuiu , județul Teleorman, aprobarea Organigramei și a Statului de Funcții",
+"short": "HCL Călmățuiu nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-08",
+"latest": "2026-06-08",
+"portal": "https://emol.ro/calmatuiu-tr/registru-hcl/272792",
+"council": "teleorman/calmatuiu",
+"council_name": "Consiliul Local al Comunei Călmățuiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--calmatuiu-14-2026",
 "path": "local/teleorman/calmatuiu/2026/14",
 "kind": "local",
@@ -178,6 +222,28 @@
 "council_name": "Consiliul Local al Comunei Călmățuiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--calmatuiu-15-2026",
+"path": "local/teleorman/calmatuiu/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 15/2026 privind modificarea componentei Consiliului Comunitar Consultativ al comunei Călmățuiu , județul Teleorman și aprobarea Regulamentului de organizare și funcționare a Consiliului Comunitar Consultativ Călmățuiu , județul Teleorman",
+"short": "HCL Călmățuiu nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-08",
+"latest": "2026-06-08",
+"portal": "https://emol.ro/calmatuiu-tr/registru-hcl/272844",
+"council": "teleorman/calmatuiu",
+"council_name": "Consiliul Local al Comunei Călmățuiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +267,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--calmatuiu-17-2026",
+"path": "local/teleorman/calmatuiu/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 17/2026 privind alegerea președintelui de ședință care să conducă ședințele Consiliului Local , să semneze procesul verbal de ședință și hotărârile adoptate de acesta pe următoarele trei luni",
+"short": "HCL Călmățuiu nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-09",
+"latest": "2026-06-09",
+"portal": "https://emol.ro/calmatuiu-tr/registru-hcl/272970",
+"council": "teleorman/calmatuiu",
+"council_name": "Consiliul Local al Comunei Călmățuiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -290,6 +378,28 @@
 "council_name": "Consiliul Local al Comunei Călmățuiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--calmatuiu-22-2026",
+"path": "local/teleorman/calmatuiu/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 22/2026 privind alegerea președintelui de ședință care să conducă ședințele Consiliului Local , să semneze procesul verbal de ședință și hotărârile adoptate de acesta pe următoarele trei luni",
+"short": "HCL Călmățuiu nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://emol.ro/calmatuiu-tr/registru-hcl/290310",
+"council": "teleorman/calmatuiu",
+"council_name": "Consiliul Local al Comunei Călmățuiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

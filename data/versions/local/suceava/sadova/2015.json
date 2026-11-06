@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/sadova/2015",
+ "acts": [
+  {
+   "slug": "hcl-suceava--sadova-57-2015",
+   "path": "local/suceava/sadova/2015/57",
+   "short": "HCL Sadova nr. 57/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 57/2015",
+   "url": "https://comunasadova.ro/wp-content/uploads/2025/12/HCL-NR.-57-DIN-01.10.2015.pdf",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://comunasadova.ro/wp-content/uploads/2025/12/HCL-NR.-57-DIN-01.10.2015.pdf",
+     "sha256": "cbd1f133277815615bd717de9cbf19863eb3830498df6bc2a2ea5158c8977823"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--sadova-58-2015",
+   "path": "local/suceava/sadova/2015/58",
+   "short": "HCL Sadova nr. 58/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 58/2015",
+   "url": "https://comunasadova.ro/wp-content/uploads/2025/12/HCL-NR.-58-DIN-01.10.2015.pdf",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://comunasadova.ro/wp-content/uploads/2025/12/HCL-NR.-58-DIN-01.10.2015.pdf",
+     "sha256": "e1b8f8730bc341fc7ae8ace7cd7f1f551631d62892184a16a5fb360408b994dc"
+    }
+   ]
+  }
+ ]
+}

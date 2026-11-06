@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--trivalea-mosteni-36-2021",
+"path": "local/teleorman/trivalea-mosteni/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 36/2021 privind desemnarea consilierilor ca reprezentanti ai Consiliului local pentru a face parte din Consiliul de administratie al Scolii Gimnaziale Trivalea-Mosteni",
+"short": "HCL Trivalea-Moșteni nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/64200",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--trivalea-mosteni-37-2021",
 "path": "local/teleorman/trivalea-mosteni/2021/37",
 "kind": "local",
@@ -220,6 +242,52 @@
 "council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--trivalea-mosteni-44-2021",
+"path": "local/teleorman/trivalea-mosteni/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 44/2021",
+"short": "HCL Trivalea-Moșteni nr. 44/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/64208",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--trivalea-mosteni-45-2021",
+"path": "local/teleorman/trivalea-mosteni/2021/45",
+"kind": "local",
+"year": "2021",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 45/2021",
+"short": "HCL Trivalea-Moșteni nr. 45/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/64209",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

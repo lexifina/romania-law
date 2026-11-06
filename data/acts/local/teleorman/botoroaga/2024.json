@@ -3,6 +3,28 @@
 "shard": "local/teleorman/botoroaga/2024",
 "acts": [
 {
+"slug": "hcl-teleorman--botoroaga-57-2024",
+"path": "local/teleorman/botoroaga/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 57/2024 privind modificarea HCL nr. 12 din 24.03.2023 privind implementarea proiectului „Construire centru de zi pentru persoane vârstnice în comuna Botoroaga, județul Teleorman”",
+"short": "HCL Botoroaga nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-08",
+"latest": "2024-11-08",
+"portal": "https://emol.ro/botoroaga-tr/registru-hcl/195117",
+"council": "teleorman/botoroaga",
+"council_name": "Consiliul Local al Comunei Botoroaga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--botoroaga-58-2024",
 "path": "local/teleorman/botoroaga/2024/58",
 "kind": "local",
@@ -69,6 +91,50 @@
 }
 },
 {
+"slug": "hcl-teleorman--botoroaga-61-2024",
+"path": "local/teleorman/botoroaga/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 61/2024 privind modificarea și actualizarea Organigramei și a Ștatului de funcții al aparatului de specialitate al primarului comunei Botoroaga, județul Teleorman",
+"short": "HCL Botoroaga nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-08",
+"latest": "2024-11-08",
+"portal": "https://emol.ro/botoroaga-tr/registru-hcl/195121",
+"council": "teleorman/botoroaga",
+"council_name": "Consiliul Local al Comunei Botoroaga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--botoroaga-62-2024",
+"path": "local/teleorman/botoroaga/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 62/2024 privind aprobarea indicatorilor tehnico-economici ai proiectului „Eficientizarea sistemului de iluminat public din Comuna Botoroaga străzile secundare, județ Teleorman",
+"short": "HCL Botoroaga nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-08",
+"latest": "2024-11-08",
+"portal": "https://emol.ro/botoroaga-tr/registru-hcl/195122",
+"council": "teleorman/botoroaga",
+"council_name": "Consiliul Local al Comunei Botoroaga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--botoroaga-63-2024",
 "path": "local/teleorman/botoroaga/2024/63",
 "kind": "local",
@@ -88,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Botoroaga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--botoroaga-64-2024",
+"path": "local/teleorman/botoroaga/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 64/2024 privind decontarea cheltuielilor aferente navetei cadrelor didactice, care își desfășoară activitatea în unitățile de învățământ de pe raza comunei Botoroaga",
+"short": "HCL Botoroaga nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/botoroaga-tr/registru-hcl/195124",
+"council": "teleorman/botoroaga",
+"council_name": "Consiliul Local al Comunei Botoroaga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -220,6 +308,28 @@
 "council_name": "Consiliul Local al Comunei Botoroaga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--botoroaga-71-2024",
+"path": "local/teleorman/botoroaga/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 71/2024 privind decontarea cheltuielilor aferente navetei cadrelor didactice, care își desfășoară activitatea în unitățile de învățământ de pe raza comunei Botoroaga",
+"short": "HCL Botoroaga nr. 71/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-24",
+"latest": "2024-12-24",
+"portal": "https://emol.ro/botoroaga-tr/registru-hcl/195146",
+"council": "teleorman/botoroaga",
+"council_name": "Consiliul Local al Comunei Botoroaga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

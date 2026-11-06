@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--nanov-37-2020",
+"path": "local/teleorman/nanov/2020/37",
+"kind": "local",
+"year": "2020",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nanov nr. 37/2020 privind desemnarea membriilor care vor face parte din Consiliul de Administrație al Școlii Gimnaziale NANOV pentru anul școlar 2020-2021",
+"short": "HCL Nanov nr. 37/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-09",
+"latest": "2020-11-09",
+"portal": "https://emol.ro/nanov-tr/registru-hcl/12301",
+"council": "teleorman/nanov",
+"council_name": "Consiliul Local al Comunei Nanov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--nanov-38-2020",
 "path": "local/teleorman/nanov/2020/38",
 "kind": "local",
@@ -198,6 +220,28 @@
 "council_name": "Consiliul Local al Comunei Nanov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--nanov-40-2020",
+"path": "local/teleorman/nanov/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nanov nr. 40/2020 privind completarea Hotărârii Consiliului Local al comunei Nanov nr.2 din 29.01.2020 privind stabilirea salariilor de bază aferente funcțiilor publice și contractuale din cadrul familiei ocupaționale Administrație, utilizate pentru personalul din administrația publică locală din cadrul Primăriei comunei Nanov precum și din cadrul serviciilor publice de interes local",
+"short": "HCL Nanov nr. 40/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-09",
+"latest": "2020-11-09",
+"portal": "https://emol.ro/nanov-tr/registru-hcl/12304",
+"council": "teleorman/nanov",
+"council_name": "Consiliul Local al Comunei Nanov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +311,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--nanov-44-2020",
+"path": "local/teleorman/nanov/2020/44",
+"kind": "local",
+"year": "2020",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nanov nr. 44/2020 privind modificarea componenței Comisiei pentru învățământ, sănătate, cultură, protecția socială, activități sportive și de agrement din cadrul Consiliului local al comunei NANOV",
+"short": "HCL Nanov nr. 44/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-09",
+"latest": "2020-11-09",
+"portal": "https://emol.ro/nanov-tr/registru-hcl/12308",
+"council": "teleorman/nanov",
+"council_name": "Consiliul Local al Comunei Nanov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--nanov-45-2020",
 "path": "local/teleorman/nanov/2020/45",
 "kind": "local",
@@ -330,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Nanov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--nanov-48-2020",
+"path": "local/teleorman/nanov/2020/48",
+"kind": "local",
+"year": "2020",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nanov nr. 48/2020 privind încetarea de drept a mandat consilier local",
+"short": "HCL Nanov nr. 48/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://emol.ro/nanov-tr/registru-hcl/12312",
+"council": "teleorman/nanov",
+"council_name": "Consiliul Local al Comunei Nanov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

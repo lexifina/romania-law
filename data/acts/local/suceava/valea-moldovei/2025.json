@@ -48,6 +48,28 @@
 }
 },
 {
+"slug": "hcl-suceava--valea-moldovei-74-2025",
+"path": "local/suceava/valea-moldovei/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 74/2025 privind desemnarea reprezentanților în Consiliul de Administrație al Școlii Gimnaziale Valea Moldovei pentru anul școlar 2025-2026",
+"short": "HCL Valea Moldovei nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/valeamoldovei-sv/registru-hcl/235549",
+"council": "suceava/valea-moldovei",
+"council_name": "Consiliul Local al Comunei Valea Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--valea-moldovei-75-2025",
 "path": "local/suceava/valea-moldovei/2025/75",
 "kind": "local",
@@ -334,6 +356,28 @@
 }
 },
 {
+"slug": "hcl-suceava--valea-moldovei-88-2025",
+"path": "local/suceava/valea-moldovei/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 88/2025 privind alegerea președintelui de ședință",
+"short": "HCL Valea Moldovei nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/valeamoldovei-sv/registru-hcl/247876",
+"council": "suceava/valea-moldovei",
+"council_name": "Consiliul Local al Comunei Valea Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--valea-moldovei-89-2025",
 "path": "local/suceava/valea-moldovei/2025/89",
 "kind": "local",
@@ -375,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Valea Moldovei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--valea-moldovei-91-2025",
+"path": "local/suceava/valea-moldovei/2025/91",
+"kind": "local",
+"year": "2025",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 91/2025 privind alegerea președintelui de ședință pentru lucrările ședinței extraordinare, de îndată, din data de 30.12.2025",
+"short": "HCL Valea Moldovei nr. 91/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/valeamoldovei-sv/registru-hcl/247894",
+"council": "suceava/valea-moldovei",
+"council_name": "Consiliul Local al Comunei Valea Moldovei",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

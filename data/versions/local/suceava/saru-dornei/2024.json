@@ -3,6 +3,21 @@
  "shard": "local/suceava/saru-dornei/2024",
  "acts": [
   {
+   "slug": "hcl-suceava--saru-dornei-60-2024",
+   "path": "local/suceava/saru-dornei/2024/60",
+   "short": "HCL Șaru Dornei nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 60/2024 privind acordarea cu titlu gratuit, a cantităţii de 20 mc. lemn de lucru la drum auto, din pădurea proprietate a comunei Şaru Dornei, pentru Mănăstirea Piatra Tăieturii",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/187154",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/187154",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--saru-dornei-61-2024",
    "path": "local/suceava/saru-dornei/2024/61",
    "short": "HCL Șaru Dornei nr. 61/2024",
@@ -28,6 +43,36 @@
      "from": "2025-01-16",
      "units": 1,
      "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/187156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-63-2024",
+   "path": "local/suceava/saru-dornei/2024/63",
+   "short": "HCL Șaru Dornei nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 63/2024",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/187157",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/187157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-64-2024",
+   "path": "local/suceava/saru-dornei/2024/64",
+   "short": "HCL Șaru Dornei nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 64/2024",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/187158",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/187158",
      "sha256": null
     }
    ]
@@ -78,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--saru-dornei-68-2024",
+   "path": "local/suceava/saru-dornei/2024/68",
+   "short": "HCL Șaru Dornei nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 68/2024 privind alegerea președintelui de ședință al Consiliului Local Șaru Dornei",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/187249",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/187249",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--saru-dornei-69-2024",
    "path": "local/suceava/saru-dornei/2024/69",
    "short": "HCL Șaru Dornei nr. 69/2024",
@@ -88,6 +148,21 @@
      "from": "2025-01-16",
      "units": 1,
      "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/187250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-70-2024",
+   "path": "local/suceava/saru-dornei/2024/70",
+   "short": "HCL Șaru Dornei nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 70/2024 privind alegerea viceprimarului Comunei Șaru Dornei, județul Suceava",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/187251",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/187251",
      "sha256": null
     }
    ]
@@ -108,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--saru-dornei-72-2024",
+   "path": "local/suceava/saru-dornei/2024/72",
+   "short": "HCL Șaru Dornei nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 72/2024 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Șaru Dornei pentru anul 2024",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/187256",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/187256",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--saru-dornei-73-2024",
    "path": "local/suceava/saru-dornei/2024/73",
    "short": "HCL Șaru Dornei nr. 73/2024",
@@ -123,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--saru-dornei-74-2024",
+   "path": "local/suceava/saru-dornei/2024/74",
+   "short": "HCL Șaru Dornei nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 74/2024 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Șaru Dornei pentru anul 2024",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/192155",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/192155",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--saru-dornei-75-2024",
    "path": "local/suceava/saru-dornei/2024/75",
    "short": "HCL Șaru Dornei nr. 75/2024",
@@ -133,6 +238,21 @@
      "from": "2025-02-13",
      "units": 1,
      "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/192156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-76-2024",
+   "path": "local/suceava/saru-dornei/2024/76",
+   "short": "HCL Șaru Dornei nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 76/2024 privind desemnarea reprezentanților Consiliului Local în cadrul Consiliului de administrație al Școlii Gimnaziale Neagra Șarului, pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/192164",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/192164",
      "sha256": null
     }
    ]

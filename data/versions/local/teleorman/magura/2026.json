@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--magura-24-2026",
+   "path": "local/teleorman/magura/2026/24",
+   "short": "HCL Măgura nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 24/2026 privind alegerea președintelui de ședință pentru următoarele 3 luni",
+   "url": "https://emol.ro/magura-tr/registru-hcl/272260",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/magura-tr/registru-hcl/272260",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--magura-25-2026",
    "path": "local/teleorman/magura/2026/25",
    "short": "HCL Măgura nr. 25/2026",
@@ -163,6 +178,51 @@
      "from": "2026-09-03",
      "units": 1,
      "source_url": "https://emol.ro/magura-tr/registru-hcl/284337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--magura-33-2026",
+   "path": "local/teleorman/magura/2026/33",
+   "short": "HCL Măgura nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 33/2026 privind desemnarea reprezentantului Consiliului Local Măgura în Consiliul de Administrație al Școlii Gimnaziale Măgura din comuna Măgura, jud. Teleorman în anul școlar 2026-2027",
+   "url": "https://emol.ro/magura-tr/registru-hcl/284338",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/magura-tr/registru-hcl/284338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--magura-34-2026",
+   "path": "local/teleorman/magura/2026/34",
+   "short": "HCL Măgura nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 34/2026 privind desemnarea unui reprezentant și a unui membru supleant al Consiliului local Măgura care să facă parte din comisia de evaluare a probei interviu, la concursul pentru ocuparea funcțiilor de director și director adjunct din unitatea de învățământ Școala Gimnazială Măgura, sesiunea august-septembrie 2026",
+   "url": "https://emol.ro/magura-tr/registru-hcl/292507",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/magura-tr/registru-hcl/292507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--magura-35-2026",
+   "path": "local/teleorman/magura/2026/35",
+   "short": "HCL Măgura nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 35/2026 privind alegerea președintelui de ședință pentru următoarele 3 luni",
+   "url": "https://emol.ro/magura-tr/registru-hcl/292508",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/magura-tr/registru-hcl/292508",
      "sha256": null
     }
    ]

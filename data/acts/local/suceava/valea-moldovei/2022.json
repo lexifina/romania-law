@@ -3,6 +3,50 @@
 "shard": "local/suceava/valea-moldovei/2022",
 "acts": [
 {
+"slug": "hcl-suceava--valea-moldovei-61-2022",
+"path": "local/suceava/valea-moldovei/2022/61",
+"kind": "local",
+"year": "2022",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 61/2022 privind stabilirea indemnizației lunare pentru membrii Consiliului Local al comunei Valea Moldovei",
+"short": "HCL Valea Moldovei nr. 61/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-14",
+"latest": "2022-11-14",
+"portal": "https://emol.ro/valeamoldovei-sv/registru-hcl/79404",
+"council": "suceava/valea-moldovei",
+"council_name": "Consiliul Local al Comunei Valea Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--valea-moldovei-62-2022",
+"path": "local/suceava/valea-moldovei/2022/62",
+"kind": "local",
+"year": "2022",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 62/2022 privind alegerea președintelui de ședință",
+"short": "HCL Valea Moldovei nr. 62/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-16",
+"latest": "2023-01-16",
+"portal": "https://emol.ro/valeamoldovei-sv/registru-hcl/79712",
+"council": "suceava/valea-moldovei",
+"council_name": "Consiliul Local al Comunei Valea Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--valea-moldovei-63-2022",
 "path": "local/suceava/valea-moldovei/2022/63",
 "kind": "local",
@@ -67,6 +111,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--valea-moldovei-66-2022",
+"path": "local/suceava/valea-moldovei/2022/66",
+"kind": "local",
+"year": "2022",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 66/2022 privind acordarea unui sprijin financiar unității de cult Parohia Ortodoxă Valea Moldovei",
+"short": "HCL Valea Moldovei nr. 66/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-16",
+"latest": "2023-01-16",
+"portal": "https://emol.ro/valeamoldovei-sv/registru-hcl/85876",
+"council": "suceava/valea-moldovei",
+"council_name": "Consiliul Local al Comunei Valea Moldovei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

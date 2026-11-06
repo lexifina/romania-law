@@ -359,6 +359,28 @@
 }
 },
 {
+"slug": "hcl-timis--becicherecu-mic-110-2023",
+"path": "local/timis/becicherecu-mic/2023/110",
+"kind": "local",
+"year": "2023",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 110/2023 privind desemnarea reprezentanților Consiliului Local Becicherecu Mic în Consiliul de Administrație al Școlii Gimnaziale ”Dimitrie Țichindeal” Becicherecu Mic pentru anul 2023 – 2024",
+"short": "HCL Becicherecu Mic nr. 110/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-11",
+"latest": "2023-09-11",
+"portal": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#57686",
+"council": "timis/becicherecu-mic",
+"council_name": "Consiliul Local al Comunei Becicherecu Mic",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-timis--becicherecu-mic-111-2023",
 "path": "local/timis/becicherecu-mic/2023/111",
 "kind": "local",
@@ -422,6 +444,29 @@
 "council_name": "Consiliul Local al Comunei Becicherecu Mic",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--becicherecu-mic-114-2023",
+"path": "local/timis/becicherecu-mic/2023/114",
+"kind": "local",
+"year": "2023",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 114/2023",
+"short": "HCL Becicherecu Mic nr. 114/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-11",
+"latest": "2023-09-11",
+"portal": null,
+"council": "timis/becicherecu-mic",
+"council_name": "Consiliul Local al Comunei Becicherecu Mic",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -510,6 +555,29 @@
 "council_name": "Consiliul Local al Comunei Becicherecu Mic",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--becicherecu-mic-119-2023",
+"path": "local/timis/becicherecu-mic/2023/119",
+"kind": "local",
+"year": "2023",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 119/2023",
+"short": "HCL Becicherecu Mic nr. 119/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-25",
+"latest": "2023-09-25",
+"portal": null,
+"council": "timis/becicherecu-mic",
+"council_name": "Consiliul Local al Comunei Becicherecu Mic",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -869,6 +937,29 @@
 }
 },
 {
+"slug": "hcl-timis--becicherecu-mic-136-2023",
+"path": "local/timis/becicherecu-mic/2023/136",
+"kind": "local",
+"year": "2023",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 136/2023",
+"short": "HCL Becicherecu Mic nr. 136/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-05",
+"latest": "2023-12-05",
+"portal": null,
+"council": "timis/becicherecu-mic",
+"council_name": "Consiliul Local al Comunei Becicherecu Mic",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-timis--becicherecu-mic-137-2023",
 "path": "local/timis/becicherecu-mic/2023/137",
 "kind": "local",
@@ -1110,6 +1201,29 @@
 "council_name": "Consiliul Local al Comunei Becicherecu Mic",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--becicherecu-mic-148-2023",
+"path": "local/timis/becicherecu-mic/2023/148",
+"kind": "local",
+"year": "2023",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 148/2023",
+"short": "HCL Becicherecu Mic nr. 148/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": null,
+"council": "timis/becicherecu-mic",
+"council_name": "Consiliul Local al Comunei Becicherecu Mic",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

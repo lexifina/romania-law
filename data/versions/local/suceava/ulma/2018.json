@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/ulma/2018",
+ "acts": [
+  {
+   "slug": "hcl-suceava--ulma-4-2018",
+   "path": "local/suceava/ulma/2018/4",
+   "short": "HCL Ulma nr. 4/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Ulma nr. 4/2018 privind stabilirea salariilor aparatului propriu incepand cu 01.01.2018",
+   "url": "https://www.comunaulma.ro/index.php/lista-articole/10-meniu-stanga/consiliul-local/42-hotarari-de-consiliu",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 1,
+     "source_url": "https://www.comunaulma.ro/Download/HCL_4_din_2018-stabilire_salarii.pdf",
+     "sha256": "40b7d144722317f07f955178d7b3f84159827e79bbaf64c0347c8e2d904f3e4b"
+    }
+   ]
+  }
+ ]
+}

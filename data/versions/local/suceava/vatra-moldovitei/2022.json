@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/vatra-moldovitei/2022",
+ "acts": [
+  {
+   "slug": "hcl-suceava--vatra-moldovitei-4-2022",
+   "path": "local/suceava/vatra-moldovitei/2022/4",
+   "short": "HCL Vatra Moldoviței nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vatra Moldoviței nr. 4/2022",
+   "url": "https://comunavatramoldovitei.ro/wp-content/uploads/2022/01/HOTARAREA-4-DIN-DATA-DE-17.01.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-01-17",
+     "units": 1,
+     "source_url": "https://comunavatramoldovitei.ro/wp-content/uploads/2022/01/HOTARAREA-4-DIN-DATA-DE-17.01.2022.pdf",
+     "sha256": "c568bc99dff9c7c5c8a2dab5ec85d395f99a5955f569f921d2f95adcf031f4d1"
+    }
+   ]
+  }
+ ]
+}

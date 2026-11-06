@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--islaz-44-2022",
+   "path": "local/teleorman/islaz/2022/44",
+   "short": "HCL Islaz nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 44/2022",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/81637",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/81637",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--islaz-45-2022",
    "path": "local/teleorman/islaz/2022/45",
    "short": "HCL Islaz nr. 45/2022",
@@ -58,6 +73,21 @@
      "from": "2022-10-26",
      "units": 1,
      "source_url": "https://emol.ro/islaz-tr/registru-hcl/81648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-46-2022",
+   "path": "local/teleorman/islaz/2022/46",
+   "short": "HCL Islaz nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 46/2022 privind alegerea preşedintelui de şedinţă pentru următoarele trei luni",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/81649",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/81649",
      "sha256": null
     }
    ]
@@ -123,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--islaz-51-2022",
+   "path": "local/teleorman/islaz/2022/51",
+   "short": "HCL Islaz nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 51/2022",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/90682",
+   "versions": [
+    {
+     "from": "2022-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/90682",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--islaz-52-2022",
    "path": "local/teleorman/islaz/2022/52",
    "short": "HCL Islaz nr. 52/2022",
@@ -133,6 +178,21 @@
      "from": "2022-12-05",
      "units": 1,
      "source_url": "https://emol.ro/islaz-tr/registru-hcl/90683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-53-2022",
+   "path": "local/teleorman/islaz/2022/53",
+   "short": "HCL Islaz nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 53/2022",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/90684",
+   "versions": [
+    {
+     "from": "2022-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/90684",
      "sha256": null
     }
    ]

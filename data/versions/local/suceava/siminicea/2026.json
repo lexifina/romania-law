@@ -3,6 +3,336 @@
  "shard": "local/suceava/siminicea/2026",
  "acts": [
   {
+   "slug": "hcl-suceava--siminicea-19-2026",
+   "path": "local/suceava/siminicea/2026/19",
+   "short": "HCL Siminicea nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 19/2026 privind aprobarea contului de execuție al veniturilor și cheltuielilor bugetului local al comunei Siminicea aferent trimestrului I – 2026 Consiliul Local al Comunei Siminicea, județul Suceava, Având în vedere: -Referatul de aprobare al Primarului Comunei Siminicea nr. 1745 din 03.04.2026 -Raportul compartimentului financiar-contabil nr. 2049 din 21.04.2026 -Referatul compartimentului financiar-con",
+   "url": "https://primariasiminicea.ro/wp-content/uploads/2026/05/19-hcl-aprobare-cont-executie-trum.-1-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://primariasiminicea.ro/wp-content/uploads/2026/05/19-hcl-aprobare-cont-executie-trum.-1-2026.pdf",
+     "sha256": "f9ddb65128ec7c16719f7333c1a41b0fca3d4896bb932f88170fbbf28c5a6e22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siminicea-20-2026",
+   "path": "local/suceava/siminicea/2026/20",
+   "short": "HCL Siminicea nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 20/2026 privind aprobarea indicatorilor tehnico-economici și a devizului general actualizat în urma creșterii cotei TVA la 21% pentru obiectivul de investiții „Înființare infrastructură de apă uzată și stație de epurare în comuna Siminicea, județul Suceava”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate d",
+   "url": "https://primariasiminicea.ro/wp-content/uploads/2026/05/HCL-20-APROB.i.t-si-deviz-general-mofif.-tva.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://primariasiminicea.ro/wp-content/uploads/2026/05/HCL-20-APROB.i.t-si-deviz-general-mofif.-tva.pdf",
+     "sha256": "080c2879c314b204d912d61492f2d50a867947b47e2791c56deb1899307866f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siminicea-21-2026",
+   "path": "local/suceava/siminicea/2026/21",
+   "short": "HCL Siminicea nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 21/2026 privind revocarea Hotărârii Consiliului Local nr. 1 din 26.02.2026 privind aprobarea închirierii a două spații din domeniul public al comunei Siminicea, identificate în imobilul „Școala Primară Grigorești” Consiliul Local al comunei Siminicea, județul Suceava, întrunit în ședință ordinară în data de 30.04.2026, Având în vedere: • Referatul de aprobare al primarului comunei Siminicea nr. 1892 din 1",
+   "url": "https://primariasiminicea.ro/wp-content/uploads/2026/05/21-hcl.-revocare-hcl1.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://primariasiminicea.ro/wp-content/uploads/2026/05/21-hcl.-revocare-hcl1.pdf",
+     "sha256": "9a1df96bae7f5cef960dc5c20f9226d55ae1a0e364474cd348f5c3042eb07e80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siminicea-22-2026",
+   "path": "local/suceava/siminicea/2026/22",
+   "short": "HCL Siminicea nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 22/2026 privind revocarea Hotărârii Consiliului Local nr. 3 din 26.02.2026 privind includerea unor terenuri în inventarul domeniului public al comunei Siminicea Consiliul Local al comunei Siminicea, județul Suceava, întrunit în ședință ordinară în data de 30.04.2026, Având în vedere: • Referatul de aprobare al Primarului comunei Siminicea nr. 1894 din 16.04.2026; • Raportul de specialitate nr. 1893 din 16",
+   "url": "https://primariasiminicea.ro/wp-content/uploads/2026/05/22-hcl.-revocare-hcl-3-includere-terenuri.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://primariasiminicea.ro/wp-content/uploads/2026/05/22-hcl.-revocare-hcl-3-includere-terenuri.pdf",
+     "sha256": "e525eb54d09978e528d7791ad7fc8017ccc560b4576628b9af23009995d95b8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siminicea-23-2026",
+   "path": "local/suceava/siminicea/2026/23",
+   "short": "HCL Siminicea nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 23/2026 privind aprobarea Bugetului local de venituri și cheltuieli al comunei Siminicea pe anul 2026 Consiliul Local al comunei Siminicea, județul Suceava; Având în vedere: • Referatul de aprobare nr. 1745/03.04.2026 al Primarului comunei Siminicea; • Raportul de specialitate nr. 2206/28.04.2026 al Biroului financiar-contabil; • Adresa nr. SVG_STZ/544/02.04.2026 și anexele transmise de Administrația Jude",
+   "url": "https://primariasiminicea.ro/wp-content/uploads/2026/05/23-HCL-APROBARE-BUGET-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://primariasiminicea.ro/wp-content/uploads/2026/05/23-HCL-APROBARE-BUGET-2026.pdf",
+     "sha256": "5319153cb256f8a37cc1e985829cb03acd142503cb7acb1249bdb0f799775b7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siminicea-24-2026",
+   "path": "local/suceava/siminicea/2026/24",
+   "short": "HCL Siminicea nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 24/2026 privind aprobarea indicatorilor tehnico-economici și a devizelor generale aferente obiectivului de investiții „Racordarea la rețeaua electrică a sistemului de pompare a apelor uzate (SPAU) și a stației de epurare din comuna Siminicea, județul Suceava” Consiliul Local al comunei Siminicea, județul Suceava; Având în vedere: -Referatul de aprobare nr. 1897/15.04.2026 al Primarului comunei Siminicea",
+   "url": "https://primariasiminicea.ro/wp-content/uploads/2026/05/24-HCL-APROBARE-INDIC-TEHNICO.ENON_.-SPAU.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://primariasiminicea.ro/wp-content/uploads/2026/05/24-HCL-APROBARE-INDIC-TEHNICO.ENON_.-SPAU.pdf",
+     "sha256": "29ed239290529a8835f3d4807fc7e23c9a76cc35a2c1373cd2e04a642c81d35b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siminicea-25-2026",
+   "path": "local/suceava/siminicea/2026/25",
+   "short": "HCL Siminicea nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 25/2026 privind alegerea Președintelui de ședință pentru următoarele 3 ședințe ale Consiliului Local al comunei Siminicea Consiliul Local al comunei Siminicea, județul Suceava, Având în vedere: - Referatul de aprobare al Primarului comunei Siminicea, nr. 2061 din 22.04.2026 - Raportul de specialitate al Secretarului general al comunei Siminicea, nr. 2022 din 20.04.2026; - Prevederile art. 123 alin. (4), a",
+   "url": "https://primariasiminicea.ro/wp-content/uploads/2026/05/25-HCL-PRESEDINTE-SEDINTA.pdf",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://primariasiminicea.ro/wp-content/uploads/2026/05/25-HCL-PRESEDINTE-SEDINTA.pdf",
+     "sha256": "2556f60978b9bf83d104b4b8625a0932431a36e155ab0400a5050fcfa037d138"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siminicea-26-2026",
+   "path": "local/suceava/siminicea/2026/26",
+   "short": "HCL Siminicea nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 26/2026 privind atestarea apartenenței la domeniul public al comunei Siminicea, județul Suceava, a imobilelor înscrise în CF nr. 39339 Siminicea și CF nr. 39105 Siminicea, având categoria de folosință „drum” Consiliul Local al comunei Siminicea, județul Suceava, întrunit în ședință ordinară în data de 16.06.2026, Având în vedere: - Proiectul de hotarare nr. 35 din 19.05.2026 - Referatul de aprobare al Pri",
+   "url": "https://primariasiminicea.ro/wp-content/uploads/2026/07/26-hcl-atestare-dom-public-2-terenuri-drumuri.pdf",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://primariasiminicea.ro/wp-content/uploads/2026/07/26-hcl-atestare-dom-public-2-terenuri-drumuri.pdf",
+     "sha256": "c6fb0c215e9fe6824ef1a0ce71ed821083de527b17841e395d88875d98df10e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siminicea-27-2026",
+   "path": "local/suceava/siminicea/2026/27",
+   "short": "HCL Siminicea nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 27/2026 privind atestarea apartenenței la domeniul privat al comunei Siminicea, județul Suceava, a imobilului înscris în CF nr. 39448 Siminicea Consiliul Local al comunei Siminicea, județul Suceava, întrunit în ședință ordinară în data de 16.06. 2026, Având în vedere: • Proiectul de hotărare nr. 36 din 19.05.2026; • Referatul de aprobare al Primarului comunei Siminicea nr. 2616 din 18.05.2026; • Raportul",
+   "url": "https://primariasiminicea.ro/wp-content/uploads/2026/07/27-HCL-.-atestarea-dom.public-cf-39448-castel-apa-1.pdf",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://primariasiminicea.ro/wp-content/uploads/2026/07/27-HCL-.-atestarea-dom.public-cf-39448-castel-apa-1.pdf",
+     "sha256": "54b5da46498f1a0a1a91345e7a752403fa8fffafe6d6e031f2401a718f0e240f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siminicea-28-2026",
+   "path": "local/suceava/siminicea/2026/28",
+   "short": "HCL Siminicea nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 28/2026 privind aprobarea documentației tehnice cadastrale pentru terenul în suprafață de 79 mp, situat în intravilanul satului Siminicea, comuna Siminicea, județul Suceava, și efectuarea demersurilor necesare în vederea înscrierii acestuia în sistemul integrat de cadastru și carte funciară Consiliul Local al comunei Siminicea, județul Suceava, întrunit în ședință ordinară în data de 16.06. 2026, Proiectu",
+   "url": "https://primariasiminicea.ro/wp-content/uploads/2026/07/28-HCL-APROBAREA-DOC.-CADASTRALE-TEREN-INTRAVILAN-079.pdf",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://primariasiminicea.ro/wp-content/uploads/2026/07/28-HCL-APROBAREA-DOC.-CADASTRALE-TEREN-INTRAVILAN-079.pdf",
+     "sha256": "2f1fe6cbdb446db72119490938dfa705f3249b7a0f1b009a2826794dfea10f55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siminicea-29-2026",
+   "path": "local/suceava/siminicea/2026/29",
+   "short": "HCL Siminicea nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 29/2026 privind însușirea și aprobarea documentației cadastrale de actualizare a Cărții funciare nr. 35302 Siminicea și a Cărții funciare nr. 35395 Siminicea și rectificarea limitelor dintre imobilele înscrise în Cărțile funciare menționate, fără modificarea suprafețelor Consiliul local al comunei Siminicea, județul Suceava; Având în vedere: - Proiectul de hotărâre privind însușirea și aprobarea documenta",
+   "url": "https://primariasiminicea.ro/wp-content/uploads/2026/07/29-HCL-Siminicea-9-Plesa.pdf",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://primariasiminicea.ro/wp-content/uploads/2026/07/29-HCL-Siminicea-9-Plesa.pdf",
+     "sha256": "07a94a1b4a2d56e4ff9a628567127cf46356ab8d33e96db118a410e7309587c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siminicea-30-2026",
+   "path": "local/suceava/siminicea/2026/30",
+   "short": "HCL Siminicea nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 30/2026 privind rectificarea bugetului local de venituri și cheltuieli al comunei Siminicea, județul Suceava, pe anul 2026 Consiliul Local al comunei Siminicea, județul Suceava, Având în vedere: -Referatul de aprobare nr. 3133 din 11.06.2026 al Primarului comunei Siminicea; -Raportul de specialitate nr. 3594 din 02.07.2026 al Compartimentului financiar-contabil; -Referatul Compartimentului financiar-conta",
+   "url": "https://primariasiminicea.ro/wp-content/uploads/2026/07/30-HCL-rectificare-bugetara.pdf",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://primariasiminicea.ro/wp-content/uploads/2026/07/30-HCL-rectificare-bugetara.pdf",
+     "sha256": "0f5208ab1d582e1c2a1c9c6a950bc96bfbfdcb018c7754fe2c8b8383e8dcf68b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siminicea-31-2026",
+   "path": "local/suceava/siminicea/2026/31",
+   "short": "HCL Siminicea nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 31/2026 privind modificarea Hotărârii Consiliului Local nr. 24 din 08.05.2026 referitoare la aprobarea indicatorilor tehnico-economici și a devizelor generale aferente obiectivului de investiții „Racordarea la rețeaua electrică a sistemului de pompare a apelor uzate (SPAU) și a stației de epurare din comuna Siminicea, județul Suceava” Consiliul Local al comunei Siminicea, județul Suceava, Având în vedere:",
+   "url": "https://primariasiminicea.ro/wp-content/uploads/2026/07/31-HCL-actualizate-i.t.e.-si-devis-general-statie-epurare.pdf",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://primariasiminicea.ro/wp-content/uploads/2026/07/31-HCL-actualizate-i.t.e.-si-devis-general-statie-epurare.pdf",
+     "sha256": "54a71e71b3a6af3e6cfff355a4f679e2c55a26ffbc411f37d21509d8b8f3bc01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siminicea-32-2026",
+   "path": "local/suceava/siminicea/2026/32",
+   "short": "HCL Siminicea nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 32/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a69758a33b77a2a61254d0f1909e9cde8deae46315c51eeac7ad87e1677af381"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siminicea-36-2026",
+   "path": "local/suceava/siminicea/2026/36",
+   "short": "HCL Siminicea nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 36/2026 privind APROBAREA PROIECTULUI, A CHELTUIELILOR LEGATE DE PROIECT ȘI A INDICATORILOR TEHNICO- ECONOMICI ACTUALIZATI PROIECT: „CRESTEREA EFICIENTEI ENERGETICE LA SCOALA GIMNAZIALA SIMINICEA CORP C1 SI CORP C2”, cod SMIS 346632 Prioritatea 3 Apel de proiecte nr. PR/NE/2025/3/RSO2.1/1/Eficiența energetică Clădiri publice – Consilii județene, Autorități publice centrale, UAT locale (comune) Consiliul L",
+   "url": "https://primariasiminicea.ro/wp-content/uploads/2026/10/HCL-nr-36-din-30-iulie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://primariasiminicea.ro/wp-content/uploads/2026/10/HCL-nr-36-din-30-iulie-2026.pdf",
+     "sha256": "6c423114492d74ddc079e7143f0362d43eed9838dac92dbcd6dc12bf8bee853c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siminicea-37-2026",
+   "path": "local/suceava/siminicea/2026/37",
+   "short": "HCL Siminicea nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 37/2026 privind rectificarea bugetului local al comunei Siminicea pe anul 2026 Consiliul Local al comunei Siminicea, județul Suceava, întrunit în ședință ordinaraă la data de 13.08.2026; Având în vedere: • referatul nr. 3828 din 14.07.2026, întocmit de Compartimentul financiar-contabil, prin care se propune inițierea proiectului de hotărâre privind rectificarea bugetului local al comunei Siminicea pe anul",
+   "url": "https://primariasiminicea.ro/wp-content/uploads/2026/10/37-HCL-rectificare-bugetara.pdf",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 1,
+     "source_url": "https://primariasiminicea.ro/wp-content/uploads/2026/10/37-HCL-rectificare-bugetara.pdf",
+     "sha256": "bc8df625f32a08d744d6e69f36249bf78b6754e7940deda89fbe66628204d73b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siminicea-38-2026",
+   "path": "local/suceava/siminicea/2026/38",
+   "short": "HCL Siminicea nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 38/2026 privind alegerea Președintelui de ședință pentru următoarele 3 ședințe ale Consiliului Local al comunei Siminicea Consiliul Local al comunei Siminicea, județul Suceava, Având în vedere: - Referatul de aprobare al Primarului comunei Siminicea, nr. 4075 din 27.07.2026; - Raportul de specialitate al Secretarului general al comunei Siminicea, nr. 4074 din 27.07.2026; - Prevederile art. 123 alin. (4)",
+   "url": "https://primariasiminicea.ro/wp-content/uploads/2026/10/38-HCL-alegere-presednte-3-sedinte.pdf",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 1,
+     "source_url": "https://primariasiminicea.ro/wp-content/uploads/2026/10/38-HCL-alegere-presednte-3-sedinte.pdf",
+     "sha256": "f839abc833ffc8c9db1d67ae4839f43ddf09992e26d1af2029d9492636780209"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siminicea-39-2026",
+   "path": "local/suceava/siminicea/2026/39",
+   "short": "HCL Siminicea nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 39/2026 privind desemnarea reprezentantului Consiliului Local al comunei Siminicea și a membrului supleant în comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcției vacante de director/director adjunct al Școlii Gimnaziale Siminicea, sesiunea august–decembrie 2026 Consiliul Local al comunei Siminicea, județul Suceava, Având în vedere: • Referatul de aprobare al primarului",
+   "url": "https://primariasiminicea.ro/wp-content/uploads/2026/10/39-HCL.-DESEMNARE-A-2-REPREZENTATNTI-IN-COMISIA-DE-CONSURS-DIRECTOR-SCOALA.pdf",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://primariasiminicea.ro/wp-content/uploads/2026/10/39-HCL.-DESEMNARE-A-2-REPREZENTATNTI-IN-COMISIA-DE-CONSURS-DIRECTOR-SCOALA.pdf",
+     "sha256": "d193f9546b0a6f643b10c36441877fbf8f91d5dad26627d88f9169b81abfb956"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siminicea-40-2026",
+   "path": "local/suceava/siminicea/2026/40",
+   "short": "HCL Siminicea nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 40/2026",
+   "url": "https://primariasiminicea.ro/wp-content/uploads/2026/10/40-HCL.-desemnare-2-reprezentanti-in-Consiliul-CA.pdf",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://primariasiminicea.ro/wp-content/uploads/2026/10/40-HCL.-desemnare-2-reprezentanti-in-Consiliul-CA.pdf",
+     "sha256": "581b07470191d9ab2789a74fcc79b43834658967285f6020f88e27cff17ea176"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siminicea-41-2026",
+   "path": "local/suceava/siminicea/2026/41",
+   "short": "HCL Siminicea nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 41/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "364846cc018482592f006dea0ee2d35053da63fb52af9c43f4d39372d49bb3e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siminicea-42-2026",
+   "path": "local/suceava/siminicea/2026/42",
+   "short": "HCL Siminicea nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 42/2026 privind atestarea apartenenței la domeniul privat al comunei Siminicea, județul Suceava, a imobilului înscris în CF nr. 37996 Siminicea Consiliul Local al comunei Siminicea, județul Suceava, întrunit în ședință ordinară în data de 29.09.2026, Având în vedere: • Referatul de aprobare al Primarului comunei Siminicea nr. 4896 din 07.09.2026, prin care se propune atestarea apartenenței la domeniul pri",
+   "url": "https://primariasiminicea.ro/wp-content/uploads/2026/10/42-HCL-atestarea-dom.privat-cf-37996.pdf",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://primariasiminicea.ro/wp-content/uploads/2026/10/42-HCL-atestarea-dom.privat-cf-37996.pdf",
+     "sha256": "ff108ea521fe6e0695464fa9f542a81aaf8bc5d905f296a8466d509dfe2ca109"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siminicea-43-2026",
+   "path": "local/suceava/siminicea/2026/43",
+   "short": "HCL Siminicea nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siminicea nr. 43/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ec5431280d7825406535a572b324026b6f5f918c15cbb8b31ee5bf1d4f18316e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--siminicea-44-2026",
    "path": "local/suceava/siminicea/2026/44",
    "short": "HCL Siminicea nr. 44/2026",

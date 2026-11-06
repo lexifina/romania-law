@@ -289,6 +289,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--mavrodin-23-2022",
+"path": "local/teleorman/mavrodin/2022/23",
+"kind": "local",
+"year": "2022",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 23/2022 INCHIRIERE SPATIU CMI DIN DISPENSARUL UMAN",
+"short": "HCL Mavrodin nr. 23/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-09",
+"latest": "2022-05-09",
+"portal": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#21222",
+"council": "teleorman/mavrodin",
+"council_name": "Consiliul Local al Comunei Mavrodin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--mavrodin-24-2022",
 "path": "local/teleorman/mavrodin/2022/24",
 "kind": "local",
@@ -620,6 +642,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--mavrodin-39-2022",
+"path": "local/teleorman/mavrodin/2022/39",
+"kind": "local",
+"year": "2022",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 39/2022 Închirierea PRIN LICITAȚIE PUBLICĂ teren intravilan T 87 p 622/2",
+"short": "HCL Mavrodin nr. 39/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#34251",
+"council": "teleorman/mavrodin",
+"council_name": "Consiliul Local al Comunei Mavrodin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--mavrodin-40-2022",
 "path": "local/teleorman/mavrodin/2022/40",
 "kind": "local",
@@ -661,6 +705,28 @@
 "council_name": "Consiliul Local al Comunei Mavrodin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--mavrodin-42-2022",
+"path": "local/teleorman/mavrodin/2022/42",
+"kind": "local",
+"year": "2022",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 42/2022 DESEMNARE REPREZ. CONSILIU LOCAL IN A.G.A ȘCOALĂ GIMNAZIALĂ",
+"short": "HCL Mavrodin nr. 42/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#34257",
+"council": "teleorman/mavrodin",
+"council_name": "Consiliul Local al Comunei Mavrodin",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

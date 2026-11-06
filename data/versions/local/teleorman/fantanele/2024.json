@@ -3,6 +3,21 @@
  "shard": "local/teleorman/fantanele/2024",
  "acts": [
   {
+   "slug": "hcl-teleorman--fantanele-1-2024",
+   "path": "local/teleorman/fantanele/2024/1",
+   "short": "HCL Fântânele nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 1/2024 PH privind analiza stadiului de înscriere în Registrul agricol",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91492",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91492",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--fantanele-10-2024",
    "path": "local/teleorman/fantanele/2024/10",
    "short": "HCL Fântânele nr. 10/2024",
@@ -13,6 +28,111 @@
      "from": "2024-04-24",
      "units": 1,
      "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--fantanele-11-2024",
+   "path": "local/teleorman/fantanele/2024/11",
+   "short": "HCL Fântânele nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 11/2024 PH privind actualizarea indicatorilor tehnico-economici ai proiectului „Achiziție de echipamente pentru dotarea Serviciului Voluntar pentru Situații de Urgență",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91513",
+   "versions": [
+    {
+     "from": "2024-05-13",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--fantanele-12-2024",
+   "path": "local/teleorman/fantanele/2024/12",
+   "short": "HCL Fântânele nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 12/2024 PH privind analiza stadiului de înscriere a datelor în Registrul agricol și stabilirea planului de măsuri pt eficientizarea acestei activități",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91514",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--fantanele-13-2024",
+   "path": "local/teleorman/fantanele/2024/13",
+   "short": "HCL Fântânele nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 13/2024 PH privind aprobarea criteriilor pentru acordarea unor ajutoare de urgență,precum și a prestațiilor financiare excepționale",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91515",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--fantanele-14-2024",
+   "path": "local/teleorman/fantanele/2024/14",
+   "short": "HCL Fântânele nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 14/2024 PH privind modificarea Organigramei și a Ștatului de funcții a” Serviciului public de apă-canal”",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91516",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--fantanele-15-2024",
+   "path": "local/teleorman/fantanele/2024/15",
+   "short": "HCL Fântânele nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 15/2024 PH privind alegerea președintelui de ședință de lucru a Consiliului local Fântânele pt lunile iulie,august si septembrie 20242024",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91517",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--fantanele-16-2024",
+   "path": "local/teleorman/fantanele/2024/16",
+   "short": "HCL Fântânele nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 16/2024 PH privind aprobarea conturilor de execuție ale bugetului local pe trim II 2024",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91518",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--fantanele-17-2024",
+   "path": "local/teleorman/fantanele/2024/17",
+   "short": "HCL Fântânele nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 17/2024 PH privind continuarea activității Serviciului de alimentare cu apă (SPAA)",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91519",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91519",
      "sha256": null
     }
    ]
@@ -63,6 +183,51 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--fantanele-20-2024",
+   "path": "local/teleorman/fantanele/2024/20",
+   "short": "HCL Fântânele nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 20/2024 PH privind stabilire tarife provizorii pentru apa potabilă produsă,transportată și distribuită",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91526",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--fantanele-21-2024",
+   "path": "local/teleorman/fantanele/2024/21",
+   "short": "HCL Fântânele nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 21/2024 PH privind vânzarea prin licitație publică a unui bun mobil,Tractor-Ifron,aparținând Com. Fântânele",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91527",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--fantanele-22-2024",
+   "path": "local/teleorman/fantanele/2024/22",
+   "short": "HCL Fântânele nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 22/2024 PH privind desemnarea reprezentanților Consiliului local al Comunei Fântânele",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91528",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91528",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--fantanele-23-2024",
    "path": "local/teleorman/fantanele/2024/23",
    "short": "HCL Fântânele nr. 23/2024",
@@ -73,6 +238,111 @@
      "from": "2024-10-07",
      "units": 1,
      "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--fantanele-24-2024",
+   "path": "local/teleorman/fantanele/2024/24",
+   "short": "HCL Fântânele nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 24/2024 PH privind actualizarea cheltuielilor implementării proiectului”Dotarea cu mobilier,materiale didactice si echipamente digitale a unităților de învățământ",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91542",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--fantanele-25-2024",
+   "path": "local/teleorman/fantanele/2024/25",
+   "short": "HCL Fântânele nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 25/2024 PH privind alegerea președintelui de ședință de lucru a Consiliului local Fântânele pentru lunile noiembrie și decembrie 2024",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91557",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--fantanele-26-2024",
+   "path": "local/teleorman/fantanele/2024/26",
+   "short": "HCL Fântânele nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 26/2024 PH privind organizarea și stabilirea comisiilor de specialitate pe domenii de activitate",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91559",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--fantanele-27-2024",
+   "path": "local/teleorman/fantanele/2024/27",
+   "short": "HCL Fântânele nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 27/2024 PH privind alegerea Viceprimarului Comunei Fântânele",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91561",
+   "versions": [
+    {
+     "from": "2024-10-29",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--fantanele-28-2024",
+   "path": "local/teleorman/fantanele/2024/28",
+   "short": "HCL Fântânele nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 28/2024 PH privind aprobarea conturilor de executie ale bugetului local pe trim III 2024",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91562",
+   "versions": [
+    {
+     "from": "2024-10-29",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--fantanele-29-2024",
+   "path": "local/teleorman/fantanele/2024/29",
+   "short": "HCL Fântânele nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 29/2024 PH privind anularea accesoriilor afeente obligațiilor bugetare principale restante la dat de 31 august 2024 inclusiv",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91565",
+   "versions": [
+    {
+     "from": "2024-10-29",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--fantanele-3-2024",
+   "path": "local/teleorman/fantanele/2024/3",
+   "short": "HCL Fântânele nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 3/2024 PH privind utilizarea excedentului anului 2023",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91494",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91494",
      "sha256": null
     }
    ]
@@ -103,6 +373,81 @@
      "from": "2024-04-24",
      "units": 1,
      "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--fantanele-5-2024",
+   "path": "local/teleorman/fantanele/2024/5",
+   "short": "HCL Fântânele nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 5/2024 PH privind participarea la programul alimentare cu apă,canalizare si epurare a apelor",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91496",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--fantanele-6-2024",
+   "path": "local/teleorman/fantanele/2024/6",
+   "short": "HCL Fântânele nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 6/2024 PH privind aprobarea actualizării devizului general pt obiectivulde investiții ”Modernizare si reabilitare strazi de interes local ”",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91506",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--fantanele-7-2024",
+   "path": "local/teleorman/fantanele/2024/7",
+   "short": "HCL Fântânele nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 7/2024 PH privind alegerea președintelui de ședință de lucru a Consiliului local Fântânele pt lunile aprilie,mai,iunie 2024",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91509",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--fantanele-8-2024",
+   "path": "local/teleorman/fantanele/2024/8",
+   "short": "HCL Fântânele nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 8/2024 PH privind aprobarea conturilor de executie pt trim I al anului 2024",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91510",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--fantanele-9-2024",
+   "path": "local/teleorman/fantanele/2024/9",
+   "short": "HCL Fântânele nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 9/2024 PH privind aprobarea conturilor anuale de executie ale bugetului propriu pe anul 2023",
+   "url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91511",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#91511",
      "sha256": null
     }
    ]

@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/teleorman/calmatuiu-de-sus/2023",
+"acts": [
+{
+"slug": "hcl-teleorman--calmatuiu-de-sus-36-2023",
+"path": "local/teleorman/calmatuiu-de-sus/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu de Sus nr. 36/2023 Desemnarea unui consilier din cadrul Consiliului Local al comunei Călmățuiu de Sus care să facă parte din Consiliul de Administrație al Școlii Gimnaziale Călmățuiu de Sus pentru anul școlar 2023-2024",
+"short": "HCL Călmățuiu de Sus nr. 36/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://calmatuiudesus.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29192#59297",
+"council": "teleorman/calmatuiu-de-sus",
+"council_name": "Consiliul Local al Comunei Călmățuiu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--calmatuiu-de-sus-41-2023",
+"path": "local/teleorman/calmatuiu-de-sus/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu de Sus nr. 41/2023 Alegerea președintelui de ședință pe următoarele 3 luni ( noiembrie, decembrie 2023 , ianuarie , anul 2024 )care să conducă ședințele consiliului local , să semneze procesul verbal de ședință și hotărârile adoptate de acesta",
+"short": "HCL Călmățuiu de Sus nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-20",
+"latest": "2023-10-20",
+"portal": "https://calmatuiudesus.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29192#62585",
+"council": "teleorman/calmatuiu-de-sus",
+"council_name": "Consiliul Local al Comunei Călmățuiu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

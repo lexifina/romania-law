@@ -3,6 +3,94 @@
 "shard": "local/teleorman/gratia/2026",
 "acts": [
 {
+"slug": "hcl-teleorman--gratia-4-2026",
+"path": "local/teleorman/gratia/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 4/2026 privind desemnarea reprezentantului Consiliului Local Gratia în cadrul Consiliul de Administrație al Școlii Gimnaziale Gratia, pentru anul școlar 2025/2026",
+"short": "HCL Gratia nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/267446",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-5-2026",
+"path": "local/teleorman/gratia/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 5/2026 Privind aprobarea închirierii prin licitație publică a terenului arabil intravilan în suprafață de 198,00 mp -aparţinând domeniului privat al Comunei Gratia , județul Teleorman",
+"short": "HCL Gratia nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/267447",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-6-2026",
+"path": "local/teleorman/gratia/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 6/2026 Privind aprobarea închirierii prin licitație publică a terenului arabil intravilan în suprafață de 363,00 mp -aparţinând domeniului privat al Comunei Gratia , județul Teleorman",
+"short": "HCL Gratia nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/267448",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-7-2026",
+"path": "local/teleorman/gratia/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 7/2026 privind Privind aprobarea închirierii prin licitație publică a terenului arabil intravilan în suprafață de 587,00 mp -aparţinând domeniului privat al Comunei Gratia , județul Teleorman",
+"short": "HCL Gratia nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/267449",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--gratia-8-2026",
 "path": "local/teleorman/gratia/2026/8",
 "kind": "local",
@@ -66,6 +154,51 @@
 "council_name": "Consiliul Local al Comunei Gratia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-11-2026",
+"path": "local/teleorman/gratia/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 11/2026 privind privind alegerea Președintelui de ședință al Consiliului Local al comunei Gratia pentru următoarele trei luni, începând cu luna aprilie 2026",
+"short": "HCL Gratia nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-19",
+"latest": "2026-03-19",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/268959",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-12-2026",
+"path": "local/teleorman/gratia/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 12/2026",
+"short": "HCL Gratia nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-25",
+"latest": "2026-03-25",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/268965",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

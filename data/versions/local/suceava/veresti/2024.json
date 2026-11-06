@@ -18,6 +18,81 @@
    ]
   },
   {
+   "slug": "hcl-suceava--veresti-49-2024",
+   "path": "local/suceava/veresti/2024/49",
+   "short": "HCL Verești nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 49/2024 privind acordarea unui ajutor de urgență unei persoane din comuna Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/172669",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/172669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-50-2024",
+   "path": "local/suceava/veresti/2024/50",
+   "short": "HCL Verești nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 50/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/174165",
+   "versions": [
+    {
+     "from": "2024-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/174165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-51-2024",
+   "path": "local/suceava/veresti/2024/51",
+   "short": "HCL Verești nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 51/2024 privind constituirea Comisiilor de specialitate pe principalele domenii de activitate din cadrul Consiliului Local Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/188280",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/188280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-52-2024",
+   "path": "local/suceava/veresti/2024/52",
+   "short": "HCL Verești nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 52/2024 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/188281",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/188281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-53-2024",
+   "path": "local/suceava/veresti/2024/53",
+   "short": "HCL Verești nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 53/2024 privind alegerea viceprimarului Comunei Vereşti, judeţul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/188282",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/188282",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--veresti-54-2024",
    "path": "local/suceava/veresti/2024/54",
    "short": "HCL Verești nr. 54/2024",
@@ -33,6 +108,51 @@
    ]
   },
   {
+   "slug": "hcl-suceava--veresti-55-2024",
+   "path": "local/suceava/veresti/2024/55",
+   "short": "HCL Verești nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 55/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/188308",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/188308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-56-2024",
+   "path": "local/suceava/veresti/2024/56",
+   "short": "HCL Verești nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 56/2024 privind alocarea din bugetul local al comunei Vereşti a sumei de 50.000 lei pentru oferirea cadourilor de Moş Crăciun",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/188309",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/188309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-57-2024",
+   "path": "local/suceava/veresti/2024/57",
+   "short": "HCL Verești nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 57/2024 privind acordarea unui ajutor de urgență unui număr de 5 persoane din comuna Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/188310",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/188310",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--veresti-58-2024",
    "path": "local/suceava/veresti/2024/58",
    "short": "HCL Verești nr. 58/2024",
@@ -43,6 +163,141 @@
      "from": "2024-12-19",
      "units": 1,
      "source_url": "https://emol.ro/veresti-sv/registru-hcl/188414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-59-2024",
+   "path": "local/suceava/veresti/2024/59",
+   "short": "HCL Verești nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 59/2024 privind aprobarea încheierii protocolului de colaborare între Autoritatea Pentru Digitalizarea României și Comuna Verești, județul Suceava pentru asigurarea cadrului interinstituțional necesar înrolării în aplicația ROeID",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/188415",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/188415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-60-2024",
+   "path": "local/suceava/veresti/2024/60",
+   "short": "HCL Verești nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 60/2024 privind aprobarea impozitelor şi taxelor locale pe anul 2025",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/188416",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/188416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-61-2024",
+   "path": "local/suceava/veresti/2024/61",
+   "short": "HCL Verești nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 61/2024 privind aprobarea Contului de execuţie al bugetului local pentru trimestrul III, anul 2024",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/188417",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/188417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-62-2024",
+   "path": "local/suceava/veresti/2024/62",
+   "short": "HCL Verești nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 62/2024 privind aprobarea Contului de execuţie al bugetului local pentru trimestrul IV, anul 2024",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/188418",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/188418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-63-2024",
+   "path": "local/suceava/veresti/2024/63",
+   "short": "HCL Verești nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 63/2024 privind stabilirea indemnizației lunare pentru consilierii locali din cadrul Consiliului Local al Comunei Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/188419",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/188419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-64-2024",
+   "path": "local/suceava/veresti/2024/64",
+   "short": "HCL Verești nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 64/2024 privind stabilirea componenței echipei mobile pentru intervenția de urgență în cazurile de violență domestică la nivelul Comunei Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/188420",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/188420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-65-2024",
+   "path": "local/suceava/veresti/2024/65",
+   "short": "HCL Verești nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 65/2024 privind modificarea Statului de funcții al aparatului de specialitate al primarului comunei Vereşti, judeţul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/188421",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/188421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-66-2024",
+   "path": "local/suceava/veresti/2024/66",
+   "short": "HCL Verești nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 66/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/188422",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/188422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-67-2024",
+   "path": "local/suceava/veresti/2024/67",
+   "short": "HCL Verești nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 67/2024 privind acordarea unor ajutoare de urgență unui număr de două persoane din comuna Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/188423",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/188423",
      "sha256": null
     }
    ]

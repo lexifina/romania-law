@@ -3,6 +3,21 @@
  "shard": "local/teleorman/plosca/2025",
  "acts": [
   {
+   "slug": "hcl-teleorman--plosca-44-2025",
+   "path": "local/teleorman/plosca/2025/44",
+   "short": "HCL Plosca nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plosca nr. 44/2025 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Comunei Plosca, pentru perioada septembrie 2025 – noiembrie 2025",
+   "url": "https://emol.ro/plosca-tr/registru-hcl/223125",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plosca-tr/registru-hcl/223125",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--plosca-45-2025",
    "path": "local/teleorman/plosca/2025/45",
    "short": "HCL Plosca nr. 45/2025",
@@ -43,6 +58,51 @@
      "from": "2025-10-24",
      "units": 1,
      "source_url": "https://emol.ro/plosca-tr/registru-hcl/231404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--plosca-48-2025",
+   "path": "local/teleorman/plosca/2025/48",
+   "short": "HCL Plosca nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plosca nr. 48/2025 privind desemnarea reprezentantului Consiliului Local al Comunei Plosca în Comisia pentru evaluarea şi asigurarea calităţii în unitatea de învățământ Școala Gimnazială Plosca pentru anul şcolar 2025-2026",
+   "url": "https://emol.ro/plosca-tr/registru-hcl/231405",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/plosca-tr/registru-hcl/231405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--plosca-49-2025",
+   "path": "local/teleorman/plosca/2025/49",
+   "short": "HCL Plosca nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plosca nr. 49/2025 privind achitarea de la bugetul local al Comunei Plosca a sumelor reprezentând contravaloarea taxei de salubritate neachitate de membrii comunității locale și recuperarea acestora de la beneficiarii serviciului public",
+   "url": "https://emol.ro/plosca-tr/registru-hcl/231406",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/plosca-tr/registru-hcl/231406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--plosca-50-2025",
+   "path": "local/teleorman/plosca/2025/50",
+   "short": "HCL Plosca nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plosca nr. 50/2025 privind aprobarea utilizării excedentului Comunei Plosca din anul 2024, pentru anul 2025",
+   "url": "https://emol.ro/plosca-tr/registru-hcl/231407",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/plosca-tr/registru-hcl/231407",
      "sha256": null
     }
    ]
@@ -108,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--plosca-55-2025",
+   "path": "local/teleorman/plosca/2025/55",
+   "short": "HCL Plosca nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plosca nr. 55/2025 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Comunei Plosca, pentru perioada decembrie 2025 – februarie 2026",
+   "url": "https://emol.ro/plosca-tr/registru-hcl/237373",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/plosca-tr/registru-hcl/237373",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--plosca-56-2025",
    "path": "local/teleorman/plosca/2025/56",
    "short": "HCL Plosca nr. 56/2025",
@@ -118,6 +193,21 @@
      "from": "2025-11-26",
      "units": 1,
      "source_url": "https://emol.ro/plosca-tr/registru-hcl/237374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--plosca-57-2025",
+   "path": "local/teleorman/plosca/2025/57",
+   "short": "HCL Plosca nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plosca nr. 57/2025 privind desemnarea reprezentanţilor Consiliului Local al Comuna Plosca în Consiliul de Administraţie al Școlii Gimnaziale din Comuna Plosca pentru anul şcolar 2025-2026",
+   "url": "https://emol.ro/plosca-tr/registru-hcl/237375",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/plosca-tr/registru-hcl/237375",
      "sha256": null
     }
    ]

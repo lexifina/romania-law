@@ -3,6 +3,50 @@
 "shard": "local/timis/biled/2025",
 "acts": [
 {
+"slug": "hcl-timis--biled-35-2025",
+"path": "local/timis/biled/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 35/2025 Privind aprobarea rectificării suprafeței de teren intravilan, proprietatea privată a comunei Biled , înscris în CF 402722, nr. cadastral 307/a-308/2 aferent locuintei proprietatea lui Saleh Sieglinde si Saleh Adeeb Fuad Adeeb din Biled nr. 429B",
+"short": "HCL Biled nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116784",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--biled-36-2025",
+"path": "local/timis/biled/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 36/2025 Privind aprobarea rectificării suprafeței de teren intravilan, proprietatea privată a comunei Biled , înscris în CF 403376, nr. cadastral 497-498/a aferent locuintei proprietatea lui Surghie Gheorghina din Biled nr. 231",
+"short": "HCL Biled nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116785",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-timis--biled-37-2025",
 "path": "local/timis/biled/2025/37",
 "kind": "local",
@@ -113,6 +157,95 @@
 }
 },
 {
+"slug": "hcl-timis--biled-42-2025",
+"path": "local/timis/biled/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 42/2025 Privind aprobarea dezmembrarii terenului intravilan proprietatea privată a comunei Biled in suprafață de 1438 mp, înscris în CF 400513 a comunei Biled aferent construcțiilor proprietatea familiilor Timiș-Sas și Mîțu din Biled nr. 471A și înființarea noilor cărți funciare",
+"short": "HCL Biled nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116791",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--biled-43-2025",
+"path": "local/timis/biled/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 43/2025 Privind aprobarea dezmembrarii terenului intravilan proprietatea privată a comunei Biled in suprafață de 1589 mp, înscris în CF 400023 a comunei Biled aferent construcțiilor proprietatea familiei Stanci din Biled nr. 452 și înființarea noilor cărți funciare",
+"short": "HCL Biled nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116792",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--biled-44-2025",
+"path": "local/timis/biled/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 44/2025 Privind aprobarea rectificării suprafeței de teren intravilan, proprietatea privată a comunei Biled , înscris în CF 400050, nr. cadastral 412-413/a/2 aferent locuintei proprietatea lui Lupșescu-Bojinescu Anesia din Biled nr. 312",
+"short": "HCL Biled nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116793",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--biled-45-2025",
+"path": "local/timis/biled/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 45/2025",
+"short": "HCL Biled nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": null,
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-timis--biled-46-2025",
 "path": "local/timis/biled/2025/46",
 "kind": "local",
@@ -132,6 +265,74 @@
 "council_name": "Consiliul Local al Comunei Biled",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--biled-47-2025",
+"path": "local/timis/biled/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 47/2025 privind alegerea preşedintelui de şedinţă şi a locţiitorului pe perioada AUGUST - OCTOMBRIE 2025",
+"short": "HCL Biled nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116796",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--biled-48-2025",
+"path": "local/timis/biled/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 48/2025",
+"short": "HCL Biled nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": null,
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--biled-49-2025",
+"path": "local/timis/biled/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 49/2025",
+"short": "HCL Biled nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": null,
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -157,6 +358,97 @@
 }
 },
 {
+"slug": "hcl-timis--biled-51-2025",
+"path": "local/timis/biled/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 51/2025 Privind revocarea unor hotarari , aprobarea dosarelor si atribuirea în folosinta gratuita pe durata existentei locuintei a terenurilor pentru construirea unei locuinte in baza Legii nr. 15/2003",
+"short": "HCL Biled nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116800",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--biled-52-2025",
+"path": "local/timis/biled/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 52/2025",
+"short": "HCL Biled nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": null,
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--biled-53-2025",
+"path": "local/timis/biled/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 53/2025",
+"short": "HCL Biled nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": null,
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--biled-54-2025",
+"path": "local/timis/biled/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 54/2025",
+"short": "HCL Biled nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": null,
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-timis--biled-55-2025",
 "path": "local/timis/biled/2025/55",
 "kind": "local",
@@ -176,6 +468,73 @@
 "council_name": "Consiliul Local al Comunei Biled",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--biled-56-2025",
+"path": "local/timis/biled/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 56/2025 Privind aprobarea dezmembrarii terenului intravilan proprietatea privată a comunei Biled in suprafață de 9.317 mp, înscris în CF 405649 a comunei Biled din PUZ zona industriala și înființarea noilor cărți funciare",
+"short": "HCL Biled nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116805",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--biled-57-2025",
+"path": "local/timis/biled/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 57/2025 Privind aprobarea dezmembrarii terenului intravilan proprietatea privată a comunei Biled in suprafață de 10323 mp, înscris în CF 405656 a comunei Biled și a terenului în suprafată de 12.918 mp înscris in CF 405655 a comunei Biled din PUZ zona industriala și înființarea noilor cărți funciare",
+"short": "HCL Biled nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116806",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--biled-58-2025",
+"path": "local/timis/biled/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 58/2025",
+"short": "HCL Biled nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": null,
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -311,6 +670,29 @@
 }
 },
 {
+"slug": "hcl-timis--biled-65-2025",
+"path": "local/timis/biled/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 65/2025",
+"short": "HCL Biled nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": null,
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-timis--biled-66-2025",
 "path": "local/timis/biled/2025/66",
 "kind": "local",
@@ -443,6 +825,142 @@
 }
 },
 {
+"slug": "hcl-timis--biled-72-2025",
+"path": "local/timis/biled/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 72/2025",
+"short": "HCL Biled nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": null,
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--biled-73-2025",
+"path": "local/timis/biled/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 73/2025",
+"short": "HCL Biled nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": null,
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--biled-74-2025",
+"path": "local/timis/biled/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 74/2025",
+"short": "HCL Biled nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": null,
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--biled-75-2025",
+"path": "local/timis/biled/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 75/2025",
+"short": "HCL Biled nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": null,
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--biled-76-2025",
+"path": "local/timis/biled/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 76/2025 Privind aprobarea dezmembrarii terenului intravilan proprietatea privată a comunei Biled in suprafață de 4842 mp, înscris în CF 405666 a comunei Biled canal din PUZ zona industrială și înființarea noilor cărți funciare",
+"short": "HCL Biled nr. 76/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116825",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--biled-77-2025",
+"path": "local/timis/biled/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 77/2025 Privind aprobarea alipirii (unificării) cărților funciare nr. 405339 și nr. 407829 Biled , proprietatea comunei Biled pentru drum de acces în PUZ și înființarea noi cărți funciare cu nr. 407833 Biled",
+"short": "HCL Biled nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116826",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-timis--biled-78-2025",
 "path": "local/timis/biled/2025/78",
 "kind": "local",
@@ -462,6 +980,28 @@
 "council_name": "Consiliul Local al Comunei Biled",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--biled-79-2025",
+"path": "local/timis/biled/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 79/2025 Privind revocarea unor hotarari , aprobarea dosarelor si atribuirea în folosinta gratuita pe durata existentei locuintei a terenurilor pentru construirea unei locuinte in baza Legii nr. 15/2003",
+"short": "HCL Biled nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116836",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -487,6 +1027,51 @@
 }
 },
 {
+"slug": "hcl-timis--biled-81-2025",
+"path": "local/timis/biled/2025/81",
+"kind": "local",
+"year": "2025",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 81/2025 privind alegerea preşedintelui de şedinţă şi a locţiitorului pe perioada NOIEMBRIE 2025 - IANUARIE 2026",
+"short": "HCL Biled nr. 81/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116838",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--biled-82-2025",
+"path": "local/timis/biled/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 82/2025",
+"short": "HCL Biled nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": null,
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-timis--biled-83-2025",
 "path": "local/timis/biled/2025/83",
 "kind": "local",
@@ -506,6 +1091,29 @@
 "council_name": "Consiliul Local al Comunei Biled",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--biled-84-2025",
+"path": "local/timis/biled/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 84/2025",
+"short": "HCL Biled nr. 84/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": null,
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -553,6 +1161,28 @@
 }
 },
 {
+"slug": "hcl-timis--biled-87-2025",
+"path": "local/timis/biled/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 87/2025 privind actualizarea componenței Consiliul de Administratie al Clubului Sportiv Voința Biled",
+"short": "HCL Biled nr. 87/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116845",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-timis--biled-88-2025",
 "path": "local/timis/biled/2025/88",
 "kind": "local",
@@ -572,6 +1202,28 @@
 "council_name": "Consiliul Local al Comunei Biled",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--biled-89-2025",
+"path": "local/timis/biled/2025/89",
+"kind": "local",
+"year": "2025",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 89/2025 pentru revocarea HCL nr. 53 si HCL nr. 54 din 30.07.2025 Privind atribuirea cu titlu gratuit a unor terenuri din intravilanul comunei Biled",
+"short": "HCL Biled nr. 89/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116847",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -245,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--islaz-48-2026",
+"path": "local/teleorman/islaz/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Islaz nr. 48/2026 privind alegerea viceprimarului comunei Islaz",
+"short": "HCL Islaz nr. 48/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://emol.ro/islaz-tr/registru-hcl/287133",
+"council": "teleorman/islaz",
+"council_name": "Consiliul Local al Comunei Islaz",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--islaz-49-2026",
 "path": "local/teleorman/islaz/2026/49",
 "kind": "local",
@@ -286,6 +308,50 @@
 "council_name": "Consiliul Local al Comunei Islaz",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--islaz-51-2026",
+"path": "local/teleorman/islaz/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Islaz nr. 51/2026 privind desemnarea reprezentanţilor Consiliului Local al comunei Islaz în Consiliul de Administraţie al unităţilor de învăţământ preuniversitar de stat din comuna Islaz pentru anul şcolar 2026- 2027",
+"short": "HCL Islaz nr. 51/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-21",
+"latest": "2026-09-21",
+"portal": "https://emol.ro/islaz-tr/registru-hcl/288032",
+"council": "teleorman/islaz",
+"council_name": "Consiliul Local al Comunei Islaz",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--islaz-52-2026",
+"path": "local/teleorman/islaz/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Islaz nr. 52/2026 privind desemnarea unui reprezentant al Consiliului local al comunei Islaz ca membru în Comisia de evaluare a probei de interviu la concursul pentru ocuparea funcţiilor de director şi director adjunct din unitatea de învăţământ Şcoala Gimnazială nr. 1 Islaz",
+"short": "HCL Islaz nr. 52/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-21",
+"latest": "2026-09-21",
+"portal": "https://emol.ro/islaz-tr/registru-hcl/288033",
+"council": "teleorman/islaz",
+"council_name": "Consiliul Local al Comunei Islaz",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

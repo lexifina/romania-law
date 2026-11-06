@@ -3,6 +3,72 @@
 "shard": "local/suceava/vadu-moldovei/2022",
 "acts": [
 {
+"slug": "hcl-suceava--vadu-moldovei-52-2022",
+"path": "local/suceava/vadu-moldovei/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 52/2022 privind rectificarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2022",
+"short": "HCL Vadu Moldovei nr. 52/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-07",
+"latest": "2022-09-07",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/72704",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-53-2022",
+"path": "local/suceava/vadu-moldovei/2022/53",
+"kind": "local",
+"year": "2022",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 53/2022 pentru desemnarea de reprezentanţi ai Consiliului Local al comunei Vadu Moldovei care să facă parte din Consiliul de Administraţie al Şcolii Gimnaziale Nr.1 Vadu Moldovei, judeţul Suceava, pentru anul scolar 2022-2023",
+"short": "HCL Vadu Moldovei nr. 53/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-07",
+"latest": "2022-09-07",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/72705",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-54-2022",
+"path": "local/suceava/vadu-moldovei/2022/54",
+"kind": "local",
+"year": "2022",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 54/2022 privind aprobarea depunerii spre finanțare a proiectului de investiție: ”IMPLEMENTAREA SISTEMELOR INTELIGENTE DE MANAGEMENT LOCAL ÎN COMUNA VADU MOLDOVEI, JUDEȚUL SUCEAVA”",
+"short": "HCL Vadu Moldovei nr. 54/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-13",
+"latest": "2022-10-13",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/77943",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--vadu-moldovei-55-2022",
 "path": "local/suceava/vadu-moldovei/2022/55",
 "kind": "local",
@@ -25,6 +91,94 @@
 }
 },
 {
+"slug": "hcl-suceava--vadu-moldovei-56-2022",
+"path": "local/suceava/vadu-moldovei/2022/56",
+"kind": "local",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 56/2022",
+"short": "HCL Vadu Moldovei nr. 56/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-28",
+"latest": "2022-10-28",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/78735",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-57-2022",
+"path": "local/suceava/vadu-moldovei/2022/57",
+"kind": "local",
+"year": "2022",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 57/2022 pentru desemnarea unui al treilea reprezentanţ al Consiliului Local al comunei Vadu Moldovei care să facă parte din Consiliul de Administraţie al Şcolii Gimnaziale Nr.1 Vadu Moldovei, judeţul Suceava, pentru anul scolar 2022-2023",
+"short": "HCL Vadu Moldovei nr. 57/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-28",
+"latest": "2022-10-28",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/78736",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-58-2022",
+"path": "local/suceava/vadu-moldovei/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 58/2022 privind aprobarea solicitarii de prelungire a valabilitatii Scrisorii de garanţie nr. 815/12.10.2017, pentru proiectul de investitie intitulat: ” Construire si dotare gradinita in sat Ciumulesti, comuna Vadu Moldovei, judetul Suceava” și finanțat prin Agentia pentru Finantarea Investitiilor Rurale, conform Contract de finanțare nr. C 0720EN00011613500272/24.07.2017, Act Aditional nr. 7/11.07.2022",
+"short": "HCL Vadu Moldovei nr. 58/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-28",
+"latest": "2022-10-28",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/78737",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-59-2022",
+"path": "local/suceava/vadu-moldovei/2022/59",
+"kind": "local",
+"year": "2022",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 59/2022 privind rectificarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2022",
+"short": "HCL Vadu Moldovei nr. 59/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-09",
+"latest": "2022-11-09",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/79438",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--vadu-moldovei-60-2022",
 "path": "local/suceava/vadu-moldovei/2022/60",
 "kind": "local",
@@ -44,6 +198,116 @@
 "council_name": "Consiliul Local al Comunei Vadu Moldovei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-61-2022",
+"path": "local/suceava/vadu-moldovei/2022/61",
+"kind": "local",
+"year": "2022",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 61/2022 privind aprobarea majorării cotizației pentru anul 2022 la ASOCIAȚIA DE DEZVOLTARE INTERCOMUNITARĂ VADU MOLDOVEI-PREUTEȘTI",
+"short": "HCL Vadu Moldovei nr. 61/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/81971",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-62-2022",
+"path": "local/suceava/vadu-moldovei/2022/62",
+"kind": "local",
+"year": "2022",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 62/2022 privind aprobarea studiului de fundamentare a deciziei de concesionare, a demarării procedurii de concesionare și punerii la dispoziția concesionarului a terenurilor necesare pentru realizarea obiectivelor aferente „sistemului distributie a gazelor naturale în comuna Vadu Moldovei, parte din proiectul: «CONSTRUIREA REȚELEI INTELIGENTE DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNELE VADU MOLDOVEI ȘI PREUTEȘTI, JUDEȚUL SUCEAVA»” pe durata concesiunii, precum și a terenurilor necesare organizării de șantier pe durata realizării investiției",
+"short": "HCL Vadu Moldovei nr. 62/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/81972",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-63-2022",
+"path": "local/suceava/vadu-moldovei/2022/63",
+"kind": "local",
+"year": "2022",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 63/2022 privind rectificarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2022",
+"short": "HCL Vadu Moldovei nr. 63/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/81973",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-64-2022",
+"path": "local/suceava/vadu-moldovei/2022/64",
+"kind": "local",
+"year": "2022",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 64/2022 privind aprobarea reţelei şcolare din Comuna Vadu Moldovei pentru anul şcolar 2023 – 2024",
+"short": "HCL Vadu Moldovei nr. 64/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/81974",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-65-2022",
+"path": "local/suceava/vadu-moldovei/2022/65",
+"kind": "local",
+"year": "2022",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 65/2022 privind rectificarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2022",
+"short": "HCL Vadu Moldovei nr. 65/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-07",
+"latest": "2022-12-07",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/81975",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -88,6 +352,94 @@
 "council_name": "Consiliul Local al Comunei Vadu Moldovei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-68-2022",
+"path": "local/suceava/vadu-moldovei/2022/68",
+"kind": "local",
+"year": "2022",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 68/2022 privind alegerea preşedintelui de şedinţă al Consiliului Local al Comunei Vadu Moldovei",
+"short": "HCL Vadu Moldovei nr. 68/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/84845",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-69-2022",
+"path": "local/suceava/vadu-moldovei/2022/69",
+"kind": "local",
+"year": "2022",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 69/2022 privind alocarea sumei de 10.000 lei din bugetul comunei Vadu Moldovei pentru organizarea datinilor si obiceiurilor de Anul Nou",
+"short": "HCL Vadu Moldovei nr. 69/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/84846",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-70-2022",
+"path": "local/suceava/vadu-moldovei/2022/70",
+"kind": "local",
+"year": "2022",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 70/2022 privind aprobarea cuantumului și a numărului de burse care se acordă elevilor din învățământul preuniversitar de stat din comuna Vadu Moldovei pentru anul școlar în curs",
+"short": "HCL Vadu Moldovei nr. 70/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/84847",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-71-2022",
+"path": "local/suceava/vadu-moldovei/2022/71",
+"kind": "local",
+"year": "2022",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 71/2022 privind rectificarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2022",
+"short": "HCL Vadu Moldovei nr. 71/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/84848",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

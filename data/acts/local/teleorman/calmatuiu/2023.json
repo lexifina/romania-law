@@ -3,6 +3,28 @@
 "shard": "local/teleorman/calmatuiu/2023",
 "acts": [
 {
+"slug": "hcl-teleorman--calmatuiu-32-2023",
+"path": "local/teleorman/calmatuiu/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 32/2023 privind aprobarea organigramei și a statului de funcții al aparatului de specialitate al primarului comunei Călmățuiu",
+"short": "HCL Călmățuiu nr. 32/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/calmatuiu-tr/registru-hcl/121314",
+"council": "teleorman/calmatuiu",
+"council_name": "Consiliul Local al Comunei Călmățuiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--calmatuiu-33-2023",
 "path": "local/teleorman/calmatuiu/2023/33",
 "kind": "local",
@@ -88,6 +110,94 @@
 "council_name": "Consiliul Local al Comunei Călmățuiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--calmatuiu-37-2023",
+"path": "local/teleorman/calmatuiu/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 37/2023 privind numirea reprezentantului Consiliului Local Călmățuiu , în Consiliul de Administrație al Școlii Gimnaziale Călmățuiu pentru anul școlar 2023-2024",
+"short": "HCL Călmățuiu nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/calmatuiu-tr/registru-hcl/132990",
+"council": "teleorman/calmatuiu",
+"council_name": "Consiliul Local al Comunei Călmățuiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--calmatuiu-38-2023",
+"path": "local/teleorman/calmatuiu/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 38/2023 privind desemnarea reprezentantului Consiliului Local Călmățuiu , în Comisiile pentru evaluarea și asigurarea calității (CEAC) din cadrul școlii Gimnaziale Călmățuiu",
+"short": "HCL Călmățuiu nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/calmatuiu-tr/registru-hcl/132991",
+"council": "teleorman/calmatuiu",
+"council_name": "Consiliul Local al Comunei Călmățuiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--calmatuiu-39-2023",
+"path": "local/teleorman/calmatuiu/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 39/2023 privind numirea reprezentantului Consiliului Local Călmățuiu , în grupul de acțiune antibullyng din cadrul scolii Gimnaziale Călmățuiu pentru anul școlar 2023-2024",
+"short": "HCL Călmățuiu nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/calmatuiu-tr/registru-hcl/132992",
+"council": "teleorman/calmatuiu",
+"council_name": "Consiliul Local al Comunei Călmățuiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--calmatuiu-40-2023",
+"path": "local/teleorman/calmatuiu/2023/40",
+"kind": "local",
+"year": "2023",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 40/2023 privind alegerea președintelui de ședință , care să conducă ședințele Consiliului Local , să semneze procesul verbal de ședință și hotărârile adoptate de acesta pentru următoarele trei luni",
+"short": "HCL Călmățuiu nr. 40/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/calmatuiu-tr/registru-hcl/133023",
+"council": "teleorman/calmatuiu",
+"council_name": "Consiliul Local al Comunei Călmățuiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

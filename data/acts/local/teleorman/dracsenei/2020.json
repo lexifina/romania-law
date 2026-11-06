@@ -69,6 +69,29 @@
 }
 },
 {
+"slug": "hcl-teleorman--dracsenei-20-2020",
+"path": "local/teleorman/dracsenei/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 20/2020",
+"short": "HCL Drăcșenei nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-15",
+"latest": "2020-04-15",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/817",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-teleorman--dracsenei-21-2020",
 "path": "local/teleorman/dracsenei/2020/21",
 "kind": "local",
@@ -113,6 +136,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--dracsenei-23-2020",
+"path": "local/teleorman/dracsenei/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 23/2020 privind acordarea normei de hrană pentru personalul politiei locale din cadrul aparatului de specialitate al primarului comunei Drăcşenei, judeţul Teleorman",
+"short": "HCL Drăcșenei nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-25",
+"latest": "2020-05-25",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/17100",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--dracsenei-24-2020",
 "path": "local/teleorman/dracsenei/2020/24",
 "kind": "local",
@@ -132,6 +177,28 @@
 "council_name": "Consiliul Local al Comunei Drăcșenei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--dracsenei-25-2020",
+"path": "local/teleorman/dracsenei/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 25/2020 privind alegerea preşedintelui de şedinţă pentru următoarele două luni",
+"short": "HCL Drăcșenei nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-21",
+"latest": "2020-09-21",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/17480",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -176,6 +243,28 @@
 "council_name": "Consiliul Local al Comunei Drăcșenei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--dracsenei-28-2020",
+"path": "local/teleorman/dracsenei/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 28/2020 privind desemnarea a doi reprezentanţi ai Consiliului Local al comunei Drăcşenei în Consiliul de administraţie al Şcolii Gimnaziale comuna Drăcşenei pentru anul şcolar 2020 - 2021",
+"short": "HCL Drăcșenei nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-21",
+"latest": "2020-09-21",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/17483",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

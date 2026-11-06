@@ -45,6 +45,28 @@
 "flags": {
 "text_pending": "source"
 }
+},
+{
+"slug": "hcl-teleorman--fantanele-3-2022",
+"path": "local/teleorman/fantanele/2022/3",
+"kind": "local",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 3/2022 Proiect de hotarare privind desemnarea reprezentantilor Consiliului Local al comunei fantanele in Comisia de evaluare a probei de interviu,la concursul organizat pentru ocuparea functiei de director si director adjunct din unitatea de invatamant Scoala Fantanele",
+"short": "HCL Fântânele nr. 3/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-19",
+"latest": "2022-05-19",
+"portal": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#16336",
+"council": "teleorman/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

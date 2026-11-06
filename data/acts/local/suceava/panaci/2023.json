@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-suceava--panaci-54-2023",
+"path": "local/suceava/panaci/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Panaci nr. 54/2023 privind aprobarea decontarii cheltuielilor cu naveta cadrelor didactice de la Scoala gimnaziala Panaci, pe luna iunie 2022",
+"short": "HCL Panaci nr. 54/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-20",
+"latest": "2023-09-20",
+"portal": "https://emol.ro/panaci-sv/registru-hcl/121070",
+"council": "suceava/panaci",
+"council_name": "Consiliul Local al Comunei Panaci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--panaci-55-2023",
 "path": "local/suceava/panaci/2023/55",
 "kind": "local",
@@ -267,6 +289,95 @@
 }
 },
 {
+"slug": "hcl-suceava--panaci-64-2023",
+"path": "local/suceava/panaci/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Panaci nr. 64/2023 privind alegerea președintelui de ședință pentru perioada octombrie-decembrie 2023",
+"short": "HCL Panaci nr. 64/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/panaci-sv/registru-hcl/121337",
+"council": "suceava/panaci",
+"council_name": "Consiliul Local al Comunei Panaci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--panaci-65-2023",
+"path": "local/suceava/panaci/2023/65",
+"kind": "local",
+"year": "2023",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Panaci nr. 65/2023",
+"short": "HCL Panaci nr. 65/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/panaci-sv/registru-hcl/121338",
+"council": "suceava/panaci",
+"council_name": "Consiliul Local al Comunei Panaci",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--panaci-66-2023",
+"path": "local/suceava/panaci/2023/66",
+"kind": "local",
+"year": "2023",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Panaci nr. 66/2023 privind acordarea unui sprijin financiar pentru unitatea de cult-Parohia Păltiniș din satul Glodu, din bugetul local al comunei Panaci, în anul 2023",
+"short": "HCL Panaci nr. 66/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/panaci-sv/registru-hcl/121339",
+"council": "suceava/panaci",
+"council_name": "Consiliul Local al Comunei Panaci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--panaci-67-2023",
+"path": "local/suceava/panaci/2023/67",
+"kind": "local",
+"year": "2023",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Panaci nr. 67/2023 privind acordarea unui sprijin financiar pentru unitatea de cult-Parohia Drăgoiasa, din bugetul local al comunei Panaci, în anul 2023",
+"short": "HCL Panaci nr. 67/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/panaci-sv/registru-hcl/121340",
+"council": "suceava/panaci",
+"council_name": "Consiliul Local al Comunei Panaci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--panaci-68-2023",
 "path": "local/suceava/panaci/2023/68",
 "kind": "local",
@@ -286,6 +397,29 @@
 "council_name": "Consiliul Local al Comunei Panaci",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--panaci-69-2023",
+"path": "local/suceava/panaci/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Panaci nr. 69/2023",
+"short": "HCL Panaci nr. 69/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/panaci-sv/registru-hcl/121342",
+"council": "suceava/panaci",
+"council_name": "Consiliul Local al Comunei Panaci",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

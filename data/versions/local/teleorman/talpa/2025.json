@@ -228,6 +228,36 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--talpa-75-2025",
+   "path": "local/teleorman/talpa/2025/75",
+   "short": "HCL Talpa nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 75/2025 privind revocarea Hotărârii Consiliului Local nr.55 din 18 septembrie 2025 privind desemnarea reprezentantului consiliului local al comunei Talpa, județul Teleorman în consiliul de administrație al Scolii Gimnaziale",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/246568",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/246568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-76-2025",
+   "path": "local/teleorman/talpa/2025/76",
+   "short": "HCL Talpa nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 76/2025 privind desemnarea reprezentantului consiliului local al comunei Talpa, județul Teleorman în Consiliul de Administrație al Școlii Gimnaziale Talpa",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/246570",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/246570",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--talpa-77-2025",
    "path": "local/teleorman/talpa/2025/77",
    "short": "HCL Talpa nr. 77/2025",

@@ -3,6 +3,156 @@
  "shard": "local/suceava/radaseni/2023",
  "acts": [
   {
+   "slug": "hcl-suceava--radaseni-47-2023",
+   "path": "local/suceava/radaseni/2023/47",
+   "short": "HCL Rădășeni nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 47/2023 privind actualizarea indicatorilor economici și aprobarea a devizului actualizat pentru obiectivul de investiții „ EXTINDERE REȚEA DISTRIBUȚIE APĂ POTABILĂ ȘI REȚEA APĂ UZATĂ ÎN SATELE RĂDĂȘENI ȘI LĂMĂȘENI, COMUNA RĂDĂȘENI, JUDEȚUL SUCEAVA ”, aprobat pentru finanțare prin Programul național de investiții „ Anghel Saligny ”",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/120644",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/120644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radaseni-48-2023",
+   "path": "local/suceava/radaseni/2023/48",
+   "short": "HCL Rădășeni nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 48/2023 privind aprobarea solicitării prelungirii scrisorii de garanție bancară pentru obiectivul ”Construire grădiniță cu program prelungit, în satul Rădășeni, comuna Rădășeni ”, până la data de 15.01.2025",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/122223",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/122223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radaseni-49-2023",
+   "path": "local/suceava/radaseni/2023/49",
+   "short": "HCL Rădășeni nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 49/2023 privind aprobarea solicitării prelungirii plafonului pentru emiterea SGB-ului pentru restituirea avansului din grant, aferent proiectului \" Construire gradiniţă cu program prelungit în satul Rădăşeni, judeţul Suceava \"",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/122224",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/122224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radaseni-50-2023",
+   "path": "local/suceava/radaseni/2023/50",
+   "short": "HCL Rădășeni nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 50/2023 privind rectificarea bugetului local al comunei aferent anului 2023",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/122225",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/122225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radaseni-51-2023",
+   "path": "local/suceava/radaseni/2023/51",
+   "short": "HCL Rădășeni nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 51/2023 privind aprobarea solicitării scrisorii de garanție bancară pentru restituirea avansului din grant aferent proiectului „ ACHIZIȚIE UTILAJ (BULDOEXCAVATOR) PENTRU COMUNA RĂDĂȘENI, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/123931",
+   "versions": [
+    {
+     "from": "2023-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/123931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radaseni-52-2023",
+   "path": "local/suceava/radaseni/2023/52",
+   "short": "HCL Rădășeni nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 52/2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții „CONSTRUIRE REȚEA INTELIGENTĂ DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNELE RĂDĂȘENI ȘI CORNU LUNCII”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/128071",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/128071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radaseni-53-2023",
+   "path": "local/suceava/radaseni/2023/53",
+   "short": "HCL Rădășeni nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 53/2023",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/128072",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/128072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radaseni-54-2023",
+   "path": "local/suceava/radaseni/2023/54",
+   "short": "HCL Rădășeni nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 54/2023 privind aprobarea contului trimestrial de execuție al bugetului local de venituri și cheltuieli la data de 30 septembrie 2023",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/128073",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/128073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radaseni-55-2023",
+   "path": "local/suceava/radaseni/2023/55",
+   "short": "HCL Rădășeni nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 55/2023 privind alegerea președintelui de ședință pentru o perioadă de 3 luni",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/128074",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/128074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radaseni-56-2023",
+   "path": "local/suceava/radaseni/2023/56",
+   "short": "HCL Rădășeni nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 56/2023",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/129330",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/129330",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--radaseni-57-2023",
    "path": "local/suceava/radaseni/2023/57",
    "short": "HCL Rădășeni nr. 57/2023",
@@ -13,6 +163,141 @@
      "from": "2023-11-20",
      "units": 1,
      "source_url": "https://emol.ro/radaseni-sv/registru-hcl/129331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radaseni-58-2023",
+   "path": "local/suceava/radaseni/2023/58",
+   "short": "HCL Rădășeni nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 58/2023 privind rectificarea bugetului local al comunei aferent anului 2023",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/129332",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/129332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radaseni-59-2023",
+   "path": "local/suceava/radaseni/2023/59",
+   "short": "HCL Rădășeni nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 59/2023 privind modificarea organigramei și a statului de funcţii al aparatul de specialitate al primarului comunei Rădășeni, județul Suceava",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/129333",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/129333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radaseni-60-2023",
+   "path": "local/suceava/radaseni/2023/60",
+   "short": "HCL Rădășeni nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 60/2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Rădășeni, judeţul Suceava, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/129334",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/129334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radaseni-61-2023",
+   "path": "local/suceava/radaseni/2023/61",
+   "short": "HCL Rădășeni nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 61/2023",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/132264",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/132264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radaseni-62-2023",
+   "path": "local/suceava/radaseni/2023/62",
+   "short": "HCL Rădășeni nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 62/2023",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/132265",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/132265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radaseni-63-2023",
+   "path": "local/suceava/radaseni/2023/63",
+   "short": "HCL Rădășeni nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 63/2023 privind rectificarea bugetului local al comunei aferent anului 2023",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/132266",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/132266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radaseni-64-2023",
+   "path": "local/suceava/radaseni/2023/64",
+   "short": "HCL Rădășeni nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 64/2023 privind atestarea inventarului bunurilor care fac parte din domeniul public al comunei Rădășeni, județul Suceava",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/132267",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/132267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radaseni-65-2023",
+   "path": "local/suceava/radaseni/2023/65",
+   "short": "HCL Rădășeni nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 65/2023 privind organizarea reţelei şcolare a unităţilor de învăţământ din comuna Rădăşeni pentru anul şcolar 2024-2025",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/136075",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/136075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radaseni-66-2023",
+   "path": "local/suceava/radaseni/2023/66",
+   "short": "HCL Rădășeni nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 66/2023 privind rectificarea bugetului local al comunei aferent anului 2023",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/136076",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/136076",
      "sha256": null
     }
    ]

@@ -33,6 +33,51 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--islaz-41-2021",
+   "path": "local/teleorman/islaz/2021/41",
+   "short": "HCL Islaz nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 41/2021 privind Alegerea preşedintelui de şedinţă pentru următoarele trei luni",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/54136",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/54136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-42-2021",
+   "path": "local/teleorman/islaz/2021/42",
+   "short": "HCL Islaz nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 42/2021 privind aprobarea inchirierii prin licitatie publica a spatiului in suprafata de 67,78 mp (Cabinet mare) situat in cladirea „Dispensar Uman sat Islaz” din comuna Islaz, cu destinatia de servicii medicale",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/54137",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/54137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-43-2021",
+   "path": "local/teleorman/islaz/2021/43",
+   "short": "HCL Islaz nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 43/2021 privind aprobarea inchirierii prin licitatie publica a spatiului in suprafata de 12,6 mp (sala 2-birou) situat in cladirea „Remiza PSI” din comuna Islaz, cu destinatia de activităţi economice",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/54138",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/54138",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--islaz-44-2021",
    "path": "local/teleorman/islaz/2021/44",
    "short": "HCL Islaz nr. 44/2021",
@@ -43,6 +88,36 @@
      "from": "2022-08-18",
      "units": 1,
      "source_url": "https://emol.ro/islaz-tr/registru-hcl/54139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-45-2021",
+   "path": "local/teleorman/islaz/2021/45",
+   "short": "HCL Islaz nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 45/2021 privind desemnarea unui reprezentant al Consiliului local al comunei Islaz ca membru în Comisia de evaluare a probei de interviu la concursul pentru ocuparea funcţiilor de director şi director adjunct din unitatea de învăţământ Şcoala Gimnazială nr. 1 Islaz",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/54143",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/54143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-46-2021",
+   "path": "local/teleorman/islaz/2021/46",
+   "short": "HCL Islaz nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 46/2021",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/54144",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/54144",
      "sha256": null
     }
    ]
@@ -93,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--islaz-50-2021",
+   "path": "local/teleorman/islaz/2021/50",
+   "short": "HCL Islaz nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 50/2021 privind desemnarea reprezentanților Consiliului local al comunei Islaz care vor face parte din comisia de evaluare a ofertelor pentru licitația publică având ca obiect închirierea unui spațiu situat în clădirea ”Dispensar Uman sat Islaz” din comuna Islaz, cu destinația de servicii medicale, precum şi închirierea unui spaţiu situat în clădirea „Remiza PSI” din comuna Islaz, cu destinaţia de activităţi economice",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/54148",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/54148",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--islaz-51-2021",
    "path": "local/teleorman/islaz/2021/51",
    "short": "HCL Islaz nr. 51/2021",
@@ -138,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--islaz-54-2021",
+   "path": "local/teleorman/islaz/2021/54",
+   "short": "HCL Islaz nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 54/2021 privind Alegerea preşedintelui de şedinţă pentru şedinţa de lucru ordinara din data de 26 noiembrie 2021",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/54152",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/54152",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--islaz-55-2021",
    "path": "local/teleorman/islaz/2021/55",
    "short": "HCL Islaz nr. 55/2021",
@@ -163,6 +268,21 @@
      "from": "2022-08-18",
      "units": 1,
      "source_url": "https://emol.ro/islaz-tr/registru-hcl/54156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-57-2021",
+   "path": "local/teleorman/islaz/2021/57",
+   "short": "HCL Islaz nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 57/2021 privind Alegerea preşedintelui de şedinţă pentru şedinţa extartaordinara din data de 07 decembrie 2021",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/54157",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/54157",
      "sha256": null
     }
    ]

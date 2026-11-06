@@ -3,6 +3,205 @@
 "shard": "local/teleorman/dracsenei/2024",
 "acts": [
 {
+"slug": "hcl-teleorman--dracsenei-44-2024",
+"path": "local/teleorman/dracsenei/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 44/2024 privind radierea din inventarul actualizat al bunurilor imobile care aparţin domeniului privat al comunei Drăcşenei a imobilului „Imobil comuna Drăcșenei, sat Drăcșenei, str.Gării, nr.9”, număr din inventar 3, numar cadastral 22078, înscris în cartea funciară nr.22078 a localităţii Drăcşenei",
+"short": "HCL Drăcșenei nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-29",
+"latest": "2024-08-29",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/179619",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--dracsenei-45-2024",
+"path": "local/teleorman/dracsenei/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 45/2024 privind rectificarea bugetului local al comunei Drăcșenei pe anul 2024",
+"short": "HCL Drăcșenei nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-29",
+"latest": "2024-08-29",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/179620",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--dracsenei-46-2024",
+"path": "local/teleorman/dracsenei/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 46/2024 privind reorganizarea grupului de lucru propriu în vederea identificării așezărilor informale, evaluării situației acestora și stabilirii măsurilor necesare, la nivelul comunei Drăcşenei, judeţul Teleorman",
+"short": "HCL Drăcșenei nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/179638",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--dracsenei-47-2024",
+"path": "local/teleorman/dracsenei/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 47/2024 privind aprobarea Devizului General actualizat și a indicatorilor tehnico-economici actualizați dupa incheierea procedurilor de achizitie publică și încheierea contractului de execuție de lucrări, pentru obiectivul de investiții „Extindere sistem centralizat de alimentare cu apă comuna Drăcşenei, judeţul Teleorman şi branşare” din fonduri alocate prin Programului national de investitii „Anghel Saligny“",
+"short": "HCL Drăcșenei nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/179639",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--dracsenei-48-2024",
+"path": "local/teleorman/dracsenei/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 48/2024 privind desemnarea reprezentantului Consiliului Local al comunei Drăcşenei în Consiliul de administraţie al Şcolii Gimnaziale comuna Drăcşenei, pentru anul şcolar 2024 - 2025",
+"short": "HCL Drăcșenei nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/179640",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--dracsenei-49-2024",
+"path": "local/teleorman/dracsenei/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 49/2024 privind constituirea Structurii comunitare consultative în subordinea Consiliului Local al comunei Drăcșenei, ca organ de specialitate al acestuia, fără personalitate juridică și aprobarea Regulamentului de organizare și funcționare a structurii",
+"short": "HCL Drăcșenei nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/179641",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--dracsenei-50-2024",
+"path": "local/teleorman/dracsenei/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 50/2024",
+"short": "HCL Drăcșenei nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/179642",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--dracsenei-51-2024",
+"path": "local/teleorman/dracsenei/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 51/2024 privind alegerea preşedintelui de şedinţă pentru o perioadă de 3 luni",
+"short": "HCL Drăcșenei nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-05",
+"latest": "2024-11-05",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/180246",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--dracsenei-52-2024",
+"path": "local/teleorman/dracsenei/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 52/2024 privind organizarea comisiilor de specialitate, pe principalele domenii de activitate, ale Consiliului Local al comunei Drăcşenei, judeţul Teleorman",
+"short": "HCL Drăcșenei nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-05",
+"latest": "2024-11-05",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/180247",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--dracsenei-53-2024",
 "path": "local/teleorman/dracsenei/2024/53",
 "kind": "local",
@@ -25,6 +224,72 @@
 }
 },
 {
+"slug": "hcl-teleorman--dracsenei-54-2024",
+"path": "local/teleorman/dracsenei/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 54/2024 privind alegerea viceprimarului comunei Drăcşenei, judeţul Teleorman",
+"short": "HCL Drăcșenei nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-05",
+"latest": "2024-11-05",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/180249",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--dracsenei-55-2024",
+"path": "local/teleorman/dracsenei/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 55/2024 privind trecerea din domeniul public în domeniul privat al comunei Drăcșenei, județul Teleorman, a suprafeței de 2,00 ha teren forestier",
+"short": "HCL Drăcșenei nr. 55/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-05",
+"latest": "2024-11-05",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/180250",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--dracsenei-56-2024",
+"path": "local/teleorman/dracsenei/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 56/2024 privind aprobarea indicatorilor tehnico-economici ai proiectului „Eficientizarea sistemului de iluminat public din Comuna Dracsenei, județ Teleorman – etapa II”",
+"short": "HCL Drăcșenei nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/180299",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--dracsenei-57-2024",
 "path": "local/teleorman/dracsenei/2024/57",
 "kind": "local",
@@ -44,6 +309,72 @@
 "council_name": "Consiliul Local al Comunei Drăcșenei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--dracsenei-58-2024",
+"path": "local/teleorman/dracsenei/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 58/2024 privind modificarea unor poziții din anexa la hotărârea Consiliului Local al Comunei Drăcşenei nr. 27 din 30.04.2001 privind însuşirea inventarului bunurilor care aparţin domeniului public al comunei Drăcşenei, cu modificările şi completările ulterioare, atestate prin Hotărârea Guvernului României nr.1358/2001, cu modificările şi completările ulterioare și modificarea art. 3 din hotărârea nr. 24/2016 privind modificarea şi completarea anexei la hotărârea Consiliului Local al Comunei Drăcşenei nr. 27 din 30.04.2001 privind însuşirea inventarului bunurilor care aparţin domeniului public al comunei Drăcşenei, cu modificările şi completările ulterioare",
+"short": "HCL Drăcșenei nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/180301",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--dracsenei-59-2024",
+"path": "local/teleorman/dracsenei/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 59/2024 privind aprobarea acordării din bugetul local pe anul 2024, a unui sprijin financiar Parohiei Odobeasca din Comuna Drăcșenei, județul Teleorman, la cerere",
+"short": "HCL Drăcșenei nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/180302",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--dracsenei-60-2024",
+"path": "local/teleorman/dracsenei/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 60/2024 privind aprobarea documentatiei de avizare a lucrarilor de interventii , a indicatorilor tehnico- economici si a devizului general pentru obiectivul de investitii “REABILITARE INTEGRATĂ A SEDIULUI PRIMĂRIEI DIN COMUNA DRĂCŞENEI, JUDEŢUL TELEORMAN”, aprobat pentru finanțare prin Programul Național de Consolidare a Clădirilor cu Risc Seismic Ridicat- Subprogramul Proiectarea şi execuţia lucrărilor de intervenţii pentru clădirile de interes şi utilitate publică și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Drăcșenei nr. 60/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-10",
+"latest": "2024-12-10",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/202427",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

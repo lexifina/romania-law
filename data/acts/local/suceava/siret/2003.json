@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/siret/2003",
+"acts": [
+{
+"slug": "hcl-suceava--siret-93-2003",
+"path": "local/suceava/siret/2003/93",
+"kind": "local",
+"year": "2003",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Siret nr. 93/2003",
+"short": "HCL Siret nr. 93/2003",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2003-11-27",
+"latest": "2003-11-27",
+"portal": "https://siretromania.ro/web/monitorul-oficial-local/",
+"council": "suceava/siret",
+"council_name": "Consiliul Local al Orașului Siret",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

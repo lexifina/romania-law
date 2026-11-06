@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--tatarastii-de-jos-15-2023",
+"path": "local/teleorman/tatarastii-de-jos/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 15/2023 privind însușirea de către Consiliul local al comunei Tătărăștii de Jos a întâmpinării la cererea de recurs formulată în dosarul nr.16527/3/2022",
+"short": "HCL Tătărăștii de Jos nr. 15/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-17",
+"latest": "2023-08-17",
+"portal": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116436",
+"council": "teleorman/tatarastii-de-jos",
+"council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--tatarastii-de-jos-16-2023",
 "path": "local/teleorman/tatarastii-de-jos/2023/16",
 "kind": "local",
@@ -110,6 +132,28 @@
 "council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--tatarastii-de-jos-17-2023",
+"path": "local/teleorman/tatarastii-de-jos/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 17/2023 privind alegerea preşedintelui de şedinţă a Consiliului Local al Comunei Tătărăștii de Jos, pentru lunile: aprilie, mai și iunie, aferente anului 2023",
+"short": "HCL Tătărăștii de Jos nr. 17/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-17",
+"latest": "2023-08-17",
+"portal": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116438",
+"council": "teleorman/tatarastii-de-jos",
+"council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -226,6 +270,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--tatarastii-de-jos-23-2023",
+"path": "local/teleorman/tatarastii-de-jos/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 23/2023 privind aprobarea asocierii Unității Administrativ-Teritoriale comuna Tătărăștii de Jos, prin Consiliul Local al comunei Tătărăștii de Jos, cu Unitatea Administrativ-Teritorială Județul Teleorman, prin Consiliul Județean Teleorman, în vederea depunerii spre finanțare, implementare și monitorizare a proiectului ”Microbuze electrice pentru elevii din Județul Teleorman” în cadrul apelului de proiecte cu titlul „Microbuze electrice pentru elevi”, finanțat din Componenta C15: Educație/Reforma 6. Actualizarea cadrului legislativ pentru a asigura standarde ecologice de proiectare, construcție și dotare în sistemul de învățământ preuniversitar/Investiția 10. Dezvoltarea rețelei de școli verzi și achiziționarea de microbuze verzi prin Planul Național de Redresare și Reziliență",
+"short": "HCL Tătărăștii de Jos nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-18",
+"latest": "2023-08-18",
+"portal": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116444",
+"council": "teleorman/tatarastii-de-jos",
+"council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--tatarastii-de-jos-24-2023",
 "path": "local/teleorman/tatarastii-de-jos/2023/24",
 "kind": "local",
@@ -311,6 +377,28 @@
 "council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--tatarastii-de-jos-28-2023",
+"path": "local/teleorman/tatarastii-de-jos/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 28/2023 privind alegerea preşedintelui de şedinţă a Consiliului Local al Comunei Tătărăștii de Jos, pentru lunile: iulie, august și septembrie, aferente anului 2023",
+"short": "HCL Tătărăștii de Jos nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-18",
+"latest": "2023-08-18",
+"portal": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116449",
+"council": "teleorman/tatarastii-de-jos",
+"council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

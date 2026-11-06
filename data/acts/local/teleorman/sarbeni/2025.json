@@ -204,6 +204,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--sarbeni-38-2025",
+"path": "local/teleorman/sarbeni/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 38/2025 privind desemnare reprezentant Consiliu Local Sârbeni, în Consiliul de Administraţie al Scolii Gimnaziale Sârbeni pentru anul scolar 2025 -2026",
+"short": "HCL Sârbeni nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/sarbeni-tr/registru-hcl/239464",
+"council": "teleorman/sarbeni",
+"council_name": "Consiliul Local al Comunei Sârbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--sarbeni-39-2025",
 "path": "local/teleorman/sarbeni/2025/39",
 "kind": "local",
@@ -378,6 +400,50 @@
 "council_name": "Consiliul Local al Comunei Sârbeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--sarbeni-47-2025",
+"path": "local/teleorman/sarbeni/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 47/2025 privind revocarea hotararii consiliului local Sarbeni, cu numarul 38 din 18.11. 2025 privind desemnare reprezentant Consiliu Local Sârbeni, în Consiliul de Administraţie al Scolii Gimnaziale Sârbeni pentru anul scolar 2025 -2026",
+"short": "HCL Sârbeni nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-16",
+"latest": "2026-01-16",
+"portal": "https://emol.ro/sarbeni-tr/registru-hcl/246992",
+"council": "teleorman/sarbeni",
+"council_name": "Consiliul Local al Comunei Sârbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--sarbeni-48-2025",
+"path": "local/teleorman/sarbeni/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 48/2025 privind desemnare reprezentant Consiliu Local Sârbeni, în Consiliul de Administraţie al Scolii Gimnaziale Sârbeni pentru anul scolar 2025 -2026",
+"short": "HCL Sârbeni nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-16",
+"latest": "2026-01-16",
+"portal": "https://emol.ro/sarbeni-tr/registru-hcl/246994",
+"council": "teleorman/sarbeni",
+"council_name": "Consiliul Local al Comunei Sârbeni",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

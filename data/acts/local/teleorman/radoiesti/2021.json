@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--radoiesti-27-2021",
+"path": "local/teleorman/radoiesti/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 27/2021 privind numirea reprezentantului Consiliului Local Radoiesti , in Consiliul de Administratie al Scolii Gimnaziale Radoiesti pentru anul scolar 2021/2022",
+"short": "HCL Rădoiești nr. 27/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-23",
+"latest": "2021-09-23",
+"portal": "https://emol.ro/radoiesti-tr/registru-hcl/41027",
+"council": "teleorman/radoiesti",
+"council_name": "Consiliul Local al Comunei Rădoiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--radoiesti-28-2021",
 "path": "local/teleorman/radoiesti/2021/28",
 "kind": "local",
@@ -132,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Rădoiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--radoiesti-29-2021",
+"path": "local/teleorman/radoiesti/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 29/2021 privind alegerea presedintelui de sedinta pentru urmatoarele trei luni",
+"short": "HCL Rădoiești nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-18",
+"latest": "2021-10-18",
+"portal": "https://emol.ro/radoiesti-tr/registru-hcl/41029",
+"council": "teleorman/radoiesti",
+"council_name": "Consiliul Local al Comunei Rădoiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +223,50 @@
 }
 },
 {
+"slug": "hcl-teleorman--radoiesti-32-2021",
+"path": "local/teleorman/radoiesti/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 32/2021 privind desemnarea unui reprezentant al consiliului local al comunei Radoiesti, pentru a participa, in calitate de memebru al Comisiei de evaluare a probei de interviu, la concursul pentru ocuparea functiilor de director si director adjunct din unitatea de invatamant Scoala Gimnaziala Radoiesti, sesiunea 2021",
+"short": "HCL Rădoiești nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-05",
+"latest": "2021-11-05",
+"portal": "https://emol.ro/radoiesti-tr/registru-hcl/47291",
+"council": "teleorman/radoiesti",
+"council_name": "Consiliul Local al Comunei Rădoiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--radoiesti-33-2021",
+"path": "local/teleorman/radoiesti/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 33/2021 privind aprobarea vanzarii prin licitatie publica a terenului in suprafata de 253 mp, partial ocupata cu constructie, situat in intravilanul satului Radoiesti Deal, str. Cismelei, nr. 1 bis",
+"short": "HCL Rădoiești nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-05",
+"latest": "2021-11-05",
+"portal": "https://emol.ro/radoiesti-tr/registru-hcl/47292",
+"council": "teleorman/radoiesti",
+"council_name": "Consiliul Local al Comunei Rădoiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--radoiesti-34-2021",
 "path": "local/teleorman/radoiesti/2021/34",
 "kind": "local",
@@ -198,6 +286,28 @@
 "council_name": "Consiliul Local al Comunei Rădoiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--radoiesti-35-2021",
+"path": "local/teleorman/radoiesti/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 35/2021 privind desemnarea reprezentanților și a supleanților Consiliului Local Rădoiești, în comisia de evaluare a ofertelor cu privire la vânzarea prin licitație publică a terenului în suprafață de 253 mp, parțial ocupată cu construcție, situat în intravilanul satului Rădoiești Deal, str. Cismelei, nr. 1 bis",
+"short": "HCL Rădoiești nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-10",
+"latest": "2021-12-10",
+"portal": "https://emol.ro/radoiesti-tr/registru-hcl/47294",
+"council": "teleorman/radoiesti",
+"council_name": "Consiliul Local al Comunei Rădoiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

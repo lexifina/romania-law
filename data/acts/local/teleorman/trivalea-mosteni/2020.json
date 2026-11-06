@@ -201,6 +201,50 @@
 }
 },
 {
+"slug": "hcl-teleorman--trivalea-mosteni-37-2020",
+"path": "local/teleorman/trivalea-mosteni/2020/37",
+"kind": "local",
+"year": "2020",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 37/2020 privind desemnarea a 2 reprezentanti ai Consiliului local Trivalea-Mosteni pentru a face parte din Consiliul de administratie al Scolii Gimnaziale- comuna Trivalea-Mosteni",
+"short": "HCL Trivalea-Moșteni nr. 37/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/19708",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--trivalea-mosteni-38-2020",
+"path": "local/teleorman/trivalea-mosteni/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 38/2020 privind desemnarea unui reprezentant al Consiliului local pentru a face parte din Comisia pentru evaluarea si asigurarea calitatii din cadrul Scolii Gimnaziale- comuna Trivalea-Mosteni",
+"short": "HCL Trivalea-Moșteni nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/19709",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--trivalea-mosteni-39-2020",
 "path": "local/teleorman/trivalea-mosteni/2020/39",
 "kind": "local",
@@ -220,6 +264,28 @@
 "council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--trivalea-mosteni-40-2020",
+"path": "local/teleorman/trivalea-mosteni/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 40/2020 privind stabilirea indemnizatiilor consilierilor locali din cadrul Consiliului local al comunei Trivalea-Mosteni, judetul Teleorman",
+"short": "HCL Trivalea-Moșteni nr. 40/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/19711",
+"council": "teleorman/trivalea-mosteni",
+"council_name": "Consiliul Local al Comunei Trivalea-Moșteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

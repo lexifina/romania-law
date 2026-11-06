@@ -69,6 +69,50 @@
 }
 },
 {
+"slug": "hcl-suceava--valea-moldovei-33-2026",
+"path": "local/suceava/valea-moldovei/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 33/2026 privind aprobarea acordării drepturilor bănești reprezentând cheltuieli de deplasare din luna mai 2026, personalului didactic al Școlii Gimnaziale Valea Moldovei și care are domiciliul/reședința în altă localitate decât cea în care profesează",
+"short": "HCL Valea Moldovei nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-03",
+"latest": "2026-08-03",
+"portal": "https://emol.ro/valeamoldovei-sv/registru-hcl/281783",
+"council": "suceava/valea-moldovei",
+"council_name": "Consiliul Local al Comunei Valea Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--valea-moldovei-34-2026",
+"path": "local/suceava/valea-moldovei/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 34/2026 privind alegerea președintelui de ședință",
+"short": "HCL Valea Moldovei nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-03",
+"latest": "2026-08-03",
+"portal": "https://emol.ro/valeamoldovei-sv/registru-hcl/281784",
+"council": "suceava/valea-moldovei",
+"council_name": "Consiliul Local al Comunei Valea Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--valea-moldovei-35-2026",
 "path": "local/suceava/valea-moldovei/2026/35",
 "kind": "local",
@@ -88,6 +132,28 @@
 "council_name": "Consiliul Local al Comunei Valea Moldovei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--valea-moldovei-36-2026",
+"path": "local/suceava/valea-moldovei/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 36/2026 privind aprobarea Regulamentului de acordare stimulentelor financiare elevilor din învățământul preuniversitar de pe raza UAT comuna Valea Moldovei, județul Suceava, care au obţinut distincţii, medalii şi premii speciale şi cadrelor didactice care s-au ocupat de pregătirea acestora, în anul școlar 2025-2026",
+"short": "HCL Valea Moldovei nr. 36/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-21",
+"latest": "2026-08-21",
+"portal": "https://emol.ro/valeamoldovei-sv/registru-hcl/284052",
+"council": "suceava/valea-moldovei",
+"council_name": "Consiliul Local al Comunei Valea Moldovei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

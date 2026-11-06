@@ -3,6 +3,21 @@
  "shard": "local/teleorman/nanov/2025",
  "acts": [
   {
+   "slug": "hcl-teleorman--nanov-15-2025",
+   "path": "local/teleorman/nanov/2025/15",
+   "short": "HCL Nanov nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 15/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/212617",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/212617",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--nanov-16-2025",
    "path": "local/teleorman/nanov/2025/16",
    "short": "HCL Nanov nr. 16/2025",
@@ -13,6 +28,66 @@
      "from": "2025-07-09",
      "units": 1,
      "source_url": "https://emol.ro/nanov-tr/registru-hcl/216121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-17-2025",
+   "path": "local/teleorman/nanov/2025/17",
+   "short": "HCL Nanov nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 17/2025 privind buget",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/217013",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/217013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-18-2025",
+   "path": "local/teleorman/nanov/2025/18",
+   "short": "HCL Nanov nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 18/2025 privind test",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/217121",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/217121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-19-2025",
+   "path": "local/teleorman/nanov/2025/19",
+   "short": "HCL Nanov nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 19/2025 privind test",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/221412",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/221412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-20-2025",
+   "path": "local/teleorman/nanov/2025/20",
+   "short": "HCL Nanov nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 20/2025 privind test",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/223740",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/223740",
      "sha256": null
     }
    ]
@@ -33,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--nanov-22-2025",
+   "path": "local/teleorman/nanov/2025/22",
+   "short": "HCL Nanov nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 22/2025 privind rectificare",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/224947",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/224947",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--nanov-23-2025",
    "path": "local/teleorman/nanov/2025/23",
    "short": "HCL Nanov nr. 23/2025",
@@ -43,6 +133,36 @@
      "from": "2025-09-17",
      "units": 1,
      "source_url": "https://emol.ro/nanov-tr/registru-hcl/225173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-24-2025",
+   "path": "local/teleorman/nanov/2025/24",
+   "short": "HCL Nanov nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 24/2025 privind alegerea președintelui de sedintă",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/226324",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/226324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-25-2025",
+   "path": "local/teleorman/nanov/2025/25",
+   "short": "HCL Nanov nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 25/2025 privind test",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/226748",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/226748",
      "sha256": null
     }
    ]
@@ -63,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--nanov-27-2025",
+   "path": "local/teleorman/nanov/2025/27",
+   "short": "HCL Nanov nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 27/2025 privind test",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/232055",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/232055",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--nanov-28-2025",
    "path": "local/teleorman/nanov/2025/28",
    "short": "HCL Nanov nr. 28/2025",
@@ -73,6 +208,21 @@
      "from": "2025-11-06",
      "units": 1,
      "source_url": "https://emol.ro/nanov-tr/registru-hcl/232231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-29-2025",
+   "path": "local/teleorman/nanov/2025/29",
+   "short": "HCL Nanov nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 29/2025 privind alegerea presedintelui de sedintă",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/233943",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/233943",
      "sha256": null
     }
    ]
@@ -103,6 +253,51 @@
      "from": "2025-11-12",
      "units": 1,
      "source_url": "https://emol.ro/nanov-tr/registru-hcl/234250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-32-2025",
+   "path": "local/teleorman/nanov/2025/32",
+   "short": "HCL Nanov nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 32/2025 privind alegerea presedintelui de sedintă",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/235984",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/235984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-33-2025",
+   "path": "local/teleorman/nanov/2025/33",
+   "short": "HCL Nanov nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 33/2025 privind rectificare de buget",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/236887",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/236887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-34-2025",
+   "path": "local/teleorman/nanov/2025/34",
+   "short": "HCL Nanov nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 34/2025 privind rectificare",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/238568",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/238568",
      "sha256": null
     }
    ]

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/partestii-de-jos/2020",
+"acts": [
+{
+"slug": "hcl-suceava--partestii-de-jos-17-2020",
+"path": "local/suceava/partestii-de-jos/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârteștii de Jos nr. 17/2020 privind stabilirea datei si a orei sedintei in cadrul careia are loc desemnarea membrilor biroului electoral ; Pv constituire BECC+Hotarari candidaturi ; Hotararea nr. 17 din 12.06.2024 ; Incheiere judecatoria Gura Humorului validare Primar ; Incheiere judecatoria Gura Humorului validare consilieri locali",
+"short": "HCL Pârteștii de Jos nr. 17/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-12",
+"latest": "2020-06-12",
+"portal": "https://www.comunapirtestiidejos.ro/",
+"council": "suceava/partestii-de-jos",
+"council_name": "Consiliul Local al Comunei Pârteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

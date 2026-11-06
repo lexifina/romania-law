@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--tatarastii-de-jos-8-2026",
+"path": "local/teleorman/tatarastii-de-jos/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 8/2026 privind alegerea președintelui de ședință a Consiliului Local al Comunei Tătărăștii de Jos",
+"short": "HCL Tătărăștii de Jos nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-02",
+"latest": "2026-06-02",
+"portal": "https://emol.ro/tatarastiidejos-tr/registru-hcl/271758",
+"council": "teleorman/tatarastii-de-jos",
+"council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--tatarastii-de-jos-9-2026",
 "path": "local/teleorman/tatarastii-de-jos/2026/9",
 "kind": "local",
@@ -111,6 +133,52 @@
 "council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--tatarastii-de-jos-12-2026",
+"path": "local/teleorman/tatarastii-de-jos/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 12/2026",
+"short": "HCL Tătărăștii de Jos nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-02",
+"latest": "2026-06-02",
+"portal": "https://emol.ro/tatarastiidejos-tr/registru-hcl/271787",
+"council": "teleorman/tatarastii-de-jos",
+"council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--tatarastii-de-jos-13-2026",
+"path": "local/teleorman/tatarastii-de-jos/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 13/2026",
+"short": "HCL Tătărăștii de Jos nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-02",
+"latest": "2026-06-02",
+"portal": "https://emol.ro/tatarastiidejos-tr/registru-hcl/271788",
+"council": "teleorman/tatarastii-de-jos",
+"council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -292,6 +360,51 @@
 }
 },
 {
+"slug": "hcl-teleorman--tatarastii-de-jos-22-2026",
+"path": "local/teleorman/tatarastii-de-jos/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 22/2026",
+"short": "HCL Tătărăștii de Jos nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-10",
+"latest": "2026-09-10",
+"portal": "https://emol.ro/tatarastiidejos-tr/registru-hcl/286892",
+"council": "teleorman/tatarastii-de-jos",
+"council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--tatarastii-de-jos-23-2026",
+"path": "local/teleorman/tatarastii-de-jos/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 23/2026 privind desemnarea reprezentanților Consiliului Local al Comunei Tătărăștii de Jos, județul Teleorman în Consiliul de Administrație și Comisia pentru Evaluarea și Asigurarea Calității Educației (CEAC) din cadrul Școlii Gimnaziale Tătărăștii de Jos, pentru anul școlar 2026-2027",
+"short": "HCL Tătărăștii de Jos nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-10",
+"latest": "2026-09-10",
+"portal": "https://emol.ro/tatarastiidejos-tr/registru-hcl/286893",
+"council": "teleorman/tatarastii-de-jos",
+"council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--tatarastii-de-jos-24-2026",
 "path": "local/teleorman/tatarastii-de-jos/2026/24",
 "kind": "local",
@@ -311,6 +424,28 @@
 "council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--tatarastii-de-jos-25-2026",
+"path": "local/teleorman/tatarastii-de-jos/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 25/2026 privind desemnarea reprezentanților Consiliului Local al Comunei Tătărăștii de Jos în Comisia de evaluare a probei de interviu a concursului pentru ocuparea funcției de director și director adjunct din cadrul Școlii Gimnaziale Tătărăștii de Jos, județul Teleorman",
+"short": "HCL Tătărăștii de Jos nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/tatarastiidejos-tr/registru-hcl/291507",
+"council": "teleorman/tatarastii-de-jos",
+"council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

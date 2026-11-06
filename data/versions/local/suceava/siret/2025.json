@@ -1,0 +1,1071 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/siret/2025",
+ "acts": [
+  {
+   "slug": "hcl-suceava--siret-1-2025",
+   "path": "local/suceava/siret/2025/1",
+   "short": "HCL Siret nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 1/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/1/HCL%20nr.%201%20din%2021.01.2025_anonimizat.pdf",
+     "sha256": "0bf4c422bde505fa811b6e952e75a8ac2706dc90c9fd32956edc863a7493959b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-10-2025",
+   "path": "local/suceava/siret/2025/10",
+   "short": "HCL Siret nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 10/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/1/HCL%20nr.%2010%20din%2031.01.2025_anonimizat.pdf",
+     "sha256": "81f253bfe233bbc945202bf55c20dd92d6ffded79f37cf8bbac764245b8dd972"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-11-2025",
+   "path": "local/suceava/siret/2025/11",
+   "short": "HCL Siret nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 11/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/1/HCL%20nr.%2011%20din%2031.01.2025_anonimizat.pdf",
+     "sha256": "829431948b99145a42e81b03194256da7238493290c946f879413fe40ad8dba1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-12-2025",
+   "path": "local/suceava/siret/2025/12",
+   "short": "HCL Siret nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 12/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/1/HCL%20nr.%2012%20din%2031.01.2025_anonimizat.pdf",
+     "sha256": "4dfcd7837a527caedf74eb162e440c881a03229333e972e2d79a7787f83df16c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-13-2025",
+   "path": "local/suceava/siret/2025/13",
+   "short": "HCL Siret nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 13/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/1/HCL%20nr.%2013%20din%2031.01.2025_anonimizat.pdf",
+     "sha256": "e989de79ced622c2a52d1b6b3d7adf5d162b90410a5c93b6c4bcd65f8ad86afb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-14-2025",
+   "path": "local/suceava/siret/2025/14",
+   "short": "HCL Siret nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 14/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/1/HCL%20nr.%2014%20din%2031.01.2025_anonimizat.pdf",
+     "sha256": "54a40339afe22211bd53bc08bde32c37aa7062164f75695b09aa247aeb851c84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-15-2025",
+   "path": "local/suceava/siret/2025/15",
+   "short": "HCL Siret nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 15/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/1/HCL%20nr.%2015%20din%2031.01.2025_anonimizat.pdf",
+     "sha256": "74d4115bd2bbfb3e04f252f44b7d502740acabc5f7d6261ecc2367cd91e0b0d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-16-2025",
+   "path": "local/suceava/siret/2025/16",
+   "short": "HCL Siret nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 16/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/1/HCL%20nr.%2016%20din%2031.01.2025_anonimizat.pdf",
+     "sha256": "b6925e8f8a18ba96fb60c582d3cf9baecf9f00d40bc9f637bee4e40a3d994343"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-17-2025",
+   "path": "local/suceava/siret/2025/17",
+   "short": "HCL Siret nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 17/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/2/HCL%20nr.%2017%20din%2014.02.2025_Redacted.pdf",
+     "sha256": "b14f9d2be6b80afa6d59eae26715ecb6505d583ebe6ff106c6752ba675ac2474"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-18-2025",
+   "path": "local/suceava/siret/2025/18",
+   "short": "HCL Siret nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 18/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/2/HCL%20nr.%2018%20din%2027.02.2025_Redacted.pdf",
+     "sha256": "94c4542685cfb2be24a5a84d4070db9fe3ea1470b2bf969d45ec452471bad1a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-180-2025",
+   "path": "local/suceava/siret/2025/180",
+   "short": "HCL Siret nr. 180/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 180/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.2%20Dispozitii%20Convocare/2025/Disp.%20nr.%20180%20din%2008.10.2025.pdf",
+     "sha256": "47ce462e24a0edfe5ae407c2398c4f9ee2c12de14b77577430afa2eded765eb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-181-2025",
+   "path": "local/suceava/siret/2025/181",
+   "short": "HCL Siret nr. 181/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 181/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.2%20Dispozitii%20Convocare/2025/Disp.%20nr.%20181%20din%2009.10.2025.pdf",
+     "sha256": "67bba306ce52f31d2a240f66d8903458bd6c650969ed7f110b4f50b3cf9c3b92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-187-2025",
+   "path": "local/suceava/siret/2025/187",
+   "short": "HCL Siret nr. 187/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 187/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.2%20Dispozitii%20Convocare/2025/Disp.%20nr.%20187%20din%2023.10.2025.pdf",
+     "sha256": "aea6656a20de0cfb4ef7f3ce228f0e27db7a25d5426bbace3a2779cf05fd124b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-19-2025",
+   "path": "local/suceava/siret/2025/19",
+   "short": "HCL Siret nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 19/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/2/HCL%20nr.%2019%20din%2027.02.2025_Redacted.pdf",
+     "sha256": "01fb41e5b0ff9a41b81cc08d89f7bc5eab8da3bd8abdce0a65e75ab19a0e16b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-193-2025",
+   "path": "local/suceava/siret/2025/193",
+   "short": "HCL Siret nr. 193/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 193/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.2%20Dispozitii%20Convocare/2025/Disp.%20nr.%20193%20din%2005.11.2025.pdf",
+     "sha256": "20ef4cec2d3ee632a0631c1f80266e7a98d31acacdf77dd5ec52e3963ecb4038"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-2-2025",
+   "path": "local/suceava/siret/2025/2",
+   "short": "HCL Siret nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 2/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/1/HCL%20nr.%202%20din%2031.01.2025_anonimizat.pdf",
+     "sha256": "c46a6d7fb3900eb7aefc1e53d4328e5da56e15f8af20106ab5565b44f90af7d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-20-2025",
+   "path": "local/suceava/siret/2025/20",
+   "short": "HCL Siret nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 20/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/2/HCL%20nr.%2020%20din%2027.02.2025_Redacted.pdf",
+     "sha256": "ee36cdbb942dbf9da3cbccba6fb46076e21fee6a1e482cd434a8547de118708d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-201-2025",
+   "path": "local/suceava/siret/2025/201",
+   "short": "HCL Siret nr. 201/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 201/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.2%20Dispozitii%20Convocare/2025/Disp.%20nr.%20201%20din%2017.11.2025.pdf",
+     "sha256": "2e4b5723d02bdaddacd2f299545cea3b1257e97fc0f7ebdb7b5ce7ec058e6847"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-203-2025",
+   "path": "local/suceava/siret/2025/203",
+   "short": "HCL Siret nr. 203/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 203/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.2%20Dispozitii%20Convocare/2025/Disp.%20nr.%20203%20din%2017.11.2025.pdf",
+     "sha256": "be87f6925bdfae82e9bdcb749f57f2533e4a48bc1bacaf91a69bce68e8a01817"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-208-2025",
+   "path": "local/suceava/siret/2025/208",
+   "short": "HCL Siret nr. 208/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 208/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.2%20Dispozitii%20Convocare/2025/Disp.%20nr.%20208%20din%2025.11.2025.pdf",
+     "sha256": "36adc803ab747157dbd17cb046a13b827c8c06bc921e63bf218f6ad70bfde718"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-21-2025",
+   "path": "local/suceava/siret/2025/21",
+   "short": "HCL Siret nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 21/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/2/HCL%20nr.%2021%20din%2027.02.2025_Redacted.pdf",
+     "sha256": "2bfb3ac8211f9ae025870ec01f8049e1ec82d9a94fed97a12be8318b631d4006"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-213-2025",
+   "path": "local/suceava/siret/2025/213",
+   "short": "HCL Siret nr. 213/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 213/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.2%20Dispozitii%20Convocare/2025/Disp.%20nr.%20213%20din%2009.12.2025.pdf",
+     "sha256": "34f3aba401b113dfca9223e926d35532f91b0c5bb0fbafec132c2c6a7602b310"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-22-2025",
+   "path": "local/suceava/siret/2025/22",
+   "short": "HCL Siret nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 22/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/2/HCL%20nr.%2022%20din%2027.02.2025_Redacted.pdf",
+     "sha256": "4c2231e598ed9eb156d15f4fca75c358b5266bd238c298b5fd59e520d429a7d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-223-2025",
+   "path": "local/suceava/siret/2025/223",
+   "short": "HCL Siret nr. 223/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 223/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.2%20Dispozitii%20Convocare/2025/Disp.%20nr.%20223%20din%2019.12.2025.pdf",
+     "sha256": "d535bd2a78e34e677d7e67268abc42fb5de8c97f4ff15d1a79586247619add4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-224-2025",
+   "path": "local/suceava/siret/2025/224",
+   "short": "HCL Siret nr. 224/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 224/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.2%20Dispozitii%20Convocare/2025/Disp.%20nr.%20224%20din%2023.12.2025.pdf",
+     "sha256": "9a6bf8b2db5451d0ec6b1aca8f6c172722e36895b25d1082ae7d68ddb1f1adf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-23-2025",
+   "path": "local/suceava/siret/2025/23",
+   "short": "HCL Siret nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 23/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/2/HCL%20nr.%2023%20din%2027.02.2025_Redacted.pdf",
+     "sha256": "971e90913e5a687d8ea15f116bff6ccf9f75de84f50e468bbbadc22b683c29bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-24-2025",
+   "path": "local/suceava/siret/2025/24",
+   "short": "HCL Siret nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 24/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/2/HCL%20nr.%2024%20din%2027.02.2025_Redacted.pdf",
+     "sha256": "e555123cca0d949bcbb671d834522e8d9dfdc383fdde33a9e03de92006ec5d0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-25-2025",
+   "path": "local/suceava/siret/2025/25",
+   "short": "HCL Siret nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 25/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/2/HCL%20nr.%2025%20din%2027.02.2025_Redacted.pdf",
+     "sha256": "d45e5ec5bb886f72aff0974ad89693d68d2893ddf888f0ae5001588e6d621a69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-26-2025",
+   "path": "local/suceava/siret/2025/26",
+   "short": "HCL Siret nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 26/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/2/HCL%20nr.%2026%20din%2027.02.2025_Redacted.pdf",
+     "sha256": "b4d90064c0b2f10462476eb1813d88f03b31e1debcdbff795efbebba767596dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-27-2025",
+   "path": "local/suceava/siret/2025/27",
+   "short": "HCL Siret nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 27/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/2/HCL%20nr.%2027%20din%2027.02.2025_Redacted.pdf",
+     "sha256": "a5ff32bde29eb066919dbfe1bf7f0c3805d48ec4d612739f5df924087a5b75d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-28-2025",
+   "path": "local/suceava/siret/2025/28",
+   "short": "HCL Siret nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 28/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/2/HCL%20nr.%2028%20din%2027.02.2025_Redacted.pdf",
+     "sha256": "2206942cdf704515989c8f141497d6079b5b1f466d562179b55a097bf5d641bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-29-2025",
+   "path": "local/suceava/siret/2025/29",
+   "short": "HCL Siret nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 29/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/3/HCL%20nr.%2029%20din%2017.03.2025_anonimizat.pdf",
+     "sha256": "71ef1d667dff4e8e3d857c70bb1d7d9dd512c5926b6aeac66cb4a2ec89c225a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-3-2025",
+   "path": "local/suceava/siret/2025/3",
+   "short": "HCL Siret nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 3/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/1/HCL%20nr.%203%20din%2031.01.2025_anonimizat.pdf",
+     "sha256": "e3983637646a9f5f0164ae433fdeb2ae2b9ae80a7e3e2ca427346435fa58fee6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-30-2025",
+   "path": "local/suceava/siret/2025/30",
+   "short": "HCL Siret nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 30/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/3/HCL%20nr.%2030%20din%2027.03.2025_anonimizat.pdf",
+     "sha256": "f2d94a51ccb9dd2661fcb7cda2752ad91278eab5c1b2383f69f7c9f83226ffb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-31-2025",
+   "path": "local/suceava/siret/2025/31",
+   "short": "HCL Siret nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 31/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/3/HCL%20nr.%2031%20din%2027.03.2025_anonimizat.pdf",
+     "sha256": "9e71b4f77f2d29bc142b7cd7b23a568bcb3114c56df926938f739dda38083e22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-32-2025",
+   "path": "local/suceava/siret/2025/32",
+   "short": "HCL Siret nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 32/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/3/HCL%20nr.%2032%20din%2027.03.2025_anonimizat.pdf",
+     "sha256": "c5999d8fc02c4f71f05b8fd834b408744089cfe95e4b1a770f3b4109c9ce64d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-33-2025",
+   "path": "local/suceava/siret/2025/33",
+   "short": "HCL Siret nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 33/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/3/HCL%20nr.%2033%20din%2027.03.2025_anonimizat.pdf",
+     "sha256": "eaf27e64dc48660ae977c64755e313a110dba9d5f7961f0b228e56b4c613dbf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-34-2025",
+   "path": "local/suceava/siret/2025/34",
+   "short": "HCL Siret nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 34/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/3/HCL%20nr.%2034%20din%2027.03.2025_anonimizat.pdf",
+     "sha256": "49e1c7a9a4fb49213adfc17e07c9db2cbce090bf63261d3f4611f9d2137ac9a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-35-2025",
+   "path": "local/suceava/siret/2025/35",
+   "short": "HCL Siret nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 35/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/3/HCL%20nr.%2035%20din%2027.03.2025_anonimizat.pdf",
+     "sha256": "53d6e42967dea6ee704f4c874045e0875b7753f38a8ca58ebfecc4cfb154893c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-36-2025",
+   "path": "local/suceava/siret/2025/36",
+   "short": "HCL Siret nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 36/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/3/HCL%20nr.%2036%20din%2027.03.2025_anonimizat.pdf",
+     "sha256": "c4c9359ba372568c3923305cef1b5a60d930b3e99e4388102b035b660ee3ef8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-37-2025",
+   "path": "local/suceava/siret/2025/37",
+   "short": "HCL Siret nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 37/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/3/HCL%20nr.%2037%20din%2027.03.2025_anonimizat.pdf",
+     "sha256": "7a332bfe208190e34ffa0cde59165b6d94e39f73e1e77050cb572fa0752fe432"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-38-2025",
+   "path": "local/suceava/siret/2025/38",
+   "short": "HCL Siret nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 38/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/3/HCL%20nr.%2038%20din%2027.03.2025_anonimizat.pdf",
+     "sha256": "5e620f072e3ea90b1022a7f57dc78cf441061a7c99b54dbb868fa813d5263a0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-39-2025",
+   "path": "local/suceava/siret/2025/39",
+   "short": "HCL Siret nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 39/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/3/HCL%20nr.%2039%20din%2027.03.2025_anonimizat.pdf",
+     "sha256": "1d0a1f7ebcd6d52a93f462de1aa1af7eb80794ce309e298c1183ee1bcde15043"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-4-2025",
+   "path": "local/suceava/siret/2025/4",
+   "short": "HCL Siret nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 4/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/1/HCL%20nr.%204%20din%2031.01.2025_anonimizat.pdf",
+     "sha256": "6504479461790c63dd73661701aa6a0822ca1cca454aa439987da9d3b3d0c7f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-40-2025",
+   "path": "local/suceava/siret/2025/40",
+   "short": "HCL Siret nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 40/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/3/HCL%20nr.%2040%20din%2027.03.2025_anonimizat.pdf",
+     "sha256": "873a5669c25b8a43f2ab9d175d39d3e7afc09a431f2c6249a1381cd28c10d510"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-41-2025",
+   "path": "local/suceava/siret/2025/41",
+   "short": "HCL Siret nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 41/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/3/HCL%20nr.%2041%20din%2027.03.2025_anonimizat.pdf",
+     "sha256": "07b78bb886d995986c17db9960571406747f31f97dc7fdd1f55af5dc2092e4db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-42-2025",
+   "path": "local/suceava/siret/2025/42",
+   "short": "HCL Siret nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 42/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/4/HCL_nr_42_din_03_04_2025_Redacted_hotrrea_nr_4203042025_privind_alegerea_preedintelu.pdf",
+     "sha256": "e780178d4375205270ba1e04a45722401c34c37a0d68b59e07bc350f3eb05b66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-43-2025",
+   "path": "local/suceava/siret/2025/43",
+   "short": "HCL Siret nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 43/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/4/HCL_nr_43_din_03_04_2025_Redacted_hotrrea_nr_4303042025_privind_aprobarea_bugetului_.pdf",
+     "sha256": "bfd7ed48846239c4ca31522796cdaf2111a3dbbbfe686443b6a871d774e2c3de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-44-2025",
+   "path": "local/suceava/siret/2025/44",
+   "short": "HCL Siret nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 44/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/4/HCL_nr_44_din_03_04_2025_Redacted_hotrrea_nr_4403042025_privind_aprobarea_notei_conc.pdf",
+     "sha256": "6f893cdeedd10c579914b45510d38c9b16bcb24c7c9c39f5601ca0b272750b35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-45-2025",
+   "path": "local/suceava/siret/2025/45",
+   "short": "HCL Siret nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 45/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/4/HCL_nr_45_din_03_04_2025_Redacted_hotrrea_nr_4503042025_pentru_aprobarea_ncheierii_p.pdf",
+     "sha256": "2968e95cfd51298264ec71dbb0ea8ab94a58681ff68e7eec6bbc303d4e24e530"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-46-2025",
+   "path": "local/suceava/siret/2025/46",
+   "short": "HCL Siret nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 46/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/4/HCL_nr_46_din_03_04_2025_Redacted_hotrrea_nr_4603042025_privind_aprobarea_modificrii.pdf",
+     "sha256": "59beab17706f7a8feeb1a04995e8f29b3f64024579830f5f072c8a00833c2138"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-47-2025",
+   "path": "local/suceava/siret/2025/47",
+   "short": "HCL Siret nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 47/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/4/HCL_nr_47_din_03_04_2025_Redacted_hotrrea_nr_4703042025_privind_interzicerea_utilizr.pdf",
+     "sha256": "6e25e5814770db54b8ca731f88157229f863e6a15008a190fa51ff27f79b1e17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-48-2025",
+   "path": "local/suceava/siret/2025/48",
+   "short": "HCL Siret nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 48/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/4/HCL_nr_48_din_03_04_2025_Redacted_hotrrea_nr_4803042025_pentru_preluarea_din_adminis.pdf",
+     "sha256": "25022db0884dfa9fe2a93798dc228eb4dd4b199269be04b8310f6f647a879354"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-49-2025",
+   "path": "local/suceava/siret/2025/49",
+   "short": "HCL Siret nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 49/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/4/HCL_nr_49_din_03_04_2025_Redacted_hotrrea_nr_4903042025_privind_atestarea_apartenene.pdf",
+     "sha256": "88dc87ccdd4ee34776fb97e8f7d63a86a257395965e4d36a7c541b4905bc1f06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-5-2025",
+   "path": "local/suceava/siret/2025/5",
+   "short": "HCL Siret nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 5/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/1/HCL%20nr.%205%20din%2031.01.2025_anonimizat.pdf",
+     "sha256": "030b0ab7d0cbd729e21ce04487d5792f75d61c39417f223f5aeda3b41ab1abcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-50-2025",
+   "path": "local/suceava/siret/2025/50",
+   "short": "HCL Siret nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 50/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/4/HCL_nr_50_din_03_04_2025_Redacted_hotrrea_nr_5003042025_pentru_aprobarea_trecerii_un.pdf",
+     "sha256": "4348d823c0a425a1b0116b6e8705fc0197f4e58ba4dd8883dade2f5d8cc442ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-51-2025",
+   "path": "local/suceava/siret/2025/51",
+   "short": "HCL Siret nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 51/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/4/HCL_nr_51_din_16_04_2025_Redacted_hotrrea_nr_5116042025_privind_atestarea_apartenene.pdf",
+     "sha256": "35b5841587ce0ab7a9dc3f859e0b0f508191ec173ba1b2828d6c7736b2f3b50a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-53-2025",
+   "path": "local/suceava/siret/2025/53",
+   "short": "HCL Siret nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 53/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/4/HCL_nr_53_din_16_04_2025_Redacted_hotrrea_nr_5316042025_privind_atestarea_apartenene.pdf",
+     "sha256": "64f27f6931a50289577d98099a3463257a8522fbee2ec3188ed19956839b5c38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-54-2025",
+   "path": "local/suceava/siret/2025/54",
+   "short": "HCL Siret nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 54/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/4/HCL_nr_54_din_16_04_2025_Redacted_hotrrea_nr_5416042025_privind_mputernicirea_primar.pdf",
+     "sha256": "5280e05fe53c7d2a170e417a4156bdb552e340cdc08d5c3dd3151c7ba43d3855"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-55-2025",
+   "path": "local/suceava/siret/2025/55",
+   "short": "HCL Siret nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 55/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/4/HCL_nr_55_din_17_04_2025_Redacted_hotrrea_nr_5517042025_privind_aprobarea_actului_ad.pdf",
+     "sha256": "c12021455b81f4720f84b6116184e73f6b77f3bcf2cda93929adb99007a365ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-56-2025",
+   "path": "local/suceava/siret/2025/56",
+   "short": "HCL Siret nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 56/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/4/HCL_nr_56_din_17_04_2025_Redacted_2_hotrrea_nr_5617042025_privind_actualizarea_planu.pdf",
+     "sha256": "6cd8fb9ed8b54a0114f972f7eabf9329785b471fb55a0dc6546af069e15544b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-57-2025",
+   "path": "local/suceava/siret/2025/57",
+   "short": "HCL Siret nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 57/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/4/HCL_nr_57_din_17_04_2025_Redacted_hotrrea_nr_5717042025_privind_aprobarea_notei_conc.pdf",
+     "sha256": "b6b2a57aa6684150e76d7661eb06ef5f8997318a9caea54f72be8c066f7253cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-6-2025",
+   "path": "local/suceava/siret/2025/6",
+   "short": "HCL Siret nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 6/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/1/HCL%20nr.%206%20din%2031.01.2025_anonimizat.pdf",
+     "sha256": "8ec07875cb5602b04e0455b1c292186366943edd0d6c4158a2c909b215cffc92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-60-2025",
+   "path": "local/suceava/siret/2025/60",
+   "short": "HCL Siret nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 60/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/5/HCL_nr_60_din_13_05_2025_Redacted_hotrrea_nr_6013052025_privind_aprobarea_documentai.pdf",
+     "sha256": "5e7a2b145becd8dfca6c7ef6dddabf53d299883fec8bc5239b41889aea7fee02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-61-2025",
+   "path": "local/suceava/siret/2025/61",
+   "short": "HCL Siret nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 61/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/5/HCL_nr_61_din_13_05_2025_Redacted_hotrrea_nr_6113052025_privind_desemnarea_reprezent.pdf",
+     "sha256": "19d909790d0fea1af6776ac6d3d34c7400b0230bb8cf9a75e5a01834e5afa777"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-62-2025",
+   "path": "local/suceava/siret/2025/62",
+   "short": "HCL Siret nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 62/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.2%20Dispozitii%20Convocare/2025/Disp.%20nr.%2062%20din%2019.02.2025.pdf",
+     "sha256": "9f956194a385d6741a8276c28894f78048b4a043f30ad10696c5b7fbcd4dc904"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-63-2025",
+   "path": "local/suceava/siret/2025/63",
+   "short": "HCL Siret nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 63/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/5/HCL_nr_63_din_27_05_2025_Redacted_hotrrea_nr_6327052025_privind_aprobarea_documentai.pdf",
+     "sha256": "a742ff88c939c6fe4f049f7cfc5e377e937a011684e97cff139fa8833328686c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-64-2025",
+   "path": "local/suceava/siret/2025/64",
+   "short": "HCL Siret nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 64/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/5/HCL_nr_64_din_27_05_2025_Redacted_hotrrea_nr_6427052025_privind_aprobarea_documentai.pdf",
+     "sha256": "674174dee84d91ceed7fc617994deb1ba37533010838a236d84810af93001b6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-7-2025",
+   "path": "local/suceava/siret/2025/7",
+   "short": "HCL Siret nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 7/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/1/HCL%20nr.%207%20din%2031.01.2025_anonimizat.pdf",
+     "sha256": "8779658f63d5c4cb83e256e9393962e2ccd153dcb12b81e925a7f1b60da84c4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-8-2025",
+   "path": "local/suceava/siret/2025/8",
+   "short": "HCL Siret nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 8/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/1/HCL%20nr.%208%20din%2031.01.2025_anonimizat.pdf",
+     "sha256": "82819495aee471025df61051dd13b0dc2d7e7d99715b3953e316aebc3232e0ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--siret-9-2025",
+   "path": "local/suceava/siret/2025/9",
+   "short": "HCL Siret nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Siret nr. 9/2025",
+   "url": "https://siretromania.ro/web/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://siretromania.ro/web/wp-content/uploads/site/Monitor%20Oficial%20Local/3.%20Hotararile%20autoritatii%20deliberative/2025/1/HCL%20nr.%209%20din%2031.01.2025_anonimizat.pdf",
+     "sha256": "2265d6424f2cd92deb290c39b6ccbd1c2454f890bbff70ec292e32d7a8c40fb2"
+    }
+   ]
+  }
+ ]
+}

@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--scurtu-mare-17-2020",
+"path": "local/teleorman/scurtu-mare/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 17/2020 privind alegerea preşedintelui de şedinţă pe următoarele 3 luni iulie – septembrie 2020",
+"short": "HCL Scurtu Mare nr. 17/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/scurtumare-tr/registru-hcl/6391",
+"council": "teleorman/scurtu-mare",
+"council_name": "Consiliul Local al Comunei Scurtu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--scurtu-mare-18-2020",
 "path": "local/teleorman/scurtu-mare/2020/18",
 "kind": "local",
@@ -66,6 +88,75 @@
 "council_name": "Consiliul Local al Comunei Scurtu Mare",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--scurtu-mare-19-2020",
+"path": "local/teleorman/scurtu-mare/2020/19",
+"kind": "local",
+"year": "2020",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 19/2020",
+"short": "HCL Scurtu Mare nr. 19/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-09",
+"latest": "2020-07-09",
+"portal": "https://emol.ro/scurtumare-tr/registru-hcl/6585",
+"council": "teleorman/scurtu-mare",
+"council_name": "Consiliul Local al Comunei Scurtu Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--scurtu-mare-20-2020",
+"path": "local/teleorman/scurtu-mare/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 20/2020",
+"short": "HCL Scurtu Mare nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-23",
+"latest": "2020-07-23",
+"portal": "https://emol.ro/scurtumare-tr/registru-hcl/16900",
+"council": "teleorman/scurtu-mare",
+"council_name": "Consiliul Local al Comunei Scurtu Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--scurtu-mare-21-2020",
+"path": "local/teleorman/scurtu-mare/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 21/2020",
+"short": "HCL Scurtu Mare nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-23",
+"latest": "2020-07-23",
+"portal": "https://emol.ro/scurtumare-tr/registru-hcl/16901",
+"council": "teleorman/scurtu-mare",
+"council_name": "Consiliul Local al Comunei Scurtu Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -110,6 +201,50 @@
 "council_name": "Consiliul Local al Comunei Scurtu Mare",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--scurtu-mare-24-2020",
+"path": "local/teleorman/scurtu-mare/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 24/2020 privind alegerea preşedintelui de şedinţă al Consiliului Local Scurtu Mare pentru perioadă de trei luni (octombrie 2020 –decembrie 2020)",
+"short": "HCL Scurtu Mare nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-18",
+"latest": "2020-09-18",
+"portal": "https://emol.ro/scurtumare-tr/registru-hcl/16904",
+"council": "teleorman/scurtu-mare",
+"council_name": "Consiliul Local al Comunei Scurtu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--scurtu-mare-25-2020",
+"path": "local/teleorman/scurtu-mare/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 25/2020 privind alegerea preşedintelui de şedinţă al Consiliului Local Scurtu Mare pentru o perioadă de trei luni (noiembrie 2020–ianuarie 2021)",
+"short": "HCL Scurtu Mare nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/scurtumare-tr/registru-hcl/16905",
+"council": "teleorman/scurtu-mare",
+"council_name": "Consiliul Local al Comunei Scurtu Mare",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -242,6 +377,28 @@
 "council_name": "Consiliul Local al Comunei Scurtu Mare",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--scurtu-mare-32-2020",
+"path": "local/teleorman/scurtu-mare/2020/32",
+"kind": "local",
+"year": "2020",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 32/2020 privind desemnarea a doi consilieri locali în cadrul Comisiei de Evaluare a performanţelor profesionale ale Secretarului General al comunei Scurtu Mare",
+"short": "HCL Scurtu Mare nr. 32/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://emol.ro/scurtumare-tr/registru-hcl/16912",
+"council": "teleorman/scurtu-mare",
+"council_name": "Consiliul Local al Comunei Scurtu Mare",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

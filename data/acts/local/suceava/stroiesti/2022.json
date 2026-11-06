@@ -291,6 +291,28 @@
 }
 },
 {
+"slug": "hcl-suceava--stroiesti-93-2022",
+"path": "local/suceava/stroiesti/2022/93",
+"kind": "local",
+"year": "2022",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 93/2022 privind decontarea cheltuielilor de transport pentru cadrele didactice din unitatea de învăţământ Şcoala Gimnazială din comuna Stroieşti, judeţul Suceava , aferente lunii septembrie, octombrie - 2022",
+"short": "HCL Stroiești nr. 93/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-28",
+"latest": "2023-03-28",
+"portal": "https://emol.ro/stroiesti-sv/registru-hcl/97109",
+"council": "suceava/stroiesti",
+"council_name": "Consiliul Local al Comunei Stroiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--stroiesti-94-2022",
 "path": "local/suceava/stroiesti/2022/94",
 "kind": "local",

@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-suceava--zamostea-35-2024",
+"path": "local/suceava/zamostea/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 35/2024 privind alegerea președintelui de ședință",
+"short": "HCL Zamostea nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-22",
+"latest": "2025-05-22",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/208402",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--zamostea-36-2024",
 "path": "local/suceava/zamostea/2024/36",
 "kind": "local",
@@ -113,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-suceava--zamostea-40-2024",
+"path": "local/suceava/zamostea/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 40/2024 privind alegerea președintelui de ședință",
+"short": "HCL Zamostea nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-22",
+"latest": "2025-05-22",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/208407",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--zamostea-41-2024",
 "path": "local/suceava/zamostea/2024/41",
 "kind": "local",
@@ -132,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Zamostea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-42-2024",
+"path": "local/suceava/zamostea/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 42/2024 privind alegerea viceprimarului comunei Zamostea",
+"short": "HCL Zamostea nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-22",
+"latest": "2025-05-22",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/208409",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -331,6 +397,29 @@
 "council_name": "Consiliul Local al Comunei Zamostea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-52-2024",
+"path": "local/suceava/zamostea/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 52/2024",
+"short": "HCL Zamostea nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/208419",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

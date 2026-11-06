@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/slatina/2026",
+ "acts": [
+  {
+   "slug": "hcl-suceava--slatina-56-2026",
+   "path": "local/suceava/slatina/2026/56",
+   "short": "HCL Slatina nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Slatina nr. 56/2026",
+   "url": "https://www.comunaslatina.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://www.comunaslatina.ro/wp-content/uploads/2026/09/hcl-56-iulie-2026.pdf",
+     "sha256": "db37997924d1ae9104c3c2a6ef2700866608a62c34caee9fb6e01fa3d34c7c6f"
+    }
+   ]
+  }
+ ]
+}

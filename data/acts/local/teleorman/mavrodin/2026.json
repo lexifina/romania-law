@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--mavrodin-12-2026",
+"path": "local/teleorman/mavrodin/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 12/2026 P/H Inchiriere 21,20 mp spațiu pentru farmacie",
+"short": "HCL Mavrodin nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#126753",
+"council": "teleorman/mavrodin",
+"council_name": "Consiliul Local al Comunei Mavrodin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--mavrodin-13-2026",
 "path": "local/teleorman/mavrodin/2026/13",
 "kind": "local",
@@ -155,6 +177,28 @@
 "council_name": "Consiliul Local al Comunei Mavrodin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--mavrodin-17-2026",
+"path": "local/teleorman/mavrodin/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 17/2026 p/h alegere președinte ședință lunile aprilie - iunie 2026",
+"short": "HCL Mavrodin nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-25",
+"latest": "2026-03-25",
+"portal": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#126804",
+"council": "teleorman/mavrodin",
+"council_name": "Consiliul Local al Comunei Mavrodin",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -356,6 +400,72 @@
 }
 },
 {
+"slug": "hcl-teleorman--mavrodin-27-2026",
+"path": "local/teleorman/mavrodin/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 27/2026 aprobarea vânzării, prin licitație publică, a unui bun imobil, teren intravilan, categorie de folosință arabil, în suprafață de 781 mp, situat în COMUNA MAVRODIN, JUDETUL TELEORMAN, identificat cu număr cadastral 27936, înscris în Cartea Funciară cu nr.27936, comuna MAVRODIN, județul Teleorman, care aparține domeniului privat al U.A.T MAVRODIN, județul Teleorman",
+"short": "HCL Mavrodin nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-26",
+"latest": "2026-06-26",
+"portal": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#126926",
+"council": "teleorman/mavrodin",
+"council_name": "Consiliul Local al Comunei Mavrodin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--mavrodin-28-2026",
+"path": "local/teleorman/mavrodin/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 28/2026 aprobarea vânzării, prin licitație publică, a unui bun imobil, teren intravilan, categorie de folosință arabil, în suprafață de 1.000 mp, situat în COMUNA MAVRODIN, JUDETUL TELEORMAN, identificat cu număr cadastral 27923, înscris în Cartea Funciară cu nr.27923, comuna MAVRODIN, județul Teleorman, care aparține domeniului privat al U.A.T MAVRODIN, județul Teleorman",
+"short": "HCL Mavrodin nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-26",
+"latest": "2026-06-26",
+"portal": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#126935",
+"council": "teleorman/mavrodin",
+"council_name": "Consiliul Local al Comunei Mavrodin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--mavrodin-29-2026",
+"path": "local/teleorman/mavrodin/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 29/2026 Privește: aprobarea vânzării, prin licitație publică, a unui bun imobil, teren intravilan, categorie de folosință arabil, în suprafață de 1.144 mp, situat în COMUNA MAVRODIN, JUDETUL TELEORMAN, identificat cu număr cadastral 26417, înscris în Cartea Funciară cu nr.26417, comuna MAVRODIN, județul Teleorman, care aparține domeniului privat al U.A.T MAVRODIN, județul Teleorman",
+"short": "HCL Mavrodin nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-26",
+"latest": "2026-06-26",
+"portal": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#126938",
+"council": "teleorman/mavrodin",
+"council_name": "Consiliul Local al Comunei Mavrodin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--mavrodin-30-2026",
 "path": "local/teleorman/mavrodin/2026/30",
 "kind": "local",
@@ -444,6 +554,72 @@
 }
 },
 {
+"slug": "hcl-teleorman--mavrodin-34-2026",
+"path": "local/teleorman/mavrodin/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 34/2026 aprobarea vânzării, prin licitație publică, a unui bun imobil, teren intravilan, categorie de folosință arabil si curti constructii, în suprafață de 1.000 mp, situat în COMUNA MAVRODIN, JUDETUL TELEORMAN, identificat cu număr cadastral 27920, înscris în Cartea Funciară cu nr.27920, comuna MAVRODIN, județul Teleorman, care aparține domeniului privat al U.A.T MAVRODIN, județul Teleorman",
+"short": "HCL Mavrodin nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-26",
+"latest": "2026-08-26",
+"portal": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#130398",
+"council": "teleorman/mavrodin",
+"council_name": "Consiliul Local al Comunei Mavrodin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--mavrodin-35-2026",
+"path": "local/teleorman/mavrodin/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 35/2026 aprobarea vânzării, prin licitație publică, a unui bun imobil, teren intravilan, categorie de folosință arabil si curti constructii, în suprafață de 1.000 mp, situat în COMUNA MAVRODIN, JUDETUL TELEORMAN, identificat cu număr cadastral 27920, înscris în Cartea Funciară cu nr.27920, comuna MAVRODIN, județul Teleorman, care aparține domeniului privat al U.A.T MAVRODIN, județul Teleorman",
+"short": "HCL Mavrodin nr. 35/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-26",
+"latest": "2026-08-26",
+"portal": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#130399",
+"council": "teleorman/mavrodin",
+"council_name": "Consiliul Local al Comunei Mavrodin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--mavrodin-36-2026",
+"path": "local/teleorman/mavrodin/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 36/2026 : aprobarea închirierii, prin licitație publică, TEREN INTRAVILAN CATEGORIA DE FOLOSINTA ARABIL CU SUPRAFATA DE 19.800 MP, INSCRIS IN CF 27185, NUMAR CADASTRAL 27185”, apartinand Consiliului Local al Comunei Mavrodin",
+"short": "HCL Mavrodin nr. 36/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#130400",
+"council": "teleorman/mavrodin",
+"council_name": "Consiliul Local al Comunei Mavrodin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--mavrodin-37-2026",
 "path": "local/teleorman/mavrodin/2026/37",
 "kind": "local",
@@ -463,6 +639,72 @@
 "council_name": "Consiliul Local al Comunei Mavrodin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--mavrodin-38-2026",
+"path": "local/teleorman/mavrodin/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 38/2026 privind desemnarea reprezentantului Consiliului Local în comisia de evaluare a probei de interviu pentru concursul de ocupare a funcției de director al Școlii Gimnaziale Mavrodin",
+"short": "HCL Mavrodin nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#133013",
+"council": "teleorman/mavrodin",
+"council_name": "Consiliul Local al Comunei Mavrodin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--mavrodin-39-2026",
+"path": "local/teleorman/mavrodin/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 39/2026 privind desemnarea reprezentantului Consiliului Local al comunei Mavrodin în Consiliul de Administrație ale unități de învățământ preuniversitar de stat din comuna Mavrodin, Județul Teleorman pentru anul școlar 2026-2027",
+"short": "HCL Mavrodin nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#133019",
+"council": "teleorman/mavrodin",
+"council_name": "Consiliul Local al Comunei Mavrodin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--mavrodin-40-2026",
+"path": "local/teleorman/mavrodin/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 40/2026 privind alegerea preşedintelui de şedinţă pentru lunile OCTOMBRIE-DECEMBRIE 2026",
+"short": "HCL Mavrodin nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#133022",
+"council": "teleorman/mavrodin",
+"council_name": "Consiliul Local al Comunei Mavrodin",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

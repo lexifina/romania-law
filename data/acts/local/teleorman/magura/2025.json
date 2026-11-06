@@ -25,6 +25,50 @@
 }
 },
 {
+"slug": "hcl-teleorman--magura-25-2025",
+"path": "local/teleorman/magura/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgura nr. 25/2025 privind desemnarea reprezentantului Consiliului Local Măgura în Consiliul de Administrație al Școlii Gimnaziale Măgura din comuna Măgura, jud. Teleorman în anul școlar 2025-2026",
+"short": "HCL Măgura nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://emol.ro/magura-tr/registru-hcl/221500",
+"council": "teleorman/magura",
+"council_name": "Consiliul Local al Comunei Măgura",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--magura-26-2025",
+"path": "local/teleorman/magura/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgura nr. 26/2025 privind aprobarea Studiului de fezabilitate pentru obiectivul de investiție ”Înființare capacități de producere energie din surse regenerabile de energie pentru consum propriu în comuna Măgura, județul Teleorman”",
+"short": "HCL Măgura nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://emol.ro/magura-tr/registru-hcl/221501",
+"council": "teleorman/magura",
+"council_name": "Consiliul Local al Comunei Măgura",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--magura-27-2025",
 "path": "local/teleorman/magura/2025/27",
 "kind": "local",
@@ -44,6 +88,94 @@
 "council_name": "Consiliul Local al Comunei Măgura",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--magura-28-2025",
+"path": "local/teleorman/magura/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgura nr. 28/2025 privind aprobarea concesionării prin licitație publică a unui teren intravilan în suprafață de 2800 mp din incinta fostului CAP Guruieni, amplasat în T31, p 12, parte din suprafața de 66.223 mp, CF 24563, teren ce aparține domeniului privat al comunei Măgura",
+"short": "HCL Măgura nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-13",
+"latest": "2025-10-13",
+"portal": "https://emol.ro/magura-tr/registru-hcl/227722",
+"council": "teleorman/magura",
+"council_name": "Consiliul Local al Comunei Măgura",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--magura-29-2025",
+"path": "local/teleorman/magura/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgura nr. 29/2025 privind aprobarea concesionării prin licitație publică a unui teren intravilan în suprafață de 10.148 mp din incinta fostului CAP Guruieni, amplasat în T31, p 340-341, aparținând domeniului privat al comunei Măgura",
+"short": "HCL Măgura nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-13",
+"latest": "2025-10-13",
+"portal": "https://emol.ro/magura-tr/registru-hcl/227723",
+"council": "teleorman/magura",
+"council_name": "Consiliul Local al Comunei Măgura",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--magura-30-2025",
+"path": "local/teleorman/magura/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgura nr. 30/2025 privind aprobarea concesionării prin licitație publică a unui teren intravilan în suprafață de 3287 mp din incinta fostului CAP Guruieni, amplasat în T31, p 340-341, CF 24556, teren ce aparține domeniului privat al comunei Măgura",
+"short": "HCL Măgura nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-13",
+"latest": "2025-10-13",
+"portal": "https://emol.ro/magura-tr/registru-hcl/227724",
+"council": "teleorman/magura",
+"council_name": "Consiliul Local al Comunei Măgura",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--magura-31-2025",
+"path": "local/teleorman/magura/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgura nr. 31/2025 privind alegerea președintelui de ședință pentru următoarele 3 luni",
+"short": "HCL Măgura nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-13",
+"latest": "2025-10-13",
+"portal": "https://emol.ro/magura-tr/registru-hcl/227725",
+"council": "teleorman/magura",
+"council_name": "Consiliul Local al Comunei Măgura",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +311,29 @@
 }
 },
 {
+"slug": "hcl-teleorman--magura-38-2025",
+"path": "local/teleorman/magura/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgura nr. 38/2025",
+"short": "HCL Măgura nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://emol.ro/magura-tr/registru-hcl/242212",
+"council": "teleorman/magura",
+"council_name": "Consiliul Local al Comunei Măgura",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-teleorman--magura-39-2025",
 "path": "local/teleorman/magura/2025/39",
 "kind": "local",
@@ -220,6 +375,28 @@
 "council_name": "Consiliul Local al Comunei Măgura",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--magura-41-2025",
+"path": "local/teleorman/magura/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgura nr. 41/2025 privind alegerea președintelui de ședință pentru următoarele 3 luni",
+"short": "HCL Măgura nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://emol.ro/magura-tr/registru-hcl/242215",
+"council": "teleorman/magura",
+"council_name": "Consiliul Local al Comunei Măgura",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

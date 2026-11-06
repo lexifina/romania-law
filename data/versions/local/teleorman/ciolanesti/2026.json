@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--ciolanesti-15-2026",
+   "path": "local/teleorman/ciolanesti/2026/15",
+   "short": "HCL Ciolănești nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 15/2026 privind alegerea președintelui de ședință pentru o perioadă de 3 luni",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/287486",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/287486",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--ciolanesti-16-2026",
    "path": "local/teleorman/ciolanesti/2026/16",
    "short": "HCL Ciolănești nr. 16/2026",
@@ -148,6 +163,21 @@
      "from": "2026-05-14",
      "units": 1,
      "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/268085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-20-2026",
+   "path": "local/teleorman/ciolanesti/2026/20",
+   "short": "HCL Ciolănești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 20/2026 privind aprobarea utilizării sumei 500.000 lei pentru acoperirea golurilor temporare de casă la sectiunea de funcționare din suma de 2.349.938, 65 lei reprezentând din excedentul anilor precedenți al bugetului local rezultat la inchirierea exercitiului bugetar al anului 2025-CONT-82A.98.02 Excedent",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/287595",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/287595",
      "sha256": null
     }
    ]

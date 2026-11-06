@@ -1,0 +1,891 @@
+{
+ "country": "RO",
+ "shard": "local/timis/ciacova/2021",
+ "acts": [
+  {
+   "slug": "hcl-timis--ciacova-1-2021",
+   "path": "local/timis/ciacova/2021/1",
+   "short": "HCL Ciacova nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 1/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.1-din-28.01.2021.pdf",
+     "sha256": "d5bd091e91e568cf34cdf8fd808bcb73e9694b6d39d214b98d85112e1d33cbf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-10-2021",
+   "path": "local/timis/ciacova/2021/10",
+   "short": "HCL Ciacova nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 10/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-03-05",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.10-din-05.03.2021.pdf",
+     "sha256": "ebac5b8bd2db655a9c2b1c2af5d596c6f808b66a60b089d9e52e4123b4d6c090"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-11-2021",
+   "path": "local/timis/ciacova/2021/11",
+   "short": "HCL Ciacova nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 11/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-03-05",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.11-din-05.03.2021.pdf",
+     "sha256": "626262afb8e5a459fa08441f0605dedbbd5d451fad5480e6abe0590ae5de1770"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-12-2021",
+   "path": "local/timis/ciacova/2021/12",
+   "short": "HCL Ciacova nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 12/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.12-din-08.04.2021.pdf",
+     "sha256": "d1cc24228c1c5e065b788b81e306441b773b4eab631f5758a43897964abf6d4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-13-2021",
+   "path": "local/timis/ciacova/2021/13",
+   "short": "HCL Ciacova nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 13/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.13-din-08.04.2021.pdf",
+     "sha256": "e7a338898399d7fd5fb10e76b7e40668fd5317703bc75ea435d3bf44a1842df1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-14-2021",
+   "path": "local/timis/ciacova/2021/14",
+   "short": "HCL Ciacova nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 14/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.14-din-08.04.2021.pdf",
+     "sha256": "3056504998a861cd03cf0b0595d28a3cc688a0f466f051b64241ed4f20b9dfec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-15-2021",
+   "path": "local/timis/ciacova/2021/15",
+   "short": "HCL Ciacova nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 15/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.15-din-08.04.2021.pdf",
+     "sha256": "d47c29e10d23e6d10f78c9f70aaadd9b21527cd2353b33c165faadc3daba107d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-16-2021",
+   "path": "local/timis/ciacova/2021/16",
+   "short": "HCL Ciacova nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 16/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.16-din-08.04.2021.pdf",
+     "sha256": "e42a4e3bbbd57f1a664413bd533520293d0defd009365fba2c25a65f1e88673b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-17-2021",
+   "path": "local/timis/ciacova/2021/17",
+   "short": "HCL Ciacova nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 17/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.17-din-08.04.2021.pdf",
+     "sha256": "bba3ec2b3676f4a2b19b8c03b0ddd91606dc6eb3fe73caeca4be1ae8de0e0c90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-18-2021",
+   "path": "local/timis/ciacova/2021/18",
+   "short": "HCL Ciacova nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 18/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.18-din-08.04.2021.pdf",
+     "sha256": "7645968af882d59fedd8db601720522d51819ccac173d412ef6dbde6eb24d0f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-19-2021",
+   "path": "local/timis/ciacova/2021/19",
+   "short": "HCL Ciacova nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 19/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.19-din-08.04.2021.pdf",
+     "sha256": "3d906defb547f4de866e71a799d82e681abdc35fe08da474b9d21af5eedddc70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-2-2021",
+   "path": "local/timis/ciacova/2021/2",
+   "short": "HCL Ciacova nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 2/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.2-din-28.01.2021.pdf",
+     "sha256": "0e0c4eb7580ee540fda1c7d5a80a86e849417d0b5a7c9b78c5d697ce57e5bfcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-20-2021",
+   "path": "local/timis/ciacova/2021/20",
+   "short": "HCL Ciacova nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 20/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.20-din-08.04.2021.pdf",
+     "sha256": "c549eb3438ec7f16548fbf90d24cf1e56dd5d671e5af17a66dee0637cdd33841"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-21-2021",
+   "path": "local/timis/ciacova/2021/21",
+   "short": "HCL Ciacova nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 21/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.21-din-08.04.2021.pdf",
+     "sha256": "57cab102706f2c1baa0ae5c711511cb274c5b12bf6d1a15c37f3e8513df6a2bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-22-2021",
+   "path": "local/timis/ciacova/2021/22",
+   "short": "HCL Ciacova nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 22/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.22-din-08.04.2021.pdf",
+     "sha256": "91cd2cdbcf57a557a29326452730ee24391dcc5c7a1eb3548134322618954c01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-23-2021",
+   "path": "local/timis/ciacova/2021/23",
+   "short": "HCL Ciacova nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 23/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.23-din-08.04.2021.pdf",
+     "sha256": "a3070b0e926f6b47555bdc6210e38005d05e13de12af9b5b3e857fe815b92f20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-24-2021",
+   "path": "local/timis/ciacova/2021/24",
+   "short": "HCL Ciacova nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 24/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.24-din-08.04.2021.pdf",
+     "sha256": "71b25f80196e84b13189a8dd72a0ab9bef52767d3a51a95a4ad3f048389768c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-25-2021",
+   "path": "local/timis/ciacova/2021/25",
+   "short": "HCL Ciacova nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 25/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.25-din-08.04.2021.pdf",
+     "sha256": "f5b5ca24328b65cc5e527de76c2d250937bc5993b3263b27ab561334676fec09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-26-2021",
+   "path": "local/timis/ciacova/2021/26",
+   "short": "HCL Ciacova nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 26/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.26-din-08.04.2021.pdf",
+     "sha256": "87354dbb275039522f583ed84b896e64b11a0d567bca33d33832f09c5a6a76ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-27-2021",
+   "path": "local/timis/ciacova/2021/27",
+   "short": "HCL Ciacova nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 27/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.27-din-08.04.2021.pdf",
+     "sha256": "2eece6d56472896b35a2089fa1020697a9a25617f7c44a68c54ea709fcaec16d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-28-2021",
+   "path": "local/timis/ciacova/2021/28",
+   "short": "HCL Ciacova nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 28/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.28-din-08.04.2021.pdf",
+     "sha256": "feb9ef83c91bf6198dd67d052c13683c0364b1285e109d106482232093290092"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-29-2021",
+   "path": "local/timis/ciacova/2021/29",
+   "short": "HCL Ciacova nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 29/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.29-din-21.04.2021.pdf",
+     "sha256": "b7ccacd9c8e28ea915ca0b2ba1d9e1ce6f0a579f3980dba841525abe89a5fa55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-3-2021",
+   "path": "local/timis/ciacova/2021/3",
+   "short": "HCL Ciacova nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 3/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.3-din-28.01.2021.pdf",
+     "sha256": "2e960f4093a32028710d61f7e2ed88bd3195ebecbf8e4f65fac19784698de9e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-30-2021",
+   "path": "local/timis/ciacova/2021/30",
+   "short": "HCL Ciacova nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 30/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.30-din-21.04.2021.pdf",
+     "sha256": "5ef7b7b53975b62b4f66638faf26e9df1e9f29a044c03013dd5045bc54839c68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-31-2021",
+   "path": "local/timis/ciacova/2021/31",
+   "short": "HCL Ciacova nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 31/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.31-din-21.04.2021.pdf",
+     "sha256": "db734558304bafd7bb3f9d20912e01fe06e53dadf63a4055f8696301956fb1c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-32-2021",
+   "path": "local/timis/ciacova/2021/32",
+   "short": "HCL Ciacova nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 32/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.32-din-21.04.2021.pdf",
+     "sha256": "b70491cdfd9eca579a429e586873fcead1ffa514e5956ad41b5673de704bba9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-33-2021",
+   "path": "local/timis/ciacova/2021/33",
+   "short": "HCL Ciacova nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 33/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.33-din-21.04.2021.pdf",
+     "sha256": "705d221b595f271afafc71115a9d1d8e76b5590d66dd1091b516ba9ea881c90a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-34-2021",
+   "path": "local/timis/ciacova/2021/34",
+   "short": "HCL Ciacova nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 34/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.34-din-21.04.2021.pdf",
+     "sha256": "75ed74248874382c3a9f1335112a58b0a57422beb33a92cbde887c0144de62f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-35-2021",
+   "path": "local/timis/ciacova/2021/35",
+   "short": "HCL Ciacova nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 35/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.35-din-21.04.2021.pdf",
+     "sha256": "535563da039e8798bdcf75f2b36c378b23465e0b5caaf917052de46d2ae97c58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-36-2021",
+   "path": "local/timis/ciacova/2021/36",
+   "short": "HCL Ciacova nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 36/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.36-din-21.04.2021.pdf",
+     "sha256": "714d1d448210cfe971b455f5673a8e90c7ad1bd63c4af4bb95e305be6d960930"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-37-2021",
+   "path": "local/timis/ciacova/2021/37",
+   "short": "HCL Ciacova nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 37/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.37-din-21.04.2021.pdf",
+     "sha256": "df1daa394818f7507060f87421bf3e458c3bfe88f385c5ca8884da6091fbee06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-38-2021",
+   "path": "local/timis/ciacova/2021/38",
+   "short": "HCL Ciacova nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 38/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.38-din-27.05.2021.pdf",
+     "sha256": "da9a0683873ae88452534af611ad173252edadeeb2fdecb31b0fcb781a673b93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-39-2021",
+   "path": "local/timis/ciacova/2021/39",
+   "short": "HCL Ciacova nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 39/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.39-din-27.05.2021.pdf",
+     "sha256": "84cdc0d8a3b373915f0734663a0c818dfa372168c50732356b364f466ef1e198"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-4-2021",
+   "path": "local/timis/ciacova/2021/4",
+   "short": "HCL Ciacova nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 4/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-02-11",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.4-din-11.02.2021.pdf",
+     "sha256": "6556c97b492dd7b15ba3e638b2585932add3c036b0d1de92aa4e0f9de70f6cb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-40-2021",
+   "path": "local/timis/ciacova/2021/40",
+   "short": "HCL Ciacova nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 40/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.40-din-27.05.2021.pdf",
+     "sha256": "01fc736baa90a6ad144b8560f63435338757d180f6c79fda7e4e074d343504f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-41-2021",
+   "path": "local/timis/ciacova/2021/41",
+   "short": "HCL Ciacova nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 41/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.41-din-27.05.2021.pdf",
+     "sha256": "99d4ff323fabd60ee843ecd915383bf4926392a45b2a64099273b400671acfcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-42-2021",
+   "path": "local/timis/ciacova/2021/42",
+   "short": "HCL Ciacova nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 42/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.42-din-09.06.2021.pdf",
+     "sha256": "cf7a47e594db64f51d2a82957a30c5d6b5047724ae6ba609b0bfa81f976f7785"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-43-2021",
+   "path": "local/timis/ciacova/2021/43",
+   "short": "HCL Ciacova nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 43/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.43-din-09.06.2021.pdf",
+     "sha256": "6a28b632dfe356af4b8984902297a243bb3da8126f2a40c4cf370b82aadb070d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-44-2021",
+   "path": "local/timis/ciacova/2021/44",
+   "short": "HCL Ciacova nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 44/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.44-din-30.06.2021.pdf",
+     "sha256": "a78c3c07bbf52af5e33a3e6055696edf76d71b252c792ca0eafcb45a70664b59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-45-2021",
+   "path": "local/timis/ciacova/2021/45",
+   "short": "HCL Ciacova nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 45/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.45-din-30.06.2021.pdf",
+     "sha256": "0b3374fdf1d8562a83bc13abda38bdf0f0e8deed2b64fdf8f385a467877e51d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-46-2021",
+   "path": "local/timis/ciacova/2021/46",
+   "short": "HCL Ciacova nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 46/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.46-din-30.06.2021.pdf",
+     "sha256": "7c4b8d40dd2d8e87b1f6292243c0ec446a468dc04d770b519a0a027097bd521d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-47-2021",
+   "path": "local/timis/ciacova/2021/47",
+   "short": "HCL Ciacova nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 47/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.47-din-30.06.2021.pdf",
+     "sha256": "b0e4a35b961d8da85eef6cdb6c3ab8f5cfddb4c461d4f9b5129c49fc774da621"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-48-2021",
+   "path": "local/timis/ciacova/2021/48",
+   "short": "HCL Ciacova nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 48/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.48-din-30.06.2021.pdf",
+     "sha256": "df9abe3357d642e4af0397b406d7dcbc7eccfc288445fe5679efc7c6b457f412"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-49-2021",
+   "path": "local/timis/ciacova/2021/49",
+   "short": "HCL Ciacova nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 49/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.49-din-30.06.2021.pdf",
+     "sha256": "a2545e96c5f4abc515b2ab45cc7382295a2682095ca3895f29d400724c3e61cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-5-2021",
+   "path": "local/timis/ciacova/2021/5",
+   "short": "HCL Ciacova nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 5/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.5-din-25.02.2021.pdf",
+     "sha256": "546df39b4001dcb9e137abdf1c0ad87b75aa9defb3f78cd443d05b8f5deb917a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-50-2021",
+   "path": "local/timis/ciacova/2021/50",
+   "short": "HCL Ciacova nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 50/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-07-26",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.50-din-26.07.2021.pdf",
+     "sha256": "03dce12e99ebcefba1d8e70744cfef6ebba44fbd95ac6b762c4351154945a0d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-51-2021",
+   "path": "local/timis/ciacova/2021/51",
+   "short": "HCL Ciacova nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 51/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-07-26",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.51-din-26.07.2021.pdf",
+     "sha256": "c546903d6165e009be00bf94003da8b22a81d6bf2ede9b2c32daa67bb8d6880f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-52-2021",
+   "path": "local/timis/ciacova/2021/52",
+   "short": "HCL Ciacova nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 52/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-07-26",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.52-din-26.07.2021.pdf",
+     "sha256": "b6bbd193c9b95508230f7317079f796fa6b4a0364303f83d958f026944174802"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-53-2021",
+   "path": "local/timis/ciacova/2021/53",
+   "short": "HCL Ciacova nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 53/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-07-26",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.53-din-26.07.2021.pdf",
+     "sha256": "6859a9d8ce5982eb7039ac96333232b5d841e9751df9a3f5b972d46a2f49acf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-54-2021",
+   "path": "local/timis/ciacova/2021/54",
+   "short": "HCL Ciacova nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 54/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.54-din-25.08.2021.pdf",
+     "sha256": "ce86b46df5e7c79a776d2adf18a2ecd165f5cb641d611d1b950776fb610fed82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-55-2021",
+   "path": "local/timis/ciacova/2021/55",
+   "short": "HCL Ciacova nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 55/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.55-din-25.08.2021.pdf",
+     "sha256": "1678f83151f1336ad754ed83f5a9504244c822300bc35838f9f03acb127f1985"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-56-2021",
+   "path": "local/timis/ciacova/2021/56",
+   "short": "HCL Ciacova nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 56/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-09-07",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.56-din-07.09.2021.pdf",
+     "sha256": "4605c53fd66c4422a27d29740cfa0a38ad1f310ac368c0f113f7c1fae9c01c4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-57-2021",
+   "path": "local/timis/ciacova/2021/57",
+   "short": "HCL Ciacova nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 57/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-09-07",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.57-din-07.09.2021.pdf",
+     "sha256": "da87ae935032a17e75d0a9c1ffed1c5792cfed6df70b13a49f15202515a42725"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-58-2021",
+   "path": "local/timis/ciacova/2021/58",
+   "short": "HCL Ciacova nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 58/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-09-07",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.58-din-07.09.2021.pdf",
+     "sha256": "55613b1434eba511b438236edd2b7abcf909d08c6d6048209d10c270b38581d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-59-2021",
+   "path": "local/timis/ciacova/2021/59",
+   "short": "HCL Ciacova nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 59/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.59-din-30.09.2021.pdf",
+     "sha256": "913a76e7f01a3f5203fb5edd05770940197055a2a7ff7bff8e259edf47077d14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-6-2021",
+   "path": "local/timis/ciacova/2021/6",
+   "short": "HCL Ciacova nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 6/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.6-din-25.02.2021.pdf",
+     "sha256": "84591b4fe5f9852a9a820e0b9ffff43d2a32d8442a03fb8186549ddb14acd12a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-7-2021",
+   "path": "local/timis/ciacova/2021/7",
+   "short": "HCL Ciacova nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 7/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.7-din-25.02.2021.pdf",
+     "sha256": "7af9ffeb91a7f2f6f5a78358453fce69c933636f4b6366c606014dc55d314777"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-8-2021",
+   "path": "local/timis/ciacova/2021/8",
+   "short": "HCL Ciacova nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 8/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.8-din-25.02.2021.pdf",
+     "sha256": "2bc42c8bf89944d0d183d42ec46d8867d784892bb99e7df883561dd4d2c5e2fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ciacova-9-2021",
+   "path": "local/timis/ciacova/2021/9",
+   "short": "HCL Ciacova nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ciacova nr. 9/2021",
+   "url": "https://www.primariaciacova.ro/consiliul-local/hcl/h-c-l-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariaciacova.ro/wp-content/uploads/2021/10/Hotararea-nr.9-din-25.02.2021.pdf",
+     "sha256": "576a4997037b2c26fe9e1c0c888bf05f8c7764bc22a90cf6364f84a0fb188648"
+    }
+   ]
+  }
+ ]
+}

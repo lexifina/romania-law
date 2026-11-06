@@ -3,6 +3,21 @@
  "shard": "local/suceava/rasca/2021",
  "acts": [
   {
+   "slug": "hcl-suceava--rasca-62-2021",
+   "path": "local/suceava/rasca/2021/62",
+   "short": "HCL Râșca nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 62/2021 privind desemnarea unui consilier local din cadrul Consiliului Local Râșca care sa faca parte din comisia de concurs pentru ocuparea funcțiilor de director din unitățile de învățământ de pe raza UAT Râșca",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/48759",
+   "versions": [
+    {
+     "from": "2021-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/48759",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--rasca-63-2021",
    "path": "local/suceava/rasca/2021/63",
    "short": "HCL Râșca nr. 63/2021",
@@ -28,6 +43,21 @@
      "from": "2021-10-25",
      "units": 1,
      "source_url": "https://emol.ro/rasca-sv/registru-hcl/48761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-65-2021",
+   "path": "local/suceava/rasca/2021/65",
+   "short": "HCL Râșca nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 65/2021 privind decontarea sumei de 15000 lei reprezentând contravaloarea pachetelor – cadouri pentru elevii Școlii Gimnaziale Râșca ocazionate de sărbătorile de iarnă 2021-2022",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/48762",
+   "versions": [
+    {
+     "from": "2021-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/48762",
      "sha256": null
     }
    ]
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--rasca-74-2021",
+   "path": "local/suceava/rasca/2021/74",
+   "short": "HCL Râșca nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 74/2021 privind decontarea navetei pentru cadrele didactice de la Școala Gimnazială Râșca în sumă de 2534 lei pentru luna octombrie 2021",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/48771",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/48771",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--rasca-75-2021",
    "path": "local/suceava/rasca/2021/75",
    "short": "HCL Râșca nr. 75/2021",
@@ -223,6 +268,21 @@
      "from": "2021-12-29",
      "units": 1,
      "source_url": "https://emol.ro/rasca-sv/registru-hcl/48776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-80-2021",
+   "path": "local/suceava/rasca/2021/80",
+   "short": "HCL Râșca nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 80/2021 privind alegerea președintelui de ședință pentru luna ianuarie 2022",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/48777",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/48777",
      "sha256": null
     }
    ]

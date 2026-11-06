@@ -3,6 +3,28 @@
 "shard": "local/suceava/valea-moldovei/2024",
 "acts": [
 {
+"slug": "hcl-suceava--valea-moldovei-77-2024",
+"path": "local/suceava/valea-moldovei/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 77/2024 privind aprobarea vânzării prin licitație publică a terenului în suprafață de 1.000 mp înscris în Cartea Funciară nr. 33698 cu număr cadastral 33698 și a terenului în suprafață de 1.000 mp înscris în Cartea Funciară nr. 33699 cu număr cadastral 33699, proprietate privată a comunei Valea Moldovei, judeţul Suceava",
+"short": "HCL Valea Moldovei nr. 77/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-15",
+"latest": "2024-11-15",
+"portal": "https://emol.ro/valeamoldovei-sv/registru-hcl/176670",
+"council": "suceava/valea-moldovei",
+"council_name": "Consiliul Local al Comunei Valea Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--valea-moldovei-78-2024",
 "path": "local/suceava/valea-moldovei/2024/78",
 "kind": "local",
@@ -44,6 +66,94 @@
 "council_name": "Consiliul Local al Comunei Valea Moldovei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--valea-moldovei-80-2024",
+"path": "local/suceava/valea-moldovei/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 80/2024 privind alegerea președintelui de ședință",
+"short": "HCL Valea Moldovei nr. 80/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://emol.ro/valeamoldovei-sv/registru-hcl/179123",
+"council": "suceava/valea-moldovei",
+"council_name": "Consiliul Local al Comunei Valea Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--valea-moldovei-81-2024",
+"path": "local/suceava/valea-moldovei/2024/81",
+"kind": "local",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 81/2024 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Valea Moldovei, județul Suceava",
+"short": "HCL Valea Moldovei nr. 81/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://emol.ro/valeamoldovei-sv/registru-hcl/179124",
+"council": "suceava/valea-moldovei",
+"council_name": "Consiliul Local al Comunei Valea Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--valea-moldovei-82-2024",
+"path": "local/suceava/valea-moldovei/2024/82",
+"kind": "local",
+"year": "2024",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 82/2024 privind modificarea Hotărârii nr. 81 din 31.10.2024 privind organizarea comisiilor de specialitate ale Consiliului Local al comunei Valea Moldovei, județul Suceava",
+"short": "HCL Valea Moldovei nr. 82/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/valeamoldovei-sv/registru-hcl/179197",
+"council": "suceava/valea-moldovei",
+"council_name": "Consiliul Local al Comunei Valea Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--valea-moldovei-83-2024",
+"path": "local/suceava/valea-moldovei/2024/83",
+"kind": "local",
+"year": "2024",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 83/2024 privind alegerea viceprimarului comunei Valea Moldovei, județul Suceava",
+"short": "HCL Valea Moldovei nr. 83/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/valeamoldovei-sv/registru-hcl/179196",
+"council": "suceava/valea-moldovei",
+"council_name": "Consiliul Local al Comunei Valea Moldovei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -286,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Valea Moldovei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--valea-moldovei-95-2024",
+"path": "local/suceava/valea-moldovei/2024/95",
+"kind": "local",
+"year": "2024",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 95/2024 privind alegerea președintelui de ședință",
+"short": "HCL Valea Moldovei nr. 95/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-28",
+"latest": "2025-01-28",
+"portal": "https://emol.ro/valeamoldovei-sv/registru-hcl/188708",
+"council": "suceava/valea-moldovei",
+"council_name": "Consiliul Local al Comunei Valea Moldovei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

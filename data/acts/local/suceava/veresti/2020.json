@@ -3,6 +3,116 @@
 "shard": "local/suceava/veresti/2020",
 "acts": [
 {
+"slug": "hcl-suceava--veresti-33-2020",
+"path": "local/suceava/veresti/2020/33",
+"kind": "local",
+"year": "2020",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 33/2020 privind exonerarea de la plata redevenței pentru suprafața de 26.315 mp (Piața obor Verești), concesionată de către SC Euromarket și Asociații SRL, pe perioada stării de urgență în contextul pandemiei COVID-19",
+"short": "HCL Verești nr. 33/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-28",
+"latest": "2020-08-28",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/11233",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--veresti-34-2020",
+"path": "local/suceava/veresti/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 34/2020 privind aprobarea noilor indicatori tehnico-economici, după finalizarea serviciilor de proiectare, aferenți obiectivului de investiții ”Modernizare drumuri de interes local în comuna Verești, județul Suceava",
+"short": "HCL Verești nr. 34/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-25",
+"latest": "2020-09-25",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/11234",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--veresti-35-2020",
+"path": "local/suceava/veresti/2020/35",
+"kind": "local",
+"year": "2020",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 35/2020 privind aprobarea indicatorilor tehnico-economici precum și a cheltuielilor aferente proiectului ”Achiziție de tablete școlare și alte echipamente necesare desfășurării activității didactice on-line în comuna Verești, județul Suceava",
+"short": "HCL Verești nr. 35/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-25",
+"latest": "2020-09-25",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/11235",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--veresti-36-2020",
+"path": "local/suceava/veresti/2020/36",
+"kind": "local",
+"year": "2020",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 36/2020 privind rectificarea bugetului local pe anul 2020",
+"short": "HCL Verești nr. 36/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-25",
+"latest": "2020-09-25",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/11236",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--veresti-37-2020",
+"path": "local/suceava/veresti/2020/37",
+"kind": "local",
+"year": "2020",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 37/2020 privind alegerea președintelui de ședință",
+"short": "HCL Verești nr. 37/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-13",
+"latest": "2020-11-13",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/13430",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--veresti-38-2020",
 "path": "local/suceava/veresti/2020/38",
 "kind": "local",
@@ -25,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-suceava--veresti-39-2020",
+"path": "local/suceava/veresti/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 39/2020 privind alegerea viceprimarului comunei Verești, județul Suceava",
+"short": "HCL Verești nr. 39/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-13",
+"latest": "2020-11-13",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/13432",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--veresti-40-2020",
 "path": "local/suceava/veresti/2020/40",
 "kind": "local",
@@ -44,6 +176,50 @@
 "council_name": "Consiliul Local al Comunei Verești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--veresti-41-2020",
+"path": "local/suceava/veresti/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 41/2020 privind aprobarea solicitării de prelungire a valabilității Scrisorii de garanție nr. 102/19.04.2018, pentru implementarea proiectului de investiție intitulat '' Modernizare drumuri de interes local în comuna Verești, județul Suceava'' și finanțat prin Agenția pentru Finanțarea Investițiilor Rurale, conform contract de finanțare nr. C0720RN0001713500196/31.01.2018, Act Adițional nr. 1/04.04.2018",
+"short": "HCL Verești nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-13",
+"latest": "2020-11-13",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/13434",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--veresti-42-2020",
+"path": "local/suceava/veresti/2020/42",
+"kind": "local",
+"year": "2020",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 42/2020 privind punerea la dispoziția proiectului ''Sistem informațional pentru managementul integrat al apelor - etapa II'' dezvoltat de către Administrația Națională ''Apele Române'' a terenului pentru construcția noilor investiții aferente acestuia",
+"short": "HCL Verești nr. 42/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-13",
+"latest": "2020-11-13",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/13435",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -198,6 +374,50 @@
 "council_name": "Consiliul Local al Comunei Verești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--veresti-50-2020",
+"path": "local/suceava/veresti/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 50/2020 privind stabilirea indemnizației lunare pentru consilierii locali",
+"short": "HCL Verești nr. 50/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-11",
+"latest": "2020-12-11",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/13476",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--veresti-51-2020",
+"path": "local/suceava/veresti/2020/51",
+"kind": "local",
+"year": "2020",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 51/2020 privind alocarea din bugetul local al comunei Verești a sumei de 50,000 lei pentru oferirea cadourilor de Moș Crăciun",
+"short": "HCL Verești nr. 51/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-11",
+"latest": "2020-12-11",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/13477",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

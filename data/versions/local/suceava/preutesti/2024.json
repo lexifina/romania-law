@@ -3,6 +3,156 @@
  "shard": "local/suceava/preutesti/2024",
  "acts": [
   {
+   "slug": "hcl-suceava--preutesti-61-2024",
+   "path": "local/suceava/preutesti/2024/61",
+   "short": "HCL Preutești nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 61/2024 privind alegerea președintelui de ședință al Consiliul Local al Comunei Preuteşti pe o perioadă de 3 luni",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/175780",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/175780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-62-2024",
+   "path": "local/suceava/preutesti/2024/62",
+   "short": "HCL Preutești nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 62/2024 privind constituirea comisiei de numărare a voturilor exprimate de consilierii locali prin vot secret",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/175781",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/175781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-63-2024",
+   "path": "local/suceava/preutesti/2024/63",
+   "short": "HCL Preutești nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 63/2024 privind organizarea comisiilor de specialitate ale Consiliului Local al Comunei Preutești și nominalizarea acestora",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/175782",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/175782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-64-2024",
+   "path": "local/suceava/preutesti/2024/64",
+   "short": "HCL Preutești nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 64/2024 privind alegerea viceprimarului comunei Preuteşti, județul Suceava",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/175783",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/175783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-65-2024",
+   "path": "local/suceava/preutesti/2024/65",
+   "short": "HCL Preutești nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 65/2024 privind aprobarea organizării reţelei şcolare de învăţământ preuniversitar de stat de pe raza comunei Preuteşti, judeţul Suceava în anul şcolar 2025-2026",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/180491",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/180491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-66-2024",
+   "path": "local/suceava/preutesti/2024/66",
+   "short": "HCL Preutești nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 66/2024 privind validarea Dispoziției primarului comunei Preutești nr. 315 din 12.11.2024 privind rectificarea bugetului local de venituri și cheltuieli al comunei Preutești aferent anului 2024",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/180492",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/180492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-67-2024",
+   "path": "local/suceava/preutesti/2024/67",
+   "short": "HCL Preutești nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 67/2024 privind desemnarea a doi reprezentanți în Consiliul de administratie și a unui reprezentant în Comisia de Evaluare și Asigurare a Calității la Școala Gimnazială Preutești în anul școlar 2024-2025",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/180493",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/180493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-68-2024",
+   "path": "local/suceava/preutesti/2024/68",
+   "short": "HCL Preutești nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 68/2024 privind aprobarea rectificării bugetului de venituri şi cheltuieli al Comunei Preuteşti pe anul 2024",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/180494",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/180494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-69-2024",
+   "path": "local/suceava/preutesti/2024/69",
+   "short": "HCL Preutești nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 69/2024 privind aprobarea întocmirii raportului de evaluare a unui teren în vederea vânzării prin licitație publică",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/180495",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/180495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-70-2024",
+   "path": "local/suceava/preutesti/2024/70",
+   "short": "HCL Preutești nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 70/2024 privind aprobarea actualizării Programului anual de achiziţii publice la nivelul comunei Preutești, judeţul Suceava pentru anul 2024 V7",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/180496",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/180496",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--preutesti-71-2024",
    "path": "local/suceava/preutesti/2024/71",
    "short": "HCL Preutești nr. 71/2024",
@@ -13,6 +163,141 @@
      "from": "2025-02-04",
      "units": 1,
      "source_url": "https://emol.ro/preutesti-sv/registru-hcl/185161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-72-2024",
+   "path": "local/suceava/preutesti/2024/72",
+   "short": "HCL Preutești nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 72/2024 privind aprobarea rectificării bugetului de venituri şi cheltuieli al Comunei Preuteşti pe anul 2024",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/185162",
+   "versions": [
+    {
+     "from": "2025-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/185162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-73-2024",
+   "path": "local/suceava/preutesti/2024/73",
+   "short": "HCL Preutești nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 73/2024 privind aprobarea achiziționării unor servicii juridice de consultanță, asistență și/sau de reprezentare pentru apărarea intereselor UAT Preutești",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/185163",
+   "versions": [
+    {
+     "from": "2025-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/185163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-74-2024",
+   "path": "local/suceava/preutesti/2024/74",
+   "short": "HCL Preutești nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 74/2024 privind aprobarea Programul anual al achiziţiilor publice și a Strategiei anuale de achiziții publice pentru anul 2025",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/185164",
+   "versions": [
+    {
+     "from": "2025-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/185164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-75-2024",
+   "path": "local/suceava/preutesti/2024/75",
+   "short": "HCL Preutești nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 75/2024 privind aprobarea întocmirii raportului de evaluare a unui teren în vederea vânzării prin licitație publică",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/185165",
+   "versions": [
+    {
+     "from": "2025-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/185165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-76-2024",
+   "path": "local/suceava/preutesti/2024/76",
+   "short": "HCL Preutești nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 76/2024 privind modificarea și completarea inventarului bunurilor care aparţin domeniului privat al comunei Preutești, judeţul Suceava",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/185166",
+   "versions": [
+    {
+     "from": "2025-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/185166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-77-2024",
+   "path": "local/suceava/preutesti/2024/77",
+   "short": "HCL Preutești nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 77/2024 privind atestarea apartenenței la domeniul privat al comunei Preuteşti a unui imobil – teren",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/185167",
+   "versions": [
+    {
+     "from": "2025-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/185167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-78-2024",
+   "path": "local/suceava/preutesti/2024/78",
+   "short": "HCL Preutești nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 78/2024 privind retragerea dreptului de folosință gratuită asupra unui teren pentru construcție locuință acordat în baza Legii nr. 15 din 2003",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/185168",
+   "versions": [
+    {
+     "from": "2025-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/185168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-79-2024",
+   "path": "local/suceava/preutesti/2024/79",
+   "short": "HCL Preutești nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 79/2024 privind aprobarea și însușirea documentației de dezmembrare a imobilului teren înscris în CF 31017 aparținând domeniului public al comunei Preutești",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/185169",
+   "versions": [
+    {
+     "from": "2025-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/185169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-80-2024",
+   "path": "local/suceava/preutesti/2024/80",
+   "short": "HCL Preutești nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 80/2024 privind aprobarea rectificării bugetului de venituri şi cheltuieli al Comunei Preuteşti pe anul 2024",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/185792",
+   "versions": [
+    {
+     "from": "2025-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/185792",
      "sha256": null
     }
    ]

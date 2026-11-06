@@ -3,6 +3,94 @@
 "shard": "local/suceava/vulturesti/2024",
 "acts": [
 {
+"slug": "hcl-suceava--vulturesti-28-2024",
+"path": "local/suceava/vulturesti/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 28/2024 privind aprobarea rectificării bugetului local al comunei Vulturești, județul Suceava, pe anul 2024",
+"short": "HCL Vulturești nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/163685",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-29-2024",
+"path": "local/suceava/vulturesti/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 29/2024 privind aprobarea actualizării indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „MODERNIZARE DC4 OSOI - VALEA GLODULUI - GIURGEȘTI, COMUNA VULTUREȘTI, JUDEȚUL SUCEAVA”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Vulturești nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-10",
+"latest": "2024-09-10",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/166503",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-30-2024",
+"path": "local/suceava/vulturesti/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 30/2024 privind aprobarea actualizării indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „REABILITARE POD PESTE RÂUL ȘOMUZUL MIC ÎN SATUL GIURGEȘTI ȘI CONSTRUIRE POD PESTE RÂUL ȘOMUZUL MIC ÎN SATUL VALEA GLODULUI, COMUNA VULTUREȘTI, JUDEȚUL SUCEAVA”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Vulturești nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-10",
+"latest": "2024-09-10",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/166504",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-31-2024",
+"path": "local/suceava/vulturesti/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 31/2024 privind aprobarea rectificării bugetului local al comunei Vulturești, județul Suceava, pe anul 2024, precum și pentru modificarea Anexei nr. 1 la Hotărârea Consiliului Local nr. 9/08.02.2024",
+"short": "HCL Vulturești nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/170776",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--vulturesti-32-2024",
 "path": "local/suceava/vulturesti/2024/32",
 "kind": "local",
@@ -22,6 +110,50 @@
 "council_name": "Consiliul Local al Comunei Vulturești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-33-2024",
+"path": "local/suceava/vulturesti/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 33/2024 privind analiza stadiului de înscriere a datelor în registrul agricol în trimestrul III al anului 2024 şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+"short": "HCL Vulturești nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-10",
+"latest": "2024-10-10",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/172448",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-34-2024",
+"path": "local/suceava/vulturesti/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 34/2024 privind aprobarea încheierii protocolului de colaborare între Autoritatea Pentru Digitalizarea României și Comuna Vulturești, județul Suceava, pentru asigurarea cadrului interinstituțional necesar înrolării în aplicația ROeID",
+"short": "HCL Vulturești nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-16",
+"latest": "2024-10-16",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/172449",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +179,185 @@
 }
 },
 {
+"slug": "hcl-suceava--vulturesti-36-2024",
+"path": "local/suceava/vulturesti/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 36/2024 privind alegerea preşedintelui de şedinţă pentru perioada noiembrie 2024 - ianuarie 2025",
+"short": "HCL Vulturești nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/177001",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-37-2024",
+"path": "local/suceava/vulturesti/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 37/2024 privind constituirea comisiilor de specialitate pe principalele domenii de activitate",
+"short": "HCL Vulturești nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/177002",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-38-2024",
+"path": "local/suceava/vulturesti/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 38/2024 privind alegerea viceprimarului comunei Vulturești, județul Suceava",
+"short": "HCL Vulturești nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/177003",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-39-2024",
+"path": "local/suceava/vulturesti/2024/39",
+"kind": "local",
+"year": "2024",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 39/2024",
+"short": "HCL Vulturești nr. 39/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/177004",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-40-2024",
+"path": "local/suceava/vulturesti/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 40/2024",
+"short": "HCL Vulturești nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/177005",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-41-2024",
+"path": "local/suceava/vulturesti/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 41/2024",
+"short": "HCL Vulturești nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/177006",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-42-2024",
+"path": "local/suceava/vulturesti/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 42/2024 privind aprobarea rectificării bugetului local al comunei Vulturești, județul Suceava, pe anul 2024, precum și pentru modificarea Anexei nr. 1 la Hotărârea Consiliului Local nr. 9/08.02.2024",
+"short": "HCL Vulturești nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/177007",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-43-2024",
+"path": "local/suceava/vulturesti/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 43/2024 privind aprobarea rectificării bugetului local al comunei Vulturești, județul Suceava, pe anul 2024, precum și pentru modificarea Anexei nr. 1 la Hotărârea Consiliului Local nr. 9/08.02.2024",
+"short": "HCL Vulturești nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-30",
+"latest": "2024-12-30",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/181348",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--vulturesti-44-2024",
 "path": "local/suceava/vulturesti/2024/44",
 "kind": "local",
@@ -66,6 +377,73 @@
 "council_name": "Consiliul Local al Comunei Vulturești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-45-2024",
+"path": "local/suceava/vulturesti/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 45/2024",
+"short": "HCL Vulturești nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-15",
+"latest": "2025-01-15",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/184690",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-46-2024",
+"path": "local/suceava/vulturesti/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 46/2024 privind aprobarea rectificării bugetului local al comunei Vulturești, județul Suceava, pe anul 2024, precum și pentru modificarea Anexei nr. 1 la Hotărârea Consiliului Local nr. 9/08.02.2024",
+"short": "HCL Vulturești nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-15",
+"latest": "2025-01-15",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/184691",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-47-2024",
+"path": "local/suceava/vulturesti/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 47/2024 privind acordul de principiu pentru aderarea Comunei Vulturești la ”Asociația de Dezvoltare Intercomunitară BVH-GAZ” și dobândirea calității de membru fondator",
+"short": "HCL Vulturești nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-15",
+"latest": "2025-01-15",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/184692",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

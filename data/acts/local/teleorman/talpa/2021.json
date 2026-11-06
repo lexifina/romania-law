@@ -25,6 +25,72 @@
 }
 },
 {
+"slug": "hcl-teleorman--talpa-74-2021",
+"path": "local/teleorman/talpa/2021/74",
+"kind": "local",
+"year": "2021",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Talpa nr. 74/2021 privind cumpărarea bunurilor imobile, situate în satul Talpa-Ogrăzile, str. Bîncii, comuna Talpa, județul Teleorman, de către Comuna Talpa",
+"short": "HCL Talpa nr. 74/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-08",
+"latest": "2021-11-08",
+"portal": "https://emol.ro/talpa-tr/registru-hcl/47108",
+"council": "teleorman/talpa",
+"council_name": "Consiliul Local al Comunei Talpa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--talpa-75-2021",
+"path": "local/teleorman/talpa/2021/75",
+"kind": "local",
+"year": "2021",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Talpa nr. 75/2021 privind desemnarea unui reprezentant al Consiliului Local al comunei Talpa pentru a participa, în calitate de membru al Comisiei de evaluare a probei de interviu, la concursul pentru ocuparea funcțiilor de director și director adjunct din unitatea de învățământ Școala Gimnazială Talpa, sesiuena 2021",
+"short": "HCL Talpa nr. 75/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-08",
+"latest": "2021-11-08",
+"portal": "https://emol.ro/talpa-tr/registru-hcl/47109",
+"council": "teleorman/talpa",
+"council_name": "Consiliul Local al Comunei Talpa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--talpa-76-2021",
+"path": "local/teleorman/talpa/2021/76",
+"kind": "local",
+"year": "2021",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Talpa nr. 76/2021 privind atribuirea directă în vederea închirierii de teren în suprafață de 919 m² către OMV Petrom SA pentru realizarea proiectului ”Lucrări de abandonare de suprafață la sonda 1766 Talpa”",
+"short": "HCL Talpa nr. 76/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-08",
+"latest": "2021-11-08",
+"portal": "https://emol.ro/talpa-tr/registru-hcl/47110",
+"council": "teleorman/talpa",
+"council_name": "Consiliul Local al Comunei Talpa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--talpa-77-2021",
 "path": "local/teleorman/talpa/2021/77",
 "kind": "local",
@@ -91,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--talpa-80-2021",
+"path": "local/teleorman/talpa/2021/80",
+"kind": "local",
+"year": "2021",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Talpa nr. 80/2021 privind revocarea Hotărârii Consiliului Local nr. 59 din data de 22.09.2021 referitoare la atribuirea directă în vederea închirierii de teren necesar pentru realizarea obiectivului de investiții ”Conducta de la sonda 139 Talpa la Parc 34 Talpa”",
+"short": "HCL Talpa nr. 80/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-23",
+"latest": "2021-11-23",
+"portal": "https://emol.ro/talpa-tr/registru-hcl/47114",
+"council": "teleorman/talpa",
+"council_name": "Consiliul Local al Comunei Talpa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--talpa-81-2021",
 "path": "local/teleorman/talpa/2021/81",
 "kind": "local",
@@ -110,6 +198,29 @@
 "council_name": "Consiliul Local al Comunei Talpa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--talpa-82-2021",
+"path": "local/teleorman/talpa/2021/82",
+"kind": "local",
+"year": "2021",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Talpa nr. 82/2021",
+"short": "HCL Talpa nr. 82/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-23",
+"latest": "2021-11-23",
+"portal": "https://emol.ro/talpa-tr/registru-hcl/47116",
+"council": "teleorman/talpa",
+"council_name": "Consiliul Local al Comunei Talpa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -154,6 +265,28 @@
 "council_name": "Consiliul Local al Comunei Talpa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--talpa-85-2021",
+"path": "local/teleorman/talpa/2021/85",
+"kind": "local",
+"year": "2021",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Talpa nr. 85/2021 privind alegerea președintelui de ședință a Consiliului Local al Comunei Talpa, pentru lunile: ianuarie, februarie și martie, aferente anului 2022",
+"short": "HCL Talpa nr. 85/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://emol.ro/talpa-tr/registru-hcl/47171",
+"council": "teleorman/talpa",
+"council_name": "Consiliul Local al Comunei Talpa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

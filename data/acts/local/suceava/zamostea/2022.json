@@ -3,6 +3,50 @@
 "shard": "local/suceava/zamostea/2022",
 "acts": [
 {
+"slug": "hcl-suceava--zamostea-38-2022",
+"path": "local/suceava/zamostea/2022/38",
+"kind": "local",
+"year": "2022",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 38/2022 privind desemnarea reprezentaților Consiliului Local Zamostea, județul Suceava ca membri în Consiliul de Administrație al Școlii Gimnaziale Zamostea, în anul școlar 2022-2023",
+"short": "HCL Zamostea nr. 38/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/90848",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-39-2022",
+"path": "local/suceava/zamostea/2022/39",
+"kind": "local",
+"year": "2022",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 39/2022 privind alegerea președintelui de ședință",
+"short": "HCL Zamostea nr. 39/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/90856",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--zamostea-40-2022",
 "path": "local/suceava/zamostea/2022/40",
 "kind": "local",
@@ -245,6 +289,28 @@
 }
 },
 {
+"slug": "hcl-suceava--zamostea-51-2022",
+"path": "local/suceava/zamostea/2022/51",
+"kind": "local",
+"year": "2022",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 51/2022 privind decontarea cheltuielilor de transport personalului didactic navetist",
+"short": "HCL Zamostea nr. 51/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/90884",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--zamostea-52-2022",
 "path": "local/suceava/zamostea/2022/52",
 "kind": "local",
@@ -267,6 +333,50 @@
 }
 },
 {
+"slug": "hcl-suceava--zamostea-53-2022",
+"path": "local/suceava/zamostea/2022/53",
+"kind": "local",
+"year": "2022",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 53/2022 privind organizare rețelei școlare a unităților de învățământ preuniversitar de pe raza teritorial-administrativă a comunei Zamostea, județul Suceava pentru anul școlar 2023-2024",
+"short": "HCL Zamostea nr. 53/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/90886",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-54-2022",
+"path": "local/suceava/zamostea/2022/54",
+"kind": "local",
+"year": "2022",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 54/2022 privind decontarea chetuielilor de transport personalului didactic navetist",
+"short": "HCL Zamostea nr. 54/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/90887",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--zamostea-55-2022",
 "path": "local/suceava/zamostea/2022/55",
 "kind": "local",
@@ -286,6 +396,51 @@
 "council_name": "Consiliul Local al Comunei Zamostea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-56-2022",
+"path": "local/suceava/zamostea/2022/56",
+"kind": "local",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 56/2022 privind atribuirea denumirilor străzilor din Comuna ZAMOSTEA, județul SUCEAVA",
+"short": "HCL Zamostea nr. 56/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/90889",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-57-2022",
+"path": "local/suceava/zamostea/2022/57",
+"kind": "local",
+"year": "2022",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 57/2022",
+"short": "HCL Zamostea nr. 57/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/90890",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

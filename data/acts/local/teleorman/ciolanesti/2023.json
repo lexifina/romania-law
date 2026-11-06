@@ -3,6 +3,28 @@
 "shard": "local/teleorman/ciolanesti/2023",
 "acts": [
 {
+"slug": "hcl-teleorman--ciolanesti-28-2023",
+"path": "local/teleorman/ciolanesti/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 28/2023 privind desemnarea unui reprezentant al Consiliului local al comunei Ciolănești în Consiliul de administrație al Școlii Gimnaziale pentru anul școlar 2023-2024",
+"short": "HCL Ciolănești nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/ciolanesti-tr/registru-hcl/132941",
+"council": "teleorman/ciolanesti",
+"council_name": "Consiliul Local al Comunei Ciolănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--ciolanesti-29-2023",
 "path": "local/teleorman/ciolanesti/2023/29",
 "kind": "local",
@@ -110,6 +132,28 @@
 "council_name": "Consiliul Local al Comunei Ciolănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--ciolanesti-34-2023",
+"path": "local/teleorman/ciolanesti/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 34/2023 privind alegerea președintelui de ședință pentru o perioadă de 3 luni",
+"short": "HCL Ciolănești nr. 34/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/ciolanesti-tr/registru-hcl/132962",
+"council": "teleorman/ciolanesti",
+"council_name": "Consiliul Local al Comunei Ciolănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +289,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--ciolanesti-41-2023",
+"path": "local/teleorman/ciolanesti/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 41/2023 privind alegerea președintelui de ședință pentru o perioadă de 3 luni",
+"short": "HCL Ciolănești nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/ciolanesti-tr/registru-hcl/147578",
+"council": "teleorman/ciolanesti",
+"council_name": "Consiliul Local al Comunei Ciolănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--ciolanesti-42-2023",
 "path": "local/teleorman/ciolanesti/2023/42",
 "kind": "local",
@@ -330,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Ciolănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--ciolanesti-46-2023",
+"path": "local/teleorman/ciolanesti/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 46/2023 privind înființarea Serviciului Voluntar pentru Situații de Urgență de TIP V2 al comunei CIOLĂNEȘTI, județul Teleorman",
+"short": "HCL Ciolănești nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/ciolanesti-tr/registru-hcl/147583",
+"council": "teleorman/ciolanesti",
+"council_name": "Consiliul Local al Comunei Ciolănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

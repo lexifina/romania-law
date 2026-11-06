@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--radoiesti-38-2023",
+"path": "local/teleorman/radoiesti/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 38/2023 privind numirea reprezentantului Consiliului Local Radoiesti , in Consiliul de Administratie al Scolii Gimnaziale Radoiesti pentru anul scolar 2023/2024",
+"short": "HCL Rădoiești nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/radoiesti-tr/registru-hcl/126604",
+"council": "teleorman/radoiesti",
+"council_name": "Consiliul Local al Comunei Rădoiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--radoiesti-39-2023",
 "path": "local/teleorman/radoiesti/2023/39",
 "kind": "local",
@@ -66,6 +88,28 @@
 "council_name": "Consiliul Local al Comunei Rădoiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--radoiesti-40-2023",
+"path": "local/teleorman/radoiesti/2023/40",
+"kind": "local",
+"year": "2023",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 40/2023 privind alegerea presedintelui de sedinta pentru urmatoarele trei luni",
+"short": "HCL Rădoiești nr. 40/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-02",
+"latest": "2023-11-02",
+"portal": "https://emol.ro/radoiesti-tr/registru-hcl/127255",
+"council": "teleorman/radoiesti",
+"council_name": "Consiliul Local al Comunei Rădoiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -223,6 +267,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--radoiesti-48-2023",
+"path": "local/teleorman/radoiesti/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 48/2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Rădoieşti, judeţul Teleorman, începând cu 1 ianuarie 2024",
+"short": "HCL Rădoiești nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": "https://emol.ro/radoiesti-tr/registru-hcl/128453",
+"council": "teleorman/radoiesti",
+"council_name": "Consiliul Local al Comunei Rădoiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--radoiesti-49-2023",
 "path": "local/teleorman/radoiesti/2023/49",
 "kind": "local",
@@ -242,6 +308,72 @@
 "council_name": "Consiliul Local al Comunei Rădoiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--radoiesti-50-2023",
+"path": "local/teleorman/radoiesti/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 50/2023 privind aprobarea structurii Organizatorice si Statului de Functii din cadrul aparatului de specialitate al primarului Comunei Radoiesti, in anul 2023",
+"short": "HCL Rădoiești nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://emol.ro/radoiesti-tr/registru-hcl/137007",
+"council": "teleorman/radoiesti",
+"council_name": "Consiliul Local al Comunei Rădoiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--radoiesti-51-2023",
+"path": "local/teleorman/radoiesti/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 51/2023 privind aprobarea rectificarii bugetului general consolidat pe trim IV pe anul 2023;",
+"short": "HCL Rădoiești nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://emol.ro/radoiesti-tr/registru-hcl/137010",
+"council": "teleorman/radoiesti",
+"council_name": "Consiliul Local al Comunei Rădoiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--radoiesti-52-2023",
+"path": "local/teleorman/radoiesti/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 52/2023 privind prelungirea Planului de Urbanism General (P.U.G) si a Regulamentului Local de Urbanism (R.L.U.) pana la intrarea in vigoare a noului Planului de Urbanism General (P.U.G) si a Regulamentului Local de Urbanism (R.L.U.);",
+"short": "HCL Rădoiești nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://emol.ro/radoiesti-tr/registru-hcl/137011",
+"council": "teleorman/radoiesti",
+"council_name": "Consiliul Local al Comunei Rădoiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

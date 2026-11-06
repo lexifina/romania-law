@@ -3,6 +3,276 @@
  "shard": "local/suceava/vadu-moldovei/2026",
  "acts": [
   {
+   "slug": "hcl-suceava--vadu-moldovei-40-2026",
+   "path": "local/suceava/vadu-moldovei/2026/40",
+   "short": "HCL Vadu Moldovei nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 40/2026 privind alegerea preşedintelui de şedinţă al Consiliului Local al Comunei Vadu Moldovei",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/278885",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/278885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-41-2026",
+   "path": "local/suceava/vadu-moldovei/2026/41",
+   "short": "HCL Vadu Moldovei nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 41/2026",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/278886",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/278886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-42-2026",
+   "path": "local/suceava/vadu-moldovei/2026/42",
+   "short": "HCL Vadu Moldovei nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 42/2026 privind rectificarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2026",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/278887",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/278887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-43-2026",
+   "path": "local/suceava/vadu-moldovei/2026/43",
+   "short": "HCL Vadu Moldovei nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 43/2026 privind alocarea sumei de 2.500 lei din bugetul local pentru organizarea unui eveniment sportiv în comuna Vadu Moldovei",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/278888",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/278888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-44-2026",
+   "path": "local/suceava/vadu-moldovei/2026/44",
+   "short": "HCL Vadu Moldovei nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 44/2026 privind rectificarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2026",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/280405",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/280405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-45-2026",
+   "path": "local/suceava/vadu-moldovei/2026/45",
+   "short": "HCL Vadu Moldovei nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 45/2026",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/282601",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/282601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-46-2026",
+   "path": "local/suceava/vadu-moldovei/2026/46",
+   "short": "HCL Vadu Moldovei nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 46/2026 privind rectificarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2026",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/282602",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/282602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-47-2026",
+   "path": "local/suceava/vadu-moldovei/2026/47",
+   "short": "HCL Vadu Moldovei nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 47/2026 privind alocarea sumei de 2.500 lei din bugetul local pentru organizarea unui eveniment sportiv în comuna Vadu Moldovei",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/285568",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/285568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-48-2026",
+   "path": "local/suceava/vadu-moldovei/2026/48",
+   "short": "HCL Vadu Moldovei nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 48/2026 privind aprobarea investiției ,,Lucrări_de_reparatii_fațada sediu Primăria Comunei Vadu Moldovei, județul Suceava”",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/287269",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/287269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-49-2026",
+   "path": "local/suceava/vadu-moldovei/2026/49",
+   "short": "HCL Vadu Moldovei nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 49/2026 privind rectificarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2026",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/287270",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/287270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-50-2026",
+   "path": "local/suceava/vadu-moldovei/2026/50",
+   "short": "HCL Vadu Moldovei nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 50/2026 privind alegerea preşedintelui de şedinţă al Consiliului Local al Comunei Vadu Moldovei",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/292263",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/292263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-51-2026",
+   "path": "local/suceava/vadu-moldovei/2026/51",
+   "short": "HCL Vadu Moldovei nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 51/2026 privind desemnarea unui reprezentant al Consiliului Local Vadu Moldovei și a unui membru supleant care să facă parte din Comisia de evaluare a probei interviu din cadrul concursului pentru ocuparea funcțiilor de director și director adjunct la Școala Gimnazială ,,EPISCOP GHERASIM PUTNEANUL” Vadu Moldovei",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/292264",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/292264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-52-2026",
+   "path": "local/suceava/vadu-moldovei/2026/52",
+   "short": "HCL Vadu Moldovei nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 52/2026 pentru desemnarea de reprezentanţi ai Consiliului Local al comunei Vadu Moldovei care să facă parte din Consiliul de Administraţie al Şcolii Gimnaziale ,,Episcop Gherasim Putneanul” Vadu Moldovei, judeţul Suceava, pentru anul scolar 2026-2027",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/292265",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/292265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-53-2026",
+   "path": "local/suceava/vadu-moldovei/2026/53",
+   "short": "HCL Vadu Moldovei nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 53/2026 pentru organizarea unor ceremonii în vederea sărbătoririi cuplurilor din localitatea Vadu Moldovei care sărbătoresc 50 de ani de căsătorie și a unui centenar",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/292266",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/292266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-54-2026",
+   "path": "local/suceava/vadu-moldovei/2026/54",
+   "short": "HCL Vadu Moldovei nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 54/2026 privind aprobarea scoaterii din funcțiune în vederea casării și valorificării a unor mijloace fixe din patrimoniul Comunei Vadu Moldovei",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/292267",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/292267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-55-2026",
+   "path": "local/suceava/vadu-moldovei/2026/55",
+   "short": "HCL Vadu Moldovei nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 55/2026 privind rectificarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2026",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/292268",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/292268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-56-2026",
+   "path": "local/suceava/vadu-moldovei/2026/56",
+   "short": "HCL Vadu Moldovei nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 56/2026 privind rectificarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2026",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/293530",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/293530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-57-2026",
+   "path": "local/suceava/vadu-moldovei/2026/57",
+   "short": "HCL Vadu Moldovei nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 57/2026 privind modificarea Statului de funcţii pentru aparatul de specialitate al primarului comunei Vadu Moldovei, judeţul Suceava, în conformitate cu prevederile Legii nr. 165/2026",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/296937",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/296937",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--vadu-moldovei-58-2026",
    "path": "local/suceava/vadu-moldovei/2026/58",
    "short": "HCL Vadu Moldovei nr. 58/2026",
@@ -13,6 +283,21 @@
      "from": "2026-11-02",
      "units": 1,
      "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/296938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-59-2026",
+   "path": "local/suceava/vadu-moldovei/2026/59",
+   "short": "HCL Vadu Moldovei nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 59/2026 privind rectificarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2026",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/296939",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/296939",
      "sha256": null
     }
    ]

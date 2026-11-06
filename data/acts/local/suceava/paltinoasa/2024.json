@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/suceava/paltinoasa/2024",
+"acts": [
+{
+"slug": "hcl-suceava--paltinoasa-96-2024",
+"path": "local/suceava/paltinoasa/2024/96",
+"kind": "local",
+"year": "2024",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 96/2024 privind aprobarea Statutului Comunei Păltinoasa, judeţul Suceava",
+"short": "HCL Păltinoasa nr. 96/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-21",
+"latest": "2024-10-21",
+"portal": "https://primariapaltinoasa.ro/index.php/monitorul-oficial-local/statutul-uat",
+"council": "suceava/paltinoasa",
+"council_name": "Consiliul Local al Comunei Păltinoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--paltinoasa-101-2024",
+"path": "local/suceava/paltinoasa/2024/101",
+"kind": "local",
+"year": "2024",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 101/2024 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Păltinoasa, pe principalele domenii de activitate",
+"short": "HCL Păltinoasa nr. 101/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-06",
+"latest": "2024-11-06",
+"portal": "https://primariapaltinoasa.ro/index.php/consiliul-local/comisii",
+"council": "suceava/paltinoasa",
+"council_name": "Consiliul Local al Comunei Păltinoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--paltinoasa-117-2024",
+"path": "local/suceava/paltinoasa/2024/117",
+"kind": "local",
+"year": "2024",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 117/2024 privind modificarea art.4 din Hotărârea nr. 101 din 06.11.2024 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Păltinoasa, pe principalele domenii de activitate",
+"short": "HCL Păltinoasa nr. 117/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://primariapaltinoasa.ro/index.php/consiliul-local/comisii",
+"council": "suceava/paltinoasa",
+"council_name": "Consiliul Local al Comunei Păltinoasa",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

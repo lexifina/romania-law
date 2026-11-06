@@ -3,6 +3,111 @@
  "shard": "local/suceava/vadu-moldovei/2025",
  "acts": [
   {
+   "slug": "hcl-suceava--vadu-moldovei-45-2025",
+   "path": "local/suceava/vadu-moldovei/2025/45",
+   "short": "HCL Vadu Moldovei nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 45/2025 privind modificarea și completarea Organigramei si a Statului de funcţii pentru aparatul de specialitate al primarului comunei Vadu Moldovei, judeţul Suceava, cu un post de consilier școlar în cadrul compartimentului asistență socială, pe perioadă determinată pentru implementarea proiectului” Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente şi de calitate” PIDS/586/PO4/339395",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/228837",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/228837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-46-2025",
+   "path": "local/suceava/vadu-moldovei/2025/46",
+   "short": "HCL Vadu Moldovei nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 46/2025 privind rectificarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2025",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/228838",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/228838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-47-2025",
+   "path": "local/suceava/vadu-moldovei/2025/47",
+   "short": "HCL Vadu Moldovei nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 47/2025 privind alegerea preşedintelui de şedinţă al Consiliului Local al Comunei Vadu Moldovei",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/230363",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/230363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-48-2025",
+   "path": "local/suceava/vadu-moldovei/2025/48",
+   "short": "HCL Vadu Moldovei nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 48/2025 privind implementarea proiectului „Construire teren multisport (30m x 16m) cu gazon sintetic”",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/230364",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/230364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-49-2025",
+   "path": "local/suceava/vadu-moldovei/2025/49",
+   "short": "HCL Vadu Moldovei nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 49/2025 privind atestarea apartenenței la domeniul privat al comunei Vadu Moldovei, judeţul Suceava, a unui imobil în suprafață de 475 mp. situat în intravilanul satului Dumbrăvița, comuna Vadu Moldovei, județul Suceava",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/230365",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/230365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-50-2025",
+   "path": "local/suceava/vadu-moldovei/2025/50",
+   "short": "HCL Vadu Moldovei nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 50/2025",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/230366",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/230366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-51-2025",
+   "path": "local/suceava/vadu-moldovei/2025/51",
+   "short": "HCL Vadu Moldovei nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 51/2025 privind atestarea Inventarului bunurilor care alcătuiesc domeniul public al comunei Vadu Moldovei, judeţul Suceava",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/236080",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/236080",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--vadu-moldovei-52-2025",
    "path": "local/suceava/vadu-moldovei/2025/52",
    "short": "HCL Vadu Moldovei nr. 52/2025",
@@ -13,6 +118,171 @@
      "from": "2025-11-03",
      "units": 1,
      "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/236081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-53-2025",
+   "path": "local/suceava/vadu-moldovei/2025/53",
+   "short": "HCL Vadu Moldovei nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 53/2025",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/236082",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/236082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-54-2025",
+   "path": "local/suceava/vadu-moldovei/2025/54",
+   "short": "HCL Vadu Moldovei nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 54/2025 privind rectificarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2025",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/236083",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/236083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-55-2025",
+   "path": "local/suceava/vadu-moldovei/2025/55",
+   "short": "HCL Vadu Moldovei nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 55/2025 privind alegerea preşedintelui de şedinţă al Consiliului Local al Comunei Vadu Moldovei pentru a conduce ședința extraordinară-de-îndată din data de 20 noiembrie 2025",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/251610",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/251610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-56-2025",
+   "path": "local/suceava/vadu-moldovei/2025/56",
+   "short": "HCL Vadu Moldovei nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 56/2025 privind utilizarea excedentului bugetului local, in cursul anului 2025",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/251611",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/251611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-57-2025",
+   "path": "local/suceava/vadu-moldovei/2025/57",
+   "short": "HCL Vadu Moldovei nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 57/2025 privind rectificarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2025",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/251612",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/251612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-58-2025",
+   "path": "local/suceava/vadu-moldovei/2025/58",
+   "short": "HCL Vadu Moldovei nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 58/2025 privind darea in folosință gratuită a unui spațiu, aparținând domeniului public al comunei Vadu Moldovei, situat in incinta Primăriei Comunei Vadu Moldovei, strada Basarabiei, nr. 154, către Asociația Grupul de Acțiune Locală Suceava Sud-Est Vadu Moldovei",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/251613",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/251613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-59-2025",
+   "path": "local/suceava/vadu-moldovei/2025/59",
+   "short": "HCL Vadu Moldovei nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 59/2025 privind rectificarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2025",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/252130",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/252130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-60-2025",
+   "path": "local/suceava/vadu-moldovei/2025/60",
+   "short": "HCL Vadu Moldovei nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 60/2025 privind rectificarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2025",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/252131",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/252131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-61-2025",
+   "path": "local/suceava/vadu-moldovei/2025/61",
+   "short": "HCL Vadu Moldovei nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 61/2025 privind aprobarea reţelei şcolare din Comuna Vadu Moldovei pentru anul şcolar 2026 – 2027",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/252133",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/252133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-62-2025",
+   "path": "local/suceava/vadu-moldovei/2025/62",
+   "short": "HCL Vadu Moldovei nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 62/2025 privind alocarea sumei de 20.000 lei din bugetul comunei Vadu Moldovei pentru organizarea datinilor si obiceiurilor de Anul Nou",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/252134",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/252134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-63-2025",
+   "path": "local/suceava/vadu-moldovei/2025/63",
+   "short": "HCL Vadu Moldovei nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 63/2025 privind stabilirea programului de audiente pentru consilierii locali ai Comunei Vadu Moldovei",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/252135",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/252135",
      "sha256": null
     }
    ]

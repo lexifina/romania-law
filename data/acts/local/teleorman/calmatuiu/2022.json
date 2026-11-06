@@ -289,6 +289,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--calmatuiu-30-2022",
+"path": "local/teleorman/calmatuiu/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 30/2022 privind alegerea președintelui de ședință , care să conducă ședințele Consiliului Local , să semneze procesul verbal de ședință și hotărârile adoptate de acesta pentru următoarele trei luni",
+"short": "HCL Călmățuiu nr. 30/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-12",
+"latest": "2023-04-12",
+"portal": "https://emol.ro/calmatuiu-tr/registru-hcl/82719",
+"council": "teleorman/calmatuiu",
+"council_name": "Consiliul Local al Comunei Călmățuiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--calmatuiu-31-2022",
 "path": "local/teleorman/calmatuiu/2022/31",
 "kind": "local",

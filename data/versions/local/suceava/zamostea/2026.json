@@ -3,6 +3,36 @@
  "shard": "local/suceava/zamostea/2026",
  "acts": [
   {
+   "slug": "hcl-suceava--zamostea-21-2026",
+   "path": "local/suceava/zamostea/2026/21",
+   "short": "HCL Zamostea nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 21/2026 privind aprobarea acordării unui ajutor financiar de urgenţă familiei d-lui LESENCIUC MIHAI-GABRIEL în vederea refacerii locuinţei distrusă parțial în urma unui incendiu",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/268325",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/268325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--zamostea-22-2026",
+   "path": "local/suceava/zamostea/2026/22",
+   "short": "HCL Zamostea nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 22/2026 privind decontarea cheltuielilor de transport personalului didactic navetist",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/268326",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/268326",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--zamostea-23-2026",
    "path": "local/suceava/zamostea/2026/23",
    "short": "HCL Zamostea nr. 23/2026",
@@ -18,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--zamostea-24-2026",
+   "path": "local/suceava/zamostea/2026/24",
+   "short": "HCL Zamostea nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 24/2026",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/288030",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/288030",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--zamostea-25-2026",
    "path": "local/suceava/zamostea/2026/25",
    "short": "HCL Zamostea nr. 25/2026",
@@ -28,6 +73,21 @@
      "from": "2026-09-22",
      "units": 1,
      "source_url": "https://emol.ro/zamostea-sv/registru-hcl/288211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--zamostea-26-2026",
+   "path": "local/suceava/zamostea/2026/26",
+   "short": "HCL Zamostea nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 26/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/288219",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/288219",
      "sha256": null
     }
    ]
@@ -58,6 +118,21 @@
      "from": "2026-09-22",
      "units": 1,
      "source_url": "https://emol.ro/zamostea-sv/registru-hcl/288221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--zamostea-29-2026",
+   "path": "local/suceava/zamostea/2026/29",
+   "short": "HCL Zamostea nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 29/2026 privind decontarea cheltuielilor de transport personalului didactic navetist",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/288222",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/288222",
      "sha256": null
     }
    ]
@@ -108,6 +183,36 @@
    ]
   },
   {
+   "slug": "hcl-suceava--zamostea-33-2026",
+   "path": "local/suceava/zamostea/2026/33",
+   "short": "HCL Zamostea nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 33/2026 privind aprobarea concesionării fără licitație publică a spaţiilor cu destinaţia de cabinet medical stomatologic din cadrul Dispensarului medical uman din sat Zamostea, comuna Zamostea, județul Suceava",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/288231",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/288231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--zamostea-34-2026",
+   "path": "local/suceava/zamostea/2026/34",
+   "short": "HCL Zamostea nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 34/2026 privind desemnarea reprezentantului Consiliului Local Zamostea, judeţul Suceava ca membru în Comisia de evaluare a probei de interviu pentru ocuparea funcției de Director al Școlii Gimnaziale Zamostea",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/288232",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/288232",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--zamostea-35-2026",
    "path": "local/suceava/zamostea/2026/35",
    "short": "HCL Zamostea nr. 35/2026",
@@ -123,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--zamostea-36-2026",
+   "path": "local/suceava/zamostea/2026/36",
+   "short": "HCL Zamostea nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 36/2026 privind desemnarea unui reprezentant al Consiliului Local Zamostea, judeţul Suceava ca membru în Consiliul de Administraţie al Şcolii Gimnaziale Zamostea pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/288234",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/288234",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--zamostea-37-2026",
    "path": "local/suceava/zamostea/2026/37",
    "short": "HCL Zamostea nr. 37/2026",
@@ -133,6 +253,51 @@
      "from": "2026-10-21",
      "units": 1,
      "source_url": "https://emol.ro/zamostea-sv/registru-hcl/294095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--zamostea-38-2026",
+   "path": "local/suceava/zamostea/2026/38",
+   "short": "HCL Zamostea nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 38/2026 privind aprobarea prelungirii scrisorii de garanție din partea CEC BANK SA BUCUREȘTI pentru avansul obținut și necesar implementării proiectului de investiție intitulat ,, Înființare infrastructură de apă și apă uzată în comuna Zamostea, Județul Suceava” si finanțat prin Agenția pentru Finanțarea Investițiilor Rurale, conform contract de finanțare C0720AN00021613500362/01.09.2017",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/294096",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/294096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--zamostea-39-2026",
+   "path": "local/suceava/zamostea/2026/39",
+   "short": "HCL Zamostea nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 39/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/296961",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/296961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--zamostea-40-2026",
+   "path": "local/suceava/zamostea/2026/40",
+   "short": "HCL Zamostea nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 40/2026 privind rectificarea bugetară pentru anul 2026",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/296962",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/296962",
      "sha256": null
     }
    ]

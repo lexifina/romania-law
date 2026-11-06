@@ -3,6 +3,72 @@
 "shard": "local/suceava/rasca/2025",
 "acts": [
 {
+"slug": "hcl-suceava--rasca-46-2025",
+"path": "local/suceava/rasca/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râșca nr. 46/2025 privind desemnarea a doi consilieri locali din cadrul Consiliului Local Râșca ca membri în Consiliul de Administrație al Școlii Gimnaziale Râșca",
+"short": "HCL Râșca nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-04",
+"latest": "2025-12-04",
+"portal": "https://emol.ro/rasca-sv/registru-hcl/239179",
+"council": "suceava/rasca",
+"council_name": "Consiliul Local al Comunei Râșca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--rasca-47-2025",
+"path": "local/suceava/rasca/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râșca nr. 47/2025 privind revocarea HCL nr. 24/2025 privind aprobarea cererii de renunțare la recursul formulat împotriva Sentinței Civile nr. 21 din data de 20.01.2025 a Tribunalului Suceava",
+"short": "HCL Râșca nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-04",
+"latest": "2025-12-04",
+"portal": "https://emol.ro/rasca-sv/registru-hcl/239182",
+"council": "suceava/rasca",
+"council_name": "Consiliul Local al Comunei Râșca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--rasca-48-2025",
+"path": "local/suceava/rasca/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râșca nr. 48/2025 privind alegerea președintelui de ședință pe luna noiembrie 2025",
+"short": "HCL Râșca nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/rasca-sv/registru-hcl/242243",
+"council": "suceava/rasca",
+"council_name": "Consiliul Local al Comunei Râșca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--rasca-49-2025",
 "path": "local/suceava/rasca/2025/49",
 "kind": "local",
@@ -22,6 +88,28 @@
 "council_name": "Consiliul Local al Comunei Râșca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--rasca-50-2025",
+"path": "local/suceava/rasca/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râșca nr. 50/2025 privind decontarea navetei personalului didactic de la Școala Gimnazială Râșca",
+"short": "HCL Râșca nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/rasca-sv/registru-hcl/242246",
+"council": "suceava/rasca",
+"council_name": "Consiliul Local al Comunei Râșca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +135,50 @@
 }
 },
 {
+"slug": "hcl-suceava--rasca-52-2025",
+"path": "local/suceava/rasca/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râșca nr. 52/2025 privind acordarea mandatului special reprezentantului UAT - comuna RÂȘCA, județul Suceava în Adunarea Generală a Asociației Județene pentru Apă și Canalizare Suceava și Asociației Județene pentru Apă și Canalizare Suceava, să aprobe în Adunarea Generală a Asociației, Strategia privind dezvoltarea Serviciului public de alimentare cu apă și canalizare a Serviciului public inteligent alternativ pentru procesarea apelor uzate din cadrul unităților administrativ-teritoriale membre ale Asociației Județene pentru Apă și Canalizare Suceava",
+"short": "HCL Râșca nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/rasca-sv/registru-hcl/242259",
+"council": "suceava/rasca",
+"council_name": "Consiliul Local al Comunei Râșca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--rasca-53-2025",
+"path": "local/suceava/rasca/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râșca nr. 53/2025 privind alegerea președintelui de ședință pe luna decembrie 2025",
+"short": "HCL Râșca nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/rasca-sv/registru-hcl/242260",
+"council": "suceava/rasca",
+"council_name": "Consiliul Local al Comunei Râșca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--rasca-54-2025",
 "path": "local/suceava/rasca/2025/54",
 "kind": "local",
@@ -66,6 +198,116 @@
 "council_name": "Consiliul Local al Comunei Râșca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--rasca-55-2025",
+"path": "local/suceava/rasca/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râșca nr. 55/2025 privind aprobarea Regulamentului privind măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri cu caracter normativ care se supun adoptării Consiliului Local al Comunei Râșca",
+"short": "HCL Râșca nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/rasca-sv/registru-hcl/242262",
+"council": "suceava/rasca",
+"council_name": "Consiliul Local al Comunei Râșca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--rasca-56-2025",
+"path": "local/suceava/rasca/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râșca nr. 56/2025 privind aprobarea rețelei școlare din comuna Râșca, județul Suceava pentru anul școlar 2026-2027",
+"short": "HCL Râșca nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/rasca-sv/registru-hcl/242275",
+"council": "suceava/rasca",
+"council_name": "Consiliul Local al Comunei Râșca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--rasca-57-2025",
+"path": "local/suceava/rasca/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râșca nr. 57/2025 privind decontarea navetei personalului didactic de la Școala Gimnazială Râșca",
+"short": "HCL Râșca nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/rasca-sv/registru-hcl/242276",
+"council": "suceava/rasca",
+"council_name": "Consiliul Local al Comunei Râșca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--rasca-58-2025",
+"path": "local/suceava/rasca/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râșca nr. 58/2025 privind alegerea președintelui de ședință pe luna ianuarie 2026",
+"short": "HCL Râșca nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-02",
+"latest": "2026-02-02",
+"portal": "https://emol.ro/rasca-sv/registru-hcl/250768",
+"council": "suceava/rasca",
+"council_name": "Consiliul Local al Comunei Râșca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--rasca-59-2025",
+"path": "local/suceava/rasca/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râșca nr. 59/2025 privind rectificarea de buget pe anul 2025",
+"short": "HCL Râșca nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-02",
+"latest": "2026-02-02",
+"portal": "https://emol.ro/rasca-sv/registru-hcl/250775",
+"council": "suceava/rasca",
+"council_name": "Consiliul Local al Comunei Râșca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -110,6 +352,95 @@
 "council_name": "Consiliul Local al Comunei Râșca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--rasca-62-2025",
+"path": "local/suceava/rasca/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râșca nr. 62/2025 privind decontarea navetei personalului didactic de la Școala Gimnazială Râșca",
+"short": "HCL Râșca nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/rasca-sv/registru-hcl/250778",
+"council": "suceava/rasca",
+"council_name": "Consiliul Local al Comunei Râșca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--rasca-63-2025",
+"path": "local/suceava/rasca/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râșca nr. 63/2025",
+"short": "HCL Râșca nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-02",
+"latest": "2026-02-02",
+"portal": "https://emol.ro/rasca-sv/registru-hcl/250779",
+"council": "suceava/rasca",
+"council_name": "Consiliul Local al Comunei Râșca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--rasca-64-2025",
+"path": "local/suceava/rasca/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râșca nr. 64/2025 privind aprobarea includerii în domeniul privat a unor suprafețe de teren situate în intravilanul și extravilanul satelor Râșca și Jahalia, comuna Râșca, județul Suceava",
+"short": "HCL Râșca nr. 64/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-02",
+"latest": "2026-02-02",
+"portal": "https://emol.ro/rasca-sv/registru-hcl/250780",
+"council": "suceava/rasca",
+"council_name": "Consiliul Local al Comunei Râșca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--rasca-65-2025",
+"path": "local/suceava/rasca/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râșca nr. 65/2025 privind aprobarea modificării organigramei și a statului de funcții pentru aparatul de specialitate al primarului comunei Râșca, județul Suceava prin înfiinţarea unui post de consilier școlar pe perioadă determinată, post necesar pentru implementarea proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+"short": "HCL Râșca nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-02",
+"latest": "2026-02-02",
+"portal": "https://emol.ro/rasca-sv/registru-hcl/250781",
+"council": "suceava/rasca",
+"council_name": "Consiliul Local al Comunei Râșca",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

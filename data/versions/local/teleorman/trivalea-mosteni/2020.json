@@ -138,6 +138,36 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--trivalea-mosteni-37-2020",
+   "path": "local/teleorman/trivalea-mosteni/2020/37",
+   "short": "HCL Trivalea-Moșteni nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 37/2020 privind desemnarea a 2 reprezentanti ai Consiliului local Trivalea-Mosteni pentru a face parte din Consiliul de administratie al Scolii Gimnaziale- comuna Trivalea-Mosteni",
+   "url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/19708",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/19708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--trivalea-mosteni-38-2020",
+   "path": "local/teleorman/trivalea-mosteni/2020/38",
+   "short": "HCL Trivalea-Moșteni nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 38/2020 privind desemnarea unui reprezentant al Consiliului local pentru a face parte din Comisia pentru evaluarea si asigurarea calitatii din cadrul Scolii Gimnaziale- comuna Trivalea-Mosteni",
+   "url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/19709",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/19709",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--trivalea-mosteni-39-2020",
    "path": "local/teleorman/trivalea-mosteni/2020/39",
    "short": "HCL Trivalea-Moșteni nr. 39/2020",
@@ -148,6 +178,21 @@
      "from": "2020-11-23",
      "units": 1,
      "source_url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/19710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--trivalea-mosteni-40-2020",
+   "path": "local/teleorman/trivalea-mosteni/2020/40",
+   "short": "HCL Trivalea-Moșteni nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Trivalea-Moșteni nr. 40/2020 privind stabilirea indemnizatiilor consilierilor locali din cadrul Consiliului local al comunei Trivalea-Mosteni, judetul Teleorman",
+   "url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/19711",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/trivalea-mosteni-tr/registru-hcl/19711",
      "sha256": null
     }
    ]

@@ -91,6 +91,50 @@
 }
 },
 {
+"slug": "hcl-suceava--saru-dornei-39-2021",
+"path": "local/suceava/saru-dornei/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 39/2021 privind aprobarea trecerii din domeniul privat al Comunei Șaru Dornei în proprietatea Cetina Călimaniului Societate Cooperativă, a suprafeței de 750 m.p. teren aferent Complexului Comercial Neagra Șarului",
+"short": "HCL Șaru Dornei nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/sarudornei-sv/registru-hcl/51884",
+"council": "suceava/saru-dornei",
+"council_name": "Consiliul Local al Comunei Șaru Dornei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--saru-dornei-42-2021",
+"path": "local/suceava/saru-dornei/2021/42",
+"kind": "local",
+"year": "2021",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 42/2021 privind desemnarea unui reprezentant al consiliului local pentru constituirea comisiei de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcției de director al Școlii Gimnaziale Neagra Șarului",
+"short": "HCL Șaru Dornei nr. 42/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/sarudornei-sv/registru-hcl/51886",
+"council": "suceava/saru-dornei",
+"council_name": "Consiliul Local al Comunei Șaru Dornei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--saru-dornei-43-2021",
 "path": "local/suceava/saru-dornei/2021/43",
 "kind": "local",
@@ -201,6 +245,50 @@
 }
 },
 {
+"slug": "hcl-suceava--saru-dornei-48-2021",
+"path": "local/suceava/saru-dornei/2021/48",
+"kind": "local",
+"year": "2021",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 48/2021 privind alegerea președintelui de ședință al Consiliului Local Șaru Dornei",
+"short": "HCL Șaru Dornei nr. 48/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/sarudornei-sv/registru-hcl/63292",
+"council": "suceava/saru-dornei",
+"council_name": "Consiliul Local al Comunei Șaru Dornei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--saru-dornei-49-2021",
+"path": "local/suceava/saru-dornei/2021/49",
+"kind": "local",
+"year": "2021",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 49/2021 privind constatarea încetării de drept a unui mandat de consilier local",
+"short": "HCL Șaru Dornei nr. 49/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/sarudornei-sv/registru-hcl/63293",
+"council": "suceava/saru-dornei",
+"council_name": "Consiliul Local al Comunei Șaru Dornei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--saru-dornei-51-2021",
 "path": "local/suceava/saru-dornei/2021/51",
 "kind": "local",
@@ -308,6 +396,51 @@
 "council_name": "Consiliul Local al Comunei Șaru Dornei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--saru-dornei-56-2021",
+"path": "local/suceava/saru-dornei/2021/56",
+"kind": "local",
+"year": "2021",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 56/2021",
+"short": "HCL Șaru Dornei nr. 56/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/sarudornei-sv/registru-hcl/63299",
+"council": "suceava/saru-dornei",
+"council_name": "Consiliul Local al Comunei Șaru Dornei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--saru-dornei-57-2021",
+"path": "local/suceava/saru-dornei/2021/57",
+"kind": "local",
+"year": "2021",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 57/2021 privind aprobarea acordării cu titlu gratuit, a cantităţii de 30 mc. lemn de lucru, la drum auto, din pădurea proprietate a comunei Şaru Dornei, pentru familia Buzilă-Grigoraș Nicolae-Steliu, în scopul refacerii imobilului distrus de incendiu",
+"short": "HCL Șaru Dornei nr. 57/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/sarudornei-sv/registru-hcl/63300",
+"council": "suceava/saru-dornei",
+"council_name": "Consiliul Local al Comunei Șaru Dornei",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

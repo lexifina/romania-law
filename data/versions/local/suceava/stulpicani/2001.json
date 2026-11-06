@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/stulpicani/2001",
+ "acts": [
+  {
+   "slug": "hcl-suceava--stulpicani-1-2001",
+   "path": "local/suceava/stulpicani/2001/1",
+   "short": "HCL Stulpicani nr. 1/2001",
+   "title": "Hotărârea Consiliului Local al Comunei Stulpicani nr. 1/2001",
+   "url": "https://comuna-stulpicani.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2001-12-02",
+     "units": 1,
+     "source_url": "https://comuna-stulpicani.ro/wp-content/uploads/2026/02/hcl-1-2-sedinta-12.01.2026-1.pdf",
+     "sha256": "d680e7a742026436cfeb4f1394d8237c45f48e6df43cc46045f6b5a5fdf4bbc9"
+    }
+   ]
+  }
+ ]
+}

@@ -48,6 +48,66 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--islaz-29-2020",
+   "path": "local/teleorman/islaz/2020/29",
+   "short": "HCL Islaz nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 29/2020 privind rectificarea bugetului local de venituri si cheltuieli al comunei Islaz pe anul 2020",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/10850",
+   "versions": [
+    {
+     "from": "2020-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/10850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-30-2020",
+   "path": "local/teleorman/islaz/2020/30",
+   "short": "HCL Islaz nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 30/2020 privind rectificarea bugetului local de venituri si cheltuieli al comunei Islaz pe anul 2020",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/10851",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/10851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-31-2020",
+   "path": "local/teleorman/islaz/2020/31",
+   "short": "HCL Islaz nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 31/2020 privind aprobarea contului de execuţie bugetară pe cele două secţiuni: funcţionare şi dezvoltare precum şi situaţia financiară la 30.06.2020",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/10852",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/10852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-32-2020",
+   "path": "local/teleorman/islaz/2020/32",
+   "short": "HCL Islaz nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 32/2020 privind rectificarea bugetului local de venituri si cheltuieli al comunei Islaz pe anul 2020",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/10853",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/10853",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--islaz-33-2020",
    "path": "local/teleorman/islaz/2020/33",
    "short": "HCL Islaz nr. 33/2020",
@@ -118,6 +178,21 @@
      "from": "2020-11-26",
      "units": 1,
      "source_url": "https://emol.ro/islaz-tr/registru-hcl/14031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-38-2020",
+   "path": "local/teleorman/islaz/2020/38",
+   "short": "HCL Islaz nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 38/2020 privind desemnarea reprezentanţilor Consiliului Local al comunei Islaz în Consiliul de Administraţie al unităţilor de învăţământ preuniversitar de stat din comuna Islaz pentru anul şcolar 2020 – 2021",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/14032",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/14032",
      "sha256": null
     }
    ]

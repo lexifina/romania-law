@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/suceava/todiresti/2025",
+"acts": [
+{
+"slug": "hcl-suceava--todiresti-11-2025",
+"path": "local/suceava/todiresti/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Todirești nr. 11/2025",
+"short": "HCL Todirești nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-24",
+"latest": "2025-02-24",
+"portal": "https://todiresti-suceava.ro/hotarari-2025/",
+"council": "suceava/todiresti",
+"council_name": "Consiliul Local al Comunei Todirești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--todiresti-18-2025",
+"path": "local/suceava/todiresti/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Todirești nr. 18/2025 privind revocare HCL 8 din 17.01.2025- vânzare terenuri",
+"short": "HCL Todirești nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://todiresti-suceava.ro/hotarari-2025/",
+"council": "suceava/todiresti",
+"council_name": "Consiliul Local al Comunei Todirești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--todiresti-19-2025",
+"path": "local/suceava/todiresti/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Todirești nr. 19/2025",
+"short": "HCL Todirești nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-17",
+"latest": "2025-03-17",
+"portal": "https://todiresti-suceava.ro/hotarari-2025/",
+"council": "suceava/todiresti",
+"council_name": "Consiliul Local al Comunei Todirești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--todiresti-20-2025",
+"path": "local/suceava/todiresti/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Todirești nr. 20/2025",
+"short": "HCL Todirești nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-04",
+"latest": "2025-04-04",
+"portal": "https://todiresti-suceava.ro/hotarari-2025/",
+"council": "suceava/todiresti",
+"council_name": "Consiliul Local al Comunei Todirești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--todiresti-70-2025",
+"path": "local/suceava/todiresti/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Todirești nr. 70/2025",
+"short": "HCL Todirești nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-28",
+"latest": "2025-11-28",
+"portal": "https://todiresti-suceava.ro/wp-content/uploads/2025/12/HCL-nr.-70-din-28.11.2025-modificare-organigrama.pdf",
+"council": "suceava/todiresti",
+"council_name": "Consiliul Local al Comunei Todirești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--todiresti-75-2025",
+"path": "local/suceava/todiresti/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Todirești nr. 75/2025",
+"short": "HCL Todirești nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://todiresti-suceava.ro/hotarari-2025/",
+"council": "suceava/todiresti",
+"council_name": "Consiliul Local al Comunei Todirești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

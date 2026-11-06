@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/putna/2019",
+"acts": [
+{
+"slug": "hcl-suceava--putna-78-2019",
+"path": "local/suceava/putna/2019/78",
+"kind": "local",
+"year": "2019",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Putna nr. 78/2019",
+"short": "HCL Putna nr. 78/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-10-31",
+"latest": "2019-10-31",
+"portal": "https://primariaputna.ro/consiliul-local/",
+"council": "suceava/putna",
+"council_name": "Consiliul Local al Comunei Putna",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

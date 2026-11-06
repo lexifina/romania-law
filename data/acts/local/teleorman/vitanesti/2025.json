@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--vitanesti-28-2025",
+"path": "local/teleorman/vitanesti/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 28/2025 privind aprobarea închirierii prin atribuire directă a suprafeței totale de 739 ha teren extravilan islaz, proprietate privată a comunei Vitănești",
+"short": "HCL Vitănești nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/vitanesti-tr/registru-hcl/224259",
+"council": "teleorman/vitanesti",
+"council_name": "Consiliul Local al Comunei Vitănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--vitanesti-29-2025",
 "path": "local/teleorman/vitanesti/2025/29",
 "kind": "local",
@@ -44,6 +66,28 @@
 "council_name": "Consiliul Local al Comunei Vitănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--vitanesti-30-2025",
+"path": "local/teleorman/vitanesti/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 30/2025 privind desemnarea reprezentantului Consiliului Local care va face parte din Consiliul de Administrație al Școlii Gimnaziale Vitănești pentru anul școlar 2025-2026",
+"short": "HCL Vitănești nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-03",
+"latest": "2025-12-03",
+"portal": "https://emol.ro/vitanesti-tr/registru-hcl/238961",
+"council": "teleorman/vitanesti",
+"council_name": "Consiliul Local al Comunei Vitănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -69,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--vitanesti-32-2025",
+"path": "local/teleorman/vitanesti/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 32/2025 privind aprobarea componenței echipei mobile pentru intervenția de urgență în cazurile de violență domestică, constituită la nivelul UAT comuna Vitănești, județul Teleorman",
+"short": "HCL Vitănești nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-03",
+"latest": "2025-12-03",
+"portal": "https://emol.ro/vitanesti-tr/registru-hcl/238972",
+"council": "teleorman/vitanesti",
+"council_name": "Consiliul Local al Comunei Vitănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--vitanesti-33-2025",
 "path": "local/teleorman/vitanesti/2025/33",
 "kind": "local",
@@ -88,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Vitănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--vitanesti-34-2025",
+"path": "local/teleorman/vitanesti/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 34/2025 privind alegerea președintelui de ședință, pentru o perioadă de trei luni",
+"short": "HCL Vitănești nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-03",
+"latest": "2025-12-03",
+"portal": "https://emol.ro/vitanesti-tr/registru-hcl/238977",
+"council": "teleorman/vitanesti",
+"council_name": "Consiliul Local al Comunei Vitănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -286,6 +374,28 @@
 "council_name": "Consiliul Local al Comunei Vitănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--vitanesti-45-2025",
+"path": "local/teleorman/vitanesti/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 45/2025 privind alegerea președintelui de ședință, pentru o perioadă de trei luni",
+"short": "HCL Vitănești nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/vitanesti-tr/registru-hcl/245819",
+"council": "teleorman/vitanesti",
+"council_name": "Consiliul Local al Comunei Vitănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

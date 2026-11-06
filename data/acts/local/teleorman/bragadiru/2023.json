@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--bragadiru-11-2023",
+"path": "local/teleorman/bragadiru/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 11/2023 privind înfiinţarea Serviciului Voluntar pentru Situaţii de Urgenta de TIP V2 al comunei Bragadiru, județul Teleorman",
+"short": "HCL Bragadiru nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-24",
+"latest": "2023-02-24",
+"portal": "https://emol.ro/bragadiru-tr/registru-hcl/119491",
+"council": "teleorman/bragadiru",
+"council_name": "Consiliul Local al Comunei Bragadiru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--bragadiru-12-2023",
 "path": "local/teleorman/bragadiru/2023/12",
 "kind": "local",
@@ -66,6 +88,50 @@
 "council_name": "Consiliul Local al Comunei Bragadiru",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--bragadiru-14-2023",
+"path": "local/teleorman/bragadiru/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 14/2023 privind alegerea preşedintelui de şedinţă pe o perioadă de 3 luni",
+"short": "HCL Bragadiru nr. 14/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-24",
+"latest": "2023-02-24",
+"portal": "https://emol.ro/bragadiru-tr/registru-hcl/119494",
+"council": "teleorman/bragadiru",
+"council_name": "Consiliul Local al Comunei Bragadiru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--bragadiru-15-2023",
+"path": "local/teleorman/bragadiru/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 15/2023 privind aprobarea proiectului „ DOTAREA INVATAMANTULUI PREUNIVERSITAR DIN COMUNA BRAGADIRU, JUDETUL TELEORMAN” a cheltuielilor legate de proiect si depunerea acestuia in cadrul apelului de proiecte din Planul Național de Redresare și Reziliență (PNRR), COMPONENTA C15 — Educatie",
+"short": "HCL Bragadiru nr. 15/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-21",
+"latest": "2023-03-21",
+"portal": "https://emol.ro/bragadiru-tr/registru-hcl/119496",
+"council": "teleorman/bragadiru",
+"council_name": "Consiliul Local al Comunei Bragadiru",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +179,50 @@
 }
 },
 {
+"slug": "hcl-teleorman--bragadiru-18-2023",
+"path": "local/teleorman/bragadiru/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 18/2023 privind aprobarea Programului de activități pentru sărbătorirea Zilei comunei Bragadiru, județul Teleorman-21 mai 2023",
+"short": "HCL Bragadiru nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-21",
+"latest": "2023-03-21",
+"portal": "https://emol.ro/bragadiru-tr/registru-hcl/119499",
+"council": "teleorman/bragadiru",
+"council_name": "Consiliul Local al Comunei Bragadiru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--bragadiru-19-2023",
+"path": "local/teleorman/bragadiru/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 19/2023 privind aprobarea decontarii cheltuielilor de transport pentru cadrele didactice care nu dispun de locuinţă pe teritoriul comunei Bragadiru pe luna februarie 2023",
+"short": "HCL Bragadiru nr. 19/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-21",
+"latest": "2023-03-21",
+"portal": "https://emol.ro/bragadiru-tr/registru-hcl/119500",
+"council": "teleorman/bragadiru",
+"council_name": "Consiliul Local al Comunei Bragadiru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--bragadiru-20-2023",
 "path": "local/teleorman/bragadiru/2023/20",
 "kind": "local",
@@ -135,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--bragadiru-21-2023",
+"path": "local/teleorman/bragadiru/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 21/2023 privind aprobarea decontarii cheltuielilor de transport pentru cadrele didactice care nu dispun de locuinţă pe teritoriul comunei Bragadiru, pentru luna MARTIE 2023",
+"short": "HCL Bragadiru nr. 21/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-28",
+"latest": "2023-04-28",
+"portal": "https://emol.ro/bragadiru-tr/registru-hcl/119502",
+"council": "teleorman/bragadiru",
+"council_name": "Consiliul Local al Comunei Bragadiru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--bragadiru-22-2023",
 "path": "local/teleorman/bragadiru/2023/22",
 "kind": "local",
@@ -154,6 +286,28 @@
 "council_name": "Consiliul Local al Comunei Bragadiru",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--bragadiru-23-2023",
+"path": "local/teleorman/bragadiru/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 23/2023 privind alegerea preşedintelui de şedinţă pe o perioadă de 3 luni",
+"short": "HCL Bragadiru nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-30",
+"latest": "2023-05-30",
+"portal": "https://emol.ro/bragadiru-tr/registru-hcl/119515",
+"council": "teleorman/bragadiru",
+"council_name": "Consiliul Local al Comunei Bragadiru",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -223,6 +377,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--bragadiru-27-2023",
+"path": "local/teleorman/bragadiru/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 27/2023 privind aprobarea mentinerii calitatii de membru în cadrul Asociației Grupul de Acțiune Locală Dunărea de Sud a Comunei Bragadiru, județul Teleorman",
+"short": "HCL Bragadiru nr. 27/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-30",
+"latest": "2023-05-30",
+"portal": "https://emol.ro/bragadiru-tr/registru-hcl/119519",
+"council": "teleorman/bragadiru",
+"council_name": "Consiliul Local al Comunei Bragadiru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--bragadiru-28-2023",
 "path": "local/teleorman/bragadiru/2023/28",
 "kind": "local",
@@ -242,6 +418,28 @@
 "council_name": "Consiliul Local al Comunei Bragadiru",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--bragadiru-29-2023",
+"path": "local/teleorman/bragadiru/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 29/2023 privind aprobarea decontarii cheltuielilor de transport pentru cadrele didactice care nu dispun de locuinţă pe teritoriul comunei Bragadiru, pentru luna APRILIE 2023",
+"short": "HCL Bragadiru nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-30",
+"latest": "2023-05-30",
+"portal": "https://emol.ro/bragadiru-tr/registru-hcl/119521",
+"council": "teleorman/bragadiru",
+"council_name": "Consiliul Local al Comunei Bragadiru",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

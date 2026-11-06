@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--talpa-61-2020",
+   "path": "local/teleorman/talpa/2020/61",
+   "short": "HCL Talpa nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 61/2020 privind desemnarea reprezentanților Consiliului Local al Comunei Talpa, județul Teleorman, în Consiliul de Administrație și în Comisia de Evaluare și Asigurare a Calității în cadrul Școlii Gimnaziale Talpa",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/21925",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/21925",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--talpa-62-2020",
    "path": "local/teleorman/talpa/2020/62",
    "short": "HCL Talpa nr. 62/2020",

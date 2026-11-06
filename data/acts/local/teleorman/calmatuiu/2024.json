@@ -3,6 +3,138 @@
 "shard": "local/teleorman/calmatuiu/2024",
 "acts": [
 {
+"slug": "hcl-teleorman--calmatuiu-20-2024",
+"path": "local/teleorman/calmatuiu/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 20/2024 privind încetarea contractului de vânzare a energiei electrice produse de Parcul Fotovoltaic din satul Nicolae Bălcescu , cu nr. UAT03C/08.03.2019 și a contractului de furnizare (cumpărare) a energiei necesare UAT Călmățuiu cu nr. CLUAT02/08.03.2019 încheiat cu furnizorul RES ENERGY SOLUTIONS SA",
+"short": "HCL Călmățuiu nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/calmatuiu-tr/registru-hcl/178775",
+"council": "teleorman/calmatuiu",
+"council_name": "Consiliul Local al Comunei Călmățuiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--calmatuiu-21-2024",
+"path": "local/teleorman/calmatuiu/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 21/2024 privind aprobarea încheierii contractului de vânzare a energiei electrice produse de Parcul Fotovoltaic din satul Nicolae Bălcescu și a contractului de furnizare (cumpărare) a energiei necesare Primăriei Călmățuiu cu furnizorul MET România Energy SA",
+"short": "HCL Călmățuiu nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/calmatuiu-tr/registru-hcl/178776",
+"council": "teleorman/calmatuiu",
+"council_name": "Consiliul Local al Comunei Călmățuiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--calmatuiu-22-2024",
+"path": "local/teleorman/calmatuiu/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 22/2024 privind acordarea unor facilități fiscale în conformitate cu prevederile Ordonanței de Urgență nr. 107 din 06.09.2024 și aprobarea procedurii de acordare la nivelul UAT Călmățuiu",
+"short": "HCL Călmățuiu nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/calmatuiu-tr/registru-hcl/178777",
+"council": "teleorman/calmatuiu",
+"council_name": "Consiliul Local al Comunei Călmățuiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--calmatuiu-23-2024",
+"path": "local/teleorman/calmatuiu/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 23/2024 privind alegerea președintelui de ședință , care să conducă ședințele Consiliului Local , să semneze procesul verbal de ședință și hotărârile adoptate de acesta pentru următoarele trei luni",
+"short": "HCL Călmățuiu nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://emol.ro/calmatuiu-tr/registru-hcl/179328",
+"council": "teleorman/calmatuiu",
+"council_name": "Consiliul Local al Comunei Călmățuiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--calmatuiu-24-2024",
+"path": "local/teleorman/calmatuiu/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 24/2024 privind organizarea comisiilor pe domenii de specialitate ale Consiliului Local Călmățuiu , județul Teleorman",
+"short": "HCL Călmățuiu nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://emol.ro/calmatuiu-tr/registru-hcl/179329",
+"council": "teleorman/calmatuiu",
+"council_name": "Consiliul Local al Comunei Călmățuiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--calmatuiu-25-2024",
+"path": "local/teleorman/calmatuiu/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 25/2024 privind alegerea viceprimarului comunei Călmățuiu , județul Teleorman",
+"short": "HCL Călmățuiu nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://emol.ro/calmatuiu-tr/registru-hcl/179330",
+"council": "teleorman/calmatuiu",
+"council_name": "Consiliul Local al Comunei Călmățuiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--calmatuiu-26-2024",
 "path": "local/teleorman/calmatuiu/2024/26",
 "kind": "local",
@@ -92,6 +224,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--calmatuiu-30-2024",
+"path": "local/teleorman/calmatuiu/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 30/2024 privind atribuirea denumirii de MUZEUL SATULUI , imobilului situat în comuna Călmățuiu , județul Teleorman , Carte Funciară Nr. 20181 Călmățuiu",
+"short": "HCL Călmățuiu nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-14",
+"latest": "2025-01-14",
+"portal": "https://emol.ro/calmatuiu-tr/registru-hcl/186664",
+"council": "teleorman/calmatuiu",
+"council_name": "Consiliul Local al Comunei Călmățuiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--calmatuiu-31-2024",
 "path": "local/teleorman/calmatuiu/2024/31",
 "kind": "local",
@@ -114,6 +268,50 @@
 }
 },
 {
+"slug": "hcl-teleorman--calmatuiu-32-2024",
+"path": "local/teleorman/calmatuiu/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 32/2024 privind schimbarea destinației imobilului situat în comuna CĂLMĂȚUIU , județul TELEORMAN , din C1-Clădire primărie , în Centrul operativ SVSU și CSLU CĂLMĂȚUIU",
+"short": "HCL Călmățuiu nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-14",
+"latest": "2025-01-14",
+"portal": "https://emol.ro/calmatuiu-tr/registru-hcl/186666",
+"council": "teleorman/calmatuiu",
+"council_name": "Consiliul Local al Comunei Călmățuiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--calmatuiu-33-2024",
+"path": "local/teleorman/calmatuiu/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 33/2024 privind schimbarea destinației imobilului situat în comuna CĂLMĂȚUIU , județul TELEORMAN , din Clădiri Spații Administrativ Comerciale , sat Nicolae Bălcescu , în Centru de protecție socială",
+"short": "HCL Călmățuiu nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-14",
+"latest": "2025-01-14",
+"portal": "https://emol.ro/calmatuiu-tr/registru-hcl/186667",
+"council": "teleorman/calmatuiu",
+"council_name": "Consiliul Local al Comunei Călmățuiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--calmatuiu-34-2024",
 "path": "local/teleorman/calmatuiu/2024/34",
 "kind": "local",
@@ -133,6 +331,28 @@
 "council_name": "Consiliul Local al Comunei Călmățuiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--calmatuiu-35-2024",
+"path": "local/teleorman/calmatuiu/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 35/2024 privind participarea Comunei Călmățuiu , Județul Teleorman , la Programul național de consolidare a clădirilor cu risc seismic ridicat , pentru clădirile de interes și utilitate publică aflate în proprietatea UAT Comuna Călmățuiu",
+"short": "HCL Călmățuiu nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-14",
+"latest": "2025-01-14",
+"portal": "https://emol.ro/calmatuiu-tr/registru-hcl/186681",
+"council": "teleorman/calmatuiu",
+"council_name": "Consiliul Local al Comunei Călmățuiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

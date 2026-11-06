@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--tatarastii-de-jos-19-2025",
+   "path": "local/teleorman/tatarastii-de-jos/2025/19",
+   "short": "HCL Tătărăștii de Jos nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 19/2025 privind desemnarea reprezentaților Consiliului Local al Comunei Tătărăștii de Jos, județul Telorman în Consiliul de Administrație și Comisia pentru Evaluarea și Asigurarea Calității Educației ( CEAC) din cadrul Școlii Gimnaziale Tătărăștii de Jos, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/246649",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/246649",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--tatarastii-de-jos-20-2025",
    "path": "local/teleorman/tatarastii-de-jos/2025/20",
    "short": "HCL Tătărăștii de Jos nr. 20/2025",
@@ -183,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--tatarastii-de-jos-23-2025",
+   "path": "local/teleorman/tatarastii-de-jos/2025/23",
+   "short": "HCL Tătărăștii de Jos nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 23/2025",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/246792",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/246792",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--tatarastii-de-jos-24-2025",
    "path": "local/teleorman/tatarastii-de-jos/2025/24",
    "short": "HCL Tătărăștii de Jos nr. 24/2025",
@@ -223,6 +253,21 @@
      "from": "2025-12-31",
      "units": 1,
      "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/246795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-27-2025",
+   "path": "local/teleorman/tatarastii-de-jos/2025/27",
+   "short": "HCL Tătărăștii de Jos nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 27/2025",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/246798",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/246798",
      "sha256": null
     }
    ]

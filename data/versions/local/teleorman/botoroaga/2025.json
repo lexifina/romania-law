@@ -108,6 +108,36 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--botoroaga-63-2025",
+   "path": "local/teleorman/botoroaga/2025/63",
+   "short": "HCL Botoroaga nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 63/2025 privind aprobarea vânzării, prin licitație publică, a unui bun imobil, casa cu teren intravilan, situat în comuna Botoroaga, sat Călugăru, Județul Telorman, înscris în Cartea Funciară cu nr.29386",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247739",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-64-2025",
+   "path": "local/teleorman/botoroaga/2025/64",
+   "short": "HCL Botoroaga nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 64/2025 privind decontarea cheltuielilor aferente navetei cadrelor didactice, care își desfășoară activitatea în unitățile de învățământ, de pe raza comunei Botoroaga",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247742",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247742",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--botoroaga-65-2025",
    "path": "local/teleorman/botoroaga/2025/65",
    "short": "HCL Botoroaga nr. 65/2025",
@@ -183,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--botoroaga-70-2025",
+   "path": "local/teleorman/botoroaga/2025/70",
+   "short": "HCL Botoroaga nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 70/2025 privind aprobarea scoaterii din funcțiune și valorificarea prin vânzare a unui autoturism aparținând domeniului privat al comunei Botoroaga",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247748",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247748",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--botoroaga-71-2025",
    "path": "local/teleorman/botoroaga/2025/71",
    "short": "HCL Botoroaga nr. 71/2025",
@@ -223,6 +268,36 @@
      "from": "2025-12-23",
      "units": 1,
      "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-74-2025",
+   "path": "local/teleorman/botoroaga/2025/74",
+   "short": "HCL Botoroaga nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 74/2025 privind decontarea cheltuielilor aferente navetei cadrelor didactice, care își desfășoară activitatea în unitățile de învățământ, de pe raza comunei Botoroaga",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247759",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-75-2025",
+   "path": "local/teleorman/botoroaga/2025/75",
+   "short": "HCL Botoroaga nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 75/2025",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247764",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247764",
      "sha256": null
     }
    ]

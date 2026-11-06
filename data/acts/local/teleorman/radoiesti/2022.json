@@ -3,6 +3,28 @@
 "shard": "local/teleorman/radoiesti/2022",
 "acts": [
 {
+"slug": "hcl-teleorman--radoiesti-31-2022",
+"path": "local/teleorman/radoiesti/2022/31",
+"kind": "local",
+"year": "2022",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 31/2022 privind numirea reprezentantilor Consiliului Local Radoiesti , in Consiliul de Administratie al Scolii Gimnaziale Radoiesti pentru anul scolar 2022/2023",
+"short": "HCL Rădoiești nr. 31/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-11",
+"latest": "2022-10-11",
+"portal": "https://emol.ro/radoiesti-tr/registru-hcl/74304",
+"council": "teleorman/radoiesti",
+"council_name": "Consiliul Local al Comunei Rădoiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--radoiesti-32-2022",
 "path": "local/teleorman/radoiesti/2022/32",
 "kind": "local",

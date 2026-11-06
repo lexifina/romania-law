@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-teleorman--bragadiru-40-2021",
+"path": "local/teleorman/bragadiru/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 40/2021 privind decontarea cheltuielilor de transport pentru cadrele didactice",
+"short": "HCL Bragadiru nr. 40/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://emol.ro/bragadiru-tr/registru-hcl/43665",
+"council": "teleorman/bragadiru",
+"council_name": "Consiliul Local al Comunei Bragadiru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--bragadiru-41-2021",
 "path": "local/teleorman/bragadiru/2021/41",
 "kind": "local",
@@ -88,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Bragadiru",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--bragadiru-43-2021",
+"path": "local/teleorman/bragadiru/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 43/2021 privind alegerea președintelui de ședință pe o perioadă de 3 luni",
+"short": "HCL Bragadiru nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/bragadiru-tr/registru-hcl/48568",
+"council": "teleorman/bragadiru",
+"council_name": "Consiliul Local al Comunei Bragadiru",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -198,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Bragadiru",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--bragadiru-49-2021",
+"path": "local/teleorman/bragadiru/2021/49",
+"kind": "local",
+"year": "2021",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 49/2021 privind decontarea cheltuielilor de transport pentru cadrele didactice care nu dispun de locuință în comună - noiembrie 2021",
+"short": "HCL Bragadiru nr. 49/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://emol.ro/bragadiru-tr/registru-hcl/48574",
+"council": "teleorman/bragadiru",
+"council_name": "Consiliul Local al Comunei Bragadiru",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

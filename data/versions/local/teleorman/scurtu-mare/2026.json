@@ -228,6 +228,36 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--scurtu-mare-5-2026",
+   "path": "local/teleorman/scurtu-mare/2026/5",
+   "short": "HCL Scurtu Mare nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 5/2026 privind desemnarea unui reprezentant al Consiliului Local al Comunei Scurtu Mare în Consiliul de administratie al Școlii Gimnaziale Scurtu Mare, în anul școlar 2025-2026",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/264122",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/264122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-6-2026",
+   "path": "local/teleorman/scurtu-mare/2026/6",
+   "short": "HCL Scurtu Mare nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 6/2026 privind desemnarea a doi consilieri locali în cadrul Comisiei de Evaluare a performantelor profesionale ale Secretarului general al comunei Scurtu Mare pentru anul 2025",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/264123",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/264123",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--scurtu-mare-7-2026",
    "path": "local/teleorman/scurtu-mare/2026/7",
    "short": "HCL Scurtu Mare nr. 7/2026",

@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--lunca-13-2023",
+   "path": "local/teleorman/lunca/2023/13",
+   "short": "HCL Lunca nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca nr. 13/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--lunca-14-2023",
    "path": "local/teleorman/lunca/2023/14",
    "short": "HCL Lunca nr. 14/2023",
@@ -198,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--lunca-23-2023",
+   "path": "local/teleorman/lunca/2023/23",
+   "short": "HCL Lunca nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca nr. 23/2023 privind alegerea presedintelui de sedinta pentru urmatoarele 3 luni",
+   "url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#52280",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#52280",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--lunca-24-2023",
    "path": "local/teleorman/lunca/2023/24",
    "short": "HCL Lunca nr. 24/2023",
@@ -228,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--lunca-26-2023",
+   "path": "local/teleorman/lunca/2023/26",
+   "short": "HCL Lunca nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca nr. 26/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--lunca-27-2023",
    "path": "local/teleorman/lunca/2023/27",
    "short": "HCL Lunca nr. 27/2023",
@@ -243,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--lunca-28-2023",
+   "path": "local/teleorman/lunca/2023/28",
+   "short": "HCL Lunca nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca nr. 28/2023 Privind : declararea ca bun aparținând domeniului privat de interes local a unui teren din Comuna Lunca, județul Teleorman",
+   "url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#52313",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 1,
+     "source_url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#52313",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--lunca-29-2023",
    "path": "local/teleorman/lunca/2023/29",
    "short": "HCL Lunca nr. 29/2023",
@@ -253,6 +313,21 @@
      "from": "2023-05-17",
      "units": 1,
      "source_url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#52315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--lunca-3-2023",
+   "path": "local/teleorman/lunca/2023/3",
+   "short": "HCL Lunca nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca nr. 3/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-19",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]
@@ -408,6 +483,96 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--lunca-4-2023",
+   "path": "local/teleorman/lunca/2023/4",
+   "short": "HCL Lunca nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca nr. 4/2023 privind alegerea presedintelui de sedinta pentru urmatoarele 3 luni",
+   "url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#51069",
+   "versions": [
+    {
+     "from": "2023-01-19",
+     "units": 1,
+     "source_url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#51069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--lunca-40-2023",
+   "path": "local/teleorman/lunca/2023/40",
+   "short": "HCL Lunca nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca nr. 40/2023 privind alegerea presedintelui de sedinta pentru urmatoarele 3 luni",
+   "url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#53956",
+   "versions": [
+    {
+     "from": "2023-07-12",
+     "units": 1,
+     "source_url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#53956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--lunca-41-2023",
+   "path": "local/teleorman/lunca/2023/41",
+   "short": "HCL Lunca nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca nr. 41/2023 Privind: analiza stadiului de inscriere a datelor in registrul agricol , pentru anul 2023 si stabilirea unor măsuri pentru eficientizarea acestei activități",
+   "url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#57082",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#57082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--lunca-42-2023",
+   "path": "local/teleorman/lunca/2023/42",
+   "short": "HCL Lunca nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca nr. 42/2023 Privind: aprobarea organigramei şi a statului de funcţii ale aparatului de specialitate al primarului comunei Lunca , judeţul Teleorman şi ale instituţiilor din subordinea Consiliului local al comunei Lunca , judeţul Teleorman",
+   "url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#61737",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "units": 1,
+     "source_url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#61737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--lunca-43-2023",
+   "path": "local/teleorman/lunca/2023/43",
+   "short": "HCL Lunca nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca nr. 43/2023 Privind: aprobarea solicitarii prelungirii pana la data de 18.06.2024 a Scrisorii de garantie de la FNGCIMM SA IFN nr.16/07.03.2018 in suma de 2.266.776,60 lei in vederea garantarii in procent de 100% a obligatiilor de plata a avansului de 2.266.776,60 lei din fondurile nerambursabile pentru implementarea proiectului “Infiintare retea de canalizare menajera si statie de epurare in comuna Lunca,sat.Lunca,judetul Teleorman” com.Lunca, jud.Teleorman, in baza contractului de finantare nerambursabila nr. C0720AN00011733600202/18.12.2017, cu modificarile si completarile ulterioare, in favoarea Agentiei pentru Finantarea Investitiilor Rurale",
+   "url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#61738",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#61738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--lunca-44-2023",
+   "path": "local/teleorman/lunca/2023/44",
+   "short": "HCL Lunca nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca nr. 44/2023 Privind : desemnarea a doi reprezentanti ai Consiliului local al comunei Lunca în cadrul Consiliului de administraţie al Şcolii Gimnaziale nr.1 Lunca",
+   "url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#61742",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#61742",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--lunca-45-2023",
    "path": "local/teleorman/lunca/2023/45",
    "short": "HCL Lunca nr. 45/2023",
@@ -418,6 +583,36 @@
      "from": "2023-09-28",
      "units": 1,
      "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--lunca-46-2023",
+   "path": "local/teleorman/lunca/2023/46",
+   "short": "HCL Lunca nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca nr. 46/2023 Privind : declararea ca bun aparținând domeniului privat de interes local a unui teren din Comuna Lunca, județul Teleorman",
+   "url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#61744",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#61744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--lunca-47-2023",
+   "path": "local/teleorman/lunca/2023/47",
+   "short": "HCL Lunca nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca nr. 47/2023 Privind:desemnarea reprezentantului legal al Comunei Lunca in cadrul Asociaţiei de Dezvoltare Intercomunitară \"VALEA SIIULUI\"",
+   "url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#61745",
+   "versions": [
+    {
+     "from": "2023-10-11",
+     "units": 1,
+     "source_url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#61745",
      "sha256": null
     }
    ]
@@ -448,6 +643,51 @@
      "from": "2023-10-25",
      "units": 1,
      "source_url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#61753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--lunca-5-2023",
+   "path": "local/teleorman/lunca/2023/5",
+   "short": "HCL Lunca nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca nr. 5/2023 Privind: actualizarea comisiilor de specialitate ale Consiliului local al comunei LUNCA, județul Teleorman",
+   "url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#51076",
+   "versions": [
+    {
+     "from": "2023-01-19",
+     "units": 1,
+     "source_url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#51076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--lunca-50-2023",
+   "path": "local/teleorman/lunca/2023/50",
+   "short": "HCL Lunca nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca nr. 50/2023 Privind: angajarea unui avocat care să reprezite interesele Comunei Lunca în dosarul nr. 3348/329/2023",
+   "url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#61755",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#61755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--lunca-51-2023",
+   "path": "local/teleorman/lunca/2023/51",
+   "short": "HCL Lunca nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca nr. 51/2023 privind alegerea presedintelui de sedinta pentru urmatoarele 3 luni",
+   "url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#61756",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#61756",
      "sha256": null
     }
    ]
