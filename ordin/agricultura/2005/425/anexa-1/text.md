@@ -1,50 +1,50 @@
 # Anexa
 LISTĂ CU GRADATORI AUTORIZAȚI
 Nr. crt. Nume Prenume CNP
-1. Albulescu Rodica 2551012284361
-2. Alistar Octavian 1541125370019
-3. Ardeleanu Mihai 1520525370016
-4. Avram Marioara 2710423092245
-5. Balog Katalin 2731124311811
-6. Bunea Corneliu 1590109345382
-7. Butar Diana-Lăcrămioara 2780730020035
-8. Ceaușu Petre 1550305354744
-9. Ciuchilan Elena 2680420373468
-10. Codreanu Adina 2770716370016
-11. Constantin Maria 2591019523126
-12. Cumpănaș Magdalena 2590416024497
-13. Damoc Alexandru 1611126174898
-14. Dăscăleanu Felicica 2591110354736
-15. Draginov Francisc 1511102020074
-16. Drienovski Kristina-Jana 2860522020089
-17. Drienovski Ioan-Ștefan 1591225024491
-18. Drienovsky Mihai 1641024024497
-19. Felea Daniela 2640413354748
-20. Iliescu Florea 1520114340011
-21. Lascu Carmen-Mihaela 2760104372254
-22. Lespezianu Mihaela 2711106374093
-23. Lilea Iulica 2700301520042
-24. Mateaș Mihai-Gabriel 1731214353941
-25. Mihalache Octav 1510319040029
-26. Mihuț Ștefan-Iaroslav 1770418024489
-27. Mihuț Dan-Cristian 1800522024480
-28. Minea Felicia-Maria 2710101311841
-29. Mocanu Vochița 2671209090016
-30. Morafcic Violeta-Iuliana 2680705024842
-31. Morariu Violeta-Otelia 2640311354773
-32. Nagy Iuhasz 1680125024487
-33. Obreja Rodica 2580214370018
-34. Pascal Daniela 2690218370048
-35. Pașcanu Ionica 2540304370056
-36. Paușan Alexă 1640205312965
-37. Pîrțac Monica 2810226374579
-38. Porubszki Gheorghe-Teodor 1680107024481
-39. Prăjica Toader 1710713372256
-40. Răducu Florența 2611112090036
-41. Sipko Eva 2610913312984
-42. Sorca Ionela-Angela 2641027354724
-43. Stoi Elena-Nadina 2760124354764
-44. Tornea Tiberiu-Alexandru 1811103090050
-45. Toth Gheorghe-Csaba 1580914020070
-46. Tudorică Jenica-Elena 2790612345381
-47. Vicol Valerica 2630603354741 ____________
+1. Albulescu Rodica [CNP omis]
+2. Alistar Octavian [CNP omis]
+3. Ardeleanu Mihai [CNP omis]
+4. Avram Marioara [CNP omis]
+5. Balog Katalin [CNP omis]
+6. Bunea Corneliu [CNP omis]
+7. Butar Diana-Lăcrămioara [CNP omis]
+8. Ceaușu Petre [CNP omis]
+9. Ciuchilan Elena [CNP omis]
+10. Codreanu Adina [CNP omis]
+11. Constantin Maria [CNP omis]
+12. Cumpănaș Magdalena [CNP omis]
+13. Damoc Alexandru [CNP omis]
+14. Dăscăleanu Felicica [CNP omis]
+15. Draginov Francisc [CNP omis]
+16. Drienovski Kristina-Jana [CNP omis]
+17. Drienovski Ioan-Ștefan [CNP omis]
+18. Drienovsky Mihai [CNP omis]
+19. Felea Daniela [CNP omis]
+20. Iliescu Florea [CNP omis]
+21. Lascu Carmen-Mihaela [CNP omis]
+22. Lespezianu Mihaela [CNP omis]
+23. Lilea Iulica [CNP omis]
+24. Mateaș Mihai-Gabriel [CNP omis]
+25. Mihalache Octav [CNP omis]
+26. Mihuț Ștefan-Iaroslav [CNP omis]
+27. Mihuț Dan-Cristian [CNP omis]
+28. Minea Felicia-Maria [CNP omis]
+29. Mocanu Vochița [CNP omis]
+30. Morafcic Violeta-Iuliana [CNP omis]
+31. Morariu Violeta-Otelia [CNP omis]
+32. Nagy Iuhasz [CNP omis]
+33. Obreja Rodica [CNP omis]
+34. Pascal Daniela [CNP omis]
+35. Pașcanu Ionica [CNP omis]
+36. Paușan Alexă [CNP omis]
+37. Pîrțac Monica [CNP omis]
+38. Porubszki Gheorghe-Teodor [CNP omis]
+39. Prăjica Toader [CNP omis]
+40. Răducu Florența [CNP omis]
+41. Sipko Eva [CNP omis]
+42. Sorca Ionela-Angela [CNP omis]
+43. Stoi Elena-Nadina [CNP omis]
+44. Tornea Tiberiu-Alexandru [CNP omis]
+45. Toth Gheorghe-Csaba [CNP omis]
+46. Tudorică Jenica-Elena [CNP omis]
+47. Vicol Valerica [CNP omis] ____________

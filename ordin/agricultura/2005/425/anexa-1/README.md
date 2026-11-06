@@ -1,4 +1,4 @@
-# Anexa nr. 1: LISTĂ CU GRADATORI AUTORIZAȚI Nr. crt. Nume Prenume CNP 1. Albulescu Rodica 2551012284361 2. Alistar Octavian 1541125370019 3. Ardeleanu Mihai 1520525370016 4. Avram Marioara 2710423092245 5. Balog Ka
+# Anexa nr. 1: LISTĂ CU GRADATORI AUTORIZAȚI Nr. crt. Nume Prenume CNP 1. Albulescu Rodica [CNP omis] 2. Alistar Octavian [CNP omis] 3. Ardeleanu Mihai [CNP omis] 4. Avram Marioara [CNP omis] 5. Balog Ka
 
 Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
 
