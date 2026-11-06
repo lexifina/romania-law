@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--moreni-173-2025",
+"path": "local/dambovita/moreni/2025/173",
+"kind": "local",
+"year": "2025",
+"number": "173",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 173/2025",
+"short": "HCL Moreni nr. 173/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-22",
+"latest": "2025-07-22",
+"portal": "https://primariamoreni.ro/wp-content/uploads/2025/10/HCL-nr.-173-din-data-de-22.07.2025.pdf",
+"council": "dambovita/moreni",
+"council_name": "Consiliul Local al Municipiului Moreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--moreni-200-2025",
 "path": "local/dambovita/moreni/2025/200",
 "kind": "local",
@@ -47,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--moreni-240-2025",
+"path": "local/dambovita/moreni/2025/240",
+"kind": "local",
+"year": "2025",
+"number": "240",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 240/2025",
+"short": "HCL Moreni nr. 240/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-23",
+"latest": "2025-10-23",
+"portal": "https://primariamoreni.ro/wp-content/uploads/2025/10/HCL-nr.-240-din-23.10.2025.pdf",
+"council": "dambovita/moreni",
+"council_name": "Consiliul Local al Municipiului Moreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--moreni-251-2025",
 "path": "local/dambovita/moreni/2025/251",
 "kind": "local",
@@ -62,6 +106,72 @@
 "from": "2025-11-25",
 "latest": "2025-11-25",
 "portal": "https://primariamoreni.ro/wp-content/uploads/2026/10/27-HCL-nr.251-din-25.11.2025-indicatori-SF-Amenajarea-de-zone-verzi-albastre.pdf",
+"council": "dambovita/moreni",
+"council_name": "Consiliul Local al Municipiului Moreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--moreni-265-2025",
+"path": "local/dambovita/moreni/2025/265",
+"kind": "local",
+"year": "2025",
+"number": "265",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 265/2025",
+"short": "HCL Moreni nr. 265/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-03",
+"latest": "2025-12-03",
+"portal": "https://primariamoreni.ro/wp-content/uploads/2026/01/Hotararea-nr.-265-din-03.12.2025.pdf",
+"council": "dambovita/moreni",
+"council_name": "Consiliul Local al Municipiului Moreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--moreni-292-2025",
+"path": "local/dambovita/moreni/2025/292",
+"kind": "local",
+"year": "2025",
+"number": "292",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 292/2025",
+"short": "HCL Moreni nr. 292/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://primariamoreni.ro/wp-content/uploads/2025/12/HCL-nr.-292-din-16.12.2025.pdf",
+"council": "dambovita/moreni",
+"council_name": "Consiliul Local al Municipiului Moreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--moreni-293-2025",
+"path": "local/dambovita/moreni/2025/293",
+"kind": "local",
+"year": "2025",
+"number": "293",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 293/2025",
+"short": "HCL Moreni nr. 293/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://primariamoreni.ro/wp-content/uploads/2025/12/HCL-nr.-293-din-16.12.2025.pdf",
 "council": "dambovita/moreni",
 "council_name": "Consiliul Local al Municipiului Moreni",
 "flags": {

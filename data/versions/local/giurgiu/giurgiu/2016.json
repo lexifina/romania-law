@@ -196,6 +196,21 @@
      "sha256": "3ce3d9b5dd3c85ef296e109a821a0737e17ede152ea6de6a6a26a858fbd47d3f"
     }
    ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-369-2016",
+   "path": "local/giurgiu/giurgiu/2016/369",
+   "short": "HCL Giurgiu nr. 369/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 369/2016 privind aprobarea cererii de finanțare pentru obiectivul de investiție: ”Lucrări de intervenții pentru creștererea performanței energetice a blocurilor de locuinț, Municipiul Giurgiu, Ansamblul 3” și a cheltuielilor aferente inplementării proiectului, modificată prin Hotărârea Consiliului Local nr. 402/09.11.2016, modificată prin hotărârea Consiliului Local nr. 216 / 21.06.2017 Vizualizare",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2017-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/155/253-modificare-369.pdf",
+     "sha256": "e463a08cb0f41d5a1683fedd82a4111b171b217d2d95427b4b86d6b79e165642"
+    }
+   ]
   }
  ]
 }

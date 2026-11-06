@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/gorj/motru/2025",
+"acts": [
+{
+"slug": "hcl-gorj--motru-14-2025",
+"path": "local/gorj/motru/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Motru nr. 14/2025 privind aprobarea prelungirii ' prin act adifional , a contractului de inchiriere nr. 10077114.03.2023, avind ca obiect terenul ce apar(ine domeniului public al Municipiului Motru, in suprafa(I de 5 mp, din totalul de 14623 mp cu nr. cadastral 38031, situat in - str",
+"short": "HCL Motru nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-17",
+"latest": "2025-03-17",
+"portal": "https://primariamotru.ro/documente/hotararea-nr-14-adoptata-in-sedinta-extraordinara-de-indata-din-data-de-17-03-2025/",
+"council": "gorj/motru",
+"council_name": "Consiliul Local al Municipiului Motru",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

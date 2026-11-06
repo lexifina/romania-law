@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/moreni/2024",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--moreni-1-2024",
+   "path": "local/dambovita/moreni/2024/1",
+   "short": "HCL Moreni nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 1/2024",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2024/04/Hotarare-nr.-1H-din-23.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2024/04/Hotarare-nr.-1H-din-23.04.2024.pdf",
+     "sha256": "09684c91e99f97c5fba6cd95b6cd098b852ca699aeff631fb238a3c6ff15d906"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-2-2024",
+   "path": "local/dambovita/moreni/2024/2",
+   "short": "HCL Moreni nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 2/2024",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2024/04/Hotarare-nr.-2H-din-23.04.2024-1.pdf",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2024/04/Hotarare-nr.-2H-din-23.04.2024-1.pdf",
+     "sha256": "0e1d512ccf7efa3a2a7ef8dc7fcb7bcf327c6ec8a1caca8a6b7576556b745190"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-91-2024",
+   "path": "local/dambovita/moreni/2024/91",
+   "short": "HCL Moreni nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 91/2024",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2024/07/HCL-nr.-91-din-data-de-27.06.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2024/07/HCL-nr.-91-din-data-de-27.06.2024.pdf",
+     "sha256": "757c579fcd5c13d7c64dd82b3e43328dde4cf4ede9507a1a7d638d5b4c1255f6"
+    }
+   ]
+  }
+ ]
+}

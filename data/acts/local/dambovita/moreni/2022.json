@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/dambovita/moreni/2022",
+"acts": [
+{
+"slug": "hcl-dambovita--moreni-24-2022",
+"path": "local/dambovita/moreni/2022/24",
+"kind": "local",
+"year": "2022",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 24/2022",
+"short": "HCL Moreni nr. 24/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-11",
+"latest": "2022-02-11",
+"portal": "https://primariamoreni.ro/wp-content/uploads/2022/03/Moreni-HCL-24-din-11-februarie-2022.pdf",
+"council": "dambovita/moreni",
+"council_name": "Consiliul Local al Municipiului Moreni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

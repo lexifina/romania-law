@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--giurgiu-217-2014",
+   "path": "local/giurgiu/giurgiu/2014/217",
+   "short": "HCL Giurgiu nr. 217/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 217/2014 privind modificarea hotărârii Consiliului Local al Municipiului Giurgiu nr.217 din data de 09 iulie 2014 cu privire la acordarea unui aviz de principiu pentru fuzionarea unor societăți comerciale Vizualizare",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2014-07-09",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/195/362-modificare-217.pdf",
+     "sha256": "3a64779f2b6a429d47c860466237bd8caa1def151dc2c0e50f9cb726cd17d5a8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-249-2014",
    "path": "local/giurgiu/giurgiu/2014/249",
    "short": "HCL Giurgiu nr. 249/2014",

@@ -3,6 +3,21 @@
  "shard": "local/giurgiu/giurgiu/2017",
  "acts": [
   {
+   "slug": "hcl-giurgiu--giurgiu-12-2017",
+   "path": "local/giurgiu/giurgiu/2017/12",
+   "short": "HCL Giurgiu nr. 12/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 12/2017 pentru zona de colectare 1 C.M.I.D.Frătești, înregitrat cu Nr. 352 / 01.06.2016 la Asociația de Dezvoltare Intercomunitară ” Managementul Eficient pentru Județ Curat” și Nr. 328/ 01.06.2016 la S.C",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2017-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2017-05-24",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/155/266-act-aditional-12.pdf",
+     "sha256": "cd183cacff8ac74cb1027971f3c4876e4cb64b00c99687696ad5ea62ce72b510"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-20-2017",
    "path": "local/giurgiu/giurgiu/2017/20",
    "short": "HCL Giurgiu nr. 20/2017",
@@ -59,6 +74,21 @@
      "units": 1,
      "source_url": "https://primariagiurgiu.ro/storage/formidable/153/50-modificare-hcl-291.pdf",
      "sha256": "1f8379e5a59c15f668f9dff6f767fef899af72788c7554b8672143eb6635df80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-38-2017",
+   "path": "local/giurgiu/giurgiu/2017/38",
+   "short": "HCL Giurgiu nr. 38/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 38/2017 privind alocarea de sume din bugetul local pentru finanțarea unor programe sportive conform Ordonanței de Urgență a Guvernului nr. 38 din data de 18 mai 2017 Vizualizare",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2017-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2017-05-18",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/155/345-oug38.pdf",
+     "sha256": "384b79a286b7fd085dadc7ae7f995cbb5a9becb47242abdd21eb399e554d4b08"
     }
    ]
   },

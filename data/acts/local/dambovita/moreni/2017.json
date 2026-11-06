@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/dambovita/moreni/2017",
+"acts": [
+{
+"slug": "hcl-dambovita--moreni-55-2017",
+"path": "local/dambovita/moreni/2017/55",
+"kind": "local",
+"year": "2017",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 55/2017",
+"short": "HCL Moreni nr. 55/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-04-27",
+"latest": "2017-04-27",
+"portal": "https://primariamoreni.ro/wp-content/uploads/2019/12/A.Hotararea_nr._55_din_data_de_27.04.2017.pdf",
+"council": "dambovita/moreni",
+"council_name": "Consiliul Local al Municipiului Moreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--moreni-72-2017",
+"path": "local/dambovita/moreni/2017/72",
+"kind": "local",
+"year": "2017",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 72/2017",
+"short": "HCL Moreni nr. 72/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-05-31",
+"latest": "2017-05-31",
+"portal": "https://primariamoreni.ro/wp-content/uploads/2019/12/HCL_NR._72_DIN_DATA_DE_31.05.2017.pdf",
+"council": "dambovita/moreni",
+"council_name": "Consiliul Local al Municipiului Moreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--moreni-91-2017",
+"path": "local/dambovita/moreni/2017/91",
+"kind": "local",
+"year": "2017",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 91/2017",
+"short": "HCL Moreni nr. 91/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-07-28",
+"latest": "2017-07-28",
+"portal": "https://primariamoreni.ro/wp-content/uploads/2019/12/HCL_nr._91_din_data_de_28.07.2017.pdf",
+"council": "dambovita/moreni",
+"council_name": "Consiliul Local al Municipiului Moreni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

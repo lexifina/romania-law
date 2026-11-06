@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/motru/2017",
+ "acts": [
+  {
+   "slug": "hcl-gorj--motru-109-2017",
+   "path": "local/gorj/motru/2017/109",
+   "short": "HCL Motru nr. 109/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Motru nr. 109/2017",
+   "url": "https://primariamotru.ro/documente/hotarari-adoptate-in-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-05-30",
+     "units": 1,
+     "source_url": "https://primariamotru.ro/wp-content/uploads/2021/12/hotararea-109-sedinta-din-30.05.2017.zip",
+     "sha256": "b69daed4d063570d06664a9f68ab0d83a79c0480c55b412c161e3a5ebea83459"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--motru-114-2017",
+   "path": "local/gorj/motru/2017/114",
+   "short": "HCL Motru nr. 114/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Motru nr. 114/2017",
+   "url": "https://primariamotru.ro/documente/hotarari-adoptate-in-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-07-05",
+     "units": 1,
+     "source_url": "https://primariamotru.ro/wp-content/uploads/2021/12/Hotararea-114-sedinta-din-05.07.2017.zip",
+     "sha256": "c6b95b4653acc485d9ad5534334ac36de6f9542e408b0325a9cca35ede75767d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--motru-197-2017",
+   "path": "local/gorj/motru/2017/197",
+   "short": "HCL Motru nr. 197/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Motru nr. 197/2017",
+   "url": "https://primariamotru.ro/documente/hotarari-adoptate-in-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-12-05",
+     "units": 1,
+     "source_url": "https://primariamotru.ro/wp-content/uploads/2021/12/hotararea-nr.-197-sedinta-din-05.12.2017.zip",
+     "sha256": "ef1c447cfaf887bf33a6c728e6cbc40c9009dde3c1f14a9af47acbc5ff2aea50"
+    }
+   ]
+  }
+ ]
+}

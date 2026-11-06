@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/dambovita/moreni/2020",
+"acts": [
+{
+"slug": "hcl-dambovita--moreni-1-2020",
+"path": "local/dambovita/moreni/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 1/2020",
+"short": "HCL Moreni nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-11",
+"latest": "2020-08-11",
+"portal": "https://primariamoreni.ro/wp-content/uploads/2020/08/Hotarare-nr.-1-din-11.08.2020.pdf",
+"council": "dambovita/moreni",
+"council_name": "Consiliul Local al Municipiului Moreni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

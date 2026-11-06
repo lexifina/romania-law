@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/moreni/2017",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--moreni-55-2017",
+   "path": "local/dambovita/moreni/2017/55",
+   "short": "HCL Moreni nr. 55/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 55/2017",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2019/12/A.Hotararea_nr._55_din_data_de_27.04.2017.pdf",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2019/12/A.Hotararea_nr._55_din_data_de_27.04.2017.pdf",
+     "sha256": "82e8beffef5c2e685b675c58f93dfae9c3925e6ca87d2b32fd39fc59904e8a82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-72-2017",
+   "path": "local/dambovita/moreni/2017/72",
+   "short": "HCL Moreni nr. 72/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 72/2017",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2019/12/HCL_NR._72_DIN_DATA_DE_31.05.2017.pdf",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2019/12/HCL_NR._72_DIN_DATA_DE_31.05.2017.pdf",
+     "sha256": "63a2681df34db88b33140b12224eb45947f27f800c2a957ec8d3793529c5274b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-91-2017",
+   "path": "local/dambovita/moreni/2017/91",
+   "short": "HCL Moreni nr. 91/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 91/2017",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2019/12/HCL_nr._91_din_data_de_28.07.2017.pdf",
+   "versions": [
+    {
+     "from": "2017-07-28",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2019/12/HCL_nr._91_din_data_de_28.07.2017.pdf",
+     "sha256": "3661034dbbec344d0280f3d05eb875f368cc4484eaafe66516fe82d2cf60570e"
+    }
+   ]
+  }
+ ]
+}

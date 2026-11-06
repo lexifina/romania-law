@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/motru/2021",
+ "acts": [
+  {
+   "slug": "hcl-gorj--motru-181-2021",
+   "path": "local/gorj/motru/2021/181",
+   "short": "HCL Motru nr. 181/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Motru nr. 181/2021 pentru modificarea art.1 al HCL nr. 33/05.04.2021privind desemnarea reprezentan(ilor Municipiului Motru in Adunarea Generali a Ac{ionarilor la societatea comerciali U.A.T.A.A",
+   "url": "https://primariamotru.ro/wp-content/uploads/2022/02/HCL-nr.-181-din-29.12.2021-Modif.-art.1-la-HCL-nr.-33-din-05.04.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://primariamotru.ro/wp-content/uploads/2022/02/HCL-nr.-181-din-29.12.2021-Modif.-art.1-la-HCL-nr.-33-din-05.04.2021.pdf",
+     "sha256": "a09e85ee94efb015a47a9f3d69e097f4fd7a6b175847bb51d62bd646223eef50"
+    }
+   ]
+  }
+ ]
+}

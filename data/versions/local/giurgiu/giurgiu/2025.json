@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/giurgiu/2025",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--giurgiu-460-2025",
+   "path": "local/giurgiu/giurgiu/2025/460",
+   "short": "HCL Giurgiu nr. 460/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 460/2025",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/alte-documente/sedinte-de-consiliu-local/sedinte-consiliu/ordinea-de-zi-a-sedintelor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/199/Modificare-Disp.-460-din-03.09.2025-fs.pdf",
+     "sha256": "0ec0563d63bdd49572601c7e5a3589ce8ff5eceed53e93067a03df6ac9dc9e6a"
+    }
+   ]
+  }
+ ]
+}

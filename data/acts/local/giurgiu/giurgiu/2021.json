@@ -23,6 +23,28 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-giurgiu--giurgiu-416-2021",
+"path": "local/giurgiu/giurgiu/2021/416",
+"kind": "local",
+"year": "2021",
+"number": "416",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 416/2021 privind aprobarea alocării sumei de 500 lei din bugetul local, în vederea achiziţionării cadourilor de Crăciun, ce vor fi oferite salariaţilor din cadrul Direcției Administrare Active din Proiecte cu Finanțare Europeană, în beneficiul copiilor Vizualizare",
+"short": "HCL Giurgiu nr. 416/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2021-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

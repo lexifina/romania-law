@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/giurgiu/2025",
+"acts": [
+{
+"slug": "hcl-giurgiu--giurgiu-460-2025",
+"path": "local/giurgiu/giurgiu/2025/460",
+"kind": "local",
+"year": "2025",
+"number": "460",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 460/2025",
+"short": "HCL Giurgiu nr. 460/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-03",
+"latest": "2025-09-03",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/alte-documente/sedinte-de-consiliu-local/sedinte-consiliu/ordinea-de-zi-a-sedintelor-consiliului-local/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -3,6 +3,28 @@
 "shard": "local/galati/tecuci/2017",
 "acts": [
 {
+"slug": "hcl-galati--tecuci-75-2017",
+"path": "local/galati/tecuci/2017/75",
+"kind": "local",
+"year": "2017",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tecuci nr. 75/2017 privind validare mandat consilier Hulea Mitica",
+"short": "HCL Tecuci nr. 75/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-03-31",
+"latest": "2017-03-31",
+"portal": "https://primariatecuci.ro/wp-content/uploads/2017/04/31.03.2017-Hotararea-nr.75-privind-validare-mandat-consilier-Hulea-Mitica-1.pdf",
+"council": "galati/tecuci",
+"council_name": "Consiliul Local al Municipiului Tecuci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--tecuci-840-2017",
 "path": "local/galati/tecuci/2017/840",
 "kind": "local",

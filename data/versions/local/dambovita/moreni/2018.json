@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/moreni/2018",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--moreni-115-2018",
+   "path": "local/dambovita/moreni/2018/115",
+   "short": "HCL Moreni nr. 115/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 115/2018",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2019/12/HCL_nr_115_din_31.10.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2019/12/HCL_nr_115_din_31.10.2018.pdf",
+     "sha256": "eb1cca63014101d17a233c6511dc87396021c39b406e62befd811ff093f0a250"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-119-2018",
+   "path": "local/dambovita/moreni/2018/119",
+   "short": "HCL Moreni nr. 119/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 119/2018",
+   "url": "https://primariamoreni.ro/wp-content/uploads/static/files/Anunturi_2018/HCL_nr._119_din_data_de_29.11.2018/HCL_nr._119_din_data_de_29.11.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/static/files/Anunturi_2018/HCL_nr._119_din_data_de_29.11.2018/HCL_nr._119_din_data_de_29.11.2018.pdf",
+     "sha256": "833748492ae5a7b9427641ebfc181bd32351a0f89f6831f8431768c34b3aeeb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-120-2018",
+   "path": "local/dambovita/moreni/2018/120",
+   "short": "HCL Moreni nr. 120/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 120/2018",
+   "url": "https://primariamoreni.ro/wp-content/uploads/static/files/Anunturi_2019/HCL_nr._12029.11.2018/HCL_nr._120_din_data_de_29.11.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/static/files/Anunturi_2019/HCL_nr._12029.11.2018/HCL_nr._120_din_data_de_29.11.2018.pdf",
+     "sha256": "c2496e93256cd4d1deefb2afeeb48a9afdd239601ed4b37e137127af5f941719"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-127-2018",
+   "path": "local/dambovita/moreni/2018/127",
+   "short": "HCL Moreni nr. 127/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 127/2018",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2019/12/HCL_nr._127_din_data_de_29.11.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2019/12/HCL_nr._127_din_data_de_29.11.2018.pdf",
+     "sha256": "22661c621d7283a6f97332acef73bfa1ee4a65ccfb7c92db42bec798b868b68d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-14-2018",
+   "path": "local/dambovita/moreni/2018/14",
+   "short": "HCL Moreni nr. 14/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 14/2018",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2019/12/HCL_nr._14_din_data_de_19.02.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2019/12/HCL_nr._14_din_data_de_19.02.2018.pdf",
+     "sha256": "9c1b82ffd117856959365de70a1654227e68043d12191332c7000d472fe71d7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-142-2018",
+   "path": "local/dambovita/moreni/2018/142",
+   "short": "HCL Moreni nr. 142/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 142/2018",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2019/12/HCL_nr._142_din_data_de_18.12.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2019/12/HCL_nr._142_din_data_de_18.12.2018.pdf",
+     "sha256": "81e7d073c3f16c8e56afecc50878889515597ce1a8d668c89690e0bb2a983fac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-34-2018",
+   "path": "local/dambovita/moreni/2018/34",
+   "short": "HCL Moreni nr. 34/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 34/2018",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2019/12/Hotararea_nr._34_din_data_de_19.04.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2019/12/Hotararea_nr._34_din_data_de_19.04.2018.pdf",
+     "sha256": "ff8649332297ee1f80e89b129d35b9671f867634be544ef828ef0bbccc367516"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-8-2018",
+   "path": "local/dambovita/moreni/2018/8",
+   "short": "HCL Moreni nr. 8/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 8/2018",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2019/12/HCL_nr._8_din_data_de_31.01.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2019/12/HCL_nr._8_din_data_de_31.01.2018.pdf",
+     "sha256": "897efc8d404df045d716514b65698764df544185a9d7fe2fbc14b70d4df13cb8"
+    }
+   ]
+  }
+ ]
+}

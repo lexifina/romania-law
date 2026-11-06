@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/gorj/motru/2017",
+"acts": [
+{
+"slug": "hcl-gorj--motru-109-2017",
+"path": "local/gorj/motru/2017/109",
+"kind": "local",
+"year": "2017",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Motru nr. 109/2017",
+"short": "HCL Motru nr. 109/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-05-30",
+"latest": "2017-05-30",
+"portal": "https://primariamotru.ro/documente/hotarari-adoptate-in-anul-2017/",
+"council": "gorj/motru",
+"council_name": "Consiliul Local al Municipiului Motru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--motru-114-2017",
+"path": "local/gorj/motru/2017/114",
+"kind": "local",
+"year": "2017",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Motru nr. 114/2017",
+"short": "HCL Motru nr. 114/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-07-05",
+"latest": "2017-07-05",
+"portal": "https://primariamotru.ro/documente/hotarari-adoptate-in-anul-2017/",
+"council": "gorj/motru",
+"council_name": "Consiliul Local al Municipiului Motru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--motru-197-2017",
+"path": "local/gorj/motru/2017/197",
+"kind": "local",
+"year": "2017",
+"number": "197",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Motru nr. 197/2017",
+"short": "HCL Motru nr. 197/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-12-05",
+"latest": "2017-12-05",
+"portal": "https://primariamotru.ro/documente/hotarari-adoptate-in-anul-2017/",
+"council": "gorj/motru",
+"council_name": "Consiliul Local al Municipiului Motru",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -16,6 +16,36 @@
      "sha256": "010490372cfd886ad2fcb3259329ab0feac71bc0793e0b7295b3debcce15d712"
     }
    ]
+  },
+  {
+   "slug": "hcl-gorj--motru-2787-2026",
+   "path": "local/gorj/motru/2026/2787",
+   "short": "HCL Motru nr. 2787/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Motru nr. 2787/2026",
+   "url": "https://primariamotru.ro/documente/lista-nr-2787-din-29-01-2026-a-debitorilor-persoane-juridice-care-inregistreaza-obligatii-fiscale-restante-precum-si-cuantumul-acestora/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://primariamotru.ro/wp-content/uploads/2026/01/Lista-nr.-2787-din-29.01.2026-a-debitorilor-persoane-juridice-care-inregistreaza-obligatii-fiscale-restante-precum-si-cuantumul-acestora.pdf",
+     "sha256": "4b3cbd20b10fd2494913a83310b77808b8e413a253e7294dababce9837c3fd5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--motru-2788-2026",
+   "path": "local/gorj/motru/2026/2788",
+   "short": "HCL Motru nr. 2788/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Motru nr. 2788/2026",
+   "url": "https://primariamotru.ro/documente/lista-nr-2788-din-29-01-2026-a-contribuabililor-persoane-juridice-care-nu-inregistreaza-obligatii-fiscale-la-bugetul-local/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://primariamotru.ro/wp-content/uploads/2026/01/Lista-nr.-2788-din-29.01.2026-a-contribuabililor-persoane-juridice-care-nu-inregistreaza-obligatii-fiscale-la-bugetul-local.pdf",
+     "sha256": "57fd9e91bf60fa0f333882ff5681ba461eba1bb425dc42200c28cda910fbdd78"
+    }
+   ]
   }
  ]
 }
