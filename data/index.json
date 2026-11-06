@@ -1222,12 +1222,12 @@
   {
    "shard": "cnsc/2026",
    "kind": "cnsc",
-   "count": 1,
+   "count": 57,
    "acts": "data/acts/cnsc/2026.json",
    "list": "data/acts/cnsc/2026.md",
    "versions": "data/versions/cnsc/2026.json",
    "laws": "data/laws/cnsc/2026.csv",
-   "laws_count": 1,
+   "laws_count": 57,
    "sources": "data/sources/cnsc/2026.csv"
   },
   {
