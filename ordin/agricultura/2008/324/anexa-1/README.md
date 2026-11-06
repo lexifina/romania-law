@@ -1,4 +1,4 @@
-# Anexa nr. 1: LISTĂ CU GRADATORI AUTORIZAȚI Nr. crt. Numele Prenumele CNP 1 Florescu Ilie 1500611034994 2 Bercea Costel 1750215090077 3 Trifu Costel 1760831090042 4 Rîmniceanu Nicușor 1860307093644 5 Dumitru Gabrie
+# Anexa nr. 1: LISTĂ CU GRADATORI AUTORIZAȚI Nr. crt. Numele Prenumele CNP 1 Florescu Ilie [CNP omis] 2 Bercea Costel [CNP omis] 3 Trifu Costel [CNP omis] 4 Rîmniceanu Nicușor [CNP omis] 5 Dumitru Gabrie
 
 Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
 
