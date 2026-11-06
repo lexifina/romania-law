@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 27 din 9 iulie 1998  privind eliberarea domnului Lucian Mihai din funcţia de secretar general al Camerei Deputaţilor     EMITENT     CAMERA DEPUTAŢILOR       Publicat în
+			  MONITORUL OFICIAL nr. 257 din 9 iulie 1998     În temeiul art. 205 alin. 2 din Regulamentul Camerei Deputaţilor, republicat,  Camera Deputaţilor adopta prezenta hotărâre.
+				 +
+			  Articolul UNIC     Domnul Lucian Mihai se eliberează din funcţia de secretar general al Camerei Deputaţilor la data de 10 iulie 1998, ca urmare a numirii sale în funcţia de judecător la Curtea Constituţională.  Aceasta hotărâre a fost adoptată de Camera Deputaţilor în şedinţa din 9 iulie 1998, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României.  PREŞEDINTELE CAMEREI  DEPUTAŢILOR  ION DIACONESCU  ----------
