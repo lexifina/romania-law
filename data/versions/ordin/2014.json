@@ -5448,6 +5448,21 @@
    ]
   },
   {
+   "slug": "ordin-cnas-358-2014",
+   "path": "ordin/cnas/2014/358",
+   "short": "Ordin cnas nr. 358/2014",
+   "title": "Ordinul nr. 358/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158668",
+   "versions": [
+    {
+     "from": "2014-06-01",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250406224847id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/158668",
+     "sha256": "05a485cfdc6262f743f38e398cce158f50d7eb0a268d90d2f34481d6f29ba2e8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnas-36-2014",
    "path": "ordin/cnas/2014/36",
    "short": "Ordin cnas nr. 36/2014",
@@ -16454,6 +16469,21 @@
      "units": 40,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155224",
      "sha256": "c257bd26c26497da3e811ed105418e7e445758e93e29f33300a19c9e77ce5b16"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-40-2014",
+   "path": "ordin/transporturi/2014/40",
+   "short": "Ordin transporturi nr. 40/2014",
+   "title": "Ordinul nr. 40/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154908",
+   "versions": [
+    {
+     "from": "2014-01-29",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250406203005id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/154908",
+     "sha256": "947a8d1d99ee8e441b25d5ebf27158bbf20722046022ebf683b82fd7b5decd6f"
     }
    ]
   },

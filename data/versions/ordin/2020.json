@@ -6093,6 +6093,21 @@
    ]
   },
   {
+   "slug": "ordin-cnas-431-2020",
+   "path": "ordin/cnas/2020/431",
+   "short": "Ordin cnas nr. 431/2020",
+   "title": "Ordinul nr. 431/2020 privind modificarea Normelor tehnice de realizare a programelor naționale de sănătate curative pentru anii 2017 și 2018, aprobate prin Ordinul președintelui Casei Naționale de Asigurări de Sănătate nr. 245/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224459",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20220818065455id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/224459",
+     "sha256": "2f744e7006892e81f3f57f1c6a897746d09786de697ccc9ebf5b31fe19bdd909"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnas-438-2020",
    "path": "ordin/cnas/2020/438",
    "short": "Ordin cnas nr. 438/2020",
@@ -8009,6 +8024,21 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222768",
      "sha256": "d4fb6e720bb66187385017d2474bc5bd8b682f48029ccdae6162a0c2896bdec7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3116-2020",
+   "path": "ordin/educatie/2020/3116",
+   "short": "Ordin educatie nr. 3116/2020",
+   "title": "Ordinul nr. 3.116/2020 privind aprobarea Metodologiei de alocare a fondurilor bugetare pentru finanțarea de bază și finanțarea suplimentară a instituțiilor de învățământ superior de stat din România, pentru anul 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223208",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20230607203930id_/https://legislatie.just.ro/Public/DetaliiDocument/223208",
+     "sha256": "633303d24f1375b4194cc1c3bf6124fc78b20f8bbed62e3264466784afe9cbdd"
     }
    ]
   },
@@ -16173,6 +16203,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-2082-2020",
+   "path": "ordin/sanatate/2020/2082",
+   "short": "Ordin sanatate nr. 2082/2020",
+   "title": "Ordinul nr. 2.082/2020 pentru modificarea și completarea Ordinului ministrului sănătății nr. 1.241/2019 privind aprobarea ghidurilor pentru obstetrică-ginecologie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235698",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250407141538id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/235698",
+     "sha256": "c1404a98788118908365b8d97bee35f0b7e8e91444b38b6bd35c45af9d3ba5d1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-2087-2020",
    "path": "ordin/sanatate/2020/2087",
    "short": "Ordin sanatate nr. 2087/2020",
@@ -17639,6 +17684,21 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226150",
      "sha256": "5438f167872b20283995c80efa21832a1c3a0542c52ef92d0de3e13220ce36a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-909-2020",
+   "path": "ordin/sanatate/2020/909",
+   "short": "Ordin sanatate nr. 909/2020",
+   "title": "Ordinul nr. 909/2020 privind modificarea și completarea Normelor tehnice de realizare a programelor naționale de sănătate publică pentru anii 2017 și 2018, aprobate prin Ordinul ministrului sănătății nr. 377/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226121",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20221203221210id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/226121",
+     "sha256": "7a316dd4a5b40f10f2e80147f52d1fbf0880180d7f0f1e8797d388045b80cf58"
     }
    ]
   },

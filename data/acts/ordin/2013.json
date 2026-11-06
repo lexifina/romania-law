@@ -5211,6 +5211,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anre-115-2013",
+"path": "ordin/anre/2013/115",
+"kind": "ordin",
+"year": "2013",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 115/2013",
+"short": "Ordin anre nr. 115/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-01-10",
+"latest": "2014-01-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/154413",
+"issuer": "anre",
+"joint": []
+},
+{
 "slug": "ordin-anre-116-2013",
 "path": "ordin/anre/2013/116",
 "kind": "ordin",
@@ -7563,6 +7582,25 @@
 "joint": []
 },
 {
+"slug": "ordin-cnas-599-2013",
+"path": "ordin/cnas/2013/599",
+"kind": "ordin",
+"year": "2013",
+"number": "599",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 599/2013",
+"short": "Ordin cnas nr. 599/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-09-23",
+"latest": "2013-09-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/151517",
+"issuer": "cnas",
+"joint": []
+},
+{
 "slug": "ordin-cnas-609-2013",
 "path": "ordin/cnas/2013/609",
 "kind": "ordin",
@@ -7902,6 +7940,25 @@
 "latest": "2013-03-04",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/145881",
 "issuer": "concurenta",
+"joint": []
+},
+{
+"slug": "ordin-csa-1-2013",
+"path": "ordin/csa/2013/1",
+"kind": "ordin",
+"year": "2013",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1/2013",
+"short": "Ordin csa nr. 1/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-01-22",
+"latest": "2013-01-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/144829",
+"issuer": "csa",
 "joint": []
 },
 {
@@ -12226,6 +12283,25 @@
 "alias": "ordin-fonduri-636-2013"
 }
 ]
+},
+{
+"slug": "ordin-finante-946-2013",
+"path": "ordin/finante/2013/946",
+"kind": "ordin",
+"year": "2013",
+"number": "946",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 946/2013",
+"short": "Ordin finante nr. 946/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-07-12",
+"latest": "2013-07-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/149742",
+"issuer": "finante",
+"joint": []
 },
 {
 "slug": "ordin-finante-959-2013",

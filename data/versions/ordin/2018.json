@@ -543,6 +543,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1400-2018",
+   "path": "ordin/agricultura/2018/1400",
+   "short": "Ordin agricultura nr. 1400/2018",
+   "title": "Ordinul nr. 1.400/2018 privind modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 386/2017 pentru aprobarea Procedurii privind introducerea sau redarea în circuitul agricol a terenurilor situate în extravilanul localităților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205478",
+   "versions": [
+    {
+     "from": "2018-10-04",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250425204451id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/205478",
+     "sha256": "123897b44840fdc0498f283e80b2ee25956906559e328ef4172750569994bc87"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1401-2018",
    "path": "ordin/agricultura/2018/1401",
    "short": "Ordin agricultura nr. 1401/2018",
@@ -7818,6 +7833,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3111-2018",
+   "path": "ordin/educatie/2018/3111",
+   "short": "Ordin educatie nr. 3111/2018",
+   "title": "Ordinul nr. 3.111/2018 privind modificarea anexei la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.052/2012 pentru aprobarea Normelor metodologice privind alocarea de fonduri de la bugetul de stat instituțiilor de învățământ superior de stat pentru organizarea și desfășurarea activităților extracurriculare - științifice, tehnice, cultural-artistice și sportive naționale, precum și a celor pentru studenții capabili de performanțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197814",
+   "versions": [
+    {
+     "from": "2018-02-13",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250406232448id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/197814",
+     "sha256": "f12b8388d18c535aa8dfa9944cd1daa068ff6d7fd8b1278415ec37a9b4384168"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3131-2018",
    "path": "ordin/educatie/2018/3131",
    "short": "Ordin educatie nr. 3131/2018",
@@ -8249,6 +8279,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201430",
      "sha256": "7d0bee3cf5ea7c95fd3fdc105d28098d511c2dc6ae7ab10b52db0dc9f71d9d64"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3751-2018",
+   "path": "ordin/educatie/2018/3751",
+   "short": "Ordin educatie nr. 3751/2018",
+   "title": "Ordinul nr. 3.751/2018 pentru modificarea Ordinului ministrului educației naționale nr. 3.560/2018 privind stabilirea modalității de acordare a voucherelor de vacanță pentru unitățile/instituțiile de învățământ de stat, Ministerul Educației Naționale și alte unități din subordinea/coordonarea acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201050",
+   "versions": [
+    {
+     "from": "2018-05-29",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260123225500id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/201050",
+     "sha256": "46b24fc20acd5734749b9806254dc29a41731b5b68787bd74d8738807992720a"
     }
    ]
   },
@@ -9659,6 +9704,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203282",
      "sha256": "62a6341510efbff2993c1636c6ceff541de7c3b217d4dafd376bd83771ef2ef6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2924-2018",
+   "path": "ordin/finante/2018/2924",
+   "short": "Ordin finante nr. 2924/2018",
+   "title": "Ordinul nr. 2.924/2018 pentru modificarea și completarea anexei la Ordinul ministrului finanțelor publice nr. 3.139/2017 privind aprobarea emiterii titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului, în cadrul Programului Tezaur",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204277",
+   "versions": [
+    {
+     "from": "2018-08-27",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407021926id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/204277",
+     "sha256": "559a4d40227a654286e05984d3f796b9a0660336af04dcd57465ab7daade9ac0"
     }
    ]
   },

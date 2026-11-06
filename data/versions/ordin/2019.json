@@ -4173,6 +4173,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-299-2019",
+   "path": "ordin/anrm/2019/299",
+   "short": "Ordin anrm nr. 299/2019",
+   "title": "Ordinul nr. 299/2019 pentru modificarea art. 2 din anexa la Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 32/2018 privind aprobarea Metodologiei de stabilire a prețului de referință pentru gazele naturale extrase în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217210",
+   "versions": [
+    {
+     "from": "2019-08-19",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407124617id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/217210",
+     "sha256": "563b6f4c19cd9d26db73a1400930293466c895a26fa5a316ad208787791080aa"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-324-2019",
    "path": "ordin/anrm/2019/324",
    "short": "Ordin anrm nr. 324/2019",
@@ -8879,6 +8894,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210641",
      "sha256": "b7b88ccb92cfe4ae7b2a7ce13d62b724909083996122778bfbab886334661c7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-147-2019",
+   "path": "ordin/finante/2019/147",
+   "short": "Ordin finante nr. 147/2019",
+   "title": "Ordinul nr. 147/2019 pentru modificarea și completarea Normelor metodologice privind încheierea exercițiului bugetar al anului 2018, aprobate prin Ordinul ministrului finanțelor publice nr. 3.809/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210317",
+   "versions": [
+    {
+     "from": "2019-01-22",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407045817id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/210317",
+     "sha256": "2376bd32125d1612aba55c3e2f641904446830e4fad9aa0d9aca302c7fc07d6b"
     }
    ]
   },

@@ -1848,6 +1848,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-223-2003",
+   "path": "ordin/agricultura/2003/223",
+   "short": "Ordin agricultura nr. 223/2003",
+   "title": "Ordinul nr. 223/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43338",
+   "versions": [
+    {
+     "from": "2003-05-22",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260615083337id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/43338",
+     "sha256": "cd7c496130ae7f209a405e8a58fdaf23d23fc8c2fb17e4330d44f88a9f04b30f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-224-2003",
    "path": "ordin/agricultura/2003/224",
    "short": "Ordin agricultura nr. 224/2003",
@@ -9209,6 +9224,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48619",
      "sha256": "026bc9a229956787a67e057141fa99bcfb12d33f62e18cde019f541558caaf4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-312-2003",
+   "path": "ordin/economie/2003/312",
+   "short": "Ordin economie nr. 312/2003",
+   "title": "Ordinul nr. 312/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48806",
+   "versions": [
+    {
+     "from": "2003-12-24",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406202432id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/48806",
+     "sha256": "83c34bc50c7dbc2f2f964f55939b8923b4ee5ce315f34c9e0458af43ff886760"
     }
    ]
   },

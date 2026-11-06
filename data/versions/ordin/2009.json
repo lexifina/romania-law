@@ -2298,6 +2298,21 @@
    ]
   },
   {
+   "slug": "ordin-anfp-1233-2009",
+   "path": "ordin/anfp/2009/1233",
+   "short": "Ordin anfp nr. 1233/2009",
+   "title": "Ordinul nr. 1.233/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106580",
+   "versions": [
+    {
+     "from": "2009-06-04",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250407135551id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/106580",
+     "sha256": "a8089115f9d00e889e6f696d1fda7753e3c6f6218d68159497bed46524226742"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anfp-1355-2009",
    "path": "ordin/anfp/2009/1355",
    "short": "Ordin anfp nr. 1355/2009",
@@ -3359,6 +3374,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103674",
      "sha256": "29ff6e29a05b096e5df2e5d8cff32a9f1fc43ce3dfe7fe557c783ad206b3ef86"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-19-2009",
+   "path": "ordin/ansvsa/2009/19",
+   "short": "Ordin ansvsa nr. 19/2009",
+   "title": "Ordinul nr. 19/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/107213",
+   "versions": [
+    {
+     "from": "2009-06-19",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250407120433id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/107213",
+     "sha256": "ab394438c1d646f4bc8dd109dc40aa9074ffe7fbf308cf2e09f0433e159c5234"
     }
    ]
   },
@@ -5343,6 +5373,21 @@
    ]
   },
   {
+   "slug": "ordin-csa-9-2009",
+   "path": "ordin/csa/2009/9",
+   "short": "Ordin csa nr. 9/2009",
+   "title": "Ordinul nr. 9/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109894",
+   "versions": [
+    {
+     "from": "2009-07-27",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406171803id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/109894",
+     "sha256": "870f11d1d7ab1870b0ba1f6dce7e1419f6abca9e6df226a996b62f5ccaeb29f0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2029-2009",
    "path": "ordin/cultura/2009/2029",
    "short": "Ordin cultura nr. 2029/2009",
@@ -6918,6 +6963,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3404-2009",
+   "path": "ordin/educatie/2009/3404",
+   "short": "Ordin educatie nr. 3404/2009",
+   "title": "Ordinul nr. 3.404/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106822",
+   "versions": [
+    {
+     "from": "2009-06-11",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20250407105218id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/106822",
+     "sha256": "365c7246fa1e2ee138abf8d8a0bbbe31a9a16cc7f3de97f905d8a51ff184d822"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3410-2009",
    "path": "ordin/educatie/2009/3410",
    "short": "Ordin educatie nr. 3410/2009",
@@ -7169,6 +7229,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110369",
      "sha256": "5a04785b854c8e1de2bb71a86cc5fc632cbf1b5048013108b579232d927a634a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4650-2009",
+   "path": "ordin/educatie/2009/4650",
+   "short": "Ordin educatie nr. 4650/2009",
+   "title": "Ordinul nr. 4.650/2009 privind completarea Precizărilor metodologice cu privire la reconfirmarea sau confirmarea calității de conducător de doctorat, corespondența între domeniile de studii universitare de doctorat, precum și nomenclatorul multilingv al domeniilor de studii universitare de doctorat, aprobate prin Ordinul ministrului educației și cercetării nr. 356/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110424",
+   "versions": [
+    {
+     "from": "2009-08-11",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250407094928id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/110424",
+     "sha256": "3ce80ca5bfea133698082288f68275a3118eda66d92a01fcd75019195af00563"
     }
    ]
   },
@@ -8114,6 +8189,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110083",
      "sha256": "b2b9804e443a7cc9cf2664551885b5cc9f958b4360b8477037830f89c84a5290"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2401-2009",
+   "path": "ordin/finante/2009/2401",
+   "short": "Ordin finante nr. 2401/2009",
+   "title": "Ordinul nr. 2.401/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110134",
+   "versions": [
+    {
+     "from": "2009-07-31",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20190915153449id_/https://legislatie.just.ro/Public/DetaliiDocument/110134",
+     "sha256": "b3c0a456fb1417fb3378ba439d038643d4815d4af2833ca642962425301ea867"
     }
    ]
   },

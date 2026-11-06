@@ -1184,6 +1184,25 @@
 "joint": []
 },
 {
+"slug": "ordin-agricultura-1400-2018",
+"path": "ordin/agricultura/2018/1400",
+"kind": "ordin",
+"year": "2018",
+"number": "1400",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.400/2018 privind modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 386/2017 pentru aprobarea Procedurii privind introducerea sau redarea în circuitul agricol a terenurilor situate în extravilanul localităților",
+"short": "Ordin agricultura nr. 1400/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-10-04",
+"latest": "2018-10-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/205478",
+"issuer": "agricultura",
+"joint": []
+},
+{
 "slug": "ordin-agricultura-1401-2018",
 "path": "ordin/agricultura/2018/1401",
 "kind": "ordin",
@@ -11989,6 +12008,25 @@
 "joint": []
 },
 {
+"slug": "ordin-educatie-3111-2018",
+"path": "ordin/educatie/2018/3111",
+"kind": "ordin",
+"year": "2018",
+"number": "3111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.111/2018 privind modificarea anexei la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.052/2012 pentru aprobarea Normelor metodologice privind alocarea de fonduri de la bugetul de stat instituțiilor de învățământ superior de stat pentru organizarea și desfășurarea activităților extracurriculare - științifice, tehnice, cultural-artistice și sportive naționale, precum și a celor pentru studenții capabili de performanțe",
+"short": "Ordin educatie nr. 3111/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-02-13",
+"latest": "2018-02-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/197814",
+"issuer": "educatie",
+"joint": []
+},
+{
 "slug": "ordin-educatie-3131-2018",
 "path": "ordin/educatie/2018/3131",
 "kind": "ordin",
@@ -12546,6 +12584,25 @@
 "alias": "ordin-munca-1721-2018"
 }
 ]
+},
+{
+"slug": "ordin-educatie-3751-2018",
+"path": "ordin/educatie/2018/3751",
+"kind": "ordin",
+"year": "2018",
+"number": "3751",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.751/2018 pentru modificarea Ordinului ministrului educației naționale nr. 3.560/2018 privind stabilirea modalității de acordare a voucherelor de vacanță pentru unitățile/instituțiile de învățământ de stat, Ministerul Educației Naționale și alte unități din subordinea/coordonarea acestuia",
+"short": "Ordin educatie nr. 3751/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-05-29",
+"latest": "2018-05-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/201050",
+"issuer": "educatie",
+"joint": []
 },
 {
 "slug": "ordin-educatie-3755-2018",
@@ -14419,6 +14476,25 @@
 "from": "2018-07-31",
 "latest": "2018-07-31",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/203282",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2924-2018",
+"path": "ordin/finante/2018/2924",
+"kind": "ordin",
+"year": "2018",
+"number": "2924",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.924/2018 pentru modificarea și completarea anexei la Ordinul ministrului finanțelor publice nr. 3.139/2017 privind aprobarea emiterii titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului, în cadrul Programului Tezaur",
+"short": "Ordin finante nr. 2924/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-08-27",
+"latest": "2018-08-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/204277",
 "issuer": "finante",
 "joint": []
 },

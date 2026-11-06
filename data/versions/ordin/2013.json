@@ -2508,6 +2508,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-115-2013",
+   "path": "ordin/anre/2013/115",
+   "short": "Ordin anre nr. 115/2013",
+   "title": "Ordinul nr. 115/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154413",
+   "versions": [
+    {
+     "from": "2014-01-10",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250407020805id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/154413",
+     "sha256": "e4d0fb0c8727f5ecb69cf4b13dddcfe86f6d892dfab4df16f30692d3602dc326"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-116-2013",
    "path": "ordin/anre/2013/116",
    "short": "Ordin anre nr. 116/2013",
@@ -5268,6 +5283,21 @@
    ]
   },
   {
+   "slug": "ordin-cnas-599-2013",
+   "path": "ordin/cnas/2013/599",
+   "short": "Ordin cnas nr. 599/2013",
+   "title": "Ordinul nr. 599/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151517",
+   "versions": [
+    {
+     "from": "2013-09-23",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250406224831id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/151517",
+     "sha256": "abafc6494653a0e7a899cfa4a8dbf2dc0c49148b66ba57272e397c00e0f42fb7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnas-6-2013",
    "path": "ordin/cnas/2013/6",
    "short": "Ordin cnas nr. 6/2013",
@@ -5504,6 +5534,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145881",
      "sha256": "55564325eb6e66708772f069e027a2746ffcf396468df87d6d6b087ce7780ebb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-csa-1-2013",
+   "path": "ordin/csa/2013/1",
+   "short": "Ordin csa nr. 1/2013",
+   "title": "Ordinul nr. 1/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144829",
+   "versions": [
+    {
+     "from": "2013-01-22",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250406210451id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/144829",
+     "sha256": "bfdcd9a9d6352ee7671c15b940290773ea0dc2380ced9c97785953d315a43717"
     }
    ]
   },
@@ -9404,6 +9449,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150136",
      "sha256": "01262f28d368c288c896f095b1e258f26cd444db4b184463d96516534245242c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-946-2013",
+   "path": "ordin/finante/2013/946",
+   "short": "Ordin finante nr. 946/2013",
+   "title": "Ordinul nr. 946/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149742",
+   "versions": [
+    {
+     "from": "2013-07-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406222348id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/149742",
+     "sha256": "13d73208d946fcd25d6b1547437da280c42bc0d8cd25b887fccb80030ebc60bc"
     }
    ]
   },

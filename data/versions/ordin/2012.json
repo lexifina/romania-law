@@ -1953,6 +1953,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-700-2012",
+   "path": "ordin/anaf/2012/700",
+   "short": "Ordin anaf nr. 700/2012",
+   "title": "Ordinul nr. 700/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138367",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20250407101318id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/138367",
+     "sha256": "402bc8a48169a1e6af08555e7719959686ff3d37c6ee287d3164230dadab4bb2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-78-2012",
    "path": "ordin/anaf/2012/78",
    "short": "Ordin anaf nr. 78/2012",
@@ -3269,6 +3284,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134913",
      "sha256": "4788d9a4bbd7976dcd8ac74079b295a62ea52dc001ed5f400e84c081f1b732d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-41-2012",
+   "path": "ordin/ansvsa/2012/41",
+   "short": "Ordin ansvsa nr. 41/2012",
+   "title": "Ordinul nr. 41/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137585",
+   "versions": [
+    {
+     "from": "2012-05-04",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20251205220129id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/137585",
+     "sha256": "29cec62c29c9ab32fdcc890bd0be43d9d7018412e6ddc97d942eb0d8a30d8a7d"
     }
    ]
   },
@@ -6914,6 +6944,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140565",
      "sha256": "e222ad2f8ff502ad0965c509f3ba5d69b5c0236789622a619f1115d631d24bf5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5052-2012",
+   "path": "ordin/educatie/2012/5052",
+   "short": "Ordin educatie nr. 5052/2012",
+   "title": "Ordinul nr. 5.052/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140750",
+   "versions": [
+    {
+     "from": "2012-08-23",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250407040849id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/140750",
+     "sha256": "683be75a4599263994daa05b3e0f7482cb7dfca256b417ebb0cb8a6a71d32c64"
     }
    ]
   },

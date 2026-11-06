@@ -7158,6 +7158,21 @@
    ]
   },
   {
+   "slug": "ordin-copii-69-2004",
+   "path": "ordin/copii/2004/69",
+   "short": "Ordin copii nr. 69/2004",
+   "title": "Ordinul nr. 69/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52735",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260710081141id_/https://legislatie.just.ro/Public/DetaliiDocument/52735",
+     "sha256": "d6b53b7926b4df56cf588c039b63e674f69c0f2a781a3efd44f550410f989a9f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-copii-88-2004",
    "path": "ordin/copii/2004/88",
    "short": "Ordin copii nr. 88/2004",
@@ -7274,6 +7289,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58035",
      "sha256": "b0bb0ee7dffe4633a720bee47b30a13c1aaa154b980f271b76846aa28f5b322b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-csa-3111-2004",
+   "path": "ordin/csa/2004/3111",
+   "short": "Ordin csa nr. 3111/2004",
+   "title": "Ordinul nr. 3.111/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58026",
+   "versions": [
+    {
+     "from": "2004-12-26",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260115214650id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/58026",
+     "sha256": "94fb7bb3d5e773e14a194420c0a976dc284603225dc595bf5320f3ddf1fd07da"
     }
    ]
   },

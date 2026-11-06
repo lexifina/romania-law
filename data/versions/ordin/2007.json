@@ -1308,6 +1308,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-433-2007",
+   "path": "ordin/agricultura/2007/433",
+   "short": "Ordin agricultura nr. 433/2007",
+   "title": "Ordinul nr. 433/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82444",
+   "versions": [
+    {
+     "from": "2007-07-01",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407125424id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/82444",
+     "sha256": "68a087e59f7ef68c051c714269688fd1e163589b0c21f8945421db91fb90b2f3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-436-2007",
    "path": "ordin/agricultura/2007/436",
    "short": "Ordin agricultura nr. 436/2007",
@@ -2579,6 +2594,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87991",
      "sha256": "99f1097c9c3ccf03f21d808aec19b7a3940cdb9324c28a64c18de28e61195009"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-975-2007",
+   "path": "ordin/agricultura/2007/975",
+   "short": "Ordin agricultura nr. 975/2007",
+   "title": "Ordinul nr. 975/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88010",
+   "versions": [
+    {
+     "from": "2007-12-19",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20251113113355id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/88010",
+     "sha256": "b7d04d73551d8dc3ea02117d252b9e9990b9d0635996073bf19b2f4c557e8bf8"
     }
    ]
   },
@@ -4724,6 +4754,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81975",
      "sha256": "b116a81b6b99a0142d66c670d58cfc7286caf70c9c731fe2132d988603578fc5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrsc-87-2007",
+   "path": "ordin/anrsc/2007/87",
+   "short": "Ordin anrsc nr. 87/2007",
+   "title": "Ordinul nr. 87/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81976",
+   "versions": [
+    {
+     "from": "2007-05-14",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20251112232306id_/https://legislatie.just.ro/Public/DetaliiDocument/81976",
+     "sha256": "8eefb90ef27e33355aa53c58dea8cdae74cdcb00504db8749b76fc05433262a8"
     }
    ]
   },
@@ -6929,6 +6974,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85992",
      "sha256": "753aae221dc7b257f19deda3a3e008ac73dee96328ccb542ebe4d7dcc5e596b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-csa-12-2007",
+   "path": "ordin/csa/2007/12",
+   "short": "Ordin csa nr. 12/2007",
+   "title": "Ordinul nr. 12/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86485",
+   "versions": [
+    {
+     "from": "2007-10-30",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406152725id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/86485",
+     "sha256": "dfcb2d662a5b4dbec546505fa373a1052263c2ab1fdd0122476792ed9a80b125"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-csa-14-2007",
+   "path": "ordin/csa/2007/14",
+   "short": "Ordin csa nr. 14/2007",
+   "title": "Ordinul nr. 14/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87848",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250406163502id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/87848",
+     "sha256": "aaefaddea0132170d8d2e5be1891a020c18bb8b426008f7f26f21288bfddbe54"
     }
    ]
   },
@@ -9644,6 +9719,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88186",
      "sha256": "999e781ac6f43ed2023ab4c4fbf4a1503bbd7e09558510c04da832ac654494ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2421-2007",
+   "path": "ordin/finante/2007/2421",
+   "short": "Ordin finante nr. 2421/2007",
+   "title": "Ordinul nr. 2.421/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88165",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250406205809id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/88165",
+     "sha256": "cb9edcf4865aa793a5af3e84505d2ede05876dd1b0389faab68044a49486bcdf"
     }
    ]
   },

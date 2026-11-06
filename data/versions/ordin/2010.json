@@ -1593,6 +1593,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-2258-2010",
+   "path": "ordin/anaf/2010/2258",
+   "short": "Ordin anaf nr. 2258/2010",
+   "title": "Ordinul nr. 2.258/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121244",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250406215622id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/121244",
+     "sha256": "470a91ffb64a7f99a8a45a8a5b693334cab1bc2e5c7d2f162c5a9c1454a19917"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-2265-2010",
    "path": "ordin/anaf/2010/2265",
    "short": "Ordin anaf nr. 2265/2010",
@@ -4653,6 +4668,21 @@
    ]
   },
   {
+   "slug": "ordin-bnr-6-2010",
+   "path": "ordin/bnr/2010/6",
+   "short": "Ordin bnr nr. 6/2010",
+   "title": "Ordinul nr. 6/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120464",
+   "versions": [
+    {
+     "from": "2010-07-13",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250406210258id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/120464",
+     "sha256": "a03cd569a6eee12cb493219ded7538f50875a2378ed6bb477372e1196037777b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-8-2010",
    "path": "ordin/bnr/2010/8",
    "short": "Ordin bnr nr. 8/2010",
@@ -5624,6 +5654,21 @@
      "units": 32,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125074",
      "sha256": "e0fff6c679994f8649179114226f085194e5d67a0009b8b7ede44563d82e17a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-csa-2-2010",
+   "path": "ordin/csa/2010/2",
+   "short": "Ordin csa nr. 2/2010",
+   "title": "Ordinul nr. 2/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116479",
+   "versions": [
+    {
+     "from": "2010-02-24",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406035926id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/116479",
+     "sha256": "433074a3602fd343d1f802913a4de0d55899ca14e92ee278e8f02feb1e68290b"
     }
    ]
   },
@@ -10173,6 +10218,21 @@
    ]
   },
   {
+   "slug": "ordin-justitie-1214-c-2010",
+   "path": "ordin/justitie/2010/1214-c",
+   "short": "Ordin justitie nr. 1214/C/2010",
+   "title": "Ordinul nr. 1.214/C/2010 privind modificarea și completarea Regulamentului pentru ocuparea, prin concurs, a posturilor de execuție vacante de personal de specialitate juridică asimilat judecătorilor și procurorilor, din Ministerul Justiției, aprobat prin Ordinul ministrului justiției nr. 1.473/C/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118660",
+   "versions": [
+    {
+     "from": "2010-05-12",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20170627083256id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/118660",
+     "sha256": "92fc62f173fdc99be5987b9e3d86c984ede096857fe7271a622782babb465bfa"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-1650-c-2010",
    "path": "ordin/justitie/2010/1650-c",
    "short": "Ordin justitie nr. 1650/C/2010",
@@ -12314,6 +12374,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120375",
      "sha256": "200cf0989b8582a2f219539aecdc69ccb87b4692ad4e24a726e5a98b029c1443"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-453-2010",
+   "path": "ordin/munca/2010/453",
+   "short": "Ordin munca nr. 453/2010",
+   "title": "Ordinul nr. 453/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120016",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260215112809id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/120016",
+     "sha256": "68e07b36d2e2d88a6a1b6ea84971ac7107e98b5399c6a2ebcac8194b13e1ed90"
     }
    ]
   },

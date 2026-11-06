@@ -1203,6 +1203,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-1211-2021",
+   "path": "ordin/anaf/2021/1211",
+   "short": "Ordin anaf nr. 1211/2021",
+   "title": "Ordinul nr. 1.211/2021 pentru modificarea Normelor privind utilizarea declarațiilor vamale simplificate și înscrierea în evidențele declarantului, aprobate prin Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 1.887/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245462",
+   "versions": [
+    {
+     "from": "2021-08-23",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407024204id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/245462",
+     "sha256": "e433ec78fdb00afc57809285c5789e0d083e80b7f9fae2ba7a85289c7f22273a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-1241-2021",
    "path": "ordin/anaf/2021/1241",
    "short": "Ordin anaf nr. 1241/2021",
@@ -2399,6 +2414,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246782",
      "sha256": "24e1341a00612fbec7f9fc7188efcbbf89fe31f8eecae8dfc6cd223761e21a16"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-102-2021",
+   "path": "ordin/anre/2021/102",
+   "short": "Ordin anre nr. 102/2021",
+   "title": "Ordinul nr. 102/2021 privind modificarea și completarea Metodologiei de stabilire și ajustare a prețurilor pentru energia electrică și termică produsă și livrată din centrale de cogenerare ce beneficiază de schema de sprijin, respectiv a bonusului pentru cogenerarea de înaltă eficiență, aprobată prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 15/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247244",
+   "versions": [
+    {
+     "from": "2021-10-07",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250407151348id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/247244",
+     "sha256": "8713ae819d8db7091b8fd27706077588a452b0d7dcc00d10c9f1b73a8b92f2d1"
     }
    ]
   },

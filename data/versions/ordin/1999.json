@@ -3198,6 +3198,21 @@
    ]
   },
   {
+   "slug": "ordin-munca-105-1999",
+   "path": "ordin/munca/1999/105",
+   "short": "Ordin munca nr. 105/1999",
+   "title": "Ordinul nr. 105/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18214",
+   "versions": [
+    {
+     "from": "1999-05-20",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250406215304id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/18214",
+     "sha256": "31e8666f730e4f4e777824ec3af9a11cd3fd79ad9b453aaed6048fab77cba3e8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-137-1999",
    "path": "ordin/munca/1999/137",
    "short": "Ordin munca nr. 137/1999",

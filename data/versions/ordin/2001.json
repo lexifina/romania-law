@@ -1128,6 +1128,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-44-2001",
+   "path": "ordin/agricultura/2001/44",
+   "short": "Ordin agricultura nr. 44/2001",
+   "title": "Ordinul nr. 44/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27380",
+   "versions": [
+    {
+     "from": "2001-03-21",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250407105118id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/27380",
+     "sha256": "07f4001d2dedaba288d43a44d116015db441c8266ae545e6dc0b4a19e64298c8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-441-2001",
    "path": "ordin/agricultura/2001/441",
    "short": "Ordin agricultura nr. 441/2001",

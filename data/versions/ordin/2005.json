@@ -13128,6 +13128,21 @@
    ]
   },
   {
+   "slug": "ordin-metrologie-302-2005",
+   "path": "ordin/metrologie/2005/302",
+   "short": "Ordin metrologie nr. 302/2005",
+   "title": "Ordinul nr. 302/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66561",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250407142020id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/66561",
+     "sha256": "828332d9c9448a63cbb137ea4add24976d8645f7b6b53d2a1fb4cde384dba806"
+    }
+   ]
+  },
+  {
    "slug": "ordin-metrologie-303-2005",
    "path": "ordin/metrologie/2005/303",
    "short": "Ordin metrologie nr. 303/2005",

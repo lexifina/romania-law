@@ -3153,6 +3153,21 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-111-2011",
+   "path": "ordin/ansvsa/2011/111",
+   "short": "Ordin ansvsa nr. 111/2011",
+   "title": "Ordinul nr. 111/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133859",
+   "versions": [
+    {
+     "from": "2011-12-19",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20251117103403id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/133859",
+     "sha256": "2c4873a0e8a45d0113c420d85d87cd45d60711a574ecc8a775fbd5276baef213"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-112-2011",
    "path": "ordin/ansvsa/2011/112",
    "short": "Ordin ansvsa nr. 112/2011",
@@ -14549,6 +14564,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126898",
      "sha256": "6f86ab19fc2cf4ca68a03cd37dc62c49c0cf00dd1c68f9548755048613a0ed4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-152-2011",
+   "path": "ordin/transporturi/2011/152",
+   "short": "Ordin transporturi nr. 152/2011",
+   "title": "Ordinul nr. 152/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126725",
+   "versions": [
+    {
+     "from": "2011-03-10",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407000424id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/126725",
+     "sha256": "8f55d1d42e4e7d9306f84ec84d8a61b49e2d375efb93790a8ea3bd74b97eb8a7"
     }
    ]
   },

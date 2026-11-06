@@ -4233,6 +4233,25 @@
 "joint": []
 },
 {
+"slug": "ordin-munca-105-1999",
+"path": "ordin/munca/1999/105",
+"kind": "ordin",
+"year": "1999",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 105/1999",
+"short": "Ordin munca nr. 105/1999",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1999-05-20",
+"latest": "1999-05-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/18214",
+"issuer": "munca",
+"joint": []
+},
+{
 "slug": "ordin-munca-137-1999",
 "path": "ordin/munca/1999/137",
 "kind": "ordin",

@@ -2367,6 +2367,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anaf-2258-2010",
+"path": "ordin/anaf/2010/2258",
+"kind": "ordin",
+"year": "2010",
+"number": "2258",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.258/2010",
+"short": "Ordin anaf nr. 2258/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-08-05",
+"latest": "2010-08-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/121244",
+"issuer": "anaf",
+"joint": []
+},
+{
 "slug": "ordin-anaf-2265-2010",
 "path": "ordin/anaf/2010/2265",
 "kind": "ordin",
@@ -6002,6 +6021,25 @@
 "joint": []
 },
 {
+"slug": "ordin-bnr-6-2010",
+"path": "ordin/bnr/2010/6",
+"kind": "ordin",
+"year": "2010",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 6/2010",
+"short": "Ordin bnr nr. 6/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-07-13",
+"latest": "2010-07-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/120464",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "ordin-bnr-8-2010",
 "path": "ordin/bnr/2010/8",
 "kind": "ordin",
@@ -8040,6 +8078,25 @@
 "from": "2010-02-09",
 "latest": "2010-02-09",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/115931",
+"issuer": "csa",
+"joint": []
+},
+{
+"slug": "ordin-csa-2-2010",
+"path": "ordin/csa/2010/2",
+"kind": "ordin",
+"year": "2010",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2/2010",
+"short": "Ordin csa nr. 2/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-02-24",
+"latest": "2010-02-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/116479",
 "issuer": "csa",
 "joint": []
 },
@@ -14356,6 +14413,25 @@
 "joint": []
 },
 {
+"slug": "ordin-justitie-1214-c-2010",
+"path": "ordin/justitie/2010/1214-c",
+"kind": "ordin",
+"year": "2010",
+"number": "1214-c",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.214/C/2010 privind modificarea și completarea Regulamentului pentru ocuparea, prin concurs, a posturilor de execuție vacante de personal de specialitate juridică asimilat judecătorilor și procurorilor, din Ministerul Justiției, aprobat prin Ordinul ministrului justiției nr. 1.473/C/2007",
+"short": "Ordin justitie nr. 1214/C/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-05-12",
+"latest": "2010-05-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/118660",
+"issuer": "justitie",
+"joint": []
+},
+{
 "slug": "ordin-justitie-1650-c-2010",
 "path": "ordin/justitie/2010/1650-c",
 "kind": "ordin",
@@ -16498,6 +16574,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/120375",
 "issuer": "munca",
 "joint": []
+},
+{
+"slug": "ordin-munca-453-2010",
+"path": "ordin/munca/2010/453",
+"kind": "ordin",
+"year": "2010",
+"number": "453",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 453/2010",
+"short": "Ordin munca nr. 453/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-07-01",
+"latest": "2010-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/120016",
+"issuer": "munca",
+"joint": [
+{
+"issuer": "ins",
+"nr": "1365",
+"date": "2010-06-21",
+"name": "Institutul Național de Statistică",
+"alias": "ordin-ins-1365-2010"
+}
+]
 },
 {
 "slug": "ordin-munca-566-2010",
