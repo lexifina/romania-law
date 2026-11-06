@@ -3,6 +3,43 @@
 "shard": "ue/2021",
 "acts": [
 {
+"slug": "ue-regulament-9-2021",
+"path": "ue/regulament/2021/9",
+"kind": "ue",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/9 al Comisiei din 6 ianuarie 2021 de instituire a unei taxe antidumping provizorii la importurile de anumite produse plate laminate la cald din fier, din oțel nealiat sau din alte oțeluri aliate, originare din Turcia",
+"short": "Regulamentul de punere în aplicare (UE) 2021/9",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-01-08",
+"latest": "2021-01-08",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0009",
+"flags": {
+"end_of_validity": "2021-07-07"
+}
+},
+{
+"slug": "ue-regulament-11-2021",
+"path": "ue/regulament/2021/11",
+"kind": "ue",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/11 al Comisiei din 7 ianuarie 2021 de modificare a Regulamentului de punere în aplicare (UE) nr. 498/2012 privind alocarea contingentelor tarifare aplicabile exporturilor de lemn din Federația Rusă către Uniunea Europeană",
+"short": "Regulamentul de punere în aplicare (UE) 2021/11",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0011"
+},
+{
 "slug": "ue-regulament-23-2021",
 "path": "ue/regulament/2021/23",
 "kind": "ue",
@@ -122,6 +159,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0077"
 },
 {
+"slug": "ue-regulament-78-2021",
+"path": "ue/regulament/2021/78",
+"kind": "ue",
+"year": "2021",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/78 al Comisiei din 27 ianuarie 2021 de modificare a Regulamentului de punere în aplicare (UE) 2020/600 de derogare de la Regulamentul de punere în aplicare (UE) 2017/892, de la Regulamentul de punere în aplicare (UE) 2016/1150, de la Regulamentul de punere în aplicare (UE) nr. 615/2014, de la Regulamentul de punere în aplicare (UE) 2015/1368 și de la Regulamentul de punere în aplicare (UE) 2017/39 în ceea ce privește anumite măsuri de abordare a crizei provocate de pandemia de COVID-19",
+"short": "Regulamentul de punere în aplicare (UE) 2021/78",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0078"
+},
+{
 "slug": "ue-regulament-95-2021",
 "path": "ue/regulament/2021/95",
 "kind": "ue",
@@ -210,6 +264,40 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0115"
 },
 {
+"slug": "ue-regulament-126-2021",
+"path": "ue/regulament/2021/126",
+"kind": "ue",
+"year": "2021",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/126 al Comisiei din 28 ianuarie 2021 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Rudarska greblica” (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2021/126",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-02-24",
+"latest": "2021-02-24",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0126"
+},
+{
+"slug": "ue-regulament-133-2021",
+"path": "ue/regulament/2021/133",
+"kind": "ue",
+"year": "2021",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/133 al Comisiei din 4 februarie 2021 de punere în aplicare a Regulamentului (UE) 2018/858 al Parlamentului European și al Consiliului în ceea ce privește formatul de bază și structura datelor din certificatul de conformitate în format electronic și mijloacele de schimb al datelor respective",
+"short": "Regulamentul de punere în aplicare (UE) 2021/133",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0133"
+},
+{
 "slug": "ue-regulament-139-2021",
 "path": "ue/regulament/2021/139",
 "kind": "ue",
@@ -225,6 +313,40 @@
 "from": "2021-01-01",
 "latest": "2021-01-01",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0139"
+},
+{
+"slug": "ue-regulament-152-2021",
+"path": "ue/regulament/2021/152",
+"kind": "ue",
+"year": "2021",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/152 al Comisiei din 3 februarie 2021 de acordare a protecției în temeiul articolului 99 din Regulamentul (UE) nr. 1308/2013 al Parlamentului European și al Consiliului pentru denumirea „Ponikve” (DOP)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/152",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-03-02",
+"latest": "2021-03-02",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0152"
+},
+{
+"slug": "ue-regulament-153-2021",
+"path": "ue/regulament/2021/153",
+"kind": "ue",
+"year": "2021",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/153 al Comisiei din 3 februarie 2021 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Λούντζα Πιτσιλιάς” (Lountza Pitsilias) (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2021/153",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-03-02",
+"latest": "2021-03-02",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0153"
 },
 {
 "slug": "ue-regulament-155-2021",
@@ -276,6 +398,26 @@
 "from": "2021-02-13",
 "latest": "2021-02-13",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0168"
+},
+{
+"slug": "ue-regulament-170-2021",
+"path": "ue/regulament/2021/170",
+"kind": "ue",
+"year": "2021",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/170 al Comisiei din 9 februarie 2021 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+"short": "Regulamentul de punere în aplicare (UE) 2021/170",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-03-07",
+"latest": "2021-03-07",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0170",
+"flags": {
+"figures_missing": 1
+}
 },
 {
 "slug": "ue-regulament-177-2021",
@@ -383,6 +525,23 @@
 }
 },
 {
+"slug": "ue-regulament-242-2021",
+"path": "ue/regulament/2021/242",
+"kind": "ue",
+"year": "2021",
+"number": "242",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/242 al Comisiei din 11 februarie 2021 de aprobare a unei modificări care nu este minoră a caietului de sarcini al unei denumiri înregistrate în Registrul specialităților tradiționale garantate [„Tepertős pogácsa” (STG)]",
+"short": "Regulamentul de punere în aplicare (UE) 2021/242",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-03-10",
+"latest": "2021-03-10",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0242"
+},
+{
 "slug": "ue-regulament-250-2021",
 "path": "ue/regulament/2021/250",
 "kind": "ue",
@@ -415,6 +574,40 @@
 "from": "2021-02-20",
 "latest": "2021-02-20",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0251"
+},
+{
+"slug": "ue-regulament-254-2021",
+"path": "ue/regulament/2021/254",
+"kind": "ue",
+"year": "2021",
+"number": "254",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/254 al Comisiei din 18 februarie 2021 de modificare a Regulamentelor de punere în aplicare (UE) 2020/761 și (UE) 2020/1988 și a Regulamentelor (CE) nr. 218/2007 și (CE) nr. 1518/2007 în ceea ce privește importurile de produse originare din Regatul Unit și de excludere a produselor respective din contingentele tarifare cu perioade contingentare în curs",
+"short": "Regulamentul de punere în aplicare (UE) 2021/254",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-02-19",
+"latest": "2021-02-19",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0254"
+},
+{
+"slug": "ue-regulament-255-2021",
+"path": "ue/regulament/2021/255",
+"kind": "ue",
+"year": "2021",
+"number": "255",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/255 al Comisiei din 18 februarie 2021 de modificare a Regulamentului de punere în aplicare (UE) 2015/1998 de stabilire a măsurilor detaliate de implementare a standardelor de bază comune în domeniul securității aviației (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/255",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-03-11",
+"latest": "2021-03-11",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0255"
 },
 {
 "slug": "ue-regulament-267-2021",
@@ -483,6 +676,23 @@
 "from": "2021-03-15",
 "latest": "2021-03-15",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0277"
+},
+{
+"slug": "ue-regulament-331-2021",
+"path": "ue/regulament/2021/331",
+"kind": "ue",
+"year": "2021",
+"number": "331",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/331 al Comisiei din 24 februarie 2021 privind raportarea abuzurilor comise de intermediarii comerciali care oferă servicii de depunere a cererii pentru autorizațiile de călătorie în temeiul Regulamentului (UE) 2018/1240 al Parlamentului European și al Consiliului",
+"short": "Regulamentul de punere în aplicare (UE) 2021/331",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-03-17",
+"latest": "2021-03-17",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0331"
 },
 {
 "slug": "ue-regulament-337-2021",
@@ -557,6 +767,57 @@
 "flags": {
 "figures_missing": 2
 }
+},
+{
+"slug": "ue-regulament-345-2021",
+"path": "ue/regulament/2021/345",
+"kind": "ue",
+"year": "2021",
+"number": "345",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/345 al Comisiei din 25 februarie 2021 de aprobare a clorului activ generat din clorură de sodiu prin electroliză ca substanță activă pentru utilizare în produse biocide aparținând tipurilor de produs 2, 3, 4 și 5 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/345",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-03-18",
+"latest": "2021-03-18",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0345"
+},
+{
+"slug": "ue-regulament-362-2021",
+"path": "ue/regulament/2021/362",
+"kind": "ue",
+"year": "2021",
+"number": "362",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/362 al Comisiei din 22 februarie 2021 de aprobare a unei modificări care nu este minoră a caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Jabugo” (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2021/362",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-03-21",
+"latest": "2021-03-21",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0362"
+},
+{
+"slug": "ue-regulament-363-2021",
+"path": "ue/regulament/2021/363",
+"kind": "ue",
+"year": "2021",
+"number": "363",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/363 al Comisiei din 26 februarie 2021 privind autorizarea unui preparat de fumonisină esterază produsă de Komagataella phaffii DSM 32159 ca aditiv pentru hrana tuturor speciilor de animale (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/363",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-03-21",
+"latest": "2021-03-21",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0363"
 },
 {
 "slug": "ue-regulament-374-2021",
@@ -653,6 +914,40 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0383"
 },
 {
+"slug": "ue-regulament-391-2021",
+"path": "ue/regulament/2021/391",
+"kind": "ue",
+"year": "2021",
+"number": "391",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/391 al Consiliului din 4 martie 2021 privind punerea în aplicare a Regulamentului (UE) nr. 208/2014 privind măsuri restrictive împotriva anumitor persoane, entități și organisme având în vedere situația din Ucraina",
+"short": "Regulamentul de punere în aplicare (UE) 2021/391",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-03-05",
+"latest": "2021-03-05",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0391"
+},
+{
+"slug": "ue-regulament-392-2021",
+"path": "ue/regulament/2021/392",
+"kind": "ue",
+"year": "2021",
+"number": "392",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/392 al Comisiei din 4 martie 2021 privind monitorizarea și raportarea datelor referitoare la emisiile de CO2 ale autoturismelor și ale vehiculelor utilitare ușoare în temeiul Regulamentului (UE) 2019/631 al Parlamentului European și al Consiliului și de abrogare a Regulamentelor de punere în aplicare (UE) nr. 1014/2010, (UE) nr. 293/2012, (UE) 2017/1152 și (UE) 2017/1153 ale Comisiei (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/392",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0392"
+},
+{
 "slug": "ue-regulament-407-2021",
 "path": "ue/regulament/2021/407",
 "kind": "ue",
@@ -704,6 +999,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0418"
 },
 {
+"slug": "ue-regulament-422-2021",
+"path": "ue/regulament/2021/422",
+"kind": "ue",
+"year": "2021",
+"number": "422",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/422 al Comisiei din 9 martie 2021 privind autorizarea unui preparat de Enterococcus faecium DSM 7134 ca aditiv pentru hrana găinilor ouătoare (titularul autorizației: Lactosan GmbH & Co KG) (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/422",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-03-30",
+"latest": "2021-03-30",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0422"
+},
+{
 "slug": "ue-regulament-424-2021",
 "path": "ue/regulament/2021/424",
 "kind": "ue",
@@ -722,6 +1034,23 @@
 "flags": {
 "figures_missing": 25
 }
+},
+{
+"slug": "ue-regulament-425-2021",
+"path": "ue/regulament/2021/425",
+"kind": "ue",
+"year": "2021",
+"number": "425",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/425 al Comisiei din 9 martie 2021 de suspendare a măsurilor de politică comercială referitoare la anumite produse din Statele Unite ale Americii impuse prin Regulamentul de punere în aplicare (UE) 2020/1646 în urma soluționării unui litigiu comercial în conformitate cu Memorandumul de înțelegere privind soluționarea litigiilor al Organizației Mondiale a Comerțului",
+"short": "Regulamentul de punere în aplicare (UE) 2021/425",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-03-11",
+"latest": "2021-03-11",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0425"
 },
 {
 "slug": "ue-regulament-444-2021",
@@ -849,6 +1178,40 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0479"
 },
 {
+"slug": "ue-regulament-506-2021",
+"path": "ue/regulament/2021/506",
+"kind": "ue",
+"year": "2021",
+"number": "506",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/506 al Comisiei din 23 martie 2021 privind autorizarea metantiolului ca aditiv destinat hranei pentru toate speciile de animale (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/506",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-04-13",
+"latest": "2021-04-13",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0506"
+},
+{
+"slug": "ue-regulament-507-2021",
+"path": "ue/regulament/2021/507",
+"kind": "ue",
+"year": "2021",
+"number": "507",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/507 al Comisiei din 23 martie 2021 privind reînnoirea 6autorizației pentru clorhidratul de piridoxină (vitamina B6) ca aditiv furajer pentru toate speciile de animale și de abrogare a Regulamentului de punere în aplicare (UE) nr. 515/2011 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/507",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-04-13",
+"latest": "2021-04-13",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0507"
+},
+{
 "slug": "ue-directiva-514-2021",
 "path": "ue/directiva/2021/514",
 "kind": "ue",
@@ -881,6 +1244,23 @@
 "from": "2021-03-26",
 "latest": "2021-03-26",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0517"
+},
+{
+"slug": "ue-regulament-518-2021",
+"path": "ue/regulament/2021/518",
+"kind": "ue",
+"year": "2021",
+"number": "518",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/518 al Comisiei din 18 martie 2021 de înregistrare a unei indicații geografice a unei băuturi spirtoase în temeiul articolului 30 alineatul (2) din Regulamentul (UE) 2019/787 al Parlamentului European și al Consiliului „Vasi vadkörte pálinka”",
+"short": "Regulamentul de punere în aplicare (UE) 2021/518",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-04-14",
+"latest": "2021-04-14",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0518"
 },
 {
 "slug": "ue-regulament-522-2021",
@@ -1002,6 +1382,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0529"
 },
 {
+"slug": "ue-regulament-530-2021",
+"path": "ue/regulament/2021/530",
+"kind": "ue",
+"year": "2021",
+"number": "530",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/530 al Comisiei din 22 martie 2021 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+"short": "Regulamentul de punere în aplicare (UE) 2021/530",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-04-15",
+"latest": "2021-04-15",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0530"
+},
+{
 "slug": "ue-regulament-539-2021",
 "path": "ue/regulament/2021/539",
 "kind": "ue",
@@ -1017,6 +1414,40 @@
 "from": "2021-03-30",
 "latest": "2021-03-30",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0539"
+},
+{
+"slug": "ue-regulament-550-2021",
+"path": "ue/regulament/2021/550",
+"kind": "ue",
+"year": "2021",
+"number": "550",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/550 al Comisiei din 26 martie 2021 de aprobare a unei modificări care nu este minoră a caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Radicchio Rosso di Treviso” (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2021/550",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0550"
+},
+{
+"slug": "ue-regulament-552-2021",
+"path": "ue/regulament/2021/552",
+"kind": "ue",
+"year": "2021",
+"number": "552",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/552 al Comisiei din 30 martie 2021 de acordare a unei autorizații a Uniunii pentru familia de produse biocide „DEC-AHOL® Product Family” (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/552",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0552"
 },
 {
 "slug": "ue-directiva-555-2021",
@@ -1073,6 +1504,26 @@
 }
 },
 {
+"slug": "ue-regulament-559-2021",
+"path": "ue/regulament/2021/559",
+"kind": "ue",
+"year": "2021",
+"number": "559",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/559 din 6 aprilie 2021",
+"short": "Regulamentul de punere în aplicare (UE) 2021/559",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-04-06",
+"latest": "2021-04-06",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0559",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "ue-regulament-571-2021",
 "path": "ue/regulament/2021/571",
 "kind": "ue",
@@ -1105,6 +1556,23 @@
 "from": "2021-04-08",
 "latest": "2021-04-08",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0572"
+},
+{
+"slug": "ue-regulament-574-2021",
+"path": "ue/regulament/2021/574",
+"kind": "ue",
+"year": "2021",
+"number": "574",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/574 al Comisiei din 30 martie 2021 de modificare a Regulamentelor de punere în aplicare (UE) 2017/375 și (UE) nr. 540/2011 în ceea ce privește condițiile de aprobare a substanței active prosulfuron (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/574",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-04-28",
+"latest": "2021-04-28",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0574"
 },
 {
 "slug": "ue-regulament-576-2021",
@@ -1161,6 +1629,26 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0578"
 },
 {
+"slug": "ue-regulament-582-2021",
+"path": "ue/regulament/2021/582",
+"kind": "ue",
+"year": "2021",
+"number": "582",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/582 al Comisiei din 9 aprilie 2021 de instituire a unei taxe antidumping provizorii la importurile de produse laminate plate din aluminiu originare din Republica Populară Chineză",
+"short": "Regulamentul de punere în aplicare (UE) 2021/582",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-04-13",
+"latest": "2021-04-13",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0582",
+"flags": {
+"end_of_validity": "2021-10-12"
+}
+},
+{
 "slug": "ue-regulament-590-2021",
 "path": "ue/regulament/2021/590",
 "kind": "ue",
@@ -1178,6 +1666,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0590"
 },
 {
+"slug": "ue-regulament-591-2021",
+"path": "ue/regulament/2021/591",
+"kind": "ue",
+"year": "2021",
+"number": "591",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/591 al Comisiei din 12 aprilie 2021 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Χαλλούμι” (Halloumi)/„Hellim” (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2021/591",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-05-03",
+"latest": "2021-05-03",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0591"
+},
+{
 "slug": "ue-regulament-598-2021",
 "path": "ue/regulament/2021/598",
 "kind": "ue",
@@ -1193,6 +1698,26 @@
 "from": "2021-05-04",
 "latest": "2021-05-04",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0598"
+},
+{
+"slug": "ue-regulament-612-2021",
+"path": "ue/regulament/2021/612",
+"kind": "ue",
+"year": "2021",
+"number": "612",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/612 din 15 aprilie 2021",
+"short": "Regulamentul de punere în aplicare (UE) 2021/612",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-04-15",
+"latest": "2021-04-15",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0612",
+"flags": {
+"text_withheld": "personal_data"
+}
 },
 {
 "slug": "ue-regulament-616-2021",
@@ -1227,6 +1752,23 @@
 "from": "2021-05-06",
 "latest": "2021-05-06",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0618"
+},
+{
+"slug": "ue-regulament-619-2021",
+"path": "ue/regulament/2021/619",
+"kind": "ue",
+"year": "2021",
+"number": "619",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/619 al Comisiei din 15 aprilie 2021 de modificare a Regulamentelor de punere în aplicare (UE) 2020/2235, (UE) 2020/2236 și (UE) 2021/403 în ceea ce privește dispozițiile tranzitorii pentru utilizarea certificatelor de sănătate animală, a certificatelor de sănătate animală/oficiale și a certificatelor oficiale (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/619",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-04-19",
+"latest": "2021-04-19",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0619"
 },
 {
 "slug": "ue-regulament-629-2021",
@@ -1264,6 +1806,23 @@
 "flags": {
 "end_of_validity": "2021-04-20"
 }
+},
+{
+"slug": "ue-regulament-632-2021",
+"path": "ue/regulament/2021/632",
+"kind": "ue",
+"year": "2021",
+"number": "632",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/632 al Comisiei din 13 aprilie 2021 de stabilire a normelor de aplicare a Regulamentului (UE) 2017/625 al Parlamentului European și al Consiliului privind listele cu animalele, produsele de origine animală, materialul germinativ, subprodusele de origine animală și produsele derivate, produsele compuse și fânul și paiele care fac obiectul controalelor oficiale la posturile de control la frontieră și de abrogare a Regulamentului de punere în aplicare (UE) 2019/2007 al Comisiei și a Deciziei 2007/275/CE a Comisiei (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/632",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0632"
 },
 {
 "slug": "ue-regulament-642-2021",
@@ -1400,6 +1959,57 @@
 "from": "2021-05-13",
 "latest": "2021-05-13",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0663"
+},
+{
+"slug": "ue-regulament-668-2021",
+"path": "ue/regulament/2021/668",
+"kind": "ue",
+"year": "2021",
+"number": "668",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/668 al Comisiei din 23 aprilie 2021 de autorizare a unei modificări a condițiilor de utilizare a semințelor de chia (Salvia hispanica) ca aliment nou în temeiul Regulamentului (UE) 2015/2283 al Parlamentului European și al Consiliului și de modificare a Regulamentului de punere în aplicare (UE) 2017/2470 al Comisiei (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/668",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-05-16",
+"latest": "2021-05-16",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0668"
+},
+{
+"slug": "ue-regulament-669-2021",
+"path": "ue/regulament/2021/669",
+"kind": "ue",
+"year": "2021",
+"number": "669",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/669 al Comisiei din 23 aprilie 2021 privind autorizarea substanțelor monoclorhidrat de L-lizină pur din punct de vedere tehnic și L-lizină bază, lichidă, produse de Corynebacterium casei KCCM 80190, de Corynebacterium glutamicum KCCM 80216 sau de Corynebacterium glutamicum KCTC 12307BP ca aditivi pentru hrana tuturor speciilor de animale (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/669",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-05-16",
+"latest": "2021-05-16",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0669"
+},
+{
+"slug": "ue-regulament-670-2021",
+"path": "ue/regulament/2021/670",
+"kind": "ue",
+"year": "2021",
+"number": "670",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/670 al Comisiei din 23 aprilie 2021 de autorizare a introducerii pe piață a uleiului de Schizochytrium sp. (WZU477) ca aliment nou în temeiul Regulamentului (UE) 2015/2283 al Parlamentului European și al Consiliului și de modificare a Regulamentului de punere în aplicare (UE) 2017/2470 al Comisiei (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/670",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-05-16",
+"latest": "2021-05-16",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0670"
 },
 {
 "slug": "ue-regulament-690-2021",
@@ -1592,6 +2202,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0704"
 },
 {
+"slug": "ue-regulament-705-2021",
+"path": "ue/regulament/2021/705",
+"kind": "ue",
+"year": "2021",
+"number": "705",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/705 al Comisiei din 28 aprilie 2021 de modificare a Regulamentului (CE) nr. 333/2007 în ceea ce privește numărul necesar de probe elementare și criteriile de performanță pentru unele metode de analiză (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/705",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-05-19",
+"latest": "2021-05-19",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0705"
+},
+{
 "slug": "ue-regulament-715-2021",
 "path": "ue/regulament/2021/715",
 "kind": "ue",
@@ -1624,6 +2251,23 @@
 "from": "2021-05-23",
 "latest": "2021-05-23",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0716"
+},
+{
+"slug": "ue-regulament-717-2021",
+"path": "ue/regulament/2021/717",
+"kind": "ue",
+"year": "2021",
+"number": "717",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/717 al Comisiei din 26 aprilie 2021 de înregistrare a unei indicații geografice a unei băuturi spirtoase în temeiul articolului 30 alineatul (2) din Regulamentul (UE) 2019/787 al Parlamentului European și al Consiliului „Nagykunsági szilvapálinka”",
+"short": "Regulamentul de punere în aplicare (UE) 2021/717",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-05-23",
+"latest": "2021-05-23",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0717"
 },
 {
 "slug": "ue-regulament-723-2021",
@@ -1711,6 +2355,57 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0756"
 },
 {
+"slug": "ue-regulament-757-2021",
+"path": "ue/regulament/2021/757",
+"kind": "ue",
+"year": "2021",
+"number": "757",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/757 al Comisiei din 3 mai 2021 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate „Ennstaler Steirerkas” (DOP)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/757",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-05-30",
+"latest": "2021-05-30",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0757"
+},
+{
+"slug": "ue-regulament-760-2021",
+"path": "ue/regulament/2021/760",
+"kind": "ue",
+"year": "2021",
+"number": "760",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/760 al Comisiei din 7 mai 2021 de modificare a Regulamentelor de punere în aplicare (UE) 2020/761 și (UE) 2020/1988 în ceea ce privește sistemul de gestionare a anumitor contingente tarifare pe bază de licențe și de abrogare a Regulamentului de punere în aplicare (UE) 2020/991",
+"short": "Regulamentul de punere în aplicare (UE) 2021/760",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-05-11",
+"latest": "2021-05-11",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0760"
+},
+{
+"slug": "ue-regulament-761-2021",
+"path": "ue/regulament/2021/761",
+"kind": "ue",
+"year": "2021",
+"number": "761",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/761 al Comisiei din 7 mai 2021 de modificare a anexelor I-IV la Regulamentul de punere în aplicare (UE) 2017/717 privind modelele de certificate zootehnice pentru animalele de reproducție și materialul germinativ provenit de la acestea (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/761",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-05-30",
+"latest": "2021-05-30",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0761"
+},
+{
 "slug": "ue-regulament-768-2021",
 "path": "ue/regulament/2021/768",
 "kind": "ue",
@@ -1794,6 +2489,26 @@
 "from": "2021-06-01",
 "latest": "2021-06-01",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0774"
+},
+{
+"slug": "ue-regulament-776-2021",
+"path": "ue/regulament/2021/776",
+"kind": "ue",
+"year": "2021",
+"number": "776",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/776 al Comisiei din 11 mai 2021 de stabilire a modelelor pentru anumite formulare, precum și a normelor tehnice pentru schimbul eficace de informații în temeiul Regulamentului (UE) 2018/1672 al Parlamentului European și al Consiliului privind controlul numerarului care intră sau iese din Uniune",
+"short": "Regulamentul de punere în aplicare (UE) 2021/776",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-06-01",
+"latest": "2021-06-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0776",
+"flags": {
+"figures_missing": 17
+}
 },
 {
 "slug": "ue-regulament-782-2021",
@@ -1904,6 +2619,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L0802"
 },
 {
+"slug": "ue-regulament-804-2021",
+"path": "ue/regulament/2021/804",
+"kind": "ue",
+"year": "2021",
+"number": "804",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/804 al Consiliului din 20 mai 2021 privind punerea în aplicare a articolului 15 alineatul (3) din Regulamentul (UE) nr. 747/2014 privind măsuri restrictive având în vedere situația din Sudan",
+"short": "Regulamentul de punere în aplicare (UE) 2021/804",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-05-21",
+"latest": "2021-05-21",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0804"
+},
+{
 "slug": "ue-regulament-805-2021",
 "path": "ue/regulament/2021/805",
 "kind": "ue",
@@ -1953,6 +2685,23 @@
 "from": "2021-06-10",
 "latest": "2021-06-10",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0807"
+},
+{
+"slug": "ue-regulament-810-2021",
+"path": "ue/regulament/2021/810",
+"kind": "ue",
+"year": "2021",
+"number": "810",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/810 al Comisiei din 20 mai 2021 de modificare a Regulamentului de punere în aplicare (UE) 2021/808 în ceea ce privește dispozițiile tranzitorii pentru anumite substanțe enumerate în anexa II la Decizia 2002/657/CE (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/810",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-06-10",
+"latest": "2021-06-10",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0810"
 },
 {
 "slug": "ue-regulament-817-2021",
@@ -2097,6 +2846,26 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0847"
 },
 {
+"slug": "ue-regulament-848-2021",
+"path": "ue/regulament/2021/848",
+"kind": "ue",
+"year": "2021",
+"number": "848",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/848 din 27 mai 2021",
+"short": "Regulamentul de punere în aplicare (UE) 2021/848",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-05-29",
+"latest": "2021-05-29",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0848",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "ue-regulament-849-2021",
 "path": "ue/regulament/2021/849",
 "kind": "ue",
@@ -2129,6 +2898,23 @@
 "from": "2021-06-17",
 "latest": "2021-06-17",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0850"
+},
+{
+"slug": "ue-regulament-852-2021",
+"path": "ue/regulament/2021/852",
+"kind": "ue",
+"year": "2021",
+"number": "852",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/852 al Comisiei din 27 mai 2021 de modificare a Regulamentului (CE) nr. 32/2000 al Consiliului și a Regulamentului (CE) nr. 847/2006 al Comisiei în ceea ce privește excluderea importurilor de produse originare din Regatul Unit din contingentele tarifare",
+"short": "Regulamentul de punere în aplicare (UE) 2021/852",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0852"
 },
 {
 "slug": "ue-regulament-859-2021",
@@ -2197,6 +2983,23 @@
 "from": "2021-04-21",
 "latest": "2021-04-21",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0881"
+},
+{
+"slug": "ue-regulament-882-2021",
+"path": "ue/regulament/2021/882",
+"kind": "ue",
+"year": "2021",
+"number": "882",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/882 al Comisiei din 1 iunie 2021 de autorizare a introducerii pe piață a larvei desicate de Tenebrio molitor ca aliment nou în temeiul Regulamentului (UE) 2015/2283 al Parlamentului European și al Consiliului și de modificare a Regulamentului de punere în aplicare (UE) 2017/2470 al Comisiei (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/882",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-06-22",
+"latest": "2021-06-22",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0882"
 },
 {
 "slug": "ue-directiva-884-2021",
@@ -2282,6 +3085,23 @@
 "from": "2021-06-24",
 "latest": "2021-06-24",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0896"
+},
+{
+"slug": "ue-regulament-897-2021",
+"path": "ue/regulament/2021/897",
+"kind": "ue",
+"year": "2021",
+"number": "897",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/897 al Comisiei din 4 martie 2021 de stabilire a standardelor tehnice de punere în aplicare pentru aplicarea Regulamentului (UE) 2019/1238 al Parlamentului European și al Consiliului în ceea ce privește formatul raportării în scopuri de supraveghere către autoritățile competente, precum și cooperarea și schimbul de informații între autoritățile competente și cu Autoritatea Europeană de Asigurări și Pensii Ocupaționale (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/897",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-06-24",
+"latest": "2021-06-24",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0897"
 },
 {
 "slug": "ue-regulament-899-2021",
@@ -2409,6 +3229,26 @@
 }
 },
 {
+"slug": "ue-regulament-940-2021",
+"path": "ue/regulament/2021/940",
+"kind": "ue",
+"year": "2021",
+"number": "940",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/940 al Comisiei din 10 iunie 2021 de instituire a unei taxe antidumping provizorii la importurile de placaj din lemn de mesteacăn originar din Rusia",
+"short": "Regulamentul de punere în aplicare (UE) 2021/940",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-06-12",
+"latest": "2021-06-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0940",
+"flags": {
+"end_of_validity": "2021-12-12"
+}
+},
+{
 "slug": "ue-regulament-943-2021",
 "path": "ue/regulament/2021/943",
 "kind": "ue",
@@ -2466,6 +3306,43 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0948"
 },
 {
+"slug": "ue-regulament-949-2021",
+"path": "ue/regulament/2021/949",
+"kind": "ue",
+"year": "2021",
+"number": "949",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/949 al Comisiei din 7 iunie 2021 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [„Balatoni hal” (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2021/949",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-07-04",
+"latest": "2021-07-04",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0949"
+},
+{
+"slug": "ue-regulament-957-2021",
+"path": "ue/regulament/2021/957",
+"kind": "ue",
+"year": "2021",
+"number": "957",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/957 al Comisiei din 31 mai 2021 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+"short": "Regulamentul de punere în aplicare (UE) 2021/957",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-07-05",
+"latest": "2021-07-05",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0957",
+"flags": {
+"figures_missing": 1
+}
+},
+{
 "slug": "ue-regulament-962-2021",
 "path": "ue/regulament/2021/962",
 "kind": "ue",
@@ -2481,6 +3358,23 @@
 "from": "2021-06-17",
 "latest": "2021-06-17",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0962"
+},
+{
+"slug": "ue-regulament-969-2021",
+"path": "ue/regulament/2021/969",
+"kind": "ue",
+"year": "2021",
+"number": "969",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/969 al Comisiei din 16 iunie 2021 privind autorizarea substanței L-treonină produse de Escherichia coli CGMCC 13325 ca aditiv în hrana tuturor speciilor de animale (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/969",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-07-07",
+"latest": "2021-07-07",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0969"
 },
 {
 "slug": "ue-directiva-971-2021",
@@ -2532,6 +3426,23 @@
 "from": "2021-07-08",
 "latest": "2021-07-08",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0979"
+},
+{
+"slug": "ue-regulament-982-2021",
+"path": "ue/regulament/2021/982",
+"kind": "ue",
+"year": "2021",
+"number": "982",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/982 al Comisiei din 17 iunie 2021 privind reînnoirea autorizației unui preparat de 6-fitază produsă de Trichoderma reesei CBS 122001 ca aditiv pentru hrana porcilor și a păsărilor de curte (titularul autorizației: Roal Oy) și de abrogare a Regulamentelor (UE) nr. 277/2010, (UE) nr. 891/2010 și a Regulamentului de punere în aplicare (UE) nr. 886/2011 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/982",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-07-08",
+"latest": "2021-07-08",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0982"
 },
 {
 "slug": "ue-regulament-996-2021",
@@ -2634,6 +3545,23 @@
 "from": "2021-07-15",
 "latest": "2021-07-15",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1041"
+},
+{
+"slug": "ue-regulament-1045-2021",
+"path": "ue/regulament/2021/1045",
+"kind": "ue",
+"year": "2021",
+"number": "1045",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1045 al Comisiei din 24 iunie 2021 de aprobare a clorurii de didecildimetilamoniu ca substanță activă existentă destinată utilizării în produsele biocide aparținând tipurilor de produse 3 și 4 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1045",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-07-15",
+"latest": "2021-07-15",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1045"
 },
 {
 "slug": "ue-directiva-1047-2021",
@@ -2894,6 +3822,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1099"
 },
 {
+"slug": "ue-regulament-1100-2021",
+"path": "ue/regulament/2021/1100",
+"kind": "ue",
+"year": "2021",
+"number": "1100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1100 al Comisiei din 5 iulie 2021 de instituire a unei taxe antidumping definitive și de colectare definitivă a taxei provizorii impuse importurilor de anumite produse plate laminate la cald din fier, din oțel nealiat sau din alte oțeluri aliate, originare din Turcia",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1100",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-07-07",
+"latest": "2021-07-07",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1100"
+},
+{
 "slug": "ue-regulament-1110-2021",
 "path": "ue/regulament/2021/1110",
 "kind": "ue",
@@ -2997,6 +3942,23 @@
 "from": "2021-08-02",
 "latest": "2021-08-02",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1134"
+},
+{
+"slug": "ue-regulament-1135-2021",
+"path": "ue/regulament/2021/1135",
+"kind": "ue",
+"year": "2021",
+"number": "1135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1135 al Comisiei din 9 iulie 2021 de stabilire, pentru anul 2021, a plafoanelor bugetare aplicabile anumitor scheme de sprijin direct prevăzute în Regulamentul (UE) nr. 1307/2013 al Parlamentului European și al Consiliului",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1135",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-07-19",
+"latest": "2021-07-19",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1135"
 },
 {
 "slug": "ue-regulament-1139-2021",
@@ -3305,6 +4267,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1189"
 },
 {
+"slug": "ue-regulament-1191-2021",
+"path": "ue/regulament/2021/1191",
+"kind": "ue",
+"year": "2021",
+"number": "1191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1191 al Comisiei din 19 iulie 2021 de reînnoire a aprobării substanței active clopiralid, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare, și de modificare a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1191",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-08-09",
+"latest": "2021-08-09",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1191"
+},
+{
 "slug": "ue-regulament-1199-2021",
 "path": "ue/regulament/2021/1199",
 "kind": "ue",
@@ -3371,6 +4350,40 @@
 "from": "2021-08-11",
 "latest": "2021-08-11",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L1206"
+},
+{
+"slug": "ue-regulament-1218-2021",
+"path": "ue/regulament/2021/1218",
+"kind": "ue",
+"year": "2021",
+"number": "1218",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1218 al Comisiei din 26 iulie 2021 de modificare a Regulamentului de punere în aplicare (UE) nr. 79/2012 în ceea ce privește stocarea informațiilor privind importurile scutite de TVA în cadrul „regimului de import” și accesul automat la acestea",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1218",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-08-16",
+"latest": "2021-08-16",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1218"
+},
+{
+"slug": "ue-regulament-1223-2021",
+"path": "ue/regulament/2021/1223",
+"kind": "ue",
+"year": "2021",
+"number": "1223",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1223 al Comisiei din 27 iulie 2021 de specificare a aspectelor tehnice ale setului de date, de stabilire a formatelor tehnice pentru transmiterea informațiilor și de specificare a modalităților detaliate și a conținutului rapoartelor de calitate privind organizarea unei anchete prin sondaj în domeniul utilizării tehnologiilor informației și comunicațiilor pentru anul de referință 2022 în temeiul Regulamentului (UE) 2019/1700 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1223",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-08-17",
+"latest": "2021-08-17",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1223"
 },
 {
 "slug": "ue-directiva-1226-2021",
@@ -3479,6 +4492,23 @@
 "flags": {
 "end_of_validity": "2026-12-31"
 }
+},
+{
+"slug": "ue-regulament-1241-2021",
+"path": "ue/regulament/2021/1241",
+"kind": "ue",
+"year": "2021",
+"number": "1241",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1241 al Consiliului din 29 iulie 2021 privind punerea în aplicare a articolului 21 alineatul (2) din Regulamentul (UE) 2016/44 privind măsuri restrictive având în vedere situația din Libia și de abrogare a Regulamentului (UE) nr. 204/2011",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1241",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-07-31",
+"latest": "2021-07-31",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1241"
 },
 {
 "slug": "ue-regulament-1243-2021",
@@ -3637,6 +4667,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1257"
 },
 {
+"slug": "ue-regulament-1264-2021",
+"path": "ue/regulament/2021/1264",
+"kind": "ue",
+"year": "2021",
+"number": "1264",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1264 al Comisiei din 26 iulie 2021 de aprobare a unor modificări ale caietului de sarcini al unei denumiri de origine protejate sau al unei indicații geografice protejate [„Coteaux du Libron” (IGP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1264",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-08-22",
+"latest": "2021-08-22",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1264"
+},
+{
 "slug": "ue-directiva-1269-2021",
 "path": "ue/directiva/2021/1269",
 "kind": "ue",
@@ -3691,6 +4738,40 @@
 }
 },
 {
+"slug": "ue-regulament-1280-2021",
+"path": "ue/regulament/2021/1280",
+"kind": "ue",
+"year": "2021",
+"number": "1280",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1280 al Comisiei din 2 august 2021 în ceea ce privește măsurile privind bunele practici de distribuție pentru substanțele active utilizate ca materiale de start în produsele medicinale veterinare în conformitate cu Regulamentul (UE) 2019/6 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1280",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-08-23",
+"latest": "2021-08-23",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1280"
+},
+{
+"slug": "ue-regulament-1294-2021",
+"path": "ue/regulament/2021/1294",
+"kind": "ue",
+"year": "2021",
+"number": "1294",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1294 al Comisiei din 4 august 2021 de retragere a protecției acordate denumirii de origine [Südburgenland (DOP)]",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1294",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-08-25",
+"latest": "2021-08-25",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1294"
+},
+{
 "slug": "ue-regulament-1297-2021",
 "path": "ue/regulament/2021/1297",
 "kind": "ue",
@@ -3708,6 +4789,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1297"
 },
 {
+"slug": "ue-regulament-1302-2021",
+"path": "ue/regulament/2021/1302",
+"kind": "ue",
+"year": "2021",
+"number": "1302",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1302 al Consiliului din 5 august 2021 privind punerea în aplicare a articolului 11 alineatul (1) din Regulamentul (UE) nr. 377/2012 privind măsuri restrictive împotriva anumitor persoane, entități și organisme care amenință pacea, securitatea sau stabilitatea în Republica Guineea-Bissau",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1302",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-08-06",
+"latest": "2021-08-06",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1302"
+},
+{
 "slug": "ue-regulament-1308-2021",
 "path": "ue/regulament/2021/1308",
 "kind": "ue",
@@ -3723,6 +4821,23 @@
 "from": "2021-08-29",
 "latest": "2021-08-29",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1308"
+},
+{
+"slug": "ue-regulament-1322-2021",
+"path": "ue/regulament/2021/1322",
+"kind": "ue",
+"year": "2021",
+"number": "1322",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1322 al Comisiei din 3 august 2021 de modificare a Regulamentului de punere în aplicare (UE) 2019/2076 pentru a aduce modificări administrative autorizației Uniunii pentru familia de produse biocide „Contec IPA Product Family” (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1322",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-08-31",
+"latest": "2021-08-31",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1322"
 },
 {
 "slug": "ue-regulament-1334-2021",
@@ -3918,6 +5033,63 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1353"
 },
 {
+"slug": "ue-regulament-1355-2021",
+"path": "ue/regulament/2021/1355",
+"kind": "ue",
+"year": "2021",
+"number": "1355",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1355 al Comisiei din 12 august 2021 privind programele naționale multianuale de controale vizând reziduurile de pesticide care urmează să fie stabilite de statele membre (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1355",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-09-02",
+"latest": "2021-09-02",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1355"
+},
+{
+"slug": "ue-regulament-1367-2021",
+"path": "ue/regulament/2021/1367",
+"kind": "ue",
+"year": "2021",
+"number": "1367",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1367 al Comisiei din 6 august 2021 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1367",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-09-06",
+"latest": "2021-09-06",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1367",
+"flags": {
+"figures_missing": 1
+}
+},
+{
+"slug": "ue-regulament-1369-2021",
+"path": "ue/regulament/2021/1369",
+"kind": "ue",
+"year": "2021",
+"number": "1369",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1369 al Comisiei din 6 august 2021 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1369",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-09-06",
+"latest": "2021-09-06",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1369",
+"flags": {
+"figures_missing": 1
+}
+},
+{
 "slug": "ue-regulament-1372-2021",
 "path": "ue/regulament/2021/1372",
 "kind": "ue",
@@ -4006,6 +5178,57 @@
 }
 },
 {
+"slug": "ue-regulament-1401-2021",
+"path": "ue/regulament/2021/1401",
+"kind": "ue",
+"year": "2021",
+"number": "1401",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1401 al Comisiei din 25 august 2021 de modificare a Regulamentelor de punere în aplicare (UE) 2020/761 și (UE) 2020/1988 în ceea ce privește cantitățile care pot fi importate în cadrul anumitor contingente tarifare",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1401",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-08-26",
+"latest": "2021-08-26",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1401"
+},
+{
+"slug": "ue-regulament-1412-2021",
+"path": "ue/regulament/2021/1412",
+"kind": "ue",
+"year": "2021",
+"number": "1412",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1412 al Comisiei din 27 august 2021 privind autorizarea chelatului de citrat de fier (III) ca aditiv pentru hrana purceilor și a speciilor minore de porcine (titularul autorizației: Akeso Biomedical, Inc. USA, reprezentată în Uniune de Pen & Tec Consulting SLU) (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1412",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-09-19",
+"latest": "2021-09-19",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1412"
+},
+{
+"slug": "ue-regulament-1414-2021",
+"path": "ue/regulament/2021/1414",
+"kind": "ue",
+"year": "2021",
+"number": "1414",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1414 al Comisiei din 27 august 2021 de rectificare a Regulamentului de punere în aplicare (UE) 2021/422 privind autorizarea unui preparat de Enterococcus faecium DSM 7134 ca aditiv pentru hrana găinilor ouătoare (titularul autorizației: Lactosan GmbH & Co KG) (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1414",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-08-31",
+"latest": "2021-08-31",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1414"
+},
+{
 "slug": "ue-regulament-1415-2021",
 "path": "ue/regulament/2021/1415",
 "kind": "ue",
@@ -4077,6 +5300,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1423"
 },
 {
+"slug": "ue-regulament-1424-2021",
+"path": "ue/regulament/2021/1424",
+"kind": "ue",
+"year": "2021",
+"number": "1424",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1424 al Comisiei din 31 august 2021 privind reînnoirea autorizației unui preparat de Enterococcus faecium DSM 7134 ca aditiv în hrana puilor pentru îngrășare, și de abrogare a Regulamentul (UE) nr. 998/2010 (titularul autorizației: Lactosan GmbH & Co KG) (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1424",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-09-21",
+"latest": "2021-09-21",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1424"
+},
+{
 "slug": "ue-regulament-1430-2021",
 "path": "ue/regulament/2021/1430",
 "kind": "ue",
@@ -4094,6 +5334,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1430"
 },
 {
+"slug": "ue-regulament-1432-2021",
+"path": "ue/regulament/2021/1432",
+"kind": "ue",
+"year": "2021",
+"number": "1432",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1432 al Comisiei din 1 septembrie 2021 de instituire a unei taxe antidumping definitive la importurile de anumite cabluri și toroane din oțel nealiat pentru pretensionare și posttensionare (cabluri și toroane PSC) originare din Republica Populară Chineză, în urma unei reexaminări efectuate în perspectiva expirării măsurilor în temeiul articolului 11 alineatul (2) din Regulamentul (UE) 2016/1036 al Parlamentului European și al Consiliului",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1432",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-09-03",
+"latest": "2021-09-03",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1432"
+},
+{
 "slug": "ue-regulament-1445-2021",
 "path": "ue/regulament/2021/1445",
 "kind": "ue",
@@ -4109,6 +5366,23 @@
 "from": "2021-09-26",
 "latest": "2021-09-26",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1445"
+},
+{
+"slug": "ue-regulament-1452-2021",
+"path": "ue/regulament/2021/1452",
+"kind": "ue",
+"year": "2021",
+"number": "1452",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1452 al Comisiei din 3 septembrie 2021 de reînnoire a aprobării substanței active hidrogenocarbonat de potasiu ca substanță cu risc redus, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare, și de modificare a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1452",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-09-26",
+"latest": "2021-09-26",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1452"
 },
 {
 "slug": "ue-regulament-1456-2021",
@@ -4451,6 +5725,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1706"
 },
 {
+"slug": "ue-regulament-1715-2021",
+"path": "ue/regulament/2021/1715",
+"kind": "ue",
+"year": "2021",
+"number": "1715",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1715 al Comisiei din 24 septembrie 2021 de modificare a Regulamentului (CE) nr. 1210/2003 al Consiliului privind anumite restricții specifice în relațiile economice și financiare cu Irak",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1715",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-09-28",
+"latest": "2021-09-28",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1715"
+},
+{
 "slug": "ue-directiva-1716-2021",
 "path": "ue/directiva/2021/1716",
 "kind": "ue",
@@ -4500,6 +5791,23 @@
 "from": "2021-10-18",
 "latest": "2021-10-18",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1722"
+},
+{
+"slug": "ue-regulament-1727-2021",
+"path": "ue/regulament/2021/1727",
+"kind": "ue",
+"year": "2021",
+"number": "1727",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1727 al Comisiei din 29 septembrie 2021 de modificare și rectificare a Regulamentului de punere în aplicare (UE) 2021/404 de stabilire a listelor cu țările terțe, teritoriile sau părțile din acestea din care introducerea în Uniune de animale, material germinativ și produse de origine animală este autorizată în conformitate cu Regulamentul (UE) 2016/429 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1727",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-10-01",
+"latest": "2021-10-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1727"
 },
 {
 "slug": "ue-regulament-1750-2021",
@@ -4638,6 +5946,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1783"
 },
 {
+"slug": "ue-regulament-1784-2021",
+"path": "ue/regulament/2021/1784",
+"kind": "ue",
+"year": "2021",
+"number": "1784",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1784 al Comisiei din 8 octombrie 2021 de instituire a unei taxe antidumping definitive la importurile de produse laminate plate din aluminiu originare din Republica Populară Chineză",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1784",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-10-12",
+"latest": "2021-10-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1784"
+},
+{
 "slug": "ue-regulament-1795-2021",
 "path": "ue/regulament/2021/1795",
 "kind": "ue",
@@ -4704,6 +6029,26 @@
 "from": "2021-11-04",
 "latest": "2021-11-04",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1810"
+},
+{
+"slug": "ue-regulament-1812-2021",
+"path": "ue/regulament/2021/1812",
+"kind": "ue",
+"year": "2021",
+"number": "1812",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1812 al Comisiei din 14 octombrie 2021 de instituire a unei taxe antidumping provizorii la importurile de anumite sisteme de electrozi de grafit originare din Republica Populară Chineză",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1812",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-10-16",
+"latest": "2021-10-16",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1812",
+"flags": {
+"end_of_validity": "2022-04-15"
+}
 },
 {
 "slug": "ue-regulament-1814-2021",
@@ -4809,6 +6154,23 @@
 "from": "2021-11-10",
 "latest": "2021-11-10",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1842"
+},
+{
+"slug": "ue-regulament-1849-2021",
+"path": "ue/regulament/2021/1849",
+"kind": "ue",
+"year": "2021",
+"number": "1849",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1849 al Comisiei din 21 octombrie 2021 de rectificare a anumitor versiuni lingvistice ale Regulamentului de punere în aplicare (UE) 2020/464 de stabilire a anumitor norme de aplicare a Regulamentului (UE) 2018/848 al Parlamentului European și al Consiliului în ceea ce privește documentele necesare pentru recunoașterea retroactivă a perioadelor în scopul conversiei, producția de produse ecologice și informațiile care trebuie furnizate de către statele membre (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1849",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-11-11",
+"latest": "2021-11-11",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1849"
 },
 {
 "slug": "ue-regulament-1863-2021",
@@ -5001,6 +6363,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1902"
 },
 {
+"slug": "ue-regulament-1911-2021",
+"path": "ue/regulament/2021/1911",
+"kind": "ue",
+"year": "2021",
+"number": "1911",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1911 al Comisiei din 27 octombrie 2021 de modificare a anexei II la Regulamentul de punere în aplicare (UE) 2021/620 în ceea ce privește statutul de indemn de infecția cu complexul Mycobacterium tuberculosis al Comunității Autonome Galicia și al Comunității Autonome Principado de Asturias din Spania, de modificare a anexei VIII la regulamentul respectiv în ceea ce privește statutul de indemn de infecția cu virusul bolii limbii albastre al Comunității Autonome Islas Baleares, al provinciilor Huelva și Sevilla și al regiunilor Azuaga, Badajoz, Mérida, Jerez de los Caballeros și Zafra din provincia Badajoz din Spania, precum și al regiunii Alentejo și al districtului Santarém din regiunea Lisboa e Vale do Tejo din Portugalia, de modificare a anexei IX la regulamentul respectiv în ceea ce privește statutul de indemn de infestare cu Varroa spp. al Insulelor Åland din Finlanda și de modificare a anexei XIII la regulamentul respectiv în ceea ce privește statutul de indemn de necroza hematopoietică infecțioasă al Danemarcei și Finlandei (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1911",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-11-07",
+"latest": "2021-11-07",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1911"
+},
+{
 "slug": "ue-regulament-1916-2021",
 "path": "ue/regulament/2021/1916",
 "kind": "ue",
@@ -5033,6 +6412,40 @@
 "from": "2021-11-24",
 "latest": "2021-11-24",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1917"
+},
+{
+"slug": "ue-regulament-1922-2021",
+"path": "ue/regulament/2021/1922",
+"kind": "ue",
+"year": "2021",
+"number": "1922",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1922 al Comisiei din 4 noiembrie 2021 de modificare a Regulamentului de punere în aplicare (UE) 2018/1517 de stabilire a normelor detaliate de punere în aplicare a anumitor dispoziții din Regulamentul (UE) 2018/581 al Consiliului de suspendare temporară a taxelor vamale autonome prevăzute de Tariful vamal comun pentru anumite mărfuri de tipul celor care urmează a fi încorporate în aeronave sau utilizate pentru aeronave",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1922",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-11-06",
+"latest": "2021-11-06",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1922"
+},
+{
+"slug": "ue-regulament-1924-2021",
+"path": "ue/regulament/2021/1924",
+"kind": "ue",
+"year": "2021",
+"number": "1924",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1924 al Comisiei din 3 noiembrie 2021 de modificare și rectificare a Regulamentului de punere în aplicare (UE) nr. 185/2013 în ceea ce privește deducerile din cotele de pescuit alocate Spaniei pentru anul 2023",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1924",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-11-11",
+"latest": "2021-11-11",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1924"
 },
 {
 "slug": "ue-regulament-1925-2021",
@@ -5103,6 +6516,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1929"
 },
 {
+"slug": "ue-regulament-1932-2021",
+"path": "ue/regulament/2021/1932",
+"kind": "ue",
+"year": "2021",
+"number": "1932",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1932 al Consiliului din 9 noiembrie 2021 privind punerea în aplicare a articolului 21 alineatul (2) din Regulamentul (UE) 2016/44 privind măsuri restrictive având în vedere situația din Libia",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1932",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-11-11",
+"latest": "2021-11-11",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1932"
+},
+{
 "slug": "ue-regulament-1934-2021",
 "path": "ue/regulament/2021/1934",
 "kind": "ue",
@@ -5118,6 +6548,23 @@
 "from": "2021-11-30",
 "latest": "2021-11-30",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1934"
+},
+{
+"slug": "ue-regulament-1947-2021",
+"path": "ue/regulament/2021/1947",
+"kind": "ue",
+"year": "2021",
+"number": "1947",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/1947 al Comisiei din 10 noiembrie 2021 privind definirea teritoriului geografic al statelor membre în sensul Regulamentului (UE) 2019/516 al Parlamentului European și al Consiliului privind armonizarea venitului național brut la prețurile pieței (Regulamentul VNB) și de abrogare a Deciziei 91/450/CEE, Euratom a Comisiei și a Regulamentului (CE) nr. 109/2005 al Comisiei (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/1947",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-12-01",
+"latest": "2021-12-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1947"
 },
 {
 "slug": "ue-regulament-1950-2021",
@@ -5449,6 +6896,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2045"
 },
 {
+"slug": "ue-regulament-2047-2021",
+"path": "ue/regulament/2021/2047",
+"kind": "ue",
+"year": "2021",
+"number": "2047",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/2047 al Comisiei din 23 noiembrie 2021 privind autorizarea clorhidratului de amproliu (COXAM) ca aditiv în hrana puilor pentru îngrășare și a puicuțelor pentru ouat (titularul autorizației: HuvePharma NV) (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/2047",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2047"
+},
+{
 "slug": "ue-regulament-2048-2021",
 "path": "ue/regulament/2021/2048",
 "kind": "ue",
@@ -5469,6 +6933,40 @@
 }
 },
 {
+"slug": "ue-regulament-2050-2021",
+"path": "ue/regulament/2021/2050",
+"kind": "ue",
+"year": "2021",
+"number": "2050",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/2050 al Comisiei din 24 noiembrie 2021 privind autorizarea preparatului de Bacillus velezensis CECT 5940 ca aditiv în hrana curcanilor pentru îngrășare, a curcanilor crescuți pentru reproducție, a speciilor minore de păsări de curte pentru îngrășare și crescute pentru reproducție și a păsărilor ornamentale (cu excepția reproducerii) (titularul autorizației: Evonik Operations GmbH) (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/2050",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2050"
+},
+{
+"slug": "ue-regulament-2052-2021",
+"path": "ue/regulament/2021/2052",
+"kind": "ue",
+"year": "2021",
+"number": "2052",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/2052 al Comisiei din 24 noiembrie 2021 de specificare a aspectelor tehnice din seturile de date ale anchetei prin sondaj pentru domeniul venitului și condițiilor de viață în ceea ce privește piața muncii și locuințele, transmiterea între generații a avantajelor și a dezavantajelor și dificultățile legate de locuințe, precum și subiectul ad hoc pentru 2023 privind eficiența energetică a gospodăriilor în temeiul Regulamentului (UE) 2019/1700 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/2052",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2052"
+},
+{
 "slug": "ue-regulament-2061-2021",
 "path": "ue/regulament/2021/2061",
 "kind": "ue",
@@ -5484,6 +6982,23 @@
 "from": "2021-11-15",
 "latest": "2021-11-15",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2061"
+},
+{
+"slug": "ue-regulament-2069-2021",
+"path": "ue/regulament/2021/2069",
+"kind": "ue",
+"year": "2021",
+"number": "2069",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/2069 al Comisiei din 25 noiembrie 2021 de modificare a anexei VI la Regulamentul de punere în aplicare (UE) 2019/2072 în ceea ce privește introducerea în Uniune a cartofilor pentru consum din Bosnia și Herțegovina, Muntenegru și Serbia și de abrogare a Deciziilor de punere în aplicare 2012/219/UE și (UE) 2015/1199",
+"short": "Regulamentul de punere în aplicare (UE) 2021/2069",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2069"
 },
 {
 "slug": "ue-regulament-2085-2021",
@@ -5575,6 +7090,57 @@
 "flags": {
 "figures_missing": 4
 }
+},
+{
+"slug": "ue-regulament-2092-2021",
+"path": "ue/regulament/2021/2092",
+"kind": "ue",
+"year": "2021",
+"number": "2092",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/2092 al Comisiei din 29 noiembrie 2021 privind autorizarea diformiatului de potasiu ca aditiv furajer pentru porcii pentru îngrășat și purceii înțărcați (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/2092",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-12-20",
+"latest": "2021-12-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2092"
+},
+{
+"slug": "ue-regulament-2094-2021",
+"path": "ue/regulament/2021/2094",
+"kind": "ue",
+"year": "2021",
+"number": "2094",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/2094 al Comisiei din 29 noiembrie 2021 privind autorizarea decochinatului (Deccox și Avi-Deccox 60G) ca aditiv în hrana puilor pentru îngrășare (titularul autorizației: Zoetis Belgium SA) și de abrogare a Regulamentului (CE) nr. 1289/2004 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/2094",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-12-20",
+"latest": "2021-12-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2094"
+},
+{
+"slug": "ue-regulament-2095-2021",
+"path": "ue/regulament/2021/2095",
+"kind": "ue",
+"year": "2021",
+"number": "2095",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/2095 al Comisiei din 29 noiembrie 2021 privind autorizarea L-lizinei bază, a monoclorhidratului de L-lizină și a sulfatului de L-lizină ca aditivi în hrana tuturor speciilor de animale (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/2095",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-12-20",
+"latest": "2021-12-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2095"
 },
 {
 "slug": "ue-directiva-2101-2021",
@@ -5807,6 +7373,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2139"
 },
 {
+"slug": "ue-regulament-2141-2021",
+"path": "ue/regulament/2021/2141",
+"kind": "ue",
+"year": "2021",
+"number": "2141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/2141 al Comisiei din 3 decembrie 2021 de modificare a Regulamentului de punere în aplicare (UE) 2019/2129 în ceea ce privește frecvența controalelor fizice asupra anumitor produse compuse care intră în Uniune (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2021/2141",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-12-26",
+"latest": "2021-12-26",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2141"
+},
+{
 "slug": "ue-regulament-2153-2021",
 "path": "ue/regulament/2021/2153",
 "kind": "ue",
@@ -6003,6 +7586,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2202"
 },
 {
+"slug": "ue-regulament-2203-2021",
+"path": "ue/regulament/2021/2203",
+"kind": "ue",
+"year": "2021",
+"number": "2203",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/2203 al Comisiei din 10 decembrie 2021 de modificare a Regulamentului (CE) nr. 1210/2003 al Consiliului privind anumite restricții specifice în relațiile economice și financiare cu Irak",
+"short": "Regulamentul de punere în aplicare (UE) 2021/2203",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2203"
+},
+{
 "slug": "ue-regulament-2204-2021",
 "path": "ue/regulament/2021/2204",
 "kind": "ue",
@@ -6052,6 +7652,23 @@
 "from": "2022-01-04",
 "latest": "2022-01-04",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2223"
+},
+{
+"slug": "ue-regulament-2235-2021",
+"path": "ue/regulament/2021/2235",
+"kind": "ue",
+"year": "2021",
+"number": "2235",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/2235 al Comisiei din 15 decembrie 2021 privind operarea de deduceri din cotele de pescuit disponibile pentru anumite stocuri în 2021 în conformitate cu Regulamentul (UE) nr. 1224/2009 al Consiliului, din cauza depășirii cotelor de pescuit pentru alte stocuri în anii precedenți, și de modificare a Regulamentului de punere în aplicare (UE) 2021/1420",
+"short": "Regulamentul de punere în aplicare (UE) 2021/2235",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-12-23",
+"latest": "2021-12-23",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2235"
 },
 {
 "slug": "ue-regulament-2244-2021",
@@ -6259,6 +7876,23 @@
 "from": "2021-12-25",
 "latest": "2021-12-25",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2288"
+},
+{
+"slug": "ue-regulament-2289-2021",
+"path": "ue/regulament/2021/2289",
+"kind": "ue",
+"year": "2021",
+"number": "2289",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2021/2289 al Comisiei din 21 decembrie 2021 de stabilire a normelor de aplicare a Regulamentului (UE) 2021/2115 al Parlamentului European și al Consiliului în ceea ce privește prezentarea conținutului planurilor strategice PAC și sistemul electronic pentru schimbul securizat de informații",
+"short": "Regulamentul de punere în aplicare (UE) 2021/2289",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-12-23",
+"latest": "2021-12-23",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2289"
 },
 {
 "slug": "ue-regulament-2303-2021",

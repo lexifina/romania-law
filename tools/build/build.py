@@ -1213,6 +1213,10 @@ def docs_files(c: dict, folder: Path, raw: bytes, log: list[dict], tags: dict, d
     extra = folder / 'data-extra.json'
     if extra.exists():
         for name, src in json.loads(extra.read_text(encoding='utf-8')).items():
+            # "REMOVE" deletes an earlier file from main (2026-11-06: act-links.csv, superseded by act-links-<year>.csv)
+            if src == 'REMOVE' and re.fullmatch(r'[a-z0-9-]+\.csv', name):
+                files[f'data/{name}'] = None
+                continue
             sp = Path(src)
             if sp.exists() and sp.stat().st_size <= 10_000_000 and re.fullmatch(r'[a-z0-9-]+\.csv', name):
                 files[f'data/{name}'] = sp.read_text(encoding='utf-8')

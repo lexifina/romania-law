@@ -1,7 +1,7 @@
 {
  "note": "Every freshness shard: one CSV per kind and year (local acts: per council and year), columns act, status, last_verified, check_due, method, newest_change, newest_change_date, change_in_repo, official_url. data/freshness.json explains the statuses, methods and thresholds.",
  "schema": "ro-freshness/1",
- "as_of": "2026-11-05",
+ "as_of": "2026-11-06",
  "columns": [
   "act",
   "status",
@@ -15358,10 +15358,10 @@
    "shard": "ue/2023",
    "kind": "ue",
    "file": "data/freshness/ue/2023.csv",
-   "count": 793,
+   "count": 997,
    "by_status": {
-    "current": 714,
-    "pending-change": 79,
+    "current": 899,
+    "pending-change": 98,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -15371,9 +15371,9 @@
    "shard": "ue/2024",
    "kind": "ue",
    "file": "data/freshness/ue/2024.csv",
-   "count": 1105,
+   "count": 1107,
    "by_status": {
-    "current": 1028,
+    "current": 1030,
     "pending-change": 77,
     "stale": 0,
     "unverified": 0,

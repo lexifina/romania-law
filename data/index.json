@@ -9791,12 +9791,12 @@
   {
    "shard": "ordin/2026",
    "kind": "ordin",
-   "count": 803,
+   "count": 804,
    "acts": "data/acts/ordin/2026.json",
    "list": "data/acts/ordin/2026.md",
    "versions": "data/versions/ordin/2026.json",
    "laws": "data/laws/ordin/2026.csv",
-   "laws_count": 803,
+   "laws_count": 804,
    "sources": "data/sources/ordin/2026.csv"
   },
   {
@@ -11232,45 +11232,45 @@
   {
    "shard": "ue/2021",
    "kind": "ue",
-   "count": 366,
+   "count": 460,
    "acts": "data/acts/ue/2021.json",
    "list": "data/acts/ue/2021.md",
    "versions": "data/versions/ue/2021.json",
    "laws": "data/laws/ue/2021.csv",
-   "laws_count": 366,
+   "laws_count": 460,
    "sources": "data/sources/ue/2021.csv"
   },
   {
    "shard": "ue/2022",
    "kind": "ue",
-   "count": 375,
+   "count": 980,
    "acts": "data/acts/ue/2022.json",
    "list": "data/acts/ue/2022.md",
    "versions": "data/versions/ue/2022.json",
    "laws": "data/laws/ue/2022.csv",
-   "laws_count": 375,
+   "laws_count": 980,
    "sources": "data/sources/ue/2022.csv"
   },
   {
    "shard": "ue/2023",
    "kind": "ue",
-   "count": 997,
+   "count": 1068,
    "acts": "data/acts/ue/2023.json",
    "list": "data/acts/ue/2023.md",
    "versions": "data/versions/ue/2023.json",
    "laws": "data/laws/ue/2023.csv",
-   "laws_count": 997,
+   "laws_count": 1068,
    "sources": "data/sources/ue/2023.csv"
   },
   {
    "shard": "ue/2024",
    "kind": "ue",
-   "count": 1107,
+   "count": 1108,
    "acts": "data/acts/ue/2024.json",
    "list": "data/acts/ue/2024.md",
    "versions": "data/versions/ue/2024.json",
    "laws": "data/laws/ue/2024.csv",
-   "laws_count": 1107,
+   "laws_count": 1108,
    "sources": "data/sources/ue/2024.csv"
   },
   {

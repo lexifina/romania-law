@@ -73,7 +73,8 @@ Read dates with the tools, not `git rev-list --before`: they pick each version b
 | --- | --- |
 | `data/index.json` | every act list: the primary files (`acts.json`, `versions.json`, `laws.csv`) and one shard per other kind and year, e.g. `data/acts/hg/2016.json`, `data/versions/ordin/2012.json`, `data/laws/local/bucuresti/cgmb/2016.csv`; `data/sources/<kind>/<year>.csv` lists the sources of those acts (REPRODUCE.md lists the rest) |
 | `data/freshness.json`, `data/freshness/` | when each act was last checked against its official source, and its status (see [How current is it](#how-current-is-it)); `data/freshness/index.json` lists the files |
-| `data/act-links.csv` | links between acts (amends, repeals, approves, promulgates, republishes…) from the Chamber of Deputies' database, captured 2018–2025; not official, and not complete for later links |
+| `data/act-links-<year>.csv` | links between acts (amends, repeals, approves, promulgates, republishes…) from the Chamber of Deputies' database, one file per year of the act that acts (`act-links-before-1990.csv`, `act-links-other.csv` for acts with no year); sheets captured 2018–2025 and read again on cdep.ro from November 2026; not official, and a missing link does not mean no change |
+| `data/bills.csv` | the bill behind each law since 1996 and the bills still in Parliament: Chamber and Senate numbers, initiator, first and decisional chamber, adoption dates, the Chamber's vote, Constitutional Court referral, re-examination, promulgation decree, and links to the Legislative Council's opinion, the explanatory memorandum and the adopted text, from the Chamber of Deputies' bill files; not official |
 | `data/eu-transposition.csv` | the EU acts each Romanian act transposes, from Romania's notifications to the Commission (`nim`), the act's own note (`clause`) or both; `eu_folder` is the EU act's folder under `ue/`, once it is here |
 | `data/decisions.csv`, `data/rulings-by-provision.json` | every court decision here, and the decisions on each article |
 | `data/promulgation.csv` | the decree that promulgated each law |
@@ -142,7 +143,7 @@ Every version names the page it was read from and that page's sha256. Every vers
 | [Portalul legislativ](https://legislatie.just.ro), Ministerul Justiției | the official texts, every consolidated form and the amendment notes |
 | – | archived copies of the portal's pages, each capture pinned per version |
 | [legalize-ro](https://github.com/legalize-dev/legalize-ro) | a check of the Codul fiscal's text |
-| [Camera Deputaților](https://www.cdep.ro), legislation database | `data/act-links.csv` |
+| [Camera Deputaților](https://www.cdep.ro), legislation database and bill files | `data/act-links-<year>.csv`, `data/bills.csv` |
 | [EU Publications Office](https://op.europa.eu) (CELLAR) | the Romanian texts in `ue/` and the decisions in `jurisprudenta/cjue/` (© European Union, https://eur-lex.europa.eu; Commission Decision 2011/833/EU, CC BY 4.0); `data/eu-transposition.csv` (CC0) |
 | The professional bodies' own sites (unbr.ro, inppa.ro, ocjr.ro, executori.ro, consiliuldemediere.ro, cafr.ro) | the texts in `profesii/` (official texts, Legea nr. 8/1996, art. 9 lit. b) |
 | [INS SIRUTA](https://data.gov.ro) and the [BNR](https://www.bnr.ro) rate table | locality codes in the court tables; `data/legal-interest.csv` |
