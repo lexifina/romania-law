@@ -1220,14 +1220,25 @@
    "sources": "data/sources/cncd/2020.csv"
   },
   {
+   "shard": "cnsc/2025",
+   "kind": "cnsc",
+   "count": 1,
+   "acts": "data/acts/cnsc/2025.json",
+   "list": "data/acts/cnsc/2025.md",
+   "versions": "data/versions/cnsc/2025.json",
+   "laws": "data/laws/cnsc/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/cnsc/2025.csv"
+  },
+  {
    "shard": "cnsc/2026",
    "kind": "cnsc",
-   "count": 57,
+   "count": 254,
    "acts": "data/acts/cnsc/2026.json",
    "list": "data/acts/cnsc/2026.md",
    "versions": "data/versions/cnsc/2026.json",
    "laws": "data/laws/cnsc/2026.csv",
-   "laws_count": 57,
+   "laws_count": 254,
    "sources": "data/sources/cnsc/2026.csv"
   },
   {
