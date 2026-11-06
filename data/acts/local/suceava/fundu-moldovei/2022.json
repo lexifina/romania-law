@@ -3,6 +3,116 @@
 "shard": "local/suceava/fundu-moldovei/2022",
 "acts": [
 {
+"slug": "hcl-suceava--fundu-moldovei-34-2022",
+"path": "local/suceava/fundu-moldovei/2022/34",
+"kind": "local",
+"year": "2022",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 34/2022 privind aprobarea vânzării prin licitație publică a unui spațiu C1 -U4, proprietate privată a comunei Fundu Moldovei, judeţul Suceava",
+"short": "HCL Fundu Moldovei nr. 34/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/81208",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-35-2022",
+"path": "local/suceava/fundu-moldovei/2022/35",
+"kind": "local",
+"year": "2022",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 35/2022 privind aprobarea valorificării masei lemnoase de pe trupurile de pădure aparţinând domeniului public al comunei Fundu Moldovei, aflat în administrarea Ocoalelor Silvice Pojorâta și Breaza",
+"short": "HCL Fundu Moldovei nr. 35/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/81209",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-36-2022",
+"path": "local/suceava/fundu-moldovei/2022/36",
+"kind": "local",
+"year": "2022",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 36/2022 privind aprobarea modificării structurii organizatorice şi a statului de funcţii al aparatului de specialitate al primarului comunei Fundu Moldovei, judeţul Suceava",
+"short": "HCL Fundu Moldovei nr. 36/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/81210",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-37-2022",
+"path": "local/suceava/fundu-moldovei/2022/37",
+"kind": "local",
+"year": "2022",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 37/2022 privind acordarea mandatului special Președintelui Asociației Județene pentru Apă și Canalizare Suceava să semneze în numele și pe seama UAT comuna Fundu Moldovei, județul Suceava, Actele de modificare a Actului Constitutiv și a Statutului Asociației pentru Apă și Canalizare Suceava",
+"short": "HCL Fundu Moldovei nr. 37/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/81211",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-38-2022",
+"path": "local/suceava/fundu-moldovei/2022/38",
+"kind": "local",
+"year": "2022",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 38/2022 privind validarea Dispoziției primarului comunei Fundu Moldovei nr.56 din 08.07.2022 privind rectificarea bugetului local de venituri și cheltuieli al comunei Fundu Moldovei, județul Suceava pe anul 2022",
+"short": "HCL Fundu Moldovei nr. 38/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/81212",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--fundu-moldovei-39-2022",
 "path": "local/suceava/fundu-moldovei/2022/39",
 "kind": "local",
@@ -22,6 +132,28 @@
 "council_name": "Consiliul Local al Comunei Fundu Moldovei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-40-2022",
+"path": "local/suceava/fundu-moldovei/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 40/2022 privind aprobarea modificării prețurilor pentru gestionarea deșeurilor -fractie uscată- în comuna Fundu Moldovei",
+"short": "HCL Fundu Moldovei nr. 40/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/81215",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -66,6 +198,28 @@
 "council_name": "Consiliul Local al Comunei Fundu Moldovei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-43-2022",
+"path": "local/suceava/fundu-moldovei/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 43/2022 privind alegerea preşedintelui de şedinţă al Consiliului Local al comunei Fundu Moldovei",
+"short": "HCL Fundu Moldovei nr. 43/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/81218",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -154,6 +308,72 @@
 "council_name": "Consiliul Local al Comunei Fundu Moldovei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-48-2022",
+"path": "local/suceava/fundu-moldovei/2022/48",
+"kind": "local",
+"year": "2022",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 48/2022 privind desemnarea unui reprezentant al Consiliului Local în Consiliul de Administraţie al Şcolii Gimnaziale „ Dimitrie Gusti” Fundu Moldovei",
+"short": "HCL Fundu Moldovei nr. 48/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/81228",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-49-2022",
+"path": "local/suceava/fundu-moldovei/2022/49",
+"kind": "local",
+"year": "2022",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 49/2022 privind aprobarea modificării prețurilor pentru gestionarea deșeurilor- fractie umedă, în comuna Fundu Moldovei",
+"short": "HCL Fundu Moldovei nr. 49/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/81229",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-50-2022",
+"path": "local/suceava/fundu-moldovei/2022/50",
+"kind": "local",
+"year": "2022",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 50/2022 privind validarea Dispoziției primarului comunei nr.80 din 13.09.2022 privind rectificarea bugetului local de venituri și cheltuieli al comunei Fundu Moldovei, județul Suceava pe anul 2022 și a Dispoziției nr.90 din 27.09.2022 privind rectificarea bugetului local de venituri și cheltuieli al comunei Fundu Moldovei, județul Suceava și bugetul instituțiilor și activităților finanțate din venituri proprii pe anul 2022",
+"short": "HCL Fundu Moldovei nr. 50/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/81230",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

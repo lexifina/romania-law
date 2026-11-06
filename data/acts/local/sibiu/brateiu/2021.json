@@ -378,6 +378,28 @@
 }
 },
 {
+"slug": "hcl-sibiu--brateiu-42-2021",
+"path": "local/sibiu/brateiu/2021/42",
+"kind": "local",
+"year": "2021",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 42/2021 privind alegerea președintelui de ședință pe următoarele 3 luni",
+"short": "HCL Brateiu nr. 42/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-13",
+"latest": "2021-12-13",
+"portal": "https://emol.ro/brateiu-sb/registru-hcl/56569",
+"council": "sibiu/brateiu",
+"council_name": "Consiliul Local al Comunei Brateiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-sibiu--brateiu-43-2021",
 "path": "local/sibiu/brateiu/2021/43",
 "kind": "local",

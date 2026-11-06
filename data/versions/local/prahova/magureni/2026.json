@@ -198,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--magureni-23-2026",
+   "path": "local/prahova/magureni/2026/23",
+   "short": "HCL Măgureni nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 23/2026 privind desemnarea reprezentantilor Consiliului Local în Consiliul de Administrație al Școlii Gimnaziale Comuna Măgureni pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/294751",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/294751",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-24-2026",
    "path": "local/prahova/magureni/2026/24",
    "short": "HCL Măgureni nr. 24/2026",
@@ -228,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--magureni-6-2026",
+   "path": "local/prahova/magureni/2026/6",
+   "short": "HCL Măgureni nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 6/2026",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/264281",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/264281",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-7-2026",
    "path": "local/prahova/magureni/2026/7",
    "short": "HCL Măgureni nr. 7/2026",
@@ -238,6 +268,21 @@
      "from": "2026-05-19",
      "units": 1,
      "source_url": "https://emol.ro/magureni-ph/registru-hcl/268900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-8-2026",
+   "path": "local/prahova/magureni/2026/8",
+   "short": "HCL Măgureni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 8/2026 privind alegea președintelui de ședință pentru lunile mai, iunie și iulie 2026",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/268901",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/268901",
      "sha256": null
     }
    ]

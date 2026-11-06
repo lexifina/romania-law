@@ -245,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-prahova--stefesti-40-2026",
+"path": "local/prahova/stefesti/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 40/2026 privind desemnarea reprezentantilor Consiliului Local al comunei Stefesti care sa faca parte din Consiliul de Administratie al Scolii Gimnaziale Stefesti si din Comisia de evaluare si asigurarea calitatii educatiei la nivelul Scolii Gimnaziale Stefesti, pentru anul scolar 2026-2027",
+"short": "HCL Ștefești nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/287520",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--stefesti-41-2026",
 "path": "local/prahova/stefesti/2026/41",
 "kind": "local",
@@ -308,6 +330,28 @@
 "council_name": "Consiliul Local al Comunei Ștefești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--stefesti-44-2026",
+"path": "local/prahova/stefesti/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 44/2026 privind alegerea presedintelui de sedinta pentru urmatoarele 3(trei) luni",
+"short": "HCL Ștefești nr. 44/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/288263",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

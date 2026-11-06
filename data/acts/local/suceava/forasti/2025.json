@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-suceava--forasti-71-2025",
+"path": "local/suceava/forasti/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 71/2025 privind îndreptarea erorilor materiale survenite în HCL nr. 57/16.10.2025 cu privire la însușirea și aprobarea documentației cadastrale de dezmembrare în trei loturi disticnte a unui imobil, în suprafață de 213,563 mp, CF 33797, din domeniul privat al comunei Forăști, județul Suceava",
+"short": "HCL Forăști nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/240521",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--forasti-72-2025",
 "path": "local/suceava/forasti/2025/72",
 "kind": "local",
@@ -113,6 +135,94 @@
 }
 },
 {
+"slug": "hcl-suceava--forasti-76-2025",
+"path": "local/suceava/forasti/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 76/2025 privind aprobarea apartenenței la domeniul privat al comunei Forăști a imobilului teren în suprafață de 18.354 mp, categoria de folosință fâneață, situat în tarla ''Coada iazului'', extravilan, comuna Forăști, județul Suceava",
+"short": "HCL Forăști nr. 76/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/240529",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-77-2025",
+"path": "local/suceava/forasti/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 77/2025 privind respingerea proiectului de hotărâre cu privire la aprobarea vânzării, prin licitație publică, a imobilului teren în suprafață de 36.448 mp, cateogoria de folosință 'livada'' identificat prin CF 34535, domeniu privat al comunei Forăști, situat în tarla ''Livada Tolesti'', în extravilanul comunei Forăști",
+"short": "HCL Forăști nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/240530",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-78-2025",
+"path": "local/suceava/forasti/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 78/2025 privind respingerea proiectului de hotărâre cu privire la aprobarea vânzării, prin licitație publică, a imobilului teren în suprafață de 67.621 mp, categoria de folosință neproductiv, identificat prin CF 34547, domeniul privat al comunei Forăști, situat în extravilanul comunei Forăști",
+"short": "HCL Forăști nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/240533",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-79-2025",
+"path": "local/suceava/forasti/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 79/2025 privind respingerea proiectului de hotărâre cu privire la aprobarea vânzării, prin licitație publică, a imobilului teren în suprafață de 27.910 mp, categoria de folosință neproductiv, identificat prin CF 34548, domeniu privat al comunei Forăști, situat în extravilanul comunei Forăști",
+"short": "HCL Forăști nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/240535",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--forasti-80-2025",
 "path": "local/suceava/forasti/2025/80",
 "kind": "local",
@@ -132,6 +242,204 @@
 "council_name": "Consiliul Local al Comunei Forăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--forasti-81-2025",
+"path": "local/suceava/forasti/2025/81",
+"kind": "local",
+"year": "2025",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 81/2025 privind rectificarea bugetului local de venituri si cheltuieli si a Listei de investitii",
+"short": "HCL Forăști nr. 81/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-11",
+"latest": "2026-05-11",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/267602",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-82-2025",
+"path": "local/suceava/forasti/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 82/2025 privind aprobarea decontarii cheltuielilor aferente navetei cadrelor didactice de la Scoala Gimnaziala Oniceni",
+"short": "HCL Forăști nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-11",
+"latest": "2026-05-11",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/267603",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-83-2025",
+"path": "local/suceava/forasti/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 83/2025 privind aprobarea Planului anual de actiuni sau lucrări de interes local la nivelul comunei Forasti, care va fi executat cu beneficiarii Legii nr. 196/2016, în anul 2026",
+"short": "HCL Forăști nr. 83/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-11",
+"latest": "2026-05-11",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/267605",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-84-2025",
+"path": "local/suceava/forasti/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 84/2025 privind respingerea proiectului de hotarare cu privire la aprobarea vânzării, prin licitatie publica, a imobilului teren in suprafata de 18.354 mp, categoria de folosinta ,,faneata”, identificat prin CF 34539, domeniu privat al comunei Forasti, situat in tarla ,,Coada iazului”, in extravilanul comunei Forasti",
+"short": "HCL Forăști nr. 84/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-11",
+"latest": "2026-05-11",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/267607",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-85-2025",
+"path": "local/suceava/forasti/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 85/2025 privind respingerea proiectului de hotarare cu privire la aprobarea vânzării, prin licitatie publica, a imobilului teren in suprafata de 27.910 mp , categoria de folosinta neproductiv, identificat prin CF 34548, domeniu privat al comunei Forasti, situat in extravilanul comunei Forasti",
+"short": "HCL Forăști nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-11",
+"latest": "2026-05-11",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/267609",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-86-2025",
+"path": "local/suceava/forasti/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 86/2025 privind respingerea proiectului de hotarare cu privire la aprobarea vânzării, prin licitatie publica, a imobilului teren in suprafata de 67.621 mp , categoria de folosinta neproductiv, identificat prin CF 34547, domeniu privat al comunei Forasti, situat in extravilanul comunei Forasti",
+"short": "HCL Forăști nr. 86/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-11",
+"latest": "2026-05-11",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/267610",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-87-2025",
+"path": "local/suceava/forasti/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 87/2025 privind respingerea proiectului de hotarare cu privire la aprobarea vânzării, prin licitatie publica, a imobilului teren in suprafata de 36.448 mp , categoria de folosinta ,,livada”,, identificat prin CF 34535, domeniu privat al comunei Forasti, situat in tarla ,,Livada Toles􀆟”, in extravilanul comunei Forasti",
+"short": "HCL Forăști nr. 87/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/267611",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-88-2025",
+"path": "local/suceava/forasti/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 88/2025 privind aprobarea organizarii retelei scolare din raza teritoriala a comunei Forasti , judetul Suceava, pentru anul scolar 2026 – 2027",
+"short": "HCL Forăști nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-11",
+"latest": "2026-05-11",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/267612",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-89-2025",
+"path": "local/suceava/forasti/2025/89",
+"kind": "local",
+"year": "2025",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 89/2025 privind stabilirea nivelurilor pentru valorile impozabile, impozitele si taxele locale si alte taxe asimilate acestora, precum si amenzile aplicabile incepand cu anul fiscal 2026",
+"short": "HCL Forăști nr. 89/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-12",
+"latest": "2026-05-12",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/267671",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

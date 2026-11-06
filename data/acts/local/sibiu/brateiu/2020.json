@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-sibiu--brateiu-31-2020",
+"path": "local/sibiu/brateiu/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 31/2020 Privind revocarea Hotarari de Consiliu Local nr.9 din 12.02.2020 privind trecerea in proprietatea domeniului public privat al comunei Brateiu al imobilului situat in comuna Brateiu sat Buzd nr.118",
+"short": "HCL Brateiu nr. 31/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-21",
+"latest": "2020-08-21",
+"portal": "https://emol.ro/brateiu-sb/registru-hcl/19782",
+"council": "sibiu/brateiu",
+"council_name": "Consiliul Local al Comunei Brateiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-sibiu--brateiu-32-2020",
 "path": "local/sibiu/brateiu/2020/32",
 "kind": "local",
@@ -269,6 +291,28 @@
 "council_name": "Consiliul Local al Comunei Brateiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--brateiu-41-2020",
+"path": "local/sibiu/brateiu/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 41/2020 privind desemnarea unui reprezentant în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”ECONORD Sibiu”",
+"short": "HCL Brateiu nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-13",
+"latest": "2020-11-13",
+"portal": "https://emol.ro/brateiu-sb/registru-hcl/19797",
+"council": "sibiu/brateiu",
+"council_name": "Consiliul Local al Comunei Brateiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

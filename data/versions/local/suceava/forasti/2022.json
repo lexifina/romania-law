@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--forasti-84-2022",
+   "path": "local/suceava/forasti/2022/84",
+   "short": "HCL Forăști nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 84/2022 privind aprobarea decontarii cheltuielilor aferente navetei cadrelor didactice de la Scoala Gimnaziala Oniceni",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/83775",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/83775",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--forasti-85-2022",
    "path": "local/suceava/forasti/2022/85",
    "short": "HCL Forăști nr. 85/2022",
@@ -133,6 +148,36 @@
      "from": "2022-12-21",
      "units": 1,
      "source_url": "https://emol.ro/forasti-sv/registru-hcl/83778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-88-2022",
+   "path": "local/suceava/forasti/2022/88",
+   "short": "HCL Forăști nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 88/2022 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/83779",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/83779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-89-2022",
+   "path": "local/suceava/forasti/2022/89",
+   "short": "HCL Forăști nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 89/2022",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/83780",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/83780",
      "sha256": null
     }
    ]
@@ -238,6 +283,21 @@
      "from": "2023-02-03",
      "units": 1,
      "source_url": "https://emol.ro/forasti-sv/registru-hcl/88806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-97-2022",
+   "path": "local/suceava/forasti/2022/97",
+   "short": "HCL Forăști nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 97/2022 privind aprobarea salariilor de baza aferente functiilor din cadrul familiei ocupationale \"Administratiei\" utilizate in apaaratul de specialitate al Primarului comunei Forasti, judetul Suceava si a indemnizatiei consilierilor locali",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/88807",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/88807",
      "sha256": null
     }
    ]

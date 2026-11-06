@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--plopu-77-2022",
+   "path": "local/prahova/plopu/2022/77",
+   "short": "HCL Plopu nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 77/2022",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/80886",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/80886",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--plopu-78-2022",
    "path": "local/prahova/plopu/2022/78",
    "short": "HCL Plopu nr. 78/2022",

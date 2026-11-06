@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-prahova--vadu-sapat-2-2022",
+"path": "local/prahova/vadu-sapat/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 2/2022 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap grav și a numărului de indemnizații pentru persoane cu handicap grav, pentru anul 2022",
+"short": "HCL Vadu Săpat nr. 2/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-25",
+"latest": "2022-01-25",
+"portal": "https://emol.ro/vadusapat-ph/registru-hcl/53179",
+"council": "prahova/vadu-sapat",
+"council_name": "Consiliul Local al Comunei Vadu Săpat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--vadu-sapat-3-2022",
 "path": "local/prahova/vadu-sapat/2022/3",
 "kind": "local",

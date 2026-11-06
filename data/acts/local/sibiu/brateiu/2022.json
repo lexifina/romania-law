@@ -333,6 +333,28 @@
 }
 },
 {
+"slug": "hcl-sibiu--brateiu-58-2022",
+"path": "local/sibiu/brateiu/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 58/2022 privind alegerea președintelui de ședință pe următoarele 3 luni",
+"short": "HCL Brateiu nr. 58/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-13",
+"latest": "2023-02-13",
+"portal": "https://emol.ro/brateiu-sb/registru-hcl/90057",
+"council": "sibiu/brateiu",
+"council_name": "Consiliul Local al Comunei Brateiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-sibiu--brateiu-59-2022",
 "path": "local/sibiu/brateiu/2022/59",
 "kind": "local",
@@ -352,6 +374,73 @@
 "council_name": "Consiliul Local al Comunei Brateiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--brateiu-60-2022",
+"path": "local/sibiu/brateiu/2022/60",
+"kind": "local",
+"year": "2022",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 60/2022 privind aprobarea Studiului de Fezabilitate, revizuit conform Action Completion Note PJ/JASPERS/2022-2022-09223/ET/JH/jo și aprobat prin Decizia de punere în aplicare a Comisiei de 6.9.2922, a Indicatorilor tehnico-economici, a Planului anual de evoluție a tarifelor de apă și apă uzată precum și a listei prioritare de investiții, pentru ”Proiect Regional de dezvoltare a infrastructurii de apă și apă uzată în regiunile Mediaș, Agnita și Dumbrăveni, județul SIBIU, în cadul POIM 2014-2020",
+"short": "HCL Brateiu nr. 60/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-13",
+"latest": "2023-02-13",
+"portal": "https://emol.ro/brateiu-sb/registru-hcl/90059",
+"council": "sibiu/brateiu",
+"council_name": "Consiliul Local al Comunei Brateiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--brateiu-61-2022",
+"path": "local/sibiu/brateiu/2022/61",
+"kind": "local",
+"year": "2022",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 61/2022",
+"short": "HCL Brateiu nr. 61/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-13",
+"latest": "2023-02-13",
+"portal": "https://emol.ro/brateiu-sb/registru-hcl/90060",
+"council": "sibiu/brateiu",
+"council_name": "Consiliul Local al Comunei Brateiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-sibiu--brateiu-62-2022",
+"path": "local/sibiu/brateiu/2022/62",
+"kind": "local",
+"year": "2022",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 62/2022 privind validarea dispoziției nr. 531 din 22.12.2022 cu privire la rectificarea bugetului local al comunei Brateiu anul 2022",
+"short": "HCL Brateiu nr. 62/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-13",
+"latest": "2023-02-13",
+"portal": "https://emol.ro/brateiu-sb/registru-hcl/90061",
+"council": "sibiu/brateiu",
+"council_name": "Consiliul Local al Comunei Brateiu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-suceava--cornu-luncii-89-2022",
+"path": "local/suceava/cornu-luncii/2022/89",
+"kind": "local",
+"year": "2022",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 89/2022 privind acordarea titlului de „Cetățean de Onoare” al comunei Cornu Luncii, județul Suceava, unor personalități cu merite deosebite, foști și actuali cetățeni din comună",
+"short": "HCL Cornu Luncii nr. 89/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-18",
+"latest": "2023-01-18",
+"portal": "https://emol.ro/cornuluncii-sv/registru-hcl/86256",
+"council": "suceava/cornu-luncii",
+"council_name": "Consiliul Local al Comunei Cornu Luncii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--cornu-luncii-90-2022",
 "path": "local/suceava/cornu-luncii/2022/90",
 "kind": "local",
@@ -91,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-suceava--cornu-luncii-92-2022",
+"path": "local/suceava/cornu-luncii/2022/92",
+"kind": "local",
+"year": "2022",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 92/2022 privind aprobarea indicatorilor tehnico – economici şi a devizului general pentru obiectivul de investiţii ,,CREŞTEREA PERFORMANŢEI ENERGETICE PENTRU BLOCURILE DE LOCUINŢE DIN COMUNA CORNU LUNCII, JUDEŢUL SUCEAVA”",
+"short": "HCL Cornu Luncii nr. 92/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-18",
+"latest": "2023-01-18",
+"portal": "https://emol.ro/cornuluncii-sv/registru-hcl/86265",
+"council": "suceava/cornu-luncii",
+"council_name": "Consiliul Local al Comunei Cornu Luncii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--cornu-luncii-93-2022",
 "path": "local/suceava/cornu-luncii/2022/93",
 "kind": "local",
@@ -110,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Cornu Luncii",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--cornu-luncii-94-2022",
+"path": "local/suceava/cornu-luncii/2022/94",
+"kind": "local",
+"year": "2022",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 94/2022 privind aprobarea vânzării prin licitație publică a unor parcele de teren, proprietate privată a comunei Cornu Luncii, situate în extravilanul/intravilanul satelor Brăiești și Băișești",
+"short": "HCL Cornu Luncii nr. 94/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-18",
+"latest": "2023-01-18",
+"portal": "https://emol.ro/cornuluncii-sv/registru-hcl/86267",
+"council": "suceava/cornu-luncii",
+"council_name": "Consiliul Local al Comunei Cornu Luncii",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +223,73 @@
 }
 },
 {
+"slug": "hcl-suceava--cornu-luncii-97-2022",
+"path": "local/suceava/cornu-luncii/2022/97",
+"kind": "local",
+"year": "2022",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 97/2022 privind rezilierea contractului de închiriere nr. 3860 din 03.04.2018 pentru suprafața de 9,00 ha pajiști aparținând domeniului privat al comunei Cornu Luncii, județul Suceava",
+"short": "HCL Cornu Luncii nr. 97/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-26",
+"latest": "2023-04-26",
+"portal": "https://emol.ro/cornuluncii-sv/registru-hcl/101735",
+"council": "suceava/cornu-luncii",
+"council_name": "Consiliul Local al Comunei Cornu Luncii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--cornu-luncii-98-2022",
+"path": "local/suceava/cornu-luncii/2022/98",
+"kind": "local",
+"year": "2022",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 98/2022",
+"short": "HCL Cornu Luncii nr. 98/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-26",
+"latest": "2023-04-26",
+"portal": "https://emol.ro/cornuluncii-sv/registru-hcl/101736",
+"council": "suceava/cornu-luncii",
+"council_name": "Consiliul Local al Comunei Cornu Luncii",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--cornu-luncii-99-2022",
+"path": "local/suceava/cornu-luncii/2022/99",
+"kind": "local",
+"year": "2022",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 99/2022 privind desemnarea reprezentanților Consiliului local în cadrul Consiliului de Administrație de la Școala Gimnazială Băișești Cornu Luncii județul Suceava",
+"short": "HCL Cornu Luncii nr. 99/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-26",
+"latest": "2023-04-26",
+"portal": "https://emol.ro/cornuluncii-sv/registru-hcl/101737",
+"council": "suceava/cornu-luncii",
+"council_name": "Consiliul Local al Comunei Cornu Luncii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--cornu-luncii-100-2022",
 "path": "local/suceava/cornu-luncii/2022/100",
 "kind": "local",
@@ -176,6 +309,50 @@
 "council_name": "Consiliul Local al Comunei Cornu Luncii",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--cornu-luncii-101-2022",
+"path": "local/suceava/cornu-luncii/2022/101",
+"kind": "local",
+"year": "2022",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 101/2022 privind vânzarea fără licitație publică (directă) a unui teren în suprafață de 900 mp din domeniul privat al comunei Cornu Luncii, identificat cu nr. cadastral 30005 înscris în cartea funciară a comunei, cu exercitarea dreptului de preemțiune",
+"short": "HCL Cornu Luncii nr. 101/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-26",
+"latest": "2023-04-26",
+"portal": "https://emol.ro/cornuluncii-sv/registru-hcl/101739",
+"council": "suceava/cornu-luncii",
+"council_name": "Consiliul Local al Comunei Cornu Luncii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--cornu-luncii-102-2022",
+"path": "local/suceava/cornu-luncii/2022/102",
+"kind": "local",
+"year": "2022",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 102/2022 privind aprobarea vânzării prin licitație publică a unei parcele de teren, proprietate privată a comunei Cornu Luncii, situată în extravilanul/intravilanul satului Brăiești, din comuna Cornu Luncii",
+"short": "HCL Cornu Luncii nr. 102/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-26",
+"latest": "2023-04-26",
+"portal": "https://emol.ro/cornuluncii-sv/registru-hcl/101740",
+"council": "suceava/cornu-luncii",
+"council_name": "Consiliul Local al Comunei Cornu Luncii",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

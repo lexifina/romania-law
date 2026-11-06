@@ -180,6 +180,28 @@
 }
 },
 {
+"slug": "hcl-prahova--plopu-79-2026",
+"path": "local/prahova/plopu/2026/79",
+"kind": "local",
+"year": "2026",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 79/2026 privind DESEMNAREA UNUI CONSILIER LOCAL DIN CADRUL CONSILIULUI LOCAL AL COMUNEI PLOPU, JUDETUL PRAHOVA, CARE SA INDEPLINEASCA CALITATEA DE MEMBRU, IN COMPONENTA CONSILIULUI DE ADMINISTRATIE AL SCOLII GIMNAZIALE, COMUNA PLOPU, PENTRU ANUL SCOLAR 2026 - 2027",
+"short": "HCL Plopu nr. 79/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/290624",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--plopu-80-2026",
 "path": "local/prahova/plopu/2026/80",
 "kind": "local",
@@ -223,6 +245,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--plopu-82-2026",
+"path": "local/prahova/plopu/2026/82",
+"kind": "local",
+"year": "2026",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 82/2026 privind APROBAREA STUDIULUI DE OPORTUNITATE SI A DOCUMENTATIEI DE ATRIBUIRE PENTRU INCHIRIEREA, PRIN LICITATIE PUBLICA, A TERENULUI CE APARTINE DOMENIULUI PRIVAT AL COMUNEI PLOPU, SITUAT IN COMUNA PLOPU, SAT GALMEIA, TARLA 40, PARCELA P 1728/2, INSCRIS IN CARTEA FUNCIARA NR.23252 A COMUNEI PLOPU, CU NUMAR CADASTRAL 23252, AVAND SUPRAFATA DE 155,16 M.P",
+"short": "HCL Plopu nr. 82/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/290627",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -335,6 +379,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--plopu-88-2026",
+"path": "local/prahova/plopu/2026/88",
+"kind": "local",
+"year": "2026",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 88/2026 privind DECONTAREA SUMEI DE 2443 LEI REPREZENTAND CHELTUIELI DE TRANSPORT EFECTUATE DE CADRELE DIDACTICE SI/ SAU PERSONALUL DIDACTIC AUXILIAR DIN INVATAMANTUL PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU, JUDETUL PRAHOVA, AFERENTA LUNII SEPTEMBRIE, ANUL 2026",
+"short": "HCL Plopu nr. 88/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/295972",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

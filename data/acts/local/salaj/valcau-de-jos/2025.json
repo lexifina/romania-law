@@ -246,6 +246,28 @@
 }
 },
 {
+"slug": "hcl-salaj--valcau-de-jos-60-2025",
+"path": "local/salaj/valcau-de-jos/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 60/2025 privind aprobarea modificării și completării Programului anual al achizițiilor publice pe anul 2025, la nivelul comunei Valcău de Jos, județul Sălaj",
+"short": "HCL Valcău de Jos nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/valcaudejos-sj/registru-hcl/239857",
+"council": "salaj/valcau-de-jos",
+"council_name": "Consiliul Local al Comunei Valcău de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--valcau-de-jos-61-2025",
 "path": "local/salaj/valcau-de-jos/2025/61",
 "kind": "local",

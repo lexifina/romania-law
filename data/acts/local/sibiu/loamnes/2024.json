@@ -91,6 +91,72 @@
 }
 },
 {
+"slug": "hcl-sibiu--loamnes-68-2024",
+"path": "local/sibiu/loamnes/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 68/2024 privind modificarea Anexei nr. 2 , a art. 4 și a Anexei nr. 5 la HCL nr.31/2022",
+"short": "HCL Loamneș nr. 68/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-05",
+"latest": "2025-03-05",
+"portal": "https://emol.ro/loamnes-sb/registru-hcl/195619",
+"council": "sibiu/loamnes",
+"council_name": "Consiliul Local al Comunei Loamneș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--loamnes-69-2024",
+"path": "local/sibiu/loamnes/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 69/2024 privind alegerea președintelui de ședință",
+"short": "HCL Loamneș nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-17",
+"latest": "2025-03-17",
+"portal": "https://emol.ro/loamnes-sb/registru-hcl/197122",
+"council": "sibiu/loamnes",
+"council_name": "Consiliul Local al Comunei Loamneș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--loamnes-70-2024",
+"path": "local/sibiu/loamnes/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 70/2024 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Loamneș, județul Sibiu pentru anul 2024",
+"short": "HCL Loamneș nr. 70/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-17",
+"latest": "2025-03-17",
+"portal": "https://emol.ro/loamnes-sb/registru-hcl/197123",
+"council": "sibiu/loamnes",
+"council_name": "Consiliul Local al Comunei Loamneș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-sibiu--loamnes-71-2024",
 "path": "local/sibiu/loamnes/2024/71",
 "kind": "local",
@@ -157,6 +223,50 @@
 }
 },
 {
+"slug": "hcl-sibiu--loamnes-74-2024",
+"path": "local/sibiu/loamnes/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 74/2024 privind desemnarea reprezentanților Consiliului Local Loamneș în Consiliul de Administrație la unitatea de învățământ preuniversitar Școala Gimnazială Loamneș",
+"short": "HCL Loamneș nr. 74/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-17",
+"latest": "2025-03-17",
+"portal": "https://emol.ro/loamnes-sb/registru-hcl/197127",
+"council": "sibiu/loamnes",
+"council_name": "Consiliul Local al Comunei Loamneș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--loamnes-75-2024",
+"path": "local/sibiu/loamnes/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 75/2024 privind desemnarea reprezentanților Consiliului Local Loamneș, în ,,Comisia pentru prevenirea și eliminarea violenței, a faptelor de corupție și discriminării în mediul școlar și promovarea interculturalității” și în ,,Comisia de evaluare și asigurare a calității” în unitatea de învățământ preuniversitar Școala Gimnazială Loamneș",
+"short": "HCL Loamneș nr. 75/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-17",
+"latest": "2025-03-17",
+"portal": "https://emol.ro/loamnes-sb/registru-hcl/197128",
+"council": "sibiu/loamnes",
+"council_name": "Consiliul Local al Comunei Loamneș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-sibiu--loamnes-76-2024",
 "path": "local/sibiu/loamnes/2024/76",
 "kind": "local",
@@ -176,6 +286,28 @@
 "council_name": "Consiliul Local al Comunei Loamneș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--loamnes-77-2024",
+"path": "local/sibiu/loamnes/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 77/2024 privind aprobarea prelungirii prin Act adiţional a contractului de închiriere cu nr. 8738/23.12.2019",
+"short": "HCL Loamneș nr. 77/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-17",
+"latest": "2025-03-17",
+"portal": "https://emol.ro/loamnes-sb/registru-hcl/197131",
+"council": "sibiu/loamnes",
+"council_name": "Consiliul Local al Comunei Loamneș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

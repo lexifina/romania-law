@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--carlibaba-15-2021",
+   "path": "local/suceava/carlibaba/2021/15",
+   "short": "HCL Cârlibaba nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 15/2021 privind desemnarea a doi consilieri locali pentru a face parte din comisia de evaluare a performanțelor profesionale individuale ale secretarului general al U.A.T Cârlibaba, județul Suceava",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/43715",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/43715",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--carlibaba-16-2021",
    "path": "local/suceava/carlibaba/2021/16",
    "short": "HCL Cârlibaba nr. 16/2021",
@@ -48,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--carlibaba-18-2021",
+   "path": "local/suceava/carlibaba/2021/18",
+   "short": "HCL Cârlibaba nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 18/2021 privind aprobarea vânzării prin licitaţie publică, masă lemnoasă pe picior, provenită din fondul forestier proprietate publică a comunei Cârlibaba în anul 2021, judeţul Suceava, cuprinsă pe raza Ocolului Silvic Dorna",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/43718",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/43718",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--carlibaba-19-2021",
    "path": "local/suceava/carlibaba/2021/19",
    "short": "HCL Cârlibaba nr. 19/2021",
@@ -73,6 +103,21 @@
      "from": "2021-09-28",
      "units": 1,
      "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/43722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-21-2021",
+   "path": "local/suceava/carlibaba/2021/21",
+   "short": "HCL Cârlibaba nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 21/2021 privind alegerea preşedintelui de şedinţă pe o perioadă de 3 luni",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/43723",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/43723",
      "sha256": null
     }
    ]
@@ -193,6 +238,21 @@
      "from": "2021-10-28",
      "units": 1,
      "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/43735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-30-2021",
+   "path": "local/suceava/carlibaba/2021/30",
+   "short": "HCL Cârlibaba nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 30/2021 privind desemnarea unui reprezentant al consiliului local Cârlibaba, ca reprezentant în comisia de evaluare a probei de interviu, din cadrul concursului pentru ocuparea funcției de director la Școala gimnazială „Ștefan cel Mare” Cârlibaba",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/43736",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/43736",
      "sha256": null
     }
    ]

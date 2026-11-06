@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-prahova--magureni-19-2020",
+"path": "local/prahova/magureni/2020/19",
+"kind": "local",
+"year": "2020",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 19/2020 privind alegerea președintelui de ședință",
+"short": "HCL Măgureni nr. 19/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/17677",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--magureni-20-2020",
 "path": "local/prahova/magureni/2020/20",
 "kind": "local",
@@ -157,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-prahova--magureni-22-2020",
+"path": "local/prahova/magureni/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 22/2020 privind desemnarea reprezentanților Consiliului Local în Consiliul de Administrație al Școlii Gimnaziale , Comuna Măgureni",
+"short": "HCL Măgureni nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-20",
+"latest": "2020-08-20",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/17680",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--magureni-23-2020",
 "path": "local/prahova/magureni/2020/23",
 "kind": "local",
@@ -176,6 +220,28 @@
 "council_name": "Consiliul Local al Comunei Măgureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magureni-24-2020",
+"path": "local/prahova/magureni/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 24/2020 privind alegerea președinteșui de ședință",
+"short": "HCL Măgureni nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-03",
+"latest": "2020-12-03",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/17682",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +267,28 @@
 }
 },
 {
+"slug": "hcl-prahova--magureni-26-2020",
+"path": "local/prahova/magureni/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 26/2020 privind alegerea viceprimarului comunei Măgureni",
+"short": "HCL Măgureni nr. 26/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-03",
+"latest": "2020-12-03",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/17684",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--magureni-27-2020",
 "path": "local/prahova/magureni/2020/27",
 "kind": "local",
@@ -220,6 +308,28 @@
 "council_name": "Consiliul Local al Comunei Măgureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magureni-28-2020",
+"path": "local/prahova/magureni/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 28/2020 privind modificarea art.1 din HCL nr.22/20.08.2020 privind desemnarea reprezentanților Consiliului Local în Consiliul de Administrație al Școlii Gimnaziale Comuna Măgureni",
+"short": "HCL Măgureni nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-10",
+"latest": "2020-12-10",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/17815",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

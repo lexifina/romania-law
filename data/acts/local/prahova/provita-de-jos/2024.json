@@ -358,6 +358,28 @@
 }
 },
 {
+"slug": "hcl-prahova--provita-de-jos-58-2024",
+"path": "local/prahova/provita-de-jos/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 58/2024 privind actualizarea structurii funcționale în cadrul Primăriei comunei Provița de Jos cu încadrarea în numărul maxim de posturi aprobat",
+"short": "HCL Provița de Jos nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/provitadejos-ph/registru-hcl/193179",
+"council": "prahova/provita-de-jos",
+"council_name": "Consiliul Local al Comunei Provița de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--provita-de-jos-59-2024",
 "path": "local/prahova/provita-de-jos/2024/59",
 "kind": "local",

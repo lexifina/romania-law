@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/gura-humorului/2025",
+"acts": [
+{
+"slug": "hcl-suceava--gura-humorului-185-2025",
+"path": "local/suceava/gura-humorului/2025/185",
+"kind": "local",
+"year": "2025",
+"number": "185",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Gura Humorului nr. 185/2025",
+"short": "HCL Gura Humorului nr. 185/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://primariagurahumorului.ro/administratie/consiliul-local/hotarari-consiliu-local/",
+"council": "suceava/gura-humorului",
+"council_name": "Consiliul Local al Orașului Gura Humorului",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

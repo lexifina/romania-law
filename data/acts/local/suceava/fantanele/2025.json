@@ -3,6 +3,28 @@
 "shard": "local/suceava/fantanele/2025",
 "acts": [
 {
+"slug": "hcl-suceava--fantanele-57-2025",
+"path": "local/suceava/fantanele/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 57/2025 privind alegerea președintelui de sedință",
+"short": "HCL Fântânele nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://emol.ro/fantanele-sv/registru-hcl/241951",
+"council": "suceava/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--fantanele-58-2025",
 "path": "local/suceava/fantanele/2025/58",
 "kind": "local",
@@ -47,6 +69,51 @@
 }
 },
 {
+"slug": "hcl-suceava--fantanele-60-2025",
+"path": "local/suceava/fantanele/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 60/2025",
+"short": "HCL Fântânele nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://emol.ro/fantanele-sv/registru-hcl/241954",
+"council": "suceava/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--fantanele-61-2025",
+"path": "local/suceava/fantanele/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 61/2025 privind înfiinţarea unui post contractual de asistent medical comunitar, gradul profesional debutant, in cadrul compartimentului Asistenta sociala si autoritate tutelara",
+"short": "HCL Fântânele nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://emol.ro/fantanele-sv/registru-hcl/241955",
+"council": "suceava/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--fantanele-62-2025",
 "path": "local/suceava/fantanele/2025/62",
 "kind": "local",
@@ -88,6 +155,28 @@
 "council_name": "Consiliul Local al Comunei Fântânele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--fantanele-64-2025",
+"path": "local/suceava/fantanele/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 64/2025 privind desemnarea reprezentanților Consiliului local în Consiliul de administrație al Școlii Gimnaziale ,,Mihai Eminescu’’Bănești,com.Fântânele, judetul Suceava, pentru anul școlar 2025-2026",
+"short": "HCL Fântânele nr. 64/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://emol.ro/fantanele-sv/registru-hcl/241958",
+"council": "suceava/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

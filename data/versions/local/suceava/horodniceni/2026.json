@@ -3,6 +3,51 @@
  "shard": "local/suceava/horodniceni/2026",
  "acts": [
   {
+   "slug": "hcl-suceava--horodniceni-1-2026",
+   "path": "local/suceava/horodniceni/2026/1",
+   "short": "HCL Horodniceni nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 1/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/02/hcl-1-ianuarie-2026.pdf",
+     "sha256": "12f61285239b0d07dfcd255ce501716f0cbde3b6b3c5507ef4b03ec637bb5f94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-10-2026",
+   "path": "local/suceava/horodniceni/2026/10",
+   "short": "HCL Horodniceni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 10/2026 pentru obiectivul de investiții „Construire piste pentru biciclete si alte vehicule ușoare electrice la nivelul comunei Horodniceni, județul Suceava” finanțat în cadrul Planului Național de Redresare și Reziliență, componenta 10 – Fondul Local – 1.4. M",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/05/hcl-10-martie-2026.pdf",
+     "sha256": "b7f44ad6536b29176f1a7a6c5d06854cbd4ca4e4fc0f67b839e87cb0e677113c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-11-2026",
+   "path": "local/suceava/horodniceni/2026/11",
+   "short": "HCL Horodniceni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 11/2026 pentru lunile aprilie, mai, iunie 2026",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/05/hcl-11-martie-2026.pdf",
+     "sha256": "eaf5340964a178945134cd924cf04ad574e956ba2153dc9cd4616bfe9ead2147"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--horodniceni-12-2026",
    "path": "local/suceava/horodniceni/2026/12",
    "short": "HCL Horodniceni nr. 12/2026",
@@ -14,6 +59,396 @@
      "units": 1,
      "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/05/hcl-12-aprilie-2026.pdf",
      "sha256": "6231373d321ff00d5e5fbc3b7c4b062fcdb5961759fe72f78ae92794e3d918db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-17-2026",
+   "path": "local/suceava/horodniceni/2026/17",
+   "short": "HCL Horodniceni nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 17/2026 pentru trimestrul I al anului 2026 pe secțiunile de funcționare și dezvoltare ale bugetului local al comunei Horodniceni",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/07/hcl-17-mai-2026.pdf",
+     "sha256": "842d205beebf43fe8efdb1978fd7b06e0a79fa949860ec37520ccb210e1f7363"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-18-2026",
+   "path": "local/suceava/horodniceni/2026/18",
+   "short": "HCL Horodniceni nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 18/2026 privind aprobarea bugetului local de venituri și cheltuieli al comunei Horodniceni, județul Suceava pe anul 2026 Având în vedere prevederile: a) art. 129 alin. (2) lit. b) coroborat cu art. (4) lit. a), art. 155 alin. (1) lit. c), alin. (4) lit. b) din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare; b) art. 4 – art. 9, art. 64",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/07/hcl-18-mai-2026.pdf",
+     "sha256": "ee4d62a517f87b8f9850f7223e6347fcf1e61bdc30e77c49f0713491f1919660"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-19-2026",
+   "path": "local/suceava/horodniceni/2026/19",
+   "short": "HCL Horodniceni nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 19/2026 pentru obiectivul de investiții „Construire piste pentru biciclete si alte vehicule ușoare electrice la nivelul comunei Horodniceni, județul Suceava” finanțat în cadrul Planului Național de Redresare și Reziliență",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/07/hcl-19-mai-2026.pdf",
+     "sha256": "ebf563c7c3c04a57fff14c54627fc311f8d473b28e3b667e3fb53c6366553613"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-2-2026",
+   "path": "local/suceava/horodniceni/2026/2",
+   "short": "HCL Horodniceni nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 2/2026 privind propunerea instituirii circulației rutiere în „Sens unic\" pe str",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/02/hcl-2-ianuarie-2026.pdf",
+     "sha256": "77553955aec29d01391e5e6a4608dc380b7341b37934aefcb13839a2a7c6d702"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-20-2026",
+   "path": "local/suceava/horodniceni/2026/20",
+   "short": "HCL Horodniceni nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 20/2026 privind completarea Hotărârii Consiliului Local nr. 69 din 23.12.2025 privind înființarea în afara organigramei primăriei comunei Horodniceni, a unui post de mediator școlar, în vederea implementării proiectului finanțat din fonduri europene nerambursabile „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de cal",
+   "url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/07/hcl-20-mai-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/07/hcl-20-mai-2026.pdf",
+     "sha256": "455a63e4043422c9a6c47be6b44347d9073d2ffd900a5d2164f5229ad31dd599"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-21-2026",
+   "path": "local/suceava/horodniceni/2026/21",
+   "short": "HCL Horodniceni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 21/2026 pentru lunile ianuarie, februarie, martie, aprilie 2026",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/07/hcl-21-mai-2026.pdf",
+     "sha256": "06c41db2ce0cf3b63bc9022bfdc53042ad1c5d81d7faa8c698f230ef3b5d94b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-22-2026",
+   "path": "local/suceava/horodniceni/2026/22",
+   "short": "HCL Horodniceni nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 22/2026 privind aprobarea schimbării destinației imobilului „Școala cu clasele I-IV Botești” din domeniul public al comunei Horodniceni, din imobil cu destinația unitate de învățământ, în imobil cu altă destinație Având în vedere: a) prevederile art. 146 alin. (11) din Legea învățământului preuniversitar nr. 198/2023, cu modificările și completările ulterioare; b) prevederile art. 129 alin. (1), alin. (2)",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/09/hcl-22-iunie-2026.pdf",
+     "sha256": "6cd7b3c38680d118b5a43a78e972808b989f24833077b20c4c028608237c8a48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-23-2026",
+   "path": "local/suceava/horodniceni/2026/23",
+   "short": "HCL Horodniceni nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 23/2026 pentru realizarea obiectului de investiții „Modernizare DC 93 D Brădățel-Dumbrava”",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/09/hcl-23-iunie-2026.pdf",
+     "sha256": "0151a0fbd20610e6081b2806a4d8f93954c885b93a1b0b90269370856fc29378"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-24-2026",
+   "path": "local/suceava/horodniceni/2026/24",
+   "short": "HCL Horodniceni nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 24/2026 privind validarea dispoziției nr. 104 din 27 mai 2026 și rectificarea bugetului local al comunei Horodniceni pe anul 2026 Având în vedere prevederile : a) art. 19 alin. (2), art. 20 alin. (1) lit. c) din Legea nr. 273/2006 privind finanțele publice locale, cu modificările și completările ulterioare; b) Hotărârii Guvernului nr. 382/2026 privind repartizarea pe unități/subdiviziuni administrativ - t",
+   "url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/09/hcl-24-iunie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/09/hcl-24-iunie-2026.pdf",
+     "sha256": "0e856275cf246eef7276cf9402d6361fbfbf8b7da65f3375dafb76a76689b46a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-25-2026",
+   "path": "local/suceava/horodniceni/2026/25",
+   "short": "HCL Horodniceni nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 25/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/09/hcl-25-iunie-2026.pdf",
+     "sha256": "c01cc0d74bf47215f26f61d474c881ff6444f4b9af0166140296f825c6e97733"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-26-2026",
+   "path": "local/suceava/horodniceni/2026/26",
+   "short": "HCL Horodniceni nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 26/2026 pentru autoconsum aferent apelului de proiecte pentru solicitanții din sectorul public, din cadrul „Programului-cheie 1” – Surse regenerabile de energie ș",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/09/hcl-26-iunie-2026.pdf",
+     "sha256": "3cc6b8b932431138ed893ae95ff92e2e20049097f37b3a321852297731017232"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-27-2026",
+   "path": "local/suceava/horodniceni/2026/27",
+   "short": "HCL Horodniceni nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 27/2026 pentru lunile iulie, august și septembrie 2026",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/09/hcl-27-iunie-2026.pdf",
+     "sha256": "457c67e54e4f5dfa0795844bde81211f99a5ffbee8b452470c43f2a3ace5bff2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-28-2026",
+   "path": "local/suceava/horodniceni/2026/28",
+   "short": "HCL Horodniceni nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 28/2026 Nr. 28 din 12.06.2026 privind aprobarea contractării unui împrumut în valoare de 1.000.000 lei, în conformitate cu prevederile art. XXXI din Ordonanța de urgență a Guvernului nr. 89/2025",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/09/hcl-28-iunie-2026.pdf",
+     "sha256": "d808259543c888c46cf43581af9983241801d467502a4af09e855b85d9349077"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-29-2026",
+   "path": "local/suceava/horodniceni/2026/29",
+   "short": "HCL Horodniceni nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 29/2026 privind aprobarea indicatorilor tehnico- economici actualizați și a devizului general la faza proiect tehnic pentru obiectivul de investiții „Construire piste pentru biciclete si alte vehicule ușoare electrice la nivelul comunei Horodniceni, județul Suceava’’ finanțat în cadrul Planului Național de Redresare și Reziliență, componenta 10 – Fondul Local – 1.4",
+   "url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/09/hcl-29-iunie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/09/hcl-29-iunie-2026.pdf",
+     "sha256": "3a377d0b3a9eeefd84b8fffcedec5672ce83d713c77fa9831792cd31d433cf93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-3-2026",
+   "path": "local/suceava/horodniceni/2026/3",
+   "short": "HCL Horodniceni nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 3/2026 privind aprobarea execuției bugetare anuale pe secțiunile de funcționare și dezvoltare ale bugetului local al comunei Horodniceni, județul Suceava pe anul 2025 Având în vedere: a) prevederile art. 11 alin. (2), art. 49 alin. (12) și (13) și art. 73 alin. (3) din Legea nr. 273/2006 privind finanțele publice locale, cu modificările și completările ulterioare; b) prevederile art. 129 alin.(2) lit.b)",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/04/hcl-3-februarie-2026.pdf",
+     "sha256": "6bbe3faf2691985fd33655091e4f4e82261119109ec4ca9f8fa1df975fb7b542"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-30-2026",
+   "path": "local/suceava/horodniceni/2026/30",
+   "short": "HCL Horodniceni nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 30/2026 privind aprobarea indicatorilor tehnico- economici actualizați și a devizului general actualizat la faza proiect tehnic pentru obiectivul de investiții “REABILITARE ENERGETICĂ MODERATĂ A CLĂDIRII SEDIULUI PRIMĂRIEI COMUNEI HORODNICENI, JUDEȚUL SUCEAVA”, finanțat în cadrul Planului Național de Redresare și Reziliență, Componenta 10 - Fondul local Având în vedere: a) prevederile Legii nr. 273/2006 p",
+   "url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/09/hcl-30-iunie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/09/hcl-30-iunie-2026.pdf",
+     "sha256": "9b2ac2e18d29d283e3acb21254ae1e44853e972d0932949bb169b95c0941859c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-31-2026",
+   "path": "local/suceava/horodniceni/2026/31",
+   "short": "HCL Horodniceni nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 31/2026 pentru luna mai 2026",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/09/hcl-31-iunie-2026.pdf",
+     "sha256": "53b4a7878c9cb8d5ed30bb48ec74514dd2ef463dc2078e7f2379acc928c1bc1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-32-2026",
+   "path": "local/suceava/horodniceni/2026/32",
+   "short": "HCL Horodniceni nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 32/2026 privind includerea în domeniul public al comunei Horodniceni a unor imobile în vederea înscrierii definitive a dreptului de proprietate în evidențele de cadastru și carte funciară Având în vedere prevederile: - Art. 2 lit. j) și l), art. 4 alin. (1) din Legea serviciilor comunitare de utilități publice nr. 51/2006, republicată, cu modificările și completările ulterioare; - Art. 1 alin. (5) și (6)",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/09/hcl-32-iunie-2026.pdf",
+     "sha256": "d787fcf878bacbc9a853979a6d89083accdfe45bbc244ac7464d801b9d388aad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-33-2026",
+   "path": "local/suceava/horodniceni/2026/33",
+   "short": "HCL Horodniceni nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 33/2026 privind actualizarea nomenclatorului stradal al comunei Horodniceni, județul Suceava Având în vedere prevederile: - art. 5 din Legea cadastrului și publicității imobiliare nr. 7/1996, republicată cu modificările și completările ulterioare; - art. 453 lit. g) din Legea nr. 227/ 2015 privind Codul fiscal, cu modificările și completările ulterioare; - art. 3 lit. a), art. 6 , art. 7 si art. 8 din Hot",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/10/hcl-33-iulie-2026.pdf",
+     "sha256": "65277272319c2484c1bb78ae8771c75b4147fa464c932c6096a254754759a219"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-34-2026",
+   "path": "local/suceava/horodniceni/2026/34",
+   "short": "HCL Horodniceni nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 34/2026 privind funcționarea și exploatarea sistemului de supraveghere video pe raza comunei Horodniceni",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/10/hcl-34-iulie-2026.pdf",
+     "sha256": "7a28a3a477ec1e312ce84552e0336cc6df996159a52dad6e029bb717993e44f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-35-2026",
+   "path": "local/suceava/horodniceni/2026/35",
+   "short": "HCL Horodniceni nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 35/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/10/hcl-35-iulie-2026.pdf",
+     "sha256": "35f015f24947e01a179a08e9be845558bb631126b12d8a207dc08507145b626d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-36-2026",
+   "path": "local/suceava/horodniceni/2026/36",
+   "short": "HCL Horodniceni nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 36/2026 privind rectificarea bugetului local al comunei Horodniceni pe anul 2026 Având în vedere prevederile : a) art. 19 alin. (2), art. 20 alin. (1) lit. c) din Legea nr. 273/2006 privind finanțele publice locale, cu modificările și completările ulterioare; b) art. 88, art. 129 alin.(1), alin.(2) lit.b), alin.(4) lit.a), art. 139 alin.(3) lit. a) din Ordonanța de urgență a Guvernului nr. 57/2019 privind",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/10/hcl-36-iulie-2026-1.pdf",
+     "sha256": "ea24041bb4a810c0e7781b6482849412a9121600ddff527df5b7b0759937e172"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-6-2026",
+   "path": "local/suceava/horodniceni/2026/6",
+   "short": "HCL Horodniceni nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 6/2026 pentru serviciile sociale administrate și finanțate din bugetul local al comunei Horodniceni pe anul 2026",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/04/hcl-6-februarie-2026.pdf",
+     "sha256": "23828383dce2fe063b86ed2de6da4222b8d324c3b41db441ce6e2fe124deabea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-7-2026",
+   "path": "local/suceava/horodniceni/2026/7",
+   "short": "HCL Horodniceni nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 7/2026 privind consumul lunar de carburanți pentru autovehiculele și utilajele aflate în dotarea și patrimoniul comunei Horodniceni",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/04/hcl-7-februarie-2026.pdf",
+     "sha256": "ce86b22b771dadbff8b6dcd265dfe2e00cb83d7276d444fdec0dd9373231aa23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-8-2026",
+   "path": "local/suceava/horodniceni/2026/8",
+   "short": "HCL Horodniceni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 8/2026 pentru obiectivul de investiții „Rețele de alimentare cu apă și canalizare în comuna Horodniceni, județul Suceava”, finanțat prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/05/hcl-8-martie-2026.pdf",
+     "sha256": "cd20768d61764b7bce5fdb0045865806ca3053d030b5b2eb7e589228bb12f429"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--horodniceni-9-2026",
+   "path": "local/suceava/horodniceni/2026/9",
+   "short": "HCL Horodniceni nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horodniceni nr. 9/2026 pentru obiectivul de investiții „Modernizarea infrastructurii rutiere de interes local din comuna Horodniceni, județul Suceava”, finanțate prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://comunahorodnicenisv.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://comunahorodnicenisv.ro/wp-content/uploads/2026/05/hcl-9-martie-2026.pdf",
+     "sha256": "0981a3fc64ad94634b0b035fe95dc757eac090a28bcd514ef1b8f758dac1a0cd"
     }
    ]
   }

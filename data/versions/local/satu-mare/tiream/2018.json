@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/satu-mare/tiream/2018",
+ "acts": [
+  {
+   "slug": "hcl-satu-mare--tiream-1-2018",
+   "path": "local/satu-mare/tiream/2018/1",
+   "short": "HCL Tiream nr. 1/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 1/2018 privind organizarea reţelei şcolare a unităţilor de învăţământ preuniversitar din comuna Tiream pentru anul şcolar 2018 – 2019",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "https://tiream.ro/storage/uploads/2017/02/HCL.Nr_.1.pdf",
+     "sha256": "233e5863d8ec81519b01eb9fd99ff70c5c1a4e838bda3e9714253d772bc158ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-2-2018",
+   "path": "local/satu-mare/tiream/2018/2",
+   "short": "HCL Tiream nr. 2/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 2/2018 privind aprobarea Bugetului local de venituri şi cheltuieli al Comunei Tiream, pe anul 2018",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "https://tiream.ro/storage/uploads/2017/02/HCL.Nr_.2.pdf",
+     "sha256": "562b4127883548d5831097e4bfa7d48f97785ad9f2d3edff1426fb78d00e9dff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-3-2018",
+   "path": "local/satu-mare/tiream/2018/3",
+   "short": "HCL Tiream nr. 3/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 3/2018 privind aprobarea Planului anual de acţiuni sau de lucrări de interes local, pe anul 2018",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "https://tiream.ro/storage/uploads/2017/02/HCL.Nr_.3.pdf",
+     "sha256": "0dbbc10d3ea97637e96b11f7a81aeafa63753ec478f5f190f12bfb3b7a81c79f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-4-2018",
+   "path": "local/satu-mare/tiream/2018/4",
+   "short": "HCL Tiream nr. 4/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 4/2018 privind aprobarea „Planului de analiză şi acoperire a riscurilor pentru anul 2018”, în comuna Tiream",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "https://tiream.ro/storage/uploads/2017/02/HCL.Nr_.4.pdf",
+     "sha256": "dc8e007e0aff8a5249927329b3e1657531524024c34f5cca8f5b1f1f162c9385"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-5-2018",
+   "path": "local/satu-mare/tiream/2018/5",
+   "short": "HCL Tiream nr. 5/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 5/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "https://tiream.ro/storage/uploads/2017/02/HCL-Nr.5.pdf",
+     "sha256": "dc1fdec3f350be566603c31c5ec4157f92f6bb057d39a60bbc2367f4cd0c9a8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-6-2018",
+   "path": "local/satu-mare/tiream/2018/6",
+   "short": "HCL Tiream nr. 6/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 6/2018 privind aprobarea Actului adiţional nr. 9 la Contractul de delegare a gestiunii serviciilor publice de alimentare cu apă şi de canalizare nr. 12.313/19.11.2009",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "https://tiream.ro/storage/uploads/2017/02/HCL-Nr.6.pdf",
+     "sha256": "29dff735e9af33a8c492af4a80bab0b5aa58d95d85839215252d2f2bc56e4334"
+    }
+   ]
+  }
+ ]
+}

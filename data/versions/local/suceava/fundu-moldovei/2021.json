@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--fundu-moldovei-57-2021",
+   "path": "local/suceava/fundu-moldovei/2021/57",
+   "short": "HCL Fundu Moldovei nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 57/2021 privind desemnarea unui reprezentant al consiliului local, care va face parte din Comisia de evaluare a probei de interviu, din cadrul concursului pentru ocuparea funcţiei de director la Şcoala Gimnazială „Dimitrie Gusti”",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/52566",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/52566",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--fundu-moldovei-58-2021",
    "path": "local/suceava/fundu-moldovei/2021/58",
    "short": "HCL Fundu Moldovei nr. 58/2021",
@@ -93,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--fundu-moldovei-59-2021",
+   "path": "local/suceava/fundu-moldovei/2021/59",
+   "short": "HCL Fundu Moldovei nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 59/2021 privind aprobarea vânzării prin licitație publică a unor terenuri, proprietate privată a comunei Fundu Moldovei, judeţul Suceava",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/52655",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/52655",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--fundu-moldovei-60-2021",
    "path": "local/suceava/fundu-moldovei/2021/60",
    "short": "HCL Fundu Moldovei nr. 60/2021",
@@ -103,6 +133,21 @@
      "from": "2021-11-24",
      "units": 1,
      "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/52656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-61-2021",
+   "path": "local/suceava/fundu-moldovei/2021/61",
+   "short": "HCL Fundu Moldovei nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 61/2021 privind alegerea preşedintelui de şedinţă al Consiliului Local al comunei Fundu Moldovei",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/52657",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/52657",
      "sha256": null
     }
    ]

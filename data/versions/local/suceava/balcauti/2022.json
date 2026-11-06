@@ -3,6 +3,261 @@
  "shard": "local/suceava/balcauti/2022",
  "acts": [
   {
+   "slug": "hcl-suceava--balcauti-1-2022",
+   "path": "local/suceava/balcauti/2022/1",
+   "short": "HCL Bălcăuți nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 1/2022 pentru evaluarea performantelor profesionale individuale ale Secretarului general al comunei Balcauti 31.01.2022 31.01.2022",
+   "url": "https://balcautisv.monitoruloficiallocal.ro/link/5",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://balcautisv.monitoruloficiallocal.ro/assets/documente/documente_5/HCL%20nr%201%20din%2031.01.2022.pdf",
+     "sha256": "909fc3f22c1d8d041370176b369c97a2218c3efe54706be9615e00562ccbb716"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-10-2022",
+   "path": "local/suceava/balcauti/2022/10",
+   "short": "HCL Bălcăuți nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 10/2022 Privind rectificarea bugetului local pe anu 2022 29.03.2022 29.03.2022",
+   "url": "https://balcautisv.monitoruloficiallocal.ro/link/5",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://balcautisv.monitoruloficiallocal.ro/assets/documente/documente_5/HCL%20nr.10%20din%2029.03.2022.pdf",
+     "sha256": "91dd71dac0361e991f8d009266f445312a8983bbe3b923860c46adadd08b02d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-11-2022",
+   "path": "local/suceava/balcauti/2022/11",
+   "short": "HCL Bălcăuți nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 11/2022 Privind aprobarea actualizarii Planului privind asigurarea resurselor umane , materiale âISU pentru anul 2022 29.03.2022 29.03.2022",
+   "url": "https://balcautisv.monitoruloficiallocal.ro/link/5",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://balcautisv.monitoruloficiallocal.ro/assets/documente/documente_5/HCL%20nr.11%20din%2029.03.2022.pdf",
+     "sha256": "0e8ae0cfe87b4c10c98a59034e05f3744fc57df4668c7f24f562a28f208d6b6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-12-2022",
+   "path": "local/suceava/balcauti/2022/12",
+   "short": "HCL Bălcăuți nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 12/2022 Privind aprobarea de principiu a procedurii de concesionare a suprafete de 8971 m.p situat in satul Balcauti, com. Balcauti, jud Suceava 29.03.2022 29.03.2022",
+   "url": "https://balcautisv.monitoruloficiallocal.ro/link/5",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://balcautisv.monitoruloficiallocal.ro/assets/documente/documente_5/HCL%20nr.12%20din%2029.03.2022.pdf",
+     "sha256": "313c13e56e240fba9362ef1fc9168362ebab9bd6268979ab580a370c1f88ce7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-13-2022",
+   "path": "local/suceava/balcauti/2022/13",
+   "short": "HCL Bălcăuți nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 13/2022 Privind actualizarea planului de analiza si acoperire a riscurilor pentru anul 2022 29.03.2022 29.03.2022",
+   "url": "https://balcautisv.monitoruloficiallocal.ro/link/5",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://balcautisv.monitoruloficiallocal.ro/assets/documente/documente_5/HCL%20nr.13%20din%2029.03.2022.pdf",
+     "sha256": "0c56dc0de30694cc99be406d135c243037b775e48ccc327c748205cdc209ed05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-14-2022",
+   "path": "local/suceava/balcauti/2022/14",
+   "short": "HCL Bălcăuți nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 14/2022 Privind actualizarea planului de analiza si acoperire a riscurilor pentru anul 2022 29.03.2022 29.03.2022",
+   "url": "https://balcautisv.monitoruloficiallocal.ro/link/5",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://balcautisv.monitoruloficiallocal.ro/assets/documente/documente_5/HCL%20nr.14%20din%2029.03.2022.pdf",
+     "sha256": "adb58009c043b8981d46c5836a911899cfdef39215898cca8d139aad0d3289f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-15-2022",
+   "path": "local/suceava/balcauti/2022/15",
+   "short": "HCL Bălcăuți nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 15/2022 Privind alegerea presedintelui de sedinta pentru lunile aprilie, mai iunie 2022 29.03.2022 29.03.2022",
+   "url": "https://balcautisv.monitoruloficiallocal.ro/link/5",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://balcautisv.monitoruloficiallocal.ro/assets/documente/documente_5/HCL%20nr.15%20din%2029.03.2022.pdf",
+     "sha256": "c418925823e6ef879c4f7d6b34eceb3d5425d1ff0ad2f75f045878fbd5bfac34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-16-2022",
+   "path": "local/suceava/balcauti/2022/16",
+   "short": "HCL Bălcăuți nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 16/2022 Privind rectificarea bugetului local pe anul 2022 14.04.2022 14.04.2022",
+   "url": "https://balcautisv.monitoruloficiallocal.ro/link/5",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://balcautisv.monitoruloficiallocal.ro/assets/documente/documente_5/HCL%20NR.16%20DIN%2014.04.2022.pdf",
+     "sha256": "90fb60f89e92d0ba7dbd65e0288c60fd07876867e8337f9c94388738ac9d90a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-17-2022",
+   "path": "local/suceava/balcauti/2022/17",
+   "short": "HCL Bălcăuți nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 17/2022 Privind atestarea inventarului bunurilor care apartin domeniului public al comunei Balcauti 14.04.2022 14.04.2022",
+   "url": "https://balcautisv.monitoruloficiallocal.ro/link/5",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://balcautisv.monitoruloficiallocal.ro/assets/documente/documente_5/HCL%20nr.17%20din%2014.04.2022.pdf",
+     "sha256": "4c17fc0df345df64cac4fbb96b9776a0ae106da7ea79bc5a611f895796afa0c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-18-2022",
+   "path": "local/suceava/balcauti/2022/18",
+   "short": "HCL Bălcăuți nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 18/2022 Privind aprobarea demersurilor de intocmire a documentatiei pentru investitia ,, Construire piste de biciclete in comuna Balcauti, judetul Suceava,, 14.04.2022 14.04.2022",
+   "url": "https://balcautisv.monitoruloficiallocal.ro/link/5",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://balcautisv.monitoruloficiallocal.ro/assets/documente/documente_5/HCL%20nr.18%20din%2014.04.2022.pdf",
+     "sha256": "0c09155b5422aa05ce6a6de31ce8b807fba676ffad82fb044ae05ce1930c912a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-19-2022",
+   "path": "local/suceava/balcauti/2022/19",
+   "short": "HCL Bălcăuți nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 19/2022 Privind aprobarea studiului de oportunitate si a raportului de evaluare in vederea concesionarii suprafetei de 8971 m.p 14.04.2022 14.04.2022",
+   "url": "https://balcautisv.monitoruloficiallocal.ro/link/5",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://balcautisv.monitoruloficiallocal.ro/assets/documente/documente_5/HCL%20nr.19%20din%2014.04.2022.pdf",
+     "sha256": "2b2aa24c0a89853191660d944ab32aa5ccc63330a7103a9d860afc96b6decac1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-2-2022",
+   "path": "local/suceava/balcauti/2022/2",
+   "short": "HCL Bălcăuți nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 2/2022 pentru anul scolar 2022 - 2023 31.01.2022 31.01.2022",
+   "url": "https://balcautisv.monitoruloficiallocal.ro/link/5",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://balcautisv.monitoruloficiallocal.ro/assets/documente/documente_5/HCL%20nr.2%20din%2031.01.2022.pdf",
+     "sha256": "442973274b43dd4323e00bc20fd7e9a93d82de063dabeb33c7dcbdfd7bd4f85f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-20-2022",
+   "path": "local/suceava/balcauti/2022/20",
+   "short": "HCL Bălcăuți nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 20/2022 Privind aprobarea proiectului si a acordului de parteneriat pentru proiectul ,, Infiintare sistem inteligent de distributie gaze naturale,, 20.04.2022 20.04.2022",
+   "url": "https://balcautisv.monitoruloficiallocal.ro/link/5",
+   "versions": [
+    {
+     "from": "2022-04-20",
+     "units": 1,
+     "source_url": "https://balcautisv.monitoruloficiallocal.ro/assets/documente/documente_5/HCL%20nr.20%20din%2020.04.2022.pdf",
+     "sha256": "6514401cdb242027f89078380ebdd31f31a08a6f48ba872cbdb3b184c6f93e60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-3-2022",
+   "path": "local/suceava/balcauti/2022/3",
+   "short": "HCL Bălcăuți nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 3/2022 pentru funcÈionarii publici si personalul contractual din cadrul PrimÄriei comunei BÄlcÄuÈi 31.01.2022 31.01.2022",
+   "url": "https://balcautisv.monitoruloficiallocal.ro/link/5",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://balcautisv.monitoruloficiallocal.ro/assets/documente/documente_5/HCL%20nr.3%20din%2031.01.2022.pdf",
+     "sha256": "9af8adb17e2b4ea5d94e64c170f65fc03082b49712751924a4d79430d0e8f40a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-4-2022",
+   "path": "local/suceava/balcauti/2022/4",
+   "short": "HCL Bălcăuți nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 4/2022 Privind aprobarea bugetului local pe anul 2022 08.02.2022 08.02.2022",
+   "url": "https://balcautisv.monitoruloficiallocal.ro/link/5",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 1,
+     "source_url": "https://balcautisv.monitoruloficiallocal.ro/assets/documente/documente_5/HCL%20nr.4%20din%2008.02.2022.pdf",
+     "sha256": "0c56aedf4608e41e09661fb11fa61104bb4619003e70ec5c2ff7d23d3f6c4615"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-5-2022",
+   "path": "local/suceava/balcauti/2022/5",
+   "short": "HCL Bălcăuți nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 5/2022 Privind aprobarea numarului de asistenti personali pe anul 2022 08.02.2022 08.02.2022",
+   "url": "https://balcautisv.monitoruloficiallocal.ro/link/5",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 1,
+     "source_url": "https://balcautisv.monitoruloficiallocal.ro/assets/documente/documente_5/HCL%20nr.5%20din%2008.02.2022.pdf",
+     "sha256": "41ccb6be50f1e38dcbc27309f818ac8417cfee7830ab6d3ef7d1865b2d273a8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-6-2022",
+   "path": "local/suceava/balcauti/2022/6",
+   "short": "HCL Bălcăuți nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 6/2022 Privind aprobarea proiectului si a indicatorilor economici ,,Modernizare tronson de drum in satul Balcauti,, 08.02.2022 08.02.2022",
+   "url": "https://balcautisv.monitoruloficiallocal.ro/link/5",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 1,
+     "source_url": "https://balcautisv.monitoruloficiallocal.ro/assets/documente/documente_5/HCL%20nr.6%20din%2008.02.2022.pdf",
+     "sha256": "aa80d8f8680ae0dbc71b396209f1efa65803d76ea7225950b74e4ea9afbf0371"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--balcauti-7-2022",
    "path": "local/suceava/balcauti/2022/7",
    "short": "HCL Bălcăuți nr. 7/2022",
@@ -14,6 +269,36 @@
      "units": 1,
      "source_url": "https://balcautisv.monitoruloficiallocal.ro/assets/documente/documente_5/HCL%20nr.7%20din%2008.02.2022.pdf",
      "sha256": "4c665a2d489a0f69856038572658d379be5d6c1bf22f1cfdf6be18f6036a1768"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-8-2022",
+   "path": "local/suceava/balcauti/2022/8",
+   "short": "HCL Bălcăuți nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 8/2022 Privind predarea catre MDRAP prin CNI a drumurilor situate in satele Balcauti si Gropeni 22.02.2022 22.02.2022",
+   "url": "https://balcautisv.monitoruloficiallocal.ro/link/5",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 1,
+     "source_url": "https://balcautisv.monitoruloficiallocal.ro/assets/documente/documente_5/HCL%20nr.8%20din%2022.02.2022.pdf",
+     "sha256": "a9b2b0d6ad314f3af13b624f614364fb2f08f99604fe4238e0cbbf9f4bb44956"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-9-2022",
+   "path": "local/suceava/balcauti/2022/9",
+   "short": "HCL Bălcăuți nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 9/2022 Privind desemnarea reprezentantului consiliului local Balcauti in comisia de interviu pentru ocuparea functiei de director la Scoala Gimnaziala Balcauti 22.02.2022 22.02.2022",
+   "url": "https://balcautisv.monitoruloficiallocal.ro/link/5",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 1,
+     "source_url": "https://balcautisv.monitoruloficiallocal.ro/assets/documente/documente_5/HCL%20nr.9%20din%2022.02.2022.pdf",
+     "sha256": "2ce194244b022ac90527f73cf68173f19a0be0f973d6b6f8e7eef196677434f8"
     }
    ]
   }

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/slanic/2025",
+ "acts": [
+  {
+   "slug": "hcl-prahova--slanic-26-2025",
+   "path": "local/prahova/slanic/2025/26",
+   "short": "HCL Slănic nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 26/2025 pentru modificarea Hotărârii Consiliului Local nr. 58 din 24.10.2024 privind acordul de a inchiria parte din terenul obiect al contractului de concesiune nr. 6229/28.10.1998",
+   "url": "https://primariaslanic.ro/wp-content/uploads/2025/03/hcl-nr.-26.pdf",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/wp-content/uploads/2025/03/hcl-nr.-26.pdf",
+     "sha256": "f1172b64507ccaca08dee466b8c2ca02ece49608cd7a3bd44fe68d8c655a887f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-27-2025",
+   "path": "local/prahova/slanic/2025/27",
+   "short": "HCL Slănic nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 27/2025 privind modificarea și completarea Inventarului bunurilor care aparțin domeniului privat al orașului Slănic , înscrise în anexa la Hotărârea Consiliului local nr. 39 din 27.09.2011",
+   "url": "https://primariaslanic.ro/wp-content/uploads/2025/03/hcl-nr.-27.pdf",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/wp-content/uploads/2025/03/hcl-nr.-27.pdf",
+     "sha256": "9f378b215bf50980a732040b7ba95501b21daaa40ce96474419f472d21ed01ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-31-2025",
+   "path": "local/prahova/slanic/2025/31",
+   "short": "HCL Slănic nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 31/2025 privind aprobarea reabilitarii străzilor Zambilelor, Morii si Minerului în Orasul Slanic",
+   "url": "https://primariaslanic.ro/wp-content/uploads/2025/03/hcl-nr.-31.pdf",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/wp-content/uploads/2025/03/hcl-nr.-31.pdf",
+     "sha256": "ff5cadac23a6435c95a01f4a117d21a35d9db5767255edc5739ad93192d265a9"
+    }
+   ]
+  }
+ ]
+}

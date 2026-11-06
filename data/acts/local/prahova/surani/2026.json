@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/prahova/surani/2026",
+"acts": [
+{
+"slug": "hcl-prahova--surani-19-2026",
+"path": "local/prahova/surani/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Surani nr. 19/2026",
+"short": "HCL Surani nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://comunasirna.ro/wp-content/uploads/2026/05/HCL-nr.-19-din-06.05.2026-1.pdf",
+"council": "prahova/surani",
+"council_name": "Consiliul Local al Comunei Surani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--surani-21-2026",
+"path": "local/prahova/surani/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Surani nr. 21/2026",
+"short": "HCL Surani nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-15",
+"latest": "2026-06-15",
+"portal": "https://comunasirna.ro/wp-content/uploads/2026/06/Buget-rectificat-HCL-nr.-21-din-data-de-15.06.2026.pdf",
+"council": "prahova/surani",
+"council_name": "Consiliul Local al Comunei Surani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--surani-25-2026",
+"path": "local/prahova/surani/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Surani nr. 25/2026",
+"short": "HCL Surani nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-29",
+"latest": "2026-07-29",
+"portal": "https://comunasirna.ro/wp-content/uploads/2026/08/Buget-local-rectificat-HCL-nr.-25-din-29-iulie-2026-1.pdf",
+"council": "prahova/surani",
+"council_name": "Consiliul Local al Comunei Surani",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

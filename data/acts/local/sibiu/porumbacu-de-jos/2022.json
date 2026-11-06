@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-sibiu--porumbacu-de-jos-79-2022",
+"path": "local/sibiu/porumbacu-de-jos/2022/79",
+"kind": "local",
+"year": "2022",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 79/2022 privind decontarea cheltuielilor de transport pentru naveta cadrelor didactice și a personalului didactic auxiliar, din Şcoala Gimnazială din Comuna Porumbacu de Jos, judeţul Sibiu, pentru lunile septembrie şi octombrie 2022",
+"short": "HCL Porumbacu de Jos nr. 79/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-04",
+"latest": "2023-01-04",
+"portal": "https://emol.ro/porumbacudejos-sb/registru-hcl/85212",
+"council": "sibiu/porumbacu-de-jos",
+"council_name": "Consiliul Local al Comunei Porumbacu de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-sibiu--porumbacu-de-jos-80-2022",
 "path": "local/sibiu/porumbacu-de-jos/2022/80",
 "kind": "local",
@@ -270,6 +292,50 @@
 }
 },
 {
+"slug": "hcl-sibiu--porumbacu-de-jos-91-2022",
+"path": "local/sibiu/porumbacu-de-jos/2022/91",
+"kind": "local",
+"year": "2022",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 91/2022 privind aprobarea Planului urbanistic de detaliu „Construire locuinţă unifamilială, anexe, trei case tip „A” cu scop turistic şi branşament electric”",
+"short": "HCL Porumbacu de Jos nr. 91/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-04",
+"latest": "2023-01-04",
+"portal": "https://emol.ro/porumbacudejos-sb/registru-hcl/85224",
+"council": "sibiu/porumbacu-de-jos",
+"council_name": "Consiliul Local al Comunei Porumbacu de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--porumbacu-de-jos-92-2022",
+"path": "local/sibiu/porumbacu-de-jos/2022/92",
+"kind": "local",
+"year": "2022",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 92/2022 privind decontarea cheltuielilor de transport pentru naveta cadrelor didactice și a personalului didactic auxiliar, din Şcoala Gimnazială din Comuna Porumbacu de Jos, judeţul Sibiu, pentru luna noiembrie 2022",
+"short": "HCL Porumbacu de Jos nr. 92/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-04",
+"latest": "2023-01-04",
+"portal": "https://emol.ro/porumbacudejos-sb/registru-hcl/85225",
+"council": "sibiu/porumbacu-de-jos",
+"council_name": "Consiliul Local al Comunei Porumbacu de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-sibiu--porumbacu-de-jos-93-2022",
 "path": "local/sibiu/porumbacu-de-jos/2022/93",
 "kind": "local",
@@ -311,6 +377,28 @@
 "council_name": "Consiliul Local al Comunei Porumbacu de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--porumbacu-de-jos-95-2022",
+"path": "local/sibiu/porumbacu-de-jos/2022/95",
+"kind": "local",
+"year": "2022",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 95/2022 privind aprobarea vânzării bunului mobil Staţie de epurare 150 SBR proprietate a Comunei Porumbacu de Jos",
+"short": "HCL Porumbacu de Jos nr. 95/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-04",
+"latest": "2023-01-04",
+"portal": "https://emol.ro/porumbacudejos-sb/registru-hcl/85228",
+"council": "sibiu/porumbacu-de-jos",
+"council_name": "Consiliul Local al Comunei Porumbacu de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

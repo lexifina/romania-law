@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/forasti/2026",
+ "acts": [
+  {
+   "slug": "hcl-suceava--forasti-10-2026",
+   "path": "local/suceava/forasti/2026/10",
+   "short": "HCL Forăști nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 10/2026 privind actualizarea indicatorilor tehnico-economici și a Devizului General, aferent obiectivului „CONSTRUIRE PODURI ȘI PODEȚE ÎN SATELE MANOLEA ȘI BOURA, COMUNA FORĂȘTI, JUDEȚUL SUCEAVA” finanțat prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/267695",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/267695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-11-2026",
+   "path": "local/suceava/forasti/2026/11",
+   "short": "HCL Forăști nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 11/2026 privind actualizarea Indicatorilor tehnico-economici și a Devizului General, aferent obiectivului „EXTINDERE REȚEA CANALIZARE ÎN SATELE ONICENI ȘI ROȘIORI, COMUNA FORĂȘTI, JUDEȚUL SUCEAVA” , finanțat prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/267698",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/267698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-12-2026",
+   "path": "local/suceava/forasti/2026/12",
+   "short": "HCL Forăști nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 12/2026 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială la nivelul Comunei Forasti, județul Suceava, pentru anul 2026",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/267699",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/267699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-13-2026",
+   "path": "local/suceava/forasti/2026/13",
+   "short": "HCL Forăști nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 13/2026 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate şi finanţate din bugetul local, pentru anul 2026",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/267700",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/267700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-14-2026",
+   "path": "local/suceava/forasti/2026/14",
+   "short": "HCL Forăști nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 14/2026 privind modificarea si completarea Anexei la HCL nr. 89/ 23. 12. 2025 cu privire la stabilirea nivelurilor pentru valorile impozabile, impozitele si taxele locale si alte taxe asimilate acestora, precum si amenzile aplicabile incepand cu anul fiscal 2026",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/267703",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/267703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-15-2026",
+   "path": "local/suceava/forasti/2026/15",
+   "short": "HCL Forăști nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 15/2026 privind aprobarea reorganizarii structurii organizatorice a institutiei, modificarea organigramei si a statului de functii de la nivelul aparatului de specialitate al primarului comunei Forasti, judetul Suceava, conform prevederilor OUG nr. 7/ 2026",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/267704",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/267704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-16-2026",
+   "path": "local/suceava/forasti/2026/16",
+   "short": "HCL Forăști nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 16/2026 privind actualizarea Devizului general aferent obiectivului „IMPLEMENTAREA SISTEMELOR INTELIGENTE DE MANAGEMENT LOCAL ÎN COMUNA FORĂȘTI, JUDEȚUL SUCEAVA” finanțat prin Planul Național de Redresare și Reziliență – Componenta C10 – Fondul local, Investiția I.1.2 Asigurarea infrastructurii pentru transportul verde – ITS/Alte infrastructuri TIC – Runda 1”, urmare majorarii cotei TVA",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/267705",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/267705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-17-2026",
+   "path": "local/suceava/forasti/2026/17",
+   "short": "HCL Forăști nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 17/2026 privind actualizarea Devizului general aferent obiectivului „EXTINDEREA SISTEMELOR INTELIGENTE DE MANAGEMENT LOCAL ÎN COMUNA FORĂȘTI, JUDEȚUL SUCEAVA” finanțat prin Planul Național de Redresare și Reziliență – Componenta C10 – Fondul local, Investiția I.1.2 Asigurarea infrastructurii pentru transportul verde – ITS/Alte infrastructuri TIC – Runda 1”, urmare majorarii cotei TVA",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/267706",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/267706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-18-2026",
+   "path": "local/suceava/forasti/2026/18",
+   "short": "HCL Forăști nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 18/2026 privind alegerea preşedintelui de şedinţă al Consiliului Local al comunei Forasti pentru perioada mai 2026 - iulie 2026",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/267707",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/267707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-19-2026",
+   "path": "local/suceava/forasti/2026/19",
+   "short": "HCL Forăști nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 19/2026 privind aprobarea închirierii prin licitaţie publică a unui spaţiu cu destinatia de cabinet stomatologic ,in suprafata de 93,21 mp, situat in imobilul ,,Dispensar uman” din sat Oniceni, domeniu public al comunei Forasti, jud. Suceava",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/267708",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/267708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-2-2026",
+   "path": "local/suceava/forasti/2026/2",
+   "short": "HCL Forăști nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 2/2026 privind aprobarea decontarii cheltuielilor aferente navetei cadrelor didactice de la Scoala Gimnaziala Oniceni",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/267682",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/267682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-20-2026",
+   "path": "local/suceava/forasti/2026/20",
+   "short": "HCL Forăști nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 20/2026 privind aprobarea închirierii prin licitaţie publică a unui spaţiu cu destinatia de cabinet medical, specializarea medicina de familie ,in suprafata de 105,62 mp, situat in imobilul ,,Dispensar uman” din sat Oniceni, domeniu public al comunei Forasti, jud. Suceava",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/267709",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/267709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-21-2026",
+   "path": "local/suceava/forasti/2026/21",
+   "short": "HCL Forăști nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 21/2026 privind aprobarea închirierii prin licitaţie publică a unui spaţiu cu destinatia de farmacie ,in suprafata de 101,47 mp, situat in imobilul ,,Dispensar uman” din sat Oniceni, domeniu public al comunei Forasti, jud. Suceava",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/267710",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/267710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-3-2026",
+   "path": "local/suceava/forasti/2026/3",
+   "short": "HCL Forăști nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 3/2026 privind utilizarea excedentului anual al bugetului local rezultat la incheierea exercitiului bugetar pe anul 2025",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/267683",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/267683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-4-2026",
+   "path": "local/suceava/forasti/2026/4",
+   "short": "HCL Forăști nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 4/2026 privind mutarea unui post contractual din Compartimentul paza si protectie in Compartimentul deservire",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/267684",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/267684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-5-2026",
+   "path": "local/suceava/forasti/2026/5",
+   "short": "HCL Forăști nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 5/2026 privind acceptarea donației unui bun mobil, autoturism marca DACIA, tip LOGAN R90 LAUREATE , de la Asociatia Judeteana pentru Apa si Canalizare Suceava, si inscrierea in domeniul privat al comunei Forasti",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/267686",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/267686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-6-2026",
+   "path": "local/suceava/forasti/2026/6",
+   "short": "HCL Forăști nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 6/2026",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/267689",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/267689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-7-2026",
+   "path": "local/suceava/forasti/2026/7",
+   "short": "HCL Forăști nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 7/2026 privind acordul pentru scoaterea definitiva din circuitul agricol a suprafetei de 8.017 mp teren inscris in CF 33665 Forasti, extravilan, categoria de folosinta arabil, domeniu privat al comunei Forasti, pentru realizarea investitiei ,,Instalare capacitate de producere a energiei din surse solare pentru autoconsumul comunei Forasti” in cadrul Ministerului Energiei - Fondul pentru Modernizare, Programul- cheie 1: Surse regenerabile de energie si stocarea energiei",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/267690",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/267690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-8-2026",
+   "path": "local/suceava/forasti/2026/8",
+   "short": "HCL Forăști nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 8/2026 privind aprobarea contului de execuţie bugetară pe anul 2025",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/267691",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/267691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-9-2026",
+   "path": "local/suceava/forasti/2026/9",
+   "short": "HCL Forăști nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 9/2026 privind aprobarea decontarii cheltuielilor aferente navetei cadrelor didactice de la Scoala Gimnaziala Oniceni",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/267692",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/267692",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

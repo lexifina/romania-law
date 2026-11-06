@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-sibiu--sadu-89-2021",
+"path": "local/sibiu/sadu/2021/89",
+"kind": "local",
+"year": "2021",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 89/2021 privind concesionarea prin licitație publică a terenului situat în intravilanul comunei Sadu, în suprafaţă de 10494 mp, înscris în CF nr.106841",
+"short": "HCL Sadu nr. 89/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/44343",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-sibiu--sadu-90-2021",
 "path": "local/sibiu/sadu/2021/90",
 "kind": "local",
@@ -355,6 +377,28 @@
 }
 },
 {
+"slug": "hcl-sibiu--sadu-100-2021",
+"path": "local/sibiu/sadu/2021/100",
+"kind": "local",
+"year": "2021",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 100/2021 privind prelungirea mandatului administratorului provizoriu și aprobarea demersurilor în vederea dizolvării/lichidării/radierii SC GOSPODĂRIRE COMUNALĂ LOCALA SADU SRL",
+"short": "HCL Sadu nr. 100/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-17",
+"latest": "2021-12-17",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/46613",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-sibiu--sadu-101-2021",
 "path": "local/sibiu/sadu/2021/101",
 "kind": "local",
@@ -374,6 +418,28 @@
 "council_name": "Consiliul Local al Comunei Sadu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-102-2021",
+"path": "local/sibiu/sadu/2021/102",
+"kind": "local",
+"year": "2021",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 102/2021 privind aprobarea volumului de masă lemnoasă ce se va recolta în anul 2022 din fondul forestier proprietatea publică a comunei Sadu și a prețurilor de vânzare a acesteia",
+"short": "HCL Sadu nr. 102/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/46615",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-suceava--fantanele-34-2021",
+"path": "local/suceava/fantanele/2021/34",
+"kind": "local",
+"year": "2021",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 34/2021 privind validarea dispozitiei nr.126 din 21.09.2021 privind rectificarea bugetului local in anul 2021",
+"short": "HCL Fântânele nr. 34/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/fantanele-sv/registru-hcl/241336",
+"council": "suceava/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--fantanele-35-2021",
 "path": "local/suceava/fantanele/2021/35",
 "kind": "local",
@@ -47,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-suceava--fantanele-36-2021",
+"path": "local/suceava/fantanele/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 36/2021 privind alegerea presedintelui de sedinta",
+"short": "HCL Fântânele nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/fantanele-sv/registru-hcl/241343",
+"council": "suceava/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--fantanele-37-2021",
 "path": "local/suceava/fantanele/2021/37",
 "kind": "local",
@@ -66,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Fântânele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--fantanele-38-2021",
+"path": "local/suceava/fantanele/2021/38",
+"kind": "local",
+"year": "2021",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 38/2021 privind validarea Dispozitiei nr.130 din 30.09.2023 privind rectificare bugetului local in anul 2021",
+"short": "HCL Fântânele nr. 38/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/fantanele-sv/registru-hcl/241350",
+"council": "suceava/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -110,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Fântânele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--fantanele-41-2021",
+"path": "local/suceava/fantanele/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 41/2021 privind desemnarea unui representant din cadrul Consiliului local care va face parte din comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea functiilor de director si de director adjunct la Scoala gimnaziala ”Mihai Eminescu Banesti, comuna Fantanele",
+"short": "HCL Fântânele nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/fantanele-sv/registru-hcl/241353",
+"council": "suceava/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -286,6 +374,28 @@
 "council_name": "Consiliul Local al Comunei Fântânele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--fantanele-50-2021",
+"path": "local/suceava/fantanele/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 50/2021 privind respingerea proiectului de hotarare privind aprobarea impozitelor si taxelor locale pentru anul 2022",
+"short": "HCL Fântânele nr. 50/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://emol.ro/fantanele-sv/registru-hcl/241362",
+"council": "suceava/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

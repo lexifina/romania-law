@@ -183,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--paulesti-171-2022",
+   "path": "local/prahova/paulesti/2022/171",
+   "short": "HCL Păulești nr. 171/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 171/2022 privind aprobarea caietului de sarcini pentru ,,Inchiriere utilaje,,",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/85984",
+   "versions": [
+    {
+     "from": "2023-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/85984",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--paulesti-172-2022",
    "path": "local/prahova/paulesti/2022/172",
    "short": "HCL Păulești nr. 172/2022",

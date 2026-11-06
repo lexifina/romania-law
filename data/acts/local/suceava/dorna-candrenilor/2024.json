@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-suceava--dorna-candrenilor-120-2024",
+"path": "local/suceava/dorna-candrenilor/2024/120",
+"kind": "local",
+"year": "2024",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 120/2024 privind aprobarea acordării unui sprijin financiar de la bugetul local al comunei Dorna Candrenilor, pentru Parohia Dealu Floreni, comuna Dorna Candrenilor, județul Suceava",
+"short": "HCL Dorna Candrenilor nr. 120/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-25",
+"latest": "2025-02-25",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/191080",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--dorna-candrenilor-121-2024",
 "path": "local/suceava/dorna-candrenilor/2024/121",
 "kind": "local",
@@ -154,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Dorna Candrenilor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-123-2024",
+"path": "local/suceava/dorna-candrenilor/2024/123",
+"kind": "local",
+"year": "2024",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 123/2024 privind aprobarea vânzării prin licitație publică, masă lemnoasă pe picior, provenită din fondul forestier proprietate publică a comunei Dorna Candrenilor",
+"short": "HCL Dorna Candrenilor nr. 123/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-25",
+"latest": "2025-02-25",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/191083",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

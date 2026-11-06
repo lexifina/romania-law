@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-sibiu--sadu-133-2023",
+   "path": "local/sibiu/sadu/2023/133",
+   "short": "HCL Sadu nr. 133/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 133/2023 privind revocarea Hotărârii Consiliului Local al comunei Sadu nr. 115/2023 privind concesionarea prin licitație publică a terenului situat în intravilanul comunei Sadu, în suprafaţă de 10.494 mp, înscris în CF nr.106841",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/130290",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/130290",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--sadu-134-2023",
    "path": "local/sibiu/sadu/2023/134",
    "short": "HCL Sadu nr. 134/2023",
@@ -163,6 +178,51 @@
      "from": "2024-07-17",
      "units": 1,
      "source_url": "https://emol.ro/sadu-sb/registru-hcl/133897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-143-2023",
+   "path": "local/sibiu/sadu/2023/143",
+   "short": "HCL Sadu nr. 143/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 143/2023 privind rezilierea contractului de închiriere nr. 7.310/10.05.2023 având ca obiect pășunea alpină ”OANCEA”",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/133898",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/133898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-144-2023",
+   "path": "local/sibiu/sadu/2023/144",
+   "short": "HCL Sadu nr. 144/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 144/2023 privind mandatarea primarului comunei Sadu ca reprezentant al comunei Sadu în Adunarea Generală a Asociației de Dezvoltare Intercomunitară “ECO” Sibiu să voteze pentru aprobarea încheierii Actului adiţional nr. 11 la “Contractul de delegare prin concesiune a gestiunii activității de colectare si transport a deșeurilor municipale în Zona 1 Sibiu” nr. 277/05.08.2016",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/133899",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/133899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-145-2023",
+   "path": "local/sibiu/sadu/2023/145",
+   "short": "HCL Sadu nr. 145/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 145/2023 privind desemnarea membrilor în comisia de selecție și comisia de soluționare a contestațiilor precum și aprobarea ”Componentei integrale a planului de selecție” pentru selecția membrilor în cadrul Consiliul de Administrație al Regiei Publice Locale „Ocolul Silvic Valea Sadului” R.A",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/133900",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/133900",
      "sha256": null
     }
    ]

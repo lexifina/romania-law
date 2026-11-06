@@ -91,6 +91,50 @@
 }
 },
 {
+"slug": "hcl-sibiu--gura-raului-105-2025",
+"path": "local/sibiu/gura-raului/2025/105",
+"kind": "local",
+"year": "2025",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 105/2025 privind numirea Consiliului de administratie provizoriu al RPL Ocolul Silvic Gura Raului RA",
+"short": "HCL Gura Râului nr. 105/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/guraraului-sb/registru-hcl/241481",
+"council": "sibiu/gura-raului",
+"council_name": "Consiliul Local al Comunei Gura Râului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--gura-raului-106-2025",
+"path": "local/sibiu/gura-raului/2025/106",
+"kind": "local",
+"year": "2025",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 106/2025 privind aprobarea suplimentării cu 20.000 lei a subvenției în vederea acoperirii costurilor suplimentare la achiziția lemnului de foc pentru locuitori comunei Gura Râului, jud. Sibiu aprobate prin HCL nr. 78/2025",
+"short": "HCL Gura Râului nr. 106/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/guraraului-sb/registru-hcl/241482",
+"council": "sibiu/gura-raului",
+"council_name": "Consiliul Local al Comunei Gura Râului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-sibiu--gura-raului-107-2025",
 "path": "local/sibiu/gura-raului/2025/107",
 "kind": "local",
@@ -330,6 +374,51 @@
 "council_name": "Consiliul Local al Comunei Gura Râului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--gura-raului-118-2025",
+"path": "local/sibiu/gura-raului/2025/118",
+"kind": "local",
+"year": "2025",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 118/2025",
+"short": "HCL Gura Râului nr. 118/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-27",
+"latest": "2026-05-27",
+"portal": "https://emol.ro/guraraului-sb/registru-hcl/241494",
+"council": "sibiu/gura-raului",
+"council_name": "Consiliul Local al Comunei Gura Râului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-sibiu--gura-raului-119-2025",
+"path": "local/sibiu/gura-raului/2025/119",
+"kind": "local",
+"year": "2025",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 119/2025 privind alegerea președintelui de ședință",
+"short": "HCL Gura Râului nr. 119/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/guraraului-sb/registru-hcl/244467",
+"council": "sibiu/gura-raului",
+"council_name": "Consiliul Local al Comunei Gura Râului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

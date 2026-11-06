@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/gura-humorului/2023",
+ "acts": [
+  {
+   "slug": "hcl-suceava--gura-humorului-119-2023",
+   "path": "local/suceava/gura-humorului/2023/119",
+   "short": "HCL Gura Humorului nr. 119/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Gura Humorului nr. 119/2023",
+   "url": "https://primariagurahumorului.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://primariagurahumorului.ro/wp-content/primaria/administratie/monitorul%20oficial%20local/1.%20statut/Statutul%20Orasului%20Gura%20Humorului%20-%20HCL%20nr.119%20din%2030.08.2023.pdf",
+     "sha256": "3b132b2edd1436335e56b1dbbc80fb9ed5deed4d981c17b936f6d2388432a1ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--gura-humorului-164-2023",
+   "path": "local/suceava/gura-humorului/2023/164",
+   "short": "HCL Gura Humorului nr. 164/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Gura Humorului nr. 164/2023",
+   "url": "https://primariagurahumorului.ro/wp-content/uploads/2023/12/HCL-nr.-164-din-28.11.2023-Nivelul-impozitelor-si-taxelor-locale-pentru-anul-2024.pdf",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://primariagurahumorului.ro/wp-content/uploads/2023/12/HCL-nr.-164-din-28.11.2023-Nivelul-impozitelor-si-taxelor-locale-pentru-anul-2024.pdf",
+     "sha256": "f85788657b649f5ed3d6196ad9a8a053cc08d206804d62af2073aca52099d8f6"
+    }
+   ]
+  }
+ ]
+}

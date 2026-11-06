@@ -47,6 +47,29 @@
 }
 },
 {
+"slug": "hcl-prahova--valea-calugareasca-76-2026",
+"path": "local/prahova/valea-calugareasca/2026/76",
+"kind": "local",
+"year": "2026",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 76/2026",
+"short": "HCL Valea Călugărească nr. 76/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/valeacalugareasca-ph/registru-hcl/291139",
+"council": "prahova/valea-calugareasca",
+"council_name": "Consiliul Local al Comunei Valea Călugărească",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--valea-calugareasca-77-2026",
 "path": "local/prahova/valea-calugareasca/2026/77",
 "kind": "local",
@@ -88,6 +111,28 @@
 "council_name": "Consiliul Local al Comunei Valea Călugărească",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--valea-calugareasca-79-2026",
+"path": "local/prahova/valea-calugareasca/2026/79",
+"kind": "local",
+"year": "2026",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 79/2026 privind desemnarea reprezentanţilor Consiliului Local pentru a face parte din Comisiile de evaluare a probei de interviu pentru concursul privind ocuparea funcțiilor de director și director adjunct la unităţile de învăţamânt preuniversitar de stat din comuna Valea Călugărească",
+"short": "HCL Valea Călugărească nr. 79/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/valeacalugareasca-ph/registru-hcl/291142",
+"council": "prahova/valea-calugareasca",
+"council_name": "Consiliul Local al Comunei Valea Călugărească",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -133,6 +178,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--valea-calugareasca-82-2026",
+"path": "local/prahova/valea-calugareasca/2026/82",
+"kind": "local",
+"year": "2026",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 82/2026 privind alegerea președintelui de ședință",
+"short": "HCL Valea Călugărească nr. 82/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-02",
+"latest": "2026-10-02",
+"portal": "https://emol.ro/valeacalugareasca-ph/registru-hcl/292047",
+"council": "prahova/valea-calugareasca",
+"council_name": "Consiliul Local al Comunei Valea Călugărească",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -200,6 +267,74 @@
 "council_name": "Consiliul Local al Comunei Valea Călugărească",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--valea-calugareasca-86-2026",
+"path": "local/prahova/valea-calugareasca/2026/86",
+"kind": "local",
+"year": "2026",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 86/2026 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Valea Călugărească nr. 86/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/valeacalugareasca-ph/registru-hcl/297496",
+"council": "prahova/valea-calugareasca",
+"council_name": "Consiliul Local al Comunei Valea Călugărească",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--valea-calugareasca-87-2026",
+"path": "local/prahova/valea-calugareasca/2026/87",
+"kind": "local",
+"year": "2026",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 87/2026",
+"short": "HCL Valea Călugărească nr. 87/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/valeacalugareasca-ph/registru-hcl/297497",
+"council": "prahova/valea-calugareasca",
+"council_name": "Consiliul Local al Comunei Valea Călugărească",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--valea-calugareasca-88-2026",
+"path": "local/prahova/valea-calugareasca/2026/88",
+"kind": "local",
+"year": "2026",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 88/2026",
+"short": "HCL Valea Călugărească nr. 88/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/valeacalugareasca-ph/registru-hcl/297498",
+"council": "prahova/valea-calugareasca",
+"council_name": "Consiliul Local al Comunei Valea Călugărească",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

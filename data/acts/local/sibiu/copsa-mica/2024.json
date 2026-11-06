@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/sibiu/copsa-mica/2024",
+"acts": [
+{
+"slug": "hcl-sibiu--copsa-mica-50-2024",
+"path": "local/sibiu/copsa-mica/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Copșa Mică nr. 50/2024",
+"short": "HCL Copșa Mică nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://copsa-mica.ro/despre-institutie/consiliul-local/regulament-de-ordine-si-functionare-al-consiliului-local/",
+"council": "sibiu/copsa-mica",
+"council_name": "Consiliul Local al Orașului Copșa Mică",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

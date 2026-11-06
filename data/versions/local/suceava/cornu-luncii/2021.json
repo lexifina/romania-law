@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--cornu-luncii-79-2021",
+   "path": "local/suceava/cornu-luncii/2021/79",
+   "short": "HCL Cornu Luncii nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 79/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/50618",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/50618",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--cornu-luncii-80-2021",
    "path": "local/suceava/cornu-luncii/2021/80",
    "short": "HCL Cornu Luncii nr. 80/2021",
@@ -43,6 +58,36 @@
      "from": "2021-10-27",
      "units": 1,
      "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/50619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-81-2021",
+   "path": "local/suceava/cornu-luncii/2021/81",
+   "short": "HCL Cornu Luncii nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 81/2021",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/50620",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/50620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-82-2021",
+   "path": "local/suceava/cornu-luncii/2021/82",
+   "short": "HCL Cornu Luncii nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 82/2021 privind desemnarea unui reprezentant al consiliului local ca membru în comisia de concurs pentru ocuparea funcțiilor de director și director adjunct al Școlii Gimnaziale Băișești, din comuna Cornu Luncii, județul Suceava",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/50621",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/50621",
      "sha256": null
     }
    ]
@@ -178,6 +223,36 @@
      "from": "2021-12-08",
      "units": 1,
      "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/50630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-92-2021",
+   "path": "local/suceava/cornu-luncii/2021/92",
+   "short": "HCL Cornu Luncii nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 92/2021 privind apartenența la inventarul domeniului privat al comunei Cornu Luncii a unor terenuri",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/50631",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/50631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-93-2021",
+   "path": "local/suceava/cornu-luncii/2021/93",
+   "short": "HCL Cornu Luncii nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 93/2021",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/50632",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/50632",
      "sha256": null
     }
    ]

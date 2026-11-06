@@ -3,6 +3,21 @@
  "shard": "local/salaj/valcau-de-jos/2026",
  "acts": [
   {
+   "slug": "hcl-salaj--valcau-de-jos-34-2026",
+   "path": "local/salaj/valcau-de-jos/2026/34",
+   "short": "HCL Valcău de Jos nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 34/2026 privind aprobarea actelor de punere în valoare și a prețurilor de vânzare a materialului lemnos din rampă către populație din pădurea proprietatea comunei Valcău de Jos",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/283122",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/283122",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--valcau-de-jos-35-2026",
    "path": "local/salaj/valcau-de-jos/2026/35",
    "short": "HCL Valcău de Jos nr. 35/2026",
@@ -48,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--valcau-de-jos-38-2026",
+   "path": "local/salaj/valcau-de-jos/2026/38",
+   "short": "HCL Valcău de Jos nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 38/2026 privind aprobarea transferului dreptului de proprietate cu titlu gratuit a bunurilor achiziționate prin proiectul „DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE A ȘCOLII GIMNAZIALE NR. 1 VALCĂU DE JOS” Cod proiect F-PNRR-Dotari-2023-2919, finanțat prin Planul Național de Redresare și Reziliență (PNRR) - Componenta 15 – Educație",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/285770",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/285770",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--valcau-de-jos-39-2026",
    "path": "local/salaj/valcau-de-jos/2026/39",
    "short": "HCL Valcău de Jos nr. 39/2026",
@@ -58,6 +88,51 @@
      "from": "2026-09-18",
      "units": 1,
      "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/285771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-40-2026",
+   "path": "local/salaj/valcau-de-jos/2026/40",
+   "short": "HCL Valcău de Jos nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 40/2026 privind aprobarea documentației tehnico-economice, faza studiu de fezabilitate și a indicatorilor tehnico-economici ai obiectivului de investiții „Centru agroalimentar integrat în comuna Valcău de Jos, județul Sălaj",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/285772",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/285772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-41-2026",
+   "path": "local/salaj/valcau-de-jos/2026/41",
+   "short": "HCL Valcău de Jos nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 41/2026 privind aprobarea grilei de tarife și a regulilor de aplicare pentru serviciile puse la dispoziția utilizatorilor prin Centrul agroalimentar integrat al comunei Valcău de Jos",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/285773",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/285773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-42-2026",
+   "path": "local/salaj/valcau-de-jos/2026/42",
+   "short": "HCL Valcău de Jos nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 42/2026 privind aprobarea proiectului „Centru agroalimentar integrat în comuna Valcău de Jos, județul Sălaj” și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/285774",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/285774",
      "sha256": null
     }
    ]
@@ -93,6 +168,36 @@
    ]
   },
   {
+   "slug": "hcl-salaj--valcau-de-jos-45-2026",
+   "path": "local/salaj/valcau-de-jos/2026/45",
+   "short": "HCL Valcău de Jos nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 45/2026 privind numirea reprezentanţilor Consiliului local în Consiliul de administraţie al Școlii Gimnaziale Valcău de Jos",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/288550",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/288550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-46-2026",
+   "path": "local/salaj/valcau-de-jos/2026/46",
+   "short": "HCL Valcău de Jos nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 46/2026 privind desemnarea unui reprezentant al Consiliului Local Valcău de Jos în Comisia de Evaluare și Asigurare a Calității constituită la nivelul Școlii Gimnaziale nr. 1 Valcău de Jos",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/288551",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/288551",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--valcau-de-jos-47-2026",
    "path": "local/salaj/valcau-de-jos/2026/47",
    "short": "HCL Valcău de Jos nr. 47/2026",
@@ -108,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--valcau-de-jos-48-2026",
+   "path": "local/salaj/valcau-de-jos/2026/48",
+   "short": "HCL Valcău de Jos nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 48/2026 privind desemnarea reprezentanților Consiliului Local al Comunei Valcău de Jos în comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/288553",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/288553",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--valcau-de-jos-49-2026",
    "path": "local/salaj/valcau-de-jos/2026/49",
    "short": "HCL Valcău de Jos nr. 49/2026",
@@ -118,6 +238,66 @@
      "from": "2026-10-13",
      "units": 1,
      "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/288554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-50-2026",
+   "path": "local/salaj/valcau-de-jos/2026/50",
+   "short": "HCL Valcău de Jos nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 50/2026 pentru aprobarea Stategiei de dezvoltare locală a comunei Valcău de Jos 2021-2027",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/288555",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/288555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-51-2026",
+   "path": "local/salaj/valcau-de-jos/2026/51",
+   "short": "HCL Valcău de Jos nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 51/2026 privind aprobarea depunerii proiectului „Realizarea unei capacităţi de stocare a energiei electrice (baterii) pentru Comuna Valcău de Jos, județul Sălaj” și a cheltuielilor legate de acest proiect, în vederea finanțării în cadrul Fondului pentru Modernizare – Programul-cheie 1: Surse regenerabile de energie și stocarea energiei – „Sprijinirea investițiilor în dezvoltarea de noi capacități de stocare a energiei electrice produsă din surse regenerabile de energie pentru entități publice”",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/289696",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/289696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-52-2026",
+   "path": "local/salaj/valcau-de-jos/2026/52",
+   "short": "HCL Valcău de Jos nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 52/2026 privind modificarea și completarea Hotărârii Consiliului Local al comunei Valcău de Jos nr. 34/13.08.2026 privind aprobarea actelor de punere în valoare și a prețurilor de vânzare a materialului lemnos din rampă către populație din pădurea proprietatea comunei Valcău de Jos",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/293972",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/293972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-53-2026",
+   "path": "local/salaj/valcau-de-jos/2026/53",
+   "short": "HCL Valcău de Jos nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 53/2026 privind aprobarea traseelor și a locurilor de îmbarcare-debarcare pentru transportul elevilor cu autovehiculele școlare, în anul școlar 2026–2027",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/293973",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/293973",
      "sha256": null
     }
    ]

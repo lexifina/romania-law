@@ -23,6 +23,50 @@
 "flags": {
 "text_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-suceava--fratautii-noi-74-2026",
+"path": "local/suceava/fratautii-noi/2026/74",
+"kind": "local",
+"year": "2026",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frătăuții Noi nr. 74/2026 privind rectificarea bugetului local pe luna Octombrie, anul 2026",
+"short": "HCL Frătăuții Noi nr. 74/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-27",
+"latest": "2026-10-27",
+"portal": "http://www.primaria-fratautii-noi.ro/posts/hotarari-autoritati-deliberative",
+"council": "suceava/fratautii-noi",
+"council_name": "Consiliul Local al Comunei Frătăuții Noi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--fratautii-noi-77-2026",
+"path": "local/suceava/fratautii-noi/2026/77",
+"kind": "local",
+"year": "2026",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frătăuții Noi nr. 77/2026 privind revocarea Hotărârii nr. 65 din 24.09.2026 privind vânzarea prin licitație publică cu ofertă în plic închis a unor imobile - terenuri proprietatea privată a comunei Frătăuții Noi, județul Suceava",
+"short": "HCL Frătăuții Noi nr. 77/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-27",
+"latest": "2026-10-27",
+"portal": "http://www.primaria-fratautii-noi.ro/",
+"council": "suceava/fratautii-noi",
+"council_name": "Consiliul Local al Comunei Frătăuții Noi",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

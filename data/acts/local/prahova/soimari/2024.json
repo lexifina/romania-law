@@ -3,6 +3,28 @@
 "shard": "local/prahova/soimari/2024",
 "acts": [
 {
+"slug": "hcl-prahova--soimari-8-2024",
+"path": "local/prahova/soimari/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 8/2024 pentru plata sumelor necesare decontarii cheltuielilor de transport pentru cadrele didactice si personalul auxiliar pe luna decembrie 2023",
+"short": "HCL Șoimari nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-08",
+"latest": "2024-02-08",
+"portal": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#72333",
+"council": "prahova/soimari",
+"council_name": "Consiliul Local al Comunei Șoimari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--soimari-28-2024",
 "path": "local/prahova/soimari/2024/28",
 "kind": "local",

@@ -3,6 +3,50 @@
 "shard": "local/suceava/dorna-candrenilor/2022",
 "acts": [
 {
+"slug": "hcl-suceava--dorna-candrenilor-161-2022",
+"path": "local/suceava/dorna-candrenilor/2022/161",
+"kind": "local",
+"year": "2022",
+"number": "161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 161/2022 privind aprobarea vânzării prin licitație publică, masă lemnoasă la drum auto, provenită din fondul forestier proprietate publică a comunei Dorna Candrenilor",
+"short": "HCL Dorna Candrenilor nr. 161/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-20",
+"latest": "2023-03-20",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/95579",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-162-2022",
+"path": "local/suceava/dorna-candrenilor/2022/162",
+"kind": "local",
+"year": "2022",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 162/2022 privind aprobarea vânzării prin licitație publică a cantității de 137 mc volum brut masă lemnoasă la drum auto, provenită din fondul forestier proprietate publică a comunei Dorna Candrenilor, administrată de Ocolul Silvic Dorna Candrenilor, județul Suceava, pentru anul 2022",
+"short": "HCL Dorna Candrenilor nr. 162/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-20",
+"latest": "2023-03-20",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/95580",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--dorna-candrenilor-163-2022",
 "path": "local/suceava/dorna-candrenilor/2022/163",
 "kind": "local",
@@ -70,6 +114,50 @@
 }
 },
 {
+"slug": "hcl-suceava--dorna-candrenilor-166-2022",
+"path": "local/suceava/dorna-candrenilor/2022/166",
+"kind": "local",
+"year": "2022",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 166/2022 privind aprobarea acordării unui sprijin financiar de la bugetul local al comunei Dorna Candrenilor, județul Suceava, către Parohia Ortodoxă Dorna Candrenilor cu hramul Adomirea Maicii Domnului",
+"short": "HCL Dorna Candrenilor nr. 166/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-20",
+"latest": "2023-03-20",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/95587",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-167-2022",
+"path": "local/suceava/dorna-candrenilor/2022/167",
+"kind": "local",
+"year": "2022",
+"number": "167",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 167/2022 privind rectificarea bugetului local pe anul 2022",
+"short": "HCL Dorna Candrenilor nr. 167/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-20",
+"latest": "2023-03-20",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/95589",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--dorna-candrenilor-168-2022",
 "path": "local/suceava/dorna-candrenilor/2022/168",
 "kind": "local",
@@ -111,6 +199,28 @@
 "council_name": "Consiliul Local al Comunei Dorna Candrenilor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-170-2022",
+"path": "local/suceava/dorna-candrenilor/2022/170",
+"kind": "local",
+"year": "2022",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 170/2022 privind aprobarea vânzării prin licitație publică a unor terenuri, proprietate privată a comunei Dorna Candrenilor, județul Suceava",
+"short": "HCL Dorna Candrenilor nr. 170/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-20",
+"latest": "2023-03-20",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/95592",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -158,6 +268,28 @@
 }
 },
 {
+"slug": "hcl-suceava--dorna-candrenilor-173-2022",
+"path": "local/suceava/dorna-candrenilor/2022/173",
+"kind": "local",
+"year": "2022",
+"number": "173",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 173/2022 privind aprobarea scoaterii la licitație, în vederea încheierii, a unor spații, aparținând domeniului privat al comunei Dorna Candrenilor, situate în incinta imobilului ”Imobil multifuncțional”",
+"short": "HCL Dorna Candrenilor nr. 173/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-20",
+"latest": "2023-03-20",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/95595",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--dorna-candrenilor-174-2022",
 "path": "local/suceava/dorna-candrenilor/2022/174",
 "kind": "local",
@@ -202,6 +334,72 @@
 }
 },
 {
+"slug": "hcl-suceava--dorna-candrenilor-176-2022",
+"path": "local/suceava/dorna-candrenilor/2022/176",
+"kind": "local",
+"year": "2022",
+"number": "176",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 176/2022 privind aprobarea vânzării prin licitație publică, masă lemnoasă pe picior, producția anului 2023, provenită din fondul forestier proprietate publică a comunei Dorna Candrenilor, administrată de OS Dorna",
+"short": "HCL Dorna Candrenilor nr. 176/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-20",
+"latest": "2023-03-20",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/95598",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-177-2022",
+"path": "local/suceava/dorna-candrenilor/2022/177",
+"kind": "local",
+"year": "2022",
+"number": "177",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 177/2022 privind aprobarea vânzării prin licitație publică, masă lemnoasă la drum auto, provenită din fondul forestier proprietate publică a comunei Dorna Candrenilor",
+"short": "HCL Dorna Candrenilor nr. 177/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-20",
+"latest": "2023-03-20",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/95599",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-178-2022",
+"path": "local/suceava/dorna-candrenilor/2022/178",
+"kind": "local",
+"year": "2022",
+"number": "178",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 178/2022 privind modificarea HCL nr. 149/2022 privind aprobarea depunerii proiectului „Înființare centru de colectare deșeuri prin aport voluntar în comuna Dorna Candrenilor, județul Suceava”, în cadrul apelului de proiecte cu titlul PNRR/2022/C3/S/I.1.A, Componenta C3 - Managementul deșeurilor, Investiția 1I.Dezvoltarea, modernizarea și completarea sistemelor de management integrat ai deșeurilor municipale la nivel de județ sau la nivel de orașe/comune, Subinvestiția I. 1.A. Înființare de centre de colectare prin aport voluntar din Planul Național de Redresare și Reziliență - PNRR",
+"short": "HCL Dorna Candrenilor nr. 178/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-20",
+"latest": "2023-03-20",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/95600",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--dorna-candrenilor-179-2022",
 "path": "local/suceava/dorna-candrenilor/2022/179",
 "kind": "local",
@@ -221,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Dorna Candrenilor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-180-2022",
+"path": "local/suceava/dorna-candrenilor/2022/180",
+"kind": "local",
+"year": "2022",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 180/2022 privind aprobarea vânzării prin licitație publică a cantității de 954,46 mc volum brut masa lemnoasă pe picior, provenită din fondul forestier proprietate publică a comunei Dorna Candrenilor, administrată de Ocolul Silvic Dorna Candrenilor, județul Suceava",
+"short": "HCL Dorna Candrenilor nr. 180/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-20",
+"latest": "2023-03-20",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/95602",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

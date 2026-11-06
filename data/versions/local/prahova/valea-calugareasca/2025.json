@@ -78,6 +78,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--valea-calugareasca-105-2025",
+   "path": "local/prahova/valea-calugareasca/2025/105",
+   "short": "HCL Valea Călugărească nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 105/2025 privind vânzarea directă a terenului în suprafaţă măsurată de 516 ( din acte 500mp), tarlaua T17, parcela Cc 10, nr. cadastral 21100, situat în satul Valea Călugărească",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/238626",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/238626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-106-2025",
+   "path": "local/prahova/valea-calugareasca/2025/106",
+   "short": "HCL Valea Călugărească nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 106/2025 privind aprobarea modificării organigramei și a ștatului de funcții pentru aparatul de specialitate al primarului Comunei Valea Călugărească",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/238627",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/238627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-107-2025",
+   "path": "local/prahova/valea-calugareasca/2025/107",
+   "short": "HCL Valea Călugărească nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 107/2025 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/239653",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/239653",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--valea-calugareasca-108-2025",
    "path": "local/prahova/valea-calugareasca/2025/108",
    "short": "HCL Valea Călugărească nr. 108/2025",
@@ -118,6 +163,21 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/239671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-111-2025",
+   "path": "local/prahova/valea-calugareasca/2025/111",
+   "short": "HCL Valea Călugărească nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 111/2025 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/243679",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/243679",
      "sha256": null
     }
    ]
@@ -208,6 +268,21 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/243685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-98-2025",
+   "path": "local/prahova/valea-calugareasca/2025/98",
+   "short": "HCL Valea Călugărească nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 98/2025 pentru completarea Hotărârii Consiliului Local Valea Călugărească nr.77/04.09.2025 privind aprobarea rectificării bugetului de venituri şi cheltuieli pentru comuna Valea Călugărească aferent anului 2025",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/233711",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/233711",
      "sha256": null
     }
    ]

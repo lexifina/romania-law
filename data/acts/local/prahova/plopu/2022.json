@@ -246,6 +246,29 @@
 }
 },
 {
+"slug": "hcl-prahova--plopu-77-2022",
+"path": "local/prahova/plopu/2022/77",
+"kind": "local",
+"year": "2022",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 77/2022",
+"short": "HCL Plopu nr. 77/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-21",
+"latest": "2022-10-21",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/80886",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--plopu-78-2022",
 "path": "local/prahova/plopu/2022/78",
 "kind": "local",

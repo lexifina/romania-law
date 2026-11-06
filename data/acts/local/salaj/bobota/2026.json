@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-salaj--bobota-44-2026",
+"path": "local/salaj/bobota/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobota nr. 44/2026 privind desemnarea unor reprezentanti ai Consiliului local Bobota în Consiliul de Administrație a Școlii Gimnaziale „Gheorghe Șincai” Bobota, județul Sălaj, pentru anul școlar 2026-2027",
+"short": "HCL Bobota nr. 44/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-17",
+"latest": "2026-09-17",
+"portal": "https://emol.ro/bobota-sj/registru-hcl/286181",
+"council": "salaj/bobota",
+"council_name": "Consiliul Local al Comunei Bobota",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--bobota-45-2026",
 "path": "local/salaj/bobota/2026/45",
 "kind": "local",
@@ -246,6 +268,28 @@
 }
 },
 {
+"slug": "hcl-salaj--bobota-52-2026",
+"path": "local/salaj/bobota/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobota nr. 52/2026 privind desemnarea unui membru titular și a unui membru supleant din cadrul Consiliului local Bobota în comisia de evaluare a probei de interviu pentru concursul de ocupare a funcțiiilor de director și director adjunct din unitatea de învățământ preuniversitar de pe raza UAT Comuna Bobota",
+"short": "HCL Bobota nr. 52/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": "https://emol.ro/bobota-sj/registru-hcl/287675",
+"council": "salaj/bobota",
+"council_name": "Consiliul Local al Comunei Bobota",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--bobota-53-2026",
 "path": "local/salaj/bobota/2026/53",
 "kind": "local",
@@ -376,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Bobota",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--bobota-59-2026",
+"path": "local/salaj/bobota/2026/59",
+"kind": "local",
+"year": "2026",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobota nr. 59/2026 privind alegerea preşedintelui de şedinţă ce va conduce şedinţele Consiliului Local Bobota în perioada NOIEMBRIE 2026 – IANUARIE 2027",
+"short": "HCL Bobota nr. 59/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/bobota-sj/registru-hcl/297249",
+"council": "salaj/bobota",
+"council_name": "Consiliul Local al Comunei Bobota",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

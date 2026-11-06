@@ -245,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-prahova--vadu-sapat-52-2026",
+"path": "local/prahova/vadu-sapat/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 52/2026 privind desemnarea unor reprezentanti din partea Consiliului Local Vadu Sapat in cadrul Consiliului de Administratie al Scolii Gimnaziale, respectiv Comisiei pentru Prevenirea si Combaterea Violentei si in cadrul Comisiei pentru Evaluarea si Asigurarea Calitatii(CEAC)",
+"short": "HCL Vadu Săpat nr. 52/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/vadusapat-ph/registru-hcl/288604",
+"council": "prahova/vadu-sapat",
+"council_name": "Consiliul Local al Comunei Vadu Săpat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--vadu-sapat-53-2026",
 "path": "local/prahova/vadu-sapat/2026/53",
 "kind": "local",

@@ -201,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-salaj--dragu-10-2020",
+"path": "local/salaj/dragu/2020/10",
+"kind": "local",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dragu nr. 10/2020 privind aprobarea închirierii prin licitație publică terenurilor înscrise în CF NR.50860, CF NR.50861, CF NR.50862 și CF NR.50019, aflate în proprietatea comunei Dragu, domeniu privat",
+"short": "HCL Dragu nr. 10/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-19",
+"latest": "2020-02-19",
+"portal": "https://emol.ro/dragu-sj/registru-hcl/2854",
+"council": "salaj/dragu",
+"council_name": "Consiliul Local al Comunei Dragu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--dragu-11-2020",
 "path": "local/salaj/dragu/2020/11",
 "kind": "local",
@@ -242,6 +264,28 @@
 "council_name": "Consiliul Local al Comunei Dragu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--dragu-13-2020",
+"path": "local/salaj/dragu/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dragu nr. 13/2020 privind alegerea președintelui de ședință pe o perioadă de trei luni începând cu luna Aprilie 2020",
+"short": "HCL Dragu nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-30",
+"latest": "2020-03-30",
+"portal": "https://emol.ro/dragu-sj/registru-hcl/2857",
+"council": "salaj/dragu",
+"council_name": "Consiliul Local al Comunei Dragu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,36 @@
  "shard": "local/prahova/tinosu/2024",
  "acts": [
   {
+   "slug": "hcl-prahova--tinosu-38-2024",
+   "path": "local/prahova/tinosu/2024/38",
+   "short": "HCL Tinosu nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 38/2024 privind desemnarea unui reprezentant al Consiliului Local Tinosu în Consiliul de Administrație al Şcolii Gimnaziale Tinosu",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/170985",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/170985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-39-2024",
+   "path": "local/prahova/tinosu/2024/39",
+   "short": "HCL Tinosu nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 39/2024 privind aprobarea organigramei şi a statului de funcţii al aparatului de specialitate al primarului comunei Tinosu",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/172955",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/172955",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--tinosu-40-2024",
    "path": "local/prahova/tinosu/2024/40",
    "short": "HCL Tinosu nr. 40/2024",
@@ -33,6 +63,66 @@
    ]
   },
   {
+   "slug": "hcl-prahova--tinosu-42-2024",
+   "path": "local/prahova/tinosu/2024/42",
+   "short": "HCL Tinosu nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 42/2024 privind acordarea unui ajutor de urgenţă Parohiei Tinosu, în vederea achiziţionării unei case parohiale",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/173706",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/173706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-43-2024",
+   "path": "local/prahova/tinosu/2024/43",
+   "short": "HCL Tinosu nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 43/2024 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/176689",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/176689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-44-2024",
+   "path": "local/prahova/tinosu/2024/44",
+   "short": "HCL Tinosu nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 44/2024 privind organizarea comisiilor de specialitate ale Consiliului Local al comunei Tinosu",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/176690",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/176690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-45-2024",
+   "path": "local/prahova/tinosu/2024/45",
+   "short": "HCL Tinosu nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 45/2024 privind alegerea viceprimarului comunei Tinosu",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/178503",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/178503",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--tinosu-46-2024",
    "path": "local/prahova/tinosu/2024/46",
    "short": "HCL Tinosu nr. 46/2024",
@@ -43,6 +133,51 @@
      "from": "2024-11-26",
      "units": 1,
      "source_url": "https://emol.ro/tinosu-ph/registru-hcl/178504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-47-2024",
+   "path": "local/prahova/tinosu/2024/47",
+   "short": "HCL Tinosu nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 47/2024 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al primarului comunei Tinosu",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/178505",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/178505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-48-2024",
+   "path": "local/prahova/tinosu/2024/48",
+   "short": "HCL Tinosu nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 48/2024 pentru actualizarea HCL nr. 37/04.10.2021 privind aprobarea strategiei de dezvoltare durabilă a comunei Tinosu, judeţul Prahova",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/178506",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/178506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-49-2024",
+   "path": "local/prahova/tinosu/2024/49",
+   "short": "HCL Tinosu nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 49/2024 privind implementarea proiectului „Dotarea cu utilaje şi echipamente a Compartimentului administrativ al comunei Tinosu” şi aprobarea indicatorilor tehnico – economici aferenţi proiectului",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/178507",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/178507",
      "sha256": null
     }
    ]
@@ -78,6 +213,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--tinosu-52-2024",
+   "path": "local/prahova/tinosu/2024/52",
+   "short": "HCL Tinosu nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 52/2024 privind desemnarea unui reprezentant al Consiliului Local Tinosu în Consiliul de Administrație al Şcolii Gimnaziale Tinosu, pentru anul şcolar 2024-2025",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/183389",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/183389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-53-2024",
+   "path": "local/prahova/tinosu/2024/53",
+   "short": "HCL Tinosu nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 53/2024 privind desemnarea unui reprezentant al Consiliului Local Tinosu pentru a face parte din Comisia de Evaluare şi Asigurare a Calităţii constituită la nivelul Şcolii Gimnaziale Tinosu, pentru anul şcolar 2024-2025",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/183390",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/183390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-54-2024",
+   "path": "local/prahova/tinosu/2024/54",
+   "short": "HCL Tinosu nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 54/2024",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/183391",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/183391",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--tinosu-55-2024",
    "path": "local/prahova/tinosu/2024/55",
    "short": "HCL Tinosu nr. 55/2024",
@@ -88,6 +268,36 @@
      "from": "2024-12-19",
      "units": 1,
      "source_url": "https://emol.ro/tinosu-ph/registru-hcl/183392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-56-2024",
+   "path": "local/prahova/tinosu/2024/56",
+   "short": "HCL Tinosu nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 56/2024 cu privire la aprobarea participării la „Programului privind creşterea eficienţei energetice a infrastructurii de iluminat public” și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul «MODERNIZARE ȘI EXTINDERE ILUMINAT PUBLIC ÎN CADRUL PROGRAMULUI PRIVIND CREȘTEREA EFICIENȚEI ENERGETICE A INFRASTRUCTURII DE ILUMINAT PUBLIC, COM. TINOSU, JUD. PRAHOVA»",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/184081",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/184081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-57-2024",
+   "path": "local/prahova/tinosu/2024/57",
+   "short": "HCL Tinosu nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 57/2024",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/184082",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/184082",
      "sha256": null
     }
    ]

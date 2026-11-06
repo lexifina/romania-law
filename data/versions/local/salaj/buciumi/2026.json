@@ -18,6 +18,81 @@
    ]
   },
   {
+   "slug": "hcl-salaj--buciumi-35-2026",
+   "path": "local/salaj/buciumi/2026/35",
+   "short": "HCL Buciumi nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumi nr. 35/2026 privind aprobarea Acordului de Parteneriat între Județul Sălaj, comuna Buciumi, județul Sălaj si alte unități administrativ-teritoriale din judet, în vederea implementării, în parteneriat, a proiectului ”Realizarea, implementarea, utilizarea și administrarea sistemelor informatice de înaltă performanță, la nivelul județului Sălaj, dezvoltate și găzduite prin sistemul Cloud Regional Nord-Vest”",
+   "url": "https://emol.ro/buciumi-sj/registru-hcl/287889",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/buciumi-sj/registru-hcl/287889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--buciumi-36-2026",
+   "path": "local/salaj/buciumi/2026/36",
+   "short": "HCL Buciumi nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumi nr. 36/2026 privind desemnarea reprezentantilor Consiliului Local Buciumi în Consiliul de administraţie al şcolii",
+   "url": "https://emol.ro/buciumi-sj/registru-hcl/290167",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/buciumi-sj/registru-hcl/290167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--buciumi-37-2026",
+   "path": "local/salaj/buciumi/2026/37",
+   "short": "HCL Buciumi nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumi nr. 37/2026 Privind rectificarea bugetrului pe anul 2026",
+   "url": "https://emol.ro/buciumi-sj/registru-hcl/290168",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/buciumi-sj/registru-hcl/290168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--buciumi-38-2026",
+   "path": "local/salaj/buciumi/2026/38",
+   "short": "HCL Buciumi nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumi nr. 38/2026 privind actualizarea listei de investitii aprobată prin Hotărârea nr. 12 din 11.05. 2026 (anexa 2) privind aprobarea bugetului pe anul 2026",
+   "url": "https://emol.ro/buciumi-sj/registru-hcl/290169",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/buciumi-sj/registru-hcl/290169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--buciumi-39-2026",
+   "path": "local/salaj/buciumi/2026/39",
+   "short": "HCL Buciumi nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumi nr. 39/2026 privind aprobarea vânzarii unei cantităţi de lemn, proprietate privată a comunei Buciumi",
+   "url": "https://emol.ro/buciumi-sj/registru-hcl/290170",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/buciumi-sj/registru-hcl/290170",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--buciumi-40-2026",
    "path": "local/salaj/buciumi/2026/40",
    "short": "HCL Buciumi nr. 40/2026",
@@ -33,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--buciumi-41-2026",
+   "path": "local/salaj/buciumi/2026/41",
+   "short": "HCL Buciumi nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumi nr. 41/2026 privind aprobarea vânzarii unei cantităţi de lemn, proprietate privată a comunei Buciumi",
+   "url": "https://emol.ro/buciumi-sj/registru-hcl/292603",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/buciumi-sj/registru-hcl/292603",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--buciumi-42-2026",
    "path": "local/salaj/buciumi/2026/42",
    "short": "HCL Buciumi nr. 42/2026",
@@ -43,6 +133,81 @@
      "from": "2026-10-30",
      "units": 1,
      "source_url": "https://emol.ro/buciumi-sj/registru-hcl/292604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--buciumi-43-2026",
+   "path": "local/salaj/buciumi/2026/43",
+   "short": "HCL Buciumi nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumi nr. 43/2026 privind implementarea proiectului: „PROMOVAREA PATRIMONIULUI LOCAL AL COMUNEI BUCIUMI PRIN PLATFORMĂ DIGITALĂ INTERACTIVĂ”",
+   "url": "https://emol.ro/buciumi-sj/registru-hcl/292605",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/buciumi-sj/registru-hcl/292605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--buciumi-44-2026",
+   "path": "local/salaj/buciumi/2026/44",
+   "short": "HCL Buciumi nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumi nr. 44/2026 privind aprobarea acordului de asociere între comuna Buciumi şi Consiliul Judeţean Sălaj pentru realizarea lucrărilor de întreţinere pe timp de iarnă pe DJ 108 A de la km. 7+400 la km. 29+200, drum de nivel 1",
+   "url": "https://emol.ro/buciumi-sj/registru-hcl/295215",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/buciumi-sj/registru-hcl/295215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--buciumi-45-2026",
+   "path": "local/salaj/buciumi/2026/45",
+   "short": "HCL Buciumi nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumi nr. 45/2026 privind modificarea Organigramei si a Statului de functii al primarului comunei Buciumi ca urmare a modificarii numarului de posturi alocate pentru implementarea proiectelor finantate din fonduri externe nerambursabile",
+   "url": "https://emol.ro/buciumi-sj/registru-hcl/295216",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/buciumi-sj/registru-hcl/295216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--buciumi-46-2026",
+   "path": "local/salaj/buciumi/2026/46",
+   "short": "HCL Buciumi nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumi nr. 46/2026 privind actualizarea Regulamentului de organizare şi funcţionare al aparatului de specialitate al primarului comunei Buciumi",
+   "url": "https://emol.ro/buciumi-sj/registru-hcl/295217",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/buciumi-sj/registru-hcl/295217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--buciumi-47-2026",
+   "path": "local/salaj/buciumi/2026/47",
+   "short": "HCL Buciumi nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumi nr. 47/2026 privind aprobarea planului de investitii pentru anul 2027 al comunei Buciumi, aferent activelor date in administrare sau concesionate cu finantare din Fondul Întretinere, Înlocuire și Dezvoltare",
+   "url": "https://emol.ro/buciumi-sj/registru-hcl/295218",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/buciumi-sj/registru-hcl/295218",
      "sha256": null
     }
    ]

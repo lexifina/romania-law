@@ -3,6 +3,94 @@
 "shard": "local/suceava/forasti/2020",
 "acts": [
 {
+"slug": "hcl-suceava--forasti-51-2020",
+"path": "local/suceava/forasti/2020/51",
+"kind": "local",
+"year": "2020",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 51/2020 privind alegerea președintelui de ședință",
+"short": "HCL Forăști nr. 51/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-30",
+"latest": "2020-10-30",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/23896",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-52-2020",
+"path": "local/suceava/forasti/2020/52",
+"kind": "local",
+"year": "2020",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 52/2020 privind constituirea Comisiei de constatare a rezultatului votului secret prin folosirea buletinelor de vot",
+"short": "HCL Forăști nr. 52/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-30",
+"latest": "2020-10-30",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/23897",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-53-2020",
+"path": "local/suceava/forasti/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 53/2020 privind constituirea comisiilor de specialitate pe principalele domenii de activitate",
+"short": "HCL Forăști nr. 53/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-30",
+"latest": "2020-10-30",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/23898",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-54-2020",
+"path": "local/suceava/forasti/2020/54",
+"kind": "local",
+"year": "2020",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 54/2020 privind alegerea viceprimarului",
+"short": "HCL Forăști nr. 54/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-30",
+"latest": "2020-10-30",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/23899",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--forasti-55-2020",
 "path": "local/suceava/forasti/2020/55",
 "kind": "local",
@@ -25,6 +113,139 @@
 }
 },
 {
+"slug": "hcl-suceava--forasti-56-2020",
+"path": "local/suceava/forasti/2020/56",
+"kind": "local",
+"year": "2020",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 56/2020",
+"short": "HCL Forăști nr. 56/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/23901",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--forasti-57-2020",
+"path": "local/suceava/forasti/2020/57",
+"kind": "local",
+"year": "2020",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 57/2020 privind aprobarea înființării unui cabinet medical școlar pentru unitățile de învățământ de pe raza comunei Forăști",
+"short": "HCL Forăști nr. 57/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/23902",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-58-2020",
+"path": "local/suceava/forasti/2020/58",
+"kind": "local",
+"year": "2020",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 58/2020 privind desemnarea a doi reprezentanți ai Consiliului Local Forăști în cadrul Consiliului de administrație al Școlii Gimnaziale Oniceni",
+"short": "HCL Forăști nr. 58/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/23903",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-59-2020",
+"path": "local/suceava/forasti/2020/59",
+"kind": "local",
+"year": "2020",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 59/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici, ai investiției ''Îmbunătățirea conținutului digital și a infrastructurii TIC Sistemice în domeniul E-Educație, în comuna Forăști, județul Suceava''",
+"short": "HCL Forăști nr. 59/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/23904",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-60-2020",
+"path": "local/suceava/forasti/2020/60",
+"kind": "local",
+"year": "2020",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 60/2020 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice de la Școala Gimnazială Oniceni",
+"short": "HCL Forăști nr. 60/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/23905",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-61-2020",
+"path": "local/suceava/forasti/2020/61",
+"kind": "local",
+"year": "2020",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 61/2020 privind desemnarea noului reprezentant legal al comunei Forăști, în relația cu Agenția pentru Finanțarea Investițiilor Rurale - AFIR",
+"short": "HCL Forăști nr. 61/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/23906",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--forasti-62-2020",
 "path": "local/suceava/forasti/2020/62",
 "kind": "local",
@@ -44,6 +265,72 @@
 "council_name": "Consiliul Local al Comunei Forăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--forasti-63-2020",
+"path": "local/suceava/forasti/2020/63",
+"kind": "local",
+"year": "2020",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 63/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții ''Înființare sistem inteligent de distribuție gaze naturale în comuna Forăști cu satele aparținătoare''",
+"short": "HCL Forăști nr. 63/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-08",
+"latest": "2020-12-08",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/23908",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-64-2020",
+"path": "local/suceava/forasti/2020/64",
+"kind": "local",
+"year": "2020",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 64/2020 privind ''Execuție foraj hidrogeologic, explorare apă potabilă''",
+"short": "HCL Forăști nr. 64/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-08",
+"latest": "2020-12-08",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/23909",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-65-2020",
+"path": "local/suceava/forasti/2020/65",
+"kind": "local",
+"year": "2020",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 65/2020 privind aprobarea Planului de măsuri și acțiuni specifice sezonului rece 2020-2021",
+"short": "HCL Forăști nr. 65/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-08",
+"latest": "2020-12-08",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/23910",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +378,28 @@
 }
 },
 {
+"slug": "hcl-suceava--forasti-68-2020",
+"path": "local/suceava/forasti/2020/68",
+"kind": "local",
+"year": "2020",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 68/2020 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice de la Școala Gimnazială Oniceni",
+"short": "HCL Forăști nr. 68/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-08",
+"latest": "2020-12-08",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/23913",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--forasti-69-2020",
 "path": "local/suceava/forasti/2020/69",
 "kind": "local",
@@ -110,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Forăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--forasti-70-2020",
+"path": "local/suceava/forasti/2020/70",
+"kind": "local",
+"year": "2020",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 70/2020 privind alegerea președintelui de ședință",
+"short": "HCL Forăști nr. 70/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-08",
+"latest": "2020-12-08",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/23915",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

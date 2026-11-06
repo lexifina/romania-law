@@ -3,6 +3,21 @@
  "shard": "local/suceava/bogdanesti/2026",
  "acts": [
   {
+   "slug": "hcl-suceava--bogdanesti-30-2026",
+   "path": "local/suceava/bogdanesti/2026/30",
+   "short": "HCL Bogdănești nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 30/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/293071",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293071",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--bogdanesti-31-2026",
    "path": "local/suceava/bogdanesti/2026/31",
    "short": "HCL Bogdănești nr. 31/2026",
@@ -58,6 +73,21 @@
      "from": "2026-10-13",
      "units": 1,
      "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-35-2026",
+   "path": "local/suceava/bogdanesti/2026/35",
+   "short": "HCL Bogdănești nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 35/2026 privind aprobarea scoaterii din evidența contabilă a creanței în sumă de 4880 lei, reprezentând indemnizații de concedii medicale nerecuperabile de la Fondul Național Unic de Asigurări Sociale de Sănătate",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/293082",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293082",
      "sha256": null
     }
    ]
@@ -123,6 +153,36 @@
    ]
   },
   {
+   "slug": "hcl-suceava--bogdanesti-40-2026",
+   "path": "local/suceava/bogdanesti/2026/40",
+   "short": "HCL Bogdănești nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 40/2026",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/293087",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-41-2026",
+   "path": "local/suceava/bogdanesti/2026/41",
+   "short": "HCL Bogdănești nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 41/2026",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/293088",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293088",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--bogdanesti-42-2026",
    "path": "local/suceava/bogdanesti/2026/42",
    "short": "HCL Bogdănești nr. 42/2026",
@@ -153,6 +213,51 @@
    ]
   },
   {
+   "slug": "hcl-suceava--bogdanesti-44-2026",
+   "path": "local/suceava/bogdanesti/2026/44",
+   "short": "HCL Bogdănești nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 44/2026 privind desemnarea reprezentanților Consiliului Local al comunei Bogdănești în Consiliul de Administrație al școlii Gimnaziale nr. 1 Bogdănești",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/293091",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-45-2026",
+   "path": "local/suceava/bogdanesti/2026/45",
+   "short": "HCL Bogdănești nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 45/2026 privind desemnarea reprezentantului Consiliului Local al comunei Bogdănești în Comisia pentru Evaluarea și asigurarea Calității care se va constitui la nivelul Școlii Gimnaziale nr. 1 Bogdănești",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/293092",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-46-2026",
+   "path": "local/suceava/bogdanesti/2026/46",
+   "short": "HCL Bogdănești nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 46/2026 privind desemnarea reprezentanților Consiliului Local Bogdănești care să facă parte din Comisia de evaluare a probei interviu din cadrul concursului pentru ocuparea funcției de director la Școala Gimnazială nr. 1 Bogdănești",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/293093",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293093",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--bogdanesti-47-2026",
    "path": "local/suceava/bogdanesti/2026/47",
    "short": "HCL Bogdănești nr. 47/2026",
@@ -178,6 +283,21 @@
      "from": "2026-10-13",
      "units": 1,
      "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-49-2026",
+   "path": "local/suceava/bogdanesti/2026/49",
+   "short": "HCL Bogdănești nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 49/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/293096",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/293096",
      "sha256": null
     }
    ]

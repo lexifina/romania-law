@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-82-2023",
+   "path": "local/prahova/rafov/2023/82",
+   "short": "HCL Râfov nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 82/2023 privind rezilierea unui contract de inchiriere pentru un teren din islazul ce apartine domeniului privat al Comunei Rafov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/132379",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/132379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-83-2023",
+   "path": "local/prahova/rafov/2023/83",
+   "short": "HCL Râfov nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 83/2023 privind rezilierea unui contract de inchiriere pentru un teren di islazul ce apartine domeniului privat al Comunei Rafov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/132380",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/132380",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-84-2023",
    "path": "local/prahova/rafov/2023/84",
    "short": "HCL Râfov nr. 84/2023",
@@ -73,6 +103,81 @@
      "from": "2024-01-09",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/136829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-87-2023",
+   "path": "local/prahova/rafov/2023/87",
+   "short": "HCL Râfov nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 87/2023 privind atribuirea unei suprafete de teren , in folosinta gratuita , in vederea construirii unei locuinte proprietate personala , in baza Legii 15/2003",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/136830",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/136830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-88-2023",
+   "path": "local/prahova/rafov/2023/88",
+   "short": "HCL Râfov nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 88/2023 privind atribuirea unei suprafete de teren , in folosinta gratuita , in vederea construirii unei locuinte proprietate personala , in baza Legii 15/2003",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/136831",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/136831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-89-2023",
+   "path": "local/prahova/rafov/2023/89",
+   "short": "HCL Râfov nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 89/2023 privind atribuirea unei suprafete de teren , in folosinta gratuita , in vederea construirii unei locuinte proprietate personala , in baza Legii 15/2003",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/136832",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/136832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-90-2023",
+   "path": "local/prahova/rafov/2023/90",
+   "short": "HCL Râfov nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 90/2023 privind atribuirea unei suprafete de teren , in folosinta gratuita , in vederea construirii unei locuinte proprietate personala , in baza Legii 15/2003",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/136833",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/136833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-91-2023",
+   "path": "local/prahova/rafov/2023/91",
+   "short": "HCL Râfov nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 91/2023 privind atribuirea unei suprafete de teren , in folosinta gratuita , in vederea construirii unei locuinte proprietate personala , in baza Legii 15/2003",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/136834",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/136834",
      "sha256": null
     }
    ]
@@ -148,6 +253,21 @@
      "from": "2024-01-12",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/137395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-97-2023",
+   "path": "local/prahova/rafov/2023/97",
+   "short": "HCL Râfov nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 97/2023 privind aprobarea decontarii navetei cadrelor didactice pentru lunile Octombrie-Noiembrie 2023",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/137396",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/137396",
      "sha256": null
     }
    ]

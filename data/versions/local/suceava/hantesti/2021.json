@@ -258,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--hantesti-97-2021",
+   "path": "local/suceava/hantesti/2021/97",
+   "short": "HCL Hănțești nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 97/2021 Privind aprobarea acordării unui sprijin financiar pentru Biserica Penticostală ”Betel” din satul Hănțești, comuna Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/45726",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/45726",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--hantesti-98-2021",
    "path": "local/suceava/hantesti/2021/98",
    "short": "HCL Hănțești nr. 98/2021",

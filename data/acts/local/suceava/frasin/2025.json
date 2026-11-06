@@ -3,6 +3,28 @@
 "shard": "local/suceava/frasin/2025",
 "acts": [
 {
+"slug": "hcl-suceava--frasin-75-2025",
+"path": "local/suceava/frasin/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Frasin nr. 75/2025 privind desemnarea reprezentanților Consiliului local al orasului Frasin in Consiliul de administrație al Școlii Gimnaziale Bucsoaia in anul scolar 2026 - 2027 Consiliul local al orasului Frasin,judetul Suceava ; Avand in vedere : - adresa Scolii Gimnaziale Bucsoaia nr.1621 din 151.09.2023 inregistrata la Primaria orasului Frasin cu nr.8533 din 16.09.2026 ; - referatul de aprobare prezentat de cat",
+"short": "HCL Frasin nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://www.primariaorasuluifrasin.ro/hcl-nr-75-din-29-09-2026-desemnare-reprezentanti-cl-in-consiliul-de-administratie-al-scolii-bucsoaia-an-scolar-2026-2027/",
+"council": "suceava/frasin",
+"council_name": "Consiliul Local al Orașului Frasin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--frasin-151-2025",
 "path": "local/suceava/frasin/2025/151",
 "kind": "local",

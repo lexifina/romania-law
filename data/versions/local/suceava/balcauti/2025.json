@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/balcauti/2025",
+ "acts": [
+  {
+   "slug": "hcl-suceava--balcauti-45-2025",
+   "path": "local/suceava/balcauti/2025/45",
+   "short": "HCL Bălcăuți nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 45/2025",
+   "url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-NR.45-DIN-16.07.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-NR.45-DIN-16.07.2025.pdf",
+     "sha256": "02c0e0b3426d665d9e1ffffdb2c242516635289c32ef276fd7224597dca1cde0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-46-2025",
+   "path": "local/suceava/balcauti/2025/46",
+   "short": "HCL Bălcăuți nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 46/2025",
+   "url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.46-din-11.08.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.46-din-11.08.2025.pdf",
+     "sha256": "62f02c37a94a994d4babf4302069ad67478ce8e235fd9ab0c6f21b468d085a56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-47-2025",
+   "path": "local/suceava/balcauti/2025/47",
+   "short": "HCL Bălcăuți nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 47/2025",
+   "url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.47-din-11.08.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.47-din-11.08.2025.pdf",
+     "sha256": "5bf712cd226bdbf7a3089f3fe12b895d3765e84cdce763f706af3e44a50e8f50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-48-2025",
+   "path": "local/suceava/balcauti/2025/48",
+   "short": "HCL Bălcăuți nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 48/2025",
+   "url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.48-din-11.08.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.48-din-11.08.2025.pdf",
+     "sha256": "dc0bd72f5b26cfe4278f04795f2270ab7a6e004cca2920ff01e01a245a123b8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-49-2025",
+   "path": "local/suceava/balcauti/2025/49",
+   "short": "HCL Bălcăuți nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 49/2025",
+   "url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.49-din-11.08.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.49-din-11.08.2025.pdf",
+     "sha256": "17c7fe957c83ccc66f1c2846ec62537eb9eef9f9a92abf60da7e282e0bba8233"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-50-2025",
+   "path": "local/suceava/balcauti/2025/50",
+   "short": "HCL Bălcăuți nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 50/2025",
+   "url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.50-din-16.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.50-din-16.09.2025.pdf",
+     "sha256": "c58bd09da4b27181a01e52a79a502978546f4c0f98812d774e80122077e1bdc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-51-2025",
+   "path": "local/suceava/balcauti/2025/51",
+   "short": "HCL Bălcăuți nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 51/2025",
+   "url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.51-din-16.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.51-din-16.09.2025.pdf",
+     "sha256": "ac4822eaf0a39a0d74520d311e90de080cab9bae2fde0d63c1918b7c77ded648"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-52-2025",
+   "path": "local/suceava/balcauti/2025/52",
+   "short": "HCL Bălcăuți nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 52/2025",
+   "url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.52-din-26.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.52-din-26.09.2025.pdf",
+     "sha256": "be7e625e660063a6b5c74eda7b4b83a6f55b712ceafe902e1db153429b4d36b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-53-2025",
+   "path": "local/suceava/balcauti/2025/53",
+   "short": "HCL Bălcăuți nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 53/2025",
+   "url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.53-din-16.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.53-din-16.09.2025.pdf",
+     "sha256": "64bb7477f1bc50cae0318eaee304bf859d66d3056888aacbd509ae165871c433"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-54-2025",
+   "path": "local/suceava/balcauti/2025/54",
+   "short": "HCL Bălcăuți nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 54/2025",
+   "url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.54-din-16.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.54-din-16.09.2025.pdf",
+     "sha256": "9acaae41162983d990463f4b2602dc426e72432ffdff1bd2fb38b124be596898"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-55-2025",
+   "path": "local/suceava/balcauti/2025/55",
+   "short": "HCL Bălcăuți nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 55/2025",
+   "url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.55-din-16.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.55-din-16.09.2025.pdf",
+     "sha256": "1d682d19bccc0c5959cf4ee782489f90ff4bf6630835f7c83f447d4436aa759f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-56-2025",
+   "path": "local/suceava/balcauti/2025/56",
+   "short": "HCL Bălcăuți nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 56/2025",
+   "url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.56-din-14.10.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.56-din-14.10.2025.pdf",
+     "sha256": "e059ea83638c1e7b3a9c051a86755850c0c1ad586fd702bea146294a813733cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-57-2025",
+   "path": "local/suceava/balcauti/2025/57",
+   "short": "HCL Bălcăuți nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 57/2025",
+   "url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.57-din-14.10.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.57-din-14.10.2025.pdf",
+     "sha256": "2d5ce5a4327045dc24a703e446323b0a71427e79360b9d18521fec4bfa0a029b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-58-2025",
+   "path": "local/suceava/balcauti/2025/58",
+   "short": "HCL Bălcăuți nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 58/2025",
+   "url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.58-din-14.10.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.58-din-14.10.2025.pdf",
+     "sha256": "6d9a1a81960af363d5b329c43d6b733ac291449fbdc4aab22617eb3faa951795"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-59-2025",
+   "path": "local/suceava/balcauti/2025/59",
+   "short": "HCL Bălcăuți nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 59/2025",
+   "url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.59-din-14.10.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.59-din-14.10.2025.pdf",
+     "sha256": "789acca9bc5b9a9c1dfd63976ca99ec61b9cfa85c59b08c1f02bbe29a494b685"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--balcauti-60-2025",
+   "path": "local/suceava/balcauti/2025/60",
+   "short": "HCL Bălcăuți nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 60/2025",
+   "url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.60-din-14.10.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://balcauti.ro/wp-content/uploads/2025/10/HCL-nr.60-din-14.10.2025.pdf",
+     "sha256": "0f446bdb6ca1d00b1a02f63e8a2f31803187a1fc979957fe52475925af2300da"
+    }
+   ]
+  }
+ ]
+}

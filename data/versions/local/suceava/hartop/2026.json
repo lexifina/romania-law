@@ -3,6 +3,21 @@
  "shard": "local/suceava/hartop/2026",
  "acts": [
   {
+   "slug": "hcl-suceava--hartop-10-2026",
+   "path": "local/suceava/hartop/2026/10",
+   "short": "HCL Hârtop nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 10/2026 pentru anul 2026",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/04/hcl-10-martie-2026.pdf",
+     "sha256": "0943cf65723fb300d2c3f00e7431af6ed63307e9e7a60dbbe166d8c4b7ce3027"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--hartop-11-2026",
    "path": "local/suceava/hartop/2026/11",
    "short": "HCL Hârtop nr. 11/2026",
@@ -14,6 +29,576 @@
      "units": 1,
      "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/04/hcl-11-martie-2026.pdf",
      "sha256": "9facdbebac10fe2eaf067a429f3a9f0046671d1fc4a8c76a633a28d4b9b4c592"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-12-2026",
+   "path": "local/suceava/hartop/2026/12",
+   "short": "HCL Hârtop nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 12/2026 pentru lunile aprilie, mai, iunie 2026",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-31",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/04/hcl-12-martie-2026.pdf",
+     "sha256": "0cfd0eb0f5942e468495c1559448410b93823f26afb3d77c56b231442621760f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-13-2026",
+   "path": "local/suceava/hartop/2026/13",
+   "short": "HCL Hârtop nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 13/2026 privind repartizarea consilierilor locali pe sectoare de activitate, pe perioada mandatului Consiliul local al comunei Hârtop, județul Suceava luând act de : - Referatul de aprobare întocmit de primarul comunei Hârtop, înregistrat cu nr. 1134 din 23.03.2026, ca instrument de prezentare și motivare a proiectului de hotărâre, - Raportul compartimentului de resort din cadrul aparatului de specialitat",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/04/hcl-13-martie-2026.pdf",
+     "sha256": "8ea00f45c3260bed103610bf7c1cb3072f28a0fde2ff3f214896deeafc907045"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-14-2026",
+   "path": "local/suceava/hartop/2026/14",
+   "short": "HCL Hârtop nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 14/2026 privind însușirea „Registrului local al spațiilor verzi din comuna Hârtop, județul Suceava Consiliul local al comunei Hârtop, județul Suceava, având în vedere: - Referatul de aprobare prezentat de primarul comunei Hârtop, județul Suceava, în calitatea sa de inițiator, înregistrat cu nr.1161 din 24.03.2026, ca instrument de prezentare și motivare a proiectului de hotărâre, - Raportul Compartimentul",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/04/hcl-14-martie-2026.pdf",
+     "sha256": "4dbf171e2e2cda64c904ae224237f8dc949038e1483d418a0d42a6eb00709ece"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-16-2026",
+   "path": "local/suceava/hartop/2026/16",
+   "short": "HCL Hârtop nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 16/2026 privind aprobarea finanțării din bugetul local al comunei Hârtop, județul Suceava a lucrărilor de realizare a unui zid de sprijin si amenajare curte interioara a Scolii Gimnaziale Hartop, Judetul Suceava Consiliul local al comunei Hârtop, județul Suceava luând act de: - Referatul de aprobare prezentat de viceprimarul comunei dl",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/04/hcl-16-martie-2026.pdf",
+     "sha256": "cd8d314017e18057c27f0417582ef10199a9dfe60f2c3a226d0cfec083c41432"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-17-2026",
+   "path": "local/suceava/hartop/2026/17",
+   "short": "HCL Hârtop nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 17/2026 pentru anii 2027-2029",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/05/hcl-17-mai-2026.pdf",
+     "sha256": "05cc154a1322a2ff64a2190cdd180c1837556c000e42ab4646c68de1ff1407a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-18-2026",
+   "path": "local/suceava/hartop/2026/18",
+   "short": "HCL Hârtop nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 18/2026 privind aprobarea contului anual de execuție a bugetului local al comunei Hârtop aferent anului 2025 Consiliul local al comunei Hârtop, județul Suceava luând act de: - Referatul de aprobare întocmit de primarul comunei Hârtop, înregistrat cu nr.1787 din 4.05.2026, ca instrument de prezentare și motivare a proiectului de hotărâre, - Raportul compartimentului de resort din cadrul aparatului de speci",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/05/hcl-18-mai-2026.pdf",
+     "sha256": "16a9eeeb9d732f16d80901594299156c864271405227bbd7088833354fb10fac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-19-2026",
+   "path": "local/suceava/hartop/2026/19",
+   "short": "HCL Hârtop nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 19/2026 privind aprobarea modificării utilizării în cursul anului 2026 a excedentului anual al bugetului local rezultat la încheierea exercițiului bugetar al anului 2025 Consiliul local al comunei Hârtop, județul Suceava, având în vedere: - referatul de aprobare al primarului comunei Hârtop, în calitate de inițiator al proiectului de hotărâre înregistrat cu nr.1893 din 8.05.2026, ca instrument de prezenta",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/05/hcl-19-mai-2026.pdf",
+     "sha256": "e77cb3df82b91ba146283fbf9158f4d584ccca1ff1e02ca6dd6c9773160a35b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-20-2026",
+   "path": "local/suceava/hartop/2026/20",
+   "short": "HCL Hârtop nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 20/2026 privind aprobarea modificării utilizării în cursul anului 2026 a excedentului anual al bugetului local rezultat la încheierea exercițiului bugetar al anului 2025 Consiliul local al comunei Hârtop, județul Suceava, având în vedere: - referatul de aprobare al primarului comunei Hârtop, în calitate de inițiator al proiectului de hotărâre înregistrat cu nr.2341 din 17.06.2026, ca instrument de prezent",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/07/hcl-20-iunie-2026.pdf",
+     "sha256": "2d49bf0e33ed4a7fdd9eefe272f319a431a52bbcc7bc4513a58923f79c0b4fac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-21-2026",
+   "path": "local/suceava/hartop/2026/21",
+   "short": "HCL Hârtop nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 21/2026 privind aprobarea modificării bugetului local al comunei Hârtop aferent anului 2026 Consiliul local al comunei Hârtop, județul Suceava, având in vedere: - referatul de aprobare prezentat de primarul comunei Hârtop, înregistrat cu nr.2343 din 17.06.2026, ca instrument de prezentare și motivare a proiectului de hotărâre, - raportul compartimentului de resort din cadrul aparatului de specialitate al",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/07/hcl-21-iunie-2026.pdf",
+     "sha256": "bd98cb22cb5fb35235d9f2c70f28b2af9f43bdd4d283202f43f777024bd2dd3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-22-2026",
+   "path": "local/suceava/hartop/2026/22",
+   "short": "HCL Hârtop nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 22/2026 privind aprobarea contului de execuție a bugetului local pentru trimestrul I al anului 2026 Consiliul local al comunei Hârtop, județul Suceava, având în vedere: - Referatul de aprobare al primarului comunei Hârtop, în calitate de inițiator al proiectului de hotărâre înregistrat cu nr.2345 din 17.06.2026, ca instrument de prezentare și motivare; - Raportul compartimentului de resort din cadrul apar",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/07/hcl-22-iunie-2026.pdf",
+     "sha256": "8f6563370199f830cc1cb2671d9b1e2aebc14db1d347b956b5e3ee759ae0cef9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-23-2026",
+   "path": "local/suceava/hartop/2026/23",
+   "short": "HCL Hârtop nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 23/2026 privind delegarea gestiunii serviciului de alimentare cu apă și de canalizare al comunei Hârtop",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/07/hcl-23-iunie-2026.pdf",
+     "sha256": "b96c4a4ed041b4bcb0a83245c8078f1f62006fc21ab7e0b744ae124220b818a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-24-2026",
+   "path": "local/suceava/hartop/2026/24",
+   "short": "HCL Hârtop nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 24/2026 pentru lunile iulie, august, septembrie 2026",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/07/hcl-24-iunie-2026.pdf",
+     "sha256": "64aaac4eb1ae62471e13703cb00a06f1f6a6f039aaf2603cae647e8d716803af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-25-2026",
+   "path": "local/suceava/hartop/2026/25",
+   "short": "HCL Hârtop nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 25/2026 privind aprobarea modificării utilizării în cursul anului 2026 a excedentului anual al bugetului local rezultat la încheierea exercițiului bugetar al anului 2025 Consiliul local al comunei Hârtop, județul Suceava, având în vedere: - referatul de aprobare al primarului comunei Hârtop, în calitate de inițiator al proiectului de hotărâre înregistrat cu nr.2595 din 10.07.2026, ca instrument de prezent",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/08/hcl-25-iulie-2026.pdf",
+     "sha256": "4b10baff2dcbee49da0d07d4fefe4f4043655949796fa189f4378b6ea1d86682"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-26-2026",
+   "path": "local/suceava/hartop/2026/26",
+   "short": "HCL Hârtop nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 26/2026 privind utilizarea fondului de rezervă bugetară, aferent anului 2026 Consiliul local al comunei Hârtop, județul Suceava luând act de: - Referatul de aprobare al primarului comunei Hârtop, în calitate de inițiator al proiectului de hotărâre, înregistrat cu nr.2593 din 10.07.2026, ca instrument de prezentare și motivare; - Raportul compartimentului de resort din cadrul aparatului de specialitate al",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/08/hcl-26-iulie-2026.pdf",
+     "sha256": "08333bfc37f9151ff519dd80b474324ab946df654815f5fc5356b8e411fc7037"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-27-2026",
+   "path": "local/suceava/hartop/2026/27",
+   "short": "HCL Hârtop nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 27/2026 privind aprobarea modificării bugetului local al comunei Hârtop aferent anului 2026 Consiliul local al comunei Hârtop, județul Suceava, având in vedere: - referatul de aprobare prezentat de primarul comunei Hârtop, înregistrat cu nr.2597 din 10.07.2026, ca instrument de prezentare și motivare a proiectului de hotărâre, - raportul compartimentului de resort din cadrul aparatului de specialitate al",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/08/hcl-27-iulie-2026.pdf",
+     "sha256": "42f0273d52c965efcb145d485e865ce9311e7ad296188199fae2c0cbc2ea6c2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-28-2026",
+   "path": "local/suceava/hartop/2026/28",
+   "short": "HCL Hârtop nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 28/2026 privind aprobarea indicatorilor tehnico-economici actualizați și Devizului general actualizat pentru proiectul ”Eficientizarea sistemului de iluminat public din comuna Hartop, județul Suceava” Consiliul local al comunei Hârtop, județul Suceava, luând în considerare: - Referatul de aprobare al primarului comunei Hârtop, în calitate de inițiator al proiectului de hotărâre, înregistrat cu nr.2599 din",
+   "url": "https://comunahirtop.ro/wp-content/uploads/2026/08/hcl-28-iulie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/08/hcl-28-iulie-2026.pdf",
+     "sha256": "7e74de50c6942d2f2a99222ff3d756bbfa5576d113e7551c576c0ff58898fff9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-29-2026",
+   "path": "local/suceava/hartop/2026/29",
+   "short": "HCL Hârtop nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 29/2026 pentru organizarea zilei comunei Hârtop în anul 2026",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/08/hcl-29-iulie-2026.pdf",
+     "sha256": "dc3be62d9afddd07d2647346ae5c0e3e2f20f11916437b069bd39f041f8a76ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-30-2026",
+   "path": "local/suceava/hartop/2026/30",
+   "short": "HCL Hârtop nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 30/2026 cu privire la activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav, pentru semestrul I al anului 2026, în comuna Hârtop",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/08/hcl-30-iulie-2026.pdf",
+     "sha256": "da23e5c16bcfa30570a37fba7b11de6c0c3bbf4e194395772b6da379e1b5a003"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-31-2026",
+   "path": "local/suceava/hartop/2026/31",
+   "short": "HCL Hârtop nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 31/2026 privind analiza stadiului de înscriere a datelor în registrul agricol al comunei Hârtop, la data de 30.06.2026 Consiliul local al comunei Hârtop, județul Suceava, având în vedere: - referatul de aprobare al primarului comunei Hârtop, în calitate de inițiator al proiectului de hotărâre înregistrat cu nr. 2606 din 10.07.2026, ca instrument de prezentare și motivare; - raportul compartimentului de re",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/08/hcl-31-iulie-2026.pdf",
+     "sha256": "e7066e5849d0dd5244a4ad95b1f011661be451f496103aacf20e1ff091e9149e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-32-2026",
+   "path": "local/suceava/hartop/2026/32",
+   "short": "HCL Hârtop nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 32/2026 pentru intervenția de urgență în cazurile de violență domestică în comuna Hârtop",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/08/hcl-32-iulie-2026.pdf",
+     "sha256": "1f8632f8d2b6e5e5000c39939ee1ee3a1a52e933ff600d6067109104c14d41d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-33-2026",
+   "path": "local/suceava/hartop/2026/33",
+   "short": "HCL Hârtop nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 33/2026",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/08/hcl-33-iulie-2026.pdf",
+     "sha256": "f92445a20148ddee3144228094b3d62ad311b245167b463215c8b773f7f43ad5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-34-2026",
+   "path": "local/suceava/hartop/2026/34",
+   "short": "HCL Hârtop nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 34/2026 privind modificarea inventarului bunurilor imobile care alcătuiesc domeniului privat al comunei Hârtop, județul Suceava Consiliul local al comunei Hârtop, Județul Suceava, având in vedere: - Referatul de aprobare al primarului comunei Hârtop, în calitate de inițiator al proiectului de hotărâre, înregistrat cu nr. 2678 din 16.07.2026, ca instrument de prezentare și motivare; - Raportul compartiment",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/08/hcl-34-iulie-2026.pdf",
+     "sha256": "43eab2a911f08de7e1ff18bfd4e023af421373ee1a45fc14b96d66e0761e31f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-35-2026",
+   "path": "local/suceava/hartop/2026/35",
+   "short": "HCL Hârtop nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 35/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/09/hcl-35-august-2026.pdf",
+     "sha256": "b49ed9c9a482a5cd5b39606b93e5ccf716d62bf6142aeb0da618bae709fe0e30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-36-2026",
+   "path": "local/suceava/hartop/2026/36",
+   "short": "HCL Hârtop nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 36/2026 privind aprobarea modificării utilizării în cursul anului 2026 a excedentului anual al bugetului local rezultat la încheierea exercițiului bugetar al anului 2025 Consiliul local al comunei Hârtop, județul Suceava, având în vedere: - referatul de aprobare al primarului comunei Hârtop, în calitate de inițiator al proiectului de hotărâre înregistrat cu nr.3044 din 14.08.2026, ca instrument de prezent",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/09/hcl-36-august-2026.pdf",
+     "sha256": "396cdd39be1f372d175bbec6224d2541eae7f1d5452d0bf5dee6cdfa698869f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-37-2026",
+   "path": "local/suceava/hartop/2026/37",
+   "short": "HCL Hârtop nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 37/2026 privind aprobarea modificării bugetului local al comunei Hârtop aferent anului 2026 Consiliul local al comunei Hârtop, județul Suceava, având in vedere: - referatul de aprobare prezentat de primarul comunei Hârtop, înregistrat cu nr.3046 din 14.08.2026, ca instrument de prezentare și motivare a proiectului de hotărâre, - raportul compartimentului de resort din cadrul aparatului de specialitate al",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/09/hcl-37-august-2026.pdf",
+     "sha256": "8c4b681b7e25614c16297357dabb49b6c03801503bd750bc8cb505b130453a4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-38-2026",
+   "path": "local/suceava/hartop/2026/38",
+   "short": "HCL Hârtop nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 38/2026 privind aprobarea contului de execuție a bugetului local pentru trimestrul II al anului 2026 Consiliul local al comunei Hârtop, județul Suceava, având în vedere: - Referatul de aprobare al primarului comunei Hârtop, în calitate de inițiator al proiectului de hotărâre înregistrat cu nr.3048 din 14.08.2026, ca instrument de prezentare și motivare; - Raportul compartimentului de resort din cadrul apa",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/09/hcl-38-august-2026.pdf",
+     "sha256": "51a5e78db774a979a6d6c6aa6f75c5dfc7d2a5fad75875f5b6d764b3df56307e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-39-2026",
+   "path": "local/suceava/hartop/2026/39",
+   "short": "HCL Hârtop nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 39/2026 privind aprobarea achiziționării serviciilor de consultanță, asistență și reprezentare juridică care să asigure apărarea intereselor comunei Hârtop, a Consiliului Local al comunei Hârtop, a Instituției primarului comunei Hârtop precum și a Comisiei Locale de Fond Funciar Hârtop Consiliul local al comunei Hârtop, județul Suceava luând act de: - Referatul de aprobare prezentat de primarul comunei Hâ",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/09/hcl-39-august-2026.pdf",
+     "sha256": "9ded1386983a90119d4f54f4cf386f5ab4eb7b6ccb9eb02344a9c7a852c88c4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-41-2026",
+   "path": "local/suceava/hartop/2026/41",
+   "short": "HCL Hârtop nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 41/2026 privind aprobarea plății cotizației către Asociația “Grupul de Acțiune Locală Valea Șomuzului” Consiliul local al comunei Hârtop, județul Suceava, având in vedere: - Referatul de aprobare al primarului comunei Hârtop, în calitate de inițiator al proiectului de hotărâre înregistrat cu nr.3041 din 14.08.2026, ca instrument de prezentare și motivare; - Raportul compartimentului de resort din cadrul a",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/09/hcl-41-august-2026.pdf",
+     "sha256": "b8ca7ceb67161332f3f9bf0b85a57bb9747476b5b35606676ec71a2da4230cff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-42-2026",
+   "path": "local/suceava/hartop/2026/42",
+   "short": "HCL Hârtop nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 42/2026 privind alocarea din bugetul local pe anul 2026, a unui sprijin financiar Parohiei „Sfinții Arhangheli” Hârtop Consiliul local al comunei Hârtop, județul Suceava luând act de: - Referatul de aprobare al primarului comunei Hârtop, în calitate de inițiator al proiectului de hotărâre, înregistrat cu nr.3165 din 24.08.2026, ca instrument de prezentare și motivare; - Raportul compartimentului de resort",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/09/hcl-42-august-2026.pdf",
+     "sha256": "4b59f86c4a05281199f5ea643000cf556ea2d372a0ad74c5a5a31de63d2ade8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-43-2026",
+   "path": "local/suceava/hartop/2026/43",
+   "short": "HCL Hârtop nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 43/2026 privind aprobarea proiectului: “Eficientizarea consumului propriu de energie electrică prin construirea unui parc de panouri fotovoltaice în comuna Hârtop, județul Suceava”, aprobarea documentației tehnico-economice (faza SF), indicatorilor tehnico economici și a cheltuielilor legate de proiect în vederea finanțării prin Fondul pentru Modernizare în cadrul Ministerului Energiei Consiliul local al",
+   "url": "https://comunahirtop.ro/wp-content/uploads/2026/10/hcl-43-septembrie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/10/hcl-43-septembrie-2026.pdf",
+     "sha256": "017ca86b89f7e488a550cd27f44c3297b68b1ffccdbe081dfbaeb14c58ffe5da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-44-2026",
+   "path": "local/suceava/hartop/2026/44",
+   "short": "HCL Hârtop nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 44/2026 pentru ocuparea funcției de director al Școlii Gimnaziale Hârtop",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/10/hcl-44-septembrie-2026.pdf",
+     "sha256": "e05e3b42583e8bfea4724e70d21ed76f1b48987ee8ff4539180550b064e06d4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-45-2026",
+   "path": "local/suceava/hartop/2026/45",
+   "short": "HCL Hârtop nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 45/2026 pentru lunile octombrie, noiembrie, decembrie 2026",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/10/hcl-45-septembrie-2026.pdf",
+     "sha256": "cb174ecfba42cce1138df46b7a44a9369379db3c185055e67a6cf67017571cbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-46-2026",
+   "path": "local/suceava/hartop/2026/46",
+   "short": "HCL Hârtop nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 46/2026 pentru învățământ, sănătate și familie, protecție copii, tineret și sport, activități social-culturale, culte",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/10/hcl-46-septembrie-2026.pdf",
+     "sha256": "b5b0b6cd04782407660e340a40a17596406e7dd33d2e16b1b679861bacd019cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-5-2026",
+   "path": "local/suceava/hartop/2026/5",
+   "short": "HCL Hârtop nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 5/2026 privind analiza stadiului de înscriere a datelor în registrul agricol al comunei Hârtop, la data de 31.12.2025 Consiliul local al comunei Hârtop, județul Suceava, având în vedere: - referatul de aprobare al primarului comunei Hârtop, în calitate de inițiator al proiectului de hotărâre înregistrat cu nr. 270 din 23.01.2026, ca instrument de prezentare și motivare; - raportul compartimentului de res",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/02/hcl-5-februarie-2026.pdf",
+     "sha256": "618ca5063e0e22a7985be5642763635072ca56d3ac9159bf1b113c21fa86f703"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-6-2026",
+   "path": "local/suceava/hartop/2026/6",
+   "short": "HCL Hârtop nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 6/2026 privind stabilirea datei de începere și încheiere a pășunatului, precum și modul de organizare a acestuia în anul 2026, în comuna Hârtop Consiliul local al comunei Hârtop, județul Suceava luând act de : - Referatul de aprobare prezentat de primarul comunei Hârtop, înregistrat cu nr. 290 din 23.01.2026, prin care se susține necesitatea si oportunitatea proiectului, - Raportul compartimentului de re",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/02/hcl-6-februarie-2026.pdf",
+     "sha256": "f7f79d1c7c69dfbe22f1ef26eca2f0f3e0bfe0e5f287457dde92a31d48e70af8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-7-2026",
+   "path": "local/suceava/hartop/2026/7",
+   "short": "HCL Hârtop nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 7/2026 pentru obiectivul nou de investiții ”Reabilitare și modernizare infrastructură rutieră de interes local în comuna Hârtop, jud. Suceava” finanțat prin intermediul Programului Național de Investiții ”Anghel Saligny”",
+   "url": "https://comunahirtop.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/04/hcl-7-martie-2026.pdf",
+     "sha256": "5e7820b663ed51b808f7b2062231ff4b20cea689f40ad6e1496c215db2534ccd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-8-2026",
+   "path": "local/suceava/hartop/2026/8",
+   "short": "HCL Hârtop nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 8/2026 privind aprobarea Devizului general actualizat al proiectului de investiție „Construire parcare, alei pietonale, împrejmuire front stradal - Școala Gimnazială Hârtop” Consiliul local al comunei Hârtop, județul Suceava, având în vedere: - Referatul de aprobare al primarului comunei Hârtop, în calitate de inițiator al proiectului de hotărâre, înregistrat cu nr.953 din 16.03.2026, ca instrument de pr",
+   "url": "https://comunahirtop.ro/wp-content/uploads/2026/04/hcl-8-martie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/04/hcl-8-martie-2026.pdf",
+     "sha256": "8ae3c30997bc5b1a76a9bb7b7397ab7e861252fbfbb1190a6bf033f161dcbf77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hartop-9-2026",
+   "path": "local/suceava/hartop/2026/9",
+   "short": "HCL Hârtop nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hârtop nr. 9/2026 privind aprobarea Devizului general actualizat al proiectului de investiție „Construire remiză utilaje Primăria comunei Hârtop, județul Suceava” Consiliul local al comunei Hârtop, județul Suceava, având în vedere: - Referatul de aprobare al primarului comunei Hârtop, în calitate de inițiator al proiectului de hotărâre, înregistrat cu nr.955 din 16.03.2026, ca instrument de prezentare și motivare",
+   "url": "https://comunahirtop.ro/wp-content/uploads/2026/04/hcl-9-martie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://comunahirtop.ro/wp-content/uploads/2026/04/hcl-9-martie-2026.pdf",
+     "sha256": "ecdbe3254b6e4e1302ac9e001b2e6c4911153393dd786b48cdafa31a39b9aea8"
     }
    ]
   }

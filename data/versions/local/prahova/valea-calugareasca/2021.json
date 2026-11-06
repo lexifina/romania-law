@@ -3,6 +3,21 @@
  "shard": "local/prahova/valea-calugareasca/2021",
  "acts": [
   {
+   "slug": "hcl-prahova--valea-calugareasca-111-2021",
+   "path": "local/prahova/valea-calugareasca/2021/111",
+   "short": "HCL Valea Călugărească nr. 111/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 111/2021 privind desemnarea reprezentanţilor Consiliului Local pentru a face parte din Comisiile de evaluare a probei de interviu pentru concursul privind ocuparea funcțiilor de director și director adjunct la unităţile de învăţamânt preuniversitar de stat din comuna Valea Călugărească",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/39910",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/39910",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--valea-calugareasca-112-2021",
    "path": "local/prahova/valea-calugareasca/2021/112",
    "short": "HCL Valea Călugărească nr. 112/2021",

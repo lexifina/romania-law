@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/salaj/dobrin/2016",
+ "acts": [
+  {
+   "slug": "hcl-salaj--dobrin-1-2016",
+   "path": "local/salaj/dobrin/2016/1",
+   "short": "HCL Dobrin nr. 1/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrin nr. 1/2016 privind adoptarea bugetului consiliului local pe anul2016 Consiliullocal al Comunei Dobrin Avand in vedere raportul nr. 66 din 08 ianuarie 2016 intocmit de contabilul Primariei comunei Dobrin ,in baza adresei nr.21569 din 30.12.2015 , a ) Administratiei Judetene a Finantelor Pub lice Salaj si a adresei nr. 931 din 25.01.2016 a Consiliului Judetean Salaj",
+   "url": "https://comunadobrin.ro/hotarari-ale-c-l/",
+   "versions": [
+    {
+     "from": "2016-01-26",
+     "units": 1,
+     "source_url": "http://www.comunadobrin.ro/wp-content/uploads/hotarari16/HCL%201%20din-26-01-2016.pdf",
+     "sha256": "dcc5695fdb8114ae4672b4cba90690f5bcf385403eff92c19711d485ae7c4cad"
+    }
+   ]
+  }
+ ]
+}

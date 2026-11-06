@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-sibiu--rosia-59-2025",
+   "path": "local/sibiu/rosia/2025/59",
+   "short": "HCL Roșia nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 59/2025 privind aprobarea eliberarii adeverintelor pentru racordarea la reţeaua electrică a persoanelor din comuna Rosia, care nu detin actul de proprietate sau orice alt înscris care atestă dreptul de folosinţă asupra terenului in conformitate cu Ordinul nr.22/2020 al ANRDE pentru modificarea şi completarea Regulamentului privind racordarea utilizatorilor la reţelele electrice de interes public, aprobat prin Ordinul preşedintelui Autorităţii Naţionale de Reglementare în Domeniul Energiei nr. 59/2013",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/249696",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/249696",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--rosia-60-2025",
    "path": "local/sibiu/rosia/2025/60",
    "short": "HCL Roșia nr. 60/2025",
@@ -153,6 +168,36 @@
    ]
   },
   {
+   "slug": "hcl-sibiu--rosia-62-2025",
+   "path": "local/sibiu/rosia/2025/62",
+   "short": "HCL Roșia nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 62/2025 privind aprobarea eliberarii adeverintelor pentru racordarea la reţeaua electrică a persoanelor din comuna Rosia, care nu detin actul de proprietate sau orice alt înscris care atestă dreptul de folosinţă asupra terenului in conformitate cu Ordinul nr.22/2020 al ANRDE pentru modificarea şi completarea Regulamentului privind racordarea utilizatorilor la reţelele electrice de interes public, aprobat prin Ordinul preşedintelui Autorităţii Naţionale de Reglementare în Domeniul Energiei nr. 59/2013",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/249699",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/249699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-63-2025",
+   "path": "local/sibiu/rosia/2025/63",
+   "short": "HCL Roșia nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 63/2025",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/249700",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/249700",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--rosia-64-2025",
    "path": "local/sibiu/rosia/2025/64",
    "short": "HCL Roșia nr. 64/2025",
@@ -163,6 +208,21 @@
      "from": "2026-01-30",
      "units": 1,
      "source_url": "https://emol.ro/rosia-sb/registru-hcl/249701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-65-2025",
+   "path": "local/sibiu/rosia/2025/65",
+   "short": "HCL Roșia nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 65/2025",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/249702",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/249702",
      "sha256": null
     }
    ]
@@ -208,6 +268,21 @@
      "from": "2025-12-18",
      "units": 1,
      "source_url": "https://emol.ro/rosia-sb/registru-hcl/249885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-69-2025",
+   "path": "local/sibiu/rosia/2025/69",
+   "short": "HCL Roșia nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 69/2025 privind vânzarea către populație a cantităţii de 3,45 mc lemn rotund specia stejar pedunculat , 0,90 mc lemn rotund specia Gorun precum si 24,77 mc lemn rotund specia Fag constituită în UP II Roşia, ua 5 şi 6",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/249886",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/249886",
      "sha256": null
     }
    ]

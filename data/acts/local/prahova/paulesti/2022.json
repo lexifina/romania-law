@@ -267,6 +267,28 @@
 }
 },
 {
+"slug": "hcl-prahova--paulesti-171-2022",
+"path": "local/prahova/paulesti/2022/171",
+"kind": "local",
+"year": "2022",
+"number": "171",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 171/2022 privind aprobarea caietului de sarcini pentru ,,Inchiriere utilaje,,",
+"short": "HCL Păulești nr. 171/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/85984",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--paulesti-172-2022",
 "path": "local/prahova/paulesti/2022/172",
 "kind": "local",

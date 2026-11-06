@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/sibiu/valea-viilor/2024",
+"acts": [
+{
+"slug": "hcl-sibiu--valea-viilor-536-2024",
+"path": "local/sibiu/valea-viilor/2024/536",
+"kind": "local",
+"year": "2024",
+"number": "536",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Viilor nr. 536/2024",
+"short": "HCL Valea Viilor nr. 536/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-30",
+"latest": "2024-10-30",
+"portal": "https://valea-viilor.ro/consiliul-local/",
+"council": "sibiu/valea-viilor",
+"council_name": "Consiliul Local al Comunei Valea Viilor",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

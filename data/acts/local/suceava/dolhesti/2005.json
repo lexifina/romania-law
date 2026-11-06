@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/dolhesti/2005",
+"acts": [
+{
+"slug": "hcl-suceava--dolhesti-17-2005",
+"path": "local/suceava/dolhesti/2005/17",
+"kind": "local",
+"year": "2005",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dolhești nr. 17/2005",
+"short": "HCL Dolhești nr. 17/2005",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2005-11-18",
+"latest": "2005-11-18",
+"portal": "https://comuna-dolhesti.ro/hcl_2026/",
+"council": "suceava/dolhesti",
+"council_name": "Consiliul Local al Comunei Dolhești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -400,6 +400,28 @@
 }
 },
 {
+"slug": "hcl-prahova--vadu-sapat-97-2025",
+"path": "local/prahova/vadu-sapat/2025/97",
+"kind": "local",
+"year": "2025",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 97/2025 privind propunerea schimbarii destinatiei imobilului situat in Comuna Vadu Sapat, sat Ungureni, nr. 531, inscris in CF nr. 20167 Vadu Sapat, in vederea demolarii cladirii C1- constructii administrative si social-culturale, cu functiunea Gradinita cu program normal Vadu Sapat",
+"short": "HCL Vadu Săpat nr. 97/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/vadusapat-ph/registru-hcl/245781",
+"council": "prahova/vadu-sapat",
+"council_name": "Consiliul Local al Comunei Vadu Săpat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--vadu-sapat-98-2025",
 "path": "local/prahova/vadu-sapat/2025/98",
 "kind": "local",

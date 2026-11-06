@@ -157,6 +157,51 @@
 }
 },
 {
+"slug": "hcl-prahova--valea-calugareasca-136-2023",
+"path": "local/prahova/valea-calugareasca/2023/136",
+"kind": "local",
+"year": "2023",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 136/2023 pentru aprobarea modificării Hotărârii Consiliului Local nr.86/ 25.11.2020 privind organizarea comisiilor de specialitate ale Consiliului Local Valea Călugărească, pentru mandatul 2020-2024",
+"short": "HCL Valea Călugărească nr. 136/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-28",
+"latest": "2023-11-28",
+"portal": "https://emol.ro/valeacalugareasca-ph/registru-hcl/131093",
+"council": "prahova/valea-calugareasca",
+"council_name": "Consiliul Local al Comunei Valea Călugărească",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--valea-calugareasca-137-2023",
+"path": "local/prahova/valea-calugareasca/2023/137",
+"kind": "local",
+"year": "2023",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 137/2023",
+"short": "HCL Valea Călugărească nr. 137/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://emol.ro/valeacalugareasca-ph/registru-hcl/132016",
+"council": "prahova/valea-calugareasca",
+"council_name": "Consiliul Local al Comunei Valea Călugărească",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--valea-calugareasca-138-2023",
 "path": "local/prahova/valea-calugareasca/2023/138",
 "kind": "local",

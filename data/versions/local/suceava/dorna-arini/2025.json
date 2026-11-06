@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/dorna-arini/2025",
+ "acts": [
+  {
+   "slug": "hcl-suceava--dorna-arini-83-2025",
+   "path": "local/suceava/dorna-arini/2025/83",
+   "short": "HCL Dorna-Arini nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna-Arini nr. 83/2025 privind îndreptarea erorii materiale din cuprinsul Anexei nr. 2 la Hotărârea Consiliului Local nr. 48 din 28.08.2025 privind aprobarea vânzării prin licitație publică a unui bun imobil aflat în domeniul privat al Comunei Dorna-Arini, Județul Suceava și aprobarea documentației de licitație",
+   "url": "https://dornaarinisv.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://dornaarinisv.ro/pdf/hcl/2025/83.pdf",
+     "sha256": "aec98deb9583e5d3ba5de96e63e8c2a0c88ce0ff9e628f1b5b77b653014fa52e"
+    }
+   ]
+  }
+ ]
+}

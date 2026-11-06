@@ -312,6 +312,28 @@
 }
 },
 {
+"slug": "hcl-salaj--valcau-de-jos-85-2023",
+"path": "local/salaj/valcau-de-jos/2023/85",
+"kind": "local",
+"year": "2023",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 85/2023 privind aprobarea modificării organigramei şi statului de funcţii al aparatului de specialitate al primarului comunei Valcău de Jos",
+"short": "HCL Valcău de Jos nr. 85/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/valcaudejos-sj/registru-hcl/133172",
+"council": "salaj/valcau-de-jos",
+"council_name": "Consiliul Local al Comunei Valcău de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--valcau-de-jos-86-2023",
 "path": "local/salaj/valcau-de-jos/2023/86",
 "kind": "local",

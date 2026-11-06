@@ -70,6 +70,28 @@
 }
 },
 {
+"slug": "hcl-prahova--manesti-86-2025",
+"path": "local/prahova/manesti/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 86/2025 privind aprobarea Organigramei şi a Ștatului de funcţii ale aparatului de specialitate al Primarului comunei Mănești, județul Prahova",
+"short": "HCL Mănești nr. 86/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-11",
+"latest": "2025-12-11",
+"portal": "https://emol.ro/manesti-ph/registru-hcl/238845",
+"council": "prahova/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--manesti-87-2025",
 "path": "local/prahova/manesti/2025/87",
 "kind": "local",

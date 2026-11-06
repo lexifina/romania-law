@@ -78,6 +78,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--stefesti-43-2025",
+   "path": "local/prahova/stefesti/2025/43",
+   "short": "HCL Ștefești nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 43/2025 privind desemnarea reprezentantilor Consiliului Local al comunei Stefesti care sa faca parte din Consiliul de Administratie al Scolii Gimnaziale Stefesti si din Comisia de evaluare si asigurarea calitatii educatiei la nivelul Scolii Gimnaziale Stefesti, pentru anul scolar 2025-2026",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/227174",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/227174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-44-2025",
+   "path": "local/prahova/stefesti/2025/44",
+   "short": "HCL Ștefești nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 44/2025 privind actualizarea componentei echipei mobile, pentru interventia de urgenta in cazurile de violenta domestica la nivelul comunei Stefesti, judetul Prahova",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/232621",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/232621",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-45-2025",
    "path": "local/prahova/stefesti/2025/45",
    "short": "HCL Ștefești nr. 45/2025",
@@ -148,6 +178,21 @@
      "from": "2025-11-28",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/238480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-50-2025",
+   "path": "local/prahova/stefesti/2025/50",
+   "short": "HCL Ștefești nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 50/2025 privind alegerea presedintelui de sedinta pentru urmatoarele 3(trei) luni",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/238481",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/238481",
      "sha256": null
     }
    ]

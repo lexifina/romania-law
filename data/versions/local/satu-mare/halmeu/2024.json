@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/satu-mare/halmeu/2024",
+ "acts": [
+  {
+   "slug": "hcl-satu-mare--halmeu-72-2024",
+   "path": "local/satu-mare/halmeu/2024/72",
+   "short": "HCL Halmeu nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Halmeu nr. 72/2024 privind modificarea Hotărârii nr.60/2024- privind aprobarea facilităților fiscale de anulare a penalităților și a tuturor accesoriilor aferente obligațiilor bugetare principale restante la data de 31.08.2024",
+   "url": "https://halmeu.ro/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-08-31",
+     "units": 1,
+     "source_url": "https://halmeu.ro/wp-content/assets/2024/12/Hotararea-72-2024.pdf",
+     "sha256": "d992369256065a1c5fb6fde414f53901c62b8a322c3bf9624a2fc0de460b42a4"
+    }
+   ]
+  }
+ ]
+}

@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-suceava--fantanele-25-2020",
+"path": "local/suceava/fantanele/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 25/2020 privind alegerea presedintelului de sedinta",
+"short": "HCL Fântânele nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-27",
+"latest": "2020-08-27",
+"portal": "https://emol.ro/fantanele-sv/registru-hcl/241271",
+"council": "suceava/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--fantanele-26-2020",
 "path": "local/suceava/fantanele/2020/26",
 "kind": "local",
@@ -179,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-suceava--fantanele-28-2020",
+"path": "local/suceava/fantanele/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 28/2020 privind alegerea presedintelui de sedinta",
+"short": "HCL Fântânele nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-06",
+"latest": "2020-11-06",
+"portal": "https://emol.ro/fantanele-sv/registru-hcl/241275",
+"council": "suceava/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--fantanele-29-2020",
 "path": "local/suceava/fantanele/2020/29",
 "kind": "local",
@@ -220,6 +264,28 @@
 "council_name": "Consiliul Local al Comunei Fântânele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--fantanele-31-2020",
+"path": "local/suceava/fantanele/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 31/2020 privind alegerea viceprimarului comunei Fantanele, judetul Suceava",
+"short": "HCL Fântânele nr. 31/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-06",
+"latest": "2020-11-06",
+"portal": "https://emol.ro/fantanele-sv/registru-hcl/241279",
+"council": "suceava/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-sibiu--gura-raului-137-2023",
+   "path": "local/sibiu/gura-raului/2023/137",
+   "short": "HCL Gura Râului nr. 137/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 137/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/131622",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/131622",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--gura-raului-138-2023",
    "path": "local/sibiu/gura-raului/2023/138",
    "short": "HCL Gura Râului nr. 138/2023",
@@ -73,6 +88,66 @@
      "from": "2023-12-11",
      "units": 1,
      "source_url": "https://emol.ro/guraraului-sb/registru-hcl/131623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-139-2023",
+   "path": "local/sibiu/gura-raului/2023/139",
+   "short": "HCL Gura Râului nr. 139/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 139/2023 privind aprobarea rectificarii bugetului de venituri şi cheltuieli pe anul 2023 al Regiei Publice Locale Ocolul Silvic Gura Raului RA, aflată sub autoritatea Comunei Gura Raului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/131624",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/131624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-140-2023",
+   "path": "local/sibiu/gura-raului/2023/140",
+   "short": "HCL Gura Râului nr. 140/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 140/2023 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2022 al societatii Cenpelco SRL, aflată sub autoritatea Comunei Gura Raului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/131625",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/131625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-141-2023",
+   "path": "local/sibiu/gura-raului/2023/141",
+   "short": "HCL Gura Râului nr. 141/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 141/2023 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2023 al societatii Cenpelco SRL, aflată sub autoritatea Comunei Gura Raului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/131626",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/131626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-142-2023",
+   "path": "local/sibiu/gura-raului/2023/142",
+   "short": "HCL Gura Râului nr. 142/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 142/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/133953",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/133953",
      "sha256": null
     }
    ]
@@ -133,6 +208,51 @@
      "from": "2024-02-08",
      "units": 1,
      "source_url": "https://emol.ro/guraraului-sb/registru-hcl/133957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-147-2023",
+   "path": "local/sibiu/gura-raului/2023/147",
+   "short": "HCL Gura Râului nr. 147/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 147/2023",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/133958",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/133958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-148-2023",
+   "path": "local/sibiu/gura-raului/2023/148",
+   "short": "HCL Gura Râului nr. 148/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 148/2023",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/133959",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/133959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-149-2023",
+   "path": "local/sibiu/gura-raului/2023/149",
+   "short": "HCL Gura Râului nr. 149/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 149/2023 privind mandatarea primarului comunei Gura Raului ca reprezentant al comunei Gura Raului în Adunarea Generală a Asociației de Dezvoltare Intercomunitară “ECO” Sibiu să voteze pentru aprobarea încheierii Actului adiţional nr. 11 la “Contractul de delegare prin concesiune a gestiunii activității de colectare si transport a deșeurilor municipale în Zona 1 Sibiu” nr. 277/05.08.2016",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/133960",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/133960",
      "sha256": null
     }
    ]

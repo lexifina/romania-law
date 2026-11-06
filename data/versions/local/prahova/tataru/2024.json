@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/tataru/2024",
+ "acts": [
+  {
+   "slug": "hcl-prahova--tataru-17-2024",
+   "path": "local/prahova/tataru/2024/17",
+   "short": "HCL Tătaru nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tătaru nr. 17/2024",
+   "url": "http://primariatataru.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "http://primariatataru.ro/wp-content/uploads/2014/07/Rectificare-BVC-HCL-nr.17-din-26-Aprilie-2024.pdf",
+     "sha256": "10bb64a0fb36ab429ef4a47854b087782b79859507fc7da27695d0d78050a514"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tataru-29-2024",
+   "path": "local/prahova/tataru/2024/29",
+   "short": "HCL Tătaru nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tătaru nr. 29/2024",
+   "url": "http://primariatataru.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 1,
+     "source_url": "http://primariatataru.ro/wp-content/uploads/2014/07/Rectificare-BVC-HCL-nr.29-din-01-August-2024.pdf",
+     "sha256": "6507a5bbca2809406fa84f968b9b8b0128fec5fe55aea261bd600dc5717c65a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tataru-36-2024",
+   "path": "local/prahova/tataru/2024/36",
+   "short": "HCL Tătaru nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tătaru nr. 36/2024",
+   "url": "http://primariatataru.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 1,
+     "source_url": "http://primariatataru.ro/wp-content/uploads/2014/07/Rectificare-BVC-HCL-nr.36-din-15.10.2024.pdf",
+     "sha256": "51ac519156e2b6b1469c853e28ca423d50391d4ae696582addb6d8b93bb911b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tataru-41-2024",
+   "path": "local/prahova/tataru/2024/41",
+   "short": "HCL Tătaru nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tătaru nr. 41/2024",
+   "url": "http://primariatataru.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "http://primariatataru.ro/wp-content/uploads/2014/07/Rectificare-BVC-HCL-nr.41-din-15.11.2024.pdf",
+     "sha256": "36cd975c3fa60f94305cefd9cdc3786d18805fde8d9337f2e246af14ebb601e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tataru-44-2024",
+   "path": "local/prahova/tataru/2024/44",
+   "short": "HCL Tătaru nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tătaru nr. 44/2024",
+   "url": "http://primariatataru.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "http://primariatataru.ro/wp-content/uploads/2014/07/Rectificare-BVC-HCL-nr.44-din-05.12.2024.pdf",
+     "sha256": "62844e74b149a7b3bcc064a9d7c48624a4cdbaa81be41303f58bf58109d56b81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tataru-47-2024",
+   "path": "local/prahova/tataru/2024/47",
+   "short": "HCL Tătaru nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tătaru nr. 47/2024",
+   "url": "http://primariatataru.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "http://primariatataru.ro/wp-content/uploads/2014/07/Rectificare-BVC-HCL-nr.47-din-12.12.2024.pdf",
+     "sha256": "6a7e0fc4656aa9a3b312552c32dc4105e070bab4c658af39867eadb6a5ac055f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tataru-49-2024",
+   "path": "local/prahova/tataru/2024/49",
+   "short": "HCL Tătaru nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tătaru nr. 49/2024",
+   "url": "http://primariatataru.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "http://primariatataru.ro/wp-content/uploads/2014/07/Rectificare-Bvc-HCL-nr.49-din-19.12.2024.pdf",
+     "sha256": "81d47bfd6f64b95a181e8283a21a7adc59d19da8efe63440f44f4a9faeddbcf0"
+    }
+   ]
+  }
+ ]
+}

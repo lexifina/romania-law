@@ -3,6 +3,66 @@
  "shard": "local/suceava/carlibaba/2022",
  "acts": [
   {
+   "slug": "hcl-suceava--carlibaba-30-2022",
+   "path": "local/suceava/carlibaba/2022/30",
+   "short": "HCL Cârlibaba nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 30/2022 privind aprobarea vânzării prin licitație publică a unui teren în suprafață de 643 mp situat în intravilanul comunei Cârlibaba, identic din punct de vedere cadastral cu nr.32454 ce aparține domeniului privat al comunei Cârlibaba, înscris în Cartea Funciară 32454",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/75994",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/75994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-31-2022",
+   "path": "local/suceava/carlibaba/2022/31",
+   "short": "HCL Cârlibaba nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 31/2022 privind aprobarea vânzării prin licitație publică a unui teren în suprafață de 700 mp situat în intravilanul comunei Cârlibaba, identic din punct de vedere cadastral cu nr.32453 ce aparține domeniului privat al comunei Cârlibaba, înscris în Cartea Funciară 32453",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/75995",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/75995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-32-2022",
+   "path": "local/suceava/carlibaba/2022/32",
+   "short": "HCL Cârlibaba nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 32/2022 privind aprobarea vânzării prin licitație publică a unui teren în suprafață de 1000 mp situat în intravilanul comunei Cârlibaba, identic din punct de vedere cadastral cu nr.32452 ce aparține domeniului privat al comunei Cârlibaba, înscris în Cartea Funciară 32452",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/75996",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/75996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-33-2022",
+   "path": "local/suceava/carlibaba/2022/33",
+   "short": "HCL Cârlibaba nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 33/2022 privind aprobarea vânzării prin licitație publică a unui teren în suprafață de 643 mp situat în intravilanul comunei Cârlibaba, identic din punct de vedere cadastral cu nr.32455 ce aparține domeniului privat al comunei Cârlibaba, înscris în Cartea Funciară 32455",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/75997",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/75997",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--carlibaba-34-2022",
    "path": "local/suceava/carlibaba/2022/34",
    "short": "HCL Cârlibaba nr. 34/2022",
@@ -43,6 +103,21 @@
      "from": "2022-10-19",
      "units": 1,
      "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/76175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-37-2022",
+   "path": "local/suceava/carlibaba/2022/37",
+   "short": "HCL Cârlibaba nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 37/2022 privind aprobarea vânzării cantității de 679 mc lemn care va fi exploatată din pădurea proprietate publică a comunei Cârlibaba și stabilirea modului de valorificare",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/96627",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/96627",
      "sha256": null
     }
    ]
@@ -148,6 +223,21 @@
      "from": "2023-03-27",
      "units": 1,
      "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/96640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-45-2022",
+   "path": "local/suceava/carlibaba/2022/45",
+   "short": "HCL Cârlibaba nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 45/2022 privind apartenența la domeniul privat al comunei Cârlibaba al imobilului în suprafață de 295 mp, învecinat la nord-strada Principală și comuna Cârlibaba, la sud- cu comuna Cârlibaba, la est-cu comuna Cârlibaba, la vest-cu comuna Cârlibaba, imobil situate în intravilanul localității Cârlibaba, sat Cârlibaba",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/96641",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/96641",
      "sha256": null
     }
    ]

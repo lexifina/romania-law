@@ -183,6 +183,51 @@
    ]
   },
   {
+   "slug": "hcl-suceava--dorna-candrenilor-129-2021",
+   "path": "local/suceava/dorna-candrenilor/2021/129",
+   "short": "HCL Dorna Candrenilor nr. 129/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 129/2021 privind aprobarea vânzării prin licitație publică, masă lemnoasă pe picior, producția anului 2022, provenită din fondul forestier proprietate publică a comunei Dorna Candrenilor, administrată de OS Dorna",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/51337",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/51337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-130-2021",
+   "path": "local/suceava/dorna-candrenilor/2021/130",
+   "short": "HCL Dorna Candrenilor nr. 130/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 130/2021 privind aprobarea vânzării prin licitație publică a cantității de 780,13 mc volum brut masa lemnoasă pe picior, provenită din fondul forestier proprietate publică a comunei Dorna Candrenilor, administrată de Ocolul Silvic Dorna Candrenilor, județul Suceava, pentru anul 2022",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/51338",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/51338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-131-2021",
+   "path": "local/suceava/dorna-candrenilor/2021/131",
+   "short": "HCL Dorna Candrenilor nr. 131/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 131/2021 privind aprobarea vânzării prin licitație publică a cantității de 237,92 mc volum brut masa lemnoasă pe picior, provenită din fondul forestier proprietate publică a comunei Dorna Candrenilor, administrată de Ocolul Silvic Vatra Dornei, județul Suceava, pentru anul 2022",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/51339",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/51339",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--dorna-candrenilor-132-2021",
    "path": "local/suceava/dorna-candrenilor/2021/132",
    "short": "HCL Dorna Candrenilor nr. 132/2021",
@@ -208,6 +253,21 @@
      "from": "2021-12-21",
      "units": 1,
      "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/51351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-134-2021",
+   "path": "local/suceava/dorna-candrenilor/2021/134",
+   "short": "HCL Dorna Candrenilor nr. 134/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 134/2021 privind aprobarea vânzării prin licitație publică a unui teren, proprietate privată a comunei Dorna Candrenilor, județul Suceava",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/51352",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/51352",
      "sha256": null
     }
    ]

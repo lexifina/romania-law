@@ -3,6 +3,21 @@
  "shard": "local/suceava/brosteni/2023",
  "acts": [
   {
+   "slug": "hcl-suceava--brosteni-1-2023",
+   "path": "local/suceava/brosteni/2023/1",
+   "short": "HCL Broșteni nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 1/2023 privind alegerea președintelui de ședință al Consiliului Local al orașului Broșteni, pentru ședința extraordinară convocată de îndată din data de 05.01.2023",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/95711",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/95711",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--brosteni-10-2023",
    "path": "local/suceava/brosteni/2023/10",
    "short": "HCL Broșteni nr. 10/2023",
@@ -48,6 +63,51 @@
    ]
   },
   {
+   "slug": "hcl-suceava--brosteni-102-2023",
+   "path": "local/suceava/brosteni/2023/102",
+   "short": "HCL Broșteni nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 102/2023 privind desemnarea reprezentanților Consiliului Local al orașului Broșteni în Consiliul de Administraţie al Liceului Tehnologic “Nicolai Nanu” Broșteni, județul Suceava, în anul școlar 2023 – 2024",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/121833",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/121833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-103-2023",
+   "path": "local/suceava/brosteni/2023/103",
+   "short": "HCL Broșteni nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 103/2023 privind modificarea HCL nr. 8/22.03.2023 privind stabilirea componenței echipei mobile și a coordonatorului acesteia pentru acordarea serviciilor sociale în situațiile de violență domestică, la nivelul orașului Broșteni, județul Suceava",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/121834",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/121834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-104-2023",
+   "path": "local/suceava/brosteni/2023/104",
+   "short": "HCL Broșteni nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 104/2023",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/123657",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/123657",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--brosteni-105-2023",
    "path": "local/suceava/brosteni/2023/105",
    "short": "HCL Broșteni nr. 105/2023",
@@ -58,6 +118,51 @@
      "from": "2023-10-23",
      "units": 1,
      "source_url": "https://emol.ro/brosteni-sv/registru-hcl/123658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-106-2023",
+   "path": "local/suceava/brosteni/2023/106",
+   "short": "HCL Broșteni nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 106/2023 privind alegerea președintelui de ședință al Consiliului Local al orașului Broșteni, pentru o perioadă de 3 luni, respectiv lunile noiembrie 2023, decembrie 2023, ianuarie anul 2024",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/125336",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/125336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-107-2023",
+   "path": "local/suceava/brosteni/2023/107",
+   "short": "HCL Broșteni nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 107/2023 privind completarea HCL nr. 59/2020 privind ”organizarea comisiilor pe principalele domenii de specialitate al consiliului local al orașului Broșteni”,",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/125337",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/125337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-108-2023",
+   "path": "local/suceava/brosteni/2023/108",
+   "short": "HCL Broșteni nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 108/2023",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/125338",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/125338",
      "sha256": null
     }
    ]
@@ -123,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--brosteni-112-2023",
+   "path": "local/suceava/brosteni/2023/112",
+   "short": "HCL Broșteni nr. 112/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 112/2023 privind aprobarea salariilor de bază și a coeficienților de ierarhizare a funcțiilor publice și contractuale din cadrul Serviciului Public de Alimentare cu Apă si Canalizare",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/125342",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/125342",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--brosteni-113-2023",
    "path": "local/suceava/brosteni/2023/113",
    "short": "HCL Broșteni nr. 113/2023",
@@ -163,6 +283,21 @@
      "from": "2023-11-07",
      "units": 1,
      "source_url": "https://emol.ro/brosteni-sv/registru-hcl/125345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-116-2023",
+   "path": "local/suceava/brosteni/2023/116",
+   "short": "HCL Broșteni nr. 116/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 116/2023",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/125346",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/125346",
      "sha256": null
     }
    ]
@@ -243,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--brosteni-121-2023",
+   "path": "local/suceava/brosteni/2023/121",
+   "short": "HCL Broșteni nr. 121/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 121/2023 privind desemnarea comisiei de evaluare pentru licitațiile organizate în vederea concesionării/închirierii de bunuri proprietate publică/privată, vânzării de bunuri proprietate privată a Orașului Broșteni, județul Suceava",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/131268",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/131268",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--brosteni-122-2023",
    "path": "local/suceava/brosteni/2023/122",
    "short": "HCL Broșteni nr. 122/2023",
@@ -288,6 +438,36 @@
    ]
   },
   {
+   "slug": "hcl-suceava--brosteni-125-2023",
+   "path": "local/suceava/brosteni/2023/125",
+   "short": "HCL Broșteni nr. 125/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 125/2023 privind desemnarea unor consilieri locali, care vor face parte din comisiile de recepție parțială a unor lucrări, bunuri și/sau servicii ale UAT oraș Broșteni, județul Suceava",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/131272",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/131272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-126-2023",
+   "path": "local/suceava/brosteni/2023/126",
+   "short": "HCL Broșteni nr. 126/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 126/2023 privind acordarea mandatului special Asociației Județene pentru Apă și Canalizare Suceava să declanșeze procedura de selecție pentru desemnarea unui administrator în Consiliul de Administrație al Societății ACET S.A Suceava conform prevederilor OUG nr. 109/2011 privind guvernanța corporativă a întreprinderilor publice, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/131273",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/131273",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--brosteni-127-2023",
    "path": "local/suceava/brosteni/2023/127",
    "short": "HCL Broșteni nr. 127/2023",
@@ -298,6 +478,36 @@
      "from": "2023-12-15",
      "units": 1,
      "source_url": "https://emol.ro/brosteni-sv/registru-hcl/131274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-128-2023",
+   "path": "local/suceava/brosteni/2023/128",
+   "short": "HCL Broșteni nr. 128/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 128/2023",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/131275",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/131275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-129-2023",
+   "path": "local/suceava/brosteni/2023/129",
+   "short": "HCL Broșteni nr. 129/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 129/2023",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/131276",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/131276",
      "sha256": null
     }
    ]
@@ -633,6 +843,36 @@
    ]
   },
   {
+   "slug": "hcl-suceava--brosteni-17-2023",
+   "path": "local/suceava/brosteni/2023/17",
+   "short": "HCL Broșteni nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 17/2023 privind alocarea unui sprijin financiar pentru unitățile de cult, de pe raza orașului Broșteni, județul Suceava, pentru ședința extraordinară convocată de îndată din data de 15.02.2023",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/95823",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/95823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-18-2023",
+   "path": "local/suceava/brosteni/2023/18",
+   "short": "HCL Broșteni nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 18/2023 privind aprobarea proiectului: „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar din Orașul Broșteni, Județul Suceava”, a indicatorilor și cheltuielilor legate de proiect, în vederea depunerii în cadrul PNRR- Componenta 15- Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/95918",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/95918",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--brosteni-19-2023",
    "path": "local/suceava/brosteni/2023/19",
    "short": "HCL Broșteni nr. 19/2023",
@@ -663,6 +903,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--brosteni-20-2023",
+   "path": "local/suceava/brosteni/2023/20",
+   "short": "HCL Broșteni nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 20/2023",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/100674",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/100674",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--brosteni-21-2023",
    "path": "local/suceava/brosteni/2023/21",
    "short": "HCL Broșteni nr. 21/2023",
@@ -688,6 +943,21 @@
      "from": "2023-04-19",
      "units": 1,
      "source_url": "https://emol.ro/brosteni-sv/registru-hcl/100676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-23-2023",
+   "path": "local/suceava/brosteni/2023/23",
+   "short": "HCL Broșteni nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 23/2023",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/100677",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/100677",
      "sha256": null
     }
    ]
@@ -748,6 +1018,21 @@
      "from": "2023-04-19",
      "units": 1,
      "source_url": "https://emol.ro/brosteni-sv/registru-hcl/100681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-28-2023",
+   "path": "local/suceava/brosteni/2023/28",
+   "short": "HCL Broșteni nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 28/2023 privind modificarea și completarea HCL nr. 83 din 26.10.2022 privind participarea orașului Broșteni, județul Suceava, la înființarea Asociației”Organizația de Management a destinației ”Țara Dornelor” , a statutului acestei Asociații precum și desemnarea reprezentantului orașului Broșteni în cadrul Adunării generale a Asociației de management a destinației „Țara Dornelor”",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/100682",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/100682",
      "sha256": null
     }
    ]
@@ -903,6 +1188,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--brosteni-38-2023",
+   "path": "local/suceava/brosteni/2023/38",
+   "short": "HCL Broșteni nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 38/2023 privind alegerea președintelui de ședință al Consiliului Local al orașului Broșteni, pentru o perioadă de 3 luni, respectiv lunile mai, iunie, iulie, anul 2023",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/105422",
+   "versions": [
+    {
+     "from": "2023-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/105422",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--brosteni-39-2023",
    "path": "local/suceava/brosteni/2023/39",
    "short": "HCL Broșteni nr. 39/2023",
@@ -948,6 +1248,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--brosteni-41-2023",
+   "path": "local/suceava/brosteni/2023/41",
+   "short": "HCL Broșteni nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 41/2023 privind aprobarea vânzării prin licitație publică deschisă a unui utilaj, buldoexcavator SV-01 Marca LCB, tip 3CX",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/105425",
+   "versions": [
+    {
+     "from": "2023-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/105425",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--brosteni-42-2023",
    "path": "local/suceava/brosteni/2023/42",
    "short": "HCL Broșteni nr. 42/2023",
@@ -978,6 +1293,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--brosteni-44-2023",
+   "path": "local/suceava/brosteni/2023/44",
+   "short": "HCL Broșteni nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 44/2023 privind aprobarea salariilor de bază începând cu luna aprilie 2023, pentru funcțiile publice și funcțiile contractuale, din cadrul aparatului de specialitate al primarului orașului Broșteni, județul Suceava",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/105428",
+   "versions": [
+    {
+     "from": "2023-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/105428",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--brosteni-45-2023",
    "path": "local/suceava/brosteni/2023/45",
    "short": "HCL Broșteni nr. 45/2023",
@@ -988,6 +1318,21 @@
      "from": "2023-06-07",
      "units": 1,
      "source_url": "https://emol.ro/brosteni-sv/registru-hcl/105429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-46-2023",
+   "path": "local/suceava/brosteni/2023/46",
+   "short": "HCL Broșteni nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 46/2023 privind aprobarea plății stimulentului de risc, reclamanților/apelanți din dosarul civil nr. 3305/86/2020, persoane cu dizabilități, din orașul Brosteni, județul Suceava, conform Deciziei civile definitivă nr. 1044/01.11.2022, Curții de Apel Suceava- Secția I Civilă",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/105430",
+   "versions": [
+    {
+     "from": "2023-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/105430",
      "sha256": null
     }
    ]
@@ -1018,6 +1363,21 @@
      "from": "2023-06-14",
      "units": 1,
      "source_url": "https://emol.ro/brosteni-sv/registru-hcl/105741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-49-2023",
+   "path": "local/suceava/brosteni/2023/49",
+   "short": "HCL Broșteni nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 49/2023 privind completare HCL nr. 59/2020 privind ”organizarea comisiilor pe principalele domenii de specialitate al consiliului local al orașului Broșteni",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/105742",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/105742",
      "sha256": null
     }
    ]
@@ -1113,6 +1473,36 @@
    ]
   },
   {
+   "slug": "hcl-suceava--brosteni-55-2023",
+   "path": "local/suceava/brosteni/2023/55",
+   "short": "HCL Broșteni nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 55/2023 privind aprobarea încheierii contractelor de vânzare-cumpărare pentru apartamentele care aparțin domeniul privat al orașului Broșteni,",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/105748",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/105748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-56-2023",
+   "path": "local/suceava/brosteni/2023/56",
+   "short": "HCL Broșteni nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 56/2023 privind acordarea unor premii pentru cuplurile, din orașul Broșteni, județul Suceava,care au împlinit 50, 55, 60 și peste 60 de ani de la căsătorie, în anul 2023,",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/105749",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/105749",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--brosteni-57-2023",
    "path": "local/suceava/brosteni/2023/57",
    "short": "HCL Broșteni nr. 57/2023",
@@ -1123,6 +1513,36 @@
      "from": "2023-06-14",
      "units": 1,
      "source_url": "https://emol.ro/brosteni-sv/registru-hcl/105750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-58-2023",
+   "path": "local/suceava/brosteni/2023/58",
+   "short": "HCL Broșteni nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 58/2023 privind desemnarea unui număr de 2 consilieri locali care vor face parte din comisia de evaluare și selecție a ofertelor ce urmează a fi depuse la procedura de publică deschisă a unui utilaj, buldoexcavator SV-01 Marca LCB, tip 3CX",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/105751",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/105751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-59-2023",
+   "path": "local/suceava/brosteni/2023/59",
+   "short": "HCL Broșteni nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 59/2023",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/110041",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/110041",
      "sha256": null
     }
    ]
@@ -1168,6 +1588,21 @@
      "from": "2023-07-05",
      "units": 1,
      "source_url": "https://emol.ro/brosteni-sv/registru-hcl/110043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-62-2023",
+   "path": "local/suceava/brosteni/2023/62",
+   "short": "HCL Broșteni nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 62/2023 privind aprobarea încheierii contractului de vânzare-cumpărare pentru un apartament care aparține domeniulului privat al orașului Broșteni,",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/110044",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/110044",
      "sha256": null
     }
    ]
@@ -1263,6 +1698,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--brosteni-69-2023",
+   "path": "local/suceava/brosteni/2023/69",
+   "short": "HCL Broșteni nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 69/2023 privind desemnarea unui număr de 3 consilieri locali care vor face parte din comisia de negociere a prețului de cumpărare a imobilului teren în suprafață de 800 m 2 situat în orașul Broșteni, județul Suceava",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/112352",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/112352",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--brosteni-7-2023",
    "path": "local/suceava/brosteni/2023/7",
    "short": "HCL Broșteni nr. 7/2023",
@@ -1308,6 +1758,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--brosteni-72-2023",
+   "path": "local/suceava/brosteni/2023/72",
+   "short": "HCL Broșteni nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 72/2023 privind aprobarea acordării titlurilor de ”CETĂȚENI DE ONOARE”, unor persoane din orașul Broșteni, județul Suceava",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/112355",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/112355",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--brosteni-73-2023",
    "path": "local/suceava/brosteni/2023/73",
    "short": "HCL Broșteni nr. 73/2023",
@@ -1318,6 +1783,51 @@
      "from": "2023-07-21",
      "units": 1,
      "source_url": "https://emol.ro/brosteni-sv/registru-hcl/112356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-74-2023",
+   "path": "local/suceava/brosteni/2023/74",
+   "short": "HCL Broșteni nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 74/2023 privind completarea Hotărârii Consiliului Local al orașului Broșteni nr.55 din 24 mai 2023 privind aprobarea încheierii contractelor de vânzare-cumpărare pentru apartamentele care aparțin domeniul privat al orașului Broșteni",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/112357",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/112357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-75-2023",
+   "path": "local/suceava/brosteni/2023/75",
+   "short": "HCL Broșteni nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 75/2023 privind alegerea președintelui de ședință al Consiliului Local al orașului Broșteni, pentru o perioadă de 3 luni, respectiv lunile august, septembrie, octombrie, anul 2023",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/112358",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/112358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-76-2023",
+   "path": "local/suceava/brosteni/2023/76",
+   "short": "HCL Broșteni nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 76/2023",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/112359",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/112359",
      "sha256": null
     }
    ]
@@ -1368,6 +1878,36 @@
    ]
   },
   {
+   "slug": "hcl-suceava--brosteni-8-2023",
+   "path": "local/suceava/brosteni/2023/8",
+   "short": "HCL Broșteni nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 8/2023 privind alegerea președintelui de ședință al Consiliului Local al orașului Broșteni, pentru o perioadă de 3 luni, respectiv lunile februarie, martie, aprilie, anul 2023",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/95750",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/95750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-80-2023",
+   "path": "local/suceava/brosteni/2023/80",
+   "short": "HCL Broșteni nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 80/2023 privind aprobarea raportului de evaluare și a încheierii contractului de vânzare-cumpărare pentru un teren cu număr cadastral 31251 în suprafață de 112 m2 teren construcții, intravilan, situat în localitatea Pietroasa, județul Suceava",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/115736",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/115736",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--brosteni-81-2023",
    "path": "local/suceava/brosteni/2023/81",
    "short": "HCL Broșteni nr. 81/2023",
@@ -1393,6 +1933,51 @@
      "from": "2023-08-21",
      "units": 1,
      "source_url": "https://emol.ro/brosteni-sv/registru-hcl/115738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-83-2023",
+   "path": "local/suceava/brosteni/2023/83",
+   "short": "HCL Broșteni nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 83/2023 privind aprobarea acordării unor premii elevilor de la Liceul Tehnologic ”Nicolai Nanu” din orașul Broșteni, județul Suceava, pentru rezultate școlare bune și merite deosebite obținute în anul școlar 2022 – 2023,",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/115739",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/115739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-84-2023",
+   "path": "local/suceava/brosteni/2023/84",
+   "short": "HCL Broșteni nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 84/2023 privind modificarea HCL nr. 56/24.05.2023 privind acordarea unor premii pentru cuplurile, din orașul Broșteni, județul Suceava, care au împlinit 50, 55, 60 și peste 60 de ani de la căsătorie, în anul 2023",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/115740",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/115740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-85-2023",
+   "path": "local/suceava/brosteni/2023/85",
+   "short": "HCL Broșteni nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 85/2023 privind aprobarea acordării unui sprijin financiar, pentru parohia ”Sfântul Pantelimon” Broșteni 2, Lungeni, din orașul Broșteni, județul Suceava",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/117218",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/117218",
      "sha256": null
     }
    ]
@@ -1458,6 +2043,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--brosteni-9-2023",
+   "path": "local/suceava/brosteni/2023/9",
+   "short": "HCL Broșteni nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 9/2023",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/95751",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/95751",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--brosteni-90-2023",
    "path": "local/suceava/brosteni/2023/90",
    "short": "HCL Broșteni nr. 90/2023",
@@ -1498,6 +2098,21 @@
      "from": "2023-09-25",
      "units": 1,
      "source_url": "https://emol.ro/brosteni-sv/registru-hcl/119997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-93-2023",
+   "path": "local/suceava/brosteni/2023/93",
+   "short": "HCL Broșteni nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 93/2023",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/119998",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/119998",
      "sha256": null
     }
    ]
@@ -1558,6 +2173,36 @@
      "from": "2023-10-12",
      "units": 1,
      "source_url": "https://emol.ro/brosteni-sv/registru-hcl/121828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-98-2023",
+   "path": "local/suceava/brosteni/2023/98",
+   "short": "HCL Broșteni nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 98/2023 privind aprobarea sumelor de bani decontate în baza unor cereri de aprobare ajutor sprijin financiar locuitorilor de pe raza UAT Oraș Broșteni,județul Suceava, în vederea rezolvării unor probleme de interes local",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/121829",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/121829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--brosteni-99-2023",
+   "path": "local/suceava/brosteni/2023/99",
+   "short": "HCL Broșteni nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Broșteni nr. 99/2023",
+   "url": "https://emol.ro/brosteni-sv/registru-hcl/121830",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/brosteni-sv/registru-hcl/121830",
      "sha256": null
     }
    ]

@@ -3,6 +3,21 @@
  "shard": "local/prahova/stefesti/2022",
  "acts": [
   {
+   "slug": "hcl-prahova--stefesti-19-2022",
+   "path": "local/prahova/stefesti/2022/19",
+   "short": "HCL Ștefești nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 19/2022",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/78089",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/78089",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-20-2022",
    "path": "local/prahova/stefesti/2022/20",
    "short": "HCL Ștefești nr. 20/2022",
@@ -73,6 +88,21 @@
      "from": "2022-11-02",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/78101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-25-2022",
+   "path": "local/prahova/stefesti/2022/25",
+   "short": "HCL Ștefești nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 25/2022 privind alegerea președintelui de ședință pentru următoarele 3 luni",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/78102",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/78102",
      "sha256": null
     }
    ]
@@ -198,6 +228,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--stefesti-34-2022",
+   "path": "local/prahova/stefesti/2022/34",
+   "short": "HCL Ștefești nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 34/2022",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/78111",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/78111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-35-2022",
+   "path": "local/prahova/stefesti/2022/35",
+   "short": "HCL Ștefești nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 35/2022 privind desemnarea unor reprezentanți ai consiliului local, pentru a face parte din Consiliul de administrație a Școli Gimnaziale Ștefești, pentru anul 2022-2023",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/78112",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/78112",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-36-2022",
    "path": "local/prahova/stefesti/2022/36",
    "short": "HCL Ștefești nr. 36/2022",
@@ -208,6 +268,21 @@
      "from": "2022-11-02",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/78113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-37-2022",
+   "path": "local/prahova/stefesti/2022/37",
+   "short": "HCL Ștefești nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 37/2022",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/78114",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/78114",
      "sha256": null
     }
    ]

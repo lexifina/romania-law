@@ -3,6 +3,21 @@
  "shard": "local/suceava/izvoarele-sucevei/2026",
  "acts": [
   {
+   "slug": "hcl-suceava--izvoarele-sucevei-45-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/45",
+   "short": "HCL Izvoarele Sucevei nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 45/2026 privind modificarea statului de funcții aparatului de specialitate al Primarului comunei Izvoarele Sucevei, județul Suceava , aprobat prin Hotărârea Consiliului Local nr.22 din 15.04.2026",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/279147",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/279147",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--izvoarele-sucevei-46-2026",
    "path": "local/suceava/izvoarele-sucevei/2026/46",
    "short": "HCL Izvoarele Sucevei nr. 46/2026",
@@ -43,6 +58,21 @@
      "from": "2026-07-28",
      "units": 1,
      "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/279150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-49-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/49",
+   "short": "HCL Izvoarele Sucevei nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 49/2026 privind alegerea președintelui de ședință al Consiliului Local al comunei Izvoarele Sucevei, județul Suceava pentru perioada august-septembrie-octombrie 2026",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/279151",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/279151",
      "sha256": null
     }
    ]
@@ -123,6 +153,36 @@
    ]
   },
   {
+   "slug": "hcl-suceava--izvoarele-sucevei-55-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/55",
+   "short": "HCL Izvoarele Sucevei nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 55/2026 pentru modificarea Art.1 la Hotărârea Consiliului Local nr.41 din 20.07.2026 privind aprobarea decontării cheltuielilor cu efectuarea navetei cadrelor didactice, pentru perioada martie 2025-februarie 2026",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/283848",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/283848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-56-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/56",
+   "short": "HCL Izvoarele Sucevei nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 56/2026 privind actualizarea componenței echipei mobile și a coordonatorului pentru aplicarea procedurii pentru intervenția de urgență în cazurile de violență domestică pe raza Comunei Izvoarele Sucevei, județul Suceava",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/283849",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/283849",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--izvoarele-sucevei-57-2026",
    "path": "local/suceava/izvoarele-sucevei/2026/57",
    "short": "HCL Izvoarele Sucevei nr. 57/2026",
@@ -138,6 +198,36 @@
    ]
   },
   {
+   "slug": "hcl-suceava--izvoarele-sucevei-58-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/58",
+   "short": "HCL Izvoarele Sucevei nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 58/2026 privind modificarea statului de funcții aparatului de specialitate al Primarului comunei Izvoarele Sucevei, județul Suceava , aprobat prin Hotărârea Consiliului Local nr.22 din 15.04.2026",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/289882",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/289882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-59-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/59",
+   "short": "HCL Izvoarele Sucevei nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 59/2026",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/289883",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/289883",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--izvoarele-sucevei-60-2026",
    "path": "local/suceava/izvoarele-sucevei/2026/60",
    "short": "HCL Izvoarele Sucevei nr. 60/2026",
@@ -148,6 +238,21 @@
      "from": "2026-09-30",
      "units": 1,
      "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/289884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-61-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/61",
+   "short": "HCL Izvoarele Sucevei nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 61/2026 privind alegerea președintelui de ședință al Consiliului Local al comunei Izvoarele Sucevei, județul Suceava pentru perioada noiembrie-decembrie 2026 -ianuarie 2027",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/297815",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/297815",
      "sha256": null
     }
    ]

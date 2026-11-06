@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--stefesti-37-2021",
+   "path": "local/prahova/stefesti/2021/37",
+   "short": "HCL Ștefești nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 37/2021",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/53285",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/53285",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-38-2021",
    "path": "local/prahova/stefesti/2021/38",
    "short": "HCL Ștefești nr. 38/2021",
@@ -73,6 +88,21 @@
      "from": "2021-10-29",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/53301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-39-2021",
+   "path": "local/prahova/stefesti/2021/39",
+   "short": "HCL Ștefești nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 39/2021 privind desemnarea unui reprezentant al consiliului local în comisia de evaluare a probei de interviu, conform Metodologiei privind organizarea și desfășurarea concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/53302",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/53302",
      "sha256": null
     }
    ]
@@ -253,6 +283,21 @@
      "from": "2021-12-28",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/53334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-52-2021",
+   "path": "local/prahova/stefesti/2021/52",
+   "short": "HCL Ștefești nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 52/2021 privind alegerea președintelui de ședință pentru următoarele 3 (trei) luni",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/53335",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/53335",
      "sha256": null
     }
    ]

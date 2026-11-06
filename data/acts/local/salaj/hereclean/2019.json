@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/salaj/hereclean/2019",
+"acts": [
+{
+"slug": "hcl-salaj--hereclean-49-2019",
+"path": "local/salaj/hereclean/2019/49",
+"kind": "local",
+"year": "2019",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hereclean nr. 49/2019 privind aprobarea bugetului local pe anul 2020 Hotărârea nr.10 din 20.02.2020 privind aprobarea contului de încheiere a exercitiului bugetar pe anul 2019 Hotărârea nr.9 din 20.02.2020 privind alegerea președintelui de ședință HCL-Nr.01-10.01.2020 HCL-Nr.52-18.12.2019 Hotărâri consiliu local ședința din 26.11.2019",
+"short": "HCL Hereclean nr. 49/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-11-26",
+"latest": "2019-11-26",
+"portal": "https://primariahereclean.ro/hotarari-ale-consiliului-local/",
+"council": "salaj/hereclean",
+"council_name": "Consiliul Local al Comunei Hereclean",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--hereclean-52-2019",
+"path": "local/salaj/hereclean/2019/52",
+"kind": "local",
+"year": "2019",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hereclean nr. 52/2019 privind aprobarea bugetului local pe anul 2020 Hotărârea nr.10 din 20.02.2020 privind aprobarea contului de încheiere a exercitiului bugetar pe anul 2019 Hotărârea nr.9 din 20.02.2020 privind alegerea președintelui de ședință HCL-Nr.01-10.01.2020 HCL-Nr.52-18.12.2019 Hotărâri consiliu local ședința din 26.11.2019",
+"short": "HCL Hereclean nr. 52/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-12-18",
+"latest": "2019-12-18",
+"portal": "https://primariahereclean.ro/hotarari-ale-consiliului-local/",
+"council": "salaj/hereclean",
+"council_name": "Consiliul Local al Comunei Hereclean",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

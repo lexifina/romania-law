@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Hârtop nr. 6/2026 privind stabilirea datei de începere și încheiere a pășunatului, precum și modul de organizare a acestuia în anul 2026, în comuna Hârtop Consiliul local al comunei Hârtop, județul Suceava luând act de : - Referatul de aprobare prezentat de primarul comunei Hârtop, înregistrat cu nr. 290 din 23.01.2026, prin care se susține necesitatea si oportunitatea proiectului, - Raportul compartimentului de re
+
+HCL Hârtop nr. 6/2026 · 1 versions, from 2026-02-02 (latest in force: 2026-02-02) · <https://comunahirtop.ro/hotararile-autoritatii-deliberative/>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-suceava--hartop-6-2026` (tags `hcl-suceava--hartop-6-2026/<day>`; `python tools/on.py <day> hcl-suceava--hartop-6-2026`).
+
+## Decisions made by hand
+
+- HCL Hârtop nr. 6/2026: listed from Consiliul Local al Comunei Hârtop (comunahirtop.ro); an individual decision: metadata only.
+- HCL Hârtop nr. 6/2026: dated from 2 February 2026, the day it was adopted (the register gives no later day of publication).
+- HCL Hârtop nr. 6/2026: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

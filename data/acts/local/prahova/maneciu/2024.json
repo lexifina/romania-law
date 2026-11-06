@@ -3,6 +3,94 @@
 "shard": "local/prahova/maneciu/2024",
 "acts": [
 {
+"slug": "hcl-prahova--maneciu-62-2024",
+"path": "local/prahova/maneciu/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 62/2024 privind alegerea viceprimarului comunei Maneciu, judetul Prahova",
+"short": "HCL Măneciu nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/maneciu-ph/registru-hcl/176060",
+"council": "prahova/maneciu",
+"council_name": "Consiliul Local al Comunei Măneciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--maneciu-63-2024",
+"path": "local/prahova/maneciu/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 63/2024 privind desemnarea reprezentanților Consiliului Local Măneciu ca membri în Consiliul de Administrație al Clubului Sportiv comunal Mǎneciu",
+"short": "HCL Măneciu nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/maneciu-ph/registru-hcl/176061",
+"council": "prahova/maneciu",
+"council_name": "Consiliul Local al Comunei Măneciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--maneciu-64-2024",
+"path": "local/prahova/maneciu/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 64/2024 privind desemnarea reprezentanţilor Consiliului Local Măneciu ca membri în Consiliile de Administraţie şi în Comisiile de Evaluare şi Asigurarea Calităţii Educaţiei ale unităţilor de învăţământ preuniversitar de stat de pe raza comunei Măneciu, judeţul Prahova",
+"short": "HCL Măneciu nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/maneciu-ph/registru-hcl/176062",
+"council": "prahova/maneciu",
+"council_name": "Consiliul Local al Comunei Măneciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--maneciu-65-2024",
+"path": "local/prahova/maneciu/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 65/2024 privind desemnarea reprezentanţilor Unităţii administrativ-teritoriale Comuna Măneciu în Adunarea Generală a Asociaţilor la SC APĂ-CANAL MĂNECIU SRL",
+"short": "HCL Măneciu nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/maneciu-ph/registru-hcl/176063",
+"council": "prahova/maneciu",
+"council_name": "Consiliul Local al Comunei Măneciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--maneciu-66-2024",
 "path": "local/prahova/maneciu/2024/66",
 "kind": "local",
@@ -245,6 +333,28 @@
 }
 },
 {
+"slug": "hcl-prahova--maneciu-77-2024",
+"path": "local/prahova/maneciu/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 77/2024 privind aprobarea retelei unitatilor de invatamant preuniversitar pentru anul scolar 2025-2026 la nivelul comunei Maneciu, judetul Prahova",
+"short": "HCL Măneciu nr. 77/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-30",
+"latest": "2024-12-30",
+"portal": "https://emol.ro/maneciu-ph/registru-hcl/183095",
+"council": "prahova/maneciu",
+"council_name": "Consiliul Local al Comunei Măneciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--maneciu-78-2024",
 "path": "local/prahova/maneciu/2024/78",
 "kind": "local",
@@ -308,6 +418,29 @@
 "council_name": "Consiliul Local al Comunei Măneciu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--maneciu-81-2024",
+"path": "local/prahova/maneciu/2024/81",
+"kind": "local",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 81/2024",
+"short": "HCL Măneciu nr. 81/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/maneciu-ph/registru-hcl/185144",
+"council": "prahova/maneciu",
+"council_name": "Consiliul Local al Comunei Măneciu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

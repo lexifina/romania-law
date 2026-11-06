@@ -3,6 +3,186 @@
  "shard": "local/suceava/granicesti/2020",
  "acts": [
   {
+   "slug": "hcl-suceava--granicesti-16-2020",
+   "path": "local/suceava/granicesti/2020/16",
+   "short": "HCL Grănicești nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 16/2020",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/Hotararea%20nr.16%20din%2028.05.2020.pdf",
+     "sha256": "8674282d0731cedcf5fdd8f259c6f57a4971f2b0bbc68fde1c3bf0abbb0cc022"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-17-2020",
+   "path": "local/suceava/granicesti/2020/17",
+   "short": "HCL Grănicești nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 17/2020",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/Hotararea%20nr.17%20din%2028.05.2020.pdf",
+     "sha256": "60df6f8259827681549960ad46eac9db12d1a16cb75f1a8b102335fedcf107b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-18-2020",
+   "path": "local/suceava/granicesti/2020/18",
+   "short": "HCL Grănicești nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 18/2020",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/Hotararea%20nr.18%20din%2028.05.2020.pdf",
+     "sha256": "db5abce030c69523c233547686e82598db0a1b3bf4abb5413b19819cfa175f3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-19-2020",
+   "path": "local/suceava/granicesti/2020/19",
+   "short": "HCL Grănicești nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 19/2020",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/Hotararea%20nr.19%20din%2030.06.2020.pdf",
+     "sha256": "efbd79381b746b9117d62743d68435c8c790be498a65bc7d8d582b7876ae2248"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-20-2020",
+   "path": "local/suceava/granicesti/2020/20",
+   "short": "HCL Grănicești nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 20/2020",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/Hotararea%20nr.20%20din%2030.06.2020.pdf",
+     "sha256": "8a4aef0a8300ac95c951d3b02318a7d92ba6cff4c26df7ce620e9b2d0399475d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-22-2020",
+   "path": "local/suceava/granicesti/2020/22",
+   "short": "HCL Grănicești nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 22/2020",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/Hotararea%20nr.22%20din%2030.07.2020.pdf",
+     "sha256": "107879e3142d086f72f661661ca0b1db921bd4f6cc412f679f563d5d229a76e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-23-2020",
+   "path": "local/suceava/granicesti/2020/23",
+   "short": "HCL Grănicești nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 23/2020",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/Hotararea%20nr.23%20din%2030.07.2020.pdf",
+     "sha256": "f948b882a85066e5943c93e76ef77908306266fa9458038f833be8e5c9dc79e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-24-2020",
+   "path": "local/suceava/granicesti/2020/24",
+   "short": "HCL Grănicești nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 24/2020",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/Hotararea%20nr.24%20din%2020.08.2020.pdf",
+     "sha256": "4217c7e154e653d0c452b4182b9cad9cd3d062380575010f1c6556a4cf7f9c4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-25-2020",
+   "path": "local/suceava/granicesti/2020/25",
+   "short": "HCL Grănicești nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 25/2020",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/Hotararea%20nr.25%20din%2020.08.2020.pdf",
+     "sha256": "3c10e0a4bf731c26015aef5c87a6c0f4d41db0d9849d3a01074d24263222f3f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-26-2020",
+   "path": "local/suceava/granicesti/2020/26",
+   "short": "HCL Grănicești nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 26/2020",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2020-09-08",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/Hotararea%20nr.26%20din%2008.09.2020.pdf",
+     "sha256": "029c7ab9823e1d75e42b4c92d1ddc9f4d3e6411c5129916abee4fde017381f34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-27-2020",
+   "path": "local/suceava/granicesti/2020/27",
+   "short": "HCL Grănicești nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 27/2020",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2020-09-08",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/Hotararea%20nr.27%20din%2008.09.2020.pdf",
+     "sha256": "3d7836b467755268c3f80e1e72d0e814f6e990f13507f1d76640ef05f5466fae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-33-2020",
+   "path": "local/suceava/granicesti/2020/33",
+   "short": "HCL Grănicești nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 33/2020 privind organizarea rețelei scolare a unitatilor de invatamant preuniversitar de stat din comuna Granicesti, judetul Suceava pentru anul scolar 2021 - 2022.pdf Descarcă",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/HCL%20nr.33%20din%2016.12.2020%20privind%20organizarea%20re%C8%9Belei%20scolare%20a%20unitatilor%20de%20invatamant%20preuniversitar%20de%20stat%20din%20comuna%20Granicesti,%20judetul%20Suceava%20pentru%20anul%20scolar%202021%20-%202022.pdf",
+     "sha256": "f749ba76612d786a8fa249063742cc5d14ee6ba23c7af735c7c08125e989ba23"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--granicesti-34-2020",
    "path": "local/suceava/granicesti/2020/34",
    "short": "HCL Grănicești nr. 34/2020",

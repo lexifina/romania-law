@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/satu-mare/sanislau/2025",
+"acts": [
+{
+"slug": "hcl-satu-mare--sanislau-35-2025",
+"path": "local/satu-mare/sanislau/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sanislău nr. 35/2025 privind aprobarea delegării gestiunii serviciului de iluminat public în comuna Sanislău",
+"short": "HCL Sanislău nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-24",
+"latest": "2025-06-24",
+"portal": "https://www.primariasanislau.ro/wp-content/uploads/2026/10/1_HCL_35_24062025-2.pdf",
+"council": "satu-mare/sanislau",
+"council_name": "Consiliul Local al Comunei Sanislău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

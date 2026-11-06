@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-suceava--bogdanesti-40-2021",
+"path": "local/suceava/bogdanesti/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 40/2021 privind desemnarea unui reprezentant al Consiliului Local Bogdănești care să facă parte din Comisia de evaluare a probei interviu din cadrul concursului pentru ocuparea funcției de director la Școala Gimnazială nr. 1 Bogdănești",
+"short": "HCL Bogdănești nr. 40/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/bogdanesti-sv/registru-hcl/46168",
+"council": "suceava/bogdanesti",
+"council_name": "Consiliul Local al Comunei Bogdănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--bogdanesti-41-2021",
 "path": "local/suceava/bogdanesti/2021/41",
 "kind": "local",

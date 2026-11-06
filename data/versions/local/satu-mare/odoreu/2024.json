@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-satu-mare--odoreu-63-2024",
+   "path": "local/satu-mare/odoreu/2024/63",
+   "short": "HCL Odoreu nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 63/2024 privind aprobarea și însușirea raportului de evaluare a mijloacelor fixe și ce alcătuiesc domeniul public și privat al comunei Odoreu",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/197633",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/197633",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-satu-mare--odoreu-64-2024",
    "path": "local/satu-mare/odoreu/2024/64",
    "short": "HCL Odoreu nr. 64/2024",
@@ -73,6 +88,21 @@
      "from": "2025-03-27",
      "units": 1,
      "source_url": "https://emol.ro/odoreu-sm/registru-hcl/197636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--odoreu-67-2024",
+   "path": "local/satu-mare/odoreu/2024/67",
+   "short": "HCL Odoreu nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Odoreu nr. 67/2024 privind organizarea Rețelei Școlare din Comuna Odoreu, județul Satu Mare, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/odoreu-sm/registru-hcl/197668",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/odoreu-sm/registru-hcl/197668",
      "sha256": null
     }
    ]

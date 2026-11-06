@@ -245,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-prahova--pacureti-12-2022",
+"path": "local/prahova/pacureti/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 12/2022 privind acordarea mandatului special cu drept de vot ,reprezentantului comunei Păcureți , jud. Prahova ,in vedera aprobarii Statutului actualizat al Asociatiei de Dezvoltare Intercomunitara “Parteneriatul pentru Managementul Deseurilor – Prahova”",
+"short": "HCL Păcureți nr. 12/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-11",
+"latest": "2022-07-11",
+"portal": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#25103",
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--pacureti-13-2022",
 "path": "local/prahova/pacureti/2022/13",
 "kind": "local",
@@ -289,6 +311,50 @@
 }
 },
 {
+"slug": "hcl-prahova--pacureti-15-2022",
+"path": "local/prahova/pacureti/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 15/2022 proiect privind acordarea mandatului special reprezentantului comunei Păcureți pentru a vota acceptarea comunei Sotrile in Asociatia de Dezvoltare Intercomunitara “Parteneriatul pentru Managementul Apei – Prahova”",
+"short": "HCL Păcureți nr. 15/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-30",
+"latest": "2022-08-30",
+"portal": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#27528",
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--pacureti-16-2022",
+"path": "local/prahova/pacureti/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 16/2022 proiect privind alegerea președintelui de ședintă pentru lunile septembrie , octombrie si noiembrie, anul 2022’’",
+"short": "HCL Păcureți nr. 16/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-30",
+"latest": "2022-08-30",
+"portal": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#27527",
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--pacureti-17-2022",
 "path": "local/prahova/pacureti/2022/17",
 "kind": "local",
@@ -308,6 +374,28 @@
 "council_name": "Consiliul Local al Comunei Păcureți",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--pacureti-18-2022",
+"path": "local/prahova/pacureti/2022/18",
+"kind": "local",
+"year": "2022",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 18/2022 proiect de hotarare de aprobare a Raportului privind activitatea desfasuraistentii personali ai persoanelor cu handicap grav pentru perioada Ianuarie 2022–iunie 2022",
+"short": "HCL Păcureți nr. 18/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-30",
+"latest": "2022-08-30",
+"portal": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#27525",
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -333,6 +421,51 @@
 }
 },
 {
+"slug": "hcl-prahova--pacureti-20-2022",
+"path": "local/prahova/pacureti/2022/20",
+"kind": "local",
+"year": "2022",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 20/2022",
+"short": "HCL Păcureți nr. 20/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": null,
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--pacureti-21-2022",
+"path": "local/prahova/pacureti/2022/21",
+"kind": "local",
+"year": "2022",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 21/2022 privind acordarea mandatului special reprezentantului comunei Păcureți pentru a vota acceptarea comunei Plopu , in Asociatia de Dezvoltare Intercomunitara “Parteneriatul pentru Managementul Apei – Prahova”",
+"short": "HCL Păcureți nr. 21/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#35896",
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--pacureti-22-2022",
 "path": "local/prahova/pacureti/2022/22",
 "kind": "local",
@@ -352,6 +485,28 @@
 "council_name": "Consiliul Local al Comunei Păcureți",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--pacureti-23-2022",
+"path": "local/prahova/pacureti/2022/23",
+"kind": "local",
+"year": "2022",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 23/2022 presedinte sedinta",
+"short": "HCL Păcureți nr. 23/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#35899",
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

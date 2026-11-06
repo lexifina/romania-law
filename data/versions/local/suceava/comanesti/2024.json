@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/comanesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-suceava--comanesti-14-2024",
+   "path": "local/suceava/comanesti/2024/14",
+   "short": "HCL Comănești nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Comănești nr. 14/2024 Privind rectificarea bugetului local de venituri și cheltuieli în anul 2024",
+   "url": "http://www.comunacomanesti.ro/hotarari.html",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 1,
+     "source_url": "http://www.comunacomanesti.ro/_Monitor/2024/3.MARTIE/EXTRAORDINARA/HCL/14%20-%20HCL%20RECTIFICARE%20BUGET.pdf",
+     "sha256": "1a828d2a5a4fadc22ceb7c11dc2a253e70a109c326058fe74d2a901de9e9b96d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--comanesti-23-2024",
+   "path": "local/suceava/comanesti/2024/23",
+   "short": "HCL Comănești nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Comănești nr. 23/2024 privind rectificarea bugetului local de venituri și cheltuieli în anul 2024",
+   "url": "http://www.comunacomanesti.ro/hotarari.html",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "http://www.comunacomanesti.ro/_Monitor/2024/4.APRILIE/HCL/23--%20HCL%20%20RECTIFICARE%20BUGET%20-%20-.pdf",
+     "sha256": "5d2a8b9c946d965dbc11fdf0340c2332025fd080da0a47294a3e3136a94e3ec8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--comanesti-34-2024",
+   "path": "local/suceava/comanesti/2024/34",
+   "short": "HCL Comănești nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Comănești nr. 34/2024 privind rectificarea bugetului local de venituri și cheltuieli în anul 2024",
+   "url": "http://www.comunacomanesti.ro/hotarari.html",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "http://www.comunacomanesti.ro/_Monitor/2024/5.MAI/HCL/34-%20HCL%20%20RECTIFICARE%20BUGET%20-%20-.pdf",
+     "sha256": "a54eb87e72cc19cb798d159b53b8f368314e2de3c3fbb4dae27ba3b03eb830d9"
+    }
+   ]
+  }
+ ]
+}

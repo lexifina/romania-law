@@ -93,6 +93,36 @@
    ]
   },
   {
+   "slug": "hcl-suceava--hantesti-106-2022",
+   "path": "local/suceava/hantesti/2022/106",
+   "short": "HCL Hănțești nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 106/2022 privind aprobarea de principiu a vânzării unor terenuri din domeniulprivat al comunei Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/87178",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/87178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-107-2022",
+   "path": "local/suceava/hantesti/2022/107",
+   "short": "HCL Hănțești nr. 107/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 107/2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/87179",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/87179",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--hantesti-108-2022",
    "path": "local/suceava/hantesti/2022/108",
    "short": "HCL Hănțești nr. 108/2022",
@@ -163,6 +193,36 @@
      "from": "2023-05-05",
      "units": 1,
      "source_url": "https://emol.ro/hantesti-sv/registru-hcl/81183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-93-2022",
+   "path": "local/suceava/hantesti/2022/93",
+   "short": "HCL Hănțești nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 93/2022 privind privind aprobarea vânzării prin licitație publică a unor terenuri din domeniul privat al comunei Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/87151",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/87151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-94-2022",
+   "path": "local/suceava/hantesti/2022/94",
+   "short": "HCL Hănțești nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 94/2022 privind aprobarea acordării unui sprijin financiar pentru Biserica Penticostală ”Betel” din satul Hănțești, comuna Hănțești,județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/87152",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/87152",
      "sha256": null
     }
    ]

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/tataru/2025",
+ "acts": [
+  {
+   "slug": "hcl-prahova--tataru-18-2025",
+   "path": "local/prahova/tataru/2025/18",
+   "short": "HCL Tătaru nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tătaru nr. 18/2025",
+   "url": "http://primariatataru.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "http://primariatataru.ro/wp-content/uploads/2014/07/Rectificare-BVC-HCL-nr.18-din-13-Iunie-2025.pdf",
+     "sha256": "d94c10cc431996fbdedb336cf1ee104f364d679080075cb52acebc01ae6f4dc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tataru-20-2025",
+   "path": "local/prahova/tataru/2025/20",
+   "short": "HCL Tătaru nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tătaru nr. 20/2025",
+   "url": "http://primariatataru.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 1,
+     "source_url": "http://primariatataru.ro/wp-content/uploads/2014/07/Rectificare-BVC-HCL-nr.20-din-14.07.2025.pdf",
+     "sha256": "74e8c3bc147c02201ea2a7b747d2226cc9e62093f69035fc56ef64d6e183cf57"
+    }
+   ]
+  }
+ ]
+}

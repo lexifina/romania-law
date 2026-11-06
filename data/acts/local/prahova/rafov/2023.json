@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-82-2023",
+"path": "local/prahova/rafov/2023/82",
+"kind": "local",
+"year": "2023",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 82/2023 privind rezilierea unui contract de inchiriere pentru un teren din islazul ce apartine domeniului privat al Comunei Rafov",
+"short": "HCL Râfov nr. 82/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/132379",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-83-2023",
+"path": "local/prahova/rafov/2023/83",
+"kind": "local",
+"year": "2023",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 83/2023 privind rezilierea unui contract de inchiriere pentru un teren di islazul ce apartine domeniului privat al Comunei Rafov",
+"short": "HCL Râfov nr. 83/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/132380",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-84-2023",
 "path": "local/prahova/rafov/2023/84",
 "kind": "local",
@@ -110,6 +154,116 @@
 "council_name": "Consiliul Local al Comunei Râfov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-87-2023",
+"path": "local/prahova/rafov/2023/87",
+"kind": "local",
+"year": "2023",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 87/2023 privind atribuirea unei suprafete de teren , in folosinta gratuita , in vederea construirii unei locuinte proprietate personala , in baza Legii 15/2003",
+"short": "HCL Râfov nr. 87/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-09",
+"latest": "2024-01-09",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/136830",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-88-2023",
+"path": "local/prahova/rafov/2023/88",
+"kind": "local",
+"year": "2023",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 88/2023 privind atribuirea unei suprafete de teren , in folosinta gratuita , in vederea construirii unei locuinte proprietate personala , in baza Legii 15/2003",
+"short": "HCL Râfov nr. 88/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-09",
+"latest": "2024-01-09",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/136831",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-89-2023",
+"path": "local/prahova/rafov/2023/89",
+"kind": "local",
+"year": "2023",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 89/2023 privind atribuirea unei suprafete de teren , in folosinta gratuita , in vederea construirii unei locuinte proprietate personala , in baza Legii 15/2003",
+"short": "HCL Râfov nr. 89/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-09",
+"latest": "2024-01-09",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/136832",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-90-2023",
+"path": "local/prahova/rafov/2023/90",
+"kind": "local",
+"year": "2023",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 90/2023 privind atribuirea unei suprafete de teren , in folosinta gratuita , in vederea construirii unei locuinte proprietate personala , in baza Legii 15/2003",
+"short": "HCL Râfov nr. 90/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-09",
+"latest": "2024-01-09",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/136833",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-91-2023",
+"path": "local/prahova/rafov/2023/91",
+"kind": "local",
+"year": "2023",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 91/2023 privind atribuirea unei suprafete de teren , in folosinta gratuita , in vederea construirii unei locuinte proprietate personala , in baza Legii 15/2003",
+"short": "HCL Râfov nr. 91/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-09",
+"latest": "2024-01-09",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/136834",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -220,6 +374,28 @@
 "council_name": "Consiliul Local al Comunei Râfov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-97-2023",
+"path": "local/prahova/rafov/2023/97",
+"kind": "local",
+"year": "2023",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 97/2023 privind aprobarea decontarii navetei cadrelor didactice pentru lunile Octombrie-Noiembrie 2023",
+"short": "HCL Râfov nr. 97/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-12",
+"latest": "2024-01-12",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/137396",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

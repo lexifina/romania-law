@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-sibiu--sadu-102-2024",
+   "path": "local/sibiu/sadu/2024/102",
+   "short": "HCL Sadu nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 102/2024 privind mandatarea primarului Comunei Sadu ca reprezentant al Comunei Sadu în Adunarea Generală a Asociației de Dezvoltare Intercomunitară “ECO” Sibiu să voteze “pentru” aprobarea ajustării tarifului pentru activitatea de depozitare a deșeurilor reziduale din Județul Sibiu",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/179384",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/179384",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--sadu-103-2024",
    "path": "local/sibiu/sadu/2024/103",
    "short": "HCL Sadu nr. 103/2024",
@@ -238,6 +253,21 @@
      "from": "2025-11-12",
      "units": 1,
      "source_url": "https://emol.ro/sadu-sb/registru-hcl/179378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--sadu-97-2024",
+   "path": "local/sibiu/sadu/2024/97",
+   "short": "HCL Sadu nr. 97/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadu nr. 97/2024",
+   "url": "https://emol.ro/sadu-sb/registru-hcl/179379",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sadu-sb/registru-hcl/179379",
      "sha256": null
     }
    ]

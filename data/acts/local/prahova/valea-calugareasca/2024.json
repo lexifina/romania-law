@@ -3,6 +3,50 @@
 "shard": "local/prahova/valea-calugareasca/2024",
 "acts": [
 {
+"slug": "hcl-prahova--valea-calugareasca-79-2024",
+"path": "local/prahova/valea-calugareasca/2024/79",
+"kind": "local",
+"year": "2024",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 79/2024 privind alegerea președintelui de ședință",
+"short": "HCL Valea Călugărească nr. 79/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/valeacalugareasca-ph/registru-hcl/176207",
+"council": "prahova/valea-calugareasca",
+"council_name": "Consiliul Local al Comunei Valea Călugărească",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--valea-calugareasca-80-2024",
+"path": "local/prahova/valea-calugareasca/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 80/2024 privind organizarea comisiilor de specialitate ale Consiliului Local Valea Călugărească, pentru mandatul 2024-2028",
+"short": "HCL Valea Călugărească nr. 80/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/valeacalugareasca-ph/registru-hcl/176208",
+"council": "prahova/valea-calugareasca",
+"council_name": "Consiliul Local al Comunei Valea Călugărească",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--valea-calugareasca-81-2024",
 "path": "local/prahova/valea-calugareasca/2024/81",
 "kind": "local",
@@ -157,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-prahova--valea-calugareasca-88-2024",
+"path": "local/prahova/valea-calugareasca/2024/88",
+"kind": "local",
+"year": "2024",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 88/2024 pentru modificarea Hotărârii Consiliului Local nr.68/29.08.2024 privind desemnarea reprezentanţilor Consiliului Local în Consiliile de Administrație ale unităţilor de învăţamânt preuniversitar de stat cu personalitate juridică, din comuna Valea Călugărească, pentru anul şcolar 2024 – 2025",
+"short": "HCL Valea Călugărească nr. 88/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/valeacalugareasca-ph/registru-hcl/178289",
+"council": "prahova/valea-calugareasca",
+"council_name": "Consiliul Local al Comunei Valea Călugărească",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--valea-calugareasca-89-2024",
 "path": "local/prahova/valea-calugareasca/2024/89",
 "kind": "local",
@@ -176,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Valea Călugărească",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--valea-calugareasca-90-2024",
+"path": "local/prahova/valea-calugareasca/2024/90",
+"kind": "local",
+"year": "2024",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 90/2024 privind alegerea viceprimarului Comunei Valea Călugărească",
+"short": "HCL Valea Călugărească nr. 90/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/valeacalugareasca-ph/registru-hcl/178291",
+"council": "prahova/valea-calugareasca",
+"council_name": "Consiliul Local al Comunei Valea Călugărească",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -220,6 +308,29 @@
 "council_name": "Consiliul Local al Comunei Valea Călugărească",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--valea-calugareasca-93-2024",
+"path": "local/prahova/valea-calugareasca/2024/93",
+"kind": "local",
+"year": "2024",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 93/2024",
+"short": "HCL Valea Călugărească nr. 93/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-06",
+"latest": "2025-01-06",
+"portal": "https://emol.ro/valeacalugareasca-ph/registru-hcl/183636",
+"council": "prahova/valea-calugareasca",
+"council_name": "Consiliul Local al Comunei Valea Călugărească",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

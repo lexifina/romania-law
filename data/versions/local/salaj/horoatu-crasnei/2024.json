@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--horoatu-crasnei-62-2024",
+   "path": "local/salaj/horoatu-crasnei/2024/62",
+   "short": "HCL Horoatu Crasnei nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 62/2024 privind concesionarea unui spațiu în incinta dispensarului uman din localitatea Horoatu Crasnei, județul Sălaj",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/176513",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/176513",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--horoatu-crasnei-63-2024",
    "path": "local/salaj/horoatu-crasnei/2024/63",
    "short": "HCL Horoatu Crasnei nr. 63/2024",
@@ -88,6 +103,21 @@
      "from": "2024-12-11",
      "units": 1,
      "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/176515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-65-2024",
+   "path": "local/salaj/horoatu-crasnei/2024/65",
+   "short": "HCL Horoatu Crasnei nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 65/2024 privind aprobarea documentației, indicatorilor tehnico-economici și devizul general in faza Proiect tehnic (PTE) pentru obiectivul de investiții ,,CENTRU DE ZI DE ASISTENȚĂ ȘI RECUPERARE, CU ECHIPA MOBILA DE INGRIJIRE LA DOMICILIU ÎN COMUNA HOROATU CRASNEI, JUD. SĂLAJ\"",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/177228",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/177228",
      "sha256": null
     }
    ]

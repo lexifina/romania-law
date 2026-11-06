@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/iacobeni/2018",
+ "acts": [
+  {
+   "slug": "hcl-suceava--iacobeni-35-2018",
+   "path": "local/suceava/iacobeni/2018/35",
+   "short": "HCL Iacobeni nr. 35/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Iacobeni nr. 35/2018",
+   "url": "https://www.comunaiacobeni.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2018-06-18",
+     "units": 1,
+     "source_url": "https://www.comunaiacobeni.ro/hotarari/iunie_2018/35.pdf",
+     "sha256": "347df305c07746a4ff79c9954c9c5e5ba5f83b6813c5d97b5bdef3ea9590e891"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--iacobeni-37-2018",
+   "path": "local/suceava/iacobeni/2018/37",
+   "short": "HCL Iacobeni nr. 37/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Iacobeni nr. 37/2018",
+   "url": "https://www.comunaiacobeni.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.comunaiacobeni.ro/hotarari/iunie_2018/37.pdf",
+     "sha256": "c84768e03743dd877e728fb08909cf57796db445aa16697a1d76a342a73a2a88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--iacobeni-38-2018",
+   "path": "local/suceava/iacobeni/2018/38",
+   "short": "HCL Iacobeni nr. 38/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Iacobeni nr. 38/2018",
+   "url": "https://www.comunaiacobeni.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.comunaiacobeni.ro/hotarari/iunie_2018/38.pdf",
+     "sha256": "ebb2f22490673c7e9239e3cf8b2043ba8e660f1bb63fea4ed318b25fe04f4c5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--iacobeni-39-2018",
+   "path": "local/suceava/iacobeni/2018/39",
+   "short": "HCL Iacobeni nr. 39/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Iacobeni nr. 39/2018",
+   "url": "https://www.comunaiacobeni.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.comunaiacobeni.ro/hotarari/iunie_2018/39.pdf",
+     "sha256": "0042c0ed2679bd6d437777e8b704b084e3381ee1ff7a6451088c6f506d44f75e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--iacobeni-40-2018",
+   "path": "local/suceava/iacobeni/2018/40",
+   "short": "HCL Iacobeni nr. 40/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Iacobeni nr. 40/2018",
+   "url": "https://www.comunaiacobeni.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2018-07-20",
+     "units": 1,
+     "source_url": "https://www.comunaiacobeni.ro/hotarari/iulie_2018/40.pdf",
+     "sha256": "a9b39fc9d882ab777a702c8cdcf0c80b85991237712635ebb296e079893a4299"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--iacobeni-41-2018",
+   "path": "local/suceava/iacobeni/2018/41",
+   "short": "HCL Iacobeni nr. 41/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Iacobeni nr. 41/2018",
+   "url": "https://www.comunaiacobeni.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2018-07-20",
+     "units": 1,
+     "source_url": "https://www.comunaiacobeni.ro/hotarari/iulie_2018/41.pdf",
+     "sha256": "9fd2384ca9c7aaa6fad083347199d56f830b92ac528a424ffeed09d5e30e1a0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--iacobeni-42-2018",
+   "path": "local/suceava/iacobeni/2018/42",
+   "short": "HCL Iacobeni nr. 42/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Iacobeni nr. 42/2018",
+   "url": "https://www.comunaiacobeni.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2018-07-20",
+     "units": 1,
+     "source_url": "https://www.comunaiacobeni.ro/hotarari/iulie_2018/42.pdf",
+     "sha256": "f6ddb8ae66f41f5a1e3d65316d708d56066d8984ab3fceca800558e600681cc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--iacobeni-43-2018",
+   "path": "local/suceava/iacobeni/2018/43",
+   "short": "HCL Iacobeni nr. 43/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Iacobeni nr. 43/2018",
+   "url": "https://www.comunaiacobeni.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2018-08-13",
+     "units": 1,
+     "source_url": "https://www.comunaiacobeni.ro/hotarari/august_2018/43.pdf",
+     "sha256": "c6312cc764ca8acbd64d0cba6fbe43f37ffafb99986684d4363972b686ff34ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--iacobeni-44-2018",
+   "path": "local/suceava/iacobeni/2018/44",
+   "short": "HCL Iacobeni nr. 44/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Iacobeni nr. 44/2018",
+   "url": "https://www.comunaiacobeni.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2018-08-13",
+     "units": 1,
+     "source_url": "https://www.comunaiacobeni.ro/hotarari/august_2018/44.pdf",
+     "sha256": "4b02d0c027bd91c7e363e1d11e27a411c9c85c5bc754d227683c6372a811ddf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--iacobeni-45-2018",
+   "path": "local/suceava/iacobeni/2018/45",
+   "short": "HCL Iacobeni nr. 45/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Iacobeni nr. 45/2018",
+   "url": "https://www.comunaiacobeni.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2018-08-13",
+     "units": 1,
+     "source_url": "https://www.comunaiacobeni.ro/hotarari/august_2018/45.pdf",
+     "sha256": "91880031992824214d336805f03147b47520672b9919629a967279597a2b7832"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--iacobeni-46-2018",
+   "path": "local/suceava/iacobeni/2018/46",
+   "short": "HCL Iacobeni nr. 46/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Iacobeni nr. 46/2018",
+   "url": "https://www.comunaiacobeni.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2018-08-13",
+     "units": 1,
+     "source_url": "https://www.comunaiacobeni.ro/hotarari/august_2018/46.pdf",
+     "sha256": "6f7b8baa0d7e6428847c275b28bc080dcd2ee59e9f178a7976d91b99280efb58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--iacobeni-47-2018",
+   "path": "local/suceava/iacobeni/2018/47",
+   "short": "HCL Iacobeni nr. 47/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Iacobeni nr. 47/2018",
+   "url": "https://www.comunaiacobeni.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2018-08-20",
+     "units": 1,
+     "source_url": "https://www.comunaiacobeni.ro/hotarari/august_2018/47.pdf",
+     "sha256": "d2cfeb9ac3c576ae577dec5c836ea93285a039f0fe39951f2a9a0a00ac660673"
+    }
+   ]
+  }
+ ]
+}

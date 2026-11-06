@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--hantesti-115-2023",
+   "path": "local/suceava/hantesti/2023/115",
+   "short": "HCL Hănțești nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 115/2023",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/136098",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/136098",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--hantesti-116-2023",
    "path": "local/suceava/hantesti/2023/116",
    "short": "HCL Hănțești nr. 116/2023",
@@ -58,6 +73,21 @@
      "from": "2024-06-17",
      "units": 1,
      "source_url": "https://emol.ro/hantesti-sv/registru-hcl/136100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-118-2023",
+   "path": "local/suceava/hantesti/2023/118",
+   "short": "HCL Hănțești nr. 118/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 118/2023 privind atestarea apartenenței la domeniul privat al comunei Hănțești a unor suprafețe de teren",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/136101",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/136101",
      "sha256": null
     }
    ]
@@ -153,6 +183,36 @@
    ]
   },
   {
+   "slug": "hcl-suceava--hantesti-125-2023",
+   "path": "local/suceava/hantesti/2023/125",
+   "short": "HCL Hănțești nr. 125/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 125/2023 privind aprobarea de principiu a vânzării unui teren din domeniul privat al comunei Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/139042",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/139042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-126-2023",
+   "path": "local/suceava/hantesti/2023/126",
+   "short": "HCL Hănțești nr. 126/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 126/2023 privind desemnarea consilierilor locali din cadrul Consiliului local al comunei Hănțești care vor face parte din Comisia de evaluare a performanțelor profesionale individuale ale Secretarului general al comunei Hănțești, pe anul 2023",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/139043",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/139043",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--hantesti-127-2023",
    "path": "local/suceava/hantesti/2023/127",
    "short": "HCL Hănțești nr. 127/2023",
@@ -163,6 +223,21 @@
      "from": "2024-06-17",
      "units": 1,
      "source_url": "https://emol.ro/hantesti-sv/registru-hcl/139044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-128-2023",
+   "path": "local/suceava/hantesti/2023/128",
+   "short": "HCL Hănțești nr. 128/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 128/2023 privind stabilirea indemnizațiilor aleșilor locali, a salariilor de bază pentru funcționarii publici și personalul contractual din cadrul Primăriei Comunei Hănțești, județul Suceava, începând cu data de 01 ianuarie 2024",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/139045",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/139045",
      "sha256": null
     }
    ]

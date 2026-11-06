@@ -3,6 +3,116 @@
 "shard": "local/suceava/bogdanesti/2024",
 "acts": [
 {
+"slug": "hcl-suceava--bogdanesti-36-2024",
+"path": "local/suceava/bogdanesti/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 36/2024 privind alegerea președintelui de ședință",
+"short": "HCL Bogdănești nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-15",
+"latest": "2025-01-15",
+"portal": "https://emol.ro/bogdanesti-sv/registru-hcl/186868",
+"council": "suceava/bogdanesti",
+"council_name": "Consiliul Local al Comunei Bogdănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--bogdanesti-37-2024",
+"path": "local/suceava/bogdanesti/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 37/2024 privind rectificarea bugetului local de venituri și cheltuieli pentru anul 2024",
+"short": "HCL Bogdănești nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-15",
+"latest": "2025-01-15",
+"portal": "https://emol.ro/bogdanesti-sv/registru-hcl/186887",
+"council": "suceava/bogdanesti",
+"council_name": "Consiliul Local al Comunei Bogdănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--bogdanesti-38-2024",
+"path": "local/suceava/bogdanesti/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 38/2024 privind aprobarea Rețelei școlare a unităților de învățământ preuniversitar de stat din comuna Bogdănești, județul Suceava pentru anul școlar 2025-2026",
+"short": "HCL Bogdănești nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-15",
+"latest": "2025-01-15",
+"portal": "https://emol.ro/bogdanesti-sv/registru-hcl/186888",
+"council": "suceava/bogdanesti",
+"council_name": "Consiliul Local al Comunei Bogdănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--bogdanesti-39-2024",
+"path": "local/suceava/bogdanesti/2024/39",
+"kind": "local",
+"year": "2024",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 39/2024 privind aprobarea încheierii protocolului de colaborare între Autoritatea Pentru Digitalizarea României și Comuna Bogdănești, pentru asigurarea cadrului interinstituțional necesar înrolării în aplicația ROeID",
+"short": "HCL Bogdănești nr. 39/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-15",
+"latest": "2025-01-15",
+"portal": "https://emol.ro/bogdanesti-sv/registru-hcl/186889",
+"council": "suceava/bogdanesti",
+"council_name": "Consiliul Local al Comunei Bogdănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--bogdanesti-40-2024",
+"path": "local/suceava/bogdanesti/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 40/2024 privind implementarea proiectului „Modernizarea, extinderea și creșterea eficienței energetice a infrastructurii de iluminat public în comuna Bogdănești, Județul Suceava”",
+"short": "HCL Bogdănești nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-15",
+"latest": "2025-01-15",
+"portal": "https://emol.ro/bogdanesti-sv/registru-hcl/186890",
+"council": "suceava/bogdanesti",
+"council_name": "Consiliul Local al Comunei Bogdănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--bogdanesti-41-2024",
 "path": "local/suceava/bogdanesti/2024/41",
 "kind": "local",
@@ -201,6 +311,51 @@
 }
 },
 {
+"slug": "hcl-suceava--bogdanesti-50-2024",
+"path": "local/suceava/bogdanesti/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 50/2024",
+"short": "HCL Bogdănești nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-19",
+"latest": "2025-05-19",
+"portal": "https://emol.ro/bogdanesti-sv/registru-hcl/207801",
+"council": "suceava/bogdanesti",
+"council_name": "Consiliul Local al Comunei Bogdănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--bogdanesti-51-2024",
+"path": "local/suceava/bogdanesti/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 51/2024 privind rectificarea bugetului local de venituri și cheltuieli pentru anul 2024",
+"short": "HCL Bogdănești nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-19",
+"latest": "2025-05-19",
+"portal": "https://emol.ro/bogdanesti-sv/registru-hcl/207802",
+"council": "suceava/bogdanesti",
+"council_name": "Consiliul Local al Comunei Bogdănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--bogdanesti-52-2024",
 "path": "local/suceava/bogdanesti/2024/52",
 "kind": "local",
@@ -220,6 +375,28 @@
 "council_name": "Consiliul Local al Comunei Bogdănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--bogdanesti-53-2024",
+"path": "local/suceava/bogdanesti/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 53/2024 privind alegerea președintelui de ședință",
+"short": "HCL Bogdănești nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-19",
+"latest": "2025-05-19",
+"portal": "https://emol.ro/bogdanesti-sv/registru-hcl/207807",
+"council": "suceava/bogdanesti",
+"council_name": "Consiliul Local al Comunei Bogdănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-prahova--salcia-18-2023",
+"path": "local/prahova/salcia/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Salcia nr. 18/2023 prinvind alegerea presedintelui de ședință precum și a inlocuitorului acestuia in cazul lipsei titularului",
+"short": "HCL Salcia nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-28",
+"latest": "2023-06-28",
+"portal": "https://emol.ro/salcia-ph/registru-hcl/109261",
+"council": "prahova/salcia",
+"council_name": "Consiliul Local al Comunei Salcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--salcia-19-2023",
 "path": "local/prahova/salcia/2023/19",
 "kind": "local",
@@ -44,6 +66,29 @@
 "council_name": "Consiliul Local al Comunei Salcia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--salcia-20-2023",
+"path": "local/prahova/salcia/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Salcia nr. 20/2023",
+"short": "HCL Salcia nr. 20/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-07",
+"latest": "2023-07-07",
+"portal": "https://emol.ro/salcia-ph/registru-hcl/112135",
+"council": "prahova/salcia",
+"council_name": "Consiliul Local al Comunei Salcia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -135,6 +180,28 @@
 }
 },
 {
+"slug": "hcl-prahova--salcia-25-2023",
+"path": "local/prahova/salcia/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Salcia nr. 25/2023 prinvind desemnarea reprezentatului Consiliului Local al Comunei Salcia în Consiliul de Administratie al Scolii Gimnaziale Salcia",
+"short": "HCL Salcia nr. 25/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/salcia-ph/registru-hcl/124008",
+"council": "prahova/salcia",
+"council_name": "Consiliul Local al Comunei Salcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--salcia-26-2023",
 "path": "local/prahova/salcia/2023/26",
 "kind": "local",
@@ -154,6 +221,28 @@
 "council_name": "Consiliul Local al Comunei Salcia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--salcia-27-2023",
+"path": "local/prahova/salcia/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Salcia nr. 27/2023 prinvind alegerea presedintelui de ședință precum și a inlocuitorului acestuia in cazul lipsei titularului",
+"short": "HCL Salcia nr. 27/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-15",
+"latest": "2023-11-15",
+"portal": "https://emol.ro/salcia-ph/registru-hcl/124010",
+"council": "prahova/salcia",
+"council_name": "Consiliul Local al Comunei Salcia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

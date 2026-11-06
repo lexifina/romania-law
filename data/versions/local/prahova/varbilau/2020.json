@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--varbilau-10-2020",
+   "path": "local/prahova/varbilau/2020/10",
+   "short": "HCL Vărbilău nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 10/2020 privind aprobarea transei a patra, reprezentând sprijin Financiar acordat Parohiei Vărbilău pentru completarea fondurilor proprii în scopul continuării lucrărilor la investiții, Construcție biserică parohială, imprejmuire, bransamente, utlităti”",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/4489",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/4489",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--varbilau-11-2020",
    "path": "local/prahova/varbilau/2020/11",
    "short": "HCL Vărbilău nr. 11/2020",

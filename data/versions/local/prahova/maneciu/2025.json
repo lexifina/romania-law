@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--maneciu-63-2025",
+   "path": "local/prahova/maneciu/2025/63",
+   "short": "HCL Măneciu nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 63/2025 privind acordarea cu titlu gratuit, în baza Acordului de cooperare între Comuna Măneciu, judeţul Prahova din România şi comuna Grădişte, Raionul Cimişlia din Republica Moldova, a unor bunuri mobile pentru sprijinirea dezvoltării investiţiilor în comuna Grădişte, Raionul Cimişlia din Republica Moldova",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/231037",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/231037",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--maneciu-64-2025",
    "path": "local/prahova/maneciu/2025/64",
    "short": "HCL Măneciu nr. 64/2025",
@@ -43,6 +58,21 @@
      "from": "2025-11-05",
      "units": 1,
      "source_url": "https://emol.ro/maneciu-ph/registru-hcl/231038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-65-2025",
+   "path": "local/prahova/maneciu/2025/65",
+   "short": "HCL Măneciu nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 65/2025 privind alegerea preşedintelui de şedinţă al Consiliului Local al comunei Măneciu pentru perioada noiembrie 2025 - ianuarie 2026",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/234068",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/234068",
      "sha256": null
     }
    ]
@@ -73,6 +103,21 @@
      "from": "2025-11-12",
      "units": 1,
      "source_url": "https://emol.ro/maneciu-ph/registru-hcl/234070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-68-2025",
+   "path": "local/prahova/maneciu/2025/68",
+   "short": "HCL Măneciu nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 68/2025 privind desemnarea reprezentanţilor Unităţii Administrativ-teritoriale Comuna Măneciu în Adunarea Generală a Asociaţilor la SC APĂ-CANAL MĂNECIU SRL",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/234071",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/234071",
      "sha256": null
     }
    ]
@@ -213,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--maneciu-78-2025",
+   "path": "local/prahova/maneciu/2025/78",
+   "short": "HCL Măneciu nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 78/2025 privind concesionarea directă a unor terenuri aparţinând domeniului privat al Unităţii Administrativ ţeritoriale Comuna Măneciu, judeţul Prahova",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/244308",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/244308",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--maneciu-79-2025",
    "path": "local/prahova/maneciu/2025/79",
    "short": "HCL Măneciu nr. 79/2025",
@@ -223,6 +283,21 @@
      "from": "2026-02-03",
      "units": 1,
      "source_url": "https://emol.ro/maneciu-ph/registru-hcl/244309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-80-2025",
+   "path": "local/prahova/maneciu/2025/80",
+   "short": "HCL Măneciu nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 80/2025 privind aprobarea reţelei unităţii de învăţământ preuniversitar pentru anul şcolar 2026-2027 la nivelul comunei Măneciu, judeţul Prahova",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/244310",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/244310",
      "sha256": null
     }
    ]

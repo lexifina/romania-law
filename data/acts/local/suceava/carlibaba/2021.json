@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-suceava--carlibaba-15-2021",
+"path": "local/suceava/carlibaba/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 15/2021 privind desemnarea a doi consilieri locali pentru a face parte din comisia de evaluare a performanțelor profesionale individuale ale secretarului general al U.A.T Cârlibaba, județul Suceava",
+"short": "HCL Cârlibaba nr. 15/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-25",
+"latest": "2021-05-25",
+"portal": "https://emol.ro/carlibaba-sv/registru-hcl/43715",
+"council": "suceava/carlibaba",
+"council_name": "Consiliul Local al Comunei Cârlibaba",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--carlibaba-16-2021",
 "path": "local/suceava/carlibaba/2021/16",
 "kind": "local",
@@ -69,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-suceava--carlibaba-18-2021",
+"path": "local/suceava/carlibaba/2021/18",
+"kind": "local",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 18/2021 privind aprobarea vânzării prin licitaţie publică, masă lemnoasă pe picior, provenită din fondul forestier proprietate publică a comunei Cârlibaba în anul 2021, judeţul Suceava, cuprinsă pe raza Ocolului Silvic Dorna",
+"short": "HCL Cârlibaba nr. 18/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/carlibaba-sv/registru-hcl/43718",
+"council": "suceava/carlibaba",
+"council_name": "Consiliul Local al Comunei Cârlibaba",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--carlibaba-19-2021",
 "path": "local/suceava/carlibaba/2021/19",
 "kind": "local",
@@ -110,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Cârlibaba",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--carlibaba-21-2021",
+"path": "local/suceava/carlibaba/2021/21",
+"kind": "local",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 21/2021 privind alegerea preşedintelui de şedinţă pe o perioadă de 3 luni",
+"short": "HCL Cârlibaba nr. 21/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-28",
+"latest": "2021-09-28",
+"portal": "https://emol.ro/carlibaba-sv/registru-hcl/43723",
+"council": "suceava/carlibaba",
+"council_name": "Consiliul Local al Comunei Cârlibaba",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -289,6 +355,28 @@
 "council_name": "Consiliul Local al Comunei Cârlibaba",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--carlibaba-30-2021",
+"path": "local/suceava/carlibaba/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 30/2021 privind desemnarea unui reprezentant al consiliului local Cârlibaba, ca reprezentant în comisia de evaluare a probei de interviu, din cadrul concursului pentru ocuparea funcției de director la Școala gimnazială „Ștefan cel Mare” Cârlibaba",
+"short": "HCL Cârlibaba nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/carlibaba-sv/registru-hcl/43736",
+"council": "suceava/carlibaba",
+"council_name": "Consiliul Local al Comunei Cârlibaba",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

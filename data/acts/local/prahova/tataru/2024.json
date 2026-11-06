@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/prahova/tataru/2024",
+"acts": [
+{
+"slug": "hcl-prahova--tataru-17-2024",
+"path": "local/prahova/tataru/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătaru nr. 17/2024",
+"short": "HCL Tătaru nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-26",
+"latest": "2024-04-26",
+"portal": "http://primariatataru.ro/monitorul-oficial-local/",
+"council": "prahova/tataru",
+"council_name": "Consiliul Local al Comunei Tătaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--tataru-29-2024",
+"path": "local/prahova/tataru/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătaru nr. 29/2024",
+"short": "HCL Tătaru nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-01",
+"latest": "2024-08-01",
+"portal": "http://primariatataru.ro/monitorul-oficial-local/",
+"council": "prahova/tataru",
+"council_name": "Consiliul Local al Comunei Tătaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--tataru-36-2024",
+"path": "local/prahova/tataru/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătaru nr. 36/2024",
+"short": "HCL Tătaru nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-15",
+"latest": "2024-10-15",
+"portal": "http://primariatataru.ro/monitorul-oficial-local/",
+"council": "prahova/tataru",
+"council_name": "Consiliul Local al Comunei Tătaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--tataru-41-2024",
+"path": "local/prahova/tataru/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătaru nr. 41/2024",
+"short": "HCL Tătaru nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-15",
+"latest": "2024-11-15",
+"portal": "http://primariatataru.ro/monitorul-oficial-local/",
+"council": "prahova/tataru",
+"council_name": "Consiliul Local al Comunei Tătaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--tataru-44-2024",
+"path": "local/prahova/tataru/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătaru nr. 44/2024",
+"short": "HCL Tătaru nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "http://primariatataru.ro/monitorul-oficial-local/",
+"council": "prahova/tataru",
+"council_name": "Consiliul Local al Comunei Tătaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--tataru-47-2024",
+"path": "local/prahova/tataru/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătaru nr. 47/2024",
+"short": "HCL Tătaru nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "http://primariatataru.ro/monitorul-oficial-local/",
+"council": "prahova/tataru",
+"council_name": "Consiliul Local al Comunei Tătaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--tataru-49-2024",
+"path": "local/prahova/tataru/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătaru nr. 49/2024",
+"short": "HCL Tătaru nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "http://primariatataru.ro/monitorul-oficial-local/",
+"council": "prahova/tataru",
+"council_name": "Consiliul Local al Comunei Tătaru",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

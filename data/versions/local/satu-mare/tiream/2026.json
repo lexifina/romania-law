@@ -3,6 +3,81 @@
  "shard": "local/satu-mare/tiream/2026",
  "acts": [
   {
+   "slug": "hcl-satu-mare--tiream-1-2026",
+   "path": "local/satu-mare/tiream/2026/1",
+   "short": "HCL Tiream nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 1/2026 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Tiream pe o perioadă de trei luni: februarie 2026-aprilie 2026",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/uploads_tiream/hcl-nr-1-alegerea-presedintelui-de-sedinta-februarie-aprilie-2026.pdf",
+     "sha256": "ed727bb9934d7a7d535f598cf3ab4df3fa302b227b91822a4066cf4986f0b040"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-10-2026",
+   "path": "local/satu-mare/tiream/2026/10",
+   "short": "HCL Tiream nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 10/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "fd80eb6d1f6c5cefc3f2cfa62b84100f781098f1b53c647afea687d1ac0e62dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-12-2026",
+   "path": "local/satu-mare/tiream/2026/12",
+   "short": "HCL Tiream nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 12/2026 privind aprobarea Acordului colectiv al funcționarilor publici din cadrul aparatului de specialitate al Primarului comunei Tiream, județul Satu Mare, pentru perioada 2026–2027",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/hcl-nr-12-aprobarea-acordului-colectiv-de-munca-2026-2027.pdf",
+     "sha256": "c233264fa111c18d44afb95594c17b806935eee3557e4bbfc796cd58463d0825"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-13-2026",
+   "path": "local/satu-mare/tiream/2026/13",
+   "short": "HCL Tiream nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 13/2026 privind aprobarea organigramei și a statului de funcții al aparatului de specialitate al Primarului comunei Tiream, județul Satu Mare, ca urmare a reorganizării dispuse prin OUG nr. 7/2026",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/hcl-nr-13-aprobarea-organigramei-si-a-statului-de-functii-al-aparatului-de-specialitate-al-primarului.pdf",
+     "sha256": "39c9a57d5daf920da2780049432a74fbd78ee7266f7cdaecf833a4996042a308"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-14-2026",
+   "path": "local/satu-mare/tiream/2026/14",
+   "short": "HCL Tiream nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 14/2026 privind aprobarea indicatorilor tehnico-economici actualizați ai obiectivului de investiții „Consolidarea și eficientizarea energetică la Școala gimnazială din localitatea Tiream, județul Satu Mare”, inclus la finanțare în Programul național de investiții „Școli sigure și sănătoase”",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/hcl-nr-14-privind-aprobarea-indicatorilor-tehnico-economici-actualizati-consolidare-si-eficientizare-scoala-gimnaziala.pdf",
+     "sha256": "a6f394f9a94a22455415383a891b8c6f75b4f352d985525feaf088b688f966c6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-satu-mare--tiream-15-2026",
    "path": "local/satu-mare/tiream/2026/15",
    "short": "HCL Tiream nr. 15/2026",
@@ -18,6 +93,261 @@
    ]
   },
   {
+   "slug": "hcl-satu-mare--tiream-16-2026",
+   "path": "local/satu-mare/tiream/2026/16",
+   "short": "HCL Tiream nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 16/2026 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Tiream pe o perioadă de trei luni: mai 2026-iulie 2026",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/hcl-nr-16-alegerea-presedintelui-de-sedinta-mai-iulie-2026.pdf",
+     "sha256": "41431c1664262c8826ef8e968e1f9e93aacf5fb4faf3db82e592009d916b7866"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-17-2026",
+   "path": "local/satu-mare/tiream/2026/17",
+   "short": "HCL Tiream nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 17/2026 privind aprobarea contului de execuţie al Bugetului local de venituri şi cheltuieli al Comunei Tiream pe trimestrul I, anul 2026",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/hcl-nr-17-aprobare-cont-de-executie-trim-i-din-2026.pdf",
+     "sha256": "94ffb61087d2e31a3b4a99e9b9ca5ca119c9caff63f7d75c4c9be7e29db6b35b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-18-2026",
+   "path": "local/satu-mare/tiream/2026/18",
+   "short": "HCL Tiream nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 18/2026 privind aprobarea utilizării excedentului anual al bugetului local rezultat la încheierea exercițiului bugetar aferent anului 2025, în sumă de 32.000 lei, pentru finanţarea cheltuielilor secţiunii de dezvoltare a bugetului local pe anul 2026",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/hcl-nr-18-utilizare-excedent-2025-pt-anul-2026.pdf",
+     "sha256": "8619547211af95b1fa73ee267c77de5fe20bf18421c16ba8442d42fcc7f8aff4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-2-2026",
+   "path": "local/satu-mare/tiream/2026/2",
+   "short": "HCL Tiream nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 2/2026 privind aprobarea preţului minim de pornire la licitaţie (preţului de referinţă) a masei lemnoase din fondul forestier proprietatea publică a comunei Tiream",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/uploads_tiream/hcl-nr-2-aprobare-preturi-referinta-masa-lemnoasa-2026.pdf",
+     "sha256": "5c13c8e6c1a67a6f974744a34ecb34644f44c0044ce9c4233579109f5f6e9c74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-20-2026",
+   "path": "local/satu-mare/tiream/2026/20",
+   "short": "HCL Tiream nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 20/2026 privind modificarea HCL Tiream nr. 13/07.04.2026 referitoare la organigrama și statul de funcții al aparatului de specialitate al Primarului comunei Tiream, județul Satu Mare, în conformitate cu observațiile Agenției Naționale a Funcționarilor Publici",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/hcl-nr-20-privind-modificarea-hcl-nr-13-din-2026.pdf",
+     "sha256": "4c224dba0d4ac5794f0e28a1f2d4aad3c0ad2f6d35410a25fac9384b781678e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-21-2026",
+   "path": "local/satu-mare/tiream/2026/21",
+   "short": "HCL Tiream nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 21/2026 privind neaprobarea prelungirii contractului de concesiune nr. 1290/10.08.2006 și preluarea în administrare directă a Lacului Barnot, proprietate privată a Comunei Tiream",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/hcl-nr-21-privind-neaprobarea-prelungirii-contractului-de-concesiune-lac-barnot.pdf",
+     "sha256": "dfcc7f7fb47cfe3efb4c2ce907087937bcc2504163b0e950604dd8b90745a32a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-22-2026",
+   "path": "local/satu-mare/tiream/2026/22",
+   "short": "HCL Tiream nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 22/2026 privind schimbarea destinației și trecerea din domeniul public în domeniul privat al Comunei Tiream a imobilelor situate în sat Vezendiu, str",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/hcl-nr-22-trecerea-din-domeniul-public-in-cel-privat-scoala-vezendiu.pdf",
+     "sha256": "0b5c258ec72634972058b1325cd552dab450f78e745e0a892a900ce85a651764"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-23-2026",
+   "path": "local/satu-mare/tiream/2026/23",
+   "short": "HCL Tiream nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 23/2026 privind rectificarea Bugetului local de venituri şi cheltuieli al Comunei Tiream,pe anul 2026",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/hcl-nr-23-rectificare-buget-iunie-2026.pdf",
+     "sha256": "2ea66164591ef79f390fcce28316e919703fdfa23f417ed900c32ac31c7f0c97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-24-2026",
+   "path": "local/satu-mare/tiream/2026/24",
+   "short": "HCL Tiream nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 24/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ef866c50f864bc6c7c7779cbc86ab364e6195d8f96b97c57b8646959115b51a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-25-2026",
+   "path": "local/satu-mare/tiream/2026/25",
+   "short": "HCL Tiream nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 25/2026 privind aprobarea contului de execuţie al Bugetului local de venituri şi cheltuieli al Comunei Tiream pe trimestrul II, anul 2026",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/hotarari-2019/hcl-nr-25-aprobare-cont-de-executie-trim-ii-din-2026.pdf",
+     "sha256": "92326354ad2911a0091c93dae8c215713b5b2414af3d7abf8fe56eb308d30264"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-26-2026",
+   "path": "local/satu-mare/tiream/2026/26",
+   "short": "HCL Tiream nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 26/2026 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Tiream pe o perioadă de trei luni: septembrie 2026-noiembrie 2026",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/alte-documente/hcl-nr-26-alegerea-presedintelui-de-sedinta-septembrie-noiembrie-2026.pdf",
+     "sha256": "7c25b814d2bc2657dda32910fba5986735ed8ce1da880fc3e53dcbcc6b766934"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-27-2026",
+   "path": "local/satu-mare/tiream/2026/27",
+   "short": "HCL Tiream nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 27/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1f3219651c79a07d87a5e535fe01d31d7e34bdfab17244deef2636e45ca26b63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-28-2026",
+   "path": "local/satu-mare/tiream/2026/28",
+   "short": "HCL Tiream nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 28/2026 privind aprobarea acordării prestației suplimentare aferente clauzei de mobilitate pentru personalul contractual din cadrul aparatului de specialitate al Primarului comunei Tiream",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/alte-documente/hcl-nr-28-clauza-mobilitate-muncitor-calificat.pdf",
+     "sha256": "4caaf6faf364853280416fd800d88669d6eac2a6a3338432405114258fbb9367"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-29-2026",
+   "path": "local/satu-mare/tiream/2026/29",
+   "short": "HCL Tiream nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 29/2026 privind desemnarea reprezentantului Consiliului local al comunei Tiream, în Comisia de Evaluare a calității și în consiliul de administraţie al Şcolii Gimnaziale Tiream pentru anul şcolar 2026-2027",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/alte-documente/hcl-nr-29-desemnare-consilier-local-in-consiliul-de-administratie-a-scolii-tiream.pdf",
+     "sha256": "cc94d7833daa3f910f0735e325d47ecc70a628bbd5ae9cfd7a045ba17a553a66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-3-2026",
+   "path": "local/satu-mare/tiream/2026/3",
+   "short": "HCL Tiream nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 3/2026 privind aprobarea Programului de acțiune comunitară destinată prevenirii și combaterii riscului de sărăcie și excluziune socială în Comuna Tiream, județul Satu Mare",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/uploads_tiream/hcl-nr-3-aprobarea-programului-de-actiune-comunitara-destinata-prevenirii-saraciei.pdf",
+     "sha256": "cb65ce9a89d02851b05425b456e29c7d15ae39d1965796abd8e03bb0e581526a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-30-2026",
+   "path": "local/satu-mare/tiream/2026/30",
+   "short": "HCL Tiream nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 30/2026 privind desemnarea unui reprezentant şi a unui membru supleant al Consiliului local al Comunei Tiream, în Comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcţiilor de director şi director adjunct din unităţile de învăţământ preuniversitar de stat",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/alte-documente/hclnr-30-desemnare-reprezentant-in-comisia-de-evaluare-inspectorat-scolar.pdf",
+     "sha256": "3be415c9a237c2858c028a21c9aaa7d884141b95c5583cd8a94c61ffdf0aebe4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-31-2026",
+   "path": "local/satu-mare/tiream/2026/31",
+   "short": "HCL Tiream nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 31/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": null,
+     "sha256": "48112905aaee9c6afcf48f64a22f2213fe8c1461bb4fbfbeea5fac2ed2383596"
+    }
+   ]
+  },
+  {
    "slug": "hcl-satu-mare--tiream-32-2026",
    "path": "local/satu-mare/tiream/2026/32",
    "short": "HCL Tiream nr. 32/2026",
@@ -29,6 +359,96 @@
      "units": 1,
      "source_url": "https://www.tiream.ro/storage/alte-documente/hcl-nr-32-aprobarea-tarifului-pentru-servicii-de-reincarcare-a-vehiculelor-electrice.pdf",
      "sha256": "d3ea44ee305e32d5730c954e4527d9a048e825fff6f16e2716c8632d9483fab6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-4-2026",
+   "path": "local/satu-mare/tiream/2026/4",
+   "short": "HCL Tiream nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 4/2026 privind aprobarea Planului de acţiuni şi de lucrări de interes local pe anul 2026, pentru repartizarea orelor de muncă prestate lunar de către persoanele majore apte de muncă din familia beneficiară de ajutor de incluziune",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/uploads_tiream/hcl-nr-4-aprobarea-planului-anual-actiuni-ore-de-munca-beneficiari-ajutor-de-incluziune-2026.pdf",
+     "sha256": "995462698a71419f558950b3b09d46c772af00f2c5864eee3dfff5ff73bd461a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-5-2026",
+   "path": "local/satu-mare/tiream/2026/5",
+   "short": "HCL Tiream nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 5/2026 privind desemnarea consilierilor locali în Comisia de evaluare a performanţelor profesionale individuale ale Secretarului general al comunei Tiream, pentru activitatea desfăşurată în perioada 01.01.2025–31.12.2025",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/uploads_tiream/hcl-nr-5-desemnarea-consilierilor-locali-in-comisia-de-evaluare-a-performantelor-profesionale-individuale-ale-secretarului-general.pdf",
+     "sha256": "06d2e7dec1e1f6f16d7cb1e2db404ab4618a16bf702d8ccce5f70e07d8ef7b9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-6-2026",
+   "path": "local/satu-mare/tiream/2026/6",
+   "short": "HCL Tiream nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 6/2026 privind aprobarea modificării statului de funcții al aparatului de specialitate al primarului Comunei Tiream",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/uploads_tiream/hcl-nr-6-aprobarea-modificarii-statului-de-functii.pdf",
+     "sha256": "59c1a7fab6854d09ee32698323dfac2046c72aac8ad37620ade9cd6984e87d78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-7-2026",
+   "path": "local/satu-mare/tiream/2026/7",
+   "short": "HCL Tiream nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 7/2026 privind aprobarea contului de execuţie al Bugetului local de venituri şi cheltuieli al Comunei Tiream pe trimestrul IV, anul 2025",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/uploads_tiream/hcl-nr-7-aprobare-cont-de-executie-trim-iv-din-2025.pdf",
+     "sha256": "dcd687a375f9cfe4bdf72cef08d0101b0126983e53675913dc2ba80ea5bc0bbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-8-2026",
+   "path": "local/satu-mare/tiream/2026/8",
+   "short": "HCL Tiream nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 8/2026 privind modificarea art. 6 din Hotărârea Consiliului Local nr. 56/18.12.2025",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/uploads_tiream/hcl-nr-8-modificare-art-6-din-hcl-56-din-18122025.pdf",
+     "sha256": "01cf03a4cac40e0e0b080fcc5467169ef132e8cb8d31392e4a79e0f74f691293"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-9-2026",
+   "path": "local/satu-mare/tiream/2026/9",
+   "short": "HCL Tiream nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 9/2026 privind stabilirea măsurilor administrative pentru prevenirea circulației câinilor nesupravegheați pe domeniul public al comunei Tiream",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/uploads_tiream/hcl-nr-9-privind-stabilirea-masurilor-pentru-prevenirea-circulatiei-cainilor-nesupravegheati.pdf",
+     "sha256": "af8ffae81a4e3fcfd0031c56dbe7529c4aff50dae0f05aaf604e9893419b8241"
     }
    ]
   }

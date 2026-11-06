@@ -63,6 +63,51 @@
    ]
   },
   {
+   "slug": "hcl-sibiu--rosia-83-2023",
+   "path": "local/sibiu/rosia/2023/83",
+   "short": "HCL Roșia nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 83/2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Roşia, judeţul Sibiu, începând cu luna noiembrie 2023",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/131972",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/131972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-84-2023",
+   "path": "local/sibiu/rosia/2023/84",
+   "short": "HCL Roșia nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 84/2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Roşia, judeţul Sibiu, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/131973",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/131973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-85-2023",
+   "path": "local/sibiu/rosia/2023/85",
+   "short": "HCL Roșia nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 85/2023 privind decontarea cheltuielilor de transport de la domiciliu la serviciu și retur pentru funcționarii publici și personalul contractual din cadrul Primăriei comunei Roşia, județul Sibiu",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/131974",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/131974",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--rosia-86-2023",
    "path": "local/sibiu/rosia/2023/86",
    "short": "HCL Roșia nr. 86/2023",
@@ -163,6 +208,36 @@
      "from": "2023-12-13",
      "units": 1,
      "source_url": "https://emol.ro/rosia-sb/registru-hcl/137187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-93-2023",
+   "path": "local/sibiu/rosia/2023/93",
+   "short": "HCL Roșia nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 93/2023 privind aprobarea eliberarii adeverintelor pentru racordarea la reţeaua electrică a persoanelor din comuna Rosia, care nu detin actul de proprietate sau orice alt înscris care atestă dreptul de folosinţă asupra terenului in conformitate cu Ordinul nr.22/2020 al ANRDE pentru modificarea şi completarea Regulamentului privind racordarea utilizatorilor la reţelele electrice de interes public, aprobat prin Ordinul preşedintelui Autorităţii Naţionale de Reglementare în Domeniul Energiei nr. 59/2013",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/137188",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/137188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-94-2023",
+   "path": "local/sibiu/rosia/2023/94",
+   "short": "HCL Roșia nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 94/2023",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/137189",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/137189",
      "sha256": null
     }
    ]

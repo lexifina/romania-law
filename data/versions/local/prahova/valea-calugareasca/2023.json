@@ -108,6 +108,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--valea-calugareasca-136-2023",
+   "path": "local/prahova/valea-calugareasca/2023/136",
+   "short": "HCL Valea Călugărească nr. 136/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 136/2023 pentru aprobarea modificării Hotărârii Consiliului Local nr.86/ 25.11.2020 privind organizarea comisiilor de specialitate ale Consiliului Local Valea Călugărească, pentru mandatul 2020-2024",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/131093",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/131093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-137-2023",
+   "path": "local/prahova/valea-calugareasca/2023/137",
+   "short": "HCL Valea Călugărească nr. 137/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 137/2023",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/132016",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/132016",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--valea-calugareasca-138-2023",
    "path": "local/prahova/valea-calugareasca/2023/138",
    "short": "HCL Valea Călugărească nr. 138/2023",

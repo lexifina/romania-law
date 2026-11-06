@@ -202,6 +202,28 @@
 }
 },
 {
+"slug": "hcl-prahova--salcia-20-2025",
+"path": "local/prahova/salcia/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Salcia nr. 20/2025 prinvind desemnarea reprezentatului Consiliului Local al Comunei Salcia în Consiliul de Administratie al Scolii Gimnaziale Salcia",
+"short": "HCL Salcia nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://emol.ro/salcia-ph/registru-hcl/225170",
+"council": "prahova/salcia",
+"council_name": "Consiliul Local al Comunei Salcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--salcia-21-2025",
 "path": "local/prahova/salcia/2025/21",
 "kind": "local",

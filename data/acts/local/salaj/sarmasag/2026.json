@@ -3,6 +3,50 @@
 "shard": "local/salaj/sarmasag/2026",
 "acts": [
 {
+"slug": "hcl-salaj--sarmasag-111-2026",
+"path": "local/salaj/sarmasag/2026/111",
+"kind": "local",
+"year": "2026",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 111/2026 pentru modificarea organigramei și statului de personal al aparatului de specialitate al primarului comunei Șărmășag, al serviciilor publice de interes local precum și a instituțiilor publice",
+"short": "HCL Șărmășag nr. 111/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/292527",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-112-2026",
+"path": "local/salaj/sarmasag/2026/112",
+"kind": "local",
+"year": "2026",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 112/2026 privind unele reglementări de funcționare a Serviciului Comunitar de Utilități Publice Șărmășag",
+"short": "HCL Șărmășag nr. 112/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/292528",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--sarmasag-113-2026",
 "path": "local/salaj/sarmasag/2026/113",
 "kind": "local",
@@ -25,6 +69,95 @@
 }
 },
 {
+"slug": "hcl-salaj--sarmasag-114-2026",
+"path": "local/salaj/sarmasag/2026/114",
+"kind": "local",
+"year": "2026",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 114/2026",
+"short": "HCL Șărmășag nr. 114/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/292530",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-115-2026",
+"path": "local/salaj/sarmasag/2026/115",
+"kind": "local",
+"year": "2026",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 115/2026 pentru aprobarea Regulamentului de organizare și funcționare al Compartimentului asistență socială și autoritate tutelară",
+"short": "HCL Șărmășag nr. 115/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/292531",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-116-2026",
+"path": "local/salaj/sarmasag/2026/116",
+"kind": "local",
+"year": "2026",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 116/2026 privind înființarea serviciului social ÎNGRIJIRE LA DOMICILIU PENTRU PERSOANE VÂRSTNICE prin Compartimentul asistență socială și autoritate tutelară din aparatul de specialitate al primarului comunei Șărmășag și aprobarea Regulamentului de organizare și funcționare a serviciului social furnizat în comunitate",
+"short": "HCL Șărmășag nr. 116/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/292532",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-117-2026",
+"path": "local/salaj/sarmasag/2026/117",
+"kind": "local",
+"year": "2026",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 117/2026 privind propunerea de atribuire în proprietate a terenului intravilan, situat în comuna Șărmășag, sat Șărmășag, str.Sălajului, nr.65",
+"short": "HCL Șărmășag nr. 117/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/292533",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--sarmasag-118-2026",
 "path": "local/salaj/sarmasag/2026/118",
 "kind": "local",
@@ -44,6 +177,160 @@
 "council_name": "Consiliul Local al Comunei Șărmășag",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-119-2026",
+"path": "local/salaj/sarmasag/2026/119",
+"kind": "local",
+"year": "2026",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 119/2026 pentru aprobarea Protocolului de colaborare între Comuna Șărmășag-Centrul Comunitar Integrat și Cabinetele medicale medicina de familie din comuna Șărmășag",
+"short": "HCL Șărmășag nr. 119/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/292535",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-120-2026",
+"path": "local/salaj/sarmasag/2026/120",
+"kind": "local",
+"year": "2026",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 120/2026 pentru rectificarea bugetului local al comunei Șărmășag pe trimestrul III 2026",
+"short": "HCL Șărmășag nr. 120/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/292536",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-121-2026",
+"path": "local/salaj/sarmasag/2026/121",
+"kind": "local",
+"year": "2026",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 121/2026 pentru desemnarea reprezentanților Consiliului local al comunei Șărmășag în Consiliul de administrație a Liceului Tehnologic nr.1 Șărmășag",
+"short": "HCL Șărmășag nr. 121/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/292537",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-122-2026",
+"path": "local/salaj/sarmasag/2026/122",
+"kind": "local",
+"year": "2026",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 122/2026 pentru desemnarea reprezentantului Consiliului local al comunei Șărmășag în Comisia pentru Evaluarea și Asigurarea Calității a Liceului Tehnologic nr.1 Șărmășag",
+"short": "HCL Șărmășag nr. 122/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/292538",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-123-2026",
+"path": "local/salaj/sarmasag/2026/123",
+"kind": "local",
+"year": "2026",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 123/2026 pentru desemnarea reprezentanților Consiliului local al Comunei Șărmășag în Comisia de evaluare a probei de interviu a concursului pentru ocuparea funcţiei de director la Liceul Tehnologic nr.1 Șărmășag",
+"short": "HCL Șărmășag nr. 123/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/292539",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-124-2026",
+"path": "local/salaj/sarmasag/2026/124",
+"kind": "local",
+"year": "2026",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 124/2026 pentru alegerea preşedintelui de şedinţă",
+"short": "HCL Șărmășag nr. 124/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/295039",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-125-2026",
+"path": "local/salaj/sarmasag/2026/125",
+"kind": "local",
+"year": "2026",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 125/2026 pentru modificarea HCL.123/2024 privind stabilirea și constituirea Comisiilor de specialitate din cadrul Consiliului local pe principalele domenii de activitate",
+"short": "HCL Șărmășag nr. 125/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/295040",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -110,6 +397,51 @@
 "council_name": "Consiliul Local al Comunei Șărmășag",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-129-2026",
+"path": "local/salaj/sarmasag/2026/129",
+"kind": "local",
+"year": "2026",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 129/2026 pentru rectificarea bugetului local al comunei pe trimestrul IV 2026",
+"short": "HCL Șărmășag nr. 129/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/295044",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-130-2026",
+"path": "local/salaj/sarmasag/2026/130",
+"kind": "local",
+"year": "2026",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 130/2026",
+"short": "HCL Șărmășag nr. 130/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/295045",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

@@ -91,6 +91,50 @@
 }
 },
 {
+"slug": "hcl-salaj--horoatu-crasnei-61-2023",
+"path": "local/salaj/horoatu-crasnei/2023/61",
+"kind": "local",
+"year": "2023",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 61/2023 Pentru depunere și implementarea proiectului - “SISTEME INTEGRATE DE COLECTARE A GUNOIULUI DE GRAJD, COMUNA HOROATU CRASNEI, JUDETUL SALAJ”, în vederea finanțării acestuia în cadrul apelului PNRR/2023/C3/S/I.2.A-B",
+"short": "HCL Horoatu Crasnei nr. 61/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://emol.ro/horoatucrasnei-sj/registru-hcl/125614",
+"council": "salaj/horoatu-crasnei",
+"council_name": "Consiliul Local al Comunei Horoatu Crasnei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--horoatu-crasnei-62-2023",
+"path": "local/salaj/horoatu-crasnei/2023/62",
+"kind": "local",
+"year": "2023",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 62/2023 Privind aprobarea Studiului de Fezabilitate, a Devizului General și a indicatorilor tehnico-economici aferenți obiectivului de investiție ”SISTEM INTEGRAT DE COLECTARE A GUNOIULUI DE GRAJD, COMUNA HOROATU CRASNEI, JUDEȚUL SĂLAJ”, precum și a valorii totale a proiectului ”SISTEM INTEGRAT DE COLECTARE A GUNOIULUI DE GRAJD, COMUNA HOROATU CRASNEI, JUDEȚUL SĂLAJ”,",
+"short": "HCL Horoatu Crasnei nr. 62/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://emol.ro/horoatucrasnei-sj/registru-hcl/125615",
+"council": "salaj/horoatu-crasnei",
+"council_name": "Consiliul Local al Comunei Horoatu Crasnei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--horoatu-crasnei-63-2023",
 "path": "local/salaj/horoatu-crasnei/2023/63",
 "kind": "local",
@@ -132,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Horoatu Crasnei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--horoatu-crasnei-65-2023",
+"path": "local/salaj/horoatu-crasnei/2023/65",
+"kind": "local",
+"year": "2023",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 65/2023 Pentru reactualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ”MODERNIZARE DRUM COMUNAL DC70C ÎN COMUNA HOROATU CRASNEI, JUDEȚUL SĂLAJ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului de investiție",
+"short": "HCL Horoatu Crasnei nr. 65/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/horoatucrasnei-sj/registru-hcl/126794",
+"council": "salaj/horoatu-crasnei",
+"council_name": "Consiliul Local al Comunei Horoatu Crasnei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

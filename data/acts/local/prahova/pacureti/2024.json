@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-prahova--pacureti-5-2024",
+"path": "local/prahova/pacureti/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 5/2024 privind nominalizarea de către consiliul local al comunei Pacureti , jud. Prahova, a doi consilieri locali care vor avea calitatea de evaluatori în cadrul comisiei de evaluare a performanțelor profesionale individuale ale secretarului general al comunei",
+"short": "HCL Păcureți nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-30",
+"latest": "2024-01-30",
+"portal": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#69032",
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--pacureti-6-2024",
 "path": "local/prahova/pacureti/2024/6",
 "kind": "local",
@@ -311,6 +333,51 @@
 }
 },
 {
+"slug": "hcl-prahova--pacureti-17-2024",
+"path": "local/prahova/pacureti/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 17/2024",
+"short": "HCL Păcureți nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-29",
+"latest": "2024-03-29",
+"portal": null,
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--pacureti-18-2024",
+"path": "local/prahova/pacureti/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 18/2024 privind decontarea contravalorii cheltuielilor de transport intre localitatea de domiciuliu/resedinta si localitatea unde se afla locul de munca , pentru personalul angajat în cadrul aparatului de specialitate al primarului comunei Pacureti / Prahova conform art.111 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+"short": "HCL Păcureți nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-14",
+"latest": "2024-08-14",
+"portal": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#80276",
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--pacureti-19-2024",
 "path": "local/prahova/pacureti/2024/19",
 "kind": "local",
@@ -463,6 +530,52 @@
 "council_name": "Consiliul Local al Comunei Păcureți",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--pacureti-26-2024",
+"path": "local/prahova/pacureti/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 26/2024",
+"short": "HCL Păcureți nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-06",
+"latest": "2024-11-06",
+"portal": null,
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--pacureti-27-2024",
+"path": "local/prahova/pacureti/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 27/2024",
+"short": "HCL Păcureți nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-06",
+"latest": "2024-11-06",
+"portal": null,
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

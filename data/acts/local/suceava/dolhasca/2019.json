@@ -1,0 +1,226 @@
+{
+"country": "RO",
+"shard": "local/suceava/dolhasca/2019",
+"acts": [
+{
+"slug": "hcl-suceava--dolhasca-1-2019",
+"path": "local/suceava/dolhasca/2019/1",
+"kind": "local",
+"year": "2019",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Dolhasca nr. 1/2019",
+"short": "HCL Dolhasca nr. 1/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-01-30",
+"latest": "2019-01-30",
+"portal": "https://primariadolhasca.ro/hotarari-cl-2019/",
+"council": "suceava/dolhasca",
+"council_name": "Consiliul Local al Orașului Dolhasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--dolhasca-3-2019",
+"path": "local/suceava/dolhasca/2019/3",
+"kind": "local",
+"year": "2019",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Dolhasca nr. 3/2019",
+"short": "HCL Dolhasca nr. 3/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-03-21",
+"latest": "2019-03-21",
+"portal": "https://primariadolhasca.ro/hotarari-cl-2019/",
+"council": "suceava/dolhasca",
+"council_name": "Consiliul Local al Orașului Dolhasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--dolhasca-4-2019",
+"path": "local/suceava/dolhasca/2019/4",
+"kind": "local",
+"year": "2019",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Dolhasca nr. 4/2019",
+"short": "HCL Dolhasca nr. 4/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-03-21",
+"latest": "2019-03-21",
+"portal": "https://primariadolhasca.ro/hotarari-cl-2019/",
+"council": "suceava/dolhasca",
+"council_name": "Consiliul Local al Orașului Dolhasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--dolhasca-5-2019",
+"path": "local/suceava/dolhasca/2019/5",
+"kind": "local",
+"year": "2019",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Dolhasca nr. 5/2019",
+"short": "HCL Dolhasca nr. 5/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-03-31",
+"latest": "2019-03-31",
+"portal": "https://primariadolhasca.ro/hotarari-cl-2019/",
+"council": "suceava/dolhasca",
+"council_name": "Consiliul Local al Orașului Dolhasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--dolhasca-7-2019",
+"path": "local/suceava/dolhasca/2019/7",
+"kind": "local",
+"year": "2019",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Dolhasca nr. 7/2019",
+"short": "HCL Dolhasca nr. 7/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-17",
+"latest": "2019-04-17",
+"portal": "https://primariadolhasca.ro/hotarari-cl-2019/",
+"council": "suceava/dolhasca",
+"council_name": "Consiliul Local al Orașului Dolhasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--dolhasca-8-2019",
+"path": "local/suceava/dolhasca/2019/8",
+"kind": "local",
+"year": "2019",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Dolhasca nr. 8/2019",
+"short": "HCL Dolhasca nr. 8/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-17",
+"latest": "2019-04-17",
+"portal": "https://primariadolhasca.ro/hotarari-cl-2019/",
+"council": "suceava/dolhasca",
+"council_name": "Consiliul Local al Orașului Dolhasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--dolhasca-10-2019",
+"path": "local/suceava/dolhasca/2019/10",
+"kind": "local",
+"year": "2019",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Dolhasca nr. 10/2019",
+"short": "HCL Dolhasca nr. 10/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-17",
+"latest": "2019-04-17",
+"portal": "https://primariadolhasca.ro/hotarari-cl-2019/",
+"council": "suceava/dolhasca",
+"council_name": "Consiliul Local al Orașului Dolhasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--dolhasca-11-2019",
+"path": "local/suceava/dolhasca/2019/11",
+"kind": "local",
+"year": "2019",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Dolhasca nr. 11/2019",
+"short": "HCL Dolhasca nr. 11/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-26",
+"latest": "2019-04-26",
+"portal": "https://primariadolhasca.ro/hotarari-cl-2019/",
+"council": "suceava/dolhasca",
+"council_name": "Consiliul Local al Orașului Dolhasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--dolhasca-12-2019",
+"path": "local/suceava/dolhasca/2019/12",
+"kind": "local",
+"year": "2019",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Dolhasca nr. 12/2019",
+"short": "HCL Dolhasca nr. 12/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-26",
+"latest": "2019-04-26",
+"portal": "https://primariadolhasca.ro/hotarari-cl-2019/",
+"council": "suceava/dolhasca",
+"council_name": "Consiliul Local al Orașului Dolhasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--dolhasca-13-2019",
+"path": "local/suceava/dolhasca/2019/13",
+"kind": "local",
+"year": "2019",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Dolhasca nr. 13/2019",
+"short": "HCL Dolhasca nr. 13/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-26",
+"latest": "2019-04-26",
+"portal": "https://primariadolhasca.ro/hotarari-cl-2019/",
+"council": "suceava/dolhasca",
+"council_name": "Consiliul Local al Orașului Dolhasca",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

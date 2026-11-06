@@ -3,6 +3,28 @@
 "shard": "local/prahova/olari/2026",
 "acts": [
 {
+"slug": "hcl-prahova--olari-11-2026",
+"path": "local/prahova/olari/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Olari nr. 11/2026 privind reorganizarea aparatului de specialitate al primarului Comunei Olari, judetul Prahova, si aprobarea organigramei si a ştatului de funcţii şi numărul de posturi ce pot fi incadrare la nivelul al comunei Olari, in anul 2026, precum si a listei cu asistenti personali si a indemnizatiilor lunare pentru persoane cu handicap",
+"short": "HCL Olari nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-08",
+"latest": "2026-05-08",
+"portal": "https://emol.ro/olari-ph/registru-hcl/264130",
+"council": "prahova/olari",
+"council_name": "Consiliul Local al Comunei Olari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--olari-12-2026",
 "path": "local/prahova/olari/2026/12",
 "kind": "local",
@@ -308,6 +330,72 @@
 "council_name": "Consiliul Local al Comunei Olari",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--olari-26-2026",
+"path": "local/prahova/olari/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Olari nr. 26/2026 privind desemnarea reprezentantului Consiliului local Olari in Consiliul de Administratie al Scolii Gimnaziale Olari pentru anul scolar 2026-2027",
+"short": "HCL Olari nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/olari-ph/registru-hcl/290235",
+"council": "prahova/olari",
+"council_name": "Consiliul Local al Comunei Olari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--olari-27-2026",
+"path": "local/prahova/olari/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Olari nr. 27/2026 privind desemnarea reprezentantului Consiliului local Olari in Comisia pentru evaluarea si asigurarea calitatii din cadrul Scolii Gimnaziale, Comuna Olari, pentru anul scolar 2026-2027 ,",
+"short": "HCL Olari nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/olari-ph/registru-hcl/290236",
+"council": "prahova/olari",
+"council_name": "Consiliul Local al Comunei Olari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--olari-28-2026",
+"path": "local/prahova/olari/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Olari nr. 28/2026 privind desemnarea reprezentantului Consiliului local Olari in Comisia pentru prevenirea si combaterea violentei, a faptelor de coruptie si discriminarii in mediul scolar si promovarea interculturalitatii pentru anul scolar 2026-2027, la nivelul Scolii Gimnaziale, Comuna Olari,",
+"short": "HCL Olari nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/olari-ph/registru-hcl/290237",
+"council": "prahova/olari",
+"council_name": "Consiliul Local al Comunei Olari",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

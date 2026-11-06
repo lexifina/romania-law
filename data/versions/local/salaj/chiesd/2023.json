@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/salaj/chiesd/2023",
+ "acts": [
+  {
+   "slug": "hcl-salaj--chiesd-1-2023",
+   "path": "local/salaj/chiesd/2023/1",
+   "short": "HCL Chieșd nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 1/2023 privind aprobarea investiției și a sumei de 12.000 lei, reprezentând achiziționarea unui aparat de spălat pordoseli, de către Comuna Chieșd, jud. Sălaj",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/249073",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/249073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-2-2023",
+   "path": "local/salaj/chiesd/2023/2",
+   "short": "HCL Chieșd nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 2/2023 privind aprobarea susținerii financiare a Asociației Club Sportiv FC Chieșd, pentru anul competițional 2023-2024",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/249079",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/249079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-3-2023",
+   "path": "local/salaj/chiesd/2023/3",
+   "short": "HCL Chieșd nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 3/2023 privind aprobarea decontării navetei cadrelor didactice care îşi desfăşoară activitatea pe raza comunei Chieşd, judeţul Sălaj",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/249080",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/249080",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

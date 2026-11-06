@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-suceava--fantanele-38-2022",
+"path": "local/suceava/fantanele/2022/38",
+"kind": "local",
+"year": "2022",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 38/2022",
+"short": "HCL Fântânele nr. 38/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://emol.ro/fantanele-sv/registru-hcl/241419",
+"council": "suceava/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-suceava--fantanele-39-2022",
 "path": "local/suceava/fantanele/2022/39",
 "kind": "local",
@@ -113,6 +136,28 @@
 }
 },
 {
+"slug": "hcl-suceava--fantanele-43-2022",
+"path": "local/suceava/fantanele/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 43/2022 privind modificarea art.1, alin.3 din HCL nr.30 din 22.07.2022 Fântânele",
+"short": "HCL Fântânele nr. 43/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://emol.ro/fantanele-sv/registru-hcl/241424",
+"council": "suceava/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--fantanele-44-2022",
 "path": "local/suceava/fantanele/2022/44",
 "kind": "local",
@@ -132,6 +177,28 @@
 "council_name": "Consiliul Local al Comunei Fântânele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--fantanele-45-2022",
+"path": "local/suceava/fantanele/2022/45",
+"kind": "local",
+"year": "2022",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 45/2022 privind alegerea președintelui de sedinta",
+"short": "HCL Fântânele nr. 45/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-20",
+"latest": "2022-10-20",
+"portal": "https://emol.ro/fantanele-sv/registru-hcl/241426",
+"council": "suceava/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +246,29 @@
 }
 },
 {
+"slug": "hcl-suceava--fantanele-48-2022",
+"path": "local/suceava/fantanele/2022/48",
+"kind": "local",
+"year": "2022",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 48/2022",
+"short": "HCL Fântânele nr. 48/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-22",
+"latest": "2022-10-22",
+"portal": "https://emol.ro/fantanele-sv/registru-hcl/241431",
+"council": "suceava/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-suceava--fantanele-49-2022",
 "path": "local/suceava/fantanele/2022/49",
 "kind": "local",
@@ -220,6 +310,51 @@
 "council_name": "Consiliul Local al Comunei Fântânele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--fantanele-51-2022",
+"path": "local/suceava/fantanele/2022/51",
+"kind": "local",
+"year": "2022",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 51/2022 privind revocare HCL 26 din 30.06.2022 privind aprobarea prelungirii prin act additional a contractului de concesiune nr.3170/14.05.2012",
+"short": "HCL Fântânele nr. 51/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-24",
+"latest": "2022-11-24",
+"portal": "https://emol.ro/fantanele-sv/registru-hcl/241434",
+"council": "suceava/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--fantanele-52-2022",
+"path": "local/suceava/fantanele/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 52/2022",
+"short": "HCL Fântânele nr. 52/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-24",
+"latest": "2022-11-24",
+"portal": "https://emol.ro/fantanele-sv/registru-hcl/241435",
+"council": "suceava/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

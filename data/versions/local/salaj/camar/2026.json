@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/salaj/camar/2026",
+ "acts": [
+  {
+   "slug": "hcl-salaj--camar-44-2026",
+   "path": "local/salaj/camar/2026/44",
+   "short": "HCL Camăr nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Camăr nr. 44/2026 privind urmeaza",
+   "url": "https://emol.ro/camar-sj/registru-hcl/287354",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/camar-sj/registru-hcl/287354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--camar-48-2026",
+   "path": "local/salaj/camar/2026/48",
+   "short": "HCL Camăr nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Camăr nr. 48/2026 privind privind aprobarea proiectului „ AMENAJARE TEREN DE FOTBAL IN LOCALITATEA CAMAR, JUDETUL SALAJ”",
+   "url": "https://emol.ro/camar-sj/registru-hcl/294111",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/camar-sj/registru-hcl/294111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--camar-49-2026",
+   "path": "local/salaj/camar/2026/49",
+   "short": "HCL Camăr nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Camăr nr. 49/2026 privind privind implementarea proiectului „ AMENAJARE TEREN DE FOTBAL IN LOCALITATEA CAMAR, JUDETUL SALAJ”",
+   "url": "https://emol.ro/camar-sj/registru-hcl/294112",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/camar-sj/registru-hcl/294112",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

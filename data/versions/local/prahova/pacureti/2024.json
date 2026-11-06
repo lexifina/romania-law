@@ -108,6 +108,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--pacureti-17-2024",
+   "path": "local/prahova/pacureti/2024/17",
+   "short": "HCL Păcureți nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 17/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--pacureti-18-2024",
+   "path": "local/prahova/pacureti/2024/18",
+   "short": "HCL Păcureți nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 18/2024 privind decontarea contravalorii cheltuielilor de transport intre localitatea de domiciuliu/resedinta si localitatea unde se afla locul de munca , pentru personalul angajat în cadrul aparatului de specialitate al primarului comunei Pacureti / Prahova conform art.111 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+   "url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#80276",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#80276",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--pacureti-19-2024",
    "path": "local/prahova/pacureti/2024/19",
    "short": "HCL Păcureți nr. 19/2024",
@@ -223,6 +253,36 @@
      "from": "2024-11-06",
      "units": 1,
      "source_url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#85648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--pacureti-26-2024",
+   "path": "local/prahova/pacureti/2024/26",
+   "short": "HCL Păcureți nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 26/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--pacureti-27-2024",
+   "path": "local/prahova/pacureti/2024/27",
+   "short": "HCL Păcureți nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 27/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]
@@ -403,6 +463,21 @@
      "from": "2024-01-30",
      "units": 1,
      "source_url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#69034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--pacureti-5-2024",
+   "path": "local/prahova/pacureti/2024/5",
+   "short": "HCL Păcureți nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 5/2024 privind nominalizarea de către consiliul local al comunei Pacureti , jud. Prahova, a doi consilieri locali care vor avea calitatea de evaluatori în cadrul comisiei de evaluare a performanțelor profesionale individuale ale secretarului general al comunei",
+   "url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#69032",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#69032",
      "sha256": null
     }
    ]

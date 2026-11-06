@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/comanesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-suceava--comanesti-50-2025",
+   "path": "local/suceava/comanesti/2025/50",
+   "short": "HCL Comănești nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Comănești nr. 50/2025",
+   "url": "http://www.comunacomanesti.ro/hotarari.html",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "http://www.comunacomanesti.ro/_Monitor/hcl_proiecte_2025/hcl_septembrie.pdf",
+     "sha256": "8aa319326e5e62b7a4d945ecaa380738715b00debec8a6c16112100aa3a93a50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--comanesti-57-2025",
+   "path": "local/suceava/comanesti/2025/57",
+   "short": "HCL Comănești nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Comănești nr. 57/2025",
+   "url": "http://www.comunacomanesti.ro/hotarari.html",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "http://www.comunacomanesti.ro/_Monitor/hcl_proiecte_2025/hcl_noiembrie.pdf",
+     "sha256": "7bcfaa609a5b34ea3160adaaac6d5c84116e2abc24140389685aa37f3e8e6cb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--comanesti-63-2025",
+   "path": "local/suceava/comanesti/2025/63",
+   "short": "HCL Comănești nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Comănești nr. 63/2025",
+   "url": "http://www.comunacomanesti.ro/hotarari.html",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "http://www.comunacomanesti.ro/_Monitor/hcl_proiecte_2025/hcl_decembrie.pdf",
+     "sha256": "c026ab3eda2b3e32f384d349aaee6605ca675577a53132223ac68719ad8eba1f"
+    }
+   ]
+  }
+ ]
+}

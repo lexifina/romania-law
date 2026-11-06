@@ -3,6 +3,28 @@
 "shard": "local/suceava/dorna-candrenilor/2026",
 "acts": [
 {
+"slug": "hcl-suceava--dorna-candrenilor-3-2026",
+"path": "local/suceava/dorna-candrenilor/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 3/2026 privind aprobarea „Regulamentului privind stabilirea și acordarea unor forme de sprijin financiar, de la bugetul local al comunei Dorna Candrenilor pentru unitățile de cult aparținând cultelor religioase recunoscute în România”",
+"short": "HCL Dorna Candrenilor nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-04",
+"latest": "2026-03-04",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/256992",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--dorna-candrenilor-4-2026",
 "path": "local/suceava/dorna-candrenilor/2026/4",
 "kind": "local",
@@ -22,6 +44,73 @@
 "council_name": "Consiliul Local al Comunei Dorna Candrenilor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-5-2026",
+"path": "local/suceava/dorna-candrenilor/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 5/2026",
+"short": "HCL Dorna Candrenilor nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-04",
+"latest": "2026-03-04",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/256994",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-6-2026",
+"path": "local/suceava/dorna-candrenilor/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 6/2026 privind alegerea președintelui de ședință",
+"short": "HCL Dorna Candrenilor nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-04",
+"latest": "2026-03-04",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/256995",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-7-2026",
+"path": "local/suceava/dorna-candrenilor/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 7/2026 privind aprobarea vânzării prin licitație publică, masă lemnoasă pe picior, provenită din fondul forestier proprietate publică a comunei Dorna Candrenilor",
+"short": "HCL Dorna Candrenilor nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-04",
+"latest": "2026-03-04",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/256996",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +136,28 @@
 }
 },
 {
+"slug": "hcl-suceava--dorna-candrenilor-9-2026",
+"path": "local/suceava/dorna-candrenilor/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 9/2026 privind aprobarea vânzării prin licitație publică, masă lemnoasă la drum auto, provenită din fondul forestier proprietate publică a comunei Dorna Candrenilor",
+"short": "HCL Dorna Candrenilor nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-04",
+"latest": "2026-03-04",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/256998",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--dorna-candrenilor-10-2026",
 "path": "local/suceava/dorna-candrenilor/2026/10",
 "kind": "local",
@@ -66,6 +177,28 @@
 "council_name": "Consiliul Local al Comunei Dorna Candrenilor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-11-2026",
+"path": "local/suceava/dorna-candrenilor/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 11/2026 privind vânzarea prin licitație publică a cantității de 334 mc volum brut, masă lemnoasă la drum auto din fondul forestier proprietate publică a comunei Dorna Candrenilor, administrată de Ocolul Silvic Dorna Candrenilor, pentru anul 2026",
+"short": "HCL Dorna Candrenilor nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-04",
+"latest": "2026-03-04",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/257000",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -110,6 +243,160 @@
 "council_name": "Consiliul Local al Comunei Dorna Candrenilor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-14-2026",
+"path": "local/suceava/dorna-candrenilor/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 14/2026 privind aprobarea prețului de vânzare directă a sortimentelor de masă lemnoasă fasonată rezultată din exploatarea masei lemnoase ce se recoltează din fondul forestier proprietate publică a comunei Dorna Candrenilor, ce vor fi valorificate din platformă primară prin vânzarea directă",
+"short": "HCL Dorna Candrenilor nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-04",
+"latest": "2026-03-04",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/257003",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-15-2026",
+"path": "local/suceava/dorna-candrenilor/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 15/2026 privind aprobarea proiectului tehnic, a devizului general actualizat și a indicatorilor tehnico-economici aferenți Obiectivului de investiție „MODERNIZARE INFRASTRUCTURĂ DE ACCES PENTRU OBIECTIVUL TURISTIC COMPLEX STAȚIUNE BALNEARĂ ȘI DE AGREMENT ÎN COMUNA DORNA CANDRENILOR, JUDEȚUL SUCEAVA, precum și depunerea lui în cadrul Planului Național de Redresare și Reziliență, Componenta C11-Turism și cultură, Reforma R1. Operaționalizarea OMD-urilor, apelul de proiecte PROGRAM DE INVESTIȚII ÎN INFRASTRUCTURĂ TURISTICĂ LA NIVELUL DESTINAȚIILOR PNRR/2025/C11/REFORMA 1",
+"short": "HCL Dorna Candrenilor nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-12",
+"latest": "2026-03-12",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/258173",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-16-2026",
+"path": "local/suceava/dorna-candrenilor/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 16/2026 privind aprobarea decontării navetei cadrelor didactice și personalului didactic-auxiliar pentru luna ianuarie 2026, care își desfășoară activitatea la Liceul Tehnologic Dorna Candrenilor",
+"short": "HCL Dorna Candrenilor nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-13",
+"latest": "2026-08-13",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/264052",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-17-2026",
+"path": "local/suceava/dorna-candrenilor/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 17/2026 privind aprobarea vânzării prin licitație publică a unor terenuri, proprietate privată a comunei Dorna Candrenilor, județul Suceava",
+"short": "HCL Dorna Candrenilor nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-13",
+"latest": "2026-08-13",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/264053",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-18-2026",
+"path": "local/suceava/dorna-candrenilor/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 18/2026 privind atestarea completării anexei Inventarului bunurilor care alcătuiesc domeniul privat al comunei Dorna Candrenilor, județul Suceava",
+"short": "HCL Dorna Candrenilor nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-13",
+"latest": "2026-08-13",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/264054",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-19-2026",
+"path": "local/suceava/dorna-candrenilor/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 19/2026 privind însușirea Bugetului de venituri și cheltuieli privind administrarea pădurilor comunale prin Ocolul Silvic Vatra Dornei pentru anul 2026",
+"short": "HCL Dorna Candrenilor nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-13",
+"latest": "2026-08-13",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/264055",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--dorna-candrenilor-20-2026",
+"path": "local/suceava/dorna-candrenilor/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 20/2026 privind aprobarea raportului de descărcare de gestiune privind veniturile și cheltuielile pentru suprafața de pădure proprietatea comunei Dorna Candrenilor, pentru perioada 01.01.2025-31.12.2025, administrată cu Ocolul Silvic Vatra Dornei",
+"short": "HCL Dorna Candrenilor nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-13",
+"latest": "2026-08-13",
+"portal": "https://emol.ro/dornacandrenilor-sv/registru-hcl/264056",
+"council": "suceava/dorna-candrenilor",
+"council_name": "Consiliul Local al Comunei Dorna Candrenilor",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

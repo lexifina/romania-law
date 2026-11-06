@@ -3,6 +3,36 @@
  "shard": "local/prahova/pacureti/2021",
  "acts": [
   {
+   "slug": "hcl-prahova--pacureti-10-2021",
+   "path": "local/prahova/pacureti/2021/10",
+   "short": "HCL Păcureți nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 10/2021 PROIECT H.C.L privind aprobarea completării Nomenclatorului stradal al comunei Păcureți , jud. Prahova",
+   "url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#2814",
+   "versions": [
+    {
+     "from": "2021-09-02",
+     "units": 1,
+     "source_url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#2814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--pacureti-11-2021",
+   "path": "local/prahova/pacureti/2021/11",
+   "short": "HCL Păcureți nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 11/2021 proiect DE HOTARARE PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA PE LUNILE SEPTEMBRIE , OCTOMBRIE SI NOIEMBRIE 2021",
+   "url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#2813",
+   "versions": [
+    {
+     "from": "2021-09-02",
+     "units": 1,
+     "source_url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#2813",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--pacureti-12-2021",
    "path": "local/prahova/pacureti/2021/12",
    "short": "HCL Păcureți nr. 12/2021",

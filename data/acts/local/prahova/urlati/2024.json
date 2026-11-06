@@ -3,6 +3,29 @@
 "shard": "local/prahova/urlati/2024",
 "acts": [
 {
+"slug": "hcl-prahova--urlati-1-2024",
+"path": "local/prahova/urlati/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 1/2024",
+"short": "HCL Urlați nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-19",
+"latest": "2024-01-19",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/137003",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--urlati-2-2024",
 "path": "local/prahova/urlati/2024/2",
 "kind": "local",
@@ -22,6 +45,50 @@
 "council_name": "Consiliul Local al Orașului Urlați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--urlati-3-2024",
+"path": "local/prahova/urlati/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 3/2024 pentru aprobarea Raportului privind activitatea desfășurată de către asistenţii personali din Orașul Urlați în semestrul II al anului 2023",
+"short": "HCL Urlați nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-02",
+"latest": "2024-02-02",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/138932",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-4-2024",
+"path": "local/prahova/urlati/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 4/2024 privind aprobarea Planului de Acțiuni și Lucrări de Interes Local pe anul 2024",
+"short": "HCL Urlați nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-02",
+"latest": "2024-02-02",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/138933",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +224,51 @@
 }
 },
 {
+"slug": "hcl-prahova--urlati-11-2024",
+"path": "local/prahova/urlati/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 11/2024",
+"short": "HCL Urlați nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/146075",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--urlati-12-2024",
+"path": "local/prahova/urlati/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 12/2024 privind continuarea asocierii Consiliului Local Urlaţi cu Fundaţia Bucuria Ajutorului filiala Urlaţi, în vederea susţinerii serviciilor sociale pentru copiii care provin din familii aflate în dificultate, pentru anul bugetar 2024",
+"short": "HCL Urlați nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/146076",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--urlati-13-2024",
 "path": "local/prahova/urlati/2024/13",
 "kind": "local",
@@ -180,6 +292,160 @@
 }
 },
 {
+"slug": "hcl-prahova--urlati-14-2024",
+"path": "local/prahova/urlati/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 14/2024 privind aprobarea cotizaţiei Consiliului Local Urlaţi pentru anul 2024 la Asociaţia de Dezvoltare Intercomunitară „Parteneriatul pentru Managementul Deşeurilor - Prahova”",
+"short": "HCL Urlați nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/146078",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-15-2024",
+"path": "local/prahova/urlati/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 15/2024 privind aprobarea cotizaţiei Consiliului Local Urlaţi pentru anul 2024 la Asociaţia Oraşelor din România",
+"short": "HCL Urlați nr. 15/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/146079",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-16-2024",
+"path": "local/prahova/urlati/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 16/2024 privind aprobarea cotizaţiei Consiliului Local Urlaţi pentru anul 2024 la Asociaţia de Dezvoltare Intercomunitară „Parteneriatul pentru managementul apei - Prahova”",
+"short": "HCL Urlați nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/146080",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-17-2024",
+"path": "local/prahova/urlati/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 17/2024 privind aprobarea cotizaţiei Consiliului Local Urlaţi pentru anul 2024 la Asociaţia de Dezvoltare Intercomunitară „Ținutul Vinului”",
+"short": "HCL Urlați nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/146081",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-18-2024",
+"path": "local/prahova/urlati/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 18/2024 privind aprobarea plăţii cheltuielilor cu naveta cadrelor didactice din Grădiniţa cu Program Prelungit „Clopoţica”, Oraşul Urlaţi, pentru lunile decembrie 2023 și ianuarie 2024",
+"short": "HCL Urlați nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/146082",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-19-2024",
+"path": "local/prahova/urlati/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 19/2024 privind aprobarea principalelor manifestări cultural-artistice, sociale şi educative care se vor desfăşura în orașul Urlați în perioada februarie-decembrie 2024",
+"short": "HCL Urlați nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/146083",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-20-2024",
+"path": "local/prahova/urlati/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 20/2024 privind aprobarea consumului lunar de carburanţi pentru autoturismele din dotarea Primăriei orașului Urlaţi și pentru activităţile specifice Serviciului de Administrare a Domeniului Public și Privat al Orașului Urlați",
+"short": "HCL Urlați nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/146084",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--urlati-21-2024",
 "path": "local/prahova/urlati/2024/21",
 "kind": "local",
@@ -199,6 +465,51 @@
 "council_name": "Consiliul Local al Orașului Urlați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--urlati-22-2024",
+"path": "local/prahova/urlati/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 22/2024",
+"short": "HCL Urlați nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/146086",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--urlati-23-2024",
+"path": "local/prahova/urlati/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 23/2024 privind aprobarea Regulamentului și a criteriilor de acordare a ajutoarelor de urgență și a beneficiilor sociale, familiilor și persoanelor care se află în situații de necesitate",
+"short": "HCL Urlați nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/146087",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -378,6 +689,28 @@
 }
 },
 {
+"slug": "hcl-prahova--urlati-32-2024",
+"path": "local/prahova/urlati/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 32/2024 privind aprobarea plăţii cheltuielilor cu naveta cadrelor didactice din Școala Gimnazială „Cănuță Ionescu”, Oraşul Urlaţi, pentru lunile decembrie 2023 și ianuarie și februarie 2024",
+"short": "HCL Urlați nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-05",
+"latest": "2024-04-05",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/150646",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--urlati-33-2024",
 "path": "local/prahova/urlati/2024/33",
 "kind": "local",
@@ -397,6 +730,28 @@
 "council_name": "Consiliul Local al Orașului Urlați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--urlati-34-2024",
+"path": "local/prahova/urlati/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 34/2024 privind alegerea preşedintelui de şedinţă pe perioada aprilie, mai, iunie 2024",
+"short": "HCL Urlați nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-05",
+"latest": "2024-04-05",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/150648",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -489,6 +844,94 @@
 }
 },
 {
+"slug": "hcl-prahova--urlati-39-2024",
+"path": "local/prahova/urlati/2024/39",
+"kind": "local",
+"year": "2024",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 39/2024 privind aprobarea plăţii cheltuielilor cu naveta cadrelor didactice din Grădiniţa cu Program Prelungit „Clopoţica”, Oraşul Urlaţi, pentru luna februarie 2024",
+"short": "HCL Urlați nr. 39/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-15",
+"latest": "2024-05-15",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/154174",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-40-2024",
+"path": "local/prahova/urlati/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 40/2024 privind aprobarea Structurii organizatorice, Organigramei și Statului de funcţii al Spitalului Orăşenesc Urlaţi",
+"short": "HCL Urlați nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-15",
+"latest": "2024-05-15",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/154175",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-41-2024",
+"path": "local/prahova/urlati/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 41/2024 privind aprobarea plăţii cheltuielilor cu naveta cadrelor didactice din Grădiniţa cu Program Prelungit „Clopoţica”, Oraşul Urlaţi, pentru luna martie 2024",
+"short": "HCL Urlați nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-15",
+"latest": "2024-05-15",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/154176",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-42-2024",
+"path": "local/prahova/urlati/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 42/2024 privind aprobarea cotizaţiei Consiliului Local Urlaţi pentru anul 2024 la Grupul de Acţiune Locală „Meleagurile Cricovului”",
+"short": "HCL Urlați nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-15",
+"latest": "2024-05-15",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/154177",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--urlati-43-2024",
 "path": "local/prahova/urlati/2024/43",
 "kind": "local",
@@ -555,6 +998,73 @@
 }
 },
 {
+"slug": "hcl-prahova--urlati-46-2024",
+"path": "local/prahova/urlati/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 46/2024 privind aprobarea plăţii cheltuielilor cu naveta cadrelor didactice din Școala Gimnazială „Cănuță Ionescu”, Oraşul Urlaţi, pentru luna martie 2024",
+"short": "HCL Urlați nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-14",
+"latest": "2024-06-14",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/158339",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-47-2024",
+"path": "local/prahova/urlati/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 47/2024 privind aprobarea plăţii cheltuielilor cu naveta cadrelor didactice din Liceul Teoretic „Brâncoveanu Vodă”, Oraşul Urlaţi, pentru lunile decembrie 2023 și ianuarie și februarie 2024",
+"short": "HCL Urlați nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-14",
+"latest": "2024-06-14",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/158340",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-48-2024",
+"path": "local/prahova/urlati/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 48/2024",
+"short": "HCL Urlați nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-14",
+"latest": "2024-06-14",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/158341",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--urlati-49-2024",
 "path": "local/prahova/urlati/2024/49",
 "kind": "local",
@@ -574,6 +1084,28 @@
 "council_name": "Consiliul Local al Orașului Urlați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--urlati-50-2024",
+"path": "local/prahova/urlati/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 50/2024 privind aprobarea contului anual de execuţie a bugetului general al oraşului Urlaţi şi a situaţiilor financiare la data de 31 decembrie 2023",
+"short": "HCL Urlați nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-14",
+"latest": "2024-06-14",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/158343",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -643,6 +1175,28 @@
 }
 },
 {
+"slug": "hcl-prahova--urlati-54-2024",
+"path": "local/prahova/urlati/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 54/2024 privind aprobarea plăţii cheltuielilor cu naveta cadrelor didactice din Școala Gimnazială „Cănuță Ionescu”, Oraşul Urlaţi, pentru luna aprilie 2024",
+"short": "HCL Urlați nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-04",
+"latest": "2024-07-04",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/160043",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--urlati-55-2024",
 "path": "local/prahova/urlati/2024/55",
 "kind": "local",
@@ -688,6 +1242,28 @@
 }
 },
 {
+"slug": "hcl-prahova--urlati-57-2024",
+"path": "local/prahova/urlati/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 57/2024 privind alegerea preşedintelui de şedinţă pe perioada iulie, august, septembrie 2024",
+"short": "HCL Urlați nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-04",
+"latest": "2024-07-04",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/160046",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--urlati-58-2024",
 "path": "local/prahova/urlati/2024/58",
 "kind": "local",
@@ -707,6 +1283,28 @@
 "council_name": "Consiliul Local al Orașului Urlați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--urlati-59-2024",
+"path": "local/prahova/urlati/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 59/2024 privind aprobarea Structurii organizatorice, Organigramei și Statului de funcţii al Spitalului Orăşenesc Urlaţi",
+"short": "HCL Urlați nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-04",
+"latest": "2024-07-04",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/160048",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -732,6 +1330,29 @@
 }
 },
 {
+"slug": "hcl-prahova--urlati-61-2024",
+"path": "local/prahova/urlati/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 61/2024",
+"short": "HCL Urlați nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-25",
+"latest": "2024-07-25",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/162925",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--urlati-62-2024",
 "path": "local/prahova/urlati/2024/62",
 "kind": "local",
@@ -751,6 +1372,72 @@
 "council_name": "Consiliul Local al Orașului Urlați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--urlati-63-2024",
+"path": "local/prahova/urlati/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 63/2024 privind aprobarea plăţii cheltuielilor cu naveta cadrelor didactice din Școala Gimnazială „Cănuță Ionescu”, Oraşul Urlaţi, pentru luna mai 2024",
+"short": "HCL Urlați nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-25",
+"latest": "2024-07-25",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/162927",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-64-2024",
+"path": "local/prahova/urlati/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 64/2024 pentru aprobarea Raportului privind activitatea desfășurată de către asistenţii personali din Orașul Urlați în semestrul I al anului 2024",
+"short": "HCL Urlați nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-25",
+"latest": "2024-07-25",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/162928",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-65-2024",
+"path": "local/prahova/urlati/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 65/2024 pentru aprobarea Planului anual de acțiune privind serviciile sociale pentru anul 2024",
+"short": "HCL Urlați nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-25",
+"latest": "2024-07-25",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/162929",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -886,6 +1573,28 @@
 }
 },
 {
+"slug": "hcl-prahova--urlati-72-2024",
+"path": "local/prahova/urlati/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 72/2024 privind acordarea sprijinului financiar pentru unitățile de cult din Orașul Urlați",
+"short": "HCL Urlați nr. 72/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-05",
+"latest": "2024-09-05",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/166562",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--urlati-73-2024",
 "path": "local/prahova/urlati/2024/73",
 "kind": "local",
@@ -972,6 +1681,28 @@
 "council_name": "Consiliul Local al Orașului Urlați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--urlati-77-2024",
+"path": "local/prahova/urlati/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 77/2024 privind aprobarea plăţii cheltuielilor cu naveta cadrelor didactice din Școala Gimnazială „Cănuță Ionescu”, Oraşul Urlaţi, pentru luna iunie 2024",
+"short": "HCL Urlați nr. 77/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/169776",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1063,6 +1794,117 @@
 }
 },
 {
+"slug": "hcl-prahova--urlati-82-2024",
+"path": "local/prahova/urlati/2024/82",
+"kind": "local",
+"year": "2024",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 82/2024",
+"short": "HCL Urlați nr. 82/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-07",
+"latest": "2024-10-07",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/170974",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--urlati-83-2024",
+"path": "local/prahova/urlati/2024/83",
+"kind": "local",
+"year": "2024",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 83/2024 privind privind aprobarea Structurii organizatorice, Organigramei și Statului de funcţii al Spitalului Orăşenesc Urlaţi",
+"short": "HCL Urlați nr. 83/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-07",
+"latest": "2024-10-07",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/170975",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-84-2024",
+"path": "local/prahova/urlati/2024/84",
+"kind": "local",
+"year": "2024",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 84/2024 privind aprobarea plăţii cheltuielilor cu naveta cadrelor didactice din Liceul Teoretic „Brâncoveanu Vodă”, Oraşul Urlaţi, pentru lunile martie, aprilie, mai 2024",
+"short": "HCL Urlați nr. 84/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-07",
+"latest": "2024-10-07",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/170976",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-85-2024",
+"path": "local/prahova/urlati/2024/85",
+"kind": "local",
+"year": "2024",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 85/2024 privind aprobarea plăţii cheltuielilor cu naveta cadrelor didactice din Grădiniţa cu Program Prelungit „Clopoţica”, Oraşul Urlaţi, pentru lunile aprilie, mai și iunie 2024",
+"short": "HCL Urlați nr. 85/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-07",
+"latest": "2024-10-07",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/170977",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-86-2024",
+"path": "local/prahova/urlati/2024/86",
+"kind": "local",
+"year": "2024",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 86/2024 privind prelungirea numirii pentru anul şcolar 2024-2025 a reprezentanților Consiliului Local Urlaţi ca membri în Consiliile de Administrație și în Comisiile pentru evaluarea şi asigurarea calităţii educației din unitățile de învățământ de stat din Oraşul Urlaţi, până la constituirea consiliului local ales urmare alegerilor locale din data de 9 iunie 2024",
+"short": "HCL Urlați nr. 86/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-07",
+"latest": "2024-10-07",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/170978",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--urlati-87-2024",
 "path": "local/prahova/urlati/2024/87",
 "kind": "local",
@@ -1130,6 +1972,72 @@
 }
 },
 {
+"slug": "hcl-prahova--urlati-90-2024",
+"path": "local/prahova/urlati/2024/90",
+"kind": "local",
+"year": "2024",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 90/2024 privind aprobarea Structurii organizatorice, Organigramei și Statului de funcţii al Spitalului Orăşenesc Urlaţi",
+"short": "HCL Urlați nr. 90/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-28",
+"latest": "2024-10-28",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/173331",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-91-2024",
+"path": "local/prahova/urlati/2024/91",
+"kind": "local",
+"year": "2024",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 91/2024 privind alegerea preşedintelui de şedinţă pe perioada noiembrie 2024, decembrie 2024, ianuarie 2025",
+"short": "HCL Urlați nr. 91/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/176819",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-92-2024",
+"path": "local/prahova/urlati/2024/92",
+"kind": "local",
+"year": "2024",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 92/2024 privind stabilirea comisiilor de specialitate ale Consiliului Local al orașului Urlaţi",
+"short": "HCL Urlați nr. 92/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/176820",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--urlati-93-2024",
 "path": "local/prahova/urlati/2024/93",
 "kind": "local",
@@ -1171,6 +2079,94 @@
 "council_name": "Consiliul Local al Orașului Urlați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--urlati-95-2024",
+"path": "local/prahova/urlati/2024/95",
+"kind": "local",
+"year": "2024",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 95/2024 privind numirea pentru anul şcolar 2024-2025 a reprezentanților Consiliului Local al orașului Urlaţi ca membri în Consiliile de Administrație și în Comisiile pentru evaluarea şi asigurarea calităţii educației din unitățile de învățământ de stat din Oraşul Urlaţi",
+"short": "HCL Urlați nr. 95/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/179623",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-96-2024",
+"path": "local/prahova/urlati/2024/96",
+"kind": "local",
+"year": "2024",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 96/2024 privind numirea reprezentanților Consiliului Local al orașului Urlaţi ca membri în Consiliul de Administraţie al Spitalului Orăşenesc Urlaţi",
+"short": "HCL Urlați nr. 96/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/179624",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-97-2024",
+"path": "local/prahova/urlati/2024/97",
+"kind": "local",
+"year": "2024",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 97/2024 privind aprobarea plăţii cheltuielilor cu naveta cadrelor didactice din Grădiniţa cu Program Prelungit „Clopoţica”, Oraşul Urlaţi, pentru lunile septembrie și octombrie 2024",
+"short": "HCL Urlați nr. 97/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/179625",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-98-2024",
+"path": "local/prahova/urlati/2024/98",
+"kind": "local",
+"year": "2024",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 98/2024 privind aprobarea plăţii cheltuielilor cu naveta cadrelor didactice din Școala Gimnazială „Cănuță Ionescu”, Oraşul Urlaţi, pentru lunile septembrie și octombrie 2024",
+"short": "HCL Urlați nr. 98/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/179626",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1281,6 +2277,139 @@
 "council_name": "Consiliul Local al Orașului Urlați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--urlati-104-2024",
+"path": "local/prahova/urlati/2024/104",
+"kind": "local",
+"year": "2024",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 104/2024",
+"short": "HCL Urlați nr. 104/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/184000",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--urlati-105-2024",
+"path": "local/prahova/urlati/2024/105",
+"kind": "local",
+"year": "2024",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 105/2024 privind organizarea şi funcţionarea Comisiei locale de ordine publică a oraşului Urlaţi",
+"short": "HCL Urlați nr. 105/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/184001",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-106-2024",
+"path": "local/prahova/urlati/2024/106",
+"kind": "local",
+"year": "2024",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 106/2024 pentru modificarea H.C.L.Urlați nr. 96 din 28.11.2024 privind numirea reprezentanților Consiliului Local al orașului Urlaţi ca membri în Consiliul de Administraţie al Spitalului Orăşenesc Urlaţi",
+"short": "HCL Urlați nr. 106/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/184002",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-107-2024",
+"path": "local/prahova/urlati/2024/107",
+"kind": "local",
+"year": "2024",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 107/2024 privind aprobarea plăţii cheltuielilor cu naveta cadrelor didactice din Grădiniţa cu Program Prelungit „Clopoţica”, Oraşul Urlaţi, pentru luna noiembrie 2024",
+"short": "HCL Urlați nr. 107/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/184003",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-108-2024",
+"path": "local/prahova/urlati/2024/108",
+"kind": "local",
+"year": "2024",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 108/2024 privind aprobarea plăţii cheltuielilor cu naveta cadrelor didactice din Școala Gimnazială „Cănuță Ionescu”, Oraşul Urlaţi, pentru luna noiembrie 2024",
+"short": "HCL Urlați nr. 108/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/184004",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--urlati-109-2024",
+"path": "local/prahova/urlati/2024/109",
+"kind": "local",
+"year": "2024",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Urlați nr. 109/2024 privind aprobarea Structurii organizatorice, Organigramei și Statului de funcţii al Spitalului Orăşenesc Urlaţi",
+"short": "HCL Urlați nr. 109/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/urlati-ph/registru-hcl/184005",
+"council": "prahova/urlati",
+"council_name": "Consiliul Local al Orașului Urlați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -78,6 +78,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--olari-23-2024",
+   "path": "local/prahova/olari/2024/23",
+   "short": "HCL Olari nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 23/2024 privind desemnarea reprezentantului Consiliului local Olari in Comisia pentru evaluarea si asigurarea calitatii din cadrul Scolii Gimnaziale, Comuna Olari pentru anul scolar 2024-2025,",
+   "url": "https://emol.ro/olari-ph/registru-hcl/177302",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/177302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-24-2024",
+   "path": "local/prahova/olari/2024/24",
+   "short": "HCL Olari nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 24/2024 privind desemnarea reprezentantului Consiliului local Olari in Consiliul de Administratie al Scolii Gimnaziale Olari pentru anul scolar 2024-2025",
+   "url": "https://emol.ro/olari-ph/registru-hcl/177303",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/177303",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--olari-25-2024",
    "path": "local/prahova/olari/2024/25",
    "short": "HCL Olari nr. 25/2024",
@@ -163,6 +193,21 @@
      "from": "2024-12-06",
      "units": 1,
      "source_url": "https://emol.ro/olari-ph/registru-hcl/177520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-31-2024",
+   "path": "local/prahova/olari/2024/31",
+   "short": "HCL Olari nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 31/2024 privind aprobarea anularii unor obligații bugetare principale și a accesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv, datorate bugetului local al al Comunei Olari, precum si a procedurii de acordare a acestora",
+   "url": "https://emol.ro/olari-ph/registru-hcl/180899",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/180899",
      "sha256": null
     }
    ]

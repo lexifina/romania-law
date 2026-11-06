@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-suceava--forasti-117-2021",
+"path": "local/suceava/forasti/2021/117",
+"kind": "local",
+"year": "2021",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 117/2021 privind aprobarea cuantumului indemnizației acordată voluntarilor pentru timpul efectiv de lucru prestat la intervenții și la celelalte activități prevăzute în programul Serviciului Voluntar pentru Situații de Urgență",
+"short": "HCL Forăști nr. 117/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/46414",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--forasti-118-2021",
 "path": "local/suceava/forasti/2021/118",
 "kind": "local",
@@ -244,6 +266,28 @@
 "council_name": "Consiliul Local al Comunei Forăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--forasti-126-2021",
+"path": "local/suceava/forasti/2021/126",
+"kind": "local",
+"year": "2021",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 126/2021 privind aprobarea vânzării prin licitație publică a unui teren în suprafață de 39.000 mp, teren neproductiv (iaz) situat în Antoceni, ce aparține domeniului privat al comunei Forăști, județul Suceava",
+"short": "HCL Forăști nr. 126/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/46484",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

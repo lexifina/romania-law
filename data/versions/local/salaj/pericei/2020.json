@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--pericei-59-2020",
+   "path": "local/salaj/pericei/2020/59",
+   "short": "HCL Pericei nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 59/2020 privind alegerea președintelui de ședință pe perioada noiembrie 2020-ianuarie 2021",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/17309",
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/17309",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--pericei-60-2020",
    "path": "local/salaj/pericei/2020/60",
    "short": "HCL Pericei nr. 60/2020",
@@ -123,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--pericei-66-2020",
+   "path": "local/salaj/pericei/2020/66",
+   "short": "HCL Pericei nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 66/2020 privind numirea în calitate de reprezentanți ai Consiliului Local al Comunei Pericei, în Consiliul de Administrație al unității de învățământ Școala Gimnazială nr. 1 din Pericei pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/17325",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/17325",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--pericei-67-2020",
    "path": "local/salaj/pericei/2020/67",
    "short": "HCL Pericei nr. 67/2020",
@@ -163,6 +193,21 @@
      "from": "2020-11-26",
      "units": 1,
      "source_url": "https://emol.ro/pericei-sj/registru-hcl/17328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--pericei-70-2020",
+   "path": "local/salaj/pericei/2020/70",
+   "short": "HCL Pericei nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 70/2020 privind aprobarea devizului general cu indicatorii tehnico-economici și a cofinanțării de la bugetul local pentru realizarea obiectivului de investiție ” Reabilitare, modernizare și dotare grădiniță în sat Pericei, comuna Pericei, județul Sălaj”",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/17329",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/17329",
      "sha256": null
     }
    ]

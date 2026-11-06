@@ -3,6 +3,50 @@
 "shard": "local/suceava/forasti/2023",
 "acts": [
 {
+"slug": "hcl-suceava--forasti-100-2023",
+"path": "local/suceava/forasti/2023/100",
+"kind": "local",
+"year": "2023",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 100/2023 privind aprobarea vanzarii cu respectarea dreptului de preemptiune a unui teren proprietate privata a comunei Forasti, judetul Suceava, aferent imobilului casa de locuit, situat in sat Tolesti",
+"short": "HCL Forăști nr. 100/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/132998",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-101-2023",
+"path": "local/suceava/forasti/2023/101",
+"kind": "local",
+"year": "2023",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 101/2023 privind aprobarea vanzarii prin licitatie publica a unui teren din intravilan in suprafata de 3.577 mp, identificat prin CF nr.33962 Forasti, domeniu privat al comunei Forasti, judetul Suceava",
+"short": "HCL Forăști nr. 101/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/132999",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--forasti-102-2023",
 "path": "local/suceava/forasti/2023/102",
 "kind": "local",
@@ -44,6 +88,51 @@
 "council_name": "Consiliul Local al Comunei Forăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--forasti-104-2023",
+"path": "local/suceava/forasti/2023/104",
+"kind": "local",
+"year": "2023",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 104/2023 privind aprobarea vanzarii prin licitatie publica a unui teren din intravilan in suprafata de 1.000 mp, identificat prin CF nr. 33859 Forasti, categoria de folosinta “arabil”, domeniu privat al comunei Forasti, judetul Suceava",
+"short": "HCL Forăști nr. 104/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/133002",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-105-2023",
+"path": "local/suceava/forasti/2023/105",
+"kind": "local",
+"year": "2023",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 105/2023",
+"short": "HCL Forăști nr. 105/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/133003",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -113,6 +202,28 @@
 }
 },
 {
+"slug": "hcl-suceava--forasti-109-2023",
+"path": "local/suceava/forasti/2023/109",
+"kind": "local",
+"year": "2023",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 109/2023 privind aprobarea Studiului de Fundamentare a deciziei de concesionare a serviciului de utilitate publica de distributie a gazelor naturale in comuna Forasti, judetul Suceava",
+"short": "HCL Forăști nr. 109/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/133007",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--forasti-110-2023",
 "path": "local/suceava/forasti/2023/110",
 "kind": "local",
@@ -132,6 +243,28 @@
 "council_name": "Consiliul Local al Comunei Forăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--forasti-123-2023",
+"path": "local/suceava/forasti/2023/123",
+"kind": "local",
+"year": "2023",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 123/2023 privind rectificarea bugetului local de venituri și cheltuieli și a Listei de investiții",
+"short": "HCL Forăști nr. 123/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188488",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -199,6 +332,95 @@
 "council_name": "Consiliul Local al Comunei Forăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--forasti-127-2023",
+"path": "local/suceava/forasti/2023/127",
+"kind": "local",
+"year": "2023",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 127/2023 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice de la Școala Gimnazială Oniceni",
+"short": "HCL Forăști nr. 127/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188496",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-128-2023",
+"path": "local/suceava/forasti/2023/128",
+"kind": "local",
+"year": "2023",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 128/2023",
+"short": "HCL Forăști nr. 128/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188500",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--forasti-129-2023",
+"path": "local/suceava/forasti/2023/129",
+"kind": "local",
+"year": "2023",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 129/2023 privind alegerea președintelui de ședință",
+"short": "HCL Forăști nr. 129/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188515",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-130-2023",
+"path": "local/suceava/forasti/2023/130",
+"kind": "local",
+"year": "2023",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 130/2023 privind îndreptarea erorii materiale strecurate în Anexa la HCL nr. 120/20.11.2023 cu privire la stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Forăști, județul Suceava, începând cu luna noiembrie 2023",
+"short": "HCL Forăști nr. 130/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188517",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

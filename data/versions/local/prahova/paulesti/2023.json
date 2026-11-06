@@ -93,6 +93,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--paulesti-156-2023",
+   "path": "local/prahova/paulesti/2023/156",
+   "short": "HCL Păulești nr. 156/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 156/2023 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al Primarului comunei Păulești precum și din serviciile publice înființate în subordinea Consiliului Local Păulești, începând luna decembrie 2023",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/132733",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/132733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-157-2023",
+   "path": "local/prahova/paulesti/2023/157",
+   "short": "HCL Păulești nr. 157/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 157/2023 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al Primarului comunei Păulești precum și din serviciile publice înființate în subordinea Consiliului Local Păulești, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/132734",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/132734",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--paulesti-158-2023",
    "path": "local/prahova/paulesti/2023/158",
    "short": "HCL Păulești nr. 158/2023",
@@ -138,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--paulesti-161-2023",
+   "path": "local/prahova/paulesti/2023/161",
+   "short": "HCL Păulești nr. 161/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 161/2023 privind aprobarea prețului de cumpărare a terenului în suprafață 7600 mp, nr.cad. 32399",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/133194",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/133194",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--paulesti-162-2023",
    "path": "local/prahova/paulesti/2023/162",
    "short": "HCL Păulești nr. 162/2023",
@@ -178,6 +223,21 @@
      "from": "2023-12-29",
      "units": 1,
      "source_url": "https://emol.ro/paulesti-ph/registru-hcl/133197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-165-2023",
+   "path": "local/prahova/paulesti/2023/165",
+   "short": "HCL Păulești nr. 165/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 165/2023 privind aprobarea prelungirii termenului de valabilitate al contractului de închiriere nr.181/2012 încheiat intre Comuna Păulești si SC Gerifarm SRL",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/133198",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/133198",
      "sha256": null
     }
    ]

@@ -70,6 +70,28 @@
 }
 },
 {
+"slug": "hcl-suceava--izvoarele-sucevei-43-2025",
+"path": "local/suceava/izvoarele-sucevei/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 43/2025 privind alegerea președintelui de ședință al Consiliului Local al comunei Izvoarele Sucevei, județul Suceava pentru perioada noiembrie-decembrie 2025 - ianuarie 2026",
+"short": "HCL Izvoarele Sucevei nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/231414",
+"council": "suceava/izvoarele-sucevei",
+"council_name": "Consiliul Local al Comunei Izvoarele Sucevei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--izvoarele-sucevei-44-2025",
 "path": "local/suceava/izvoarele-sucevei/2025/44",
 "kind": "local",
@@ -111,6 +133,50 @@
 "council_name": "Consiliul Local al Comunei Izvoarele Sucevei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--izvoarele-sucevei-46-2025",
+"path": "local/suceava/izvoarele-sucevei/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 46/2025 privind acordarea unui sprijin financiar, din bugetul local al comunei Izvoarele Sucevei aprobat pentru anul 2025",
+"short": "HCL Izvoarele Sucevei nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/231417",
+"council": "suceava/izvoarele-sucevei",
+"council_name": "Consiliul Local al Comunei Izvoarele Sucevei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--izvoarele-sucevei-47-2025",
+"path": "local/suceava/izvoarele-sucevei/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 47/2025 privind alegerea președintelui de ședință al Consiliului Local al comunei Izvoarele Sucevei, județul Suceava pentru perioada noiembrie-decembrie 2025 - ianuarie 2026",
+"short": "HCL Izvoarele Sucevei nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/236938",
+"council": "suceava/izvoarele-sucevei",
+"council_name": "Consiliul Local al Comunei Izvoarele Sucevei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -202,6 +268,28 @@
 }
 },
 {
+"slug": "hcl-suceava--izvoarele-sucevei-52-2025",
+"path": "local/suceava/izvoarele-sucevei/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 52/2025 privind stabilirea indemnizației lunare de şedinţă consilierilor locali ai Consiliului Local Izvoarele Sucevei, pentru anul 2026",
+"short": "HCL Izvoarele Sucevei nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/236943",
+"council": "suceava/izvoarele-sucevei",
+"council_name": "Consiliul Local al Comunei Izvoarele Sucevei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--izvoarele-sucevei-53-2025",
 "path": "local/suceava/izvoarele-sucevei/2025/53",
 "kind": "local",
@@ -265,6 +353,28 @@
 "council_name": "Consiliul Local al Comunei Izvoarele Sucevei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--izvoarele-sucevei-56-2025",
+"path": "local/suceava/izvoarele-sucevei/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 56/2025 privind aprobarea structurii organizatorice și a statului de funcții al aparatului de specialitate al Primarului comunei Izvoarele Sucevei, județul Suceava, pentru anul 2026",
+"short": "HCL Izvoarele Sucevei nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/245072",
+"council": "suceava/izvoarele-sucevei",
+"council_name": "Consiliul Local al Comunei Izvoarele Sucevei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

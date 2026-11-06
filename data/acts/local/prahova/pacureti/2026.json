@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-prahova--pacureti-50-2026",
+"path": "local/prahova/pacureti/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 50/2026 Privind acordarea unui sprijin financiar pentru unitatile de cult apartinand cultelor religioase din Comuna Pacureti, judetul Prahova",
+"short": "HCL Păcureți nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-20",
+"latest": "2026-08-20",
+"portal": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#127777",
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--pacureti-51-2026",
 "path": "local/prahova/pacureti/2026/51",
 "kind": "local",
@@ -287,6 +309,52 @@
 "council_name": "Consiliul Local al Comunei Păcureți",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--pacureti-57-2026",
+"path": "local/prahova/pacureti/2026/57",
+"kind": "local",
+"year": "2026",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 57/2026",
+"short": "HCL Păcureți nr. 57/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": null,
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--pacureti-58-2026",
+"path": "local/prahova/pacureti/2026/58",
+"kind": "local",
+"year": "2026",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 58/2026",
+"short": "HCL Păcureți nr. 58/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": null,
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

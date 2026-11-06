@@ -25,6 +25,117 @@
 }
 },
 {
+"slug": "hcl-prahova--provita-de-jos-17-2026",
+"path": "local/prahova/provita-de-jos/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 17/2026 privind aprobarea atribuirii directe și aprobarea încheierii unor contracte de închiriere pentru suprafețele de pajiști (pășuni și fânețe) ce fac parte din patrimoniul privat al comunei Provița de Jos",
+"short": "HCL Provița de Jos nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-04",
+"latest": "2026-06-04",
+"portal": "https://emol.ro/provitadejos-ph/registru-hcl/272527",
+"council": "prahova/provita-de-jos",
+"council_name": "Consiliul Local al Comunei Provița de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--provita-de-jos-18-2026",
+"path": "local/prahova/provita-de-jos/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 18/2026 privind emiterea Acordului de includere în Programul Național de Investiţii „Școli sigure și sănătoase” a obiectivului de investiții: ,,Renovare integrată Școala primară sat Drăgăneasa, comuna Provița de Jos”, inclus în lista obiectivelor de investiții aprobată prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 626/2023 privind aprobarea listei obiectivelor de investiții propuse spre finanțare prin Programul național de investiţii „Școli sigure și sănătoase”",
+"short": "HCL Provița de Jos nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/provitadejos-ph/registru-hcl/273109",
+"council": "prahova/provita-de-jos",
+"council_name": "Consiliul Local al Comunei Provița de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--provita-de-jos-19-2026",
+"path": "local/prahova/provita-de-jos/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 19/2026 pentru validarea Dispoziției primarului nr. 67 din 17.06.2026 privind rectificarea bugetului local al comunei Provița de Jos-ediția iunie 2026, emisă prin autorizarea dată de Consiliul Local cu Hotărârea nr.13 adoptată în ședința ordinară din data de 11.05.2026 privind aprobarea bugetului local al comunei Provița de Jos și a obiectivelor de investiții pe anul 2026 și estimări pentru anii 2027-2029",
+"short": "HCL Provița de Jos nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-10",
+"latest": "2026-09-10",
+"portal": "https://emol.ro/provitadejos-ph/registru-hcl/281663",
+"council": "prahova/provita-de-jos",
+"council_name": "Consiliul Local al Comunei Provița de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--provita-de-jos-20-2026",
+"path": "local/prahova/provita-de-jos/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 20/2026",
+"short": "HCL Provița de Jos nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-10",
+"latest": "2026-09-10",
+"portal": "https://emol.ro/provitadejos-ph/registru-hcl/281664",
+"council": "prahova/provita-de-jos",
+"council_name": "Consiliul Local al Comunei Provița de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--provita-de-jos-21-2026",
+"path": "local/prahova/provita-de-jos/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 21/2026 privind înființarea a trei posturi de natură contractuală în afara organigramei, pentru constituirea Echipei Comunitare Integrate, în scopul implementării Proiectului: ,,Furnizare de servicii integrate în comunitățile rurale-facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”, PIDS/586/P04/339395, cofinanțat de Uniunea Europeană din Fondul Social European Plus, prin Programul Incluziune și Demnitate Socială 2021-2027",
+"short": "HCL Provița de Jos nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://emol.ro/provitadejos-ph/registru-hcl/281665",
+"council": "prahova/provita-de-jos",
+"council_name": "Consiliul Local al Comunei Provița de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--provita-de-jos-22-2026",
 "path": "local/prahova/provita-de-jos/2026/22",
 "kind": "local",
@@ -44,6 +155,163 @@
 "council_name": "Consiliul Local al Comunei Provița de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--provita-de-jos-23-2026",
+"path": "local/prahova/provita-de-jos/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 23/2026",
+"short": "HCL Provița de Jos nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/provitadejos-ph/registru-hcl/281667",
+"council": "prahova/provita-de-jos",
+"council_name": "Consiliul Local al Comunei Provița de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--provita-de-jos-24-2026",
+"path": "local/prahova/provita-de-jos/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 24/2026 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții ,,Renovare integrată Școala primară sat Drăgăneasa, comuna Provița de Jos”, inclus în lista obiectivelor de investiții aprobată prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 626/2023 privind aprobarea listei obiectivelor de investiții propuse spre finanțare prin Programul național de investiţii „Școli sigure și sănătoase”",
+"short": "HCL Provița de Jos nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-10",
+"latest": "2026-09-10",
+"portal": "https://emol.ro/provitadejos-ph/registru-hcl/281668",
+"council": "prahova/provita-de-jos",
+"council_name": "Consiliul Local al Comunei Provița de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--provita-de-jos-25-2026",
+"path": "local/prahova/provita-de-jos/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 25/2026 privind aprobarea eliminării statutului de edificiu cu valoare arhitecturală pentru imobilul situat în comuna Provița de Jos, sat Drăgăneasa, nr.505, identificat prin CF nr.23527, pentru beneficiar Parohia Drăgăneasa",
+"short": "HCL Provița de Jos nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-10",
+"latest": "2026-09-10",
+"portal": "https://emol.ro/provitadejos-ph/registru-hcl/281669",
+"council": "prahova/provita-de-jos",
+"council_name": "Consiliul Local al Comunei Provița de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--provita-de-jos-26-2026",
+"path": "local/prahova/provita-de-jos/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 26/2026",
+"short": "HCL Provița de Jos nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-10",
+"latest": "2026-09-10",
+"portal": "https://emol.ro/provitadejos-ph/registru-hcl/281670",
+"council": "prahova/provita-de-jos",
+"council_name": "Consiliul Local al Comunei Provița de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--provita-de-jos-27-2026",
+"path": "local/prahova/provita-de-jos/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 27/2026",
+"short": "HCL Provița de Jos nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-10",
+"latest": "2026-09-10",
+"portal": "https://emol.ro/provitadejos-ph/registru-hcl/281671",
+"council": "prahova/provita-de-jos",
+"council_name": "Consiliul Local al Comunei Provița de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--provita-de-jos-28-2026",
+"path": "local/prahova/provita-de-jos/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 28/2026 privind alegerea președintelui de ședință pentru o perioadă de trei luni",
+"short": "HCL Provița de Jos nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/provitadejos-ph/registru-hcl/288929",
+"council": "prahova/provita-de-jos",
+"council_name": "Consiliul Local al Comunei Provița de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--provita-de-jos-29-2026",
+"path": "local/prahova/provita-de-jos/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 29/2026 privind aprobarea participării Comunei Provița de Jos, la Proiectul ,,CASTER-PH 2 - Capacități de stocare energie regenerabilă în județul Prahova”",
+"short": "HCL Provița de Jos nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://emol.ro/provitadejos-ph/registru-hcl/288930",
+"council": "prahova/provita-de-jos",
+"council_name": "Consiliul Local al Comunei Provița de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -88,6 +356,97 @@
 "council_name": "Consiliul Local al Comunei Provița de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--provita-de-jos-32-2026",
+"path": "local/prahova/provita-de-jos/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 32/2026",
+"short": "HCL Provița de Jos nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://emol.ro/provitadejos-ph/registru-hcl/293541",
+"council": "prahova/provita-de-jos",
+"council_name": "Consiliul Local al Comunei Provița de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--provita-de-jos-33-2026",
+"path": "local/prahova/provita-de-jos/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 33/2026",
+"short": "HCL Provița de Jos nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://emol.ro/provitadejos-ph/registru-hcl/293542",
+"council": "prahova/provita-de-jos",
+"council_name": "Consiliul Local al Comunei Provița de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--provita-de-jos-34-2026",
+"path": "local/prahova/provita-de-jos/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 34/2026 privind aprobarea actualizării Hotărârii Consiliului Local nr. 53 din 12.12.2024",
+"short": "HCL Provița de Jos nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-02",
+"latest": "2026-11-02",
+"portal": "https://emol.ro/provitadejos-ph/registru-hcl/297004",
+"council": "prahova/provita-de-jos",
+"council_name": "Consiliul Local al Comunei Provița de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--provita-de-jos-35-2026",
+"path": "local/prahova/provita-de-jos/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 35/2026",
+"short": "HCL Provița de Jos nr. 35/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-02",
+"latest": "2026-11-02",
+"portal": "https://emol.ro/provitadejos-ph/registru-hcl/297005",
+"council": "prahova/provita-de-jos",
+"council_name": "Consiliul Local al Comunei Provița de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

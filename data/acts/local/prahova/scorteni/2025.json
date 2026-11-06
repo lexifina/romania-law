@@ -3,6 +3,182 @@
 "shard": "local/prahova/scorteni/2025",
 "acts": [
 {
+"slug": "hcl-prahova--scorteni-83-2025",
+"path": "local/prahova/scorteni/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 83/2025 privind aprobarea acordarii de cadouri de Craciun elevilor din unitatile de invatamant preuniversitar de stat de pe raza comunei Scorteni, cat si membrilor ansamblului Datina din cadrul Caminului Cultural Scorteni, judetul Prahova",
+"short": "HCL Scorțeni nr. 83/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/238125",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-84-2025",
+"path": "local/prahova/scorteni/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 84/2025 privind aprobarea DALI, a indicatorilor tehnico - economici si a devizului general pentru obiectivul de investitii „Extinderea sistemelor de supraveghere video a spatiului public in Comuna Scorteni, Judetul Prahova\"",
+"short": "HCL Scorțeni nr. 84/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/238126",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-85-2025",
+"path": "local/prahova/scorteni/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 85/2025 privind implementarea proiectului „Extinderea sistemelor de supraveghere video a spatiului public in Comuna Scorteni, Judetul Prahova'",
+"short": "HCL Scorțeni nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/238127",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-86-2025",
+"path": "local/prahova/scorteni/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 86/2025 privind aprobarea obiectivului de investitii „Dotare cu centrala termica Sediul administrativ situat in com.Scorteni, str.Principala - Centru, nr.11”",
+"short": "HCL Scorțeni nr. 86/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/238128",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-87-2025",
+"path": "local/prahova/scorteni/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 87/2025 privind aprobarea obiectivului de investitii „Dotare cu centrala termica Sediul administrativ situat in com.Scorteni, str.Unirii, nr.15”",
+"short": "HCL Scorțeni nr. 87/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/238129",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-88-2025",
+"path": "local/prahova/scorteni/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 88/2025 privind aprobarea unor sume din bugetul local pentru Iluminatul festiv 2025 - 2026 in Comuna Scorteni, judetul Prahova",
+"short": "HCL Scorțeni nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/238130",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-89-2025",
+"path": "local/prahova/scorteni/2025/89",
+"kind": "local",
+"year": "2025",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 89/2025 privind aprobarea rectificarii bugetului local al comunei Scorteni, pentru anul 2025",
+"short": "HCL Scorțeni nr. 89/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-10",
+"latest": "2025-12-10",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/238131",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-90-2025",
+"path": "local/prahova/scorteni/2025/90",
+"kind": "local",
+"year": "2025",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 90/2025 privind aprobarea Raportului privind activitatea desfăşurată de către asistenţii personali ai persoanelor cu grad de handicap grav, pentru semestrul I din anul 2025, la nivelul UAT Scorțeni, județul Prahova",
+"short": "HCL Scorțeni nr. 90/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/238132",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--scorteni-91-2025",
 "path": "local/prahova/scorteni/2025/91",
 "kind": "local",
@@ -22,6 +198,50 @@
 "council_name": "Consiliul Local al Comunei Scorțeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-92-2025",
+"path": "local/prahova/scorteni/2025/92",
+"kind": "local",
+"year": "2025",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 92/2025 privind completarea anexei preturi unitare aprobata prin HCL nr.24/24.03.2025privind Infiintarea serviciului de iluminat public in Comuna Scorteni, respectiv a Regulamentului de Organizare și funcționare al serviciului de iluminat public, a Caietului de Sarcini, a Studiului de oportunitate și a modalității de gestiune a acestuia",
+"short": "HCL Scorțeni nr. 92/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/238134",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-93-2025",
+"path": "local/prahova/scorteni/2025/93",
+"kind": "local",
+"year": "2025",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 93/2025 privind aprobarea unui acord de parteneriat cu Asociația Țară Faină, Comuna Scorțeni, jud.Prahova și Comuna Telega jud. Prahova în vederea realizării proiectului pilot „Ținutul Stejarilor” dezvoltat de către Antreprenorești – Adoptă un Sat, derulat în perioada 2023 - 2026",
+"short": "HCL Scorțeni nr. 93/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/238135",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -88,6 +308,72 @@
 "council_name": "Consiliul Local al Comunei Scorțeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-97-2025",
+"path": "local/prahova/scorteni/2025/97",
+"kind": "local",
+"year": "2025",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 97/2025 privind implementarea proiectului „Extinderea sistemelor de supraveghere video a spatiului public in Comuna Scorteni, Judetul Prahova\"",
+"short": "HCL Scorțeni nr. 97/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-15",
+"latest": "2026-01-15",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/242232",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-98-2025",
+"path": "local/prahova/scorteni/2025/98",
+"kind": "local",
+"year": "2025",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 98/2025 privind completarea si actualizarea DALI, a indicatorilor tehnico - economici si a devizului general pentru obiectivul de investitii „Extinderea sistemelor de supraveghere video a spatiului public in Comuna Scorteni, Judetul Prahova\", aprobat prin HCL nr.84/27.11.2025",
+"short": "HCL Scorțeni nr. 98/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-15",
+"latest": "2026-01-15",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/242233",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-99-2025",
+"path": "local/prahova/scorteni/2025/99",
+"kind": "local",
+"year": "2025",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 99/2025 privind aprobarea rectificarii bugetului local al comunei Scorteni, pentru anul 2025",
+"short": "HCL Scorțeni nr. 99/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/242234",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

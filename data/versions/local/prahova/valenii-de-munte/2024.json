@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/valenii-de-munte/2024",
+ "acts": [
+  {
+   "slug": "hcl-prahova--valenii-de-munte-76-2024",
+   "path": "local/prahova/valenii-de-munte/2024/76",
+   "short": "HCL Vălenii de Munte nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Vălenii de Munte nr. 76/2024",
+   "url": "http://www.valeniidemunte.com.ro/index.php?zona=hotararicl&pg_hot=5&an=2026",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "http://www.valeniidemunte.com.ro/continut/hotarari/HCL%20nr.%20113_28.08.2026%20-%20Modificare%20Anexa%20la%20HCL%2076_28.06.2024.pdf",
+     "sha256": "72d6da00b0a5ca828d7f4a8a83c02edcf04142a803732244739cf2ede4f5bdc8"
+    }
+   ]
+  }
+ ]
+}

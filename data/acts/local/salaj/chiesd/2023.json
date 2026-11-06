@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/salaj/chiesd/2023",
+"acts": [
+{
+"slug": "hcl-salaj--chiesd-1-2023",
+"path": "local/salaj/chiesd/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 1/2023 privind aprobarea investiției și a sumei de 12.000 lei, reprezentând achiziționarea unui aparat de spălat pordoseli, de către Comuna Chieșd, jud. Sălaj",
+"short": "HCL Chieșd nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/249073",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--chiesd-2-2023",
+"path": "local/salaj/chiesd/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 2/2023 privind aprobarea susținerii financiare a Asociației Club Sportiv FC Chieșd, pentru anul competițional 2023-2024",
+"short": "HCL Chieșd nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/249079",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--chiesd-3-2023",
+"path": "local/salaj/chiesd/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 3/2023 privind aprobarea decontării navetei cadrelor didactice care îşi desfăşoară activitatea pe raza comunei Chieşd, judeţul Sălaj",
+"short": "HCL Chieșd nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/249080",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

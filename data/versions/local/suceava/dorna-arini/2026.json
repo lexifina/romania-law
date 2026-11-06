@@ -16,6 +16,36 @@
      "sha256": "375435b1b06154f290ac0ec70eacd6016f03f3c08a8f1e6753ad14a9094908d3"
     }
    ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-arini-20-2026",
+   "path": "local/suceava/dorna-arini/2026/20",
+   "short": "HCL Dorna-Arini nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna-Arini nr. 20/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://dornaarinisv.ro/pdf/hcl/2026/20.pdf",
+     "sha256": "9e7e9d020cd3036568e10af9906601075214c4b4b74cd7ef19d0524436df13e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-arini-31-2026",
+   "path": "local/suceava/dorna-arini/2026/31",
+   "short": "HCL Dorna-Arini nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna-Arini nr. 31/2026",
+   "url": "https://dornaarinisv.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://dornaarinisv.ro/pdf/hcl/2026/31.pdf",
+     "sha256": "d8d8cb87a71c011ac5ee4c70d8ed43349b004f81d9e3a931122c60dfdcefdd20"
+    }
+   ]
   }
  ]
 }

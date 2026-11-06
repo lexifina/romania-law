@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/prahova/sangeru/2024",
+"acts": [
+{
+"slug": "hcl-prahova--sangeru-1-2024",
+"path": "local/prahova/sangeru/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sângeru nr. 1/2024 Privind inscrierea persoanelor care vor face parte din Biroul Electoral de Circumscriptie Comunala Anunt Program de lucru BEECC nr.84 Proces verbal completare BECC nr.84 Proces verbal afisare BEECC nr.84 Anunt completare BEECC nr.84 HOTARARE NR. 1 BECC nr.84 HOTARARE NR. 2 BECC nr.84 HOTARARE NR. 3 BECC nr.84 HOTARARE NR. 4 BECC nr.84 PROCES VERBAL AFISARE HOTARARE NR. 1 BECC nr.84 PROCES VERBAL A",
+"short": "HCL Sângeru nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-09",
+"latest": "2024-06-09",
+"portal": "http://sangeru.europrahova.eu/",
+"council": "prahova/sangeru",
+"council_name": "Consiliul Local al Comunei Sângeru",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

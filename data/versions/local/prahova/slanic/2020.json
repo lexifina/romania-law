@@ -3,6 +3,66 @@
  "shard": "local/prahova/slanic/2020",
  "acts": [
   {
+   "slug": "hcl-prahova--slanic-20-2020",
+   "path": "local/prahova/slanic/2020/20",
+   "short": "HCL Slănic nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 20/2020 privind aprobarea încheierii unui act adiţional la contractului de închiriere între Oraş Slănic şi SC Heidelbergcement România SA din 29.04.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl20_29042020.pdf",
+     "sha256": "0217d820ed5d05c324ba22a0b550ee1a11f1e3431bf4b1fc477f4c94b168fcd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-21-2020",
+   "path": "local/prahova/slanic/2020/21",
+   "short": "HCL Slănic nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 21/2020 privind aprobarea susţinerii financiare a \"Asociaţiei Clubul Sportiv Orăşenesc Măgura Slănic\" în vederea derulării programului sportiv \"SPORT prin FOTBAL 2020\" din 29.04.2020",
+   "url": "http://www.primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "http://www.primariaslanic.ro/arhiva/documente/hotarari/2020/hcl21_29042020.pdf",
+     "sha256": "87551b4e25f4c53a0fd242002b400e961741e48572a55848e5ba97b2cdd164a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-23-2020",
+   "path": "local/prahova/slanic/2020/23",
+   "short": "HCL Slănic nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 23/2020 privind modificarea Regulamentului de organizare și funcționare a Consiliului local din 29.04.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl23_29042020.pdf",
+     "sha256": "d3e55984553d0fe6078cdefffd7c0ccc6011b7557a144a51a833c4429e41789b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-24-2020",
+   "path": "local/prahova/slanic/2020/24",
+   "short": "HCL Slănic nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 24/2020 privind aprobarea utilizării fondului de rezervă bugetară la dispoziția Consiliului Local al orașului Slănic din 29.04.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl24_29042020.pdf",
+     "sha256": "7ee6c4cd90f2317f1cdbff2bb0c0172d435325392b331ea18d62db96c8f952a2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--slanic-25-2020",
    "path": "local/prahova/slanic/2020/25",
    "short": "HCL Slănic nr. 25/2020",
@@ -14,6 +74,111 @@
      "units": 1,
      "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl25_29042020.pdf",
      "sha256": "5be773f77c51102334ae87fbd1e45035689de8d93122be28dd1e5fcb3a372cfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-26-2020",
+   "path": "local/prahova/slanic/2020/26",
+   "short": "HCL Slănic nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 26/2020 privind actualizarea contribuției UAT Oraș Slănic, în vederea realizării Studiului de fezabilitate pentru investiţia ,, Înfiinţare reţea distribuţie gaze naturale din 29.04.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl26_29042020.pdf",
+     "sha256": "ef79470f3a81f8b3296e4407ea2ef893891bba4a20de05c0ffc20469ab414d2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-28-2020",
+   "path": "local/prahova/slanic/2020/28",
+   "short": "HCL Slănic nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 28/2020 privind alegerea preşedintelui de şedinţă pentru lunile iunie-august 2020 din 28.05.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl28_28052020.pdf",
+     "sha256": "cf23171648b453b77f0b1b93b3c0d277d94df10b2341074290b8d72953b2ff6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-29-2020",
+   "path": "local/prahova/slanic/2020/29",
+   "short": "HCL Slănic nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 29/2020 privind aprobarea contului de executie al bugetului local al orasului Slanic, încheiat la 31 martie 2020 din 28.05.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl29_28052020.pdf",
+     "sha256": "0e7297c71a3ad88a6f5f7654ab546b113e1c25d967d91d7646cada4cf813414d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-30-2020",
+   "path": "local/prahova/slanic/2020/30",
+   "short": "HCL Slănic nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 30/2020 privind taxele de intrare - lacuri Baia Verde, pentru sezonul turistic 2020 din 28.05.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl30_28052020.pdf",
+     "sha256": "767680dbae7cd5a306fe8c0cd05992dcad7e4520eef9b78c6d7399dc9523c394"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-31-2020",
+   "path": "local/prahova/slanic/2020/31",
+   "short": "HCL Slănic nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 31/2020 privind închirierea prin licitatie publica a unui imobil situat în strada Baia Verde, nr. 2 , proprietate publica a orasului Slanic din 28.05.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl31_28052020.pdf",
+     "sha256": "b10d3db82d8f5c012cc2b093d225a9a712a1d5d678441defacfa2132eda88c9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-32-2020",
+   "path": "local/prahova/slanic/2020/32",
+   "short": "HCL Slănic nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 32/2020 privind aprobarea tarifelor și acordarea unui mandat special reprezentantului Orașului Slănic în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară \"Parteneriatul pentru managementul deşeurilor Prahova din 23.06.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl32_23062020.pdf",
+     "sha256": "aa4300f4c49710f9c03ec8b24cd2490ab52fa7df3d965f01d3ea1e5cb549857b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-57-2020",
+   "path": "local/prahova/slanic/2020/57",
+   "short": "HCL Slănic nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 57/2020 privind activitatea unitatilor scolare / 09.12.2020",
+   "url": "http://www.primariaslanic.ro/arhiva/",
+   "versions": [
+    {
+     "from": "2020-11-07",
+     "units": 1,
+     "source_url": "http://www.primariaslanic.ro/arhiva/documente/hot_CNSU_57_07122020.pdf",
+     "sha256": "10b42f97634dbd39e97a7a4c17aacaa64e12b0352bcced8abaafefbec9b0077d"
     }
    ]
   }

@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-77-2025",
+"path": "local/prahova/rafov/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 77/2025 privind repartizarea unor sume prevazute in bugetul local pe anul 2025 pentru acordarwea unui sprijin financiar Parohiei Moara Domneasca , Com Rafov",
+"short": "HCL Râfov nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-08",
+"latest": "2026-09-08",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/286606",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-78-2025",
 "path": "local/prahova/rafov/2025/78",
 "kind": "local",
@@ -245,6 +267,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-83-2025",
+"path": "local/prahova/rafov/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 83/2025 privind acordarea unui ajutor pentru inmormantare",
+"short": "HCL Râfov nr. 83/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-08",
+"latest": "2026-09-08",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/286614",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-84-2025",
 "path": "local/prahova/rafov/2025/84",
 "kind": "local",
@@ -287,6 +331,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--rafov-86-2025",
+"path": "local/prahova/rafov/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 86/2025 privind aprobarea decontarii navetei cadrelor didactice pentru lunile octombrie si noiembrie 2025",
+"short": "HCL Râfov nr. 86/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-09",
+"latest": "2026-09-09",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/286643",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -353,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Râfov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-90-2025",
+"path": "local/prahova/rafov/2025/90",
+"kind": "local",
+"year": "2025",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 90/2025 privind promovarea si indexarea impozitelor si taxelor locale , precum si stabilirea taxelor speciale, pentru anul 2026",
+"short": "HCL Râfov nr. 90/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-09",
+"latest": "2026-09-09",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/286677",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

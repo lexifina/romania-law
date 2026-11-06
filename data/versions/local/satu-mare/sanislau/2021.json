@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/satu-mare/sanislau/2021",
+ "acts": [
+  {
+   "slug": "hcl-satu-mare--sanislau-22-2021",
+   "path": "local/satu-mare/sanislau/2021/22",
+   "short": "HCL Sanislău nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sanislău nr. 22/2021 pentru strazile din comuna Sanislau",
+   "url": "https://www.primariasanislau.ro/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasanislau.ro/wp-content/uploads/2023/03/Nomenclator-stradal.pdf",
+     "sha256": "e7967e7d38dc00f204c9dc9bc48395f0e3dfeb874dd25c4bd65043e404b8e011"
+    }
+   ]
+  }
+ ]
+}

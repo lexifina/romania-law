@@ -223,6 +223,28 @@
 }
 },
 {
+"slug": "hcl-satu-mare--vetis-64-2025",
+"path": "local/satu-mare/vetis/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 64/2025 privind desemnarea reprezentantului comunei Vetiș în Adunarea Generală a membrilor Asociați a Ocolului Silvic Ardud R.A",
+"short": "HCL Vetiș nr. 64/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/vetis-sm/registru-hcl/231799",
+"council": "satu-mare/vetis",
+"council_name": "Consiliul Local al Comunei Vetiș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-satu-mare--vetis-65-2025",
 "path": "local/satu-mare/vetis/2025/65",
 "kind": "local",

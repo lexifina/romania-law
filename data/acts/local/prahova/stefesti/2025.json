@@ -114,6 +114,50 @@
 }
 },
 {
+"slug": "hcl-prahova--stefesti-43-2025",
+"path": "local/prahova/stefesti/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 43/2025 privind desemnarea reprezentantilor Consiliului Local al comunei Stefesti care sa faca parte din Consiliul de Administratie al Scolii Gimnaziale Stefesti si din Comisia de evaluare si asigurarea calitatii educatiei la nivelul Scolii Gimnaziale Stefesti, pentru anul scolar 2025-2026",
+"short": "HCL Ștefești nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/227174",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--stefesti-44-2025",
+"path": "local/prahova/stefesti/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 44/2025 privind actualizarea componentei echipei mobile, pentru interventia de urgenta in cazurile de violenta domestica la nivelul comunei Stefesti, judetul Prahova",
+"short": "HCL Ștefești nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/232621",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--stefesti-45-2025",
 "path": "local/prahova/stefesti/2025/45",
 "kind": "local",
@@ -221,6 +265,28 @@
 "council_name": "Consiliul Local al Comunei Ștefești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--stefesti-50-2025",
+"path": "local/prahova/stefesti/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 50/2025 privind alegerea presedintelui de sedinta pentru urmatoarele 3(trei) luni",
+"short": "HCL Ștefești nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-28",
+"latest": "2025-11-28",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/238481",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

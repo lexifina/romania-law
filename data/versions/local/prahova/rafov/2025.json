@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-77-2025",
+   "path": "local/prahova/rafov/2025/77",
+   "short": "HCL Râfov nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 77/2025 privind repartizarea unor sume prevazute in bugetul local pe anul 2025 pentru acordarwea unui sprijin financiar Parohiei Moara Domneasca , Com Rafov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/286606",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/286606",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-78-2025",
    "path": "local/prahova/rafov/2025/78",
    "short": "HCL Râfov nr. 78/2025",
@@ -168,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-83-2025",
+   "path": "local/prahova/rafov/2025/83",
+   "short": "HCL Râfov nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 83/2025 privind acordarea unui ajutor pentru inmormantare",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/286614",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/286614",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-84-2025",
    "path": "local/prahova/rafov/2025/84",
    "short": "HCL Râfov nr. 84/2025",
@@ -193,6 +223,21 @@
      "from": "2026-09-09",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/286642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-86-2025",
+   "path": "local/prahova/rafov/2025/86",
+   "short": "HCL Râfov nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 86/2025 privind aprobarea decontarii navetei cadrelor didactice pentru lunile octombrie si noiembrie 2025",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/286643",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/286643",
      "sha256": null
     }
    ]
@@ -238,6 +283,21 @@
      "from": "2026-09-09",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/286676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-90-2025",
+   "path": "local/prahova/rafov/2025/90",
+   "short": "HCL Râfov nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 90/2025 privind promovarea si indexarea impozitelor si taxelor locale , precum si stabilirea taxelor speciale, pentru anul 2026",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/286677",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/286677",
      "sha256": null
     }
    ]

@@ -92,6 +92,28 @@
 }
 },
 {
+"slug": "hcl-prahova--magureni-27-2025",
+"path": "local/prahova/magureni/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 27/2025 privind alegerea presedintelui de sedință pentru lunile August, Septembrie și Octombrie",
+"short": "HCL Măgureni nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/218918",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--magureni-28-2025",
 "path": "local/prahova/magureni/2025/28",
 "kind": "local",
@@ -133,6 +155,28 @@
 "council_name": "Consiliul Local al Comunei Măgureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magureni-30-2025",
+"path": "local/prahova/magureni/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 30/2025 privind desemnarea reprezentanților Consiliului Local în Consiliul de Administrație al Școlii Gimnaziale Măgureni pentru anul școlar 2025-2026",
+"short": "HCL Măgureni nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-09",
+"latest": "2025-10-09",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/229165",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -180,6 +224,28 @@
 }
 },
 {
+"slug": "hcl-prahova--magureni-33-2025",
+"path": "local/prahova/magureni/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 33/2025 privind acordarea unui mandat special cu drept de vot primarului comunei Măgureni în Adunarea Generală a Asociației de Dezvoltare Intercomunitară - Parteneriatul pentru Managementul Deșeurilor Prahova",
+"short": "HCL Măgureni nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-09",
+"latest": "2025-10-09",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/229168",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--magureni-34-2025",
 "path": "local/prahova/magureni/2025/34",
 "kind": "local",
@@ -221,6 +287,28 @@
 "council_name": "Consiliul Local al Comunei Măgureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magureni-36-2025",
+"path": "local/prahova/magureni/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 36/2025 privind alegerea președintelui de ședință pentru lunile noiembrie, decembrie 2025 și ianuarie 2026",
+"short": "HCL Măgureni nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/234491",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -309,6 +397,28 @@
 "council_name": "Consiliul Local al Comunei Măgureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magureni-41-2025",
+"path": "local/prahova/magureni/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 41/2025 privind aprobarea alocării din bugetul local a unei sume ce reprezintă cadouri în bani oferite angajaților cu ocazia sărbătorilor de iarnă",
+"short": "HCL Măgureni nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/245009",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

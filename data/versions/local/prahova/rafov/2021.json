@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-83-2021",
+   "path": "local/prahova/rafov/2021/83",
+   "short": "HCL Râfov nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 83/2021 privind desemnarea reprezentantului Consiliului Local al Comunei Rafov in Comisia de evaluare a probei de interviu la concursul pentru ocuparea functiei de director si director adjunct al Scolii Gimnaziale Buda",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/48376",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/48376",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-84-2021",
    "path": "local/prahova/rafov/2021/84",
    "short": "HCL Râfov nr. 84/2021",
@@ -58,6 +73,21 @@
      "from": "2021-11-23",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/48377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-85-2021",
+   "path": "local/prahova/rafov/2021/85",
+   "short": "HCL Râfov nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 85/2021 privind rezilierea unui contract de inchiriere /concesionare a unei suprafete de teren din Izlazul ce apartine domeniului privat al Comunei Rafov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/48378",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/48378",
      "sha256": null
     }
    ]
@@ -123,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-90-2021",
+   "path": "local/prahova/rafov/2021/90",
+   "short": "HCL Râfov nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 90/2021 privind aprobarea concesionarii , prin licitatie publica, a terenului din Tarlaua 103, Parcela 602, Situat in Satul Palanca, Comuna Rafov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/48925",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/48925",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-91-2021",
    "path": "local/prahova/rafov/2021/91",
    "short": "HCL Râfov nr. 91/2021",
@@ -178,6 +223,21 @@
      "from": "2021-12-30",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/48960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-95-2021",
+   "path": "local/prahova/rafov/2021/95",
+   "short": "HCL Râfov nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 95/2021 privind aprobarea decontarii navetei cadrelor didactice pentru lunile octombrie si noiembrie 2021",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/48961",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/48961",
      "sha256": null
     }
    ]

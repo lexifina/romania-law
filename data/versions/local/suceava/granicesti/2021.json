@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/granicesti/2021",
+ "acts": [
+  {
+   "slug": "hcl-suceava--granicesti-1-2021",
+   "path": "local/suceava/granicesti/2021/1",
+   "short": "HCL Grănicești nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 1/2021",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/HCL%20nr.1%20din%2028.01.2021.pdf",
+     "sha256": "0b80df35ec43b67e64f3a8ea18ee123df89cb91b35459cbb17c5a4f5b0376a79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-10-2021",
+   "path": "local/suceava/granicesti/2021/10",
+   "short": "HCL Grănicești nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 10/2021 privind aprobarea decontarii navetei cadrelor didactice care isi desfasoara activitatea pe raza comunei Granicesti, judetul Suceava pentru lunile decembrie 2020 si ianuarie, februarie, martie 2021.pdf Descarcă",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/HCL%20nr.10%20din%2019.04.2021%20privind%20aprobarea%20decontarii%20navetei%20cadrelor%20didactice%20care%20isi%20desfasoara%20activitatea%20pe%20raza%20comunei%20Granicesti,%20judetul%20Suceava%20pentru%20lunile%20decembrie%202020%20si%20ianuarie,%20februarie,%20martie%202021.pdf",
+     "sha256": "8a1a86de91a7b34136d0a43049c03dca30e180bb38191c9faab959a56adec013"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-11-2021",
+   "path": "local/suceava/granicesti/2021/11",
+   "short": "HCL Grănicești nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 11/2021 privind modificarea organigramei si s statului de functii ale Primariei comunei Granicesti, judetul Suceava.pdf Descarcă",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/HCL%20nr.11%20din%2019.04.2021%20privind%20modificarea%20organigramei%20si%20s%20statului%20de%20functii%20ale%20Primariei%20comunei%20Granicesti,%20judetul%20Suceava.pdf",
+     "sha256": "e42859e61b80b23c03441fb8f2c5edb158a9923a84529b55dfa4f1a6dad6e81b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-12-2021",
+   "path": "local/suceava/granicesti/2021/12",
+   "short": "HCL Grănicești nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 12/2021 privind stabilirea salariilor de baza aferente functiilor publice si contractuale din cadrul Primariei comunei Granicesti, judetul Suceava.pdf Descarcă",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/HCL%20nr.12%20din%2019.04.2021%20privind%20stabilirea%20salariilor%20de%20baza%20aferente%20functiilor%20publice%20si%20contractuale%20din%20cadrul%20Primariei%20comunei%20Granicesti,%20judetul%20Suceava.pdf",
+     "sha256": "e378d079cfc103c047d7b00f8bf8a15b4c5466630ec80d48a9b0d6f782abb143"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-13-2021",
+   "path": "local/suceava/granicesti/2021/13",
+   "short": "HCL Grănicești nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 13/2021 privind aprobarea numarului si cuatumul burselor pentru anul scolar 2020 - 2021 pentru elevii din unitatile de invatamant preuniversitar de stat.pdf Descarcă",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/HCL%20nr.13%20din%2019.04.2021%20privind%20aprobarea%20numarului%20si%20cuatumul%20burselor%20pentru%20anul%20scolar%202020%20-%202021%20pentru%20elevii%20din%20unitatile%20de%20invatamant%20preuniversitar%20de%20stat.pdf",
+     "sha256": "604ccc40321dd3467b20abde540c2c0c29d5d0a1fee0d20c1f8490b5a6505e58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-14-2021",
+   "path": "local/suceava/granicesti/2021/14",
+   "short": "HCL Grănicești nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 14/2021",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/Hotararea%20nr.14%20din%2031.05.2021.pdf",
+     "sha256": "bb28fa439f22438befe1497b585da57228ad97540745fc7ccc744cbb39ba432f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-15-2021",
+   "path": "local/suceava/granicesti/2021/15",
+   "short": "HCL Grănicești nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 15/2021",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/Hotararea%20nr.15%20din%2031.05.2021.pdf",
+     "sha256": "5858a73bb0e7647cae5c7c654a32c218f5ea79eaabf5d22169241e58bfd548c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-16-2021",
+   "path": "local/suceava/granicesti/2021/16",
+   "short": "HCL Grănicești nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 16/2021",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/Hotararea%20nr.16%20din%2031.05.2021.pdf",
+     "sha256": "cadacbc3dce28ac7ec51ff6213285ee0a1a20109e2e7f9a0d32e9642e03b4f20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-17-2021",
+   "path": "local/suceava/granicesti/2021/17",
+   "short": "HCL Grănicești nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 17/2021",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/Hotararea%20nr.17%20din%2031.05.2021.pdf",
+     "sha256": "471c6c19453a3ce5eeec9526c93f9b538118a5037d2fd9f53ab0deb868f206d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-2-2021",
+   "path": "local/suceava/granicesti/2021/2",
+   "short": "HCL Grănicești nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 2/2021",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/HCL%20nr.2%20din%2028.01.2021%20(conflicted%20copy%202021-02-22%20071130).pdf",
+     "sha256": "0d5b365d601d8635087c27516c83b9b300e230d19faf446204a6a0c897ba1027"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-25-2021",
+   "path": "local/suceava/granicesti/2021/25",
+   "short": "HCL Grănicești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 25/2021",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/Hotararea%20nr.25%20din%2031.08.2021.pdf",
+     "sha256": "6c92980d17c3e2f071f335e65c725f8c2c64fbbaae830885d3bb4eb5a3e0b647"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-26-2021",
+   "path": "local/suceava/granicesti/2021/26",
+   "short": "HCL Grănicești nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 26/2021",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/Hotararea%20nr.26%20din%2031.08.2021.pdf",
+     "sha256": "299028d473500a0ef553f1b48f4b87bf176a3d81373e2e2322d48f99a51396aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-3-2021",
+   "path": "local/suceava/granicesti/2021/3",
+   "short": "HCL Grănicești nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 3/2021",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/HCL%20nr.3%20din%2028.01.2021%20(conflicted%20copy%202021-02-22%20071130).pdf",
+     "sha256": "6c1f11280e243db48e86279bf9b07b6d11302897164b254d73b51814be180336"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-4-2021",
+   "path": "local/suceava/granicesti/2021/4",
+   "short": "HCL Grănicești nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 4/2021 privind alegerea presedintelui de sedinta.pdf Descarcă",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/HCL%20nr.4%20din%2030.03.2021%20privind%20alegerea%20presedintelui%20de%20sedinta.pdf",
+     "sha256": "6f9df4c9cb7ebb63f2a81c552db963087ee614036023f59e27da471338407fdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-5-2021",
+   "path": "local/suceava/granicesti/2021/5",
+   "short": "HCL Grănicești nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 5/2021 privind aprobarea scoaterii din functiune, in vederea valorificarii sau dupa caz, a casarii obiectelor de inventar degradate, proprietate privata a comunei Granicesti, judetul Suceava.pdf Descarcă",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/HCL%20nr.5%20din%2030.03.2021%20privind%20aprobarea%20scoaterii%20din%20functiune,%20in%20vederea%20valorificarii%20sau%20dupa%20caz,%20a%20casarii%20obiectelor%20de%20inventar%20degradate,%20proprietate%20privata%20a%20comunei%20Granicesti,%20judetul%20Suceava.pdf",
+     "sha256": "634958943ccfbee039701aad484ec40e7bc82ebf8dcb394aa31e22703469059d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-6-2021",
+   "path": "local/suceava/granicesti/2021/6",
+   "short": "HCL Grănicești nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 6/2021 privind aprobarea contului anual de executie a bugetelor aferent anului 2020.pdf Descarcă",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/HCL%20nr.6%20din%2030.03.2021%20privind%20aprobarea%20contului%20anual%20de%20executie%20a%20bugetelor%20aferent%20anului%202020.pdf",
+     "sha256": "d445ee3acb69b27637789a796783506628157b8a59e6b1f4b718dec077b192ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-7-2021",
+   "path": "local/suceava/granicesti/2021/7",
+   "short": "HCL Grănicești nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 7/2021 privind aprobarea reorganizarii Serviciului Public de Alimentare cu Apă și Canalizare al comunei Granicesti, judetul Suceava.pdf Descarcă",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/HCL%20nr.7%20din%2030.03.2021%20privind%20aprobarea%20reorganizarii%20Serviciului%20Public%20de%20Alimentare%20cu%20Ap%C4%83%20%C8%99i%20Canalizare%20al%20comunei%20Granicesti,%20judetul%20Suceava.pdf",
+     "sha256": "4e7b1f346cda74a694bc94cda09484cff5dea0f53ac49a2d782acfaf37cff18e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-8-2021",
+   "path": "local/suceava/granicesti/2021/8",
+   "short": "HCL Grănicești nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 8/2021 privind desemnarea a doi consilieri locali in calitate de membri in cadrul comisiei de evaluare a performantelor profesionale individuale ale Secretarului General al comunei Granicesti, judetul Suceava.pdf Descarcă",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/HCL%20nr.8%20din%2030.03.2021%20privind%20desemnarea%20a%20doi%20consilieri%20locali%20in%20calitate%20de%20membri%20in%20cadrul%20comisiei%20de%20evaluare%20a%20performantelor%20profesionale%20individuale%20ale%20Secretarului%20General%20al%20comunei%20Granicesti,%20judetul%20Suceava.pdf",
+     "sha256": "113da71721a3080963ce01385a67828695c81bc166ee7e73c84f1bb53f9ddf58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--granicesti-9-2021",
+   "path": "local/suceava/granicesti/2021/9",
+   "short": "HCL Grănicești nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 9/2021 privind aprobarea bugetului local pe anul 2021 și a estimarilor pentru perioada 2022 - 2024.pdf Descarcă",
+   "url": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://comunagranicesti.ro/wp-content/uploads/site/Consiliul%20Local/Hotarari_consiliu_local/HCL%20nr.9%20din%2019.04.2021%20privind%20aprobarea%20bugetului%20local%20pe%20anul%202021%20%C8%99i%20a%20estimarilor%20pentru%20perioada%202022%20-%202024.pdf",
+     "sha256": "71a706160c2943073598e1ddb625d28cfe234e0b181c1b0ad4ca951a361ccea6"
+    }
+   ]
+  }
+ ]
+}

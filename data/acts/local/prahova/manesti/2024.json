@@ -113,6 +113,74 @@
 }
 },
 {
+"slug": "hcl-prahova--manesti-76-2024",
+"path": "local/prahova/manesti/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 76/2024 privind desemnarea reprezentantului Consiliului Local Măneşti , judeţul Prahova în Comisia pentru Asigurarea Calității Educației, pentru anul şcolar 2024-2025",
+"short": "HCL Mănești nr. 76/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/manesti-ph/registru-hcl/177777",
+"council": "prahova/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--manesti-77-2024",
+"path": "local/prahova/manesti/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 77/2024",
+"short": "HCL Mănești nr. 77/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/manesti-ph/registru-hcl/177778",
+"council": "prahova/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--manesti-78-2024",
+"path": "local/prahova/manesti/2024/78",
+"kind": "local",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 78/2024",
+"short": "HCL Mănești nr. 78/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/manesti-ph/registru-hcl/177779",
+"council": "prahova/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--manesti-79-2024",
 "path": "local/prahova/manesti/2024/79",
 "kind": "local",

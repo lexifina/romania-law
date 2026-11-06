@@ -3,6 +3,182 @@
 "shard": "local/satu-mare/tiream/2019",
 "acts": [
 {
+"slug": "hcl-satu-mare--tiream-3-2019",
+"path": "local/satu-mare/tiream/2019/3",
+"kind": "local",
+"year": "2019",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tiream nr. 3/2019 privind aprobarea contului de execuţie al Bugetului local de venituri şi cheltuieli al Comunei Tiream pe trimestrul IV , anul 2018",
+"short": "HCL Tiream nr. 3/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-02-20",
+"latest": "2019-02-20",
+"portal": "https://tiream.ro/hotararile-consiliuilui-local",
+"council": "satu-mare/tiream",
+"council_name": "Consiliul Local al Comunei Tiream",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--tiream-5-2019",
+"path": "local/satu-mare/tiream/2019/5",
+"kind": "local",
+"year": "2019",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tiream nr. 5/2019 privind aprobarea „Planului de analiză şi acoperire a riscurilor pentru anul 2019”, în comuna Tiream",
+"short": "HCL Tiream nr. 5/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-02-20",
+"latest": "2019-02-20",
+"portal": "https://tiream.ro/hotararile-consiliuilui-local",
+"council": "satu-mare/tiream",
+"council_name": "Consiliul Local al Comunei Tiream",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--tiream-16-2019",
+"path": "local/satu-mare/tiream/2019/16",
+"kind": "local",
+"year": "2019",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tiream nr. 16/2019 privind rectificarea Bugetului local de venituri şi cheltuieli al Comunei Tiream, pe anul 2019",
+"short": "HCL Tiream nr. 16/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-06-26",
+"latest": "2019-06-26",
+"portal": "https://tiream.ro/hotararile-consiliuilui-local",
+"council": "satu-mare/tiream",
+"council_name": "Consiliul Local al Comunei Tiream",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--tiream-17-2019",
+"path": "local/satu-mare/tiream/2019/17",
+"kind": "local",
+"year": "2019",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tiream nr. 17/2019 privind alocarea sumei de 4.000 lei din bugetul local pe anul 2019 Asociaţiei Culturale Sathmarense Satu Mare",
+"short": "HCL Tiream nr. 17/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-08-10",
+"latest": "2019-08-10",
+"portal": "https://tiream.ro/hotararile-consiliuilui-local",
+"council": "satu-mare/tiream",
+"council_name": "Consiliul Local al Comunei Tiream",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--tiream-18-2019",
+"path": "local/satu-mare/tiream/2019/18",
+"kind": "local",
+"year": "2019",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tiream nr. 18/2019 privind aprobarea achiziţionării unui tractoraş pentru tuns iarba",
+"short": "HCL Tiream nr. 18/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-05-17",
+"latest": "2019-05-17",
+"portal": "https://tiream.ro/hotararile-consiliuilui-local",
+"council": "satu-mare/tiream",
+"council_name": "Consiliul Local al Comunei Tiream",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--tiream-19-2019",
+"path": "local/satu-mare/tiream/2019/19",
+"kind": "local",
+"year": "2019",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tiream nr. 19/2019 privind aprobarea Devizului General şi a indicatorilor tehnico-economici pentru obiectivul de investiţii : Reparaţie străzi în comuna Tiream etapa III – străzi în Tiream",
+"short": "HCL Tiream nr. 19/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-06-26",
+"latest": "2019-06-26",
+"portal": "https://tiream.ro/hotararile-consiliuilui-local",
+"council": "satu-mare/tiream",
+"council_name": "Consiliul Local al Comunei Tiream",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--tiream-20-2019",
+"path": "local/satu-mare/tiream/2019/20",
+"kind": "local",
+"year": "2019",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tiream nr. 20/2019",
+"short": "HCL Tiream nr. 20/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-06-07",
+"latest": "2019-06-07",
+"portal": "https://tiream.ro/hotararile-consiliuilui-local",
+"council": "satu-mare/tiream",
+"council_name": "Consiliul Local al Comunei Tiream",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--tiream-21-2019",
+"path": "local/satu-mare/tiream/2019/21",
+"kind": "local",
+"year": "2019",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tiream nr. 21/2019 privind aprobarea Nomenclatorului stradal şi a numerelor administrative pentru străzile din satele componente ale comunei Tiream",
+"short": "HCL Tiream nr. 21/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-06-26",
+"latest": "2019-06-26",
+"portal": "https://tiream.ro/hotararile-consiliuilui-local",
+"council": "satu-mare/tiream",
+"council_name": "Consiliul Local al Comunei Tiream",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-satu-mare--tiream-22-2019",
 "path": "local/satu-mare/tiream/2019/22",
 "kind": "local",
@@ -25,6 +201,182 @@
 }
 },
 {
+"slug": "hcl-satu-mare--tiream-23-2019",
+"path": "local/satu-mare/tiream/2019/23",
+"kind": "local",
+"year": "2019",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tiream nr. 23/2019 privind asocierea comunei Tiream cu alte unități administrativ-teritoriale în cadrul Asociaţiei de Dezvoltare Intercomunitară a Comunelor Sătmărene ACSA",
+"short": "HCL Tiream nr. 23/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-06-26",
+"latest": "2019-06-26",
+"portal": "https://tiream.ro/hotararile-consiliuilui-local",
+"council": "satu-mare/tiream",
+"council_name": "Consiliul Local al Comunei Tiream",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--tiream-25-2019",
+"path": "local/satu-mare/tiream/2019/25",
+"kind": "local",
+"year": "2019",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tiream nr. 25/2019 privind aprobarea Devizului General şi a indicatorilor tehnico-economici pentru obiectivul de investiţii : Reparaţie străzi în comuna Tiream etapa IV – străzi în satul Vezendiu",
+"short": "HCL Tiream nr. 25/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-06-26",
+"latest": "2019-06-26",
+"portal": "https://tiream.ro/hotararile-consiliuilui-local",
+"council": "satu-mare/tiream",
+"council_name": "Consiliul Local al Comunei Tiream",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--tiream-26-2019",
+"path": "local/satu-mare/tiream/2019/26",
+"kind": "local",
+"year": "2019",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tiream nr. 26/2019",
+"short": "HCL Tiream nr. 26/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-06-03",
+"latest": "2019-06-03",
+"portal": "https://tiream.ro/hotararile-consiliuilui-local",
+"council": "satu-mare/tiream",
+"council_name": "Consiliul Local al Comunei Tiream",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--tiream-35-2019",
+"path": "local/satu-mare/tiream/2019/35",
+"kind": "local",
+"year": "2019",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tiream nr. 35/2019 privind aprobarea contului de execuţie al Bugetului local de venituri şi cheltuieli al Comunei Tiream pe trimestrul III , anul 2019",
+"short": "HCL Tiream nr. 35/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-10-30",
+"latest": "2019-10-30",
+"portal": "https://tiream.ro/hotararile-consiliuilui-local",
+"council": "satu-mare/tiream",
+"council_name": "Consiliul Local al Comunei Tiream",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--tiream-36-2019",
+"path": "local/satu-mare/tiream/2019/36",
+"kind": "local",
+"year": "2019",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tiream nr. 36/2019 privind aprobarea rectificării Bugetului local de venituri şi cheltuieli al Comunei Tiream, pe anul 2019",
+"short": "HCL Tiream nr. 36/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-10-30",
+"latest": "2019-10-30",
+"portal": "https://tiream.ro/hotararile-consiliuilui-local",
+"council": "satu-mare/tiream",
+"council_name": "Consiliul Local al Comunei Tiream",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--tiream-37-2019",
+"path": "local/satu-mare/tiream/2019/37",
+"kind": "local",
+"year": "2019",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tiream nr. 37/2019 privind alocarea unor sume din bugetul local pentru achiziţionarea şi montarea unui cazan din oţel cu funcţionare pe combustibil solid cu gazeificare",
+"short": "HCL Tiream nr. 37/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-10-30",
+"latest": "2019-10-30",
+"portal": "https://tiream.ro/hotararile-consiliuilui-local",
+"council": "satu-mare/tiream",
+"council_name": "Consiliul Local al Comunei Tiream",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--tiream-38-2019",
+"path": "local/satu-mare/tiream/2019/38",
+"kind": "local",
+"year": "2019",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tiream nr. 38/2019 privind aprobarea Regulamentului de organizare şi funcţionare al Consiliului local al comunei Tiream, judeţul Satu Mare",
+"short": "HCL Tiream nr. 38/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-10-30",
+"latest": "2019-10-30",
+"portal": "https://tiream.ro/hotararile-consiliuilui-local",
+"council": "satu-mare/tiream",
+"council_name": "Consiliul Local al Comunei Tiream",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--tiream-39-2019",
+"path": "local/satu-mare/tiream/2019/39",
+"kind": "local",
+"year": "2019",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tiream nr. 39/2019 privind reorganizarea aparatului de specialitate al Primarului comunei Tiream şi aprobarea Organigramei şi a Statului de funcţii",
+"short": "HCL Tiream nr. 39/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-10-30",
+"latest": "2019-10-30",
+"portal": "https://tiream.ro/hotararile-consiliuilui-local",
+"council": "satu-mare/tiream",
+"council_name": "Consiliul Local al Comunei Tiream",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-satu-mare--tiream-40-2019",
 "path": "local/satu-mare/tiream/2019/40",
 "kind": "local",
@@ -44,6 +396,50 @@
 "council_name": "Consiliul Local al Comunei Tiream",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-satu-mare--tiream-41-2019",
+"path": "local/satu-mare/tiream/2019/41",
+"kind": "local",
+"year": "2019",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tiream nr. 41/2019 privind rectificarea Bugetului local de venituri şi cheltuieli al Comunei Tiream, pe anul 2019",
+"short": "HCL Tiream nr. 41/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-12-23",
+"latest": "2019-12-23",
+"portal": "https://tiream.ro/hotararile-consiliuilui-local",
+"council": "satu-mare/tiream",
+"council_name": "Consiliul Local al Comunei Tiream",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--tiream-42-2019",
+"path": "local/satu-mare/tiream/2019/42",
+"kind": "local",
+"year": "2019",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tiream nr. 42/2019 privind organizarea reţelei şcolare a unităţilor de învăţământ preuniversitar din comuna Tiream pentru anul şcolar 2020 – 2021",
+"short": "HCL Tiream nr. 42/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-12-23",
+"latest": "2019-12-23",
+"portal": "https://tiream.ro/hotararile-consiliuilui-local",
+"council": "satu-mare/tiream",
+"council_name": "Consiliul Local al Comunei Tiream",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

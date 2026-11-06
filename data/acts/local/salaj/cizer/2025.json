@@ -3,6 +3,28 @@
 "shard": "local/salaj/cizer/2025",
 "acts": [
 {
+"slug": "hcl-salaj--cizer-74-2025",
+"path": "local/salaj/cizer/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 74/2025 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al comunei Cizer pentru lunile noiembrie - decembrie 2025 - ianuarie 2026",
+"short": "HCL Cizer nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/229998",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--cizer-75-2025",
 "path": "local/salaj/cizer/2025/75",
 "kind": "local",
@@ -25,6 +47,138 @@
 }
 },
 {
+"slug": "hcl-salaj--cizer-76-2025",
+"path": "local/salaj/cizer/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 76/2025 privind aprobarea proiectului ,, CONSTRUIRE TRIBUNE LA TEREN FOTBAL IN LOCALITATEA CIZER \"",
+"short": "HCL Cizer nr. 76/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/230000",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-77-2025",
+"path": "local/salaj/cizer/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 77/2025 privind aprobarea implementării proiectului ,, CONSTRUIRE TRIBUNE LA TEREN FOTBAL IN LOCALITATEA CIZER \"",
+"short": "HCL Cizer nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/230001",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-78-2025",
+"path": "local/salaj/cizer/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 78/2025 privind completarea domeniului public al Comunei Cizer, judeţul Sălaj cu un imobil teren intravilan şi extravilan şi două construcţii situate în comuna Cizer, judeţul Sălaj",
+"short": "HCL Cizer nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/230002",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-79-2025",
+"path": "local/salaj/cizer/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 79/2025 privind organizarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat din raza comunei Cizer pentru anul şcolar 2026 - 2027",
+"short": "HCL Cizer nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/237072",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-80-2025",
+"path": "local/salaj/cizer/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 80/2025 privind aprobarea planului de investiții pentru anul 2026 al Comunei Cizer , jud. Sălaj aferent activelor date în administrare sau concesiune cu finanțare din Fondul Întreținere, Înlocuire si Dezvoltare",
+"short": "HCL Cizer nr. 80/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/237073",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-81-2025",
+"path": "local/salaj/cizer/2025/81",
+"kind": "local",
+"year": "2025",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 81/2025 privind aprobarea devizului general actualizat ca urmare a încredințării contractului de execuție lucrări nr. 5691 din data de 21.10.2025 și a sumei reprezentând cofinanțarea aferentă categoriilor de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului de investiții ”EXTINDERE REŢEA ALIMENTARE CU APĂ ÎN LOCALITATEA CIZER, COMUNA CIZER, JUDEŢUL SĂLAJ",
+"short": "HCL Cizer nr. 81/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/237074",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--cizer-82-2025",
 "path": "local/salaj/cizer/2025/82",
 "kind": "local",
@@ -44,6 +198,138 @@
 "council_name": "Consiliul Local al Comunei Cizer",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--cizer-83-2025",
+"path": "local/salaj/cizer/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 83/2025 privind aprobarea Strategiei de tarifare pentru perioada 2026-2030, respectiv a formulei de calcul",
+"short": "HCL Cizer nr. 83/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/237076",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-84-2025",
+"path": "local/salaj/cizer/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 84/2025 privind aprobarea realizării lucrărilor de decolmatare a albiei râului Valea Boului de pe raza comunei Cizer, efectuată în baza protocolului de colaborare a comunei Cizer cu Administrația Națională ”Apele Române Administrația Bazinală de Apă Someș-Tisa - Sistemul de Gospodărire a Apelor Sălaj”;",
+"short": "HCL Cizer nr. 84/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/237077",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-85-2025",
+"path": "local/salaj/cizer/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 85/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale - facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+"short": "HCL Cizer nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/237078",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-86-2025",
+"path": "local/salaj/cizer/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 86/2025 privind actualizarea indicatorilor tehnico-economici și a devizului general, ca urmare a modificărilor tehnice și financiare generate de Dispoziția de șantier nr. 10/06.11.2025 aferentă proiectului ”REŢEA DE CANALIZARE MENAJERĂ ŞI STAŢIE DE EPURARE ÎN COMUNA CIZER, JUDEŢUL SĂLAJ”",
+"short": "HCL Cizer nr. 86/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-11",
+"latest": "2025-12-11",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/240243",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-87-2025",
+"path": "local/salaj/cizer/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 87/2025 privind aprobarea contului de execuţie de venituri şi cheltuieli trimestrul III al anului 2025",
+"short": "HCL Cizer nr. 87/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-11",
+"latest": "2025-12-11",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/240244",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-88-2025",
+"path": "local/salaj/cizer/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 88/2025 privind aprobarea Regulamentului privind prestarea de activităţi în folosul comunităţii, de către persoanele care au săvârşit infracţiuni sau persoanele care au fost sancţionate contravenţional",
+"short": "HCL Cizer nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-11",
+"latest": "2025-12-11",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/240245",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -88,6 +374,72 @@
 "council_name": "Consiliul Local al Comunei Cizer",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--cizer-91-2025",
+"path": "local/salaj/cizer/2025/91",
+"kind": "local",
+"year": "2025",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 91/2025 privind stabilirea impozitelor şi taxelor locale, precum şi a taxelor speciale pe anul 2026",
+"short": "HCL Cizer nr. 91/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/243051",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-92-2025",
+"path": "local/salaj/cizer/2025/92",
+"kind": "local",
+"year": "2025",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 92/2025 aprobarea contractului de sponsorizare și acceptarea sumei de 30.000 lei cu titlu de sponsorizare din partea firmei CEMACOM SA",
+"short": "HCL Cizer nr. 92/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/243052",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-93-2025",
+"path": "local/salaj/cizer/2025/93",
+"kind": "local",
+"year": "2025",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 93/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat în faza de solicitare a autorizației de construire și de finalizare a proiectului tehnic de execuție pentru obiectivul de investiții „REȚEA DE CANALIZARE MENAJERĂ ȘI STAȚIE DE EPURARE ÎN COMUNA CIZER, JUDEȚUL SĂLAJ”- Reproiectare staţie de epurare , precum și a sumei reprezentând cofinanțarea aferentă categoriilor de cheltuieli finanţate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Cizer nr. 93/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/243053",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -3,6 +3,36 @@
  "shard": "local/suceava/izvoarele-sucevei/2024",
  "acts": [
   {
+   "slug": "hcl-suceava--izvoarele-sucevei-44-2024",
+   "path": "local/suceava/izvoarele-sucevei/2024/44",
+   "short": "HCL Izvoarele Sucevei nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 44/2024 privind alegerea președintelui de ședință al Consiliului Local al comunei Izvoarele Sucevei, județul Suceava pentru perioada noiembrie-decembrie 2024-ianuarie 2025",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/175282",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/175282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-45-2024",
+   "path": "local/suceava/izvoarele-sucevei/2024/45",
+   "short": "HCL Izvoarele Sucevei nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 45/2024 privind constituirea comisiilor de specialitate ale Consiliului Local al comunei Izvoarele Sucevei, pe principalele domenii de activitate",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/175283",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/175283",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--izvoarele-sucevei-46-2024",
    "path": "local/suceava/izvoarele-sucevei/2024/46",
    "short": "HCL Izvoarele Sucevei nr. 46/2024",
@@ -28,6 +58,51 @@
      "from": "2024-11-12",
      "units": 1,
      "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/175285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-48-2024",
+   "path": "local/suceava/izvoarele-sucevei/2024/48",
+   "short": "HCL Izvoarele Sucevei nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 48/2024 privind alegerea viceprimarului Consiliului Local al comunei Izvoarele Sucevei, județul Suceava",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/175286",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/175286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-49-2024",
+   "path": "local/suceava/izvoarele-sucevei/2024/49",
+   "short": "HCL Izvoarele Sucevei nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 49/2024 privind aprobarea decontării cheltuielilor cu efectuarea navetei cadrelor didactice, pentru luna octombrie 2024",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/176078",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/176078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-50-2024",
+   "path": "local/suceava/izvoarele-sucevei/2024/50",
+   "short": "HCL Izvoarele Sucevei nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 50/2024 privind modificarea statului de funcții al Aparatului de specialitate al Primarului comunei Izvoarele Sucevei, județul Suceava",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/176079",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/176079",
      "sha256": null
     }
    ]
@@ -73,6 +148,36 @@
      "from": "2024-12-04",
      "units": 1,
      "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/178469",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-54-2024",
+   "path": "local/suceava/izvoarele-sucevei/2024/54",
+   "short": "HCL Izvoarele Sucevei nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 54/2024 privind achiziționarea de servicii juridice în vederea reprezentării intereselor Comunei Izvoarele Sucevei, Consiliului Local Izvoarele Sucevei, Primăriei Izvoarele Sucevei și al Primarului Comunei Izvoarele Sucevei - în calitate de Președinte al Comisiei Locale de Fond Funciar Izvoarele Sucevei, în dosarele aflate pe rolul instanțelor judecătorești și alte dosare care urmează a fi promovate sau în care sunt chemați în judecată",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/181492",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/181492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-55-2024",
+   "path": "local/suceava/izvoarele-sucevei/2024/55",
+   "short": "HCL Izvoarele Sucevei nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 55/2024 privind stabilirea indemnizației lunare de şedinţă consilierilor locali ai Consiliului Local Izvoarele Sucevei, pentru anul 2025",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/181493",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/181493",
      "sha256": null
     }
    ]
@@ -133,6 +238,36 @@
      "from": "2024-12-12",
      "units": 1,
      "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/181497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-60-2024",
+   "path": "local/suceava/izvoarele-sucevei/2024/60",
+   "short": "HCL Izvoarele Sucevei nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 60/2024 privind aprobarea decontării cheltuielilor cu efectuarea navetei cadrelor didactice, pentru luna noiembrie 2024",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/183976",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/183976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-61-2024",
+   "path": "local/suceava/izvoarele-sucevei/2024/61",
+   "short": "HCL Izvoarele Sucevei nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 61/2024 privind reorganizarea activității instituției și aprobarea organigramei și a statului de funcții aparatului de specialitate al Primarului comunei Izvoarele Sucevei, județul Suceava",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/183977",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/183977",
      "sha256": null
     }
    ]

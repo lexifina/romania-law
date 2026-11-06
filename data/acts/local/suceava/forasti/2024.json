@@ -3,6 +3,94 @@
 "shard": "local/suceava/forasti/2024",
 "acts": [
 {
+"slug": "hcl-suceava--forasti-65-2024",
+"path": "local/suceava/forasti/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 65/2024 privind alegerea președintelui de ședință",
+"short": "HCL Forăști nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188390",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-66-2024",
+"path": "local/suceava/forasti/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 66/2024 privind aprobarea componenței comisiilor de specialitate pe diferite domenii de activitate în cadrul Consiliului Local al Comunei Forăști, Județul Suceava",
+"short": "HCL Forăști nr. 66/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188391",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-67-2024",
+"path": "local/suceava/forasti/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 67/2024 privind alegerea viceprimarului",
+"short": "HCL Forăști nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188393",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-68-2024",
+"path": "local/suceava/forasti/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 68/2024 privind rectificarea bugetului local de venituri și cheltuieli și a Listei de investiții",
+"short": "HCL Forăști nr. 68/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188396",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--forasti-69-2024",
 "path": "local/suceava/forasti/2024/69",
 "kind": "local",
@@ -22,6 +110,50 @@
 "council_name": "Consiliul Local al Comunei Forăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--forasti-70-2024",
+"path": "local/suceava/forasti/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 70/2024 privind însușirea și aprobarea documentației cadastrale de dezmembrare în două loturi distincte a unui imobil, în suprafață de 35.365 mp, situat la locul numit ''TURNUICA'', din domeniul privat al comunei Forăști, județul Suceava",
+"short": "HCL Forăști nr. 70/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188402",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-71-2024",
+"path": "local/suceava/forasti/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 71/2024 privind aprobarea apartenenței la doemniul privat al comunei Forăști a imobilului teren în suprafață de 17.250 mp, categoria de folosință neproductiv, situat în extravilanul comunei Forăști, județul Suceava",
+"short": "HCL Forăști nr. 71/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188424",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-suceava--forasti-73-2024",
+"path": "local/suceava/forasti/2024/73",
+"kind": "local",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 73/2024 privind actualizarea Planului de analiză și acoperire a riscurilor în comuna Forăști, județul Suceava",
+"short": "HCL Forăști nr. 73/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188426",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--forasti-74-2024",
 "path": "local/suceava/forasti/2024/74",
 "kind": "local",
@@ -66,6 +220,94 @@
 "council_name": "Consiliul Local al Comunei Forăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--forasti-75-2024",
+"path": "local/suceava/forasti/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 75/2024 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice de la Școala Gimnazială Oniceni",
+"short": "HCL Forăști nr. 75/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188430",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-76-2024",
+"path": "local/suceava/forasti/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 76/2024 privind aprobarea execuției bugetului întocmit pe secțiunile funcționare și dezvoltare pe trimestrul al III-lea, anul 2024",
+"short": "HCL Forăști nr. 76/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188432",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-77-2024",
+"path": "local/suceava/forasti/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 77/2024 privind modificarea statului de funcții al personalului din cadrul aparatului de specialitate al primarului comunei Forăști, județul Suceava",
+"short": "HCL Forăști nr. 77/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188438",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-78-2024",
+"path": "local/suceava/forasti/2024/78",
+"kind": "local",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 78/2024 privind rectificarea bugetului local de venituri și cheltuieli și a Listei de investiții",
+"short": "HCL Forăști nr. 78/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188462",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +333,50 @@
 }
 },
 {
+"slug": "hcl-suceava--forasti-80-2024",
+"path": "local/suceava/forasti/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 80/2024 privind aprobarea vânzării, prin licitație publică, a imobilului teren în suprafață de 17.250 mp, categoria de folosință neproductiv, identificat prin CF 343305, domeniul privat al comunei Forăști, situat în extravilanul comunei Forăști",
+"short": "HCL Forăști nr. 80/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188469",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-81-2024",
+"path": "local/suceava/forasti/2024/81",
+"kind": "local",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 81/2024 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice de la Școala Gimnazială Oniceni",
+"short": "HCL Forăști nr. 81/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188470",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--forasti-82-2024",
 "path": "local/suceava/forasti/2024/82",
 "kind": "local",
@@ -110,6 +396,50 @@
 "council_name": "Consiliul Local al Comunei Forăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--forasti-83-2024",
+"path": "local/suceava/forasti/2024/83",
+"kind": "local",
+"year": "2024",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 83/2024 privind modificarea art. 484 din Anexa la HCL nr. 69/14.11.2024 cu privire la stabilirea nivelurilor pentru valorile impozabile, impozitele și taxele locale și alte taxe asimilate acestora, precum și amenzile aplicabile începând cu anul fiscal 2025",
+"short": "HCL Forăști nr. 83/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188483",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--forasti-84-2024",
+"path": "local/suceava/forasti/2024/84",
+"kind": "local",
+"year": "2024",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Forăști nr. 84/2024 privind modificarea statului de funcții al personalului din cadrul aparatului de specialitate al primarului comunei Forăști, județul Suceava",
+"short": "HCL Forăști nr. 84/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/forasti-sv/registru-hcl/188485",
+"council": "suceava/forasti",
+"council_name": "Consiliul Local al Comunei Forăști",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -16,6 +16,36 @@
      "sha256": "4fb3fb7c927fb210fe9df33219a806eab57a605c92a6a5754797cbb3f1b10c61"
     }
    ]
+  },
+  {
+   "slug": "hcl-suceava--fratautii-noi-74-2026",
+   "path": "local/suceava/fratautii-noi/2026/74",
+   "short": "HCL Frătăuții Noi nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Frătăuții Noi nr. 74/2026 privind rectificarea bugetului local pe luna Octombrie, anul 2026",
+   "url": "http://www.primaria-fratautii-noi.ro/posts/hotarari-autoritati-deliberative",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "http://www.primaria-fratautii-noi.ro/uploads/2185/0_HCL-rectificare-buget.pdf",
+     "sha256": "8c0b5e0552d62b53a915e30d1f7c143944e185d1ccd07be4ed201a752380153c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fratautii-noi-77-2026",
+   "path": "local/suceava/fratautii-noi/2026/77",
+   "short": "HCL Frătăuții Noi nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Frătăuții Noi nr. 77/2026 privind revocarea Hotărârii nr. 65 din 24.09.2026 privind vânzarea prin licitație publică cu ofertă în plic închis a unor imobile - terenuri proprietatea privată a comunei Frătăuții Noi, județul Suceava",
+   "url": "http://www.primaria-fratautii-noi.ro/",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "http://www.primaria-fratautii-noi.ro/uploads/2191/HCL-revocare-HCL-vanzari.pdf",
+     "sha256": "dfb79ccae93ef9a354d463f988172811240b64ea3d8d53ee102ca760e7b379cf"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/satu-mare/sanislau/2021",
+"acts": [
+{
+"slug": "hcl-satu-mare--sanislau-22-2021",
+"path": "local/satu-mare/sanislau/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sanislău nr. 22/2021 pentru strazile din comuna Sanislau",
+"short": "HCL Sanislău nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://www.primariasanislau.ro/",
+"council": "satu-mare/sanislau",
+"council_name": "Consiliul Local al Comunei Sanislău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

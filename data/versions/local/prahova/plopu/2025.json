@@ -3,6 +3,21 @@
  "shard": "local/prahova/plopu/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--plopu-71-2025",
+   "path": "local/prahova/plopu/2025/71",
+   "short": "HCL Plopu nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 71/2025 privind DESEMNAREA UNUI CONSILIER LOCAL DIN CADRUL CONSILIULUI LOCAL AL COMUNEI PLOPU, JUDETUL PRAHOVA, CARE SA INDEPLINEASCA CALITATEA DE MEMBRU IN COMPONENTA CONSILIULUI DE ADMINISTRATIE AL SCOLII GIMNAZIALE, COMUNA PLOPU, PENTRU ANUL SCOLAR 2025 - 2026",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/229814",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/229814",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--plopu-72-2025",
    "path": "local/prahova/plopu/2025/72",
    "short": "HCL Plopu nr. 72/2025",
@@ -58,6 +73,36 @@
      "from": "2025-10-13",
      "units": 1,
      "source_url": "https://emol.ro/plopu-ph/registru-hcl/229818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-76-2025",
+   "path": "local/prahova/plopu/2025/76",
+   "short": "HCL Plopu nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 76/2025 privind DECONTAREA SUMEI DE 2.180 LEI REPREZENTAND CHELTUIELI DE TRANSPORT EFECTUATE DE CADRELE DIDACTICE SI/ SAU PERSONALUL DIDACTIC AUXILIAR DIN INVATAMANTUL PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU, JUDETUL PRAHOVA, AFERENTA LUNII SEPTEMBRIE/ 2025",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/229819",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/229819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-77-2025",
+   "path": "local/prahova/plopu/2025/77",
+   "short": "HCL Plopu nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 77/2025 privind DECONTAREA SUMEI DE 1.961 LEI REPREZENTAND CHELTUIELI DE TRANSPORT EFECTUATE DE CADRELE DIDACTICE SI/ SAU PERSONALUL DIDACTIC AUXILIAR DIN INVATAMANTUL PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU, JUDETUL PRAHOVA, AFERENTA LUNII OCTOMBRIE, ANUL 2025",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/238148",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/238148",
      "sha256": null
     }
    ]
@@ -123,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--plopu-82-2025",
+   "path": "local/prahova/plopu/2025/82",
+   "short": "HCL Plopu nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 82/2025 privind DECONTAREA SUMEI DE 1.985 LEI REPREZENTAND CHELTUIELI DE TRANSPORT EFECTUATE DE CADRELE DIDACTICE SI/ SAU PERSONALUL DIDACTIC AUXILIAR DIN INVATAMANTUL PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU, JUDETUL PRAHOVA, AFERENTA LUNII NOIEMBRIE, ANUL 2025",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/241183",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/241183",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--plopu-83-2025",
    "path": "local/prahova/plopu/2025/83",
    "short": "HCL Plopu nr. 83/2025",
@@ -133,6 +193,21 @@
      "from": "2025-12-15",
      "units": 1,
      "source_url": "https://emol.ro/plopu-ph/registru-hcl/241184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-84-2025",
+   "path": "local/prahova/plopu/2025/84",
+   "short": "HCL Plopu nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 84/2025 privind ORGANIZAREA RETELEI SCOLARE IN ANUL SCOLAR 2026 – 2027 LA NIVELUL UNITATII ADMINISTRATIV – TERITORIALE A COMUNEI PLOPU, JUDETUL PRAHOVA",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/241185",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/241185",
      "sha256": null
     }
    ]
@@ -193,6 +268,21 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/plopu-ph/registru-hcl/245596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-89-2025",
+   "path": "local/prahova/plopu/2025/89",
+   "short": "HCL Plopu nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 89/2025",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/245597",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/245597",
      "sha256": null
     }
    ]

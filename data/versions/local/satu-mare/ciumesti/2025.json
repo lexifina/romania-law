@@ -3,6 +3,96 @@
  "shard": "local/satu-mare/ciumesti/2025",
  "acts": [
   {
+   "slug": "hcl-satu-mare--ciumesti-34-2025",
+   "path": "local/satu-mare/ciumesti/2025/34",
+   "short": "HCL Ciumești nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumești nr. 34/2025 privind aprobarea contului de executie al Bugetului local de venituri si cheltuieli la 30.09.2025",
+   "url": "https://primariaciumesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/sedinte-c-l/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariaciumesti.ro/wp-content/uploads/2026/02/Hotararea-nr.-34-privind-aprobarea-contului-de-executie-al-Bugetului-local-de-venituri-si-cheltuieli-la-30.09.2025.pdf",
+     "sha256": "aa164ee9998beaaea1f9af0572a84222a2ecffc2cb93a245b7eb03ee7eaad79e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--ciumesti-36-2025",
+   "path": "local/satu-mare/ciumesti/2025/36",
+   "short": "HCL Ciumești nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumești nr. 36/2025 privind modificarea Bugetului local de venituri si cheltuieli al Comunei Ciumesti pe anul 2025",
+   "url": "https://primariaciumesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/sedinte-c-l/",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://primariaciumesti.ro/wp-content/uploads/2026/02/Hotararea-nr.-36-privind-modificarea-Bugetului-local-de-venituri-si-cheltuieli-al-Comunei-Ciumesti-pe-anul-2025.pdf",
+     "sha256": "7a453f730d6c15f4d954ddacc2996111ff28f6a9dc794f44bc75d00657899ee2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--ciumesti-39-2025",
+   "path": "local/satu-mare/ciumesti/2025/39",
+   "short": "HCL Ciumești nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumești nr. 39/2025 privind aprobarea organizarii retelei scolare ce va functiona la nivelul comunei Ciumesti in anul scolar 2026-2027",
+   "url": "https://primariaciumesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/sedinte-c-l/",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primariaciumesti.ro/wp-content/uploads/2026/02/Hotararea-nr.-39-privind-aprobarea-organizarii-retelei-scolare-ce-va-functiona-la-nivelul-comunei-Ciumesti-in-anul-scolar-2026-2027.pdf",
+     "sha256": "d1b971b8115c7ab01274fcbfbf5d7b533a8962f4c25353f7f3d769e828f71142"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--ciumesti-40-2025",
+   "path": "local/satu-mare/ciumesti/2025/40",
+   "short": "HCL Ciumești nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumești nr. 40/2025 privind stabilirea modalitatii gestiunii pentru activitatile de salubrizare, de colectare si acordarea unui mandat special",
+   "url": "https://primariaciumesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/sedinte-c-l/",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primariaciumesti.ro/wp-content/uploads/2026/02/Hotararea-nr.-40-privind-stabilirea-modalitatii-gestiunii-pentru-activitatile-de-salubrizare-de-colectare-si-acordarea-unui-mandat-special.pdf",
+     "sha256": "116eff89a67c4aa4e781e9b1daf03d91a5ebc989a78b08fe770b47faca06a8cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--ciumesti-42-2025",
+   "path": "local/satu-mare/ciumesti/2025/42",
+   "short": "HCL Ciumești nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumești nr. 42/2025 privind modificarea indicatorilor tehnico-economici si a devizului general al obiectivului Infiintare trotuare si acce",
+   "url": "https://primariaciumesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/sedinte-c-l/",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primariaciumesti.ro/wp-content/uploads/2026/02/Hotararea-nr.-42-privind-modificarea-indicatorilor-tehnico-economici-si-a-devizului-general-al-obiectivului-Infiintare-trotuare-si-acce.pdf",
+     "sha256": "10f7be76f7d4505416d532b50c0e40db57613f701cb12fa43c5691a242ccd451"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--ciumesti-43-2025",
+   "path": "local/satu-mare/ciumesti/2025/43",
+   "short": "HCL Ciumești nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumești nr. 43/2025 privind rectificarea Bugetului local de venituri si cheltuieli pe anul 2025",
+   "url": "https://primariaciumesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/sedinte-c-l/",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primariaciumesti.ro/wp-content/uploads/2026/02/Hotararea-nr.-43-privind-rectificarea-Bugetului-local-de-venituri-si-cheltuieli-pe-anul-2025.pdf",
+     "sha256": "44acf9a458374b80bedfbaab9d49a0bfcb8b374037d4518a7b03e0f950e88e08"
+    }
+   ]
+  },
+  {
    "slug": "hcl-satu-mare--ciumesti-44-2025",
    "path": "local/satu-mare/ciumesti/2025/44",
    "short": "HCL Ciumești nr. 44/2025",

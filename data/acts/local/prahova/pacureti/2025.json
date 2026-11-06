@@ -3,6 +3,29 @@
 "shard": "local/prahova/pacureti/2025",
 "acts": [
 {
+"slug": "hcl-prahova--pacureti-1-2025",
+"path": "local/prahova/pacureti/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 1/2025",
+"short": "HCL Păcureți nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": null,
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--pacureti-2-2025",
 "path": "local/prahova/pacureti/2025/2",
 "kind": "local",
@@ -157,6 +180,28 @@
 }
 },
 {
+"slug": "hcl-prahova--pacureti-9-2025",
+"path": "local/prahova/pacureti/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 9/2025 privind aprobarea transformarii a unei functii contractuale vacante din cadrul aparatului de specialitate al primarului com. Pacureti jud Prahova",
+"short": "HCL Păcureți nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-18",
+"latest": "2025-02-18",
+"portal": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#93809",
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--pacureti-10-2025",
 "path": "local/prahova/pacureti/2025/10",
 "kind": "local",
@@ -287,6 +332,28 @@
 "council_name": "Consiliul Local al Comunei Păcureți",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--pacureti-17-2025",
+"path": "local/prahova/pacureti/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 17/2025 privind initierea procedurii de închiriere a pajiştilor permanente, aflate în proprietatea privată a comunei Pacureti , judeţul Prahova",
+"short": "HCL Păcureți nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-27",
+"latest": "2025-04-27",
+"portal": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#94012",
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -870,6 +937,52 @@
 "council_name": "Consiliul Local al Comunei Păcureți",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--pacureti-44-2025",
+"path": "local/prahova/pacureti/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 44/2025",
+"short": "HCL Păcureți nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-22",
+"latest": "2025-09-22",
+"portal": null,
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--pacureti-45-2025",
+"path": "local/prahova/pacureti/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 45/2025",
+"short": "HCL Păcureți nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-22",
+"latest": "2025-09-22",
+"portal": null,
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

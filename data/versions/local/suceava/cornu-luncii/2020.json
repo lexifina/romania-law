@@ -3,6 +3,21 @@
  "shard": "local/suceava/cornu-luncii/2020",
  "acts": [
   {
+   "slug": "hcl-suceava--cornu-luncii-58-2020",
+   "path": "local/suceava/cornu-luncii/2020/58",
+   "short": "HCL Cornu Luncii nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 58/2020 privind alocarea de la bugetul local a unui sprijin financiar Parohiei „Sf. Treime” Dumbrava, comuna Cornu Luncii județul Suceava pentru con struirea unui prăznicar",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/14498",
+   "versions": [
+    {
+     "from": "2020-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/14498",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--cornu-luncii-59-2020",
    "path": "local/suceava/cornu-luncii/2020/59",
    "short": "HCL Cornu Luncii nr. 59/2020",
@@ -63,6 +78,51 @@
    ]
   },
   {
+   "slug": "hcl-suceava--cornu-luncii-64-2020",
+   "path": "local/suceava/cornu-luncii/2020/64",
+   "short": "HCL Cornu Luncii nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 64/2020",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/23721",
+   "versions": [
+    {
+     "from": "2020-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/23721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-65-2020",
+   "path": "local/suceava/cornu-luncii/2020/65",
+   "short": "HCL Cornu Luncii nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 65/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/23722",
+   "versions": [
+    {
+     "from": "2020-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/23722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-66-2020",
+   "path": "local/suceava/cornu-luncii/2020/66",
+   "short": "HCL Cornu Luncii nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 66/2020 privind alegerea viceprimarului",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/23723",
+   "versions": [
+    {
+     "from": "2020-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/23723",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--cornu-luncii-67-2020",
    "path": "local/suceava/cornu-luncii/2020/67",
    "short": "HCL Cornu Luncii nr. 67/2020",
@@ -118,6 +178,36 @@
      "from": "2020-10-27",
      "units": 1,
      "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/23727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-71-2020",
+   "path": "local/suceava/cornu-luncii/2020/71",
+   "short": "HCL Cornu Luncii nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 71/2020",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/23728",
+   "versions": [
+    {
+     "from": "2020-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/23728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-72-2020",
+   "path": "local/suceava/cornu-luncii/2020/72",
+   "short": "HCL Cornu Luncii nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 72/2020 privind desemnarea reprezentanților Consiliului local în cadrul Consiliului de Administrație de la Școala Gimnazială Băișești",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/23729",
+   "versions": [
+    {
+     "from": "2020-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/23729",
      "sha256": null
     }
    ]

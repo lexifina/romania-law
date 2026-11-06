@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/adancata/2026",
+ "acts": [
+  {
+   "slug": "hcl-suceava--adancata-37-2026",
+   "path": "local/suceava/adancata/2026/37",
+   "short": "HCL Adâncata nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Adâncata nr. 37/2026",
+   "url": "https://comuna-adancata.ro/wp-content/uploads/2026/11/hcl-nr.-37-din-31.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://comuna-adancata.ro/wp-content/uploads/2026/11/hcl-nr.-37-din-31.08.2026.pdf",
+     "sha256": "55320e8d2366479b85750c651b4d3a9ad9bc3aabfa57551fe64ba3e468337be4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--adancata-38-2026",
+   "path": "local/suceava/adancata/2026/38",
+   "short": "HCL Adâncata nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Adâncata nr. 38/2026",
+   "url": "https://comuna-adancata.ro/wp-content/uploads/2026/11/hcl-nr.-38-din-31.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://comuna-adancata.ro/wp-content/uploads/2026/11/hcl-nr.-38-din-31.08.2026.pdf",
+     "sha256": "7b3a1645fc8da3680b773aa5d946c4ad595bfa8b1fcf243428171cdd29e2c278"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--adancata-39-2026",
+   "path": "local/suceava/adancata/2026/39",
+   "short": "HCL Adâncata nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Adâncata nr. 39/2026",
+   "url": "https://comuna-adancata.ro/wp-content/uploads/2026/11/hcl-nr.-39-din-31.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://comuna-adancata.ro/wp-content/uploads/2026/11/hcl-nr.-39-din-31.08.2026.pdf",
+     "sha256": "1eda09bcc66b065a5bf81aef848d769b86440727ba85d153fb370f308ce23558"
+    }
+   ]
+  }
+ ]
+}

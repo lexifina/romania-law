@@ -3,6 +3,21 @@
  "shard": "local/suceava/cornu-luncii/2023",
  "acts": [
   {
+   "slug": "hcl-suceava--cornu-luncii-1-2023",
+   "path": "local/suceava/cornu-luncii/2023/1",
+   "short": "HCL Cornu Luncii nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 1/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/102842",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/102842",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--cornu-luncii-10-2023",
    "path": "local/suceava/cornu-luncii/2023/10",
    "short": "HCL Cornu Luncii nr. 10/2023",
@@ -13,6 +28,36 @@
      "from": "2023-05-02",
      "units": 1,
      "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/102852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-11-2023",
+   "path": "local/suceava/cornu-luncii/2023/11",
+   "short": "HCL Cornu Luncii nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 11/2023 privind aprobarea execuțiilor bugetului local, bugetul creditelor interne și bugetului activităților finanțate integral sau parțial din venituri proprii și subvenții pe cele două secțiuni funcționare și dezvoltare pentru trimestrul IV al anului 2022",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/102855",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/102855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-12-2023",
+   "path": "local/suceava/cornu-luncii/2023/12",
+   "short": "HCL Cornu Luncii nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 12/2023 privind alocarea de la bugetul local a unui sprijin financiar pentru executarea lucrărilor de „SCHIMBAREA ÎNVELITORII ACOPERIȘULUI LĂCAȘULUI DE CULT” la Biserica „SF. MC. PANTELIMON” Biserică Ortodoxă de stil vechi din satul Brăiești, comuna Cornu Luncii, județul Suceava",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/102856",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/102856",
      "sha256": null
     }
    ]
@@ -33,6 +78,51 @@
    ]
   },
   {
+   "slug": "hcl-suceava--cornu-luncii-3-2023",
+   "path": "local/suceava/cornu-luncii/2023/3",
+   "short": "HCL Cornu Luncii nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 3/2023 privind modificarea Statului de funcții al Primăriei Comunei Cornu Luncii, județul Suceava",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/102844",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/102844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-4-2023",
+   "path": "local/suceava/cornu-luncii/2023/4",
+   "short": "HCL Cornu Luncii nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 4/2023 privind atestarea apartenenței la Inventarul bunurilor care fac parte din domeniul public al comunei Cornu Luncii, județul Suceava, înscris în Anexa la Hotărârea Consiliului local nr. 18 din 23.08.1999, cu modificările și completările ulterioare a unei suprafețe de teren din comuna Cornu Luncii, județul Suceava",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/102845",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/102845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-5-2023",
+   "path": "local/suceava/cornu-luncii/2023/5",
+   "short": "HCL Cornu Luncii nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 5/2023",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/102846",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/102846",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--cornu-luncii-6-2023",
    "path": "local/suceava/cornu-luncii/2023/6",
    "short": "HCL Cornu Luncii nr. 6/2023",
@@ -43,6 +133,51 @@
      "from": "2023-05-02",
      "units": 1,
      "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/102848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-7-2023",
+   "path": "local/suceava/cornu-luncii/2023/7",
+   "short": "HCL Cornu Luncii nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 7/2023 privind aprobarea Organigramei și a Statului de funcții ale Primăriei comunei Cornu Luncii, județul Suceava",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/102849",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/102849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-8-2023",
+   "path": "local/suceava/cornu-luncii/2023/8",
+   "short": "HCL Cornu Luncii nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 8/2023 privind aprobarea stabilirii salariilor de bază pentru funcționarii publici și personalul contractual din cadrul Primăriei Cornu Luncii, precum și a indemnizației lunare a consilierilor locali",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/102850",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/102850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-9-2023",
+   "path": "local/suceava/cornu-luncii/2023/9",
+   "short": "HCL Cornu Luncii nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 9/2023 privind aprobarea documentației tehnico-ecomonice (faza DALI) și a indicatorilor tehnico economici pentru obiectivul de investiții \"CREŞTEREA PERFORMANŢEI ENERGETICE PENTRU BLOCURILE DE LOCUINŢE DIN COMUNA CORNU LUNCII, JUDEŢUL SUCEAVA \" finanțat prin Planului Național de Redresare și Reziliență – Componenta C5 – Valul Renovării, Axa 1 - Schema de granturi pentru eficiență energetică și reziliență în clădiri rezidențiale multifamiliale, Operațiunea A.1: Renovarea integrată (Consolidare seismică și renovare energetică moderată) a clădirilor rezidențiale multifamiliale",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/102851",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/102851",
      "sha256": null
     }
    ]

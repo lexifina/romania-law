@@ -137,6 +137,50 @@
 }
 },
 {
+"slug": "hcl-prahova--paulesti-156-2023",
+"path": "local/prahova/paulesti/2023/156",
+"kind": "local",
+"year": "2023",
+"number": "156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 156/2023 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al Primarului comunei Păulești precum și din serviciile publice înființate în subordinea Consiliului Local Păulești, începând luna decembrie 2023",
+"short": "HCL Păulești nr. 156/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-29",
+"latest": "2023-12-29",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/132733",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--paulesti-157-2023",
+"path": "local/prahova/paulesti/2023/157",
+"kind": "local",
+"year": "2023",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 157/2023 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al Primarului comunei Păulești precum și din serviciile publice înființate în subordinea Consiliului Local Păulești, începând cu 1 ianuarie 2024",
+"short": "HCL Păulești nr. 157/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-29",
+"latest": "2023-12-29",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/132734",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--paulesti-158-2023",
 "path": "local/prahova/paulesti/2023/158",
 "kind": "local",
@@ -203,6 +247,28 @@
 }
 },
 {
+"slug": "hcl-prahova--paulesti-161-2023",
+"path": "local/prahova/paulesti/2023/161",
+"kind": "local",
+"year": "2023",
+"number": "161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 161/2023 privind aprobarea prețului de cumpărare a terenului în suprafață 7600 mp, nr.cad. 32399",
+"short": "HCL Păulești nr. 161/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-29",
+"latest": "2023-12-29",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/133194",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--paulesti-162-2023",
 "path": "local/prahova/paulesti/2023/162",
 "kind": "local",
@@ -266,6 +332,28 @@
 "council_name": "Consiliul Local al Comunei Păulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--paulesti-165-2023",
+"path": "local/prahova/paulesti/2023/165",
+"kind": "local",
+"year": "2023",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 165/2023 privind aprobarea prelungirii termenului de valabilitate al contractului de închiriere nr.181/2012 încheiat intre Comuna Păulești si SC Gerifarm SRL",
+"short": "HCL Păulești nr. 165/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-29",
+"latest": "2023-12-29",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/133198",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

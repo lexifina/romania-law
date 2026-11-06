@@ -3,6 +3,51 @@
  "shard": "local/sibiu/bruiu/2025",
  "acts": [
   {
+   "slug": "hcl-sibiu--bruiu-36-2025",
+   "path": "local/sibiu/bruiu/2025/36",
+   "short": "HCL Bruiu nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bruiu nr. 36/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a424dcf398f96c99b6116fe6a942338e9d4aad9d90d9aa09eb5d0995246d0161"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--bruiu-38-2025",
+   "path": "local/sibiu/bruiu/2025/38",
+   "short": "HCL Bruiu nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bruiu nr. 38/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c0dcbb832a7da4a80ff04641093b22c8b42874629583d23e397e156ef67d725c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--bruiu-42-2025",
+   "path": "local/sibiu/bruiu/2025/42",
+   "short": "HCL Bruiu nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bruiu nr. 42/2025 pentru aprobarea modificării Hotărârii Consiliului Local al comunei Bruiu nr.42 din 18.12.2025",
+   "url": "https://www.primariabruiu.eu/wp-content/uploads/2026/06/Hotarare-pentru-aprobarea-modificarii-Hotararii-Consiliului-Local-al-comunei-Bruiu-nr.42-din-18.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.primariabruiu.eu/wp-content/uploads/2026/06/Hotarare-pentru-aprobarea-modificarii-Hotararii-Consiliului-Local-al-comunei-Bruiu-nr.42-din-18.12.2025.pdf",
+     "sha256": "1a23cc535cc3d37aafa34647805c1b16e076042c450dbd05535b2e2aa1bf939a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--bruiu-49-2025",
    "path": "local/sibiu/bruiu/2025/49",
    "short": "HCL Bruiu nr. 49/2025",

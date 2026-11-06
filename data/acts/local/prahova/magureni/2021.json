@@ -223,6 +223,28 @@
 }
 },
 {
+"slug": "hcl-prahova--magureni-35-2021",
+"path": "local/prahova/magureni/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 35/2021 privind desemnarea reprezentantului consiliului local în comisia de evaluare a probei de interviu constituită la nivelul Inspectoratului Școlar Județean Prahova privind organizarea concursului pentru ocuparea funcțiilor de director și director adjunct al Școlii Gimnaziale Măgureni",
+"short": "HCL Măgureni nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/66638",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--magureni-36-2021",
 "path": "local/prahova/magureni/2021/36",
 "kind": "local",
@@ -286,6 +308,28 @@
 "council_name": "Consiliul Local al Comunei Măgureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magureni-39-2021",
+"path": "local/prahova/magureni/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 39/2021 privind alegerea președintelui de ședință pentru lunile decembrie 2021, ianuarie și februarie 2022",
+"short": "HCL Măgureni nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-23",
+"latest": "2021-11-23",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/66652",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

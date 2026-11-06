@@ -1,0 +1,336 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/liteni/2026",
+ "acts": [
+  {
+   "slug": "hcl-suceava--liteni-1-2026",
+   "path": "local/suceava/liteni/2026/1",
+   "short": "HCL Liteni nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 1/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-1-din-29-ianuarie-2026.pdf",
+     "sha256": "696262322c14fe6ec06e9db64ef548cb01dce31beb961adb0394c3157a7e8575"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-10-2026",
+   "path": "local/suceava/liteni/2026/10",
+   "short": "HCL Liteni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 10/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/05/Hotararea-nr.-10-din-31-martie-2026.pdf",
+     "sha256": "abe714ddb5fcbf82d3c59176966b252d8bf844ba89fdcd9cefbcd447525c078f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-11-2026",
+   "path": "local/suceava/liteni/2026/11",
+   "short": "HCL Liteni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 11/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/05/Hotararea-nr.-11-din-31-martie-2026.pdf",
+     "sha256": "4768b254f114c75baa558378fc7faf0667648f3181bebae300bab221608a2bca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-12-2026",
+   "path": "local/suceava/liteni/2026/12",
+   "short": "HCL Liteni nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 12/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/05/Hotararea-nr.-12-din-31-martie-2026.pdf",
+     "sha256": "5ce4a618ac389cb2f530ac36e7bca15f05de803cd29ef5c3d7aa02c447e20e3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-13-2026",
+   "path": "local/suceava/liteni/2026/13",
+   "short": "HCL Liteni nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 13/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/05/Hotararea-nr.-13-din-31-martie-2026.pdf",
+     "sha256": "0d9a0fa9b2a303e1f85ee0db48252c26e391a4afcc9094d0a4bfff42e1cd1bd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-14-2026",
+   "path": "local/suceava/liteni/2026/14",
+   "short": "HCL Liteni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 14/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/05/Hotararea-nr.-14-din-31-martie-2026.pdf",
+     "sha256": "acd61323293995bf8d1b18f52b875ae0c1518657fe642a570b5c7a77fe59291f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-15-2026",
+   "path": "local/suceava/liteni/2026/15",
+   "short": "HCL Liteni nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 15/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/05/Hotararea-nr.-15-din-31-martie-2026.pdf",
+     "sha256": "f57ea5ad830296781201ee86e38a6545a9e5ff2883d62f9c8e81e7fccdb6d439"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-16-2026",
+   "path": "local/suceava/liteni/2026/16",
+   "short": "HCL Liteni nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 16/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/05/Hotararea-nr.-16-din-31-martie-2026.pdf",
+     "sha256": "bf65a57ec2dc81b216c5a7f3cce6993367f20fafc866fe2965bd84cffa8184b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-17-2026",
+   "path": "local/suceava/liteni/2026/17",
+   "short": "HCL Liteni nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 17/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/05/Hotararea-nr.-17-din-31-martie-2026.pdf",
+     "sha256": "2db6a32703b8ea6bbebcc36965b59dda44f72c00332001fd25bd2eca9f592c76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-18-2026",
+   "path": "local/suceava/liteni/2026/18",
+   "short": "HCL Liteni nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 18/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/05/Hotararea-nr.-18-din-31-martie-2026.pdf",
+     "sha256": "a354848d04e294f6812cf738c744bb1236356004df4617fd33cd1dfc0e38247d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-19-2026",
+   "path": "local/suceava/liteni/2026/19",
+   "short": "HCL Liteni nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 19/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/05/Hotararea-nr.-19-din-31-martie-2026.pdf",
+     "sha256": "8fb85ace77ee03e9284e7fcebbd1079d7176281e0079043bc86b2e9e9b5f6c47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-2-2026",
+   "path": "local/suceava/liteni/2026/2",
+   "short": "HCL Liteni nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 2/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-2-din-29-ianuarie-2026.pdf",
+     "sha256": "1ace8abf06b6b12d606f27ff1bfb4f1a59d3a5975e4e485879eb8df90059153c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-20-2026",
+   "path": "local/suceava/liteni/2026/20",
+   "short": "HCL Liteni nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 20/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/05/Hotararea-nr.-20-din-31-martie-2026.pdf",
+     "sha256": "115fd3097cd34e7308ae1b90a14e95fe74a5f598823b9daad908ce376b3b9064"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-21-2026",
+   "path": "local/suceava/liteni/2026/21",
+   "short": "HCL Liteni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 21/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/05/Hotararea-nr.-21-din-9-aprilie-2026.pdf",
+     "sha256": "f265e4daee736610581f544729d9e15210f4c5d2f3f02b0ffcfe833bd88a0e4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-22-2026",
+   "path": "local/suceava/liteni/2026/22",
+   "short": "HCL Liteni nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 22/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/05/Hotararea-nr.-22-din-9-aprilie-2026.pdf",
+     "sha256": "4102258044b04de29f0f0a937af78f1a4f53c6db8d891cd7ed20dc56b915f257"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-3-2026",
+   "path": "local/suceava/liteni/2026/3",
+   "short": "HCL Liteni nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 3/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-3-din-29-ianuarie-2026.pdf",
+     "sha256": "1790e719fa3e598a49d429f254d2244b486d1610a6e9691584f9d0e0c1777fe8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-4-2026",
+   "path": "local/suceava/liteni/2026/4",
+   "short": "HCL Liteni nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 4/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-4-din-29-ianuarie-2026.pdf",
+     "sha256": "eca21db40ee7e4301ee7896c273e4adc552948993d94cb624b093d300a2e9784"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-5-2026",
+   "path": "local/suceava/liteni/2026/5",
+   "short": "HCL Liteni nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 5/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-5-din-29-ianuarie-2026.pdf",
+     "sha256": "452e09bca375861088c46259609d12c7506a6a95c7552a24cb2ab485e656cb0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-6-2026",
+   "path": "local/suceava/liteni/2026/6",
+   "short": "HCL Liteni nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 6/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/05/Hotararea-nr.-6-din-31-martie-2026.pdf",
+     "sha256": "5fe5e12823d63c31d23f2fac677f4b3f0bc93003598b9bffbba74c14e7b7ffac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-7-2026",
+   "path": "local/suceava/liteni/2026/7",
+   "short": "HCL Liteni nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 7/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/05/Hotararea-nr.-7-din-31-martie-2026.pdf",
+     "sha256": "90535134851d335a3e16dc7451951b7e01afff953629fa9acc5f329f40ef4f0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-8-2026",
+   "path": "local/suceava/liteni/2026/8",
+   "short": "HCL Liteni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 8/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/05/Hotararea-nr.-8-din-31-martie-2026.pdf",
+     "sha256": "d67dcc569a600c03976ad5fc77a8f7f5da2ec4bc7884d478bde525206823b35e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-9-2026",
+   "path": "local/suceava/liteni/2026/9",
+   "short": "HCL Liteni nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 9/2026",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/05/Hotararea-nr.-9-din-31-martie-2026.pdf",
+     "sha256": "6b668f2e99da124bfb803cb7bf3813239d2ba73e493696e0a15d42a0746e82c9"
+    }
+   ]
+  }
+ ]
+}

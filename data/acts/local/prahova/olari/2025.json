@@ -3,6 +3,28 @@
 "shard": "local/prahova/olari/2025",
 "acts": [
 {
+"slug": "hcl-prahova--olari-15-2025",
+"path": "local/prahova/olari/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Olari nr. 15/2025 privind aprobarea organigramei, a statului de funcţii si a numarului de personal al aparatului de specialitate al primarului comunei Olari, pentru anul 2025, a numarului de asistenti personali ai persoanelor cu handicap precum si a listei cu beneficiarii indemnizatiilor lunare pentru persoane cu handicap",
+"short": "HCL Olari nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-04",
+"latest": "2025-07-04",
+"portal": "https://emol.ro/olari-ph/registru-hcl/215639",
+"council": "prahova/olari",
+"council_name": "Consiliul Local al Comunei Olari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--olari-16-2025",
 "path": "local/prahova/olari/2025/16",
 "kind": "local",
@@ -157,6 +179,50 @@
 }
 },
 {
+"slug": "hcl-prahova--olari-23-2025",
+"path": "local/prahova/olari/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Olari nr. 23/2025 privind desemnarea reprezentantului Consiliului local Olari in Consiliul de Administratie al Scolii Gimnaziale Olari pentru anul scolar 2025-2026",
+"short": "HCL Olari nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/olari-ph/registru-hcl/231237",
+"council": "prahova/olari",
+"council_name": "Consiliul Local al Comunei Olari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--olari-24-2025",
+"path": "local/prahova/olari/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Olari nr. 24/2025 privind desemnarea reprezentantului Consiliului local Olari in Comisia pentru evaluarea si asigurarea calitatii din cadrul Scolii Gimnaziale, Comuna Olari, pentru anul scolar 2025-2026",
+"short": "HCL Olari nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/olari-ph/registru-hcl/231238",
+"council": "prahova/olari",
+"council_name": "Consiliul Local al Comunei Olari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--olari-25-2025",
 "path": "local/prahova/olari/2025/25",
 "kind": "local",
@@ -242,6 +308,50 @@
 "council_name": "Consiliul Local al Comunei Olari",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--olari-29-2025",
+"path": "local/prahova/olari/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Olari nr. 29/2025 privind aprobarea studiului de oportunitate privind vânzarea prin licitație publică a terenului în suprafata de 383.543 mp, proprietatea privată a comunei Olari, județul Prahova, situat în Com. Olari, Tarla39, Parcele A 420/10, A420/2, A420/4, Ccn 423, Jud. Prahova, cu nr. Cadastral 22190, inscris in cartea funciara nr.22910 a UAT Olari, initiat de primar;",
+"short": "HCL Olari nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/olari-ph/registru-hcl/240161",
+"council": "prahova/olari",
+"council_name": "Consiliul Local al Comunei Olari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--olari-30-2025",
+"path": "local/prahova/olari/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Olari nr. 30/2025 privind vânzarea prin licitație publică a terenului în suprafata de 338.543 mp, proprietatea privată a comunei Olari, județul Prahova, situat în Com. Olari, Tarla 39, Parcele A 420/10, A420/2, A420/4, Ccn 423, Jud. Prahova, cu nr. Cadastral 22190, inscris in cartea funciara nr.22910 a UAT Olari",
+"short": "HCL Olari nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/olari-ph/registru-hcl/240162",
+"council": "prahova/olari",
+"council_name": "Consiliul Local al Comunei Olari",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

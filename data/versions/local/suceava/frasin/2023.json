@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/frasin/2023",
+ "acts": [
+  {
+   "slug": "hcl-suceava--frasin-59-2023",
+   "path": "local/suceava/frasin/2023/59",
+   "short": "HCL Frasin nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Frasin nr. 59/2023",
+   "url": "https://www.primariaorasuluifrasin.ro/hcl-impozite-si-taxe-locale/",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://www.primariaorasuluifrasin.ro/wp-content/uploads/2024/01/HCL-nr.-59-din-25.04.2023-aprobarea-impozitelor-si-taxelor-locale-pt-anul-2024-2.pdf",
+     "sha256": "8464280ec9f40cab3615a31e78a343eea48ac67504c688b4fd256fb5d27911ee"
+    }
+   ]
+  }
+ ]
+}

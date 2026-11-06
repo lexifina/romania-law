@@ -69,6 +69,29 @@
 }
 },
 {
+"slug": "hcl-prahova--salcia-4-2026",
+"path": "local/prahova/salcia/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Salcia nr. 4/2026",
+"short": "HCL Salcia nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-27",
+"latest": "2026-02-27",
+"portal": "https://emol.ro/salcia-ph/registru-hcl/255915",
+"council": "prahova/salcia",
+"council_name": "Consiliul Local al Comunei Salcia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--salcia-5-2026",
 "path": "local/prahova/salcia/2026/5",
 "kind": "local",
@@ -154,6 +177,28 @@
 "council_name": "Consiliul Local al Comunei Salcia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--salcia-9-2026",
+"path": "local/prahova/salcia/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Salcia nr. 9/2026 privind aprobarea prelungirii duratei Contractului de delegare a gestuinii activității de colectare ,transport și transfer a deseurilor municipale în 3 Drăganești, 4- Urlați și 5- Vălenii de Munte nr.259/19.02.2019",
+"short": "HCL Salcia nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-14",
+"latest": "2026-05-14",
+"portal": "https://emol.ro/salcia-ph/registru-hcl/266276",
+"council": "prahova/salcia",
+"council_name": "Consiliul Local al Comunei Salcia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -264,6 +309,51 @@
 "council_name": "Consiliul Local al Comunei Salcia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--salcia-15-2026",
+"path": "local/prahova/salcia/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Salcia nr. 15/2026",
+"short": "HCL Salcia nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://emol.ro/salcia-ph/registru-hcl/292681",
+"council": "prahova/salcia",
+"council_name": "Consiliul Local al Comunei Salcia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--salcia-16-2026",
+"path": "local/prahova/salcia/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Salcia nr. 16/2026 prinvind desemnarea reprezentatului Consiliului Local al Comunei Salcia în Consiliul de Administratie al Scolii Gimnaziale Salcia pentru anul scolar2026-2027",
+"short": "HCL Salcia nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://emol.ro/salcia-ph/registru-hcl/292682",
+"council": "prahova/salcia",
+"council_name": "Consiliul Local al Comunei Salcia",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

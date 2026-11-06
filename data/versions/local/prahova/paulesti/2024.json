@@ -3,6 +3,36 @@
  "shard": "local/prahova/paulesti/2024",
  "acts": [
   {
+   "slug": "hcl-prahova--paulesti-161-2024",
+   "path": "local/prahova/paulesti/2024/161",
+   "short": "HCL Păulești nr. 161/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 161/2024 privind desemnarea unor consilieri locali în Consiliul de Administrație (C.A.) al unităților de învățământ particular de pe raza comunei Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/179668",
+   "versions": [
+    {
+     "from": "2025-01-07",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/179668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-162-2024",
+   "path": "local/prahova/paulesti/2024/162",
+   "short": "HCL Păulești nr. 162/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 162/2024 privind desemnarea unor consilier local în Comisia de Evaluare a Asigurării Calității Educației ( C.E.A.C.) în unitățile de învățământ particular din comuna Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/179669",
+   "versions": [
+    {
+     "from": "2025-01-07",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/179669",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--paulesti-163-2024",
    "path": "local/prahova/paulesti/2024/163",
    "short": "HCL Păulești nr. 163/2024",
@@ -193,6 +223,21 @@
      "from": "2025-01-21",
      "units": 1,
      "source_url": "https://emol.ro/paulesti-ph/registru-hcl/184348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-176-2024",
+   "path": "local/prahova/paulesti/2024/176",
+   "short": "HCL Păulești nr. 176/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 176/2024 privind aprobarea Planului Local de Acțiune privind incluziunea cetățenilor români de etnie romă din comuna Păulești, pentru anul 2025 și desemnarea componenței Grupului Local de Lucru",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/184349",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/184349",
      "sha256": null
     }
    ]

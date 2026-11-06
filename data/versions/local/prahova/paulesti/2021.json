@@ -3,6 +3,21 @@
  "shard": "local/prahova/paulesti/2021",
  "acts": [
   {
+   "slug": "hcl-prahova--paulesti-151-2021",
+   "path": "local/prahova/paulesti/2021/151",
+   "short": "HCL Păulești nr. 151/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 151/2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/48003",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/48003",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--paulesti-152-2021",
    "path": "local/prahova/paulesti/2021/152",
    "short": "HCL Păulești nr. 152/2021",
@@ -33,6 +48,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--paulesti-154-2021",
+   "path": "local/prahova/paulesti/2021/154",
+   "short": "HCL Păulești nr. 154/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 154/2021 privind acordarea unui sprijin financiar Bisericii Adventiste de Ziua a Șaptea - ,,Conferința Muntenia,, din comuna Păulești, sat Găgeni",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/48006",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/48006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-155-2021",
+   "path": "local/prahova/paulesti/2021/155",
+   "short": "HCL Păulești nr. 155/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 155/2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/48007",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/48007",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--paulesti-156-2021",
    "path": "local/prahova/paulesti/2021/156",
    "short": "HCL Păulești nr. 156/2021",
@@ -58,6 +103,36 @@
      "from": "2021-11-24",
      "units": 1,
      "source_url": "https://emol.ro/paulesti-ph/registru-hcl/48009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-158-2021",
+   "path": "local/prahova/paulesti/2021/158",
+   "short": "HCL Păulești nr. 158/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 158/2021 privind aprobarea caietului de sarcini pentru achiziționarea de servicii de ,,Inchiriere materiale pentru iluminat ornamental festiv anul 2021-2022",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/48010",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/48010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-159-2021",
+   "path": "local/prahova/paulesti/2021/159",
+   "short": "HCL Păulești nr. 159/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 159/2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/48011",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/48011",
      "sha256": null
     }
    ]

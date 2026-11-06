@@ -3,6 +3,28 @@
 "shard": "local/prahova/rafov/2020",
 "acts": [
 {
+"slug": "hcl-prahova--rafov-63-2020",
+"path": "local/prahova/rafov/2020/63",
+"kind": "local",
+"year": "2020",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 63/2020 privind aprobarea decontarii navetei cadrelor didactice pentru lunile MARTIE-AUGUST 2020",
+"short": "HCL Râfov nr. 63/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-11",
+"latest": "2020-09-11",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/13671",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-64-2020",
 "path": "local/prahova/rafov/2020/64",
 "kind": "local",
@@ -289,6 +311,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-77-2020",
+"path": "local/prahova/rafov/2020/77",
+"kind": "local",
+"year": "2020",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 77/2020 privind desemnarea reprezentantului UAT Rafov in cadrul Adunarii Generale a Asociatiilor , la Asociatia de Dezvoltare Intercomunitara \"Parteneriatul pentru Managementul Apei Prahova",
+"short": "HCL Râfov nr. 77/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/14098",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-78-2020",
 "path": "local/prahova/rafov/2020/78",
 "kind": "local",
@@ -311,6 +355,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-79-2020",
+"path": "local/prahova/rafov/2020/79",
+"kind": "local",
+"year": "2020",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 79/2020 privind desemnarea reprezentantului UAT Rafov in cadrul Adunarii generale a asociatiilor, la Asociatia de dezvoltare Intercomunitara \"Parteneriatul pentru Mangementul Deseurilor-Prahova",
+"short": "HCL Râfov nr. 79/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/14100",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-80-2020",
 "path": "local/prahova/rafov/2020/80",
 "kind": "local",
@@ -330,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Râfov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-81-2020",
+"path": "local/prahova/rafov/2020/81",
+"kind": "local",
+"year": "2020",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 81/2020 privind aprobarea decontarii navetei cadrelor didactice pentru lunile septembrie si noiembrie 2020",
+"short": "HCL Râfov nr. 81/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/14102",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/satu-mare/negresti-oas/2025",
+"acts": [
+{
+"slug": "hcl-satu-mare--negresti-oas-130-2025",
+"path": "local/satu-mare/negresti-oas/2025/130",
+"kind": "local",
+"year": "2025",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Negrești-Oaș nr. 130/2025 privind aprobarea execuției bugetare la 30 noiembrie 2025",
+"short": "HCL Negrești-Oaș nr. 130/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-30",
+"latest": "2025-11-30",
+"portal": "https://www.negresti-oas.ro/administratia/consiliul-local/hotarari-2/hotarari-ale-consiliului-local-2025/",
+"council": "satu-mare/negresti-oas",
+"council_name": "Consiliul Local al Orașului Negrești-Oaș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

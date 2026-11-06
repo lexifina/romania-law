@@ -3,6 +3,94 @@
 "shard": "local/prahova/tinosu/2026",
 "acts": [
 {
+"slug": "hcl-prahova--tinosu-10-2026",
+"path": "local/prahova/tinosu/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 10/2026 privind aprobarea închirierii prin atribuire directă şi/sau licitaţie publică cu strigare a unor suprafeţe de pajişti aflate în domeniul privat al comunei Tinosu",
+"short": "HCL Tinosu nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://emol.ro/tinosu-ph/registru-hcl/257275",
+"council": "prahova/tinosu",
+"council_name": "Consiliul Local al Comunei Tinosu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--tinosu-11-2026",
+"path": "local/prahova/tinosu/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 11/2026 privind aprobarea organigramei şi a statului de funcţii al aparatului de specialitate al primarului comunei Tinosu",
+"short": "HCL Tinosu nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://emol.ro/tinosu-ph/registru-hcl/257276",
+"council": "prahova/tinosu",
+"council_name": "Consiliul Local al Comunei Tinosu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--tinosu-12-2026",
+"path": "local/prahova/tinosu/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 12/2026 privind aprobarea prelungirii duratei Contractului de delegare nr. 1884/15.04.2025 pentru o perioadă de 1 an",
+"short": "HCL Tinosu nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://emol.ro/tinosu-ph/registru-hcl/257277",
+"council": "prahova/tinosu",
+"council_name": "Consiliul Local al Comunei Tinosu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--tinosu-13-2026",
+"path": "local/prahova/tinosu/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 13/2026 pentru aprobarea Regulamentului privind aplicarea taxei speciale, funcţionarea şi exploatarea staţiilor electrice de încǎrcare a autovehiculelor",
+"short": "HCL Tinosu nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://emol.ro/tinosu-ph/registru-hcl/257278",
+"council": "prahova/tinosu",
+"council_name": "Consiliul Local al Comunei Tinosu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--tinosu-14-2026",
 "path": "local/prahova/tinosu/2026/14",
 "kind": "local",
@@ -48,6 +136,50 @@
 }
 },
 {
+"slug": "hcl-prahova--tinosu-16-2026",
+"path": "local/prahova/tinosu/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 16/2026 privind organizarea şi exercitarea acţiunilor şi activităţilor Departamentului Administrativ prin care se asigură satisfacerea nevoilor de utilitate şi interes public general al Comunei Tinosu",
+"short": "HCL Tinosu nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/tinosu-ph/registru-hcl/263989",
+"council": "prahova/tinosu",
+"council_name": "Consiliul Local al Comunei Tinosu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--tinosu-17-2026",
+"path": "local/prahova/tinosu/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 17/2026 Privind actualizarea indicatorilor tehnico-economici şi a Devizului general pentru obiectivul “Actualizare plan urbanistic general şi obţinere avize pentru Comuna Tinosu, Judeţul Prahova”, în vederea fundamentării alocării fondurilor aferente programului pentru perioada 2026-2029 de la bugetul de stat",
+"short": "HCL Tinosu nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/tinosu-ph/registru-hcl/263990",
+"council": "prahova/tinosu",
+"council_name": "Consiliul Local al Comunei Tinosu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--tinosu-18-2026",
 "path": "local/prahova/tinosu/2026/18",
 "kind": "local",
@@ -67,6 +199,73 @@
 "council_name": "Consiliul Local al Comunei Tinosu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--tinosu-19-2026",
+"path": "local/prahova/tinosu/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 19/2026",
+"short": "HCL Tinosu nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-08",
+"latest": "2026-05-08",
+"portal": "https://emol.ro/tinosu-ph/registru-hcl/266997",
+"council": "prahova/tinosu",
+"council_name": "Consiliul Local al Comunei Tinosu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--tinosu-20-2026",
+"path": "local/prahova/tinosu/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 20/2026 privind prelungirea duratei Contractelor de asociere încheiate între Comuna Tinosu şi Asociaţiile sportive: „Prahova” Tinosu şi „Viitorul” Predeşti, în vederea promovării activităţii sportive în localitate",
+"short": "HCL Tinosu nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-08",
+"latest": "2026-05-08",
+"portal": "https://emol.ro/tinosu-ph/registru-hcl/266998",
+"council": "prahova/tinosu",
+"council_name": "Consiliul Local al Comunei Tinosu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--tinosu-21-2026",
+"path": "local/prahova/tinosu/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 21/2026 privind înființarea Serviciului pentru gestionarea câinilor fără stăpân al comunei Tinosu și delegarea acestuia, prin concesiune",
+"short": "HCL Tinosu nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-24",
+"latest": "2026-06-24",
+"portal": "https://emol.ro/tinosu-ph/registru-hcl/275291",
+"council": "prahova/tinosu",
+"council_name": "Consiliul Local al Comunei Tinosu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -111,6 +310,140 @@
 "council_name": "Consiliul Local al Comunei Tinosu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--tinosu-24-2026",
+"path": "local/prahova/tinosu/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 24/2026",
+"short": "HCL Tinosu nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/tinosu-ph/registru-hcl/292562",
+"council": "prahova/tinosu",
+"council_name": "Consiliul Local al Comunei Tinosu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--tinosu-25-2026",
+"path": "local/prahova/tinosu/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 25/2026 privind desemnarea unui reprezentant al Consiliului Local Tinosu să facă parte din Consiliul de Administrație al Şcolii Gimnaziale Tinosu",
+"short": "HCL Tinosu nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/tinosu-ph/registru-hcl/292565",
+"council": "prahova/tinosu",
+"council_name": "Consiliul Local al Comunei Tinosu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--tinosu-26-2026",
+"path": "local/prahova/tinosu/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 26/2026 privind desemnarea unui reprezentant al Consiliului Local Tinosu pentru a face parte din Comisia de Evaluare şi Asigurare a Calităţii constituită la nivelul Şcolii Gimnaziale Tinosu, pentru anul şcolar 2026-2027",
+"short": "HCL Tinosu nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/tinosu-ph/registru-hcl/292566",
+"council": "prahova/tinosu",
+"council_name": "Consiliul Local al Comunei Tinosu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--tinosu-27-2026",
+"path": "local/prahova/tinosu/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 27/2026",
+"short": "HCL Tinosu nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/tinosu-ph/registru-hcl/292567",
+"council": "prahova/tinosu",
+"council_name": "Consiliul Local al Comunei Tinosu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--tinosu-28-2026",
+"path": "local/prahova/tinosu/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 28/2026 privind însușirea Acordului de cooperare privind organizarea şi exercitarea activității de contabilitate",
+"short": "HCL Tinosu nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/tinosu-ph/registru-hcl/292568",
+"council": "prahova/tinosu",
+"council_name": "Consiliul Local al Comunei Tinosu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--tinosu-29-2026",
+"path": "local/prahova/tinosu/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 29/2026 privind aprobarea schimbării destinației unui imobil aflat în proprietatea publică a Comunei Tinosu, din „spațiu comercial” în „Corp administrativ - anexă Sediu Primărie”",
+"short": "HCL Tinosu nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/tinosu-ph/registru-hcl/292569",
+"council": "prahova/tinosu",
+"council_name": "Consiliul Local al Comunei Tinosu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

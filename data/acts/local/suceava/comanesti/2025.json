@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/suceava/comanesti/2025",
+"acts": [
+{
+"slug": "hcl-suceava--comanesti-50-2025",
+"path": "local/suceava/comanesti/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Comănești nr. 50/2025",
+"short": "HCL Comănești nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "http://www.comunacomanesti.ro/hotarari.html",
+"council": "suceava/comanesti",
+"council_name": "Consiliul Local al Comunei Comănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--comanesti-57-2025",
+"path": "local/suceava/comanesti/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Comănești nr. 57/2025",
+"short": "HCL Comănești nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "http://www.comunacomanesti.ro/hotarari.html",
+"council": "suceava/comanesti",
+"council_name": "Consiliul Local al Comunei Comănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--comanesti-63-2025",
+"path": "local/suceava/comanesti/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Comănești nr. 63/2025",
+"short": "HCL Comănești nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "http://www.comunacomanesti.ro/hotarari.html",
+"council": "suceava/comanesti",
+"council_name": "Consiliul Local al Comunei Comănești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -168,6 +168,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--stefesti-35-2020",
+   "path": "local/prahova/stefesti/2020/35",
+   "short": "HCL Ștefești nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 35/2020 privind desemnarea unor reprezentanți ai consiliului local, pentru a face parte din Consiliul de Administrație și din Comisia de evaluare și asigurare a calității educației a Școlii gimnaziale Ștefești",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25815",
+   "versions": [
+    {
+     "from": "2020-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-36-2020",
+   "path": "local/prahova/stefesti/2020/36",
+   "short": "HCL Ștefești nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 36/2020",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25816",
+   "versions": [
+    {
+     "from": "2020-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-37-2020",
+   "path": "local/prahova/stefesti/2020/37",
+   "short": "HCL Ștefești nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 37/2020",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25817",
+   "versions": [
+    {
+     "from": "2020-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25817",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-38-2020",
    "path": "local/prahova/stefesti/2020/38",
    "short": "HCL Ștefești nr. 38/2020",

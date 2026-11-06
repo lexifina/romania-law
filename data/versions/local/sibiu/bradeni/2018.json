@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/sibiu/bradeni/2018",
+ "acts": [
+  {
+   "slug": "hcl-sibiu--bradeni-46-2018",
+   "path": "local/sibiu/bradeni/2018/46",
+   "short": "HCL Brădeni nr. 46/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Brădeni nr. 46/2018 privind alegerea presedintelui de sedinta",
+   "url": "https://comunabradeni.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2018-12-14",
+     "units": 1,
+     "source_url": "https://comunabradeni.ro/download/Hotararea-Nr._46.pdf",
+     "sha256": "216ed41bc1f31c84bdfdb44753b17b86ac2d41499a170fbfdb01c236f3fe1d19"
+    }
+   ]
+  }
+ ]
+}

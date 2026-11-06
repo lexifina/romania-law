@@ -23,6 +23,50 @@
 "flags": {
 "text_pending": "ocr"
 }
+},
+{
+"slug": "hcl-satu-mare--acas-2-2020",
+"path": "local/satu-mare/acas/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Acâș nr. 2/2020 privind măsuri de prevenire a răspândirii COVID-19",
+"short": "HCL Acâș nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-21",
+"latest": "2020-03-21",
+"portal": "http://www.primariaacas.ro/",
+"council": "satu-mare/acas",
+"council_name": "Consiliul Local al Comunei Acâș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--acas-9-2020",
+"path": "local/satu-mare/acas/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Acâș nr. 9/2020 privind măsuri de prevenire a răspândirii COVID-19",
+"short": "HCL Acâș nr. 9/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-16",
+"latest": "2020-04-16",
+"portal": "http://www.primariaacas.ro/",
+"council": "satu-mare/acas",
+"council_name": "Consiliul Local al Comunei Acâș",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-suceava--cornu-luncii-79-2021",
+"path": "local/suceava/cornu-luncii/2021/79",
+"kind": "local",
+"year": "2021",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 79/2021 privind alegerea președintelui de ședință",
+"short": "HCL Cornu Luncii nr. 79/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": "https://emol.ro/cornuluncii-sv/registru-hcl/50618",
+"council": "suceava/cornu-luncii",
+"council_name": "Consiliul Local al Comunei Cornu Luncii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--cornu-luncii-80-2021",
 "path": "local/suceava/cornu-luncii/2021/80",
 "kind": "local",
@@ -66,6 +88,51 @@
 "council_name": "Consiliul Local al Comunei Cornu Luncii",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--cornu-luncii-81-2021",
+"path": "local/suceava/cornu-luncii/2021/81",
+"kind": "local",
+"year": "2021",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 81/2021",
+"short": "HCL Cornu Luncii nr. 81/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": "https://emol.ro/cornuluncii-sv/registru-hcl/50620",
+"council": "suceava/cornu-luncii",
+"council_name": "Consiliul Local al Comunei Cornu Luncii",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--cornu-luncii-82-2021",
+"path": "local/suceava/cornu-luncii/2021/82",
+"kind": "local",
+"year": "2021",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 82/2021 privind desemnarea unui reprezentant al consiliului local ca membru în comisia de concurs pentru ocuparea funcțiilor de director și director adjunct al Școlii Gimnaziale Băișești, din comuna Cornu Luncii, județul Suceava",
+"short": "HCL Cornu Luncii nr. 82/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": "https://emol.ro/cornuluncii-sv/registru-hcl/50621",
+"council": "suceava/cornu-luncii",
+"council_name": "Consiliul Local al Comunei Cornu Luncii",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -265,6 +332,51 @@
 "council_name": "Consiliul Local al Comunei Cornu Luncii",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--cornu-luncii-92-2021",
+"path": "local/suceava/cornu-luncii/2021/92",
+"kind": "local",
+"year": "2021",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 92/2021 privind apartenența la inventarul domeniului privat al comunei Cornu Luncii a unor terenuri",
+"short": "HCL Cornu Luncii nr. 92/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-08",
+"latest": "2021-12-08",
+"portal": "https://emol.ro/cornuluncii-sv/registru-hcl/50631",
+"council": "suceava/cornu-luncii",
+"council_name": "Consiliul Local al Comunei Cornu Luncii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--cornu-luncii-93-2021",
+"path": "local/suceava/cornu-luncii/2021/93",
+"kind": "local",
+"year": "2021",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 93/2021",
+"short": "HCL Cornu Luncii nr. 93/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-08",
+"latest": "2021-12-08",
+"portal": "https://emol.ro/cornuluncii-sv/registru-hcl/50632",
+"council": "suceava/cornu-luncii",
+"council_name": "Consiliul Local al Comunei Cornu Luncii",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -3,6 +3,216 @@
  "shard": "local/suceava/fundu-moldovei/2023",
  "acts": [
   {
+   "slug": "hcl-suceava--fundu-moldovei-67-2023",
+   "path": "local/suceava/fundu-moldovei/2023/67",
+   "short": "HCL Fundu Moldovei nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 67/2023 privind rectificarea bugetului local de venituri și cheltuieli al comunei Fundu Moldovei, județul Suceava pe anul 2023",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133320",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-68-2023",
+   "path": "local/suceava/fundu-moldovei/2023/68",
+   "short": "HCL Fundu Moldovei nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 68/2023 privind atestarea apartenenței la domeniul public al comunei a unor bunuri imobile",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133372",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-69-2023",
+   "path": "local/suceava/fundu-moldovei/2023/69",
+   "short": "HCL Fundu Moldovei nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 69/2023 privind aprobarea Actului adițional nr. 1 de modificare și completare a Statutului Organizației de Management al Destinației Bucovina, acordarea mandatului special reprezentantului comunei Fundu Moldovei în Adunarea Generală a Organizației să voteze pentru aprobarea acestuia și acordarea mandatului special Președintelui Organizației de Management al Destinației Bucovina să semneze în numele și pe seama Comunei Fundu Moldovei Actul adițional nr. 1 de modificare și completare a Statutului Organizației de Management al Destinației Bucovina",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133373",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-70-2023",
+   "path": "local/suceava/fundu-moldovei/2023/70",
+   "short": "HCL Fundu Moldovei nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 70/2023 privind stabilirea indemnizației consilierilor locali din cadrul Consiliului local al comunei Fundu Moldovei",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133374",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-71-2023",
+   "path": "local/suceava/fundu-moldovei/2023/71",
+   "short": "HCL Fundu Moldovei nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 71/2023 privind aprobarea contului de execuție al bugetului local al comunei Fundu Moldovei pe trimestrul III al anului 2023",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133375",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-72-2023",
+   "path": "local/suceava/fundu-moldovei/2023/72",
+   "short": "HCL Fundu Moldovei nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 72/2023 privind rectificarea bugetului local de venituri și cheltuieli al comunei Fundu Moldovei, județul Suceava pe anul 2023",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133376",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-73-2023",
+   "path": "local/suceava/fundu-moldovei/2023/73",
+   "short": "HCL Fundu Moldovei nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 73/2023 privind aprobarea modificării organigramei și a statului de funcții al aparatului de specialitate al primarului comunei Fundu Moldovei, județul Suceava",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133994",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-74-2023",
+   "path": "local/suceava/fundu-moldovei/2023/74",
+   "short": "HCL Fundu Moldovei nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 74/2023 privind acordarea mandatului special Asociației județene pentru Apă și Canalizare Suceava să declanșeze procedura de selecție pentru desemnarea unui administrator în Consiliul de Administrație al Societății ACET SA Suceava conform prevederilor OUG nr. 109/2011 privind guvernanța corporativă a întreprinderilor publice, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133995",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-75-2023",
+   "path": "local/suceava/fundu-moldovei/2023/75",
+   "short": "HCL Fundu Moldovei nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 75/2023 privind alegerea președintelui de ședință al Consiliului Local al comunei Fundu Moldovei",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133996",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-76-2023",
+   "path": "local/suceava/fundu-moldovei/2023/76",
+   "short": "HCL Fundu Moldovei nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 76/2023 privind aprobarea Acordului de parteneriat actualizat, pentru proiectul din Investiția I.4 ”Implementarea a 3000 km de trasee cicloturistice la nivel național”, finanțat din PNRR, Componenta 11 - Turism și cultură",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133997",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-77-2023",
+   "path": "local/suceava/fundu-moldovei/2023/77",
+   "short": "HCL Fundu Moldovei nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 77/2023 privind aprobarea valorificării masei lemnoase de pe trupurile de pădure aparținând domeniului public al comunei Fundu Moldovei, aflate în administrarea ocolului Silvic Pojorâta",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133998",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-78-2023",
+   "path": "local/suceava/fundu-moldovei/2023/78",
+   "short": "HCL Fundu Moldovei nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 78/2023 privind aprobarea prețului de referință al masei lemnoase pe picior, pentru anul de producție 2024 pe specii/grupe de specii, grade de accesibilitate, sortimente dimensionale și natura produsului",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133999",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/133999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-79-2023",
+   "path": "local/suceava/fundu-moldovei/2023/79",
+   "short": "HCL Fundu Moldovei nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 79/2023 privind rectificarea bugetului local de venituri și cheltuieli al comunei Fundu Moldovei, județul Suceava pe anul 2023",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/134000",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/134000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-80-2023",
+   "path": "local/suceava/fundu-moldovei/2023/80",
+   "short": "HCL Fundu Moldovei nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 80/2023",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/134001",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/134001",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--fundu-moldovei-81-2023",
    "path": "local/suceava/fundu-moldovei/2023/81",
    "short": "HCL Fundu Moldovei nr. 81/2023",
@@ -18,6 +228,36 @@
    ]
   },
   {
+   "slug": "hcl-suceava--fundu-moldovei-82-2023",
+   "path": "local/suceava/fundu-moldovei/2023/82",
+   "short": "HCL Fundu Moldovei nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 82/2023 privind aprobarea documentației tehnice (faza Proiect Tehnic) pentru obiectivul de investiție ”Asigurarea energiei din surse regenerabile pentru consumul propriu al clădirilor publice și a iluminatului public - Comuna Fundu Moldovei, județul Suceava”",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/135519",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/135519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-83-2023",
+   "path": "local/suceava/fundu-moldovei/2023/83",
+   "short": "HCL Fundu Moldovei nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 83/2023 privind aprobarea contului de execuție al bugetului local al comunei Fundu Moldovei pe trimestrul IV al anului 2023",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/135520",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/135520",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--fundu-moldovei-84-2023",
    "path": "local/suceava/fundu-moldovei/2023/84",
    "short": "HCL Fundu Moldovei nr. 84/2023",
@@ -28,6 +268,36 @@
      "from": "2023-12-29",
      "units": 1,
      "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/135521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-85-2023",
+   "path": "local/suceava/fundu-moldovei/2023/85",
+   "short": "HCL Fundu Moldovei nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 85/2023 privind aprobarea functionarii unitatilor de invatamant preuniversitar de stat din comuna Fundu Moldovei, județul Suceava, pentru anul scolar 2024 - 2025",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/159873",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/159873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-86-2023",
+   "path": "local/suceava/fundu-moldovei/2023/86",
+   "short": "HCL Fundu Moldovei nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 86/2023 privind rectificarea bugetului local de venituri si cheltuieli al comunei Fundu Moldovei, judetul Suceava pe anul 2023",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/159874",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/159874",
      "sha256": null
     }
    ]

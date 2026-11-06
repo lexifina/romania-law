@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/satu-mare/paulesti/2026",
+"acts": [
+{
+"slug": "hcl-satu-mare--paulesti-61-2026",
+"path": "local/satu-mare/paulesti/2026/61",
+"kind": "local",
+"year": "2026",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 61/2026",
+"short": "HCL Păulești nr. 61/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://paulestism.ro/wp-content/uploads/2026/10/HCL-nr.-61_23.09.2026-expropriere-Iasomisi-si-Panselutei.pdf",
+"council": "satu-mare/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--paulesti-79-2026",
+"path": "local/satu-mare/paulesti/2026/79",
+"kind": "local",
+"year": "2026",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 79/2026 pentru energie consum propriu",
+"short": "HCL Păulești nr. 79/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": "https://paulestism.ro/wp-content/uploads/2026/09/Poriect-HCL-nr.-79_22.09.2026-fotovoltaice-pentru-energie-consum-propriu.pdf",
+"council": "satu-mare/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

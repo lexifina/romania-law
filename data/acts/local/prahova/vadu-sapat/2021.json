@@ -334,6 +334,28 @@
 }
 },
 {
+"slug": "hcl-prahova--vadu-sapat-35-2021",
+"path": "local/prahova/vadu-sapat/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 35/2021 privind alegerea președintelui de ședință pentru perioada septembrie-noiembrie 2021",
+"short": "HCL Vadu Săpat nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-28",
+"latest": "2021-09-28",
+"portal": "https://emol.ro/vadusapat-ph/registru-hcl/41343",
+"council": "prahova/vadu-sapat",
+"council_name": "Consiliul Local al Comunei Vadu Săpat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--vadu-sapat-36-2021",
 "path": "local/prahova/vadu-sapat/2021/36",
 "kind": "local",
@@ -397,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Vadu Săpat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--vadu-sapat-39-2021",
+"path": "local/prahova/vadu-sapat/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 39/2021 privind desemnarea a doi consilieri locali ca reprezentanți din partea Consiliului Local Vadu Săpat în cadrul Consiliului de Administrație al Școlii Gimnaziale, comuna Vadu Săpat",
+"short": "HCL Vadu Săpat nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-28",
+"latest": "2021-09-28",
+"portal": "https://emol.ro/vadusapat-ph/registru-hcl/41347",
+"council": "prahova/vadu-sapat",
+"council_name": "Consiliul Local al Comunei Vadu Săpat",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

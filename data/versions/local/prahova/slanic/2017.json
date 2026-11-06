@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/slanic/2017",
+ "acts": [
+  {
+   "slug": "hcl-prahova--slanic-53-2017",
+   "path": "local/prahova/slanic/2017/53",
+   "short": "HCL Slănic nr. 53/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 53/2017",
+   "url": "http://www.primariaslanic.ro/arhiva/regulamente.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://www.primariaslanic.ro/arhiva/documente/regulamente/regulament_organizare_si_functionare.pdf",
+     "sha256": "f685ed94b1e748ee2b979e680eafc759e14a1f04cf4858357fe80b99f0721fab"
+    }
+   ]
+  }
+ ]
+}

@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-sibiu--loamnes-23-2020",
+   "path": "local/sibiu/loamnes/2020/23",
+   "short": "HCL Loamneș nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 23/2020 privind aprobarea vanzarii unui teren apartinmand domeniului privat al comunei Loamnes, judetul Sibiu, situat in localitatea Hasag, identificat prin CF 100014 sub nr. cadastral 100014, in suprafata de 663 mp",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/5582",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/5582",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--loamnes-24-2020",
    "path": "local/sibiu/loamnes/2020/24",
    "short": "HCL Loamneș nr. 24/2020",
@@ -43,6 +58,51 @@
      "from": "2020-04-30",
      "units": 1,
      "source_url": "https://emol.ro/loamnes-sb/registru-hcl/5584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-26-2020",
+   "path": "local/sibiu/loamnes/2020/26",
+   "short": "HCL Loamneș nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 26/2020 privind aprobarea incetarii unor contracte de inchiriere pentru suprafete pajisti proprieattea privata a comunei Loamnes, judetul Sibiu",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/5585",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/5585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-27-2020",
+   "path": "local/sibiu/loamnes/2020/27",
+   "short": "HCL Loamneș nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 27/2020 privind aprobarea inchirierii unor terenuri cu categoria de folosinta pasune, neatribuite din domeniul privat al comunei Loamnes, judetul Sibiu",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/5586",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/5586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-28-2020",
+   "path": "local/sibiu/loamnes/2020/28",
+   "short": "HCL Loamneș nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 28/2020 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/8751",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/8751",
      "sha256": null
     }
    ]
@@ -193,6 +253,36 @@
      "from": "2020-06-30",
      "units": 1,
      "source_url": "https://emol.ro/loamnes-sb/registru-hcl/8790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-39-2020",
+   "path": "local/sibiu/loamnes/2020/39",
+   "short": "HCL Loamneș nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 39/2020",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/8791",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/8791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-40-2020",
+   "path": "local/sibiu/loamnes/2020/40",
+   "short": "HCL Loamneș nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 40/2020 privind aprobarea prelungirii prin Act adițional, a contractului de închiriere cu nr. 5000/19.08.2015",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/8792",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/8792",
      "sha256": null
     }
    ]

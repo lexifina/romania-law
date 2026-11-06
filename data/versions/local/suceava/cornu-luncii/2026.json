@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--cornu-luncii-38-2026",
+   "path": "local/suceava/cornu-luncii/2026/38",
+   "short": "HCL Cornu Luncii nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 38/2026 privind modificarea Statului de funcții al Primăriei comunei Cornu Luncii, județul Suceava",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/278755",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/278755",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--cornu-luncii-39-2026",
    "path": "local/suceava/cornu-luncii/2026/39",
    "short": "HCL Cornu Luncii nr. 39/2026",
@@ -133,6 +148,36 @@
      "from": "2026-07-15",
      "units": 1,
      "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/278756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-40-2026",
+   "path": "local/suceava/cornu-luncii/2026/40",
+   "short": "HCL Cornu Luncii nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 40/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/278767",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/278767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-41-2026",
+   "path": "local/suceava/cornu-luncii/2026/41",
+   "short": "HCL Cornu Luncii nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 41/2026",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/278768",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/278768",
      "sha256": null
     }
    ]
@@ -193,6 +238,21 @@
      "from": "2026-09-08",
      "units": 1,
      "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/286590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-46-2026",
+   "path": "local/suceava/cornu-luncii/2026/46",
+   "short": "HCL Cornu Luncii nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 46/2026 privind apartenența la inventarul domeniului privat al comunei Cornu Luncii, județul Suceava, a unor suprafețe de teren intravilan/extravilan situate în comuna Cornu Luncii",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/286591",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/286591",
      "sha256": null
     }
    ]

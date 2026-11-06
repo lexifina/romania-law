@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-suceava--hantesti-93-2022",
+"path": "local/suceava/hantesti/2022/93",
+"kind": "local",
+"year": "2022",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 93/2022 privind privind aprobarea vânzării prin licitație publică a unor terenuri din domeniul privat al comunei Hănțești, județul Suceava",
+"short": "HCL Hănțești nr. 93/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-05",
+"latest": "2023-05-05",
+"portal": "https://emol.ro/hantesti-sv/registru-hcl/87151",
+"council": "suceava/hantesti",
+"council_name": "Consiliul Local al Comunei Hănțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--hantesti-94-2022",
+"path": "local/suceava/hantesti/2022/94",
+"kind": "local",
+"year": "2022",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 94/2022 privind aprobarea acordării unui sprijin financiar pentru Biserica Penticostală ”Betel” din satul Hănțești, comuna Hănțești,județul Suceava",
+"short": "HCL Hănțești nr. 94/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-05",
+"latest": "2023-05-05",
+"portal": "https://emol.ro/hantesti-sv/registru-hcl/87152",
+"council": "suceava/hantesti",
+"council_name": "Consiliul Local al Comunei Hănțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--hantesti-95-2022",
 "path": "local/suceava/hantesti/2022/95",
 "kind": "local",
@@ -287,6 +331,51 @@
 "council_name": "Consiliul Local al Comunei Hănțești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--hantesti-106-2022",
+"path": "local/suceava/hantesti/2022/106",
+"kind": "local",
+"year": "2022",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 106/2022 privind aprobarea de principiu a vânzării unor terenuri din domeniulprivat al comunei Hănțești, județul Suceava",
+"short": "HCL Hănțești nr. 106/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-05",
+"latest": "2023-05-05",
+"portal": "https://emol.ro/hantesti-sv/registru-hcl/87178",
+"council": "suceava/hantesti",
+"council_name": "Consiliul Local al Comunei Hănțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--hantesti-107-2022",
+"path": "local/suceava/hantesti/2022/107",
+"kind": "local",
+"year": "2022",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 107/2022",
+"short": "HCL Hănțești nr. 107/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-05",
+"latest": "2023-05-05",
+"portal": "https://emol.ro/hantesti-sv/registru-hcl/87179",
+"council": "suceava/hantesti",
+"council_name": "Consiliul Local al Comunei Hănțești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

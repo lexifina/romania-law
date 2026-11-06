@@ -3,6 +3,36 @@
  "shard": "local/suceava/forasti/2023",
  "acts": [
   {
+   "slug": "hcl-suceava--forasti-100-2023",
+   "path": "local/suceava/forasti/2023/100",
+   "short": "HCL Forăști nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 100/2023 privind aprobarea vanzarii cu respectarea dreptului de preemptiune a unui teren proprietate privata a comunei Forasti, judetul Suceava, aferent imobilului casa de locuit, situat in sat Tolesti",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/132998",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/132998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-101-2023",
+   "path": "local/suceava/forasti/2023/101",
+   "short": "HCL Forăști nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 101/2023 privind aprobarea vanzarii prin licitatie publica a unui teren din intravilan in suprafata de 3.577 mp, identificat prin CF nr.33962 Forasti, domeniu privat al comunei Forasti, judetul Suceava",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/132999",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/132999",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--forasti-102-2023",
    "path": "local/suceava/forasti/2023/102",
    "short": "HCL Forăști nr. 102/2023",
@@ -28,6 +58,36 @@
      "from": "2023-12-12",
      "units": 1,
      "source_url": "https://emol.ro/forasti-sv/registru-hcl/133001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-104-2023",
+   "path": "local/suceava/forasti/2023/104",
+   "short": "HCL Forăști nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 104/2023 privind aprobarea vanzarii prin licitatie publica a unui teren din intravilan in suprafata de 1.000 mp, identificat prin CF nr. 33859 Forasti, categoria de folosinta “arabil”, domeniu privat al comunei Forasti, judetul Suceava",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/133002",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/133002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-105-2023",
+   "path": "local/suceava/forasti/2023/105",
+   "short": "HCL Forăști nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 105/2023",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/133003",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/133003",
      "sha256": null
     }
    ]
@@ -78,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--forasti-109-2023",
+   "path": "local/suceava/forasti/2023/109",
+   "short": "HCL Forăști nr. 109/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 109/2023 privind aprobarea Studiului de Fundamentare a deciziei de concesionare a serviciului de utilitate publica de distributie a gazelor naturale in comuna Forasti, judetul Suceava",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/133007",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/133007",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--forasti-110-2023",
    "path": "local/suceava/forasti/2023/110",
    "short": "HCL Forăști nr. 110/2023",
@@ -88,6 +163,21 @@
      "from": "2023-12-12",
      "units": 1,
      "source_url": "https://emol.ro/forasti-sv/registru-hcl/133008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-123-2023",
+   "path": "local/suceava/forasti/2023/123",
+   "short": "HCL Forăști nr. 123/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 123/2023 privind rectificarea bugetului local de venituri și cheltuieli și a Listei de investiții",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/188488",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/188488",
      "sha256": null
     }
    ]
@@ -133,6 +223,66 @@
      "from": "2023-12-11",
      "units": 1,
      "source_url": "https://emol.ro/forasti-sv/registru-hcl/188494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-127-2023",
+   "path": "local/suceava/forasti/2023/127",
+   "short": "HCL Forăști nr. 127/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 127/2023 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice de la Școala Gimnazială Oniceni",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/188496",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/188496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-128-2023",
+   "path": "local/suceava/forasti/2023/128",
+   "short": "HCL Forăști nr. 128/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 128/2023",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/188500",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/188500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-129-2023",
+   "path": "local/suceava/forasti/2023/129",
+   "short": "HCL Forăști nr. 129/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 129/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/188515",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/188515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-130-2023",
+   "path": "local/suceava/forasti/2023/130",
+   "short": "HCL Forăști nr. 130/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 130/2023 privind îndreptarea erorii materiale strecurate în Anexa la HCL nr. 120/20.11.2023 cu privire la stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Forăști, județul Suceava, începând cu luna noiembrie 2023",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/188517",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/188517",
      "sha256": null
     }
    ]

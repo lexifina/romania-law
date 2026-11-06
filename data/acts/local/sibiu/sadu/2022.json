@@ -3,6 +3,28 @@
 "shard": "local/sibiu/sadu/2022",
 "acts": [
 {
+"slug": "hcl-sibiu--sadu-92-2022",
+"path": "local/sibiu/sadu/2022/92",
+"kind": "local",
+"year": "2022",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 92/2022 privind desemnarea reprezentanților Consiliului local Sadu în comisiile de recepție a lucrărilor de investiții ce se realizează pe domeniul public și privat al comunei Sadu, județul Sibiu",
+"short": "HCL Sadu nr. 92/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-18",
+"latest": "2023-01-18",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/80494",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-sibiu--sadu-93-2022",
 "path": "local/sibiu/sadu/2022/93",
 "kind": "local",
@@ -22,6 +44,29 @@
 "council_name": "Consiliul Local al Comunei Sadu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-94-2022",
+"path": "local/sibiu/sadu/2022/94",
+"kind": "local",
+"year": "2022",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 94/2022",
+"short": "HCL Sadu nr. 94/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-18",
+"latest": "2023-01-18",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/80496",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -66,6 +111,28 @@
 "council_name": "Consiliul Local al Comunei Sadu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-97-2022",
+"path": "local/sibiu/sadu/2022/97",
+"kind": "local",
+"year": "2022",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 97/2022 privind modificarea art.1 din hotărârea consiliului local nr.86 din 27 octombrie 2022 privind aprobarea numărului și a cuantumului burselor școlare aferente anului școlar 2022- 2023 pentru elevii din învățământul preuniversitar de stat ai Școlii Gimnaziale ”Samuil Micu” Sadu",
+"short": "HCL Sadu nr. 97/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-18",
+"latest": "2023-01-18",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/80499",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -242,6 +309,28 @@
 "council_name": "Consiliul Local al Comunei Sadu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-106-2022",
+"path": "local/sibiu/sadu/2022/106",
+"kind": "local",
+"year": "2022",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 106/2022 privind modificarea și completarea art.1 din hotărârea consiliului local nr.85 din 27 octombrie 2022 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice de la Şcoala Gimnazială „Samuil Micu” Sadu pentru anul școlar 2022 - 2023",
+"short": "HCL Sadu nr. 106/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-18",
+"latest": "2023-01-18",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/82692",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

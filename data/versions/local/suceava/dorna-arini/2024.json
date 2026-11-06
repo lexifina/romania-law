@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/dorna-arini/2024",
+ "acts": [
+  {
+   "slug": "hcl-suceava--dorna-arini-644-2024",
+   "path": "local/suceava/dorna-arini/2024/644",
+   "short": "HCL Dorna-Arini nr. 644/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna-Arini nr. 644/2024 privind constatarea îndeplinirii condiţiilor legale de constituire a Consiliului local al comunei Dorna Arini, judeţul Suceava",
+   "url": "http://www.dornaarinisv.ro/",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "http://www.dornaarinisv.ro/pdf/anunturi/2024/644.pdf",
+     "sha256": "e208cb418cbe7e61987989a75816f17819457a525478027e57cff8080efff80e"
+    }
+   ]
+  }
+ ]
+}

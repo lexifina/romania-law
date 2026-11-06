@@ -115,6 +115,28 @@
 }
 },
 {
+"slug": "hcl-suceava--hantesti-96-2025",
+"path": "local/suceava/hantesti/2025/96",
+"kind": "local",
+"year": "2025",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 96/2025 privind aprobarea Raportului de evaluare actualizat în vederea încheierii contractului de închiriere a imobilului – casă de locuit – din domeniul privat al comunei Hănțești, județul Suceava",
+"short": "HCL Hănțești nr. 96/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/hantesti-sv/registru-hcl/248737",
+"council": "suceava/hantesti",
+"council_name": "Consiliul Local al Comunei Hănțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--hantesti-97-2025",
 "path": "local/suceava/hantesti/2025/97",
 "kind": "local",
@@ -225,6 +247,94 @@
 }
 },
 {
+"slug": "hcl-suceava--hantesti-102-2025",
+"path": "local/suceava/hantesti/2025/102",
+"kind": "local",
+"year": "2025",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 102/2025 privind închirierea prin încredințare directă a spațiului cu destinația de extindere cabinet medical, în suprafață totală de 7,28 mp, situat în domeniul privat al comunei Hănțești, în Clădirea fostei primării",
+"short": "HCL Hănțești nr. 102/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/hantesti-sv/registru-hcl/248743",
+"council": "suceava/hantesti",
+"council_name": "Consiliul Local al Comunei Hănțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--hantesti-103-2025",
+"path": "local/suceava/hantesti/2025/103",
+"kind": "local",
+"year": "2025",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 103/2025 privind aprobarea acordării unui sprijin financiar Bisericii ”Duminica tuturor sfinților” a Parohiei I Hănțești, comuna Hănțești, județul Suceava",
+"short": "HCL Hănțești nr. 103/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/hantesti-sv/registru-hcl/248744",
+"council": "suceava/hantesti",
+"council_name": "Consiliul Local al Comunei Hănțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--hantesti-104-2025",
+"path": "local/suceava/hantesti/2025/104",
+"kind": "local",
+"year": "2025",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 104/2025 privind aprobarea acordării unui sprijin financiar Bisericii ”Sfântul Dumitru” a Parohiei II Hănțești, comuna Hănțești, județul Suceava",
+"short": "HCL Hănțești nr. 104/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/hantesti-sv/registru-hcl/248745",
+"council": "suceava/hantesti",
+"council_name": "Consiliul Local al Comunei Hănțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--hantesti-105-2025",
+"path": "local/suceava/hantesti/2025/105",
+"kind": "local",
+"year": "2025",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 105/2025 privind aprobarea vânzării prin licitație publică a unor terenuri din domeniul privat al comunei Hănțești, județul Suceava",
+"short": "HCL Hănțești nr. 105/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/hantesti-sv/registru-hcl/248746",
+"council": "suceava/hantesti",
+"council_name": "Consiliul Local al Comunei Hănțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--hantesti-106-2025",
 "path": "local/suceava/hantesti/2025/106",
 "kind": "local",
@@ -310,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Hănțești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--hantesti-110-2025",
+"path": "local/suceava/hantesti/2025/110",
+"kind": "local",
+"year": "2025",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 110/2025 privind aprobarea majorării impozitului pe clădirile/terenurile neîngrijite de pe raza COMUNEI HĂNȚEȘTI și a Regulamentului privind stabilirea condițiilor de majorare a impozitului pe clădirile și terenurile neîngrijite",
+"short": "HCL Hănțești nr. 110/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/hantesti-sv/registru-hcl/248751",
+"council": "suceava/hantesti",
+"council_name": "Consiliul Local al Comunei Hănțești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

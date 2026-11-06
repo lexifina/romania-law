@@ -3,6 +3,138 @@
 "shard": "local/salaj/chiesd/2024",
 "acts": [
 {
+"slug": "hcl-salaj--chiesd-61-2024",
+"path": "local/salaj/chiesd/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 61/2024 privind alegerea presedintelui de sedinta perioada noiembrie 2024- ianuarie 2025",
+"short": "HCL Chieșd nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/250589",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--chiesd-62-2024",
+"path": "local/salaj/chiesd/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 62/2024 privind constituirea comisiilor de specialitate",
+"short": "HCL Chieșd nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/250592",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--chiesd-63-2024",
+"path": "local/salaj/chiesd/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 63/2024 privind alegerea viceprimarului Comunei Chiesd",
+"short": "HCL Chieșd nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/250608",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--chiesd-64-2024",
+"path": "local/salaj/chiesd/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 64/2024 privind scoaterea definitive din circuitul agricol a terenului în suprafată de 11000 mp identificat prin CF 51238 Chieșd, pentru obiectivul: ,, INFIINȚARE PARC FOTOVOLTAIC PENTRU CONSUMUL PROPRIU AL COMUNEI CHIESD, JUDEȚUL SĂLAJ” fondul pentru modernizare în România programul -cheie 1: surse regenerabile de energie și stocarea energiei, sprijinirea investitiilor noi capacităti de producere a energiei electrice produse din surse regenerabile pentru autoconsum",
+"short": "HCL Chieșd nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/250609",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--chiesd-66-2024",
+"path": "local/salaj/chiesd/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 66/2024 privind revocarea Hotărârii Consiliului Local Chieșd nr. 60/30.09.2024 privind vânzarea fara licitatie publica (directa) a unui teren proprietate privată a Unităţii Administrativ Teritoriale Comuna Chieșd, judeţul Sălaj înscris în Cartea Funciară 50363",
+"short": "HCL Chieșd nr. 66/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/250610",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--chiesd-67-2024",
+"path": "local/salaj/chiesd/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 67/2024 privind vânzarea prin licitatie publica a unui teren proprietate privată a Unităţii Administrativ Teritoriale Comuna Chieșd, judeţul Sălaj înscris în Cartea Funciară 50363",
+"short": "HCL Chieșd nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/250611",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--chiesd-68-2024",
 "path": "local/salaj/chiesd/2024/68",
 "kind": "local",
@@ -47,6 +179,138 @@
 }
 },
 {
+"slug": "hcl-salaj--chiesd-70-2024",
+"path": "local/salaj/chiesd/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 70/2024 privind actualizarea DEVIZULUI GENERAL aferent proiectului „ÎNFIINȚARE CENTRU DE COLECTARE SELECTIVĂ A DEȘEURILOR CU APORT VOLUNTAR ÎN COMUNA CHIEȘD, JUD SĂLAJ” prin intermediul Programului National de Redresare si Rezilienta, gestionat de catre Ministerul Mediului, Apelor si Padurilor - COMPONENTA C3 - MANAGEMENTUL DEȘEURILOR, Investiția I1. Dezvoltarea, modernizarea și completarea sistemelor de management integrat al deșeurilor municipale la nivel de județ sau la nivel de orașe/comune Sub-investiția I1.a. Înființarea de centre de colectare prin aport voluntar",
+"short": "HCL Chieșd nr. 70/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/250624",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--chiesd-71-2024",
+"path": "local/salaj/chiesd/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 71/2024 privind rectificarea bugetului local pe anul 2024",
+"short": "HCL Chieșd nr. 71/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/250686",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--chiesd-72-2024",
+"path": "local/salaj/chiesd/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 72/2024 privind rectificarea Hotărârii nr 62/29.11.2023 și actualizarea Devizului General pentru obiectivul de investitii ,,INFIINTARE PARC FOTOVOLTAIC PENTRU CONSUMUL PROPRIU AL UAT CHIEȘD, JUDETUL SĂLAJ\" Fondul pentru modernizare in Romania Programul-cheie 1: Surse regenerabile de energie si stocarea energiei Sprijinirea investitiilor in noi capacitati de producere a energiei electrice produsa din surse regenerabile pentru autoconsum",
+"short": "HCL Chieșd nr. 72/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/250687",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--chiesd-73-2024",
+"path": "local/salaj/chiesd/2024/73",
+"kind": "local",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 73/2024 rivind aprobarea rețelei școlare a unităților de învățământ preuniversitar din comuna Chiesd, Județul Sălaj, care vor funcționa în anul școlar 2025-2026",
+"short": "HCL Chieșd nr. 73/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/250688",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--chiesd-74-2024",
+"path": "local/salaj/chiesd/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 74/2024 privind aprobarea prelungirii implementării proiectului “Îmbunătățirea actului de învățământ in Loc. Chieșd prin realizarea unei Sali de sport si prin modernizarea si dotarea scolii” –COD SMIS 124158”” si a cheltuielilor legate de proiect in scopul finalizării integrale",
+"short": "HCL Chieșd nr. 74/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/250701",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--chiesd-75-2024",
+"path": "local/salaj/chiesd/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 75/2024 privind delegarea gestiunii serviciului de iluminat public – activitatea de întretinere si reparații rețele de iluminat public, verificare/repararea, montarea/demontarea sistemului de iluminat festiv la evenimente și sărbători în comuna CHIEȘD, jud Sălaj",
+"short": "HCL Chieșd nr. 75/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/250703",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--chiesd-76-2024",
 "path": "local/salaj/chiesd/2024/76",
 "kind": "local",
@@ -66,6 +330,116 @@
 "council_name": "Consiliul Local al Comunei Chieșd",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--chiesd-77-2024",
+"path": "local/salaj/chiesd/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 77/2024 privind aprobarea sumei de 40.000 lei pentru achiziționarea de cadouri cu ocazia sărbătorilor de Crăciun în anul 2024, pentru copiii din cele două grădinițe și școala de pe raza comunei Chieșd;",
+"short": "HCL Chieșd nr. 77/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/250709",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--chiesd-78-2024",
+"path": "local/salaj/chiesd/2024/78",
+"kind": "local",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 78/2024 privind aprobarea sumei de 14.600 lei, reprezentând achiziționarea de jocuri de artificii pentru Comuna Chieșd, jud. Sălaj",
+"short": "HCL Chieșd nr. 78/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/250710",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--chiesd-79-2024",
+"path": "local/salaj/chiesd/2024/79",
+"kind": "local",
+"year": "2024",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 79/2024 privind aprobarea sumei de 53.000 lei, reprezentând achiziția ,, Inchiriere ornamente pentru sărbătorile de iarnă pentru Comuna Chieșd, jud. Sălaj",
+"short": "HCL Chieșd nr. 79/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/250720",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--chiesd-80-2024",
+"path": "local/salaj/chiesd/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 80/2024 privind aprobarea sumei de 43.000 lei din bugetul local, pentru achizitionarea unei stații de încarcare de 40 kw pentru Comuna Chiesd, jud. Sălaj",
+"short": "HCL Chieșd nr. 80/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/250730",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--chiesd-81-2024",
+"path": "local/salaj/chiesd/2024/81",
+"kind": "local",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 81/2024 privind acordarea cotizatiei pentru anul 2025 către Asociația de Dezvoltare Intercomunitara,,ECODES SĂLAJ”",
+"short": "HCL Chieșd nr. 81/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/250732",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

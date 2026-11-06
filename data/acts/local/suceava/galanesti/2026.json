@@ -23,6 +23,51 @@
 "flags": {
 "text_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-suceava--galanesti-37-2026",
+"path": "local/suceava/galanesti/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gălănești nr. 37/2026",
+"short": "HCL Gălănești nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://galanesti.ro/hcl-nr-37-din-30-09-2026/",
+"council": "suceava/galanesti",
+"council_name": "Consiliul Local al Comunei Gălănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--galanesti-40-2026",
+"path": "local/suceava/galanesti/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gălănești nr. 40/2026 privind rectificarea bugetului local de venituri și cheltuieli Consiliul Local al comunei Gălănești; Având în vedere : Referatul de aprobare prezentat de Primarul comunei Gălănești; Raportul de specialitate prezentat de Compartimentului financiar — contabil; Rapoartele de avizare ale Comisiilor de specialitate; Prevederile art. 19 alin. (2)(2) art. 36 alin. (1) din Legea 273/2006 privind finanțele",
+"short": "HCL Gălănești nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://galanesti.ro/hcl-nr-40-din-30-09-2026/",
+"council": "suceava/galanesti",
+"council_name": "Consiliul Local al Comunei Gălănești",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

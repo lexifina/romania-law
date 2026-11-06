@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 92/2021 privind apartenența la inventarul domeniului privat al comunei Cornu Luncii a unor terenuri
+
+HCL Cornu Luncii nr. 92/2021 · 1 versions, from 2021-12-08 (latest in force: 2021-12-08) · <https://emol.ro/cornuluncii-sv/registru-hcl/50631>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-suceava--cornu-luncii-92-2021` (tags `hcl-suceava--cornu-luncii-92-2021/<day>`; `python tools/on.py <day> hcl-suceava--cornu-luncii-92-2021`).
+
+## Decisions made by hand
+
+- HCL Cornu Luncii nr. 92/2021: listed from Consiliul Local al Comunei Cornu Luncii (emol.ro); an individual decision: metadata only.
+- HCL Cornu Luncii nr. 92/2021: dated from 8 December 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Cornu Luncii nr. 92/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

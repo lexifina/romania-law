@@ -3,6 +3,381 @@
  "shard": "local/suceava/liteni/2025",
  "acts": [
   {
+   "slug": "hcl-suceava--liteni-10-2025",
+   "path": "local/suceava/liteni/2025/10",
+   "short": "HCL Liteni nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 10/2025 referitoare la aprobarea documentatiei de alipire a unor terenuri situate în orasul Liteni, judetul Suceava, proprietatea publica a orasului Liteni, judetul Suceava",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-29",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-10-din-29-martie-2025-referitoare-la-aprobarea-documentatiei-de-alipire-a-unor-terenuri-situate-in-orasul-Liteni-judetul-Suceava-proprietatea-publica-a-orasului-Liteni-judetul-Suceava.pdf",
+     "sha256": "80e33770b93f3bf72b9cbab242134dd67c4931adddf3660913914f22603a8ef5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-11-2025",
+   "path": "local/suceava/liteni/2025/11",
+   "short": "HCL Liteni nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 11/2025 referitoare la aprobarea bugetului general centralizat al orasului Liteni, judetul Suceava, pe anul 2025",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-11-din-31-martie-2025-referitoare-la-aprobarea-bugetului-general-centralizat-al-orasului-Liteni-judetul-Suceava-pe-anul-2025.pdf",
+     "sha256": "d9a7508c02683f7c32c9d197f36f87d82cd2a33847567c0d44374cf123faa8a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-12-2025",
+   "path": "local/suceava/liteni/2025/12",
+   "short": "HCL Liteni nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 12/2025 referitoare la utilizarea excedentului bugetului local existent la data 31 decembrie 2024, pentru finantarea cheltuielilor de dezvoltare",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-12-din-31-martie-2025-referitoare-la-utilizarea-excedentului-bugetului-local-existent-la-data-31-decembrie-2024-pentru-finantarea-cheltuielilor-de-dezvoltare.pdf",
+     "sha256": "aeb914e807239ac7a1483e793e3205d8d3b5434fe1e964512afd9c5d791d4a9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-13-2025",
+   "path": "local/suceava/liteni/2025/13",
+   "short": "HCL Liteni nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 13/2025 referitoare la aprobarea Planului de analiza si acoperire a riscurilor pe teritoriul orasului Liteni, judeţul Suceava, actualizat pentru anul 2025",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-13-din-31-martie-2025-referitoare-la-aprobarea-Planului-de-analiza-si-acoperire-a-riscurilor-pe-teritoriul-orasului-Liteni-judetul-Suceava-actualizat-pentru-anul-2025.pdf",
+     "sha256": "a78e6c79e4410a09086864793c972e7aeee6976993fe0b4149721d9f081daeb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-14-2025",
+   "path": "local/suceava/liteni/2025/14",
+   "short": "HCL Liteni nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 14/2025",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-14-din-31-martie-2025.pdf",
+     "sha256": "7c97fcb2e83a7294f85142cd55630705134b9109ca55eabcec091aa6361d99c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-15-2025",
+   "path": "local/suceava/liteni/2025/15",
+   "short": "HCL Liteni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 15/2025 referitoare la aprobarea Programului de imbunatatire a eficientei energetice al orasului Liteni, judeţul Suceava",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-15-din-31-martie-2025-referitoare-la-aprobarea-Programului-de-imbunatatire-a-eficientei-energetice-al-orasului-Liteni-judetul-Suceava.pdf",
+     "sha256": "461674c9430e80dfbc1732f5c678e3f391b81de0ee2d8b0369e74583e3ab886d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-16-2025",
+   "path": "local/suceava/liteni/2025/16",
+   "short": "HCL Liteni nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 16/2025",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-16-din-31-martie-2025.pdf",
+     "sha256": "986d2ddf99d81ab970f2d7bd7e061ff055473738e3f992c975e329edffba707e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-17-2025",
+   "path": "local/suceava/liteni/2025/17",
+   "short": "HCL Liteni nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 17/2025",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-17-din-31-martie-2025.pdf",
+     "sha256": "a76059acdcf387b768b547469be1cd2967e2540f814afa2e7d439350821f1e20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-18-2025",
+   "path": "local/suceava/liteni/2025/18",
+   "short": "HCL Liteni nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 18/2025",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-18-din-31-martie-2025.pdf",
+     "sha256": "063addcf76000aaa5d61ab54fabd67ac4dafa05b012a4181d9836a8e5bc20e52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-19-2025",
+   "path": "local/suceava/liteni/2025/19",
+   "short": "HCL Liteni nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 19/2025",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-19-din-31-martie-2025-referitoare-completarea-domeniului-privat-al-orasului-Liteni-aprobat-prin-Hotararea-Consiliului-Local-al-orasului-Liteni-nr.-8-din-22-februarie-2001.pdf",
+     "sha256": "b92c7654de426817ddfd274ce234b7e9bed2c3a72bbf3ced7cc4bbdba4f1c23d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-2-2025",
+   "path": "local/suceava/liteni/2025/2",
+   "short": "HCL Liteni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 2/2025",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-2-din-28-februarie-2025-privind-.pdf",
+     "sha256": "622280786ab95ad95ce25050d986bc39e82de6593e25ddb833d551e479960fdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-20-2025",
+   "path": "local/suceava/liteni/2025/20",
+   "short": "HCL Liteni nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 20/2025",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-20-din-31-martie-2025.pdf",
+     "sha256": "ea221eff03a99b635d3144ae206d89b5c74709977d9f07ccaa2a7184d34c9840"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-21-2025",
+   "path": "local/suceava/liteni/2025/21",
+   "short": "HCL Liteni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 21/2025 referitoare la alegerea presedintelui de sedinta al Consiliului Local al orasului Liteni pentru o perioada de trei luni (aprilie – iunie 2025)",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-21-din-31-martie-2025-referitoare-la-alegerea-presedintelui-de-sedinta-al-Consiliului-Local-al-orasului-Liteni-pentru-o-perioada-de-trei-luni-aprilie-%E2%80%93-iunie-2025.pdf",
+     "sha256": "ddf280f7970b473c4d82ec4662ce9d08ac949c6b3a410ee448e748f464f63da4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-22-2025",
+   "path": "local/suceava/liteni/2025/22",
+   "short": "HCL Liteni nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 22/2025 referitoare la acordarea mandatului special reprezentantului UAT Orasul Liteni, judetul Suceava, in Adunarea Generală a AJAC Suceava",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-22-din-14-aprilie-2025-referitoare-la-acordarea-mandatului-special-reprezentantului-UAT-Orasul-Liteni-judetul-Suceava-in-Adunarea-Generala-a-AJAC-Suceava.pdf",
+     "sha256": "84b97e9c42ddd541b757d3d291432b3349da90479fb8214a62022dfa8e4a5c40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-23-2025",
+   "path": "local/suceava/liteni/2025/23",
+   "short": "HCL Liteni nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 23/2025 referitoare la aprobarea Amenajamentului pastoral pentru pajiştile permanente de pe raza admnistrativ-teritorială a oraşului Liteni, judeţul Suceava",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-23-din-14-aprilie-2025-referitoare-la-aprobarea-Amenajamentului-pastoral-pentru-pajistile-permanente-de-pe-raza-admnistrativ-teritoriala-a-orasului-Liteni-judetul-Suceava.pdf",
+     "sha256": "5a11fbe76f968ff7a0fa70561325bd31ddebc11816054b25b72d7d8a77d49f45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-24-2025",
+   "path": "local/suceava/liteni/2025/24",
+   "short": "HCL Liteni nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 24/2025",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-24-din-14-aprilie-2025.pdf",
+     "sha256": "12bedcdd260657633d770115a35c74163db3d418e5373d790acf1583c03d780e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-25-2025",
+   "path": "local/suceava/liteni/2025/25",
+   "short": "HCL Liteni nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 25/2025 referitoare la aprobarea Contractului de sponsorizare şi acceptarea sponsorizării din partea SC ELA GENERAL COM SRL Răchiţi, judeţul Botoşani",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-25-din-14-aprilie-2025-referitoare-la-aprobarea-Contractului-de-sponsorizare-si-acceptarea-sponsorizarii-din-partea-SC-ELA-GENERAL-COM-SRL-Rachiti-judetul-Botosani.pdf",
+     "sha256": "44f52c8ed06c3de1a029cd2614776fffb8bdf6bb9a6a4d99dfddb242f37c2867"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-26-2025",
+   "path": "local/suceava/liteni/2025/26",
+   "short": "HCL Liteni nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 26/2025 referitoare la aprobarea documentaţiei de dezlipire (dezmembrare) a terenului in suprafata de 6.045 metri pătraţi, înscris în Cartea funciară nr. 38.553",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-26-din-14-aprilie-2025-referitoare-la-aprobarea-documentatiei-de-dezlipire-dezmembrare-a-terenului-in-suprafata-de-6.045-metri-patrati-inscris-in-Cartea-funciara-nr.-38.553-.pdf",
+     "sha256": "68bcb87063ac407b687884e44d693bd1902ccef6b6291a8fd3d8c02a816a27b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-27-2025",
+   "path": "local/suceava/liteni/2025/27",
+   "short": "HCL Liteni nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 27/2025 referitoare la aprobarea conturilor anuale de execuţie al bugetului general centralizat al oraşului Liteni, judeţul Suceava, pentru anul 2024",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-27-din-20-mai-2025-referitoare-la-aprobarea-conturilor-anuale-de-executie-al-bugetului-general-centralizat-al-orasului-Liteni-judetul-Suceava-pentru-anul-2024.pdf",
+     "sha256": "c343cf025ca7f40f2a09e97759e5c46cb7aaf097440c273a9509145db2b2c467"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-28-2025",
+   "path": "local/suceava/liteni/2025/28",
+   "short": "HCL Liteni nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 28/2025 referitoare la aprobarea contului de execuţie al bugetului local al Oraşului Liteni, judeţul Suceava, aferent trimestrului I al anului 2025",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-28-din-20-mai-2025-referitoare-la-aprobarea-contului-de-executie-al-bugetului-local-al-Orasului-Liteni-judetul-Suceava-aferent-trimestrului-I-al-anului-2025.pdf",
+     "sha256": "8c1bc194f872c13f943608a74168f383dff8c3ef8a5eff185e4721395d2a1889"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-29-2025",
+   "path": "local/suceava/liteni/2025/29",
+   "short": "HCL Liteni nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 29/2025 referitoare la acordarea unor premii familiilor care aniversează 50 de ani de căsătorie neîntreruptă",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-29-din-20-mai-2025-referitoare-la-acordarea-unor-premii-familiilor-care-aniverseaza-50-de-ani-de-casatorie-neintrerupta.pdf",
+     "sha256": "c5e04c11dd65f97b1e0ff756a2b0208f44462ae26fc6d1fed1d48bb1808f17c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-3-2025",
+   "path": "local/suceava/liteni/2025/3",
+   "short": "HCL Liteni nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 3/2025",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-3-din-28-februarie-2025-privind-aprobarea-constituirii-Structurii-Comunitare-Consultative-.pdf",
+     "sha256": "7e45da47114ee3f175654947fce2430753ca84e494fa640c91688f2ea591da68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-30-2025",
+   "path": "local/suceava/liteni/2025/30",
+   "short": "HCL Liteni nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 30/2025",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-30-din-20-mai-2025.pdf",
+     "sha256": "2447b1ace6f5a6e43979f1109810b4e57d3a9b6453e1e6c207dfd4be700ec943"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-33-2025",
+   "path": "local/suceava/liteni/2025/33",
+   "short": "HCL Liteni nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 33/2025 referitoare la rectificarea Bugetului Local al orasului Liteni, judetul Suceava, pentru anul 2025",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-33-din-18-iunie-2025-referitoare-la-rectificarea-Bugetului-Local-al-orasului-Liteni-judetul-Suceava-pentru-anul-2025.pdf",
+     "sha256": "e4d227764c22b1a08fedac51a0f42c68f8cec4c579a9794b35b29905fcf569fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--liteni-34-2025",
+   "path": "local/suceava/liteni/2025/34",
+   "short": "HCL Liteni nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 34/2025 referitoare la acordarea mandatului special Asociației Județene pentru Apă și Canalizare Suceava să exercite atribuțiile de autoritate publică tutelar locala",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-34-din-18-iunie-2025-referitoare-la-acordarea-mandatului-special-Asociatiei-Judetene-pentru-Apa-si-Canalizare-Suceava-sa-exercite-atributiile-de-autoritate-publica-tutelar-locala.pdf",
+     "sha256": "94b89a41e9313cfe75e830e353793ac76c423551fa7d1f0653706669f7aa5692"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--liteni-37-2025",
    "path": "local/suceava/liteni/2025/37",
    "short": "HCL Liteni nr. 37/2025",

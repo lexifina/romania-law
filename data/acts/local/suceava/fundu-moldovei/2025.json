@@ -3,6 +3,182 @@
 "shard": "local/suceava/fundu-moldovei/2025",
 "acts": [
 {
+"slug": "hcl-suceava--fundu-moldovei-52-2025",
+"path": "local/suceava/fundu-moldovei/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 52/2025 privind modificarea și completarea Anexei la inventarul bunurilor care fac parte din domeniul privat al comunei Fundu Moldovei, județul Suceava",
+"short": "HCL Fundu Moldovei nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-24",
+"latest": "2025-11-24",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/236524",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-53-2025",
+"path": "local/suceava/fundu-moldovei/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 53/2025 privind aprobarea devizului general actualizat în urma modificării cotei TVA pentru obiectivul de investiții ”Renovare energetică moderată a Școlii nr. 2 din satul Colacu, comuna Fundu Moldovei, județul Suceava”",
+"short": "HCL Fundu Moldovei nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-24",
+"latest": "2025-11-24",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/236525",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-54-2025",
+"path": "local/suceava/fundu-moldovei/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 54/2025 privind aprobarea prelungirii valabilității Planului Urbanistic General al comunei Fundu Moldovei, județul Suceava, aprobat prin Hotărârea Consiliului Local nr. 61 din 26.11.2015",
+"short": "HCL Fundu Moldovei nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-24",
+"latest": "2025-11-24",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/236526",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-55-2025",
+"path": "local/suceava/fundu-moldovei/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 55/2025 privind rectificarea bugetului local de venituri și cheltuieli al comunei Fundu Moldovei, județul Suceava, pe anul 2025",
+"short": "HCL Fundu Moldovei nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-24",
+"latest": "2025-11-24",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/236527",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-56-2025",
+"path": "local/suceava/fundu-moldovei/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 56/2025 privind aprobarea contului de execuție al bugetului local al comunei Fundu Moldovei pe trimestrul III al anului 2025",
+"short": "HCL Fundu Moldovei nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-24",
+"latest": "2025-11-24",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/236528",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-57-2025",
+"path": "local/suceava/fundu-moldovei/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 57/2025 privind actualizarea bugetului pentru proiectul ”Modernizare rețea de iluminat public în comuna Fundu Moldovei, județul Suceava”",
+"short": "HCL Fundu Moldovei nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-24",
+"latest": "2025-11-24",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/236529",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-58-2025",
+"path": "local/suceava/fundu-moldovei/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 58/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare servicii integrate în comunitățile rurale - facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+"short": "HCL Fundu Moldovei nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-24",
+"latest": "2025-11-24",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/236530",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-59-2025",
+"path": "local/suceava/fundu-moldovei/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 59/2025 privind acordarea mandatului special reprezentantului UAT - comuna Fundu Moldovei, județul Suceava în Adunarea Generală a Asociației Județene pentru Apă și canalizare Suceava și Asociației Județene pentru Apă și Canalizare Suceava, să aprobe în Adunarea Generală a Asociației, strategia privind dezvoltarea Serviciului public de alimentare cu apă și de canalizare și a Serviciului public inteligent alternativ pentru procesarea apelor uzate din cadrul unităților administrativ - teritoriale membre al Asociației Județene pentru Apă și Canalizare Suceava",
+"short": "HCL Fundu Moldovei nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-24",
+"latest": "2025-11-24",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/236531",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--fundu-moldovei-60-2025",
 "path": "local/suceava/fundu-moldovei/2025/60",
 "kind": "local",
@@ -22,6 +198,72 @@
 "council_name": "Consiliul Local al Comunei Fundu Moldovei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-61-2025",
+"path": "local/suceava/fundu-moldovei/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 61/2025 privind aprobarea contractării unui împrumut în valoare de 650.400 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului",
+"short": "HCL Fundu Moldovei nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/239371",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-62-2025",
+"path": "local/suceava/fundu-moldovei/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 62/2025 privind rectificarea bugetului local de venituri ți cheltuieli al comunei Fundu Moldovei, județul Suceava pe anul 2025",
+"short": "HCL Fundu Moldovei nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/239372",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-63-2025",
+"path": "local/suceava/fundu-moldovei/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 63/2025 privind aprobarea valorificării masei lemnoase de pe trupurile de pădure aparținând domeniului public al comunei Fundu Moldovei, aflate în administrarea Ocoalelor Silvice Pojorâta și Breaza",
+"short": "HCL Fundu Moldovei nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/239373",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -70,6 +312,50 @@
 }
 },
 {
+"slug": "hcl-suceava--fundu-moldovei-66-2025",
+"path": "local/suceava/fundu-moldovei/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 66/2025 privind rectificarea bugetului local de venituri și cheltuieli al comunei Fundu Moldovei, județul Suceava pe anul 2025",
+"short": "HCL Fundu Moldovei nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/249041",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-67-2025",
+"path": "local/suceava/fundu-moldovei/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 67/2025 privind aprobarea funcționării unităților de învățământ preuniversitar de stat din comuna Fundu Moldovei, județul Suceava, pentru anul școlar 2026 - 2027",
+"short": "HCL Fundu Moldovei nr. 67/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/249143",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--fundu-moldovei-68-2025",
 "path": "local/suceava/fundu-moldovei/2025/68",
 "kind": "local",
@@ -89,6 +375,50 @@
 "council_name": "Consiliul Local al Comunei Fundu Moldovei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-69-2025",
+"path": "local/suceava/fundu-moldovei/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 69/2025 privind aprobarea contului de execuție al bugetului local al comunei Fundu Moldovei pe trimestrul IV al anului 2025",
+"short": "HCL Fundu Moldovei nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/249145",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--fundu-moldovei-70-2025",
+"path": "local/suceava/fundu-moldovei/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 70/2025 privind aprobarea contractării unui împrumut în valoare de 666.600 lei, în conformitate cu prevederile art. 1 din ordonanța de urgență a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului",
+"short": "HCL Fundu Moldovei nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://emol.ro/fundumoldovei-sv/registru-hcl/249146",
+"council": "suceava/fundu-moldovei",
+"council_name": "Consiliul Local al Comunei Fundu Moldovei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

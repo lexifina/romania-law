@@ -334,6 +334,28 @@
 }
 },
 {
+"slug": "hcl-salaj--horoatu-crasnei-57-2025",
+"path": "local/salaj/horoatu-crasnei/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 57/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții ,,Construire Centru Comunitar Integrat în Comuna Horoatu Crasnei, județul Sălaj\"",
+"short": "HCL Horoatu Crasnei nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/horoatucrasnei-sj/registru-hcl/239743",
+"council": "salaj/horoatu-crasnei",
+"council_name": "Consiliul Local al Comunei Horoatu Crasnei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--horoatu-crasnei-58-2025",
 "path": "local/salaj/horoatu-crasnei/2025/58",
 "kind": "local",

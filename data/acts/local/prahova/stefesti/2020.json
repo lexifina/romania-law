@@ -247,6 +247,74 @@
 }
 },
 {
+"slug": "hcl-prahova--stefesti-35-2020",
+"path": "local/prahova/stefesti/2020/35",
+"kind": "local",
+"year": "2020",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 35/2020 privind desemnarea unor reprezentanți ai consiliului local, pentru a face parte din Consiliul de Administrație și din Comisia de evaluare și asigurare a calității educației a Școlii gimnaziale Ștefești",
+"short": "HCL Ștefești nr. 35/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-17",
+"latest": "2020-11-17",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/25815",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--stefesti-36-2020",
+"path": "local/prahova/stefesti/2020/36",
+"kind": "local",
+"year": "2020",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 36/2020",
+"short": "HCL Ștefești nr. 36/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-17",
+"latest": "2020-11-17",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/25816",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--stefesti-37-2020",
+"path": "local/prahova/stefesti/2020/37",
+"kind": "local",
+"year": "2020",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 37/2020",
+"short": "HCL Ștefești nr. 37/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-17",
+"latest": "2020-11-17",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/25817",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--stefesti-38-2020",
 "path": "local/prahova/stefesti/2020/38",
 "kind": "local",

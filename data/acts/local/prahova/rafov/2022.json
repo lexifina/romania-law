@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-110-2022",
+"path": "local/prahova/rafov/2022/110",
+"kind": "local",
+"year": "2022",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 110/2022 privind concesionarea prin licitatie publica a unor terenuri aflate in domeniul privat al Comunei Rafov , in vederea dezvoltarii unor parcuri fotovoltaice si aprobarea documentatiei aferente",
+"short": "HCL Râfov nr. 110/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-17",
+"latest": "2022-11-17",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/89782",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-111-2022",
 "path": "local/prahova/rafov/2022/111",
 "kind": "local",
@@ -180,6 +202,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-116-2022",
+"path": "local/prahova/rafov/2022/116",
+"kind": "local",
+"year": "2022",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 116/2022 privind numirea comisiei de evaluare a ofertelor depuse pentru concesionarea , prin licitatie publica a unor terenuri , aflate in domeniul privat al Comunei Rafov, in vederea dezvoltarii unor parcuri fotovoltaice",
+"short": "HCL Râfov nr. 116/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/90259",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-117-2022",
 "path": "local/prahova/rafov/2022/117",
 "kind": "local",
@@ -287,6 +331,28 @@
 "council_name": "Consiliul Local al Comunei Râfov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-122-2022",
+"path": "local/prahova/rafov/2022/122",
+"kind": "local",
+"year": "2022",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 122/2022 privind inchirierea (in contratura)a unui spatiu aprtinand dispensarului uman din satul Buda , aflat in domeniul Privat al Comunei Rafov",
+"short": "HCL Râfov nr. 122/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-23",
+"latest": "2022-12-23",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/90326",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

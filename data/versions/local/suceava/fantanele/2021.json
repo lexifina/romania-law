@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--fantanele-34-2021",
+   "path": "local/suceava/fantanele/2021/34",
+   "short": "HCL Fântânele nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 34/2021 privind validarea dispozitiei nr.126 din 21.09.2021 privind rectificarea bugetului local in anul 2021",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241336",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241336",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--fantanele-35-2021",
    "path": "local/suceava/fantanele/2021/35",
    "short": "HCL Fântânele nr. 35/2021",
@@ -33,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--fantanele-36-2021",
+   "path": "local/suceava/fantanele/2021/36",
+   "short": "HCL Fântânele nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 36/2021 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241343",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241343",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--fantanele-37-2021",
    "path": "local/suceava/fantanele/2021/37",
    "short": "HCL Fântânele nr. 37/2021",
@@ -43,6 +73,21 @@
      "from": "2021-10-28",
      "units": 1,
      "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-38-2021",
+   "path": "local/suceava/fantanele/2021/38",
+   "short": "HCL Fântânele nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 38/2021 privind validarea Dispozitiei nr.130 din 30.09.2023 privind rectificare bugetului local in anul 2021",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241350",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241350",
      "sha256": null
     }
    ]
@@ -73,6 +118,21 @@
      "from": "2021-10-28",
      "units": 1,
      "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-41-2021",
+   "path": "local/suceava/fantanele/2021/41",
+   "short": "HCL Fântânele nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 41/2021 privind desemnarea unui representant din cadrul Consiliului local care va face parte din comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea functiilor de director si de director adjunct la Scoala gimnaziala ”Mihai Eminescu Banesti, comuna Fantanele",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241353",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241353",
      "sha256": null
     }
    ]
@@ -193,6 +253,21 @@
      "from": "2021-12-16",
      "units": 1,
      "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-50-2021",
+   "path": "local/suceava/fantanele/2021/50",
+   "short": "HCL Fântânele nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 50/2021 privind respingerea proiectului de hotarare privind aprobarea impozitelor si taxelor locale pentru anul 2022",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241362",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241362",
      "sha256": null
     }
    ]

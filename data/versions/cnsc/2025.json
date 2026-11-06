@@ -3,6 +3,21 @@
  "shard": "cnsc/2025",
  "acts": [
   {
+   "slug": "cnsc-decizie-2025-120",
+   "path": "cnsc/decizie/2025/120",
+   "short": "Decizia CNSC nr. 120/C5/4908 din 16.01.2025",
+   "title": "Decizia CNSC nr. 120/C5/4908 din 16.01.2025: contestația BORCUT BARBOLOVICI SRL în contradictoriu cu JUDETUL MARAMURES (CONSILIUL JUDETEAN MARAMURES)",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Mjk4Njg1ZTgtMzhjNS00NDU1LWExNmUtM2MxMzcxNTYxMjUw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMjAucGRm&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Mjk4Njg1ZTgtMzhjNS00NDU1LWExNmUtM2MxMzcxNTYxMjUw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMjAucGRm&action=YXR0YWNobWVudA==",
+     "sha256": "ddbb97951ec35d433313b7f8416623601749b3d2f33c00b90468672acbcca82b"
+    }
+   ]
+  },
+  {
    "slug": "cnsc-decizie-2025-1428",
    "path": "cnsc/decizie/2025/1428",
    "short": "Decizia CNSC nr. 1428/C9/1009 din 06.05.2025",
@@ -33,6 +48,21 @@
    ]
   },
   {
+   "slug": "cnsc-decizie-2025-153",
+   "path": "cnsc/decizie/2025/153",
+   "short": "Decizia CNSC nr. 153/C2/4504 din 20.01.2025",
+   "title": "Decizia CNSC nr. 153/C2/4504 din 20.01.2025: contestația ALCAD STRUCT SRL în contradictoriu cu UNIVERSITATEA DE MEDICINA, FARMACIE, STIINTE SI TEHNOLOGIE \\\" GEORGE EMIL PALADE\\\" DIN TARGU MURES",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZGE5MDcyZTgtMzUzYy00ZjYwLWJlMzgtMjc4Y2YzNjEwNTZk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNTMucGRm&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZGE5MDcyZTgtMzUzYy00ZjYwLWJlMzgtMjc4Y2YzNjEwNTZk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNTMucGRm&action=YXR0YWNobWVudA==",
+     "sha256": "7d03842ac970f6793f5fde036f84589e47a605eaeb54c0ba3c58315d106c6da5"
+    }
+   ]
+  },
+  {
    "slug": "cnsc-decizie-2025-1626",
    "path": "cnsc/decizie/2025/1626",
    "short": "Decizia CNSC nr. 1626/C4/1467 din 20.05.2025",
@@ -44,6 +74,21 @@
      "units": 3,
      "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTQwY2JkYzYtOWUxOC00NmNmLTg4YzEtNzQ1NTQyM2M5OTlm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNjI2LnBkZg==&action=YXR0YWNobWVudA==",
      "sha256": "5357c0f6666842c4d6f91055b91ecef82ca69acabfa858e435821737066628f2"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2025-179",
+   "path": "cnsc/decizie/2025/179",
+   "short": "Decizia CNSC nr. 179/C5/4679 din 22.01.2025",
+   "title": "Decizia CNSC nr. 179/C5/4679 din 22.01.2025: contestația VODAFONE ROMANIA SA în contradictoriu cu COMUNA MANASTIREA CASIN (CONSILIUL LOCAL MANASTIREA CASIN)",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzVhZjk2YTItZGJmZC00YjFjLWFkM2MtMzc0MGNkN2M2ZWEy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNzkucGRm&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzVhZjk2YTItZGJmZC00YjFjLWFkM2MtMzc0MGNkN2M2ZWEy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNzkucGRm&action=YXR0YWNobWVudA==",
+     "sha256": "31b6b7dbdfe89b886e7965dd5b6cbd1459b695f571411f0aecc98dd30ff4a052"
     }
    ]
   },
@@ -74,6 +119,21 @@
      "units": 3,
      "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDBiOGU4M2YtYmE5Ni00ODZjLTk3ODctZGNmYjAwZDI0Mjgz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xOTA0LnBkZg==&action=YXR0YWNobWVudA==",
      "sha256": "525cf0f8d10070db7b169109a7c5f4bdbc755e13535ff34ebbc896c9688e82c7"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2025-328",
+   "path": "cnsc/decizie/2025/328",
+   "short": "Decizia CNSC nr. 328/C6/4912 din 05.02.2025",
+   "title": "Decizia CNSC nr. 328/C6/4912 din 05.02.2025: contestația EUSKADI SRL în contradictoriu cu APA CANAL 2000 S.A.",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDM1ZDRiYjctMjYyMy00YmIwLWI3YWQtODRlMDUxNTEyZjY4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMjgucGRm&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDM1ZDRiYjctMjYyMy00YmIwLWI3YWQtODRlMDUxNTEyZjY4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMjgucGRm&action=YXR0YWNobWVudA==",
+     "sha256": "6df033c2f5519b9aeea6768c4cc77071c95b2928ffe8296a6352356c5d4f7240"
     }
    ]
   },

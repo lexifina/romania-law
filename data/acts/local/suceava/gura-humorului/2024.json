@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/suceava/gura-humorului/2024",
+"acts": [
+{
+"slug": "hcl-suceava--gura-humorului-164-2024",
+"path": "local/suceava/gura-humorului/2024/164",
+"kind": "local",
+"year": "2024",
+"number": "164",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Gura Humorului nr. 164/2024",
+"short": "HCL Gura Humorului nr. 164/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-15",
+"latest": "2024-11-15",
+"portal": "https://primariagurahumorului.ro/administratie/consiliul-local/hotarari-consiliu-local/",
+"council": "suceava/gura-humorului",
+"council_name": "Consiliul Local al Orașului Gura Humorului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--gura-humorului-175-2024",
+"path": "local/suceava/gura-humorului/2024/175",
+"kind": "local",
+"year": "2024",
+"number": "175",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Gura Humorului nr. 175/2024",
+"short": "HCL Gura Humorului nr. 175/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://primariagurahumorului.ro/wp-content/uploads/2025/01/HCL-nr.-175-din-29.11.2024-Nivelul-impozitelor-si-taxelor-locale-anul-2025.pdf",
+"council": "suceava/gura-humorului",
+"council_name": "Consiliul Local al Orașului Gura Humorului",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

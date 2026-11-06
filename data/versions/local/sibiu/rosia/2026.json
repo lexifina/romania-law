@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-sibiu--rosia-32-2026",
+   "path": "local/sibiu/rosia/2026/32",
+   "short": "HCL Roșia nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 32/2026 privind aprobarea unei deplasări în străinătate si delegatiei aferente acestei deplasări în străinătate",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/282559",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/282559",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--rosia-33-2026",
    "path": "local/sibiu/rosia/2026/33",
    "short": "HCL Roșia nr. 33/2026",
@@ -73,6 +88,36 @@
      "from": "2026-06-30",
      "units": 1,
      "source_url": "https://emol.ro/rosia-sb/registru-hcl/282567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-37-2026",
+   "path": "local/sibiu/rosia/2026/37",
+   "short": "HCL Roșia nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 37/2026 privind punerea în aplicare a prevederilor Hotărârii de Guvern nr. 146/2026 pentru stabilirea salariului de bază minim brut pe ţară grantat în plată şi actualizarea unor coeficienţi de ierarhizare aferenţi personalului contractual",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/282568",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/282568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-38-2026",
+   "path": "local/sibiu/rosia/2026/38",
+   "short": "HCL Roșia nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 38/2026 privind modificarea HCL Rosia nr. 28/06.05.2026 referitoare la aprobarea bugetului de venituri şi cheltuieli pentru Ocolul Silvic “Clăbucet“ în anul 2026, sub aspectul stabilirii pretului de vanzare de 400 lei/mc pentru diferenta de 1313 mc masa lemnoasa industrie ( pe picior ) ramasa de exploatat in anul 2026 si a pretului de 120 lei/mc pentru prestare servicii de exploatare forestiera partizi drum auto pentru diferenta de 3330 mc masa lemnoasa de exploatat in anul 2026",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/282569",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/282569",
      "sha256": null
     }
    ]
@@ -163,6 +208,66 @@
      "from": "2026-08-12",
      "units": 1,
      "source_url": "https://emol.ro/rosia-sb/registru-hcl/282577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-45-2026",
+   "path": "local/sibiu/rosia/2026/45",
+   "short": "HCL Roșia nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 45/2026",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/282578",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/282578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-46-2026",
+   "path": "local/sibiu/rosia/2026/46",
+   "short": "HCL Roșia nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 46/2026 privind scoaterea din functiune a unui bun mobil aparținând domeniului privat al UAT Rosia - autobasculanta/autoutilitara Scania R420 si aprobarea valorificarii prin vânzare a acesteia",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/282579",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/282579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-47-2026",
+   "path": "local/sibiu/rosia/2026/47",
+   "short": "HCL Roșia nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 47/2026 privind aprobarea eliberarii adeverintelor pentru racordarea la reţeaua electrică a persoanelor din comuna Rosia, care nu detin actul de proprietate sau orice alt înscris care atestă dreptul de folosinţă asupra terenului in conformitate cu Ordinul nr.22/2020 al ANRDE pentru modificarea şi completarea Regulamentului privind racordarea utilizatorilor la reţelele electrice de interes public, aprobat prin Ordinul preşedintelui Autorităţii Naţionale de Reglementare în Domeniul Energiei nr. 59/2013",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/282580",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/282580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-48-2026",
+   "path": "local/sibiu/rosia/2026/48",
+   "short": "HCL Roșia nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 48/2026",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/288156",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/288156",
      "sha256": null
     }
    ]

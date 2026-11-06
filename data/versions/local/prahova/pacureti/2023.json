@@ -33,10 +33,55 @@
    ]
   },
   {
+   "slug": "hcl-prahova--pacureti-12-2023",
+   "path": "local/prahova/pacureti/2023/12",
+   "short": "HCL Păcureți nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 12/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--pacureti-13-2023",
    "path": "local/prahova/pacureti/2023/13",
    "short": "HCL Păcureți nr. 13/2023",
    "title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 13/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--pacureti-14-2023",
+   "path": "local/prahova/pacureti/2023/14",
+   "short": "HCL Păcureți nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 14/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--pacureti-15-2023",
+   "path": "local/prahova/pacureti/2023/15",
+   "short": "HCL Păcureți nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 15/2023",
    "url": null,
    "versions": [
     {

@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--magureni-19-2020",
+   "path": "local/prahova/magureni/2020/19",
+   "short": "HCL Măgureni nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 19/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/17677",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/17677",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-20-2020",
    "path": "local/prahova/magureni/2020/20",
    "short": "HCL Măgureni nr. 20/2020",
@@ -108,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--magureni-22-2020",
+   "path": "local/prahova/magureni/2020/22",
+   "short": "HCL Măgureni nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 22/2020 privind desemnarea reprezentanților Consiliului Local în Consiliul de Administrație al Școlii Gimnaziale , Comuna Măgureni",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/17680",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/17680",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-23-2020",
    "path": "local/prahova/magureni/2020/23",
    "short": "HCL Măgureni nr. 23/2020",
@@ -118,6 +148,21 @@
      "from": "2020-08-20",
      "units": 1,
      "source_url": "https://emol.ro/magureni-ph/registru-hcl/17681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-24-2020",
+   "path": "local/prahova/magureni/2020/24",
+   "short": "HCL Măgureni nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 24/2020 privind alegerea președinteșui de ședință",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/17682",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/17682",
      "sha256": null
     }
    ]
@@ -138,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--magureni-26-2020",
+   "path": "local/prahova/magureni/2020/26",
+   "short": "HCL Măgureni nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 26/2020 privind alegerea viceprimarului comunei Măgureni",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/17684",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/17684",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-27-2020",
    "path": "local/prahova/magureni/2020/27",
    "short": "HCL Măgureni nr. 27/2020",
@@ -148,6 +208,21 @@
      "from": "2020-12-10",
      "units": 1,
      "source_url": "https://emol.ro/magureni-ph/registru-hcl/17814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-28-2020",
+   "path": "local/prahova/magureni/2020/28",
+   "short": "HCL Măgureni nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 28/2020 privind modificarea art.1 din HCL nr.22/20.08.2020 privind desemnarea reprezentanților Consiliului Local în Consiliul de Administrație al Școlii Gimnaziale Comuna Măgureni",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/17815",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/17815",
      "sha256": null
     }
    ]

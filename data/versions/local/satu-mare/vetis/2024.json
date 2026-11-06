@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-satu-mare--vetis-42-2024",
+   "path": "local/satu-mare/vetis/2024/42",
+   "short": "HCL Vetiș nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 42/2024 privind desemnarea reprezentantului legal al comunei Vetis în relația cu Agenția pentru Finanțarea Investițiilor Rurale – AFIR",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/181199",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/181199",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-satu-mare--vetis-43-2024",
    "path": "local/satu-mare/vetis/2024/43",
    "short": "HCL Vetiș nr. 43/2024",

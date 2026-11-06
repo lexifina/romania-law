@@ -48,6 +48,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--paulesti-126-2026",
+   "path": "local/prahova/paulesti/2026/126",
+   "short": "HCL Păulești nr. 126/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 126/2026 privind însușirea documentului ,,Raport final selecție membri în Consiliul de Administrație la Societatea Servicii Publice Păulești SRL",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/294075",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/294075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-127-2026",
+   "path": "local/prahova/paulesti/2026/127",
+   "short": "HCL Păulești nr. 127/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 127/2026",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/294966",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/294966",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--paulesti-128-2026",
    "path": "local/prahova/paulesti/2026/128",
    "short": "HCL Păulești nr. 128/2026",
@@ -153,6 +183,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--paulesti-135-2026",
+   "path": "local/prahova/paulesti/2026/135",
+   "short": "HCL Păulești nr. 135/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 135/2026 privind aprobarea Listei de repartizare a locuințelor pentru tineri, în regim de închiriere, construite prin A.N.L",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/294974",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/294974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-136-2026",
+   "path": "local/prahova/paulesti/2026/136",
+   "short": "HCL Păulești nr. 136/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 136/2026",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/294975",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/294975",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--paulesti-137-2026",
    "path": "local/prahova/paulesti/2026/137",
    "short": "HCL Păulești nr. 137/2026",
@@ -193,6 +253,21 @@
      "from": "2026-10-27",
      "units": 1,
      "source_url": "https://emol.ro/paulesti-ph/registru-hcl/294978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-140-2026",
+   "path": "local/prahova/paulesti/2026/140",
+   "short": "HCL Păulești nr. 140/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 140/2026 privind modificarea și completarea HCL Păulești nr. 126/2026 privind însușirea documentului ,,Raport final selecție membri în Consiliul de Administrație la societatea Servicii Publice Păulești SRL",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/294979",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/294979",
      "sha256": null
     }
    ]

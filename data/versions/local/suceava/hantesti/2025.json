@@ -33,6 +33,66 @@
    ]
   },
   {
+   "slug": "hcl-suceava--hantesti-102-2025",
+   "path": "local/suceava/hantesti/2025/102",
+   "short": "HCL Hănțești nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 102/2025 privind închirierea prin încredințare directă a spațiului cu destinația de extindere cabinet medical, în suprafață totală de 7,28 mp, situat în domeniul privat al comunei Hănțești, în Clădirea fostei primării",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/248743",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-103-2025",
+   "path": "local/suceava/hantesti/2025/103",
+   "short": "HCL Hănțești nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 103/2025 privind aprobarea acordării unui sprijin financiar Bisericii ”Duminica tuturor sfinților” a Parohiei I Hănțești, comuna Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/248744",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-104-2025",
+   "path": "local/suceava/hantesti/2025/104",
+   "short": "HCL Hănțești nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 104/2025 privind aprobarea acordării unui sprijin financiar Bisericii ”Sfântul Dumitru” a Parohiei II Hănțești, comuna Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/248745",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-105-2025",
+   "path": "local/suceava/hantesti/2025/105",
+   "short": "HCL Hănțești nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 105/2025 privind aprobarea vânzării prin licitație publică a unor terenuri din domeniul privat al comunei Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/248746",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248746",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--hantesti-106-2025",
    "path": "local/suceava/hantesti/2025/106",
    "short": "HCL Hănțești nr. 106/2025",
@@ -88,6 +148,21 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-110-2025",
+   "path": "local/suceava/hantesti/2025/110",
+   "short": "HCL Hănțești nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 110/2025 privind aprobarea majorării impozitului pe clădirile/terenurile neîngrijite de pe raza COMUNEI HĂNȚEȘTI și a Regulamentului privind stabilirea condițiilor de majorare a impozitului pe clădirile și terenurile neîngrijite",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/248751",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248751",
      "sha256": null
     }
    ]
@@ -163,6 +238,21 @@
      "from": "2025-12-12",
      "units": 1,
      "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-96-2025",
+   "path": "local/suceava/hantesti/2025/96",
+   "short": "HCL Hănțești nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 96/2025 privind aprobarea Raportului de evaluare actualizat în vederea încheierii contractului de închiriere a imobilului – casă de locuit – din domeniul privat al comunei Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/248737",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/248737",
      "sha256": null
     }
    ]

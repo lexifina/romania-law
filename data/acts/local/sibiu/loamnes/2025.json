@@ -3,6 +3,28 @@
 "shard": "local/sibiu/loamnes/2025",
 "acts": [
 {
+"slug": "hcl-sibiu--loamnes-61-2025",
+"path": "local/sibiu/loamnes/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 61/2025 privind completarea pozitiei nr. 273 din Anexa la Hotararea Consiliului Local al comunei Loamnes nr. 42/2001 privind inventarierea bunurilor care alcatuiesc domeniul public al comunei Loamneş, judeţul Sibiu",
+"short": "HCL Loamneș nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-19",
+"latest": "2026-01-19",
+"portal": "https://emol.ro/loamnes-sb/registru-hcl/247216",
+"council": "sibiu/loamnes",
+"council_name": "Consiliul Local al Comunei Loamneș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-sibiu--loamnes-62-2025",
 "path": "local/sibiu/loamnes/2025/62",
 "kind": "local",
@@ -22,6 +44,28 @@
 "council_name": "Consiliul Local al Comunei Loamneș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--loamnes-63-2025",
+"path": "local/sibiu/loamnes/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 63/2025 privind alegerea președintelui de ședință",
+"short": "HCL Loamneș nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/loamnes-sb/registru-hcl/247713",
+"council": "sibiu/loamnes",
+"council_name": "Consiliul Local al Comunei Loamneș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +91,50 @@
 }
 },
 {
+"slug": "hcl-sibiu--loamnes-65-2025",
+"path": "local/sibiu/loamnes/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 65/2025 privind mandatarea primarului Comunei Loamneș ca reprezentant al Comunei Loamneș în Adunarea Generală a Asociației de Dezvoltare Intercomunitară “ECO” Sibiu să voteze “Pentru/Împotriva” aprobarea/ii ajustării tarifelor activității de colectare și transport a deșeurilor municipale în Zona 1 Sibiu",
+"short": "HCL Loamneș nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/loamnes-sb/registru-hcl/247715",
+"council": "sibiu/loamnes",
+"council_name": "Consiliul Local al Comunei Loamneș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--loamnes-66-2025",
+"path": "local/sibiu/loamnes/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 66/2025 privind atestarea la domeniul public al comunei Loamneș, județul Sibiu, a unui bun imobil",
+"short": "HCL Loamneș nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/loamnes-sb/registru-hcl/247716",
+"council": "sibiu/loamnes",
+"council_name": "Consiliul Local al Comunei Loamneș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-sibiu--loamnes-67-2025",
 "path": "local/sibiu/loamnes/2025/67",
 "kind": "local",
@@ -66,6 +154,50 @@
 "council_name": "Consiliul Local al Comunei Loamneș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--loamnes-68-2025",
+"path": "local/sibiu/loamnes/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 68/2025 privind aprobarea concesionării unui imobil teren în suprafață de 395 mp situat in intravilanul satului Mândra, comuna Loamneș, județul Sibiu, înscris în CF 109062 Loamneș",
+"short": "HCL Loamneș nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/loamnes-sb/registru-hcl/247719",
+"council": "sibiu/loamnes",
+"council_name": "Consiliul Local al Comunei Loamneș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--loamnes-69-2025",
+"path": "local/sibiu/loamnes/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 69/2025 privind aprobarea indicatorilor tehnico - economici actualizaţi pentru obiectivul de investiţie: ”Reabilitarea moderată a Școlii Gimnaziale Alămor, comuna Loamneș, județul Sibiu”, finanțat prin Planului Național de Redresare și Reziliență - PNRR",
+"short": "HCL Loamneș nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/loamnes-sb/registru-hcl/247720",
+"council": "sibiu/loamnes",
+"council_name": "Consiliul Local al Comunei Loamneș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-sibiu--loamnes-72-2025",
+"path": "local/sibiu/loamnes/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 72/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Loamneș, județul Sibiu pentru anul 2025",
+"short": "HCL Loamneș nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/loamnes-sb/registru-hcl/247760",
+"council": "sibiu/loamnes",
+"council_name": "Consiliul Local al Comunei Loamneș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-sibiu--loamnes-73-2025",
 "path": "local/sibiu/loamnes/2025/73",
 "kind": "local",
@@ -132,6 +286,28 @@
 "council_name": "Consiliul Local al Comunei Loamneș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--loamnes-74-2025",
+"path": "local/sibiu/loamnes/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 74/2025 privind aprobarea închirierii unui spațiu în suprafață de 39,06 mp, cu destinația cabinet stomatologic, situat in cadrul Dispensarului Uman din sat Loamneș, înscris în CF 102398 Loamneș, județul Sibiu",
+"short": "HCL Loamneș nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/loamnes-sb/registru-hcl/247762",
+"council": "sibiu/loamnes",
+"council_name": "Consiliul Local al Comunei Loamneș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

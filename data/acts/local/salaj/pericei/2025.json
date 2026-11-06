@@ -25,6 +25,72 @@
 }
 },
 {
+"slug": "hcl-salaj--pericei-60-2025",
+"path": "local/salaj/pericei/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 60/2025 privind aprobarea modificării a organigramei și a statului de funcții",
+"short": "HCL Pericei nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/234245",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-61-2025",
+"path": "local/salaj/pericei/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 61/2025 privind revocarea Hotărârii Consiliului Local Pericei nr. 56 din 13.10.2025 privind aprobarea,depunerea și implementarea obiectivului de investiții cu titlul ” Amenajare parțială incinta capelei din localitatea Pericei și împrejmuire”",
+"short": "HCL Pericei nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/234246",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-62-2025",
+"path": "local/salaj/pericei/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 62/2025 privind aprobarea, depunerea și implementare obiectivului de investiții cu titlul: „Amenajare parțială incinta capelei din localitatea Pericei și împrejmuire”",
+"short": "HCL Pericei nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/234247",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--pericei-63-2025",
 "path": "local/salaj/pericei/2025/63",
 "kind": "local",
@@ -69,6 +135,72 @@
 }
 },
 {
+"slug": "hcl-salaj--pericei-65-2025",
+"path": "local/salaj/pericei/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 65/2025 privind modificarea art.1, alin (2) din HCL nr.27 din 25.09.2013 privind însușirea Acordului de cooperare privind organizarea și exercitarea activității de audit public intern",
+"short": "HCL Pericei nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/237516",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-66-2025",
+"path": "local/salaj/pericei/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 66/2025 privind aprobarea concesionării directe a spațiului cu destinația de cabinet medical pentru medicină de familie",
+"short": "HCL Pericei nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/237517",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-67-2025",
+"path": "local/salaj/pericei/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 67/2025 privind aprobarea concesionării directe a spațiului cu destinația de cabinet medical pentru medicină de familie",
+"short": "HCL Pericei nr. 67/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/237518",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--pericei-68-2025",
 "path": "local/salaj/pericei/2025/68",
 "kind": "local",
@@ -110,6 +242,50 @@
 "council_name": "Consiliul Local al Comunei Pericei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--pericei-70-2025",
+"path": "local/salaj/pericei/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 70/2025 privind completarea și modificarea Hotărârii Consiliului Local nr.62 din 05.11.2025,referitoare la aprobarea depunerii și implementării obiectivului de invesiții ” Amenajarea parțială incinta capelei din localitatea Pericei și împrejmuire”",
+"short": "HCL Pericei nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/239847",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-71-2025",
+"path": "local/salaj/pericei/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 71/2025 privind aprobarea Studiului de fezabilitate cu indicatorii tehnico-economici la investiţia “Realizarea sistemului de producţie şi distribuţie a energiei termice pe bază de energie geotermală în Comuna Pericei, judeţul Sălaj”",
+"short": "HCL Pericei nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/242170",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -220,6 +396,50 @@
 "council_name": "Consiliul Local al Comunei Pericei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--pericei-77-2025",
+"path": "local/salaj/pericei/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 77/2025 privind completarea art.1 din Hotărârea Consiliului local Pericei nr. 67 din 27.11.2025",
+"short": "HCL Pericei nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/244495",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-78-2025",
+"path": "local/salaj/pericei/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 78/2025 privind aprobarea, indicatorilor tehnico-economici actualizați pentru obiectivul de investiție ” Crearea unui centru de zi pentru copii expuși riscului de a fi separate de familie în Comuna Pericei, județul Sălaj” aprobat în cadrul apelurilor Planul Național de Redresare și Reziliență, Componenta C 13-Reforme sociale",
+"short": "HCL Pericei nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/244496",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

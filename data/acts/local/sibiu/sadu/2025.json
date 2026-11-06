@@ -25,6 +25,183 @@
 }
 },
 {
+"slug": "hcl-sibiu--sadu-97-2025",
+"path": "local/sibiu/sadu/2025/97",
+"kind": "local",
+"year": "2025",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 97/2025 privind stabilirea prețurilor de pornire la licitație/ negociere pentru masa lemnoasă fasonată provenită din fondul forestier proprietate publică a comunei Sadu",
+"short": "HCL Sadu nr. 97/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/232239",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-98-2025",
+"path": "local/sibiu/sadu/2025/98",
+"kind": "local",
+"year": "2025",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 98/2025 privind alegerea președintelui de ședință",
+"short": "HCL Sadu nr. 98/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/232240",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-99-2025",
+"path": "local/sibiu/sadu/2025/99",
+"kind": "local",
+"year": "2025",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 99/2025 privind preluarea prin transfer de la Municipiul Sibiu a dreptului de proprietate, înscrierea în evidenta contabilă a comunei Sadu și transmiterea în concesiunea SC Tursib SA a unor bunuri mobile achiziționate de Municipiul Sibiu în cadrul proiectului „ Modernizarea și extinderea transportului public la nivelul zonei metropolitane Sibiu”",
+"short": "HCL Sadu nr. 99/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/232241",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-100-2025",
+"path": "local/sibiu/sadu/2025/100",
+"kind": "local",
+"year": "2025",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 100/2025 privind aprobarea organizării activităților culturale-tradiționale cu ocazia sărbătorilor de iarnă la nivelul Comunei Sadu, potrivit Statului comunei Sadu aprobat prin HCL nr. 28/2020 și acordarea unor facilităţi tinerilor ce organizează „Ceata Junilor”",
+"short": "HCL Sadu nr. 100/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/237211",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-101-2025",
+"path": "local/sibiu/sadu/2025/101",
+"kind": "local",
+"year": "2025",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 101/2025",
+"short": "HCL Sadu nr. 101/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/237212",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-102-2025",
+"path": "local/sibiu/sadu/2025/102",
+"kind": "local",
+"year": "2025",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 102/2025 privind aprobarea organigramei, a statului de funcții și a numărului de personal, al aparatului de specialitate al primarului Comunei Sadu și a Serviciilor Publice subordonate Consiliului Local al comunei Sadu",
+"short": "HCL Sadu nr. 102/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/237213",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-103-2025",
+"path": "local/sibiu/sadu/2025/103",
+"kind": "local",
+"year": "2025",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 103/2025 privind stabilirea preţurilor de pornire la licitaţie/negociere pentru masa lemnoasă pe picior provenită din fondul forestier proprietate publică a comunei Sadu",
+"short": "HCL Sadu nr. 103/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/237214",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-104-2025",
+"path": "local/sibiu/sadu/2025/104",
+"kind": "local",
+"year": "2025",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 104/2025 privind rectificarea bugetului local de venituri și cheltuieli al comunei Sadu pe anul 2025",
+"short": "HCL Sadu nr. 104/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/237215",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-sibiu--sadu-105-2025",
 "path": "local/sibiu/sadu/2025/105",
 "kind": "local",
@@ -44,6 +221,50 @@
 "council_name": "Consiliul Local al Comunei Sadu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-106-2025",
+"path": "local/sibiu/sadu/2025/106",
+"kind": "local",
+"year": "2025",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 106/2025 privind rectificarea bugetului local de venituri și cheltuieli al comunei Sadu pe anul 2025",
+"short": "HCL Sadu nr. 106/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/241772",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-107-2025",
+"path": "local/sibiu/sadu/2025/107",
+"kind": "local",
+"year": "2025",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 107/2025 privind aprobarea acoperirii golurilor temporare de casă în Bugetul de Venituri și Cheltuieli al comunei Sadu, pentru anul 2026, din excedentul anului precedent pentru secțiunea de funcționare",
+"short": "HCL Sadu nr. 107/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/241773",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -110,6 +331,50 @@
 "council_name": "Consiliul Local al Comunei Sadu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-111-2025",
+"path": "local/sibiu/sadu/2025/111",
+"kind": "local",
+"year": "2025",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 111/2025 privind preluarea în proprietatea comunei Sadu, a imobilului teren în suprafață de 64 mp, situat în comuna Sadu, str. Lăzituri, FN, cu destinația de drum",
+"short": "HCL Sadu nr. 111/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/241777",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--sadu-112-2025",
+"path": "local/sibiu/sadu/2025/112",
+"kind": "local",
+"year": "2025",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadu nr. 112/2025 privind preluarea în proprietatea comunei Sadu, a imobilului teren în suprafață de 68 mp, situat în comuna Sadu, str. Gladiolelor, FN, cu destinația de drum",
+"short": "HCL Sadu nr. 112/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://emol.ro/sadu-sb/registru-hcl/241778",
+"council": "sibiu/sadu",
+"council_name": "Consiliul Local al Comunei Sadu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

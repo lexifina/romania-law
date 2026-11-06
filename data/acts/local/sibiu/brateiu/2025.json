@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-sibiu--brateiu-48-2025",
+"path": "local/sibiu/brateiu/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 48/2025 privind alegerea presedintelui de sedinta pentru urmatoarele trei luni",
+"short": "HCL Brateiu nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/brateiu-sb/registru-hcl/233374",
+"council": "sibiu/brateiu",
+"council_name": "Consiliul Local al Comunei Brateiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-sibiu--brateiu-49-2025",
 "path": "local/sibiu/brateiu/2025/49",
 "kind": "local",
@@ -332,6 +354,28 @@
 "council_name": "Consiliul Local al Comunei Brateiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--brateiu-63-2025",
+"path": "local/sibiu/brateiu/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 63/2025 privind alegerea presedintelui de sedinta al Consiliului Local pentru urmatoarele trei luni",
+"short": "HCL Brateiu nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/brateiu-sb/registru-hcl/243871",
+"council": "sibiu/brateiu",
+"council_name": "Consiliul Local al Comunei Brateiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

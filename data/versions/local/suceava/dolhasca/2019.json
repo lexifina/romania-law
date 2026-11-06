@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/dolhasca/2019",
+ "acts": [
+  {
+   "slug": "hcl-suceava--dolhasca-1-2019",
+   "path": "local/suceava/dolhasca/2019/1",
+   "short": "HCL Dolhasca nr. 1/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Dolhasca nr. 1/2019",
+   "url": "https://primariadolhasca.ro/hotarari-cl-2019/",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "https://primariadolhasca.ro/wp-content/uploads/2020/02/HCL-nr.-1-30.01.2019.pdf",
+     "sha256": "beb3dfb70e7219c7cf64700d28d4690ac441c0c70932b27a0a854c5d9a37a4a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dolhasca-10-2019",
+   "path": "local/suceava/dolhasca/2019/10",
+   "short": "HCL Dolhasca nr. 10/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Dolhasca nr. 10/2019",
+   "url": "https://primariadolhasca.ro/hotarari-cl-2019/",
+   "versions": [
+    {
+     "from": "2019-04-17",
+     "units": 1,
+     "source_url": "https://primariadolhasca.ro/wp-content/uploads/2020/02/HCL-nr.-10-17.04.2019.pdf",
+     "sha256": "1c0c933a66caa6c1e488532f2dd0ebd8abb098b157ce7d28df4067f7da737571"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dolhasca-11-2019",
+   "path": "local/suceava/dolhasca/2019/11",
+   "short": "HCL Dolhasca nr. 11/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Dolhasca nr. 11/2019",
+   "url": "https://primariadolhasca.ro/hotarari-cl-2019/",
+   "versions": [
+    {
+     "from": "2019-04-26",
+     "units": 1,
+     "source_url": "https://primariadolhasca.ro/wp-content/uploads/2020/02/HCL-nr.-11-26.04.2019.pdf",
+     "sha256": "01a181a64c4d414efbdd83e1e1145793493ee9a2d264093a73b1992babb9b7f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dolhasca-12-2019",
+   "path": "local/suceava/dolhasca/2019/12",
+   "short": "HCL Dolhasca nr. 12/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Dolhasca nr. 12/2019",
+   "url": "https://primariadolhasca.ro/hotarari-cl-2019/",
+   "versions": [
+    {
+     "from": "2019-04-26",
+     "units": 1,
+     "source_url": "https://primariadolhasca.ro/wp-content/uploads/2020/02/HCL-nr.-12-26.04.2019.pdf",
+     "sha256": "fe27ab0375fbef98a51ff00d947dbf1fc5c983f9ac170818925a601660a2e2cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dolhasca-13-2019",
+   "path": "local/suceava/dolhasca/2019/13",
+   "short": "HCL Dolhasca nr. 13/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Dolhasca nr. 13/2019",
+   "url": "https://primariadolhasca.ro/hotarari-cl-2019/",
+   "versions": [
+    {
+     "from": "2019-04-26",
+     "units": 1,
+     "source_url": "https://primariadolhasca.ro/wp-content/uploads/2020/02/HCL-nr.-13-26.04.2019.pdf",
+     "sha256": "2d5b0d201def1ad1505c5cef9b6541acab193eea232d730de73ee9aa0ba43013"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dolhasca-3-2019",
+   "path": "local/suceava/dolhasca/2019/3",
+   "short": "HCL Dolhasca nr. 3/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Dolhasca nr. 3/2019",
+   "url": "https://primariadolhasca.ro/hotarari-cl-2019/",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://primariadolhasca.ro/wp-content/uploads/2020/02/HCL-nr.-3-21.03.2019.pdf",
+     "sha256": "514cfbb96c0535d91a565c9eebc66231687567b150f3f2d4c7b49c0a9ffc7158"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dolhasca-4-2019",
+   "path": "local/suceava/dolhasca/2019/4",
+   "short": "HCL Dolhasca nr. 4/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Dolhasca nr. 4/2019",
+   "url": "https://primariadolhasca.ro/hotarari-cl-2019/",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://primariadolhasca.ro/wp-content/uploads/2020/02/HCL-nr.-4-21.03.2019.pdf",
+     "sha256": "c62772124b9f9f8fc434d328ce44f689cca0db26a6ed175646cb1abf2ac16278"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dolhasca-5-2019",
+   "path": "local/suceava/dolhasca/2019/5",
+   "short": "HCL Dolhasca nr. 5/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Dolhasca nr. 5/2019",
+   "url": "https://primariadolhasca.ro/hotarari-cl-2019/",
+   "versions": [
+    {
+     "from": "2019-03-31",
+     "units": 1,
+     "source_url": "https://primariadolhasca.ro/wp-content/uploads/2020/02/HCL-nr.-5-31.03.2019.pdf",
+     "sha256": "3d31c90594897958fd7c975985b85c594b95321d21fa3f04b779cca772a12afa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dolhasca-7-2019",
+   "path": "local/suceava/dolhasca/2019/7",
+   "short": "HCL Dolhasca nr. 7/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Dolhasca nr. 7/2019",
+   "url": "https://primariadolhasca.ro/hotarari-cl-2019/",
+   "versions": [
+    {
+     "from": "2019-04-17",
+     "units": 1,
+     "source_url": "https://primariadolhasca.ro/wp-content/uploads/2020/02/HCL-nr.-7-17.04.2019.pdf",
+     "sha256": "022c01d1d43186eecad7dfe8e0bb49b3b402818b0e23dc51d901aff7b851a827"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dolhasca-8-2019",
+   "path": "local/suceava/dolhasca/2019/8",
+   "short": "HCL Dolhasca nr. 8/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Dolhasca nr. 8/2019",
+   "url": "https://primariadolhasca.ro/hotarari-cl-2019/",
+   "versions": [
+    {
+     "from": "2019-04-17",
+     "units": 1,
+     "source_url": "https://primariadolhasca.ro/wp-content/uploads/2020/02/HCL-nr.-8-17.04.2019-1.pdf",
+     "sha256": "ff461601db57900bdeb5dd74bdf72b6991c7ff51afbbd32f1532eb33c6d2afd2"
+    }
+   ]
+  }
+ ]
+}

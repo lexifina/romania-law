@@ -267,6 +267,51 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-85-2024",
+"path": "local/prahova/rafov/2024/85",
+"kind": "local",
+"year": "2024",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 85/2024",
+"short": "HCL Râfov nr. 85/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-15",
+"latest": "2024-11-15",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/187365",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--rafov-86-2024",
+"path": "local/prahova/rafov/2024/86",
+"kind": "local",
+"year": "2024",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 86/2024 privind numirea membrilor comisiilor de licitati organizate de UAT RÂFOV pentru închirieri, concesionări, vânzări și aciziții de imobile pentru mandatul 2020-2024",
+"short": "HCL Râfov nr. 86/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-15",
+"latest": "2024-11-15",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/187366",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-87-2024",
 "path": "local/prahova/rafov/2024/87",
 "kind": "local",
@@ -352,6 +397,28 @@
 "council_name": "Consiliul Local al Comunei Râfov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-91-2024",
+"path": "local/prahova/rafov/2024/91",
+"kind": "local",
+"year": "2024",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 91/2024 privind aprobarea decontarii navetei cadrelor didactice pentru lunile octombrie si noiembrie 2024",
+"short": "HCL Râfov nr. 91/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/187403",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

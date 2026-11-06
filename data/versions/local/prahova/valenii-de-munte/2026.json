@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/valenii-de-munte/2026",
+ "acts": [
+  {
+   "slug": "hcl-prahova--valenii-de-munte-111-2026",
+   "path": "local/prahova/valenii-de-munte/2026/111",
+   "short": "HCL Vălenii de Munte nr. 111/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Vălenii de Munte nr. 111/2026 privind numirea Presedintelui de sedinta pentru luna septembrie 2026",
+   "url": "http://www.valeniidemunte.com.ro/index.php?zona=hotararicl&pg_hot=6&an=2026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "http://www.valeniidemunte.com.ro/continut/hotarari/HCL%20nr.111_28.08.2026%20-%20Presedinte%20de%20sedinta.pdf",
+     "sha256": "274d7f0a2b0e07bd2196ac49ae696a2763c8db9e209d020949b612af52a4fe96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valenii-de-munte-112-2026",
+   "path": "local/prahova/valenii-de-munte/2026/112",
+   "short": "HCL Vălenii de Munte nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Vălenii de Munte nr. 112/2026 privind aprobarea organigramei, numarului de personal si statelor de functii pentru aparatul de specialitate al primarului si al celorlalte servicii publice si institutii publice de interes local aflate in subordinea Consiliului Local al orasului Valenii de Munte",
+   "url": "http://www.valeniidemunte.com.ro/index.php?zona=hotararicl&pg_hot=6&an=2026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "http://www.valeniidemunte.com.ro/continut/hotarari/HCL%20nr.%20112_28.08.2026%20-%20Aprobare%20organigrama.pdf",
+     "sha256": "28528f9940700f593def5d60f6c544e187df1d80e30225f81d22d1fa96e0d7d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valenii-de-munte-114-2026",
+   "path": "local/prahova/valenii-de-munte/2026/114",
+   "short": "HCL Vălenii de Munte nr. 114/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Vălenii de Munte nr. 114/2026 privind acordarea pentru anul scolar 2026-2027 a pachetului cu rechizite scolare \"Primul Ghiozdan\"",
+   "url": "http://www.valeniidemunte.com.ro/index.php?zona=hotararicl&pg_hot=5&an=2026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "http://www.valeniidemunte.com.ro/continut/hotarari/HCL%20nr.114_28.08.2026%20-%20Primul%20ghiozdan.pdf",
+     "sha256": "f7bfa4758a3f56065783ac1fe2f8983df47086dae7687bdadf5862d562b9e641"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valenii-de-munte-115-2026",
+   "path": "local/prahova/valenii-de-munte/2026/115",
+   "short": "HCL Vălenii de Munte nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Vălenii de Munte nr. 115/2026 privind acordarea unor premii familiilor cu domiciliul in orasul Valenii de Munte care aniverseaza 40 de ani de casatorie neintrerupta in anul 2026",
+   "url": "http://www.valeniidemunte.com.ro/index.php?zona=hotararicl&pg_hot=5&an=2026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "http://www.valeniidemunte.com.ro/continut/hotarari/HCL%20nr.%20115_28.08.2026%20-%20Aniversare%2040%20ani%20de%20casatorie.pdf",
+     "sha256": "3e36ec4f44ec478c6fb6d74abe5cbbdba63aef2945e4fe8e1abe0d9509fd6391"
+    }
+   ]
+  }
+ ]
+}

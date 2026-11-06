@@ -3,6 +3,21 @@
  "shard": "local/salaj/jibou/2021",
  "acts": [
   {
+   "slug": "hcl-salaj--jibou-32-2021",
+   "path": "local/salaj/jibou/2021/32",
+   "short": "HCL Jibou nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Jibou nr. 32/2021",
+   "url": "http://www.primariajibou.ro/",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://primariajibou.ro/site/wp-content/uploads/2021/03/Hot-32-CJSU-26-febr-2021.pdf",
+     "sha256": "8e184ae0ab11d52f40a46ada8b84b67309d32a927fd07624b7124a7add76e151"
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--jibou-58-2021",
    "path": "local/salaj/jibou/2021/58",
    "short": "HCL Jibou nr. 58/2021",

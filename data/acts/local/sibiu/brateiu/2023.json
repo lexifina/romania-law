@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-sibiu--brateiu-40-2023",
+"path": "local/sibiu/brateiu/2023/40",
+"kind": "local",
+"year": "2023",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 40/2023 privind desemnarea reprezentanților Consiliului Local în consiliile de administrație a unităților de învățământ preuniversitar din Comuna Brateiu",
+"short": "HCL Brateiu nr. 40/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-27",
+"latest": "2023-09-27",
+"portal": "https://emol.ro/brateiu-sb/registru-hcl/185077",
+"council": "sibiu/brateiu",
+"council_name": "Consiliul Local al Comunei Brateiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-sibiu--brateiu-41-2023",
 "path": "local/sibiu/brateiu/2023/41",
 "kind": "local",
@@ -66,6 +88,28 @@
 "council_name": "Consiliul Local al Comunei Brateiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--brateiu-43-2023",
+"path": "local/sibiu/brateiu/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 43/2023 privind desemnarea președintelui de ședință a Consiliului local al Comunei Brateiu pentru următoarele trei luni",
+"short": "HCL Brateiu nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-27",
+"latest": "2023-09-27",
+"portal": "https://emol.ro/brateiu-sb/registru-hcl/185080",
+"council": "sibiu/brateiu",
+"council_name": "Consiliul Local al Comunei Brateiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -353,6 +397,50 @@
 "council_name": "Consiliul Local al Comunei Brateiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--brateiu-57-2023",
+"path": "local/sibiu/brateiu/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 57/2023 privind scutirea în anul 2024 de la plata impozitului pe clădiri si teren pentru imobilele din comuna Brateiu, nr, 5 si nr.6 aparținând Asociației Restore",
+"short": "HCL Brateiu nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://emol.ro/brateiu-sb/registru-hcl/185108",
+"council": "sibiu/brateiu",
+"council_name": "Consiliul Local al Comunei Brateiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--brateiu-58-2023",
+"path": "local/sibiu/brateiu/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 58/2023 privind desemnarea președintelui de ședință a Consiliului local al Comunei Brateiu pentru următoarele trei luni",
+"short": "HCL Brateiu nr. 58/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://emol.ro/brateiu-sb/registru-hcl/185109",
+"council": "sibiu/brateiu",
+"council_name": "Consiliul Local al Comunei Brateiu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

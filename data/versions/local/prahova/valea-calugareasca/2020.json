@@ -48,6 +48,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--valea-calugareasca-83-2020",
+   "path": "local/prahova/valea-calugareasca/2020/83",
+   "short": "HCL Valea Călugărească nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 83/2020 privind aprobarea indicatorilor tehnico-economici pentru obiective de investiții din comuna Valea Călugărească, jud. Prahova",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/10723",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/10723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-84-2020",
+   "path": "local/prahova/valea-calugareasca/2020/84",
+   "short": "HCL Valea Călugărească nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 84/2020 privind aprobarea indicatorilor tehnico-economici, după încheierea contractelor de achiziție pentru obiectivul Amenajare intersecții în Comuna Valea Călugărească, DN1B-Valea Manei și DN1B-Valea Poienii, com. Valea Călugărească, jud. Prahova",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/10724",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/10724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-85-2020",
+   "path": "local/prahova/valea-calugareasca/2020/85",
+   "short": "HCL Valea Călugărească nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 85/2020 privind alegerea alegerea președintelui de ședință",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/11714",
+   "versions": [
+    {
+     "from": "2020-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/11714",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--valea-calugareasca-86-2020",
    "path": "local/prahova/valea-calugareasca/2020/86",
    "short": "HCL Valea Călugărească nr. 86/2020",
@@ -58,6 +103,36 @@
      "from": "2020-11-25",
      "units": 1,
      "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/11715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-87-2020",
+   "path": "local/prahova/valea-calugareasca/2020/87",
+   "short": "HCL Valea Călugărească nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 87/2020 privind desemnarea reprezentanţilor Consiliului Local în Consiliile de Administrație ale unităţilor de învăţamânt preuniversitar de stat cu personalitate juridică, din comuna Valea Călugărească, pentru anul şcolar 2020 – 2021",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12007",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-88-2020",
+   "path": "local/prahova/valea-calugareasca/2020/88",
+   "short": "HCL Valea Călugărească nr. 88/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 88/2020",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12008",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12008",
      "sha256": null
     }
    ]
@@ -148,6 +223,21 @@
      "from": "2020-12-04",
      "units": 1,
      "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--valea-calugareasca-95-2020",
+   "path": "local/prahova/valea-calugareasca/2020/95",
+   "short": "HCL Valea Călugărească nr. 95/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 95/2020 privind alegerea viceprimarului Comunei Valea Călugărească",
+   "url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12015",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/valeacalugareasca-ph/registru-hcl/12015",
      "sha256": null
     }
    ]

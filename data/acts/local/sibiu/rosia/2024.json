@@ -3,6 +3,29 @@
 "shard": "local/sibiu/rosia/2024",
 "acts": [
 {
+"slug": "hcl-sibiu--rosia-75-2024",
+"path": "local/sibiu/rosia/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 75/2024",
+"short": "HCL Roșia nr. 75/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/177787",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-sibiu--rosia-76-2024",
 "path": "local/sibiu/rosia/2024/76",
 "kind": "local",
@@ -22,6 +45,51 @@
 "council_name": "Consiliul Local al Comunei Roșia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-77-2024",
+"path": "local/sibiu/rosia/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 77/2024",
+"short": "HCL Roșia nr. 77/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/177789",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-78-2024",
+"path": "local/sibiu/rosia/2024/78",
+"kind": "local",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 78/2024 privind aprobarea eliberarii adeverintelor pentru racordarea la reţeaua electrică a persoanelor din comuna Rosia, care nu detin actul de proprietate sau orice alt înscris care atestă dreptul de folosinţă asupra terenului in conformitate cu Ordinul nr.22/2020 al ANRDE pentru modificarea şi completarea Regulamentului privind racordarea utilizatorilor la reţelele electrice de interes public, aprobat prin Ordinul preşedintelui Autorităţii Naţionale de Reglementare în Domeniul Energiei nr. 59/2013",
+"short": "HCL Roșia nr. 78/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/183799",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +159,29 @@
 }
 },
 {
+"slug": "hcl-sibiu--rosia-82-2024",
+"path": "local/sibiu/rosia/2024/82",
+"kind": "local",
+"year": "2024",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 82/2024",
+"short": "HCL Roșia nr. 82/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/183803",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-sibiu--rosia-83-2024",
 "path": "local/sibiu/rosia/2024/83",
 "kind": "local",
@@ -110,6 +201,249 @@
 "council_name": "Consiliul Local al Comunei Roșia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-84-2024",
+"path": "local/sibiu/rosia/2024/84",
+"kind": "local",
+"year": "2024",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 84/2024 privind transmiterea dreptului de concesiune asupra unui teren intravilan aparținând domeniului privat al comunei Roşia, judetul Sibiu",
+"short": "HCL Roșia nr. 84/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/183805",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-85-2024",
+"path": "local/sibiu/rosia/2024/85",
+"kind": "local",
+"year": "2024",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 85/2024 privind alegerea presedintelui de sedinta pentru perioada decembrie ( 2024)- februarie ( 2025)",
+"short": "HCL Roșia nr. 85/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/191826",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-86-2024",
+"path": "local/sibiu/rosia/2024/86",
+"kind": "local",
+"year": "2024",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 86/2024 privind organizarea comisiilor de specialitate ale Consiliului Local al comunei Roşia, judeţul Sibiu",
+"short": "HCL Roșia nr. 86/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/191827",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-87-2024",
+"path": "local/sibiu/rosia/2024/87",
+"kind": "local",
+"year": "2024",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 87/2024 privind alegerea Viceprimarului comunei Roşia, judeţul Sibiu",
+"short": "HCL Roșia nr. 87/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/191828",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-88-2024",
+"path": "local/sibiu/rosia/2024/88",
+"kind": "local",
+"year": "2024",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 88/2024 privind aprobarea reorganizarii retelei scolare pentru anul şcolar 2025-2026, în comuna Rosia, judetul Sibiu",
+"short": "HCL Roșia nr. 88/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/191829",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-89-2024",
+"path": "local/sibiu/rosia/2024/89",
+"kind": "local",
+"year": "2024",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 89/2024 privind stabilirea preţului de vȃnzare a masei lemnoase ( lemn de foc) , volum total 30 mc, catre Scoala Gimnaziala cu clasele I-VIII din comuna Rosia, judetul Sibiu",
+"short": "HCL Roșia nr. 89/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/191830",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-90-2024",
+"path": "local/sibiu/rosia/2024/90",
+"kind": "local",
+"year": "2024",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 90/2024 privind utilizarea excedentului bugetului local pentru acoperirea golurilor de casă provenite din secţiunea de funcţionare",
+"short": "HCL Roșia nr. 90/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/191831",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-91-2024",
+"path": "local/sibiu/rosia/2024/91",
+"kind": "local",
+"year": "2024",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 91/2024 privind rectificarea bugetului local aprobat pe anul 2024",
+"short": "HCL Roșia nr. 91/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/191832",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-92-2024",
+"path": "local/sibiu/rosia/2024/92",
+"kind": "local",
+"year": "2024",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 92/2024",
+"short": "HCL Roșia nr. 92/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/191833",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-93-2024",
+"path": "local/sibiu/rosia/2024/93",
+"kind": "local",
+"year": "2024",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 93/2024 privind anularea accesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv, datorate bugetului local al Comunei Roşia",
+"short": "HCL Roșia nr. 93/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/191834",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-sibiu--rosia-94-2024",
+"path": "local/sibiu/rosia/2024/94",
+"kind": "local",
+"year": "2024",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșia nr. 94/2024 privind aprobarea eliberarii adeverintelor pentru racordarea la reţeaua electrică a persoanelor din comuna Rosia, care nu detin actul de proprietate sau orice alt înscris care atestă dreptul de folosinţă asupra terenului in conformitate cu Ordinul nr.22/2020 al ANRDE pentru modificarea şi completarea Regulamentului privind racordarea utilizatorilor la reţelele electrice de interes public, aprobat prin Ordinul preşedintelui Autorităţii Naţionale de Reglementare în Domeniul Energiei nr. 59/2013",
+"short": "HCL Roșia nr. 94/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://emol.ro/rosia-sb/registru-hcl/191835",
+"council": "sibiu/rosia",
+"council_name": "Consiliul Local al Comunei Roșia",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

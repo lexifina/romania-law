@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/satu-mare/tiream/2025",
+ "acts": [
+  {
+   "slug": "hcl-satu-mare--tiream-1-2025",
+   "path": "local/satu-mare/tiream/2025/1",
+   "short": "HCL Tiream nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 1/2025 privind stabilirea modalității gestiunii pentru activitățile de salubrizare de tratare aerobă a biodeșeurilor și eliminare prin depozitare a deșeurilor reziduale și acordarea unui mandat special ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ PENTRU MANAGEMENTUL DEȘEURILOR DIN JUDEȚUL SATU MAR",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/uploads_tiream/hcl-nr-1-privind-stabilirea-modalitatii-gestiunii-pentru-activitatile-de-salubrizare-de-tratare-aeroba-a-biodeseurilor-si-eliminare-prin-depozitare-a-deseurilor-reziduale.pdf",
+     "sha256": "88a9a698a00bc41acbb186d6ddb50064f96073a8d8c803689a1ef11ef2b1d4b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-3-2025",
+   "path": "local/satu-mare/tiream/2025/3",
+   "short": "HCL Tiream nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 3/2025 privind alegerea președintelui de ședință",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/hcl-nr-3-alegerea-presedintelui-de-sedinta-martie-mai-2025.pdf",
+     "sha256": "43a8f87ee47cd6292b31c38993329091ce9a7c999e0c00a63ac21f3b316668a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-4-2025",
+   "path": "local/satu-mare/tiream/2025/4",
+   "short": "HCL Tiream nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 4/2025 privind aprobarea Bugetului local de venituri şi cheltuieli al Comunei Tiream, pe anul 2025",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/hcl-nr-4-aprobarea-bugetului-local-de-venituri-si-cheltuieli-al-comunei-tiream.pdf",
+     "sha256": "e41145ecd7f3c47b75e23442f186a8eab58fd4e6a7d027ca20592c7819dec017"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-6-2025",
+   "path": "local/satu-mare/tiream/2025/6",
+   "short": "HCL Tiream nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 6/2025 privind aprobarea Planului de analiză şi acoperire a riscurilor în comuna Tiream pentru anul 2025",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/hcl-nr-6-aprobarea-planului-de-analiza-si-acoperire-a-riscurilor-in-comuna-tiream-2025.pdf",
+     "sha256": "4f1641b3d4f0f55886f9513cfa91d1eb2b8998d5a36df06bed84f56f616ea4aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--tiream-7-2025",
+   "path": "local/satu-mare/tiream/2025/7",
+   "short": "HCL Tiream nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tiream nr. 7/2025 privind aprobarea preţului minim de pornire la licitaţie (preţului de referinţă) a masei lemnoase din fondul forestier proprietatea publică a comunei Tiream",
+   "url": "https://tiream.ro/hotararile-consiliuilui-local",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://www.tiream.ro/storage/hcl-nr-7-aprobarea-pretului-minim-de-pornire-la-licitatie-a-masei-lemnoase.pdf",
+     "sha256": "181cd92046f03a72706d03c2cfdb86362c6f819d31222b42eb6791ae1749ada4"
+    }
+   ]
+  }
+ ]
+}
