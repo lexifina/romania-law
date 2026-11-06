@@ -1,0 +1,426 @@
+{
+ "country": "RO",
+ "shard": "local/braila/braila/2023",
+ "acts": [
+  {
+   "slug": "hcl-braila--braila-130-2023",
+   "path": "local/braila/braila/2023/130",
+   "short": "HCL Brăila nr. 130/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 130/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare%2028.03/Rectificare%20Bugel%20local%20HCLM%20nr.%20130%20din%2028.03.2023.pdf",
+     "sha256": "ee533ce02b4327d96673f9f7be7dc004d4e03074d3840fd7f2cc48a245fa325f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-131-2023",
+   "path": "local/braila/braila/2023/131",
+   "short": "HCL Brăila nr. 131/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 131/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare%2028.03/Rectificare%20Buget%20general%20centralizat%20HCLM%20nr.%20131%20din%2028.03.2023.pdf",
+     "sha256": "6ef3d25b77b14ad07003c1607a56bfd396a674e8e432ba2e276a60e7faa3ef4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-180-2023",
+   "path": "local/braila/braila/2023/180",
+   "short": "HCL Brăila nr. 180/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 180/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare_27.04.2023/Buget%20local%20HCLM%20nr.%20180%20din%2027.04.2023.pdf",
+     "sha256": "31dfa694bed931e9c9a82e2436153a2810217e4bcdbf5c348f76fe6fc37ff2b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-181-2023",
+   "path": "local/braila/braila/2023/181",
+   "short": "HCL Brăila nr. 181/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 181/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare_27.04.2023/Buget%20general%20centralizat%20HCLM%20nr.%20181%20din%2027.04.2023.pdf",
+     "sha256": "b1148f05760924e82b2666e257292afa723155f32e011b2efceeccc8ff574824"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-252-2023",
+   "path": "local/braila/braila/2023/252",
+   "short": "HCL Brăila nr. 252/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 252/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare%2008.05/Buget%20local%20HCLM%20nr.%20252%20din%2005.05.2023.pdf",
+     "sha256": "a21cc24f076c55915db0505bb45a6db6ffdcfda0e533c88de2d9c531315ae9be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-253-2023",
+   "path": "local/braila/braila/2023/253",
+   "short": "HCL Brăila nr. 253/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 253/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare%2008.05/Buget%20general%20centralizat%20HCLM%20nr.%20253%20din%2005.05.2023.pdf",
+     "sha256": "992f0592f7a8c26cb9feaa97e9b1a0564467cd7b8a1a4e24387b1211bb586f6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-261-2023",
+   "path": "local/braila/braila/2023/261",
+   "short": "HCL Brăila nr. 261/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 261/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/RECTIFICARE_30.05.2023/Buget%20local%20HCLM%20nr.%20261%20din%2030.05.2023.pdf",
+     "sha256": "65231740ad22317728de97cda5c7c9f348696093d83da51b455b20d41168c5e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-262-2023",
+   "path": "local/braila/braila/2023/262",
+   "short": "HCL Brăila nr. 262/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 262/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/RECTIFICARE_30.05.2023/Buget%20general%20centralizat%20HCLM%20nr.%20262%20din%2030.05.2023.pdf",
+     "sha256": "325e5217bd393aba8887e8adab941b275de1c4535531ab51a07501834e1d5b0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-372-2023",
+   "path": "local/braila/braila/2023/372",
+   "short": "HCL Brăila nr. 372/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 372/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare_31.07.2023/Buget%20local%20HCLM%20nr.%20372%20din%2031%20iulie%202023_.pdf",
+     "sha256": "9ccdbd961e9e8e82359fdb5db8bb432a4ba265788de6b0f4e461177b1a94f93f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-439-2023",
+   "path": "local/braila/braila/2023/439",
+   "short": "HCL Brăila nr. 439/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 439/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare_16_08_2023/Buget%20local%20HCLM%20nr.%20439%20din%2016.08.2023-compressed.pdf",
+     "sha256": "99c71d32b2ef5b801c19f40ca7694ee4850d6dacedd4311b186ff9653ae6a17a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-440-2023",
+   "path": "local/braila/braila/2023/440",
+   "short": "HCL Brăila nr. 440/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 440/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare_16_08_2023/Buget%20general%20centralizat%20HCLM%20nr.%20440%20din%2016.08.2023-compressed.pdf",
+     "sha256": "7ff4efdaecdb0c0f6153001b66fd01971a2f7d39182af72f9848fa9c3f8861b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-467-2023",
+   "path": "local/braila/braila/2023/467",
+   "short": "HCL Brăila nr. 467/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 467/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectitificare_27.09.2023/HCLM%20nr.%20467%20din%2027.09.2023.pdf",
+     "sha256": "612cdaf64722996700f0325287c647d7f6fca50c167afc25df053acbf6a39258"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-470-2023",
+   "path": "local/braila/braila/2023/470",
+   "short": "HCL Brăila nr. 470/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 470/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectitificare_27.09.2023/HCLM%20nr.%20470%20din%2027.09.2023.pdf",
+     "sha256": "28f754a6aafc3a15900eba1993d8076c82383f3ed153b6d0cc8403727398ff02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-49-2023",
+   "path": "local/braila/braila/2023/49",
+   "short": "HCL Brăila nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 49/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/Buget%20initial/Buget%20local%20HCLM%20nr.%2049%20din%2007.02.2023_1.pdf",
+     "sha256": "a7dbd3fe05ceb8dc474f467dbb2706e8222b3de2a542b2d6f2111efb820e3710"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-548-2023",
+   "path": "local/braila/braila/2023/548",
+   "short": "HCL Brăila nr. 548/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 548/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare.16.10.2023/Buget%20general%20centralizat%20HCLM%20nr.%20548%20din%2016.10.2023.pdf",
+     "sha256": "7df80e7d3821dc10f8d176ffc13aaa216d1696175064ec5605d18a58da137dd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-558-2023",
+   "path": "local/braila/braila/2023/558",
+   "short": "HCL Brăila nr. 558/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 558/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare_31_10_2023/Buget%20local%20HCLM%20nr.%20558%20din%2031.10.2023.pdf",
+     "sha256": "7a6d0b25902f13e4905935011422546481536c9916bc97b93e11def7a9add6d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-56-2023",
+   "path": "local/braila/braila/2023/56",
+   "short": "HCL Brăila nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 56/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/Buget%20initial/Buget%20general%20centralizat%20HCLM%20nr.%2056%20din%2002.02.2023_2.pdf",
+     "sha256": "0a5dff5e508c8c46a6db17eddc84ac0d785a040f111513e2b5f12d7b6cc55a1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-564-2023",
+   "path": "local/braila/braila/2023/564",
+   "short": "HCL Brăila nr. 564/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 564/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare_31_10_2023/Buget%20general%20centralizat%20HCLM%20nr.%20564%20din%2031.10.2023.pdf",
+     "sha256": "9b21443958bddf8755ac2906cfbd7c2d034eaa31675d828ed4f77884ca2c4138"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-619-2023",
+   "path": "local/braila/braila/2023/619",
+   "short": "HCL Brăila nr. 619/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 619/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare.28.11.2023/Rectificare%20%20buget%20local%20HCLM%20nr.%20619%20din%2028.11.2023.pdf",
+     "sha256": "f102ff5ae8a00a1a03261c949b3fb42308ed25f7452c86513dd4859f974c8a72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-621-2023",
+   "path": "local/braila/braila/2023/621",
+   "short": "HCL Brăila nr. 621/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 621/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare.28.11.2023/Rectificare%20buget%20general%20centralizat%20HCLM%20nr.%20621%20din%2028.11.2023.pdf",
+     "sha256": "36b34f6525e5f3cd66e1fe07efb1cd2068f3b9d9407a1b6a3372b215d21b9485"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-661-2023",
+   "path": "local/braila/braila/2023/661",
+   "short": "HCL Brăila nr. 661/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 661/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare_7_12_2023/Buget%20local%20HCLM%20nr.%20661%20din%2007.12.2023.pdf",
+     "sha256": "fe5d697bd545433d547332ef8ea6fe4ff8e4383f7de946272013d649c8fcc9db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-662-2023",
+   "path": "local/braila/braila/2023/662",
+   "short": "HCL Brăila nr. 662/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 662/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare_7_12_2023/Buget%20general%20centralizat%20HCLM%20nr.%20662%20din%2007.12.2023.pdf.pdf",
+     "sha256": "237961b35d7b98839dcda721f78d8108ec8f3efa377163b220a2946a752a0a9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-721-2023",
+   "path": "local/braila/braila/2023/721",
+   "short": "HCL Brăila nr. 721/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 721/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare%2020.12.2023/Rectificare%20buget%20local%20HCLM%20nr.%20721%20din%2020.12.2023_r.pdf",
+     "sha256": "6556935c8d74cff9d1e391507fcbcddf31f07d03dc5105c303ac5db784320138"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-727-2023",
+   "path": "local/braila/braila/2023/727",
+   "short": "HCL Brăila nr. 727/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 727/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare%2020.12.2023/Rectificare%20buget%20general%20centralizat%20HCLM%20nr.%20727%20din%2020.12.2023_r.pdf",
+     "sha256": "d115f196d57f0cb437ef192b1945399f9ffe259045323ea688b429df44d7fbda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-76-2023",
+   "path": "local/braila/braila/2023/76",
+   "short": "HCL Brăila nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 76/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare%2027.02/Buget%20local%20HCLM%20nr.%2076%20din%2027.02.2023.pdf",
+     "sha256": "b1662aadfa3a144cf4f387751004cd6ed952d93b35bc2bd6b0e4a27e2ff5cb88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-768-2023",
+   "path": "local/braila/braila/2023/768",
+   "short": "HCL Brăila nr. 768/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 768/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare%2028.12.2023/Rectificare%20buget%20local%20HCLM%20nr.%20768%20din%2028.12.2023_r.pdf",
+     "sha256": "fae7e8a6f0ca90d9774702faa4b6a81462c3d6c8a1df36ddcd6d6e87ccbd9e63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-769-2023",
+   "path": "local/braila/braila/2023/769",
+   "short": "HCL Brăila nr. 769/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 769/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare%2028.12.2023/Rectificare%20buget%20general%20centralizat%20HCLM%20nr.%20769%20din%2028.12.2023_r.pdf",
+     "sha256": "c45def0e91e575bc3f263cfbc37bce6b5ad22815c5648cd530981f990c968924"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-77-2023",
+   "path": "local/braila/braila/2023/77",
+   "short": "HCL Brăila nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 77/2023",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2023/rectificare%2027.02/Buget%20general%20centralizat%20HCLM%20nr.%2077%20din%2027.02.2023.pdf",
+     "sha256": "a09a3232fc7fd985d9b2abc1e77efc96c25ba63441b01bea0d17d4774112ab63"
+    }
+   ]
+  }
+ ]
+}

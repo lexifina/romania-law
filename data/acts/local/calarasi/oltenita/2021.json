@@ -3,6 +3,28 @@
 "shard": "local/calarasi/oltenita/2021",
 "acts": [
 {
+"slug": "hcl-calarasi--oltenita-2-2021",
+"path": "local/calarasi/oltenita/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 2/2021 pentru înlocuirea anexei la Hotararea nr. 165/28.12.2021 a Consiliului local al municipiului Oltenița privind aprobarea contractării unei finanțări rambursabile interne in valoare de 12.550.642 lei si garantarea acesteia cu veniturile proprii ale bugetului local Vizualizare",
+"short": "HCL Oltenița nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2024/",
+"council": "calarasi/oltenita",
+"council_name": "Consiliul Local al Municipiului Oltenița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--oltenita-9-2021",
 "path": "local/calarasi/oltenita/2021/9",
 "kind": "local",
@@ -22,6 +44,73 @@
 "council_name": "Consiliul Local al Municipiului Oltenița",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-calarasi--oltenita-75-2021",
+"path": "local/calarasi/oltenita/2021/75",
+"kind": "local",
+"year": "2021",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 75/2021 pentru inlocuirea anexei la Hotararea nr. 165/28.12.2021 a Consiliului local al municipiului Oltenița privind aprobarea contractării unei finanțări rambursabile interne in valoare de 12.550.642 lei si garantarea acesteia cu veniturile proprii ale bugetului local Vizualizare",
+"short": "HCL Oltenița nr. 75/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2023/",
+"council": "calarasi/oltenita",
+"council_name": "Consiliul Local al Municipiului Oltenița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--oltenita-97-2021",
+"path": "local/calarasi/oltenita/2021/97",
+"kind": "local",
+"year": "2021",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 97/2021 pentru înlocuirea anexei la HCL nr. 16528.12.2021, privind aprobarea contractării unei finanțări rambursabile interne in valoare de 12.550.642 lei si garantarea acestuia cu veniturile proprii ale bugetului local Vizualizare",
+"short": "HCL Oltenița nr. 97/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2023/",
+"council": "calarasi/oltenita",
+"council_name": "Consiliul Local al Municipiului Oltenița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--oltenita-106-2021",
+"path": "local/calarasi/oltenita/2021/106",
+"kind": "local",
+"year": "2021",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 106/2021",
+"short": "HCL Oltenița nr. 106/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-26",
+"latest": "2021-08-26",
+"portal": null,
+"council": "calarasi/oltenita",
+"council_name": "Consiliul Local al Municipiului Oltenița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

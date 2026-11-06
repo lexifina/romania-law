@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/medgidia/2024",
+ "acts": [
+  {
+   "slug": "hcl-constanta--medgidia-147-2024",
+   "path": "local/constanta/medgidia/2024/147",
+   "short": "HCL Medgidia nr. 147/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 147/2024 privind aprobarea contractării unui împrumut în valoare de 20.000.000 lei, în conformitate cu prevederile art. I din Ordonanța de urgență a Guvernului nr. 35/2024 pentru asigurarea unor împrumuturi din Trezoreria Statului, precum și pentru modificarea și completarea unor acte normative aferente reprezentării statului în litigiile arbitrale și judiciare internaționale și concesionării proprietății",
+   "url": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://primaria-medgidia.ro/wp-content/uploads/2024/06/HCL-NR.-147-din-30.05.2024.pdf",
+     "sha256": "c233ead80ae98f1db24454151dc30a7ea3f6ef734d6badada4282303b105ad27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--medgidia-151-2024",
+   "path": "local/constanta/medgidia/2024/151",
+   "short": "HCL Medgidia nr. 151/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 151/2024 privind aprobarea contractării unui împrumut în valoare de 15.905.397 lei, în conformitate cu prevederile art. I din Ordonanța de urgență a Guvernului nr. 35/2024 pentru asigurarea unor împrumuturi din Trezoreria Statului, precum și pentru modificarea și completarea unor acte normative aferente reprezentării statului în litigiile arbitrale și judiciare internaționale și concesionării proprietății",
+   "url": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://primaria-medgidia.ro/wp-content/uploads/2024/06/HCL-NR.-151-din-17.06.2024.pdf",
+     "sha256": "d56665655a3ce398519437b8f5ec74d5f68d845c3610cfd951ffd6ce6066a3b3"
+    }
+   ]
+  }
+ ]
+}

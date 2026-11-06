@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/turda/2022",
+ "acts": [
+  {
+   "slug": "hcl-cluj--turda-10-2022",
+   "path": "local/cluj/turda/2022/10",
+   "short": "HCL Turda nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 10/2022",
+   "url": "https://primariaturda.ro/hotararea-nr-10-privind-aprobarea-retelei-scolare-a-unitatilor-de-invatamant-preuniversitar-de-pe-raza-administrativ-teritoriala-a-municipiului-turda-care-vor-functiona-in-anul-scolar-2022-2023/",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2022/10%20din%2027.01.2022.pdf",
+     "sha256": "9abd1cb221f1a3bcb946ee24408ee18e9c9632e15bac16e0ef0c29451b7e1a05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-243-2022",
+   "path": "local/cluj/turda/2022/243",
+   "short": "HCL Turda nr. 243/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 243/2022 privind alegerea președintelui de ședință Consiliul Local al Municipiului Turda, întrunit în ședința ordinară din data de 31.10.2022; În temeiul prevederilor art. 123, ale art. 129, alin. 1, art. 139, alin. 1 și art. 196, alin. 1, lit. a din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ, precum și ale art. 7, alin. 1 din Regulamentul de Organizare și Funcționare al Cons",
+   "url": "https://primariaturda.ro/hotararea-nr-243-privind-alegerea-presedintelui-de-sedinta/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2022/243%20din%2031.10.2022.pdf",
+     "sha256": "b74505e7f8a65537110253e8a9c52bd24ea1fc3e7fb347126351ad9c4e6bb437"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-246-2022",
+   "path": "local/cluj/turda/2022/246",
+   "short": "HCL Turda nr. 246/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 246/2022 privind aprobarea constituirii unui drept de superficie în favoarea Municipiului Turda asupra terenului în suprafață de 100.000 mp, înscris în CF nr. 65465 Turda, identificat cu nr. cadastral 65465, proprietatea Asociației de Pășunat Poiana Turda Consiliul Local al municipiului Turda întrunit în ședință extraordinară în data de 16.11.2022; Luând în dezbatere proiectul de hotărâre cu privire la apr",
+   "url": "https://primariaturda.ro/hotararea-nr-246-privind-aprobarea-constituirii-unui-drept-de-superficie-in-favoarea-municipiului-turda-asupra-terenului-in-suprafata-de-100-000-mp-inscris-in-cf-nr-65465-turda-identificat-cu-nr/",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2022/246%20din%2016.11.2022.pdf",
+     "sha256": "722ad203b5a5af4b9a1e51cd9940e8e28dfab023d9a5331a2774a177035783b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-272-2022",
+   "path": "local/cluj/turda/2022/272",
+   "short": "HCL Turda nr. 272/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 272/2022",
+   "url": "https://primariaturda.ro/hotararea-nr-272-din-data-de-22-12-2022-privind-aprobarea-modificarii-anexei-2-la-regulamentul-privind-modul-de-utilizare-a-microbuzelor-de-transport-scolar-si-a-tarifelor-pentru-transportul-ocaziona/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2022/272%20din%2022.12.2022.pdf",
+     "sha256": "2d5d2e09f36108f7fdb821461780edf298670d07d133e14cac10983f803b38a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-273-2022",
+   "path": "local/cluj/turda/2022/273",
+   "short": "HCL Turda nr. 273/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 273/2022",
+   "url": "https://primariaturda.ro/hotararea-nr-273-din-data-de-22-12-2022-privind-aprobarea-darii-in-folosinta-directiei-de-asistenta-sociala-turda-a-etajului-din-imobilul-situat-in-turda-str-g-baritiu-nr-41/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2022/273%20din%2022.12.2022.pdf",
+     "sha256": "a6b8b08b3631cfaad1564b3d0c127ad3865bf2b109a0745aa9da76ef5615587e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-274-2022",
+   "path": "local/cluj/turda/2022/274",
+   "short": "HCL Turda nr. 274/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 274/2022",
+   "url": "https://primariaturda.ro/hotararea-nr-274-din-data-de-22-12-2022-privind-acordarea-unui-mandat-special-reprezentantului-municipiului-turda-in-adunarea-generala-a-actionarilor-la-societatea-tetarom-s-a-in-vederea-exercitari/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2022/274%20din%2022.12.2022.pdf",
+     "sha256": "2d2ab9db7a2b93573dd7a6e1514969bc6dab05ccf2a2e0529572935019c02780"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-275-2022",
+   "path": "local/cluj/turda/2022/275",
+   "short": "HCL Turda nr. 275/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 275/2022",
+   "url": "https://primariaturda.ro/hotararea-nr-275-din-data-de-22-12-2022-privind-aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-al-societatii-salina-turda-s-a-pentru-exercitiul-financiar-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2022/275%20din%2022.12.2022.pdf",
+     "sha256": "f9dd13c790189efca216e8efe414be17bd4c6c4ae03eddcc80d6b99ddc2a8347"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-276-2022",
+   "path": "local/cluj/turda/2022/276",
+   "short": "HCL Turda nr. 276/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 276/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2022/276%20din%2022.12.2022.pdf",
+     "sha256": "494490a1af8734927b49afac9d0a0dceec94a0dd3c1fc6889b833695766466ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-277-2022",
+   "path": "local/cluj/turda/2022/277",
+   "short": "HCL Turda nr. 277/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 277/2022",
+   "url": "https://primariaturda.ro/hotararea-nr-277-din-data-de-22-12-2022-privind-acordarea-unui-mandat-special-reprezentantului-municipiului-turda-in-adunarea-generala-a-asociatiei-de-dezvoltare-intercomunitara-apa-vaii-ariesului/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2022/277%20din%2022.12.2022.pdf",
+     "sha256": "f949e1bd8d7fa478a5a2769c00f8025938698bc12a290ae76c849fc96e6f2c53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-281-2022",
+   "path": "local/cluj/turda/2022/281",
+   "short": "HCL Turda nr. 281/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 281/2022",
+   "url": "https://primariaturda.ro/hotararea-nr-281din-data-de-22-12-2022-privind-aprobarea-modificarii-structurii-organizatorice-a-spitalului-municipal-turda-aflat-in-subordinea-consiliului-local-al-municipiului-turda/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2022/281%20din%2022.12.2022.pdf",
+     "sha256": "6ef11d44165977b06d3e663e49d0b396f4b4ab2152fc0b32fef94173e898f852"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-282-2022",
+   "path": "local/cluj/turda/2022/282",
+   "short": "HCL Turda nr. 282/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 282/2022",
+   "url": "https://primariaturda.ro/hotararea-nr-282-din-data-de-22-12-2022-privind-aprobarea-incheierii-unui-acord-de-parteneriat-in-vederea-amplasarii-a-2-borne-miliare-pe-domeniul-public-al-municipiului-turda-zona-castrul-roman-pot/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2022/282%20din%2022.12.2022.pdf",
+     "sha256": "a97cfd1dad925e8ad6b85bd49839f23f9803ae457405cd690ec43ccbe8f27fa7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-46-2022",
+   "path": "local/cluj/turda/2022/46",
+   "short": "HCL Turda nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 46/2022 privind aprobarea contribuției financiare lunare, din partea Municipiului Turda, către Asociația Handbal Club Potaissa Turda Consiliul Local al municipiului Turda, întrunit în ședința ordinară din data de 28.02.2022; Luând în dezbatere proiectul de hotărâre cu privire la aprobarea contribuției financiare lunare, din partea Municipiului Turda, către Asociația Handbal Club Potaissa Turda, proiect el",
+   "url": "https://primariaturda.ro/hotararea-nr-46-privind-aprobarea-contributiei-financiare-lunare-din-partea-municipiului-turda-catre-asociatia-handbal-club-potaissa-turda/",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2022/46%20din%2028.02.2022.pdf",
+     "sha256": "16b43508deb30a7d992251c4b2fb838c9476e9c839639aa58598e3ea2f375f27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-47-2022",
+   "path": "local/cluj/turda/2022/47",
+   "short": "HCL Turda nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 47/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2022/47%20din%2028.02.2022.pdf",
+     "sha256": "72e6fcba82b7b1f4a4243014a96b9d91ff09ab614b5bb5c5cad37f21bb38dc11"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/cluj/turda/2019",
+"acts": [
+{
+"slug": "hcl-cluj--turda-24-2019",
+"path": "local/cluj/turda/2019/24",
+"kind": "local",
+"year": "2019",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 24/2019 privind repartizarea unei locuințe de necesitate Consiliul Local al Municipiului Turda, întrunit în ședința ordinară la data de 28.02.2019",
+"short": "HCL Turda nr. 24/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-02-28",
+"latest": "2019-02-28",
+"portal": "https://primariaturda.ro/hotararea-nr-24-privind-repartizarea-unei-locuinte-de-necesitate/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-232-2019",
+"path": "local/cluj/turda/2019/232",
+"kind": "local",
+"year": "2019",
+"number": "232",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 232/2019 privind luarea unor măsuri referitoare la procedura de selecție a unui membru al Consiliului de Administrație al Societății Domeniul Public Turda SA Consiliul Local al municipiului Turda, intrunit in ședința ordinară din data de 31.10.2019; Luând in dezbatere proiectul de hotărâre privind luarea unor masuri referitoare la procedura de selecție a unui membru al Consiliului de Administrație al Socie",
+"short": "HCL Turda nr. 232/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-10-31",
+"latest": "2019-10-31",
+"portal": "https://primariaturda.ro/hotararea-nr-232-privind-luarea-unor-masuri-referitoare-la-procedura-de-selectie-a-unui-membru-al-consiliului-de-administratie-al-societatii-domeniul-public-turda-sa/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-253-2019",
+"path": "local/cluj/turda/2019/253",
+"kind": "local",
+"year": "2019",
+"number": "253",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 253/2019 privind desemnarea mandatarului societății Transport Urban Public S.R.L",
+"short": "HCL Turda nr. 253/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-11-22",
+"latest": "2019-11-22",
+"portal": "https://primariaturda.ro/hotararea-nr-253-privind-desemnarea-mandatarului-societatii-transport-urban-public-s-r-l/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-264-2019",
+"path": "local/cluj/turda/2019/264",
+"kind": "local",
+"year": "2019",
+"number": "264",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 264/2019",
+"short": "HCL Turda nr. 264/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-11-28",
+"latest": "2019-11-28",
+"portal": null,
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--turda-300-2019",
+"path": "local/cluj/turda/2019/300",
+"kind": "local",
+"year": "2019",
+"number": "300",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 300/2019",
+"short": "HCL Turda nr. 300/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-12-23",
+"latest": "2019-12-23",
+"portal": "https://primariaturda.ro/hotararea-nr-300-din-data-de-23-12-2019-privind-rectificarea-bugetului-pe-anul-2019-2/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/brasov/2020",
+ "acts": [
+  {
+   "slug": "hcl-brasov--brasov-427-2020",
+   "path": "local/brasov/brasov/2020/427",
+   "short": "HCL Brașov nr. 427/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brașov nr. 427/2020 privind aprobarea declanșării procedurii de expropriere a imobilelor proprietate privată pentru realizarea obiectivului de investiții de utilitate publică de interes local \"Modernizare străzi - strada Cucului\"; Consiliul Local al Municipiului Brașov, întrunit în ședință ordinară la data de 31 iulie 2020; Analizând, Referatul de aprobare nr. 71.048 din 2020, al Primarului Municipiului Brașov, în ca",
+   "url": "https://www.brasovcity.ro/monitorul-oficial-local/alte-documente",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://www.brasovcity.ro/file-zone/monitorul%20oficial/alte%20documente/decizii-expropriere/8.%20Strada%20Cucului/HCL%20427_31.07.2020%20de%20modif.%20HCL%20891_2019.pdf",
+     "sha256": "8686e77291b57f16ffab7874c2b8dbd15dc0993c866f8c6a0939494c6d217ac5"
+    }
+   ]
+  }
+ ]
+}

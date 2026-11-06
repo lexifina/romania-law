@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/oltenita/2020",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--oltenita-57-2020",
+   "path": "local/calarasi/oltenita/2020/57",
+   "short": "HCL Oltenița nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 57/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "13c95395ba1931101b1b5129e15a8e2f4b40a13ec2a9128ee61568f57c5fb21d"
+    }
+   ]
+  }
+ ]
+}

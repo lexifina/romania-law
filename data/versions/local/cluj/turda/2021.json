@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/turda/2021",
+ "acts": [
+  {
+   "slug": "hcl-cluj--turda-143-2021",
+   "path": "local/cluj/turda/2021/143",
+   "short": "HCL Turda nr. 143/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 143/2021 privind acordarea unui mandat special reprezentantului Consiliului Local Turda în vederea exercitării drepturilor de membru asociat în Adunarea Generală a Asociației „Club Sportiv Sticla Arieșul Turda”, convocată pentru data de 23.08.2021 Consiliul Local al Municipiului Turda, întrunit în ședința ordinară din data de 17.08.2021; Luând în dezbatere proiectul de hotărâre privind acordarea unui manda",
+   "url": "https://primariaturda.ro/hotararea-nr-143-privind-acordarea-unui-mandat-special-reprezentantului-consiliului-local-turda-in-vederea-exercitarii-drepturilor-de-membru-asociat-in-adunarea-generala-a-asociatiei-club-sp/",
+   "versions": [
+    {
+     "from": "2021-08-17",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/143%20din%2017.08.2021.pdf",
+     "sha256": "23e6ba90e35e574615140ccaade4b9b57cc3eed6aba8ad0219f3ee30d448bc12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-176-2021",
+   "path": "local/cluj/turda/2021/176",
+   "short": "HCL Turda nr. 176/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 176/2021",
+   "url": "https://primariaturda.ro/hotararea-nr-176-privind-aprobarea-cererii-de-finantare-anexa-nr-1-si-a-devizului-general-estimativ-anexa-nr-2-1-aferenti-obiectivului-de-investitii-reabilitare-si-m/",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/176%20din%2022.10.2021.pdf",
+     "sha256": "54cd9aacacd64f908edb4ab33c2d09dbb811e506765bcf98c059177dadd1d432"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-29-2021",
+   "path": "local/cluj/turda/2021/29",
+   "short": "HCL Turda nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 29/2021 privind alegerea președintelui de ședință Consiliul Local al Municipiului Turda, întrunit în ședința ordinară din data de 28.01.2021; În temeiul prevederilor art. 123, ale art. 129, alin. 1, art. 139, alin. 1 și art. 196, alin. 1, lit. a din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ, precum și ale art. 7, alin. 1 din Regulamentul de Organizare și Funcționare al Cons",
+   "url": "https://primariaturda.ro/hotararea-nr-29-privind-alegerea-presedintelui-de-sedinta/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2021/29%20din%2028.01.2021.pdf",
+     "sha256": "7be97dfd73c8cacb95bf2a94a508ca0799df0747c0a4c7b7e9369faa42ed76eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-49-2021",
+   "path": "local/cluj/turda/2021/49",
+   "short": "HCL Turda nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 49/2021 privind ratificarea acțiunii formulată de Salina Turda SA în dosarul 711/1285/2019* aflat pe rolul Tribunalului Specializat Cluj Consiliul Local al Municipiului Turda, întrunit în ședință ordinară din data de 25.03.2021; Luând în dezbatere proiectul de hotărâre privind ratificarea acțiunii formulată de Salina Turda SA în dosarul 711/1285/2019* aflat pe rolul Tribunalui Specializat Cluj, proiect el",
+   "url": "https://primariaturda.ro/hotararea-nr-49-privind-ratificarea-actiunii-formulata-de-salina-turda-sa-in-dosarul-711-1285-2019-aflat-pe-rolul-tribunalului-specializat-cluj/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2021/49%20din%2025.03.2021.pdf",
+     "sha256": "0985754e85c59d784376993bf7aff311d157231201df1b79e7472d5e2deab845"
+    }
+   ]
+  }
+ ]
+}

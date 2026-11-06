@@ -3,6 +3,21 @@
  "shard": "local/constanta/medgidia/2023",
  "acts": [
   {
+   "slug": "hcl-constanta--medgidia-112-2023",
+   "path": "local/constanta/medgidia/2023/112",
+   "short": "HCL Medgidia nr. 112/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 112/2023 pentru modificarea Hotărârii Consiliului Local nr. 89/25.05.2023 privind aprobarea contractării unui împrumut intern în valoare de 10.000.000 lei Având în vedere temeiurile juridice, respectiv prevederile: a) art. 1 alin. (5), art. 120 și ale art. 121 alin. (1) și (2) din Constituția României, republicată; b) art. 9 paragraful 8 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15",
+   "url": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://primaria-medgidia.ro/wp-content/uploads/2023/06/HCL-NR.-112-din-27.06.2023.pdf",
+     "sha256": "03a6948851951c702d3d5ea87f2f4062f17f4fec899d5dbfe0cf85d2e895137a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--medgidia-136-2023",
    "path": "local/constanta/medgidia/2023/136",
    "short": "HCL Medgidia nr. 136/2023",
@@ -33,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--medgidia-190-2023",
+   "path": "local/constanta/medgidia/2023/190",
+   "short": "HCL Medgidia nr. 190/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 190/2023 pentru modificarea și completarea Hotărârii Consiliului Local nr. 89/25.05.2023 privind aprobarea contractării unui împrumut intern în valoare de 10.000.000 lei Având în vedere temeiurile juridice, respectiv prevederile: a) art. 1 alin. (5), art. 120 și ale art. 121 alin. (1) și (2) din Constituția României, republicată; b) art. 9 paragraful 8 din Carta europeană a autonomiei locale, adoptată la S",
+   "url": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://primaria-medgidia.ro/wp-content/uploads/2023/10/HCL-NR.-190-din-28.09.2023.pdf",
+     "sha256": "c4603f43423e7173689f8babacb168945231e77e5755fdfc9dfa4a4a23866299"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--medgidia-88-2023",
    "path": "local/constanta/medgidia/2023/88",
    "short": "HCL Medgidia nr. 88/2023",
@@ -44,6 +74,21 @@
      "units": 1,
      "source_url": "https://primaria-medgidia.ro/wp-content/uploads/2023/05/HCL-NR.-88-din-25.05.2023.pdf",
      "sha256": "849cbd1af605e926cbc2ebe6566c9bc91e0327f71aef4bc96e576c3400031e68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--medgidia-89-2023",
+   "path": "local/constanta/medgidia/2023/89",
+   "short": "HCL Medgidia nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 89/2023 privind aprobarea contractării unui împrumut intern în valoare de 10.000.000 lei Având în vedere temeiurile juridice, respectiv prevederile: a) art. 1 alin. (5), art. 120 și ale art. 121 alin. (1) și (2) din Constituția României, republicată; b) art. 9 paragraful 8 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985, ratificată prin Legea nr. 199/1997; c) art. 7 al",
+   "url": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://primaria-medgidia.ro/wp-content/uploads/2023/05/HCL-NR.-89-din-25.05.2023.pdf",
+     "sha256": "ee7ed6e4ba4eab29c9eef653e4b8df272b1046a0719c203a9e8c7e8f6fb11247"
     }
    ]
   }

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/braila/braila/2018",
+ "acts": [
+  {
+   "slug": "hcl-braila--braila-5-2018",
+   "path": "local/braila/braila/2018/5",
+   "short": "HCL Brăila nr. 5/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 5/2018",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2017/Bugel%20local%20HCLM%20nr.%205%20din%2031.1.2018_.pdf",
+     "sha256": "17a0bb10efb7236603866544187a4988c31538685ab8cf27ba55d572e776054b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-697-2018",
+   "path": "local/braila/braila/2018/697",
+   "short": "HCL Brăila nr. 697/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 697/2018",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2018-12-10",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2018/10_12/Buget%20local%20HCLM%20nr.%20697%20din%2010.12.2018.pdf",
+     "sha256": "00a1d62eda690ba272f8bd0438ec1cac30dedd4a99af77833c421ec22d46e665"
+    }
+   ]
+  }
+ ]
+}

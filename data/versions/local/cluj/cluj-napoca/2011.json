@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/cluj-napoca/2011",
+ "acts": [
+  {
+   "slug": "hcl-cluj--cluj-napoca-178-2011",
+   "path": "local/cluj/cluj-napoca/2011/178",
+   "short": "HCL Cluj-Napoca nr. 178/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Cluj-Napoca nr. 178/2011",
+   "url": "https://primariaclujnapoca.ro/consiliu-local/hotarare-de-consiliu/hotararea-178-din-2011/",
+   "versions": [
+    {
+     "from": "2011-05-10",
+     "units": 1,
+     "source_url": "https://primariaclujnapoca.ro/userfiles/files/HCL%20159%20-%20190/HCL178_10.05.2011.PDF",
+     "sha256": "225f3e8b6149294709bb0c652621daeee84d7f3261c7585300bf50311bb02039"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--cluj-napoca-440-2011",
+   "path": "local/cluj/cluj-napoca/2011/440",
+   "short": "HCL Cluj-Napoca nr. 440/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Cluj-Napoca nr. 440/2011",
+   "url": "https://primariaclujnapoca.ro/consiliu-local/hotarare-de-consiliu/hotararea-440-din-2011/",
+   "versions": [
+    {
+     "from": "2011-11-29",
+     "units": 1,
+     "source_url": "https://primariaclujnapoca.ro/userfiles/files/HCL-uri%2029%20noiembrie%202011/440.PDF",
+     "sha256": "d9caadc11100d7908689a99d2d6738092da1df8ae046db5d9b049b546c924392"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--cluj-napoca-484-2011",
+   "path": "local/cluj/cluj-napoca/2011/484",
+   "short": "HCL Cluj-Napoca nr. 484/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Cluj-Napoca nr. 484/2011",
+   "url": "https://primariaclujnapoca.ro/consiliu-local/hotarare-de-consiliu/hotararea-484-din-2011/",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://primariaclujnapoca.ro/userfiles/files/HCL%2020%20decembrie%202011/484.PDF",
+     "sha256": "6c84c48608395c52b4a54ebe68f49c7760496315ec94a0698c823bedf4a24734"
+    }
+   ]
+  }
+ ]
+}

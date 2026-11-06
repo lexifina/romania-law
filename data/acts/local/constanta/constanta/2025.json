@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-constanta--constanta-159-2025",
+"path": "local/constanta/constanta/2025/159",
+"kind": "local",
+"year": "2025",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Constanța nr. 159/2025",
+"short": "HCL Constanța nr. 159/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-13",
+"latest": "2025-03-13",
+"portal": "https://primaria-constanta.ro/pagina-pmc/hotarari-judecatoresti-definitive-prin-care-s-a-anulat-in-tot-sau-in-parte-un-act-administrativ-cu-caracter-normativ/",
+"council": "constanta/constanta",
+"council_name": "Consiliul Local al Municipiului Constanța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--constanta-451-2025",
 "path": "local/constanta/constanta/2025/451",
 "kind": "local",

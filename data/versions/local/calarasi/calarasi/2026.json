@@ -31,6 +31,51 @@
      "sha256": "899fe444d5e48d2336b7b85418a9cc7b216d4de37f3257cc560bb9290f837b5d"
     }
    ]
+  },
+  {
+   "slug": "hcl-calarasi--calarasi-37-2026",
+   "path": "local/calarasi/calarasi/2026/37",
+   "short": "HCL Călărași nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Călărași nr. 37/2026 privind alegerea președintelui de ședință al Consiliului local Călărași pe perioada 01.03.2026-31.05.2026",
+   "url": "https://primariacalarasi.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariacalarasi.ro/storage/../../wp-content/tabele/hcl/HCL-37-3.pdf",
+     "sha256": "1d0ac09b358c1b0c067ac595030a8cc98aeb18d027028416b23dd8d0db1f2534"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--calarasi-7-2026",
+   "path": "local/calarasi/calarasi/2026/7",
+   "short": "HCL Călărași nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Călărași nr. 7/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://primariacalarasi.ro/storage/../../wp-content/tabele/hcl/HCL-7-3.pdf",
+     "sha256": "cbfeecefd226763da3b646da20f97c6639b699d1b3668c6de70527df7a18a191"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--calarasi-98-2026",
+   "path": "local/calarasi/calarasi/2026/98",
+   "short": "HCL Călărași nr. 98/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Călărași nr. 98/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://primariacalarasi.ro/storage/../../wp-content/tabele/hcl/HCL-98-3.pdf",
+     "sha256": "9de0614512df3fd3cd8739c101836b852b41702196d79cff01c8c8c49c9ccfa8"
+    }
+   ]
   }
  ]
 }

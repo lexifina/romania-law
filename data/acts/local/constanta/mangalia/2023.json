@@ -3,6 +3,51 @@
 "shard": "local/constanta/mangalia/2023",
 "acts": [
 {
+"slug": "hcl-constanta--mangalia-41-2023",
+"path": "local/constanta/mangalia/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 41/2023 privind aprobarea semnării actului adițional la Protocolul de Colaborare încheiat între U . A . T",
+"short": "HCL Mangalia nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-13",
+"latest": "2023-03-13",
+"portal": "https://mangalia.ro/2023/03/hotarari-ale-consiliului-local-al-mun-mangalia-2023/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-97-2023",
+"path": "local/constanta/mangalia/2023/97",
+"kind": "local",
+"year": "2023",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 97/2023",
+"short": "HCL Mangalia nr. 97/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-13",
+"latest": "2023-06-13",
+"portal": null,
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--mangalia-106-2023",
 "path": "local/constanta/mangalia/2023/106",
 "kind": "local",
@@ -23,6 +68,276 @@
 "flags": {
 "text_withheld": "personal_data",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-107-2023",
+"path": "local/constanta/mangalia/2023/107",
+"kind": "local",
+"year": "2023",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 107/2023 Privind aprobarea modificării și actualizării Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr.16/46300/05.11.2009",
+"short": "HCL Mangalia nr. 107/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://mangalia.ro/2023/03/hotarari-ale-consiliului-local-al-mun-mangalia-2023/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-216-2023",
+"path": "local/constanta/mangalia/2023/216",
+"kind": "local",
+"year": "2023",
+"number": "216",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 216/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția de fructe și legume proaspete, de lapte și produse lactate și de produse de panificație și a contractelor/acordurilor-cadru de prestare a serviciilor pe",
+"short": "HCL Mangalia nr. 216/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": "https://mangalia.ro/2023/03/hotarari-ale-consiliului-local-al-mun-mangalia-2023/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-217-2023",
+"path": "local/constanta/mangalia/2023/217",
+"kind": "local",
+"year": "2023",
+"number": "217",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 217/2023 privind aprobarea aderării comunei Maia, județul Ialomița la Asociația de Dezvoltare Intercomunitară ”Apă-Canal” Constanța",
+"short": "HCL Mangalia nr. 217/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": "https://mangalia.ro/2023/03/hotarari-ale-consiliului-local-al-mun-mangalia-2023/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-218-2023",
+"path": "local/constanta/mangalia/2023/218",
+"kind": "local",
+"year": "2023",
+"number": "218",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 218/2023",
+"short": "HCL Mangalia nr. 218/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": null,
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-219-2023",
+"path": "local/constanta/mangalia/2023/219",
+"kind": "local",
+"year": "2023",
+"number": "219",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 219/2023",
+"short": "HCL Mangalia nr. 219/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": null,
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-220-2023",
+"path": "local/constanta/mangalia/2023/220",
+"kind": "local",
+"year": "2023",
+"number": "220",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 220/2023",
+"short": "HCL Mangalia nr. 220/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": null,
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-222-2023",
+"path": "local/constanta/mangalia/2023/222",
+"kind": "local",
+"year": "2023",
+"number": "222",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 222/2023",
+"short": "HCL Mangalia nr. 222/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": null,
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-314-2023",
+"path": "local/constanta/mangalia/2023/314",
+"kind": "local",
+"year": "2023",
+"number": "314",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 314/2023",
+"short": "HCL Mangalia nr. 314/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-04",
+"latest": "2023-12-04",
+"portal": null,
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-328-2023",
+"path": "local/constanta/mangalia/2023/328",
+"kind": "local",
+"year": "2023",
+"number": "328",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 328/2023",
+"short": "HCL Mangalia nr. 328/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": null,
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-340-2023",
+"path": "local/constanta/mangalia/2023/340",
+"kind": "local",
+"year": "2023",
+"number": "340",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 340/2023 privind aprobarea semnării actului adițional la Protocolul de Colaborare între U.A.T",
+"short": "HCL Mangalia nr. 340/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://mangalia.ro/2023/03/hotarari-ale-consiliului-local-al-mun-mangalia-2023/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-347-2023",
+"path": "local/constanta/mangalia/2023/347",
+"kind": "local",
+"year": "2023",
+"number": "347",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 347/2023 privind aprobarea dezmembrarea imobilului teren în suprafață de 794mp, situat în Mun. Mangalia, Str. Maramureșului, nr.28, Jud. Constanța, precum și aprobarea ieșirii din indiviziune prin încheierea unui act de partaj voluntar",
+"short": "HCL Mangalia nr. 347/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://mangalia.ro/2023/03/hotarari-ale-consiliului-local-al-mun-mangalia-2023/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-353-2023",
+"path": "local/constanta/mangalia/2023/353",
+"kind": "local",
+"year": "2023",
+"number": "353",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 353/2023 privind trecerea din domeniul public în domeniul privat al Municipiului Mangalia, precum și actualizarea și completarea Inventarului bunurilor care alcătuiesc domeniul privat al U.A.T",
+"short": "HCL Mangalia nr. 353/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://mangalia.ro/2023/03/hotarari-ale-consiliului-local-al-mun-mangalia-2023/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

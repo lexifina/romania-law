@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/ramnicu-sarat/2024",
+ "acts": [
+  {
+   "slug": "hcl-buzau--ramnicu-sarat-1-2024",
+   "path": "local/buzau/ramnicu-sarat/2024/1",
+   "short": "HCL Râmnicu Sărat nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Râmnicu Sărat nr. 1/2024",
+   "url": "https://www.primariermsarat.ro/categorie/registrul-agricol/avertizari-registrul-agricol/page/2/",
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "units": 1,
+     "source_url": "https://primariermsarat.ro/wp-content/uploads/files/inline-files/Avertizare%20nr%201%20din%2004%2001%202024%20FITO%20Buzau.pdf",
+     "sha256": "b9fa6a0eab4c0ee3acc8d532feabf1be0d239042701303d827f87bd326e65442"
+    }
+   ]
+  }
+ ]
+}

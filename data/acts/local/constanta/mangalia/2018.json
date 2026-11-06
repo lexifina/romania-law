@@ -1,0 +1,161 @@
+{
+"country": "RO",
+"shard": "local/constanta/mangalia/2018",
+"acts": [
+{
+"slug": "hcl-constanta--mangalia-2-2018",
+"path": "local/constanta/mangalia/2018/2",
+"kind": "local",
+"year": "2018",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 2/2018 Privind aprobarea utilizării excedentului rezultat din execuția bugetrară pe anul 2017",
+"short": "HCL Mangalia nr. 2/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-10",
+"latest": "2018-01-10",
+"portal": "https://mangalia.ro/2018/01/hcl-2018/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-3-2018",
+"path": "local/constanta/mangalia/2018/3",
+"kind": "local",
+"year": "2018",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 3/2018 Privind alegerea președintelui de ședință al Consiliului Local Mangalia pentru următoarele 3 luni",
+"short": "HCL Mangalia nr. 3/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-17",
+"latest": "2018-01-17",
+"portal": "https://mangalia.ro/2018/01/hcl-2018/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-5-2018",
+"path": "local/constanta/mangalia/2018/5",
+"kind": "local",
+"year": "2018",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 5/2018 Privind încadrarea în categoria funcțională de străzi a unor bunuri imobile aflate pe raza unității administrativ-teritoriale a municipiului Mangalia",
+"short": "HCL Mangalia nr. 5/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-02-12",
+"latest": "2018-02-12",
+"portal": "https://mangalia.ro/2018/01/hcl-2018/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-7-2018",
+"path": "local/constanta/mangalia/2018/7",
+"kind": "local",
+"year": "2018",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 7/2018 Privind încadrarea în categoria funcțională de străzi a unor bunuri imobile aflate pe raza unității administrativ-teritoriale a municipiului Mangalia",
+"short": "HCL Mangalia nr. 7/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-02-12",
+"latest": "2018-02-12",
+"portal": "https://mangalia.ro/2018/01/hcl-2018/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-8-2018",
+"path": "local/constanta/mangalia/2018/8",
+"kind": "local",
+"year": "2018",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 8/2018",
+"short": "HCL Mangalia nr. 8/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-02-12",
+"latest": "2018-02-12",
+"portal": "https://mangalia.ro/2018/01/hcl-2018/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-9-2018",
+"path": "local/constanta/mangalia/2018/9",
+"kind": "local",
+"year": "2018",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 9/2018 privind aprobarea contului de execuție a bugetului de venituri și cheltuieli al Municipiului Mangalia pentru anul 2017",
+"short": "HCL Mangalia nr. 9/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-02-28",
+"latest": "2018-02-28",
+"portal": "https://mangalia.ro/2018/01/hcl-2018/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-10-2018",
+"path": "local/constanta/mangalia/2018/10",
+"kind": "local",
+"year": "2018",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 10/2018 privind aprobarea bugetului de venituri şi cheltuieli al Municipiului Mangalia pentru anul financiar 2018",
+"short": "HCL Mangalia nr. 10/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-02-28",
+"latest": "2018-02-28",
+"portal": "https://mangalia.ro/2018/01/hcl-2018/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

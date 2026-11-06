@@ -397,6 +397,28 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-buzau--ramnicu-sarat-21-2022",
+"path": "local/buzau/ramnicu-sarat/2022/21",
+"kind": "local",
+"year": "2022",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Râmnicu Sărat nr. 21/2022",
+"short": "HCL Râmnicu Sărat nr. 21/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://www.primariermsarat.ro/hotarari-autoritate-deliberativa/",
+"council": "buzau/ramnicu-sarat",
+"council_name": "Consiliul Local al Municipiului Râmnicu Sărat",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

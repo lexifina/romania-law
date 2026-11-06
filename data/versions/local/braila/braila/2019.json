@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/braila/braila/2019",
+ "acts": [
+  {
+   "slug": "hcl-braila--braila-150-2019",
+   "path": "local/braila/braila/2019/150",
+   "short": "HCL Brăila nr. 150/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 150/2019",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2019-04-16",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2019/16_4/Buget%20local%20HCLM%20nr.%20150%20din%2016.04.2019._r.pdf",
+     "sha256": "4f04df253b112f47f2a0e0658ea144a878ad7b00e2bf129b9a19fbbf13ee060f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-161-2019",
+   "path": "local/braila/braila/2019/161",
+   "short": "HCL Brăila nr. 161/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 161/2019",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2019-04-16",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2019/16_4/Buget%20general%20centralizat%20HCLM%20nr.%20161%20din%2016.04.2019_rr.pdf",
+     "sha256": "2339019965e521a5657af36c22e50e3cddeef3224d1e21c4f4a80fa639f2324f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-432-2019",
+   "path": "local/braila/braila/2019/432",
+   "short": "HCL Brăila nr. 432/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 432/2019",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2019/29_08/Buget%20local%20HCLM%20nr.%20432%20din%2029.08.2019.pdf",
+     "sha256": "9cce2507cdfd399a24bc53b66faae1f66fe8a53f39702040b4ad0d6ba51a896a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-435-2019",
+   "path": "local/braila/braila/2019/435",
+   "short": "HCL Brăila nr. 435/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 435/2019",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2019/29_08/Buget%20general%20centralizat%20HCLM%20nr.%20435%20din%2029.08.2019.pdf",
+     "sha256": "06274984de9ab88c8691f5b7f812b4cfe8827833b7dc9d28bd87cef4b8a54bf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-499-2019",
+   "path": "local/braila/braila/2019/499",
+   "short": "HCL Brăila nr. 499/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 499/2019",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2019/12_09/Buget%20local%20HCLM%20nr.%20499%20din%2012.09.2019.pdf",
+     "sha256": "a12606cc4dc7e5a5c804d09a1fc5570594084396e386ab631e7214c632e173a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-500-2019",
+   "path": "local/braila/braila/2019/500",
+   "short": "HCL Brăila nr. 500/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 500/2019",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2019/12_09/Buget%20general%20centralizat%20HCLM%20nr.%20500%20din%2012.09.2019.pdf",
+     "sha256": "2a384ea3ebdea7d5e5759328263664c848f94f946f9add681cec813ddda729ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-504-2019",
+   "path": "local/braila/braila/2019/504",
+   "short": "HCL Brăila nr. 504/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 504/2019 privind finantele publice locale, cu modificarile !?i completarile ulterioare; fn baza art. 129 alin. (2) lit. b), alin. (4) lit. a) ~i art. 155 alin. (1) lit. c), alin. (~)lit. b) din Ordonanta de Urgenta nr. 57/2019 privind Codul administrativ; In temeiul art. 139 alin. (1) !?i alin. (3) lit. a) coroborat cu prevederile art. 196 alin. (1) lit. a) din Ordonanta de Urgenta nr. 57/2019 privind Codu",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2019/30_09/Buget%20local%20HCLM%20nr%20504%20din%2030.09.2019.pdf",
+     "sha256": "ca5292d947c3a406b6f2436ec0947e7ce3dc37cbc60a5f616829f755ab80b678"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-573-2019",
+   "path": "local/braila/braila/2019/573",
+   "short": "HCL Brăila nr. 573/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 573/2019",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2019/30.10/Buget%20general%20centralizat%20HCLM%20nr.%20573%20din%2031.10.2019.pdf",
+     "sha256": "c06ad7b166e8ae0affe91f49f43a79d1567f6357b91f2c0a88921746396840ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-709-2019",
+   "path": "local/braila/braila/2019/709",
+   "short": "HCL Brăila nr. 709/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 709/2019",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2019/RECTIFICARE%20BUGET_23.12.%202019/Buget%20local%20HCLM%20nr.%20709%20din%2023.12.2019_1.pdf",
+     "sha256": "eead1ae3a307e7616bf2f0540298df3308886b9307b955b148e5b8d009e0db30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-713-2019",
+   "path": "local/braila/braila/2019/713",
+   "short": "HCL Brăila nr. 713/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 713/2019",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2019/RECTIFICARE%20BUGET_23.12.%202019/Buget%20general%20centralizat%20HCLM%20nr.%20713%20din%2023.12.2019_3.pdf",
+     "sha256": "aeffbebc445041b36d663481950cecfe956ac17754f583e7760c6d04e224d773"
+    }
+   ]
+  }
+ ]
+}

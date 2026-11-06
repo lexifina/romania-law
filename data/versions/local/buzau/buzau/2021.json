@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/buzau/2021",
+ "acts": [
+  {
+   "slug": "hcl-buzau--buzau-8-2021",
+   "path": "local/buzau/buzau/2021/8",
+   "short": "HCL Buzău nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Buzău nr. 8/2021",
+   "url": "https://primariabuzau.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2021-01-04",
+     "units": 1,
+     "source_url": "https://primariabuzau.ro/wp-content/uploads/2022/08/Decizie-de-expropriere-HG-1118-2021-nr-8_04_01_2021.pdf",
+     "sha256": "2e859f963ac263ca9f22bd6801cae03b3e813f6daea1a8ced93fce1ac0fedac5"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,66 @@
  "shard": "local/calarasi/oltenita/2023",
  "acts": [
   {
+   "slug": "hcl-calarasi--oltenita-1-2023",
+   "path": "local/calarasi/oltenita/2023/1",
+   "short": "HCL Oltenița nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 1/2023 privind utilizarea excedentelor înregistrate la 31.12.2023 de bugetul local si unele instituții publice locale finanțate din bugetul local si din venituri proprii Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2024/",
+   "versions": [
+    {
+     "from": "2023-12-31",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/15/1-Hotarare-privind-utilizarea-excedentelor-inregistrate-la-31.12.2023-de-bugetul-local-si-unele-.pdf",
+     "sha256": "df885a9c766894eb620ac38cfe23a602fb8ec974ccda0c67262d1e2f88f7bc03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-120-2023",
+   "path": "local/calarasi/oltenita/2023/120",
+   "short": "HCL Oltenița nr. 120/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 120/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2ca7b84aa13332d9dd11ff755f1f7f30ffb6429ad93a5cc0d75d13bbe721a8bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-13-2023",
+   "path": "local/calarasi/oltenita/2023/13",
+   "short": "HCL Oltenița nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 13/2023 pentru rectificarea bugetului local al UAT municipiul Oltenita, pe anul 2023 Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2023/",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/13/HCL-nr.-13-din-15-feb-2023.pdf",
+     "sha256": "8c6c66958741f356d43adf8ebc780a8eb0748a149a481b089ef220ca13aee426"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-14-2023",
+   "path": "local/calarasi/oltenita/2023/14",
+   "short": "HCL Oltenița nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 14/2023 privind aprobarea Devizului general actualizat pentru obiectivul de investitii „Reabilitarea, Modernizarea si Echiparea Ambulatoriului Integrat al Spitalului Municipal Oltenita” Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2023/",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/13/HCL-nr-14-din-15-feb-2023.pdf",
+     "sha256": "89fcb0b7d54ef0e6b39c7a7ab05520113ef8d8d2cc3e8ab71108d1a3af643567"
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--oltenita-163-2023",
    "path": "local/calarasi/oltenita/2023/163",
    "short": "HCL Oltenița nr. 163/2023",
@@ -14,6 +74,201 @@
      "units": 1,
      "source_url": "https://primariaoltenita.ro/storage/formidable/13/163-Hotarare-pentru-modificarea-art.lalin_.llit_.a-din-H.C.L.nr_.-15001.11.2023-privind-stabilir.pdf",
      "sha256": "a20e0aab1ef311a980a3cc54c2f337222543ee53859ba36441b3e8cbbcabfd35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-178-2023",
+   "path": "local/calarasi/oltenita/2023/178",
+   "short": "HCL Oltenița nr. 178/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 178/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "89bdd2fb01ca5640cc883a953dfacbfd3f66adaf5c017a00e1604ad267352d7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-190-2023",
+   "path": "local/calarasi/oltenita/2023/190",
+   "short": "HCL Oltenița nr. 190/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 190/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0b4c703d677078545f2a9d83eee5c98d0ab2dd2ef54765d2fd08c17d6ce1d182"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-59-2023",
+   "path": "local/calarasi/oltenita/2023/59",
+   "short": "HCL Oltenița nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 59/2023 privind aprobarea situațiilor financiare anuale incheiate la data de 31.12.2023 de către S.C",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2024/",
+   "versions": [
+    {
+     "from": "2023-12-31",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/15/59-Hotarare-privind-aprobarea-situatiilor-financiare-anuale-incheiate-la-data-de-31.12.2023-de-c.pdf",
+     "sha256": "c009331afd141fb59a1f6675e1220d550230991b523b1e8dcfd0854a9bc9329e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-82-2023",
+   "path": "local/calarasi/oltenita/2023/82",
+   "short": "HCL Oltenița nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 82/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0ef27222f0b088eab9fbdbf914f027ed42c0847e0f37fb9647ff25a4d074cc16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-83-2023",
+   "path": "local/calarasi/oltenita/2023/83",
+   "short": "HCL Oltenița nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 83/2023 pentru inlocuirea Anexelor nr.2 si 3 la H.C.L.nr.27/10.03.2023 pentru aprobarea Documentației de avizare a lucrărilor de intervenție , a indicatorilor tehnico-economici si a devizului general, aferenti obiectivului de investiții ’’Creșterea performantei energetice a blocului L 1, din b-dul 1 Decembrie nr.92, municipiul Oltenița,județul Calarasi” Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2023/",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/13/83-Hotarare-pentru-inlocuirea-Anexelor-nr.2-si-3-la-H.C.L.nr_.2710.03.2023-pentru-aprobarea-Docu-1.pdf",
+     "sha256": "a1ef19aa38b13e6d5cf81259a3c9688016de03d1e0392124bb469e79ef48fa35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-86-2023",
+   "path": "local/calarasi/oltenita/2023/86",
+   "short": "HCL Oltenița nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 86/2023 pentru înlocuirea Anexelor nr.2 si 3 la H.C.L.nr.29/10.03.2023 pentru aprobarea Documentației de avizare a lucrărilor de intervenție , a indicatorilor tehnico-economici si a devizului general, aferenti obiectivului de investiții ’’Creșterea performantei energetice a blocului R, din b-dul Republicii nr.39, municipiul Oltenița,județul Calarasi” Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2023/",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/13/86-Hotarare-pentru-inlocuirea-Anexelor-nr.2-si-3-la-H.C.L.nr_.2910.03.2023-pentru-aprobarea-Docu.pdf",
+     "sha256": "23fc26ee8e1c516af9f7c94f6e7341d1343146e9de2fb66e058e5610043ca1b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-87-2023",
+   "path": "local/calarasi/oltenita/2023/87",
+   "short": "HCL Oltenița nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 87/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 1,
+     "source_url": null,
+     "sha256": "85840d9a36bedebcdd89061f95c1c49ca54ff250b735ac0ea3d5355946435c55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-88-2023",
+   "path": "local/calarasi/oltenita/2023/88",
+   "short": "HCL Oltenița nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 88/2023 privind înlocuirea Anexelor nr..2 si 3 la H.C.L.nr.43/30.03.2023 pentru aprobarea Documentației de avizare a lucrărilor de interventie, a indicatorilor tehnico-economici si a devizului general, aferente obiectivului de investiții ’’Reabilitare enegetica sediu primărie” din b-dul Republicii nr.40, municipiul Oltenița,județul Calarasi Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/13/88-Hotarare-privind-inlocuirea-Anexelor-nr..2-si-3-la-H.C.L.nr_.4330.03.2023-pentru-aprobarea-Do.pdf",
+     "sha256": "6f38f9e3778d8244eca9346f1fa50bae0008a6e8077dbb02c5a720941800fb57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-90-2023",
+   "path": "local/calarasi/oltenita/2023/90",
+   "short": "HCL Oltenița nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 90/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6d40483be20384027b58d16ffecefa59effdf85d4cdf6d14a88bc6ecfb0d772b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-91-2023",
+   "path": "local/calarasi/oltenita/2023/91",
+   "short": "HCL Oltenița nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 91/2023 pentru inlocuirea Anexei nr. 3 la H.C.L.nr.58/05.05.2023 pentru aprobarea Documentației de avizare a lucrărilor de intervenție , a indicatorilor tehnico-economici si a devizului general, aferente obiectivului de investiții “ Intervenții de eficientizare energetică asupra imobilului Școala Gimnaziala Spiru Haret Oltenița Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2023/",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/13/91-Hotarare-pentru-inlocuirea-Anexei-nr.-3-la-H.C.L.nr_.5805.05.2023-pentru-aprobarea-Documentat.pdf",
+     "sha256": "095dfff27e23ce96cade6e66913eeb0d6a81ced122619c6f76b51781f743939b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-92-2023",
+   "path": "local/calarasi/oltenita/2023/92",
+   "short": "HCL Oltenița nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 92/2023 pentru înlocuirea Anexelor nr..2 si 3 la H.C.L.nr.59/05.05.2023 pentru aprobarea Documentației de avizare a lucrărilor de intervenție , a indicatorilor tehnico-economici si a devizului general, aferente obiectivului de investiții “ Intervenții de eficientizare energetică asupra imobilului Școala Gimnaziala Mircea Eliade” Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2023/",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/13/92-Hotarare-pentru-inlocuirea-Anexelor-nr..2-si-3-la-H.C.L.nr_.5905.05.2023-pentru-aprobarea-Doc.pdf",
+     "sha256": "fc4ea4d833022dba10833d13a1a307c73f2abcc55675200659976282bc62d84f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-93-2023",
+   "path": "local/calarasi/oltenita/2023/93",
+   "short": "HCL Oltenița nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 93/2023 privind înlocuirea Anexei nr. 3 la H.C.L.nr.60/05.05.2023 pentru aprobarea documentației de avizare a lucrărilor de intervenție, a indicatorilor tehnico-economici și a devizului general aferente obiectivului de investiții „Intervenții de eficientizare energetică asupra imobilului Cinematograf Flacăra” Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2023/",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/13/93-Hotarare-privind-inlocuirea-Anexei-nr.-3-la-H.C.L.nr_.6005.05.2023-pentru-aprobarea-documenta.pdf",
+     "sha256": "5d8a5e04d74501130bcafa4fd641b2f0485866716dfc39c354f0e499e058d3b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-94-2023",
+   "path": "local/calarasi/oltenita/2023/94",
+   "short": "HCL Oltenița nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 94/2023 privind înlocuirea Anexelor nr..2 si 3 la H.C.L.nr.61/05.05.2023 pentru aprobarea documentației de avizare a lucrărilor de intervenție, a indicatorilor tehnico-economici și a devizului general aferente obiectivului de investiții ’’Creșterea eficientei energetice a clădirii Clubului Navol” din municipiul Oltenița, județul Călărași Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2023/",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/13/94-Hotarare-privind-inlocuirea-Anexelor-nr..2-si-3-la-H.C.L.nr_.6105.05.2023-pentru-aprobarea-do.pdf",
+     "sha256": "15fc754302db1aa25283bc38f56a0e1828aafe66979aa1a5767d9e6c366c1025"
     }
    ]
   }

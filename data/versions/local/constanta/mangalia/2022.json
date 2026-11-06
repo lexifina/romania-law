@@ -3,6 +3,21 @@
  "shard": "local/constanta/mangalia/2022",
  "acts": [
   {
+   "slug": "hcl-constanta--mangalia-10-2022",
+   "path": "local/constanta/mangalia/2022/10",
+   "short": "HCL Mangalia nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 10/2022 privind aprobarea planului de acÅ£iuni cu obiective Åi lucrÄri de interes local stabilit pentru repartizarea orelor de muncÄ beneficiarilor de ajutor social pentru anul 2022",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-10.pdf",
+     "sha256": "082b021a83cce48f075161cf3c92f6a34f8d07540d2728304da8a52005a5b80a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mangalia-107-2022",
    "path": "local/constanta/mangalia/2022/107",
    "short": "HCL Mangalia nr. 107/2022",
@@ -14,6 +29,81 @@
      "units": 9,
      "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-107.pdf",
      "sha256": "63c46e750def91f2f085741e1833ce1f9bf4722211a32686a13b809fd108b178"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-11-2022",
+   "path": "local/constanta/mangalia/2022/11",
+   "short": "HCL Mangalia nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 11/2022 privind aprobarea Planului anual de acÈiuni cu obiective Èi lucrÄri de interes local stabilit pentru persoanele obligate sÄ presteze muncÄ Ã®n folosul comunitÄÈii de cÄtre instanÈele de judecatÄ Èi Serviciile de ProbaÈiuni Èi de persoanele care au copii Ã®n plasament",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-11.pdf",
+     "sha256": "da6a3ecfd7de7450965766d87984a42f7d79a9c13620b167d606272c774afc58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-111-2022",
+   "path": "local/constanta/mangalia/2022/111",
+   "short": "HCL Mangalia nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 111/2022 privind Ã®nfiinÅ£area instituÈiei publice de interes local cu personalitate juridicÄ DIRECÅ¢IA CREÅE MANGALIA, aflatÄ Ã®n subordinea Consiliului Local al Municipiului Mangalia",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-111.pdf",
+     "sha256": "dbf1fb62f5602b9f36c20dbd0b3f5a718b758f9fdd6c9eaefd4ab94a2d7b1e76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-112-2022",
+   "path": "local/constanta/mangalia/2022/112",
+   "short": "HCL Mangalia nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 112/2022 privind stabilirea salariilor de bazÄ pentru funcÅ£ionarii publici Åi personalul contractual din cadrul familiei ocupaÅ£ionale Â«AdministraÅ£ieÂ» din cadrul aparatului de specialitate al Primarului Municipiului Mangalia, din instituÅ£iile Åi serviciile publice cu personalitate juridicÄ",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-112.pdf",
+     "sha256": "191a757fc142d3f0b2c89b995535650f74859e945636217e781fb3b8589ae3f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-115-2022",
+   "path": "local/constanta/mangalia/2022/115",
+   "short": "HCL Mangalia nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 115/2022 privind aprobarea costului mediu lunar de Ã®ntreÈinere pentru anul 2022 Èi a cuantumului contribuÈiei de Ã®ntreÈinere pentru persoanele asistate Ã®n cadrul CÄminului de BÄtrÃ¢ni Mangalia",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-115.pdf",
+     "sha256": "49ff7039cb7065dc5e9ca909dfce7ff7f8f8882c77abaacc94b26aa393e89316"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-127-2022",
+   "path": "local/constanta/mangalia/2022/127",
+   "short": "HCL Mangalia nr. 127/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 127/2022 privind aprobarea aderÄrii comunei NICOLAE BÄLCESCU Èi a comunei SÄCELE, judeÈul ConstanÈa la ASOCIAÈIA DE DEZVOLTARE INTERCOMUNITARÄ âAPÄ â CANALâ CONSTANÈA",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-127.pdf",
+     "sha256": "618d3a25653bbc152895cbedefb33cd3c4bfb9685795dc43086480ea5eed43a6"
     }
    ]
   },
@@ -48,6 +138,126 @@
    ]
   },
   {
+   "slug": "hcl-constanta--mangalia-130-2022",
+   "path": "local/constanta/mangalia/2022/130",
+   "short": "HCL Mangalia nr. 130/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 130/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-130.pdf",
+     "sha256": "6ce3f2bc2c60c60130cd559ee75d64e3affbe90606aeee7c0bc8ccf6458e6290"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-131-2022",
+   "path": "local/constanta/mangalia/2022/131",
+   "short": "HCL Mangalia nr. 131/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 131/2022 privind aprobarea actualizÄrii documentaÈiei tehnico â economice pentru investiÈia âREABILITARE, MODERNIZARE ÈI DOTARE INVESTIÈIE CASA DE CULTURÄ MANGALIA, ÈOS.CONSTANÈEI, NR.5, MUNICIPIUL MANGALIA, JUDEÈUL CONSTANÈAâ",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-131.pdf",
+     "sha256": "ec525c9b4c5521cda64ac19fbc914ded7ad14ad199ccb3a8a9e25520be073a63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-147-2022",
+   "path": "local/constanta/mangalia/2022/147",
+   "short": "HCL Mangalia nr. 147/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 147/2022 privind trecerea din domeniul public Ã®n domeniul privat al Municipiului Mangalia, precum Èi actualizarea Èi completarea Inventarului bunurilor care alcÄtuiesc domeniul privat al U.A.T",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-147.pdf",
+     "sha256": "433f5867a0c409e05479f5d7720ce67c7c145f254c2abd8c48673d1150bdc815"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-148-2022",
+   "path": "local/constanta/mangalia/2022/148",
+   "short": "HCL Mangalia nr. 148/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 148/2022 privind aprobarea dezmembrÄrii imobilului teren Ã®n suprafaÈÄ de 2018mp situat Ã®n Municipiul Mangalia, str. Oituz, Cartier Dobrogea II, lot 1, jud. ConstanÈa",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-148.pdf",
+     "sha256": "82d92a654b7861ddd82655525c62356293da9cf36cb1705643d8b976b3fc8e0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-150-2022",
+   "path": "local/constanta/mangalia/2022/150",
+   "short": "HCL Mangalia nr. 150/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 150/2022 privind aprobarea dezmembrÄrii imobilului teren Ã®n suprafaÈÄ de 19867mp situat Ã®n Municipiul Mangalia, str. Portului, Tronson 1, Tronson 2, Lot-1, jud. ConstanÈa",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-150.pdf",
+     "sha256": "0153dcf4ae4fad077f817f053890249be219f39884e575fa1e494f2f3d3ef753"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-151-2022",
+   "path": "local/constanta/mangalia/2022/151",
+   "short": "HCL Mangalia nr. 151/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 151/2022 privind aprobarea dezmembrÄrii imobilului teren Ã®n suprafaÈÄ de 23860mp situat Ã®n Municipiul Mangalia, str.Portului, tronson 3, tronson 4, Jud. ConstanÈa",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-151.pdf",
+     "sha256": "7c77105d08ff6fa221023b26c90321426475e35ba4800c819b0227c861405c0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-158-2022",
+   "path": "local/constanta/mangalia/2022/158",
+   "short": "HCL Mangalia nr. 158/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 158/2022 privind vÃ¢nzarea prin licitaÈie publicÄ a unor terenuri (4 loturi) situate Ã®n Municipiul Mangalia, strada Metalurgiei, jud.ConstanÈa, aparÈinÃ¢nd domeniului privat al U.A.T",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-158.pdf",
+     "sha256": "f5edc09d13266ded802036e4c5878edaeef9c5c017ea9132b5bc78f5469cb914"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-171-2022",
+   "path": "local/constanta/mangalia/2022/171",
+   "short": "HCL Mangalia nr. 171/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 171/2022 privind aprobarea rezultatelor inventarierii elementelor de natura activelor, datoriilor Èi capitalurilor proprii, Èi aprobarea scoaterii din funcÈiune (inclusiv prin dezmembrare), valorificare Èi/ sau casare, dupÄ caz, a elementelor de natura mijloacelor fixe si obiectelor de inventa",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-171.pdf",
+     "sha256": "7032a859e9b16b09589bd38eefcbf875fcb948fa469b78d3fbb7fa9862ff5088"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mangalia-173-2022",
    "path": "local/constanta/mangalia/2022/173",
    "short": "HCL Mangalia nr. 173/2022",
@@ -59,6 +269,51 @@
      "units": 5,
      "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-173.pdf",
      "sha256": "297aba192b33d2893426c1ade57dcae3ee7057f6aa644ed349378bd2260ca187"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-174-2022",
+   "path": "local/constanta/mangalia/2022/174",
+   "short": "HCL Mangalia nr. 174/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 174/2022 privind aprobarea retragerii dreptului de administrare al S.C",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-174.pdf",
+     "sha256": "a768702f73347ea6a03a41281a8168b6a310263f6f4102c6f2d56aa198ea5ee7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-175-2022",
+   "path": "local/constanta/mangalia/2022/175",
+   "short": "HCL Mangalia nr. 175/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 175/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-175.pdf",
+     "sha256": "f9222e71214f056bc5b821b320863a13945ea45289261afcaaf0a491c4f62d0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-176-2022",
+   "path": "local/constanta/mangalia/2022/176",
+   "short": "HCL Mangalia nr. 176/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 176/2022 privind acordarea unui sprijin financiar persoanelor ce se aflÄ Ã®n situaÈii de dificultate sau vulnerabilitate economicÄ Èi socialÄ, pentru Ã®ncÄlzirea locuinÈei cu energie termicÄ de la bugetul local Ã®n perioada furnizÄrii agentului termic din sistemul centralizat la nivelul mu",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-176-.pdf",
+     "sha256": "2fc66344ed86ddac201da0a0e2f48709835bb6535fafdc17b5c3c76a2e3e1ad5"
     }
    ]
   },
@@ -78,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--mangalia-192-2022",
+   "path": "local/constanta/mangalia/2022/192",
+   "short": "HCL Mangalia nr. 192/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 192/2022 privind Ã®nfiinÈarea unitÄÈii de Ã®nvÄÈÄmÃ¢nt de educaÈie timpurie antepreÈcolarÄ CREÈA NR.1 MANGALIA, cu personalitate juridicÄ, aflatÄ Ã®n subordinea Consiliului Local al Municipiului Mangalia, Ã®ncepÃ¢nd cu data de 01.01.2023",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-192.pdf",
+     "sha256": "1996560974233c3f1058fcf348470cba3d83c3f0f5bc6037f1c870f95801ccbf"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mangalia-193-2022",
    "path": "local/constanta/mangalia/2022/193",
    "short": "HCL Mangalia nr. 193/2022",
@@ -89,6 +359,231 @@
      "units": 1,
      "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-193.pdf",
      "sha256": "b5e75f6214956fe87454a1b84d1340b4b614cf7c13188eb2258db819ff5ba098"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-195-2022",
+   "path": "local/constanta/mangalia/2022/195",
+   "short": "HCL Mangalia nr. 195/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 195/2022 privind aprobarea documentaÈiei tehnice Èi a indicatorilor tehnico-economici (faza P.T.+D.E.) aferentÄ proiectul: âSISTEMATIZARE PE VERTICALÄ MUNICIPIUL MANGALIA ZONA IIâ",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-195.pdf",
+     "sha256": "cefd75dc0d50b95b7e1399ecd83f5a7dee70cfb14c457ca325a9c7fa753c38e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-196-2022",
+   "path": "local/constanta/mangalia/2022/196",
+   "short": "HCL Mangalia nr. 196/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 196/2022 privind aprobarea documentaÈiei tehnice Èi a indicatorilor tehnico-economici (faza P.T.+D.E.) aferentÄ proiectul: âSISTEMATIZARE PE VERTICALÄ MUNICIPIUL MANGALIA ZONA IIIâ",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-196.pdf",
+     "sha256": "a8129c20336c7f98a3abcc18ffe3356516d21ac8d4979ca70fa581e752faf66a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-197-2022",
+   "path": "local/constanta/mangalia/2022/197",
+   "short": "HCL Mangalia nr. 197/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 197/2022 privind aprobarea documentaÈiei tehnice Èi a indicatorilor tehnico-economici (faza P.T.+D.D.E.) aferentÄ proiectul: âAMENAJARE ZID DE SPRIJIN ÃN SPATELE FRONTULUI DE BLOCURI MG23-MG33â",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-197.pdf",
+     "sha256": "28e810dece1e0b1755d6a20bcde58d1e8ebcc4bab51dfe3e7e1a4c0c019b4028"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-199-2022",
+   "path": "local/constanta/mangalia/2022/199",
+   "short": "HCL Mangalia nr. 199/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 199/2022 privind aprobarea devizului general actualizat (faza P.T./D.D.E.) Èi a indicatorilor tehnico-economici ai proiectului: âÃNFIINÈARE LOC DE AGREMENT, AMENAJARE PEISAGISTICÄ ÈI AMPLASARE MOBILIER URBAN STAÈIUNEA NEPTUN, STRADA PLOPILOR, ZONA BLOCURILOR B1-B2-B3â",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-199.pdf",
+     "sha256": "dc36abccfe31fe3c64a1accf9da4c3a82edda6c027d42dbd3c34232d58486e72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-200-2022",
+   "path": "local/constanta/mangalia/2022/200",
+   "short": "HCL Mangalia nr. 200/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 200/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-200.pdf",
+     "sha256": "0cfb8ba379bc0cba9730b47fa90a6972ef67ebf2a8098edd2668c9f4ff4dd219"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-226-2022",
+   "path": "local/constanta/mangalia/2022/226",
+   "short": "HCL Mangalia nr. 226/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 226/2022 privind aprobarea Ã®nchirierii prin licitaÈie publicÄ aÂ unuiÂ numÄr deÂ 5 (cinci) spaÈii cu destinaÈia deÂ restaurante, cofetÄrii, cafenele sau baruri, situate Ã®n Municipiul Mangalia, Str",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-226.pdf",
+     "sha256": "2d50ef153da5be78db263cd2d3c5c724119dc37f771d910dc6305c10e4d8eb7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-313-2022",
+   "path": "local/constanta/mangalia/2022/313",
+   "short": "HCL Mangalia nr. 313/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 313/2022 privind aprobarea documentaÈiei tehnice (faza S.F.) Èi a indicatorilor tehnico â economici ale proiectului âÃNFIINÈARE LOC AGREMENT, AMENAJARE PEISAGISTICÄ ÈI AMPLASARE MOBILIER URBAN, STRADA SIRENEI, MUNICIPIUL MANGALIAâ",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-313.pdf",
+     "sha256": "fcb8a68b4b9ab9f5f6eeab777572e6dbc16a400960c276e5de2f85950b868b0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-314-2022",
+   "path": "local/constanta/mangalia/2022/314",
+   "short": "HCL Mangalia nr. 314/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 314/2022 privind constituirea comisiilor de analizÄ Èi soluÈionare a cererilor de atribuire Èi soluÈionare a contestaÈiilor privind analiza solicitÄrilor Èi a modului de atribuire a locuinÈelor sociale Èi a locuinÈelor de Ã®nchiriere aflate Ã®n proprietatea Èi/sau administrarea U.A.T",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-314.pdf",
+     "sha256": "c7090454fd2b29a415e8507136a9c5a48251dc02f75adad2113b4af3a42d88d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-315-2022",
+   "path": "local/constanta/mangalia/2022/315",
+   "short": "HCL Mangalia nr. 315/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 315/2022 privind desemnarea reprezentanÈilor Consiliului Local al Municipiului Mangalia, membrii Èi membrii supleanÈi Ã®n comisiile de evaluare a probei de interviu pentru concursul de ocupare a funcÈiilor de director/ director adjunct vacante la unitÄÈile de Ã®nvÄÈÄmÃ¢nt preuniversitar de stat din municipiul Mangalia",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-315.pdf",
+     "sha256": "097f143f7ee20b417b178dce1677ea8e32c1b3380da1c02cf077d6c52492d9b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-317-2022",
+   "path": "local/constanta/mangalia/2022/317",
+   "short": "HCL Mangalia nr. 317/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 317/2022 privind aprobarea propunerilor de criterii pentru stabilirea ordinii de prioritate Ã®n soluÈionarea cererilor Èi Ã®n repartizarea locuinÈelor construite de AgenÈia NaÈionalÄ pentru LocuinÈe Ã®n Municipiul Mangalia, destinate Ã®nchirierii Ã®n mod exclusiv, specialiÈtilor din domeniul sÄnÄtÄÈii",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-317.pdf",
+     "sha256": "088ac472e8d1a9656a78bae9760716e47cb54bf64e7250efad9c505ed8827124"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-326-2022",
+   "path": "local/constanta/mangalia/2022/326",
+   "short": "HCL Mangalia nr. 326/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 326/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-326.pdf",
+     "sha256": "d9a5d8a8f25961b76865db4757a707720f696982ebf717bc69756204d0388500"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-331-2022",
+   "path": "local/constanta/mangalia/2022/331",
+   "short": "HCL Mangalia nr. 331/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 331/2022 privind aprobarea Protocolului de Colaborare Ã® ntreÂ U . A . T",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-331.pdf",
+     "sha256": "d703284a15124c19db89212e9394fb8affa49465d4d88dd416bfb8948e152be4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-335-2022",
+   "path": "local/constanta/mangalia/2022/335",
+   "short": "HCL Mangalia nr. 335/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 335/2022 privind aprobarea organigramei și statelor de funcții ale aparatului de specialitate al Primarului Municipiului Mangalia și Serviciului Public Comunitar Local de Evidență a Persoanelor Consiliul Local Mangalia, întrunit în ședința ordinară din data de 24.11.2022, Având în vedere: • Proiectul de hotărâre nr.381/15.11.2022 inițiat de către Primarul Municipiului Mangalia și aprobat de membrii Consili",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-335.pdf",
+     "sha256": "dfc073c9d0dfde099f48eafc0a793aaca077c1de76c929dd634cc8e34fefa443"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-338-2022",
+   "path": "local/constanta/mangalia/2022/338",
+   "short": "HCL Mangalia nr. 338/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 338/2022 privind însușirea și aprobarea Strategiei Integrate de Dezvoltare Urbană a Municipiului Mangalia 2022 - 2027 realizată în cadrul proiectului ”Planificare strategică și simplificare proceduri administrative în Municipiul Mangalia”, cod proiect SIPOCA 828, cod MySMIS 136064 Consiliul Local Mangalia, întrunit în ședința ordinară din data de 24.11.2022, Având în vedere: • Proiectul de hotărâre nr.362/",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-338.pdf",
+     "sha256": "0d22c1e3b49475f923991990c28ea0113141ee0ce7dd31f5aae3cecf5a83c81a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-341-2022",
+   "path": "local/constanta/mangalia/2022/341",
+   "short": "HCL Mangalia nr. 341/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 341/2022 privind mandatarea în mod expres a reprezentantului Consiliului Local al Municipiului Mangalia în cadrul Adunării Generale a Acționarilor a S.C",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-341.pdf",
+     "sha256": "57270891fa22c475d97ac213b24a35718d2dacdcfdd58743d1155950c63510b1"
     }
    ]
   },
@@ -108,6 +603,291 @@
    ]
   },
   {
+   "slug": "hcl-constanta--mangalia-346-2022",
+   "path": "local/constanta/mangalia/2022/346",
+   "short": "HCL Mangalia nr. 346/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 346/2022 privind aprobarea costului mediu lunar de întreținere și a contribuției părinților/reprezentanților legali pentru copiii care frecventează Creșa nr. 3 Mangalia pentru anul școlar 2022-2023 Consiliul Local Mangalia, întrunit în ședința ordinară din data de 24.11.2022, Având în vedere: • Proiectul de hotărâre nr.337/03.10.2022 inițiat de către Primarul Municipiului Mangalia și aprobat de membrii Con",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-346.pdf",
+     "sha256": "ef4a8e871992bf2e6cbbedaf1541a35f04de40912802842613371aa3621fed00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-347-2022",
+   "path": "local/constanta/mangalia/2022/347",
+   "short": "HCL Mangalia nr. 347/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 347/2022 privind aprobarea unor măsuri de protecție socială pentru persoanele încadrate în grad de handicap grav cu asistent personal, grav și accentuat și persoane fără venit cu vârsta de peste 60 de ani cu domiciliul stabil în municipiul Mangalia Consiliul Local Mangalia, întrunit în ședința ordinară din data de 24.11.2022, Având în vedere: • Proiectul de hotărâre nr.402/17.11.2022 inițiat de către Prima",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-347.pdf",
+     "sha256": "a4b160942ecf7f59ba20914b199880cbc25757f9cf2cd498daaccd4d816ae674"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-349-2022",
+   "path": "local/constanta/mangalia/2022/349",
+   "short": "HCL Mangalia nr. 349/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 349/2022 privind aprobarea documentației tehnice și a indicatorilor tehnico-economici aferente proiectului: „AMENAJARE STRADĂ AFERENTĂ ACCESULUI CĂTRE DEPOU – STRADA METALURGIEI” , MANGALIA Consiliul Local Mangalia, întrunit în ședința ordinară din data de 24.11.2022, Având în vedere: • Proiectul de hotărâre nr.396/16.11.2022 inițiat de către Primarul Municipiului Mangalia și aprobat de membrii Consiliului",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-349.pdf",
+     "sha256": "c671dfc8fa6665593cc248584c6e1b8f8e7c6eef73a77f72a302690f17bdad0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-350-2022",
+   "path": "local/constanta/mangalia/2022/350",
+   "short": "HCL Mangalia nr. 350/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 350/2022 privind aprobarea documentației tehnice și a indicatorilor tehnico-economici (faza D.A.L.I.) aferente proiectului: „Modernizarea sistemului de iluminat public în Municipiul Mangalia” Consiliul Local Mangalia, întrunit în ședința ordinară din data de 24.11.2022, Având în vedere: • Proiectul de hotărâre nr.397/16.11.2022 inițiat de către Primarul Municipiului Mangalia și aprobat de membrii Consiliul",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-350.pdf",
+     "sha256": "a7fcc0eb269b196b977a4b23e911a95bd20fc148e81c6751e9b0ed82632a4707"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-363-2022",
+   "path": "local/constanta/mangalia/2022/363",
+   "short": "HCL Mangalia nr. 363/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 363/2022 privind aprobarea dezmembrării imobilului teren în suprafață de 44mp situat în Municipiul Mangalia, str. Roze- lor, nr. 4B, bl. R2b, sc. B, parter, ap. 20 – extindere vest, jud",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-363.pdf",
+     "sha256": "4b41e4f00c63cd60d2e4449abd1725c55a0e764fea6ca77763e20369e6f0df69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-364-2022",
+   "path": "local/constanta/mangalia/2022/364",
+   "short": "HCL Mangalia nr. 364/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 364/2022 privind aprobarea dezmembrării imobilului teren în suprafață de 280mp situat în Municipiul Mangalia, Stațiunea Olimp, str",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-364.pdf",
+     "sha256": "c6264f8cc7ec5f3f3c0ea1986317758d1933eb5c910ac97aeccd6d7f7cbdfba5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-365-2022",
+   "path": "local/constanta/mangalia/2022/365",
+   "short": "HCL Mangalia nr. 365/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 365/2022 privind aprobarea dezmembrării imobilului teren în suprafață de 1009mp situat în Municipiul Mangalia, str. Oituz, Cartier Dobrogea II, Lot 1/1, jud",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-365.pdf",
+     "sha256": "8ed8818eb21e7b68ab722e2c80427d8a6ddaeeff6a1f50b6cafb0c55fa6b0b64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-366-2022",
+   "path": "local/constanta/mangalia/2022/366",
+   "short": "HCL Mangalia nr. 366/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 366/2022 privind aprobarea dezmembrării imobilului teren în suprafață de 18261mp situat în Municipiul Mangalia, Stațiunea Olimp, str. Trandafirilor, nr. 30B, jud",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-366.pdf",
+     "sha256": "1bd40603f3620a61ac71d30e750e79e853495b6f889bb0087b5cd00a5fc99ca8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-368-2022",
+   "path": "local/constanta/mangalia/2022/368",
+   "short": "HCL Mangalia nr. 368/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 368/2022 privind aprobarea dezmembrării imobilului teren în suprafață de 173170mp situat în Municipiul Mangalia, Stațiunea Neptun, Lacul nr. 1, Tronson 1, jud",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-368.pdf",
+     "sha256": "e826d0fc717bfb16ecb33d13253f3083181ee4bc2a236514b458a411dfeec437"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-369-2022",
+   "path": "local/constanta/mangalia/2022/369",
+   "short": "HCL Mangalia nr. 369/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 369/2022 privind aprobarea dării în administrare către Direcția Cultură și Sport Mangalia din subordinea Consiliului Local Mangalia a terenului în suprafață de 1995mp din acte (1883mp din măsurători), situat în Municipiul Mangalia, str. Oituz, nr. 77A, jud. Constanța, CF 106342 Mangalia, cu nr. cadastral 106342, care figurează pe lista Monumentelor istorice ca monument de categoria A, CT-I-m-A-02696.02 – M",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-369.pdf",
+     "sha256": "9d9a28d93e83601c73c1024051f884aaccaa540971eaae0934e7fed94ec89c58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-37-2022",
+   "path": "local/constanta/mangalia/2022/37",
+   "short": "HCL Mangalia nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 37/2022 privind desemnarea reprezentanÈilor consiliului local, membri Èi membri supleanÈi Ã®n comisiile de evaluare a probei de interviu pentru concursul de director/ director adjunct la unitÄÈile de Ã®nvÄÈÄmÃ¢nt din municipiul Mangalia",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-03-01",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-37.pdf",
+     "sha256": "3e106b012361ef2ea53e9ba4fa3c13170ac096838e11e79ec901e336902ac5d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-370-2022",
+   "path": "local/constanta/mangalia/2022/370",
+   "short": "HCL Mangalia nr. 370/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 370/2022 privind aprobarea dării în folosință gratuită (contract de comodat) Bisericii Penticostale Speranța a terenului în suprafață de 1942mp situat în Municipiul Mangalia, str",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-370.pdf",
+     "sha256": "0d6c9e52f6003f1b4a6c6063942b3eebcce0a186425070e883253087f48a45ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-38-2022",
+   "path": "local/constanta/mangalia/2022/38",
+   "short": "HCL Mangalia nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 38/2022 privind neasumarea responsabilitÄÈii organizÄrii Èi derulÄrii procedurilor de atribuire a contractelor/ acordurilor- cadru pentru achiziÈia produselor lactate Èi produselor de panificaÈie Èi a contractelor/ acordurilor- cadru de prestare a serviciilor pentru derularea mÄsurilor ed",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-03-01",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-38.pdf",
+     "sha256": "bedb215d4ffe7888c4d744c9791f676a7ffdbef57646683dfcd18cacaf58f008"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-381-2022",
+   "path": "local/constanta/mangalia/2022/381",
+   "short": "HCL Mangalia nr. 381/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 381/2022 privind aprobarea concesionării prin licitație publică a imobilului – teren – parcare în suprafață de 1022mp din măsurători (890mp din acte), situat în Municipiul Mangalia, str.Frumoasei, nr.13, jud",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-381.pdf",
+     "sha256": "f58f4202b64a35e71858bbbf522bdfcae079450db0d9f1e64a740d4c400a9d4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-383-2022",
+   "path": "local/constanta/mangalia/2022/383",
+   "short": "HCL Mangalia nr. 383/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 383/2022 privind trecerea din domeniul public în domeniul privat al Municipiului Mangalia, precum și actualizarea și completarea Inventarului bunurilor care alcătuiesc domeniul privat al U.A.T",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-383.pdf",
+     "sha256": "05984e3777469261a0f331b409ce5f05ba0a01af66a4a8d4e8ec5caf8fb66b36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-388-2022",
+   "path": "local/constanta/mangalia/2022/388",
+   "short": "HCL Mangalia nr. 388/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 388/2022 privind nominalizarea reprezentanților Consiliului Local al Municipiului Mangalia în cadrul Consiliilor de Admi- nistrație și a Comisiilor pentru evaluarea și asigurarea calității la unitățile de învățământ preuniversitar aflate în Municipiul Mangalia, în anul școlar 2022-2023 Consiliul Local Mangalia, întrunit în ședința extordinară, convocată de îndată, din data de 08.12.2022, Având în vedere: •",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-388.pdf",
+     "sha256": "fdd016779a7c204873e660090dd985882e8ce0889a2a5638a71f03a9093381e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-390-2022",
+   "path": "local/constanta/mangalia/2022/390",
+   "short": "HCL Mangalia nr. 390/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 390/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-390.pdf",
+     "sha256": "413888e79b50e7a129c3ff02f8f56a374fa8cc02b10fc86f57008a98edd1777a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-42-2022",
+   "path": "local/constanta/mangalia/2022/42",
+   "short": "HCL Mangalia nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 42/2022 privind aprobarea numÄrului Èi a cuantumului burselor acordate elevilor din Ã®nvÄÈÄmÃ¢ntul preuniversitar de stat Ã®n anul Ècolar 2021-2022, semestrul II",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-42.pdf",
+     "sha256": "a3286e90f7db4b28536bb8d6dcbd26a03debd0dd203b290b431dfc112f354321"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-43-2022",
+   "path": "local/constanta/mangalia/2022/43",
+   "short": "HCL Mangalia nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 43/2022 privind transformarea unor funcÅ£ii vacante de naturÄ contractualÄ din statul de funcÅ£ii al aparatului de specialitate al Primarului Municipiului Mangalia",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-43.pdf",
+     "sha256": "70199394ad599a80ef18e64bbee445219aa8af7ab0be365cc48ee284abca378c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mangalia-46-2022",
    "path": "local/constanta/mangalia/2022/46",
    "short": "HCL Mangalia nr. 46/2022",
@@ -119,6 +899,201 @@
      "units": 5,
      "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-46.pdf",
      "sha256": "d7f5228ef6da7573ac97b8560764f7cc640d3be22a579204c5fd29d349962bdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-47-2022",
+   "path": "local/constanta/mangalia/2022/47",
+   "short": "HCL Mangalia nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 47/2022 privind desemnarea consilierilor locali Ã®n comisia de evaluare a performanÅ£elor profesionale individuale ale Secretarului general al municipiului Mangalia, pentru activitatea desfÄÅuratÄ Ã®n anul 2021",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-47.pdf",
+     "sha256": "ff6d4f56f8f5b7f1e8637772e3725aa4cb54b308a0f127611fd4ce0e15de76f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-54-2022",
+   "path": "local/constanta/mangalia/2022/54",
+   "short": "HCL Mangalia nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 54/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-54.pdf",
+     "sha256": "47fbbf17faad527623ce00d75cc25741f25cf9e4ea96ee754c98c41f16dfea4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-67-2022",
+   "path": "local/constanta/mangalia/2022/67",
+   "short": "HCL Mangalia nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 67/2022 privind aprobarea Ã®ncheierii unui protocol de colaborare Ã®n vederea realizÄrii obiectivului de investiÈie âSistematizarea intersecÈiilor DN39 (str. Portului) cu str",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-67.pdf",
+     "sha256": "3371d72c0800abaa7a19d13fe76a4452c48a04f8f76295a3b02a4484b4697553"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-70-2022",
+   "path": "local/constanta/mangalia/2022/70",
+   "short": "HCL Mangalia nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 70/2022 privind trecerea din domeniul privat Ã®n domeniul public al U.A.T",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-70.pdf",
+     "sha256": "f198c742f29a03a736a5c2ee22c074df383b76fb364dd0e0973f06bd94e25083"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-71-2022",
+   "path": "local/constanta/mangalia/2022/71",
+   "short": "HCL Mangalia nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 71/2022 privind trecerea din domeniul public Ã®n domeniul privat al Municipiului Mangalia, precum Èi actualizarea Èi completarea Inventarului bunurilor care alcÄtuiesc domeniul privat al U.A.T",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-71.pdf",
+     "sha256": "a70302965ea26bcbbb4df8d9389ceb3c3e528d91adb80add7fcf8c01c9d1e34e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-73-2022",
+   "path": "local/constanta/mangalia/2022/73",
+   "short": "HCL Mangalia nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 73/2022 privind aprobarea dezmembrÄrii imobilului teren Ã®n suprafaÈÄ de 40808mp situat Ã®n Municipiul Mangalia, zona limitrofÄ dintre Saturn Èi Venus, Lot 1, jud. ConstanÈa",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-73.pdf",
+     "sha256": "33e65ba5c85d3db0368845c7c10bf0acf03cce3d9e535f833856a49a1f083145"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-75-2022",
+   "path": "local/constanta/mangalia/2022/75",
+   "short": "HCL Mangalia nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 75/2022 privind aprobarea dezmembrÄrii imobilului Ã®n suprafaÈÄ de 4860mp din acte (2662mp din mÄsurÄtori), situat Ã®n Municipiul Mangalia, str.Petre Ispirescu, nr.2, jud. ConstanÈa",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-75.pdf",
+     "sha256": "63e00456fbeba0e44897c35fac8ded6e769613cc7ff98348bc8032561968d045"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-82-2022",
+   "path": "local/constanta/mangalia/2022/82",
+   "short": "HCL Mangalia nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 82/2022 privind aprobarea Ã®nchirierii prin licitaÈie publicÄ a unui numÄr de 7(Èapte) spaÅ£ii cu destinaÈia de birouri, situate Ã®n Municipiul Mangalia, Club Nautic Callatis, str.Portului, nr.82C, jud. ConstanÅ£a",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-82.pdf",
+     "sha256": "1200e36f2a522809be2068cca673c5b53c78cb9cfb80ac4a546a644dc0d4daec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-86-2022",
+   "path": "local/constanta/mangalia/2022/86",
+   "short": "HCL Mangalia nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 86/2022 privind aprobarea documentatei tehnico-economicÄ pentru investiÈia: âMODERNIZARE, SUPRAETAJARE, EXTINDERE ÈI ÃNCHIDERE TERASÄ LA SPITALUL MUNICIPAL MANGALIA, JUD. CONSTANÈA , Pavilion B, Pavilion C Èi Anatomie PatologicÄâ",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-86.pdf",
+     "sha256": "71c15db0c5deb4e420a2f64701b9269f3355a18978f8c13ee7b874bb4ada308d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-88-2022",
+   "path": "local/constanta/mangalia/2022/88",
+   "short": "HCL Mangalia nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 88/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-20",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-88.pdf",
+     "sha256": "cc30d42fbdcce440915ec6a96c208eb4ce27814ede489553a813b3f294ba1d37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-93-2022",
+   "path": "local/constanta/mangalia/2022/93",
+   "short": "HCL Mangalia nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 93/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-93.pdf",
+     "sha256": "5eb4c975f051af571a3d97e0d4f049e467143de4e8f769b98c981c242e07df08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-94-2022",
+   "path": "local/constanta/mangalia/2022/94",
+   "short": "HCL Mangalia nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 94/2022 privind mandatarea Ã®n mod expres a reprezentantului Consiliului Local al Municipiului Mangalia Ã®n cadrul AdunÄrii Generale a AcÈionarilor a S.C",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-05-05",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-94.pdf",
+     "sha256": "14f1e3336520e091c8e709184e894a768eedc07337d94d26e95886909bb808eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-98-2022",
+   "path": "local/constanta/mangalia/2022/98",
+   "short": "HCL Mangalia nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 98/2022 privind aprobarea documentaÈiei tehnico-economicÄ pentru investiÈia: âMODERNIZARE, SUPRAETAJARE, EXTINDERE ÈI ÃNCHIDERE TERASÄ LA SPITALUL MUNICIPAL MANGALIA, JUD. CONSTANÈA , Pavilion B, Pavilion C Èi Anatomie PatologicÄâ",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-98.pdf",
+     "sha256": "1c77156de43b164cd9d1bd260d900ede3987e865909a0e2a4ac34cf889306164"
     }
    ]
   }

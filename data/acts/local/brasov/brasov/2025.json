@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/brasov/brasov/2025",
+"acts": [
+{
+"slug": "hcl-brasov--brasov-9-2025",
+"path": "local/brasov/brasov/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brașov nr. 9/2025",
+"short": "HCL Brașov nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-24",
+"latest": "2025-11-24",
+"portal": "https://www.brasovcity.ro/monitorul-oficial-local/alte-documente",
+"council": "brasov/brasov",
+"council_name": "Consiliul Local al Municipiului Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

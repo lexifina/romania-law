@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/cluj-napoca/2012",
+ "acts": [
+  {
+   "slug": "hcl-cluj--cluj-napoca-15-2012",
+   "path": "local/cluj/cluj-napoca/2012/15",
+   "short": "HCL Cluj-Napoca nr. 15/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Cluj-Napoca nr. 15/2012",
+   "url": "https://primariaclujnapoca.ro/consiliu-local/hotarare-de-consiliu/hotararea-15-din-2012/",
+   "versions": [
+    {
+     "from": "2012-01-19",
+     "units": 1,
+     "source_url": "https://primariaclujnapoca.ro/userfiles/files/HCL-uri%2019%20ianuarie%202012/15.PDF",
+     "sha256": "f1cf7591bf5cf5c1996dea2fb2b98987ab7047ea9b822258c788e0ba933b8fff"
+    }
+   ]
+  }
+ ]
+}

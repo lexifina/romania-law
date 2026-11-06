@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/constanta/medgidia/2024",
+"acts": [
+{
+"slug": "hcl-constanta--medgidia-147-2024",
+"path": "local/constanta/medgidia/2024/147",
+"kind": "local",
+"year": "2024",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 147/2024 privind aprobarea contractării unui împrumut în valoare de 20.000.000 lei, în conformitate cu prevederile art. I din Ordonanța de urgență a Guvernului nr. 35/2024 pentru asigurarea unor împrumuturi din Trezoreria Statului, precum și pentru modificarea și completarea unor acte normative aferente reprezentării statului în litigiile arbitrale și judiciare internaționale și concesionării proprietății",
+"short": "HCL Medgidia nr. 147/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-30",
+"latest": "2024-05-30",
+"portal": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "constanta/medgidia",
+"council_name": "Consiliul Local al Municipiului Medgidia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--medgidia-151-2024",
+"path": "local/constanta/medgidia/2024/151",
+"kind": "local",
+"year": "2024",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 151/2024 privind aprobarea contractării unui împrumut în valoare de 15.905.397 lei, în conformitate cu prevederile art. I din Ordonanța de urgență a Guvernului nr. 35/2024 pentru asigurarea unor împrumuturi din Trezoreria Statului, precum și pentru modificarea și completarea unor acte normative aferente reprezentării statului în litigiile arbitrale și judiciare internaționale și concesionării proprietății",
+"short": "HCL Medgidia nr. 151/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "constanta/medgidia",
+"council_name": "Consiliul Local al Municipiului Medgidia",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/braila/braila/2025",
+"acts": [
+{
+"slug": "hcl-braila--braila-139-2025",
+"path": "local/braila/braila/2025/139",
+"kind": "local",
+"year": "2025",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 139/2025",
+"short": "HCL Brăila nr. 139/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+"council": "braila/braila",
+"council_name": "Consiliul Local al Municipiului Brăila",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--braila-283-2025",
+"path": "local/braila/braila/2025/283",
+"kind": "local",
+"year": "2025",
+"number": "283",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 283/2025",
+"short": "HCL Brăila nr. 283/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+"council": "braila/braila",
+"council_name": "Consiliul Local al Municipiului Brăila",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--braila-284-2025",
+"path": "local/braila/braila/2025/284",
+"kind": "local",
+"year": "2025",
+"number": "284",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 284/2025",
+"short": "HCL Brăila nr. 284/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+"council": "braila/braila",
+"council_name": "Consiliul Local al Municipiului Brăila",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--braila-339-2025",
+"path": "local/braila/braila/2025/339",
+"kind": "local",
+"year": "2025",
+"number": "339",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 339/2025",
+"short": "HCL Brăila nr. 339/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-25",
+"latest": "2025-06-25",
+"portal": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+"council": "braila/braila",
+"council_name": "Consiliul Local al Municipiului Brăila",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--braila-340-2025",
+"path": "local/braila/braila/2025/340",
+"kind": "local",
+"year": "2025",
+"number": "340",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 340/2025",
+"short": "HCL Brăila nr. 340/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-25",
+"latest": "2025-06-25",
+"portal": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+"council": "braila/braila",
+"council_name": "Consiliul Local al Municipiului Brăila",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

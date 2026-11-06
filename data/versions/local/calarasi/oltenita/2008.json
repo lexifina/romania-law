@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/oltenita/2008",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--oltenita-79-2008",
+   "path": "local/calarasi/oltenita/2008/79",
+   "short": "HCL Oltenița nr. 79/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 79/2008 pentru modificarea anexei nr. 1 la Hotararea nr.52/30.04.2008 a Consiliului local al municipiului Oltenița privind aprobarea/respingerea cererilor de atribuire terenuri din municipiul Oltenița Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2023/",
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/13/79-Hotarare-pentru-modificarea-anexei-nr.-1-la-Hotararea-nr.5230.04.2008-a-Consiliului-local-al-.pdf",
+     "sha256": "7bae5f9793ac268da951b5df00bc8aa898dad31741f43b842275fb8be3169a80"
+    }
+   ]
+  }
+ ]
+}

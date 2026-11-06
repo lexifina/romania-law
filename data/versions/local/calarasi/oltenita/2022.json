@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/oltenita/2022",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--oltenita-118-2022",
+   "path": "local/calarasi/oltenita/2022/118",
+   "short": "HCL Oltenița nr. 118/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 118/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b4242c2b7ac19dee4051bb2789b832b09a739415e267f800b91f694133ea5222"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-119-2022",
+   "path": "local/calarasi/oltenita/2022/119",
+   "short": "HCL Oltenița nr. 119/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 119/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "41961ba94acdf60f8e5a3b0c08efe589b9ef7f38796de4a803e3179651ec845e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-74-2022",
+   "path": "local/calarasi/oltenita/2022/74",
+   "short": "HCL Oltenița nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 74/2022 privind aprobarea situațiilor financiare anuale incheiate la data de 31.12.2022 de către S.C",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2023/",
+   "versions": [
+    {
+     "from": "2022-12-31",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/13/74-Hotarare-privind-aprobarea-situatiilor-financiare-anuale-incheiate-la-data-de-31.12.2022-de-c.pdf",
+     "sha256": "a92b5a7070d6a3c15dd823876a66c64f367d56b8dd32ace07b5d08adcbf9daa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-98-2022",
+   "path": "local/calarasi/oltenita/2022/98",
+   "short": "HCL Oltenița nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 98/2022 privind modificarea Hotărârii nr. 10128.07.2022 a Consiliului Local al municipiului Oltenița, privind aprobarea Documentației de avizare a lucrărilor de intervenție, a indicatorilor tehnico – economici inițiali si actualizați si a devizului general initial si actualizat, aferente obiectivului de investiții “Modernizare străzi fara fundație in municipiul Oltenița, județul Calarasi”. Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2023/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/13/98-Hotarare-privind-modificarea-Hotararii-nr.-10128.07.2022-a-Consiliului-Local-al-municipiului-.pdf",
+     "sha256": "ea0b0c07fa2cbe9c69ba5fac755513bb7b8176283cb2a2f88ec15ba6bed5820d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-99-2022",
+   "path": "local/calarasi/oltenita/2022/99",
+   "short": "HCL Oltenița nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 99/2022 pentru modificarea sumelor prevăzute la art. 1 din Hotararea nr. 102/28.07.2022, a Consiliului local al municipiului Oltenița privind aprobarea categoriilor de cheltuieli finanțate de la bugetul local, aferente obiectivului de investiții “Modernizare străzi fara fundație in municipiul Oltenița” Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2023/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/13/99-Hotarare-pentru-modificarea-sumelor-prevazute-la-art.-1-din-Hotararea-nr.-10228.07.2022-a-Con.pdf",
+     "sha256": "7f97cdd965828f981ab02cc52404bf0d9be0335374685bbf579f6f15b3b77b7e"
+    }
+   ]
+  }
+ ]
+}

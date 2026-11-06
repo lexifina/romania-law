@@ -3,6 +3,141 @@
  "shard": "local/constanta/mangalia/2020",
  "acts": [
   {
+   "slug": "hcl-constanta--mangalia-10-2020",
+   "path": "local/constanta/mangalia/2020/10",
+   "short": "HCL Mangalia nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 10/2020 privind aprobarea organizării rețelei școlare a unităților de învățământ de stat și particular, pe teritoriul administrativ al municipiului Mangalia, în anul școlar 2020 – 2021",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "http://mangalia.ro/wp-content/uploads/2020/02/HCL-10.pdf",
+     "sha256": "8cd63a13893330f7ffda87b23c8dc77e1afd2b36d61a00f797fc0fa9ae528f00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-170-2020",
+   "path": "local/constanta/mangalia/2020/170",
+   "short": "HCL Mangalia nr. 170/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 170/2020 privind aprobarea cotelor lunare de carburant pentru autovehiculele aflate în dotarea Direcției Gospodărire Urbană și Servicii de Utilități Publice din cadrul aparatului de specialitate al Primarului Municipiului Mangalia",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-170.pdf",
+     "sha256": "dc7f6b8a716f43cd70958678c8efa5ba248785db6eb9475c83bf56aca8768301"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-183-2020",
+   "path": "local/constanta/mangalia/2020/183",
+   "short": "HCL Mangalia nr. 183/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 183/2020 privind aprobarea dezmembrării imobilului teren în suprafață de 1052 mp situat în Municipiul Mangalia, Stațiunea Jupiter, str.Gala Galaction, nr.5, jud. Constanța",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-183.pdf",
+     "sha256": "79e4a74a07e76b5d662679b59e82bffa6516be6c1e616a4a666e6222553fedbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-201-2020",
+   "path": "local/constanta/mangalia/2020/201",
+   "short": "HCL Mangalia nr. 201/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 201/2020 privind aprobarea dezmembrării imobilului teren în suprafață de 2620mp situat în Municipiul Mangalia, str.Rozelor, nr.27B, jud. Constanța",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-201.pdf",
+     "sha256": "fd64c23234e840fdaa75daad702476cd49f7da4c0f5acd88144bcae95a59e564"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-208-2020",
+   "path": "local/constanta/mangalia/2020/208",
+   "short": "HCL Mangalia nr. 208/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 208/2020 privind actualizarea documentației tehnice (faza D.A.L.I.) cu titlul ”MODERNIZAREA CLĂDIRII PUBLICE – LICEUL TEORETIC CALLATIS, MUNICIPIUL MANGALIA, JUDEȚUL CONSTANȚA” aferenta proiectului ”Creșterea eficienței energetice a clădirii publice - Liceul Callatis, Mangalia, județul Constanța” Consiliul Local Mangalia, întrunit în ședința extraordinară din data de 31.08.2020, Având în vedere: • Proiectu",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-208.pdf",
+     "sha256": "79a5b48a031da7cf74f28ec4064833e0992e1153d4ee35c1886963ce6ea56eed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-209-2020",
+   "path": "local/constanta/mangalia/2020/209",
+   "short": "HCL Mangalia nr. 209/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 209/2020 privind actualizarea documentației tehnice (faza DALI) cu titlul ”MODERNIZAREA CLĂDIRII PUBLICE – ȘCOALA GIMNAZIALĂ SFÂNTUL ANDREI” aferentă proiectului ”Creșterea eficienței energetice a clădirii publice – Școala Gimnazială Sf. Andrei, Municipiul Mangalia, județul Constanța” Consiliul Local Mangalia, întrunit în ședința extraordinară din data de 31.08.2020, Având în vedere: • Proiectul de hotărâr",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-209.pdf",
+     "sha256": "b162070bae27fa23a26ba35f616c368fe558649980d56b3d64098cd36214584f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-210-2020",
+   "path": "local/constanta/mangalia/2020/210",
+   "short": "HCL Mangalia nr. 210/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 210/2020 privind actualizarea documentației tehnice (faza D.A.L.I.) cu titlul ”Modernizarea clădirii publice – Grădinița Nr. 3, Municipiul Mangalia, Județul Constanta” aferentă proiectului „Creșterea eficienței energetice a clădirii publice - Grădinița Nr. 3, Mangalia, județul Constanța” Consiliul Local Mangalia, întrunit în ședința extraordinară din data de 31.08.2020, Având în vedere: • Proiectul de hotă",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-210.pdf",
+     "sha256": "44610a9aceb2925996459b47866dd39f85d99f6f6d6fea628dc996754cf8b86a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-211-2020",
+   "path": "local/constanta/mangalia/2020/211",
+   "short": "HCL Mangalia nr. 211/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 211/2020 privind aprobarea dezmembrării imobilului teren în suprafață de 44112 mp situat în Municipiul Mangalia, Stațiunea Venus, str",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-211.pdf",
+     "sha256": "8a9c4d2f5fdab79c1a671e2d5077b25d2b2358c4427baefe67857dca965cea6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-212-2020",
+   "path": "local/constanta/mangalia/2020/212",
+   "short": "HCL Mangalia nr. 212/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 212/2020 privind aprobarea documentației tehnice și a indicatorilor tehnico-economici aferente proiectului: „Înființare sistem irigații: zona Biblioteca Municipală; zona str. Teilor; scuar ancora Port turistic; scuar Saturn; scuar Primărie; parc str",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-212.pdf",
+     "sha256": "5d7b28471173294450fc66c777b3bb482310a068993fe5a2bcd69b2c734b32bf"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mangalia-227-2020",
    "path": "local/constanta/mangalia/2020/227",
    "short": "HCL Mangalia nr. 227/2020",
@@ -14,6 +149,21 @@
      "units": 7,
      "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-227.pdf",
      "sha256": "67a23fbf966b90a69b792eb3da64bcd25072b4539356b2dc4f932781d8a443bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-233-2020",
+   "path": "local/constanta/mangalia/2020/233",
+   "short": "HCL Mangalia nr. 233/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 233/2020 privind organizarea la nivelul SPITALULUI MUNICIPAL MANGALIA a unei linii de gardă în specialitatea anestezie terapie intensivă, în regim de gardă la domiciliu",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-09-16",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-233.pdf",
+     "sha256": "ce3c4848fd8d8866e3a4cc0da153ee618dadda127a931edadcfcc1d9f9335ec2"
     }
    ]
   },
@@ -33,6 +183,66 @@
    ]
   },
   {
+   "slug": "hcl-constanta--mangalia-241-2020",
+   "path": "local/constanta/mangalia/2020/241",
+   "short": "HCL Mangalia nr. 241/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 241/2020 privind serviciile sociale administrate și finanțate din bugetul local al municipiului Mangalia pentru anul 2020",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-09-16",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-241.pdf",
+     "sha256": "d7e67d4c76af24fb2ee76034fa7490d8b88ed1b180758a0c67ae58a98c4d8491"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-26-2020",
+   "path": "local/constanta/mangalia/2020/26",
+   "short": "HCL Mangalia nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 26/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "http://mangalia.ro/wp-content/uploads/2020/02/HCL-26.pdf",
+     "sha256": "fe205da3ae7ac4948ec98a58f526aaafd3c544c612a377cddddd80abb6103609"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-262-2020",
+   "path": "local/constanta/mangalia/2020/262",
+   "short": "HCL Mangalia nr. 262/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 262/2020 privind aprobarea vânzării terenului în suprafață de 19mp din acte (18 mp din măsurători) situat în Municipiul Mangalia, Str",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-09-16",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-262.pdf",
+     "sha256": "a4475872e421403d02d445b942508f0d374071b16f9c9481a225667667af5353"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-265-2020",
+   "path": "local/constanta/mangalia/2020/265",
+   "short": "HCL Mangalia nr. 265/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 265/2020 privind aprobarea vânzării terenului în suprafață de 1200mp situat în Municipiul Mangalia, Stațiunea Jupiter, Str. Brindisi, Nr.13C, Jud. Constanța",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-09-16",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-265.pdf",
+     "sha256": "854382c3a34a1487d56279afc0eabdf33ae1233468bdd88ef819453f80ed3df2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mangalia-27-2020",
    "path": "local/constanta/mangalia/2020/27",
    "short": "HCL Mangalia nr. 27/2020",
@@ -44,6 +254,306 @@
      "units": 4,
      "source_url": "http://mangalia.ro/wp-content/uploads/2020/02/HCL-27.pdf",
      "sha256": "6f3814f877c460fdf7316d9b87c4ce67e597576835ac8a28fb2f477d94f6c15b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-34-2020",
+   "path": "local/constanta/mangalia/2020/34",
+   "short": "HCL Mangalia nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 34/2020 privind aprobarea proiectului cu finanțare nerambursabilă ”GRĂDINA CULTURALĂ CALLATIS” (Cod unic proiect CALL02-115), Promotor proiect Direcția Cultură și Sport Mangalia, cu partene- rul norvegian Lise Wulff, în cadrul Programului RO – CULTURA, apelul Consolidarea antrepreno- rialului cultural și Dezvoltarea audienței și a publicului, parte integrantă a Mecanismului Fi- nanciar al Spațiului Econom",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "http://mangalia.ro/wp-content/uploads/2020/02/HCL-34.pdf",
+     "sha256": "17f9945b6141fd079c3bd6fd61f52619ca143c01885c37d2f28b70a6799d035d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-35-2020",
+   "path": "local/constanta/mangalia/2020/35",
+   "short": "HCL Mangalia nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 35/2020 privind aprobarea documentației tehnice (faza S.F.) și a indicatorilor tehnico-economici aferente proiectu- lui: „AMENAJARE PARCAJ STRADA PICTOR TONITZA, LA EST DE BLOCUL F3” Municipiul Mangalia Consiliul Local Mangalia, întrunit în ședința ordinară din data de 18.02.2020, Având în vedere: • Proiectul de hotarare nr.29/07.02.2020 initiat Primarul Municipiului Mangalia si aprobat de membrii Consili",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "http://mangalia.ro/wp-content/uploads/2020/02/HCL-35.pdf",
+     "sha256": "ecb083fd37047aa3f85ccf29ebd602f0d849033435a1fbbabf2a9eee00910d11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-5-2020",
+   "path": "local/constanta/mangalia/2020/5",
+   "short": "HCL Mangalia nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 5/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "http://mangalia.ro/wp-content/uploads/2020/02/HCL-5.pdf",
+     "sha256": "34381fbe5b9dfa8b7850ae954ee9ec6345aaad11837d92606ba65ff143878975"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-51-2020",
+   "path": "local/constanta/mangalia/2020/51",
+   "short": "HCL Mangalia nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 51/2020 privind aprobarea proiectului ”CREȘTEREA EFICIENȚEI ENERGETICE A SISTEMULUI DE ILUMINAT PUBLIC DIN MUNICIPIUL MANGALIA PRIN EXTINDEREA ȘI MODERNIZAREA REȚELEI DE ILUMINAT PUBLIC – 2” și a surselor de finanțare",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "http://mangalia.ro/wp-content/uploads/2020/02/HCL-51.pdf",
+     "sha256": "52354d879522e6af597d91871b1efaba1d83435b3945dc76303ec3058ad57b6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-52-2020",
+   "path": "local/constanta/mangalia/2020/52",
+   "short": "HCL Mangalia nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 52/2020 privind stabilirea procedurii de desfășurare a ședințelor Consiliului Local al Municipiului Mangalia, în situații excepționale, constatate de autoritățile abilitate",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 1,
+     "source_url": "http://mangalia.ro/wp-content/uploads/2020/02/HCL-52.pdf",
+     "sha256": "cf25aca6d50131ad36d6e6fac7a95b94be1ab6973b8c072e01e5499e8ee8d8e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-60-2020",
+   "path": "local/constanta/mangalia/2020/60",
+   "short": "HCL Mangalia nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 60/2020 Privind prorogarea până la 30 iunie 2020 inclusiv a termenelor de plată pentru obligațiile bugetare reprezentând chirie, redevență sau cotă minimă de participare aferente contractelor încheiate la nivelul U.A.T",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "http://mangalia.ro/wp-content/uploads/2020/02/HCL-60.pdf",
+     "sha256": "73265b245254fc9527200a13eb6cbfe28a070bb168bc9169d1e2993d49e3510a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-61-2020",
+   "path": "local/constanta/mangalia/2020/61",
+   "short": "HCL Mangalia nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 61/2020 privind aprobarea încheierii unui Protocol de Colaborare între Municipiul Mangalia şi Sanatoriul Balnear și de Recuperare Mangalia, în vederea punerii la dispoziţia autorităţii publice locale a unor spaţii adecvate măsurilor de izolare a persoanelor asimptomatice care sosesc în România din",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "http://mangalia.ro/wp-content/uploads/2020/02/HCL-61.pdf",
+     "sha256": "c5afd549f8a9fed32af978322f6198e99e9ea099b738ca567cd20b4eb3d1465c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-65-2020",
+   "path": "local/constanta/mangalia/2020/65",
+   "short": "HCL Mangalia nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 65/2020 privind aprobarea numărului și a cuantumului burselor acordate elevilor din învățământul preuniversitar de stat în anul școlar 2019-2020, semestrul II",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-65.pdf",
+     "sha256": "b686790a65f6d7c9337f8e02a466938db90e2dd4b55e763d7bc46150831e0b9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-69-2020",
+   "path": "local/constanta/mangalia/2020/69",
+   "short": "HCL Mangalia nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 69/2020 privind aprobarea atribuirii în gestiune delegată a serviciului de transport public local de persoane prin curse regulate în Municipiul Mangalia –TRASEU MANGALIA",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-69.pdf",
+     "sha256": "381da1d1e0bdf4a5f626cdb96e1c2a9eb61c58d3d54d357103d1e5eb54fdc1a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-7-2020",
+   "path": "local/constanta/mangalia/2020/7",
+   "short": "HCL Mangalia nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 7/2020",
+   "url": "https://mangalia.ro/2020/12/hotararea-nr-7-din-21-12-2020-adoptata-de-comitetul-local-pentru-situatii-de-urgenta-constituit-la-nivelul-municipiului-mangalia/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/12/UTF-8HotC483rC3A2rea20Comitetului20Local20pentru20SituaC89Bii20de20UrgenC89BC48320Mangalia20nr.720din2021.12.20201.pdf",
+     "sha256": "3ef79fd03bdcecd5809e575cc5b8142a14b185181ee487072cb40803ebdf8cfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-72-2020",
+   "path": "local/constanta/mangalia/2020/72",
+   "short": "HCL Mangalia nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 72/2020 privind aprobarea dezmembrării imobilului teren în suprafață de 2180mp situat în Municipiul Mangalia, Str.Portului, Zona Port Turistic, Tronson 2, Lot.2, Jud. Constanța",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-72.pdf",
+     "sha256": "b84eff11011aecdd44d6d148e8d580da9e56233516a0976e7d5a4f8a3a6d8d1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-73-2020",
+   "path": "local/constanta/mangalia/2020/73",
+   "short": "HCL Mangalia nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 73/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-73.pdf",
+     "sha256": "c2b695dfde3b6193d9e07f785b96120059d355e0926d0a45aa499cae705e05fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-74-2020",
+   "path": "local/constanta/mangalia/2020/74",
+   "short": "HCL Mangalia nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 74/2020 privind aprobarea dezmembrării imobilului teren în suprafață de 1491mp situat în Municipiul Mangalia, Stațiunea Olimp, Str.Faleză Olimp, nr.5A, Jud. Constanța",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-74.pdf",
+     "sha256": "dd6463d8451ea500a1a79f455db480b9ff5bc74e9b208575d0bbc3deb01acc71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-8-2020",
+   "path": "local/constanta/mangalia/2020/8",
+   "short": "HCL Mangalia nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 8/2020",
+   "url": "https://mangalia.ro/2020/12/hotararea-nr-8-din-30-12-2020-adoptata-de-comitetul-local-pentru-situatii-de-urgenta-constituit-la-nivelul-municipiului-mangalia/",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HOTARARE-CLSU-nr.-8-din-30.12.2020.pdf",
+     "sha256": "7b535d0aced55921fe86a4a9a3ea46b92c3884c5b0c533df5c4dea697020db14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-86-2020",
+   "path": "local/constanta/mangalia/2020/86",
+   "short": "HCL Mangalia nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 86/2020 privind aprobarea vânzării terenului în suprafață de 1194 mp situat în Municipiul Mangalia, Stațiunea Jupiter, Str. Brindisi, Nr.13 – Lot3, Jud. Constanța",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-86.pdf",
+     "sha256": "766450b6a3ec6cf614cc859a7e3ddf6c20b932b57734e434789eef2643c10761"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-89-2020",
+   "path": "local/constanta/mangalia/2020/89",
+   "short": "HCL Mangalia nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 89/2020 privind aprobarea vânzării terenului în suprafață de 420 mp situat în Municipiul Mangalia, Stațiunea Jupiter, Str. Brindisi, Nr.13 – Lot2, jud. Constanța",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-89.pdf",
+     "sha256": "997454a06eddf755a2461f483468f65ea3928223f6a0002ac185028a455207e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-90-2020",
+   "path": "local/constanta/mangalia/2020/90",
+   "short": "HCL Mangalia nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 90/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-90.pdf",
+     "sha256": "0c7fca1ffdfd57147ef6c8d8ec7686bf2297ab3f0c9a21620127f00ed812ec82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-92-2020",
+   "path": "local/constanta/mangalia/2020/92",
+   "short": "HCL Mangalia nr. 92/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 92/2020 privind aprobarea vânzării terenului în suprafață de611,31 din acte(615mp din măsurători) situat în Municipiul Mangalia, Stațiunea Neptun, Str",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-92.pdf",
+     "sha256": "de3d14682290a5622ab9ab548e56707de5553d7e62385c6b4b11561732b6e5aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-93-2020",
+   "path": "local/constanta/mangalia/2020/93",
+   "short": "HCL Mangalia nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 93/2020 privind aprobarea vânzării terenului în suprafață de 17 mp situat în Municipiul Mangalia, Str.Negru-Vodă, Nr.11, Bl.A100, Sc.E, Parter, Ap.84 – extindere, Jud. Constanța",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-93.pdf",
+     "sha256": "5071fd17dc7bd8732a492c5234ee4a62c8c44d89effe219ac398a0774c13a979"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-94-2020",
+   "path": "local/constanta/mangalia/2020/94",
+   "short": "HCL Mangalia nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 94/2020 privind aprobarea vânzării terenului în suprafață de 900 mp situat în Municipiul Mangalia, Stațiunea Olimp, Str. Trandafirilor, nr. 37E, Jud. Constanța",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-94.pdf",
+     "sha256": "3403f6e9a4bc58b716572e093b0383fe0607216ad24c0a5233c9ced9065b1c0e"
     }
    ]
   }

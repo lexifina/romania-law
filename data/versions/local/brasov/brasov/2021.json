@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/brasov/2021",
+ "acts": [
+  {
+   "slug": "hcl-brasov--brasov-3-2021",
+   "path": "local/brasov/brasov/2021/3",
+   "short": "HCL Brașov nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Brașov nr. 3/2021",
+   "url": "https://www.brasovcity.ro/monitorul-oficial-local/alte-documente",
+   "versions": [
+    {
+     "from": "2021-04-07",
+     "units": 1,
+     "source_url": "https://www.brasovcity.ro/monitorul-oficial-local/alte-documente",
+     "sha256": "65f1509c95f836bb487312bf89b63a5557b1fda1cd8d4c0200e574f90d5006a1"
+    }
+   ]
+  }
+ ]
+}

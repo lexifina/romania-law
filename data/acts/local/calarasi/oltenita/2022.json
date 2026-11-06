@@ -1,0 +1,118 @@
+{
+"country": "RO",
+"shard": "local/calarasi/oltenita/2022",
+"acts": [
+{
+"slug": "hcl-calarasi--oltenita-74-2022",
+"path": "local/calarasi/oltenita/2022/74",
+"kind": "local",
+"year": "2022",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 74/2022 privind aprobarea situațiilor financiare anuale incheiate la data de 31.12.2022 de către S.C",
+"short": "HCL Oltenița nr. 74/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-31",
+"latest": "2022-12-31",
+"portal": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2023/",
+"council": "calarasi/oltenita",
+"council_name": "Consiliul Local al Municipiului Oltenița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--oltenita-98-2022",
+"path": "local/calarasi/oltenita/2022/98",
+"kind": "local",
+"year": "2022",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 98/2022 privind modificarea Hotărârii nr. 10128.07.2022 a Consiliului Local al municipiului Oltenița, privind aprobarea Documentației de avizare a lucrărilor de intervenție, a indicatorilor tehnico – economici inițiali si actualizați si a devizului general initial si actualizat, aferente obiectivului de investiții “Modernizare străzi fara fundație in municipiul Oltenița, județul Calarasi”. Vizualizare",
+"short": "HCL Oltenița nr. 98/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-28",
+"latest": "2022-07-28",
+"portal": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2023/",
+"council": "calarasi/oltenita",
+"council_name": "Consiliul Local al Municipiului Oltenița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--oltenita-99-2022",
+"path": "local/calarasi/oltenita/2022/99",
+"kind": "local",
+"year": "2022",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 99/2022 pentru modificarea sumelor prevăzute la art. 1 din Hotararea nr. 102/28.07.2022, a Consiliului local al municipiului Oltenița privind aprobarea categoriilor de cheltuieli finanțate de la bugetul local, aferente obiectivului de investiții “Modernizare străzi fara fundație in municipiul Oltenița” Vizualizare",
+"short": "HCL Oltenița nr. 99/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-28",
+"latest": "2022-07-28",
+"portal": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2023/",
+"council": "calarasi/oltenita",
+"council_name": "Consiliul Local al Municipiului Oltenița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--oltenita-118-2022",
+"path": "local/calarasi/oltenita/2022/118",
+"kind": "local",
+"year": "2022",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 118/2022",
+"short": "HCL Oltenița nr. 118/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-27",
+"latest": "2022-03-27",
+"portal": null,
+"council": "calarasi/oltenita",
+"council_name": "Consiliul Local al Municipiului Oltenița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--oltenita-119-2022",
+"path": "local/calarasi/oltenita/2022/119",
+"kind": "local",
+"year": "2022",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 119/2022",
+"short": "HCL Oltenița nr. 119/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": null,
+"council": "calarasi/oltenita",
+"council_name": "Consiliul Local al Municipiului Oltenița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/cluj/cluj-napoca/2011",
+"acts": [
+{
+"slug": "hcl-cluj--cluj-napoca-178-2011",
+"path": "local/cluj/cluj-napoca/2011/178",
+"kind": "local",
+"year": "2011",
+"number": "178",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Cluj-Napoca nr. 178/2011",
+"short": "HCL Cluj-Napoca nr. 178/2011",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2011-05-10",
+"latest": "2011-05-10",
+"portal": "https://primariaclujnapoca.ro/consiliu-local/hotarare-de-consiliu/hotararea-178-din-2011/",
+"council": "cluj/cluj-napoca",
+"council_name": "Consiliul Local al Municipiului Cluj-Napoca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cluj-napoca-440-2011",
+"path": "local/cluj/cluj-napoca/2011/440",
+"kind": "local",
+"year": "2011",
+"number": "440",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Cluj-Napoca nr. 440/2011",
+"short": "HCL Cluj-Napoca nr. 440/2011",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2011-11-29",
+"latest": "2011-11-29",
+"portal": "https://primariaclujnapoca.ro/consiliu-local/hotarare-de-consiliu/hotararea-440-din-2011/",
+"council": "cluj/cluj-napoca",
+"council_name": "Consiliul Local al Municipiului Cluj-Napoca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cluj-napoca-484-2011",
+"path": "local/cluj/cluj-napoca/2011/484",
+"kind": "local",
+"year": "2011",
+"number": "484",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Cluj-Napoca nr. 484/2011",
+"short": "HCL Cluj-Napoca nr. 484/2011",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2011-12-20",
+"latest": "2011-12-20",
+"portal": "https://primariaclujnapoca.ro/consiliu-local/hotarare-de-consiliu/hotararea-484-din-2011/",
+"council": "cluj/cluj-napoca",
+"council_name": "Consiliul Local al Municipiului Cluj-Napoca",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

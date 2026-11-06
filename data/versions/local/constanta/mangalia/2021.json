@@ -3,6 +3,216 @@
  "shard": "local/constanta/mangalia/2021",
  "acts": [
   {
+   "slug": "hcl-constanta--mangalia-10-2021",
+   "path": "local/constanta/mangalia/2021/10",
+   "short": "HCL Mangalia nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 10/2021 privind aprobarea numărului și a cuantumului burselor acordate elevilor din învățământul preuniversitar de stat în anul școlar 2020 – 2021, semestru I",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-10.pdf",
+     "sha256": "0067433253642e5348c48504045b02b517559f07ddf4308cc745cfe7d3da26ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-106-2021",
+   "path": "local/constanta/mangalia/2021/106",
+   "short": "HCL Mangalia nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 106/2021 privind aprobarea organigramei şi statelor de funcţii ale aparatului de specialitate al Primarului Municipiului Mangalia şi Serviciului Public Comunitar Local de Evidenţă a Persoanelor Mangalia",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-07-12",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-106.pdf",
+     "sha256": "565bda00c77aa431eded5924b9977b5b1d8b5b155b6957c86acb5afdb3905b77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-116-2021",
+   "path": "local/constanta/mangalia/2021/116",
+   "short": "HCL Mangalia nr. 116/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 116/2021 privind aprobarea dezmembrării imobilului teren în suprafață de 8943mp situat în Municipiul Mangalia, Stațiunea Neptun, str.Faleză Neptun, nr.6, Jud. Constanța",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-07-12",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-116.pdf",
+     "sha256": "98ef6bac3fe947012d940956be305334555dedb8d3867bdb881b0a85da69ea24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-130-2021",
+   "path": "local/constanta/mangalia/2021/130",
+   "short": "HCL Mangalia nr. 130/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 130/2021 privind aprobarea contractării unui împrumut în valoare de 12.782.779 lei,",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-09-02",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-130.pdf",
+     "sha256": "ca006628eb359440980b20bb4abea024b7ff11eca24a650240011b7be649c87a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-137-2021",
+   "path": "local/constanta/mangalia/2021/137",
+   "short": "HCL Mangalia nr. 137/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 137/2021 privind desemnarea reprezentanţilor Consiliului Local Mangalia în comisiile e interviu pentru ocuparea funcţiilor de director şi director adjunct pentru fiecare unitate de învăţământ cu personalitate juridică din municipiul Mangalia",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-137.pdf",
+     "sha256": "f1b2a02e0af103f6facdec3d9ceb0d0f6b4103249b5c03a9a0edcf0c0ea62ef4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-141-2021",
+   "path": "local/constanta/mangalia/2021/141",
+   "short": "HCL Mangalia nr. 141/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 141/2021 privind aprobarea costului mediu lunar de întreținere și a contribuției părinților/reprezentanților legali pentru copiii care frecventează Creșa nr.3 Mangalia pentru anul școlar 2021 – 2022",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-141.pdf",
+     "sha256": "dfb58b7ab33c048a522a33551fc127b7fbc0c1419f6648aee62a8d61a78160c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-145-2021",
+   "path": "local/constanta/mangalia/2021/145",
+   "short": "HCL Mangalia nr. 145/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 145/2021",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-145.pdf",
+     "sha256": "b4e0891c80191d67dd6b67b358463e136fb36f4501ad56d86af467df2973fc93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-16-2021",
+   "path": "local/constanta/mangalia/2021/16",
+   "short": "HCL Mangalia nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 16/2021 privind desemnarea consilierilor locali în comisia de evaluare a performanțelor profesionale individuale ale Secretarului General al Municipiului Mangalia, pentru activitatea desfășurarea în anul 2020",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-16.pdf",
+     "sha256": "8d5847f44f6e761345f0a7afffd6694a9adb112a0f6aea8db3604bde43abdfcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-161-2021",
+   "path": "local/constanta/mangalia/2021/161",
+   "short": "HCL Mangalia nr. 161/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 161/2021 privind trecerea din domeniul privat în domeniul public al U.A.T",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-161.pdf",
+     "sha256": "85de5e7fb184c01159d00abee2ed7477acfab6d09fc090cf726e6b4f0b7f46e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-17-2021",
+   "path": "local/constanta/mangalia/2021/17",
+   "short": "HCL Mangalia nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 17/2021 privind aprobarea planului de acțiuni cu obiective și lucrări de interes local stabilit pentru repartizarea orelor de muncă beneficiarilor de ajutor social pentru anul 2021",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-17.pdf",
+     "sha256": "62cc720a70c6176bdf28b66c33f998a32d64d94823e2a100bcedc8f8a5cd89d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-18-2021",
+   "path": "local/constanta/mangalia/2021/18",
+   "short": "HCL Mangalia nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 18/2021 privind aprobarea Planului anual de acțiuni cu obiective și lucrări de interes local stabilit pentru persoanele obligate să presteze muncă în folosul comunității de către instanțele de judecată și Serviciile de Probațiuni și de persoanele care au copii în plasament",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-18.pdf",
+     "sha256": "4892986a5482b684ce122b488e64ed90ca7d346d1646ff8ad07dbe784f73a9d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-180-2021",
+   "path": "local/constanta/mangalia/2021/180",
+   "short": "HCL Mangalia nr. 180/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 180/2021",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-180.pdf",
+     "sha256": "65b7f74990f911488c8f16bf87e9cd7833fcc298f7d06d7b4243383c4885bb3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-189-2021",
+   "path": "local/constanta/mangalia/2021/189",
+   "short": "HCL Mangalia nr. 189/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 189/2021 privind aprobarea cererii de finanțare și a devizului general estimativ pentru obiectivul de investiție ”MODERNIZARE STRĂZI ÎN MUNICIPIUL MANGALIA” în vederea includerii la finanțare în cadrul Programului Național de Investiții ”Anghel Saligny”",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-189.pdf",
+     "sha256": "1b848c25e3183ae22920d74b45665107ff5962024d9ac931370a12aba308f77e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-193-2021",
+   "path": "local/constanta/mangalia/2021/193",
+   "short": "HCL Mangalia nr. 193/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 193/2021",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-12-07",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-193.pdf",
+     "sha256": "c3e9e2f5fd43402ce5caaacd752a745152ebb4c28fe16941f6f46a3db1287dbc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mangalia-194-2021",
    "path": "local/constanta/mangalia/2021/194",
    "short": "HCL Mangalia nr. 194/2021",
@@ -14,6 +224,291 @@
      "units": 9,
      "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-194.pdf",
      "sha256": "52d3e358e2e9450c1f4a67a6f0b356929893b0a9e2abc36e2b1cec5e28a76c9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-200-2021",
+   "path": "local/constanta/mangalia/2021/200",
+   "short": "HCL Mangalia nr. 200/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 200/2021 privind aprobarea numărului și a cuantumului burselor acordate elevilor din învățământul preuniversitar de stat în anul școlar 2021-2022, semestrul I",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-200.pdf",
+     "sha256": "a954ce2c5b3af17aa786b9cba88f42b881c657a528283e47972037356f4b983e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-35-2021",
+   "path": "local/constanta/mangalia/2021/35",
+   "short": "HCL Mangalia nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 35/2021 privind aprobarea dezmembrării imobilului teren în suprafață de 1052mp situat în municipiul Mangalia, str",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-35.pdf",
+     "sha256": "ab032f02ff057ab318aa375ca8cbec33b96c9c3244f8065abff24f55225a918f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-36-2021",
+   "path": "local/constanta/mangalia/2021/36",
+   "short": "HCL Mangalia nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 36/2021 privind aprobarea transmiterii în folosință gratuită a terenului în suprafață de 20802mp, situat în Municipiul Mangalia, Stațiunea Venus, Str",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-36.pdf",
+     "sha256": "b6ec0bb65429c6cec956fc84ff20d44b921c91c4ae1e28c2ae2cda205b7e71b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-449-2021",
+   "path": "local/constanta/mangalia/2021/449",
+   "short": "HCL Mangalia nr. 449/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 449/2021 privind aprobarea prețului de producere și distribuție a energiei termice pe raza Municipiului Mangalia, precum și prețul de furnizare către populația din municipiu branșată la sistemul centralizat al S.C",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-449.pdf",
+     "sha256": "17d2093574c788f58435e761bf8ec56df7365b8bf912e1ebde5b2217f744ac5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-453-2021",
+   "path": "local/constanta/mangalia/2021/453",
+   "short": "HCL Mangalia nr. 453/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 453/2021 privind trecerea din domeniul public în domeniul privat al Municipiului Mangalia, precum și actualizarea și completarea Inventarului bunurilor care alcătuiesc domeniul privat al U.A.T",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-453.pdf",
+     "sha256": "f360ad20238f9814b384bb5a707938421cf28457b12c3de7c57b56e5a051e395"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-454-2021",
+   "path": "local/constanta/mangalia/2021/454",
+   "short": "HCL Mangalia nr. 454/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 454/2021 privind aprobarea listelor de inventar și a listelor bunurilor propuse pentru scoaterea din funcțiune (inclusiv prin dezmembrare), valorificare și/sau casare, după caz, aparținând domeniului public/privat al municipiului Mangalia și aflate în gestiune delegată prin concesionare sau în admi",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-454.pdf",
+     "sha256": "453d82139b78782e4a2cd778dab9d836872f557401ef94d67bea89783bd9ca53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-455-2021",
+   "path": "local/constanta/mangalia/2021/455",
+   "short": "HCL Mangalia nr. 455/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 455/2021 privind aprobarea rezultatelor inventarierii elementelor de natura activelor, datoriilor și capitalurilor proprii, și a listelor de inventar, aparținând Direcției Cultură și Sport Mangalia, sau aflate în proprietatea Municipiului Mangalia și în administrarea Direcției Cultură și Sport, afe",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-455.pdf",
+     "sha256": "960501d58b3726a92ad74f0c6e0a55a1fb3ab2ad3055e5f565a08a33f14b3805"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-48-2021",
+   "path": "local/constanta/mangalia/2021/48",
+   "short": "HCL Mangalia nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 48/2021 privind aprobarea vânzării terenului în suprafață de 328mp din acte (329mp din măsurători) situat în Municipiul Mangalia, Stațiunea Venus, Str.Hipodrom, Nr.17, jud. Constanța",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-48.pdf",
+     "sha256": "189fe3ff975e352c811a55c44fb7021efa14b51c9759f98af5592e771576ff2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-54-2021",
+   "path": "local/constanta/mangalia/2021/54",
+   "short": "HCL Mangalia nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 54/2021 privind trecerea din domeniul public al Municipiului Mangalia în domeniul privat al Municipiului Mangalia, precum și actualizarea și completarea Inventarului bunurilor care alcătuiesc domeniul privat al U.A.T",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-54.pdf",
+     "sha256": "07bb54e85987a18b6dc4f1c679df8c382ab2b1a5cd78a59af9fca8616a74e888"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-59-2021",
+   "path": "local/constanta/mangalia/2021/59",
+   "short": "HCL Mangalia nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 59/2021 privind acordarea scutirii de la plata majorărilor de întârziere aferente obligațiilor bugetare, constând în impozite și taxe locale datorate bugetului local de către persoanele fizice ce au calitatea de contribuabili la bugetul local al Municipiului Mangalia",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-59.pdf",
+     "sha256": "903f7c9300fde3b8666c85eace919b597eeb557657f384e30e42db2787c790a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-63-2021",
+   "path": "local/constanta/mangalia/2021/63",
+   "short": "HCL Mangalia nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 63/2021 privind neexercitarea dreptului de preempțiune cu privire la vânzarea imobilului format din teren și construcție situat în Municipiul Mangalia, aflat în proprietatea Băncii Comerciale Române S.A",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-63.pdf",
+     "sha256": "3f6c07f2b36a96cc3ebfdaae3c218befd5337e547fcf146e7d2eacd193018674"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-68-2021",
+   "path": "local/constanta/mangalia/2021/68",
+   "short": "HCL Mangalia nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 68/2021 privind aprobarea organizării rețelei școlare a unităților de învățământ de stat și particular, pe teritoriul administrativ al municipiului Mangalia, în anul școlar 2021 – 2022",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-68.pdf",
+     "sha256": "0271727a6f91cb44ef42a09abf860fad455ca2d3d5cd6bc695481f7cda01ab49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-69-2021",
+   "path": "local/constanta/mangalia/2021/69",
+   "short": "HCL Mangalia nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 69/2021 privind aprobarea numărului și a cuantumului burselor acordate elevilor din învățământul preuniversitar de stat în anul școlar 2020 – 2021, semestrul II",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-69.pdf",
+     "sha256": "dbce74353d3e611d362cfb22126541458dfd99c4d20d8c92b19dd7044482f5be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-74-2021",
+   "path": "local/constanta/mangalia/2021/74",
+   "short": "HCL Mangalia nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 74/2021",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-74.pdf",
+     "sha256": "12d815269f4617e2303b72876faa0509c7c36bde7752b4bfd6f479429a1d8292"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-77-2021",
+   "path": "local/constanta/mangalia/2021/77",
+   "short": "HCL Mangalia nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 77/2021 privind aprobarea documentației tehnico-economice (faza Studiul de Fezabilitate) și a indicatorilor tehnico – economici aferente obiectivului de investiții „Varianta ocolitoare (DRUM EXPRES) a Municipiului Mangalia”",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-77.pdf",
+     "sha256": "4267cdfb5c77b8f85b0675c11b1dd2677a385b39159bda9a28de00dc0ffc049b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-79-2021",
+   "path": "local/constanta/mangalia/2021/79",
+   "short": "HCL Mangalia nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 79/2021",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-79.pdf",
+     "sha256": "90008458be597b1b8e08ae640a835683ce8556dfed463f9c51a9d7efff85e6cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-80-2021",
+   "path": "local/constanta/mangalia/2021/80",
+   "short": "HCL Mangalia nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 80/2021",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-80.pdf",
+     "sha256": "4979e2897dadb18784f3f834e8939fef6e3e864a786b6f16998857d535ec6e82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-85-2021",
+   "path": "local/constanta/mangalia/2021/85",
+   "short": "HCL Mangalia nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 85/2021 privind aprobarea vânzării terenului în suprafață de 110mp situat în Municipiul Mangalia, Str",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-85.pdf",
+     "sha256": "98e2f1ed548062a8153e3f0cbe43dd333604fa870a14dccdefe2bc10087a7626"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-86-2021",
+   "path": "local/constanta/mangalia/2021/86",
+   "short": "HCL Mangalia nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 86/2021 privind aprobarea vânzării terenului în suprafață de 487mp situat în Municipiul Mangalia, Cartier Dobrogea2, Str",
+   "url": "https://mangalia.ro/2021/01/hcl-2021/",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2021/01/HCL-86.pdf",
+     "sha256": "d18f57b1f39dbca92319aa97a9af79cd2d61c99271c45140a8a7cd648d6f5a03"
     }
    ]
   }

@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/cluj/turda/2018",
+"acts": [
+{
+"slug": "hcl-cluj--turda-105-2018",
+"path": "local/cluj/turda/2018/105",
+"kind": "local",
+"year": "2018",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 105/2018 privind aprobarea unor beneficii sociale pentru veteranii de război cu ocazia Zilei Veteranilor de Război și a activităților incluse în Programul de manifestări aniversare al Centenarului de la Primul Război Mondial Consiliul Local al Municipiului Turda, întrunit în ședința ordinară din data de 26.04.2018; Luând în dezbatere proiectul de hotărâre privind aprobarea unor beneficii sociale pentru vet",
+"short": "HCL Turda nr. 105/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-04-26",
+"latest": "2018-04-26",
+"portal": "https://primariaturda.ro/hotararea-nr-105-privind-aprobarea-unor-beneficii-sociale-pentru-veteranii-de-razboi-cu-ocazia-zilei-veteranilor-de-razboi-si-a-activitatilor-incluse-in-programul-de-manifestari-aniversare-al-centena/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-139-2018",
+"path": "local/cluj/turda/2018/139",
+"kind": "local",
+"year": "2018",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 139/2018",
+"short": "HCL Turda nr. 139/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-05-29",
+"latest": "2018-05-29",
+"portal": "https://primariaturda.ro/hotararea-nr-139-privind-aprobarea-planului-urbanistic-detaliu-construire-imobil-de-locuinte-cu-8-apartamente-dp3e-in-municipiul-turda-str-augustin-bunea-nr-23/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-143-2018",
+"path": "local/cluj/turda/2018/143",
+"kind": "local",
+"year": "2018",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 143/2018 privind alegerea președintelui de ședință Consiliul Local al Municipiului Turda, intrunit in ședință ordinară în data de 29.05.2018; Având în vedere prevederile art. 35, alin. 1 coroborat cu art 47 alin 3, din Legea nr. 215/2001 privind administrația publică locală, republicată, cu modificările și completările ulterioare și ale art. 9, alin. 1 din Ordonanța Guvernului nr. 35/2002 pentru aprobarea",
+"short": "HCL Turda nr. 143/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-05-29",
+"latest": "2018-05-29",
+"portal": "https://primariaturda.ro/hotararea-nr-143-privind-alegerea-presedintelui-de-sedinta/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-288-2018",
+"path": "local/cluj/turda/2018/288",
+"kind": "local",
+"year": "2018",
+"number": "288",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 288/2018 privind alegerea președintelui de ședință Consiliul Local al Municipiului Turda, intrunit in ședință ordinară în data de 14.08.2018; Având în vedere prevederile art. 35, alin. 1 coroborat cu art 47 alin 3, din Legea nr. 215/2001 privind administrația publică locală, republicată, cu modificările și completările ulterioare și ale art. 9, alin. 1 din Ordonanța Guvernului nr. 35/2002 pentru aprobarea",
+"short": "HCL Turda nr. 288/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-08-14",
+"latest": "2018-08-14",
+"portal": "https://primariaturda.ro/hotararea-nr-288-privind-alegerea-presedintelui-de-sedinta/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-334-2018",
+"path": "local/cluj/turda/2018/334",
+"kind": "local",
+"year": "2018",
+"number": "334",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 334/2018",
+"short": "HCL Turda nr. 334/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-10-31",
+"latest": "2018-10-31",
+"portal": "https://primariaturda.ro/hotararea-nr-334-privind-aprobarea-planului-urbanistic-de-detaliu-construire-centru-logistic-creare-acces-amenajari-exterioare-si-imprejmuire-in-municipiul-turda-str-22-decembrie-1989-n/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

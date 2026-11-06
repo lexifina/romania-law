@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/constanta/mangalia/2019",
+"acts": [
+{
+"slug": "hcl-constanta--mangalia-91-2019",
+"path": "local/constanta/mangalia/2019/91",
+"kind": "local",
+"year": "2019",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 91/2019 privind actualizarea situației financiar-contabile a U.A.T",
+"short": "HCL Mangalia nr. 91/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-11",
+"latest": "2019-04-11",
+"portal": "https://mangalia.ro/2019/02/hcl-2019/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

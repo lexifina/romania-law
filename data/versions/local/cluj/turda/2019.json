@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/turda/2019",
+ "acts": [
+  {
+   "slug": "hcl-cluj--turda-232-2019",
+   "path": "local/cluj/turda/2019/232",
+   "short": "HCL Turda nr. 232/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 232/2019 privind luarea unor măsuri referitoare la procedura de selecție a unui membru al Consiliului de Administrație al Societății Domeniul Public Turda SA Consiliul Local al municipiului Turda, intrunit in ședința ordinară din data de 31.10.2019; Luând in dezbatere proiectul de hotărâre privind luarea unor masuri referitoare la procedura de selecție a unui membru al Consiliului de Administrație al Socie",
+   "url": "https://primariaturda.ro/hotararea-nr-232-privind-luarea-unor-masuri-referitoare-la-procedura-de-selectie-a-unui-membru-al-consiliului-de-administratie-al-societatii-domeniul-public-turda-sa/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2019/232%20din%2031.10.2019.pdf",
+     "sha256": "0745c4107454c02237ad917820a460cc9964d8a53d99544e0fd0d8cf3ee568b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-24-2019",
+   "path": "local/cluj/turda/2019/24",
+   "short": "HCL Turda nr. 24/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 24/2019 privind repartizarea unei locuințe de necesitate Consiliul Local al Municipiului Turda, întrunit în ședința ordinară la data de 28.02.2019",
+   "url": "https://primariaturda.ro/hotararea-nr-24-privind-repartizarea-unei-locuinte-de-necesitate/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2019/24%20din%2028.02.2019.pdf",
+     "sha256": "b163a3a7369b4e9937474caa08bafd2ec0b621f1fcda9d2f24c577a6792ef4d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-253-2019",
+   "path": "local/cluj/turda/2019/253",
+   "short": "HCL Turda nr. 253/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 253/2019 privind desemnarea mandatarului societății Transport Urban Public S.R.L",
+   "url": "https://primariaturda.ro/hotararea-nr-253-privind-desemnarea-mandatarului-societatii-transport-urban-public-s-r-l/",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2019/253%20din%2022.11.2019.pdf",
+     "sha256": "ac55c645a477e91455cabec1a3311d158f0e89a2a5fc5074bad5a0f4ddc2d909"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-264-2019",
+   "path": "local/cluj/turda/2019/264",
+   "short": "HCL Turda nr. 264/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 264/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2019/264%20din%2028.11.2019.pdf",
+     "sha256": "76339c4940fcaf268077c1bbc14e9533954dbebb937f365d23871aff1ee84b1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-300-2019",
+   "path": "local/cluj/turda/2019/300",
+   "short": "HCL Turda nr. 300/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 300/2019",
+   "url": "https://primariaturda.ro/hotararea-nr-300-din-data-de-23-12-2019-privind-rectificarea-bugetului-pe-anul-2019-2/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2019/300%20din%2023.12.2019.pdf",
+     "sha256": "61e7c2b21e5e3d39eda76b2994ade513eb25c053e4e19d7e6d85e79c4919667d"
+    }
+   ]
+  }
+ ]
+}

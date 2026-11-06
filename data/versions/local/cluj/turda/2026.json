@@ -3,6 +3,51 @@
  "shard": "local/cluj/turda/2026",
  "acts": [
   {
+   "slug": "hcl-cluj--turda-1-2026",
+   "path": "local/cluj/turda/2026/1",
+   "short": "HCL Turda nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 1/2026",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/19/",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/1%20din%2014.01.2026.pdf",
+     "sha256": "7943131b656df2c4687c1f543d216d231ee75e3de3ef027974c6d6801e9ba353"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-10-2026",
+   "path": "local/cluj/turda/2026/10",
+   "short": "HCL Turda nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 10/2026 privind demararea procedurilor de introducere a Unității Administrativ-Teritoriale Municipiul Turda în Planul de Amenajare a Teritoriului Național (PATN) – Secțiunea a VIII-a “Zone cu Resurse Turistice”",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/19/",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/10%20din%2006.02.2026.pdf",
+     "sha256": "38faadafffb4dc911ee80d76fa8640dc2b57c09b17462e9fd05fd8d63e89d5ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-100-2026",
+   "path": "local/cluj/turda/2026/100",
+   "short": "HCL Turda nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 100/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/100%20din%2029.05.2026.pdf",
+     "sha256": "df5f0e9233a31a27f0d9d571b166045f0f8eb92cf22965b05da167e5c2fae83b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-101-2026",
    "path": "local/cluj/turda/2026/101",
    "short": "HCL Turda nr. 101/2026",
@@ -33,6 +78,171 @@
    ]
   },
   {
+   "slug": "hcl-cluj--turda-103-2026",
+   "path": "local/cluj/turda/2026/103",
+   "short": "HCL Turda nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 103/2026 privind aprobarea acordului de asociere între",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/9/",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/103%20din%2029.05.2026.pdf",
+     "sha256": "d24fb1ebe4cc1d2823e1e6ce833ff8cc674aa73851d85cb0131824093a0961c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-104-2026",
+   "path": "local/cluj/turda/2026/104",
+   "short": "HCL Turda nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 104/2026 privind aprobarea situațiilor financiare și repartizarea profitului net la data de 31.12.2025, aprobarea raportului de activitate al administratorilor, aprobarea raportului auditorului financiar independent la data de 31.12.2025, la societatea Transport Urban Public S.R",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/9/",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/104%20din%2029.05.2026.pdf",
+     "sha256": "e52f922ec385f4f41d899db6e7de8db6812f490566207455f068c68f62433a9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-105-2026",
+   "path": "local/cluj/turda/2026/105",
+   "short": "HCL Turda nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 105/2026 privind aprobarea listelor de priorități pe anul 2026 pentru repartizarea locuințelor sociale și a locuințelor din fondul locativ de stat, altele decât cele sociale",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/9/",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/105%20din%2029.05.2026.pdf",
+     "sha256": "e7ff4c005ec471959d5d74d41ff83c27a3935fa8019a387448df7ccc35251747"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-106-2026",
+   "path": "local/cluj/turda/2026/106",
+   "short": "HCL Turda nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 106/2026 privind aprobarea listelor de priorități în vederea repartizării locuințelor pentru tineri, destinate închirierii, pentru anul 2026, derulate prin Agenția Națională pentru Locuințe",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/9/",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/106%20din%2029.05.2026.pdf",
+     "sha256": "58e36e4f39e5910c2897ca29242cb90f8611b7e39a0c560b450dba8661777625"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-107-2026",
+   "path": "local/cluj/turda/2026/107",
+   "short": "HCL Turda nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 107/2026 privind aprobarea listelor de priorități în vederea repartizării locuințelor pentru tineri, destinate închirierii, rămase libere, pentru anul 2026, derulate prin Agenția Națională pentru Locuințe",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/9/",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/107%20din%2029.05.2026.pdf",
+     "sha256": "00ed4cc1949cad54201d8c37c27faf035c06273a2fc8375664edc40e680315f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-108-2026",
+   "path": "local/cluj/turda/2026/108",
+   "short": "HCL Turda nr. 108/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 108/2026 privind alegerea președintelui de ședință al Consiliului Local al Municipiului Turda pentru o perioadă de 3 luni (iunie 2026 – august 2026)",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/9/",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/108%20din%2029.05.2026.pdf",
+     "sha256": "5042b273e8334aa3e632e312ce609ac7371269d6bd81512910fbff0479863b0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-109-2026",
+   "path": "local/cluj/turda/2026/109",
+   "short": "HCL Turda nr. 109/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 109/2026 privind aprobarea modificării statului de funcții al Spitalului Municipal Turda, aflat în subordinea Consiliului Local al Municipiului Turda",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/9/",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/109%20din%2029.05.2026.pdf",
+     "sha256": "64b532dcfb58b7db1b1c94d80499c63c3f4fa883ddc5dfd75fff4c6d3f9cbf76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-11-2026",
+   "path": "local/cluj/turda/2026/11",
+   "short": "HCL Turda nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 11/2026 privind aprobarea Devizului General și a principalilor indicatori tehnico-economici aferenți obiectivului de investiții Modernizare străzi în Municipiul Turda – strada Ion I. Russu, Castrului Roman, Pictor theodor Aman, Panait Cerna (tronson între Alecu Russo și Alba Iuli",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/18/",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/11%20din%2006.02.2026.pdf",
+     "sha256": "d3d4353b3edae801cb1bd4d635f8c4d20dc1a996884dff4be10dff1d735b3aa5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-110-2026",
+   "path": "local/cluj/turda/2026/110",
+   "short": "HCL Turda nr. 110/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 110/2026 privind modificarea Hotărârii Consiliului Local al Municipiului Turda nr. 184/31.08.2023 referitoare la aprobarea contractării unei/unor finanțări rembursabile interne în valoare de până la 48.409.000 lei",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/8/",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/110%20din%2011.06.2026.pdf",
+     "sha256": "a8ca304c577de2decd210859effa33a62ae2c2f2349aba34e0658984435427d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-111-2026",
+   "path": "local/cluj/turda/2026/111",
+   "short": "HCL Turda nr. 111/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 111/2026 privind aprobarea încheierii Acordului de Parteneriat între Municipiul Turda și Asociația Renegate Wolves RC Turda pentru organizarea evenimentului Motofest Turda 2026",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/8/",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/111%20din%2011.06.2026.pdf",
+     "sha256": "a5d956a9c4f141f3c7d15638d46fb4526e329412e4797e4b16eae04452fcba0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-113-2026",
+   "path": "local/cluj/turda/2026/113",
+   "short": "HCL Turda nr. 113/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 113/2026 privind rectificarea bugetului de venituri și cheltuieli al Municipiului Turda pe anul 2026",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/8/",
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/113%20din%2019.06.2026.pdf",
+     "sha256": "6040ad1e6b360076b571052d3b0206e7f34d2b3a6132ed7b0cef8a1d292f14d4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-114-2026",
    "path": "local/cluj/turda/2026/114",
    "short": "HCL Turda nr. 114/2026",
@@ -44,6 +254,141 @@
      "units": 1,
      "source_url": "https://primariaturda.ro/uploads/hcl/2026/114%20din%2019.06.2026.pdf",
      "sha256": "5257fea1ed3fb190eab4a0a9bcc56b7bda51074a35305b5b47723521ef682d40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-115-2026",
+   "path": "local/cluj/turda/2026/115",
+   "short": "HCL Turda nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 115/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/115%20din%2019.06.2026.pdf",
+     "sha256": "add9540b95568617da772172ffa739a0df8229b2d0249f1061a4220b46e1e3a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-118-2026",
+   "path": "local/cluj/turda/2026/118",
+   "short": "HCL Turda nr. 118/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 118/2026 privind aprobarea organigramei, statului de funcții și Regulamentului de organizare și funcționare pentru Spitalul municipal Turda, aflat în subordinea Consiliului Local al municipiului Turda",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/8/",
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/118%20din%2019.06.2026.pdf",
+     "sha256": "74da3105f7c1f9e1da5cd1fdd083fb5c21f81e1735278ecc35df8f0d7578068c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-12-2026",
+   "path": "local/cluj/turda/2026/12",
+   "short": "HCL Turda nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 12/2026 privind aprobarea pe o perioadă de 2 luni, a cheltuielilor ocazionate cu închirierea spațiului situat în Turda, str",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/18/",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/12%20din%2006.02.2026.pdf",
+     "sha256": "ad1352253ae8e24a3c369fe05d654cf5c000026ae0be01842a9cf50666c8c132"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-128-2026",
+   "path": "local/cluj/turda/2026/128",
+   "short": "HCL Turda nr. 128/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 128/2026 privind aprobarea dării în folosință gratuită a unor spații și accesuri din Nova PG Arena, situată în Municipiul Turda, str. Stadionului, nr. 14, Județul Cluj, aflată în domeniul public al Municipiului Turda, către Federația Română de Handbal – pentru organizarea și desf",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/7/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/128%20din%2030.06.2026.pdf",
+     "sha256": "aaf41ab47741fac15d4a44c22c237b946452923170d18e120720b93229975900"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-129-2026",
+   "path": "local/cluj/turda/2026/129",
+   "short": "HCL Turda nr. 129/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 129/2026 privind acordarea unui mandat special reprezentantului Municipiului Turda în Adunarea Generală a Acționarilor societăţii Compania de Apă Arieş SA, în vederea exercitării drepturilor de acţionar în cadrul Adunării Generale Ordinare a Acţionarilor din data de 20.07.2026",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/7/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/129%20din%2030.06.2026.pdf",
+     "sha256": "42f9fc375d82a9f5ebb6677bdf87f5b24974b4fcd63b42c945c18662b5d8b176"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-13-2026",
+   "path": "local/cluj/turda/2026/13",
+   "short": "HCL Turda nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 13/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/13%20din%2006.02.2026.pdf",
+     "sha256": "b220ad03a0e5672b024b8f50d97fa031e6a36730146322c3220e83d811863e69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-130-2026",
+   "path": "local/cluj/turda/2026/130",
+   "short": "HCL Turda nr. 130/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 130/2026 privind aprobarea PUD construire locuință unifamilială, construire anexă garaj, reconstruire împrejmuire la stradă, amenajări exterioare, racorduri și branșamente la utilități, în Municipiul Turda, str",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/7/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/130%20din%2030.06.2026.pdf",
+     "sha256": "e4c96501961d9dd05a0165347622a6c01f99ad9ca87dab0aec893790e7c0b6f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-131-2026",
+   "path": "local/cluj/turda/2026/131",
+   "short": "HCL Turda nr. 131/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 131/2026 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați pentru obiectivul de investiții: Reabilitare și modernizare străzi în Municipiul Turda – Cartierul Primăverii, Județul Cluj, finanțat în cadrul Programului Național de Investi",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/6/",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/131%20din%2006.07.2026.pdf",
+     "sha256": "1ccc753c3937c40253e726884784202658ec41e0a448266c43666da7a9208525"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-132-2026",
+   "path": "local/cluj/turda/2026/132",
+   "short": "HCL Turda nr. 132/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 132/2026 privind aprobarea devizului general și a principalilor indicatorilor tehnico-economici aferenți obiectivului de investiții: Modernizare străzi în Municipiul Turda – Strada Petru Maior (tronson strada Răsăritului – pod peste râul Arieș), cu finanțare din bugetul local al",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/6/",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/132%20din%2006.07.2026.pdf",
+     "sha256": "ca300ad8d2f3d9c5531c1c6ee9640b04cdb44b862e551ebc4c2ca3121117352a"
     }
    ]
   },
@@ -63,6 +408,186 @@
    ]
   },
   {
+   "slug": "hcl-cluj--turda-134-2026",
+   "path": "local/cluj/turda/2026/134",
+   "short": "HCL Turda nr. 134/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 134/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/134%20din%2017.07.2026.pdf",
+     "sha256": "fc0fa09238ec579ac54496e80ff510a6e9a463bd7746b54d12bd93655496c803"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-135-2026",
+   "path": "local/cluj/turda/2026/135",
+   "short": "HCL Turda nr. 135/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 135/2026 privind constituirea Comisiei de soluționare a contestațiilor pentru procedura de selecţie şi nominalizare a membrilor în Consiliul de administraţie al societăţii Salina Turda SA",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/6/",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/135%20din%2024.06.2026.pdf",
+     "sha256": "73b30cf2b7f78f376da4342cdbd2d06a6f25f605219796d1d2373342383445f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-136-2026",
+   "path": "local/cluj/turda/2026/136",
+   "short": "HCL Turda nr. 136/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 136/2026 privind modificarea Hotărârii Consiliului Local al Municipiului Turda nr. 184/31.08.2023 referitoare la aprobarea contractării unei/unor finanțări rambursabile interne în valoare de până la 48.409.000 lei",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/6/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/136%20din%2028.07.2026.pdf",
+     "sha256": "ba0bc043055d90ece7f35698445636fc0802ebcca260370b93572fa94060e851"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-137-2026",
+   "path": "local/cluj/turda/2026/137",
+   "short": "HCL Turda nr. 137/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 137/2026 privind aprobare acces și amplasare stație de bază servicii de comunicații electronice, racorduri și branșamente electrice, str",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/6/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/137%20din%2028.07.2026.pdf",
+     "sha256": "3c0ab4d47e4b493d2d9fdb51fd4b4fd6865094087a48f2d4d57301656569abbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-138-2026",
+   "path": "local/cluj/turda/2026/138",
+   "short": "HCL Turda nr. 138/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 138/2026 privind aprobarea modificării Statului de funcții și aprobarea Regulamentului de organizare și funcționare pentru Aparatul de specialitate al Primarului Municipiului Turda",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/6/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/138%20din%2028.07.2026.pdf",
+     "sha256": "7db964f9010ff7ef952c1a32fd1958f87878ce334300ef7cc717bc056cb2ee61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-139-2026",
+   "path": "local/cluj/turda/2026/139",
+   "short": "HCL Turda nr. 139/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 139/2026 privind aprobarea documentației de dezmembrare a imobilului înscris în CF nr. 62401 Turda, nr. cadastral 62401",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/6/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/139%20din%2028.07.2026.pdf",
+     "sha256": "1d16ab91f0a83f0bc3359fbdfb49f1d75d912b6e2896d001c0f4c4eca843647e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-14-2026",
+   "path": "local/cluj/turda/2026/14",
+   "short": "HCL Turda nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 14/2026 privind exprimarea acordului Municipiului Turda în vederea reproducerii tabloului Dieta de la Turda",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/18/",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/14%20din%2006.02.2026.pdf",
+     "sha256": "c77c8f76b3632d9a8156a4c0fb6d00d7995e7328d19f0d06fa0e90c9617dcb05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-140-2026",
+   "path": "local/cluj/turda/2026/140",
+   "short": "HCL Turda nr. 140/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 140/2026 privind aprobarea efectuării unui schimb de terenuri între Municipiul Turda și Rus Alexandru-Ovidiu, respectiv cota de 47/101 din terenul situat pe str",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/6/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/140.%20din%2028.07.2026pdf.pdf",
+     "sha256": "7f0c772068f397a7ddb55a124a81bf44ecb526a40955c9e1bde02d9d895e885e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-141-2026",
+   "path": "local/cluj/turda/2026/141",
+   "short": "HCL Turda nr. 141/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 141/2026 privind acceptarea ofertei de donație a imobilului teren, în suprafață de 126 mp, situat în Turda, str",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/141%20din%2028.07.2026.pdf",
+     "sha256": "05fa18dc90ab91af74d45f9af2f144843ef354680951e51b44684d03cde5a621"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-142-2026",
+   "path": "local/cluj/turda/2026/142",
+   "short": "HCL Turda nr. 142/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 142/2026 privind aprobarea predării-primirii obiectivului Stație de Epurare Băi Sărate din administrarea societății Compania de Apă Arieș SA în patrimoniul Municipiului Turda în vederea scoaterii din funcțiune și casării",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/142%20din%2028.07.2026.pdf",
+     "sha256": "b4da0151dcc87dc5a7716faea66f72ccfef634f1551e5d9184c534987ec48b06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-143-2026",
+   "path": "local/cluj/turda/2026/143",
+   "short": "HCL Turda nr. 143/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 143/2026 privind aprobarea modificării și completării inventarului bunurilor aparținând domeniului privat al municipiului Turda, județul Cluj, aprobat prin HCL nr. 187/2002, modificat și completat prin HCL nr. 194/25.11.2021, HCL nr. 60/30.03.2023, HCL nr. 56/28.03.2024 și HCL nr",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/143%20din%2028.07.2026.pdf",
+     "sha256": "4832559dc32f3ab1d23e7b9f87eb91a1d08806522f4c7260c874bda4fb2de4a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-144-2026",
+   "path": "local/cluj/turda/2026/144",
+   "short": "HCL Turda nr. 144/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 144/2026 privind aprobarea listelor de repartizare a locuințelor pentru tineri, destinate închirierii, pentru anul 2026, derulate prin Agenția Națională pentru Locuințe",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/144%20din%2028.07.2026.pdf",
+     "sha256": "c57dd2e4a3a3bcc0fc5405b5ac15d3f5b4755c29718f9104a9f9878f33e7ff00"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-145-2026",
    "path": "local/cluj/turda/2026/145",
    "short": "HCL Turda nr. 145/2026",
@@ -74,6 +599,51 @@
      "units": 1,
      "source_url": "https://primariaturda.ro/uploads/hcl/2026/145%20din%2028.07.2026.pdf",
      "sha256": "e3738ccdae664edb4d36824570f5ae35d45a72498d3d36ea431dd93d6e50fee1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-146-2026",
+   "path": "local/cluj/turda/2026/146",
+   "short": "HCL Turda nr. 146/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 146/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/146%20din%2028.07.2026.pdf",
+     "sha256": "f246df4c3d284d76f64f000f4ecb9f3d958fafbe52529501d13cf4b500e0cccd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-147-2026",
+   "path": "local/cluj/turda/2026/147",
+   "short": "HCL Turda nr. 147/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 147/2026 privind aprobarea participării formațiilor artistice ale Casei de Cultură a municipiului Turda, la manifestări culturale naționale și internaționale",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/147%20din%2028.07.2026.pdf",
+     "sha256": "9e0ba991eb5ea526c500d057ddfeb46244304afa889a7ab95df2f5c717dde893"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-148-2026",
+   "path": "local/cluj/turda/2026/148",
+   "short": "HCL Turda nr. 148/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 148/2026 privind aprobarea organizării evenimentului Zilele Culturale Maghiare din Turda",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/148%20din%2028.07.2026.pdf",
+     "sha256": "5903e34aa3eb374d5e27ed310a1aaef6f56fb08cd650cee595dfd87a166ced50"
     }
    ]
   },
@@ -93,6 +663,141 @@
    ]
   },
   {
+   "slug": "hcl-cluj--turda-150-2026",
+   "path": "local/cluj/turda/2026/150",
+   "short": "HCL Turda nr. 150/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 150/2026 privind aprobarea aprobarea devizului general si a indicatorilor tehnico-economici actualizati aferenti obiectivului de investitii „MODERNIZARE STRAZI IN MINICIPIUL TURDA – CĂLĂRAȘI, DOROBANȚI, VÂNĂTORI, BRÂNDUȘEI, INTRAREA PĂPĂDIEI, SALINELOR T1(TRONSON ÎNTRE STR.BARBU",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/150%20din%2028.07.2026.pdf",
+     "sha256": "03a1e56850fba195603a36471c28b7baea408a601326b8fb73ac9e5c55e8cd54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-151-2026",
+   "path": "local/cluj/turda/2026/151",
+   "short": "HCL Turda nr. 151/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 151/2026 privind aprobarea prețului biletelor de acces și abonamentelor la competițiile sportive organizate de Asociația Handbal Club Potaissa Turda în sezonul competițional 2026–2027, respectiv competițiile interne oficiale, meciurile amicale și competițiile europene EHF Europea",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/151%20din%2003.08.2026%20.pdf",
+     "sha256": "6a4a065b9dd9872be29e98eb8325409e267674b54f7e3beb943984c797b56101"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-152-2026",
+   "path": "local/cluj/turda/2026/152",
+   "short": "HCL Turda nr. 152/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 152/2026 privind aprobarea contului de execuție al bugetului local al Municipiului Turda la data de 30.06.2026",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/152%20din%2007.08.2026.pdf",
+     "sha256": "08395338e9d27523ca55132535586550ab900a78b31a6932e5019184b68da77b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-154-2026",
+   "path": "local/cluj/turda/2026/154",
+   "short": "HCL Turda nr. 154/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 154/2026 privind rectificarea bugetului de venituri si cheltuieli al Municipiului Turda pe anul 2026",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/154%20din%2014.08.2026.pdf",
+     "sha256": "ad79dc08c44ddb4ab63699087eb32a0ac2df4ddde2d8a72bc022ba6d15ba850c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-155-2026",
+   "path": "local/cluj/turda/2026/155",
+   "short": "HCL Turda nr. 155/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 155/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/155%20din%2014.08.2026.pdf",
+     "sha256": "20edc49a529a248341a78a8623c53e5c3673ef9365887e37ccbeadafec92eea0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-156-2026",
+   "path": "local/cluj/turda/2026/156",
+   "short": "HCL Turda nr. 156/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 156/2026 privind aprobarea initierii procedurii in vederea aprobarii Memorandumului referitor la exceptarea Societatii SALINA TURDA SA de la prevederile OUG nr 89 / 2025 , art. XXXVI, pentru anul 2026",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/156%20din%2014.08.2026.pdf",
+     "sha256": "cf843ae57e5910eda1e11ab62cd0e7d93798e676c5d47212b02764c432ce4e62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-157-2026",
+   "path": "local/cluj/turda/2026/157",
+   "short": "HCL Turda nr. 157/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 157/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/157%20din%2018.08.2026%20.pdf",
+     "sha256": "11dcedd7594c3d6c520fb9b08a6712be893693fcafa353edce832a8a1f37b83b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-158-2026",
+   "path": "local/cluj/turda/2026/158",
+   "short": "HCL Turda nr. 158/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 158/2026 privind modificarea și completarea Hotărârii Consiliului Local nr. 136 din 24.11.2025 privind aprobarea contractării și garantării de către S.C",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/4/",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/158%20din%2018.08.2026.pdf",
+     "sha256": "769b1fead6901fb737dee08819788d8b38f1e1831b8db66db99e74d707172e66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-16-2026",
+   "path": "local/cluj/turda/2026/16",
+   "short": "HCL Turda nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 16/2026 privind aprobarea schimbului de locuințe între dna",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/18/",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/16%20din%2006.02.2026.pdf",
+     "sha256": "e674259c5d75146d0c564b31eb8649bd0b762e737e2c0c2550273660500fdcc5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-160-2026",
    "path": "local/cluj/turda/2026/160",
    "short": "HCL Turda nr. 160/2026",
@@ -104,6 +809,96 @@
      "units": 1,
      "source_url": "https://primariaturda.ro/uploads/hcl/2026/160%20din%2031.08.2026.pdf",
      "sha256": "f38b8084d27e8fe94fe72fa1c1314123464f773378cd87b8d959d075981b169e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-163-2026",
+   "path": "local/cluj/turda/2026/163",
+   "short": "HCL Turda nr. 163/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 163/2026 privind aprobarea modificării organigramei, statului de funcții și Regulamentului de organizare și funcționare ale Teatrului Național Aureliu Manea Turda, instituție publică de cultură cu personalitate juridică, aflată în subordinea Consiliului Local al Municipiului Turd",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/3/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/163%20din%2031.08.2026.pdf",
+     "sha256": "156b3610ab190d4b0fc115adcf5e0d434101d19dff1380561544145812165c0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-164-2026",
+   "path": "local/cluj/turda/2026/164",
+   "short": "HCL Turda nr. 164/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 164/2026 privind alegerea președintelui de ședință al Consiliului Local al Municipiului Turda pentru o perioadă de 3 luni (septembrie 2026 – noiembrie 2026)",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/3/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/164%20din%2031.08.2026.pdf",
+     "sha256": "a11221d74a0100c76fdd125b53530d20ef439247f13de0f8ff2b2bc0888432f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-165-2026",
+   "path": "local/cluj/turda/2026/165",
+   "short": "HCL Turda nr. 165/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 165/2026 privind modificarea Listei de investitii, anexa a bugetului de venituri si cheltuieli al Municipiului Turda pe anul 2026",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/3/",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/165%20din%2010.09.2026.pdf",
+     "sha256": "662a7e39e17d968f3ec823f29e5b080ae195efaf55bf8af7042564834d0ce6c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-166-2026",
+   "path": "local/cluj/turda/2026/166",
+   "short": "HCL Turda nr. 166/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 166/2026 privind aprobarea înființării Centrului Național de Informare și Promovare Turistică Turda",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/3/",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/166%20din%2010.09.2026.pdf",
+     "sha256": "d5bda32742309823c1fe2aca7035ba107ec62fc3f3a64ca87208a47c2d2c470f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-167-2026",
+   "path": "local/cluj/turda/2026/167",
+   "short": "HCL Turda nr. 167/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 167/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/167%20din%2010.09.2026.pdf",
+     "sha256": "2ab5130877c19a0899437205b8ae01d2ca97015f112b476fcfc2d3951b08610a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-168-2026",
+   "path": "local/cluj/turda/2026/168",
+   "short": "HCL Turda nr. 168/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 168/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/168%20din%2010.09.2026.pdf",
+     "sha256": "940871825e7b9d8dc04ca432e61cb786c0485384b807c693eb4d822e2fc7c880"
     }
    ]
   },
@@ -123,6 +918,201 @@
    ]
   },
   {
+   "slug": "hcl-cluj--turda-17-2026",
+   "path": "local/cluj/turda/2026/17",
+   "short": "HCL Turda nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 17/2026 privind aprobarea modificării și completării inventarului bunurilor aparținând domeniului privat al Municipiului Turda, Județul Cluj, aprobat prin HCL nr. 187/2002, modificat și completat prin HCL nr. 194/25.11.2021, HCL nr. 60/30.03.2023, HCL nr. 56/28.03.2024 și HCL nr",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/18/",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/17%20din%2006.02.2026.pdf",
+     "sha256": "c477eea3311e674d4388860ddb77cbd3ceda93d2407257a9d36989272f94ff04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-170-2026",
+   "path": "local/cluj/turda/2026/170",
+   "short": "HCL Turda nr. 170/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 170/2026 privind desemnarea administratorului special al societății Domeniul Public Turda SA",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/3/",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/170%20din%2010.09.2026.pdf",
+     "sha256": "2ee3c5e6d0d5c6d804fb7b6c2e794fba199e473fa0dfd5bac43fe22e13e2478d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-171-2026",
+   "path": "local/cluj/turda/2026/171",
+   "short": "HCL Turda nr. 171/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 171/2026 privind acordarea unui mandat special reprezentantului Municipiului Turda în Adunarea Generală a Acționarilor societăţii Compania de Apă Arieş SA., în vederea exercitării drepturilor de acţionar în cadrul Adunării Generale Ordinare a Acţionarilor din data de 22.09.2026",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/3/",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/171%20din%2010.09.2026.pdf",
+     "sha256": "d63470220adb4ca1d88fdbdd3b2c573b1c9d158af6535f5fa00f50b659fd95f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-175-2026",
+   "path": "local/cluj/turda/2026/175",
+   "short": "HCL Turda nr. 175/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 175/2026 privind aprobarea transferului de bunuri culturale mobile, colecțiile medieval – modern – contemporan și istoria artei (inventariate și neinventariate), precum și colecția de carte veche (din Registrul de bibliotecă) de la Muzeul de Istorie Turda la Centrul de Cultură, A",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/175%20din%2024.09.2026.pdf",
+     "sha256": "c50c57cf915dde183a44e63e247b6271505f18722bcba1d51505dd499244e9a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-176-2026",
+   "path": "local/cluj/turda/2026/176",
+   "short": "HCL Turda nr. 176/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 176/2026 privind aprobarea modificării statului de funcții pentru Spitalul municipal Turda, aflat în subordinea Consiliului Local al municipiului Turda",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/176%20din%2024.09.2026.pdf",
+     "sha256": "885c6e85ac263360f0241f74c02a5ba2eee368e56b2c019ff9e1f077d82ec91d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-177-2026",
+   "path": "local/cluj/turda/2026/177",
+   "short": "HCL Turda nr. 177/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 177/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/177%20din%2024.09.2026.pdf",
+     "sha256": "99635c6dade7547812181cab8b19c11cf27f9cfc2e8cf94069c0d21d5bcef4a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-178-2026",
+   "path": "local/cluj/turda/2026/178",
+   "short": "HCL Turda nr. 178/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 178/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/178%20din%2024.09.2026.pdf",
+     "sha256": "4622316336568df12c2c234e631c8f25cabda8a77d665c2b59ffca7b5cab360c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-179-2026",
+   "path": "local/cluj/turda/2026/179",
+   "short": "HCL Turda nr. 179/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 179/2026 privind modificarea si încetarea unor drepturi de administrare constituite in favoarea Serviciului Public Politia Locala Turda si stabilirea sediului central in imobilui inscris in CF nr 61356 Turda",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/179%20din%2024.09.2026.pdf",
+     "sha256": "9fcf29acde9f34cd56cd7a012ae1ea21e40efcdef461c5956601e32072f4ecef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-18-2026",
+   "path": "local/cluj/turda/2026/18",
+   "short": "HCL Turda nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 18/2026 privind vânzarea fără licitație publică a unei locuințe situate în Turda, str",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/18/",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/18%20din%2006.02.2026.pdf",
+     "sha256": "584274e1361434766e2da72b37d1737061fc191997f1c8b054886dee50d738cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-181-2026",
+   "path": "local/cluj/turda/2026/181",
+   "short": "HCL Turda nr. 181/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 181/2026 privind aprobarea reţelei școlare a unităţilor de învăţământ preuniversitar de stat și particular de pe raza administrativ-teritorială a Municipiului Turda, care vor funcţiona în anul şcolar 2026-2027",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/181%20din%2005.10.2026.pdf",
+     "sha256": "56427ae8000f291e4809522cca912a555661f29393e0509d05955219aa09a2f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-182-2026",
+   "path": "local/cluj/turda/2026/182",
+   "short": "HCL Turda nr. 182/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 182/2026 privind schimbarea sediului social al societății Transport Urban Public SRL",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/182%20din%2005.10.2026.pdf",
+     "sha256": "61b5f041f0ab150076a2df1eaf7937e3e827936d283d0517cc01a25821f53fe0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-183-2026",
+   "path": "local/cluj/turda/2026/183",
+   "short": "HCL Turda nr. 183/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 183/2026 privind rectificarea bugetului de venituri si cheltuieli al Municipiului Turda pe anul 2026",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/183%20din%2015.10.2026.pdf",
+     "sha256": "fb30bbc34f4719fe18277de1023f539c1b9cbfdf41796baea7f57a0a0292d63f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-184-2026",
+   "path": "local/cluj/turda/2026/184",
+   "short": "HCL Turda nr. 184/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 184/2026 privind însușirea Raportului final al Comisiei de selecție și nominalizare a candidaților pentru ocuparea posturilor de membru în Consiliul de administrație al societății Salina Turda SA și numirea membrilor în Consiliul de administrație al societății Salina Turda SA",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/184%20din%2015.10.2026.pdf",
+     "sha256": "42e75e0fcc4f373a584c177a01c1f14862306c58817d35db3fad6d1618518f88"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-185-2026",
    "path": "local/cluj/turda/2026/185",
    "short": "HCL Turda nr. 185/2026",
@@ -138,6 +1128,126 @@
    ]
   },
   {
+   "slug": "hcl-cluj--turda-187-2026",
+   "path": "local/cluj/turda/2026/187",
+   "short": "HCL Turda nr. 187/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 187/2026 privind aprobarea organizării evenimentelor Festivalul coral Armonii de toamnă, ediția a XI-a și Festivalul seniorilor",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/187%20din%2015.10.2026.pdf",
+     "sha256": "25ed686208564cdda88deb263442de2361039aef06cf2aba004d62fad361767e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-19-2026",
+   "path": "local/cluj/turda/2026/19",
+   "short": "HCL Turda nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 19/2026 privind aprobarea documentației de dezmembrare a imobilului înscris în CF nr. 57925 Turda, nr. cadastral 57925, situat în Turda, str",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/18/",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/19%20din%2006.02.2026.pdf",
+     "sha256": "9db29644a61cde886e12d6e14145b7348624175835940eeaa35439eed5c69493"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-191-2026",
+   "path": "local/cluj/turda/2026/191",
+   "short": "HCL Turda nr. 191/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 191/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/191%20din%2029.10.2026.pdf",
+     "sha256": "1cc6ac4751516c397be57a7d6c799023e54ac15ed986f5748305b57a224a15fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-2-2026",
+   "path": "local/cluj/turda/2026/2",
+   "short": "HCL Turda nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 2/2026",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/19/",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/2%20din%2014.01.2026.pdf",
+     "sha256": "2ec63229dbfce93843042f765bb97a20469d35eb7b5306c7f4557152ada681b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-20-2026",
+   "path": "local/cluj/turda/2026/20",
+   "short": "HCL Turda nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 20/2026 privind trecerea terenului situat administrativ în Turda, str",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/18/",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/20%20din%2006.02.2026.pdf",
+     "sha256": "b304e47ad532f68906a26d2c4b85b3274fa434d9f11afcaf75c7630cf3359b61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-21-2026",
+   "path": "local/cluj/turda/2026/21",
+   "short": "HCL Turda nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 21/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/21%20din%2006.02.2026.pdf",
+     "sha256": "06360f0349d60d33b3e267d71dc9324fb8201573b100eaba44b4ddab13c870a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-22-2026",
+   "path": "local/cluj/turda/2026/22",
+   "short": "HCL Turda nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 22/2026 privind aprobarea cumpărării imobilului situat administrativ în Municipiul Turda str",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/17/",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/22%20din%2011.02.2026.pdf",
+     "sha256": "25b62cd862ec9938511cdbd683f7b134ee4f190183d1e530fb584cc0d98e8d17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-23-2026",
+   "path": "local/cluj/turda/2026/23",
+   "short": "HCL Turda nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 23/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/23%20din%2017.02.2026.pdf",
+     "sha256": "e5967e0baab27e0594eeb7cf82aedfc4ef56b0153d9b4deb34c85af6220775a6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-24-2026",
    "path": "local/cluj/turda/2026/24",
    "short": "HCL Turda nr. 24/2026",
@@ -149,6 +1259,591 @@
      "units": 1,
      "source_url": "https://primariaturda.ro/uploads/hcl/2026/24%20din%2017.02.2026.pdf",
      "sha256": "3ba49eb37a48cde88c7268f26250acd3fcbbe22eddf033d4f77bd064fa21cd28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-25-2026",
+   "path": "local/cluj/turda/2026/25",
+   "short": "HCL Turda nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 25/2026 privind aprobarea componentei integrale a planului de selecție pentru administratorii societății Transport Urban Public SRL, pentru un mandat de 4 ani, respectiv 2026-2030",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/17/",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/25%20din%2017.02.2026.pdf",
+     "sha256": "5f608dc32403e9be5441d5a26497160d3e21d12fd67e286ed467683d7c7ae429"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-27-2026",
+   "path": "local/cluj/turda/2026/27",
+   "short": "HCL Turda nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 27/2026 privind aprobarea organizării Conferinței Pentru EA – O voce, o forță, o schimbare!, în data de 07 martie 2026, la Centrul Multifuncțional din Municipiul Turda, Județul Cluj",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/17/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/27%20din%2026.02.2026.pdf",
+     "sha256": "ba1a8509ba2032a90424064b0d5f2a47457a270bf199c9dc77afe193e06c0c1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-28-2026",
+   "path": "local/cluj/turda/2026/28",
+   "short": "HCL Turda nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 28/2026 privind aprobarea Planului de acțiuni sau de lucrări de interes local, ce se vor executa de beneficiarii de ajutor de incluziune și de către contravenienții, persoanele fizice, obligați la prestarea unei activităţi în folosul comunităţii, în anul 2026, la nivelul Municipi",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/17/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/28%20din%2026.02.2026.pdf",
+     "sha256": "3e7a91d503890f2ec41b2a7345ba17bf8cf24d47b3a14f51c5067f9c20e90419"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-29-2026",
+   "path": "local/cluj/turda/2026/29",
+   "short": "HCL Turda nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 29/2026 privind alegerea președintelui de ședință al Consiliului Local al Municipiului Turda pentru o perioadă de 3 luni (martie 2026 – mai 2026)",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/17/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/29%20din%2026.02.2026.pdf",
+     "sha256": "aaf9fbc5a27e0c93b8d2ebf37dd5ff9a6f0ba68fd36fd8ed5d2846d082a0e536"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-3-2026",
+   "path": "local/cluj/turda/2026/3",
+   "short": "HCL Turda nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 3/2026",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/19/",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/3%20din%2022.01.2026.pdf",
+     "sha256": "7834a64a9373419e968cbd3171c688149e2c5af101ff6e1b8f36d0cdb79db443"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-33-2026",
+   "path": "local/cluj/turda/2026/33",
+   "short": "HCL Turda nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 33/2026 privind aprobarea cheltuielilor pentru obiectivul: „RENOVAREA ENERGETICĂ A SPITALULUI MUNICIPIULUI TURDA”",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/16/",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/33%20din%2006.03.2026.pdf",
+     "sha256": "688928e4b592b0dd3fce3ed4ce14504c160cff7492aabbab4d8bdf0c708d62b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-35-2026",
+   "path": "local/cluj/turda/2026/35",
+   "short": "HCL Turda nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 35/2026 privind aprobarea deplasarii unei delegatii la Torontaltorda (Serbia) in perioada 13-15 martie 2026",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/16/",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/35%20din%2006.03.2026.pdf",
+     "sha256": "970cbfafd82de686b5090d642fb285298293b581c5ce1fdcd4ed14097c3509a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-36-2026",
+   "path": "local/cluj/turda/2026/36",
+   "short": "HCL Turda nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 36/2026 privind probarea deplasarii unei delegatii la Angouleme (Franta) in perioada 26-29 martie 2026",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/16/",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/36%20din%2006.03.2026.pdf",
+     "sha256": "07eddb91727518e1e86e08c428b85d94fef991e47a738c7b9999f01f44191c1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-37-2026",
+   "path": "local/cluj/turda/2026/37",
+   "short": "HCL Turda nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 37/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/37%20din%2011.03.2026.pdf",
+     "sha256": "988cd27b4cc00d57d7aadb3ace03611e381f43996d901b73b6b81352ce8021f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-39-2026",
+   "path": "local/cluj/turda/2026/39",
+   "short": "HCL Turda nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 39/2026 privind aprobarea organizării evenimentelor: Surprizele Iepurașului și Ziua Internațională a Romilor",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/16/",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/39%20din%2024.03.2026.pdf",
+     "sha256": "7e38f0b6a7cb9603e107cf867e3fe95b3d1bafa247e5729170ede3f1ca3f8c23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-4-2026",
+   "path": "local/cluj/turda/2026/4",
+   "short": "HCL Turda nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 4/2026",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/19/",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/4%20din%2022.01.2026.pdf",
+     "sha256": "076db81963c17823456e6e0b363b47f946ca72e13cc4f35233f0cad09d3f4c03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-40-2026",
+   "path": "local/cluj/turda/2026/40",
+   "short": "HCL Turda nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 40/2026 privind aprobarea modificarii statului de functii al Spitalului municipal Turda, aflat in subordinea Consiliului local al municipiului Turda",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/16/",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/40%20din%2024.03.2026.pdf",
+     "sha256": "48d2ba6b97113909e9ed3b9b803df32ea4070fab5c440d1f0d7e53a3db953441"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-41-2026",
+   "path": "local/cluj/turda/2026/41",
+   "short": "HCL Turda nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 41/2026 privind aprobarea documentației de dezmembrare a imobilului înscris în CF nr. 62399 Turda, nr. cadastral 62399",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/15/",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/41%20din%2024.03.2026.pdf",
+     "sha256": "d1ab40ceb11ae4f439d114107470a740b59befee8360dd58176a0e371c003eee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-42-2026",
+   "path": "local/cluj/turda/2026/42",
+   "short": "HCL Turda nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 42/2026 privind aprobarea documentației de dezmembrare a imobilului înscris în CF nr. 62400 Turda, nr. cadastral 62400",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/15/",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/42%20din%2024.03.2026.pdf",
+     "sha256": "37c067a83d7ed5906fc067b907c30b7135a7d89463fe6cd89100417162dee1bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-43-2026",
+   "path": "local/cluj/turda/2026/43",
+   "short": "HCL Turda nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 43/2026 privind aprobarea documentației de dezmembrare a imobilului înscris în CF nr. 62401 Turda, nr. cadastral 62401",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/15/",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/43%20din%2024.03.2026.pdf",
+     "sha256": "96546b404bf85d1a8f4b96e095a610639d52bcdfe9c36a62aafb8cc86cb8ae90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-44-2026",
+   "path": "local/cluj/turda/2026/44",
+   "short": "HCL Turda nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 44/2026 privind aprobarea documentației de dezmembrare a imobilului înscris în CF nr. 62402 Turda, nr. cadastral 62402",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/15/",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/44%20din%2024.03.2026.pdf",
+     "sha256": "ddb71bc99597c977a594c3c2e2253b1b67c61c7b6b855a072f28af6cd741b373"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-45-2026",
+   "path": "local/cluj/turda/2026/45",
+   "short": "HCL Turda nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 45/2026 privind aprobarea documentației de dezmembrare a imobilului înscris în CF nr. 62403 Turda, nr. cadastral 62403",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/15/",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/45%20din%2024.03.2026.pdf",
+     "sha256": "4d2350edaf49d97401ca7e71690cd4bba1e7480045ef6a73395a07c15e0a4ab8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-46-2026",
+   "path": "local/cluj/turda/2026/46",
+   "short": "HCL Turda nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 46/2026 privind aprobarea nivelului chiriei pentru imobilul situat administrativ în Municipiul Turda, Piața 1 Decembrie 1918, nr. 34-36, Județul Cluj",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/15/",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/46%20din%2027.03.2026.pdf",
+     "sha256": "0ea64a09d9028fae809d2bc087d6745de0ba63d978d56d75f6be09d85eccf4f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-47-2026",
+   "path": "local/cluj/turda/2026/47",
+   "short": "HCL Turda nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 47/2026 privind acordarea unui mandat special reprezentantului Consiliului Local al Municipiului Turda în Adunarea Generală a Acționarilor la societatea Centrul Agro Transilvania Cluj SA, în vederea exercitării drepturilor de acționar în cadrul Adunării Generale Ordinare a Acțion",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/15/",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/47%20din%2027.03.2026.pdf",
+     "sha256": "283cabe799dfc528a52d1741c2359d88146ff894390a96b5c56f86b3ec97b87f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-48-2026",
+   "path": "local/cluj/turda/2026/48",
+   "short": "HCL Turda nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 48/2026 privind modificarea art. 1 al HCL nr. 39/24.03.2026 referitoare la aprobarea organizării evenimentelor: Surprizele Iepurașului și Ziua Internațională a Romilor",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/15/",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/48%20din%2002.04.2026.pdf",
+     "sha256": "11fb831b341c3fab6d6083135ac79d07632408839a5071dc49f78bdb2eafcbab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-49-2026",
+   "path": "local/cluj/turda/2026/49",
+   "short": "HCL Turda nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 49/2026 privind modificarea și completarea Hotărârii Consiliului Local al Municipiului Turda, județul Cluj nr. 132/18.07.2024",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/15/",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/49%20din%2002.04.2026.pdf",
+     "sha256": "1e2c72395c097350b037a4b68e5abcf83f10602e5b1ab98b8ebecca40897bf90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-50-2026",
+   "path": "local/cluj/turda/2026/50",
+   "short": "HCL Turda nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 50/2026 privind înființarea Centrului de cultură, artă și tradiții, instituție publică de cultură, fără personalitate juridică, în subordinea Consiliului Local al Municipiului Turda",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/15/",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/50%20din%2014.04.2026.pdf",
+     "sha256": "a591cce5548b13ec8ad07bdb2bd9720928a267d55f31c0904bf124512457a780"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-51-2026",
+   "path": "local/cluj/turda/2026/51",
+   "short": "HCL Turda nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 51/2026 privind aprobarea modificării organigramei, numărului de posturi şi statului de funcții ale Serviciului Public Poliţia Locală",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/14/",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/51%20din%2014.04.2026.pdf",
+     "sha256": "bed013f7bd433e1ce31a774429067ead556a75fac400334fb1f21fa1d1661e1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-52-2026",
+   "path": "local/cluj/turda/2026/52",
+   "short": "HCL Turda nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 52/2026 privind aplicarea numărului maxim de posturi stabilit potrivit Ordonanței de Urgență a Guvernului nr. 7/2026 pentru modificarea și completarea unor acte normative, precum și pentru adoptarea unor măsuri pentru creșterea capacității financiare a unităților administrativ-te",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/14/",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/52%20din%2014.04.2026.pdf",
+     "sha256": "0986de76aca9fc3dc18bb207b90e148586ae43103cbada4ef229dcfb5766e23f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-53-2026",
+   "path": "local/cluj/turda/2026/53",
+   "short": "HCL Turda nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 53/2026 privind aprobarea Devizului general actualizat și a indicatorilor tehnico-economici actualizați pentru obiectivul de investiții: Reabilitare și modernizare străzi în municipiul Turda – Cartierul Primăverii, județul Cluj, finanțat în cadrul Programului Național de Investiț",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/14/",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/53%20din%2023.04.2026.pdf",
+     "sha256": "40b132fe42cf85a65fe37c295cfdb0d8a48d99474a9f3f0d30eb938c60e4b42f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-57-2026",
+   "path": "local/cluj/turda/2026/57",
+   "short": "HCL Turda nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 57/2026 privind aprobarea completării art. 1 al HCL nr. 12/06.02.2026 cu două noi aliniate",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/14/",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/57%20din%2023.04.2026.pdf",
+     "sha256": "37aac0d5d46534c8037ec6f23dd7913953d4240da5709ac8f682b73d1194d8f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-58-2026",
+   "path": "local/cluj/turda/2026/58",
+   "short": "HCL Turda nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 58/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/58%20din%2023.04.2026.pdf",
+     "sha256": "f16d6caa915afb05a7e8013f7819c65b75f1bac2f4d4c2cbf2a4a340cce20808"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-59-2026",
+   "path": "local/cluj/turda/2026/59",
+   "short": "HCL Turda nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 59/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/59%20din%2023.04.2026.pdf",
+     "sha256": "6030d95d0dc58751507f4a9daa74c438e004ec4c56cbd4d317c06a9a92486178"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-60-2026",
+   "path": "local/cluj/turda/2026/60",
+   "short": "HCL Turda nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 60/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/60%20din%2023.04.2026.pdf",
+     "sha256": "fbdd00c5ee1f4d9980133dee6d1757e9df39275f65c3aab03538b668c560a908"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-61-2026",
+   "path": "local/cluj/turda/2026/61",
+   "short": "HCL Turda nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 61/2026 privind alegerea președintelui de ședință al Consiliului Local al Municipiului Turda pentru perioada 27-30 aprilie 2026",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/13/",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/61%20din%2023.04.2026.pdf",
+     "sha256": "8703124b3fe7c0fba5c947a117b0ff49d96d294047cf7298a88ab471ea1ac081"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-63-2026",
+   "path": "local/cluj/turda/2026/63",
+   "short": "HCL Turda nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 63/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/63%20din%2030.04.2026.pdf",
+     "sha256": "1394c7af31edd87c8bb24a6aa77a653d7f3d6743b3831ecc5d0c01102a953a18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-64-2026",
+   "path": "local/cluj/turda/2026/64",
+   "short": "HCL Turda nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 64/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/64%20din%2030.04.2026.pdf",
+     "sha256": "7e85b79041a5b736db5dc10aeccb8149b75a390be11fa5dd7e27e2d67d5036b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-65-2026",
+   "path": "local/cluj/turda/2026/65",
+   "short": "HCL Turda nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 65/2026 privind aprobarea Programului de acțiune comunitară (PAC) al Municipiului Turda destinat prevenirii și combaterii riscului de marginalizare și excluziune socială pentru anul 2026",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/13/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/65%20din%2030.04.2026.pdf",
+     "sha256": "3b64204d5a89e40004cd1f99111d707a8b46ec9a6cf04dca6becbed492f0044e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-66-2026",
+   "path": "local/cluj/turda/2026/66",
+   "short": "HCL Turda nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 66/2026 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local al Municipiului Turda pentru anul 2026",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/13/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/66%20din%2030.04.2026.pdf",
+     "sha256": "4ae2550a14ec97cf0b37f3154a9334c34ea2adb6c8d91daaa1eab0a715df8c7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-67-2026",
+   "path": "local/cluj/turda/2026/67",
+   "short": "HCL Turda nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 67/2026 privind modificarea anexei la HCL nr. 111/30.09.2025 referitoare la desemnarea reprezentanților Consiliului Local al Municipiului Turda în Consiliile de Administratie și în comisiile de evaluare din cadrul unităților de învățământ preuniversitar din Municipiul Turda",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/13/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/67%20din%2030.04.2026.pdf",
+     "sha256": "0952cb96db81d47f3f0d025ab13a8be33467066abf0914329014ceac1636ac20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-68-2026",
+   "path": "local/cluj/turda/2026/68",
+   "short": "HCL Turda nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 68/2026 privind modificarea art. 2 al Hotărârii Consiliului Local al Municipiului Turda nr. 89 din 26.08.2025 referitoare la desemnarea reprezentanților Consiliului Local al Municipiului Turda în Consiliul de Administrație al Spitalului Municipal Turda",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/13/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/68%20din%2030.04.2026.pdf",
+     "sha256": "bb5de4c54965bc4b3beed1fdf702826839dd28de53473dd6dfe7ec804de6bd09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-69-2026",
+   "path": "local/cluj/turda/2026/69",
+   "short": "HCL Turda nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 69/2026 privind asocierea Municipiului Turda cu Asociația Club Sportiv Municipal Turda, aprobarea contribuției financiare lunare a Municipiului Turda către aceasta și desemnarea reprezentantului Consiliului Local în Adunarea Generală a Asociației",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/13/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/69%20din%2030.04.2026.pdf",
+     "sha256": "cbe98455674669dbfb7b4edbe48b944dc6ec52ddc2f358418baedcff80a72292"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-7-2026",
+   "path": "local/cluj/turda/2026/7",
+   "short": "HCL Turda nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 7/2026 privind actualizarea Registrului local al spațiilor verzi din Municipiul Turda și a anexei reprezentând Registrul spațiilor verzi, aprobat prin HCL nr. 352 din data de 06.10.2017",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2026/page/19/",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/7%20din%2006.02.2026.pdf",
+     "sha256": "40aab38de604a7be7d14ae1b50896943cbca7994974c4feae23840927a65f2b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-70-2026",
+   "path": "local/cluj/turda/2026/70",
+   "short": "HCL Turda nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 70/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2026/70%20din%2030.04.2026.pdf",
+     "sha256": "e91cfa186110e9471f75bd48410481259acfc59e9905f2461983b24a3781855d"
     }
    ]
   },

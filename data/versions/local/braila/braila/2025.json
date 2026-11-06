@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/braila/braila/2025",
+ "acts": [
+  {
+   "slug": "hcl-braila--braila-139-2025",
+   "path": "local/braila/braila/2025/139",
+   "short": "HCL Brăila nr. 139/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 139/2025",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2025/Buget%20local%20HCLM%20nr.%20139%20din%2027.03.2025.pdf",
+     "sha256": "ee4cc02c2ef775a66e9013d5cb80cc57ec4e88e9bd8610f104403cd36c138144"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-283-2025",
+   "path": "local/braila/braila/2025/283",
+   "short": "HCL Brăila nr. 283/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 283/2025",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2025/rectificare%2029_05/Rectificare%20Buget%20local%20HCLM%20nr.%20283%20din%2029.05.2025.pdf",
+     "sha256": "3ee2428a28382929a5c6b3f9280d2639395acacf4a0f243b157073850a2947e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-284-2025",
+   "path": "local/braila/braila/2025/284",
+   "short": "HCL Brăila nr. 284/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 284/2025",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2025/rectificare%2029_05/Rectificare%20Buget%20general%20centralizat%20HCLM%20nr.%20284%20din%2029.05.2025.pdf",
+     "sha256": "49a6a960b46e1d7cbeeb12292f1725f0a05add9b93f8a1310887e52a26eb4741"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-339-2025",
+   "path": "local/braila/braila/2025/339",
+   "short": "HCL Brăila nr. 339/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 339/2025",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2025/rectificare%2025_06/Buget%20local%20HCLM%20nr.%20339%20din%2025.06.2025.pdf",
+     "sha256": "26707f6e62c88ced35a86d3a4b0b74c0d11caac7d6eadc92961edcaf988b7475"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-340-2025",
+   "path": "local/braila/braila/2025/340",
+   "short": "HCL Brăila nr. 340/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 340/2025",
+   "url": "https://www.primariabraila.ro/monitor-oficial-local/documente-si-informatii-financiare/bugetul-si-programul-de-investitii",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Buget/2025/rectificare%2025_06/Buget%20general%20centralizat%20HCLM%20nr.%20340%20din%2025.06.2025.pdf",
+     "sha256": "8c2e7236b8e8b8e3657b205de9357f9d9d829765d765aca7863aebda20f140fb"
+    }
+   ]
+  }
+ ]
+}

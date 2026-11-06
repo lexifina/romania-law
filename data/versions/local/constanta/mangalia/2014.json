@@ -1,0 +1,411 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/mangalia/2014",
+ "acts": [
+  {
+   "slug": "hcl-constanta--mangalia-10-2014",
+   "path": "local/constanta/mangalia/2014/10",
+   "short": "HCL Mangalia nr. 10/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 10/2014",
+   "url": "https://mangalia.ro/2014/02/hcl-10-28-01-2014/",
+   "versions": [
+    {
+     "from": "2014-01-28",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/02/10.pdf",
+     "sha256": "c3fba21961e85c9278e716a7f19fdb3bb138b9dbaaa83902737c11a255b0eb19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-11-2014",
+   "path": "local/constanta/mangalia/2014/11",
+   "short": "HCL Mangalia nr. 11/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 11/2014",
+   "url": "https://mangalia.ro/2014/02/hcl-11-28-01-2014/",
+   "versions": [
+    {
+     "from": "2014-01-28",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/02/11.pdf",
+     "sha256": "d18e55dfc5e29e45d50a54d74a1c57268893d05f9da12e649991581d2030ff24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-12-2014",
+   "path": "local/constanta/mangalia/2014/12",
+   "short": "HCL Mangalia nr. 12/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 12/2014",
+   "url": "https://mangalia.ro/2014/02/hcl-12-28-01-2014/",
+   "versions": [
+    {
+     "from": "2014-01-28",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/02/12.pdf",
+     "sha256": "365a93a879376b783d0007be8da95ad7597cc800c5ff98dee01923e2d0c1c399"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-13-2014",
+   "path": "local/constanta/mangalia/2014/13",
+   "short": "HCL Mangalia nr. 13/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 13/2014",
+   "url": "https://mangalia.ro/2014/02/hcl-13-03-02-2014/",
+   "versions": [
+    {
+     "from": "2014-02-03",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/02/13smallpdf.com_.pdf",
+     "sha256": "26fa1729ea88419a29b978064a321e6a97dde5ef09d33425433ff468d9fd2feb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-148-2014",
+   "path": "local/constanta/mangalia/2014/148",
+   "short": "HCL Mangalia nr. 148/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 148/2014 privind aprobarea Studiului de Fezabilitate „Crearea Centrului Național de Informare și Promovare Turistică în Stațiunea Neptun-Olimp, Municipiul Mangalia, Jud. Constanța” Consiliul Local al Municipiului Mangalia, întrunit în ședința ordinară convocată în data de 16.05.2014 Având în vedere: e expunerea de motive prezentată, e proiectul de hotărâre propus de Primarul Municipiului Mangalia și aproba",
+   "url": "https://mangalia.ro/2014/07/hcl-14816-05-2014/",
+   "versions": [
+    {
+     "from": "2014-07-14",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/07/148.pdf",
+     "sha256": "3ef979889ace4dd329920c238597ce583916c131b8348374cb6fe220d2f7e9cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-179-2014",
+   "path": "local/constanta/mangalia/2014/179",
+   "short": "HCL Mangalia nr. 179/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 179/2014",
+   "url": "https://mangalia.ro/2014/10/hcl-mangalia-nr-17903-07-2014/",
+   "versions": [
+    {
+     "from": "2014-07-03",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/10/179.pdf",
+     "sha256": "9bc308973155d909e7d42e973c956eab3b24328015fc29c1401bd2a30a88a720"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-180-2014",
+   "path": "local/constanta/mangalia/2014/180",
+   "short": "HCL Mangalia nr. 180/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 180/2014",
+   "url": "https://mangalia.ro/2014/10/hcl-mangalia-nr-18003-07-2014/",
+   "versions": [
+    {
+     "from": "2014-07-03",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/10/180.pdf",
+     "sha256": "44acf294d6ab05bbf7554dfbd1f20fe3d9615b14f6b11fd929d1d5d12153ee1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-181-2014",
+   "path": "local/constanta/mangalia/2014/181",
+   "short": "HCL Mangalia nr. 181/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 181/2014",
+   "url": "https://mangalia.ro/2014/10/hcl-mangalia-nr-18103-07-2014/",
+   "versions": [
+    {
+     "from": "2014-07-03",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/10/181.pdf",
+     "sha256": "12b86af5ea2808091de6ff0c23c55e91775e2161a2c755a2d6673612b862dbb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-182-2014",
+   "path": "local/constanta/mangalia/2014/182",
+   "short": "HCL Mangalia nr. 182/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 182/2014",
+   "url": "https://mangalia.ro/2014/10/hcl-mangalia-nr-18203-07-2014/",
+   "versions": [
+    {
+     "from": "2014-07-03",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/10/182.pdf",
+     "sha256": "def61beb07716ee4abc7178a19cb7ded6a1a08f71f5b49173c68cea1d03b55e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-183-2014",
+   "path": "local/constanta/mangalia/2014/183",
+   "short": "HCL Mangalia nr. 183/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 183/2014",
+   "url": "https://mangalia.ro/2014/10/hcl-mangalia-nr-18303-07-2014/",
+   "versions": [
+    {
+     "from": "2014-07-03",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/10/183.pdf",
+     "sha256": "10010295f3f437d2ca44f9a07e774d80b97a1180fd67e13c5be6dbf7be24842e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-187-2014",
+   "path": "local/constanta/mangalia/2014/187",
+   "short": "HCL Mangalia nr. 187/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 187/2014",
+   "url": "https://mangalia.ro/2014/10/hcl-mangalia-nr-18703-07-2014/",
+   "versions": [
+    {
+     "from": "2014-07-03",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/10/187.pdf",
+     "sha256": "893e825dc944c6b655922050df78e288f181db0b3a8754972e3b9f4d34fce492"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-188-2014",
+   "path": "local/constanta/mangalia/2014/188",
+   "short": "HCL Mangalia nr. 188/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 188/2014",
+   "url": "https://mangalia.ro/2014/10/hcl-mangalia-nr-18803-07-2014/",
+   "versions": [
+    {
+     "from": "2014-07-03",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/10/188.pdf",
+     "sha256": "3dd6f8417729c1093752164722a4acdd86435f3e2a66881a3e2357215ad88905"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-190-2014",
+   "path": "local/constanta/mangalia/2014/190",
+   "short": "HCL Mangalia nr. 190/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 190/2014",
+   "url": "https://mangalia.ro/2014/10/hcl-mangalia-nr-19003-07-2014/",
+   "versions": [
+    {
+     "from": "2014-07-03",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/10/190.pdf",
+     "sha256": "da809a88c83743a44cc93164134b118a2392a5ece2d55731ba1b6a265297fd51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-191-2014",
+   "path": "local/constanta/mangalia/2014/191",
+   "short": "HCL Mangalia nr. 191/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 191/2014",
+   "url": "https://mangalia.ro/2014/10/hcl-mangalia-nr-19103-07-2014/",
+   "versions": [
+    {
+     "from": "2014-07-03",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/10/191.pdf",
+     "sha256": "809202987fa98d09870dbf25fefcb21c176f260aff3aec01c7b4f00963b2ae23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-193-2014",
+   "path": "local/constanta/mangalia/2014/193",
+   "short": "HCL Mangalia nr. 193/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 193/2014",
+   "url": "https://mangalia.ro/2014/10/hcl-mangalia-nr-19303-07-2014/",
+   "versions": [
+    {
+     "from": "2014-07-03",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/10/193.pdf",
+     "sha256": "1c030755dfd8d0a09f65feff5f430ad617d7709e885eae1e8130ddfdf6fedfee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-194-2014",
+   "path": "local/constanta/mangalia/2014/194",
+   "short": "HCL Mangalia nr. 194/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 194/2014",
+   "url": "https://mangalia.ro/2014/10/hcl-mangalia-nr-19403-07-2014/",
+   "versions": [
+    {
+     "from": "2014-07-03",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/10/194.pdf",
+     "sha256": "754d5fe43d70322b83956b7462303f9625dd17a966a11f3c6fca10fa61c8da41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-195-2014",
+   "path": "local/constanta/mangalia/2014/195",
+   "short": "HCL Mangalia nr. 195/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 195/2014",
+   "url": "https://mangalia.ro/2014/10/hcl-mangalia-nr-19503-07-2014/",
+   "versions": [
+    {
+     "from": "2014-07-03",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/10/195.pdf",
+     "sha256": "d8f9442a1df47c8ee3cc70168e8a3143dbc9292acc0d78a9a057a6076729734b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-196-2014",
+   "path": "local/constanta/mangalia/2014/196",
+   "short": "HCL Mangalia nr. 196/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 196/2014",
+   "url": "https://mangalia.ro/2014/10/hcl-mangalia-nr-19603-07-2014/",
+   "versions": [
+    {
+     "from": "2014-07-03",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/10/196.pdf",
+     "sha256": "18be60dd680d28dba162306733252343a8c128845baf6451b98663c2fadab998"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-197-2014",
+   "path": "local/constanta/mangalia/2014/197",
+   "short": "HCL Mangalia nr. 197/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 197/2014 privind aprobarea încheierii unui acord de parteneriat pentru proiectul/acțiunea „Parteneriat activ în sprijinul copiilor din județul Constanța” Consiliul Local al Municipiului Mangalia, întrunit în ședința ordinară convocată în data de 03.07.2014 Având în vedere: e expunerea de motive prezentată, e proiectul de hotărâre propus de Primarul Municipiului Mangalia și aprobat de membrii Consiliului Lo",
+   "url": "https://mangalia.ro/2014/10/hcl-mangalia-nr-19703-07-2014/",
+   "versions": [
+    {
+     "from": "2014-07-03",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/10/197.pdf",
+     "sha256": "ed1f72aa1a593423d68feedbb6404b9f51ed7510581225988a24bedf0d03abf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-198-2014",
+   "path": "local/constanta/mangalia/2014/198",
+   "short": "HCL Mangalia nr. 198/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 198/2014",
+   "url": "https://mangalia.ro/2014/10/hcl-mangalia-nr-19821-07-2014/",
+   "versions": [
+    {
+     "from": "2014-07-21",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/10/198.pdf",
+     "sha256": "6443d2c178f77bdc0b396049740fabb173ccb8f54f7c91bc4abcdebf52a639a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-199-2014",
+   "path": "local/constanta/mangalia/2014/199",
+   "short": "HCL Mangalia nr. 199/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 199/2014",
+   "url": "https://mangalia.ro/2014/10/hcl-mangalia-nr-19921-07-2014/",
+   "versions": [
+    {
+     "from": "2014-07-21",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/10/199.pdf",
+     "sha256": "042ce3b0469802985fe15122a2cc3863ec806c2cc8b2372f2fe6bba87783ac01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-4-2014",
+   "path": "local/constanta/mangalia/2014/4",
+   "short": "HCL Mangalia nr. 4/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 4/2014",
+   "url": "https://mangalia.ro/2014/02/hcl-4-28-01-2014-2/",
+   "versions": [
+    {
+     "from": "2014-01-28",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/02/4.pdf",
+     "sha256": "efd31fcfbabe1d49a12bcddc9efc09ca91f9800bd57a46c671246eb7e85fed7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-5-2014",
+   "path": "local/constanta/mangalia/2014/5",
+   "short": "HCL Mangalia nr. 5/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 5/2014",
+   "url": "https://mangalia.ro/2014/02/hcl-5-28-01-2014/",
+   "versions": [
+    {
+     "from": "2014-01-28",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/02/5.pdf",
+     "sha256": "d62ae26040093f1495778902aae5ed6d3b8b7fd129113cf847258b192e88d24c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-6-2014",
+   "path": "local/constanta/mangalia/2014/6",
+   "short": "HCL Mangalia nr. 6/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 6/2014",
+   "url": "https://mangalia.ro/2014/02/hcl-6-28-01-2014/",
+   "versions": [
+    {
+     "from": "2014-01-28",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/02/6.pdf",
+     "sha256": "bc81afb208716e6ca89074723e8434387f90fdf3b157c211efe9b46142006861"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-7-2014",
+   "path": "local/constanta/mangalia/2014/7",
+   "short": "HCL Mangalia nr. 7/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 7/2014",
+   "url": "https://mangalia.ro/2014/02/hcl-7-28-01-2014/",
+   "versions": [
+    {
+     "from": "2014-01-28",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/02/7.pdf",
+     "sha256": "d182c9593a479806ee9fd5e9215d6c05f79fd3e608e554c5f82904f27df883f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-8-2014",
+   "path": "local/constanta/mangalia/2014/8",
+   "short": "HCL Mangalia nr. 8/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 8/2014",
+   "url": "https://mangalia.ro/2014/02/hcl-8-28-01-2014/",
+   "versions": [
+    {
+     "from": "2014-01-28",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/02/8.pdf",
+     "sha256": "d43d2b0c4c565b7604c4dc2c818bb993fdddc473f6b76e699dfa5c7c1268addf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-9-2014",
+   "path": "local/constanta/mangalia/2014/9",
+   "short": "HCL Mangalia nr. 9/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 9/2014",
+   "url": "https://mangalia.ro/2014/02/hcl-9-28-01-2014/",
+   "versions": [
+    {
+     "from": "2014-01-28",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/02/9.pdf",
+     "sha256": "e82e2f11313d5c1f91be76acc06cef0d07f16b2ae0f0a8a91d41128043fa8792"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,51 @@
  "shard": "local/cluj/turda/2025",
  "acts": [
   {
+   "slug": "hcl-cluj--turda-10-2025",
+   "path": "local/cluj/turda/2025/10",
+   "short": "HCL Turda nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 10/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/16/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/10%20din%2027.03.2025.pdf",
+     "sha256": "d13b665c0af9fdca373768c05f98683720b33992ad2f326f664bb75eb320a534"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-100-2025",
+   "path": "local/cluj/turda/2025/100",
+   "short": "HCL Turda nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 100/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/7/",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/100%20din%2026.08.2025.pdf",
+     "sha256": "42113fb15059c7fea74651ecd861af4c8468455edf225c5d9fd27104ec31a126"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-101-2025",
+   "path": "local/cluj/turda/2025/101",
+   "short": "HCL Turda nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 101/2025 privind aprobarea reţelei școlare a unităţilor de învăţământ preuniversitar de pe raza administrativ-teritorială a Municipiului Turda, care vor funcţiona în anul şcolar 2025-2026",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/7/",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/26.09/101%20din%2012.09.2025.pdf",
+     "sha256": "0e88a81c61a3dc80642e9d9f68b10e8b61360f3dbb7fab9373b8c069905a425a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-103-2025",
    "path": "local/cluj/turda/2025/103",
    "short": "HCL Turda nr. 103/2025",
@@ -29,6 +74,2076 @@
      "units": 1,
      "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/26.09/104%20din%2012.09.2025.pdf",
      "sha256": "02d4d92cd8c4984d49bf428ade0d49b920095fddb4c80969782b1fdf3f17bdd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-105-2025",
+   "path": "local/cluj/turda/2025/105",
+   "short": "HCL Turda nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 105/2025 privind aprobarea modificării contractului de delegare directă a gestiunii serviciului public de administrare a patrimoniului public și privat al municipiului Turda, nr. 19209/01.07.2022, încheiat cu societatea Domeniul Public Turda S.A",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/6/",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/26.09/105%20din%2012.09.2025.pdf",
+     "sha256": "315e2dd77e4726646420c0d068f6d68706b03c8228bf4e20c967a10420c3a3cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-106-2025",
+   "path": "local/cluj/turda/2025/106",
+   "short": "HCL Turda nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 106/2025 privind declanșarea procedurii de selecție pentru un număr de 2 membri în consiliul de administrație al societății Domeniul Public Turda S.A",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/6/",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/26.09/106%20din%2012.09.2025.pdf",
+     "sha256": "57a49f4d4d6884833a4f598736750ed36161193fd315469411bded62b35a6f9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-107-2025",
+   "path": "local/cluj/turda/2025/107",
+   "short": "HCL Turda nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 107/2025 privind aprobarea Raportului auditorului financiar independent pentru anul 2024, aprobarea situațiilor financiare anuale la data de 31.12.2024, aprobarea repartizării pierderii aferente exercitiului financiar pentru anul 2024, aprobarea Raportului de activitate al admini",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/6/",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/26.09/107%20din%2012.09.2025.pdf",
+     "sha256": "f1d8ed32b392aa6dc975dc1b77787e640d97fa30917e799afda33f58a98eb1ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-109-2025",
+   "path": "local/cluj/turda/2025/109",
+   "short": "HCL Turda nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 109/2025 privind aprobarea Devizului general actualizat și a principalilor indicatori tehnico-economici actualizați la finalizarea lucrărilor, aferenți obiectivului de investiții Construire ansamblu de locuințe sociale – 72 apartamente, branșamente și racorduri la utilități în Mu",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/6/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/08.09/109%20din%2030.09.2025.pdf",
+     "sha256": "e1a594af9dddee649208aa19eac07c237ec435cc66b65aad4813915348c75c20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-11-2025",
+   "path": "local/cluj/turda/2025/11",
+   "short": "HCL Turda nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 11/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/16/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/11%20din%2027.03.2025.pdf",
+     "sha256": "88200e546417223fd0420ac9b927f91738e55ebf7aa08ac3804e83bab1e2c4f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-110-2025",
+   "path": "local/cluj/turda/2025/110",
+   "short": "HCL Turda nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 110/2025 privind aprobarea componentei inițiale a planului de selecție pentru societatea Domeniul Public Turda SA",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/6/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/08.09/110%20din%2030.09.2025.pdf",
+     "sha256": "ab6c1768e38a27104b9e3631c182c38c90fd368a0320c3615bfed02f5828ec1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-111-2025",
+   "path": "local/cluj/turda/2025/111",
+   "short": "HCL Turda nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 111/2025 privind desemnarea reprezentanților Consiliului Local al Municipiului Turda în Consiliile de Administratie și în comisiile de evaluare din cadrul unităților de învățământ preuniversitar din municipiul Turda",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/6/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/08.09/111%20din%2030.09.2025.pdf",
+     "sha256": "fcc87fb6c6f190eaaefd9ac737e0bcdb1ab1d15269da867a308f65226c509ad8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-112-2025",
+   "path": "local/cluj/turda/2025/112",
+   "short": "HCL Turda nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 112/2025 privind modificarea Hotărârii Consiliului Local al Municipiului Turda, județul Cluj, nr. 146 din data de 30.09.2010 referitoare la darea în administrare a imobilului Hotel Potaissa către SC Turda Salina Durgău SA",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/5/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/08.09/112%20din%2030.09.2025.pdf",
+     "sha256": "e153287a53179cd594c367ab44e64fdabec3ad6022d519965fae24eb651c6026"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-113-2025",
+   "path": "local/cluj/turda/2025/113",
+   "short": "HCL Turda nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 113/2025 privind aprobarea cumpărării terenului cu nr. cadastral 67937, situat în Turda, jud. Cluj, în suprafață de 3.977 mp și înscrierea acestuia în domeniul public al municipiului, în vederea realizării unor investiții de interes local",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/5/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/08.09/113%20din%2030.09.2025.pdf",
+     "sha256": "5dee399eea799b0d8fe2cd5f9959eb421e68ff85397cacb525a624b739913fdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-114-2025",
+   "path": "local/cluj/turda/2025/114",
+   "short": "HCL Turda nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 114/2025 privind stabilirea componenței comisiei pentru analizarea dosarelor și stabilirea ordinii de prioritate în vederea repartizării locuințelor sociale și a celor din fondul locativ de stat, altele decât cele sociale",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/5/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/08.09/114%20din%2030.09.2025.pdf",
+     "sha256": "7f32a9c6ae4fcdac8b3bf6d264727364162710c8c75905fab03f3248da079b13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-115-2025",
+   "path": "local/cluj/turda/2025/115",
+   "short": "HCL Turda nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 115/2025 privind stabilirea componenței comisiei de analiză a dosarelor și stabilire a ordinii de prioritate pentru repartizarea locuințelor destinate tinerilor, construite prin programul Agenției Naționale pentru Locuințe (ANL)",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/5/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/08.09/115%20din%2030.09.2025.pdf",
+     "sha256": "d4bedbfa2f322615b3b4d8381f6d69e6fa24d35d66554f8be557eb90949d38ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-116-2025",
+   "path": "local/cluj/turda/2025/116",
+   "short": "HCL Turda nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 116/2025 privind aprobarea unui protocol de colaborare între Unitatea Administrativ-Teritorială Municipiul Turda și Teatrul Național Aureliu Manea Turda, în vederea înființării unui centru logistic prin construirea unor hale pentru depozitare",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/5/",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/116%20din%2021.10.2025.pdf",
+     "sha256": "57a5bb335c737fcf41a9e172ff1c1982cf4e9c2b3d20988e73b50a7efc7bc0f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-117-2025",
+   "path": "local/cluj/turda/2025/117",
+   "short": "HCL Turda nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 117/2025 privind aprobarea dării în folosință gratuită către Teatrul Național Aureliu Manea Turda, instituție publică de cultură în subordinea Consiliului Local al Municipiului Turda, județul Cluj, a imobilului-teren, situat administrativ în municipiul Turda, strada 22 Decembrie",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/5/",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/117%20din%2021.10.2025.pdf",
+     "sha256": "6d41be7c1adba461f8db24ab6604cda2602f00a534ba8fa31a96d8b2b535a0bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-118-2025",
+   "path": "local/cluj/turda/2025/118",
+   "short": "HCL Turda nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 118/2025 privind declanșarea procedurii de selecție pentru trei membri în Consiliul de administrație la societatea Transport Urban Public SRL",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/5/",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/118%20din%2021.10.2025.pdf",
+     "sha256": "c724496ea0046b2ca2b6c54367973feb1a7807de994281f1061e0fc0dddafc44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-12-2025",
+   "path": "local/cluj/turda/2025/12",
+   "short": "HCL Turda nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 12/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/12%20din%2027.03.2025.pdf",
+     "sha256": "493b7cdb6a4d4833a23944558c35e2a4929667564c4d76666e56cad7cfefaf4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-120-2025",
+   "path": "local/cluj/turda/2025/120",
+   "short": "HCL Turda nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 120/2025 privind actualizarea codurilor CAEN din Actul Constitutiv și actualizarea Actului Constitutiv al societății Salina Turda S.A",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/5/",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/120%20din%2024.10.2025.pdf",
+     "sha256": "7a67b6ddbf3efd7d182998974ea4bf28c838fdf9c05ae2997dff541b8541a6a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-122-2025",
+   "path": "local/cluj/turda/2025/122",
+   "short": "HCL Turda nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 122/2025 privind aprobarea contului de execuție al bugetului local al Municipiului Turda la data de 30.09.2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/4/",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/122%20din%2006.11.2025.pdf",
+     "sha256": "a79972817410151703aed3aa296aac77f2cdb357c60c0bd202f4c8d9fcd799d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-123-2025",
+   "path": "local/cluj/turda/2025/123",
+   "short": "HCL Turda nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 123/2025 privind desemnarea administratorului special al societății Domeniul Public Turda S.A",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/4/",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/123%20din%2006.11.2025.pdf",
+     "sha256": "d04f450c4b1e4055a44832f57adb8177c901c997269dcf5a572b3e8f8b1a994f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-124-2025",
+   "path": "local/cluj/turda/2025/124",
+   "short": "HCL Turda nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 124/2025 privind acordarea unui mandat special reprezentantului Municipiului Turda în Adunarea Generală a Asociaților societății Transport Urban Public S.R.L",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/4/",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/124%20din%2006.11.2025.pdf",
+     "sha256": "eebce549f56d702afdabaf1716b4eb78f0287cfd884e6bdfbe3502e6ec66387c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-125-2025",
+   "path": "local/cluj/turda/2025/125",
+   "short": "HCL Turda nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 125/2025 privind modificarea Hotărârii Consiliului Local al Municipiului Turda nr. 89 din 26.08.2025 referitoare la desemnarea reprezentanţilor Consiliului Local al Municipiului Turda în Consiliul de Administraţie al Spitalului Municipal Turda",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/4/",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/125%20din%2006.11.2025.pdf",
+     "sha256": "7da24289c9ade0536da081d9732cd3d035909f7543ce8d9c8c5934c0906bd6d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-126-2025",
+   "path": "local/cluj/turda/2025/126",
+   "short": "HCL Turda nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 126/2025 privind preluarea în proprietatea privată a Municipiului Turda a imobilului înscris în CF nr. 66461 Turda, nr. cadastral 66461, situat în Turda, str",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/4/",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/126%20din%2006.11.2025.pdf",
+     "sha256": "51f43b2e136f93343be10e72ffbd6aca4ddf02ec9db009ea3a700f0a6ef78250"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-127-2025",
+   "path": "local/cluj/turda/2025/127",
+   "short": "HCL Turda nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 127/2025 privind aprobarea reţelei școlare a unităţilor de învăţământ preuniversitar de pe raza administrativ-teritorială a Municipiului Turda, care vor funcţiona în anul şcolar 2026-2027",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/4/",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/127%20din%2017.11.2025.pdf",
+     "sha256": "d35dcee11ad2bd0fbeda9f2beb874b2508243b63b2fe39e2b0adfdf2934fb5f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-128-2025",
+   "path": "local/cluj/turda/2025/128",
+   "short": "HCL Turda nr. 128/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 128/2025 privind aprobarea exercitării dreptului de preemțiune pentru cumpărarea imobilului situat administrativ în Municipiul Turda, Piața 1 Decembrie 1918, nr. 34-36, Județul Cluj, înscris în Cartea Funciară nr. 51935 Turda, nr. cadastral 51935",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/4/",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/128%20din%2017.11.2025.pdf",
+     "sha256": "0e4f31588927cf0b5a762b46b6f05d242ac2844de37b0553bff8f96e0e4f247f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-129-2025",
+   "path": "local/cluj/turda/2025/129",
+   "short": "HCL Turda nr. 129/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 129/2025 privind aprobarea modificării art. 2.9 din HCL nr. 23 din 27.03.2025 referitoare la aprobarea organizării evenimentelor: Ziua Internațională a Romilor, Obeliscul Floriilor, Surprizele Iepurașului,1 MAI aproape de tine, Festivalul verde, Famtastic Land – Family Festival",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/4/",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/129%20din%2017.11.2025.pdf",
+     "sha256": "07ea0835b6f11213c2465ad617998c4fccd85c68eeb4590397ba3d3e262af2fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-13-2025",
+   "path": "local/cluj/turda/2025/13",
+   "short": "HCL Turda nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 13/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/15/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/13%20din%2027.03.2025.pdf",
+     "sha256": "6229bd25453251e69e1a3655898c089fe615fdb51c11d9192877804e41ef9fb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-134-2025",
+   "path": "local/cluj/turda/2025/134",
+   "short": "HCL Turda nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 134/2025 privind aprobarea PUD – Construire 2 locunțe unifamiliale corp C2 și corp C3, și ămprejmuire și amenajări exterioare, municipiul Turda, str",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/3/",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/134%20din%2020.11.2025.pdf",
+     "sha256": "2ca4b887967a70dea687f5e192bc0316655a7f6d244dcb34b5af15e2bec2c3c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-135-2025",
+   "path": "local/cluj/turda/2025/135",
+   "short": "HCL Turda nr. 135/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 135/2025 privind acordarea unui mandat special reprezentantului Municipiului Turda în Adunarea Generală a Acționarilor societăţii Compania de Apă Arieş SA, în vederea exercitării drepturilor de acţionar în cadrul Adunării Generale Extraordinare a Acţionarilor (A.G.E.A.)",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/3/",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/135%20din%2020.11.2025.pdf",
+     "sha256": "24aad768334f2764085b20ee49be295574e689134681294a1a34afccaf4c234e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-136-2025",
+   "path": "local/cluj/turda/2025/136",
+   "short": "HCL Turda nr. 136/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 136/2025 privind aprobarea contractării și garantării de către societatea Salina Turda SA a unui plafon de credite rambursabile interne în valoare de până la 79.350.000 lei",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/3/",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/136%20din%2024.11.2025.pdf",
+     "sha256": "588e6d06f3f83b3b365c12fc8e71947ab8bdf4f42da6d017b7d921e6a00bf032"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-14-2025",
+   "path": "local/cluj/turda/2025/14",
+   "short": "HCL Turda nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 14/2025 privind declararea ca locuințe de necesitate a unor locuințe sociale libere și repartizarea nominală a acestora familiilor din Municipiul Turda care vor primii locuința de necesitate Consiliul Local al Municipiului Turda întrunit în ședința ordinară din data de 27.03.2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/15/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/14%20din%2027.03.2025.pdf",
+     "sha256": "bdf98b16c7c0eeb7b236fce6d66d2b45211d275a474afab9a45fefa7a9baf760"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-141-2025",
+   "path": "local/cluj/turda/2025/141",
+   "short": "HCL Turda nr. 141/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 141/2025 privind aprobarea modificării organigramei, statului de funcții și Regulamentului de organizare și funcționare ale Spitalului Municipal Turda, aflat în subordinea Consiliului Local al Municipiului Turda",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/3/",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/141%20din%2024.11.2025.pdf",
+     "sha256": "7eaf2eece1d2d481087744d36ea10dc470467cde6b179872c43765c49a958f44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-142-2025",
+   "path": "local/cluj/turda/2025/142",
+   "short": "HCL Turda nr. 142/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 142/2025 privind alegerea președintelui de ședință al Consiliului Local al Municipiului Turda pentru o perioadă de 3 luni (decembrie 2025 – februarie 2026)",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/2/",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/142%20din%2024.11.2025.pdf",
+     "sha256": "515d493e86bea7b731e18f039dd358711bbcbbba43ce3b5a2bb6f462ec946913"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-143-2025",
+   "path": "local/cluj/turda/2025/143",
+   "short": "HCL Turda nr. 143/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 143/2025 privind aprobarea listelor de priorități în vederea repartizării locuințelor pentru tineri, destinate închirierii, pentru anul 2025, derulate prin Agenția Națională pentru Locuințe",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/2/",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/143%20din%2024.11.2025.pdf",
+     "sha256": "f9bc8e4bfc73c998ef03375d222a6662beb1db8ca27b6d3556c8bbdd4bb7b61b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-144-2025",
+   "path": "local/cluj/turda/2025/144",
+   "short": "HCL Turda nr. 144/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 144/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/2/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/144%20din%2028.11.2025.pdf",
+     "sha256": "57a2a060c3ec76497d1b4cbb166f49a996eb35115ead11faa689bfce5bc0dbed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-145-2025",
+   "path": "local/cluj/turda/2025/145",
+   "short": "HCL Turda nr. 145/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 145/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/2/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/145%20din%2028.11.2025.pdf",
+     "sha256": "19d532d1d4c046dc895af836d2e9aae3211783638c580257aa2062f8937add18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-146-2025",
+   "path": "local/cluj/turda/2025/146",
+   "short": "HCL Turda nr. 146/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 146/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/2/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/146%20din%2015.12.2025.pdf",
+     "sha256": "794c8bfe4252c924ee299bcc6ac8c4f856c53ea7a8557ca1b3c1190466d33092"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-147-2025",
+   "path": "local/cluj/turda/2025/147",
+   "short": "HCL Turda nr. 147/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 147/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/2/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/147%20din%2015.12.2025.pdf",
+     "sha256": "5fcdc4a4fcee34256361bf00c6f563650238ee95beca747336230e1bb236d513"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-148-2025",
+   "path": "local/cluj/turda/2025/148",
+   "short": "HCL Turda nr. 148/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 148/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/2/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/148%20din%2015.12.2025.pdf",
+     "sha256": "3cf7bd5f4c77f07ef2310e714f10f747838442d648b130aee267367eb10c8976"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-149-2025",
+   "path": "local/cluj/turda/2025/149",
+   "short": "HCL Turda nr. 149/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 149/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/2/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/149%20din%2015.12.2025.pdf",
+     "sha256": "00fa5da0bba8165ec3904a54cd97ce7b582c6e38abbcebedfda6017fde4241fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-15-2025",
+   "path": "local/cluj/turda/2025/15",
+   "short": "HCL Turda nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 15/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/15/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/15%20din%2027.03.2025.pdf",
+     "sha256": "df72b901d6fc9bcb4d9bf3333fb552022c61bf72c79f5de3f3d41819de73a92b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-151-2025",
+   "path": "local/cluj/turda/2025/151",
+   "short": "HCL Turda nr. 151/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 151/2025 privind declararea ca locuință de necesitate a unei locuințe sociale libere și repartizarea nominală a acesteia familiei din Municipiul Turda care va primi locuința de necesitate Consiliul Local al municipiului Turda, întrunit în ședința publică extraordinară din data de 15.12.2025; Luând în dezbatere proiectul de hotărâre privind declararea ca locuință de necesitate a unei locuințe sociale libere",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/2/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/151%20din%2015.12.2025.pdf",
+     "sha256": "5a94722bc0bab6e8deb4e9d484e3642c20a38f35d5ce2b821d9722f5d9bbf2a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-153-2025",
+   "path": "local/cluj/turda/2025/153",
+   "short": "HCL Turda nr. 153/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 153/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/Hotararea%20153%20din%2022.12.2025.pdf",
+     "sha256": "2c56855911f57b6012f14a5a1970b3b44e22c1a828c8d099b5ad8ae8990580a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-154-2025",
+   "path": "local/cluj/turda/2025/154",
+   "short": "HCL Turda nr. 154/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 154/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/Hotararea%20154%20din%2022.12.2025.pdf",
+     "sha256": "213fe3c3636dd77723e146f46d4b8470a89c7f301bae3982843d11297b70d8a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-155-2025",
+   "path": "local/cluj/turda/2025/155",
+   "short": "HCL Turda nr. 155/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 155/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/Hotararea%20%20155%20din%2022.12.2025.pdf",
+     "sha256": "bd5d1de2fd0768a818e09132895428d0fd163f90a58652c556725c8c061df478"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-157-2025",
+   "path": "local/cluj/turda/2025/157",
+   "short": "HCL Turda nr. 157/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 157/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/Hotararea%20%20157%20din%2022.12.2025.pdf",
+     "sha256": "d5d77a2f73e3d0bf7ba944a22ad25ae5742b21e4b2c8616a2cc4aa7de7b2ec95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-158-2025",
+   "path": "local/cluj/turda/2025/158",
+   "short": "HCL Turda nr. 158/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 158/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/Hotararea%20%20158%20din%2022.12.2025.pdf",
+     "sha256": "45075b553b3092f1f7c0056eb3799325fb8d6950eb5deaf1a3ba051d60a39a07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-159-2025",
+   "path": "local/cluj/turda/2025/159",
+   "short": "HCL Turda nr. 159/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 159/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/Hotararea%20159%20din%2022.12.2025.pdf",
+     "sha256": "22a125ac88535ebffb9c055e013e0d0f68ace88d4478db82408376bc9c3dae5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-16-2025",
+   "path": "local/cluj/turda/2025/16",
+   "short": "HCL Turda nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 16/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/15/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/16%20din%2027.03.2025.pdf",
+     "sha256": "e52419e38600c58f201e0b267d606f4be38b069ed9b6d4ccc3ecf231de5b0bff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-160-2025",
+   "path": "local/cluj/turda/2025/160",
+   "short": "HCL Turda nr. 160/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 160/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/160%20din%2030.12.2025.pdf",
+     "sha256": "d7679188e654a39acde71c7f6bb0db37d2c89304dae035e81af08a67e8e52978"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-161-2025",
+   "path": "local/cluj/turda/2025/161",
+   "short": "HCL Turda nr. 161/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 161/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/161%20din%2030.12.2025.pdf",
+     "sha256": "faf187cbb706cf99caecbbb6a495c9b1ebf2c01747ddf76429ec786f6a6cb7f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-17-2025",
+   "path": "local/cluj/turda/2025/17",
+   "short": "HCL Turda nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 17/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/15/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/17%20din%2027.03.2025.pdf",
+     "sha256": "88a01db227791038667af956783fe475f7b86bb62d1d6f98de7c2f248fef6e97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-18-2025",
+   "path": "local/cluj/turda/2025/18",
+   "short": "HCL Turda nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 18/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/15/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/18%20din%2027.03.2025.pdf",
+     "sha256": "327599329ee7d7f0e8bca61ea7e2a72a1608e4b792ee1cb1820a9594a668a004"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-19-2025",
+   "path": "local/cluj/turda/2025/19",
+   "short": "HCL Turda nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 19/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/15/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/19%20din%2027.03.2025.pdf",
+     "sha256": "587bcd7bf5989d803a94769eee382a464ca2737ef49c26d9ef17fde19631479d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-2-2025",
+   "path": "local/cluj/turda/2025/2",
+   "short": "HCL Turda nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 2/2025 privind aprobarea organizării evenimentului dedicat Zilei Unirii Principatelor Române, la Turda, la data de 24 ianuarie 2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/16/",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/2%20din%2021.01.2025.pdf",
+     "sha256": "0a48f652fb5e92cb696e1c7d12ac0a2c15067872b911a3d24c054d2f482c2fd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-20-2025",
+   "path": "local/cluj/turda/2025/20",
+   "short": "HCL Turda nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 20/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/15/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/20%20din%2027.03.2025.pdf",
+     "sha256": "cefa6c141f708d9aa3589c03a9bbbdc6cf9c2c6409e9ffb0342d611ce1c09091"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-21-2025",
+   "path": "local/cluj/turda/2025/21",
+   "short": "HCL Turda nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 21/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/15/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/21%20din%2027.03.2025.pdf",
+     "sha256": "61f3dd68a0e74af2bcaa91b641152626879129e872c60e4d173c10ffcf69eabb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-22-2025",
+   "path": "local/cluj/turda/2025/22",
+   "short": "HCL Turda nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 22/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/14/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/22%20din%2027.03.2025.pdf",
+     "sha256": "84ba92e5a7af8c84e0b3b251a7013a66f454c5d6a437c2f9d3e532c1c7b1ddf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-23-2025",
+   "path": "local/cluj/turda/2025/23",
+   "short": "HCL Turda nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 23/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/14/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/23%20din%2027.03.2025.pdf",
+     "sha256": "bf3ad1e3bf0564ab3baecbb3dd383805e24f6b7e2e823c8e6e43bd3128278647"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-24-2025",
+   "path": "local/cluj/turda/2025/24",
+   "short": "HCL Turda nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 24/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/14/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/24%20din%2027.03.2025.pdf",
+     "sha256": "3e5a2566c15de90445afbc826caa89a584a5b25240b288b50b1881a11698e13b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-25-2025",
+   "path": "local/cluj/turda/2025/25",
+   "short": "HCL Turda nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 25/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/14/",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/25%20din%2010.04.2025.pdf",
+     "sha256": "85f875bbab7577a435d9074cd84a5f5a7d333f3f73b907cce85970c0b34579ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-26-2025",
+   "path": "local/cluj/turda/2025/26",
+   "short": "HCL Turda nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 26/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/14/",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/26%20din%2010.04.2025.pdf",
+     "sha256": "b89607ba5bbc6450c0ac33501b8a5f1383ba3695e094b4796dcd2bb60dc77426"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-27-2025",
+   "path": "local/cluj/turda/2025/27",
+   "short": "HCL Turda nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 27/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/14/",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/27%20din%2010.04.2025.pdf",
+     "sha256": "5f736f971789c7cf9a95993090f8b2cd70af15c2fcd807e459c30268a273d2fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-28-2025",
+   "path": "local/cluj/turda/2025/28",
+   "short": "HCL Turda nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 28/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/14/",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/28%20din%2010.04.2025.pdf",
+     "sha256": "5c564185d3b05d483f0526a446ff7ff39287691ae81b54e45b340a9238072517"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-29-2025",
+   "path": "local/cluj/turda/2025/29",
+   "short": "HCL Turda nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 29/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/14/",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/29%20din%2010.04.2025.pdf",
+     "sha256": "1fd6997f3c5e9b0c03c7055ac041d806fbceb13bb53c295ba3c0e224dbcf1698"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-3-2025",
+   "path": "local/cluj/turda/2025/3",
+   "short": "HCL Turda nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 3/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/16/",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/3%20din%2013.02.2025.pdf",
+     "sha256": "a6f60eccea02bdfdbeaca559bed1076b2f8daa54a25a5f808eca6bce3b3f2649"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-30-2025",
+   "path": "local/cluj/turda/2025/30",
+   "short": "HCL Turda nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 30/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/14/",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/30%20din%2010.04.2025.pdf",
+     "sha256": "d304737b61f69ec94ede78b445b0dd576ddfc18625d62e347e3c9ba4a21e16db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-31-2025",
+   "path": "local/cluj/turda/2025/31",
+   "short": "HCL Turda nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 31/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/14/",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/31%20din%2010.04.2025.pdf",
+     "sha256": "6826a8796eaa75339a31faa37664d2cdc4cdb7c90105096286828dc055b4d09a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-32-2025",
+   "path": "local/cluj/turda/2025/32",
+   "short": "HCL Turda nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 32/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/13/",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/32%20din%2024.04.2025.pdf",
+     "sha256": "0a5450421c629cc196420c91af28801ed9eb89e2820f0519b6a47d2e722443ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-33-2025",
+   "path": "local/cluj/turda/2025/33",
+   "short": "HCL Turda nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 33/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/13/",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/33%20din%2024.04.2025.pdf",
+     "sha256": "f5c3d9d6bb49f1330a77011a0ec36e6034a783d7d4bdfea69fbde68f4c2bf879"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-34-2025",
+   "path": "local/cluj/turda/2025/34",
+   "short": "HCL Turda nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 34/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/13/",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/34%20din%2024.04.2025.pdf",
+     "sha256": "b6bc2e0d34f33d1757f396c3292b41e38644c2ad0b7fa0ff0d7acef1d1e62414"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-35-2025",
+   "path": "local/cluj/turda/2025/35",
+   "short": "HCL Turda nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 35/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/13/",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/35%20din%2024.04.2025.pdf",
+     "sha256": "33f6be9de19a3fa1227f61c94c5698b0e290ee42b0cdcc5f1bcfb8e1ec2109dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-36-2025",
+   "path": "local/cluj/turda/2025/36",
+   "short": "HCL Turda nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 36/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/13/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/36%20din%2030.04.2025.pdf",
+     "sha256": "73eb4b97ff22325696ec5c29c0524314030c9181944b5d5ad2181203d3bee8b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-37-2025",
+   "path": "local/cluj/turda/2025/37",
+   "short": "HCL Turda nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 37/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/13/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/37%20din%2030.04.2025.pdf",
+     "sha256": "3a0fb10f2c464159e54b6c60f03553fa4649a63e9bb7d27afbdfc2acd0d63e0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-38-2025",
+   "path": "local/cluj/turda/2025/38",
+   "short": "HCL Turda nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 38/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/13/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/38%20din%2030.04.2025.pdf",
+     "sha256": "f9c728c7ca88f08ea29902331d3af75f0cad17f85520ffde98c70b624f68b7ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-39-2025",
+   "path": "local/cluj/turda/2025/39",
+   "short": "HCL Turda nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 39/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/13/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/39%20DIN%2030.04.2025.pdf",
+     "sha256": "4edd6032dfe8082ca9ef991e0ef53d306184b1222a683a59f9332a7d96756871"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-4-2025",
+   "path": "local/cluj/turda/2025/4",
+   "short": "HCL Turda nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 4/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/16/",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/4%20din%2013.02.2025.pdf",
+     "sha256": "275a9c0ccf2744be52211d594bd6b5d8fd663153426daf6e5d3f835c0b21ce11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-40-2025",
+   "path": "local/cluj/turda/2025/40",
+   "short": "HCL Turda nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 40/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/13/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/40%20din%2030.04.2025.pdf",
+     "sha256": "5f92ce0f9c1a281fb4e0ff2c096ad771f887f3fe26c55fe2e1402e2fa9cc406b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-41-2025",
+   "path": "local/cluj/turda/2025/41",
+   "short": "HCL Turda nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 41/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/13/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/41%20din%2030.04.2025.pdf",
+     "sha256": "b8a56b1c904b4d4e227661c893d23080f335d59fe12e3c445db4a5eeaa772d76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-42-2025",
+   "path": "local/cluj/turda/2025/42",
+   "short": "HCL Turda nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 42/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/12/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/42%20din%2030.04.2025.pdf",
+     "sha256": "12536ae44034ede5d89b7c2242d58d284d25c5ba3205cf3c45a653ba5dbf359e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-43-2025",
+   "path": "local/cluj/turda/2025/43",
+   "short": "HCL Turda nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 43/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/12/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/43%20din%2030.04.2025.pdf",
+     "sha256": "f34b8861d8151e8a4e97c2ad273f4e1f0c6c7a4e93e2de3071735849f3928b9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-44-2025",
+   "path": "local/cluj/turda/2025/44",
+   "short": "HCL Turda nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 44/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/12/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/44%20din%2030.04.2025.pdf",
+     "sha256": "a95513d51f10c056e5880c84d58f6b408ad0cd67ac2942280caf5f6d2ed7fb6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-45-2025",
+   "path": "local/cluj/turda/2025/45",
+   "short": "HCL Turda nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 45/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/12/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/45%20din%2030.04.2025.pdf",
+     "sha256": "742ef98f93b0ce35cddcc6e89b64f165a33d77cd79b7fe3b0bf47eb15baa4f13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-46-2025",
+   "path": "local/cluj/turda/2025/46",
+   "short": "HCL Turda nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 46/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/12/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/46%20din%2028.05.2025.pdf",
+     "sha256": "5bccf0b88a1c9ab06524f79992d3807925cc222390668fb42e2432406d2de6d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-47-2025",
+   "path": "local/cluj/turda/2025/47",
+   "short": "HCL Turda nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 47/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/12/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/47%20din%2028.05.2025.pdf",
+     "sha256": "b9ed76faa52f0a91a77bac11491c7bbaf65ea8b035ee5da58015615125a05b18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-48-2025",
+   "path": "local/cluj/turda/2025/48",
+   "short": "HCL Turda nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 48/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/12/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/48%20din%2028.05.2025.pdf",
+     "sha256": "59f1b7b4acb8102779a116afa3b6149bba1e124e1e384e4d3e3b070b1a8ff122"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-49-2025",
+   "path": "local/cluj/turda/2025/49",
+   "short": "HCL Turda nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 49/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/12/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/49%20din%2028.05.2025.pdf",
+     "sha256": "088d3dccbe3f6a5f8a6998701a49d86bd7da67bd2d43eb2d767160e52fa72130"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-5-2025",
+   "path": "local/cluj/turda/2025/5",
+   "short": "HCL Turda nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 5/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/16/",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/5%20din%2013.02.2025.pdf",
+     "sha256": "97a1f7b336cd161f7e98318129b2fb2ab8ca3df922695a16c9de407d89c11332"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-50-2025",
+   "path": "local/cluj/turda/2025/50",
+   "short": "HCL Turda nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 50/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/12/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/50%20din%2028.05.2025.pdf",
+     "sha256": "a98189fff7d8873d17799c7baa5fb5bb8774800217234f548dc7aa5e45303c0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-51-2025",
+   "path": "local/cluj/turda/2025/51",
+   "short": "HCL Turda nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 51/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/12/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/51%20din%2028.05.2025.pdf",
+     "sha256": "1154f5dd029fc6ce6440a1322db437862cfd4f39ae41ca0990c60b9fcd0c2214"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-52-2025",
+   "path": "local/cluj/turda/2025/52",
+   "short": "HCL Turda nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 52/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/11/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/52%20din%2028.05.2025.pdf",
+     "sha256": "24bbad3f2307019ed4c58c966ab8450eee0a10fecc6fe21161e1b7a67da8f995"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-53-2025",
+   "path": "local/cluj/turda/2025/53",
+   "short": "HCL Turda nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 53/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/11/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/53%20din%2028.05.2025.pdf",
+     "sha256": "cedd7281c2ed3790e868b325505a28ae088719a668a3aadcef87d9bd87081d63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-54-2025",
+   "path": "local/cluj/turda/2025/54",
+   "short": "HCL Turda nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 54/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/11/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/54%20din%2028.02.2025.pdf",
+     "sha256": "b0c5aab924f6b2f1a7bd25b0f5eb832afa980cc7a47319b60805152f988c15d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-55-2025",
+   "path": "local/cluj/turda/2025/55",
+   "short": "HCL Turda nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 55/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/11/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/55%20din%2028.05.2025.pdf",
+     "sha256": "9d7844fcd51e9eee0460d9e2201fd64cab4da8a07d613ec43644d7ec8fc4d234"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-56-2025",
+   "path": "local/cluj/turda/2025/56",
+   "short": "HCL Turda nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 56/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/11/",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/56%20din%2004.06.2025.pdf",
+     "sha256": "53138ba60dd09a9340d584c130fd20d8a11c16ff9beabec80167a8a8ba4bfc61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-57-2025",
+   "path": "local/cluj/turda/2025/57",
+   "short": "HCL Turda nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 57/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/11/",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/57%20din%2019.06.2025.pdf",
+     "sha256": "91b1234d88a894c05c513450a2b3c356cc16b99f61a616ac40ef9c4d308cdef1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-59-2025",
+   "path": "local/cluj/turda/2025/59",
+   "short": "HCL Turda nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 59/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/11/",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/59%20din%2023.06.2025.pdf",
+     "sha256": "0ece735377692982a8b8ce9979f645ac4f98958565fb042eec6d63fe16c84ce2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-6-2025",
+   "path": "local/cluj/turda/2025/6",
+   "short": "HCL Turda nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 6/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/16/",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/6%20din%2019.03.2025.pdf",
+     "sha256": "247735e0b18ee21ec9fc95693b548cef55364926b305da7008726b1e994ec2f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-60-2025",
+   "path": "local/cluj/turda/2025/60",
+   "short": "HCL Turda nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 60/2025 privind rectificarea bugetului de venituri și cheltuieli al Municipiului Turda pe anul 2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/11/",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/60%20din%2024.06.2025.pdf",
+     "sha256": "224acc0edeb72b97d92565585fb45cce2173fdcfa17e3a5cc4635c3f9ccbc271"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-61-2025",
+   "path": "local/cluj/turda/2025/61",
+   "short": "HCL Turda nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 61/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/11/",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/61%20din%2024.06.2025.pdf",
+     "sha256": "d736e581f0c2a50f5d4842af3981478348de63eff8cbbd55a0e462582fc7133e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-62-2025",
+   "path": "local/cluj/turda/2025/62",
+   "short": "HCL Turda nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 62/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/10/",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/62%20din%2024.06.2025.pdf",
+     "sha256": "c4a935678f45e127864eedd2897cc686458b2e21535a8615b434cb7a2bf19f38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-64-2025",
+   "path": "local/cluj/turda/2025/64",
+   "short": "HCL Turda nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 64/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/10/",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/64%20din%2004.07.2025.pdf",
+     "sha256": "40cbe559e99857b64d63108c56c1bb6f6db1b9afd56afc23f5d44a84dabbbe17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-65-2025",
+   "path": "local/cluj/turda/2025/65",
+   "short": "HCL Turda nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 65/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/10/",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/HCL%20nr%2065%20din%2004.07.2025.pdf",
+     "sha256": "e8597a28238de1d3605a193cc9c4fefdb30adf1a170a8faf0aa3d480a6abfec6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-66-2025",
+   "path": "local/cluj/turda/2025/66",
+   "short": "HCL Turda nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 66/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/10/",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/HCL%20nr%2066%20din%2004.07.2025.pdf",
+     "sha256": "7dd0fdb365cfd0f6c090965b0bb31af2840cee89bb82251a8f755780f3e0a94d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-67-2025",
+   "path": "local/cluj/turda/2025/67",
+   "short": "HCL Turda nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 67/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/10/",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/67%20din%2004.07.2025.pdf",
+     "sha256": "8fc9913a162086a3f7310bb1ccde48cbbac9d76b18ca6d94c2a7f73038db0c99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-68-2025",
+   "path": "local/cluj/turda/2025/68",
+   "short": "HCL Turda nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 68/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/10/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/68%20din%2028.07.2025.pdf",
+     "sha256": "f5093a027f305d73c9a27ab9dfecdb87d77e6cc49ede03d8449342dda115e07a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-69-2025",
+   "path": "local/cluj/turda/2025/69",
+   "short": "HCL Turda nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 69/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/10/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/69%20din%2028.07.2025.pdf",
+     "sha256": "3f972fbf95479b0cac7052f303b5d23189fa7cb9e9b4ef1c726d06dc5a9ea91d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-7-2025",
+   "path": "local/cluj/turda/2025/7",
+   "short": "HCL Turda nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 7/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/16/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/7%20din%2020.03.2025.pdf",
+     "sha256": "6853afb5c2d7e6502cd62d9de68a0ec45161a8f542229a276fddb7bf387751b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-70-2025",
+   "path": "local/cluj/turda/2025/70",
+   "short": "HCL Turda nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 70/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/10/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/70%20din%2028.07.2025.pdf",
+     "sha256": "3729fd54aec98fd2704a4ed2be97817f720f31e5183c610d359f814668a86979"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-71-2025",
+   "path": "local/cluj/turda/2025/71",
+   "short": "HCL Turda nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 71/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/10/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/71%20din%2028.07.2025.pdf",
+     "sha256": "a9db617d4d07e42cec1d7b4da81267e857876419ac8859a1e6ca65f6b05b753a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-72-2025",
+   "path": "local/cluj/turda/2025/72",
+   "short": "HCL Turda nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 72/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/72%20din%2028.07.2025.pdf",
+     "sha256": "47f1c24ded7795812425b606e492de490cd9f057c2486d5b5f79c075c0b2000d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-73-2025",
+   "path": "local/cluj/turda/2025/73",
+   "short": "HCL Turda nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 73/2025 privind numirea administratorilor în Consiliului de Administrație al societății Domeniul Public Turda S.A",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/9/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/73%20din%2028.07.2025.pdf",
+     "sha256": "ed8e680830000e858c9e65f13e0a6000e8b4c822dd033d52e10fb2183e4ace5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-74-2025",
+   "path": "local/cluj/turda/2025/74",
+   "short": "HCL Turda nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 74/2025 privind modificarea statutului societății Transport Urban Public SRL, precum și numirea membrilor provizorii în Consiliul de administrație al societății Consiliul Local al Municipiului Turda, întrunit în ședința publică extraordinară din data de 28.07.2025; Luând în dezbatere proiectul de hotărâre privind modificarea statutului societății Transport Urban Public SRL, precum și numirea membrilor pro",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/9/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/74%20din%2028.07.2025.pdf",
+     "sha256": "c21d97ede9919b009362f4ff0e5fa2081c48612b1a7995cac48324325e9adaba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-75-2025",
+   "path": "local/cluj/turda/2025/75",
+   "short": "HCL Turda nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 75/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/9/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/75%20din%2028.07.2025.pdf",
+     "sha256": "9acfbbd8ba4c3e67d6acc4c82cf8cd2168a1b0f18b5592c11efbe5883ffa4df5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-76-2025",
+   "path": "local/cluj/turda/2025/76",
+   "short": "HCL Turda nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 76/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/9/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/76%20din%2028.07.2025.pdf",
+     "sha256": "993188636dc71e95dd29f92aad62fde21f329cb7b9f4a98c34efe7029c0dc607"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-77-2025",
+   "path": "local/cluj/turda/2025/77",
+   "short": "HCL Turda nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 77/2025 privind declararea ca locuințe de necesitate a unor locuințe sociale libere și repartizarea nominală a acestora, familiilor din Municipiul Turda care vor primi locuința de necesitate Consiliul Local al Municipiului Turda, întrunit în ședința publică extraordinară din data de 28.07.2025; Luând în dezbatere proiectul de hotărâre privind declararea ca locuințe de necesitate a unor locuințe sociale li",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/9/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/77%20din%2028.07.2025.pdf",
+     "sha256": "2ace8854fb545c03089f0ef7f8b49f4b63bf00823a48b9042974b4d735377d21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-78-2025",
+   "path": "local/cluj/turda/2025/78",
+   "short": "HCL Turda nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 78/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/9/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/78%20din%2028.07.2025.pdf",
+     "sha256": "90e30c892507bf8c4e64f3535ae7dbd506297e08c4f7b0384e4d41c8b79db38f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-79-2025",
+   "path": "local/cluj/turda/2025/79",
+   "short": "HCL Turda nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 79/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/9/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/79%20din%2028.07.2025.pdf",
+     "sha256": "906a24b529968fc76d66d19070e8bfa018341bf5c795d5b51b25f32d53c42122"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-8-2025",
+   "path": "local/cluj/turda/2025/8",
+   "short": "HCL Turda nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 8/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/16/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/8%20din%2020.03.2025.pdf",
+     "sha256": "375462b213d823422482072912ac67345e5206c570c2fbfef99e4ea9f597cb75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-80-2025",
+   "path": "local/cluj/turda/2025/80",
+   "short": "HCL Turda nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 80/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/9/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/80%20din%2028.07.2025.pdf",
+     "sha256": "24ffe4dc397d1605f32a0bfbe504315441d24078ab5f4b8c10581a4a4309e8c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-81-2025",
+   "path": "local/cluj/turda/2025/81",
+   "short": "HCL Turda nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 81/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/9/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/81%20din%2028.07.2025.pdf",
+     "sha256": "e317132208087ae4ce21fe7964a950446054aca5575aec372ac636ae65f221e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-82-2025",
+   "path": "local/cluj/turda/2025/82",
+   "short": "HCL Turda nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 82/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/8/",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/82%20din%2028.07.2025.pdf",
+     "sha256": "0e90f5284a0f73636ecea3a2058b1b4cc9c1a1b2dee2cfffeaff3366589b5881"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-83-2025",
+   "path": "local/cluj/turda/2025/83",
+   "short": "HCL Turda nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 83/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/8/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/83%20din%2028.07.2025.pdf",
+     "sha256": "d4b2587f669ec3edd7f5c23d1b105694cbe06d005dde2d2498122a5eb68f30cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-84-2025",
+   "path": "local/cluj/turda/2025/84",
+   "short": "HCL Turda nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 84/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/8/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/84%20din%2028.07.2025.pdf",
+     "sha256": "189e4da279ace3bfef7a51753269462ac90db6aafdc657dddbfda9799529e74d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-85-2025",
+   "path": "local/cluj/turda/2025/85",
+   "short": "HCL Turda nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 85/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/8/",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/85%20din%2026.08.2025.pdf",
+     "sha256": "715d8db40a5889bdd50d2891bcca2fd1b02d0e52f4566da3c680c8a225f883b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-86-2025",
+   "path": "local/cluj/turda/2025/86",
+   "short": "HCL Turda nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 86/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/8/",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/86%20din%2026.08.2025.pdf",
+     "sha256": "510c5bff631a5ea2c219fc4b4ca3f2d8d8777b18e6be3000f4fb8f7eb4a71de5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-87-2025",
+   "path": "local/cluj/turda/2025/87",
+   "short": "HCL Turda nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 87/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/8/",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/87%20din%2026.08.2025.pdf",
+     "sha256": "b27535176edf0d0c39aad260ec7fc1d557f9d833ad1e16d427eb0d6d16167638"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-88-2025",
+   "path": "local/cluj/turda/2025/88",
+   "short": "HCL Turda nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 88/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/8/",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/88%20din%2026.08.2025.pdf",
+     "sha256": "5f6769db7fb3abb5978fc38bd03352df93e5b00ec0dbf876961a8cbca1312fb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-89-2025",
+   "path": "local/cluj/turda/2025/89",
+   "short": "HCL Turda nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 89/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/8/",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/89%20din%2026.08.2025.pdf",
+     "sha256": "c4e3ae3bf7390a16c7b6bcb0cf8b7086f47cf6f5e667a11b3a34d19532a96a76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-9-2025",
+   "path": "local/cluj/turda/2025/9",
+   "short": "HCL Turda nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 9/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/16/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/9%20din%2020.03.2025.pdf",
+     "sha256": "10f20f91bb41d4795d70ad2a7ac4a321293d1bcc9d71d9f736c84f1d425f1780"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-90-2025",
+   "path": "local/cluj/turda/2025/90",
+   "short": "HCL Turda nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 90/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/8/",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/90%20din%2026.08.2025.pdf",
+     "sha256": "5f27e0d4b281ed2c2284152d0e91364ca02e1d1c0b76b09a51c5e211a1c698e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-91-2025",
+   "path": "local/cluj/turda/2025/91",
+   "short": "HCL Turda nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 91/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/8/",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/91%20din%2026.08.2025.pdf",
+     "sha256": "28b8e67b8baf1d9c8cf947b97b5f24c5b8f30ea2f390f50b2df098e20a9c5a42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-92-2025",
+   "path": "local/cluj/turda/2025/92",
+   "short": "HCL Turda nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 92/2025 privind desemnarea reprezentantului Municipiului Turda în cadrul Adunării Generale a Acționarilor societății Centrul Agro Transilvania Cluj S.A",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/7/",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/92%20din%2026.08.2025.pdf",
+     "sha256": "cfc1cb8ce01e6853c22aed67f92df4b0d8635512ce9b8a376b26f9e6fdfa1e53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-93-2025",
+   "path": "local/cluj/turda/2025/93",
+   "short": "HCL Turda nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 93/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/93%20din%2026.08.2025.pdf",
+     "sha256": "6c8ce2c9433c03cf62226e3084c0c76a4be461c49c26abcbcbce48c1a9c2e920"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-94-2025",
+   "path": "local/cluj/turda/2025/94",
+   "short": "HCL Turda nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 94/2025 privind desemnarea reprezentantului Municipiului Turda în cadrul Adunării Generale a Acționarilor societății Compania de Apă Arieș S.A",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/7/",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/94%20din%2026.08.2025.pdf",
+     "sha256": "058972c351214a2ed9c256432c1f32595a0ca6c0123a95e57db7b8f2a9e6c796"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-95-2025",
+   "path": "local/cluj/turda/2025/95",
+   "short": "HCL Turda nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 95/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/7/",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/95%20din%2026.08.2025.pdf",
+     "sha256": "117da1edf679cfd33f1a9659647bccc7b57ffdc6a1b4044b04e7af996588f5bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-96-2025",
+   "path": "local/cluj/turda/2025/96",
+   "short": "HCL Turda nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 96/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/7/",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/96%20din%2026.08.2025.pdf",
+     "sha256": "405c9d0ef9a8339aa1efaa4e35c0a1d249d4414b49cb3689f8e391de95c24fa5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-97-2025",
+   "path": "local/cluj/turda/2025/97",
+   "short": "HCL Turda nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 97/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/7/",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/97%20din%2026.08.2025.pdf",
+     "sha256": "d6438b5f38174eaa876af9f207abdd56fd109310f7375931c893b343976b5265"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-98-2025",
+   "path": "local/cluj/turda/2025/98",
+   "short": "HCL Turda nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 98/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/7/",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/98%20din%2026.08.2025.pdf",
+     "sha256": "7e9c2795b8d085c8f40710f87d6fb73fbd53172791515dbf153e2442686c9410"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-99-2025",
+   "path": "local/cluj/turda/2025/99",
+   "short": "HCL Turda nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 99/2025",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/7/",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/HCL_2025/99%20din%2026.08.2025.pdf",
+     "sha256": "51a0b3d61dd6254f6afa04a41cedd66c86a242a3db772908f449fc7a986a132a"
     }
    ]
   }

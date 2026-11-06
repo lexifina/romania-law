@@ -3,6 +3,96 @@
  "shard": "local/constanta/mangalia/2026",
  "acts": [
   {
+   "slug": "hcl-constanta--mangalia-102-2026",
+   "path": "local/constanta/mangalia/2026/102",
+   "short": "HCL Mangalia nr. 102/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 102/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-102.pdf",
+     "sha256": "18e630570ac79713932b32f4411c4384f92ead57d48811b28f7204a3e4e8f720"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-103-2026",
+   "path": "local/constanta/mangalia/2026/103",
+   "short": "HCL Mangalia nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 103/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-103.pdf",
+     "sha256": "1bc75cc0605995af6b98637983eb67f08f976f31efaf167a9cdecfadf1758097"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-106-2026",
+   "path": "local/constanta/mangalia/2026/106",
+   "short": "HCL Mangalia nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 106/2026 privind aprobarea Listei solicitanților care au acces la locuințe, a Listei solicitanților care nu au acces la locuințe și a Listei de priorități pentru locuințele sociale din municipiul Mangalia, pentru anul 2025",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-106.pdf",
+     "sha256": "294bceb2c01db30f58161dc5cd223856298e365e2783a82369c9064ffd8728ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-11-2026",
+   "path": "local/constanta/mangalia/2026/11",
+   "short": "HCL Mangalia nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 11/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-11.pdf",
+     "sha256": "10b0343649ad6990e646a75306b6376ed1bc60bfb5d0fb9df552a67bf6a94004"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-13-2026",
+   "path": "local/constanta/mangalia/2026/13",
+   "short": "HCL Mangalia nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 13/2026 privind aprobarea Planului de Analiză și Acoperire a Riscurilor din Municipiul Mangalia și a Schemei de Înștiințare, Avertizare și Alarmare pentru Municipiul Mangalia",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-13.pdf",
+     "sha256": "13ee7dcf63e31c4b8b79e5d7465b066cb30b73a433e1b4cba3186ca44f10a2dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-135-2026",
+   "path": "local/constanta/mangalia/2026/135",
+   "short": "HCL Mangalia nr. 135/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 135/2026 privind numirea administratorului provizoriu în Consiliul de Administrație al S.C",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-135.pdf",
+     "sha256": "f84422880b5790c5604e546535fdfcf0b8ed9f2042c669bd51ae3196748981dd"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mangalia-139-2026",
    "path": "local/constanta/mangalia/2026/139",
    "short": "HCL Mangalia nr. 139/2026",
@@ -18,6 +108,51 @@
    ]
   },
   {
+   "slug": "hcl-constanta--mangalia-140-2026",
+   "path": "local/constanta/mangalia/2026/140",
+   "short": "HCL Mangalia nr. 140/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 140/2026 privind mandatarea expresă a reprezentantului Consiliului Local Mangalia în Adunarea Generală a Acționarilor la S.C",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-140.pdf",
+     "sha256": "c4cf01e98c3a07608e09e531669a1645d0ec145c185a17f9cd1e7d43b5517c41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-141-2026",
+   "path": "local/constanta/mangalia/2026/141",
+   "short": "HCL Mangalia nr. 141/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 141/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-141.pdf",
+     "sha256": "cf0377e58e227ace1f43aafc6e0b519558d94e38c6e130f3a0afe522675efdcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-144-2026",
+   "path": "local/constanta/mangalia/2026/144",
+   "short": "HCL Mangalia nr. 144/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 144/2026 privind aprobarea prelungirii duratei Contractului de delegare a gestiunii activităților de sortare, tratare mecano-biologică, compostare și depozitare a deșeurilor municipale din U.A.T",
+   "url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-144.pdf",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-144.pdf",
+     "sha256": "0d0b49fdde8ad6ed1d9ca5d99b6d8681762fe7a1cde09c13f839002578e7c5bd"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mangalia-145-2026",
    "path": "local/constanta/mangalia/2026/145",
    "short": "HCL Mangalia nr. 145/2026",
@@ -29,6 +164,486 @@
      "units": 1,
      "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-145.pdf",
      "sha256": "b3fc3cb6aa4814fb93e456901d585b46bdd0835546bc5d879adc2c2cc9dc2deb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-147-2026",
+   "path": "local/constanta/mangalia/2026/147",
+   "short": "HCL Mangalia nr. 147/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 147/2026 privind aprobarea aderării Unităţii Administrativ-Teritoriale Comuna Cogealac la Asociaţia de Dezvoltare Intercomunitară de utilități publice pentru serviciul de alimentare cu apă și de canalizare şi pentru serviciul public inteligent alternativ pentru procesarea apelor uzate din cadrul un",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-147.pdf",
+     "sha256": "bbb39489e3c3b5c54977883df6778ebb12abe57d2431d06fac5ebb6aa04ebda5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-150-2026",
+   "path": "local/constanta/mangalia/2026/150",
+   "short": "HCL Mangalia nr. 150/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 150/2026 privind acordul Consiliului Local al Municipiului Mangalia cu privire la executarea lucrărilor de înființare a rețelei de distribuție gaze naturale de către U.A.T",
+   "url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-150.pdf",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-150.pdf",
+     "sha256": "ad325f1ed543ac7c010071d5feae6bfd7c03e7f563fbb366f29e2204ca61c9ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-161-2026",
+   "path": "local/constanta/mangalia/2026/161",
+   "short": "HCL Mangalia nr. 161/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 161/2026 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenție (D.A.L.I.) și a indicatorilor tehnico – economici aferenți proiectului „MODERNIZARE STRĂZI ÎN MUNICIPIUL MANGALIA” Consiliul Local Mangalia, întrunit în ședința extraordinară din data de 27.10.2026, Având în vedere: • Proiectul de hotărâre nr.184/19.10.2026 inițiat de către Viceprimarul Municipiului Mangalia, cu atribuții de pr",
+   "url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-161.pdf",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-161.pdf",
+     "sha256": "c3041f27a88967e337b49c955a8a48ff088e9a921765f98f4988c55918d6c9f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-163-2026",
+   "path": "local/constanta/mangalia/2026/163",
+   "short": "HCL Mangalia nr. 163/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 163/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-163.pdf",
+     "sha256": "21d8bd6bed2387a79e10571cb94ca109ee3c71078884164c0b00cbfc313f9e98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-21-2026",
+   "path": "local/constanta/mangalia/2026/21",
+   "short": "HCL Mangalia nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 21/2026 privind aprobarea Auditului Termoenergetic Complex pentru activitățile de producere, transport și distribuție a energiei termice ale S.C",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-21.pdf",
+     "sha256": "8f46a39e7a7fa022c245cc3d3fc78881750c31c8f641696cefcc8be8326f6959"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-22-2026",
+   "path": "local/constanta/mangalia/2026/22",
+   "short": "HCL Mangalia nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 22/2026 privind aprobarea acoperirii pierderilor induse de prestarea serviciului public de distribuție și furnizare a energiei termice în sistemul centralizat în Municipiul Mangalia pentru anul 2024",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-22.pdf",
+     "sha256": "5dbf5de6629796af609eaf55b6256e2b6485270330fdeef97754a9508a121a29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-24-2026",
+   "path": "local/constanta/mangalia/2026/24",
+   "short": "HCL Mangalia nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 24/2026 privind aprobarea Planului anual de acțiuni cu obiective și lucrări de interes local stabilit pentru persoanele obligate să presteze muncă în folosul comunității de către instanțele de judecată și Serviciile de Probațiune și de persoanele care au copii în plasament",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-24.pdf",
+     "sha256": "e3c7eae5a7508306598af29fbf16eb0eeb18e45e9465d8ef4cb2ee6b2089b4c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-25-2026",
+   "path": "local/constanta/mangalia/2026/25",
+   "short": "HCL Mangalia nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 25/2026 privind aprobarea planului de acțiuni cu obiective și lucrări de interes local stabilit pentru repartizarea orelor de muncă beneficiarilor de venit minim de incluziune pentru anul 2026",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-25.pdf",
+     "sha256": "170e82d6c55a28283ec3164b57046e3c591203724b772a201a8216d50de8a742"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-28-2026",
+   "path": "local/constanta/mangalia/2026/28",
+   "short": "HCL Mangalia nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 28/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-28.pdf",
+     "sha256": "4b90f7e658a79d37092ce961c059e3a6800c885a5f64e42242b4f1e2f444709b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-29-2026",
+   "path": "local/constanta/mangalia/2026/29",
+   "short": "HCL Mangalia nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 29/2026 privind actualizarea situației financiar-contabile a U.A.T",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-29.pdf",
+     "sha256": "0db3da7b9ce376d84b15c2a9c6eec4ef25645af9e897c77172da212e7f9e9f04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-30-2026",
+   "path": "local/constanta/mangalia/2026/30",
+   "short": "HCL Mangalia nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 30/2026 privind actualizarea situației financiar-contabile a U.A.T",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-30.pdf",
+     "sha256": "79ff775473542ef9a7b9f1f9de071e68fb2c4f9ed5db5b1c0b27a6c424e4db4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-32-2026",
+   "path": "local/constanta/mangalia/2026/32",
+   "short": "HCL Mangalia nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 32/2026 privind trecerea din domeniul privat al U.A.T",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-32.pdf",
+     "sha256": "0cb6c9b4642db61b0fcf53dda184a827043872827416a7733fbfbda781cbde38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-4-2026",
+   "path": "local/constanta/mangalia/2026/4",
+   "short": "HCL Mangalia nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 4/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-4.pdf",
+     "sha256": "a737a89921497d94854c5ca231f85a91734f2eff3efe4f042ea0ad6745fc818b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-40-2026",
+   "path": "local/constanta/mangalia/2026/40",
+   "short": "HCL Mangalia nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 40/2026 privind aprobarea vânzării terenului în suprafață de 14 mp situat în Municipiul Mangalia, str. Albatros, nr.5, bl.104, sc. C, ap.4-extindere, jud. Constanța",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-40.pdf",
+     "sha256": "dce412eee293a9a4130af291a2f0d13f729578cd9dc51344abf7ea47f9f4f163"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-41-2026",
+   "path": "local/constanta/mangalia/2026/41",
+   "short": "HCL Mangalia nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 41/2026 privind aprobarea vânzării terenului în suprafață de 575 mp, situat în Municipiul Mangalia, str",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-41.pdf",
+     "sha256": "344b349a0fa921ee370d077ad0b3d48e4616f3108da90cfd19f36fbe09bfe111"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-43-2026",
+   "path": "local/constanta/mangalia/2026/43",
+   "short": "HCL Mangalia nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 43/2026 privind mandatarea în mod expres a reprezentantului Consiliului Local al Municipiului Mangalia în Adunarea Generală a Acționarilor a S.C",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-43.pdf",
+     "sha256": "da7a9e7446cb76f62503704c95cc3f59c2f8a0496d2b20361faad42d683dc14e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-45-2026",
+   "path": "local/constanta/mangalia/2026/45",
+   "short": "HCL Mangalia nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 45/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-45.pdf",
+     "sha256": "c0df98cd88c06f1dd661241c91121e4101916909417267d590302b0650817d00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-46-2026",
+   "path": "local/constanta/mangalia/2026/46",
+   "short": "HCL Mangalia nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 46/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-46.pdf",
+     "sha256": "88167ee18a8632a796568c660bf9108224bf5a6c73576d23de61239d3de38418"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-50-2026",
+   "path": "local/constanta/mangalia/2026/50",
+   "short": "HCL Mangalia nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 50/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-50.pdf",
+     "sha256": "89b7b7222fbeaf2fc84f1d5307338ab3c3bc5d509e5602fd4ee86dd29477f51a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-51-2026",
+   "path": "local/constanta/mangalia/2026/51",
+   "short": "HCL Mangalia nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 51/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-51.pdf",
+     "sha256": "905f2aff65f0b3745322946e9538074f4656756f8ae917cf654cb1101f8a7789"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-53-2026",
+   "path": "local/constanta/mangalia/2026/53",
+   "short": "HCL Mangalia nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 53/2026 privind mandatarea în mod expres a reprezentantului Consiliului Local al Municipiului Mangalia în cadrul Adunării Generale Ordinare a Asociaților a S.C",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-53.pdf",
+     "sha256": "d62260bfd4923ab6b6530f45727c89c4900177de496ccb3da6a1e697bd333553"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-54-2026",
+   "path": "local/constanta/mangalia/2026/54",
+   "short": "HCL Mangalia nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 54/2026 privind mandatarea expresă a reprezentantului Consiliului Local Mangalia în Adunarea Generală a Acționarilor la S.C",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-54.pdf",
+     "sha256": "35704c063b188db65428117a61e4f61d22432f3f3cc432e740a4e93b00ad1ba8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-58-2026",
+   "path": "local/constanta/mangalia/2026/58",
+   "short": "HCL Mangalia nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 58/2026 privind aprobarea costului mediu lunar de întreținere pentru anul 2026 și a cuantumului contribuției de întreținere pentru persoanele asistate în cadrul Căminului de Bătrâni Mangalia",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-58.pdf",
+     "sha256": "0c252e5ae7df246bcf80634ad936a79109c1dc14ebe5258f91d0080807195ecb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-59-2026",
+   "path": "local/constanta/mangalia/2026/59",
+   "short": "HCL Mangalia nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 59/2026 privind aprobarea actualizării cuantumului chiriilor pentru anul 2026 la unităţile locative pentru tineri destinate închirierii cât și locuințele destinate închirierii exclusiv specialiștilor din sănătate, situate în municipiul Mangalia, Str",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-59.pdf",
+     "sha256": "b5276c62e1f72180ea027d22c41c596522a200adc828614ed477c07d3716ab3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-63-2026",
+   "path": "local/constanta/mangalia/2026/63",
+   "short": "HCL Mangalia nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 63/2026 privind aprobarea dezmembrării imobilului teren în suprafață de 18.497 mp, situat în municipiul Mangalia, str",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-63.pdf",
+     "sha256": "2b911db648aa37046112dac4e6f05d81200278b947be0fcb3c63fecff85963ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-68-2026",
+   "path": "local/constanta/mangalia/2026/68",
+   "short": "HCL Mangalia nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 68/2026 privind aprobarea vânzării terenului în suprafață de 600 mp situat în Municipiul Mangalia, str",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-68.pdf",
+     "sha256": "f9e27c02269d32985f6d55bf65903665b5406f68a8d2d8524111b1e7ef9b3aa2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-70-2026",
+   "path": "local/constanta/mangalia/2026/70",
+   "short": "HCL Mangalia nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 70/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-70.pdf",
+     "sha256": "bf3e98bb87ede62788dbeeb96037d5c97040af86e2c966018e25048f25ac10e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-74-2026",
+   "path": "local/constanta/mangalia/2026/74",
+   "short": "HCL Mangalia nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 74/2026 privind reorganizarea aparatului de specialitate al primarului municipiului Mangalia și Serviciului Public Comunitar Local de Evidență a Persoanelor Mangalia și aprobarea organigramei și a statelor de funcții",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-74.pdf",
+     "sha256": "9150c098a32f94cb880b081f33c711c553d359a82338cad8c2c9bb0bca2773c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-78-2026",
+   "path": "local/constanta/mangalia/2026/78",
+   "short": "HCL Mangalia nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 78/2026 privind desemnarea reprezentanţilor Consiliului Local al municipiului Mangalia în comisia de evaluare a performanţelor profesionale individuale ale Secretarului General al Municipiului Mangalia",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-78.pdf",
+     "sha256": "25da8f4ec016a6647a4f3e2945b190e51f217bc4554497af778b49b4fc504a71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-91-2026",
+   "path": "local/constanta/mangalia/2026/91",
+   "short": "HCL Mangalia nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 91/2026 privind mandatarea în mod expres a reprezentantului Consiliului Local al Municipiului Mangalia în cadrul Adunării Generale a Acționarilor a S.C",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-91.pdf",
+     "sha256": "129c3838eed731baec068a15f313941e234ea1b14f887f3e4e989c40b8e8ca8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-95-2026",
+   "path": "local/constanta/mangalia/2026/95",
+   "short": "HCL Mangalia nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 95/2026 privind aprobarea încheierii Protocolului de colaborare între ASOCIAȚIA „ APE LIMPEZI ȘI ALBASTRE , Organizația de Management al Destinației Turistice Mangalia și Municipiul Mangalia, în vederea desfășurării activităților de ecologizare a Acvatoriului Portului Turistic Mangalia",
+   "url": "https://mangalia.ro/2026/02/hotarari-ale-consiliului-local-al-mun-mangalia-2026/",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-95.pdf",
+     "sha256": "ee12a5772f90fdf30d651988810907a45ad5ea74109c9bdf4f517c95fca677fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-99-2026",
+   "path": "local/constanta/mangalia/2026/99",
+   "short": "HCL Mangalia nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 99/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-99.pdf",
+     "sha256": "3118b76243fa87077569a09c72dc26f05eab7b921efdf5776863249ea0e7bd96"
     }
    ]
   }

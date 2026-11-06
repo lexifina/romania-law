@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/constanta/mangalia/2017",
+"acts": [
+{
+"slug": "hcl-constanta--mangalia-84-2017",
+"path": "local/constanta/mangalia/2017/84",
+"kind": "local",
+"year": "2017",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 84/2017 privind alegerea președintelui de ședință al Consiliului Local al Municipiului Mangalia pentru următoarele 3 luni",
+"short": "HCL Mangalia nr. 84/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-06-28",
+"latest": "2017-06-28",
+"portal": "https://mangalia.ro/2017/01/hcl-2017/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

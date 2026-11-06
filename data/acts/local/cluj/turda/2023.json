@@ -3,6 +3,162 @@
 "shard": "local/cluj/turda/2023",
 "acts": [
 {
+"slug": "hcl-cluj--turda-144-2023",
+"path": "local/cluj/turda/2023/144",
+"kind": "local",
+"year": "2023",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 144/2023",
+"short": "HCL Turda nr. 144/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-20",
+"latest": "2023-07-20",
+"portal": null,
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--turda-145-2023",
+"path": "local/cluj/turda/2023/145",
+"kind": "local",
+"year": "2023",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 145/2023 privind eliminarea unor coduri CAEN din cadrul obiectelor secundare de activitate ale societății Salina Turda S.A",
+"short": "HCL Turda nr. 145/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-20",
+"latest": "2023-07-20",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/9/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-146-2023",
+"path": "local/cluj/turda/2023/146",
+"kind": "local",
+"year": "2023",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 146/2023 privind aprobarea Componentei integrale a planului de selecție pentru postul de membru în Consiliul de administrație al societății Salina Turda",
+"short": "HCL Turda nr. 146/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-20",
+"latest": "2023-07-20",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/9/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-147-2023",
+"path": "local/cluj/turda/2023/147",
+"kind": "local",
+"year": "2023",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 147/2023",
+"short": "HCL Turda nr. 147/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-20",
+"latest": "2023-07-20",
+"portal": null,
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--turda-149-2023",
+"path": "local/cluj/turda/2023/149",
+"kind": "local",
+"year": "2023",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 149/2023 privind aprobarea solicitării de trecere a imobilului teren situat în Turda, str",
+"short": "HCL Turda nr. 149/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-20",
+"latest": "2023-07-20",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/8/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-150-2023",
+"path": "local/cluj/turda/2023/150",
+"kind": "local",
+"year": "2023",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 150/2023 privind modificarea anexei la HCL nr. 20/31.01.2023 referitoare la aprobarea programului de activități al Casei de Cultură a municipiului Turda, pentru perioada ianuarie-decembrie 2023",
+"short": "HCL Turda nr. 150/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-20",
+"latest": "2023-07-20",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/8/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-152-2023",
+"path": "local/cluj/turda/2023/152",
+"kind": "local",
+"year": "2023",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 152/2023 privind alegerea presedintelui de sedinta",
+"short": "HCL Turda nr. 152/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-26",
+"latest": "2023-07-26",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/8/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--turda-155-2023",
 "path": "local/cluj/turda/2023/155",
 "kind": "local",
@@ -22,6 +178,50 @@
 "council_name": "Consiliul Local al Municipiului Turda",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-cluj--turda-156-2023",
+"path": "local/cluj/turda/2023/156",
+"kind": "local",
+"year": "2023",
+"number": "156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 156/2023 privind modificarea listei de investiții aprobată prin HCL nr. 142/20.07.2023 fără modificarea valorii totale a bugetului local al municipiului Turda",
+"short": "HCL Turda nr. 156/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-28",
+"latest": "2023-07-28",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/8/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-157-2023",
+"path": "local/cluj/turda/2023/157",
+"kind": "local",
+"year": "2023",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 157/2023 privind aprobarea inițierii demersurilor pentru schimbarea categoriei de folosință a imobilului în suprafață de 334 mp, înscris în CF nr. 62883, cu nr. cadastral 62883 și a imobilului în suprafață de 1.672 mp, înscris în CF nr. 62885, cu nr. cadastral 62885, situate în M",
+"short": "HCL Turda nr. 157/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-28",
+"latest": "2023-07-28",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/9/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +247,205 @@
 }
 },
 {
+"slug": "hcl-cluj--turda-159-2023",
+"path": "local/cluj/turda/2023/159",
+"kind": "local",
+"year": "2023",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 159/2023 privind modificarea si completarea HCL nr. 205/16.12.2021 aprobarea documentației, principalilor indicatori tehnico-economici și a devizului general pentru obiectivul de investiții „Construire infrastructură educațională suport pentru formare profesională (Laborator Școa",
+"short": "HCL Turda nr. 159/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-07",
+"latest": "2023-08-07",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/9/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-170-2023",
+"path": "local/cluj/turda/2023/170",
+"kind": "local",
+"year": "2023",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 170/2023 privind aprobarea reţelei școlare a unităţilor de învăţământ preuniversitar de pe raza administrativ-teritorială a Municipiului Turda, pentru anul şcolar 2023-2024",
+"short": "HCL Turda nr. 170/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-07",
+"latest": "2023-08-07",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/6/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-177-2023",
+"path": "local/cluj/turda/2023/177",
+"kind": "local",
+"year": "2023",
+"number": "177",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 177/2023 privind desemnarea reprezentantului Municipiului Turda în cadrul Adunării Generale a Acţionarilor a Societăţii Compania de Apă Arieş S.A",
+"short": "HCL Turda nr. 177/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-11",
+"latest": "2023-08-11",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/7/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-178-2023",
+"path": "local/cluj/turda/2023/178",
+"kind": "local",
+"year": "2023",
+"number": "178",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 178/2023 privind acordarea unui mandat special reprezentantului Municipiului Turda în Adunarea Generală a Acționarilor societăţii Compania de Apă Arieş SA. (AGOA)",
+"short": "HCL Turda nr. 178/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-11",
+"latest": "2023-08-11",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/6/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-179-2023",
+"path": "local/cluj/turda/2023/179",
+"kind": "local",
+"year": "2023",
+"number": "179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 179/2023",
+"short": "HCL Turda nr. 179/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-11",
+"latest": "2023-08-11",
+"portal": null,
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--turda-182-2023",
+"path": "local/cluj/turda/2023/182",
+"kind": "local",
+"year": "2023",
+"number": "182",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 182/2023 privind aprobarea contului de executie al bugetului local al municipiului Turda la data de 30.06.2023",
+"short": "HCL Turda nr. 182/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/6/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-183-2023",
+"path": "local/cluj/turda/2023/183",
+"kind": "local",
+"year": "2023",
+"number": "183",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 183/2023 privind modificarea listei de investiții aprobată prin HCL nr. 156 /28.07.2023 fără modificarea valorii totale aprobare a bugetului local al municipiului Turda",
+"short": "HCL Turda nr. 183/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/6/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-186-2023",
+"path": "local/cluj/turda/2023/186",
+"kind": "local",
+"year": "2023",
+"number": "186",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 186/2023 privind aprobarea menținerii serviciilor juridice externalizate, până la soluționarea definitiva a litigiilor aflate pe rolul instanțelor de judecată în cadrul cărora societatea Salina Turda SA are calitatea de parte",
+"short": "HCL Turda nr. 186/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/4/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-187-2023",
+"path": "local/cluj/turda/2023/187",
+"kind": "local",
+"year": "2023",
+"number": "187",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 187/2023 privind aprobarea achiziționării de servicii de consultanță juridică și de reprezentare a intereselor Municipiului Turda, a Consiliului Local Turda, a Instituției Primarului Municipiului Turda, precum și a Comisiei Locale de Fond Funciar Turda",
+"short": "HCL Turda nr. 187/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/4/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--turda-188-2023",
 "path": "local/cluj/turda/2023/188",
 "kind": "local",
@@ -69,6 +468,361 @@
 }
 },
 {
+"slug": "hcl-cluj--turda-189-2023",
+"path": "local/cluj/turda/2023/189",
+"kind": "local",
+"year": "2023",
+"number": "189",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 189/2023",
+"short": "HCL Turda nr. 189/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": null,
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--turda-190-2023",
+"path": "local/cluj/turda/2023/190",
+"kind": "local",
+"year": "2023",
+"number": "190",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 190/2023",
+"short": "HCL Turda nr. 190/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": null,
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--turda-191-2023",
+"path": "local/cluj/turda/2023/191",
+"kind": "local",
+"year": "2023",
+"number": "191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 191/2023 privind aprobarea documentației pentru actualizarea datelor cadastrale ale imobilului inscris in CF nr. 61.905 Turda",
+"short": "HCL Turda nr. 191/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/4/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-192-2023",
+"path": "local/cluj/turda/2023/192",
+"kind": "local",
+"year": "2023",
+"number": "192",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 192/2023 privind aprobarea schimbului de locuințe între dl",
+"short": "HCL Turda nr. 192/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/5/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-202-2023",
+"path": "local/cluj/turda/2023/202",
+"kind": "local",
+"year": "2023",
+"number": "202",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 202/2023 privind aprobarea DEVIZULUI GENERAL ACTUALIZAT si a indicatorilor tehnico-economici actualizati aferenti obiectivului de investitii : « Reabilitare si modernizare strazi in municipiul Turda – CARTIERUL PRIMAVERII, judetul Cluj » finantat in cadrul Programului National de",
+"short": "HCL Turda nr. 202/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-07",
+"latest": "2023-09-07",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/4/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-203-2023",
+"path": "local/cluj/turda/2023/203",
+"kind": "local",
+"year": "2023",
+"number": "203",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 203/2023 privind rectificarea bugetului de venituri și cheltuieli al Municipiului Turda pe anul 2023",
+"short": "HCL Turda nr. 203/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/4/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-204-2023",
+"path": "local/cluj/turda/2023/204",
+"kind": "local",
+"year": "2023",
+"number": "204",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 204/2023 privind aprobarea devizului general actualizat conform OUG nr. 64/2022 și a principalilor indicatori tehnico-economici pentru obiectivul: „Reabilitarea, extinderea și dotarea gradiniței cu program prelungit „SFĂNTA MARIA” + structura și creșa nr. 5”",
+"short": "HCL Turda nr. 204/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/4/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-212-2023",
+"path": "local/cluj/turda/2023/212",
+"kind": "local",
+"year": "2023",
+"number": "212",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 212/2023",
+"short": "HCL Turda nr. 212/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": null,
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--turda-213-2023",
+"path": "local/cluj/turda/2023/213",
+"kind": "local",
+"year": "2023",
+"number": "213",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 213/2023 privind aprobarea încetării Contractului de administrare nr. 8344 din 12.04.2019, încheiat între Municipiul Turda și Ocolul Silvic Valea Ierii SRL",
+"short": "HCL Turda nr. 213/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/2/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-214-2023",
+"path": "local/cluj/turda/2023/214",
+"kind": "local",
+"year": "2023",
+"number": "214",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 214/2023 privind desemnarea reprezentanților Consiliului Local al Municipiului Turda în Consiliile de Administratie și în comisiile de evaluare din cadrul unităților de învățământ preuniversitar din municipiul Turda",
+"short": "HCL Turda nr. 214/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/2/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-215-2023",
+"path": "local/cluj/turda/2023/215",
+"kind": "local",
+"year": "2023",
+"number": "215",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 215/2023 privind neasumarea de către Municipiul Turda a responsabilităților organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor, respectiv a serviciilor pentru derularea măsurilor educative, aferente Programului pentru ș",
+"short": "HCL Turda nr. 215/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/2/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-216-2023",
+"path": "local/cluj/turda/2023/216",
+"kind": "local",
+"year": "2023",
+"number": "216",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 216/2023 privind exprimarea acordului municipiului Turda pentru realizarea de către Administrația Națională Apele Române – Administrația de Apă Mureș, a lucrărilor aferente obiectivului de investiții intitulat Amenajarea râului Arieș și afluienți pentru apărarea împotriva inundaț",
+"short": "HCL Turda nr. 216/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/2/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-217-2023",
+"path": "local/cluj/turda/2023/217",
+"kind": "local",
+"year": "2023",
+"number": "217",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 217/2023 privind aprobarea încheierii unui contract de închiriere între Municipiul Turda și Baroul Cluj având ca obiect imobilul teren în suprafață de 1.069 mp, situat în intravilanul municipiului Turda, str",
+"short": "HCL Turda nr. 217/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/2/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-218-2023",
+"path": "local/cluj/turda/2023/218",
+"kind": "local",
+"year": "2023",
+"number": "218",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 218/2023 privind aprobarea scoaterii din domeniul public al municipiului Turda a fântânii arteziene din fața Teatrului Național Aureliu Manea Turda, în cadrul împlementării proievtului Modernizarea coridorului de mobilitate urbană integrată în zona centrală a municipiului Turda",
+"short": "HCL Turda nr. 218/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/2/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-219-2023",
+"path": "local/cluj/turda/2023/219",
+"kind": "local",
+"year": "2023",
+"number": "219",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 219/2023 privind rectificarea bugetului de venituri și cheltuieli al Municipiului Turda pe anul 2023",
+"short": "HCL Turda nr. 219/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-23",
+"latest": "2023-10-23",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/2/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-220-2023",
+"path": "local/cluj/turda/2023/220",
+"kind": "local",
+"year": "2023",
+"number": "220",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 220/2023 privind modificarea Hotărârii Consiliului Local al Municipiului Turda nr. 184/31.08.2023 privind aprobarea contractării unei/unor finanțări rambursabile interne în valoare de până la 48.409.000 lei",
+"short": "HCL Turda nr. 220/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-23",
+"latest": "2023-10-23",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/2/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--turda-223-2023",
 "path": "local/cluj/turda/2023/223",
 "kind": "local",
@@ -88,6 +842,139 @@
 "council_name": "Consiliul Local al Municipiului Turda",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-cluj--turda-225-2023",
+"path": "local/cluj/turda/2023/225",
+"kind": "local",
+"year": "2023",
+"number": "225",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 225/2023 privind utilizarea excedentului bugetar înregistrat la finele anului 2022, la sursele de finanțare A și E, pentru acoperirea temporară a golurilor de casă în anul 2023",
+"short": "HCL Turda nr. 225/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-226-2023",
+"path": "local/cluj/turda/2023/226",
+"kind": "local",
+"year": "2023",
+"number": "226",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 226/2023 privind aprobarea devizului general actualizat conform OUG nr. 64/2022 pentru obiectivul: Modernization coridorului de mobilitate urbană integrată în zona de est a municipiului Turda",
+"short": "HCL Turda nr. 226/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-227-2023",
+"path": "local/cluj/turda/2023/227",
+"kind": "local",
+"year": "2023",
+"number": "227",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 227/2023 privind aprobarea devizului general actualizat conform OUG nr. 64/2022 pentru obiectivul: Modernizarea coridorului de mobilitate urbană integrată în zona de vest a municipiului Turda",
+"short": "HCL Turda nr. 227/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-229-2023",
+"path": "local/cluj/turda/2023/229",
+"kind": "local",
+"year": "2023",
+"number": "229",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 229/2023 privind modificarea anexei la HCL nr. 214/28.09.2023 referitoare la desemnarea reprezentanților Consiliului Local al Municipiului Turda în Consiliile de Administratie și în comisiile de evaluare din cadrul unităților de învățământ preuniversitar din municipiul Turda",
+"short": "HCL Turda nr. 229/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-232-2023",
+"path": "local/cluj/turda/2023/232",
+"kind": "local",
+"year": "2023",
+"number": "232",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 232/2023",
+"short": "HCL Turda nr. 232/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": null,
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--turda-234-2023",
+"path": "local/cluj/turda/2023/234",
+"kind": "local",
+"year": "2023",
+"number": "234",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 234/2023 privind aprobarea documentației de dezmembrare a imobilului teren în suprafață de 5997 mp, situat în Turda, str",
+"short": "HCL Turda nr. 234/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +1022,28 @@
 }
 },
 {
+"slug": "hcl-cluj--turda-300-2023",
+"path": "local/cluj/turda/2023/300",
+"kind": "local",
+"year": "2023",
+"number": "300",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 300/2023 privind aprobarea devizului general actualizat pentru obiectivul: „Modernizarea coridorului de mobilitate urbană integrată in zona industrială a municipiului Turda”",
+"short": "HCL Turda nr. 300/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/29/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--turda-301-2023",
 "path": "local/cluj/turda/2023/301",
 "kind": "local",
@@ -157,6 +1066,28 @@
 }
 },
 {
+"slug": "hcl-cluj--turda-303-2023",
+"path": "local/cluj/turda/2023/303",
+"kind": "local",
+"year": "2023",
+"number": "303",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 303/2023 privind alegerea președintelui de ședință",
+"short": "HCL Turda nr. 303/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/29/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--turda-306-2023",
 "path": "local/cluj/turda/2023/306",
 "kind": "local",
@@ -176,6 +1107,95 @@
 "council_name": "Consiliul Local al Municipiului Turda",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-cluj--turda-309-2023",
+"path": "local/cluj/turda/2023/309",
+"kind": "local",
+"year": "2023",
+"number": "309",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 309/2023 privind aprobarea Organigramei, Statului de funcții, Regulamentului de organizare și funcționare (ROF), precum și limitele de salarizare ale societății Transport Urban Public SRL",
+"short": "HCL Turda nr. 309/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/29/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-310-2023",
+"path": "local/cluj/turda/2023/310",
+"kind": "local",
+"year": "2023",
+"number": "310",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 310/2023",
+"short": "HCL Turda nr. 310/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": null,
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--turda-311-2023",
+"path": "local/cluj/turda/2023/311",
+"kind": "local",
+"year": "2023",
+"number": "311",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 311/2023 privind aprobarea documentației de dezmembrare a imobilului înscris în CF nr. 57100 Turda",
+"short": "HCL Turda nr. 311/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/29/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-314-2023",
+"path": "local/cluj/turda/2023/314",
+"kind": "local",
+"year": "2023",
+"number": "314",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 314/2023 privind aprobarea listelor de priorități pe anul 2024 pentru repartizarea locuințelor sociale și a locuințelor din fondul locativ de stat, altele decât cele sociale",
+"short": "HCL Turda nr. 314/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2023/page/32/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

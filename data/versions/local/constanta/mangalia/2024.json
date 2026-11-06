@@ -3,6 +3,291 @@
  "shard": "local/constanta/mangalia/2024",
  "acts": [
   {
+   "slug": "hcl-constanta--mangalia-10-2024",
+   "path": "local/constanta/mangalia/2024/10",
+   "short": "HCL Mangalia nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 10/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-10.pdf",
+     "sha256": "84ea2fdfd6434b0fb028e4e2b0bc8d4791b2e102ce68a686ad1ddbedfe62bacf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-101-2024",
+   "path": "local/constanta/mangalia/2024/101",
+   "short": "HCL Mangalia nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 101/2024 privind aprobarea costului mediu lunar de întreținere pentru anul 2024 și a cuantumului contribuției de întreținere pentru persoanele asistate în cadrul CĂMINULUI DE BĂTRÂNI MANGALIA",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-101.pdf",
+     "sha256": "6ca35c71fd257831d9ab62d40ae8ee62f99c30be0c6c5eeaf945732800f5df89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-111-2024",
+   "path": "local/constanta/mangalia/2024/111",
+   "short": "HCL Mangalia nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 111/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-111.pdf",
+     "sha256": "bd6e8390f7b6ace39662a2d27ff4820b2849a44f8897ee9912fc828d129d4f80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-122-2024",
+   "path": "local/constanta/mangalia/2024/122",
+   "short": "HCL Mangalia nr. 122/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 122/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-122.pdf",
+     "sha256": "fac1b2373472e2bc86200e321a9521e66e363cf72782e965a5d0c0ffa2f57b40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-14-2024",
+   "path": "local/constanta/mangalia/2024/14",
+   "short": "HCL Mangalia nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 14/2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale „Administrație” din cadrul aparatului de specialitate al primarului municipiului Mangalia, din instituțiile și serviciile publice cu personalitate juridică din subord",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-14.pdf",
+     "sha256": "349bcb865c7afc3d242a4529a620e1cccb803954dcc14916326fdf926a29407a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-142-2024",
+   "path": "local/constanta/mangalia/2024/142",
+   "short": "HCL Mangalia nr. 142/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 142/2024 privind prelungirea perioadei de numire de către Consiliul Local Mangalia administratorului provizoriu în Consiliul de Administrație al S.C",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-142.pdf",
+     "sha256": "48ab8765cfe9d9303ed9b6dddde6e5200f6905352efc532ee8ccbd61350d8761"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-143-2024",
+   "path": "local/constanta/mangalia/2024/143",
+   "short": "HCL Mangalia nr. 143/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 143/2024 privind darea în folosință gratuită către Organizația de Management al Destinației Turistice Mangalia a două spații situate în imobilul Club Nautic din Mangalia, Str. Portului, Tronson 1, Tronson 2, lot 1/2, județul Constanța, aparținând domeniului privat al Municipiului Mangalia",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-143.pdf",
+     "sha256": "34005b33123c5a3243400048c777e69406f903166e001dbd91517065f0e70ab1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-146-2024",
+   "path": "local/constanta/mangalia/2024/146",
+   "short": "HCL Mangalia nr. 146/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 146/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-146.pdf",
+     "sha256": "ed1348094504d3772720444e9af305826df294ef7476c46b437f18c51eade1ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-147-2024",
+   "path": "local/constanta/mangalia/2024/147",
+   "short": "HCL Mangalia nr. 147/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 147/2024 privind aprobarea opririi producției și furnizării de energie termică în centralele termice nr.14 și nr.17, aflate în proprietatea Municipiului Mangalia și transmise în gestiune operatorului de distribuție a energiei termice S.C",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-147.pdf",
+     "sha256": "29af4d30b0bbeb38a34261c5357c0a0cd7553989591140ef42c250170fff66c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-153-2024",
+   "path": "local/constanta/mangalia/2024/153",
+   "short": "HCL Mangalia nr. 153/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 153/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-153.pdf",
+     "sha256": "88631fa119f7de8f70607fc44cc6a4c28753c0fb521890bf7f9c417cab00903a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-158-2024",
+   "path": "local/constanta/mangalia/2024/158",
+   "short": "HCL Mangalia nr. 158/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 158/2024 privind trecerea din domeniul privat în domeniul public al U.A.T",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-158.pdf",
+     "sha256": "9bc649a0fb43dc116bb92cacfc40d3a2816dcc65a91dfe84679c5012e871b98a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-172-2024",
+   "path": "local/constanta/mangalia/2024/172",
+   "short": "HCL Mangalia nr. 172/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 172/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-172.pdf",
+     "sha256": "bb297d5e3523bad605b5036dffb4b67b8add255eb9c8a59a6365693caff51331"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-173-2024",
+   "path": "local/constanta/mangalia/2024/173",
+   "short": "HCL Mangalia nr. 173/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 173/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-173.pdf",
+     "sha256": "ac9939cb7e9c8b6a87d08adc7455e118abd37d774d729a254abcbea31e21e9d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-183-2024",
+   "path": "local/constanta/mangalia/2024/183",
+   "short": "HCL Mangalia nr. 183/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 183/2024 privind aprobarea organigramei și a statului de funcții ale Creșei nr.1 Mangalia, unitate de învățământ de educație timpurie antepreșcolară, cu personalitate juridică, aflată în subordinea Consiliului Local al Municipiului Mangalia",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-183.pdf",
+     "sha256": "3fde132d714c0719b9dc2b37d2c3acf8c1c8588ef561590c3fee5ddfa8b7b4cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-184-2024",
+   "path": "local/constanta/mangalia/2024/184",
+   "short": "HCL Mangalia nr. 184/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 184/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-184.pdf",
+     "sha256": "07d388bbbcf8cfc0f08d544ec4c228788cd21cb4f5f121e596076400bf514907"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-187-2024",
+   "path": "local/constanta/mangalia/2024/187",
+   "short": "HCL Mangalia nr. 187/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 187/2024 privind aprobarea prelungirii duratei Contractului de delegare a gestiunii serviciului de iluminat public nr.86949 din 10.12.2019, încheiat cu SC. GOLDTERM MANGALIA S.A modificat și completat prin actele adiționale ulterioare",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-187.pdf",
+     "sha256": "d7c04be4741b15c290e1eebf7ebb6f3403e2db6c53361d34567c52a44d98c8e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-193-2024",
+   "path": "local/constanta/mangalia/2024/193",
+   "short": "HCL Mangalia nr. 193/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 193/2024 privind acordarea unui sprijin financiar din bugetul local persoanelor cu domiciliul stabil în Municipiul Mangalia, pentru încălzirea locuinței cu energie termică din sistemul centralizat, pentru sezonul rece 2024-2025",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-193.pdf",
+     "sha256": "1675d1e6af2806992b6fc0c88e8f3eb3494f4e2eea3608af6e16e0a99722f2c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-195-2024",
+   "path": "local/constanta/mangalia/2024/195",
+   "short": "HCL Mangalia nr. 195/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 195/2024 privind constituirea comisiilor de analiză și soluționare a cererilor de atribuire și soluționare a contestațiilor privind analiza solicitărilor și a modului de atribuire a locuințelor sociale, aflate în proprietatea și/sau administrarea U.A.T",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-195.pdf",
+     "sha256": "2a71cd0e9933bfc484a5ecf9c5bdedc7db035d1648b54fc91ff16e5d1a5b12e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-196-2024",
+   "path": "local/constanta/mangalia/2024/196",
+   "short": "HCL Mangalia nr. 196/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 196/2024 privind constituirea comisiilor de analiză și soluționare a cererilor de atribuire și soluționare a contestațiilor privind analiza solicitărilor și a modului de atribuire a locuințelor de închiriere aflate în proprietatea și/sau administrarea U.A.T",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-196.pdf",
+     "sha256": "e73db9badaa3e1c391fb122c68506de2c5e982a91bde2e9dc40f65187ed7aa77"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mangalia-200-2024",
    "path": "local/constanta/mangalia/2024/200",
    "short": "HCL Mangalia nr. 200/2024",
@@ -14,6 +299,501 @@
      "units": 1,
      "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-200.pdf",
      "sha256": "d835f2aee8224cb2b79ff07c7ec6396c275a24b44a24a17a4f6118a685bdd4fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-24-2024",
+   "path": "local/constanta/mangalia/2024/24",
+   "short": "HCL Mangalia nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 24/2024",
+   "url": "https://mangalia.ro/2024/05/hotararea-nr-24-din-data-de-01-05-2024/",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/05/Hotararea-nr.24-din-data-de-01.05.2024.pdf",
+     "sha256": "f48e0443cff0f4bcf516e3ec33f13b4418fea4a4bd96dd98428140b1659bcf26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-26-2024",
+   "path": "local/constanta/mangalia/2024/26",
+   "short": "HCL Mangalia nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 26/2024",
+   "url": "https://mangalia.ro/2024/05/hotararea-nr-26-din-data-de-01-05-2024/",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/05/Hotararea-nr.26-din-data-de-01.05.2024.pdf",
+     "sha256": "991016839ceeb4061a4e7e499d0f78d398c9d49bf06b7ab069d68c6163df2462"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-27-2024",
+   "path": "local/constanta/mangalia/2024/27",
+   "short": "HCL Mangalia nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 27/2024",
+   "url": "https://mangalia.ro/2024/05/hotararea-nr-27-din-data-de-01-05-2024/",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/05/Hotararea-nr.27-din-data-de-01.05.2024.pdf",
+     "sha256": "5ddaa49cfae60cfc0d822a90919434ab549872df482445dd1d99b644cf3c631a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-28-2024",
+   "path": "local/constanta/mangalia/2024/28",
+   "short": "HCL Mangalia nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 28/2024",
+   "url": "https://mangalia.ro/2024/05/hotararea-nr-28-din-data-de-01-05-2024/",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/05/Hotararea-nr.28-din-data-de-01.05.2024.pdf",
+     "sha256": "c25ba4db6303b0fb260d3b34c331d2244f6ff02a31553f13da8a6d54911f298d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-286-2024",
+   "path": "local/constanta/mangalia/2024/286",
+   "short": "HCL Mangalia nr. 286/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 286/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-286.pdf",
+     "sha256": "08bc30762c0b60d16213481e66aceef431d2a7a299c8504259255187e9ee0397"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-288-2024",
+   "path": "local/constanta/mangalia/2024/288",
+   "short": "HCL Mangalia nr. 288/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 288/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-288.pdf",
+     "sha256": "5bbfed7a3d06d6221bcf71992baacf6137a7c54afa2832a36d14a878f16377b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-289-2024",
+   "path": "local/constanta/mangalia/2024/289",
+   "short": "HCL Mangalia nr. 289/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 289/2024 privind aprobarea acoperirii parțiale a pierderilor induse de prestarea serviciului public de distribuție și furnizare a energiei termice pentru populație în sistemul centralizat în",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-289.pdf",
+     "sha256": "0254f2d84fb3008bcdb3005c826250ee7ca784064b3cce635ce82ea6e30e58d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-29-2024",
+   "path": "local/constanta/mangalia/2024/29",
+   "short": "HCL Mangalia nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 29/2024",
+   "url": "https://mangalia.ro/2024/05/hotararea-nr-29-din-data-de-01-05-2024/",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/05/Hotararea-nr.29-din-data-de-01.05.2024.pdf",
+     "sha256": "820f67dea38ec1ce6f9d73079adfadb721d33c77b9647afa5d250c040d67bc94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-3-2024",
+   "path": "local/constanta/mangalia/2024/3",
+   "short": "HCL Mangalia nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 3/2024",
+   "url": "https://mangalia.ro/2024/04/hotarare-nr-3-din-23-04-2024-hotarare-admitere-candidatura-lista-consiliul-local-pnl/",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/04/Hotarare-nr.3-din-23.04.2024-HOTARARE-ADMITERE-CANDIDATURA-LISTA-CONSILIUL-LOCAL-PNL.pdf",
+     "sha256": "2da9acc7c3bd3680e41c6eb2a2a951ad04f4a9d424d3bfa264d207762d16d83e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-34-2024",
+   "path": "local/constanta/mangalia/2024/34",
+   "short": "HCL Mangalia nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 34/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-34.pdf",
+     "sha256": "2911c515815064ae056569fc89c7276b83ceaecbcdcc17dceac654a5fd34e1c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-35-2024",
+   "path": "local/constanta/mangalia/2024/35",
+   "short": "HCL Mangalia nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 35/2024 privind aprobarea documentației tehnice (faza S.F.) și a indicatorilor tehnico-economici privind obiectivul de investiții: ”CONSTRUIREA DE LOCUINȚE nZEB PLUS PENTRU TINERI ÎN MUNICIPIUL MANGALIA, JUDEȚUL CONSTANȚA”",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-35.pdf",
+     "sha256": "435d348c70bcb32ff7de13e708c129df9db3de3ca712c76de0149e399457f2a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-36-2024",
+   "path": "local/constanta/mangalia/2024/36",
+   "short": "HCL Mangalia nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 36/2024 privind aprobarea documentației tehnice (faza S.F.) și a indicatorilor tehnico-economici privind obiectivul de investiții: ”CONSTRUIREA DE LOCUINȚE nZEB PLUS PENTRU TINERI ÎN MUNICIPIUL MANGALIA, JUDEȚUL CONSTANȚA – LOT 2”",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-36.pdf",
+     "sha256": "13ffa77a71a26654b096b756cbf33c8a88da33b656f5eee60da983292b41ed43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-37-2024",
+   "path": "local/constanta/mangalia/2024/37",
+   "short": "HCL Mangalia nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 37/2024 privind aprobarea documentației tehnice (faza S.F.) și a indicatorilor tehnico-economici privind obiectivul de investiții: ”CONSTRUIREA DE LOCUINȚE nZEB PLUS PENTRU TINERI ÎN MUNICIPIUL MANGALIA, JUDEȚUL CONSTANȚA – LOT 3”",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-37.pdf",
+     "sha256": "f859d52f0bc6cb5b897288400cf62959b57693056320ed0698a8883dae6bd544"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-38-2024",
+   "path": "local/constanta/mangalia/2024/38",
+   "short": "HCL Mangalia nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 38/2024 privind aprobarea documentației tehnice (faza S.F.) și a indicatorilor tehnico-economici privind obiectivul de investiții: ”CONSTRUIREA DE LOCUINȚE nZEB PLUS PENTRU TINERI ÎN MUNICIPIUL MANGALIA, JUDEȚUL CONSTANȚA – LOT 4”",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-38.pdf",
+     "sha256": "b97e8331b6b871d422a88f3cf0c1605d0ccdeb09217081fa75abc375707dfc1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-4-2024",
+   "path": "local/constanta/mangalia/2024/4",
+   "short": "HCL Mangalia nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 4/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "43c8ec7c0abe8217b4894c3f8d0abf4b241e6ebad5096965bcd80fd6b50d9aab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-42-2024",
+   "path": "local/constanta/mangalia/2024/42",
+   "short": "HCL Mangalia nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 42/2024 privind analiza și aprobarea ”STUDIULUI DE OPORTUNITATE pentru fundamentarea și stabilirea soluțiilor optime de delegare a gestiunii serviciului de iluminat public din Municipiul Mangalia",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-42.pdf",
+     "sha256": "9af2947ae9f9bf8158715c97f189e55d3b3243d5c059aa274b18805834a30fd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-44-2024",
+   "path": "local/constanta/mangalia/2024/44",
+   "short": "HCL Mangalia nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 44/2024 privind desemnarea consilierilor locali în comisia de evaluare a performanțelor profesionale individuale ale Secretarului General al Municipiului Mangalia, pentru activitatea desfășurată în anul 2022 și 202",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-44.pdf",
+     "sha256": "ff3a14131b6af974dceb74e5f8adda422f7482a35dd0c60faf7e301278850dce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-48-2024",
+   "path": "local/constanta/mangalia/2024/48",
+   "short": "HCL Mangalia nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 48/2024 privind aprobarea Planului de acțiuni cu obiective și lucrări de interes local stabilit pentru repartizarea orelor de muncă beneficiarilor de venit minim de incluziune pentru anul 2024",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-48.pdf",
+     "sha256": "76c49989d2e56504acac5e9bc6918b789eb48c757e3840a5dde2f00284cd48a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-51-2024",
+   "path": "local/constanta/mangalia/2024/51",
+   "short": "HCL Mangalia nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 51/2024 privind aprobarea actualizării cuantumului chiriei pentru anul 2024 la unitățile locative pentru tineri destinate închirierii, situate în municipiul Mangalia, str",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-51.pdf",
+     "sha256": "67f48cf5d5830ee5516918c7ed11f671251b46bbef495b56d144d1b6941561d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-59-2024",
+   "path": "local/constanta/mangalia/2024/59",
+   "short": "HCL Mangalia nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 59/2024 privind schimbarea regimului juridic al unei locuințe de închiriere din fondul locativ al U.A.T",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-59.pdf",
+     "sha256": "4732d3cc1cc8fbf50f3ce552afbccd9aacbce4e944df372613eec38b6b757cd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-66-2024",
+   "path": "local/constanta/mangalia/2024/66",
+   "short": "HCL Mangalia nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 66/2024 privind desemnarea reprezentanților Consiliului Local Mangalia în cadrul Consiliului de Administrație al Spitalului Municipal Mangalia",
+   "url": "https://mangalia.ro/2025/02/hotarari-ale-consiliului-local-al-mun-mangalia-2025/",
+   "versions": [
+    {
+     "from": "2024-11-03",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2025/02/HCL-66.pdf",
+     "sha256": "16c0ad28a22b3b8b9333dcbc9a9e5b129275e15d465b4b7944e50ef8a37d332a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-67-2024",
+   "path": "local/constanta/mangalia/2024/67",
+   "short": "HCL Mangalia nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 67/2024 privind desemnarea reprezentantului Consiliului Local Mangalia în cadrul Consiliului de Administrație al Sanatoriului Balnear și de Recuperare Mangalia",
+   "url": "https://mangalia.ro/2025/02/hotarari-ale-consiliului-local-al-mun-mangalia-2025/",
+   "versions": [
+    {
+     "from": "2024-11-03",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2025/02/HCL-67.pdf",
+     "sha256": "01e557153f3c6f4f454689e9a9d6cca340dfc3ad04662f20261d18055bcee19f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-68-2024",
+   "path": "local/constanta/mangalia/2024/68",
+   "short": "HCL Mangalia nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 68/2024 privind acordul de principiu pentru amplasarea în Municipiul Mangalia, a unui monument de for public, la solicitarea Uniunii Democrate Turce din România (U.D.T.R.) – Sucursala Mangalia, reprezentând pe Mustafa Kemal Ataturk, fondatorul Republicii Turcia",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-68.pdf",
+     "sha256": "e22fc019fc181f087af381ee9185eca5eb7d65d2cfd7fd27b69f2ea174837c25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-7-2024",
+   "path": "local/constanta/mangalia/2024/7",
+   "short": "HCL Mangalia nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 7/2024 privind aprobarea modificării Organigramei și a Statului de funcții ale Creșei nr.1 Mangalia, unitate de învățământ de educație timpurie antepreșcolară, cu personalitate juridică, aflată în subordinea Consiliului Local al Municipiului Mangalia",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-7.pdf",
+     "sha256": "9695533a2fdacef312a46782afe7ad89d5fe1846017a7e95387f9c61831196d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-70-2024",
+   "path": "local/constanta/mangalia/2024/70",
+   "short": "HCL Mangalia nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 70/2024 privind vânzarea prin licitație publică a imobilului (compus din construcție – C1 și teren aferent) situat în Municipiul Mangalia, str",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-70.pdf",
+     "sha256": "b6c3d48112484620a4dc70c95238ed92262eff8128336a8474fdbd65779cfdd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-79-2024",
+   "path": "local/constanta/mangalia/2024/79",
+   "short": "HCL Mangalia nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 79/2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale „Administrație” din cadrul aparatului de specialitate al primarului municipiului Mangalia, din instituțiile și serviciile publice cu personalitate juridică din subord",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-79.pdf",
+     "sha256": "0885ab97df4625ea22326f5298152a507f1036344959cd45c72a2f145b3eed12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-80-2024",
+   "path": "local/constanta/mangalia/2024/80",
+   "short": "HCL Mangalia nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 80/2024 privind acordul de principiu pentru aprobarea dării în folosință gratuită (contract de comodat) Ministerului Agriculturii și Dezvoltării Rurale – Agenția Națională pentru Pescuit și Acvacultură, a terenului în suprafață de aproximativ 3800mp, situat în Municipiul Mangalia, str. Portului, Po",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-80.pdf",
+     "sha256": "08fefcf0577894f43b18c6dac7570a9342f0d585d632a8848518db1fe74aafda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-81-2024",
+   "path": "local/constanta/mangalia/2024/81",
+   "short": "HCL Mangalia nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 81/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-81.pdf",
+     "sha256": "0583ec2b97c0e08d2a71f029b1833dd21ab3199a8152d9109319c82b397f73b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-83-2024",
+   "path": "local/constanta/mangalia/2024/83",
+   "short": "HCL Mangalia nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 83/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-83.pdf",
+     "sha256": "f73c07a1e04f2c952c260fb33fce1f24a93d83c1cecf1c3bc29d9d2ce890f5c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-88-2024",
+   "path": "local/constanta/mangalia/2024/88",
+   "short": "HCL Mangalia nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 88/2024 privind îndreptarea unei erori materiale din Lista de investiții a bugetului de venituri și cheltuieli al Municipiului Mangalia pentru anul 2024",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-88.pdf",
+     "sha256": "1ca4af0d672926f4b749eeb6dc00ca1ea2e62bf54a0e2b2f50abe1005f4bfa52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-9-2024",
+   "path": "local/constanta/mangalia/2024/9",
+   "short": "HCL Mangalia nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 9/2024 privind acordarea scutirii de la plata accesoriilor aferente obligațiilor bugetare principale constând în impozite și taxe locale, restante la data de 1 aprilie 2024, datorate bugetului local de către persoanele fizice ce au calitatea de contribuabili la bugetul local al Municipiului Mangali",
+   "url": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-9.pdf",
+     "sha256": "beab4a05ed6a223ebe12dd7c1048d25e3252cd24638ccfc915034131c1d129f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-90-2024",
+   "path": "local/constanta/mangalia/2024/90",
+   "short": "HCL Mangalia nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 90/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-90.pdf",
+     "sha256": "ff826cbb629e88c8e02914aa573501dbf89786d704cc72bdd6f88d4c28755d9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-98-2024",
+   "path": "local/constanta/mangalia/2024/98",
+   "short": "HCL Mangalia nr. 98/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 98/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/02/HCL-98.pdf",
+     "sha256": "474b67e1c78d67ae5b44f5e0281ba18c7c2fac2e3c4bfd243803b34dd65ecc21"
     }
    ]
   }
