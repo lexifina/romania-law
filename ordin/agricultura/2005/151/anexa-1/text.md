@@ -5,148 +5,148 @@ LISTA CU CLASIFICATORII AUTORIZATI
 │Nr. │Numele și prenumele│Specia │                  Domiciliul                   │ Cod numeric │
 │crt.│                   │       │                                               │  personal   │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│ 1. │Dinca Gabriela     │porcine│București, str. C─țin. Radulescu Motru nr. 16, │2510617400375│
-│    │                   │       │bl. 21, sc. E, et. 5, ap. 208, sect. 4         │             │
+│ 1. │Dinca Gabriela     │porcine│București, [adresa omisă] Motru nr. 16, │[CNP omis]│
+│    │                   │       │[adresa omisă], sect. 4         │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│ 2. │Neagu Monica       │porcine│București, aleea Meseriasilor nr. 4, bl. C92,  │2661216080026│
-│    │                   │       │sc. A, et. 1, ap. 6, sect. 6                   │             │
+│ 2. │Neagu Monica       │porcine│București, [adresa omisă],  │[CNP omis]│
+│    │                   │       │[adresa omisă], sect. 6                   │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│ 3. │Visan Mihai        │porcine│București, str. Turda nr. 15, sect. 1          │1530705400241│
+│ 3. │Visan Mihai        │porcine│București, [adresa omisă], sect. 1          │[CNP omis]│
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│ 4. │Tudor Stanca       │porcine│București, aleea Borcea nr. 6, bl. B16, sc. 2, │2470516400582│
-│    │                   │       │et. 3, ap. 48, sect. 4                         │             │
+│ 4. │Tudor Stanca       │porcine│București, [adresa omisă], │[CNP omis]│
+│    │                   │       │[adresa omisă], sect. 4                         │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│ 5. │Zeneci Nicolae     │porcine│Peris, jud. Ilfov                              │1471202400471│
+│ 5. │Zeneci Nicolae     │porcine│Peris, jud. Ilfov                              │[CNP omis]│
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│ 6. │Ivascu Gina        │porcine│Targoviste, str. Vasile Blendea, ap. 20,       │2710722151791│
+│ 6. │Ivascu Gina        │porcine│Targoviste, [adresa omisă],       │[CNP omis]│
 │    │                   │       │jud. Dambovita                                 │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│ 7. │Ghiuta Catalina    │porcine│Valenii de Munte, str. Soarelui nr. 8,         │2681001297332│
+│ 7. │Ghiuta Catalina    │porcine│Valenii de Munte, [adresa omisă],         │[CNP omis]│
 │    │                   │       │jud. Prahova                                   │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│ 8. │Balan Ioana        │porcine│Timisoara, piața Sfantul Gheorghe nr. 4, ap. 2,│2700524354743│
+│ 8. │Balan Ioana        │porcine│Timisoara, piața Sfantul Gheorghe nr. 4, [adresa omisă],│[CNP omis]│
 │    │                   │       │jud. Timiș                                     │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│ 9. │Gavrilescu Carmen  │porcine│Bacau, str. Pacii nr. 3                        │2670608040037│
+│ 9. │Gavrilescu Carmen  │porcine│Bacau, [adresa omisă]│[CNP omis]│
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│10. │Ciubotaru Alina    │porcine│Bacau, str. Alecu Russo, bl. 31, sc. C, ap. 14 │2810314046221│
+│10. │Ciubotaru Alina    │porcine│Bacau, [adresa omisă] │[CNP omis]│
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│11. │Burlacu Violeta    │porcine│Bacau, str. Ardealului, bl. 4, sc. A, ap. 3    │2670901392948│
+│11. │Burlacu Violeta    │porcine│Bacau, [adresa omisă]    │[CNP omis]│
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│12. │Laba Marian        │porcine│Sibiu. str. Podragu nr. 19, jud. Sibiu         │1531031323934│
+│12. │Laba Marian        │porcine│Sibiu. [adresa omisă], jud. Sibiu         │[CNP omis]│
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│13. │Stoenica Marius    │porcine│Caracal, str. 1 Decembrie 1918 nr. 56, bl. C13,│1820524284573│
-│    │                   │       │sc. 1, ap. 17, jud. Olt                        │             │
+│13. │Stoenica Marius    │porcine│Caracal, [adresa omisă],│[CNP omis]│
+│    │                   │       │[adresa omisă], jud. Olt                        │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│14. │Turcu Eugen        │porcine│Pascani, str. Izvoarele nr. 9, bl. C4, sc. A,  │1711214224529│
-│    │                   │       │et. 1, ap. 8, jud. Iasi                        │             │
+│14. │Turcu Eugen        │porcine│Pascani, [adresa omisă],  │[CNP omis]│
+│    │                   │       │[adresa omisă], jud. Iasi                        │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│15. │Deaconiuc Adrian   │porcine│Pascani, str. Gradinitei nr. 29, bl. S1─3,     │1561128224490│
-│    │                   │       │sc. A, et. 2, ap. 7, jud. Iasi                 │             │
+│15. │Deaconiuc Adrian   │porcine│Pascani, [adresa omisă]─3,     │[CNP omis]│
+│    │                   │       │[adresa omisă], jud. Iasi                 │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│16. │Dragomir Elena     │porcine│Buftea, str. Oltului nr. 5, bl. 3, sc. 3,      │2731112471018│
-│    │                   │       │et. 3, ap. 14, jud. Ilfov                      │             │
+│16. │Dragomir Elena     │porcine│Buftea, [adresa omisă],      │[CNP omis]│
+│    │                   │       │[adresa omisă], jud. Ilfov                      │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│17. │Barcan Alina       │porcine│București, str. Ronda nr. 39, sect. 2          │2750226423010│
+│17. │Barcan Alina       │porcine│București, [adresa omisă], sect. 2          │[CNP omis]│
 │    │Madalina           │       │                                               │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│18. │Rusu Ion           │porcine│Brasov, str. Lalelelor nr. 8, sc. A, ap. 12,   │1671122080023│
+│18. │Rusu Ion           │porcine│Brasov, [adresa omisă],   │[CNP omis]│
 │    │                   │       │jud. Brasov                                    │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│19. │Tanase Dan         │porcine│sat Tantareni nr. 366, com. Blejoi,            │1730322429135│
+│19. │Tanase Dan         │porcine│[adresa omisă], com. Blejoi,            │1730322429135│
 │    │                   │       │jud. Prahova                                   │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│20. │Munteanu Petre     │porcine│Bacau, str. Cornisa─Bistrita nr. 13, bl. 13,   │1500619040048│
-│    │                   │       │sc. B, ap. 6                                   │             │
+│20. │Munteanu Petre     │porcine│Bacau, [adresa omisă],   │[CNP omis]│
+│    │                   │       │[adresa omisă]                                   │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│21. │Carcu Codrina      │porcine│Bacau, str. Banca Naționala nr. 33, ap. 11     │2770503040095│
+│21. │Carcu Codrina      │porcine│Bacau, [adresa omisă]     │[CNP omis]│
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│22. │Tanase Luiza Ioana │porcine│Oltenita, str. Pescarilor nr. 95, jud. Calarasi│2570210511665│
+│22. │Tanase Luiza Ioana │porcine│Oltenita, [adresa omisă], jud. Calarasi│[CNP omis]│
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│23. │Gogan Marian       │porcine│Slobozia, str. Ardealului bl. 5, sc. B, ap. 19,│1670703213038│
+│23. │Gogan Marian       │porcine│Slobozia, [adresa omisă],│[CNP omis]│
 │    │                   │       │jud. Ialomita                                  │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│24. │Bucur Mihail       │porcine│Rosiori de Vede, str. Dorobanti nr. 32,        │1650601131223│
+│24. │Bucur Mihail       │porcine│Rosiori de Vede, [adresa omisă],        │[CNP omis]│
 │    │                   │       │jud. Teleorman                                 │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│25. │Rosa Mihail Iuliu  │porcine│Sibiu, bd. Victoriei nr. 70, jud. Sibiu        │1620626323958│
+│25. │Rosa Mihail Iuliu  │porcine│Sibiu, [adresa omisă], jud. Sibiu        │[CNP omis]│
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│26. │Farcas Mihai       │porcine│Sibiu, str. Valea Aurie nr. 4, sc. B, ap. 12,  │1561108323919│
+│26. │Farcas Mihai       │porcine│Sibiu, [adresa omisă],  │[CNP omis]│
 │    │                   │       │jud. Sibiu                                     │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│27. │Smeureanu Sergiu   │porcine│Sibiu, str. Uzinei nr. 15, ap. 16, jud. Sibiu  │1810903324788│
+│27. │Smeureanu Sergiu   │porcine│Sibiu, [adresa omisă], jud. Sibiu  │[CNP omis]│
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│28. │Petrescu Sorin     │porcine│Otopeni, str. Traian nr. 6, bl. P16, ap. 2     │1620802400173│
+│28. │Petrescu Sorin     │porcine│Otopeni, [adresa omisă]     │[CNP omis]│
 │    │Mihai              │       │                                               │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│29. │Chis Maria         │porcine│Calarasi, str. Flacara, bl. B2, ap. 1,         │2620118510018│
+│29. │Chis Maria         │porcine│Calarasi, [adresa omisă],         │[CNP omis]│
 │    │                   │       │jud. Calarasi                                  │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│30. │Costea Marian      │porcine│Calarasi, str. Borcea nr. 5, bl. L18, ap. 12,  │1771114510013│
+│30. │Costea Marian      │porcine│Calarasi, [adresa omisă],  │[CNP omis]│
 │    │                   │       │jud. Calarasi                                  │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│31. │Bratuscu Alexandru │porcine│Calarasi, str. București nr. 17, bl. D26,      │1680708510011│
-│    │                   │       │ap. 13, jud. Calarasi                          │             │
+│31. │Bratuscu Alexandru │porcine│Calarasi, [adresa omisă],      │[CNP omis]│
+│    │                   │       │[adresa omisă], jud. Calarasi                          │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│32. │Fratila            │porcine│Targu Jiu, bd. Ecaterina Teodoroiu bl. 105B,   │2750326182805│
-│    │Ileana─Felicia     │       │sc. 2, ap. 14, jud. Gorj                       │             │
+│32. │Fratila            │porcine│Targu Jiu, [adresa omisă],   │[CNP omis]│
+│    │Ileana─Felicia     │       │[adresa omisă], jud. Gorj                       │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│33. │Zoriti Marin       │porcine│Arad, str. Olimpiadei nr. 6, ap. 4, jud. Arad  │1440101020124│
+│33. │Zoriti Marin       │porcine│Arad, [adresa omisă], jud. Arad  │[CNP omis]│
 │    │Leonard            │       │                                               │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│34. │Simoiu Adrian      │porcine│com. Gradinari, jud. Olt                       │1790930381484│
+│34. │Simoiu Adrian      │porcine│com. Gradinari, jud. Olt                       │[CNP omis]│
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│35. │Micli Ioan─Dan     │porcine│Slatina, bd. N. Titulescu nr. 24, bl. 24,      │1781227287123│
-│    │                   │       │et. 4, jud. Olt                                │             │
+│35. │Micli Ioan─Dan     │porcine│Slatina, [adresa omisă],      │[CNP omis]│
+│    │                   │       │[adresa omisă], jud. Olt                                │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│36. │Ulici Sergiu Viorel│porcine│București, str. Gheorghe Valsan nr. 10,        │1770802461520│
-│    │                   │       │bl. 108, ap. 23                                │             │
+│36. │Ulici Sergiu Viorel│porcine│București, [adresa omisă],        │[CNP omis]│
+│    │                   │       │[adresa omisă]                                │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│37. │Georgescu Ioan     │porcine│Sf. Gheorghe, str. Salcamilor nr. 24,          │1400418141048│
+│37. │Georgescu Ioan     │porcine│Sf. Gheorghe, [adresa omisă],          │[CNP omis]│
 │    │                   │       │jud. Covasna                                   │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│38. │Burcioiu Marin     │porcine│Pitesti, str. Garlei nr. 2, bl. P16a, ap. 3,   │1700909287127│
+│38. │Burcioiu Marin     │porcine│Pitesti, [adresa omisă],   │[CNP omis]│
 │    │                   │       │jud. Arges                                     │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│39. │Constantin Mihaela │porcine│com. Peris, jud. Ilfov                         │2700713470058│
+│39. │Constantin Mihaela │porcine│com. Peris, jud. Ilfov                         │[CNP omis]│
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│40. │Tatu Elena         │porcine│com. Niculesti, sat Movila, jud. Dambovita     │2740419151826│
+│40. │Tatu Elena         │porcine│com. Niculesti, sat Movila, jud. Dambovita     │[CNP omis]│
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│41. │Vulpe Daniela      │porcine│Crevedia, jud. Ilfov                           │2760624290073│
+│41. │Vulpe Daniela      │porcine│Crevedia, jud. Ilfov                           │[CNP omis]│
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│42. │Cristea Constantin │porcine│com. Peris, jud. Ilfov                         │1541018400871│
+│42. │Cristea Constantin │porcine│com. Peris, jud. Ilfov                         │[CNP omis]│
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│43. │Orheanu Adrian     │porcine│Braila, str. Odesa nr. 6, bl. B28, ap. 23,     │1690719090056│
+│43. │Orheanu Adrian     │porcine│Braila, [adresa omisă],     │[CNP omis]│
 │    │                   │       │jud. Braila                                    │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│44. │Visan Lica         │porcine│București, Al. Pantelimon nr. 6, bl. 8, ap. 48,│1700415212967│
+│44. │Visan Lica         │porcine│București, [adresa omisă],│[CNP omis]│
 │    │                   │       │sect. 2                                        │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│45. │Alexopoulos Lidia  │porcine│București, str. Rotunda 7, bl. H20, sc. 1,     │2701213434518│
-│    │                   │       │ap. 4, sect. 3                                 │             │
+│45. │Alexopoulos Lidia  │porcine│București, [adresa omisă],     │[CNP omis]│
+│    │                   │       │[adresa omisă], sect. 3                                 │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│46. │Aporcariti Doinita │porcine│Brasov, str. Panselutei nr. 13, jud. Brasov    │2610114081967│
+│46. │Aporcariti Doinita │porcine│Brasov, [adresa omisă], jud. Brasov    │[CNP omis]│
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│47. │Blidarescu Florin  │porcine│București, str. Toamnei nr. 107, sect. 2       │1560728400050│
+│47. │Blidarescu Florin  │porcine│București, [adresa omisă], sect. 2       │[CNP omis]│
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│48. │Fegyverneky Sandor │porcine│com. Alunis, sat Alunis, jud. Mures            │1750916261496│
+│48. │Fegyverneky Sandor │porcine│com. Alunis, sat Alunis, jud. Mures            │[CNP omis]│
 │    │Joszef             │       │                                               │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│49. │Pruna Corvin       │porcine│Fagaras, str. Vasile Alecsandri nr. 17,        │1530404082436│
+│49. │Pruna Corvin       │porcine│Fagaras, [adresa omisă],        │[CNP omis]│
 │    │                   │       │jud. Brasov                                    │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│50. │Cioroiu Nicolae    │porcine│Braila, b─dul. Independentei nr. 12 jud. Braila│1551205212955│
+│50. │Cioroiu Nicolae    │porcine│Braila, b─dul. Independentei nr. 12 jud. Braila│[CNP omis]│
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│51. │Neaga Mihai Viorel │porcine│București, str. Gh. Tatarescu nr. 4, sect. 3   │1730211433029│
+│51. │Neaga Mihai Viorel │porcine│București, [adresa omisă], sect. 3   │[CNP omis]│
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│52. │Ecobici Ion        │porcine│com. Razvad, sat Valea Voievozilor, Dambovita  │1501015151779│
+│52. │Ecobici Ion        │porcine│com. Razvad, sat Valea Voievozilor, Dambovita  │[CNP omis]│
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│53. │Bocanescu Leontin  │porcine│com. Starchiojd nr. 25, jud. Prahova           │1650614297293│
+│53. │Bocanescu Leontin  │porcine│com. Starchiojd nr. 25, jud. Prahova           │[CNP omis]│
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│54. │Tanase Tiberia     │porcine│Oltenita, str. Pescarilor nr. 95, jud. Calarasi│2791114511662│
+│54. │Tanase Tiberia     │porcine│Oltenita, [adresa omisă], jud. Calarasi│[CNP omis]│
 │    │Alina              │       │                                               │             │
 ├────┼───────────────────┼───────┼───────────────────────────────────────────────┼─────────────┤
-│55. │Vasilarie Gherghina│porcine│Oltenita, b─dul. Tineretului nr. 251           │2670809511670│
+│55. │Vasilarie Gherghina│porcine│Oltenita, b─dul. Tineretului nr. 251           │[CNP omis]│
 └────┴───────────────────┴───────┴───────────────────────────────────────────────┴─────────────┘
 ```
 ________________
